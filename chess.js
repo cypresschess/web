@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Belarus National Youth Chess event &#8220;Belaya Ladya 2021&#8221; Finals concluded today in Minsk. The event gathered 14 teams and 56 young players aged U14. After 7 played rounds according to Swiss system, the Winner Teams are: &#8220;Orsha 13&#8221; 13 match points &#8220;Rogachev Gymnasium&#8221; 9 match points &#8220;Minsk Gymnasium&#8221; 8 match points During the Closing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/belarus-belaya-ladya-2021-finals/",
+         "pubDate" : "Fri, 07 May 2021 16:35:43 +0000",
+         "title" : "Belarus \"Belaya Ladya 2021\" Finals"
+      },
+      {
+         "description" : "Mitropa Chess Cup 2021, the annual team chess tournament for national teams from Central Europe. This year, the Mitropa Cup is played as an Online hybrid event with participation of 10 teams competing in Women's and Open's section separately: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Live games from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-chess-cup-2021-live/",
+         "pubDate" : "Fri, 07 May 2021 16:06:22 +0000",
+         "title" : "Mitropa Chess Cup 2021 LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz gives his take on sacrificing one's knight on d5, usually from the Sicilian Defense. See when it's good and when it's bad. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q5q6OYuk6sA.jpg?itok=ltuvC0aP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0",
+         "pubDate" : "Fri, 07 May 2021 15:38:42 +0000",
+         "title" : "The Nd5 Sacrifice! | Grandmaster's Choice - GM Dariusz Swiercz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz reviews the games of Radoslaw Wojtaszek from the ongoing 2021 Polish Chess Championship. See the first game of the final match of the 16-player knockout between Wojtaszek and Wojciech Moranda. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz",
+         "pubDate" : "Fri, 07 May 2021 15:38:42 +0000",
+         "title" : "Wojtaszek in the 2021 Polish Championship | Games of the Week - GM Dariusz Swiercz"
+      },
+      {
          "description" : " In his interview with the Live Breakdown Show, Ilya Merenzon, the CEO of World Chess, discussed the impact that The Queen's Gambit had on chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/f1aGHrqbddE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -386,22 +418,6 @@ news_feed (
          "title" : "\"Iron Horsemen\" lead Russian Team Championship"
       },
       {
-         "description" : "The Women's Candidates Chess Tournament 2022 qualifying path has been approved by the FIDE Council. The Women's Candidates will be an eight player double round robin event, copying the format of the open Candidates which just finished. Women's Candidates Chess 2022 1 player from the FIDE WC Match 2020, Runner-up (GM Aleksandra Goryachkina) 2 players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-chess-2022/",
-         "pubDate" : "Wed, 05 May 2021 15:23:34 +0000",
-         "title" : "Women's Candidates Chess 2022"
-      },
-      {
-         "description" : "ITT Fenamac Mexico chess events launch today in Mexico city within 3 groups: A, B and C, as round-robin 10 players tournaments. Participants of group A:GM Henriquez Villagra Cristobal (CHI 2600)GM Shabalov Alexander 2008572 (USA 2528)GM Obregon Rivero Juan Carlos (CUB 2520)GM Yermolinsky Alex (USA 2486)GM Ibarra Chami Luis Fernando (MEX 2447)FM Cardoso Cardoso Jose []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/itt-fenamac-mexico-chess-events/",
-         "pubDate" : "Wed, 05 May 2021 14:36:51 +0000",
-         "title" : "ITT FENAMAC Mexico Chess events"
-      },
-      {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply. There are new...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -448,22 +464,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/bruce-pandolfini-nepo-might-win-the-match/",
          "pubDate" : "Wed, 05 May 2021 08:58:01 +0000",
          "title" : "Bruce Pandolfini: Nepo Might Win the Match"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/strange-unique-chess-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j2g7W93b9bk.jpg?itok=XqBA8Ncq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/strange-unique-chess-puzzles-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 05 May 2021 03:36:30 +0000",
-         "title" : "Strange & Unique Chess Puzzles | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz teaches a chess endgame class. 2021.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/new-chess-classic-insane-endgame-gm-dariusz-swiercz-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NjeDt9tvvNU.jpg?itok=QAUOoSGw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/new-chess-classic-insane-endgame-gm-dariusz-swiercz-lichessorg",
-         "pubDate" : "Wed, 05 May 2021 00:36:27 +0000",
-         "title" : "New in Chess Classic | Insane in the Endgame - GM Dariusz Swiercz | lichess.org"
       },
       {
          "description" : " The Lasker Method to Improve in Chess : Gerard Welling and Steve Giddins From the book's rear cover : &#8220;Many club players think that studying chess is all about cramming as much information in their brain as they can. Most textbooks support that notion by stressing the importance of always trying to find the objectively best <a href=\"http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Lasker Method to Improve in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/\">The Lasker M",
@@ -2288,22 +2288,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/17/improve-your-life-by-playing-a-game/",
          "pubDate" : "Sat, 17 Apr 2021 00:10:04 +0000",
          "title" : "Improve Your Life by Playing a Game"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week some topics are the gender gap, and if it even exists, who Max Bluemich is, and what his connection to Alekhine is, and of course who will win the Candidates Tournament. Caruana, or Giri?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-3",
-         "pubDate" : "Fri, 16 Apr 2021 19:06:02 +0100",
-         "title" : "The ChessBase News Review (09.04. - 16.04.)"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King continues to look at the World Championship match Capablanca-Lasker played 100 years ago in Havana and invites you to find out whether you can play like Capablanca. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-can-you-play-like-capablanca",
-         "pubDate" : "Fri, 16 Apr 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Can you play like Capablanca?"
       }
    ]
 }
