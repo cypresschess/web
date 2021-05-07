@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Garry Kasparov weighs in on the coming match between Magnus Carlsen and his challenger, Ian Nepomniachtchi. It looks like what I would call the conventional wisdom, but as there's a difference between someone like me offering it and hearing it from (maybe) the GOAT, it's worth <a href=\"https://www.youtube.com/watch?v=JFVzbZ9tsWM\">hearing it from the horse's mouth</a> (to [deliberately] mix the zoological metaphors). ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/7/kasparov-on-the-carlsen-nepomniachtchi-match.html",
+         "pubDate" : "Fri, 07 May 2021 21:13:00 +0000",
+         "title" : "Kasparov on the Carlsen-Nepomniachtchi Match"
+      },
+      {
          "description" : "Belarus National Youth Chess event &#8220;Belaya Ladya 2021&#8221; Finals concluded today in Minsk. The event gathered 14 teams and 56 young players aged U14. After 7 played rounds according to Swiss system, the Winner Teams are: &#8220;Orsha 13&#8221; 13 match points &#8220;Rogachev Gymnasium&#8221; 9 match points &#8220;Minsk Gymnasium&#8221; 8 match points During the Closing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1762,14 +1770,6 @@ news_feed (
          "title" : "Candidates Round 11: Giri in sole second place after brilliant win"
       },
       {
-         "description" : " Ian Nepomniachtchi's lead has shrunk back down to half a point with three rounds to go in the Candidates, thanks to Anish Giri's attacking win over Ding Liren. Nepomniachtchi played it safe with White against Fabiano Caruana, opting for the ultra-solid Scotch Four Knights. It wasn't much of a test for Caruana, but Nepo apparently felt it was okay to give up a white game against one of his closest pursuers and the event's rating favorite. Caruana remains a point out of first. That left the way clear for Giri and Maxime Vachier-Lagrave to possibly close to within half a point. Giri did it, though not without some anxious moments. Ding played very well on the black side of a Delayed Ruy Lopez ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/23/20201-candidates-round-11-giri-closes-the-gap.html",
-         "pubDate" : "Sat, 24 Apr 2021 03:27:44 +0000",
-         "title" : "2020/1 Candidates, Round 11: Giri Closes the Gap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1890,14 +1890,6 @@ news_feed (
          "title" : "Candidates Tournament: Nepomniachtchi beats Alekseenko, remains in lead after Round 10"
       },
       {
-         "description" : " Four rounds are still enough time for the three gentlemen tied for second place to catch up to Ian Nepomniachtchi - after all, Maxime Vachier-Lagrave was able to make up that one point gap in their head-to-head game in the last round of the first cycle. But it's not a lot of time, and if he increases the lead in the next round it's probably as good as over. We'll see what happens in round 11, after the rest day; for now, let's summarize round 10. As indicated in the subject line, Nepomniachtchi extended his lead to a full point, taking full advantage of having the white pieces against the lowest-rated player in the field. Kirill Alekseenko seemed completely unprepared for what Nepo played -",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/21/20201-candidates-round-10-nepomniachtchi-pushes-the-lead-to.html",
-         "pubDate" : "Thu, 22 Apr 2021 02:53:13 +0000",
-         "title" : "2020/1 Candidates, Round 10: Nepomniachtchi Pushes The Lead to a Full Point"
-      },
-      {
          "description" : "In the only decisive game of round 10, Ian Nepomniachtchi widened the gap at the top of the standings by beating Kirill Alekseenko in 31 moves. Russia's number one thus goes into the final four rounds a full point ahead of Fabiano Caruana, Anish Giri and Maxime Vachier-Lagrave. Thursday will be a rest day. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-kid-2021-yscc",
          "pubDate" : "Tue, 20 Apr 2021 14:13:00 -0700",
          "title" : "ChessKid Announces 2021 Youth Speed Chess Championship"
-      },
-      {
-         "description" : "GM Anish Giri defeated GM Wang Hao in round nine of the FIDE Candidates Tournament in Yekaterinburg. The Dutchman joined GM Fabiano Caruana and GM Maxime Vachier-Lagrave in second place. The trio is half a point behind GM Ian Nepomniachtchi, who...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-chess-tournament-round-9",
-         "pubDate" : "Tue, 20 Apr 2021 12:16:00 -0700",
-         "title" : "FIDE Candidates Tournament: Giri Strikes, Moves Into Second-Place Tie"
       },
       {
          "description" : " In chess a lot is about proper memorization. Not only opening lines, but important endgames and patterns should be stored in our brain. On day X you then need to retrieve a line, a pattern or how to mate with Bishop and Knight. But how can you properly memorize this overload of information? The answer [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/ask-why/\">How To Remember Anything: Ask Why</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
