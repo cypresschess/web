@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Season 21 of the Top Chess Engine Championship is starting this May 10th at 17:00 UTC. The event will start with the Qualification League, progress through L4, L3, L2 and L1 stages, and culminate with the Premier Division and the Superfinal. One of the key elements of TCEC is the opening book. Playing at a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jeroen-noomen-and-gm-matthew-sadler-announce-tcec-s21-superfinal-book-cooperation/",
+         "pubDate" : "Sat, 08 May 2021 14:01:17 +0000",
+         "title" : "Jeroen Noomen and GM Matthew Sadler announce TCEC S21 superfinal book cooperation"
+      },
+      {
+         "description" : " While there was a lot of work put into developing the FIDE rules for Hybrid Chess (including work done by myself), how it would actually work was a different issue. Thus year has seen a few hybrid events, and while it has generally worked well, there have been a few issues of note. The 2021 Oceania Zonal was held over 2 weekends, with players from around the Pacific. Weirdly, the challenge wasn't getting the players to enter, but finding enough arbiters. There were 20 officials for 8 players(!), which was an unexpected feature. On reflection this should have been obvious, given the need for 1 or 2 venues for each player, but for an event which usually get's by with 2 or 3 arbiters, this was",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/hybrid-chess-is-mixed-bag.html",
+         "pubDate" : "Sat, 08 May 2021 13:48:00 +0000",
+         "title" : "Hybrid Chess is a mixed bag"
+      },
+      {
          "description" : "Four (out of nine) rounds of the Mitropa Cup have alerady been played. After a 3-1 victory over Hungary in round four, the German team is currently in second place, only one team point behind the leading Czechs. In the women's category, Italy has won every single match so far and has a two-point lead over Hungary and Germany. | Photos: Claudia M&uuml;nstermann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-strategy-was-not-to-lose-eteri-kublashvili-interviews-ian-nepomniachtchi",
          "pubDate" : "Thu, 06 May 2021 15:00:00 +0100",
          "title" : "\"The strategy was not to lose\" - Eteri Kublashvili interviews Ian Nepomniachtchi"
-      },
-      {
-         "description" : "Jon Kristian Haarr is the General Manager of the Offerspill Chess Club in Norway. In a detailed interview for Chessdom.com he discusses the history of the club, the innovative approach of the Offerspill Online League, the recent first edition of the new season, the role and importance of Magnus Carlsen in the club, and more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/offerspill-chess-club-interview-with-jon-kristian-haarr/",
-         "pubDate" : "Thu, 06 May 2021 13:49:16 +0000",
-         "title" : "Offerspill Chess Club - interview with Jon Kristian Haarr"
       },
       {
          "description" : "FIDE is pleased to announce that following the tremendous success of the first edition, the Intercontinental ChessKid FIDE Challenge will return. The second edition will...",
@@ -896,6 +904,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/looking-back-at-the-recent-space-chess-game/",
          "pubDate" : "Sat, 01 May 2021 10:15:43 +0000",
          "title" : "Looking Back at the Recent Space Chess Game"
+      },
+      {
+         "description" : "The English Chess Federation (ECF) have partnered with GoMembership to provide thousands of discounts on offer from over 270 of your favourite online and high...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-gomembership-scheme-launch/",
+         "pubDate" : "Sat, 01 May 2021 08:00:24 +0000",
+         "title" : "New ECF/GoMembership Scheme launches"
       },
       {
          "description" : "The celebrated chess Grandmaster and author, Jacques Mieses, on arriving in England during the 1930s as a Jewish refugee from Nazi Germany, was allegedly greeted by reporters with the question: \"Are you Mister Mises?\" To which he shot back: \"Nein, ich bin Meister Meeses!\" Mieses had sensibly fled from a regime which had just cancelled his name []",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/candidates2020/?utm_source=rss&utm_medium=rss&utm_campaign=candidates2020",
          "pubDate" : "Sat, 17 Apr 2021 16:30:00 +0000",
          "title" : "My Take On The Candidates"
-      },
-      {
-         "description" : "Chess players who ventured to go Belgrade this April are spoilt for choice among chess events which take place literally every single day of the month. We are halfway through the Belgrade Chess Spring Festival that has started on 2 April and will finish on 30 April. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/april-chess-bonanza-in-belgrade",
-         "pubDate" : "Sat, 17 Apr 2021 14:00:00 +0100",
-         "title" : "April Chess Bonanza in Belgrade"
       }
    ]
 }
