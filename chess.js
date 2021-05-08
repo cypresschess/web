@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four (out of nine) rounds of the Mitropa Cup have alerady been played. After a 3-1 victory over Hungary in round four, the German team is currently in second place, only one team point behind the leading Czechs. In the women's category, Italy has won every single match so far and has a two-point lead over Hungary and Germany. | Photos: Claudia M&uuml;nstermann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-round-4-czechia-in-the-lead",
+         "pubDate" : "Sat, 08 May 2021 13:00:00 +0100",
+         "title" : "Mitropa Cup, Round 4: Czechia and Italy in the lead"
+      },
+      {
+         "description" : "As regular readers of this column will know, the USSR created the mightiest state apparatus for the support of chess which the world has ever seen, or is likely to see. The engine for powering this enterprise was the USSR Chess Federation and the exploits of this imperium of the mind, for much of its []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-soviet-survivor-the-case-of-tigran-petrosian/",
+         "pubDate" : "Sat, 08 May 2021 09:00:01 +0000",
+         "title" : "A Soviet survivor: the case of Tigran Petrosian"
+      },
+      {
+         "description" : "The&#160;78th Polish Individual Open and 73rd Polish Individual Women Chess Championships 2021&#160;took place from April 24- May 8, 2021 in Bydgoszcz, Poland. The Open section event was played as a 16 players knockout tournament, where Wojtaszek Radoslaw and Moranda Wojciech entered the finals. After a tied result in the regular two games match, Wojtaszek took []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wojtaszek-and-kulon-win-polish-chess-championships-2021/",
+         "pubDate" : "Sat, 08 May 2021 08:53:28 +0000",
+         "title" : "Wojtaszek and Kulon win Polish Chess Championships 2021"
+      },
+      {
          "description" : "If Black plays 30...Nxc3 in the diagram position he attacks White's rook on b1 and opens the bishop's diagonal a8-g2. So, everything seems fine for Black - unless White can spoil the fun with 31.Bc5. Well, can he?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/catch-with-a-catch",
          "pubDate" : "Sat, 08 May 2021 09:00:00 +0100",
          "title" : "Catch with a catch!?"
+      },
+      {
+         "description" : "Nihal Sarin, Sethuraman, Abhijeet Gupta and Krishnan Sasikiran are all out of the Indian Qualifier for the Meltwater Champions Chess Tour after suffering surprise defeats to Arjun Erigaisi, Harsha Bharathakoti, Gukesh and Mitrabha Guha. The highlight of Saturday's quarterfinals is Adhiban-Praggnanandhaa, after both players came through matches that were hit by technical issues. Adhiban played to the crowd by employing 1.b3, the topic of his much-hyped but still unreleased Chessable series.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/adhiban-pragg-in-indian-qualifier-quarterfinals",
+         "pubDate" : "Sat, 08 May 2021 07:49:26 +0000",
+         "title" : "Adhiban-Pragg in Indian Qualifier quarterfinals"
       },
       {
          "description" : " Garry Kasparov weighs in on the coming match between Magnus Carlsen and his challenger, Ian Nepomniachtchi. It looks like what I would call the conventional wisdom, but as there's a difference between someone like me offering it and hearing it from (maybe) the GOAT, it's worth <a href=\"https://www.youtube.com/watch?v=JFVzbZ9tsWM\">hearing it from the horse's mouth</a> (to [deliberately] mix the zoological metaphors). ",
@@ -336,14 +368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qualification-for-fide-women-s-candidates-tournament-2022-announced",
          "pubDate" : "Thu, 06 May 2021 10:00:00 +0100",
          "title" : "Qualification for FIDE Women's Candidates Tournament 2022 announced"
-      },
-      {
-         "description" : "The Mitropa Cup Hybrid 2021 has started and although the games have shown how players haven't lost their habits playing standard chess, let's focus for a moment on the venues. As this edition is still influenced by the global pandemic, Federations have been asked to find a suitable location for the event. This means having []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/is-italy-taking-chess-to-the-next-level/",
-         "pubDate" : "Thu, 06 May 2021 03:13:00 +0000",
-         "title" : "Is Italy taking chess to the next level?"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Magnus Carlsen&#039;s victory over Hikaru Nakamura from 2013 Tata Steel in Wijk aan Zee, a round robin that the future world champion eventually won. 2021.05.05<br /> Magnus Carlsen vs Hikaru Nakamura, Tata Steel Group A (2013): B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1705534\">https://www.chessgames.com/perl/chessgame?gid=1705534</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "CBM 200: From Kasparov to Carlsen - A review by Nagesh Havanur"
       },
       {
-         "description" : "Today could be one of the big turning points in chess history, with Ian Nepomniachtchi in with a chance of wrapping up victory in the FIDE Candidates Tournament with a round to spare to become the next World Championship Challenger for Magnus Carlsen. That's not the only chess around, however, with Magnus himself in action in the New in Chess Classic. To mark that event, Sean Marsh looks back at some of the great moments in chess history, starting with 21st November 2013, when Magnus won the World Championship title for the first time.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/great-moments-in-chess-carlsen-crowned",
-         "pubDate" : "Mon, 26 Apr 2021 08:22:36 +0000",
-         "title" : "Great Moments in Chess: Carlsen Crowned"
-      },
-      {
          "description" : "GM Magnus Carlsen took the lead at the New in Chess Classic on day two of the preliminaries. With an undefeated 7/10, Carlsen is half a point ahead of GMs Hikaru Nakamura (also unbeaten) and GM Alireza Firouzja. How to watch?The games of the New...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2256,22 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/april-chess-bonanza-in-belgrade",
          "pubDate" : "Sat, 17 Apr 2021 14:00:00 +0100",
          "title" : "April Chess Bonanza in Belgrade"
-      },
-      {
-         "description" : "The names of Paul Morphy and Bobby Fischer have appeared prominently in many of my columns for TheArticle. Both are legendary figures in the annals of chess, whom numerous fans would doubtless vote in as number one, in any list of the all time greats. Yet these titans of the game share one curious characteristic: having scaled the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/american-chess-meteors/",
-         "pubDate" : "Sat, 17 Apr 2021 08:00:43 +0000",
-         "title" : "American chess meteors"
-      },
-      {
-         "description" : "In the diagram position, 32...Qf3+! 33.Kh3 would have led to victory for Black, a \"wow move\" included. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/missed-knockout",
-         "pubDate" : "Sat, 17 Apr 2021 09:00:00 +0100",
-         "title" : "Missed knockout"
       }
    ]
 }
