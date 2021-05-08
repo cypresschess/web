@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Radoslaw Wojtaszek and Klaudia Kulon prevailed in the open and women's sections of the 2021 Polish Championships, played over the board in Bydgoszcz. This was Wojtaszek's fourth victory in the national championship, while Kulon won the women's title for the first time in her career. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wojtaszek-kulon-win-polish-championships-2021",
+         "pubDate" : "Sat, 08 May 2021 19:00:00 +0100",
+         "title" : "Wojtaszek and Kulon prevail at the Polish Championships"
+      },
+      {
+         "description" : "Swedish WFM Anna Cramling played her last over-the-board chess event in January 2020, but now she showed us how close she is to continue with Over-the-board chess! We certainly laughed with Anna's good humor, but we really do hope to see her over the board soon!",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-cramling-plays-otb-after-a-while-tweetoftheday/",
+         "pubDate" : "Sat, 08 May 2021 16:14:20 +0000",
+         "title" : "Anna Cramling plays OTB after a while! #TweetOftheDay"
+      },
+      {
+         "description" : "Uganda World Cup Qualifiers Chess Tournament 2021 has started today in Kampala. The best six Ugandan chess players compete in the event fighting for the World Cup 2021 ticket and the top seed is IM Ssegwanyi Arthur. Read more: Arthur Ssegwanyi wins FIDE zone 4-2 qualifiers for Baku World Cup Starting rank list of players: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uganda-world-cup-qualifiers-chess-tournament-2021/",
+         "pubDate" : "Sat, 08 May 2021 16:00:34 +0000",
+         "title" : "Uganda World Cup Qualifiers Chess Tournament 2021"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a chess game where Nigel Short got the best of the greatest ever, Garry Kasparov, in a 1993 King&#039;s Gambit thematic exhibition in London. 2021.04.28<br /> Nigel Short vs Garry Kasparov, Exhibition Game (thematic) (1993): C33 King&#039;s Gambit Accepted, bishop&#039;s gambit, Bryan counter-gambit<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070668\">https://www.chessgames.com/perl/chessgame?gid=1070668</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nigel-short-beats-garry-kasparov-15-moves-shorts",
+         "pubDate" : "Sat, 08 May 2021 15:40:16 +0000",
+         "title" : "Nigel Short Beats Garry Kasparov in 15 Moves! | #Shorts"
+      },
+      {
+         "description" : "Belarus Chess Championships 2021 launched today in Minsk! 23 participants play a 9 rounds Swiss tournament in the Open section event, and the battlefield is led by GM Aleksandrov Aleksej, GM Fedorov Alexei and GM Stupak Kirill. Read more: Belarus Chess Championship 2018 Full list of participants- Belarus Open Chess Championship 2021: No. &#160; Name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/belarus-chess-championships-2021/",
+         "pubDate" : "Sat, 08 May 2021 15:33:44 +0000",
+         "title" : "Belarus Chess Championships 2021"
+      },
+      {
          "description" : "Season 21 of the Top Chess Engine Championship is starting this May 10th at 17:00 UTC. The event will start with the Qualification League, progress through L4, L3, L2 and L1 stages, and culminate with the Premier Division and the Superfinal. One of the key elements of TCEC is the opening book. Playing at a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/hybrid-chess-is-mixed-bag.html",
          "pubDate" : "Sat, 08 May 2021 13:48:00 +0000",
          "title" : "Hybrid Chess is a mixed bag"
+      },
+      {
+         "description" : "The Iron Horsemen from Saint Petersburg continue to dominate the Russian Premier League. In round 6, they defeated Gogolevsky 14 by a dominating 4&frac12;-1&frac12; score, their fifth consecutive win. In the women's tournament, Team Moscow is also undefeated, having scored victories in all six rounds. | Round 7 starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
+         "pubDate" : "Sat, 08 May 2021 13:45:00 +0100",
+         "title" : "Russian Premier League - Live!"
       },
       {
          "description" : "Four (out of nine) rounds of the Mitropa Cup have alerady been played. After a 3-1 victory over Hungary in round four, the German team is currently in second place, only one team point behind the leading Czechs. In the women's category, Italy has won every single match so far and has a two-point lead over Hungary and Germany. | Photos: Claudia M&uuml;nstermann",
@@ -112,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-best-combinations-from-cbm-201",
          "pubDate" : "Fri, 07 May 2021 16:00:00 +0100",
          "title" : "The best combinations from ChessBase Magazine #201"
-      },
-      {
-         "description" : "After five rounds two teams lead the open tournament of the Russian Team Championships in Sochi: the \"Iron Horsemen\" of St. Petersburg and the \"Gogolevsky 14\" team from Moscow. However, the team from St. Petersburg has played one match less than the Muscovites. In the women's tournament \"Team Moscow\" is sole and dominant leader - they won all of their five matches. Round 6 starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
-         "pubDate" : "Fri, 07 May 2021 13:45:00 +0100",
-         "title" : "Russian \"Premiere League\" live"
       },
       {
          "description" : "",
@@ -234,22 +274,6 @@ news_feed (
          "title" : "Chicago hosts 2021 North American Youth Chess Championship"
       },
       {
-         "description" : "Indian Qualifiers Chess event will take place from 7th-10th May 2021 through chess24, as a qualification tournament for the Meltwater Champions Chess Tour. The event gathers 16 participants playing a knockout tournament and the best ranked two players will qualify for a Tour event: GM Adhiban Baskaran 2660 GM Sasikiran Krishnan 2647 GM Sethuraman S.P. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/indian-qualifiers-for-the-meltwater-champions-chess-tour/",
-         "pubDate" : "Thu, 06 May 2021 21:11:50 +0000",
-         "title" : "Indian Qualifiers for the Meltwater Champions Chess Tour"
-      },
-      {
-         "description" : "Nigerian news portal Today.ng reported today about children learning chess to seek escape from Nigeria's slums. Today.ng tells the story of Michael Omoyele, who at the age of 14 has already dealt with food scarcity and needed to work to be able to feed himself. Read the full article here. Read more- Nigerian refugee Tani []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kings-of-lagos-nigeria/",
-         "pubDate" : "Thu, 06 May 2021 20:34:41 +0000",
-         "title" : "Kings of Lagos/Nigeria"
-      },
-      {
          "description" : "FIDE and Chess.com are excited to announce the 2021 Women&#39;s Speed Chess Championship, an online competition for top female chess players worldwide. The main event will happen from June 10 to July 3, preceded by eight qualifiers from May 28 to June...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/sixty-four-squares.html",
          "pubDate" : "Thu, 06 May 2021 14:11:00 +0000",
          "title" : "Sixty four squares"
-      },
-      {
-         "description" : "Russian juniors and trainers, members of the Russian National team that won the 1st FIDE Online Olympiad, were awarded in the Educational Centre &#8220;Sirius&#8221; in Sochi for their contribution to the victory of the Russian national team. Among the awarded players were Andrey Esipenko, Polina Shuvalova, Alexey Sarana and Margarita Potapova, graduates of the chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rewards-for-russian-juniors-and-trainers/",
-         "pubDate" : "Thu, 06 May 2021 14:05:46 +0000",
-         "title" : "Rewards for Russian Juniors and Trainers"
       },
       {
          "description" : "Ian Nepomniachtchi won the Candidates Tournament 2020/2021, and in November he will play against Magnus Carlsen for the world title. In an extensive interview with Eteri Kublashvili after the Candidates, Nepomniachtchi talked about his preparations for the second part of the Candidates and revealed why he once was so frustrated during his preparations that he threw his \"iPhone into the wall\". He also talked about his key to success, Magnus Carlsen - \"a very nice dude\" - and why \"there is never enough time to prepare\". | Photo: Lennart Ootes",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-i-nepomniachtchi-vs-k-alekseenko",
          "pubDate" : "Wed, 05 May 2021 17:00:00 +0100",
          "title" : "Game of the Week: I. Nepomniachtchi vs K. Alekseenko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Support us on Thursday, May 6 during Give STL Day! It is the mission of the Saint Louis Chess Club, an educational organization, to maintain a formal program of instruction to teach the game of chess and to promote and support its educational program through community outreach and local and national partnerships to increase the awareness of the educational value of chess. Don't want to wait? Donate early and learn more about us at givestlday.org/saintlouischessclub. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/give-stl-day-may-6-2021",
-         "pubDate" : "Wed, 05 May 2021 15:36:46 +0000",
-         "title" : "Give STL Day: May 6, 2021"
       },
       {
          "description" : "In the Russian Team Championship in Sochi, Mednyi Vsadnik St. Petersburg defended its lead by defeating KPRF Moscow in round 4. In the women's tournament, Chess Team Moscow, with Kateryna Lagno, Polina Shuvalova and Alexandra Kosteniuk on the top boards, won its fourth match in a row and is clear first. | Photos: Russian Chess Federation",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/17/ecf-official-chess-yearbook-2021/",
          "pubDate" : "Sat, 17 Apr 2021 19:41:42 +0000",
          "title" : "ECF Official Chess Yearbook 2021"
-      },
-      {
-         "description" : "Former World Chess Champion Garry Kasparov and global media company Vivendi announced today the launch of Kasparovchess.com, a new multimedia content platform for chess lovers of all skill levels, built to offer features for all players, whether they are enthusiasts or beginners. It includs thousands of chess puzzles, online matches, in-depth tutorials, articles, documentaries, and even an exclusive masterclass with Kasparov himself. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vivendi-and-garry-kasparov-team-up",
-         "pubDate" : "Sat, 17 Apr 2021 18:00:00 +0100",
-         "title" : "Vivendi and Garry Kasparov team up"
-      },
-      {
-         "description" : " After a more than 1 year break the Candidates finally resume. This break did change many things, especially mentally. And that is why I think none of the two leaders at half time will win! In this article I will express my personal views, mostly based on the psychological aspect from the one year break. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/candidates2020/\">My Take On The Candidates</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/candidates2020/?utm_source=rss&utm_medium=rss&utm_campaign=candidates2020",
-         "pubDate" : "Sat, 17 Apr 2021 16:30:00 +0000",
-         "title" : "My Take On The Candidates"
       }
    ]
 }
