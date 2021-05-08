@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If Black plays 30...Nxc3 in the diagram position he attacks White's rook on b1 and opens the bishop's diagonal a8-g2. So, everything seems fine for Black - unless White can spoil the fun with 31.Bc5. Well, can he?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/catch-with-a-catch",
+         "pubDate" : "Sat, 08 May 2021 09:00:00 +0100",
+         "title" : "Catch with a catch!?"
+      },
+      {
          "description" : " Garry Kasparov weighs in on the coming match between Magnus Carlsen and his challenger, Ian Nepomniachtchi. It looks like what I would call the conventional wisdom, but as there's a difference between someone like me offering it and hearing it from (maybe) the GOAT, it's worth <a href=\"https://www.youtube.com/watch?v=JFVzbZ9tsWM\">hearing it from the horse's mouth</a> (to [deliberately] mix the zoological metaphors). ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
