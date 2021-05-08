@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1073",
+         "pubDate" : "Sat, 08 May 2021 23:16:46 +0000",
+         "title" : "African Individual Chess Championships announced"
+      },
+      {
+         "description" : "He learnt the rules of chess when he was two and a half years old. He became the youngest national expert at the age of seven, and the youngest National Master in the US at the age of nine. In late 2019, he beat R. Praggnanandhaa's record of becoming the youngest IM ever. Meet Abhimanyu Mishra, a youngster who lives in New Jersey, USA. Abhimanyu is an amazing talent and is now going after the record of becoming the youngest GM in history. In spite of the Covid pandemic. And you can help him achieve his goal!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/will-he-break-the-world-record",
+         "pubDate" : "Sat, 08 May 2021 21:52:52 +0100",
+         "title" : "Will he break the world record?"
+      },
+      {
          "description" : "Radoslaw Wojtaszek and Klaudia Kulon prevailed in the open and women's sections of the 2021 Polish Championships, played over the board in Bydgoszcz. This was Wojtaszek's fourth victory in the national championship, while Kulon won the women's title for the first time in her career. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,7 +306,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The aggressive Rossolimo Sicilian"
       },
       {
-         "description" : " Share!23 Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!27 Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/04/torre-v-adams.html",
          "pubDate" : "Sun, 18 Apr 2021 00:55:00 +0000",
          "title" : "Torre v Adams"
-      },
-      {
-         "description" : " From the publisher: &#8220;Thanks to the efforts of a dedicated team of people within the English Chess Federation, the ECF Yearbook 2021 is now available in PDF form via this link - https://www.englishchess.org.uk/wp-content/uploads/2021/03/Yearbook-2021-complete-medres.pdf * The printed version will follow in a little while; it will be free to Platinum members of the ECF and may <a href=\"http://britishchessnews.com/2021/04/17/ecf-official-chess-yearbook-2021/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">ECF Official Chess Yearbook 2021</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/17/ecf-offici",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/17/ecf-official-chess-yearbook-2021/",
-         "pubDate" : "Sat, 17 Apr 2021 19:41:42 +0000",
-         "title" : "ECF Official Chess Yearbook 2021"
       }
    ]
 }
