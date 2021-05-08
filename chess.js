@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/missed-knockout",
          "pubDate" : "Sat, 17 Apr 2021 09:00:00 +0100",
          "title" : "Missed knockout"
-      },
-      {
-         "description" : " From the author's introduction: &#8220;This book is partly designed as an autobiographical experience focusing on the processes that arise in the life of a chess player that have be translated into everyday life. In part, the book incorporates psychological theories that generally explain these processes, but overall it can be seen as a guide on <a href=\"http://britishchessnews.com/2021/04/17/improve-your-life-by-playing-a-game/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Life by Playing a Game</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/17/improve-your-life-by-playing-a-game/\">Im",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/17/improve-your-life-by-playing-a-game/",
-         "pubDate" : "Sat, 17 Apr 2021 00:10:04 +0000",
-         "title" : "Improve Your Life by Playing a Game"
       }
    ]
 }
