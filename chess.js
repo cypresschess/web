@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 26th instalment of his ChessBase show \"Understanding before Moving\", Herman shows examples of a good cooperation between queen and bishop. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-26-cooperation-between-queen-and-bishop",
+         "pubDate" : "Sun, 09 May 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 26: Cooperation between queen and bishop"
+      },
+      {
+         "description" : "The Russian Team Championships are being played on May 1-10 at the Hotel Zhemchuzhina in Sochi. Besides the Premier League, a 9-team round robin, the Women's League and the Higher League are taking place as Swiss tournaments. Both in the Premier League and the Women's Tournament, the clear favourites have managed to win all of their matches - the Mednyi Vsadnik (Iron Horsemen) led by Nikita Vitiugov and the Moscow Chess Team led by Kateryna Lagno. | Pictured: Aleksandra Goryachkina | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r7",
+         "pubDate" : "Sun, 09 May 2021 14:20:00 +0100",
+         "title" : "Favourites top the standings in Russian Team Championships"
+      },
+      {
+         "description" : " Over the weekend was a series of junior raining events, organised by the ACT Junior Chess League Secretary Kate Woodley. On Saturday a number of our new juniors players played in 3 round Round Robins, to get them used to playing longer time control chess. 25 players took part and was enjoyed by everyone, even those who missed out on winners medals. On Sunday, GM Anton Smirnov took on 18 of Canberra's higher rated juniors, in a good old fashioned simul. Simul's seem to be less common these days, although I am not sure of the reasons (probably online chess is to blame, but it may be something else). After 2 and half hours of play, Smirnov finished with 16 wins and 2 draws. He drew with Lachla",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/a-good-old-fashioned-simul.html",
+         "pubDate" : "Sun, 09 May 2021 12:59:00 +0000",
+         "title" : "A good old fashioned Simul"
+      },
+      {
+         "description" : "GM Sergei Zhigalko is a chess legend in Belarus. He earned his IM title in 2004, his GM title in 2007, and while in pursuit of the norms won the U14 World Chess Championship (in 2003) and the U18 European Chess Championship (in 2006). GM Zhigalko is national champion for his country in 2009, 2012, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-sergei-zhigalko-i-make-3-broadcasts-a-week-join-me/",
+         "pubDate" : "Sun, 09 May 2021 12:51:31 +0000",
+         "title" : "GM Sergei Zhigalko, \"I make 3 broadcasts a week, join me!\""
+      },
+      {
+         "description" : "After seven rounds, both in the Premier League and the Women's Tournament, the clear favourites have managed to win all of their matches - the Mednyi Vsadnik (Iron Horsemen) led by Nikita Vitiugov and the Moscow Chess Team led by Kateryna Lagno. Read the full report after round 7. | Round 8 starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
+         "pubDate" : "Sun, 09 May 2021 13:45:00 +0100",
+         "title" : "Russian Premier League - Live!"
+      },
+      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://chessimprover.com/little-maggie/",
          "pubDate" : "Sun, 09 May 2021 06:49:33 +0000",
          "title" : "Little Maggie"
+      },
+      {
+         "description" : " George Henry Mackenzie: Third US Chess Champion, 1870 From the publisher: Definitive biography of the strongest American chess player, which cover the year 1870. Author worked out all available American (and other) chess sources for this year (The Turf, Field, and Farm, Sunday Mercury, New York Albion, New York Clipper, all New York dailies, British <a href=\"http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">George Henry Mackenzie: Third US Chess Champion, 1870</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/09/ge",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/",
+         "pubDate" : "Sun, 09 May 2021 00:10:04 +0000",
+         "title" : "George Henry Mackenzie: Third US Chess Champion, 1870"
       },
       {
          "description" : "",
@@ -96,14 +144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/hybrid-chess-is-mixed-bag.html",
          "pubDate" : "Sat, 08 May 2021 13:48:00 +0000",
          "title" : "Hybrid Chess is a mixed bag"
-      },
-      {
-         "description" : "The Iron Horsemen from Saint Petersburg continue to dominate the Russian Premier League. In round 6, they defeated Gogolevsky 14 by a dominating 4&frac12;-1&frac12; score, their fifth consecutive win. In the women's tournament, Team Moscow is also undefeated, having scored victories in all six rounds. | Round 7 starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
-         "pubDate" : "Sat, 08 May 2021 13:45:00 +0100",
-         "title" : "Russian Premier League - Live!"
       },
       {
          "description" : "Four (out of nine) rounds of the Mitropa Cup have alerady been played. After a 3-1 victory over Hungary in round four, the German team is currently in second place, only one team point behind the leading Czechs. In the women's category, Italy has won every single match so far and has a two-point lead over Hungary and Germany. | Photos: Claudia M&uuml;nstermann",
@@ -240,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ukrainian-teams-chess-championship-2021/",
          "pubDate" : "Fri, 07 May 2021 09:02:18 +0000",
          "title" : "Ukrainian Teams Chess Championship 2021"
-      },
-      {
-         "description" : "Romanian Youth Chess Championships 2021 for boys and girls in groups U8, U10 and U12 are underway in Bucharest. More than 170 talented kids participate in the event and Romania will soon have new National Youth Champions in the respective categories! The Winners will qualify for the Youth European and World Championships, having a chance []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-youth-championship-2021/",
-         "pubDate" : "Fri, 07 May 2021 08:40:08 +0000",
-         "title" : "Romanian Youth Championship 2021"
       },
       {
          "description" : "The International Chess Federation will hold an online conference dubbed \"Chess for Freedom\" on May 11th at 15:30 CET (8:30 US Central Time). The conference will present a newly launched project focused on introducing chess to prisons. This conference will feature FIDE President Arkady Dvorkovich, the 12th World Chess Champion Anatoly Karpov, Cook County Sheriff Tom Dart, and other invited guests.",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/iron-horsemen-lead-russian-team-championship",
          "pubDate" : "Wed, 05 May 2021 16:23:36 +0100",
          "title" : "\"Iron Horsemen\" lead Russian Team Championship"
-      },
-      {
-         "description" : " George Henry Mackenzie: Third US Chess Champion, 1870 From the publisher: Definitive biography of the strongest American chess player, which cover the year 1870. Author worked out all available American (and other) chess sources for this year (The Turf, Field, and Farm, Sunday Mercury, New York Albion, New York Clipper, all New York dailies, British <a href=\"http://britishchessnews.com/2021/05/05/george-henry-mackenzie-third-us-chess-champion-1870/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">George Henry Mackenzie: Third US Chess Champion, 1870</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/05/ge",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/05/george-henry-mackenzie-third-us-chess-champion-1870/",
-         "pubDate" : "Wed, 05 May 2021 14:23:04 +0000",
-         "title" : "George Henry Mackenzie: Third US Chess Champion, 1870"
       },
       {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply. There are new...",
@@ -2272,22 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-144",
          "pubDate" : "Sun, 18 Apr 2021 20:00:00 +0100",
          "title" : "Ovi-ready"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1030",
-         "pubDate" : "Sun, 18 Apr 2021 14:31:24 +0000",
-         "title" : "Adjourned game: Press conference before the resumption of FIDE Candidates Tournament"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 23nd instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look how Tigran Petrosian, World Champion from 1963 to 1969, played against the King's Indian. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-23-v-stands-for-victory",
-         "pubDate" : "Sun, 18 Apr 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 23: \"V\" stands for Victory!"
       }
    ]
 }
