@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " So I'm playing the black pieces in a training game against Little Maggie. 1. e4 e5 2. Nf3 Nc6 3. Nc3 Play the Four Knights if you want, Maggie, but I keep on showing you games with Bb5 and Bc4. Either of those moves or 3. d4 will give you a much more interesting game. <a href=\"https://chessimprover.com/little-maggie/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Little Maggie\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/little-maggie/\">Little Maggie</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/little-maggie/",
+         "pubDate" : "Sun, 09 May 2021 06:49:33 +0000",
+         "title" : "Little Maggie"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2021/",
          "pubDate" : "Wed, 21 Apr 2021 14:00:58 +0000",
          "title" : "ECF Yearbook 2021 available to order!"
-      },
-      {
-         "description" : " Having done two DVDs for Chessbase on the London System (1.d4 followed by 2.Nf3 and 3.Bf4 or the Accelerated London with 2.Bf4) it would have been odd for me to cover anything else starting with &#8216;L'. It's not without some reluctance though, as despite the solidity of the London and the fact that it's fairly <a href=\"https://chessimprover.com/lynch-em-with-the-london/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lynch 'em with the London\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lynch-em-with-the-london/\">Lynch 'em with the London</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/lynch-em-with-the-london/",
-         "pubDate" : "Wed, 21 Apr 2021 13:00:13 +0000",
-         "title" : "Lynch 'em with the London"
       },
       {
          "description" : " Another day, many more great games from the World's best Grandmasters. So what happened at R9 of the #FIDECandidates Tournament yesterday? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed-2.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Cover photo by Lennart Ootes/FIDE</div> </div> <h2>Chinese wall Breakdown</h2> Anish Giri won Wang Hao showing his exceptional technical skills. What surprised us the most though was the position estimation that the two Grandmasters had during their game, as they revealed at the press conference. Giri believed that he had only a minimal advantage on his side, while Wang Hao did not see good continua",
