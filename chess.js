@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a beginner&#039;s chess blunder by Anatoly Karpov at Wijk aan Zee 1993 against Larry Christiansen. 2021.04.28<br /> Larry Christiansen vs Anatoly Karpov, Hoogovens (1993)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069116\">https://www.chessgames.com/perl/chessgame?gid=1069116</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/worst-mistake-karpovs-career-shorts\"><img src=\"https://saintlouischessclub.org/sites/def",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/worst-mistake-karpovs-career-shorts",
+         "pubDate" : "Sun, 09 May 2021 18:41:08 +0000",
+         "title" : "Worst Mistake of Karpov's Career? | #Shorts"
+      },
+      {
+         "description" : "Great minds clash in the two most competitive intellectual sports: chess and poker! Every evening from Monday, May 10 to Saturday, May 15, two great players will face each other in a match mixing chess and poker. The week begins with an exciting match between 8-time Russian Chess Champion Peter Svidler and 3-time World Blitz Champion Alexander Grischuk! Simon Williams and Lawrence Trent will provide commentary. In parallel to this series of matches with commentary in English, another series of matches with commentary in French will be held. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/battle-of-the-minds-one-week-of-chess-poker-matches",
+         "pubDate" : "Sun, 09 May 2021 17:43:01 +0000",
+         "title" : "Battle of the Minds: one week of chess + poker matches!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 26th instalment of his ChessBase show \"Understanding before Moving\", Herman shows examples of a good cooperation between queen and bishop. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/oh-no-not-kriegspiel-strange-chess-puzzles-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 05 May 2021 18:36:55 +0000",
          "title" : "Oh No! Not the Kriegspiel! Strange Chess Puzzles | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz analyzes his favorite games from the 2021 New In Chess Classic, a dual-stage online tournament and the fifth leg of the Champions Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-new-chess-classic-insane-endgame-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NjeDt9tvvNU.jpg?itok=QAUOoSGw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/best-new-chess-classic-insane-endgame-gm-dariusz-swiercz",
-         "pubDate" : "Wed, 05 May 2021 18:36:55 +0000",
-         "title" : "Best of New In Chess Classic | Insane in the Endgame - GM Dariusz Swiercz"
       },
       {
          "description" : "",
@@ -1498,14 +1506,6 @@ news_feed (
          "title" : "Candidates Tournament 2020-21, Round 14 - Live!"
       },
       {
-         "description" : "Magnus Carlsen has won a 5th Meltwater Champions Chess Tour preliminary stage in a row, with the World Champion commenting, \"I'm starting to perfect the art of getting the first seed without too much hassle\". He faces Teimour Radjabov in the quarterfinals, while we also have Nakamura-Le, Mamedyarov-Firouzja and So-Aronian. Jan-Krzysztof Duda and Sergey Karjakin were among the top players to miss out, while 15-year-old Praggnanandhaa also fell short but made a hugely impressive tour debut.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-carlsen-does-it-again",
-         "pubDate" : "Tue, 27 Apr 2021 10:42:00 +0000",
-         "title" : "New in Chess Classic: Carlsen does it again"
-      },
-      {
          "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal I enjoyed a chess lover's dream this past Sunday morning. The other members of the family were still asleep, the weather was cloudy and online Magnus was putting on a positional chess clinic against his younger countryman. It truly is remarkable how he does it <a href=\"https://chessimprover.com/the-great-ones-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-3/\">The Great Ones (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/04/18/vote-for-executive-board-members/",
          "pubDate" : "Sun, 18 Apr 2021 23:10:11 +0000",
          "title" : "Vote for Executive Board Members!"
-      },
-      {
-         "description" : "With the Candidates Tournament resuming this week, all eyes are turning to Yekaterinburg. Bravely, star columnist Jon Speelman decided to add his voice to the hubbub of predictions, \"thus preparing to get egg all over my face or, as you might say, becoming Ovi-ready\". Who do you think will be Magnus Carlsen's next challenger? | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-144",
-         "pubDate" : "Sun, 18 Apr 2021 20:00:00 +0100",
-         "title" : "Ovi-ready"
       }
    ]
 }
