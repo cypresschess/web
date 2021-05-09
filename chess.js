@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/looking-back-to-the-most-talked-about-chess-logo-ever/",
+         "pubDate" : "Sun, 09 May 2021 08:51:50 +0000",
+         "title" : "Looking Back to The Most Talked About Chess Logo Ever"
+      },
+      {
+         "description" : "The Indian Qualifier final takes place on Monday, but it's Sunday's semi-finals that will decide which two players earn a spot on the Meltwater Champions Chess Tour. 15-year-old Praggnanandhaa has already played on the tour, which may lessen the disappointment of losing to top seed Adhiban. The final will feature either Adhiban or Aravindh, who overcame Ganguly in a playoff. In the other half of the draw it's a chance for a teenager, with 14-year-old Gukesh beating Mitrabha while 17-year-old Erigaisi overcame Harsha, who blundered on move 4 of the only decisive game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/indian-qualifier-decision-day",
+         "pubDate" : "Sun, 09 May 2021 08:39:11 +0000",
+         "title" : "Indian Qualifier: Decision Day"
+      },
+      {
          "description" : " So I'm playing the black pieces in a training game against Little Maggie. 1. e4 e5 2. Nf3 Nc6 3. Nc3 Play the Four Knights if you want, Maggie, but I keep on showing you games with Bb5 and Bc4. Either of those moves or 3. d4 will give you a much more interesting game. <a href=\"https://chessimprover.com/little-maggie/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Little Maggie\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/little-maggie/\">Little Maggie</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -96,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mitropa-cup-round-4-czechia-in-the-lead",
          "pubDate" : "Sat, 08 May 2021 13:00:00 +0100",
          "title" : "Mitropa Cup, Round 4: Czechia and Italy in the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1072",
+         "pubDate" : "Sat, 08 May 2021 11:25:50 +0000",
+         "title" : "Wojtaszek and Kulon win Polish Championship 2021"
       },
       {
          "description" : "As regular readers of this column will know, the USSR created the mightiest state apparatus for the support of chess which the world has ever seen, or is likely to see. The engine for powering this enterprise was the USSR Chess Federation and the exploits of this imperium of the mind, for much of its []",
@@ -496,6 +520,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/iron-horsemen-lead-russian-team-championship",
          "pubDate" : "Wed, 05 May 2021 16:23:36 +0100",
          "title" : "\"Iron Horsemen\" lead Russian Team Championship"
+      },
+      {
+         "description" : " George Henry Mackenzie: Third US Chess Champion, 1870 From the publisher: Definitive biography of the strongest American chess player, which cover the year 1870. Author worked out all available American (and other) chess sources for this year (The Turf, Field, and Farm, Sunday Mercury, New York Albion, New York Clipper, all New York dailies, British <a href=\"http://britishchessnews.com/2021/05/05/george-henry-mackenzie-third-us-chess-champion-1870/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">George Henry Mackenzie: Third US Chess Champion, 1870</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/05/ge",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/05/george-henry-mackenzie-third-us-chess-champion-1870/",
+         "pubDate" : "Wed, 05 May 2021 14:23:04 +0000",
+         "title" : "George Henry Mackenzie: Third US Chess Champion, 1870"
       },
       {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply. There are new...",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "1.d4! : The Chess Bible : Understanding Queen's Pawn Structures"
       },
       {
-         "description" : "Magnus Carlsen will face his childhood nemesis Ian Nepomniachtchi in a 14-game World Chess Championship match this November in Dubai after Ian won the FIDE Candidates Tournament with a round to spare. Nepomniachtchi's opponent Maxime Vachier-Lagrave had to win with the black pieces but never came close, while Anish Giri lost to self-confessed \"chess terrorist\" Alexander Grischuk. Ian called reaching the match a \"huge milestone in my career and perhaps in my life also,\" but understandably never wants to play a tournament lasting over a year again.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/it-s-a-nepomniachtchi-carlsen-world-championship",
-         "pubDate" : "Mon, 26 Apr 2021 20:33:33 +0000",
-         "title" : "It's a Nepomniachtchi-Carlsen World Championship!"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi won the FIDE Candidates Tournament with a round to spare. The 30-year-old Russian grandmaster will now play GM Magnus Carlsen for the world championship in November. While Nepomniachtchi drew his game with GM Maxime Vachier...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2264,14 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-23-v-stands-for-victory",
          "pubDate" : "Sun, 18 Apr 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 23: \"V\" stands for Victory!"
-      },
-      {
-         "description" : "Comparing the average ratings of the U.S. Championships and U.S. Women's Championships from 1972-2000 shows a 300+ point difference between the former and the latter, as detailed in part one of this two-part series. In this part two, Ashley Yan and Alexey Root offer a possible explanation for this gender-based ratings gap.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-ratings-gap-and-gender-analyzing-u-s-chess-championships-part-ii",
-         "pubDate" : "Sun, 18 Apr 2021 10:00:00 +0100",
-         "title" : "The ratings gap and gender: Analyzing U.S. Chess Championships (Part II)"
       }
    ]
 }
