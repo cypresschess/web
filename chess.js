@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-ratings-gap-and-gender-analyzing-u-s-chess-championships-part-ii",
          "pubDate" : "Sun, 18 Apr 2021 10:00:00 +0100",
          "title" : "The ratings gap and gender: Analyzing U.S. Chess Championships (Part II)"
-      },
-      {
-         "description" : " While the Adams v Torre (New Orleans 1920) game is well known throughout the chess world, there was also Torre v Adams played around the same time. It too involved some spectacular play (a double rook sacrifice by White), but this time Torre was victorious. <br /> <b>Torre Repetto,Carlos - Adams,Edwin Ziegler [C13]</b><br />New Orleans New Orleans,LA, 1920 <script>new PgnViewer( { boardName: \"game1234\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 c6 8.c3 Qc7 9.Bd3 Nd7 10.Qe2 b6 11.g4 c5 12.dxc5 Nxc5 13.Nxc5 Qxc5 14.g5 Bxc3+ 15.bxc3 Qxc3+ 16.Qd2 Qxa1+ 17.Ke2 Qxh1 18.Bb5+ Bd7 19.Qxd7+ Kf8 20.g6 hxg6 21.Ng5 1-0', pauseBetweenMoves: 500, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/torre-v-adams.html",
-         "pubDate" : "Sun, 18 Apr 2021 00:55:00 +0000",
-         "title" : "Torre v Adams"
       }
    ]
 }
