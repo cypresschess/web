@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Season 21 of the Top Chess Engine Championship starts today at 17:00 UTC. A total of 46 engines will embark on a quest for glory in the most prestigious computer chess event. Stockfish, the winner of Season 20 and holder of record number of TCEC titles, will have serious contenders among them Lc0, Komodo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-s21-starts-today/",
+         "pubDate" : "Sun, 09 May 2021 22:40:37 +0000",
+         "title" : "TCEC S21 starts today"
+      },
+      {
+         "description" : "Andorra's first Over-The-Board event in 2021 was played yesterday in Sports and Social Complex El Prat del Roure, in Escaldes-Engordany. Raul Garcia became the Winner of this blitz event played in 8 rounds with participation of 21 players. Congratulations! More information: Official Website and full report",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/over-the-board-chess-is-back-in-andorra-tweetoftheday/",
+         "pubDate" : "Sun, 09 May 2021 21:17:25 +0000",
+         "title" : "Over-The-Board Chess is back in Andorra! #TweetOftheDay"
+      },
+      {
+         "description" : "\"I'm just so happy, because I've been waiting for almost a year to get this chance!\" said Adhiban after beating Aravindh to reach the final of the Indian Qualifier and book a place in the June event of the Meltwater Champions Chess Tour. He'll be joined on the Tour and in the final by 17-year-old Arjun Erigaisi, who bounced back from losing his first game to beat Gukesh in the remaining three games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/adhiban-erigaisi-reach-the-champions-chess-tour",
+         "pubDate" : "Sun, 09 May 2021 21:12:56 +0000",
+         "title" : "Adhiban & Erigaisi reach the Champions Chess Tour"
+      },
+      {
+         "description" : "The first phase of the El Salvador National ChampionshipSuperior category 2021 concluded today with the announcement of four semifinalists who continue the fight for the National Champion title on 15-16 May 2021. 23 players participated in the first open phase of the event, and the top 4 proceed to the second, knock-out phase: Sura Kalvin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/el-salvador-national-championship-2021/",
+         "pubDate" : "Sun, 09 May 2021 20:53:30 +0000",
+         "title" : "El Salvador National Championship 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1074",
+         "pubDate" : "Sun, 09 May 2021 20:42:18 +0000",
+         "title" : "Dante Beukes and Lishen Mentile win Namibia Championship 2021"
+      },
+      {
+         "description" : "Chinese Open Chess Championship 2021 is ongoing in Xinghua Jiangsu, being played from May 7- May 15. The event is a 11 rounds, robin-round system, with 11 Grandmasters and one International master. The top seeds are GM Wei Yi and GM Yu Yangyi, both rated above 2700. After round 4 Xu Zhihang, Xu Xiangyu, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chinese-chess-championship-2021/",
+         "pubDate" : "Sun, 09 May 2021 20:27:37 +0000",
+         "title" : "Chinese Chess Championship 2021"
+      },
+      {
+         "description" : "Reading seems to have become a dying habit. With the advent of gadgets, distraction lurks around every corner and resisting the temptations has become increasingly difficult. A true bibliophile knows the essence of reading from a physical book - the smell of a newly printed one cannot be replaced by a digital version. Four-time Indian women's champion, Asian continental champion and Olympic individual gold medallist IM Padmini Rout reflects on Daniel King's book about Sultan Khan. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/learning-from-sultan-khan",
+         "pubDate" : "Sun, 09 May 2021 21:15:00 +0100",
+         "title" : "Learning from Sultan Khan"
+      },
+      {
+         "description" : "Serbian Youth Chess Championship 2021 took place from 1st-9th May 2021 in Subotica. Blitz, rapid and classical events gathered more than 180 players, playing within 6 age categories, boys and girls separately. Kids came back to the national championship after a one year pause, due to covid19 spread, fighting for qualifying spots for European and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-crowns-2021-youth-national-champions/",
+         "pubDate" : "Sun, 09 May 2021 19:50:37 +0000",
+         "title" : "Serbia crowns 2021 Youth National Champions!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a beginner&#039;s chess blunder by Anatoly Karpov at Wijk aan Zee 1993 against Larry Christiansen. 2021.04.28<br /> Larry Christiansen vs Anatoly Karpov, Hoogovens (1993)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069116\">https://www.chessgames.com/perl/chessgame?gid=1069116</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/worst-mistake-karpovs-career-shorts\"><img src=\"https://saintlouischessclub.org/sites/def",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/worst-mistake-karpovs-career-shorts",
          "pubDate" : "Sun, 09 May 2021 18:41:08 +0000",
          "title" : "Worst Mistake of Karpov's Career? | #Shorts"
+      },
+      {
+         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, but do not trust yourself [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
+         "pubDate" : "Sun, 09 May 2021 18:30:56 +0000",
+         "title" : "Why You Should Never Offer A Draw"
       },
       {
          "description" : "Great minds clash in the two most competitive intellectual sports: chess and poker! Every evening from Monday, May 10 to Saturday, May 15, two great players will face each other in a match mixing chess and poker. The week begins with an exciting match between 8-time Russian Chess Champion Peter Svidler and 3-time World Blitz Champion Alexander Grischuk! Simon Williams and Lawrence Trent will provide commentary. In parallel to this series of matches with commentary in English, another series of matches with commentary in French will be held. ",
@@ -186,14 +258,6 @@ news_feed (
          "title" : "A Soviet survivor: the case of Tigran Petrosian"
       },
       {
-         "description" : "The&#160;78th Polish Individual Open and 73rd Polish Individual Women Chess Championships 2021&#160;took place from April 24- May 8, 2021 in Bydgoszcz, Poland. The Open section event was played as a 16 players knockout tournament, where Wojtaszek Radoslaw and Moranda Wojciech entered the finals. After a tied result in the regular two games match, Wojtaszek took []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wojtaszek-and-kulon-win-polish-chess-championships-2021/",
-         "pubDate" : "Sat, 08 May 2021 08:53:28 +0000",
-         "title" : "Wojtaszek and Kulon win Polish Chess Championships 2021"
-      },
-      {
          "description" : "If Black plays 30...Nxc3 in the diagram position he attacks White's rook on b1 and opens the bishop's diagonal a8-g2. So, everything seems fine for Black - unless White can spoil the fun with 31.Bc5. Well, can he?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,22 +280,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/7/kasparov-on-the-carlsen-nepomniachtchi-match.html",
          "pubDate" : "Fri, 07 May 2021 21:13:00 +0000",
          "title" : "Kasparov on the Carlsen-Nepomniachtchi Match"
-      },
-      {
-         "description" : "Belarus National Youth Chess event &#8220;Belaya Ladya 2021&#8221; Finals concluded today in Minsk. The event gathered 14 teams and 56 young players aged U14. After 7 played rounds according to Swiss system, the Winner Teams are: &#8220;Orsha 13&#8221; 13 match points &#8220;Rogachev Gymnasium&#8221; 9 match points &#8220;Minsk Gymnasium&#8221; 8 match points During the Closing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/belarus-belaya-ladya-2021-finals/",
-         "pubDate" : "Fri, 07 May 2021 16:35:43 +0000",
-         "title" : "Belarus \"Belaya Ladya 2021\" Finals"
-      },
-      {
-         "description" : "Mitropa Chess Cup 2021, the annual team chess tournament for national teams from Central Europe. This year, the Mitropa Cup is played as an Online hybrid event with participation of 10 teams competing in Women's and Open's section separately: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Live games from the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-chess-cup-2021-live/",
-         "pubDate" : "Fri, 07 May 2021 16:06:22 +0000",
-         "title" : "Mitropa Chess Cup 2021 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz gives his take on sacrificing one's knight on d5, usually from the Sicilian Defense. See when it's good and when it's bad. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q5q6OYuk6sA.jpg?itok=ltuvC0aP\" alt=\"\" /></a></div>",
@@ -280,22 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rapid-interview-ccile-haussernot",
          "pubDate" : "Fri, 07 May 2021 12:00:00 +0100",
          "title" : "Rapid Interview - C&eacute;cile Haussernot"
-      },
-      {
-         "description" : "Going back into time when reigning World Chess Champion Magnus Carlsen was a 13 year old talented boy, while he spoke about impressions from the meeting with Chess Legend Garry Kasparov, Carlsen said: &#8220;I hope to become a world champion. It has to happen before 2020.&#8221; The dream came true in 2013, when Carlsen defeated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/throwback-13-year-old-magnus-carlsen-meets-garry-kasparov-tweetoftheday/",
-         "pubDate" : "Fri, 07 May 2021 09:44:09 +0000",
-         "title" : "Throwback: 13 year old Magnus Carlsen meets Garry Kasparov, #TweetOftheDay"
-      },
-      {
-         "description" : "Ukrainian Clubs Teams Chess Championship 2021 launched yesterday in Lviv, Ukraine. 128 players compete for their clubs in three events: blitz, rapid and classical. Ukrainian Team Championship 2021 with classical time control is taking place from 6th-12th of May, while blitz and rapid competitions will be played on 13th and 14th of May in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ukrainian-teams-chess-championship-2021/",
-         "pubDate" : "Fri, 07 May 2021 09:02:18 +0000",
-         "title" : "Ukrainian Teams Chess Championship 2021"
       },
       {
          "description" : "The International Chess Federation will hold an online conference dubbed \"Chess for Freedom\" on May 11th at 15:30 CET (8:30 US Central Time). The conference will present a newly launched project focused on introducing chess to prisons. This conference will feature FIDE President Arkady Dvorkovich, the 12th World Chess Champion Anatoly Karpov, Cook County Sheriff Tom Dart, and other invited guests.",
@@ -1386,14 +1418,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 1"
       },
       {
-         "description" : "406 days after it began on March 17th 2020, the FIDE Candidates Tournament is finally over. Ian Nepomniachtchi had won the prize that mattered with a day to spare, but was taken down by Ding Liren, whose 3rd win in a row saw him regain the world no. 3 spot. Maxime Vachier-Lagrave clinched second place with a win over Wang Hao, before the Chinese grandmaster shocked the chess world by announcing his retirement. Anish Giri lost again, this time to Kirill Alekseenko, but still tied Fabiano Caruana for 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-beats-nepo-wang-hao-retires-as-fide-candidates-finally-ends",
-         "pubDate" : "Wed, 28 Apr 2021 09:42:20 +0000",
-         "title" : "Ding beats Nepo, Wang Hao retires as FIDE Candidates finally ends"
-      },
-      {
          "description" : "GM Magnus Carlsen won the preliminaries but couldn&#39;t beat GM Teimour Radjabov on the first day of the New in Chess Classic&#39;s quarterfinals. They drew all four games. GMs Levon Aronian,&#38;nbsp;Shakhriyar Mamedyarov, and Hikaru Nakamura did win their ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2280,14 +2304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1031",
          "pubDate" : "Mon, 19 Apr 2021 09:24:11 +0000",
          "title" : "FIDE enters a long term partnership with Chessable and chess24"
-      },
-      {
-         "description" : " Last October, U.S. Chess announced the formation of a new committee to recruit, screen, and endorse candidates to serve on the Executive Board. That committee was elected at the State Delegates Meeting in 2020. 2020-2022 Nominating Committee Members Joy Bray (MO), Executive Board-appointed David Grimaud (SC), Delegate-appointed Randy Hough (CA-S), Delegate-appointed Michelle Martinez (AZ), Delegate-appointed [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/04/18/vote-for-executive-board-members/\">Vote for Executive Board Members!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website<",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/04/18/vote-for-executive-board-members/",
-         "pubDate" : "Sun, 18 Apr 2021 23:10:11 +0000",
-         "title" : "Vote for Executive Board Members!"
       }
    ]
 }
