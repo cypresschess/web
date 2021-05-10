@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r8",
+         "pubDate" : "Mon, 10 May 2021 08:26:00 +0100",
+         "title" : "Winners decided with a round to spare at the Russian Team Championships"
+      },
+      {
          "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/10/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
