@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi is getting ready to challenge Magnus Carlsen at every aspect. Back in 2013 Carlsen made the symbolic kick-off at a Real Madrid game. Today Nepo followed suit with a symbolic kick-off in Spartak Moscow's game. Sergey Karjakin also opened a Spartak Moscow match before at the time he was a challenger. At that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-scores-tweetoftheday/",
+         "pubDate" : "Mon, 10 May 2021 20:51:33 +0000",
+         "title" : "Nepo scores! #TweetOftheDay"
+      },
+      {
+         "description" : "17-year-old Arjun Erigaisi will have the chance to make a name for himself when he plays in the Meltwater Champions Chess Tour in June, and the way he dispatched top seed Adhiban in the final of the Indian Qualifier should ensure the world's best players will take him very seriously. Arjun was close to winning the second rapid game before he finally drew blood with a counterattack in the first blitz game, just when Adhiban seemed set to triumph with 1.b3. Third place was taken by Aravindh, who beat Gukesh 2.5:0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/erigaisi-beats-adhiban-to-win-indian-qualifier",
+         "pubDate" : "Mon, 10 May 2021 20:32:03 +0000",
+         "title" : "Erigaisi beats Adhiban to win Indian Qualifier"
+      },
+      {
+         "description" : "The&#160;73rd edition of the Montenegro Individual Chess Championship&#160;concluded in Podgorica. 26 year old IM Luka Draskovic claimed the title of the National Champion for the first time in his chess career. With a score of 7 points, he was the sole winner of the event, leaving behind GM Dragisa Blagojevic with 6.5 points and a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/draskovic-luka-wins-montenegro-chess-championship-2021/",
+         "pubDate" : "Mon, 10 May 2021 20:30:02 +0000",
+         "title" : "Draskovic Luka wins Montenegro Chess Championship 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1075",
+         "pubDate" : "Mon, 10 May 2021 20:26:00 +0000",
+         "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
+      },
+      {
+         "description" : "Indian Qualifiers, a qualification tournament for the Meltwater Champions Chess Tour concluded today through chess24. GM Erigaisi Arjun and GM Adhiban Baskaran won the two Tour spots as the Finalists of this 16 players knockout tournament. The final match started with 4 draws, but Erigaisi defeated Adhiban in the first blitz game, holding a draw []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/erigaisi-arjun-and-adhiban-baskaran-qualify-for-the-meltwater-champions-chess-tour/",
+         "pubDate" : "Mon, 10 May 2021 20:09:40 +0000",
+         "title" : "Erigaisi Arjun and Adhiban Baskaran qualify for the Meltwater Champions Chess Tour"
+      },
+      {
+         "description" : "The 28th Russian Team Championship Premier League and the 22nd Russian Women's Team Championship concluded today in Sochi. Teams of Mednyi Vsadnik in Open section and the Moscow Chess Team in Women's section convincingly won the events with a round to spare, and the last round results affected only the medalists. Read more: Russian Team []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/russian-team-chess-championships-2021-concluded/",
+         "pubDate" : "Mon, 10 May 2021 19:51:11 +0000",
+         "title" : "Russian Team Chess Championships 2021 concluded"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns a prize TBD. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B_wy-43qP8M.jpg?itok=QLgVLRs_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom",
+         "pubDate" : "Mon, 10 May 2021 18:41:49 +0000",
+         "title" : "Road to 2000 Tournament IV - NM Caleb Denby | Chess.com"
+      },
+      {
          "description" : " The Chinese Championships take place 7th to 15th May 2021. Top seeds are Wei Yi and Yu Yangyi, Women's World Chess Champion Ju Wenjun also competes. The women's event has Tan Zhongyi as top seed. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -202,14 +258,6 @@ news_feed (
          "title" : "A good old fashioned Simul"
       },
       {
-         "description" : "GM Sergei Zhigalko is a chess legend in Belarus. He earned his IM title in 2004, his GM title in 2007, and while in pursuit of the norms won the U14 World Chess Championship (in 2003) and the U18 European Chess Championship (in 2006). GM Zhigalko is national champion for his country in 2009, 2012, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-sergei-zhigalko-i-make-3-broadcasts-a-week-join-me/",
-         "pubDate" : "Sun, 09 May 2021 12:51:31 +0000",
-         "title" : "GM Sergei Zhigalko, \"I make 3 broadcasts a week, join me!\""
-      },
-      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -266,36 +314,12 @@ news_feed (
          "title" : "Wojtaszek and Kulon prevail at the Polish Championships"
       },
       {
-         "description" : "Swedish WFM Anna Cramling played her last over-the-board chess event in January 2020, but now she showed us how close she is to continue with Over-the-board chess! We certainly laughed with Anna's good humor, but we really do hope to see her over the board soon!",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-cramling-plays-otb-after-a-while-tweetoftheday/",
-         "pubDate" : "Sat, 08 May 2021 16:14:20 +0000",
-         "title" : "Anna Cramling plays OTB after a while! #TweetOftheDay"
-      },
-      {
-         "description" : "Uganda World Cup Qualifiers Chess Tournament 2021 has started today in Kampala. The best six Ugandan chess players compete in the event fighting for the World Cup 2021 ticket and the top seed is IM Ssegwanyi Arthur. Read more: Arthur Ssegwanyi wins FIDE zone 4-2 qualifiers for Baku World Cup Starting rank list of players: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uganda-world-cup-qualifiers-chess-tournament-2021/",
-         "pubDate" : "Sat, 08 May 2021 16:00:34 +0000",
-         "title" : "Uganda World Cup Qualifiers Chess Tournament 2021"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a chess game where Nigel Short got the best of the greatest ever, Garry Kasparov, in a 1993 King&#039;s Gambit thematic exhibition in London. 2021.04.28<br /> Nigel Short vs Garry Kasparov, Exhibition Game (thematic) (1993): C33 King&#039;s Gambit Accepted, bishop&#039;s gambit, Bryan counter-gambit<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070668\">https://www.chessgames.com/perl/chessgame?gid=1070668</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/nigel-short-beats-garry-kasparov-15-moves-shorts",
          "pubDate" : "Sat, 08 May 2021 15:40:16 +0000",
          "title" : "Nigel Short Beats Garry Kasparov in 15 Moves! | #Shorts"
-      },
-      {
-         "description" : "Belarus Chess Championships 2021 launched today in Minsk! 23 participants play a 9 rounds Swiss tournament in the Open section event, and the battlefield is led by GM Aleksandrov Aleksej, GM Fedorov Alexei and GM Stupak Kirill. Read more: Belarus Chess Championship 2018 Full list of participants- Belarus Open Chess Championship 2021: No. &#160; Name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/belarus-chess-championships-2021/",
-         "pubDate" : "Sat, 08 May 2021 15:33:44 +0000",
-         "title" : "Belarus Chess Championships 2021"
       },
       {
          "description" : " While there was a lot of work put into developing the FIDE rules for Hybrid Chess (including work done by myself), how it would actually work was a different issue. Thus year has seen a few hybrid events, and while it has generally worked well, there have been a few issues of note. The 2021 Oceania Zonal was held over 2 weekends, with players from around the Pacific. Weirdly, the challenge wasn't getting the players to enter, but finding enough arbiters. There were 20 officials for 8 players(!), which was an unexpected feature. On reflection this should have been obvious, given the need for 1 or 2 venues for each player, but for an event which usually get's by with 2 or 3 arbiters, this was",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-may-4-titled-tuesday",
          "pubDate" : "Wed, 05 May 2021 12:16:00 -0700",
          "title" : "Nakamura Wins May 4 Titled Tuesday"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby poses unconventional chess studies and puzzles. Solve a kriegspiel puzzle (also known as blind chess). Deal with zugzwang, underpromotion, retrograde analysis, plus see a study by Caleb himself. 2021.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-no-not-kriegspiel-strange-chess-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oh-no-not-kriegspiel-strange-chess-puzzles-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 05 May 2021 18:36:55 +0000",
-         "title" : "Oh No! Not the Kriegspiel! Strange Chess Puzzles | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
@@ -1328,14 +1344,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/04/a-very-old-windmill.html",
          "pubDate" : "Thu, 29 Apr 2021 13:27:00 +0000",
          "title" : "A very old windmill"
-      },
-      {
-         "description" : "The first Carlsen-Nakamura match since the epic final of the Magnus Carlsen Chess Tour is on the cards after both players reached the New in Chess Classic semi-finals. Magnus said he \"tried to play a lot more aggressively\" as one fine positional win was enough to defeat Teimour Radjabov, while Hikaru not only survived a stunning attack by Liem Quang Le but went on to win that vital game. The final is far from set in stone, however, since Hikaru plays Mamedyarov, who was in superb form as he beat Firouzja, while Magnus faces Aronian, who knocked out Tour leader So.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-qf2-carlsen-nakamura-on-collision-course",
-         "pubDate" : "Thu, 29 Apr 2021 13:15:50 +0000",
-         "title" : "New in Chess QF2: Carlsen & Nakamura on collision course"
       },
       {
          "description" : "No Rapid Interview? That's right. Grandmaster Efstratios Grivas said that he doesn't play online chess any more. In our \"normal\" interview, we talked about how Grivas went to eight Olympiads, published over 110 books, and became a Grandmaster despite starting with chess at the rather late age of 13. Furthermore, we talk about the largest chess club in the world, the Sharjah Cultural & Chess Club in Dubai, which launches a \"real\" over the board rapid tournament today, and of course, the reason behind Grivas not playing online chess - he doesn't mince his words! | Photos: Efstratios Grivas",
@@ -2272,22 +2280,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-leads-the-candidates-by-0-5-point/",
          "pubDate" : "Tue, 20 Apr 2021 05:19:26 +0000",
          "title" : "Nepo Leads the Candidates by 0.5 Point"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1033",
-         "pubDate" : "Mon, 19 Apr 2021 21:04:45 +0000",
-         "title" : "Caruana takes down MVL, Nepomniachtchi emerges as a sole leader"
-      },
-      {
-         "description" : "The Julius Baer Chess Challenge is the counterpart to the Magnus Carlsen Chess Tour - for young players and talents. Tonight World Champion Magnus Carlsen will play Banter Blitz against all challengers, one after the other. Live from 20:00 CEST (14:00 EDT)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-vs-the-challengers-banterblitz-live",
-         "pubDate" : "Mon, 19 Apr 2021 21:09:42 +0100",
-         "title" : "Magnus Carlsen vs. The Challengers: Banterblitz live"
       }
    ]
 }
