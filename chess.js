@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/10/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/10/technical-decision-making-in-chess/",
+         "pubDate" : "Mon, 10 May 2021 00:10:58 +0000",
+         "title" : "Technical Decision Making in Chess"
+      },
+      {
          "description" : "Season 21 of the Top Chess Engine Championship starts today at 17:00 UTC. A total of 46 engines will embark on a quest for glory in the most prestigious computer chess event. Stockfish, the winner of Season 20 and holder of record number of TCEC titles, will have serious contenders among them Lc0, Komodo []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
