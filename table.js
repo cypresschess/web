@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target=' blank'>WEST HOUSTON CHESS OPEN I</a>",
+
 "SPRING","2021-04-30","24","<a href=http://www.uschess.org/msa/XtblMain.php?202104303382 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-04-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202104303362 target=' blank'>FBCC 2021 APRIL CLOSING</a>",
 "HOUSTON","2021-04-24","55","<a href=http://www.uschess.org/msa/XtblMain.php?202104241912 target=' blank'>NAVARRO MS CHESS TOURNAMENT</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2020-01-08  - 01-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202001291962 target=' blank'>THE CHESS REFINERY: WEDNESDAY SWISS</a>",
 "MONTGOMERY","2020-01-07  - 01-28","6","<a href=http://www.uschess.org/msa/XtblMain.php?202001289422 target=' blank'>CHESS LAB JAN</a>",
 "LEAGUE CITY","2020-01-06  - 01-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202001270852 target=' blank'>CLCC JANUARY MONDAYS</a>",
-"HOUSTON","2020-01-26","15","<a href=http://www.uschess.org/msa/XtblMain.php?202001269552 target=' blank'>SUNDAY BLITZKIDZ TOURNAMENT</a>",
 ]);
