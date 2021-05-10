@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chinese Championships take place 7th to 15th May 2021. Top seeds are Wei Yi and Yu Yangyi, Women's World Chess Champion Ju Wenjun also competes. The women's event has Tan Zhongyi as top seed. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chinese-championships-2021",
+         "pubDate" : "Mon, 10 May 2021 19:22:00 +0400",
+         "title" : "Chinese Championships 2021 - Games and Results"
+      },
+      {
+         "description" : " The Russian Team Championships took place in Sochi 1st to 10th May 2021. The St Petersburg team Bronze Horseman won the title winning all 8 matches. The Women's title was won by the Moscow team. The South Ural team from the Chelyabinsk region won the Higher League.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2021",
+         "pubDate" : "Mon, 10 May 2021 19:11:00 +0400",
+         "title" : "Russian Team Championship 2021 - "
+      },
+      {
          "description" : "Greek International Master Theodorou Nikolas won the 2021 Missouri Grand Championship which took place from 5th-9th May in Stoney Creek Hotel &#38; Conference Center, Columbia/Missouri. Theodorou scored 8/9 points to be the sole winner of the event. IM Kevlishvili Robby with 7 points took second place and GM Repka Christopher with score of 6 points []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-for-freedom-online-conference-tournament",
-         "pubDate" : "Mon, 10 May 2021 06:14:47 -0700",
+         "pubDate" : "Mon, 10 May 2021 06:14:00 -0700",
          "title" : "Chess For Freedom: Online Conference, Tournament On Tuesday"
       },
       {
@@ -2272,38 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-vs-the-challengers-banterblitz-live",
          "pubDate" : "Mon, 19 Apr 2021 21:09:42 +0100",
          "title" : "Magnus Carlsen vs. The Challengers: Banterblitz live"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1032",
-         "pubDate" : "Mon, 19 Apr 2021 19:11:17 +0000",
-         "title" : "Castillo Pena wins Dominican Republic Women's Chess Championship"
-      },
-      {
-         "description" : " The live breakdown of the first day of the Candidates <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/HmU_0NmdNik?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Watch the live studio breakdown of the first day of the FIDE Candidates Tournament by GM Ernest Inarkiev and WGM and streamer Dina Belenkaya. Joined by the special guest Sergey Karjakin, the hosts break down the round's games and interesting moments. The show is produced by RT and World Chess. The show will run daily at 6PM London time during the Candidates Tournament. ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-breakdown-live-studio-day-1/",
-         "pubDate" : "Mon, 19 Apr 2021 18:52:42 +0000",
-         "title" : "Candidates Breakdown Live Studio - Day 1"
-      },
-      {
-         "description" : " The World Chess Championship Candidates resumed in Yekaterinburg 390 days (1 year and 25 days) after being halted following round 7 on 25th March 2020. At that point Ian Nepomniachtchi and Maxime Vachier-Lagrave were a point clear of much of the rest of the field - Nepomniachtchi was sick and had just lost a game - he candidly admitted today he was very much aided by a break. The second half of the event started with round 8 today and after looking for a long time that there would be four draws in fact two games were decisive - the most important of which was Fabiano Caruana's victory over Maxime Vachier-Lagrave which puts him right in contention half a point behind Nepomniachtchi and ahead",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/caruana-beats-mvl-in-round-8-as-the-fide-candidates-resumes-after-a-break-of-over-a-year",
-         "pubDate" : "Mon, 19 Apr 2021 19:53:00 +0400",
-         "title" : "Caruana beats MVL in Round 8 as the FIDE Candidates resumes after a break of over a year - 8"
-      },
-      {
-         "description" : " Tris-Ann RichardsPresident of St. Lucian Chess FederationPhoto courtesy of Tris-Ann Richards(St. Lucia Chess Federation) The island of St. Lucia has turned over a new leaf after their Annual General Meeting on Thursday, April 15th. During an online meeting, members of the St. Lucia Chess Federation (SLCF) elected their Executive Board. The relatively-new member of FIDE [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/04/19/richards-elected-as-st-lucias-chess-president/\">Richards elected as St. Lucia's Chess President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/04/19/richards-elected-as-st-lucias-chess-president/",
-         "pubDate" : "Mon, 19 Apr 2021 15:42:36 +0000",
-         "title" : "Richards elected as St. Lucia's Chess President"
       }
    ]
 }
