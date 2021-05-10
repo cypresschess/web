@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's that time again - Premium members get the chance to vote for your choice to be in the next Meltwater Champions Chess Tour event. And this time, we have the biggest line-up of choices yet.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/premium-only-have-your-say-in-the-biggest-tour-vote-yet",
+         "pubDate" : "Mon, 10 May 2021 10:48:42 +0000",
+         "title" : "Premium only: Have your say in the biggest Tour vote yet"
+      },
+      {
+         "description" : "May 14th 16th 2021 includes tournaments, coaching sessions, simultaneous exhibitions, workshops, panel debates and more! Sign up online at https://britchess.wufoo.com/forms/european-womens-weekend-2021/. View a short...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-girls-and-womens-chess-weekend/",
+         "pubDate" : "Mon, 10 May 2021 09:17:08 +0000",
+         "title" : "European Girls' and Women's Chess Weekend"
+      },
+      {
+         "description" : "The new FIDE Regulations for Arbiters, approved by the FIDE Council on Monday 19th April, have now been published here arbiters.fide.com/news/6041 The effective date...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-fide-regulations-for-arbiters/",
+         "pubDate" : "Mon, 10 May 2021 07:56:34 +0000",
+         "title" : "New FIDE Regulations for Arbiters"
+      },
+      {
+         "description" : "The International Chess Federation and Chess.com announce the FIDE/Chess.com Women's Speed Chess Championship, an online competition to be held between May 28th and July 3rd...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-fide-chess-com-womens-speed-chess-championship/",
+         "pubDate" : "Mon, 10 May 2021 07:53:29 +0000",
+         "title" : "The FIDE/Chess.com Women's Speed Chess Championship"
+      },
+      {
          "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-sergei-zhigalko-i-make-3-broadcasts-a-week-join-me/",
          "pubDate" : "Sun, 09 May 2021 12:51:31 +0000",
          "title" : "GM Sergei Zhigalko, \"I make 3 broadcasts a week, join me!\""
-      },
-      {
-         "description" : "After seven rounds, both in the Premier League and the Women's Tournament, the clear favourites have managed to win all of their matches - the Mednyi Vsadnik (Iron Horsemen) led by Nikita Vitiugov and the Moscow Chess Team led by Kateryna Lagno. Read the full report after round 7. | Round 8 starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
-         "pubDate" : "Sun, 09 May 2021 13:45:00 +0100",
-         "title" : "Russian Premier League - Live!"
       },
       {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
@@ -1354,14 +1378,6 @@ news_feed (
          "title" : "Xiong Wins April 27 Titled Tuesday"
       },
       {
-         "description" : "Levon Aronian quipped,\"generally I accept such things with humility and respect towards the chance, so I take it!\" after Wesley So mouse-slipped away the first game of their quarterfinal. Levon survived an auto-queen scare to win 3:1, which was also the score as Shakhriyar Mamedyarov continued his sparkling form from the preliminaries against Alireza Firouzja. Hikaru Nakamura needed just one win to beat Liem Quang Le, while Carlsen-Radjabov is level after four draws, with Magnus saying he was just \"happy to escape\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-qf1-aronian-mamedyarov-nakamura-lead",
-         "pubDate" : "Wed, 28 Apr 2021 16:10:49 +0000",
-         "title" : "New in Chess Classic QF1: Aronian, Mamedyarov & Nakamura lead"
-      },
-      {
          "description" : "This week Merijn van Delft takes another look at the Candidates and presents a fine attack with which Anish Giri won against Ding Liren. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2202,14 +2218,6 @@ news_feed (
          "title" : "Episode 223- Dr. Luka Popov (Adult Improver Series) "
       },
       {
-         "description" : "GM Gawain Jones has become the first Englishman to play in the Champions Chess Tour. He has been invited to be one of the players...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-gm-gawain-jones/",
-         "pubDate" : "Tue, 20 Apr 2021 12:02:17 +0000",
-         "title" : "Congratulations to GM Gawain Jones"
-      },
-      {
          "description" : " What a start for the Candidates' resume with Caruana and Alekseenko scoring after several hours and Nepomniachtchi reaching the top as a sole leader with 5 points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0AE6272B-DB55-44BF-B1AC-ED6003F2FBEF.png\" width=\"1336\" height=\"750\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes/FIDE</div> </div> Starting with the most interesting game of the day, Fabiano Caruana was clearly very well prepared and won with a remarkable style. Fabi took himself in a very dangerous position, with less material, but enough compensation to achieve an amazing win, and also entertain the whole chess community! Another surpr",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2304,22 +2312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/victor-bologan-wins-european-parliamentary-tournament",
          "pubDate" : "Mon, 19 Apr 2021 12:31:57 +0100",
          "title" : "Victor Bologan wins European Parliamentary Tournament"
-      },
-      {
-         "description" : "On the occasion of the Candidates Tournament 2020-2021 that will resume today, Monday, 19 April 2021, in Yekaterinburg, Russia, Eric van Reem, host of the \"Lets Talk about Chess\" podcast, spoke with Scottish historian Douglas Griffin about the history of the Candidates Tournaments, chess history in general and the charm and value of good tournament books.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-talk-about-chess-mit-douglas-griffin",
-         "pubDate" : "Mon, 19 Apr 2021 10:52:48 +0100",
-         "title" : "Let's talk about the Candidates... with Douglas Griffin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1031",
-         "pubDate" : "Mon, 19 Apr 2021 09:24:11 +0000",
-         "title" : "FIDE enters a long term partnership with Chessable and chess24"
       }
    ]
 }
