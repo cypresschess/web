@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Greek International Master Theodorou Nikolas won the 2021 Missouri Grand Championship which took place from 5th-9th May in Stoney Creek Hotel &#38; Conference Center, Columbia/Missouri. Theodorou scored 8/9 points to be the sole winner of the event. IM Kevlishvili Robby with 7 points took second place and GM Repka Christopher with score of 6 points []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/theodorou-nikolas-wins-missouri-grand-championship-2021/",
+         "pubDate" : "Mon, 10 May 2021 14:06:37 +0000",
+         "title" : "Theodorou Nikolas wins Missouri Grand Championship 2021"
+      },
+      {
+         "description" : "The Candidates Tournament 2020/2021 brought a wealth of interesting games and interesting novelties. After all, the players had more than one year to prepare for seven games. In his two-part reflection on the Candidates the Canadian FM Joshua Doknjas takes a close look at the most important theoretical developments in the Candidates and discusses various strategies of preparation. | Photo: Tournament winner Ian Nepomniachtchi | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reflecting-on-the-2020-21-candidates-part-2",
+         "pubDate" : "Mon, 10 May 2021 15:00:00 +0100",
+         "title" : "Reflecting on the 2020-2021 Candidates - Part 2"
+      },
+      {
+         "description" : "The first Chess for Freedom program, aimed at the introduction of chess as a tool for education and social inclusion in prisons, takes place May 11, 2021. The project is co-organized by the International Chess Federation (FIDE) and the Cook County...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-for-freedom-online-conference-tournament",
+         "pubDate" : "Mon, 10 May 2021 06:14:47 -0700",
+         "title" : "Chess For Freedom: Online Conference, Tournament On Tuesday"
+      },
+      {
+         "description" : "The Russian Team Championships were decided in the penultimate round: The Iron Horsemen of St. Petersburg win the Open Championship, the Moscow Chess Team wins the Women's Tournament. However, there is still one round to play in which the other teams fight for the places. It starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
+         "pubDate" : "Mon, 10 May 2021 13:45:00 +0100",
+         "title" : "Russian Premier League, Round 9 - Live!"
+      },
+      {
          "description" : "It's that time again - Premium members get the chance to vote for your choice to be in the next Meltwater Champions Chess Tour event. And this time, we have the biggest line-up of choices yet.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r8",
          "pubDate" : "Mon, 10 May 2021 08:26:00 +0100",
          "title" : "Winners decided with a round to spare at the Russian Team Championships"
-      },
-      {
-         "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/10/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/10/technical-decision-making-in-chess/",
-         "pubDate" : "Mon, 10 May 2021 00:10:58 +0000",
-         "title" : "Technical Decision Making in Chess"
       },
       {
          "description" : "Season 21 of the Top Chess Engine Championship starts today at 17:00 UTC. A total of 46 engines will embark on a quest for glory in the most prestigious computer chess event. Stockfish, the winner of Season 20 and holder of record number of TCEC titles, will have serious contenders among them Lc0, Komodo []",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/belarus-chess-championships-2021/",
          "pubDate" : "Sat, 08 May 2021 15:33:44 +0000",
          "title" : "Belarus Chess Championships 2021"
-      },
-      {
-         "description" : "Season 21 of the Top Chess Engine Championship is starting this May 10th at 17:00 UTC. The event will start with the Qualification League, progress through L4, L3, L2 and L1 stages, and culminate with the Premier Division and the Superfinal. One of the key elements of TCEC is the opening book. Playing at a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jeroen-noomen-and-gm-matthew-sadler-announce-tcec-s21-superfinal-book-cooperation/",
-         "pubDate" : "Sat, 08 May 2021 14:01:17 +0000",
-         "title" : "Jeroen Noomen and GM Matthew Sadler announce TCEC S21 superfinal book cooperation"
       },
       {
          "description" : " While there was a lot of work put into developing the FIDE rules for Hybrid Chess (including work done by myself), how it would actually work was a different issue. Thus year has seen a few hybrid events, and while it has generally worked well, there have been a few issues of note. The 2021 Oceania Zonal was held over 2 weekends, with players from around the Pacific. Weirdly, the challenge wasn't getting the players to enter, but finding enough arbiters. There were 20 officials for 8 players(!), which was an unexpected feature. On reflection this should have been obvious, given the need for 1 or 2 venues for each player, but for an event which usually get's by with 2 or 3 arbiters, this was",
@@ -2162,14 +2178,6 @@ news_feed (
          "title" : "The big escape"
       },
       {
-         "description" : "Palo Alto, Calif., April 20, 2021&#38;mdash;ChessKid.com, the Scholastic branch of Chess.com, proudly announces the second-annual ChessKid Youth Speed Chess Championship that is set to take place in the summer of 2021. Like similar events such as the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-kid-2021-yscc",
-         "pubDate" : "Tue, 20 Apr 2021 14:13:00 -0700",
-         "title" : "ChessKid Announces 2021 Youth Speed Chess Championship"
-      },
-      {
          "description" : " In chess a lot is about proper memorization. Not only opening lines, but important endgames and patterns should be stored in our brain. On day X you then need to retrieve a line, a pattern or how to mate with Bishop and Knight. But how can you properly memorize this overload of information? The answer [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/ask-why/\">How To Remember Anything: Ask Why</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2296,22 +2304,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/04/19/richards-elected-as-st-lucias-chess-president/",
          "pubDate" : "Mon, 19 Apr 2021 15:42:36 +0000",
          "title" : "Richards elected as St. Lucia's Chess President"
-      },
-      {
-         "description" : " The 2020(1) Candidates tournament has resumed after a Covid induced break, and the 8th round has already seen some interesting games. As it is starting at the relatively kind time of 9pm (Canberra time), I have decided to watch it on the big screen (TV) vi the youtube stream from chess24. The most interesting game (to me and the commentators) was the Caruana v Vachier-Lagrave game, where Caruana produced some very deep preparation to cause MVL all sorts of problems in the opening and middlegame. As I write this the game is still in progress with Caruana holding an advantage, but MVL fighting to hold the draw. However the highlight was the commentary, with Magnus Carlsen being drawn into a d",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/candidates-resumes.html",
-         "pubDate" : "Mon, 19 Apr 2021 14:28:00 +0000",
-         "title" : "Candidates resumes"
-      },
-      {
-         "description" : "Friday, 16 April, 32 Members of Parliament from a total of 15 European countries played \"European Parliamentary Friendship Online Chess Tournament\", a seven-round 10+2 online tournament on the Tornelo platform. Among the participants were three Grandmasters: Victor Bologan (Moldova), Loek van Wely (Netherlands) and Antoaneta Stefanova (Bulgaria). Bologan won the tournament with 6.0/7, van Wely finished second with 5.5/7 and Stefanova finished fifth with 4.5/7. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/victor-bologan-wins-european-parliamentary-tournament",
-         "pubDate" : "Mon, 19 Apr 2021 12:31:57 +0100",
-         "title" : "Victor Bologan wins European Parliamentary Tournament"
       }
    ]
 }
