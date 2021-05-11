@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NFxMcqUBKGI.jpg?itok=M0LsEBY2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/king-power-insane-endgame-gm-josh-friedel",
+         "pubDate" : "Tue, 11 May 2021 18:42:48 +0000",
+         "title" : "King Power! | Insane in the Endgame - GM Josh Friedel"
+      },
+      {
+         "description" : "Arjun Erigaisi pulled a massive upset in the finals of the Indian Qualifier to the Champions Chess Tour by handing Adhiban his first defeat of the event. Nonetheless, by reaching the finals, Adhiban had already qualified to the elite online tour. Aravindh beat Gukesh in the match for third place. Gukesh should be happy with his performance, as he was the only player to beat eventual champion Arjun Erigaisi in the very first game of the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-indian-qualifier-to-the-champions-chess-tour",
+         "pubDate" : "Tue, 11 May 2021 19:00:00 +0100",
+         "title" : "Arjun Erigaisi wins Indian Qualifier to the Champions Chess Tour"
+      },
+      {
+         "description" : "GM Andrey Esipenko, the 19-year-old Russian who beat GM Magnus Carlsen at the 2021 Tata Steel Chess Tournament, continued to impress this week. At the Russian Team Championship, Esipenko scored 6.5/7 while playing for the winning team, Mednyi Vsad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrey-esipenko-russian-team-chess-championship",
+         "pubDate" : "Tue, 11 May 2021 09:20:12 -0700",
+         "title" : "Esipenko Enters World's Top 30 At Russian Team Chess Championship"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Team Championships, with a focus on the game Rublevsky vs Askerov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-russian-team-championships",
          "pubDate" : "Tue, 11 May 2021 16:59:28 +0100",
          "title" : "The Weekly Show: The Russian Team Championships"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620748290836-H5CWKF77UWUXALVJWQYH/ke17ZwdGBToddI8pDm48kFLwottMPu7LZb6FJ7A6v31Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGCp2LsdeLGygMT3E5p2SI2f0AL5VEubYN1_mzZVJAq5ErWCZvOAQjqmdv8ZRVtgUU/krabbe2.jpg\" data-image-dimensions=\"300x480\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo Courtesy of Tim Krabbe\" data-load=\"false\" data-image-id=\"609aa80216642c510642dfad\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620748290836-H5CWKF77UWUXALVJWQYH/ke17ZwdGBToddI8pDm48kFLwottMPu7",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/11/episode-226-tim-krabbe",
+         "pubDate" : "Tue, 11 May 2021 15:53:50 +0000",
+         "title" : "Episode 226- Tim Krabbe "
       },
       {
          "description" : "12-year-old Abhimanyu Mishra scored his 2nd GM norm at the First Saturday GM Round Robin May 2021 with a round to spare. This is the second consecutive event in which Abhimanyu has scored a GM norm, with a dominating 2700+ performance. He is now just 29 Elo points and one GM norm away from becoming the world's youngest grandmaster. Abhi has annotated his eighth round game for us, and will play against ChessBase Premium Members tomorrow.",
@@ -18,12 +50,12 @@ news_feed (
          "title" : "Second GM norm for Abhimanyu"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620743128532-2T0AQXW32FTO0YT018C5/ke17ZwdGBToddI8pDm48kKOJBZlXbqRBJDAhlHP7fKFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vT2aF3hLJewItOsCrqocsM4WECN3fhTgF1KOmTVgXqJg/TK2.jpg\" data-image-dimensions=\"150x240\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of Tim Krabbe\" data-load=\"false\" data-image-id=\"609a93d86461ff444c8d130b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620743128532-2T0AQXW32FTO0YT018C5/ke17ZwdGBToddI8pDm48kKOJBZlXbqRBJDAhlHP7fKFZw-zPPgdn4jUw",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/11/episode-226-tim-krabbe",
-         "pubDate" : "Tue, 11 May 2021 14:29:15 +0000",
-         "title" : "Episode 226- Tim Krabbe "
+         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Cup will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. The provisional list of participants for the European Hybrid Qualification Tournament has been published. 262 players (160 GMs) from 34 European federations are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-information-and-participants/",
+         "pubDate" : "Tue, 11 May 2021 15:42:32 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 - information and participants"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/s840/howlee.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"840\" data-original-width=\"840\" height=\"200\" src=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/w200-h200/howlee.png\" width=\"200\" /></a></td></tr><tr><td class=\"tr-caption\" style=\"text-align: center;\">White to play and Draw</td></tr></tbo",
@@ -42,12 +74,12 @@ news_feed (
          "title" : "Abhimanyu Mishra is on the way to become the youngest GM in history"
       },
       {
-         "description" : "Anish Giri returns to defend his title and fight for the same photo of a man on a horse as the 16-player MrDodgy Invitational 2.0 starts Wednesday May 12th. The blitz knockout tournament on chess24 has the kind of line-up chess fans would choose, with the likes of Baadur Jobava, Adhiban, Alexei Shirov and Daniil Dubov ensuring we can expect explosive action. Jan Gustafsson will commentate and there are trailers&hellip; lots of trailers!",
+         "description" : "Anish Giri returns to defend his title and fight for the same photo of a man on a horse as the 16-player Mr Dodgy Invitational 2.0 starts Wednesday May 12th. The blitz knockout tournament on chess24 has the kind of line-up chess fans would choose, with the likes of Baadur Jobava, Adhiban, Alexei Shirov and Daniil Dubov ensuring we can expect explosive action. Jan Gustafsson will commentate and there are trailers&hellip; lots of trailers!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/the-mrdodgy-invitational-is-back",
          "pubDate" : "Tue, 11 May 2021 12:31:20 +0000",
-         "title" : "The MrDodgy Invitational is back!"
+         "title" : "The Mr Dodgy Invitational is back!"
       },
       {
          "description" : "Tanitoluwa (Tani) Adewumi, a 10-year-old Nigerian refugee who won the New York State K-3 Championship at eight years old, reached a new milestone last week: he conquered the title of national master (NM). Adewumi did so on May 1 at the Fairfield...",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-trainer-awards-2020-2021",
          "pubDate" : "Tue, 11 May 2021 13:00:00 +0100",
          "title" : "FIDE Trainer Awards 2020-2021"
+      },
+      {
+         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why In a chess sense 99% [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
+         "pubDate" : "Tue, 11 May 2021 11:32:06 +0000",
+         "title" : "How To Set Goals And Achieve Them"
       },
       {
          "description" : "The famous chess youtuber Agadmator is startarting his previews on the Nepo Carlsen 2021 match. In a video titled &#8220;Does Nepo stand a chance against Magnus&#8221;, Agadmator analyses a key game in Nepo's career vs Peter Leko.",
@@ -280,14 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tcec-s21-starts-today/",
          "pubDate" : "Sun, 09 May 2021 22:40:37 +0000",
          "title" : "TCEC S21 starts today"
-      },
-      {
-         "description" : "Andorra's first Over-The-Board event in 2021 was played yesterday in Sports and Social Complex El Prat del Roure, in Escaldes-Engordany. Raul Garcia became the Winner of this blitz event played in 8 rounds with participation of 21 players. Congratulations! More information: Official Website and full report",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/over-the-board-chess-is-back-in-andorra-tweetoftheday/",
-         "pubDate" : "Sun, 09 May 2021 21:17:25 +0000",
-         "title" : "Over-The-Board Chess is back in Andorra! #TweetOftheDay"
       },
       {
          "description" : "\"I'm just so happy, because I've been waiting for almost a year to get this chance!\" said Adhiban after beating Aravindh to reach the final of the Indian Qualifier and book a place in the June event of the Meltwater Champions Chess Tour. He'll be joined on the Tour and in the final by 17-year-old Arjun Erigaisi, who bounced back from losing his first game to beat Gukesh in the remaining three games.",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz-lichessorg",
          "pubDate" : "Thu, 06 May 2021 21:37:31 +0000",
          "title" : "Wojtaszek in the 2021 Polish Championship | Games of the Week - GM Dariusz Swiercz | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz teaches a chess class on a topic of his choice. 2021.05.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q5q6OYuk6sA.jpg?itok=ltuvC0aP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-lichessorg",
-         "pubDate" : "Thu, 06 May 2021 21:37:31 +0000",
-         "title" : "The Nd5 Sacrifice | Grandmaster's Choice - GM Dariusz Swiercz | lichess.org"
       },
       {
          "description" : "",
@@ -2154,14 +2178,6 @@ news_feed (
          "title" : "The Ruy Lopez for ambitious players"
       },
       {
-         "description" : "GM Hikaru Nakamura won the April 20 Titled Tuesday tournament, his second victory in a row. Like last week, he finished on a 10/11 score, this time ahead of the trio GM Rasmus Svane, IM Christopher Yoo, and GM Sanan Sjugirov. This week&#39;s Titled ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-april-20-titled-tuesday",
-         "pubDate" : "Thu, 22 Apr 2021 06:32:12 -0700",
-         "title" : "Nakamura Wins April 20 Titled Tuesday"
-      },
-      {
          "description" : "A lot of players want to get better at openings, but they don't know what the right resources are: which books they should buy, which DVDs. \"I can tell you with confidence that here is one product which is going to help you to become a very strong opening player,\" says chess trainer Sagar Shah. \"It's the Opening Encyclopedia 2021!\" In a 27-minute video he tells you why, and shows you how to use this great tool to improve your openings skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,38 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/04/the-big-escape.html",
          "pubDate" : "Tue, 20 Apr 2021 22:33:00 +0000",
          "title" : "The big escape"
-      },
-      {
-         "description" : " In chess a lot is about proper memorization. Not only opening lines, but important endgames and patterns should be stored in our brain. On day X you then need to retrieve a line, a pattern or how to mate with Bishop and Knight. But how can you properly memorize this overload of information? The answer [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/ask-why/\">How To Remember Anything: Ask Why</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/ask-why/?utm_source=rss&utm_medium=rss&utm_campaign=ask-why",
-         "pubDate" : "Tue, 20 Apr 2021 17:30:00 +0000",
-         "title" : "How To Remember Anything: Ask Why"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1035",
-         "pubDate" : "Tue, 20 Apr 2021 17:05:24 +0000",
-         "title" : "Anish Giri defeats Wang Hao, tied for second in Candidates"
-      },
-      {
-         "description" : "Fabiano Caruana had a lot of time to prepare for his game against Maxime Vachier-Lagrave in round 8 of the Candidates, and he used it to find a new and dangerous idea in the Poisoned Pawn variation of the Najdorf, a favourite of the French player. \"MVL\" survived the opening and escaped into an endgame that objectively was a draw but difficult to defend. Karsten M&uuml;ller took a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-difficult-endgame-fabiano-caruana-vs-maxime-vachier-lagrave",
-         "pubDate" : "Tue, 20 Apr 2021 17:34:11 +0100",
-         "title" : "A difficult endgame: Fabiano Caruana vs Maxime Vachier-Lagrave"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will of course take a look at Kirill Alekseenko's win against Alexander Grischuk from the first round of the Candidates. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show",
-         "pubDate" : "Tue, 20 Apr 2021 16:48:07 +0100",
-         "title" : "The Weekly Show: The Candidates Tournament"
       }
    ]
 }
