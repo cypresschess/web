@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Training is important to become better at chess and a good coach helps to develop your talent. To recognize and celebrate the achievements of the chess training community, the FIDE Trainers Commission recently announced the winners of the 14th FIDE Trainer Awards for 2020-21.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-trainer-awards-2020-2021",
+         "pubDate" : "Tue, 11 May 2021 13:00:00 +0100",
+         "title" : "FIDE Trainer Awards 2020-2021"
+      },
+      {
+         "description" : "The famous chess youtuber Agadmator is startarting his previews on the Nepo Carlsen 2021 match. In a video titled &#8220;Does Nepo stand a chance against Magnus&#8221;, Agadmator analyses a key game in Nepo's career vs Peter Leko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/agadmator-on-nepo-carlsen-2021/",
+         "pubDate" : "Tue, 11 May 2021 11:06:38 +0000",
+         "title" : "Agadmator on Nepo - Carlsen 2021"
+      },
+      {
+         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is the sole leader of TCEC S21 QL after round 2. Consecutive wins vs Invictus and Bagatur give Koivisto 2,0/2. Koivisto Invictus (QGD) 1-0 Bagatur Koivisto (Slav defence) 0-1 Written in C++ and first released in September 2020, Koivisto is making []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/koivisto-is-the-sole-lead-at-s21-ql/",
+         "pubDate" : "Tue, 11 May 2021 10:20:29 +0000",
+         "title" : "Koivisto is the sole leader at S21 QL"
+      },
+      {
+         "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World Last year we lost a vote chess game by misjudging the position. We all have such games where for some reason we get stuck believing we are <a href=\"https://chessimprover.com/self-inflicted-wounds-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-2/\">Self Inflicted Wounds (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/self-inflicted-wounds-2/",
+         "pubDate" : "Tue, 11 May 2021 09:00:16 +0000",
+         "title" : "Self Inflicted Wounds (2)"
+      },
+      {
+         "description" : "There was no stopping the favourites at the Premier League and the Women's Tournament of the Russian Team Championships. Mednyi Vsadnik and the Moscow Chess Team won their final matches despite having secured first places with a round to spare. In the open section, the winning team had an inspired Andrey Esipenko on board 4 - the 19-year-old scored 6&frac12;/7 points. | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r9",
+         "pubDate" : "Tue, 11 May 2021 10:00:00 +0100",
+         "title" : "Esipenko impresses as Mednyi Vsadnik dominates the Russian Premier League"
+      },
+      {
          "description" : "In the diagram position White just attacked the bishop on f6 which is a prelude to a bishop sacrifice on e7 which will allow the white pawns to run. But with correct play the black bishop can stop the pawns. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bishop-stops-bishop-sacrifice",
          "pubDate" : "Tue, 11 May 2021 09:17:00 +0100",
          "title" : "Bishop stops bishop sacrifice"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1076",
+         "pubDate" : "Tue, 11 May 2021 07:41:34 +0000",
+         "title" : "Russian Team Championships: Favorites shine in Sochi"
+      },
+      {
+         "description" : "Chess Coach and FIDE Arbiter Shri Umesh Panbude took his last breath today at Nagpur after losing his battle against covid. He officiated in several",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rest-in-peace-shri-umesh-panbude/",
+         "pubDate" : "Tue, 11 May 2021 07:34:08 +0000",
+         "title" : "Rest in Peace Shri Umesh Panbude"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"\" /></a></div>",
@@ -202,28 +258,12 @@ news_feed (
          "title" : "Dante Beukes and Lishen Mentile win Namibia Championship 2021"
       },
       {
-         "description" : "Chinese Open Chess Championship 2021 is ongoing in Xinghua Jiangsu, being played from May 7- May 15. The event is a 11 rounds, robin-round system, with 11 Grandmasters and one International master. The top seeds are GM Wei Yi and GM Yu Yangyi, both rated above 2700. After round 4 Xu Zhihang, Xu Xiangyu, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chinese-chess-championship-2021/",
-         "pubDate" : "Sun, 09 May 2021 20:27:37 +0000",
-         "title" : "Chinese Chess Championship 2021"
-      },
-      {
          "description" : "Reading seems to have become a dying habit. With the advent of gadgets, distraction lurks around every corner and resisting the temptations has become increasingly difficult. A true bibliophile knows the essence of reading from a physical book - the smell of a newly printed one cannot be replaced by a digital version. Four-time Indian women's champion, Asian continental champion and Olympic individual gold medallist IM Padmini Rout reflects on Daniel King's book about Sultan Khan. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/learning-from-sultan-khan",
          "pubDate" : "Sun, 09 May 2021 21:15:00 +0100",
          "title" : "Learning from Sultan Khan"
-      },
-      {
-         "description" : "Serbian Youth Chess Championship 2021 took place from 1st-9th May 2021 in Subotica. Blitz, rapid and classical events gathered more than 180 players, playing within 6 age categories, boys and girls separately. Kids came back to the national championship after a one year pause, due to covid19 spread, fighting for qualifying spots for European and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-crowns-2021-youth-national-champions/",
-         "pubDate" : "Sun, 09 May 2021 19:50:37 +0000",
-         "title" : "Serbia crowns 2021 Youth National Champions!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a beginner&#039;s chess blunder by Anatoly Karpov at Wijk aan Zee 1993 against Larry Christiansen. 2021.04.28<br /> Larry Christiansen vs Anatoly Karpov, Hoogovens (1993)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069116\">https://www.chessgames.com/perl/chessgame?gid=1069116</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/worst-mistake-karpovs-career-shorts\"><img src=\"https://saintlouischessclub.org/sites/def",
@@ -272,6 +312,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/a-good-old-fashioned-simul.html",
          "pubDate" : "Sun, 09 May 2021 12:59:00 +0000",
          "title" : "A good old fashioned Simul"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1072",
+         "pubDate" : "Sun, 09 May 2021 11:25:50 +0000",
+         "title" : "Wojtaszek and Kulon win Polish Championship 2021"
       },
       {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
@@ -352,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mitropa-cup-round-4-czechia-in-the-lead",
          "pubDate" : "Sat, 08 May 2021 13:00:00 +0100",
          "title" : "Mitropa Cup, Round 4: Czechia and Italy in the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1072",
-         "pubDate" : "Sat, 08 May 2021 11:25:50 +0000",
-         "title" : "Wojtaszek and Kulon win Polish Championship 2021"
       },
       {
          "description" : "As regular readers of this column will know, the USSR created the mightiest state apparatus for the support of chess which the world has ever seen, or is likely to see. The engine for powering this enterprise was the USSR Chess Federation and the exploits of this imperium of the mind, for much of its []",
@@ -1234,14 +1274,6 @@ news_feed (
          "title" : "More games than you know how to play"
       },
       {
-         "description" : "An Online Senior Arbiter examination was organised by All India Chess Federation through Zoom platform from 24-25 April 2021. &#160;56 participants from Andhra Pradesh, Assam,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-senior-national-arbiter-examination-2021-results/",
-         "pubDate" : "Fri, 30 Apr 2021 11:10:07 +0000",
-         "title" : "Online Senior National Arbiter Examination 2021 : Results"
-      },
-      {
          "description" : "ChessBase Magazine is the most comprehensive and most sophisticated chess magazine there is. World-class players analyse their brilliancies and explain the ideas behind the moves to you, opening specialists present the latest trends in opening theory and offer exciting ideas for your repertoire. Master trainers in the fields of tactics, strategy, and the endgame show you the tricks and techniques a successful tournament player needs! DVD with several hours of video + booklet. Also available for download including the booklet in pdf!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2050,14 +2082,6 @@ news_feed (
          "title" : "Rapid Interview - Svitlana Demchenko"
       },
       {
-         "description" : " Over the last few weeks, we looked at The Italian Opening's first few moves, applying the opening principles to our examination of this specific opening. This week, we'll take the knowledge we've acquired since the start of this series of articles and apply it to the analysis of an actual game. I should note that <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifteen/\">A Foundation for Beginners Fifteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifteen/",
-         "pubDate" : "Fri, 23 Apr 2021 09:00:04 +0000",
-         "title" : "A Foundation for Beginners Fifteen"
-      },
-      {
          "description" : " In the quest to play better chess, and number of methods for deciding the best move or plan have been proposed. These include the Purdy Method, the Kotov Method, the Moisenko System, etc etc. Of course, if there was such a foolproof system chess would be a lot less interesting, as it would simply be a battle about who could implement the best method correctly. Nonetheless one system I don't mind is that proposed by Karpov in his book \"Find the Right Plan\". He boils it down to a single concept \"Restricting the mobility of your opponent's pieces is the most important law of chess\". The book contains a number of examples of this in practice, and a large number of studies where the goal is to t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2256,22 +2280,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/4/20/episode-223-dr-luka-popov-adult-improver-series",
          "pubDate" : "Tue, 20 Apr 2021 13:12:23 +0000",
          "title" : "Episode 223- Dr. Luka Popov (Adult Improver Series) "
-      },
-      {
-         "description" : " What a start for the Candidates' resume with Caruana and Alekseenko scoring after several hours and Nepomniachtchi reaching the top as a sole leader with 5 points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0AE6272B-DB55-44BF-B1AC-ED6003F2FBEF.png\" width=\"1336\" height=\"750\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes/FIDE</div> </div> Starting with the most interesting game of the day, Fabiano Caruana was clearly very well prepared and won with a remarkable style. Fabi took himself in a very dangerous position, with less material, but enough compensation to achieve an amazing win, and also entertain the whole chess community! Another surpr",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-round-8-nepo-at-the-top/",
-         "pubDate" : "Tue, 20 Apr 2021 11:07:55 +0000",
-         "title" : "Candidates Round 8 - Nepo at the top"
-      },
-      {
-         "description" : "In the fight bishop against knight the bishop is often superior, when it can operate on both wings. In the diagram position White is better. But can she win?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/room-to-move",
-         "pubDate" : "Tue, 20 Apr 2021 09:00:00 +0100",
-         "title" : "Room to move"
       }
    ]
 }
