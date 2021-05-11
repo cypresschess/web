@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1077",
+         "pubDate" : "Tue, 11 May 2021 22:11:49 +0000",
+         "title" : "Chess for Freedom Conference and Tournament: Brief recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NFxMcqUBKGI.jpg?itok=M0LsEBY2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andrey-esipenko-russian-team-chess-championship",
-         "pubDate" : "Tue, 11 May 2021 09:20:12 -0700",
+         "pubDate" : "Tue, 11 May 2021 09:20:00 -0700",
          "title" : "Esipenko Enters World's Top 30 At Russian Team Chess Championship"
       },
       {
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/21/basic-chess/",
          "pubDate" : "Wed, 21 Apr 2021 00:10:10 +0000",
          "title" : "Basic Chess"
-      },
-      {
-         "description" : "Anish Giri beat Wang Hao to climb to shared second place a half point behind sole leader Ian Nepomniachtchi at the Candidates Tournament in Yekaterinburg. Fabiano Caruana and Maxime Vachier-Lagrave are the other two players who make up the chasing pack, as they both drew their games in round 9 - while Caruana failed to make the most of his advantage against Kirill Alekseenko, MVL defended fiercely against Ding Liren. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r9",
-         "pubDate" : "Tue, 20 Apr 2021 23:55:00 +0100",
-         "title" : "Candidates Round 9: Giri wins, climbs to shared second place"
-      },
-      {
-         "description" : " Having been caught by some very deep Fabiano Caruana preparation yesterday, Maxime Vachier-Lagrave looked to be on track for a second loss in two days, this time against Ding Liren. Ding had a big advantage in the middlegame, and if he had played 36.Rxb6 it wasn't clear how MVL could have saved the game. Instead Ding chose a plan the involved pushing his passed d pawn, which turned out not to work. Despite attempts to exploit MVL's exposed king, Ding wasn't able to find anything more than a draw. This missed opportunity leaves Ding at the tail of the field, while MVL stays in touch with the leaders. <br /> <b>Ding,Liren (2791) - Vachier-Lagrave,Maxime (2758) [E60]</b><br />FIDE Candidates T",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/the-big-escape.html",
-         "pubDate" : "Tue, 20 Apr 2021 22:33:00 +0000",
-         "title" : "The big escape"
       }
    ]
 }
