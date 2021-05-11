@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Team Championships, with a focus on the game Rublevsky vs Askerov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-russian-team-championships",
+         "pubDate" : "Tue, 11 May 2021 16:59:28 +0100",
+         "title" : "The Weekly Show: The Russian Team Championships"
+      },
+      {
+         "description" : "12-year-old Abhimanyu Mishra scored his 2nd GM norm at the First Saturday GM Round Robin May 2021 with a round to spare. This is the second consecutive event in which Abhimanyu has scored a GM norm, with a dominating 2700+ performance. He is now just 29 Elo points and one GM norm away from becoming the world's youngest grandmaster. Abhi has annotated his eighth round game for us, and will play against ChessBase Premium Members tomorrow.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/second-gm-norm-for-abhimanyu-2",
+         "pubDate" : "Tue, 11 May 2021 16:48:35 +0100",
+         "title" : "Second GM norm for Abhimanyu"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620743128532-2T0AQXW32FTO0YT018C5/ke17ZwdGBToddI8pDm48kKOJBZlXbqRBJDAhlHP7fKFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vT2aF3hLJewItOsCrqocsM4WECN3fhTgF1KOmTVgXqJg/TK2.jpg\" data-image-dimensions=\"150x240\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of Tim Krabbe\" data-load=\"false\" data-image-id=\"609a93d86461ff444c8d130b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620743128532-2T0AQXW32FTO0YT018C5/ke17ZwdGBToddI8pDm48kKOJBZlXbqRBJDAhlHP7fKFZw-zPPgdn4jUw",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/11/episode-226-tim-krabbe",
+         "pubDate" : "Tue, 11 May 2021 14:29:15 +0000",
+         "title" : "Episode 226- Tim Krabbe "
+      },
+      {
+         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/s840/howlee.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"840\" data-original-width=\"840\" height=\"200\" src=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/w200-h200/howlee.png\" width=\"200\" /></a></td></tr><tr><td class=\"tr-caption\" style=\"text-align: center;\">White to play and Draw</td></tr></tbo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/always-double-check.html",
+         "pubDate" : "Tue, 11 May 2021 13:56:00 +0000",
+         "title" : "Always double check"
+      },
+      {
+         "description" : "Abhimanyu Mishra is on the way to become the youngest GM in history. The twelve year old boy from New Jersey is about to break the record if he grabs the GM title before September 5th. Mishra's race is against Sergey Karjakin, who currently holds the title of the youngest GM taking it with 12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abhimanyu-mishra-is-on-the-way-to-become-the-youngest-gm-in-history/",
+         "pubDate" : "Tue, 11 May 2021 12:54:50 +0000",
+         "title" : "Abhimanyu Mishra is on the way to become the youngest GM in history"
+      },
+      {
+         "description" : "Anish Giri returns to defend his title and fight for the same photo of a man on a horse as the 16-player MrDodgy Invitational 2.0 starts Wednesday May 12th. The blitz knockout tournament on chess24 has the kind of line-up chess fans would choose, with the likes of Baadur Jobava, Adhiban, Alexei Shirov and Daniil Dubov ensuring we can expect explosive action. Jan Gustafsson will commentate and there are trailers&hellip; lots of trailers!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-mrdodgy-invitational-is-back",
+         "pubDate" : "Tue, 11 May 2021 12:31:20 +0000",
+         "title" : "The MrDodgy Invitational is back!"
+      },
+      {
+         "description" : "Tanitoluwa (Tani) Adewumi, a 10-year-old Nigerian refugee who won the New York State K-3 Championship at eight years old, reached a new milestone last week: he conquered the title of national master (NM). Adewumi did so on May 1 at the Fairfield...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-adewumi-national-master-at-10",
+         "pubDate" : "Tue, 11 May 2021 05:22:00 -0700",
+         "title" : "Tani Adewumi Makes New Headlines Becoming National Master At 10"
+      },
+      {
          "description" : "Training is important to become better at chess and a good coach helps to develop your talent. To recognize and celebrate the achievements of the chess training community, the FIDE Trainers Commission recently announced the winners of the 14th FIDE Trainer Awards for 2020-21.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +296,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/adhiban-erigaisi-reach-the-champions-chess-tour",
          "pubDate" : "Sun, 09 May 2021 21:12:56 +0000",
          "title" : "Adhiban & Erigaisi reach the Champions Chess Tour"
-      },
-      {
-         "description" : "The first phase of the El Salvador National ChampionshipSuperior category 2021 concluded today with the announcement of four semifinalists who continue the fight for the National Champion title on 15-16 May 2021. 23 players participated in the first open phase of the event, and the top 4 proceed to the second, knock-out phase: Sura Kalvin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/el-salvador-national-championship-2021/",
-         "pubDate" : "Sun, 09 May 2021 20:53:30 +0000",
-         "title" : "El Salvador National Championship 2021"
       },
       {
          "description" : "",
@@ -1306,14 +1354,6 @@ news_feed (
          "title" : "New in Chess Classic: Eventful mini-matches"
       },
       {
-         "description" : "Hikaru Nakamura leads Shakhriyar Mamedyarov going into Day 2 of the New in Chess Classic semi-finals after emerging victorious from a brutal four decisive games. There was just as much drama in the other match, with Magnus Carlsen tricking Levon Aronian into a terrible blunder in the third game. Peter Leko wondered how Levon would be able to play the fourth, but in fact the Armenian star was pressing throughout before grabbing a win just when Magnus seemed to have escaped.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-sf1-naka-leads-as-lev-hits-back-to-tie-magnus",
-         "pubDate" : "Fri, 30 Apr 2021 01:54:52 +0000",
-         "title" : "New in Chess Classic, SF1: Naka leads as Lev hits back to tie Magnus"
-      },
-      {
          "description" : " From the publisher: &#8220;If you had to choose a single luxury chess item to take to a desert island, then how about this: a superb selection of 400 puzzles to solve? Each author has carefully chosen 100 original positions, graded by difficulty and theme into four sections of 25. The emphasis throughout is on entertainment, <a href=\"http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Desert Island Chess Puzzle Omnibus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/\">Desert Island Chess Puzzle",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2154,14 +2194,6 @@ news_feed (
          "title" : "Nepomniachtchi beats Alekseenko to stretch his lead"
       },
       {
-         "description" : "For the second time during the FIDE Candidates Tournament, GM Ian Nepomniachtchi leads by a full point. Today the Russian GM scored a quick win vs. his compatriot GM Kirill Alekseenko and saw his rivals draw their games. In his second Sveshnikov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-chess-tournament-round-10",
-         "pubDate" : "Wed, 21 Apr 2021 11:49:00 -0700",
-         "title" : "FIDE Candidates Tournament R10: Nepomniachtchi Wins Quickly, Increases Lead"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look at the Candidates and presents the highlight of round 8: Anish Giri's fine win against Wang Hao. Instructive and pleasant. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,22 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show",
          "pubDate" : "Tue, 20 Apr 2021 16:48:07 +0100",
          "title" : "The Weekly Show: The Candidates Tournament"
-      },
-      {
-         "description" : " The ninth round of the resumed FIDE Candidates Chess tournament in Yekaterinburg saw just one decisive game with Anish Giri defeating Wang Hao and this win moved him up into a share of second place half a point behind the leader Ian Nepomniachtchi. This total number of wins could and probably should have been higher today with MVL having a lucky escape against Ding Liren. Nepomniachtchi drew with black against Alexander Grischuk. Giri produced a small surprise in choosing the Catalan against Wang Hao and he obtained a nice position where he could gradually improve. 27...g6 was a mistake that gave Giri good winning chances although 33.Rc4 allowed 33...Rd1 which the computers think is equal a",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/giri-moves-into-contention-in-the-candidates-after-nine-rounds",
-         "pubDate" : "Tue, 20 Apr 2021 18:48:00 +0400",
-         "title" : "Giri moves into contention in the Candidates after nine rounds - 9"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1618924055149-4K58H2UHKSB9SF80N8GQ/ke17ZwdGBToddI8pDm48kEvonoQr3WeSPkLi_edJPCF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmzUsryC7riGV7bTeYhg5Selgr7qaswEeERMnIQa7Mt3_PVZ2EpG0e_yhgAwPtZYyY/luka-sah-2.jpg\" data-image-dimensions=\"1290x1376\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of Dr. Luka Popov\" data-load=\"false\" data-image-id=\"607ed2179769fc1b3270648c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1618924055149-4K58H2UHKSB9SF80N8GQ/k",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/4/20/episode-223-dr-luka-popov-adult-improver-series",
-         "pubDate" : "Tue, 20 Apr 2021 13:12:23 +0000",
-         "title" : "Episode 223- Dr. Luka Popov (Adult Improver Series) "
       }
    ]
 }
