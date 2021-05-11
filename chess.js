@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just attacked the bishop on f6 which is a prelude to a bishop sacrifice on e7 which will allow the white pawns to run. But with correct play the black bishop can stop the pawns. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishop-stops-bishop-sacrifice",
+         "pubDate" : "Tue, 11 May 2021 09:17:00 +0100",
+         "title" : "Bishop stops bishop sacrifice"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/elephant-gambit-chess-openings-explained",
+         "pubDate" : "Tue, 11 May 2021 03:42:04 +0000",
+         "title" : "The Elephant Gambit | Chess Openings Explained"
+      },
+      {
          "description" : "Ian Nepomniachtchi is getting ready to challenge Magnus Carlsen at every aspect. Back in 2013 Carlsen made the symbolic kick-off at a Real Madrid game. Today Nepo followed suit with a symbolic kick-off in Spartak Moscow's game. Sergey Karjakin also opened a Spartak Moscow match before at the time he was a challenger. At that []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qualification-for-fide-women-s-candidates-tournament-2022-announced",
          "pubDate" : "Thu, 06 May 2021 10:00:00 +0100",
          "title" : "Qualification for FIDE Women's Candidates Tournament 2022 announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Magnus Carlsen&#039;s victory over Hikaru Nakamura from 2013 Tata Steel in Wijk aan Zee, a round robin that the future world champion eventually won. 2021.05.05<br /> Magnus Carlsen vs Hikaru Nakamura, Tata Steel Group A (2013): B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1705534\">https://www.chessgames.com/perl/chessgame?gid=1705534</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-melts-down-naka-tata-steel-13-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 06 May 2021 00:37:02 +0000",
-         "title" : "Magnus Melts Down Naka at Tata Steel '13 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "How well would you do against a PogChamps winner? If that question ever crossed your mind, we have good news! You can now test your wits against each of the PogChampions, as well as other chess personalities on our Play Computer page. Play again...",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/room-to-move",
          "pubDate" : "Tue, 20 Apr 2021 09:00:00 +0100",
          "title" : "Room to move"
-      },
-      {
-         "description" : "Fabiano Caruana defeated former co-leader Maxime Vachier-Lagrave in round 8 of the Candidates Tournament, once the event resumed a year after having been postponed due to the sanitary crisis. Caruana played a sharp novelty out of a Najdorf Sicilian and eventually got a slightly superior endgame, which he turned into a remarkable victory. In the other decisive game of the day Kirill Alekseenko defeated Alexander Grischuk. Ian Nepomniachtchi is now the sole leader of the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r8",
-         "pubDate" : "Tue, 20 Apr 2021 07:35:00 +0100",
-         "title" : "Candidates Round 8: Caruana impresses, wins marathon"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/B7E0DDEE-AF9A-40AD-948F-50A4C88148D7.png\" width=\"1336\" height=\"750\" alt=\"\" /> <div class=\"e2-text-caption\">Fabiano Caruana (left) and MVL during the 8th round of the Candidates. Lennart Ootes/FIDE</div> </div> The Candidates Tournament resumed today after a 390-day Covid break. Yan Nepomniachtchi emerged as a sole leader after drawing with Anish Giri. His main opponent, French chess player Maxime Vachier-Lagrave lost to the winner of the 2018 Candidates Fabiano Caruana. Read the <a href=\"https://fide.com/news/1033\">FIDE</a> report of the round. ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-leads-the-candidates-by-0-5-point/",
-         "pubDate" : "Tue, 20 Apr 2021 05:19:26 +0000",
-         "title" : "Nepo Leads the Candidates by 0.5 Point"
       }
    ]
 }
