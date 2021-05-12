@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Vladimir Artemiev won the May 11 Titled Tuesday tournament with a score of 10/11. Of seven players tied for second place entering the final round, three won to finish on 9.5/11. After tiebreaks, GM Daniil Dubov took second place, GM Levan Pants...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artemiev-wins-may-11-titled-tuesday",
+         "pubDate" : "Wed, 12 May 2021 11:27:04 -0700",
+         "title" : "Artemiev Wins May 11 Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1078",
+         "pubDate" : "Wed, 12 May 2021 17:56:05 +0000",
+         "title" : "Montenegro Championship: Luka Draskovic wins his first national title"
+      },
+      {
+         "description" : "Lithuanian speaker of the Seimas (the parliament of Lithuania), Viktorija Cmilyte-Nielsen holds Grandmaster and Women Grand Master chess titles! During the meeting with the speaker of the Armenian parliament, Viktorija showed us a photo, proving that chess and politics often go together! Read more: ECU Secretary General -&#8220;We should be proud of Women chess players&#8221;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/does-chess-go-well-with-politics-tweetoftheday/",
+         "pubDate" : "Wed, 12 May 2021 17:34:29 +0000",
+         "title" : "Does Chess go well with Politics? #TweetOftheDay"
+      },
+      {
+         "description" : "On Monday, IM Abhimanyu Mishra scored his second GM norm at the May 2021 First Saturday Tournament in Budapest, Hungary. The 12-year-old player from New Jersey is 29 Elo points and one GM norm away from becoming the youngest-ever grandmaster in hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abhimanyu-mishra-second-gm-norm-karjakin-record",
+         "pubDate" : "Wed, 12 May 2021 10:21:40 -0700",
+         "title" : "Abhimanyu Mishra Scores 2nd GM Norm, Closing In On Karjakin's Record"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look at the Russian Team Championships, in which the 19-year Russian talent Andrey Esipenko showed a fine performance and played a number of impressive games. The focus will be on his win against M. Kobalia. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-a-esipenko-vs-m-kobalia",
+         "pubDate" : "Wed, 12 May 2021 18:00:00 +0100",
+         "title" : "Game of the Week: A. Esipenko vs M. Kobalia"
+      },
+      {
+         "description" : "Italian Chess Federation teams dominated the Mitropa Chess Cup 2021 topping both Open and Women's sections! Three teams tied for the first place in Open section after 8 played rounds: Italy, Czech Republic and Slovakia. Eventually, Italy and Slovakia scored in the last round to tie for the top. One board point difference decided that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italy-wins-mitropa-chess-cup-2021/",
+         "pubDate" : "Wed, 12 May 2021 16:52:05 +0000",
+         "title" : "Italy wins Mitropa Chess Cup 2021"
+      },
+      {
          "description" : "60 years ago today, on 12 May 1961, the return World Championship match between Mihail Tal and Mikhail Botvinnik, which had started in Moscow on 15 March, came to an end. Tal had won the first match in 1960 with 12.5-8.5, but in the return match Botvinnik regained the world championship title and defeated Tal 13-8 (+10, -5, =6). But despite the clear result Botvinnik's victory still failed to convince.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
          "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
          "title" : "60 years ago: Botvinnik wins return match against Tal"
+      },
+      {
+         "description" : " The Mr Dodgy Invitational 2 takes place online on Chess24 May 12th - 16th 2021. This 16 player KO blitz (5 minutes no increment) tournament has a strong field. Simon Williams, Peter Heine Nielsen, Nils Grandelius, Jorden van Foreest, Daniil Dubov, Vidit Gujrathi, Alexei Shirov, David Howell, Laurent Fressinet, Pepe Cuenca, David Navara, Baadur Jobava, Peter Svidler, Anish Giri, Baskaran Adhiban and Alexander Grischuk. Anish Giri won the event last year.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/mr-dodgy-invitational-2-2021",
+         "pubDate" : "Wed, 12 May 2021 19:44:00 +0400",
+         "title" : "Mr Dodgy Invitational 2 2021 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Elephant Gambit, a rare opening starting with 1.e4 e5 2.Nf3 d5!? 2021.05.10<br /> C40 QP counter-gambit (elephant gambit)<br /> C40 QP counter-gambit, Maroczy gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-out-elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watch-out-elephant-gambit-chess-openings-explained",
+         "pubDate" : "Wed, 12 May 2021 15:43:28 +0000",
+         "title" : "Watch Out for The Elephant Gambit! | Chess Openings Explained"
       },
       {
          "description" : " The Owen's Defence with 1b6 is a popular choice at club level because it throws White out of &#8216;book' (well probably) and needs little theory to play. Some years back I did a DVD on this opening and decided that the line with 1.e4 b6 2.d4 Bb7 3.Nd2 was difficult for Black, who could at <a href=\"https://chessimprover.com/obliterate-em-with-the-owens/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Obliterate 'em with the Owen's\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/obliterate-em-with-the-owens/\">Obliterate 'em with the Owen's</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -82,7 +146,7 @@ news_feed (
          "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NFxMcqUBKGI.jpg?itok=M0LsEBY2\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames, using games from Lev Psakhis and Friedel himself. 2021.05.11<br /> Lev Psakhis vs. Mark Hebden, 1983<br /> <a href=\"https://old.chesstempo.com/gamedb/game/1844637\">https://old.chesstempo.com/gamedb/game/1844637</a><br /> Bernd Salvermoser vs. Josh Friedel, 2007 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclu",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/king-power-insane-endgame-gm-josh-friedel",
@@ -272,22 +336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-adhiban-to-win-indian-qualifier",
          "pubDate" : "Mon, 10 May 2021 20:32:03 +0000",
          "title" : "Erigaisi beats Adhiban to win Indian Qualifier"
-      },
-      {
-         "description" : "The&#160;73rd edition of the Montenegro Individual Chess Championship&#160;concluded in Podgorica. 26 year old IM Luka Draskovic claimed the title of the National Champion for the first time in his chess career. With a score of 7 points, he was the sole winner of the event, leaving behind GM Dragisa Blagojevic with 6.5 points and a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/draskovic-luka-wins-montenegro-chess-championship-2021/",
-         "pubDate" : "Mon, 10 May 2021 20:30:02 +0000",
-         "title" : "Draskovic Luka wins Montenegro Chess Championship 2021"
-      },
-      {
-         "description" : "Indian Qualifiers, a qualification tournament for the Meltwater Champions Chess Tour concluded today through chess24. GM Erigaisi Arjun and GM Adhiban Baskaran won the two Tour spots as the Finalists of this 16 players knockout tournament. The final match started with 4 draws, but Erigaisi defeated Adhiban in the first blitz game, holding a draw []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/erigaisi-arjun-and-adhiban-baskaran-qualify-for-the-meltwater-champions-chess-tour/",
-         "pubDate" : "Mon, 10 May 2021 20:09:40 +0000",
-         "title" : "Erigaisi Arjun and Adhiban Baskaran qualify for the Meltwater Champions Chess Tour"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /></a></div>",
@@ -656,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship",
          "pubDate" : "Fri, 07 May 2021 00:37:42 +0000",
          "title" : "2021 Saint Louis Corporate Chess League: Virtual Spring Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz teaches a chess class on a topic of his choice. 2021.05.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q5q6OYuk6sA.jpg?itok=ltuvC0aP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz",
-         "pubDate" : "Fri, 07 May 2021 00:37:42 +0000",
-         "title" : "The Nd5 Sacrifice | Grandmaster's Choice - GM Dariusz Swiercz"
       },
       {
          "description" : "",
@@ -2042,14 +2082,6 @@ news_feed (
          "title" : "2020/1 Candidates, Round 12: Nepo, Giri, MVL Win"
       },
       {
-         "description" : "GM Anish Giri&#39;s excellent win with the black pieces in round 12 against GM Fabiano Caruana had little effect as GM Wang Hao failed to hold a difficult ending against GM Ian Nepomniachtchi, who continues to lead the FIDE Candidates Tournament by ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-chess-tournament-round-12",
-         "pubDate" : "Sat, 24 Apr 2021 12:56:00 -0700",
-         "title" : "FIDE Candidates Tournament: 4 Winners, Nepomniachtchi Maintains Lead"
-      },
-      {
          "description" : " Making a mistake before the game really starts is very painful. I had this experience several times. The game gets going and I am not fully into it yet. Because of lack of focus I quickly run over a critical moment or mess up my opening. What happens when I trust half-knowledge you can read [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/pre-game-routine/\">My Pre-Game Routine</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2136,14 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1037",
          "pubDate" : "Fri, 23 Apr 2021 21:05:03 +0000",
          "title" : "Anish Giri defeats Ding Liren and continues pursuit"
-      },
-      {
-         "description" : "GM Anish Giri moved up to second place in the FIDE Candidates Tournament standings after beating GM Ding Liren on Friday. The Dutch GM is half a point behind GM Ian Nepomniachtchi, who drew a fairly unambitious game with GM Fabiano Caruana. GM M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-chess-tournament-round-11",
-         "pubDate" : "Fri, 23 Apr 2021 13:57:00 -0700",
-         "title" : "FIDE Candidates Tournament R11: Giri Approaches Nepomniachtchi, MVL Stumbles"
       },
       {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week some topics are Schwarzenegger vs. Tyson, who Bob Wade was, and some analysis of the Candidates Tournament, including some further predictions.",
@@ -2248,14 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1036",
          "pubDate" : "Wed, 21 Apr 2021 20:04:34 +0000",
          "title" : "Nepomniachtchi beats Alekseenko to stretch his lead"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at the Candidates and presents the highlight of round 8: Anish Giri's fine win against Wang Hao. Instructive and pleasant. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-anish-giri-vs-wang-hao-candidates-rd-8",
-         "pubDate" : "Wed, 21 Apr 2021 17:06:23 +0100",
-         "title" : "Game of the Week: Anish Giri vs Wang Hao, Candidates, Rd. 8"
       }
    ]
 }
