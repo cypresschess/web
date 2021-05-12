@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner gets entered into a raffle to win a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B_wy-43qP8M.jpg?itok=QLgVLRs_\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. This was the first stream from Chess House II. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby",
@@ -178,7 +178,7 @@ news_feed (
          "title" : "Rest in Peace Shri Umesh Panbude"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.10<br /> C40 QP counter-gambit (elephant gambit)<br /> C40 QP counter-gambit, Maroczy gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/elephant-gambit-chess-openings-explained",
