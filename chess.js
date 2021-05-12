@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner gets entered into a raffle to win a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B_wy-43qP8M.jpg?itok=QLgVLRs_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby",
+         "pubDate" : "Wed, 12 May 2021 00:42:56 +0000",
+         "title" : "Road to 2000 Tournament IV - NM Caleb Denby"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,7 +234,7 @@ news_feed (
          "title" : "Russian Team Chess Championships 2021 concluded"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns a prize TBD. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B_wy-43qP8M.jpg?itok=QLgVLRs_\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz",
          "pubDate" : "Fri, 07 May 2021 00:37:42 +0000",
          "title" : "The Nd5 Sacrifice | Grandmaster's Choice - GM Dariusz Swiercz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz reviews the best games played this week in world class chess. 2021.05.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jdSZ82QTmJ8.jpg?itok=qzFX2LVU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz-lichessorg",
-         "pubDate" : "Thu, 06 May 2021 21:37:31 +0000",
-         "title" : "Wojtaszek in the 2021 Polish Championship | Games of the Week - GM Dariusz Swiercz | lichess.org"
       },
       {
          "description" : "",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-vs-the-challengers-19-5-2-5",
          "pubDate" : "Wed, 21 Apr 2021 09:51:48 +0100",
          "title" : "Carlsen vs. The Challengers: 19.5:2.5"
-      },
-      {
-         "description" : " From the publisher: &#8220;Now anyone can play chess with this straightforward, jargon-free introduction. Written especially for beginners, it's the most comprehensive manual available and includes everything from explanations of each piece to orchestrating endgames. In addition to expert advice, simple instructions, and more than 200 easy-to-follow diagrams, novices will find: basic tactical principles, aggressive openings, <a href=\"http://britishchessnews.com/2021/04/21/basic-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Basic Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/21/basic-c",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/21/basic-chess/",
-         "pubDate" : "Wed, 21 Apr 2021 00:10:10 +0000",
-         "title" : "Basic Chess"
       }
    ]
 }
