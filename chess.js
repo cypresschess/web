@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Accedia Chess Masters 2021 is going to start this May 15th in Sofia, Bulgaria. The event is organized by Chess Club Elit and Chess Club En Passan, and will be a 262 players over-the-board event with 11 GMs and 29 titled players. Top seeded are GM Ivan Cheparinov, GM Ivan Salgado, and GM Boris Chatalbashev. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/accedia-chess-masters-2021/",
+         "pubDate" : "Wed, 12 May 2021 11:12:15 +0000",
+         "title" : "Accedia Chess Masters 2021"
+      },
+      {
+         "description" : "Nicaragua Youth Chess Championships 2021 concluded a few days ago and Youth National Champions of sections U10, U12, U14, U16 and U18 were announced. After 6 played rounds in each category, the Winners are: U10 Matus Acevedo Ariadna LuciaU12 Aleman Martinez Verania MonserratU14 Cantero Randy JoseU16 Vanegas Lopez NatanaelU18 Mondragon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nicaragua-chess-championships-2021/",
+         "pubDate" : "Wed, 12 May 2021 10:04:08 +0000",
+         "title" : "Nicaragua Chess Championships 2021"
+      },
+      {
+         "description" : "The Chinese Chess Championships are being played on May 7-15 in Xinghua Jiangsu, a county-level city in eastern China. After seven rounds, three players are sharing the lead in the open event while rating favourite Tan Zhongyi has grabbed the sole lead in the women's tournament. | Pictured: Tan Zhongyi during the 2018 Women's World Championship | Photo: Gu Xiaobang",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-championships-2021-r7",
+         "pubDate" : "Wed, 12 May 2021 11:00:00 +0100",
+         "title" : "Chinese Chess Championships in Xinghua Jiangsu"
+      },
+      {
+         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-3",
+         "pubDate" : "Wed, 12 May 2021 10:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. This was the first stream from Chess House II. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby",
          "pubDate" : "Wed, 12 May 2021 00:42:56 +0000",
          "title" : "Road to 2000 Tournament IV - NM Caleb Denby"
+      },
+      {
+         "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/",
+         "pubDate" : "Wed, 12 May 2021 00:10:58 +0000",
+         "title" : "Technical Decision Making in Chess"
       },
       {
          "description" : "",
@@ -154,6 +194,14 @@ news_feed (
          "title" : "Esipenko impresses as Mednyi Vsadnik dominates the Russian Premier League"
       },
       {
+         "description" : "ClassicAra is the new co-leader of TCEC S21 QL. After five rounds ClassicAra (live ELO 3338) has collected 4,5/5 and has joined Koivisto at the top of the standings. ClassicAra is an original open source neural network-based chess engine by Johannes Czech, Moritz Willig and Alena Beyer, written in Python and C++. It is the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/classicara-joins-the-lead-at-tcec-s21-ql/",
+         "pubDate" : "Tue, 11 May 2021 08:22:00 +0000",
+         "title" : "ClassicAra joins the lead at TCEC S21 QL"
+      },
+      {
          "description" : "In the diagram position White just attacked the bishop on f6 which is a prelude to a bishop sacrifice on e7 which will allow the white pawns to run. But with correct play the black bishop can stop the pawns. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,14 +274,6 @@ news_feed (
          "title" : "Erigaisi Arjun and Adhiban Baskaran qualify for the Meltwater Champions Chess Tour"
       },
       {
-         "description" : "The 28th Russian Team Championship Premier League and the 22nd Russian Women's Team Championship concluded today in Sochi. Teams of Mednyi Vsadnik in Open section and the Moscow Chess Team in Women's section convincingly won the events with a round to spare, and the last round results affected only the medalists. Read more: Russian Team []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/russian-team-chess-championships-2021-concluded/",
-         "pubDate" : "Mon, 10 May 2021 19:51:11 +0000",
-         "title" : "Russian Team Chess Championships 2021 concluded"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2021",
          "pubDate" : "Mon, 10 May 2021 19:11:00 +0400",
          "title" : "Russian Team Championship 2021 - "
-      },
-      {
-         "description" : "Greek International Master Theodorou Nikolas won the 2021 Missouri Grand Championship which took place from 5th-9th May in Stoney Creek Hotel &#38; Conference Center, Columbia/Missouri. Theodorou scored 8/9 points to be the sole winner of the event. IM Kevlishvili Robby with 7 points took second place and GM Repka Christopher with score of 6 points []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/theodorou-nikolas-wins-missouri-grand-championship-2021/",
-         "pubDate" : "Mon, 10 May 2021 14:06:37 +0000",
-         "title" : "Theodorou Nikolas wins Missouri Grand Championship 2021"
       },
       {
          "description" : "The Candidates Tournament 2020/2021 brought a wealth of interesting games and interesting novelties. After all, the players had more than one year to prepare for seven games. In his two-part reflection on the Candidates the Canadian FM Joshua Doknjas takes a close look at the most important theoretical developments in the Candidates and discusses various strategies of preparation. | Photo: Tournament winner Ian Nepomniachtchi | Photo: Lennart Ootes",
@@ -328,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r8",
          "pubDate" : "Mon, 10 May 2021 08:26:00 +0100",
          "title" : "Winners decided with a round to spare at the Russian Team Championships"
-      },
-      {
-         "description" : "Season 21 of the Top Chess Engine Championship starts today at 17:00 UTC. A total of 46 engines will embark on a quest for glory in the most prestigious computer chess event. Stockfish, the winner of Season 20 and holder of record number of TCEC titles, will have serious contenders among them Lc0, Komodo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-s21-starts-today/",
-         "pubDate" : "Sun, 09 May 2021 22:40:37 +0000",
-         "title" : "TCEC S21 starts today"
       },
       {
          "description" : "\"I'm just so happy, because I've been waiting for almost a year to get this chance!\" said Adhiban after beating Aravindh to reach the final of the Indian Qualifier and book a place in the June event of the Meltwater Champions Chess Tour. He'll be joined on the Tour and in the final by 17-year-old Arjun Erigaisi, who bounced back from losing his first game to beat Gukesh in the remaining three games.",
@@ -2248,22 +2272,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/candidates-news-round-9-giri-beats-wang-hao/",
          "pubDate" : "Wed, 21 Apr 2021 12:00:04 +0000",
          "title" : "Candidates Round 9 - Giri beats Wang Hao"
-      },
-      {
-         "description" : "In round eight of the Candidates, Maxime Vachier-Lagrave had a difficult endgame against Fabiano Caruna. \"MVL\" could have drawn but lost. In round nine, \"MVL\" again had a difficult endgame, this time against Ding Liren. The game ended in a draw but Ding Liren could have won. Karsten M&uuml;ller took a closer look. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-round-9-ding-liren-missed-a-win",
-         "pubDate" : "Wed, 21 Apr 2021 11:04:36 +0100",
-         "title" : "Candidates, Rd. 9: Ding Liren missed a win"
-      },
-      {
-         "description" : "Magnus Carlsen loves chess and he loves a challenge. On Monday, after commentating round 8 of the Candidates for several hours live, the World Champion played a 22 game 3+0 Banter Blitz match against the \"Challengers\", 20 of the world's most promising juniors. Carlsen convincingly won the match with a score of 19.5-2.5. He only lost against Nihal Sarin and Awonder Liang and drew against Vincent Keymer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-the-challengers-19-5-2-5",
-         "pubDate" : "Wed, 21 Apr 2021 09:51:48 +0100",
-         "title" : "Carlsen vs. The Challengers: 19.5:2.5"
       }
    ]
 }
