@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1079",
+         "pubDate" : "Wed, 12 May 2021 20:29:52 +0000",
+         "title" : "\"Chess Behind Bars\""
+      },
+      {
          "description" : "GM Vladimir Artemiev won the May 11 Titled Tuesday tournament with a score of 10/11. Of seven players tied for second place entering the final round, three won to finish on 9.5/11. After tiebreaks, GM Daniil Dubov took second place, GM Levan Pants...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-2020-r10",
          "pubDate" : "Thu, 22 Apr 2021 01:10:00 +0100",
          "title" : "Candidates Round 10: Nepomniachtchi widens the gap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1036",
-         "pubDate" : "Wed, 21 Apr 2021 20:04:34 +0000",
-         "title" : "Nepomniachtchi beats Alekseenko to stretch his lead"
       }
    ]
 }
