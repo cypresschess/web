@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "60 years ago today, on 12 May 1961, the return World Championship match between Mihail Tal and Mikhail Botvinnik, which had started in Moscow on 15 March, came to an end. Tal had won the first match in 1960 with 12.5-8.5, but in the return match Botvinnik regained the world championship title and defeated Tal 13-8 (+10, -5, =6). But despite the clear result Botvinnik's victory still failed to convince.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
+         "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
+         "title" : "60 years ago: Botvinnik wins return match against Tal"
+      },
+      {
+         "description" : " The Owen's Defence with 1b6 is a popular choice at club level because it throws White out of &#8216;book' (well probably) and needs little theory to play. Some years back I did a DVD on this opening and decided that the line with 1.e4 b6 2.d4 Bb7 3.Nd2 was difficult for Black, who could at <a href=\"https://chessimprover.com/obliterate-em-with-the-owens/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Obliterate 'em with the Owen's\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/obliterate-em-with-the-owens/\">Obliterate 'em with the Owen's</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/obliterate-em-with-the-owens/",
+         "pubDate" : "Wed, 12 May 2021 13:00:52 +0000",
+         "title" : "Obliterate 'em with the Owen's"
+      },
+      {
          "description" : "Accedia Chess Masters 2021 is going to start this May 15th in Sofia, Bulgaria. The event is organized by Chess Club Elit and Chess Club En Passan, and will be a 262 players over-the-board event with 11 GMs and 29 titled players. Top seeded are GM Ivan Cheparinov, GM Ivan Salgado, and GM Boris Chatalbashev. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1077",
          "pubDate" : "Tue, 11 May 2021 22:11:49 +0000",
          "title" : "Chess for Freedom Conference and Tournament: Brief recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1075",
+         "pubDate" : "Tue, 11 May 2021 20:26:00 +0000",
+         "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NFxMcqUBKGI.jpg?itok=M0LsEBY2\" alt=\"\" /></a></div>",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/draskovic-luka-wins-montenegro-chess-championship-2021/",
          "pubDate" : "Mon, 10 May 2021 20:30:02 +0000",
          "title" : "Draskovic Luka wins Montenegro Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1075",
-         "pubDate" : "Mon, 10 May 2021 20:26:00 +0000",
-         "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
       },
       {
          "description" : "Indian Qualifiers, a qualification tournament for the Meltwater Champions Chess Tour concluded today through chess24. GM Erigaisi Arjun and GM Adhiban Baskaran won the two Tour spots as the Finalists of this 16 players knockout tournament. The final match started with 4 draws, but Erigaisi defeated Adhiban in the first blitz game, holding a draw []",
@@ -674,7 +690,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The aggressive Rossolimo Sicilian"
       },
       {
-         "description" : " Share!27 Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!40 Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "2021 ACT Chess Championship"
       },
       {
-         "description" : " I've been thinking more about positional sacrifices recently. I believe this is an area where chess has moved on a lot from the far off days of more than half a century ago when I was learning the game. I was White in this online blitz game, having just traded minor pieces on d5. It <a href=\"https://chessimprover.com/exchange-sacrifice/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Exchange Sacrifice\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/exchange-sacrifice/\">Exchange Sacrifice</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/exchange-sacrifice/",
-         "pubDate" : "Sun, 25 Apr 2021 11:59:30 +0000",
-         "title" : "Exchange Sacrifice"
-      },
-      {
          "description" : "The New in Chess Classic, the fifth leg of the Champions Chess Tour, began on Saturday. GM Teimour Radjabov leads with 4/5 ahead of GM Magnus Carlsen and GM Alireza Firouzja, who are on 3.5/5. How to watch?The games of the New in Chess Classic p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2248,30 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-anish-giri-vs-wang-hao-candidates-rd-8",
          "pubDate" : "Wed, 21 Apr 2021 17:06:23 +0100",
          "title" : "Game of the Week: Anish Giri vs Wang Hao, Candidates, Rd. 8"
-      },
-      {
-         "description" : " Ian Nepomniachtchi opened up a one point lead going into the first rest day of the resumed Candidates tournament in Yekaterinburg. In the tenth round Nepomniachtchi had a relatively easy victory against Kirill Alekseenko who looked thoroughly dejected afterwards. The remaining games were drawn. Not only does Nepomniachtchi lead but he has white against his main rivals Fabiano Caruana (in Round 11) and Maxime Vachier-Lagrave (in Round 13). He will however have to negotiate a potentially very tricky final round game against Ding Liren with black if it comes to that. Nepomniachtchi played the English and caught Alekseenko unprepared and he quickly was completely lost. Alekseenko said afterward",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/nepomniachtchi-strengthens-his-lead-in-the-fide-candidates-after-round-10",
-         "pubDate" : "Wed, 21 Apr 2021 19:23:00 +0400",
-         "title" : "Nepomniachtchi strengthens his lead in the FIDE Candidates after Round 10 - 10"
-      },
-      {
-         "description" : "The Yearbook 2021 hard copy version is now available to order &pound;15.50 for members, &pound;17.50 for non-members! You can find the online order form...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2021/",
-         "pubDate" : "Wed, 21 Apr 2021 14:00:58 +0000",
-         "title" : "ECF Yearbook 2021 available to order!"
-      },
-      {
-         "description" : " Another day, many more great games from the World's best Grandmasters. So what happened at R9 of the #FIDECandidates Tournament yesterday? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed-2.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Cover photo by Lennart Ootes/FIDE</div> </div> <h2>Chinese wall Breakdown</h2> Anish Giri won Wang Hao showing his exceptional technical skills. What surprised us the most though was the position estimation that the two Grandmasters had during their game, as they revealed at the press conference. Giri believed that he had only a minimal advantage on his side, while Wang Hao did not see good continua",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-news-round-9-giri-beats-wang-hao/",
-         "pubDate" : "Wed, 21 Apr 2021 12:00:04 +0000",
-         "title" : "Candidates Round 9 - Giri beats Wang Hao"
       }
    ]
 }
