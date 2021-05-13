@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Open Chess Championship of Dominican takes place from 7th-23rd May 2021 in Distrito Nacional. The event gathered 60 participants, competing in 11 rounds for the National Champion title! Top seeded is IM Munoz Santana Jose Lisandro, 6 times Dominican National Chess Champion (2006, 2009, 2012, 2014, 2016, 2017). Starting list of participants: No. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dominican-chess-championship-2021/",
+         "pubDate" : "Thu, 13 May 2021 21:57:53 +0000",
+         "title" : "Dominican Chess Championship 2021"
+      },
+      {
+         "description" : "European Girls' and Women's Chess Weekend kicks off tomorrow with a wide range of events: tournaments, workshops, team battle, simultaneous exhibitions and coaching sessions. Many events don't require a pre-registration and all are open to all interested female participants, regardless of their chess knowledge, title or rating! #TweetOftheDay",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-girls-and-womens-weekend-starts-tweetoftheday/",
+         "pubDate" : "Thu, 13 May 2021 21:45:13 +0000",
+         "title" : "ECU Girls' and Women's weekend starts! #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1080",
+         "pubDate" : "Thu, 13 May 2021 21:34:16 +0000",
+         "title" : "Law Academy (Kharkiv) wins Ukrainian Team Championship"
+      },
+      {
+         "description" : " Sergey Karjakin's record for becoming the youngest grandmaster in history has lasted a long time - since 2002 - but it is looking like a very soft record these days. Rameshbabu Praggnanandhaa and Javokhir Sindarov came close to breaking it in 2018, and Dommaraju Gukesh came even closer in 2019, missing out on tying Karjakin's mark by just 17 days. (Karjakin's record was 12 years and exactly 7 months; Gukesh took 12 years, 7 months, and 17 days.) There are probably some other claimants who are threatening the record, but one player with an excellent shot is American youngster <a href=\"https://en.wikipedia.org/wiki/Abhimanyu_Mishra\">Abhimanyu Mishra</a>, who was born on February 5 of 2009 and",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/13/will-mishra-break-karjakins-record.html",
+         "pubDate" : "Thu, 13 May 2021 20:51:12 +0000",
+         "title" : "Will Mishra Break Karjakin's Record?"
+      },
+      {
+         "description" : " Should chess be an Olympic sport? A decade and a half or so ago I wrote at least one post ruminating over whether chess should be considered a sport at all, and concluded (I think) that it was at least very sport-like. (If one thinks that a sport must have an athletic component, chess isn't a sport; if it's not necessary, then it is.) Going further, if one thinks that Olympic sports ought to have some plausible connection with what the ancient Greeks and Romans did, then the idea that chess should be an Olympic sport is ludicrous - but then so is figure skating, rhythmic gymnastics, and curling. Regardless, FIDE hitched its wagon to the IOC going on two decades ago, and while FIDE's patheti",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/13/nepomniachtchi-cant-play-under-the-russian-flag.html",
+         "pubDate" : "Thu, 13 May 2021 20:31:20 +0000",
+         "title" : "Nepomniachtchi Can't Play Under the Russian Flag"
+      },
+      {
          "description" : "In this week's show, well-known Dutch trainer Robert Ris presents a number of ideas how White can get good attacking chances with the Centre Game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "North East Online League - Progress Report"
       },
       {
-         "description" : " World Chess, the company behind the game-changing rise in the popularity of chess and the organizer of the recent Chess Championship Matches in New York and London, launches a chess-focused sports marketing agency. It's the world's first sports agency focused exclusively on chess. The agency,<b> Chess and Company</b>, represents top chess talent and events, and aims to help brands across transport, technology, retail, hospitality and luxury sectors, to connect with chess in a way that has a long-lasting effect on the sport and to bring 600 million chess players closer to the brands' offerings. The services are delivered by the team that was responsible for staging the most successful events",
+         "description" : " World Chess, the company behind the game-changing rise in the popularity of chess and the organizer of the recent Chess Championship Matches in New York and London, launches a chess-focused sports marketing agency. It's the world's first sports agency focused exclusively on chess. The agency, Chess and Company, represents top chess talent and events, and aims to help brands across transport, technology, retail, hospitality and luxury sectors, to connect with chess in a way that has a long-lasting effect on the sport and to bring 600 million chess players closer to the brands' offerings. The services are delivered by the team that was responsible for staging the most successful events and ac",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/first-ever-chess-focused-sports-agency-launched/",
@@ -62,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yu-yangyi-wins-4th-shenzhen-masters",
-         "pubDate" : "Thu, 13 May 2021 06:21:27 -0700",
+         "pubDate" : "Thu, 13 May 2021 06:21:00 -0700",
          "title" : "Yu Yangyi Wins 4th Shenzhen Masters"
       },
       {
@@ -74,7 +114,7 @@ news_feed (
          "title" : "The Rise of Hybrid Chess"
       },
       {
-         "description" : " A number of years ago I read about a curious sequence of American Chess World Champions. The claim concerned Morphy, Capablanca and Fischer (with the Capablanca being rebadged as an American for the purpose of the claim!). Each was born soon after the passing of the previous player, as though their chess talent was being passed along like the Dalai Lama. If this claim is accurate (and I am definitely not saying it is) the the next American World Champion was born soon after the passing of Bobby Fischer in 2008. Doing a little research is seems that the most likely candidate (at least at this stage) is IM Abhimanyu Mishra, who has just turned 12, and is currently aiming to become the younges",
+         "description" : " A number of years ago I read about a curious sequence of American Chess World Champions. The claim concerned Morphy, Capablanca and Fischer (with Capablanca being rebadged as an American for the purpose of the claim!). Each was born soon after the passing of the previous player, as though their chess talent was being passed along like the Dalai Lama. If this claim is accurate (and I am definitely not saying it is) the the next American World Champion was born soon after the passing of Bobby Fischer in 2008. Doing a little research is seems that the most likely candidate (at least at this stage) is IM Abhimanyu Mishra, who has just turned 12, and is currently aiming to become the youngest GM",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/05/the-next-american-world-champion.html",
@@ -178,14 +218,6 @@ news_feed (
          "title" : "Montenegro Championship: Luka Draskovic wins his first national title"
       },
       {
-         "description" : "Lithuanian speaker of the Seimas (the parliament of Lithuania), Viktorija Cmilyte-Nielsen holds Grandmaster and Women Grand Master chess titles! During the meeting with the speaker of the Armenian parliament, Viktorija showed us a photo, proving that chess and politics often go together! Read more: ECU Secretary General -&#8220;We should be proud of Women chess players&#8221;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/does-chess-go-well-with-politics-tweetoftheday/",
-         "pubDate" : "Wed, 12 May 2021 17:34:29 +0000",
-         "title" : "Does Chess go well with Politics? #TweetOftheDay"
-      },
-      {
          "description" : "On Monday, IM Abhimanyu Mishra scored his second GM norm at the May 2021 First Saturday Tournament in Budapest, Hungary. The 12-year-old player from New Jersey is 29 Elo points and one GM norm away from becoming the youngest-ever grandmaster in hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -200,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-a-esipenko-vs-m-kobalia",
          "pubDate" : "Wed, 12 May 2021 18:00:00 +0100",
          "title" : "Game of the Week: A. Esipenko vs M. Kobalia"
-      },
-      {
-         "description" : "Italian Chess Federation teams dominated the Mitropa Chess Cup 2021 topping both Open and Women's sections! Three teams tied for the first place in Open section after 8 played rounds: Italy, Czech Republic and Slovakia. Eventually, Italy and Slovakia scored in the last round to tie for the top. One board point difference decided that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italy-wins-mitropa-chess-cup-2021/",
-         "pubDate" : "Wed, 12 May 2021 16:52:05 +0000",
-         "title" : "Italy wins Mitropa Chess Cup 2021"
       },
       {
          "description" : "60 years ago today, on 12 May 1961, the return World Championship match between Mihail Tal and Mikhail Botvinnik, which had started in Moscow on 15 March, came to an end. Tal had won the first match in 1960 with 12.5-8.5, but in the return match Botvinnik regained the world championship title and defeated Tal 13-8 (+10, -5, =6). But despite the clear result Botvinnik's victory still failed to convince.",
@@ -2018,14 +2042,6 @@ news_feed (
          "title" : "New in Chess Classic: Carlsen takes the lead"
       },
       {
-         "description" : " While the Candidates duke it out for the right to play Magnus Carlsen for the world championship, Carlsen himself, and 15 others, are contesting another online rapid event. (Official site <a href=\"https://championschesstour.com/\">here</a>, simpler/just the facts, ma'am site <a href=\"https://theweekinchess.com/chessnews/events/new-in-chess-classic-2021\">here</a>.) The tournament started on Saturday, and follows a familiar format: three days of preliminaries (five rounds per day) to winnow the field from 16 players down to eight, followed by a series of two-day knockout matches consisting of pairs of mini-matches. (You all know the drill by now.) Teimour Radjabov was the leader on the first d",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/26/also-afoot-the-new-in-chess-classic-2021.html",
-         "pubDate" : "Mon, 26 Apr 2021 04:51:28 +0000",
-         "title" : "Also Afoot: The New In Chess Classic 2021"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/new-in-chess-classic-magnus-carlsen-storms-into-lead/articleshow/82252415.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82252415.cms\" /></a>Magnus Carlsen cranked up the gears to move smoothly into the lead in the New In Chess Classic on Sunday. The World Champion said felt \"comfortable\" as he stretched his unbeaten run in the $100,000 online event to 10 games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-tournament-nepomniachtchi-retains-sole-lead-after-rd-12/articleshow/82238981.cms",
          "pubDate" : "Sun, 25 Apr 2021 09:36:37 +0530",
          "title" : "Candidates: Nepomniachtchi retains sole lead after Rd 12"
-      },
-      {
-         "description" : " (And so did Ding Liren, but he's out of the race for first.) For most of the day, it looked like Anish Giri was <em>the</em> story of the round. He defeated Fabiano Caruana, with Black, in a very well-played game where Caruana was the first player to break new ground. It was a great achievement by Giri, and not only seemed to guarantee him a share of the lead with two rounds to go, but he also put an end to Caruana's hopes of achieving a second world championship match with Magnus Carlsen. (Or close. He may yet be mathematically alive, assuming there are no tiebreak problems.) All of those accomplishments deserve the praise that I and many other commentators are bestowing upon Giri, but the",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/24/20201-candidates-round-12-nepo-giri-mvl-win.html",
-         "pubDate" : "Sun, 25 Apr 2021 03:50:46 +0000",
-         "title" : "2020/1 Candidates, Round 12: Nepo, Giri, MVL Win"
       },
       {
          "description" : " Making a mistake before the game really starts is very painful. I had this experience several times. The game gets going and I am not fully into it yet. Because of lack of focus I quickly run over a critical moment or mess up my opening. What happens when I trust half-knowledge you can read [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/pre-game-routine/\">My Pre-Game Routine</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
