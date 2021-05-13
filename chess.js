@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "May 13, 2021 So far, there have been 3 seasons of the North East Online League, with a total of 14 clubs taking part. Teams...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/north-east-online-league-progress-report/",
+         "pubDate" : "Thu, 13 May 2021 14:55:53 +0000",
+         "title" : "North East Online League - Progress Report"
+      },
+      {
+         "description" : " World Chess, the company behind the game-changing rise in the popularity of chess and the organizer of the recent Chess Championship Matches in New York and London, launches a chess-focused sports marketing agency. It's the world's first sports agency focused exclusively on chess. The agency,<b> Chess and Company</b>, represents top chess talent and events, and aims to help brands across transport, technology, retail, hospitality and luxury sectors, to connect with chess in a way that has a long-lasting effect on the sport and to bring 600 million chess players closer to the brands' offerings. The services are delivered by the team that was responsible for staging the most successful events",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/first-ever-chess-focused-sports-agency-launched/",
+         "pubDate" : "Thu, 13 May 2021 13:51:19 +0000",
+         "title" : "First Ever Chess-Focused Sports Agency Launched"
+      },
+      {
+         "description" : "GM Yu Yangyi won the Shenzhen Masters, held April 20-May 1, 2021 on Chess.com. The 26-year-old grandmaster from Huangshi finished ahead of GM Jan-Krzysztof Duda, GM Richard Rapport, and GM Wei Yi. How to watch? You can find, play through, an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yu-yangyi-wins-4th-shenzhen-masters",
+         "pubDate" : "Thu, 13 May 2021 06:21:27 -0700",
+         "title" : "Yu Yangyi Wins 4th Shenzhen Masters"
+      },
+      {
+         "description" : "Online chess overseen by arbiters not only helps preventing cheating, but also offers opportunities to play against distant opponents and teams in an environmentally sustainable way. The Mitropacup and the upcoming World Cup qualification rounds are the first major hybrid tournaments. However, according to Stefan L&ouml;ffler, hybrid chess still requires further field testing. | Photo: Christoph Menezes (Photos: Stefan L&ouml;ffler / Bernhard Riess)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rise-of-hybrid-chess",
+         "pubDate" : "Thu, 13 May 2021 14:00:00 +0100",
+         "title" : "The Rise of Hybrid Chess"
+      },
+      {
+         "description" : " A number of years ago I read about a curious sequence of American Chess World Champions. The claim concerned Morphy, Capablanca and Fischer (with the Capablanca being rebadged as an American for the purpose of the claim!). Each was born soon after the passing of the previous player, as though their chess talent was being passed along like the Dalai Lama. If this claim is accurate (and I am definitely not saying it is) the the next American World Champion was born soon after the passing of Bobby Fischer in 2008. Doing a little research is seems that the most likely candidate (at least at this stage) is IM Abhimanyu Mishra, who has just turned 12, and is currently aiming to become the younges",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/the-next-american-world-champion.html",
+         "pubDate" : "Thu, 13 May 2021 12:42:00 +0000",
+         "title" : "The next American World Champion?"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. The stakes at the African Individual Chess Championship are high as the 4 top placed players in the open section will qualify for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Thu, 13 May 2021 12:08:12 +0000",
+         "title" : "African Individual Chess Championship 2021"
+      },
+      {
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. This is the participants list for the open section. Africa Individual Chess 2021 full information / Participants Open / Participants women Africa Individual Chess Participants 1 GM Amin Bassem&#160; EGY 2701 2 GM Adly Ahmed&#160; EGY 2615 3 GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/africa-individual-chess-participants/",
+         "pubDate" : "Thu, 13 May 2021 12:08:03 +0000",
+         "title" : "Africa Individual Chess (participants)"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. This is the participants list for the women section. Africa Individual Chess 2021 full information / Participants Open / Participants women African Individual Women Chess Participants 1 WGM Wafa Shahenda&#160; EGY 2145 2 WIM Latreche Sabrina&#160; ALG 2076 3 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-women-chess-participants/",
+         "pubDate" : "Thu, 13 May 2021 12:07:59 +0000",
+         "title" : "African Individual Women Chess (participants)"
+      },
+      {
          "description" : "President of Uttaranchal Chess Association and former President of Delhi Chess Association Shri Dhiraj Raghuvanshi passed away today after battling against Covid-19 for the past",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -306,22 +370,6 @@ news_feed (
          "title" : "How To Set Goals And Achieve Them"
       },
       {
-         "description" : "The famous chess youtuber Agadmator is startarting his previews on the Nepo Carlsen 2021 match. In a video titled &#8220;Does Nepo stand a chance against Magnus&#8221;, Agadmator analyses a key game in Nepo's career vs Peter Leko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/agadmator-on-nepo-carlsen-2021/",
-         "pubDate" : "Tue, 11 May 2021 11:06:38 +0000",
-         "title" : "Agadmator on Nepo - Carlsen 2021"
-      },
-      {
-         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is the sole leader of TCEC S21 QL after round 2. Consecutive wins vs Invictus and Bagatur give Koivisto 2,0/2. Koivisto Invictus (QGD) 1-0 Bagatur Koivisto (Slav defence) 0-1 Written in C++ and first released in September 2020, Koivisto is making []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/koivisto-is-the-sole-lead-at-s21-ql/",
-         "pubDate" : "Tue, 11 May 2021 10:20:29 +0000",
-         "title" : "Koivisto is the sole leader at S21 QL"
-      },
-      {
          "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World Last year we lost a vote chess game by misjudging the position. We all have such games where for some reason we get stuck believing we are <a href=\"https://chessimprover.com/self-inflicted-wounds-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-2/\">Self Inflicted Wounds (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -336,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r9",
          "pubDate" : "Tue, 11 May 2021 10:00:00 +0100",
          "title" : "Esipenko impresses as Mednyi Vsadnik dominates the Russian Premier League"
-      },
-      {
-         "description" : "ClassicAra is the new co-leader of TCEC S21 QL. After five rounds ClassicAra (live ELO 3338) has collected 4,5/5 and has joined Koivisto at the top of the standings. ClassicAra is an original open source neural network-based chess engine by Johannes Czech, Moritz Willig and Alena Beyer, written in Python and C++. It is the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/classicara-joins-the-lead-at-tcec-s21-ql/",
-         "pubDate" : "Tue, 11 May 2021 08:22:00 +0000",
-         "title" : "ClassicAra joins the lead at TCEC S21 QL"
       },
       {
          "description" : "In the diagram position White just attacked the bishop on f6 which is a prelude to a bishop sacrifice on e7 which will allow the white pawns to run. But with correct play the black bishop can stop the pawns. How?",
@@ -1586,14 +1626,6 @@ news_feed (
          "title" : "Fischer, Karpov and Kortschnoi"
       },
       {
-         "description" : "&#8212; from Geoff Brown, General Secretary, Sheffield &#38; District Chess Association Face-to-face chess returned to Sheffield last Sunday for the first time in over a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/return-of-otb-chess-in-sheffield/",
-         "pubDate" : "Thu, 29 Apr 2021 09:18:03 +0000",
-         "title" : "Return of OTB chess in Sheffield"
-      },
-      {
          "description" : "GM Levon Aronian, GM Magnus Carlsen, GM Shakhriyar Mamedyarov, and GM Hikaru Nakamura qualified for the semifinals of the New in Chess Classic.&#38;nbsp;Carlsen beat GM Teimour Radjabov in one game in their second match while GM Wesley So, GM Alireza ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2074,14 +2106,6 @@ news_feed (
          "title" : "2021 ACT Chess Championship"
       },
       {
-         "description" : "The New in Chess Classic, the fifth leg of the Champions Chess Tour, began on Saturday. GM Teimour Radjabov leads with 4/5 ahead of GM Magnus Carlsen and GM Alireza Firouzja, who are on 3.5/5. How to watch?The games of the New in Chess Classic p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-preliminaries-day-1",
-         "pubDate" : "Sun, 25 Apr 2021 00:17:00 -0700",
-         "title" : "New In Chess Classic: Radjabov Early Leader"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/candidates-chess-tournament-nepomniachtchi-retains-sole-lead-after-rd-12/articleshow/82238981.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82238981.cms\" /></a>Ian Nepomniachtchi outplayed Wang Hao and kept his sole lead with 8 points in the Candidates Tournament after the completion of 12 rounds, while Fabiano Caruana and Anish Giri were deciding who would become his main rival.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2248,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-poisoned-pawn",
          "pubDate" : "Thu, 22 Apr 2021 18:30:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Najdorf Poisoned Pawn"
-      },
-      {
-         "description" : "With eleven opening surveys, the ChessBase Magazine #200 offers a large variety of interesting repertoire ideas, e.g. the Kasparov Gambit in the English Opening, the Sicilian Richter-Rauzer or the Gruenfeld. And GM Adrien Demuth has an tempting proposal for the ambitious player: the delayed Schliemann Defence (1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 f5). He also checks whether it is true that \"thanks to the computers everything is equal nowadays\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-ruy-lopez-for-ambitious-players",
-         "pubDate" : "Thu, 22 Apr 2021 16:00:00 +0100",
-         "title" : "The Ruy Lopez for ambitious players"
       }
    ]
 }
