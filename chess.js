@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "President of Uttaranchal Chess Association and former President of Delhi Chess Association Shri Dhiraj Raghuvanshi passed away today after battling against Covid-19 for the past",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shri-dhiraj-raghuvanshi-took-his-last-breath/",
+         "pubDate" : "Thu, 13 May 2021 10:19:54 +0000",
+         "title" : "Shri Dhiraj Raghuvanshi took his last breath"
+      },
+      {
+         "description" : "ClassicAra continues to impress at TCEC S21 QL. After eight rounds ClassicAra is still undefeated with 6 wins and 2 draws. The only engine that stopped ClassicAra's rampage is the other revelation of QL Koivisto. In an interesting and imbalanced Queen's Indian, where white possibly missed a decisive chance, the two engines finished with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/classicara-takes-the-sole-lead-after-r8/",
+         "pubDate" : "Thu, 13 May 2021 10:17:24 +0000",
+         "title" : "ClassicAra takes the sole lead after R8"
+      },
+      {
+         "description" : "Adhiban took a 2:0 lead against David Navara after playing 1.b3 and forcing resignation in 9 moves, but the Czech no. 1 stormed back to win the match 6.5:4.5. That was the same scoreline by which Vidit beat Peter Heine Nielsen in a hard-fought match to reach the quarterfinals of the Mr Dodgy Invitational 2.0, while the other two matches on Day 1 were massacres. Defending Champion Anish Giri beat Pepe Cuenca 7:0 while Simon Williams managed a draw in a 6.5:0.5 loss to Daniil Dubov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mdi-2-day-1-adhiban-wins-in-9-moves-but-navara-giri-dubov-vidit-advance",
+         "pubDate" : "Thu, 13 May 2021 07:43:31 +0000",
+         "title" : "MDI 2, Day 1: Adhiban wins in 9 moves, but Navara, Giri, Dubov & Vidit advance"
+      },
+      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1480DB9C-1719-47E1-AA50-0D3BB6425D69.jpeg\" width=\"1800\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Front page of 2700chess</div> </div> 2700chess.com, an influential website that calculates and publishes chess players' live ratings, will publish live ratings from <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform. Ratings will be updated hourly and will include the top 100 players from the Arena. The step is important for the sport, because it recognizes the value of online chess, which especially grew during the pandemic. FIDE Online Arena accords online rati",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/elephant-gambit-chess-openings-explained",
          "pubDate" : "Tue, 11 May 2021 03:42:04 +0000",
          "title" : "The Elephant Gambit | Chess Openings Explained"
-      },
-      {
-         "description" : "Ian Nepomniachtchi is getting ready to challenge Magnus Carlsen at every aspect. Back in 2013 Carlsen made the symbolic kick-off at a Real Madrid game. Today Nepo followed suit with a symbolic kick-off in Spartak Moscow's game. Sergey Karjakin also opened a Spartak Moscow match before at the time he was a challenger. At that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-scores-tweetoftheday/",
-         "pubDate" : "Mon, 10 May 2021 20:51:33 +0000",
-         "title" : "Nepo scores! #TweetOftheDay"
       },
       {
          "description" : "17-year-old Arjun Erigaisi will have the chance to make a name for himself when he plays in the Meltwater Champions Chess Tour in June, and the way he dispatched top seed Adhiban in the final of the Indian Qualifier should ensure the world's best players will take him very seriously. Arjun was close to winning the second rapid game before he finally drew blood with a counterattack in the first blitz game, just when Adhiban seemed set to triumph with 1.b3. Third place was taken by Aravindh, who beat Gukesh 2.5:0.5.",
@@ -1394,28 +1410,12 @@ news_feed (
          "title" : "Nepomniachtchi Can't Play Carlsen Under Russian Flag"
       },
       {
-         "description" : "The examination for the participants undergone AICF Trainer Training Program will be conducted on 03 May 21, 05 May 21 and 07 May 21 through",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-trainer-training-program-examination-schedule/",
-         "pubDate" : "Fri, 30 Apr 2021 17:09:27 +0000",
-         "title" : "AICF Trainer Training Program : Examination Schedule"
-      },
-      {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the candidates tournament outcome, the new in chess classic tournament, and how the world would have changed, if Fischer had lost against Spassky in 1972.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-5",
          "pubDate" : "Fri, 30 Apr 2021 17:17:14 +0100",
          "title" : "The ChessBase News Review (23.04. - 30.4.)"
-      },
-      {
-         "description" : "Garry Kasparov was recently Jan Gustafsson and Peter Heine Nielsen's pick as the Greatest Chess Player of All Time, though their no. 2, Magnus Carlsen, may have something to say about that before he's done! For Part 2 of Sean Marsh's Great Moments in Chess series, he looks at November 9th 1985, when 22-year-old Garry finally snatched the World Championship crown from Anatoly Karpov, three years after his odyssey to the title had begun.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/great-moments-in-chess-kasparov-seizes-the-crown",
-         "pubDate" : "Fri, 30 Apr 2021 16:07:19 +0000",
-         "title" : "Great Moments in Chess: Kasparov Seizes the Crown"
       },
       {
          "description" : "In this Power Play Show, GM Daniel King looks back to the Candidates and tries to find out how and why Ian Nepomniachtchi won the tournament and became World Championship challenger. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-ruy-lopez-for-ambitious-players",
          "pubDate" : "Thu, 22 Apr 2021 16:00:00 +0100",
          "title" : "The Ruy Lopez for ambitious players"
-      },
-      {
-         "description" : "A lot of players want to get better at openings, but they don't know what the right resources are: which books they should buy, which DVDs. \"I can tell you with confidence that here is one product which is going to help you to become a very strong opening player,\" says chess trainer Sagar Shah. \"It's the Opening Encyclopedia 2021!\" In a 27-minute video he tells you why, and shows you how to use this great tool to improve your openings skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sagar-shah-this-is-the-very-best-way-to-learn-chess-openings",
-         "pubDate" : "Thu, 22 Apr 2021 12:00:00 +0100",
-         "title" : "Sagar Shah: This is the very best way to learn chess openings"
       }
    ]
 }
