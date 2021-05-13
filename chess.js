@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/steinitz-classics-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BBrFYCIyrNY.jpg?itok=13izFvDo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/steinitz-classics-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 13 May 2021 00:44:19 +0000",
+         "title" : "The Steinitz Classics | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "\"Chess Behind Bars\""
       },
       {
-         "description" : "GM Vladimir Artemiev won the May 11 Titled Tuesday tournament with a score of 10/11. Of seven players tied for second place entering the final round, three won to finish on 9.5/11. After tiebreaks, GM Daniil Dubov took second place, GM Levan Pants...",
+         "description" : "GM Vladislav Artemiev won the May 11 Titled Tuesday tournament with a score of 10/11. Of seven players tied for second place entering the final round, three won to finish on 9.5/11. After tiebreaks, GM Daniil Dubov took second place, GM Levan Pant...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/artemiev-wins-may-11-titled-tuesday",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventeen/",
          "pubDate" : "Fri, 07 May 2021 06:58:30 +0000",
          "title" : "A Foundation for Beginners Seventeen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a champion of its Spring league! Join a Grandmaster TBD for the move-by-move. At the end, the Grandmaster will select the most outstanding game of the tournament. The winner of the most outstanding game will receive a special gift! 2021.05.20<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship\"><img src=\"https://saintlouischessclub.org/sites/default/fil",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship",
-         "pubDate" : "Fri, 07 May 2021 00:37:42 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Spring Championship"
       },
       {
          "description" : "",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-nepomniachtchi-beats-alekseenko-remains-in-lead-after-round-10/articleshow/82191784.cms",
          "pubDate" : "Thu, 22 Apr 2021 09:44:38 +0530",
          "title" : "Candidates Tournament: Nepomniachtchi beats Alekseenko, remains in lead after Round 10"
-      },
-      {
-         "description" : "In the only decisive game of round 10, Ian Nepomniachtchi widened the gap at the top of the standings by beating Kirill Alekseenko in 31 moves. Russia's number one thus goes into the final four rounds a full point ahead of Fabiano Caruana, Anish Giri and Maxime Vachier-Lagrave. Thursday will be a rest day. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r10",
-         "pubDate" : "Thu, 22 Apr 2021 01:10:00 +0100",
-         "title" : "Candidates Round 10: Nepomniachtchi widens the gap"
       }
    ]
 }
