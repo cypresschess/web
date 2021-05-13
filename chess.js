@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, well-known Dutch trainer Robert Ris presents a number of ideas how White can get good attacking chances with the Centre Game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-developments-in-the-centre-game-1-e4-e5-2-d4-exd4-3-qxd4",
+         "pubDate" : "Thu, 13 May 2021 19:47:15 +0100",
+         "title" : "Robert Ris' Fast and Furious: New developments in the Centre Game (1.e4 e5 2.d4!? exd4 3.Qxd4)"
+      },
+      {
+         "description" : "Built on a network of trust and cooperation between chess enthusiasts, Worldwide Junior Chess provides an exciting and engaging online chess team competition and training ground for children. More than 2.500 players compete in 200 teams from over 70 countries. Worldwide Junior recently held the first editions of their festival and it was an all-round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/worldwide-junior-chess-interview-with-goran-banovac-and-maurizio-matteoli/",
+         "pubDate" : "Thu, 13 May 2021 17:46:47 +0000",
+         "title" : "Worldwide Junior Chess - interview with Goran Banovac and Maurizio Matteoli"
+      },
+      {
+         "description" : "FIDE Grand Swiss 2021 and FIDE Women's Grand Swiss 2021 will simultaneously take place in Douglas, Isle of Man, from October 25 to November 8, 2021. International Chess Federation FIDE has recently updated regulations for the events, clarifying the qualification criteria. According to updates, FIDE Grand Swiss 2021 will gather 114 chess players: 100 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-swiss-2021/",
+         "pubDate" : "Thu, 13 May 2021 17:27:21 +0000",
+         "title" : "FIDE Grand Swiss 2021"
+      },
+      {
+         "description" : "The 2021 World Chess Championship aka known as the Carlsen - Nepomniachtchi 2021 match will be held 24 November - 16 December in Dubai. The battle for the most important title in the sport of chess will be between the reigning champion Magnus Carlsen and his challenger Ian Nepomniachtchi. Live games Live games from the FIDE World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2021-world-chess-championship-live/",
+         "pubDate" : "Thu, 13 May 2021 17:18:50 +0000",
+         "title" : "2021 World Chess Championship LIVE!"
+      },
+      {
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
+         "pubDate" : "Thu, 13 May 2021 16:51:43 +0000",
+         "title" : "FIDE Women's Grand Prix 2021 Gibraltar"
+      },
+      {
          "description" : "May 13, 2021 So far, there have been 3 seasons of the North East Online League, with a total of 14 clubs taking part. Teams...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -202,22 +242,6 @@ news_feed (
          "title" : "Obliterate 'em with the Owen's"
       },
       {
-         "description" : "Accedia Chess Masters 2021 is going to start this May 15th in Sofia, Bulgaria. The event is organized by Chess Club Elit and Chess Club En Passan, and will be a 262 players over-the-board event with 11 GMs and 29 titled players. Top seeded are GM Ivan Cheparinov, GM Ivan Salgado, and GM Boris Chatalbashev. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/accedia-chess-masters-2021/",
-         "pubDate" : "Wed, 12 May 2021 11:12:15 +0000",
-         "title" : "Accedia Chess Masters 2021"
-      },
-      {
-         "description" : "Nicaragua Youth Chess Championships 2021 concluded a few days ago and Youth National Champions of sections U10, U12, U14, U16 and U18 were announced. After 6 played rounds in each category, the Winners are: U10 Matus Acevedo Ariadna LuciaU12 Aleman Martinez Verania MonserratU14 Cantero Randy JoseU16 Vanegas Lopez NatanaelU18 Mondragon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nicaragua-chess-championships-2021/",
-         "pubDate" : "Wed, 12 May 2021 10:04:08 +0000",
-         "title" : "Nicaragua Chess Championships 2021"
-      },
-      {
          "description" : "The Chinese Chess Championships are being played on May 7-15 in Xinghua Jiangsu, a county-level city in eastern China. After seven rounds, three players are sharing the lead in the open event while rating favourite Tan Zhongyi has grabbed the sole lead in the women's tournament. | Pictured: Tan Zhongyi during the 2018 Women's World Championship | Photo: Gu Xiaobang",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,28 +338,12 @@ news_feed (
          "title" : "Second GM norm for Abhimanyu"
       },
       {
-         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Cup will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. The provisional list of participants for the European Hybrid Qualification Tournament has been published. 262 players (160 GMs) from 34 European federations are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-information-and-participants/",
-         "pubDate" : "Tue, 11 May 2021 15:42:32 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 - information and participants"
-      },
-      {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/s840/howlee.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"840\" data-original-width=\"840\" height=\"200\" src=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/w200-h200/howlee.png\" width=\"200\" /></a></td></tr><tr><td class=\"tr-caption\" style=\"text-align: center;\">White to play and Draw</td></tr></tbo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/05/always-double-check.html",
          "pubDate" : "Tue, 11 May 2021 13:56:00 +0000",
          "title" : "Always double check"
-      },
-      {
-         "description" : "Abhimanyu Mishra is on the way to become the youngest GM in history. The twelve year old boy from New Jersey is about to break the record if he grabs the GM title before September 5th. Mishra's race is against Sergey Karjakin, who currently holds the title of the youngest GM taking it with 12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abhimanyu-mishra-is-on-the-way-to-become-the-youngest-gm-in-history/",
-         "pubDate" : "Tue, 11 May 2021 12:54:50 +0000",
-         "title" : "Abhimanyu Mishra is on the way to become the youngest GM in history"
       },
       {
          "description" : "Anish Giri returns to defend his title and fight for the same photo of a man on a horse as the 16-player Mr Dodgy Invitational 2.0 starts Wednesday May 12th. The blitz knockout tournament on chess24 has the kind of line-up chess fans would choose, with the likes of Baadur Jobava, Adhiban, Alexei Shirov and Daniil Dubov ensuring we can expect explosive action. Jan Gustafsson will commentate and there are trailers&hellip; lots of trailers!",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-heavyweight-chess-match-arnold-schwarzenegger-vs-mike-tyson",
          "pubDate" : "Fri, 23 Apr 2021 09:24:00 +0100",
          "title" : "A heavyweight chess match: Arnold Schwarzenegger vs Mike Tyson"
-      },
-      {
-         "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at the Poisoned Pawn Variation in the Najdorf (1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6!?), a very sharp and heavily analysed line that often leads to exciting and fantastically complicated positions. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-poisoned-pawn",
-         "pubDate" : "Thu, 22 Apr 2021 18:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Najdorf Poisoned Pawn"
       }
    ]
 }
