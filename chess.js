@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1480DB9C-1719-47E1-AA50-0D3BB6425D69.jpeg\" width=\"1800\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Front page of 2700chess</div> </div> 2700chess.com, an influential website that calculates and publishes chess players' live ratings, will publish live ratings from <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform. Ratings will be updated hourly and will include the top 100 players from the Arena. The step is important for the sport, because it recognizes the value of online chess, which especially grew during the pandemic. FIDE Online Arena accords online rati",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
+         "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
+         "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Wilhelm Steinitz&#039;s victory over the great Gustav Neumann at the 1867 Dundee Congress, a ten-player round robin in Scotland, considered to be only the fourth modern international tournament. Neumann eventually edged out Steinitz to win the event by a half point. 2021.05.12<br /> Wilhelm Steinitz vs Gustav Neumann, Dundee Congress (1867): C25 Vienna, Steinitz gambit<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1228239\">https://www.chessgames.com/perl/chessgame?gid=1228239</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/steinitz-dundee-congress-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 13 May 2021 03:44:13 +0000",
+         "title" : "Steinitz at the Dundee Congress | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/steinitz-classics-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BBrFYCIyrNY.jpg?itok=13izFvDo\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abhimanyu-mishra-second-gm-norm-karjakin-record",
-         "pubDate" : "Wed, 12 May 2021 10:21:40 -0700",
+         "pubDate" : "Wed, 12 May 2021 10:21:00 -0700",
          "title" : "Abhimanyu Mishra Scores 2nd GM Norm, Closing In On Karjakin's Record"
       },
       {
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0",
          "pubDate" : "Fri, 07 May 2021 15:38:42 +0000",
          "title" : "The Nd5 Sacrifice! | Grandmaster's Choice - GM Dariusz Swiercz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz reviews the games of Radoslaw Wojtaszek from the ongoing 2021 Polish Chess Championship. See the first game of the final match of the 16-player knockout between Wojtaszek and Wojciech Moranda. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wojtaszek-2021-polish-championship-games-week-gm-dariusz-swiercz",
-         "pubDate" : "Fri, 07 May 2021 15:38:42 +0000",
-         "title" : "Wojtaszek in the 2021 Polish Championship | Games of the Week - GM Dariusz Swiercz"
       },
       {
          "description" : " In his interview with the Live Breakdown Show, Ilya Merenzon, the CEO of World Chess, discussed the impact that The Queen's Gambit had on chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/f1aGHrqbddE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sagar-shah-this-is-the-very-best-way-to-learn-chess-openings",
          "pubDate" : "Thu, 22 Apr 2021 12:00:00 +0100",
          "title" : "Sagar Shah: This is the very best way to learn chess openings"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-nepomniachtchi-beats-alekseenko-remains-in-lead-after-round-10/articleshow/82191784.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82191784.cms\" /></a>Russian Ian Nepomniachtchi increased his lead at the Candidates to a whole point after defeating his compatriot Kirill Alekseenko. It turned out, Nepomniachtchi made the right choice of opening since Kirill Alekseenko was not too deeply familiar with the details of the position which arose.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-nepomniachtchi-beats-alekseenko-remains-in-lead-after-round-10/articleshow/82191784.cms",
-         "pubDate" : "Thu, 22 Apr 2021 09:44:38 +0530",
-         "title" : "Candidates Tournament: Nepomniachtchi beats Alekseenko, remains in lead after Round 10"
       }
    ]
 }
