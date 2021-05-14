@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Last week, we started to work through The Sicilian Defense (an opening for Black). We played through the first five moves of the game. When I teach a specific opening to beginners, I teach that opening three to five moves at a time. When my students understand those three to five moves completely, we move <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\">A Foundation for Beginners Eighteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighteen/",
+         "pubDate" : "Fri, 14 May 2021 11:23:21 +0000",
+         "title" : "A Foundation for Beginners Eighteen"
+      },
+      {
+         "description" : "Phiona Mutesi, the actual person behind the famous movie Queen of Katwe, has graduated with Bachelor's of Arts and Management Degree from Northwest University. The information and video of the graduation of Phiona Mutesi comes from FIDE Master, Nigerian Champion, and US National Master Fawole John Oyeyemi via BruvsMedia. Congratulations, Phiona! Visit BruvsMedia website / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/phiona-mutesi-aka-queen-of-katwe-graduates-from-northwest-university/",
+         "pubDate" : "Fri, 14 May 2021 11:12:20 +0000",
+         "title" : "Phiona Mutesi aka Queen of Katwe graduates from Northwest University"
+      },
+      {
+         "description" : "Baadur Jobava danced his way to a 6.5:5.5 win over Alexander Grischuk as the most anticipated Round 1 match-up went down to the final game. It was the same in Howell-Van Foreest, which the English Grandmaster clinched 7:5 after an incredible battle, while there were comfortable wins in the day's earlier matches. Nils Grandelius ousted Alexei Shirov 6.5:1.5, while Laurent Fressinet shocked Peter Svidler 6.5:2.5. It's Giri-Grandelius, Dubov-Fressinet, Vidit-Howell and Navara-Jobava in the quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mdi-2-day-2-jobava-dances-to-win-over-grischuk",
+         "pubDate" : "Fri, 14 May 2021 11:11:36 +0000",
+         "title" : "MDI 2, Day 2: Jobava dances to win over Grischuk"
+      },
+      {
+         "description" : "Due to the pandemic, the Mitropa Cup 2021 was played as a \"Hybrid Tournament\" - the teams met at a central venue in their own countries from where they played online against the other teams, supervised by an arbiter. The Italian teams coped best with this still unusual form of tournament chess: they won gold in the Open Tournament and in the Women's Tournament. | Picture: Italian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-double-success-for-italy",
+         "pubDate" : "Fri, 14 May 2021 12:01:01 +0100",
+         "title" : "Mitropa Cup: Double success for Italy"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kh-bvTN-rcA.jpg?itok=j6Yg3Zmk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://aicf.in/shri-dhiraj-raghuvanshi-took-his-last-breath/",
          "pubDate" : "Thu, 13 May 2021 10:19:54 +0000",
          "title" : "Shri Dhiraj Raghuvanshi took his last breath"
-      },
-      {
-         "description" : "ClassicAra continues to impress at TCEC S21 QL. After eight rounds ClassicAra is still undefeated with 6 wins and 2 draws. The only engine that stopped ClassicAra's rampage is the other revelation of QL Koivisto. In an interesting and imbalanced Queen's Indian, where white possibly missed a decisive chance, the two engines finished with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/classicara-takes-the-sole-lead-after-r8/",
-         "pubDate" : "Thu, 13 May 2021 10:17:24 +0000",
-         "title" : "ClassicAra takes the sole lead after R8"
       },
       {
          "description" : "Adhiban took a 2:0 lead against David Navara after playing 1.b3 and forcing resignation in 9 moves, but the Czech no. 1 stormed back to win the match 6.5:4.5. That was the same scoreline by which Vidit beat Peter Heine Nielsen in a hard-fought match to reach the quarterfinals of the Mr Dodgy Invitational 2.0, while the other two matches on Day 1 were massacres. Defending Champion Anish Giri beat Pepe Cuenca 7:0 while Simon Williams managed a draw in a 6.5:0.5 loss to Daniil Dubov.",
@@ -1418,14 +1442,6 @@ news_feed (
          "title" : "Dream final as Nakamura and Carlsen win semis"
       },
       {
-         "description" : "Magnus Carlsen and Hikaru Nakamura meet in today's final of the New in Chess Classic for their first match since the epic 7-day final of the Magnus Carlsen Chess Tour. \"Both of us have a chance to redeem ourselves,\" said Hikaru, after he lost the first three games against Shakhriyar Mamedyarov but powered back to win the playoff in Armageddon. Magnus had some shaky moments against Levon Aronian but emerged with a deserved 3:1 victory. Levon and Shakh will play for 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-sf2-carlsen-nakamura-with-shot-at-redemption",
-         "pubDate" : "Sat, 01 May 2021 10:34:48 +0000",
-         "title" : "New in Chess Classic, SF2: Carlsen & Nakamura with shot at redemption"
-      },
-      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0887814F-3746-497B-9CF7-348B9AEE1242.jpeg\" width=\"1636\" height=\"1094\" alt=\"\" /> <div class=\"e2-text-caption\">Sergey Karjakin is playing against the cosmonauts</div> </div> On June 9 of 2020, the second ever chess match between Space and Earth took place in the main hall of the Moscow Museum of Cosmonautics. The event has been co-organized by the Moscow Museum of Cosmonautics, Roscosmos, the Russian State Corporation, the Chess Federation of Russia, and the social network VKontakte. The game took place online on <a href=\"https://new.arena.myfide.net\">FIDE Online Arena</a>. The match featured pilot-cosmonaut Anatoly ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1874,14 +1890,6 @@ news_feed (
          "title" : "Candidates Tournament 2020-21, Round 14 - Live!"
       },
       {
-         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal I enjoyed a chess lover's dream this past Sunday morning. The other members of the family were still asleep, the weather was cloudy and online Magnus was putting on a positional chess clinic against his younger countryman. It truly is remarkable how he does it <a href=\"https://chessimprover.com/the-great-ones-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-3/\">The Great Ones (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-great-ones-3/",
-         "pubDate" : "Tue, 27 Apr 2021 09:40:46 +0000",
-         "title" : "The Great Ones (3)"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/russias-ian-nepomniachtchi-to-challenge-magnus-carlsen-for-world-chess-title/articleshow/82273033.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82273033.cms\" /></a>Russian chess grandmaster Ian Nepomniachtchi clinched victory at the Candidates Tournament on Monday, earning him the chance to challenge Norway's Magnus Carlsen for the world title later this year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-200-from-kasparov-to-carlsen-a-review-by-nagesh-havanur",
          "pubDate" : "Mon, 26 Apr 2021 12:05:58 +0100",
          "title" : "CBM 200: From Kasparov to Carlsen - A review by Nagesh Havanur"
-      },
-      {
-         "description" : "GM Magnus Carlsen took the lead at the New in Chess Classic on day two of the preliminaries. With an undefeated 7/10, Carlsen is half a point ahead of GMs Hikaru Nakamura (also unbeaten) and GM Alireza Firouzja. How to watch?The games of the New...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-preliminaries-day-2",
-         "pubDate" : "Mon, 26 Apr 2021 00:51:00 -0700",
-         "title" : "New In Chess Classic: Carlsen, Nakamura Still Unbeaten"
       },
       {
          "description" : "With two wins and three draws, Magnus Carlsen climbed to sole first place in the preliminaries of the New in Chess Classic. The world champion and Hikaru Nakamura are the only two players who remain undefeated in the online tournament. Naka, who also collected two wins on Sunday, is now sharing second place with Alireza Firouzja. The best score of day 2, was obtained by Vietnamese star Le Quang Liem. | Pictured: Carlsen, Tari and Christiansen are playing from the Meltwater offices in Oslo.",
@@ -2264,22 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rapid-interview-svitlana-demchenko",
          "pubDate" : "Fri, 23 Apr 2021 15:00:00 +0100",
          "title" : "Rapid Interview - Svitlana Demchenko"
-      },
-      {
-         "description" : " In the quest to play better chess, and number of methods for deciding the best move or plan have been proposed. These include the Purdy Method, the Kotov Method, the Moisenko System, etc etc. Of course, if there was such a foolproof system chess would be a lot less interesting, as it would simply be a battle about who could implement the best method correctly. Nonetheless one system I don't mind is that proposed by Karpov in his book \"Find the Right Plan\". He boils it down to a single concept \"Restricting the mobility of your opponent's pieces is the most important law of chess\". The book contains a number of examples of this in practice, and a large number of studies where the goal is to t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/the-method.html",
-         "pubDate" : "Fri, 23 Apr 2021 08:35:00 +0000",
-         "title" : "The Method"
-      },
-      {
-         "description" : "Last year, Arnold Schwarzenegger asked people to \"Stay at home\" to fight against the spreading of the coronavirus, and to make this campaign better known, Schwarzenegger published videos that showed him playing chess with his donkey. Now a much stronger chess partner, \"Iron Mike\" Tyson, world heavyweight champion from 1987 to 1990, tested the chess skills of the \"Terminator\". | Photo: Henry Cejudo (Instagram)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-heavyweight-chess-match-arnold-schwarzenegger-vs-mike-tyson",
-         "pubDate" : "Fri, 23 Apr 2021 09:24:00 +0100",
-         "title" : "A heavyweight chess match: Arnold Schwarzenegger vs Mike Tyson"
       }
    ]
 }
