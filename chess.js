@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chessbase India organizes the Super Heroes Cup 2021 with participation of 16 real life super heroes fighting in a knock-out tournament! The event takes place from 14th-16th May with a total prize fund of around 3.000 euros, involving 16 top Indian differently-abled players. Seven players are visually impaired, six are physically disabled and three players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessbase-india-super-heroes-cup/",
+         "pubDate" : "Fri, 14 May 2021 19:14:19 +0000",
+         "title" : "Chessbase India Super Heroes Cup"
+      },
+      {
          "description" : "On 17 May, 19:00 CEST (13:00 ET, 17:00 UTC) our Fritztrainers will compete against each other in a theme tournament with randomly picked Fritztrainer openings. Daniel King and Arne Kaehler will accompany them LIVE on Twitch.tv through the evening. Will the two Dutch IMs be able to hold their own against the Grandmasters from Uzbekistan and Romania? Which of the chosen Fritztrainer openings will perform best? Six different openings will be played, from the Benoni to the Traxler Counterattack.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-with-3-bc4",
          "pubDate" : "Fri, 14 May 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit with 3.Bc4"
+      },
+      {
+         "description" : "Koivisto is back to pole position in the TCEC S21 Qualification League. After twelve rounds Koivisto collected 10,0/12 (eight wins and four draws) and remains the only undefeated engine in the field. Koivisto is closely followed by the star newcomer ClassicAra with 9,5/12. ClassicAra lost its first game in the event against the rating favorite []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/koivisto-shows-muscles-takes-the-lead-after-r12-of-tcec-s21-ql/",
+         "pubDate" : "Fri, 14 May 2021 15:35:21 +0000",
+         "title" : "Koivisto shows muscles, takes the lead after R12 of TCEC S21 QL"
       },
       {
          "description" : "Caissa Hong Kong Chess Club organizes the Caissa Spring League 2021 from May 11 May 23, 2021! Among 37 participants, more than a half are young talented players aged U16, U12, and U8. Starting list of participants: No. &#160; Name FED Rtg Typ 1 FM Ho In Hei Henry&#160; HKG 1788 &#160; 2 &#160; []",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Mitropa Cup: Double success for Italy"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kh-bvTN-rcA.jpg?itok=j6Yg3Zmk\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2021.05.12<br /> Josh Friedel vs. Suat Atalik, 2007: C91 Ruy Lopez, closed, Bogolyubov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kh-bvTN-rcA.jpg?itok=j6Yg3Zmk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
@@ -160,22 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-developments-in-the-centre-game-1-e4-e5-2-d4-exd4-3-qxd4",
          "pubDate" : "Thu, 13 May 2021 19:47:15 +0100",
          "title" : "Robert Ris' Fast and Furious: New developments in the Centre Game (1.e4 e5 2.d4!? exd4 3.Qxd4)"
-      },
-      {
-         "description" : "Built on a network of trust and cooperation between chess enthusiasts, Worldwide Junior Chess provides an exciting and engaging online chess team competition and training ground for children. More than 2.500 players compete in 200 teams from over 70 countries. Worldwide Junior recently held the first editions of their festival and it was an all-round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/worldwide-junior-chess-interview-with-goran-banovac-and-maurizio-matteoli/",
-         "pubDate" : "Thu, 13 May 2021 17:46:47 +0000",
-         "title" : "Worldwide Junior Chess - interview with Goran Banovac and Maurizio Matteoli"
-      },
-      {
-         "description" : "FIDE Grand Swiss 2021 and FIDE Women's Grand Swiss 2021 will simultaneously take place in Douglas, Isle of Man, from October 25 to November 8, 2021. International Chess Federation FIDE has recently updated regulations for the events, clarifying the qualification criteria. According to updates, FIDE Grand Swiss 2021 will gather 114 chess players: 100 players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-swiss-2021/",
-         "pubDate" : "Thu, 13 May 2021 17:27:21 +0000",
-         "title" : "FIDE Grand Swiss 2021"
       },
       {
          "description" : "May 13, 2021 So far, there have been 3 seasons of the North East Online League, with a total of 14 clubs taking part. Teams...",
@@ -2264,38 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1037",
          "pubDate" : "Fri, 23 Apr 2021 21:05:03 +0000",
          "title" : "Anish Giri defeats Ding Liren and continues pursuit"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week some topics are Schwarzenegger vs. Tyson, who Bob Wade was, and some analysis of the Candidates Tournament, including some further predictions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-4",
-         "pubDate" : "Fri, 23 Apr 2021 19:32:09 +0100",
-         "title" : "The ChessBase News Review (16.04. - 23.04.)"
-      },
-      {
-         "description" : " The Russian champion is the new world No 3 and with three rounds to go is in charge of the tournament in Ekaterinburg Ian Nepomniachtchi is in sight of the result of his life, as the 30-year-old Russian champion leads the Candidates in Ekaterinburg, half a point ahead of his nearest rival and with a superior tie-break, with just three of the 14 rounds still to go. The jackpot for the winner is a 14-game, €2m (&pound;1.7m) challenge match for Magnus Carlsen's world crown at Dubai in November. After 11 of the 14 rounds, Nepomniachtchi leads with 7/11, followed by Anish Giri (Netherlands) 6.5, and Fabiano Caruana (US) 6. The other players look out of it: Maxime Vachier-Lagrave (France) and A",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/apr/23/ian-nepomniachtchi-nears-candidates-title-tilt-magnus-carlsen-world-chess-crown",
-         "pubDate" : "Fri, 23 Apr 2021 16:51:38 +0000",
-         "title" : "Nepomniachtchi nears Candidates title and tilt at Carlsen's world chess crown"
-      },
-      {
-         "description" : " And Then There Were Three... The eleventh round of the FIDE Candidates in Yekaterinburg really clarified the situation at the top of the standings. Ian Nepomniachtchi played the very solid Four Knights as white against his key rival Fabiano Caruana. Nepomniachtchi had the better side of the draw but the margin of error for Caruana was very high and the game was drawn in 40 moves. As things stand three draws will very likely be enough for Nepomniachtchi to become Magnus Carlsen's challenger. Anish Giri moved within half a point of the lead with a win over Ding Liren but he has already lost the mini-match against the leader 1.5-0.5 and that's the first tie-break. Caruana didn't seem ready to ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/nepomniachtchi-draws-against-caruana-and-giri-wins-in-round-11-of-the-candidates",
-         "pubDate" : "Fri, 23 Apr 2021 20:18:00 +0400",
-         "title" : "Nepomniachtchi draws against Caruana and Giri wins in Round 11 of the Candidates - 11"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at the game Wang Hao vs Alexander Grischuk, played in round 10 of the Candidates. In this game Grischuk thought for 72(!) minutes in a theoretically known position, and Wang Hao later tried to win with a queen sacrifice that was certainly dangerous and creative - but was it really sound? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wang-hao-vs-grischuk",
-         "pubDate" : "Fri, 23 Apr 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Wang Hao vs Grischuk"
       }
    ]
 }
