@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes one of his most memorable games and losses ever, against Suat Atalik from the 2007 Konig Memorial. 2021.05.12<br /> Josh Friedel vs. Suat Atalik, 2007: C91 Ruy Lopez, closed, Bogolyubov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
+         "pubDate" : "Fri, 14 May 2021 21:45:42 +0000",
+         "title" : "My Crazy Battle with Atalik | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
+         "description" : "Chess and bridge are the only 'mind sports' recognized by the International Olympic Committee. The two highly popularized games also share that cheating has become a growing preoccupation for fans and organizers alike. In a recently released documentary, Israeli filmmaker Daniel Sivan tells the story of a cheating scandal which involved Lotan Fisher, the strongest bridge player in the world. | Pictured: Lotan Fisher and Ron Schwartz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dirty-tricks-documentary-bridge-cheating-scandal",
+         "pubDate" : "Fri, 14 May 2021 22:00:00 +0100",
+         "title" : "Dirty Tricks: documenting an elite-level cheating scandal"
+      },
+      {
          "description" : "Chessbase India organizes the Super Heroes Cup 2021 with participation of 16 real life super heroes fighting in a knock-out tournament! The event takes place from 14th-16th May with a total prize fund of around 3.000 euros, involving 16 top Indian differently-abled players. Seven players are visually impaired, six are physically disabled and three players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +114,14 @@ news_feed (
          "title" : "A Foundation for Beginners Eighteen"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1081",
+         "pubDate" : "Fri, 14 May 2021 11:16:26 +0000",
+         "title" : "Tashkent hosts Online Seminar for International Organizers"
+      },
+      {
          "description" : "Phiona Mutesi, the actual person behind the famous movie Queen of Katwe, has graduated with Bachelor's of Arts and Management Degree from Northwest University. The information and video of the graduation of Phiona Mutesi comes from FIDE Master, Nigerian Champion, and US National Master Fawole John Oyeyemi via BruvsMedia. Congratulations, Phiona! Visit BruvsMedia website / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
          "pubDate" : "Fri, 14 May 2021 00:45:06 +0000",
          "title" : "Crazy Battle with Atalik | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
+         "description" : "ACROSS 2: A great player who had a large number of tournament and match withdrawals highlighed especially by being on the wrong end of a Steinitz brilliancy, Hastings 1895. 4: Several times a candidate for the world chess championship, in 1970 he ceded his candidate position to Bobby Fischer. 6: A bad move which is usually a decisive error. 9: For more than 20 years he was one of the top six players in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2021/05/14/chess-crossword-puzzle-1/",
+         "pubDate" : "Fri, 14 May 2021 00:00:00 +0000",
+         "title" : "Chess Crossword Puzzle #1"
       },
       {
          "description" : "The 2021 Open Chess Championship of Dominican takes place from 7th-23rd May 2021 in Distrito Nacional. The event gathered 60 participants, competing in 11 rounds for the National Champion title! Top seeded is IM Munoz Santana Jose Lisandro, 6 times Dominican National Chess Champion (2006, 2009, 2012, 2014, 2016, 2017). Starting list of participants: No. []",
@@ -752,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wojtaszek-kulon-win-polish-championships-2021",
          "pubDate" : "Sat, 08 May 2021 19:00:00 +0100",
          "title" : "Wojtaszek and Kulon prevail at the Polish Championships"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a chess game where Nigel Short got the best of the greatest ever, Garry Kasparov, in a 1993 King&#039;s Gambit thematic exhibition in London. 2021.04.28<br /> Nigel Short vs Garry Kasparov, Exhibition Game (thematic) (1993): C33 King&#039;s Gambit Accepted, bishop&#039;s gambit, Bryan counter-gambit<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070668\">https://www.chessgames.com/perl/chessgame?gid=1070668</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nigel-short-beats-garry-kasparov-15-moves-shorts",
-         "pubDate" : "Sat, 08 May 2021 15:40:16 +0000",
-         "title" : "Nigel Short Beats Garry Kasparov in 15 Moves! | #Shorts"
       },
       {
          "description" : " While there was a lot of work put into developing the FIDE rules for Hybrid Chess (including work done by myself), how it would actually work was a different issue. Thus year has seen a few hybrid events, and while it has generally worked well, there have been a few issues of note. The 2021 Oceania Zonal was held over 2 weekends, with players from around the Pacific. Weirdly, the challenge wasn't getting the players to enter, but finding enough arbiters. There were 20 officials for 8 players(!), which was an unexpected feature. On reflection this should have been obvious, given the need for 1 or 2 venues for each player, but for an event which usually get's by with 2 or 3 arbiters, this was",
@@ -2256,14 +2280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-2020-r11",
          "pubDate" : "Sat, 24 Apr 2021 05:30:00 +0100",
          "title" : "Candidates Round 11: Giri in sole second place after brilliant win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1037",
-         "pubDate" : "Fri, 23 Apr 2021 21:05:03 +0000",
-         "title" : "Anish Giri defeats Ding Liren and continues pursuit"
       }
    ]
 }
