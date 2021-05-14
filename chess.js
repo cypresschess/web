@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kh-bvTN-rcA.jpg?itok=j6Yg3Zmk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
+         "pubDate" : "Fri, 14 May 2021 00:45:06 +0000",
+         "title" : "Crazy Battle with Atalik | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
          "description" : "The 2021 Open Chess Championship of Dominican takes place from 7th-23rd May 2021 in Distrito Nacional. The event gathered 60 participants, competing in 11 rounds for the National Champion title! Top seeded is IM Munoz Santana Jose Lisandro, 6 times Dominican National Chess Champion (2006, 2009, 2012, 2014, 2016, 2017). Starting list of participants: No. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/7/kasparov-on-the-carlsen-nepomniachtchi-match.html",
          "pubDate" : "Fri, 07 May 2021 21:13:00 +0000",
          "title" : "Kasparov on the Carlsen-Nepomniachtchi Match"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz gives his take on sacrificing one's knight on d5, usually from the Sicilian Defense. See when it's good and when it's bad. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q5q6OYuk6sA.jpg?itok=ltuvC0aP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nd5-sacrifice-grandmasters-choice-gm-dariusz-swiercz-0",
-         "pubDate" : "Fri, 07 May 2021 15:38:42 +0000",
-         "title" : "The Nd5 Sacrifice! | Grandmaster's Choice - GM Dariusz Swiercz"
       },
       {
          "description" : " In his interview with the Live Breakdown Show, Ilya Merenzon, the CEO of World Chess, discussed the impact that The Queen's Gambit had on chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/f1aGHrqbddE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
