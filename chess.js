@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 17 May, 19:00 CEST (13:00 ET, 17:00 UTC) our Fritztrainers will compete against each other in a theme tournament with randomly picked Fritztrainer openings. Daniel King and Arne Kaehler will accompany them LIVE on Twitch.tv through the evening. Will the two Dutch IMs be able to hold their own against the Grandmasters from Uzbekistan and Romania? Which of the chosen Fritztrainer openings will perform best? Six different openings will be played, from the Benoni to the Traxler Counterattack.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-tournament-with-kazimdzhanov-van-delft-ris-and-marin",
+         "pubDate" : "Fri, 14 May 2021 17:11:43 +0100",
+         "title" : "Live Tournament with Kasimdzhanov, van Delft, Ris and Marin"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at the Bishop's Gambit, 1.e4 e5 2.f4 exf4 3.Bc4, an interesting and surprisingly tricky way to play the King's Gambit. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-with-3-bc4",
+         "pubDate" : "Fri, 14 May 2021 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The King's Gambit with 3.Bc4"
+      },
+      {
+         "description" : "Caissa Hong Kong Chess Club organizes the Caissa Spring League 2021 from May 11 May 23, 2021! Among 37 participants, more than a half are young talented players aged U16, U12, and U8. Starting list of participants: No. &#160; Name FED Rtg Typ 1 FM Ho In Hei Henry&#160; HKG 1788 &#160; 2 &#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caissa-spring-league-2021/",
+         "pubDate" : "Fri, 14 May 2021 14:46:12 +0000",
+         "title" : "Caissa Spring League 2021"
+      },
+      {
+         "description" : "Belarus Chess Championships 2021 take place from 8th-16th May in Minsk! 23 participants play a 9 rounds Swiss tournament in the Open section event, while 12 players compete in Women's section for the title of National Champion! After 6 played rounds, Women's Championship is led by 16 years old Poliakova Varvara who scored 5 points []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/belarus-chess-championships-2021-live/",
+         "pubDate" : "Fri, 14 May 2021 14:19:52 +0000",
+         "title" : "Belarus Chess Championships 2021 LIVE"
+      },
+      {
+         "description" : "In today's tenth round Yu Yangyi won against his main rival Wei Yi and now leads the Open Chinese Championship by one point before the final round. In the Women's Tournament Tan Zhongyi (pictured) secured the title though there is still one round to play. | Photo: Gu Xiaobang",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-championship-yu-leads-tan-wins",
+         "pubDate" : "Fri, 14 May 2021 15:00:00 +0100",
+         "title" : "Chinese Championship: Yu leads, Tan wins"
+      },
+      {
+         "description" : "Abhimanyu Mishra&#160;continues his to become the youngest GM in history.&#160;Just days after conquering his second GM norm, now Mishra is attacking his final one in a tournament in Hungary. &#8220;Vezerkepzo GM May 2021&#8221; is taking place 13-21 May in Budapest. It is a round robin valid for FIDE norms, and is also rated one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mishra-attacking-final-gm-norm/",
+         "pubDate" : "Fri, 14 May 2021 12:31:35 +0000",
+         "title" : "Mishra attacking final GM norm (LIVE)"
+      },
+      {
+         "description" : " Abhimanyu Mishra poised to break Sergey Karjakin's mark of 12 years seven months despite going six months without playing in a tournament due to Covid-19 One of the most enduring chess records, Sergey Karjakin as the youngest grandmaster ever at 12 years and seven months, looks set to fall in the next few weeks. Abhimanyu Mishra, from New Jersey, US, is already the youngest ever international master, at 10, and has just achieved two of the three required GM norms for the higher title. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/apr/30/garry-kasparov-interview-chess-vladimir-putin-russia\">Garry Kasparov: 'Why become a martyr? I can do much more outside Russia'</a> <",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster",
+         "pubDate" : "Fri, 14 May 2021 12:22:11 +0000",
+         "title" : "Chess: American 12-year-old closes in on world record for youngest grandmaster"
+      },
+      {
+         "description" : "The FIDE World Chess Cup 2021 will take place in Sochi, starting July 10, 2021. Out of 206 players taking part in FIDE World Cup 2021, a large portion will earn their spots through Continental events, allowed to be organized in hybrid or online formats. This is the first time in the history of chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-chess-cup-2021/",
+         "pubDate" : "Fri, 14 May 2021 12:07:52 +0000",
+         "title" : "FIDE World Chess Cup 2021"
+      },
+      {
+         "description" : "Children's Chess Club &#8220;OSNOVAC&#8221; and IA Igor Lukic organize IM, WGM and WIM Round Robin closed tournaments &#8220;NIS 2021&#8221;, valid for rating and FIDE ELO. The events will take place simultaneously from 11th-17th June, each to be a round robin with 10 participants and time control of 90 minutes for 40 moves plus 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nis-chess-invitational-2021/",
+         "pubDate" : "Fri, 14 May 2021 11:36:16 +0000",
+         "title" : "NIS Chess Invitational 2021"
+      },
+      {
          "description" : " Last week, we started to work through The Sicilian Defense (an opening for Black). We played through the first five moves of the game. When I teach a specific opening to beginners, I teach that opening three to five moves at a time. When my students understand those three to five moves completely, we move <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\">A Foundation for Beginners Eighteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -106,22 +178,6 @@ news_feed (
          "title" : "FIDE Grand Swiss 2021"
       },
       {
-         "description" : "The 2021 World Chess Championship aka known as the Carlsen - Nepomniachtchi 2021 match will be held 24 November - 16 December in Dubai. The battle for the most important title in the sport of chess will be between the reigning champion Magnus Carlsen and his challenger Ian Nepomniachtchi. Live games Live games from the FIDE World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2021-world-chess-championship-live/",
-         "pubDate" : "Thu, 13 May 2021 17:18:50 +0000",
-         "title" : "2021 World Chess Championship LIVE!"
-      },
-      {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
-         "pubDate" : "Thu, 13 May 2021 16:51:43 +0000",
-         "title" : "FIDE Women's Grand Prix 2021 Gibraltar"
-      },
-      {
          "description" : "May 13, 2021 So far, there have been 3 seasons of the North East Online League, with a total of 14 clubs taking part. Teams...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -160,30 +216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/the-next-american-world-champion.html",
          "pubDate" : "Thu, 13 May 2021 12:42:00 +0000",
          "title" : "The next American World Champion?"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. The stakes at the African Individual Chess Championship are high as the 4 top placed players in the open section will qualify for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Thu, 13 May 2021 12:08:12 +0000",
-         "title" : "African Individual Chess Championship 2021"
-      },
-      {
-         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. This is the participants list for the open section. Africa Individual Chess 2021 full information / Participants Open / Participants women Africa Individual Chess Participants 1 GM Amin Bassem&#160; EGY 2701 2 GM Adly Ahmed&#160; EGY 2615 3 GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/africa-individual-chess-participants/",
-         "pubDate" : "Thu, 13 May 2021 12:08:03 +0000",
-         "title" : "Africa Individual Chess (participants)"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. This is the participants list for the women section. Africa Individual Chess 2021 full information / Participants Open / Participants women African Individual Women Chess Participants 1 WGM Wafa Shahenda&#160; EGY 2145 2 WIM Latreche Sabrina&#160; ALG 2076 3 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-women-chess-participants/",
-         "pubDate" : "Thu, 13 May 2021 12:07:59 +0000",
-         "title" : "African Individual Women Chess (participants)"
       },
       {
          "description" : "President of Uttaranchal Chess Association and former President of Delhi Chess Association Shri Dhiraj Raghuvanshi passed away today after battling against Covid-19 for the past",
@@ -288,6 +320,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/watch-out-elephant-gambit-chess-openings-explained",
          "pubDate" : "Wed, 12 May 2021 15:43:28 +0000",
          "title" : "Watch Out for The Elephant Gambit! | Chess Openings Explained"
+      },
+      {
+         "description" : "The ECF membership year runs from 1st September to 31st of the following August, and each year during July we open the sale of new...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-renewals/",
+         "pubDate" : "Wed, 12 May 2021 15:40:41 +0000",
+         "title" : "ECF membership renewals"
       },
       {
          "description" : " The Owen's Defence with 1b6 is a popular choice at club level because it throws White out of &#8216;book' (well probably) and needs little theory to play. Some years back I did a DVD on this opening and decided that the line with 1.e4 b6 2.d4 Bb7 3.Nd2 was difficult for Black, who could at <a href=\"https://chessimprover.com/obliterate-em-with-the-owens/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Obliterate 'em with the Owen's\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/obliterate-em-with-the-owens/\">Obliterate 'em with the Owen's</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2256,14 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wang-hao-vs-grischuk",
          "pubDate" : "Fri, 23 Apr 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Wang Hao vs Grischuk"
-      },
-      {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Svitlana Demchenko tells us why she can speak five languages, What her connection to Biomedical Sciences is, and how she met Ugandan chess player Phiona Mutesi, the \"Queen of Katwe\". Very soon, Svitlana will teach us some smart moves with her new channel on ChessBase, called \"Svitlana's Smart Moves\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-svitlana-demchenko",
-         "pubDate" : "Fri, 23 Apr 2021 15:00:00 +0100",
-         "title" : "Rapid Interview - Svitlana Demchenko"
       }
    ]
 }
