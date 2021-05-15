@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1083",
+         "pubDate" : "Sat, 15 May 2021 21:03:48 +0000",
+         "title" : "Enyonam Sema Fumey, FIDE's General Secretary, changes position"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Alonso Zapata vs. Viswanathan Anand from Biel in 1988. 2021.04.28<br /> Anthony Miles vs Larry Christiansen, Pan Pacific International (1987): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1089022\">https://www.chessgames.com/perl/chessgame?gid=1089022</a><br /> Alonso Zapata vs Viswanathan Anand, Biel-B (1988): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1018015\">https://www.chessgames.com/perl/chessgame?gid=1018015</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Law Academy Kharkiv dominates Ukrainian Teams Chess Championships 2021"
       },
       {
-         "description" : "FIDE 3.4 Zonal Chess Championship concluded today in Tashkent, Uzbekistan. The event took place from 6-15 May, with34 players from Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. After 9 rounds played in Swiss system, two chess prodigies qualified for the upcoming FIDE World Chess Cup 2021: GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev. 17 year old []",
+         "description" : "FIDE 3.4 Zonal Chess Championship concluded today in Tashkent, Uzbekistan. The event took place from 6-15 May, with 34 players from Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. After 9 rounds played in Swiss system, two chess prodigies qualified for the upcoming FIDE World Chess Cup 2021: GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev. 17 year []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/gm-nodirbek-abdusattorov-and-gm-nodirbek-yakubboev-qualify-for-the-world-chess-cup-2021/",
