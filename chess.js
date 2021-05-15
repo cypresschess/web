@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After White's bishop retreat from f4 to h2 (see diagram position), Black needed no second invitation to unleash her forces. What did she play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/energetic",
+         "pubDate" : "Sat, 15 May 2021 09:00:00 +0100",
+         "title" : "Energetic"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes one of his most memorable games and losses ever, against Suat Atalik from the 2007 Konig Memorial. 2021.05.12<br /> Josh Friedel vs. Suat Atalik, 2007: C91 Ruy Lopez, closed, Bogolyubov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/back-rank-weakness",
          "pubDate" : "Sat, 24 Apr 2021 09:00:00 +0100",
          "title" : "Back rank weakness"
-      },
-      {
-         "description" : " Boris Gelfand joins the Breakdown studio to discuss Round 11 of the Candidates tournament. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Jbde32EaIt8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-breakdown-round-11/",
-         "pubDate" : "Sat, 24 Apr 2021 06:07:43 +0000",
-         "title" : "Candidates Breakdown Round 11"
-      },
-      {
-         "description" : "Anish Giri climbed to sole second place at the Candidates Tournament in Yekaterinburg thanks to a brilliant win over Ding Liren in round 11. While Ian Nepomniachtchi and Fabiano Caruana drew their direct encounter, Maxime Vachier-Lagrave was defeated by Alexander Grischuk in a sharp battle. In a crucial face-off, Caruana will have the white pieces against Giri in Saturday's twelfth round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r11",
-         "pubDate" : "Sat, 24 Apr 2021 05:30:00 +0100",
-         "title" : "Candidates Round 11: Giri in sole second place after brilliant win"
       }
    ]
 }
