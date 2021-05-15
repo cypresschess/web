@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Alonso Zapata vs. Viswanathan Anand from Biel in 1988. 2021.04.28<br /> Anthony Miles vs Larry Christiansen, Pan Pacific International (1987): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1089022\">https://www.chessgames.com/perl/chessgame?gid=1089022</a><br /> Alonso Zapata vs Viswanathan Anand, Biel-B (1988): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1018015\">https://www.chessgames.com/perl/chessgame?gid=1018015</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zapata-vs-anand-1988-biel-game-review",
+         "pubDate" : "Sat, 15 May 2021 18:46:20 +0000",
+         "title" : "Zapata vs. Anand, 1988 Biel | Game Review"
+      },
+      {
+         "description" : "Ukrainian Teams Chess Championships 2021 took place from 6th-14th May in Lviv with participation of more than 150 players competing for their clubs in three events: classical, rapid and blitz. Law Academy Kharkiv dominated the event taking first place in all competitions! Bank Lviv was second in a classical event and Chernivitsi Zubr took bronze. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/law-academy-kharkiv-dominates-ukrainian-teams-chess-championships-2021/",
+         "pubDate" : "Sat, 15 May 2021 16:42:19 +0000",
+         "title" : "Law Academy Kharkiv dominates Ukrainian Teams Chess Championships 2021"
+      },
+      {
+         "description" : "FIDE 3.4 Zonal Chess Championship concluded today in Tashkent, Uzbekistan. The event took place from 6-15 May, with34 players from Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. After 9 rounds played in Swiss system, two chess prodigies qualified for the upcoming FIDE World Chess Cup 2021: GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev. 17 year old []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-nodirbek-abdusattorov-and-gm-nodirbek-yakubboev-qualify-for-the-world-chess-cup-2021/",
+         "pubDate" : "Sat, 15 May 2021 15:59:58 +0000",
+         "title" : "GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev qualify for the World Chess Cup 2021"
+      },
+      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "GM Yangyi Yu and GM Zhongyi Tan win Chinese Chess Championships 2021"
       },
       {
-         "description" : " Share! Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!5 Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/",
@@ -37,9 +61,9 @@ news_feed (
          "description" : "Daniil Dubov, Vidit and David Navara all came back from two points behind to reach the semi-finals of the Mr Dodgy Invitational, with Baadur Jobava winning the final five games in a row as he danced to another victory, this time against David Navara. Only the defending champion Anish Giri never fell behind as he cruised to a 6.5:2.5 victory over Nils Grandelius to set up a semi-final against Dubov. He also joined the commentary team.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mdi-2-giri-grandelius-vidit-jobava-in-the-semis",
+         "link" : "https://chess24.com/en/read/news/mdi-2-giri-dubov-vidit-jobava-in-the-semis",
          "pubDate" : "Sat, 15 May 2021 13:11:59 +0000",
-         "title" : "MDI 2: Giri-Grandelius & Vidit-Jobava in the semis"
+         "title" : "MDI 2: Giri-Dubov & Vidit-Jobava in the semis"
       },
       {
          "description" : "WIM Andreea Navrotescu provides a lecture on positional chess masterpieces, as part of the&#160;ECU Girls and Women Chess Weekend Earlier today WIM Navrotescu aka Andy_Rekt had an introductory course to chess. See the lecture here Follow WIM Navrotescu on Twitter / Follow Andy_Rekt on Twitch More on Girls and Women chess weekend Official website / []",
@@ -152,22 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-with-3-bc4",
          "pubDate" : "Fri, 14 May 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit with 3.Bc4"
-      },
-      {
-         "description" : "Koivisto is back to pole position in the TCEC S21 Qualification League. After twelve rounds Koivisto collected 10,0/12 (eight wins and four draws) and remains the only undefeated engine in the field. Koivisto is closely followed by the star newcomer ClassicAra with 9,5/12. ClassicAra lost its first game in the event against the rating favorite []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/koivisto-shows-muscles-takes-the-lead-after-r12-of-tcec-s21-ql/",
-         "pubDate" : "Fri, 14 May 2021 15:35:21 +0000",
-         "title" : "Koivisto shows muscles, takes the lead after R12 of TCEC S21 QL"
-      },
-      {
-         "description" : "Caissa Hong Kong Chess Club organizes the Caissa Spring League 2021 from May 11 May 23, 2021! Among 37 participants, more than a half are young talented players aged U16, U12, and U8. Starting list of participants: No. &#160; Name FED Rtg Typ 1 FM Ho In Hei Henry&#160; HKG 1788 &#160; 2 &#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caissa-spring-league-2021/",
-         "pubDate" : "Fri, 14 May 2021 14:46:12 +0000",
-         "title" : "Caissa Spring League 2021"
       },
       {
          "description" : "In today's tenth round Yu Yangyi won against his main rival Wei Yi and now leads the Open Chinese Championship by one point before the final round. In the Women's Tournament Tan Zhongyi (pictured) secured the title though there is still one round to play. | Photo: Gu Xiaobang",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/learning-from-sultan-khan",
          "pubDate" : "Sun, 09 May 2021 21:15:00 +0100",
          "title" : "Learning from Sultan Khan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a beginner&#039;s chess blunder by Anatoly Karpov at Wijk aan Zee 1993 against Larry Christiansen. 2021.04.28<br /> Larry Christiansen vs Anatoly Karpov, Hoogovens (1993)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069116\">https://www.chessgames.com/perl/chessgame?gid=1069116</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/worst-mistake-karpovs-career-shorts\"><img src=\"https://saintlouischessclub.org/sites/def",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/worst-mistake-karpovs-career-shorts",
-         "pubDate" : "Sun, 09 May 2021 18:41:08 +0000",
-         "title" : "Worst Mistake of Karpov's Career? | #Shorts"
       },
       {
          "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, but do not trust yourself [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
@@ -2248,38 +2248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-tournament-nepomniachtchi-retains-sole-lead-after-rd-12/articleshow/82238981.cms",
          "pubDate" : "Sun, 25 Apr 2021 09:36:37 +0530",
          "title" : "Candidates: Nepomniachtchi retains sole lead after Rd 12"
-      },
-      {
-         "description" : " Making a mistake before the game really starts is very painful. I had this experience several times. The game gets going and I am not fully into it yet. Because of lack of focus I quickly run over a critical moment or mess up my opening. What happens when I trust half-knowledge you can read [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/pre-game-routine/\">My Pre-Game Routine</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/pre-game-routine/?utm_source=rss&utm_medium=rss&utm_campaign=pre-game-routine",
-         "pubDate" : "Sat, 24 Apr 2021 18:15:00 +0000",
-         "title" : "My Pre-Game Routine"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1619286320598-QTDLZ3PFBJJKZUIYUHLB/ke17ZwdGBToddI8pDm48kFoi5g1sdI4hjaYQi3J8fzZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGZc8uacnBNvCAaPCJDwyeK3kACYBX-OKPaVfhuyraT06KGXx-5PmYzM_OEDWzzeGc/logical2.jpg\" data-image-dimensions=\"316x487\" data-image-focal-point=\"0.5,0.5\" alt=\"logical2.jpg\" data-load=\"false\" data-image-id=\"608459306a87341dd3df8e20\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1619286320598-QTDLZ3PFBJJKZUIYUHLB/ke17ZwdGBToddI8pDm48kFoi5g1sdI4hjaYQi3J8fzZZw-",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/4/24/book-recap-discussing-logical-chess-move-by-move-with-barry-katz",
-         "pubDate" : "Sat, 24 Apr 2021 17:47:39 +0000",
-         "title" : "Book Recap: Discussing Logical Chess Move by Move with Barry Katz"
-      },
-      {
-         "description" : "How do you know that there is exactly one way to solve an endgame study? Tablebases are a proof, but unlike many other genres, there is no way to heuristically solve a study to find a complete proof of it being correct. That is where cook hunters come in. Columnist Siegfried Hornecker introduces us to the world of 'cooks' within the fascinating community of chess composers. | Pictured: Dutch composer Harold van der Heijden",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-04",
-         "pubDate" : "Sat, 24 Apr 2021 18:45:00 +0100",
-         "title" : "Many cooks spoil the study"
-      },
-      {
-         "description" : " All four games in the FIDE Candidates tournament in Yekaterinburg finished decisively with the leader Ian Nepomniachtchi's win over Wang Hao keeping his fate very much in his own hands. Anish Giri moved within half a point with a victory over Fabiano Caruana but his losing head to head score in this event against Nepomniachtchi is the first tie-break effectively making the lead a point. Maxime Vachier-Lagrave kept his small chances alive with a win over Kirill Alekseenko and he will have to go all out with the black pieces against Nepomniachtchi on Monday. Finally Ding Liren beat Alexander Grischuk, Ding is playing for pride and may want to show something in the final round against Nepomnia",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/giri-beats-caruana-and-leader-nepomniachtchi-beats-wang-hao-in-candidates-round-12",
-         "pubDate" : "Sat, 24 Apr 2021 21:11:00 +0400",
-         "title" : "Giri beats Caruana and leader Nepomniachtchi beats Wang Hao in Candidates Round 12 - 12"
       }
    ]
 }
