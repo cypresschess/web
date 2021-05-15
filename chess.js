@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/an-interesting-zugzwang.html",
+         "pubDate" : "Sat, 15 May 2021 14:35:00 +0000",
+         "title" : "An interesting Zugzwang"
+      },
+      {
+         "description" : "WFM Denise Trippold is one of the star guests in the ECU Girls and Women Chess Weekend. She will be playing a simul with the participants. Commentary is provided by WFM Nikola Mayrhuber. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/ WIM Andreea []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wfm-denise-trippold-simul-for-the-girls-and-women-chess-weekend/",
+         "pubDate" : "Sat, 15 May 2021 14:24:38 +0000",
+         "title" : "WFM Denise Trippold simul for the Girls and Women Chess Weekend"
+      },
+      {
+         "description" : "Chinese Open and Women's Chess Championships 2021 took place simultaneously in Xinghua Jiangsu from May 7- May 15. Both events were played in a single round-robin format, within 11 rounds and time control 90′ + 30″. GM Yu Yangyi, GM Wei Yi and GM Li Di scored 7 points each in the Open section. On tiebreak, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-yangyi-yu-and-gm-zhongyi-tan-win-chinese-chess-championships-2021/",
+         "pubDate" : "Sat, 15 May 2021 13:56:59 +0000",
+         "title" : "GM Yangyi Yu and GM Zhongyi Tan win Chinese Chess Championships 2021"
+      },
+      {
+         "description" : " Share! Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/",
+         "pubDate" : "Sat, 15 May 2021 13:24:27 +0000",
+         "title" : "OTB chess resumes!"
+      },
+      {
+         "description" : "Daniil Dubov, Vidit and David Navara all came back from two points behind to reach the semi-finals of the Mr Dodgy Invitational, with Baadur Jobava winning the final five games in a row as he danced to another victory, this time against David Navara. Only the defending champion Anish Giri never fell behind as he cruised to a 6.5:2.5 victory over Nils Grandelius to set up a semi-final against Dubov. He also joined the commentary team.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mdi-2-giri-grandelius-vidit-jobava-in-the-semis",
+         "pubDate" : "Sat, 15 May 2021 13:11:59 +0000",
+         "title" : "MDI 2: Giri-Grandelius & Vidit-Jobava in the semis"
+      },
+      {
+         "description" : "WIM Andreea Navrotescu provides a lecture on positional chess masterpieces, as part of the&#160;ECU Girls and Women Chess Weekend Earlier today WIM Navrotescu aka Andy_Rekt had an introductory course to chess. See the lecture here Follow WIM Navrotescu on Twitter / Follow Andy_Rekt on Twitch More on Girls and Women chess weekend Official website / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-positional-chess-masterpieces/",
+         "pubDate" : "Sat, 15 May 2021 13:07:33 +0000",
+         "title" : "WIM Andreea Navrotescu - Positional Chess Masterpieces"
+      },
+      {
+         "description" : "Despite losing his last-round encounter against women's world champion Ju Wenjun, Yu Yangyi won the open section of the Chinese Championship for a second time in less than six months. The fourth highest-rated player in the country collected 7 points in 11 rounds and edged Wei Yi and Li Di on tiebreaks. Tan Zhongyi had already secured first place in the women's section with a round to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-championships-2021-r11",
+         "pubDate" : "Sat, 15 May 2021 14:00:00 +0100",
+         "title" : "Yu Yangyi repeats as Chinese champion"
+      },
+      {
+         "description" : "IM/WGM Laura Unuk is playing a simultaneous exhibition as part of the ECU Girls and Women Chess Weekend. WIM Lara Janzelj and WIM Teja Vidic will join the stream too. Earlier WIM Andreea Navrotescu streamed a beginners chess class More about the Women and Girls weekend Video: Opening ceremony The weekend is open to female []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-laura-unuk-simul-for-the-girls-and-women-weekend/",
+         "pubDate" : "Sat, 15 May 2021 12:06:35 +0000",
+         "title" : "IM Laura Unuk - simul for the Girls and Women weekend"
+      },
+      {
+         "description" : "The 262 players over-the-board tournament was played in the Accedia headquarters this weekend. GM Ivan Cheparinov is the winner of Accedia Masters 2021. He finished with 7,5/9 , the same points as GM Vassil Spassov, GM Momchil Nikolov and GM Petar Arnaudov, but with a better tiebreak. The U14 player Nikola Kanov was impressive, finishing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-ivan-cheparinov-wins-accedia-masters/",
+         "pubDate" : "Sat, 15 May 2021 12:01:00 +0000",
+         "title" : "GM Ivan Cheparinov wins Accedia Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1082",
+         "pubDate" : "Sat, 15 May 2021 11:52:08 +0000",
+         "title" : "Chinese Championships 2021: Yu Yangyi and Tan Zhongyi defend titles"
+      },
+      {
          "description" : "VOD of the opening ceremony of the ECU Girls and Women Chess Weekend with the organizer Lilli Hahn, the ECU Vice President Eva Repkova, and the director of Sports German chess youth association Kristin Wodzinski. Special guest Tatia Skhirtladze, director of the documentary &#8220;Glory to the Queen&#8221;.",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +170,6 @@ news_feed (
          "title" : "Caissa Spring League 2021"
       },
       {
-         "description" : "Belarus Chess Championships 2021 take place from 8th-16th May in Minsk! 23 participants play a 9 rounds Swiss tournament in the Open section event, while 12 players compete in Women's section for the title of National Champion! After 6 played rounds, Women's Championship is led by 16 years old Poliakova Varvara who scored 5 points []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/belarus-chess-championships-2021-live/",
-         "pubDate" : "Fri, 14 May 2021 14:19:52 +0000",
-         "title" : "Belarus Chess Championships 2021 LIVE"
-      },
-      {
          "description" : "In today's tenth round Yu Yangyi won against his main rival Wei Yi and now leads the Open Chinese Championship by one point before the final round. In the Women's Tournament Tan Zhongyi (pictured) secured the title though there is still one round to play. | Photo: Gu Xiaobang",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,36 +178,12 @@ news_feed (
          "title" : "Chinese Championship: Yu leads, Tan wins"
       },
       {
-         "description" : "Abhimanyu Mishra&#160;continues his to become the youngest GM in history.&#160;Just days after conquering his second GM norm, now Mishra is attacking his final one in a tournament in Hungary. &#8220;Vezerkepzo GM May 2021&#8221; is taking place 13-21 May in Budapest. It is a round robin valid for FIDE norms, and is also rated one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mishra-attacking-final-gm-norm/",
-         "pubDate" : "Fri, 14 May 2021 12:31:35 +0000",
-         "title" : "Mishra attacking final GM norm (LIVE)"
-      },
-      {
          "description" : " Abhimanyu Mishra poised to break Sergey Karjakin's mark of 12 years seven months despite going six months without playing in a tournament due to Covid-19 One of the most enduring chess records, Sergey Karjakin as the youngest grandmaster ever at 12 years and seven months, looks set to fall in the next few weeks. Abhimanyu Mishra, from New Jersey, US, is already the youngest ever international master, at 10, and has just achieved two of the three required GM norms for the higher title. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/apr/30/garry-kasparov-interview-chess-vladimir-putin-russia\">Garry Kasparov: 'Why become a martyr? I can do much more outside Russia'</a> <",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster",
          "pubDate" : "Fri, 14 May 2021 12:22:11 +0000",
          "title" : "Chess: American 12-year-old closes in on world record for youngest grandmaster"
-      },
-      {
-         "description" : "The FIDE World Chess Cup 2021 will take place in Sochi, starting July 10, 2021. Out of 206 players taking part in FIDE World Cup 2021, a large portion will earn their spots through Continental events, allowed to be organized in hybrid or online formats. This is the first time in the history of chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-chess-cup-2021/",
-         "pubDate" : "Fri, 14 May 2021 12:07:52 +0000",
-         "title" : "FIDE World Chess Cup 2021"
-      },
-      {
-         "description" : "Children's Chess Club &#8220;OSNOVAC&#8221; and IA Igor Lukic organize IM, WGM and WIM Round Robin closed tournaments &#8220;NIS 2021&#8221;, valid for rating and FIDE ELO. The events will take place simultaneously from 11th-17th June, each to be a round robin with 10 participants and time control of 90 minutes for 40 moves plus 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nis-chess-invitational-2021/",
-         "pubDate" : "Fri, 14 May 2021 11:36:16 +0000",
-         "title" : "NIS Chess Invitational 2021"
       },
       {
          "description" : " Last week, we started to work through The Sicilian Defense (an opening for Black). We played through the first five moves of the game. When I teach a specific opening to beginners, I teach that opening three to five moves at a time. When my students understand those three to five moves completely, we move <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\">A Foundation for Beginners Eighteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
@@ -152,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1081",
          "pubDate" : "Fri, 14 May 2021 11:16:26 +0000",
          "title" : "Tashkent hosts Online Seminar for International Organizers"
-      },
-      {
-         "description" : "Phiona Mutesi, the actual person behind the famous movie Queen of Katwe, has graduated with Bachelor's of Arts and Management Degree from Northwest University. The information and video of the graduation of Phiona Mutesi comes from FIDE Master, Nigerian Champion, and US National Master Fawole John Oyeyemi via BruvsMedia. Congratulations, Phiona! Visit BruvsMedia website / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/phiona-mutesi-aka-queen-of-katwe-graduates-from-northwest-university/",
-         "pubDate" : "Fri, 14 May 2021 11:12:20 +0000",
-         "title" : "Phiona Mutesi aka Queen of Katwe graduates from Northwest University"
       },
       {
          "description" : "Baadur Jobava danced his way to a 6.5:5.5 win over Alexander Grischuk as the most anticipated Round 1 match-up went down to the final game. It was the same in Howell-Van Foreest, which the English Grandmaster clinched 7:5 after an incredible battle, while there were comfortable wins in the day's earlier matches. Nils Grandelius ousted Alexei Shirov 6.5:1.5, while Laurent Fressinet shocked Peter Svidler 6.5:2.5. It's Giri-Grandelius, Dubov-Fressinet, Vidit-Howell and Navara-Jobava in the quarterfinals.",
@@ -938,7 +978,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The aggressive Rossolimo Sicilian"
       },
       {
-         "description" : " Share!40 Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/",
@@ -1416,14 +1456,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-person-from-porlock/",
          "pubDate" : "Sun, 02 May 2021 08:17:08 +0000",
          "title" : "A Person from Porlock"
-      },
-      {
-         "description" : "Magnus Carlsen beat Hikaru Nakamura 3:1 on Day 1 of the New in Chess Classic final, but the World Champion admitted it could have gone differently. He scored a first win in Game 3 despite blundering a piece, while in the final game of the day Hikaru missed a great chance to get the win on demand he needed. \"Neither of us were absolutely at our best, but we had great fighting spirit\" summed up Magnus, which also applied to the third place match, where Levon Aronian and Shakhriyar Mameydarov traded four wins, all with the black pieces!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/new-in-chess-classic-final-1-magnus-takes-the-lead",
-         "pubDate" : "Sun, 02 May 2021 07:54:23 +0000",
-         "title" : "New in Chess Classic Final 1: Magnus takes the lead"
       },
       {
          "description" : "Shri Gaurav Jindal, President of The Haryana Chess Association passed away in a tragic road accident. Indian Chess and Haryana in particular lost a dynamic",
@@ -2248,22 +2280,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/giri-beats-caruana-and-leader-nepomniachtchi-beats-wang-hao-in-candidates-round-12",
          "pubDate" : "Sat, 24 Apr 2021 21:11:00 +0400",
          "title" : "Giri beats Caruana and leader Nepomniachtchi beats Wang Hao in Candidates Round 12 - 12"
-      },
-      {
-         "description" : " Recently chess,com held an 'Immortal Game' competition. It was won by GM Supi for a nice win over World Chmapion Magnus Carlsen, but the runner up was GM David Smerdon for his win over CM Balaji in 2017. While the Supi win was more interesting on a technical level, it lacked the comedic gold of Smerdon's victory. His opponent won a pawn through a temporary queen sacrifice, but failed to notice what Smerdon was up to after 15.Rb1 If he had spotted what was coming he would have tried to free his position by playing c5 or Ba6 or Re6 or anything that didn't allow his pieces to be imprisoned on the queenside. After Smerdon swapped rooks on e8 Black was essentially down a rook and a bishop. This ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/this-is-funny-on-number-of-levels.html",
-         "pubDate" : "Sat, 24 Apr 2021 13:47:00 +0000",
-         "title" : "This is funny on a number of levels"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1038",
-         "pubDate" : "Sat, 24 Apr 2021 13:02:30 +0000",
-         "title" : "FIDE Women's Grand Prix Gibraltar: New dates announced"
       }
    ]
 }
