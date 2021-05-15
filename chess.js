@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "VOD of the opening ceremony of the ECU Girls and Women Chess Weekend with the organizer Lilli Hahn, the ECU Vice President Eva Repkova, and the director of Sports German chess youth association Kristin Wodzinski. Special guest Tatia Skhirtladze, director of the documentary &#8220;Glory to the Queen&#8221;.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/opening-ceremony-of-the-girls-and-women-chess-weekend/",
+         "pubDate" : "Sat, 15 May 2021 10:27:04 +0000",
+         "title" : "Opening ceremony of the Girls and Women Chess Weekend"
+      },
+      {
+         "description" : "A beginners chess class by WIM Andreea Navrotescu, as part of the ECU Girls and Women Chess Weekend",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-chess-beginners-coaching-session/",
+         "pubDate" : "Sat, 15 May 2021 08:54:20 +0000",
+         "title" : "WIM Andreea Navrotescu - chess beginners coaching session"
+      },
+      {
+         "description" : "Chess masters have, over the past two centuries, devised various spectacular final 'endgames' for themselves. Some of the more eccentric and ingenious methods have included: defenestration (such as, Curt von Bardeleben 1861-1924 and Lembit Oll 1966-2019), leaping to their doom from bridges (Karen Gregorian 1947-1989), plunging one way into otherwise impenetrable mountain caverns (Georgy Agzamov 1954-1986), throwing []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/brain-nutrition-alzheimers-longevity-and-the-power-of-memory/",
+         "pubDate" : "Sat, 15 May 2021 08:00:24 +0000",
+         "title" : "Brain nutrition, Alzheimer's, longevity and the power of memory"
+      },
+      {
          "description" : "After White's bishop retreat from f4 to h2 (see diagram position), Black needed no second invitation to unleash her forces. What did she play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,22 +192,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2021/05/14/chess-crossword-puzzle-1/",
          "pubDate" : "Fri, 14 May 2021 00:00:00 +0000",
          "title" : "Chess Crossword Puzzle #1"
-      },
-      {
-         "description" : "The 2021 Open Chess Championship of Dominican takes place from 7th-23rd May 2021 in Distrito Nacional. The event gathered 60 participants, competing in 11 rounds for the National Champion title! Top seeded is IM Munoz Santana Jose Lisandro, 6 times Dominican National Chess Champion (2006, 2009, 2012, 2014, 2016, 2017). Starting list of participants: No. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dominican-chess-championship-2021/",
-         "pubDate" : "Thu, 13 May 2021 21:57:53 +0000",
-         "title" : "Dominican Chess Championship 2021"
-      },
-      {
-         "description" : "European Girls' and Women's Chess Weekend kicks off tomorrow with a wide range of events: tournaments, workshops, team battle, simultaneous exhibitions and coaching sessions. Many events don't require a pre-registration and all are open to all interested female participants, regardless of their chess knowledge, title or rating! #TweetOftheDay",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-girls-and-womens-weekend-starts-tweetoftheday/",
-         "pubDate" : "Thu, 13 May 2021 21:45:13 +0000",
-         "title" : "ECU Girls' and Women's weekend starts! #TweetOftheDay"
       },
       {
          "description" : "",
@@ -2256,22 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1038",
          "pubDate" : "Sat, 24 Apr 2021 13:02:30 +0000",
          "title" : "FIDE Women's Grand Prix Gibraltar: New dates announced"
-      },
-      {
-         "description" : "Although five of the great early masters of the art and science of chess (Philidor, Labourdonnais, Staunton, Anderssen and Morphy) might claim to have been world chess champion, the first official World Championship match was contested in 1886. It took place in the cities of New York, St Louis and New Orleans, between Johannes Zukertort and []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/prelude-to-armageddon/",
-         "pubDate" : "Sat, 24 Apr 2021 08:00:44 +0000",
-         "title" : "Prelude to Armageddon"
-      },
-      {
-         "description" : "Black's weak back rank is shielded only by the Ne6 - basically that's all you need to have in mind to work out how White wins from the diagram position. Especially the first move is a toughie, though. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/back-rank-weakness",
-         "pubDate" : "Sat, 24 Apr 2021 09:00:00 +0100",
-         "title" : "Back rank weakness"
       }
    ]
 }
