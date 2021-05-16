@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " It's getting on for a century old now, but Nimzowitsch's My System is still often recommended as a good book on positional chess for intermediate players. I'm not at all convinced that it's the best choice, though. Don't get me wrong. If you're interested in the development of chess ideas over the past 100, or <a href=\"https://chessimprover.com/wrong-books-3-my-system/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (3): My System\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-3-my-system/\">Wrong Books (3): My System</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/wrong-books-3-my-system/",
+         "pubDate" : "Sun, 16 May 2021 05:53:14 +0000",
+         "title" : "Wrong Books (3): My System"
+      },
+      {
+         "description" : " So far, it looks like the answer is <em>probably not</em>. <a href=\"https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster\">Leonard Barden thinks</a> he'll need 7/9 to do it, and after a loss in round 2 and a draw in round 3 he only has half a point left to spare. That said, <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">the tournament</a> could still be a success insofar as it brings his rating closer to 2500, even if he doesn't get the final norm this time around. (The GM norm requires a 2600+ TPR, so even if he doesn't achieve that, but does have a TPR greater than his curr",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/16/mishras-current-event-will-he-get-his-third-gm-norm.html",
+         "pubDate" : "Sun, 16 May 2021 05:43:31 +0000",
+         "title" : "Mishra's Current Event: Will He Get His Third GM Norm?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Mad pawns can save the day"
       },
       {
-         "description" : " There was general expectation that for &#8216;m' there would be the Modern Defence (1g6) which I played almost exclusively in the 1980s. As I no longer encourage this kind of thing my choice instead is the Marshall Attack, a gambit line against the Ruy Lopez developed by Frank Marshall. The following game is the best <a href=\"https://chessimprover.com/mince-em-with-the-marshall/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mince 'em with the Marshall\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mince-em-with-the-marshall/\">Mince 'em with the Marshall</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/mince-em-with-the-marshall/",
-         "pubDate" : "Wed, 28 Apr 2021 10:47:49 +0000",
-         "title" : "Mince 'em with the Marshall"
-      },
-      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2074,14 +2082,6 @@ news_feed (
          "title" : "Nepomniachtchi to challenge Carlsen for the World Championship title"
       },
       {
-         "description" : " This is just a \"breaking news\" post; I'll have a proper post (much) later today. Ian Nepomniachtchi drew with Maxime Vachier-Lagrave, and could have played even more ambitiously. But this proved unnecessary, as Anish Giri felt the need to take serious risks against Alexander Grischuk in a position that couldn't justify it. Grischuk converted the point easily, and that was the end of the race for first. Giri had two problems: first, at the point where he decided to play (too) riskily, MVL was in some trouble. Second, even if he had known that the Nepomniachtchi game would finish in a draw and played for a draw as well, he'd still need to outscore Nepo by a full point in the last round. With ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/26/20201-candidates-round-13-nepo-clinches-a-title-shot-updated.html",
-         "pubDate" : "Mon, 26 Apr 2021 17:02:23 +0000",
-         "title" : "2020/1 Candidates, Round 13: Nepo Clinches a Title Shot **UPDATED**"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/nepomniachtchi-wins-candidates-will-challenge-carlsen-for-the-world-championship-title/articleshow/82262313.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82262313.cms\" /></a>Ian Nepomniachtchi sealed his victory in the Candidates tournament by securing a draw with the white pieces against Maxime Vachier-Lagrave.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/04/2021-act-chess-championship.html",
          "pubDate" : "Sun, 25 Apr 2021 12:45:00 +0000",
          "title" : "2021 ACT Chess Championship"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/candidates-chess-tournament-nepomniachtchi-retains-sole-lead-after-rd-12/articleshow/82238981.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82238981.cms\" /></a>Ian Nepomniachtchi outplayed Wang Hao and kept his sole lead with 8 points in the Candidates Tournament after the completion of 12 rounds, while Fabiano Caruana and Anish Giri were deciding who would become his main rival.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-tournament-nepomniachtchi-retains-sole-lead-after-rd-12/articleshow/82238981.cms",
-         "pubDate" : "Sun, 25 Apr 2021 09:36:37 +0530",
-         "title" : "Candidates: Nepomniachtchi retains sole lead after Rd 12"
       }
    ]
 }
