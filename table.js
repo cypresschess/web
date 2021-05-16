@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2021-05-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105147372 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target=' blank'>WEST HOUSTON CHESS OPEN I</a>",
 "HOUSTON","2021-05-08","107","<a href=http://www.uschess.org/msa/XtblMain.php?202105086112 target=' blank'>ST THOMAS HS CHESS TOURNAMENT</a>",
 
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2020-01-31","18","<a href=http://www.uschess.org/msa/XtblMain.php?202001312102 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "TOMBALL","2020-01-31","8","<a href=http://www.uschess.org/msa/XtblMain.php?202001312072 target=' blank'>FRIDAY KNIGHT</a>",
 "TOMBALL","2020-01-31","21","<a href=http://www.uschess.org/msa/XtblMain.php?202001312032 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
-"HOUSTON","2020-01-08  - 01-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202001291962 target=' blank'>THE CHESS REFINERY: WEDNESDAY SWISS</a>",
 ]);
