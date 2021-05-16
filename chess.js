@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 27th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"multi-stage\" plan. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-27-a-multi-stage-plan",
+         "pubDate" : "Sun, 16 May 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
+      },
+      {
+         "description" : "GM Marie Sebag is playing a simul exhibition as part of the ECU Girls and Women Chess Weekend. The commentary is provided by WGM Katarzyna Toma. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/&#160;WIM Andreea Navrotescu - Positional Chess Masterpieces IM Laura Unuk []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-marie-sebag-simul-for-the-girls-and-women-chess-weekend/",
+         "pubDate" : "Sun, 16 May 2021 12:16:22 +0000",
+         "title" : "GM Marie Sebag simul for the Girls and Women Chess Weekend"
+      },
+      {
+         "description" : "The latest ICGA (International Computer Games Association) Journal features no less than FOUR scholarly papers concerning TCEC (Top Chess Engine Competition)! The tireless team Hernandez-Haworth has been covering TCEC Cup competition from its very beginning from Cup 1 until 8, and TCEC Leagues Season from Season 10 until 20, with a series of eloquently written []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-at-the-latest-icga-journal/",
+         "pubDate" : "Sun, 16 May 2021 11:32:52 +0000",
+         "title" : "TCEC at the latest ICGA Journal"
+      },
+      {
          "description" : "Defending Champion Anish Giri came through his toughest test yet to beat Daniil Dubov 7:5 and reach the final of the 2nd edition of the Mr Dodgy Invitational. His opponent will be Baadur Jobava, who danced a little less as he was pushed all the way by Vidit in a match full off dramatic twists, including Vidit deciding to play for a win on time only to get mated on the very next move. Anish is planning to counter Baadur with some Russian rap when the final match starts at 18:00 CEST on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -130,20 +154,12 @@ news_feed (
          "title" : "Yu Yangyi repeats as Chinese champion"
       },
       {
-         "description" : "IM/WGM Laura Unuk is playing a simultaneous exhibition as part of the ECU Girls and Women Chess Weekend. WIM Lara Janzelj and WIM Teja Vidic will join the stream too. Earlier WIM Andreea Navrotescu streamed a beginners chess class More about the Women and Girls weekend Video: Opening ceremony The weekend is open to female []",
+         "description" : "Abhimanyu Mishra is on the way to become the youngest GM in history. The twelve year old boy from New Jersey is about to break the record if he grabs the GM title before September 5th. Mishra's race is against Sergey Karjakin, who currently holds the title of the youngest GM taking it with 12 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-laura-unuk-simul-for-the-girls-and-women-weekend/",
-         "pubDate" : "Sat, 15 May 2021 12:06:35 +0000",
-         "title" : "IM Laura Unuk - simul for the Girls and Women weekend"
-      },
-      {
-         "description" : "The 262 players over-the-board tournament was played in the Accedia headquarters this weekend. GM Ivan Cheparinov is the winner of Accedia Masters 2021. He finished with 7,5/9 , the same points as GM Vassil Spassov, GM Momchil Nikolov and GM Petar Arnaudov, but with a better tiebreak. The U14 player Nikola Kanov was impressive, finishing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-ivan-cheparinov-wins-accedia-masters/",
-         "pubDate" : "Sat, 15 May 2021 12:01:00 +0000",
-         "title" : "GM Ivan Cheparinov wins Accedia Masters"
+         "link" : "https://www.chessdom.com/abhimanyu-mishra-is-on-the-way-to-become-the-youngest-gm-in-history/",
+         "pubDate" : "Sat, 15 May 2021 12:54:00 +0000",
+         "title" : "Abhimanyu Mishra is on the way to become the youngest GM in history"
       },
       {
          "description" : "",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1082",
          "pubDate" : "Sat, 15 May 2021 11:52:08 +0000",
          "title" : "Chinese Championships 2021: Yu Yangyi and Tan Zhongyi defend titles"
-      },
-      {
-         "description" : "VOD of the opening ceremony of the ECU Girls and Women Chess Weekend with the organizer Lilli Hahn, the ECU Vice President Eva Repkova, and the director of Sports German chess youth association Kristin Wodzinski. Special guest Tatia Skhirtladze, director of the documentary &#8220;Glory to the Queen&#8221;.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/opening-ceremony-of-the-girls-and-women-chess-weekend/",
-         "pubDate" : "Sat, 15 May 2021 10:27:04 +0000",
-         "title" : "Opening ceremony of the Girls and Women Chess Weekend"
       },
       {
          "description" : "Chess masters have, over the past two centuries, devised various spectacular final 'endgames' for themselves. Some of the more eccentric and ingenious methods have included: defenestration (such as, Curt von Bardeleben 1861-1924 and Lembit Oll 1966-2019), leaping to their doom from bridges (Karen Gregorian 1947-1989), plunging one way into otherwise impenetrable mountain caverns (Georgy Agzamov 1954-1986), throwing []",
@@ -2216,38 +2224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-day-1",
          "pubDate" : "Sun, 25 Apr 2021 17:15:00 +0100",
          "title" : "New in Chess Classic: Radjabov tops the standings"
-      },
-      {
-         "description" : "An exciting round with four decisive results left two players as the main contenders to win the Candidates Tournament. Anish Giri continued his run of excellent form and beat Fabiano Caruana with the black pieces, but could not catch up with Ian Nepomniachtchi, who got the better of Wang Hao. Maxime Vachier-Lagrave and Ding Liren also won. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r12",
-         "pubDate" : "Sun, 25 Apr 2021 15:15:00 +0100",
-         "title" : "Candidates Round 12: Nepo wins to keep the lead as Giri beats Caruana"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 24th instalment of his ChessBase show \"Understanding before Moving\", Herman illustrates how powerful strategic thinking can be. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-24-strategic-thinking",
-         "pubDate" : "Sun, 25 Apr 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 24: Strategic thinking"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1040",
-         "pubDate" : "Sun, 25 Apr 2021 13:31:57 +0000",
-         "title" : "Baptism of fire in New In Chess Classic"
-      },
-      {
-         "description" : " For local ACT players, the ACT Chess Championship is happening at the end of May (over the Reconciliation Day long weekend). Full details are <p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; position: relative; text-decoration-line: inherit; white-space: pre-wrap;\"><span style=\"box-sizing: border-box;\"><span style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box; font-weight: 700;\">ACT Championships 2021</span></span> <p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-si",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/2021-act-chess-championship.html",
-         "pubDate" : "Sun, 25 Apr 2021 12:45:00 +0000",
-         "title" : "2021 ACT Chess Championship"
       }
    ]
 }
