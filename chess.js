@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending Champion Anish Giri came through his toughest test yet to beat Daniil Dubov 7:5 and reach the final of the 2nd edition of the Mr Dodgy Invitational. His opponent will be Baadur Jobava, who danced a little less as he was pushed all the way by Vidit in a match full off dramatic twists, including Vidit deciding to play for a win on time only to get mated on the very next move. Anish is planning to counter Baadur with some Russian rap when the final match starts at 18:00 CEST on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mdi-2-it-s-a-jobava-giri-dance-off",
+         "pubDate" : "Sun, 16 May 2021 11:11:22 +0000",
+         "title" : "MDI 2: It's a Jobava-Giri dance-off!"
+      },
+      {
+         "description" : "Fans of the Queens Gambit series on Netflix? WIM Lara Janzelj and WIM Teja Vidic aka Checkitas are going to cover the strategy in the opening carrying the same name. This is event is part of the ECU Girls and Women Chess Weekend. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-queens-gambit-with-wim-lara-janzelj-and-wim-teja-vidic/",
+         "pubDate" : "Sun, 16 May 2021 10:23:16 +0000",
+         "title" : "The Queens Gambit - with WIM Lara Janzelj and WIM Teja Vidic"
+      },
+      {
+         "description" : "WGM Petra Papp is providing a simul for the the&#160;ECU Girls and Women Chess Weekend. Commentary is by WIM Inna Agrest. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/&#160;WIM Andreea Navrotescu - Positional Chess Masterpieces IM Laura Unuk live simul&#160;- commentary by WIM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wgm-petra-papp-simul-for-the-girls-and-women-chess-weekend/",
+         "pubDate" : "Sun, 16 May 2021 08:04:57 +0000",
+         "title" : "WGM Petra Papp simul for the Girls and Women Chess Weekend"
+      },
+      {
          "description" : " It's getting on for a century old now, but Nimzowitsch's My System is still often recommended as a good book on positional chess for intermediate players. I'm not at all convinced that it's the best choice, though. Don't get me wrong. If you're interested in the development of chess ideas over the past 100, or <a href=\"https://chessimprover.com/wrong-books-3-my-system/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (3): My System\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-3-my-system/\">Wrong Books (3): My System</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -138,14 +162,6 @@ news_feed (
          "title" : "Opening ceremony of the Girls and Women Chess Weekend"
       },
       {
-         "description" : "A beginners chess class by WIM Andreea Navrotescu, as part of the ECU Girls and Women Chess Weekend",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-chess-beginners-coaching-session/",
-         "pubDate" : "Sat, 15 May 2021 08:54:20 +0000",
-         "title" : "WIM Andreea Navrotescu - chess beginners coaching session"
-      },
-      {
          "description" : "Chess masters have, over the past two centuries, devised various spectacular final 'endgames' for themselves. Some of the more eccentric and ingenious methods have included: defenestration (such as, Curt von Bardeleben 1861-1924 and Lembit Oll 1966-2019), leaping to their doom from bridges (Karen Gregorian 1947-1989), plunging one way into otherwise impenetrable mountain caverns (Georgy Agzamov 1954-1986), throwing []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dirty-tricks-documentary-bridge-cheating-scandal",
          "pubDate" : "Fri, 14 May 2021 22:00:00 +0100",
          "title" : "Dirty Tricks: documenting an elite-level cheating scandal"
-      },
-      {
-         "description" : "Chessbase India organizes the Super Heroes Cup 2021 with participation of 16 real life super heroes fighting in a knock-out tournament! The event takes place from 14th-16th May with a total prize fund of around 3.000 euros, involving 16 top Indian differently-abled players. Seven players are visually impaired, six are physically disabled and three players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessbase-india-super-heroes-cup/",
-         "pubDate" : "Fri, 14 May 2021 19:14:19 +0000",
-         "title" : "Chessbase India Super Heroes Cup"
       },
       {
          "description" : "On 17 May, 19:00 CEST (13:00 ET, 17:00 UTC) our Fritztrainers will compete against each other in a theme tournament with randomly picked Fritztrainer openings. Daniel King and Arne Kaehler will accompany them LIVE on Twitch.tv through the evening. Will the two Dutch IMs be able to hold their own against the Grandmasters from Uzbekistan and Romania? Which of the chosen Fritztrainer openings will perform best? Six different openings will be played, from the Benoni to the Traxler Counterattack.",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-new-in-chess-classic/articleshow/82363887.cms",
          "pubDate" : "Mon, 03 May 2021 08:37:18 +0530",
          "title" : "Magnus Carlsen wins New In Chess Classic"
-      },
-      {
-         "description" : "Magnus Carlsen is the New in Chess Classic champion after finally winning an event on the Meltwater Champions Chess Tour at his 5th attempt. Hikaru Nakamura landed the first blow with a win in Game 1 but lived to regret taking a draw in a promising position in Game 2. Magnus struck back brilliantly in Game 3, leaving Hikaru needing to win on demand with the black pieces. Instead he was losing when he offered a draw that conceded match defeat. Shakhriyar Mamedyarov beat Levon Aronian in the battle for 3rd place in an amazing match where Black won all but one of the games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-new-in-chess-classic-for-1st-tour-title",
-         "pubDate" : "Sun, 02 May 2021 21:24:37 +0000",
-         "title" : "Magnus Carlsen wins New in Chess Classic for 1st Tour title"
       },
       {
          "description" : "Only needing a draw in the second set of the finals against Hikaru Nakamura, Magnus Carlsen bounced back from a loss in game 1 with a win in game 3. Nakamura could not win on demand in game 4, which meant Carlsen had won his first event of the Meltwater Champions Chess Tour. Shakhriyar Mamedyarov obtained a 2&frac12;-&frac12; victory over Levon Aronian to secure third place. | The action kicks off daily at 19:00 CEST.",
