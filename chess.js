@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1083",
          "pubDate" : "Sat, 15 May 2021 21:03:48 +0000",
-         "title" : "Enyonam Sema Fumey, FIDE's General Secretary, changes position"
+         "title" : "Enyonam Sewa Fumey, FIDE's General Secretary, changes position"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Alonso Zapata vs. Viswanathan Anand from Biel in 1988. 2021.04.28<br /> Anthony Miles vs Larry Christiansen, Pan Pacific International (1987): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1089022\">https://www.chessgames.com/perl/chessgame?gid=1089022</a><br /> Alonso Zapata vs Viswanathan Anand, Biel-B (1988): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1018015\">https://www.chessgames.com/perl/chessgame?gid=1018015</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
