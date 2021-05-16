@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri has won the Mr Dodgy Invitational for the 2nd year in a row after defeating Baadur Jobava 7:3 in the final. What Baadur described as \"a cool match\" was much closer than the scoreline suggests, with the players exchanging blows for the first five games. The Georgian no. 1 found some incredible moves, but it's Anish who continues to own the same photo of a man on a horse. Where can he go from here? Well, Baadur suggested \"dance chess\" as the new chess boxing.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anish-giri-wins-the-mr-dodgy-invitational-again",
+         "pubDate" : "Sun, 16 May 2021 23:24:19 +0000",
+         "title" : "Anish Giri wins the Mr Dodgy Invitational&hellip; again!"
+      },
+      {
+         "description" : "The ECU Girls and Women's weekend took place 15-16 May. Hosted by the German Chess Youth Association aka Deutsche Schachjugend e.V., the virtual festival collected more than 800 participants. They enjoyed a rich program of events including multiple GM/IM/WGM/WIM/WFM simuls, seminars by top players, live commentary, workshops, coaching sessions, and series of tournaments. A combination []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-and-womens-weekend-a-success-story/",
+         "pubDate" : "Sun, 16 May 2021 23:03:53 +0000",
+         "title" : "Girls and Women's weekend - a success story"
+      },
+      {
+         "description" : "The Super Heroes Cup 2021, organized by Chessbase India, took place 14-16 May. 16 real life super heroes fought in a knock-out tournament and all of them are already winners! The event featured 6 visually impaired persons, 6 physically disabled and 3 deaf. Read more about participants here. The final match was played between FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-venkata-karthik-wins-super-heroes-cup/",
+         "pubDate" : "Sun, 16 May 2021 21:27:00 +0000",
+         "title" : "FM Venkata Karthik wins Super Heroes Cup"
+      },
+      {
+         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is dominating the Qualification League of the Top Chess Engine Championship. After 19 rounds (out of total 26) it has collected 16,5/19. This is 2,5 points lead ahead of the second, the star debutant ClassicAra. In a key round 18 game Koivisto defeated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/koivisto-downs-with-black-the-rating-favorite/",
+         "pubDate" : "Sun, 16 May 2021 20:04:25 +0000",
+         "title" : "Koivisto downs with black the rating favorite"
+      },
+      {
          "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,22 +154,6 @@ news_feed (
          "title" : "An interesting Zugzwang"
       },
       {
-         "description" : "WFM Denise Trippold is one of the star guests in the ECU Girls and Women Chess Weekend. She will be playing a simul with the participants. Commentary is provided by WFM Nikola Mayrhuber. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/ WIM Andreea []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wfm-denise-trippold-simul-for-the-girls-and-women-chess-weekend/",
-         "pubDate" : "Sat, 15 May 2021 14:24:38 +0000",
-         "title" : "WFM Denise Trippold simul for the Girls and Women Chess Weekend"
-      },
-      {
-         "description" : "Chinese Open and Women's Chess Championships 2021 took place simultaneously in Xinghua Jiangsu from May 7- May 15. Both events were played in a single round-robin format, within 11 rounds and time control 90′ + 30″. GM Yu Yangyi, GM Wei Yi and GM Li Di scored 7 points each in the Open section. On tiebreak, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-yangyi-yu-and-gm-zhongyi-tan-win-chinese-chess-championships-2021/",
-         "pubDate" : "Sat, 15 May 2021 13:56:59 +0000",
-         "title" : "GM Yangyi Yu and GM Zhongyi Tan win Chinese Chess Championships 2021"
-      },
-      {
          "description" : " Share!5 Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/mdi-2-giri-dubov-vidit-jobava-in-the-semis",
          "pubDate" : "Sat, 15 May 2021 13:11:59 +0000",
          "title" : "MDI 2: Giri-Dubov & Vidit-Jobava in the semis"
-      },
-      {
-         "description" : "WIM Andreea Navrotescu provides a lecture on positional chess masterpieces, as part of the&#160;ECU Girls and Women Chess Weekend Earlier today WIM Navrotescu aka Andy_Rekt had an introductory course to chess. See the lecture here Follow WIM Navrotescu on Twitter / Follow Andy_Rekt on Twitch More on Girls and Women chess weekend Official website / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-positional-chess-masterpieces/",
-         "pubDate" : "Sat, 15 May 2021 13:07:33 +0000",
-         "title" : "WIM Andreea Navrotescu - Positional Chess Masterpieces"
       },
       {
          "description" : "Despite losing his last-round encounter against women's world champion Ju Wenjun, Yu Yangyi won the open section of the Chinese Championship for a second time in less than six months. The fourth highest-rated player in the country collected 7 points in 11 rounds and edged Wei Yi and Li Di on tiebreaks. Tan Zhongyi had already secured first place in the women's section with a round to spare.",
@@ -1266,14 +1274,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi: \"The strategy was not to lose\""
       },
       {
-         "description" : "Vladimir Kramnik is the player who managed to end Garry Kasparov's 15-year reign of terror as World Chess Champion. The current World Champion Magnus Carlsen rates Vladimir a \"very strong 9\" out of 10 for influence on the game, and in Part 3 of his Great Moments in Chess series, Sean Marsh looks at how the then 25-year-old Kramnik managed to topple arguably the greatest player of all time.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/great-moments-in-chess-kramnik-s-crown",
-         "pubDate" : "Tue, 04 May 2021 17:33:00 +0000",
-         "title" : "Great Moments in Chess: Kramnik's Crown"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the New in Chess Classic where Magnus Carlsen won his first Meltwater Champion Chess Tour title. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2192,38 +2192,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/26/to-exchange-or-not-the-ultimate-workbook/",
          "pubDate" : "Mon, 26 Apr 2021 00:10:18 +0000",
          "title" : "To Exchange or Not? The Ultimate Workbook"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1043",
-         "pubDate" : "Sun, 25 Apr 2021 22:37:26 +0000",
-         "title" : "Gazprom becomes FIDE's General Partner for the period 2021-2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1039",
-         "pubDate" : "Sun, 25 Apr 2021 21:20:32 +0000",
-         "title" : "Nepomniachtchi keeps sole lead after \"bloody\" Round 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1041",
-         "pubDate" : "Sun, 25 Apr 2021 21:17:17 +0000",
-         "title" : "Deac and Ciolacu win Romanian Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1042",
-         "pubDate" : "Sun, 25 Apr 2021 21:10:01 +0000",
-         "title" : "Statement on the Fair Play decisions at the FIDE World University Championship"
       }
    ]
 }
