@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-146",
+         "pubDate" : "Sun, 16 May 2021 18:40:00 +0100",
+         "title" : "Pearly Kings"
+      },
+      {
+         "description" : "Belarus Open and Women's Chess Championships 2021 simultaneously took place from 8-16 May in Minsk. Both events were played within 9 rounds, swiss system, with 23 players in Open section and 12 players in Women's section. GM Stupak Kirill convincingly claimed the title of the National Champion scoring 7/9 points, despite the bad start and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/belarus-chess-champions-2021-crowned/",
+         "pubDate" : "Sun, 16 May 2021 15:50:43 +0000",
+         "title" : "Belarus Chess Champions 2021 crowned"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 27th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"multi-stage\" plan. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chinese-championships-2021-r11",
          "pubDate" : "Sat, 15 May 2021 14:00:00 +0100",
          "title" : "Yu Yangyi repeats as Chinese champion"
-      },
-      {
-         "description" : "Abhimanyu Mishra is on the way to become the youngest GM in history. The twelve year old boy from New Jersey is about to break the record if he grabs the GM title before September 5th. Mishra's race is against Sergey Karjakin, who currently holds the title of the youngest GM taking it with 12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abhimanyu-mishra-is-on-the-way-to-become-the-youngest-gm-in-history/",
-         "pubDate" : "Sat, 15 May 2021 12:54:00 +0000",
-         "title" : "Abhimanyu Mishra is on the way to become the youngest GM in history"
       },
       {
          "description" : "",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1042",
          "pubDate" : "Sun, 25 Apr 2021 21:10:01 +0000",
          "title" : "Statement on the Fair Play decisions at the FIDE World University Championship"
-      },
-      {
-         "description" : "The preliminaries of the New In Chess Classic, the fifth event of the Champions Chess Tour, kicked off on Saturday. The most successful player on day 1 was Teimour Radjabov, who scored 4 out of 5 points. Second place is shared by Alireza Firouzja and Magnus Carlsen with 3&frac12;/5 each. The aim of the preliminaries is to find out which 8 (out of 16) players move on to the knockout stage. Expert analyses by GM Karsten M&uuml;ller. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-day-1",
-         "pubDate" : "Sun, 25 Apr 2021 17:15:00 +0100",
-         "title" : "New in Chess Classic: Radjabov tops the standings"
       }
    ]
 }
