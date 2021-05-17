@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/new-in-chess-classic-magnus-carlsen-storms-into-lead/articleshow/82252415.cms",
          "pubDate" : "Mon, 26 Apr 2021 09:56:44 +0530",
          "title" : "New In Chess Classic: Magnus Carlsen storms into lead"
-      },
-      {
-         "description" : " From the publisher: &#8220;When should we exchange a piece in the endgame and when should we keep it? Why is it so important? How to make a right choice? Different types of endings and guidance on how to make the correct decision were the subject of my book The Correct Exchange in the Endgame. Two <a href=\"http://britishchessnews.com/2021/04/26/to-exchange-or-not-the-ultimate-workbook/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">To Exchange or Not? The Ultimate Workbook</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/26/to-exchange-or-not-the-ultimate-workbook/\">To Exchange or Not? The Ultimate Wo",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/26/to-exchange-or-not-the-ultimate-workbook/",
-         "pubDate" : "Mon, 26 Apr 2021 00:10:18 +0000",
-         "title" : "To Exchange or Not? The Ultimate Workbook"
       }
    ]
 }
