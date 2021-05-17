@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">We are building <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> as more than just another place to enjoy chess - we are building a launch site for chess players' careers online. Many players come to <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> for the official FIDE-recognized ratings and titles but also for design and attention to detail that made the biggest events in the sport - like the World Chess Championship matches - so exciting. We at World Chess, the company that are responsible for FIDE Online Arena, have been developing the platform and releasing updates, but the changes mostly have been under the hood. As of this moment, all release",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/whats-new-in-fide-online-arena/",
+         "pubDate" : "Mon, 17 May 2021 06:25:14 +0000",
+         "title" : "What's New in FIDE Online Arena?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes Alexander Grischuk&#039;s win over Maxime Vachier-Lagrave in the latter half of the 2020/21 Candidates Tournament. This complicated game is one of Friedel&#039;s favorite from the event. 2021.05.13<br /> Alexander Grischuk vs Maxime Vachier-Lagrave, World Championship Candidates (2020/21): B23 Sicilian, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2041860\">https://www.chessgames.com/perl/chessgame?gid=2041860</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grischuk-vs-mvl-2021-candidates-games-week-gm-josh-friedel",
+         "pubDate" : "Mon, 17 May 2021 03:48:05 +0000",
+         "title" : "Grischuk vs. MVL, 2021 Candidates | Games of the Week - GM Josh Friedel"
+      },
+      {
          "description" : "Anish Giri has won the Mr Dodgy Invitational for the 2nd year in a row after defeating Baadur Jobava 7:3 in the final. What Baadur described as \"a cool match\" was much closer than the scoreline suggests, with the players exchanging blows for the first five games. The Georgian no. 1 found some incredible moves, but it's Anish who continues to own the same photo of a man on a horse. Where can he go from here? Well, Baadur suggested \"dance chess\" as the new chess boxing.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-adhiban-to-win-indian-qualifier",
          "pubDate" : "Mon, 10 May 2021 20:32:03 +0000",
          "title" : "Erigaisi beats Adhiban to win Indian Qualifier"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby-chesscom",
-         "pubDate" : "Mon, 10 May 2021 18:41:49 +0000",
-         "title" : "Road to 2000 Tournament IV - NM Caleb Denby | Chess.com"
       },
       {
          "description" : " The Chinese Championships take place 7th to 15th May 2021. Top seeds are Wei Yi and Yu Yangyi, Women's World Chess Champion Ju Wenjun also competes. The women's event has Tan Zhongyi as top seed. ",
@@ -2168,22 +2176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-200-from-kasparov-to-carlsen-a-review-by-nagesh-havanur",
          "pubDate" : "Mon, 26 Apr 2021 12:05:58 +0100",
          "title" : "CBM 200: From Kasparov to Carlsen - A review by Nagesh Havanur"
-      },
-      {
-         "description" : "With two wins and three draws, Magnus Carlsen climbed to sole first place in the preliminaries of the New in Chess Classic. The world champion and Hikaru Nakamura are the only two players who remain undefeated in the online tournament. Naka, who also collected two wins on Sunday, is now sharing second place with Alireza Firouzja. The best score of day 2, was obtained by Vietnamese star Le Quang Liem. | Pictured: Carlsen, Tari and Christiansen are playing from the Meltwater offices in Oslo.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-day-2",
-         "pubDate" : "Mon, 26 Apr 2021 07:05:00 +0100",
-         "title" : "New in Chess Classic: Carlsen takes the lead"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/new-in-chess-classic-magnus-carlsen-storms-into-lead/articleshow/82252415.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82252415.cms\" /></a>Magnus Carlsen cranked up the gears to move smoothly into the lead in the New In Chess Classic on Sunday. The World Champion said felt \"comfortable\" as he stretched his unbeaten run in the $100,000 online event to 10 games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/new-in-chess-classic-magnus-carlsen-storms-into-lead/articleshow/82252415.cms",
-         "pubDate" : "Mon, 26 Apr 2021 09:56:44 +0530",
-         "title" : "New In Chess Classic: Magnus Carlsen storms into lead"
       }
    ]
 }
