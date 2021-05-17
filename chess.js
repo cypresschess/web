@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sVe65\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained-lichessorg",
+         "pubDate" : "Mon, 17 May 2021 18:48:17 +0000",
+         "title" : "I'll Take the Chekhover Sicilian, Please! | Chess Openings Explained | lichess.org"
+      },
+      {
+         "description" : "The second edition of the MrDodgy Invitational was played on May 12-16 in the chess24 PlayZone. The event was a 16-player knockout, with each match consisting of 12 blitz games (5 minutes for the game, without increments). Top seed Anish Giri, who had won the first edition of the event, defeated Baadur Jobava in the final to get the first prize of $2,500 plus a picture of Dodgy on a horse.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-wins-mr-dodgy-invitational-2021",
+         "pubDate" : "Mon, 17 May 2021 19:20:00 +0100",
+         "title" : "Giri beats Jobava to win MrDodgy Invitational"
+      },
+      {
+         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
+         "pubDate" : "Mon, 17 May 2021 18:00:00 +0100",
+         "title" : "It's here: Discount Day 2021!"
+      },
+      {
          "description" : "The Fritztrainer thematic tournament starts today at 19:00 CEST (13:00 ET, 17:00 UTC) and will be hosted live on Twitch.tv by Daniel King and Arne Kaehler. The discount day, which starts Monday, 17 May, 18:00 CEST (12:00 ET, 16:00 UTC) offers a great opportunity to support your favourite Fritztrainer. But first and foremost, this tournament should be fun and it should offer us fine games with interesting openings to watch. We are looking forward to seeing the players in action: Rustam Kasimdzhanov, Mihail Marin, Merijn van Delft and Robert Ris.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-shri-umesh-panbude/",
          "pubDate" : "Tue, 11 May 2021 07:34:08 +0000",
          "title" : "Rest in Peace Shri Umesh Panbude"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.10<br /> C40 QP counter-gambit (elephant gambit)<br /> C40 QP counter-gambit, Maroczy gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/elephant-gambit-chess-openings-explained",
-         "pubDate" : "Tue, 11 May 2021 03:42:04 +0000",
-         "title" : "The Elephant Gambit | Chess Openings Explained"
       },
       {
          "description" : "17-year-old Arjun Erigaisi will have the chance to make a name for himself when he plays in the Meltwater Champions Chess Tour in June, and the way he dispatched top seed Adhiban in the final of the Indian Qualifier should ensure the world's best players will take him very seriously. Arjun was close to winning the second rapid game before he finally drew blood with a counterattack in the first blitz game, just when Adhiban seemed set to triumph with 1.b3. Third place was taken by Aravindh, who beat Gukesh 2.5:0.5.",
@@ -2136,30 +2152,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/27/1-d4-the-chess-bible-understanding-queens-pawn-structures/",
          "pubDate" : "Tue, 27 Apr 2021 00:10:23 +0000",
          "title" : "1.d4! : The Chess Bible : Understanding Queen's Pawn Structures"
-      },
-      {
-         "description" : "Ian Nepomniachtchi gained the right to challenge Magnus Carlsen in the upcoming World Championship match after winning the Candidates Tournament with a round to spare. Russia's number 1 drew Maxime Vachier-Lagrave while second-placed Anish Giri was defeated by Alexander Grischuk. Given the tiebreak criteria, even if Giri catches up with Nepo in the last round, he would not be granted tournament victory. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r13",
-         "pubDate" : "Mon, 26 Apr 2021 19:45:00 +0100",
-         "title" : "Nepomniachtchi to challenge Carlsen for the World Championship title"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/nepomniachtchi-wins-candidates-will-challenge-carlsen-for-the-world-championship-title/articleshow/82262313.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82262313.cms\" /></a>Ian Nepomniachtchi sealed his victory in the Candidates tournament by securing a draw with the white pieces against Maxime Vachier-Lagrave.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nepomniachtchi-wins-candidates-will-challenge-carlsen-for-the-world-championship-title/articleshow/82262313.cms",
-         "pubDate" : "Mon, 26 Apr 2021 21:24:13 +0530",
-         "title" : "Nepomniachtchi wins Candidates, will challenge Carlsen for the World title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1045",
-         "pubDate" : "Mon, 26 Apr 2021 15:30:39 +0000",
-         "title" : "Ian Nepomniachtchi wins FIDE Candidates Tournament"
       }
    ]
 }
