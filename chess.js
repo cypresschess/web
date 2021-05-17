@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2012 Vishy Anand won his World Championship against Boris Gelfand in Moscow. The next day both the champion and his rival went to meet the Russian President Vladimir Putin. In their conversations, Vishy mentioned that he learnt chess at a Soviet Cultural Center called the Tal Chess Club. &#8220;So, we brought this upon ourselves,&#8221; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/putin-meets-anand-the-anecdote-tweetoftheday/",
+         "pubDate" : "Mon, 17 May 2021 10:15:41 +0000",
+         "title" : "Putin meets Anand: the anecdote #TweetOftheDay"
+      },
+      {
+         "description" : " is here. Click this link for the PDF ",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-may-2021-long-form-newsletter/",
+         "pubDate" : "Mon, 17 May 2021 09:06:54 +0000",
+         "title" : "The May 2021 long-form newsletter &hellip;"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1084",
+         "pubDate" : "Mon, 17 May 2021 09:03:51 +0000",
+         "title" : "Nodirbek Abdusattorov wins Zone 3.4 Open Championship 2021"
+      },
+      {
+         "description" : "A reminder that the deadline for nominations for the 2021 BCET awards is the 31st May 2021. If you wish to make a nomination but...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2021/",
+         "pubDate" : "Mon, 17 May 2021 08:00:24 +0000",
+         "title" : "BCET Awards 2021 - a reminder!"
+      },
+      {
+         "description" : " The Mr Dodgy Invitational 2.0 took place online on Chess24 May 12th - 16th 2021. This 16 player KO blitz (5 minutes no increment) tournament had a strong field. Simon Williams, Peter Heine Nielsen, Nils Grandelius, Jorden van Foreest, Daniil Dubov, Vidit Gujrathi, Alexei Shirov, David Howell, Laurent Fressinet, Pepe Cuenca, David Navara, Baadur Jobava, Peter Svidler, Anish Giri, Baskaran Adhiban and Alexander Grischuk. Anish Giri retained his titled with a comfortable 7-3 in the final, Giri's 7-5 win over Daniil Dubov in the semifinals was his closest match.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/mr-dodgy-invitational-2-2021",
+         "pubDate" : "Mon, 17 May 2021 10:31:00 +0400",
+         "title" : "Mr Dodgy Invitational 2 2021 - Games and Results"
+      },
+      {
+         "description" : " The Chinese Championships took place 7th to 15th May 2021. Yu Yangyi edged out Wei Yi and Li Di on tie-break to win his second title in a row in spite of losing to women's world champion Ju Wenjun in the final round. All three players scored 7/11. Yu Yangyi retained the title he won in December. In the women's event top seed Tan Zhongyi won with 8.5/11 half a point clear of Ning Kaiyu. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chinese-championships-2021",
+         "pubDate" : "Mon, 17 May 2021 10:27:00 +0400",
+         "title" : "Chinese Championships 2021 - Games and Results"
+      },
+      {
          "description" : " <p class=\"lead\">We are building <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> as more than just another place to enjoy chess - we are building a launch site for chess players' careers online. Many players come to <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> for the official FIDE-recognized ratings and titles but also for design and attention to detail that made the biggest events in the sport - like the World Chess Championship matches - so exciting. We at World Chess, the company that are responsible for FIDE Online Arena, have been developing the platform and releasing updates, but the changes mostly have been under the hood. As of this moment, all release",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -152,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/law-academy-kharkiv-dominates-ukrainian-teams-chess-championships-2021/",
          "pubDate" : "Sat, 15 May 2021 16:42:19 +0000",
          "title" : "Law Academy Kharkiv dominates Ukrainian Teams Chess Championships 2021"
-      },
-      {
-         "description" : "FIDE 3.4 Zonal Chess Championship concluded today in Tashkent, Uzbekistan. The event took place from 6-15 May, with 34 players from Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. After 9 rounds played in Swiss system, two chess prodigies qualified for the upcoming FIDE World Chess Cup 2021: GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev. 17 year []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-nodirbek-abdusattorov-and-gm-nodirbek-yakubboev-qualify-for-the-world-chess-cup-2021/",
-         "pubDate" : "Sat, 15 May 2021 15:59:58 +0000",
-         "title" : "GM Nodirbek Abdusattorov and GM Nodirbek Yakubboev qualify for the World Chess Cup 2021"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
@@ -474,14 +514,6 @@ news_feed (
          "title" : "60 years ago: Botvinnik wins return match against Tal"
       },
       {
-         "description" : " The Mr Dodgy Invitational 2 takes place online on Chess24 May 12th - 16th 2021. This 16 player KO blitz (5 minutes no increment) tournament has a strong field. Simon Williams, Peter Heine Nielsen, Nils Grandelius, Jorden van Foreest, Daniil Dubov, Vidit Gujrathi, Alexei Shirov, David Howell, Laurent Fressinet, Pepe Cuenca, David Navara, Baadur Jobava, Peter Svidler, Anish Giri, Baskaran Adhiban and Alexander Grischuk. Anish Giri won the event last year.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/mr-dodgy-invitational-2-2021",
-         "pubDate" : "Wed, 12 May 2021 19:44:00 +0400",
-         "title" : "Mr Dodgy Invitational 2 2021 - Games and Results"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Elephant Gambit, a rare opening starting with 1.e4 e5 2.Nf3 d5!? 2021.05.10<br /> C40 QP counter-gambit (elephant gambit)<br /> C40 QP counter-gambit, Maroczy gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-out-elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-adhiban-to-win-indian-qualifier",
          "pubDate" : "Mon, 10 May 2021 20:32:03 +0000",
          "title" : "Erigaisi beats Adhiban to win Indian Qualifier"
-      },
-      {
-         "description" : " The Chinese Championships take place 7th to 15th May 2021. Top seeds are Wei Yi and Yu Yangyi, Women's World Chess Champion Ju Wenjun also competes. The women's event has Tan Zhongyi as top seed. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chinese-championships-2021",
-         "pubDate" : "Mon, 10 May 2021 19:22:00 +0400",
-         "title" : "Chinese Championships 2021 - Games and Results"
       },
       {
          "description" : " The Russian Team Championships took place in Sochi 1st to 10th May 2021. The St Petersburg team Bronze Horseman won the title winning all 8 matches. The Women's title was won by the Moscow team. The South Ural team from the Chelyabinsk region won the Higher League.",
@@ -1202,14 +1226,6 @@ news_feed (
          "title" : "\"Iron Horsemen\" lead Russian Team Championship"
       },
       {
-         "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply. There are new...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nominations-invited-for-this-years-ecf-awards/",
-         "pubDate" : "Wed, 05 May 2021 13:43:45 +0000",
-         "title" : "Nominations invited for this year's ECF Awards"
-      },
-      {
          "description" : " As I'm currently writing a book for Everyman Chess on a Nimzo and Queen's Indian repertoire the Nimzo was an obvious choice for N. Some of you might have expected the Najdorf but I prefer not to encourage highly theoretical lines in which the maintenance load increases as players move up the rankings. The Nimzo-Indian <a href=\"https://chessimprover.com/nuke-em-with-the-nimzo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Nuke 'em with the Nimzo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/nuke-em-with-the-nimzo/\">Nuke 'em with the Nimzo</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1608,14 +1624,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/looking-back-at-the-recent-space-chess-game/",
          "pubDate" : "Sat, 01 May 2021 10:15:43 +0000",
          "title" : "Looking Back at the Recent Space Chess Game"
-      },
-      {
-         "description" : "The English Chess Federation (ECF) have partnered with GoMembership to provide thousands of discounts on offer from over 270 of your favourite online and high...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-gomembership-scheme-launch/",
-         "pubDate" : "Sat, 01 May 2021 08:00:24 +0000",
-         "title" : "New ECF/GoMembership Scheme launches"
       },
       {
          "description" : "The celebrated chess Grandmaster and author, Jacques Mieses, on arriving in England during the 1930s as a Jewish refugee from Nazi Germany, was allegedly greeted by reporters with the question: \"Are you Mister Mises?\" To which he shot back: \"Nein, ich bin Meister Meeses!\" Mieses had sensibly fled from a regime which had just cancelled his name []",
@@ -2160,22 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/candidates-news-round-11-king-of-draws-who/",
          "pubDate" : "Mon, 26 Apr 2021 11:31:29 +0000",
          "title" : "Candidates Round 11 - King of draws, who?"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-04-22_15-02-23.jpg\" width=\"1200\" height=\"806\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes/FIDE</div> </div> <p class=\"lead\">Ian Nepomniachtchi faced Kirill Alekseenko on R10 of the Candidates, but things didn't go as planned for the second. Nepo gained a quick advantage after Kirill's early mistake in the opening, who tried to create a tactical game afterwards, but with no substantial counterplay. <h2>Three draws</h2> All the other games ended up in a draw, but they weren't indifferent at all. Giri played the Sveshnikov for the second time, but Maxime responded in a different way than w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-news-round-10-nepomniachtchi-is-a-full-point-ahead/",
-         "pubDate" : "Mon, 26 Apr 2021 11:21:54 +0000",
-         "title" : "Candidates Round 10 - Nepomniachtchi is a full point ahead"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. With this bi-centennial issue it has reached a landmark. GM Rainer Knaak recalls the memorable journey with some nice videos. Then we are back to tournament preparation. This issue offers games from three major events, Tata Steel 2021, Skilling Open and 73rd Russian Championship Superfinal. 413 games, 3 opening videos, 11 opening surveys, demo. lectures and exercises for training. It also includes games annotated by Wesley So, Anish Giri, Van Foreest, Jan Duda, Vladimir Fedoseev, Nikita Vitiugov to mention a few. Prof. Nagesh Havanur takes a look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-200-from-kasparov-to-carlsen-a-review-by-nagesh-havanur",
-         "pubDate" : "Mon, 26 Apr 2021 12:05:58 +0100",
-         "title" : "CBM 200: From Kasparov to Carlsen - A review by Nagesh Havanur"
       }
    ]
 }
