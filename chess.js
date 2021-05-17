@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A little update from around the chess world. First, Abhimanyu Mishra will be a GM soon, but not by the end of the <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">norm event</a> he's playing in now. He (probably) needed 7/9; 2/5 clearly isn't going to cut it. Hopefully he can minimize the rating damage he has suffered thus far. (Unless you're a Sergey Karjakin superfan, in which case you hope the damage piles up like an avalanche.) Second: the \"<a href=\"https://events.chess24.com/mrdodgy-invitational/\">Mr Dodgy Invitational 2.0</a>\" (afaik, \"Mr. Dodgy\" is the username of a Chess24 superfan; I don't know if he contributed any money to the event's ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/17/no-norm-for-mishra-and-other-news.html",
+         "pubDate" : "Mon, 17 May 2021 23:02:54 +0000",
+         "title" : "No Norm for Mishra, and Other News"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour delivers a world first for its next event: an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX, the leading cryptocurrency exchange. Fans will be able to track the prize pot's value in real-time throughout the broadcast to see how it fluctuates.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-preview",
+         "pubDate" : "Mon, 17 May 2021 23:00:00 +0100",
+         "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HviX715YLnc.jpg?itok=_Xu8CZnV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel",
+         "pubDate" : "Mon, 17 May 2021 21:48:23 +0000",
+         "title" : "Alekseenko vs. Grischuk, 2021 Candidates | Insane in the Endgame - GM Josh Friedel"
+      },
+      {
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information / Participants Open / Participants women The games start on May 18. While waiting for the live broadcast, enjoy some chess from the Top Chess Engine []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
+         "pubDate" : "Mon, 17 May 2021 21:40:05 +0000",
+         "title" : "African Chess Championships 2021 LIVE"
+      },
+      {
+         "description" : "Chess.com is excited to announce the upcoming CryptoChamps tournament&#38;nbsp;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on June 12 and 13, starting at 10 a.m. Pacific/19:00 CE...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-cryptochamps-powered-by-coinbase",
+         "pubDate" : "Mon, 17 May 2021 12:59:00 -0700",
+         "title" : "Announcing Chess.com's CryptoChamps Powered By Coinbase"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sVe65\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/girls-and-womens-weekend-a-success-story/",
          "pubDate" : "Sun, 16 May 2021 23:03:53 +0000",
          "title" : "Girls and Women's weekend - a success story"
-      },
-      {
-         "description" : "The Super Heroes Cup 2021, organized by Chessbase India, took place 14-16 May. 16 real life super heroes fought in a knock-out tournament and all of them are already winners! The event featured 6 visually impaired persons, 6 physically disabled and 3 deaf. Read more about participants here. The final match was played between FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-venkata-karthik-wins-super-heroes-cup/",
-         "pubDate" : "Sun, 16 May 2021 21:27:00 +0000",
-         "title" : "FM Venkata Karthik wins Super Heroes Cup"
       },
       {
          "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1075",
          "pubDate" : "Tue, 11 May 2021 20:26:00 +0000",
          "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at the importance of the king in chess endgames, using games from Lev Psakhis and Friedel himself. 2021.05.11<br /> Lev Psakhis vs. Mark Hebden, 1983<br /> <a href=\"https://old.chesstempo.com/gamedb/game/1844637\">https://old.chesstempo.com/gamedb/game/1844637</a><br /> Bernd Salvermoser vs. Josh Friedel, 2007 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-power-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/king-power-insane-endgame-gm-josh-friedel",
-         "pubDate" : "Tue, 11 May 2021 18:42:48 +0000",
-         "title" : "King Power! | Insane in the Endgame - GM Josh Friedel"
       },
       {
          "description" : "Arjun Erigaisi pulled a massive upset in the finals of the Indian Qualifier to the Champions Chess Tour by handing Adhiban his first defeat of the event. Nonetheless, by reaching the finals, Adhiban had already qualified to the elite online tour. Aravindh beat Gukesh in the match for third place. Gukesh should be happy with his performance, as he was the only player to beat eventual champion Arjun Erigaisi in the very first game of the semifinals.",
@@ -2128,22 +2152,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/candidates-news-round-13-nepomniachtchi-is-the-next-challenger/",
          "pubDate" : "Tue, 27 Apr 2021 07:41:29 +0000",
          "title" : "Candidates Round 13 - Nepo is the next challenger"
-      },
-      {
-         "description" : "Undefeated GM Magnus Carlsen finished the preliminaries of the New In Chess Classic in first place with 10.5/15. GMs Hikaru Nakamura&#38;nbsp;(who also went undefeated) and Shakhriyar Mamedyarov finished with 9.5/15 each, taking seeds two and three. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-preliminaries-day-3",
-         "pubDate" : "Mon, 26 Apr 2021 18:51:00 -0700",
-         "title" : "New In Chess Classic: Carlsen, Nakamura Top Seeds"
-      },
-      {
-         "description" : " The preliminary stage of the New in Chess Classic has finished, and Magnus Carlsen came in first with a fine, undefeated score of 10.5/15. Hikaru Nakamura was also undefeated, tying with Shakhriyar Mamedyarov for second with 9.5 points apiece. Mamedyarov won more games than anyone else - seven, to Carlsen's six - but also lost three. Wesley So and Levon Aronian tied for 4th-5th with nine points apiece, and the trio of Teimour Radjabov, Alireza Firouzja, and Le Quang Liem all finished with eight and a half points to take the remaining spots. Now the tournament moves on to a knockout stage, and works the same way as many other online rapid events over the past year. Each knockout stage consis",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/26/new-in-chess-classic-2021-knockout-pairings-are-set.html",
-         "pubDate" : "Tue, 27 Apr 2021 01:33:25 +0000",
-         "title" : "New In Chess Classic 2021: Knockout Pairings Are Set"
       },
       {
          "description" : " From the publisher: &#8220;In his first book (we anticipate many more), the young Hungarian author makes a worthy attempt to walk his readers through a complete 1.d4 opening repertoire. Yet while he is taking you thru the opening he never forgets the other phases of the game. As a result, the subsequent middlegame and endgame <a href=\"http://britishchessnews.com/2021/04/27/1-d4-the-chess-bible-understanding-queens-pawn-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.d4! : The Chess Bible : Understanding Queen's Pawn Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/27/1-d4-the-c",
