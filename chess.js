@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fritztrainer thematic tournament starts today at 19:00 CEST (13:00 ET, 17:00 UTC) and will be hosted live on Twitch.tv by Daniel King and Arne Kaehler. The discount day, which starts Monday, 17 May, 18:00 CEST (12:00 ET, 16:00 UTC) offers a great opportunity to support your favourite Fritztrainer. But first and foremost, this tournament should be fun and it should offer us fine games with interesting openings to watch. We are looking forward to seeing the players in action: Rustam Kasimdzhanov, Mihail Marin, Merijn van Delft and Robert Ris.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritztrainer-tournament-live-with-daniel-king-and-arne-kaehler",
+         "pubDate" : "Mon, 17 May 2021 17:08:30 +0100",
+         "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
+      },
+      {
+         "description" : "At the recently held Montengro Chess Championship 2021, IM Luka Draskovic claimed the title of the National Champion for the first time in his chess career. Top four players from the National Championship took part in the knock-out tournament in Budva. The winner of the event earned the spot for the upcoming World Chess Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-luka-draskovic-qualifies-for-the-fide-world-cup-2021/",
+         "pubDate" : "Mon, 17 May 2021 14:49:18 +0000",
+         "title" : "IM Luka Draskovic qualifies for the FIDE World Cup 2021"
+      },
+      {
+         "description" : "Two weeks after clinching the Shenzhen Masters (online), GM Yu Yangyi won his third Chinese Championship title (over the board!). GM Ju Wenjun, who chose to play in the open section, was one of two players to beat the eventual champion. How to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chinese-chess-championships-yu-yangyi-tan-zhongyi",
+         "pubDate" : "Mon, 17 May 2021 06:55:00 -0700",
+         "title" : "Yu Retains Chinese Title But Loses To Ju"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to take place from May 23 to May 31 and is broadcast on TV2, Eurosport, and online streaming platforms Twitch and YouTube across multiple platforms. Chessdom.com will provide extensive coverage of the FTX Crypto 2021. Official website of the Champions Chess tour&#160;/ Latest event:&#160;Carlsen wins Meltwater Championship Chess Tour []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-the-reactions/",
+         "pubDate" : "Mon, 17 May 2021 13:38:44 +0000",
+         "title" : "FTX Crypto Cup - the reactions"
+      },
+      {
+         "description" : "The prominent Indian news agency TOI featured the upcoming FTX Crypto Chess Cup. In an article by Prasad Ramasubramanian titled &#8220;FTX Crypto Cup chess to kick off from May 23&#8221;, Carlsen is quoted, As a big sports fan and NBA enthusiast, I was thrilled to learn that FTX is continuing its move into sports by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/toi-ftx-crypto-cup-chess-to-kick-off-from-may-23/",
+         "pubDate" : "Mon, 17 May 2021 13:15:25 +0000",
+         "title" : "TOI: \"FTX Crypto Cup chess to kick off from May 23\""
+      },
+      {
+         "description" : "The FTX Crypto Chess Cup 2021&#160;was just announced and it is already making headlines. In an article titled &#8220;The World's first bitcoin chess tournament&#8221; The Sun presents the FTX event of the Meltwater Champions Chess Tour: &#8220;The world's first bitcoin chess tournament, the FTX Crypto Cup, is being held from May 23. &#8220;A cool $100,000 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-meltwater-ftx-crypto-chess-cup-featured-in-the-sun/",
+         "pubDate" : "Mon, 17 May 2021 13:04:42 +0000",
+         "title" : "The Meltwater FTX Crypto Chess Cup featured in The Sun"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms",
+         "pubDate" : "Mon, 17 May 2021 18:24:52 +0530",
+         "title" : "FTX Crypto Cup chess to kick off from May 23"
+      },
+      {
+         "description" : " Today I attended the funeral of Keith Robertson, a long-time member of the ACT chess community. One of the pictures used for the service was of Keith in front of a birthday cake that was in the form of a chessboard. However the baker (or designer) got a bit carried away, as the board was a 9 by 9 board. While this may seem like an obvious blunder by a non chessplayer, it does have one desirable feature. Each corner of the board was a white square, meaning it was impossible to orient the wrong way (the bottom right hand square is always white). On the other hand, a board of this type has two other drawbacks. Firstly, if the pieces are arranged from outside in, the all the bishops for both si",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/the-idiot-proof-chessboard.html",
+         "pubDate" : "Mon, 17 May 2021 12:52:00 +0000",
+         "title" : "The idiot-proof chessboard"
+      },
+      {
+         "description" : "For many chess players, chess problems just look bizarre: the pieces on the board often seem to be randomly placed and the positions appear to to be utterly removed from anything that can happen in a practical game. However, solving chess problems can be fun - if you know how to approach them. Vlaicu Crisan has some advice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-solve-chess-problems",
+         "pubDate" : "Mon, 17 May 2021 13:43:00 +0100",
+         "title" : "How to solve chess problems"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021 is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
+         "pubDate" : "Mon, 17 May 2021 12:22:57 +0000",
+         "title" : "FTX Crypto Chess Cup 2021"
+      },
+      {
+         "description" : "Magnus Carlsen faces World Championship Challenger Ian Nepomniachtchi as the FTX Crypto Cup, the 6th event on the Meltwater Champions Chess Tour, begins Sunday, May 23rd at 17:00 CEST. One of the strongest line-ups ever assembled features the full Top 10, meaning a Tour debut for the last challenger and world no. 2 Fabiano Caruana. The last Major on the Tour offers a direct spot to September's Tour Finals in San Francisco as well as a record online chess prize fund of $320k, with sponsors FTX providing a $100k Bitcoin bonus.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepo-meet-as-top-10-all-play-320-000-ftx-crypto-cup",
+         "pubDate" : "Mon, 17 May 2021 12:00:02 +0000",
+         "title" : "Carlsen-Nepo as full Top 10 play $320,000 FTX Crypto Cup"
+      },
+      {
+         "description" : "The 10th jubilee season of the Swedish Rapid Team Battle kicks off this Wednesday, May 19th. Around 400 players will compete for 26 Swedish chess clubs. The event will be played Online at Lichess, with 5 rounds taking place every Wednesday from 19:30 CEST. The time control is 10 minutes + 2 seconds. The best []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swedish-rapid-team-battle-2021/",
+         "pubDate" : "Mon, 17 May 2021 11:36:00 +0000",
+         "title" : "Swedish Rapid Team Battle 2021"
+      },
+      {
+         "description" : "GM Aleksei Sarana won his first Titled Arena on Saturday, finishing a comfortable 14 points ahead of the field. Second Place was taken by IM Minh Le, a Titled Arena mainstay. Third place was for GM Zhamsaran Tsydypov. Read the full story on Lichess blog . The&#160;next Lichess Titled Arena&#160;will be on May 22nd. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-aleksei-sarana-wins-first-gold-at-lichess-titled-arena/",
+         "pubDate" : "Mon, 17 May 2021 11:32:07 +0000",
+         "title" : "GM Aleksei Sarana wins first gold at Lichess Titled Arena"
+      },
+      {
          "description" : "In 2012 Vishy Anand won his World Championship against Boris Gelfand in Moscow. The next day both the champion and his rival went to meet the Russian President Vladimir Putin. In their conversations, Vishy mentioned that he learnt chess at a Soviet Cultural Center called the Tal Chess Club. &#8220;So, we brought this upon ourselves,&#8221; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,28 +194,12 @@ news_feed (
          "title" : "FM Venkata Karthik wins Super Heroes Cup"
       },
       {
-         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is dominating the Qualification League of the Top Chess Engine Championship. After 19 rounds (out of total 26) it has collected 16,5/19. This is 2,5 points lead ahead of the second, the star debutant ClassicAra. In a key round 18 game Koivisto defeated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/koivisto-downs-with-black-the-rating-favorite/",
-         "pubDate" : "Sun, 16 May 2021 20:04:25 +0000",
-         "title" : "Koivisto downs with black the rating favorite"
-      },
-      {
          "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-146",
          "pubDate" : "Sun, 16 May 2021 18:40:00 +0100",
          "title" : "Pearly Kings"
-      },
-      {
-         "description" : "Belarus Open and Women's Chess Championships 2021 simultaneously took place from 8-16 May in Minsk. Both events were played within 9 rounds, swiss system, with 23 players in Open section and 12 players in Women's section. GM Stupak Kirill convincingly claimed the title of the National Champion scoring 7/9 points, despite the bad start and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/belarus-chess-champions-2021-crowned/",
-         "pubDate" : "Sun, 16 May 2021 15:50:43 +0000",
-         "title" : "Belarus Chess Champions 2021 crowned"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 27th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"multi-stage\" plan. | Photo: Tommy Grooten",
@@ -122,44 +210,12 @@ news_feed (
          "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
       },
       {
-         "description" : "GM Marie Sebag is playing a simul exhibition as part of the ECU Girls and Women Chess Weekend. The commentary is provided by WGM Katarzyna Toma. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/&#160;WIM Andreea Navrotescu - Positional Chess Masterpieces IM Laura Unuk []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-marie-sebag-simul-for-the-girls-and-women-chess-weekend/",
-         "pubDate" : "Sun, 16 May 2021 12:16:22 +0000",
-         "title" : "GM Marie Sebag simul for the Girls and Women Chess Weekend"
-      },
-      {
-         "description" : "The latest ICGA (International Computer Games Association) Journal features no less than FOUR scholarly papers concerning TCEC (Top Chess Engine Competition)! The tireless team Hernandez-Haworth has been covering TCEC Cup competition from its very beginning from Cup 1 until 8, and TCEC Leagues Season from Season 10 until 20, with a series of eloquently written []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-at-the-latest-icga-journal/",
-         "pubDate" : "Sun, 16 May 2021 11:32:52 +0000",
-         "title" : "TCEC at the latest ICGA Journal"
-      },
-      {
          "description" : "Defending Champion Anish Giri came through his toughest test yet to beat Daniil Dubov 7:5 and reach the final of the 2nd edition of the Mr Dodgy Invitational. His opponent will be Baadur Jobava, who danced a little less as he was pushed all the way by Vidit in a match full off dramatic twists, including Vidit deciding to play for a win on time only to get mated on the very next move. Anish is planning to counter Baadur with some Russian rap when the final match starts at 18:00 CEST on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/mdi-2-it-s-a-jobava-giri-dance-off",
          "pubDate" : "Sun, 16 May 2021 11:11:22 +0000",
          "title" : "MDI 2: It's a Jobava-Giri dance-off!"
-      },
-      {
-         "description" : "Fans of the Queens Gambit series on Netflix? WIM Lara Janzelj and WIM Teja Vidic aka Checkitas are going to cover the strategy in the opening carrying the same name. This is event is part of the ECU Girls and Women Chess Weekend. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-queens-gambit-with-wim-lara-janzelj-and-wim-teja-vidic/",
-         "pubDate" : "Sun, 16 May 2021 10:23:16 +0000",
-         "title" : "The Queens Gambit - with WIM Lara Janzelj and WIM Teja Vidic"
-      },
-      {
-         "description" : "WGM Petra Papp is providing a simul for the the&#160;ECU Girls and Women Chess Weekend. Commentary is by WIM Inna Agrest. More on Girls and Women chess weekend Official website&#160;/&#160;Information&#160;/&#160;Opening ceremony Schachjugend Twitter&#160;/&#160;Schachjugend Instagram WIM Andreea Navrotescu on chess for beginners&#160;/&#160;WIM Andreea Navrotescu - Positional Chess Masterpieces IM Laura Unuk live simul&#160;- commentary by WIM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wgm-petra-papp-simul-for-the-girls-and-women-chess-weekend/",
-         "pubDate" : "Sun, 16 May 2021 08:04:57 +0000",
-         "title" : "WGM Petra Papp simul for the Girls and Women Chess Weekend"
       },
       {
          "description" : " It's getting on for a century old now, but Nimzowitsch's My System is still often recommended as a good book on positional chess for intermediate players. I'm not at all convinced that it's the best choice, though. Don't get me wrong. If you're interested in the development of chess ideas over the past 100, or <a href=\"https://chessimprover.com/wrong-books-3-my-system/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (3): My System\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-3-my-system/\">Wrong Books (3): My System</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -192,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/zapata-vs-anand-1988-biel-game-review",
          "pubDate" : "Sat, 15 May 2021 18:46:20 +0000",
          "title" : "Zapata vs. Anand, 1988 Biel | Game Review"
-      },
-      {
-         "description" : "Ukrainian Teams Chess Championships 2021 took place from 6th-14th May in Lviv with participation of more than 150 players competing for their clubs in three events: classical, rapid and blitz. Law Academy Kharkiv dominated the event taking first place in all competitions! Bank Lviv was second in a classical event and Chernivitsi Zubr took bronze. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/law-academy-kharkiv-dominates-ukrainian-teams-chess-championships-2021/",
-         "pubDate" : "Sat, 15 May 2021 16:42:19 +0000",
-         "title" : "Law Academy Kharkiv dominates Ukrainian Teams Chess Championships 2021"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
@@ -1154,14 +1202,6 @@ news_feed (
          "title" : "Chess in the QLASH house"
       },
       {
-         "description" : "Adhiban tops a field of 16 Indian players who will compete for two spots in the Meltwater Champions Chess Tour in a qualifier taking place from Friday May 7 to Monday May 10. Praggnanandhaa, Nihal Sarin, Gukesh and Harika Dronavalli are among the other participants in the knockout event, with Tania Sachdev joining Srinath Narayanan for live commentary on all the action.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/adhiban-top-seed-for-indian-champions-chess-tour-qualifier",
-         "pubDate" : "Thu, 06 May 2021 10:39:07 +0000",
-         "title" : "Adhiban top seed for Indian Champions Chess Tour Qualifier"
-      },
-      {
          "description" : "In May 2018 the Chinese Grandmaster Ju Wenjun became Women's World Champion by defeating her countrywoman Tan Zhongyi in a match. Later the same year Ju Wenjun defended her title in a knock-out tournament, and in 2020 she defended her title again, this time in a match against Aleksandra Goryachkina from Russia. In 2022 Ju Wenjun will face her next challenger, the winner of the Women's Candidates Tournament 2022, will take place in the first half of 2022. And recently, the FIDE approved the \"qualifying path\" for the Women's Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2098,14 +2138,6 @@ news_feed (
          "title" : "1.d4! : The Chess Bible : Understanding Queen's Pawn Structures"
       },
       {
-         "description" : "GM Ian Nepomniachtchi won the FIDE Candidates Tournament with a round to spare. The 30-year-old Russian grandmaster will now play GM Magnus Carlsen for the world championship in November. While Nepomniachtchi drew his game with GM Maxime Vachier...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-fide-candidates-tournament",
-         "pubDate" : "Mon, 26 Apr 2021 13:11:00 -0700",
-         "title" : "Nepomniachtchi Wins FIDE Candidates Tournament"
-      },
-      {
          "description" : "Ian Nepomniachtchi gained the right to challenge Magnus Carlsen in the upcoming World Championship match after winning the Candidates Tournament with a round to spare. Russia's number 1 drew Maxime Vachier-Lagrave while second-placed Anish Giri was defeated by Alexander Grischuk. Given the tiebreak criteria, even if Giri catches up with Nepo in the last round, he would not be granted tournament victory. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,46 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1045",
          "pubDate" : "Mon, 26 Apr 2021 15:30:39 +0000",
          "title" : "Ian Nepomniachtchi wins FIDE Candidates Tournament"
-      },
-      {
-         "description" : " Ian Nepomniachtchi's conservative approach to the second half of the FIDE Candidates tournament in Yekaterinburg paid off with qualification secured with a round to spare. Nepomniachtchi played a good first half in 2020 but had become sick and had just lost a game to MVL - he has been very candid about how much the break due to Covid-19 favoured him. On the resumption Nepomniachtchi has played in a rather restrained way, he's beaten tale-enders Kirill Alekseenko and Wang Hao and drawn the rest and it's been more than enough. Today Maxime Vachier-Lagrave tried to create something against 1.Nf3 with black and got a much worse position - he gave it his best shot. Nepomniachtchi continued with ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/ian-nepomniachtchi-wins-the-2021-candidates-tournament-with-a-round-to-spare",
-         "pubDate" : "Mon, 26 Apr 2021 18:09:00 +0400",
-         "title" : "Ian Nepomniachtchi wins the 2021 Candidates tournament with a round to spare - 13"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1044",
-         "pubDate" : "Mon, 26 Apr 2021 13:13:06 +0000",
-         "title" : "Magnus Carlsen storms into lead"
-      },
-      {
-         "description" : " In what is a hopeful sign for the rest of us, it seems that it is possible for top GM's to screw up there opening theory and lose in short order. Case in point, GM Wesley So getting it very wrong against GM Gawain Jones and going down in flames in a Two Knights. <br /> <b>Jones,Gawain C B (2615) - So,Wesley (2741) [C56]</b><br />New In Chess Classic | Prelims chess24.com (4.1), 24.04.2021 <script>new PgnViewer( { boardName: \"game1238\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5 9.Nxe4 Be6 10.Bd2 Qf5 11.Bg5 Bc5 12.Nh4 Qd5 13.c4 Qe5 14.Nf3 Qf5 15.Nh4 Qe5 16.f4 d3+ 17.Kh1 Qd4 18.Nf3 Qxc4 19.Rc1 d2 20.Rxc4 dxe1Q+ 21.Qxe1 Bx",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/he-chose-poorly.html",
-         "pubDate" : "Mon, 26 Apr 2021 13:12:00 +0000",
-         "title" : "He chose poorly"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed-9.jpg\" width=\"1200\" height=\"855\" alt=\"\" /> <div class=\"e2-text-caption\">Cover by Lennart Ootes/FIDE</div> </div> Round 12 of the FIDE Candidates Tournament is over, and there were 4 decisive games! It's very rare to have so many decisive games at such a high level, but for the players, it's a must-win situation, which usually results in a decisive game, one way or the other. The highlight of Round 12 was Giri's win with Black against Fabiano Caruana, but also Nepo's win against Wang Hao, which keeps him at the top of The Candidates with 8 points. Also, MVL achieved his first win at the second part of the to",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-news-round-12-the-other-won-again/",
-         "pubDate" : "Mon, 26 Apr 2021 11:44:37 +0000",
-         "title" : "Candidates Round 12 - The \"other\" won again"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.jpg\" width=\"1200\" height=\"862\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes/FIDE</div> </div> <h2>Giri defeats Ding Liren</h2> Another win for GM Anish Giri at the FIDE Candidates Tournament, a crucial win that brings him half a point behind Ian Nepomniachtchi. Anish didn't only win though, but he gave us a game to remember for many years. Despite the complicated and a bit unpleasant position that Giri had at the middle game, he came up with a great idea that Ding Liren totally neglected, which made the game one to watch! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/picture",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-news-round-11-king-of-draws-who/",
-         "pubDate" : "Mon, 26 Apr 2021 11:31:29 +0000",
-         "title" : "Candidates Round 11 - King of draws, who?"
       }
    ]
 }
