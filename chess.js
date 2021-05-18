@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/game-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis",
+         "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
+         "title" : "How To Analyse Your Own Game: Part 1"
+      },
+      {
+         "description" : "The new iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
+         "pubDate" : "Tue, 18 May 2021 12:00:00 +0100",
+         "title" : "Komodo Dragon 2 is here!"
+      },
+      {
+         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
+         "pubDate" : "Tue, 18 May 2021 11:59:00 +0100",
+         "title" : "It's here: Discount Day 2021!"
+      },
+      {
+         "description" : "&#8212; from Camberley Chess Club May 18th, 2021 @ 8:00pm - 10:00pm BST. We are excited to announce that Grandmaster David Howell will be our...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/an-evening-with-david-howell-tonight/",
+         "pubDate" : "Tue, 18 May 2021 09:47:40 +0000",
+         "title" : "An Evening with David Howell - tonight"
+      },
+      {
+         "description" : "The SCCU invites all Under 18 and Under 14 teams from counties, schools and clubs in England to join our Junior Jamboree on Saturday 5th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/sccu-online-junior-jamboree-2021/",
+         "pubDate" : "Tue, 18 May 2021 09:33:16 +0000",
+         "title" : "SCCU Online Junior Jamboree 2021"
+      },
+      {
+         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu Playing correspondence chess with the help of engines is hard. It gets harder and harder as the engines improve. You can ask what is the pleasure of getting into it? <a href=\"https://chessimprover.com/planning-for-victory-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-2/\">Planning for Victory (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/planning-for-victory-2/",
+         "pubDate" : "Tue, 18 May 2021 09:00:56 +0000",
+         "title" : "Planning for Victory (2)"
+      },
+      {
+         "description" : "Play Magnus Group, the parent company of chess24, Chessable and other leading chess brands, has today expanded by acquiring the chess training and analytics startup Aimchess.com. Aimchess is a fast-growing chess analytics startup powered by AI that delivers personalized insights and training exercises based on users' historical games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-joins-play-magnus-group",
+         "pubDate" : "Tue, 18 May 2021 08:48:24 +0000",
+         "title" : "Aimchess joins Play Magnus Group"
+      },
+      {
+         "description" : "Play Magnus Group, the company of Magnus Carlsen, listed on the stock exchange and valued at 85 million, has acquired yet another chess project. After chess24, Chessable, iChess, New In Chess, EverymanChess, CoChess, and the Play Magnus App Suite, now it is time for Aimchess to join Play Magnus. Aimchess announces it joins forces with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-is-acquired-by-play-magnus-group/",
+         "pubDate" : "Tue, 18 May 2021 08:05:06 +0000",
+         "title" : "Aimchess is acquired by Play Magnus Group"
+      },
+      {
          "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-sharpest-endgame-weapon",
          "pubDate" : "Tue, 18 May 2021 09:00:00 +0100",
          "title" : "The sharpest endgame weapon"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sVe65\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained",
+         "pubDate" : "Tue, 18 May 2021 06:48:43 +0000",
+         "title" : "I'll Take the Chekhover Sicilian, Please! | Chess Openings Explained"
       },
       {
          "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. The stakes at the African Individual Chess Championship are high as the 4 top placed players in the open section will qualify for []",
@@ -72,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anish-giri-wins-mr-dodgy-invitational-2021",
          "pubDate" : "Mon, 17 May 2021 19:20:00 +0100",
          "title" : "Giri beats Jobava to win MrDodgy Invitational"
-      },
-      {
-         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
-         "pubDate" : "Mon, 17 May 2021 18:00:00 +0100",
-         "title" : "It's here: Discount Day 2021!"
       },
       {
          "description" : "The Fritztrainer thematic tournament starts today at 19:00 CEST (13:00 ET, 17:00 UTC) and will be hosted live on Twitch.tv by Daniel King and Arne Kaehler. The discount day, which starts Monday, 17 May, 18:00 CEST (12:00 ET, 16:00 UTC) offers a great opportunity to support your favourite Fritztrainer. But first and foremost, this tournament should be fun and it should offer us fine games with interesting openings to watch. We are looking forward to seeing the players in action: Rustam Kasimdzhanov, Mihail Marin, Merijn van Delft and Robert Ris.",
@@ -184,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-aleksei-sarana-wins-first-gold-at-lichess-titled-arena/",
          "pubDate" : "Mon, 17 May 2021 11:32:07 +0000",
          "title" : "GM Aleksei Sarana wins first gold at Lichess Titled Arena"
-      },
-      {
-         "description" : "In 2012 Vishy Anand won his World Championship against Boris Gelfand in Moscow. The next day both the champion and his rival went to meet the Russian President Vladimir Putin. In their conversations, Vishy mentioned that he learnt chess at a Soviet Cultural Center called the Tal Chess Club. &#8220;So, we brought this upon ourselves,&#8221; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/putin-meets-anand-the-anecdote-tweetoftheday/",
-         "pubDate" : "Mon, 17 May 2021 10:15:41 +0000",
-         "title" : "Putin meets Anand: the anecdote #TweetOftheDay"
       },
       {
          "description" : " is here. Click this link for the PDF ",
@@ -664,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-3",
          "pubDate" : "Wed, 12 May 2021 10:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Episode 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. This was the first stream from Chess House II. 2021.05.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-tournament-iv-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJghjMltETU.jpg?itok=2yxHjONj\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/road-2000-tournament-iv-nm-caleb-denby",
-         "pubDate" : "Wed, 12 May 2021 00:42:56 +0000",
-         "title" : "Road to 2000 Tournament IV - NM Caleb Denby"
       },
       {
          "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
@@ -1178,14 +1226,6 @@ news_feed (
          "title" : "UPDATE: 1st workshop Equal Opportunities"
       },
       {
-         "description" : "If you're at school or a parent you've probably heard of Kahoot!, a learning platform based around interactive quizzes. Hundreds of millions of players around the world engage regularly for fun and to pick up new skills, and one of those skills is now chess. chess24's \"World of Chess\" page on the Kahoot! Academy features 15 \"kahoots\", interactive games where you can test yourself or others on chess basics, history, trivia and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess24-launches-world-of-chess-on-kahoot-academy",
-         "pubDate" : "Thu, 06 May 2021 16:21:01 +0000",
-         "title" : "chess24 launches World of Chess on Kahoot! Academy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,22 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-strategy-was-not-to-lose-eteri-kublashvili-interviews-ian-nepomniachtchi",
          "pubDate" : "Thu, 06 May 2021 15:00:00 +0100",
          "title" : "\"The strategy was not to lose\" - Eteri Kublashvili interviews Ian Nepomniachtchi"
-      },
-      {
-         "description" : "FIDE is pleased to announce that following the tremendous success of the first edition, the Intercontinental ChessKid FIDE Challenge will return. The second edition will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/intercontinental-chesskid-fide-challenge-2/",
-         "pubDate" : "Thu, 06 May 2021 12:32:10 +0000",
-         "title" : "Intercontinental ChessKid FIDE Challenge 2!"
-      },
-      {
-         "description" : "ECF Level 1 Arbiter Course Course dates/schedule five Monday evenings from 7.00pm to 9.00pm &#124; 7th June; 14th June; 21st June; 28th June; 5th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/arbiter-course-in-june/",
-         "pubDate" : "Thu, 06 May 2021 11:58:13 +0000",
-         "title" : "Arbiter course in June"
       },
       {
          "description" : "",
@@ -1810,14 +1834,6 @@ news_feed (
          "title" : "New In Chess Classic: Nakamura Leads vs. Mamedyarov"
       },
       {
-         "description" : " The week, we'll the look at the opening from Black's perspective. While we did discuss some move options for Black during our examination of the opening, we didn't examine in detail how you should play the opening as Black. There are some misconceptions regarding the opening game for Black that I want to address, as <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixteen/\">A Foundation for Beginners Sixteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimp",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixteen/",
-         "pubDate" : "Fri, 30 Apr 2021 07:54:30 +0000",
-         "title" : "A Foundation for Beginners Sixteen"
-      },
-      {
          "description" : "Hikaru Nakamura won the first set of his semifinal match against Shakhriyar Mamedyarov, while Magnus Carlsen and Levon Aronian drew their first mini-match. Both Carlsen and Nakamura were undefeated before the semis, and both were beaten for the first time in the New in Chess Classic on Thursday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,38 +2144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2020-2021-a-happy-and-tired-winner",
          "pubDate" : "Tue, 27 Apr 2021 12:34:21 +0100",
          "title" : "Candidates Tournament 2020-2021: A happy and tired winner"
-      },
-      {
-         "description" : "After the longest half-time break ever, the Candidates Tournament in Yekaterinburg resumed last week. Ian Nepomniachtchi won the tournament with a round to spare and thus gained the right to challenge Magnus Carlsen for the World Championship title. Follow the games live with commentary. All rounds kick off at 16:00 local time (13:00 CEST, 7:00 ET) | Photo: Lennart Ootes / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2020-21-round-8-live",
-         "pubDate" : "Tue, 27 Apr 2021 12:20:00 +0100",
-         "title" : "Candidates Tournament 2020-21, Round 14 - Live!"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/russias-ian-nepomniachtchi-to-challenge-magnus-carlsen-for-world-chess-title/articleshow/82273033.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82273033.cms\" /></a>Russian chess grandmaster Ian Nepomniachtchi clinched victory at the Candidates Tournament on Monday, earning him the chance to challenge Norway's Magnus Carlsen for the world title later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/russias-ian-nepomniachtchi-to-challenge-magnus-carlsen-for-world-chess-title/articleshow/82273033.cms",
-         "pubDate" : "Tue, 27 Apr 2021 14:57:15 +0530",
-         "title" : "Russia's Ian Nepomniachtchi to challenge Magnus Carlsen for world chess title"
-      },
-      {
-         "description" : "In the diagram position White is two pawns up but has only one winning move. Which one?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/when-only-one-way-leads-to-rome",
-         "pubDate" : "Tue, 27 Apr 2021 09:00:00 +0100",
-         "title" : "When only one way leads to Rome"
-      },
-      {
-         "description" : " <p class=\"lead\">Nepomniachtchi qualified for the World Chess Championship match against Carlsen with a draw in Round 13. With one more round to go, the Russian Grandmaster granted his spot at the World Championship in November, after his draw against Maxime Vachier-Lagrave and after Giri's defeat from Grischuk. Anish Giri was half a point away from Nepomniachtchi in R12, but after the outcome of R13, the one point difference between the two Grandmasters is decisive. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CACB20A7-8F45-4928-9E82-6031E3F812E3.jpeg\" width=\"2024\" height=\"1330\" alt=\"\" /> <div class=\"e2-text-caption\">Ian Nepomniachtchi will play in the Champi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-news-round-13-nepomniachtchi-is-the-next-challenger/",
-         "pubDate" : "Tue, 27 Apr 2021 07:41:29 +0000",
-         "title" : "Candidates Round 13 - Nepo is the next challenger"
       }
    ]
 }
