@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Chinese Championships, and his feature game is the nice technical victory Ju Wenjun, who played in the open section, achieved against the eventual winner Yu Yangyi. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-chinese-championships",
+         "pubDate" : "Tue, 18 May 2021 19:10:43 +0100",
+         "title" : "The Weekly Show: The Chinese Championships"
+      },
+      {
+         "description" : "The&#160;African Individual Chess Championship 2021&#160;is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Round 1 of the event was played in Lilongwe today. Everyone expected the live games form there to be broadcasted, but round start time delay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-chess-championship-2021-results-round-1/",
+         "pubDate" : "Tue, 18 May 2021 17:55:55 +0000",
+         "title" : "African Chess Championship 2021 - results round 1"
+      },
+      {
+         "description" : "Bitcoin, invented in 2008 by &#8220;Satoshi Nakamoto&#8221; and first released as open-source software in 2009, is the first decentralized cryptocurrency. Without a central bank or single administrator, it can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography, eliminating the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-and-crypto-love-at-third-sight/",
+         "pubDate" : "Tue, 18 May 2021 15:55:28 +0000",
+         "title" : "Chess and crypto - love at&hellip; third sight?"
+      },
+      {
+         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
+         "pubDate" : "Tue, 18 May 2021 10:26:50 -0500",
+         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.chessdom.com/cryptochamps-chess-by-coinbase/",
          "pubDate" : "Tue, 18 May 2021 14:50:15 +0000",
          "title" : "CryptoChamps Chess by Coinbase"
-      },
-      {
-         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
-         "pubDate" : "Tue, 18 May 2021 09:21:59 -0500",
-         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
       },
       {
          "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
@@ -138,7 +162,7 @@ news_feed (
          "title" : "The sharpest endgame weapon"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sVe65\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Chekhover Variation of the Sicilian Defence. The Chekhover begins with the moves 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4. Qxd4 2021.05.17<br /> B53 Sicilian, Chekhover variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sV",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained",
@@ -240,22 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ftx-crypto-cup-the-reactions/",
          "pubDate" : "Mon, 17 May 2021 13:38:44 +0000",
          "title" : "FTX Crypto Cup - the reactions"
-      },
-      {
-         "description" : "The prominent Indian news agency TOI featured the upcoming FTX Crypto Chess Cup. In an article by Prasad Ramasubramanian titled &#8220;FTX Crypto Cup chess to kick off from May 23&#8221;, Carlsen is quoted, As a big sports fan and NBA enthusiast, I was thrilled to learn that FTX is continuing its move into sports by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/toi-ftx-crypto-cup-chess-to-kick-off-from-may-23/",
-         "pubDate" : "Mon, 17 May 2021 13:15:25 +0000",
-         "title" : "TOI: \"FTX Crypto Cup chess to kick off from May 23\""
-      },
-      {
-         "description" : "The FTX Crypto Chess Cup 2021&#160;was just announced and it is already making headlines. In an article titled &#8220;The World's first bitcoin chess tournament&#8221; The Sun presents the FTX event of the Meltwater Champions Chess Tour: &#8220;The world's first bitcoin chess tournament, the FTX Crypto Cup, is being held from May 23. &#8220;A cool $100,000 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-meltwater-ftx-crypto-chess-cup-featured-in-the-sun/",
-         "pubDate" : "Mon, 17 May 2021 13:04:42 +0000",
-         "title" : "The Meltwater FTX Crypto Chess Cup featured in The Sun"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
@@ -815,7 +823,7 @@ news_feed (
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/11/episode-226-tim-krabbe",
          "pubDate" : "Tue, 11 May 2021 15:53:50 +0000",
-         "title" : "Episode 226- Tim Krabbe "
+         "title" : "Episode 226- Tim Krabb&eacute;"
       },
       {
          "description" : "12-year-old Abhimanyu Mishra scored his 2nd GM norm at the First Saturday GM Round Robin May 2021 with a round to spare. This is the second consecutive event in which Abhimanyu has scored a GM norm, with a dominating 2700+ performance. He is now just 29 Elo points and one GM norm away from becoming the world's youngest grandmaster. Abhi has annotated his eighth round game for us, and will play against ChessBase Premium Members tomorrow.",
@@ -2120,30 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1047",
          "pubDate" : "Tue, 27 Apr 2021 20:45:18 +0000",
          "title" : "FIDE Candidates Tournament ends in Yekaterinburg, Russia"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament finished with three decisive games on Tuesday. GM Ding Liren quickly defeated Ian Nepomniachtchi, who had already secured tournament victory. Just as quickly, GM Maxime Vachier-Lagrave beat GM Wang Hao, who announc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-chess-tournament-round-14",
-         "pubDate" : "Tue, 27 Apr 2021 11:59:00 -0700",
-         "title" : "FIDE Candidates Tournament: 3 Winners In Final Round, Wang Hao Announces Retirement"
-      },
-      {
-         "description" : "Ding Liren, Kirill Alekseenko and Maxime Vachier-Lagrave finished the 2020-21 Candidates Tournament on a high note, scoring wins over Ian Nepomniachtchi, Anish Giri and Wang Hao respectively. Fabiano Caruana and Alexander Grischuk signed a draw. In his last interview of the event, Wang announced his retirement from professional chess. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r8-2",
-         "pubDate" : "Tue, 27 Apr 2021 19:40:00 +0100",
-         "title" : "Candidates R14: Three decisive results"
-      },
-      {
-         "description" : " Maxime Vachier-Lagrave's Candidates campaign finished with a win against Wang Hao and secured second place on his own half a point behind the winner Ian Nepomniachtchi. MVL played a theoretical Ruy Lopez Berlin against Wang Hao which both players knew. At some stage Wang forgot the precise moves he should play and his position collapsed fairly quickly. Winner Ian Nepomniachtchi lost a razor sharp King's Indian to Ding Liren, he explained that the losing move 14...Nxd3 was misremembered from a \"slightly different line\". Ding was just winning after this mistake and got back to 50%. Anish Giri could still have caught Nepomniachtchi on point but he suffered a disappointing loss to Kirill Alekse",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/mvl-takes-second-place-in-the-candidates-on-the-final-day",
-         "pubDate" : "Tue, 27 Apr 2021 21:12:00 +0400",
-         "title" : "MVL takes second place in the Candidates on the final day - 14"
       }
    ]
 }
