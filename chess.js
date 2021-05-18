@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/candidates-news-round-13-nepomniachtchi-is-the-next-challenger/",
          "pubDate" : "Tue, 27 Apr 2021 07:41:29 +0000",
          "title" : "Candidates Round 13 - Nepo is the next challenger"
-      },
-      {
-         "description" : " From the publisher: &#8220;In his first book (we anticipate many more), the young Hungarian author makes a worthy attempt to walk his readers through a complete 1.d4 opening repertoire. Yet while he is taking you thru the opening he never forgets the other phases of the game. As a result, the subsequent middlegame and endgame <a href=\"http://britishchessnews.com/2021/04/27/1-d4-the-chess-bible-understanding-queens-pawn-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.d4! : The Chess Bible : Understanding Queen's Pawn Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/27/1-d4-the-c",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/27/1-d4-the-chess-bible-understanding-queens-pawn-structures/",
-         "pubDate" : "Tue, 27 Apr 2021 00:10:23 +0000",
-         "title" : "1.d4! : The Chess Bible : Understanding Queen's Pawn Structures"
       }
    ]
 }
