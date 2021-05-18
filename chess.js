@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tani-adewumi-becomes-national-master-at-10",
+         "pubDate" : "Wed, 19 May 2021 00:00:00 +0100",
+         "title" : "Tani Adewumi becomes National Master at 10"
+      },
+      {
+         "description" : "Charlotte Chess Masters 2021 will take place July 16-18. It is the 3rd edition of the Masters and will be a 5 round USCF and FIDE-rated event featuring guaranteed prizes and strong competition in 2 sections Masters A (2200+ FIDE) and Masters B (1900+ USCF). Full information about the Charlotte Chess Masters Following the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-chess-masters-2021/",
+         "pubDate" : "Tue, 18 May 2021 22:40:01 +0000",
+         "title" : "Charlotte Chess Masters 2021"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.05.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qhjbyJY.jpg?itok=ZZbGVyj9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 18 May 2021 21:49:35 +0000",
+         "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 CES...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bullet-chess-speedrun-presented-by-stella-artois",
+         "pubDate" : "Tue, 18 May 2021 13:49:31 -0700",
+         "title" : "Nakamura's Bullet Chess Speedrun Presented By Stella Artois"
+      },
+      {
+         "description" : "Chess.com users can now take their endgame skills to the next level using our new Endgames feature. Visit Chess.com/Endgames to learn and master all of the endgames you&#39;ll need to know to become an endgame virtuoso! Get Better At Endgames Now! ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-new-endgames-feature",
+         "pubDate" : "Tue, 18 May 2021 13:28:00 -0700",
+         "title" : "Chess.com Releases New Endgames Feature"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1087",
+         "pubDate" : "Tue, 18 May 2021 20:13:48 +0000",
+         "title" : "Vasif Durarbayli wins Azerbaijani Championship"
+      },
+      {
+         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
+         "pubDate" : "Tue, 18 May 2021 20:00:00 +0100",
+         "title" : "Komodo Dragon 2 is here!"
+      },
+      {
+         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
+         "pubDate" : "Tue, 18 May 2021 19:15:00 +0100",
+         "title" : "It's here: Discount Day 2021!"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Chinese Championships, and his feature game is the nice technical victory Ju Wenjun, who played in the open section, achieved against the eventual winner Yu Yangyi. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +114,6 @@ news_feed (
          "title" : "CryptoChamps Chess by Coinbase"
       },
       {
-         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
-         "pubDate" : "Tue, 18 May 2021 15:02:00 +0100",
-         "title" : "It's here: Discount Day 2021!"
-      },
-      {
          "description" : "One year ago the ChessBase Magazine introduced a new column, the \"Special\". It offers room for a wide range of topics, e.g. Dorian Rogozenco's video presentation of rediscovered Kasparov games in ChessBase Magazine #195, \"My favourite Fischer game\" (CBM #196), \"Kasparov as challenger\" (CBM #198), \"My favourite game of Paul Keres\" (CBM 199) or how people remember the young Magnus Carlsen (CBM #200). The current issue #201 focuses on a player who has been among the world's best for more than three decades: Vassily Ivanchuk. The \"Ivanchuk Special\" in CBM #201 includes 22 games from 1987 to 2019. As a sample we show two of these games, annotated by Renato Quintilliano and David Navara. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +160,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/game-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis",
          "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
          "title" : "How To Analyse Your Own Game: Part 1"
-      },
-      {
-         "description" : "The new iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
-         "pubDate" : "Tue, 18 May 2021 12:00:00 +0100",
-         "title" : "Komodo Dragon 2 is here!"
       },
       {
          "description" : "&#8212; from Camberley Chess Club May 18th, 2021 @ 8:00pm - 10:00pm BST. We are excited to announce that Grandmaster David Howell will be our...",
@@ -202,7 +250,7 @@ news_feed (
          "title" : "Alekseenko vs. Grischuk, 2021 Candidates | Insane in the Endgame - GM Josh Friedel"
       },
       {
-         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information / Participants Open / Participants women The games start on May 18. While waiting for the live broadcast, enjoy some chess from the Top Chess Engine []",
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open&#160;/&#160;Participants women Live games open Live games women The games start on May 18. While waiting for the live broadcast, enjoy some []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
@@ -256,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chinese-chess-championships-yu-yangyi-tan-zhongyi",
          "pubDate" : "Mon, 17 May 2021 06:55:00 -0700",
          "title" : "Yu Retains Chinese Title But Loses To Ju"
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to take place from May 23 to May 31 and is broadcast on TV2, Eurosport, and online streaming platforms Twitch and YouTube across multiple platforms. Chessdom.com will provide extensive coverage of the FTX Crypto 2021. Official website of the Champions Chess tour&#160;/ Latest event:&#160;Carlsen wins Meltwater Championship Chess Tour []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-the-reactions/",
-         "pubDate" : "Mon, 17 May 2021 13:38:44 +0000",
-         "title" : "FTX Crypto Cup - the reactions"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
@@ -728,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
          "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
          "title" : "60 years ago: Botvinnik wins return match against Tal"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Elephant Gambit, a rare opening starting with 1.e4 e5 2.Nf3 d5!? 2021.05.10<br /> C40 QP counter-gambit (elephant gambit)<br /> C40 QP counter-gambit, Maroczy gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-out-elephant-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8fEZJuBMkI.jpg?itok=mJ4Vra5K\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/watch-out-elephant-gambit-chess-openings-explained",
-         "pubDate" : "Wed, 12 May 2021 15:43:28 +0000",
-         "title" : "Watch Out for The Elephant Gambit! | Chess Openings Explained"
       },
       {
          "description" : "The ECF membership year runs from 1st September to 31st of the following August, and each year during July we open the sale of new...",
@@ -2082,14 +2114,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 1"
       },
       {
-         "description" : "GM Magnus Carlsen won the preliminaries but couldn&#39;t beat GM Teimour Radjabov on the first day of the New in Chess Classic&#39;s quarterfinals. They drew all four games. GMs Levon Aronian,&#38;nbsp;Shakhriyar Mamedyarov, and Hikaru Nakamura did win their ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-quarterfinals-day-1",
-         "pubDate" : "Wed, 28 Apr 2021 01:45:00 -0700",
-         "title" : "New In Chess Classic: Radjabov On Par With Carlsen"
-      },
-      {
          "description" : " The last round was irrelevant with respect to determining tournament victory, but it still mattered for prize money and rating points. So: on with the show. Ian Nepomniachtchi was probably less motivated than a trust-fund baby in the world's most boring college class, having already won the event and clinched a match with Magnus Carlsen, so it's unsurprising that he played a weird opening against Ding Liren, got confused about his opening preparation, and was lost before move 20. For Ding it was a nice result: his third win in a row (which I expected and semi-predicted after he won in round 12), salvaging some rating points and getting back to 50%. With a win, Anish Giri would have tied Nep",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2120,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1049",
          "pubDate" : "Tue, 27 Apr 2021 23:34:49 +0000",
          "title" : "'Lucky' Levon takes quarter-final lead against Tour leader"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1047",
-         "pubDate" : "Tue, 27 Apr 2021 20:45:18 +0000",
-         "title" : "FIDE Candidates Tournament ends in Yekaterinburg, Russia"
       }
    ]
 }
