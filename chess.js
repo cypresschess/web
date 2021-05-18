@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-sharpest-endgame-weapon",
+         "pubDate" : "Tue, 18 May 2021 09:00:00 +0100",
+         "title" : "The sharpest endgame weapon"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. The stakes at the African Individual Chess Championship are high as the 4 top placed players in the open section will qualify for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Tue, 18 May 2021 00:09:00 +0000",
+         "title" : "African Individual Chess Championship 2021"
+      },
+      {
          "description" : " A little update from around the chess world. First, Abhimanyu Mishra will be a GM soon, but not by the end of the <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">norm event</a> he's playing in now. He (probably) needed 7/9; 2/5 clearly isn't going to cut it. Hopefully he can minimize the rating damage he has suffered thus far. (Unless you're a Sergey Karjakin superfan, in which case you hope the damage piles up like an avalanche.) Second: the \"<a href=\"https://events.chess24.com/mrdodgy-invitational/\">Mr Dodgy Invitational 2.0</a>\" (afaik, \"Mr. Dodgy\" is the username of a Chess24 superfan; I don't know if he contributed any money to the event's ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/anish-giri-wins-the-mr-dodgy-invitational-again",
          "pubDate" : "Sun, 16 May 2021 23:24:19 +0000",
          "title" : "Anish Giri wins the Mr Dodgy Invitational&hellip; again!"
-      },
-      {
-         "description" : "The ECU Girls and Women's weekend took place 15-16 May. Hosted by the German Chess Youth Association aka Deutsche Schachjugend e.V., the virtual festival collected more than 800 participants. They enjoyed a rich program of events including multiple GM/IM/WGM/WIM/WFM simuls, seminars by top players, live commentary, workshops, coaching sessions, and series of tournaments. A combination []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-and-womens-weekend-a-success-story/",
-         "pubDate" : "Sun, 16 May 2021 23:03:53 +0000",
-         "title" : "Girls and Women's weekend - a success story"
       },
       {
          "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
