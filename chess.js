@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/18/episode-227-wfm-maria-emelianova",
+         "pubDate" : "Tue, 18 May 2021 14:59:45 +0000",
+         "title" : "Episode 227- WFM Maria Emelianova "
+      },
+      {
+         "description" : "Just a day after the announcement of the FTX Crypto Chess Cup 2021&#160;by the Play Magnus group, Chess.com launches its crypto related chess event CryptoChamps Chess by Coinbase. CryptoChamps announcement Chess.com is excited to announce the upcoming&#160;CryptoChamps&#160;tournament&#160;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on&#160;June []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cryptochamps-chess-by-coinbase/",
+         "pubDate" : "Tue, 18 May 2021 14:50:15 +0000",
+         "title" : "CryptoChamps Chess by Coinbase"
+      },
+      {
+         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
+         "pubDate" : "Tue, 18 May 2021 09:21:59 -0500",
+         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
+      },
+      {
+         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
+         "pubDate" : "Tue, 18 May 2021 15:02:00 +0100",
+         "title" : "It's here: Discount Day 2021!"
+      },
+      {
+         "description" : "One year ago the ChessBase Magazine introduced a new column, the \"Special\". It offers room for a wide range of topics, e.g. Dorian Rogozenco's video presentation of rediscovered Kasparov games in ChessBase Magazine #195, \"My favourite Fischer game\" (CBM #196), \"Kasparov as challenger\" (CBM #198), \"My favourite game of Paul Keres\" (CBM 199) or how people remember the young Magnus Carlsen (CBM #200). The current issue #201 focuses on a player who has been among the world's best for more than three decades: Vassily Ivanchuk. The \"Ivanchuk Special\" in CBM #201 includes 22 games from 1987 to 2019. As a sample we show two of these games, annotated by Renato Quintilliano and David Navara. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-genius-vassily-ivanchuk",
+         "pubDate" : "Tue, 18 May 2021 15:00:00 +0100",
+         "title" : "Chess genius Vassily Ivanchuk"
+      },
+      {
+         "description" : "Organised by the British Chess Problem Society click below for the Starter Announcement WORD &#124; PDF",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2021-2022/",
+         "pubDate" : "Tue, 18 May 2021 13:50:49 +0000",
+         "title" : "Winton British Chess Solving Championship 2021-2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1086",
+         "pubDate" : "Tue, 18 May 2021 13:42:13 +0000",
+         "title" : "Women's World Cup: List of Qualified Players"
+      },
+      {
+         "description" : "The 1st Online Workshop \"Equal Opportunities\" takes place 16-19 May 2021. Today's session of the Workshop includes speeches by the FIDE President Arkady Dvorkovich, the ECU President Zurab Azmaiparashvili, the ECU Vice President Dana Reizniece-Ozola, the FIDE Planning and Development Commission Chairperson Sonja Johnson and other special guests. More information: The main aim of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/online-workshop-equal-opportunities-live/",
+         "pubDate" : "Tue, 18 May 2021 13:41:48 +0000",
+         "title" : "Online Workshop \"Equal Opportunities\" LIVE"
+      },
+      {
+         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The games start on May 24 and the total prize fund for the event is 32 000 eur. The pairing tree for all rounds was announced yesterday by the Chief Arbiter Panagiotis Nikolopoulos and the Pairing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-pairings/",
+         "pubDate" : "Tue, 18 May 2021 12:49:22 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 - pairings"
+      },
+      {
          "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -16,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
          "pubDate" : "Tue, 18 May 2021 12:00:00 +0100",
          "title" : "Komodo Dragon 2 is here!"
-      },
-      {
-         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
-         "pubDate" : "Tue, 18 May 2021 11:59:00 +0100",
-         "title" : "It's here: Discount Day 2021!"
       },
       {
          "description" : "&#8212; from Camberley Chess Club May 18th, 2021 @ 8:00pm - 10:00pm BST. We are excited to announce that Grandmaster David Howell will be our...",
@@ -218,36 +282,12 @@ news_feed (
          "title" : "How to solve chess problems"
       },
       {
-         "description" : "FTX Crypto Chess Cup 2021 is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
-         "pubDate" : "Mon, 17 May 2021 12:22:57 +0000",
-         "title" : "FTX Crypto Chess Cup 2021"
-      },
-      {
          "description" : "Magnus Carlsen faces World Championship Challenger Ian Nepomniachtchi as the FTX Crypto Cup, the 6th event on the Meltwater Champions Chess Tour, begins Sunday, May 23rd at 17:00 CEST. One of the strongest line-ups ever assembled features the full Top 10, meaning a Tour debut for the last challenger and world no. 2 Fabiano Caruana. The last Major on the Tour offers a direct spot to September's Tour Finals in San Francisco as well as a record online chess prize fund of $320k, with sponsors FTX providing a $100k Bitcoin bonus.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-meet-as-top-10-all-play-320-000-ftx-crypto-cup",
          "pubDate" : "Mon, 17 May 2021 12:00:02 +0000",
          "title" : "Carlsen-Nepo as full Top 10 play $320,000 FTX Crypto Cup"
-      },
-      {
-         "description" : "The 10th jubilee season of the Swedish Rapid Team Battle kicks off this Wednesday, May 19th. Around 400 players will compete for 26 Swedish chess clubs. The event will be played Online at Lichess, with 5 rounds taking place every Wednesday from 19:30 CEST. The time control is 10 minutes + 2 seconds. The best []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swedish-rapid-team-battle-2021/",
-         "pubDate" : "Mon, 17 May 2021 11:36:00 +0000",
-         "title" : "Swedish Rapid Team Battle 2021"
-      },
-      {
-         "description" : "GM Aleksei Sarana won his first Titled Arena on Saturday, finishing a comfortable 14 points ahead of the field. Second Place was taken by IM Minh Le, a Titled Arena mainstay. Third place was for GM Zhamsaran Tsydypov. Read the full story on Lichess blog . The&#160;next Lichess Titled Arena&#160;will be on May 22nd. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-aleksei-sarana-wins-first-gold-at-lichess-titled-arena/",
-         "pubDate" : "Mon, 17 May 2021 11:32:07 +0000",
-         "title" : "GM Aleksei Sarana wins first gold at Lichess Titled Arena"
       },
       {
          "description" : " is here. Click this link for the PDF ",
@@ -378,7 +418,7 @@ news_feed (
          "title" : "An interesting Zugzwang"
       },
       {
-         "description" : " Share!5 Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!11 Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/",
@@ -928,14 +968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-fide-regulations-for-arbiters/",
          "pubDate" : "Mon, 10 May 2021 07:56:34 +0000",
          "title" : "New FIDE Regulations for Arbiters"
-      },
-      {
-         "description" : "The International Chess Federation and Chess.com announce the FIDE/Chess.com Women's Speed Chess Championship, an online competition to be held between May 28th and July 3rd...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-fide-chess-com-womens-speed-chess-championship/",
-         "pubDate" : "Mon, 10 May 2021 07:53:29 +0000",
-         "title" : "The FIDE/Chess.com Women's Speed Chess Championship"
       },
       {
          "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
@@ -2112,38 +2144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-chess-tournament-2020/mvl-takes-second-place-in-the-candidates-on-the-final-day",
          "pubDate" : "Tue, 27 Apr 2021 21:12:00 +0400",
          "title" : "MVL takes second place in the Candidates on the final day - 14"
-      },
-      {
-         "description" : " Starting out in serious chess is often a tough gig. On the one hand most people know enough to understand how to play decent chess, but putting it in to practice is a lot harder. Even playing online, which is something that didn't happen 30 years ago, doesn't always prepare you for competitive chess. However for some players, improvement is simply about playing. I'm not sure why this is (and why it isn't the case for every player), but every now and then I just sense that a new player knows what good moves are, but hasn't yet learned how to find them. In such cases, I feel that playing is far more important than coaching, as self discovery is more helpful than extra instruction. Not always ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/getting-better-by-simply-playing.html",
-         "pubDate" : "Tue, 27 Apr 2021 13:20:00 +0000",
-         "title" : "Getting better by simply playing"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen dominated the preliminaries of the New in Chess Classic. He did not lose a single game and on each of the three days of the preliminaries he scored 3.5/5 to finish sole first with 10.5/15. Perhaps his good form was due to his preparation: Carlsen played from the Meltwater office in Oslo and took a bicycle to come to work.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-carlsen-wins-preliminaries",
-         "pubDate" : "Tue, 27 Apr 2021 13:57:40 +0100",
-         "title" : "New in Chess Classic: Carlsen wins preliminaries"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1046",
-         "pubDate" : "Tue, 27 Apr 2021 12:47:17 +0000",
-         "title" : "Magnus Carlsen rides into knockout stage"
-      },
-      {
-         "description" : "There is still one round to go at the Candidates Tournament but Ian Nepomniachtchi is sure to be the winner, and in November he will play Magnus Carlsen for the World Championship. In the press conference after the 13th round Nepomniachtchi said that he was very happy about the win but also revealed that he felt tired after more than a year of preparation. | Photo: Alina l'Ami (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2020-2021-a-happy-and-tired-winner",
-         "pubDate" : "Tue, 27 Apr 2021 12:34:21 +0100",
-         "title" : "Candidates Tournament 2020-2021: A happy and tired winner"
       }
    ]
 }
