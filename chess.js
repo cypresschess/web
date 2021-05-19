@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "BBC World Service ran a video segment presenting the life of chess streamers and the recent explosion of interest in chess video broadcasts. BBC correctly taps into the shifting fortunes nowadays young WGM/WIM/FM players are the avant-garde of chess. The reason: &#8220;Queen's Gambit&#8221; by Netflix. See: The Queens Gambit - with WIM Lara Janzelj []",
+         "description" : "The European Individual Chess Championship 2021 will take place 26 August 5 September in Reykjavik, Iceland. The event will be held in a historic venue at Hotel Natura. Hotel Natura has a rich history of chess events, hosting several previous editions of the Reykjavik Open. The hotel accommodated Bobby Fischer during the 1972 World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-championship-2021",
+         "pubDate" : "Wed, 19 May 2021 18:42:00 +0000",
+         "title" : "European Individual Chess Championship 2021"
+      },
+      {
+         "description" : "With just over six months until the World Championship between Magnus Carlsen and Ian Nepomniachtchi starts in Dubai, the reigning champion says he is '100 % motivated' and has mentally started to prepare for the long-awaited match. The 30-year old also hints he has started the hunt for a new team of seconds that will help him prepare.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/100-motivated-magnus-carlsen-hints-at-new-team-as-nepomniachtchi-preparation-begins",
+         "pubDate" : "Wed, 19 May 2021 18:41:01 +0000",
+         "title" : "'100% motivated' Magnus Carlsen hints at new team as Nepomniachtchi preparation begins"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 (variable, depending on the bitcoin current price) FTX Crypto Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
+         "pubDate" : "Wed, 19 May 2021 18:11:50 +0000",
+         "title" : "FTX Crypto Cup LIVE"
+      },
+      {
+         "description" : "GM Levan Pantsulaia won the May 18 Titled Tuesday tournament with a score of 9.5/11. Five players finished on that score but Pantsulaia held the advantage on tiebreaks for his first-ever Titled Tuesday victory. GM Vladislav Artemiev (last week&#39;s w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pantsulaia-wins-may-18-titled-tuesday",
+         "pubDate" : "Wed, 19 May 2021 10:42:00 -0700",
+         "title" : "Pantsulaia Wins May 18 Titled Tuesday"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/rooting-for-magnus-against-nepo-anand/articleshow/82777057.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82777057.cms\" /></a>The world chess championship final between Magnus Carlsen and Ian Nepomniachtchi may be over 6 months away, but former world champion Viswanathan Anand is clear about who his pick will be.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rooting-for-magnus-against-nepo-anand/articleshow/82777057.cms",
+         "pubDate" : "Wed, 19 May 2021 22:41:07 +0530",
+         "title" : "Rooting for Magnus against Nepo: Anand"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look at the Chinese Championship and presents a wild tactical win by Wei Yi. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-wei-ji-vs-zhao-yun",
+         "pubDate" : "Wed, 19 May 2021 18:00:00 +0100",
+         "title" : "Game of the Week: Wei Ji vs Zhao Yun"
+      },
+      {
+         "description" : "BBC World Service ran a video segment presenting the life of chess streamers and the recent explosion of interest in chess video broadcasts. BBC correctly taps into the shifting fortunes nowadays young WGM/WIM/FM players are the avant-garde of chess. The reason: &#8220;Queen's Gambit&#8221; by Netflix. See also: The Queens Gambit - with WIM Lara []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/bbc-world-service-queens-gambit-essential-to-online-chess-streams-boom/",
          "pubDate" : "Wed, 19 May 2021 15:21:47 +0000",
-         "title" : "BBC World Service, \"Queen's Gambit essential to online chess streamers boom\""
+         "title" : "BBC World Service, \"Queen's Gambit essential to online chess streamers boom\" #TweetOftheDay"
       },
       {
          "description" : "Entry forms are now available for the 2021 Northumbria Masters (August 26th-30th 2021) which is going ahead over-the-board at a brand new Covid-secure venue, Marriott...",
@@ -242,22 +290,6 @@ news_feed (
          "title" : "Women's World Cup: List of Qualified Players"
       },
       {
-         "description" : "The 1st Online Workshop \"Equal Opportunities\" takes place 16-19 May 2021. Today's session of the Workshop includes speeches by the FIDE President Arkady Dvorkovich, the ECU President Zurab Azmaiparashvili, the ECU Vice President Dana Reizniece-Ozola, the FIDE Planning and Development Commission Chairperson Sonja Johnson and other special guests. More information: The main aim of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/online-workshop-equal-opportunities-live/",
-         "pubDate" : "Tue, 18 May 2021 13:41:48 +0000",
-         "title" : "Online Workshop \"Equal Opportunities\" LIVE"
-      },
-      {
-         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The games start on May 24 and the total prize fund for the event is 32 000 eur. The pairing tree for all rounds was announced yesterday by the Chief Arbiter Panagiotis Nikolopoulos and the Pairing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-pairings/",
-         "pubDate" : "Tue, 18 May 2021 12:49:22 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 - pairings"
-      },
-      {
          "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -322,7 +354,7 @@ news_feed (
          "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.18<br /> Kirill Alekseenko vs Alexander Grischuk, World Championship Candidates (2020/21): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2040554\">https://www.chessgames.com/perl/chessgame?gid=2040554</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel\"><img src=\"https://saint",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes a fascinating endgame between Kirill Alekseenko and Alexander Grischuk from the second half of the 2020/21 Candidates Tournament. 2021.05.18<br /> Kirill Alekseenko vs Alexander Grischuk, World Championship Candidates (2020/21): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2040554\">https://www.chessgames.com/perl/chessgame?gid=2040554</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel",
@@ -1234,14 +1266,6 @@ news_feed (
          "title" : "Catch with a catch!?"
       },
       {
-         "description" : "Nihal Sarin, Sethuraman, Abhijeet Gupta and Krishnan Sasikiran are all out of the Indian Qualifier for the Meltwater Champions Chess Tour after suffering surprise defeats to Arjun Erigaisi, Harsha Bharathakoti, Gukesh and Mitrabha Guha. The highlight of Saturday's quarterfinals is Adhiban-Praggnanandhaa, after both players came through matches that were hit by technical issues. Adhiban played to the crowd by employing 1.b3, the topic of his much-hyped but still unreleased Chessable series.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/adhiban-pragg-in-indian-qualifier-quarterfinals",
-         "pubDate" : "Sat, 08 May 2021 07:49:26 +0000",
-         "title" : "Adhiban-Pragg in Indian Qualifier quarterfinals"
-      },
-      {
          "description" : " Garry Kasparov weighs in on the coming match between Magnus Carlsen and his challenger, Ian Nepomniachtchi. It looks like what I would call the conventional wisdom, but as there's a difference between someone like me offering it and hearing it from (maybe) the GOAT, it's worth <a href=\"https://www.youtube.com/watch?v=JFVzbZ9tsWM\">hearing it from the horse's mouth</a> (to [deliberately] mix the zoological metaphors). ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2088,22 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1050",
          "pubDate" : "Wed, 28 Apr 2021 21:27:47 +0000",
          "title" : "Carlsen powers past Radjabov as semi-final line-up decided"
-      },
-      {
-         "description" : "GM Jeffery Xiong won the April 27 Titled Tuesday tournament. One of four players to finish with 9.5/11, Xiong held the tiebreak advantage over GM Sam Sevian, GM Samvel Ter-Sahakyan, and GM Conrad Holt, who finished 2nd-4th, respectively. Xiong had...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-april-27-titled-tuesday",
-         "pubDate" : "Wed, 28 Apr 2021 11:26:16 -0700",
-         "title" : "Xiong Wins April 27 Titled Tuesday"
-      },
-      {
-         "description" : "This week Merijn van Delft takes another look at the Candidates and presents a fine attack with which Anish Giri won against Ding Liren. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-anish-giri-vs-ding-liren",
-         "pubDate" : "Wed, 28 Apr 2021 17:00:00 +0100",
-         "title" : "Game of the Week: Anish Giri vs Ding Liren"
       }
    ]
 }
