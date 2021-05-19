@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-2020-r14",
          "pubDate" : "Wed, 28 Apr 2021 02:50:00 +0100",
          "title" : "Candidates Round 14: Ding, MVL and Alekseenko finish on a high note"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1049",
-         "pubDate" : "Tue, 27 Apr 2021 23:34:49 +0000",
-         "title" : "'Lucky' Levon takes quarter-final lead against Tour leader"
       }
    ]
 }
