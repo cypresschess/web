@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hybrid-chess-an-okay-way-to-play-during-the-pandemic",
+         "pubDate" : "Wed, 19 May 2021 13:00:00 +0100",
+         "title" : "Hybrid Chess - an okay way to play during the pandemic"
+      },
+      {
+         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
+         "pubDate" : "Wed, 19 May 2021 12:34:00 +0100",
+         "title" : "Komodo Dragon 2 is here!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1088",
+         "pubDate" : "Wed, 19 May 2021 09:50:28 +0000",
+         "title" : "Ahead of FIDE Women's Grand Prix Gibraltar: standings and full pairings"
+      },
+      {
+         "description" : "On Tuesday, GM Garry Kasparov interacted with fans via a Reddit AMA. The 13th world champion answered questions about his favorite topics such as A.I., Russian politics, and, of course, chess. A Reddit AMA (&#34;Ask Me Anything&#34;) is an interactive Q...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/garry-kasparov-reddit-ama",
+         "pubDate" : "Wed, 19 May 2021 02:04:11 -0700",
+         "title" : "Kasparov Interacts With Fans: Reddit AMA"
+      },
+      {
+         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-4",
+         "pubDate" : "Wed, 19 May 2021 10:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 4"
+      },
+      {
+         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is the winner of the Qualification League of the Top Chess Engine Championship. Koivisto secured the QL title with a last round win, collecting 20,0/26 15 wins, 10 draws, and one loss. ClassicAra, one of the newcomers to TCEC, is second with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/koivisto-is-the-winner-of-tcec-s21-qualification-league/",
+         "pubDate" : "Wed, 19 May 2021 08:45:54 +0000",
+         "title" : "Koivisto is the winner of TCEC S21 Qualification League"
+      },
+      {
+         "description" : "Bent Larsen (1935-2010), the famous Danish Grandmaster, was a fearless player with an original style of play. He could beat anyone on his day, as proved by his victories against various World Champions, including Mikhail Botvinnik, Boris Spassky, Bobby Fischer and Anatoly Karpov. Sean Marsh takes a look at some of his most memorable checkmating attacks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/bent-larsen-s-checkmating-attacks",
+         "pubDate" : "Wed, 19 May 2021 08:45:47 +0000",
+         "title" : "Bent Larsen's checkmating attacks"
+      },
+      {
          "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +66,12 @@ news_feed (
          "title" : "Tani Adewumi becomes National Master at 10"
       },
       {
-         "description" : "Discount Day ends today, May 19th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss this final opportunity to get all our software - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
-         "pubDate" : "Wed, 19 May 2021 06:15:00 +0100",
-         "title" : "Just a few more hours: Discount Day!"
-      },
-      {
-         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
-         "pubDate" : "Wed, 19 May 2021 06:00:00 +0100",
-         "title" : "Komodo Dragon 2 is here!"
+         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
+         "pubDate" : "Wed, 19 May 2021 00:48:59 -0500",
+         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dives into the minds of the best grandmasters in the United States and contrasts them with the thinking of chess masters (specifically National Masters and FIDE Masters in the 2200-2400 range). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qh",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "Chess and crypto - love at&hellip; third sight?"
       },
       {
-         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
-         "pubDate" : "Tue, 18 May 2021 10:26:50 -0500",
-         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -162,10 +202,10 @@ news_feed (
          "title" : "European Hybrid Qualification Chess Tournament 2021 - pairings"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis",
+         "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
          "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
          "title" : "How To Analyse Your Own Game: Part 1"
       },
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fritztrainer-tournament-live-with-daniel-king-and-arne-kaehler",
          "pubDate" : "Mon, 17 May 2021 17:08:30 +0100",
          "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
-      },
-      {
-         "description" : "At the recently held Montengro Chess Championship 2021, IM Luka Draskovic claimed the title of the National Champion for the first time in his chess career. Top four players from the National Championship took part in the knock-out tournament in Budva. The winner of the event earned the spot for the upcoming World Chess Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-luka-draskovic-qualifies-for-the-fide-world-cup-2021/",
-         "pubDate" : "Mon, 17 May 2021 14:49:18 +0000",
-         "title" : "IM Luka Draskovic qualifies for the FIDE World Cup 2021"
       },
       {
          "description" : "Two weeks after clinching the Shenzhen Masters (online), GM Yu Yangyi won his third Chinese Championship title (over the board!). GM Ju Wenjun, who chose to play in the open section, was one of two players to beat the eventual champion. How to...",
@@ -2090,28 +2122,12 @@ news_feed (
          "title" : "Ian v Magnus"
       },
       {
-         "description" : "On Wednesday, GM Ian Nepomniachtchi was officially crowned as the winner of the 2020-2021 FIDE Candidates Tournament. Before the ceremony, he answered questions from the media. The final press conference. Nepomniachtchi started by thanking his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-candidates-closing-ceremony-nepomniachtchi",
-         "pubDate" : "Wed, 28 Apr 2021 05:32:00 -0700",
-         "title" : "Nepomniachtchi: 'I Don't Have The Tendency To Downgrade Myself'"
-      },
-      {
          "description" : "In previous articles we showed you the mad rook (dolle toren) rampage, where it sacrifices itself to secure a stalemate draw. Then we showed you how queens, bishops and knights could do the same. But what about pawns, we asked? It turns out there are similar motifs with suicidal pawns. Here's a series of amusing studies by Mikhail Zinar.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mad-pawns-can-save-the-day",
          "pubDate" : "Wed, 28 Apr 2021 13:11:03 +0100",
          "title" : "Mad pawns can save the day"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-1",
-         "pubDate" : "Wed, 28 Apr 2021 11:05:32 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 1"
       }
    ]
 }
