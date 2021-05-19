@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tani-adewumi-becomes-national-master-at-10",
+         "pubDate" : "Wed, 19 May 2021 09:06:00 +0100",
+         "title" : "Tani Adewumi becomes National Master at 10"
+      },
+      {
+         "description" : "Discount Day ends today, May 19th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss this final opportunity to get all our software - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
+         "pubDate" : "Wed, 19 May 2021 06:15:00 +0100",
+         "title" : "Just a few more hours: Discount Day!"
+      },
+      {
+         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
+         "pubDate" : "Wed, 19 May 2021 06:00:00 +0100",
+         "title" : "Komodo Dragon 2 is here!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dives into the minds of the best grandmasters in the United States and contrasts them with the thinking of chess masters (specifically National Masters and FIDE Masters in the 2200-2400 range). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qh",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 19 May 2021 00:49:34 +0000",
          "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tani-adewumi-becomes-national-master-at-10",
-         "pubDate" : "Wed, 19 May 2021 00:00:00 +0100",
-         "title" : "Tani Adewumi becomes National Master at 10"
       },
       {
          "description" : "Charlotte Chess Masters 2021 will take place July 16-18. It is the 3rd edition of the Masters and will be a 5 round USCF and FIDE-rated event featuring guaranteed prizes and strong competition in 2 sections Masters A (2200+ FIDE) and Masters B (1900+ USCF). Full information about the Charlotte Chess Masters Following the []",
@@ -34,11 +50,11 @@ news_feed (
          "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 CES...",
+         "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 Cen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-bullet-chess-speedrun-presented-by-stella-artois",
-         "pubDate" : "Tue, 18 May 2021 13:49:31 -0700",
+         "pubDate" : "Tue, 18 May 2021 13:49:00 -0700",
          "title" : "Nakamura's Bullet Chess Speedrun Presented By Stella Artois"
       },
       {
@@ -56,22 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1087",
          "pubDate" : "Tue, 18 May 2021 20:13:48 +0000",
          "title" : "Vasif Durarbayli wins Azerbaijani Championship"
-      },
-      {
-         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong. You can get the Dragon today for a special Discount Day price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
-         "pubDate" : "Tue, 18 May 2021 20:00:00 +0100",
-         "title" : "Komodo Dragon 2 is here!"
-      },
-      {
-         "description" : "For one whole day, on Tuesday, the 18th of May 2021, we are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 2, a neural network program that shows you moves you have never seen before. Don't miss the great opportunity to get all the tools you need to become a stronger, more profound tournament player - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-here-discount-day-2021",
-         "pubDate" : "Tue, 18 May 2021 19:15:00 +0100",
-         "title" : "It's here: Discount Day 2021!"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Chinese Championships, and his feature game is the nice technical victory Ju Wenjun, who played in the open section, achieved against the eventual winner Yu Yangyi. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/game-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis",
          "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
          "title" : "How To Analyse Your Own Game: Part 1"
-      },
-      {
-         "description" : "&#8212; from Camberley Chess Club May 18th, 2021 @ 8:00pm - 10:00pm BST. We are excited to announce that Grandmaster David Howell will be our...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/an-evening-with-david-howell-tonight/",
-         "pubDate" : "Tue, 18 May 2021 09:47:40 +0000",
-         "title" : "An Evening with David Howell - tonight"
       },
       {
          "description" : "The SCCU invites all Under 18 and Under 14 teams from counties, schools and clubs in England to join our Junior Jamboree on Saturday 5th...",
@@ -1008,6 +1000,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-fide-regulations-for-arbiters/",
          "pubDate" : "Mon, 10 May 2021 07:56:34 +0000",
          "title" : "New FIDE Regulations for Arbiters"
+      },
+      {
+         "description" : "The International Chess Federation and Chess.com announce the FIDE/Chess.com Women's Speed Chess Championship, an online competition to be held between May 28th and July 3rd...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-fide-chess-com-womens-speed-chess-championship/",
+         "pubDate" : "Mon, 10 May 2021 07:53:29 +0000",
+         "title" : "The FIDE/Chess.com Women's Speed Chess Championship"
       },
       {
          "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-1",
          "pubDate" : "Wed, 28 Apr 2021 11:05:32 +0100",
          "title" : "Svitlana's Smart Moves - Episode 1"
-      },
-      {
-         "description" : " The last round was irrelevant with respect to determining tournament victory, but it still mattered for prize money and rating points. So: on with the show. Ian Nepomniachtchi was probably less motivated than a trust-fund baby in the world's most boring college class, having already won the event and clinched a match with Magnus Carlsen, so it's unsurprising that he played a weird opening against Ding Liren, got confused about his opening preparation, and was lost before move 20. For Ding it was a nice result: his third win in a row (which I expected and semi-predicted after he won in round 12), salvaging some rating points and getting back to 50%. With a win, Anish Giri would have tied Nep",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/4/28/20201-candidates-round-14-nepomniachtchi-still-the-tournamen.html",
-         "pubDate" : "Wed, 28 Apr 2021 05:19:11 +0000",
-         "title" : "2020/1 Candidates, Round 14: Nepomniachtchi Still the Tournament Winner"
       }
    ]
 }
