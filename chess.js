@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/no-castling-chess-online-qualifiers",
+         "pubDate" : "Wed, 19 May 2021 23:00:00 +0100",
+         "title" : "No Castling Chess online tournament open to all"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 19 May 2021 21:50:07 +0000",
+         "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1089",
+         "pubDate" : "Wed, 19 May 2021 20:24:22 +0000",
+         "title" : "Attention FIDE World Cup participants"
+      },
+      {
+         "description" : "FIDE Women's World Cup 2021 will take place 10 July 4 August 2021 in Sochi, Russia, simultaneously with the FIDE Open World Chess Cup. The 2021 FIDE Women's World Cup will be played in 7 rounds, knock-out system, with 103 players and a prize pool of 676,000 dollars. Most of the participants are already known []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-cup-2021-information-and-participants/",
+         "pubDate" : "Wed, 19 May 2021 20:04:43 +0000",
+         "title" : "FIDE Women's World Cup 2021 - information and participants"
+      },
+      {
          "description" : "The European Individual Chess Championship 2021 will take place 26 August 5 September in Reykjavik, Iceland. The event will be held in a historic venue at Hotel Natura. Hotel Natura has a rich history of chess events, hosting several previous editions of the Reykjavik Open. The hotel accommodated Bobby Fischer during the 1972 World []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/18/episode-227-wfm-maria-emelianova",
          "pubDate" : "Tue, 18 May 2021 14:59:45 +0000",
          "title" : "Episode 227- WFM Maria Emelianova "
-      },
-      {
-         "description" : "Just a day after the announcement of the FTX Crypto Chess Cup 2021&#160;by the Play Magnus group, Chess.com launches its crypto related chess event CryptoChamps Chess by Coinbase. CryptoChamps announcement Chess.com is excited to announce the upcoming&#160;CryptoChamps&#160;tournament&#160;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on&#160;June []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cryptochamps-chess-by-coinbase/",
-         "pubDate" : "Tue, 18 May 2021 14:50:15 +0000",
-         "title" : "CryptoChamps Chess by Coinbase"
       },
       {
          "description" : "One year ago the ChessBase Magazine introduced a new column, the \"Special\". It offers room for a wide range of topics, e.g. Dorian Rogozenco's video presentation of rediscovered Kasparov games in ChessBase Magazine #195, \"My favourite Fischer game\" (CBM #196), \"Kasparov as challenger\" (CBM #198), \"My favourite game of Paul Keres\" (CBM 199) or how people remember the young Magnus Carlsen (CBM #200). The current issue #201 focuses on a player who has been among the world's best for more than three decades: Vassily Ivanchuk. The \"Ivanchuk Special\" in CBM #201 includes 22 games from 1987 to 2019. As a sample we show two of these games, annotated by Renato Quintilliano and David Navara. Enjoy!",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
          "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
          "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Wilhelm Steinitz&#039;s victory over the great Gustav Neumann at the 1867 Dundee Congress, a ten-player round robin in Scotland, considered to be only the fourth modern international tournament. Neumann eventually edged out Steinitz to win the event by a half point. 2021.05.12<br /> Wilhelm Steinitz vs Gustav Neumann, Dundee Congress (1867): C25 Vienna, Steinitz gambit<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1228239\">https://www.chessgames.com/perl/chessgame?gid=1228239</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/steinitz-dundee-congress-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 13 May 2021 03:44:13 +0000",
-         "title" : "Steinitz at the Dundee Congress | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/29/the-iron-english/",
          "pubDate" : "Thu, 29 Apr 2021 00:10:53 +0000",
          "title" : "The Iron English"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1050",
-         "pubDate" : "Wed, 28 Apr 2021 21:27:47 +0000",
-         "title" : "Carlsen powers past Radjabov as semi-final line-up decided"
       }
    ]
 }
