@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "BBC World Service ran a video segment presenting the life of chess streamers and the recent explosion of interest in chess video broadcasts. BBC correctly taps into the shifting fortunes nowadays young WGM/WIM/FM players are the avant-garde of chess. The reason: &#8220;Queen's Gambit&#8221; by Netflix. See: The Queens Gambit - with WIM Lara Janzelj []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bbc-world-service-queens-gambit-essential-to-online-chess-streams-boom/",
+         "pubDate" : "Wed, 19 May 2021 15:21:47 +0000",
+         "title" : "BBC World Service, \"Queen's Gambit essential to online chess streamers boom\""
+      },
+      {
+         "description" : "Entry forms are now available for the 2021 Northumbria Masters (August 26th-30th 2021) which is going ahead over-the-board at a brand new Covid-secure venue, Marriott...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/northumbria-masters-entry-forms-now-available/",
+         "pubDate" : "Wed, 19 May 2021 15:00:46 +0000",
+         "title" : "Northumbria Masters entry forms now available!"
+      },
+      {
+         "description" : "The famous chess youtuber Agadmator continues his previews on the Nepo - Carlsen 2021 match. The first video of the series was titled \"Does Nepo stand a chance against Magnus\", Agadmator analyzed a key game in Nepo's career vs Peter Leko. Now Agadmator looks at another Nepo game, this time from the Chess24 Banter Blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/agadmator-on-nepo-episode-2/",
+         "pubDate" : "Wed, 19 May 2021 14:07:38 +0000",
+         "title" : "Agadmator on Nepo (episode 2)"
+      },
+      {
+         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - kind of.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
+         "pubDate" : "Wed, 19 May 2021 15:00:00 +0100",
+         "title" : "Chess Logical: did you solve it?"
+      },
+      {
+         "description" : " The Philidor Defence traditionally began with the moves 1.e4 e5 2.Nf3 d6, but times have changed considerably. With this move order it was found that if Black plays 3Nd7 to strongpoint e5, then after 4.Bc4 he finds it difficult to continue his development without making some concession. As an example 4Ngf6 is met by 5.dxe5 <a href=\"https://chessimprover.com/punch-em-with-the-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Punch 'em with the Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/punch-em-with-the-philidor/\">Punch 'em with the Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/punch-em-with-the-philidor/",
+         "pubDate" : "Wed, 19 May 2021 13:00:15 +0000",
+         "title" : "Punch 'em with the Philidor"
+      },
+      {
          "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +50,28 @@ news_feed (
          "title" : "Hybrid Chess - an okay way to play during the pandemic"
       },
       {
+         "description" : "The 10th jubilee season of the Swedish Rapid Team Battle kicks off this Wednesday, May 19th. Around 400 players will compete for 26 Swedish chess clubs. The event will be played Online at Lichess, with 5 rounds taking place every Wednesday from 19:30 CEST. The time control is 10 minutes + 2 seconds. The best []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swedish-rapid-team-battle-2021/",
+         "pubDate" : "Wed, 19 May 2021 11:36:00 +0000",
+         "title" : "Swedish Rapid Team Battle 2021 (today!)"
+      },
+      {
          "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
          "pubDate" : "Wed, 19 May 2021 12:34:00 +0100",
          "title" : "Komodo Dragon 2 is here!"
+      },
+      {
+         "description" : " It is a rare game where there are 5 promotions. Excluding fakes (which are these days well known) there have been as few as 3 games where 6 promotions took place. So while I think that 5 promotion games (with 7 queens appearing in total) are a little more common, it is still noteworthy when they occur. Sadly I was on the wrong end of this one! <br /> <b>Yang,Minchen - Press,Shaun [C45]</b><br />Belconnen Cup, 18.05.2021 <script>new PgnViewer( { boardName: \"game1243\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6 9.Nc3 a5 10.a4 Ba6 11.b3 d5 12.exd6 cxd6 13.Qxe7+ Bxe7 14.Be3 Bf6 15.Rc1 Rb8 16.Ne4 Nc8 17.Nxf6+ gxf6 18.Rb1 Kd7 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/a-seven-goal-thriller.html",
+         "pubDate" : "Wed, 19 May 2021 11:31:00 +0000",
+         "title" : "A seven goal thriller"
       },
       {
          "description" : "",
@@ -30,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/garry-kasparov-reddit-ama",
-         "pubDate" : "Wed, 19 May 2021 02:04:11 -0700",
+         "pubDate" : "Wed, 19 May 2021 02:04:00 -0700",
          "title" : "Kasparov Interacts With Fans: Reddit AMA"
       },
       {
@@ -234,14 +290,6 @@ news_feed (
          "title" : "Aimchess joins Play Magnus Group"
       },
       {
-         "description" : "Play Magnus Group, the company of Magnus Carlsen, listed on the stock exchange and valued at 85 million, has acquired yet another chess project. After chess24, Chessable, iChess, New In Chess, EverymanChess, CoChess, and the Play Magnus App Suite, now it is time for Aimchess to join Play Magnus. Aimchess announces it joins forces with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-is-acquired-by-play-magnus-group/",
-         "pubDate" : "Tue, 18 May 2021 08:05:06 +0000",
-         "title" : "Aimchess is acquired by Play Magnus Group"
-      },
-      {
          "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained",
          "pubDate" : "Tue, 18 May 2021 06:48:43 +0000",
          "title" : "I'll Take the Chekhover Sicilian, Please! | Chess Openings Explained"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. The stakes at the African Individual Chess Championship are high as the 4 top placed players in the open section will qualify for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Tue, 18 May 2021 00:09:00 +0000",
-         "title" : "African Individual Chess Championship 2021"
       },
       {
          "description" : " A little update from around the chess world. First, Abhimanyu Mishra will be a GM soon, but not by the end of the <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">norm event</a> he's playing in now. He (probably) needed 7/9; 2/5 clearly isn't going to cut it. Hopefully he can minimize the rating damage he has suffered thus far. (Unless you're a Sergey Karjakin superfan, in which case you hope the damage piles up like an avalanche.) Second: the \"<a href=\"https://events.chess24.com/mrdodgy-invitational/\">Mr Dodgy Invitational 2.0</a>\" (afaik, \"Mr. Dodgy\" is the username of a Chess24 superfan; I don't know if he contributed any money to the event's ",
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel",
          "pubDate" : "Mon, 17 May 2021 21:48:23 +0000",
          "title" : "Alekseenko vs. Grischuk, 2021 Candidates | Insane in the Endgame - GM Josh Friedel"
-      },
-      {
-         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open&#160;/&#160;Participants women Live games open Live games women The games start on May 18. While waiting for the live broadcast, enjoy some []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
-         "pubDate" : "Mon, 17 May 2021 21:40:05 +0000",
-         "title" : "African Chess Championships 2021 LIVE"
       },
       {
          "description" : "Chess.com is excited to announce the upcoming CryptoChamps tournament&#38;nbsp;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on June 12 and 13, starting at 10 a.m. Pacific/19:00 CE...",
@@ -1018,14 +1050,6 @@ news_feed (
          "title" : "Premium only: Have your say in the biggest Tour vote yet"
       },
       {
-         "description" : "May 14th 16th 2021 includes tournaments, coaching sessions, simultaneous exhibitions, workshops, panel debates and more! Sign up online at https://britchess.wufoo.com/forms/european-womens-weekend-2021/. View a short...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-girls-and-womens-chess-weekend/",
-         "pubDate" : "Mon, 10 May 2021 09:17:08 +0000",
-         "title" : "European Girls' and Women's Chess Weekend"
-      },
-      {
          "description" : "The new FIDE Regulations for Arbiters, approved by the FIDE Council on Monday 19th April, have now been published here arbiters.fide.com/news/6041 The effective date...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "New in Chess Classic Finals: Carlsen wins first set"
       },
       {
-         "description" : " I was playing out a drawn rook ending in an online rapid game the other evening when the phone rang. I told my friend I'd call back when I'd finished the game, but my concentration was shattered. Well, that's my excuse, anyway. Some time later we reached this position. I was white and you'll observe <a href=\"https://chessimprover.com/a-person-from-porlock/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Person from Porlock\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-person-from-porlock/\">A Person from Porlock</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-person-from-porlock/",
-         "pubDate" : "Sun, 02 May 2021 08:17:08 +0000",
-         "title" : "A Person from Porlock"
-      },
-      {
          "description" : "Shri Gaurav Jindal, President of The Haryana Chess Association passed away in a tragic road accident. Indian Chess and Haryana in particular lost a dynamic",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2088,46 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-anish-giri-vs-ding-liren",
          "pubDate" : "Wed, 28 Apr 2021 17:00:00 +0100",
          "title" : "Game of the Week: Anish Giri vs Ding Liren"
-      },
-      {
-         "description" : "In an interview after the last round of the Candidates Tournament, Wang Hao declared his retirement from professional chess, citing health issues as reason. However, he said he would continue to be involved in chess. Here's a short portrait and the interview. | Photo: Screenshot from the interview at the Candidates Tournament",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wang-hao-declares-retirement-from-professional-chess",
-         "pubDate" : "Wed, 28 Apr 2021 15:32:36 +0100",
-         "title" : "Wang Hao declares retirement from professional chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1048",
-         "pubDate" : "Wed, 28 Apr 2021 14:10:44 +0000",
-         "title" : "Ian Nepomniachtchi: To start this tournament was big courage and to end it - an act of heroism"
-      },
-      {
-         "description" : "The first day of the quarterfinal at the New in Chess Classic Online Tournament brought a number of interesting games and match wins for Levon Aronian (3-1 against Wesley So), Shakhriyar Mamedyarov (3-1 against Alireza Firouzja) and Hikaru Nakamura (2.5-1.5 against Le Quang Liem). Magnus Carlsen and Teimour Radjabov drew all four games and the match. | Photo: Levon Aronian | Photo: Grand Chess Tour, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-quarterfinal-day-1-aronian-mamedyarov-and-nakamura-start-with-wins",
-         "pubDate" : "Wed, 28 Apr 2021 14:36:31 +0100",
-         "title" : "New in Chess Classic, Quarterfinal, Day 1: Aronian, Mamedyarov and Nakamura start with wins"
-      },
-      {
-         "description" : " The 2020/21 Candidates has ended in a win for Ian Nepomniachtchi after a very intense last 3 rounds. Of the 12 games played in round 12,13 and 14, 10 of them were decisive, which is almost unheard of at this level in modern times. Nepo even lost his final round game, but still finished outright first after Anish Giri also lost. Maxime Vachier-Lagrave ended up in 2nd place after his final round win, while Ding Liren recovered from a horrible first half by winning his last 3 games. As a result Nepomniachtchi will play Magnus Carlsen in the World Championship match later this year. Going early in my predictions, I think Carlsen will once again retain his title, but that there will certainly be",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/ian-v-magnus.html",
-         "pubDate" : "Wed, 28 Apr 2021 12:36:00 +0000",
-         "title" : "Ian v Magnus"
-      },
-      {
-         "description" : "In previous articles we showed you the mad rook (dolle toren) rampage, where it sacrifices itself to secure a stalemate draw. Then we showed you how queens, bishops and knights could do the same. But what about pawns, we asked? It turns out there are similar motifs with suicidal pawns. Here's a series of amusing studies by Mikhail Zinar.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mad-pawns-can-save-the-day",
-         "pubDate" : "Wed, 28 Apr 2021 13:11:03 +0100",
-         "title" : "Mad pawns can save the day"
       }
    ]
 }
