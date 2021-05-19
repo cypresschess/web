@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dives into the minds of the best grandmasters in the United States and contrasts them with the thinking of chess masters (specifically National Masters and FIDE Masters in the 2200-2400 range). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qh",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 19 May 2021 00:49:34 +0000",
+         "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HviX715YLnc.jpg?itok=_Xu8CZnV\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.18<br /> Kirill Alekseenko vs Alexander Grischuk, World Championship Candidates (2020/21): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2040554\">https://www.chessgames.com/perl/chessgame?gid=2040554</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel\"><img src=\"https://saint",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/steinitz-dundee-congress-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 13 May 2021 03:44:13 +0000",
          "title" : "Steinitz at the Dundee Congress | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/steinitz-classics-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BBrFYCIyrNY.jpg?itok=13izFvDo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/steinitz-classics-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 13 May 2021 00:44:19 +0000",
-         "title" : "The Steinitz Classics | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -2120,22 +2120,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/4/28/20201-candidates-round-14-nepomniachtchi-still-the-tournamen.html",
          "pubDate" : "Wed, 28 Apr 2021 05:19:11 +0000",
          "title" : "2020/1 Candidates, Round 14: Nepomniachtchi Still the Tournament Winner"
-      },
-      {
-         "description" : " The New In Chess Classic is the fifth event of the Champions Chess Tour the online rapid series hosted by Chess24. The event takes place 24th April to May 2nd. The rounds start later than any event so far to try and avoid a clash with the Candidates, they start at 6pm BST. Players: Magnus Carlsen, Hikaru Nakamura, Leinier Dominguez Perez, Levon Aronian, Jan-Krzysztof Duda, Shakhriyar Mamedyarov, Teimour Radjabov, Quang Liem Le, Wesley So, Sergey Karjakin, Alireza Firouzja, Santosh Gujrathi Vidit, Gawain C B Jones, Aryan Tari, Johan-Sebastian Christiansen and R Praggnanandhaa. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/new-in-chess-classic-2021",
-         "pubDate" : "Wed, 28 Apr 2021 07:30:00 +0400",
-         "title" : "New In Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "Ding Liren, Kirill Alekseenko and Maxime Vachier-Lagrave finished the 2020-21 Candidates Tournament on a high note, scoring wins over Ian Nepomniachtchi, Anish Giri and Wang Hao respectively. Fabiano Caruana and Alexander Grischuk signed a draw. In his last interview of the event, Wang announced his retirement from competitive chess. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2020-r14",
-         "pubDate" : "Wed, 28 Apr 2021 02:50:00 +0100",
-         "title" : "Candidates Round 14: Ding, MVL and Alekseenko finish on a high note"
       }
    ]
 }
