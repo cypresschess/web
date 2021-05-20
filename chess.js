@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 20 May 2021 00:50:06 +0000",
+         "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mitropa-cup-double-success-for-italy",
          "pubDate" : "Fri, 14 May 2021 12:01:01 +0100",
          "title" : "Mitropa Cup: Double success for Italy"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2021.05.12<br /> Josh Friedel vs. Suat Atalik, 2007: C91 Ruy Lopez, closed, Bogolyubov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kh-bvTN-rcA.jpg?itok=j6Yg3Zmk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
-         "pubDate" : "Fri, 14 May 2021 00:45:06 +0000",
-         "title" : "Crazy Battle with Atalik | Grandmaster's Choice - GM Josh Friedel"
       },
       {
          "description" : "ACROSS 2: A great player who had a large number of tournament and match withdrawals highlighed especially by being on the wrong end of a Steinitz brilliancy, Hastings 1895. 4: Several times a candidate for the world chess championship, in 1970 he ceded his candidate position to Bobby Fischer. 6: A bad move which is usually a decisive error. 9: For more than 20 years he was one of the top six players in the chess world.",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/new-in-chess-classic-quarterfinals-day-2",
          "pubDate" : "Wed, 28 Apr 2021 23:56:00 -0700",
          "title" : "New In Chess Classic: Aronian-Carlsen, Mamedyarov-Nakamura"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : Grandmaster Simon Williams was taught the English Opening at the age of six and 1 c4 was his weapon of choice until long after he became an International Master. For this new work, he teamed up with acclaimed theoretician International Master Richard Palliser to explore <a href=\"http://britishchessnews.com/2021/04/29/the-iron-english/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Iron English</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/29/the-iron-english/\">The Iron English</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnew",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/29/the-iron-english/",
-         "pubDate" : "Thu, 29 Apr 2021 00:10:53 +0000",
-         "title" : "The Iron English"
       }
    ]
 }
