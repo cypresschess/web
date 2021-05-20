@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at the Karpov Variation of the Caro-Kann, a still reliable but also somewhat risky system. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventures-in-the-karpov-variation-4-nd7-of-the-caro-kann",
+         "pubDate" : "Thu, 20 May 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
+      },
+      {
+         "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sophie-milliet-leads-at-the-gm-tournament-in-chartres",
+         "pubDate" : "Thu, 20 May 2021 14:21:23 +0100",
+         "title" : "Sophie Milliet leads in Chartres"
+      },
+      {
+         "description" : " The 2021 Asian Continental Championship is being organised as a hybrid event, with the top 7 players qualifying for the 2021 World Cup. There are currently 85 players entered, with GM Temur Kuybokarov as the sole Australian representative. Although the regulations normally only allow players rated above 2300 (plus one nominated player per member federation), this years event sees a number of players who are below the cutoff. The tournament is being run on the Tornelo platform and begins at 4pm 21 May Canberra time. Each group of players is being supervised by a local arbiter, while there will also be remote supervision from tournament arbiters (** I am one of these arbiters **). If it turns",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/2021-asian-continental-championship.html",
+         "pubDate" : "Thu, 20 May 2021 13:10:00 +0000",
+         "title" : "2021 Asian Continental Championship "
+      },
+      {
+         "description" : "The Banter Blitz Cup is back and now with a Spanish flavour as 64 players bring chess and chat to the table while fighting it out for a $17,000 prize pot. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/banter-blitz-cup-returns",
+         "pubDate" : "Thu, 20 May 2021 12:24:36 +0000",
+         "title" : "Banter Blitz Cup returns! Now with a golden Tour ticket at stake"
+      },
+      {
+         "description" : "The American Qualification tournament for the FIDE World Cup 2021 will take place 22 May 30 May. As an American Continental Championship, the event consists of two hybrid format stages: preliminary and knock-out. The preliminary stage took place 7-9 May with participation of 107 players rated under 2500. Top ranked players qualified for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-american-world-cup-qualification-tournament/",
+         "pubDate" : "Thu, 20 May 2021 11:47:27 +0000",
+         "title" : "FIDE American World Cup Qualification Tournament"
+      },
+      {
          "description" : "\"Ask me anything\" (AMA) is a \"Question & Answer\" format on the Reddit platform in which readers are invitid to ask a famous guest, well, anything. On 19 May, the Reddit readers asked Garry Kasparov about chess, Magnus Carlsen, Deep Blue, Artificial Intelligence, and much more. Kasparov's answer were open, frank, clear, and are a pleasure to read. | Photo: kasparov.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
          "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
+      },
+      {
+         "description" : "The&#160;Azerbaijan Chess Championship 2021&#160;took place on May 4-14 in Nakhchivan. In a strong 12 players field, GM Vasif Durarbayli became National Champion for the first time in his chess career and also earned qualification for the World Chess Cup 2021. 4 top placed players from the round-robin part of the Azerbaijan Championship qualified for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/durarbayli-vasif-wins-azerbaijan-chess-championship-2021/",
+         "pubDate" : "Thu, 20 May 2021 07:36:00 +0000",
+         "title" : "Vasif Durarbayli wins Azerbaijan Chess Championship 2021"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
@@ -242,14 +290,6 @@ news_feed (
          "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "Charlotte Chess Masters 2021 will take place July 16-18. It is the 3rd edition of the Masters and will be a 5 round USCF and FIDE-rated event featuring guaranteed prizes and strong competition in 2 sections Masters A (2200+ FIDE) and Masters B (1900+ USCF). Full information about the Charlotte Chess Masters Following the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-chess-masters-2021/",
-         "pubDate" : "Tue, 18 May 2021 22:40:01 +0000",
-         "title" : "Charlotte Chess Masters 2021"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.05.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qhjbyJY.jpg?itok=ZZbGVyj9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-chinese-championships",
          "pubDate" : "Tue, 18 May 2021 19:10:43 +0100",
          "title" : "The Weekly Show: The Chinese Championships"
-      },
-      {
-         "description" : "The&#160;African Individual Chess Championship 2021&#160;is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Round 1 of the event was played in Lilongwe today. Everyone expected the live games form there to be broadcasted, but round start time delay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-chess-championship-2021-results-round-1/",
-         "pubDate" : "Tue, 18 May 2021 17:55:55 +0000",
-         "title" : "African Chess Championship 2021 - results round 1"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
@@ -1210,14 +1242,6 @@ news_feed (
          "title" : "Looking Back to The Most Talked About Chess Logo Ever"
       },
       {
-         "description" : "The Indian Qualifier final takes place on Monday, but it's Sunday's semi-finals that will decide which two players earn a spot on the Meltwater Champions Chess Tour. 15-year-old Praggnanandhaa has already played on the tour, which may lessen the disappointment of losing to top seed Adhiban. The final will feature either Adhiban or Aravindh, who overcame Ganguly in a playoff. In the other half of the draw it's a chance for a teenager, with 14-year-old Gukesh beating Mitrabha while 17-year-old Erigaisi overcame Harsha, who blundered on move 4 of the only decisive game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/indian-qualifier-decision-day",
-         "pubDate" : "Sun, 09 May 2021 08:39:11 +0000",
-         "title" : "Indian Qualifier: Decision Day"
-      },
-      {
          "description" : " So I'm playing the black pieces in a training game against Little Maggie. 1. e4 e5 2. Nf3 Nc6 3. Nc3 Play the Four Knights if you want, Maggie, but I keep on showing you games with Bb5 and Bc4. Either of those moves or 3. d4 will give you a much more interesting game. <a href=\"https://chessimprover.com/little-maggie/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Little Maggie\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/little-maggie/\">Little Maggie</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2064,38 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-aggressive-weapon-against-the-queen-s-gambit",
          "pubDate" : "Thu, 29 Apr 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An aggressive weapon against the Queen's Gambit"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1053",
-         "pubDate" : "Thu, 29 Apr 2021 13:53:29 +0000",
-         "title" : "Decisions of the 1st quarter FIDE Council Meeting"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://1.bp.blogspot.com/-YGtXrfJ1WHc/YIqz_ewAQEI/AAAAAAAARvs/g8zyropCdSgaKYhVeFMaoMX334A4hzOvgCLcBGAsYHQ/s840/Polerio1590.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"840\" data-original-width=\"840\" height=\"200\" src=\"https://1.bp.blogspot.com/-YGtXrfJ1WHc/YIqz_ewAQEI/AAAAAAAARvs/g8zyropCdSgaKYhVeFMaoMX334A4hzOvgCLcBGAsYHQ/w200-h200/Polerio1590.png\" width=\"200\" /></a></td></tr><tr><td class=\"tr-caption\" style=\"text-align: center;\">White to play and win</td><",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/a-very-old-windmill.html",
-         "pubDate" : "Thu, 29 Apr 2021 13:27:00 +0000",
-         "title" : "A very old windmill"
-      },
-      {
-         "description" : "No Rapid Interview? That's right. Grandmaster Efstratios Grivas said that he doesn't play online chess any more. In our \"normal\" interview, we talked about how Grivas went to eight Olympiads, published over 110 books, and became a Grandmaster despite starting with chess at the rather late age of 13. Furthermore, we talk about the largest chess club in the world, the Sharjah Cultural & Chess Club in Dubai, which launches a \"real\" over the board rapid tournament today, and of course, the reason behind Grivas not playing online chess - he doesn't mince his words! | Photos: Efstratios Grivas",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/no-rapid-chess-interview-with-efstratios-grivas",
-         "pubDate" : "Thu, 29 Apr 2021 13:07:22 +0100",
-         "title" : "No Rapid Chess - Interview with Efstratios Grivas"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1052",
-         "pubDate" : "Thu, 29 Apr 2021 11:43:01 +0000",
-         "title" : "From the \"flashcards\" to Chessable"
       }
    ]
 }
