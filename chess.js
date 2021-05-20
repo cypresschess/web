@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Azerbaijan Women's Chess Championship 2021 kicks off tomorrow in Nakhchivan. The event will be played in round-robin format with 11 rounds and 12 participants. Top seeded are IM Gulnar Mammadova, WGM Ulviyya Fataliyeva and WGM Zeinab Mamedjarova (4 times National Women's Champion). List of participants: IM Mammadova Gulnar&#160; AZE 2382 WGM Fataliyeva Ulviyya&#160; AZE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021/",
+         "pubDate" : "Thu, 20 May 2021 20:31:54 +0000",
+         "title" : "Azerbaijan Women's Chess Championship 2021"
+      },
+      {
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
+         "pubDate" : "Thu, 20 May 2021 16:51:00 +0000",
+         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
+      },
+      {
+         "description" : " The FTX Crypto Cup is part of the online Champions Chess Tour and takes place 23rd to 31st May 2021. This is the last Major - that is an event where the winner qualifies directly for the tour final in late September - although there are 3 more standard events and the leading players in the tour standings will qualify for the finals too. The top 10 players in the world all compete making this the strongest event on the tour so far. 16 players in the preliminaries will play a round robin to produce 8 qualifiers for the second knockout stage. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Liren Ding, Hikaru Nakamura, Alexander Grischuk, Ian Nepomniachtchi, Levon Aronian, Fabiano Caruana, Dan",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021",
+         "pubDate" : "Thu, 20 May 2021 20:49:00 +0400",
+         "title" : "FTX Crypto Cup 2021 - Games and Results"
+      },
+      {
+         "description" : "The American Qualification tournament for the FIDE World Cup 2021 will take place 22 May 30 May. As an American Continental Championship, the event consists of two hybrid format stages: preliminary and knock-out. The preliminary stage took place 7-9 May with participation of 107 players rated under 2500. Top ranked players qualified for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-american-world-cup-qualification-tournament/",
+         "pubDate" : "Thu, 20 May 2021 16:45:00 +0000",
+         "title" : "FIDE American World Cup Qualification Tournament"
+      },
+      {
          "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at the Karpov Variation of the Caro-Kann, a still reliable but also somewhat risky system. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventures-in-the-karpov-variation-4-nd7-of-the-caro-kann",
          "pubDate" : "Thu, 20 May 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
+      },
+      {
+         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. The provisional list of participants for the European Hybrid Qualification Tournament has been published. 264 players (160 GMs) from 35 European []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-information-and-participants/",
+         "pubDate" : "Thu, 20 May 2021 15:01:00 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 - information and participants"
       },
       {
          "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/banter-blitz-cup-returns",
          "pubDate" : "Thu, 20 May 2021 12:24:36 +0000",
          "title" : "Banter Blitz Cup returns! Now with a golden Tour ticket at stake"
-      },
-      {
-         "description" : "The American Qualification tournament for the FIDE World Cup 2021 will take place 22 May 30 May. As an American Continental Championship, the event consists of two hybrid format stages: preliminary and knock-out. The preliminary stage took place 7-9 May with participation of 107 players rated under 2500. Top ranked players qualified for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-american-world-cup-qualification-tournament/",
-         "pubDate" : "Thu, 20 May 2021 11:47:27 +0000",
-         "title" : "FIDE American World Cup Qualification Tournament"
       },
       {
          "description" : "\"Ask me anything\" (AMA) is a \"Question & Answer\" format on the Reddit platform in which readers are invitid to ask a famous guest, well, anything. On 19 May, the Reddit readers asked Garry Kasparov about chess, Magnus Carlsen, Deep Blue, Artificial Intelligence, and much more. Kasparov's answer were open, frank, clear, and are a pleasure to read. | Photo: kasparov.com",
@@ -122,14 +154,6 @@ news_feed (
          "title" : "'100% motivated' Magnus Carlsen hints at new team as Nepomniachtchi preparation begins"
       },
       {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 (variable, depending on the bitcoin current price) FTX Crypto Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
-         "pubDate" : "Wed, 19 May 2021 18:11:50 +0000",
-         "title" : "FTX Crypto Cup LIVE"
-      },
-      {
          "description" : "GM Levan Pantsulaia won the May 18 Titled Tuesday tournament with a score of 9.5/11. Five players finished on that score but Pantsulaia held the advantage on tiebreaks for his first-ever Titled Tuesday victory. GM Vladislav Artemiev (last week&#39;s w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,14 +194,6 @@ news_feed (
          "title" : "Northumbria Masters entry forms now available!"
       },
       {
-         "description" : "The famous chess youtuber Agadmator continues his previews on the Nepo - Carlsen 2021 match. The first video of the series was titled \"Does Nepo stand a chance against Magnus\", Agadmator analyzed a key game in Nepo's career vs Peter Leko. Now Agadmator looks at another Nepo game, this time from the Chess24 Banter Blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/agadmator-on-nepo-episode-2/",
-         "pubDate" : "Wed, 19 May 2021 14:07:38 +0000",
-         "title" : "Agadmator on Nepo (episode 2)"
-      },
-      {
          "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - kind of.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://chessimprover.com/punch-em-with-the-philidor/",
          "pubDate" : "Wed, 19 May 2021 13:00:15 +0000",
          "title" : "Punch 'em with the Philidor"
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021 is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
-         "pubDate" : "Wed, 19 May 2021 12:22:00 +0000",
-         "title" : "FTX Crypto Chess Cup 2021"
       },
       {
          "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-4",
          "pubDate" : "Wed, 19 May 2021 10:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Episode 4"
-      },
-      {
-         "description" : "Koivisto, the open source chess engine by Kim K&aring;hre and Finn Eggers, is the winner of the Qualification League of the Top Chess Engine Championship. Koivisto secured the QL title with a last round win, collecting 20,0/26 15 wins, 10 draws, and one loss. ClassicAra, one of the newcomers to TCEC, is second with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/koivisto-is-the-winner-of-tcec-s21-qualification-league/",
-         "pubDate" : "Wed, 19 May 2021 08:45:54 +0000",
-         "title" : "Koivisto is the winner of TCEC S21 Qualification League"
       },
       {
          "description" : "Bent Larsen (1935-2010), the famous Danish Grandmaster, was a fearless player with an original style of play. He could beat anyone on his day, as proved by his victories against various World Champions, including Mikhail Botvinnik, Boris Spassky, Bobby Fischer and Anatoly Karpov. Sean Marsh takes a look at some of his most memorable checkmating attacks.",
@@ -2040,30 +2040,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/",
          "pubDate" : "Fri, 30 Apr 2021 00:10:06 +0000",
          "title" : "Desert Island Chess Puzzle Omnibus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1056",
-         "pubDate" : "Thu, 29 Apr 2021 23:05:22 +0000",
-         "title" : "Carlsen and Aronian battle hard as Nakamura takes lead in his semi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1055",
-         "pubDate" : "Thu, 29 Apr 2021 22:53:01 +0000",
-         "title" : "Georgian championship: Levan Pantsulaia clinches the title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1054",
-         "pubDate" : "Thu, 29 Apr 2021 21:06:07 +0000",
-         "title" : "Sindarov and Yakubbaeva win Uzbekistan Championship"
       }
    ]
 }
