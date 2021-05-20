@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fischer-karpov-and-kortschnoi",
          "pubDate" : "Thu, 29 Apr 2021 12:00:00 +0100",
          "title" : "Fischer, Karpov and Kortschnoi"
-      },
-      {
-         "description" : "GM Levon Aronian, GM Magnus Carlsen, GM Shakhriyar Mamedyarov, and GM Hikaru Nakamura qualified for the semifinals of the New in Chess Classic.&#38;nbsp;Carlsen beat GM Teimour Radjabov in one game in their second match while GM Wesley So, GM Alireza ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-quarterfinals-day-2",
-         "pubDate" : "Wed, 28 Apr 2021 23:56:00 -0700",
-         "title" : "New In Chess Classic: Aronian-Carlsen, Mamedyarov-Nakamura"
       }
    ]
 }
