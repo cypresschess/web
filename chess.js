@@ -362,7 +362,7 @@ news_feed (
          "title" : "Women's World Cup: List of Qualified Players"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it. Paul Bear [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
@@ -1042,7 +1042,7 @@ news_feed (
          "title" : "FIDE Trainer Awards 2020-2021"
       },
       {
-         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why In a chess sense 99% [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
@@ -1186,7 +1186,7 @@ news_feed (
          "title" : "Learning from Sultan Khan"
       },
       {
-         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, but do not trust yourself [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
@@ -1498,7 +1498,7 @@ news_feed (
          "title" : "Hj&ouml;rvar Steinn Gr&eacute;tarsson wins Icelandic Championship"
       },
       {
-         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote about my focus on the [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/recover-from-setbacks/?utm_source=rss&utm_medium=rss&utm_campaign=recover-from-setbacks",
@@ -1906,7 +1906,7 @@ news_feed (
          "title" : "Icelandic Championship: Gretarsson wins his first national title"
       },
       {
-         "description" : " Last week I asked a young compatriot what goals he set for his carreer. A 17 year old FM told me &#8220;the IM title would be nice, maybe 2450&#8221;. Then he said with a scared expression &#8220;maybe also the GM title, but I don't know if this is realistic&#8221;. This article is dedicated to you [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/believe-in-yourself/\">Believe In Yourself</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Insights In The Chess World By GM Noël Studer</a>. ",
+         "description" : " Last week I asked a young compatriot what goals he set for his carreer. A 17 year old FM told me &#8220;the IM title would be nice, maybe 2450&#8221;. Then he said with a scared expression &#8220;maybe also the GM title, but I don't know if this is realistic&#8221;. This <a href=\"https://nextlevelchess.blog/believe-in-yourself/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/believe-in-yourself/\">Believe In Yourself</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/believe-in-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=believe-in-yourself",
@@ -2064,30 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1054",
          "pubDate" : "Thu, 29 Apr 2021 21:06:07 +0000",
          "title" : "Sindarov and Yakubbaeva win Uzbekistan Championship"
-      },
-      {
-         "description" : "None of the players who lost the first set of the quarterfinals could make up for it in the second set. Hikaru Nakamura, Levon Aronian and Shakhriyar Mamedyarov quickly secured their tickets to the semifinals. Magnus Carlsen, after a 2-2 against Radjabov in the first set, won the second set and is also through. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-qf-2",
-         "pubDate" : "Thu, 29 Apr 2021 17:20:00 +0100",
-         "title" : "New in Chess Classic: No tiebreaks"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1619712632533-SHZ8ETWSWFKVV1SIYDBI/ke17ZwdGBToddI8pDm48kOssiKIMlPkSQcYPdRdC7i5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEu8ySjonWyRlWUudfq0zN62R3uohz8tQpUk3bopQo8QzD0CFQehB_Ose-Dsyc5ApI/Ruslan+2016.3.jpg\" data-image-dimensions=\"346x519\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Ruslan Ponomariov\" data-load=\"false\" data-image-id=\"608ada78dd4d9107c2bbcfbb\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1619712632533-SHZ8ETWSWFKVV1SIYDBI/ke17ZwdGBToddI8",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/4/29/ep224-gm-ruslan-ponomariov",
-         "pubDate" : "Thu, 29 Apr 2021 16:13:43 +0000",
-         "title" : "Episode 224 - GM Ruslan Ponomariov"
-      },
-      {
-         "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at an aggressive setup against the Queen's Gambit Declined, which Le Quang Liem used in the New in Chess Classic tournament to bring Hikaru Nakamura to the verge of defeat. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-aggressive-weapon-against-the-queen-s-gambit",
-         "pubDate" : "Thu, 29 Apr 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An aggressive weapon against the Queen's Gambit"
       }
    ]
 }
