@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Ask me anything\" (AMA) is a \"Question & Answer\" format on the Reddit platform in which readers are invitid to ask a famous guest, well, anything. On 19 May, the Reddit readers asked Garry Kasparov about chess, Magnus Carlsen, Deep Blue, Artificial Intelligence, and much more. Kasparov's answer were open, frank, clear, and are a pleasure to read. | Photo: kasparov.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
+         "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
+         "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Thu, 20 May 2021 00:50:06 +0000",
          "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Live games from the open and women section The stakes at the African Individual Chess Championship are high as the 4 top placed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Thu, 20 May 2021 00:09:00 +0000",
+         "title" : "African Individual Chess Championship 2021"
       },
       {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
@@ -130,20 +146,20 @@ news_feed (
          "title" : "Punch 'em with the Philidor"
       },
       {
+         "description" : "FTX Crypto Chess Cup 2021 is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
+         "pubDate" : "Wed, 19 May 2021 12:22:00 +0000",
+         "title" : "FTX Crypto Chess Cup 2021"
+      },
+      {
          "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hybrid-chess-an-okay-way-to-play-during-the-pandemic",
          "pubDate" : "Wed, 19 May 2021 13:00:00 +0100",
          "title" : "Hybrid Chess - an okay way to play during the pandemic"
-      },
-      {
-         "description" : "The 10th jubilee season of the Swedish Rapid Team Battle kicks off this Wednesday, May 19th. Around 400 players will compete for 26 Swedish chess clubs. The event will be played Online at Lichess, with 5 rounds taking place every Wednesday from 19:30 CEST. The time control is 10 minutes + 2 seconds. The best []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swedish-rapid-team-battle-2021/",
-         "pubDate" : "Wed, 19 May 2021 11:36:00 +0000",
-         "title" : "Swedish Rapid Team Battle 2021 (today!)"
       },
       {
          "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong.",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/african-chess-championship-2021-results-round-1/",
          "pubDate" : "Tue, 18 May 2021 17:55:55 +0000",
          "title" : "African Chess Championship 2021 - results round 1"
-      },
-      {
-         "description" : "Bitcoin, invented in 2008 by &#8220;Satoshi Nakamoto&#8221; and first released as open-source software in 2009, is the first decentralized cryptocurrency. Without a central bank or single administrator, it can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography, eliminating the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-and-crypto-love-at-third-sight/",
-         "pubDate" : "Tue, 18 May 2021 15:55:28 +0000",
-         "title" : "Chess and crypto - love at&hellip; third sight?"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
@@ -2088,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1052",
          "pubDate" : "Thu, 29 Apr 2021 11:43:01 +0000",
          "title" : "From the \"flashcards\" to Chessable"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1051",
-         "pubDate" : "Thu, 29 Apr 2021 11:16:01 +0000",
-         "title" : "The first Preparation of Teachers course announced"
-      },
-      {
-         "description" : "If Bobby Fischer had not retired after becoming World Champion in 1972 we would have seen a decade dominated by Fischer, Anatoly Karpov and Viktor Kortschnoi. What would have happened, if there had been a match Fischer - Karpov or Fischer - Kortschnoi? And why did Fischer not play against Karpov in 1975? And how would Fischer's decision have turned out if the challenger had not been Karpov, but Kortschnoi? Some thoughts by Stephan Oliver Platz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fischer-karpov-and-kortschnoi",
-         "pubDate" : "Thu, 29 Apr 2021 12:00:00 +0100",
-         "title" : "Fischer, Karpov and Kortschnoi"
       }
    ]
 }
