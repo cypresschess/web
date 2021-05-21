@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. After not having a show last Friday, This week we talk about the Fritztrainer tournament with Kasimdzhanov, King & Co, the young talent Adewumi, how \"funding\" plays a role in developing child prodigies, and our thoughts about \"no castling\" chess, which will take place in Dortmund soon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-7",
+         "pubDate" : "Fri, 21 May 2021 17:17:59 +0100",
+         "title" : "The ChessBase News Review (07.05. - 21.05)"
+      },
+      {
+         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - kind of.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
+         "pubDate" : "Fri, 21 May 2021 17:00:00 +0100",
+         "title" : "Chess Logical: did you solve it?"
+      },
+      {
+         "description" : "The International Chess Federation announced the new dates of the final stage of the Women's FIDE Grand Prix, to be played in Gibraltar from May 22 to June 2. The best female chess players in the world will be competing in a crucial event in the race for the World Championship title, since the two best players from the Women Grand Prix Series qualify directly for the Candidates Tournament. | Photo: David Llada / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-preview",
+         "pubDate" : "Fri, 21 May 2021 15:20:00 +0100",
+         "title" : "Fighting for a spot in the Candidates: Gibraltar Women's GP"
+      },
+      {
+         "description" : " The 2021 Asian Continental Championship started today, and began without any serious issues. Almost all games went according to rating, although there were a few hard fought draws, and one rating upset. I was supervising (from afar) a couple of countries including Kazakhstan, which interestingly had 4 female representatives among the 6 players taking part. One of the more interesting games I watched was between IM Arystanbek Urazayev and FM Munkhdalai Amilal from Mongolia. Apart from the well played mating attack, the other interesting feature was that White did the correct thing by castling to safety, while Black allowed his king to get caught in the centre. And yet it was Black who emerge",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/king-safety.html",
+         "pubDate" : "Fri, 21 May 2021 13:04:00 +0000",
+         "title" : "King safety?"
+      },
+      {
          "description" : "With only one point out of three games the 14-year old French talent Marc Andria Maurizzi had a bumpy start at the Grandmaster Tournament in Chartres but after five wins in a row he now only needs a draw in the final round to become the youngest French Grandmaster of all time. | Photos: Chartres Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
          "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
          "title" : "Chartres: Maurizzi on course for the title"
+      },
+      {
+         "description" : "Chess prodigies of the new generation are making a serious advance. Most chess events and travel are blocked due to the ongoing covid-19 pandemic, but wherever there is OTB chess, a young chess talent shines. Just as the chess world is impatiently awaiting the final GM norm of Abhimanyu Mishra, a young boy in France []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marcandria-maurizzi-is-the-youngest-french-grandmaster-of-all-time/",
+         "pubDate" : "Fri, 21 May 2021 11:50:03 +0000",
+         "title" : "Marc'Andria Maurizzi is the youngest French Grandmaster of all time"
+      },
+      {
+         "description" : "For 24 years the record stood but since today, GM Etienne Bacrot is no longer France&#39;s youngest grandmaster ever. Five days after turning 14, Marc&#39;Andria Maurizzi secured the GM title at the GM tournament in Chartres. The news has been dominated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/marcandria-maurizzi-youngest-gm-ever-france",
+         "pubDate" : "Fri, 21 May 2021 04:42:00 -0700",
+         "title" : "Marc'Andria Maurizzi Becomes France's Youngest GM Ever"
       },
       {
          "description" : "The American Qualification tournament for the FIDE World Cup 2021 kicks off tomorrow with 114 players fighting for the 8 spots for the FIDE World Cup 2021. The event is played in a knock-out hybrid format, from the designated USA &#8220;Tournament Hall&#8221; at the St. Louis Chess Club. Top seeded are: GM Mareco Sandro (Argentina), GM Delgado Ramirez []",
@@ -128,14 +176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021",
          "pubDate" : "Thu, 20 May 2021 20:49:00 +0400",
          "title" : "FTX Crypto Cup 2021 - Games and Results"
-      },
-      {
-         "description" : "The American Qualification tournament for the FIDE World Cup 2021 will take place 22 May 30 May. As an American Continental Championship, the event consists of two hybrid format stages: preliminary and knock-out. The preliminary stage took place 7-9 May with participation of 107 players rated under 2500. Top ranked players qualified for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-american-world-cup-qualification-tournament/",
-         "pubDate" : "Thu, 20 May 2021 16:45:00 +0000",
-         "title" : "FIDE American World Cup Qualification Tournament"
       },
       {
          "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at the Karpov Variation of the Caro-Kann, a still reliable but also somewhat risky system. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2008,30 +2048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ian-nepomniachtchi-wins-the-candidates",
          "pubDate" : "Fri, 30 Apr 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Ian Nepomniachtchi wins the Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1057",
-         "pubDate" : "Fri, 30 Apr 2021 14:35:51 +0000",
-         "title" : "Anatoly Karpov International Children's Chess Festival announced"
-      },
-      {
-         "description" : "Since 2009 Irina Bulmaga (pictured) has played in the German \"Bundesliga\", and recently she decided to use the enforced break caused by the pandemic to start learning German. However, passionate chess player that she is, she could not help but wonder whether there is any connection between the written and unwritten rules of the language you grow up with and the way you later study and play chess - and had some fun trying to find an answer to this question. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mother-tongue-and-chess-is-there-a-connection",
-         "pubDate" : "Fri, 30 Apr 2021 15:00:00 +0100",
-         "title" : "Mother tongue and chess - is there a connection?"
-      },
-      {
-         "description" : " While following up a link for the <a href=\"https://icga.org/?page_id=3216\">2021 ICGA Computer Olympiad</a>, I cam across the boardgame playing platform Ludii. It allows you to test intelligent agents for a wide variety of boardgames, and is being used for the 2021 Olympiad. The good news is that even if you aren't a developer you can download the <a href=\"https://ludii.games/\">Ludii software</a> (at no charge) and simply play an amazingly large variety of boardgames yourself. (*Thanks to Milan Ninchich for putting me on to this) <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/04/more-games-than-you-know-how-to-play.html",
-         "pubDate" : "Fri, 30 Apr 2021 13:42:00 +0000",
-         "title" : "More games than you know how to play"
       }
    ]
 }
