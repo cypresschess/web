@@ -90,7 +90,7 @@ news_feed (
          "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
       },
       {
-         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. Here is the list of the approved venues that will host the hybrid event. Photo: Arena di Serdica, a five star hotel with actual ancient []",
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. Here is the list of the approved venues that will host the hybrid event. Photo: Arena di Serdica, a five star hotel with actual ancient []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/venues-of-the-european-hybrid-qualification-tournament/",
@@ -568,6 +568,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chinese-chess-championships-yu-yangyi-tan-zhongyi",
          "pubDate" : "Mon, 17 May 2021 06:55:00 -0700",
          "title" : "Yu Retains Chinese Title But Loses To Ju"
+      },
+      {
+         "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/17/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/17/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/",
+         "pubDate" : "Mon, 17 May 2021 13:38:40 +0000",
+         "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-power-of-the-isolated-pawn",
          "pubDate" : "Sat, 01 May 2021 09:00:00 +0100",
          "title" : "The power of the isolated pawn"
-      },
-      {
-         "description" : " As Magnus Carlsen prepares for a two-day final with his old rival Hikaru Nakamura, Wada's ban on Russia has reached chess Ian Nepomniachtchi's feat in <a href=\"https://www.theguardian.com/sport/2021/apr/26/ian-nepomniachtchi-world-chess-championship-magnus-carlsen-dubai\" title=\"\">qualifying as Magnus Carlsen's official challenger</a> in a €2m, 14-game world title series at Dubai in November was subsequently hit on two fronts. First, having won the Candidates with a round to spare, Nepomniachtchi lost Tuesday's dead rubber in Ekaterinburg. A more significant blow came on Friday, however, when he learned that he is not allowed to play with the Russian flag beside him in Dubai, owing to his ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/apr/30/magnus-carlsen-responds-to-ian-nepomniachtchi-challenge-with-26-game-unbeaten-run-chess",
-         "pubDate" : "Fri, 30 Apr 2021 23:04:25 +0000",
-         "title" : "Ian Nepomniachtchi will not be able to play next to Russia flag against Carlsen"
       }
    ]
 }
