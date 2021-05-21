@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a champion of its Spring league! Join GM Josh Friedel for the move-by-move. Who will win: Edward Jones, World Wide Technology, Enterprise, or Maritz? 2021.05.20<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship-chesscom",
+         "pubDate" : "Fri, 21 May 2021 00:50:57 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Spring Championship | Chess.com"
+      },
+      {
          "description" : "The Azerbaijan Women's Chess Championship 2021 kicks off tomorrow in Nakhchivan. The event will be played in round-robin format with 11 rounds and 12 participants. Top seeded are IM Gulnar Mammadova, WGM Ulviyya Fataliyeva and WGM Zeinab Mamedjarova (4 times National Women's Champion). List of participants: IM Mammadova Gulnar&#160; AZE 2382 WGM Fataliyeva Ulviyya&#160; AZE []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/energetic",
          "pubDate" : "Sat, 15 May 2021 09:00:00 +0100",
          "title" : "Energetic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes one of his most memorable games and losses ever, against Suat Atalik from the 2007 Konig Memorial. 2021.05.12<br /> Josh Friedel vs. Suat Atalik, 2007: C91 Ruy Lopez, closed, Bogolyubov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-crazy-battle-atalik-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-crazy-battle-atalik-grandmasters-choice-gm-josh-friedel",
-         "pubDate" : "Fri, 14 May 2021 21:45:42 +0000",
-         "title" : "My Crazy Battle with Atalik | Grandmaster's Choice - GM Josh Friedel"
       },
       {
          "description" : "Chess and bridge are the only 'mind sports' recognized by the International Olympic Committee. The two highly popularized games also share that cheating has become a growing preoccupation for fans and organizers alike. In a recently released documentary, Israeli filmmaker Daniel Sivan tells the story of a cheating scandal which involved Lotan Fisher, the strongest bridge player in the world. | Pictured: Lotan Fisher and Ron Schwartz",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-sf-1",
          "pubDate" : "Fri, 30 Apr 2021 08:25:00 +0100",
          "title" : "New in Chess Classic: Eventful mini-matches"
-      },
-      {
-         "description" : " From the publisher: &#8220;If you had to choose a single luxury chess item to take to a desert island, then how about this: a superb selection of 400 puzzles to solve? Each author has carefully chosen 100 original positions, graded by difficulty and theme into four sections of 25. The emphasis throughout is on entertainment, <a href=\"http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Desert Island Chess Puzzle Omnibus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/\">Desert Island Chess Puzzle",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/04/30/desert-island-chess-puzzle-omnibus/",
-         "pubDate" : "Fri, 30 Apr 2021 00:10:06 +0000",
-         "title" : "Desert Island Chess Puzzle Omnibus"
       }
    ]
 }
