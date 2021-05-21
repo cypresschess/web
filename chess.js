@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating cryptocurrency, and the careful strategies of the chessboard might seem to have little in common as partners, but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/may/21/chess-magnus-carlsen-and-entire-world-top-10-compete-for-volatile-bitcoin",
+         "pubDate" : "Fri, 21 May 2021 07:00:00 +0000",
+         "title" : "Chess: Magnus Carlsen and entire world top 10 compete for volatile bitcoin"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Round 13 of the Botvinnik vs. Vasily Smyslov 1954 World Championship Match. The match was the first of three that they played. 2021.05.19<br /> Vasily Smyslov vs Mikhail Botvinnik, Botvinnik - Smyslov World Championship Match (1954): B24 Sicilian, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032334\">https://www.chessgames.com/perl/chessgame?gid=1032334</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/botvinnik-smyslov-first-encounter-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 21 May 2021 03:51:00 +0000",
+         "title" : "Botvinnik-Smyslov: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a champion of its Spring league! Join GM Josh Friedel for the move-by-move. Who will win: Edward Jones, World Wide Technology, Enterprise, or Maritz? 2021.05.20<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021/",
          "pubDate" : "Thu, 20 May 2021 20:31:54 +0000",
          "title" : "Azerbaijan Women's Chess Championship 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1090",
+         "pubDate" : "Thu, 20 May 2021 18:21:04 +0000",
+         "title" : "In memory of Max Euwe on the 120th anniversary of his birth"
       },
       {
          "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
@@ -210,6 +234,14 @@ news_feed (
          "title" : "Chess Logical: did you solve it?"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1086",
+         "pubDate" : "Wed, 19 May 2021 13:42:13 +0000",
+         "title" : "Women's World Cup: List of Qualified Players"
+      },
+      {
          "description" : " The Philidor Defence traditionally began with the moves 1.e4 e5 2.Nf3 d6, but times have changed considerably. With this move order it was found that if Black plays 3Nd7 to strongpoint e5, then after 4.Bc4 he finds it difficult to continue his development without making some concession. As an example 4Ngf6 is met by 5.dxe5 <a href=\"https://chessimprover.com/punch-em-with-the-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Punch 'em with the Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/punch-em-with-the-philidor/\">Punch 'em with the Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2021-2022/",
          "pubDate" : "Tue, 18 May 2021 13:50:49 +0000",
          "title" : "Winton British Chess Solving Championship 2021-2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1086",
-         "pubDate" : "Tue, 18 May 2021 13:42:13 +0000",
-         "title" : "Women's World Cup: List of Qualified Players"
       },
       {
          "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1083",
          "pubDate" : "Sat, 15 May 2021 21:03:48 +0000",
          "title" : "Enyonam Sewa Fumey, FIDE's General Secretary, changes position"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Alonso Zapata vs. Viswanathan Anand from Biel in 1988. 2021.04.28<br /> Anthony Miles vs Larry Christiansen, Pan Pacific International (1987): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1089022\">https://www.chessgames.com/perl/chessgame?gid=1089022</a><br /> Alonso Zapata vs Viswanathan Anand, Biel-B (1988): C42 Petrov, Nimzovich attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1018015\">https://www.chessgames.com/perl/chessgame?gid=1018015</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zapata-vs-anand-1988-biel-game-review",
-         "pubDate" : "Sat, 15 May 2021 18:46:20 +0000",
-         "title" : "Zapata vs. Anand, 1988 Biel | Game Review"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/new-in-chess-classic-semifinals-day-1",
          "pubDate" : "Fri, 30 Apr 2021 01:54:00 -0700",
          "title" : "New In Chess Classic: Nakamura Leads vs. Mamedyarov"
-      },
-      {
-         "description" : "Hikaru Nakamura won the first set of his semifinal match against Shakhriyar Mamedyarov, while Magnus Carlsen and Levon Aronian drew their first mini-match. Both Carlsen and Nakamura were undefeated before the semis, and both were beaten for the first time in the New in Chess Classic on Thursday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-sf-1",
-         "pubDate" : "Fri, 30 Apr 2021 08:25:00 +0100",
-         "title" : "New in Chess Classic: Eventful mini-matches"
       }
    ]
 }
