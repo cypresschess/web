@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With only one point out of three games the 14-year old French talent Marc Andria Maurizzi had a bumpy start at the Grandmaster Tournament in Chartres but after five wins in a row he now only needs a draw in the final round to become the youngest French Grandmaster of all time. | Photos: Chartres Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
+         "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
+         "title" : "Chartres: Maurizzi on course for the title"
+      },
+      {
+         "description" : "The American Qualification tournament for the FIDE World Cup 2021 kicks off tomorrow with 114 players fighting for the 8 spots for the FIDE World Cup 2021. The event is played in a knock-out hybrid format, from the designated USA &#8220;Tournament Hall&#8221; at the St. Louis Chess Club. Top seeded are: GM Mareco Sandro (Argentina), GM Delgado Ramirez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-continental-chess-championship-2021-live/",
+         "pubDate" : "Fri, 21 May 2021 10:52:13 +0000",
+         "title" : "American Continental Chess Championship 2021 LIVE"
+      },
+      {
+         "description" : "The chess world is dominated by Continental events in the month of May. Europe, the Americas, Africa, and Asia will get to know their champions. Moreover, these events are qualification for the World Chess Cup 2021, which is part of the World Chess Championship cycle. Chessdom.com will have extensive coverage of the continental events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/continental-chess-the-whats-and-the-wheres/",
+         "pubDate" : "Fri, 21 May 2021 10:29:19 +0000",
+         "title" : "Continental chess - the whats and the wheres"
+      },
+      {
+         "description" : "Practice what you preach: in a theme blitz tournament on playchess.com the well-known and popular ChessBase authors Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft showed why they like and what they know about the openings they present in their courses. If you missed the live transmission of the entertaining event on twitch.tv, here's a summary with highlights from the games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thematic-tournament-with-kasimdzhanov-marin-ris-van-delft-and-king",
+         "pubDate" : "Fri, 21 May 2021 11:05:19 +0100",
+         "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
+      },
+      {
+         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. Here is the list of the approved venues that will host the hybrid event. Photo: Arena di Serdica, a five star hotel with actual ancient []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/venues-of-the-european-hybrid-qualification-tournament/",
+         "pubDate" : "Fri, 21 May 2021 09:56:29 +0000",
+         "title" : "Venues of the European Hybrid Qualification tournament"
+      },
+      {
+         "description" : "The Azerbaijan Women's Chess Championship 2021 takes place from 21-30 May in Nakhchivan. The event is played in round-robin format with 11 rounds and 12 participants. Top seeded are&#160;IM Gulnar Mammadova,&#160;WGM Ulviyya Fataliyeva&#160;and&#160;WGM Zeinab Mamedjarova&#160;(4 times National Women's Champion). Azerbaijan Women's Chess Championship 2021 full information Live games from the Azerbaijan Women's Chess Championship 2021 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021-live/",
+         "pubDate" : "Fri, 21 May 2021 09:51:47 +0000",
+         "title" : "Azerbaijan Women's Chess Championship 2021 LIVE"
+      },
+      {
+         "description" : "The strong finish of the Qualification League has found its logical continuation. League 4 of the Top Chess Engine Championship, with eight engines coming form QL and four seeded, is off to an interesting start. Halogen has given serious fight to the promoted engines and is a sole leader after eight rounds. It collected 6,5/8 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/halogen-with-flying-start-at-tcec-s21-l4/",
+         "pubDate" : "Fri, 21 May 2021 09:23:33 +0000",
+         "title" : "Halogen with flying start at TCEC S21 L4"
+      },
+      {
+         "description" : " This week, were are going to look at a very important part of your opening, the transition into the middle-game. Most beginners assume that as soon their Rooks are connected, signaling the end of the opening phase, it's time to start capturing pawns and pieces. The game's three phases - the opening, middle and endgame <a href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Nineteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\">A Foundation for Beginners Nineteen</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-nineteen/",
+         "pubDate" : "Fri, 21 May 2021 09:17:08 +0000",
+         "title" : "A Foundation for Beginners Nineteen"
+      },
+      {
+         "description" : "The Asian Individual Chess Championship 2021 will take place 21-30 May. 87 players (21 GMs and 21 IMs) will fight for 8 qualification spots for the FIDE World Chess Cup 2021. Asian Continental Chess Championship 2021 will be played in a hybrid format, 9 rounds, swiss system. Read more: Covid stricken India out as Asian Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-individual-chess-championship-2021-live/",
+         "pubDate" : "Fri, 21 May 2021 08:05:00 +0000",
+         "title" : "Asian Individual Chess Championship 2021 LIVE"
+      },
+      {
          "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating cryptocurrency, and the careful strategies of the chessboard might seem to have little in common as partners, but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -74,14 +146,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
       },
       {
-         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. The provisional list of participants for the European Hybrid Qualification Tournament has been published. 264 players (160 GMs) from 35 European []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-information-and-participants/",
-         "pubDate" : "Thu, 20 May 2021 15:01:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 - information and participants"
-      },
-      {
          "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,28 +178,12 @@ news_feed (
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
       },
       {
-         "description" : "The&#160;Azerbaijan Chess Championship 2021&#160;took place on May 4-14 in Nakhchivan. In a strong 12 players field, GM Vasif Durarbayli became National Champion for the first time in his chess career and also earned qualification for the World Chess Cup 2021. 4 top placed players from the round-robin part of the Azerbaijan Championship qualified for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/durarbayli-vasif-wins-azerbaijan-chess-championship-2021/",
-         "pubDate" : "Thu, 20 May 2021 07:36:00 +0000",
-         "title" : "Vasif Durarbayli wins Azerbaijan Chess Championship 2021"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Thu, 20 May 2021 00:50:06 +0000",
          "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Live games from the open and women section The stakes at the African Individual Chess Championship are high as the 4 top placed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Thu, 20 May 2021 00:09:00 +0000",
-         "title" : "African Individual Chess Championship 2021"
       },
       {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
@@ -160,22 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1089",
          "pubDate" : "Wed, 19 May 2021 20:24:22 +0000",
          "title" : "Attention FIDE World Cup participants"
-      },
-      {
-         "description" : "FIDE Women's World Cup 2021 will take place 10 July 4 August 2021 in Sochi, Russia, simultaneously with the FIDE Open World Chess Cup. The 2021 FIDE Women's World Cup will be played in 7 rounds, knock-out system, with 103 players and a prize pool of 676,000 dollars. Most of the participants are already known []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-cup-2021-information-and-participants/",
-         "pubDate" : "Wed, 19 May 2021 20:04:43 +0000",
-         "title" : "FIDE Women's World Cup 2021 - information and participants"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2021 will take place 26 August 5 September in Reykjavik, Iceland. The event will be held in a historic venue at Hotel Natura. Hotel Natura has a rich history of chess events, hosting several previous editions of the Reykjavik Open. The hotel accommodated Bobby Fischer during the 1972 World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-championship-2021",
-         "pubDate" : "Wed, 19 May 2021 18:42:00 +0000",
-         "title" : "European Individual Chess Championship 2021"
       },
       {
          "description" : "With just over six months until the World Championship between Magnus Carlsen and Ian Nepomniachtchi starts in Dubai, the reigning champion says he is '100 % motivated' and has mentally started to prepare for the long-awaited match. The 30-year old also hints he has started the hunt for a new team of seconds that will help him prepare.",
@@ -210,28 +242,12 @@ news_feed (
          "title" : "Game of the Week: Wei Ji vs Zhao Yun"
       },
       {
-         "description" : "BBC World Service ran a video segment presenting the life of chess streamers and the recent explosion of interest in chess video broadcasts. BBC correctly taps into the shifting fortunes nowadays young WGM/WIM/FM players are the avant-garde of chess. The reason: &#8220;Queen's Gambit&#8221; by Netflix. See also: The Queens Gambit - with WIM Lara []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bbc-world-service-queens-gambit-essential-to-online-chess-streams-boom/",
-         "pubDate" : "Wed, 19 May 2021 15:21:47 +0000",
-         "title" : "BBC World Service, \"Queen's Gambit essential to online chess streamers boom\" #TweetOftheDay"
-      },
-      {
          "description" : "Entry forms are now available for the 2021 Northumbria Masters (August 26th-30th 2021) which is going ahead over-the-board at a brand new Covid-secure venue, Marriott...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/northumbria-masters-entry-forms-now-available/",
          "pubDate" : "Wed, 19 May 2021 15:00:46 +0000",
          "title" : "Northumbria Masters entry forms now available!"
-      },
-      {
-         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - kind of.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
-         "pubDate" : "Wed, 19 May 2021 15:00:00 +0100",
-         "title" : "Chess Logical: did you solve it?"
       },
       {
          "description" : "",
@@ -1682,14 +1698,6 @@ news_feed (
          "title" : "Reflecting on the 2020-21 Candidates - Part 1"
       },
       {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week I would like to share with you the preliminary results of some home analysis done together with one of my students. If you are <a href=\"https://chessimprover.com/students-analysis-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-5/\">Students Analysis (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-5/",
-         "pubDate" : "Tue, 04 May 2021 09:00:27 +0000",
-         "title" : "Students Analysis (5)"
-      },
-      {
          "description" : "The diagram position looks pretty bad for Black. He has a passed pawn that is close to queening and he is to move but White has the nasty threat of 55.Rd8+ that is hard to parry. But Black's knight can do some magic and save the game. What should Black do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,22 +2032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/04/more-games-than-you-know-how-to-play.html",
          "pubDate" : "Fri, 30 Apr 2021 13:42:00 +0000",
          "title" : "More games than you know how to play"
-      },
-      {
-         "description" : "ChessBase Magazine is the most comprehensive and most sophisticated chess magazine there is. World-class players analyse their brilliancies and explain the ideas behind the moves to you, opening specialists present the latest trends in opening theory and offer exciting ideas for your repertoire. Master trainers in the fields of tactics, strategy, and the endgame show you the tricks and techniques a successful tournament player needs! DVD with several hours of video + booklet. Also available for download including the booklet in pdf!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazin-201",
-         "pubDate" : "Fri, 30 Apr 2021 12:00:00 +0100",
-         "title" : "New: ChessBase Magazine 201"
-      },
-      {
-         "description" : "GM Hikaru Nakamura took the first step toward the final of the New in Chess Classic. The American GM defeated GM Shakhriyar Mamedyarov 3-1 and now needs just two game points on Friday to qualify. GM Levon Aronian or GM Magnus Carlsen started wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-semifinals-day-1",
-         "pubDate" : "Fri, 30 Apr 2021 01:54:00 -0700",
-         "title" : "New In Chess Classic: Nakamura Leads vs. Mamedyarov"
       }
    ]
 }
