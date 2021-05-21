@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Power Play Show, GM Daniel King looks back to the Russian Team Championships in Sochi and presents interesting miniatures, games in which one side quickly collapsed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-miniatures-from-the-russian-team-championships",
+         "pubDate" : "Fri, 21 May 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Miniatures from the Russian Team Championships"
+      },
+      {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. After not having a show last Friday, This week we talk about the Fritztrainer tournament with Kasimdzhanov, King & Co, the young talent Adewumi, how \"funding\" plays a role in developing child prodigies, and our thoughts about \"no castling\" chess, which will take place in Dortmund soon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "The ChessBase News Review (07.05. - 21.05)"
       },
       {
-         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - kind of.",
+         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - both of them.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Asian Individual Chess Championship 2021 LIVE"
       },
       {
-         "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating cryptocurrency, and the careful strategies of the chessboard might seem to have little in common as partners, but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
+         "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating crypto-currency, and the careful strategies of the chessboard might seem to have little in common as partners but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/may/21/chess-magnus-carlsen-and-entire-world-top-10-compete-for-volatile-bitcoin",
@@ -450,12 +458,12 @@ news_feed (
          "title" : "Winton British Chess Solving Championship 2021-2022"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
          "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
-         "title" : "How To Analyse Your Own Game: Part 1"
+         "title" : "How To Analyse Your Own Chess Game: Part 1"
       },
       {
          "description" : "The SCCU invites all Under 18 and Under 14 teams from counties, schools and clubs in England to join our Junior Jamboree on Saturday 5th...",
@@ -1114,12 +1122,12 @@ news_feed (
          "title" : "FIDE Trainer Awards 2020-2021"
       },
       {
-         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
          "pubDate" : "Tue, 11 May 2021 11:32:06 +0000",
-         "title" : "How To Set Goals And Achieve Them"
+         "title" : "How To Set Chess Goals And Achieve Them"
       },
       {
          "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World Last year we lost a vote chess game by misjudging the position. We all have such games where for some reason we get stuck believing we are <a href=\"https://chessimprover.com/self-inflicted-wounds-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-2/\">Self Inflicted Wounds (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2016,38 +2024,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/apr/30/magnus-carlsen-responds-to-ian-nepomniachtchi-challenge-with-26-game-unbeaten-run-chess",
          "pubDate" : "Fri, 30 Apr 2021 23:04:25 +0000",
          "title" : "Ian Nepomniachtchi will not be able to play next to Russia flag against Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1058",
-         "pubDate" : "Fri, 30 Apr 2021 18:52:27 +0000",
-         "title" : "​​​​​​​\"Chess for Freedom\" online conference announced"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchchi cannot play under the Russian flag during his world championship match with GM Magnus Carlsen in November-December in Dubai. The reason is Russia&#39;s ban from international sporting competitions by the World Anti-Doping Agenc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-russian-flag-wada-ban",
-         "pubDate" : "Fri, 30 Apr 2021 11:09:00 -0700",
-         "title" : "Nepomniachtchi Can't Play Carlsen Under Russian Flag"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the candidates tournament outcome, the new in chess classic tournament, and how the world would have changed, if Fischer had lost against Spassky in 1972.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-5",
-         "pubDate" : "Fri, 30 Apr 2021 17:17:14 +0100",
-         "title" : "The ChessBase News Review (23.04. - 30.4.)"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King looks back to the Candidates and tries to find out how and why Ian Nepomniachtchi won the tournament and became World Championship challenger. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ian-nepomniachtchi-wins-the-candidates",
-         "pubDate" : "Fri, 30 Apr 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Ian Nepomniachtchi wins the Candidates"
       }
    ]
 }
