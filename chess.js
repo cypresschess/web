@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1091",
+         "pubDate" : "Sat, 22 May 2021 11:08:10 +0000",
+         "title" : "FIDE Women's Grand Prix Gibraltar: Opening Ceremony"
+      },
+      {
+         "description" : "Over-the-board chess is slowly returning and now, finally, that is also the case for top female players. On Saturday, the fourth and final leg of the FIDE Women&#39;s Grand Prix starts in Gibraltar. How to watch? You can find, play through, and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-women-grand-prix-gibraltar-opening",
+         "pubDate" : "Sat, 22 May 2021 03:57:36 -0700",
+         "title" : "Women's World Championship Cycle Resumes In Gibraltar"
+      },
+      {
+         "description" : "It hasn't been easy working under pandemic stress. Now that things are getting better we need to get ready to re-enter the chess arena. \"The only real training tool I found,\" writes Davide Nastasio, \"which was comprehensive, and covered all the phases of the game is ChessBase Magazine, now in its 200th edition. Davide shares some of the positions and games he found especially interesting.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-2",
+         "pubDate" : "Sat, 22 May 2021 11:17:28 +0100",
+         "title" : "ChessBase Magazine 200"
+      },
+      {
+         "description" : "Marc'Andria Maurizzi has become a grandmaster at the age of 14 years and 5 days, beating Etienne Bacrot's record as the youngest ever French Grandmaster that was set 24 years ago in 1997. The Corsican's 3rd and final GM norm at the 2nd Chartres GM tournament took him ahead of Teimour Radjabov to become the 13th youngest grandmaster in history. Sergey Karjakin holds the all-time record at 12 years and 7 months, though US prodigy Abhimanyu Mishra is pushing to break that record this year.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/marc-andria-maurizzi-is-youngest-ever-french-gm",
+         "pubDate" : "Sat, 22 May 2021 09:15:05 +0000",
+         "title" : "Marc'Andria Maurizzi is youngest ever French GM"
+      },
+      {
+         "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Then there was the Spassky vs Fischer clash from 1972, which reflected the extreme tensions of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/freudian-feud-tarrasch-versus-nimzowitsch/",
+         "pubDate" : "Sat, 22 May 2021 08:28:52 +0000",
+         "title" : "Freudian feud: Tarrasch versus Nimzowitsch"
+      },
+      {
          "description" : "The diagram shows a position from the game L. Dominguez vs M. Carlsen, Opera Euro 2021. Black's last move 27...Kh6? gave White the chance to hunt the bold king down and to win against the World Champion. But as this was a rapid game and White did not have much time left on the clock, he failed to find the win. Can you do better, without a ticking clock and all the time in the world?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://www.chessdom.com/agadmator-magnus-to-remain-champion-in-2021/",
          "pubDate" : "Sat, 22 May 2021 05:26:59 +0000",
          "title" : "Agadmator: \"Magnus to remain champion in 2021?\""
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 (variable, depending on the bitcoin current price) FTX Crypto Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
-         "pubDate" : "Sat, 22 May 2021 01:55:00 +0000",
-         "title" : "FTX Crypto Cup LIVE"
       },
       {
          "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
@@ -319,7 +351,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-wei-ji-vs-zhao-yun",
          "pubDate" : "Wed, 19 May 2021 18:00:00 +0100",
-         "title" : "Game of the Week: Wei Ji vs Zhao Yun"
+         "title" : "Game of the Week: Wei Ji vs Zhao Jun"
       },
       {
          "description" : "Entry forms are now available for the 2021 Northumbria Masters (August 26th-30th 2021) which is going ahead over-the-board at a brand new Covid-secure venue, Marriott...",
@@ -490,7 +522,7 @@ news_feed (
          "title" : "Winton British Chess Solving Championship 2021-2022"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Ches",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
@@ -1154,7 +1186,7 @@ news_feed (
          "title" : "FIDE Trainer Awards 2020-2021"
       },
       {
-         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeare",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
@@ -1298,20 +1330,12 @@ news_feed (
          "title" : "Learning from Sultan Khan"
       },
       {
-         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
          "pubDate" : "Sun, 09 May 2021 18:30:56 +0000",
          "title" : "Why You Should Never Offer A Draw"
-      },
-      {
-         "description" : "Great minds clash in the two most competitive intellectual sports: chess and poker! Every evening from Monday, May 10 to Saturday, May 15, two great players will face each other in a match mixing chess and poker. The week begins with an exciting match between 8-time Russian Chess Champion Peter Svidler and 3-time World Blitz Champion Alexander Grischuk! Simon Williams and Lawrence Trent will provide commentary. In parallel to this series of matches with commentary in English, another series of matches with commentary in French will be held. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/battle-of-the-minds-one-week-of-chess-poker-matches",
-         "pubDate" : "Sun, 09 May 2021 17:43:01 +0000",
-         "title" : "Battle of the Minds: one week of chess + poker matches!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 26th instalment of his ChessBase show \"Understanding before Moving\", Herman shows examples of a good cooperation between queen and bishop. | Photo: Tommy Grooten",
@@ -1610,7 +1634,7 @@ news_feed (
          "title" : "Hj&ouml;rvar Steinn Gr&eacute;tarsson wins Icelandic Championship"
       },
       {
-         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/recover-from-setbacks/?utm_source=rss&utm_medium=rss&utm_campaign=recover-from-setbacks",
@@ -2008,46 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1060",
          "pubDate" : "Sat, 01 May 2021 12:36:23 +0000",
          "title" : "Icelandic Championship: Gretarsson wins his first national title"
-      },
-      {
-         "description" : " Last week I asked a young compatriot what goals he set for his carreer. A 17 year old FM told me &#8220;the IM title would be nice, maybe 2450&#8221;. Then he said with a scared expression &#8220;maybe also the GM title, but I don't know if this is realistic&#8221;. This <a href=\"https://nextlevelchess.blog/believe-in-yourself/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/believe-in-yourself/\">Believe In Yourself</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/believe-in-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=believe-in-yourself",
-         "pubDate" : "Sat, 01 May 2021 10:51:49 +0000",
-         "title" : "Believe In Yourself"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1059",
-         "pubDate" : "Sat, 01 May 2021 10:40:10 +0000",
-         "title" : "Dream final as Nakamura and Carlsen win semis"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0887814F-3746-497B-9CF7-348B9AEE1242.jpeg\" width=\"1636\" height=\"1094\" alt=\"\" /> <div class=\"e2-text-caption\">Sergey Karjakin is playing against the cosmonauts</div> </div> On June 9 of 2020, the second ever chess match between Space and Earth took place in the main hall of the Moscow Museum of Cosmonautics. The event has been co-organized by the Moscow Museum of Cosmonautics, Roscosmos, the Russian State Corporation, the Chess Federation of Russia, and the social network VKontakte. The game took place online on <a href=\"https://new.arena.myfide.net\">FIDE Online Arena</a>. The match featured pilot-cosmonaut Anatoly ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/looking-back-at-the-recent-space-chess-game/",
-         "pubDate" : "Sat, 01 May 2021 10:15:43 +0000",
-         "title" : "Looking Back at the Recent Space Chess Game"
-      },
-      {
-         "description" : "The celebrated chess Grandmaster and author, Jacques Mieses, on arriving in England during the 1930s as a Jewish refugee from Nazi Germany, was allegedly greeted by reporters with the question: \"Are you Mister Mises?\" To which he shot back: \"Nein, ich bin Meister Meeses!\" Mieses had sensibly fled from a regime which had just cancelled his name []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-armageddon-of-cancel-culture/",
-         "pubDate" : "Sat, 01 May 2021 08:00:19 +0000",
-         "title" : "The Armageddon of cancel culture"
-      },
-      {
-         "description" : "In the diagram position, which is from a game between Adelya Salakhova and Valentina Gunina, White seems to be doing more or less okay. However, it took Gunina, who has a keen eye for tactics, only a few moves to reveal the hidden weakness of White's position - power play in perfection! What did Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-power-of-the-isolated-pawn",
-         "pubDate" : "Sat, 01 May 2021 09:00:00 +0100",
-         "title" : "The power of the isolated pawn"
       }
    ]
 }
