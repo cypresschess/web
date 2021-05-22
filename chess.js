@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1092",
+         "pubDate" : "Sat, 22 May 2021 21:29:46 +0000",
+         "title" : "Round 1: Opening Salvoes"
+      },
+      {
          "description" : "The youngest players in the field of the FIDE Women's Grand Prix shared in an interview for FIDE's official Youtube channel about her multiple difficulties coming to Gibraltar. Gunay Mammadzada also shared her view on the game with Antoaneta Stefanova and her opinion about &#8220;Queen's Gambit&#8221;. See also: BBC World Service, \"Queen's Gambit essential to online []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/05/01/kasparovchess-com-is-back/",
          "pubDate" : "Sun, 02 May 2021 03:26:58 +0000",
          "title" : "KasparovChess.com is back!"
-      },
-      {
-         "description" : "Palo Alto, Calif., May 1, 2021&#38;mdash;Chess.com is excited to announce Arena Kings Season 7 starting on May 12 with more than $40,000 in prizes. The season will run weekly on Wednesdays from May 12 through August 4&#38;nbsp;and feature a total prize ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-7",
-         "pubDate" : "Sat, 01 May 2021 16:14:00 -0700",
-         "title" : "Arena Kings Season 7 Starts May 12 With $40,000 In Prizes"
       }
    ]
 }
