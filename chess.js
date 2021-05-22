@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The youngest players in the field of the FIDE Women's Grand Prix shared in an interview for FIDE's official Youtube channel about her multiple difficulties coming to Gibraltar. Gunay Mammadzada also shared her view on the game with Antoaneta Stefanova and her opinion about &#8220;Queen's Gambit&#8221;. See also: BBC World Service, \"Queen's Gambit essential to online []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-i-had-so-many-difficulties-coming-to-gibraltar/",
+         "pubDate" : "Sat, 22 May 2021 17:39:42 +0000",
+         "title" : "Gunay Mammadzada, \"I had so many difficulties coming to Gibraltar\""
+      },
+      {
+         "description" : "After their draw in R1 of FIDE Women Grand Prix, Mariya and Anna Muzychuk discuss their experience with lockdown, the advantages of over the board chess, and the movie Queen's Gambit. See also: BBC World Service, \"Queen's Gambit essential to online chess streamers boom\" &#160;The Queens Gambit - with WIM Lara Janzelj and WIM Teja []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mariya-and-anna-muzychuk-queens-gambit-will-bring-more-players-in-chess-especially-girls/",
+         "pubDate" : "Sat, 22 May 2021 17:23:57 +0000",
+         "title" : "Mariya and Anna Muzychuk, \"Queen's Gambit will bring more players in chess, especially girls\""
+      },
+      {
          "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/gibraltar-hosts-final-women-s-fide-grand-prix",
          "pubDate" : "Sat, 22 May 2021 13:33:08 +0000",
          "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
+      },
+      {
+         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/game-analysis2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis2",
+         "pubDate" : "Sat, 22 May 2021 12:46:00 +0000",
+         "title" : "How To Analyse Your Own Games: Part 2"
       },
       {
          "description" : "",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-nineteen/",
          "pubDate" : "Fri, 21 May 2021 09:17:08 +0000",
          "title" : "A Foundation for Beginners Nineteen"
-      },
-      {
-         "description" : "The Asian Individual Chess Championship 2021 will take place 21-30 May. 87 players (21 GMs and 21 IMs) will fight for 8 qualification spots for the&#160;FIDE World Chess Cup 2021. Asian Continental Chess Championship 2021 will be played in a hybrid format, 9 rounds, swiss system. Read more: Asian Chess Championship is set to begin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-individual-chess-championship-2021-live/",
-         "pubDate" : "Fri, 21 May 2021 08:05:00 +0000",
-         "title" : "Asian Individual Chess Championship 2021 LIVE"
       },
       {
          "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating crypto-currency, and the careful strategies of the chessboard might seem to have little in common as partners but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
@@ -538,7 +554,7 @@ news_feed (
          "title" : "Winton British Chess Solving Championship 2021-2022"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Ches",
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
@@ -1202,7 +1218,7 @@ news_feed (
          "title" : "FIDE Trainer Awards 2020-2021"
       },
       {
-         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeare",
+         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
@@ -1338,7 +1354,7 @@ news_feed (
          "title" : "Learning from Sultan Khan"
       },
       {
-         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appea",
+         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
@@ -1642,7 +1658,7 @@ news_feed (
          "title" : "Hj&ouml;rvar Steinn Gr&eacute;tarsson wins Icelandic Championship"
       },
       {
-         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy",
+         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/recover-from-setbacks/?utm_source=rss&utm_medium=rss&utm_campaign=recover-from-setbacks",
@@ -1984,38 +2000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arena-kings-season-7",
          "pubDate" : "Sat, 01 May 2021 16:14:00 -0700",
          "title" : "Arena Kings Season 7 Starts May 12 With $40,000 In Prizes"
-      },
-      {
-         "description" : "Magnus Carlsen and Hikaru Nakamura will play the final of the New In Chess Classic online tournament. Carlsen safely won his second semifinal mini-match against Levon Aronian 3-1 on Friday after the first set had ended 2-2 the day before. The match between Nakamura and Shakriyar Mamedyarov was more exciting. Mamedyarov initially levelled the score with a convincing 3-0 victory in the second set. The Azerbaijani, however, went on to lose the tiebreaker in Armageddon. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-sf-2",
-         "pubDate" : "Sat, 01 May 2021 18:15:00 +0100",
-         "title" : "New in Chess Classic: Carlsen and Nakamura in the finals"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-nepomniachtchi-to-play-carlsen-as-neutral-player/articleshow/82346577.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82346577.cms\" /></a>Russian Grandmaster Ian Nepomniachtchi, who won the Candidates with a round to go earlier this week, won't be allowed to participate under his country's flag at the world championship clash against Magnus Carlsen scheduled to be held in Dubai later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-nepomniachtchi-to-play-carlsen-as-neutral-player/articleshow/82346577.cms",
-         "pubDate" : "Sat, 01 May 2021 22:35:52 +0530",
-         "title" : "World Championship: Nepomniachtchi to play Carlsen as neutral player"
-      },
-      {
-         "description" : " On their way to the final, Magnus Carlsen defeated Teimour Radjabov in the quarters and Levon Aronian in the semis, while Hikaru Nakamura won his matches against Le Quang Liem and Shakhriyar Mamedyarov, respectively. The Carlsen-Radjabov match was odd in that there was only one decisive game in the entire match, but that was all that was needed. They drew all four games the first day, thus splitting the first mini-match 2-2, and Carlsen won game three on the second day and won the second mini-match, and thus the overall match, 2.5-1.5. In the semis against Aronian, he also split the first day, but with some blood--Carlsen won game 3 and Aronian game 4, in both cases with the white pieces. T",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/1/new-in-chess-classic-2021-the-carlsen-nakamura-final-is-abou.html",
-         "pubDate" : "Sat, 01 May 2021 16:58:11 +0000",
-         "title" : "New In Chess Classic 2021: The Carlsen-Nakamura Final Is About To Begin"
-      },
-      {
-         "description" : " Back in 2016, Sergey Karjakin, the Russian grandmaster, won the Candidates Tournament and earned the right to challenge Magnus Carlsen. Karjakin lost the match on tie-breaks but became one of the most recognized players in the sport. We made a film about the Candidates Tournament - you can watch it now to look at what it was like. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/nMbtMku_1Ww?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/a-look-back-at-how-another-russian-became-the-challenger-a-film/",
-         "pubDate" : "Sat, 01 May 2021 16:00:07 +0000",
-         "title" : "A Look Back at How Another Russian Became The Challenger (a Film)"
       }
    ]
 }
