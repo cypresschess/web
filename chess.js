@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a position from the game L. Dominguez vs M. Carlsen, Opera Euro 2021. Black's last move 27...Kh6? gave White the chance to hunt the bold king down and to win against the World Champion. But as this was a rapid game and White did not have much time left on the clock, he failed to find the win. Can you do better, without a ticking clock and all the time in the world?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/energetic-2",
+         "pubDate" : "Sat, 22 May 2021 09:00:00 +0100",
+         "title" : "Carlsen's kamikaze king"
+      },
+      {
+         "description" : "The famous youtuber Agadmator is publishing a series of previews on the upcoming World Chess Championship 2021. After two episodes on the challenger Ian Nepomniachtchi, Agadmator looks into the champion in a video titled &#8220;Magnus to remain champion in 2021?&#8221; More on Nepo Carlsen by Agadmator Agadmator on Nepo Carlsen 2021 Agadmator on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/agadmator-magnus-to-remain-champion-in-2021/",
+         "pubDate" : "Sat, 22 May 2021 05:26:59 +0000",
+         "title" : "Agadmator: \"Magnus to remain champion in 2021?\""
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start this week. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 (variable, depending on the bitcoin current price) FTX Crypto Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
+         "pubDate" : "Sat, 22 May 2021 01:55:00 +0000",
+         "title" : "FTX Crypto Cup LIVE"
+      },
+      {
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
+         "pubDate" : "Sat, 22 May 2021 01:51:00 +0000",
+         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Fabiano Caruana vs. Anish Giri from the World Championship Candidates Tournament in 2021. 2021.04.28<br /> Fabiano Caruana vs Anish Giri, World Championship Candidates (2020/21): B40 Sicilian, Anderssen variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2042198\">https://www.chessgames.com/perl/chessgame?gid=2042198</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-giri-2021-candidates-game-review",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -138,7 +170,7 @@ news_feed (
          "title" : "A Foundation for Beginners Nineteen"
       },
       {
-         "description" : "The Asian Individual Chess Championship 2021 will take place 21-30 May. 87 players (21 GMs and 21 IMs) will fight for 8 qualification spots for the FIDE World Chess Cup 2021. Asian Continental Chess Championship 2021 will be played in a hybrid format, 9 rounds, swiss system. Read more: Covid stricken India out as Asian Chess []",
+         "description" : "The Asian Individual Chess Championship 2021 will take place 21-30 May. 87 players (21 GMs and 21 IMs) will fight for 8 qualification spots for the&#160;FIDE World Chess Cup 2021. Asian Continental Chess Championship 2021 will be played in a hybrid format, 9 rounds, swiss system. Read more: Asian Chess Championship is set to begin []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/asian-individual-chess-championship-2021-live/",
@@ -170,28 +202,12 @@ news_feed (
          "title" : "2021 Saint Louis Corporate Chess League: Virtual Spring Championship | Chess.com"
       },
       {
-         "description" : "The Azerbaijan Women's Chess Championship 2021 kicks off tomorrow in Nakhchivan. The event will be played in round-robin format with 11 rounds and 12 participants. Top seeded are IM Gulnar Mammadova, WGM Ulviyya Fataliyeva and WGM Zeinab Mamedjarova (4 times National Women's Champion). List of participants: IM Mammadova Gulnar&#160; AZE 2382 WGM Fataliyeva Ulviyya&#160; AZE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021/",
-         "pubDate" : "Thu, 20 May 2021 20:31:54 +0000",
-         "title" : "Azerbaijan Women's Chess Championship 2021"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1090",
          "pubDate" : "Thu, 20 May 2021 18:21:04 +0000",
          "title" : "In memory of Max Euwe on the 120th anniversary of his birth"
-      },
-      {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
-         "pubDate" : "Thu, 20 May 2021 16:51:00 +0000",
-         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
       },
       {
          "description" : " The FTX Crypto Cup is part of the online Champions Chess Tour and takes place 23rd to 31st May 2021. This is the last Major - that is an event where the winner qualifies directly for the tour final in late September - although there are 3 more standard events and the leading players in the tour standings will qualify for the finals too. The top 10 players in the world all compete making this the strongest event on the tour so far. 16 players in the preliminaries will play a round robin to produce 8 qualifiers for the second knockout stage. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Liren Ding, Hikaru Nakamura, Alexander Grischuk, Ian Nepomniachtchi, Levon Aronian, Fabiano Caruana, Dan",
