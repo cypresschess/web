@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Sat, 22 May 2021 14:55:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "The FIDE Women's Grand Prix was supposed to end in Sardinia in May 2020, but then the pandemic intervened. It was rescheduled for Gibraltar, then postponed from January, but it finally begins Saturday May 22nd, with the players competing for two places in this year's Women's Candidates Tournament. Aleksandra Goryachkina is uncatchable in first place, but already has a spot in the Candidates. The leaders in the race are Humpy Koneru and Alexandra Kosteniuk, but neither plays, so that most of the field in Gibraltar is in with a chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gibraltar-hosts-final-women-s-fide-grand-prix",
+         "pubDate" : "Sat, 22 May 2021 13:33:08 +0000",
+         "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-women-grand-prix-gibraltar-opening",
-         "pubDate" : "Sat, 22 May 2021 03:57:36 -0700",
+         "pubDate" : "Sat, 22 May 2021 03:57:00 -0700",
          "title" : "Women's World Championship Cycle Resumes In Gibraltar"
       },
       {
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Marc'Andria Maurizzi Becomes France's Youngest GM Ever"
       },
       {
-         "description" : "The American Qualification tournament for the FIDE World Cup 2021 kicks off tomorrow with 114 players fighting for the 8 spots for the FIDE World Cup 2021. The event is played in a knock-out hybrid format, from the designated USA &#8220;Tournament Hall&#8221; at the St. Louis Chess Club. Top seeded are: GM Mareco Sandro (Argentina), GM Delgado Ramirez []",
+         "description" : "The American Qualification tournament for the FIDE World Cup 2021&#160;kicks off tomorrow with 114 players fighting for the 8 spots for the FIDE World Cup 2021. The event is played in a knock-out hybrid format, from the designated USA &#8220;Tournament Hall&#8221; at the St. Louis Chess Club. Top seeded are:&#160;GM Mareco Sandro (Argentina),&#160;GM Delgado Ramirez []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/american-continental-chess-championship-2021-live/",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "Winners decided with a round to spare at the Russian Team Championships"
       },
       {
-         "description" : "\"I'm just so happy, because I've been waiting for almost a year to get this chance!\" said Adhiban after beating Aravindh to reach the final of the Indian Qualifier and book a place in the June event of the Meltwater Champions Chess Tour. He'll be joined on the Tour and in the final by 17-year-old Arjun Erigaisi, who bounced back from losing his first game to beat Gukesh in the remaining three games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/adhiban-erigaisi-reach-the-champions-chess-tour",
-         "pubDate" : "Sun, 09 May 2021 21:12:56 +0000",
-         "title" : "Adhiban & Erigaisi reach the Champions Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,30 +2016,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/a-look-back-at-how-another-russian-became-the-challenger-a-film/",
          "pubDate" : "Sat, 01 May 2021 16:00:07 +0000",
          "title" : "A Look Back at How Another Russian Became The Challenger (a Film)"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#38;nbsp;and GM Hikaru Nakamura have qualified for the finals of the New in Chess Classic. Carlsen beat GM Levon Aronian in their third and fourth games while GM Hikaru lost three games to GM Shakhriyar Mamedyarov&#38;nbsp;but clinched t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-nakamura-carlsen-in-finals",
-         "pubDate" : "Sat, 01 May 2021 06:29:01 -0700",
-         "title" : "New In Chess Classic: Nakamura, Carlsen In Finals"
-      },
-      {
-         "description" : "In the last episode about the Candidates Tournament 202X, Eric van Reem (pictured), host of the \"Let's talk about chess\" podcast, talks (again) to GM Jon Tisdall. They discuss the Candidates Tournament 202X, the winner with the unspeakable name, the right format to qualify, wildcards, the retirement of GM Wang Hao, GM Peter Leko being the decisive factor in the Candidates and the upcoming World Championship in Dubai. And yes, they managed to pronounce the name of the winner, GM Yan Nepomniachtchi! Enjoy!| Photo: Eric van Reem",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-talk-about-the-candidates-with-eric-van-reem-and-jonathan-tisdall",
-         "pubDate" : "Sat, 01 May 2021 14:00:00 +0100",
-         "title" : "Let's talk about the Candidates... with Eric van Reem and Jonathan Tisdall"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1060",
-         "pubDate" : "Sat, 01 May 2021 12:36:23 +0000",
-         "title" : "Icelandic Championship: Gretarsson wins his first national title"
       }
    ]
 }
