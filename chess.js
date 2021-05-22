@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Fabiano Caruana vs. Anish Giri from the World Championship Candidates Tournament in 2021. 2021.04.28<br /> Fabiano Caruana vs Anish Giri, World Championship Candidates (2020/21): B40 Sicilian, Anderssen variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2042198\">https://www.chessgames.com/perl/chessgame?gid=2042198</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-giri-2021-candidates-game-review",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-vs-giri-2021-candidates-game-review",
+         "pubDate" : "Sat, 22 May 2021 00:51:45 +0000",
+         "title" : "Caruana vs. Giri, 2021 Candidates | Game Review"
+      },
+      {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;The Budapest Gambit (1 d4 Nf6 2 c4 e5) is an aggressive, dynamic approach for meeting 1 d4 and is a great line for throwing opponents onto their own resources. It is certainly double-edged as Black moves the same piece twice early on and also <a href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Budapest Gambit</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\">Play the Budapest Gambit</a> appeared first on <a rel=\"nofollow\" href=\"http://brit",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/",
+         "pubDate" : "Sat, 22 May 2021 00:10:31 +0000",
+         "title" : "Play the Budapest Gambit"
+      },
+      {
          "description" : "In this Power Play Show, GM Daniel King looks back to the Russian Team Championships in Sochi and presents interesting miniatures, games in which one side quickly collapsed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,14 +672,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/whats-new-in-fide-online-arena/",
          "pubDate" : "Mon, 17 May 2021 06:25:14 +0000",
          "title" : "What's New in FIDE Online Arena?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes Alexander Grischuk&#039;s win over Maxime Vachier-Lagrave in the latter half of the 2020/21 Candidates Tournament. This complicated game is one of Friedel&#039;s favorite from the event. 2021.05.13<br /> Alexander Grischuk vs Maxime Vachier-Lagrave, World Championship Candidates (2020/21): B23 Sicilian, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2041860\">https://www.chessgames.com/perl/chessgame?gid=2041860</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grischuk-vs-mvl-2021-candidates-games-week-gm-josh-friedel",
-         "pubDate" : "Mon, 17 May 2021 03:48:05 +0000",
-         "title" : "Grischuk vs. MVL, 2021 Candidates | Games of the Week - GM Josh Friedel"
       },
       {
          "description" : "Anish Giri has won the Mr Dodgy Invitational for the 2nd year in a row after defeating Baadur Jobava 7:3 in the final. What Baadur described as \"a cool match\" was much closer than the scoreline suggests, with the players exchanging blows for the first five games. The Georgian no. 1 found some incredible moves, but it's Anish who continues to own the same photo of a man on a horse. Where can he go from here? Well, Baadur suggested \"dance chess\" as the new chess boxing.",
