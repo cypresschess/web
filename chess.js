@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Ian Nepomniachtchi vs. Kirill Alekseenko from the World Championship Candidates in 2021. 2021.04.28<br /> Ian Nepomniachtchi vs Kirill Alekseenko, World Championship Candidates (2020/21): A13 English, Neo-Catalan accepted<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2041080\">https://www.chessgames.com/perl/chessgame?gid=2041080</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-vs-alekseenko-2021-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-vs-alekseenko-2021-candidates-game-review",
+         "pubDate" : "Sun, 23 May 2021 00:52:41 +0000",
+         "title" : "Nepomniachtchi vs. Alekseenko, 2021 Candidates | Game Review"
+      },
+      {
+         "description" : "Only 12 engines in League 4, but an epic, a tragedy and a drama are developing at the Top Chess Engine Championship. Happening at the same time we have a race for the first place, a race for the last qualifying position, and a race to avoid relegation. Virtus tentamine gaudet Two engines at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-failed-triumvirate-report/",
+         "pubDate" : "Sat, 22 May 2021 23:46:22 +0000",
+         "title" : "\"The failed triumvirate report\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021-live/",
          "pubDate" : "Fri, 21 May 2021 09:51:47 +0000",
          "title" : "Azerbaijan Women's Chess Championship 2021 LIVE"
-      },
-      {
-         "description" : "The strong finish of the Qualification League has found its logical continuation. League 4 of the Top Chess Engine Championship, with eight engines coming form QL and four seeded, is off to an interesting start. Halogen has given serious fight to the promoted engines and is a sole leader after eight rounds. It collected 6,5/8 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/halogen-with-flying-start-at-tcec-s21-l4/",
-         "pubDate" : "Fri, 21 May 2021 09:23:33 +0000",
-         "title" : "Halogen with flying start at TCEC S21 L4"
       },
       {
          "description" : " This week, were are going to look at a very important part of your opening, the transition into the middle-game. Most beginners assume that as soon their Rooks are connected, signaling the end of the opening phase, it's time to start capturing pawns and pieces. The game's three phases - the opening, middle and endgame <a href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Nineteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\">A Foundation for Beginners Nineteen</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-cryptochamps-powered-by-coinbase",
          "pubDate" : "Mon, 17 May 2021 12:59:00 -0700",
          "title" : "Announcing Chess.com's CryptoChamps Powered By Coinbase"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sVe65\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained-lichessorg",
-         "pubDate" : "Mon, 17 May 2021 18:48:17 +0000",
-         "title" : "I'll Take the Chekhover Sicilian, Please! | Chess Openings Explained | lichess.org"
       },
       {
          "description" : "The second edition of the MrDodgy Invitational was played on May 12-16 in the chess24 PlayZone. The event was a 16-player knockout, with each match consisting of 12 blitz games (5 minutes for the game, without increments). Top seed Anish Giri, who had won the first edition of the event, defeated Baadur Jobava in the final to get the first prize of $2,500 plus a picture of Dodgy on a horse.",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-shri-gaurav-jindal/",
          "pubDate" : "Sun, 02 May 2021 06:55:15 +0000",
          "title" : "Rest in Peace Shri Gaurav Jindal"
-      },
-      {
-         "description" : " KasparovChess.com is back! The first &#8220;Kasparov Chess&#8221; chess portal created in 1999 and included &#8220;KC magazine,&#8221; current news from around the globe, interviews, an event calendar, a discussion board, and a wealth of resources. At that time, Kasparov's site was one of the leading content providers for chess as other sites begin to emerge. Garry [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/01/kasparovchess-com-is-back/\">KasparovChess.com is back!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/05/01/kasparovchess-com-is-back/",
-         "pubDate" : "Sun, 02 May 2021 03:26:58 +0000",
-         "title" : "KasparovChess.com is back!"
       }
    ]
 }
