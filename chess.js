@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, on 23 May, Anatoly Karpov turns 70! The 12th World Champion is still very active and on 31 May 2021, he will give a simul at the Karpov Children's Cup, an event supported by FIDE. Which made Alexey Root remember a remarkable Karpov simul in Austin, Texas, back in 1994. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-anatoly-karpov",
+         "pubDate" : "Sun, 23 May 2021 09:00:00 +0100",
+         "title" : "Happy Birthday, Anatoly Karpov"
+      },
+      {
+         "description" : " Anya Taylor-Joy, the star of The Queen's Gambit, shared her opinion on how to be the chess prodigy in her inaugural appearance on Saturday Night Live. Apparently, you simply need to coast your hands and raise an eyebrow. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/DhSz9aPiBe0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/clasp-your-hands-and-raise-an-eyebrow/",
+         "pubDate" : "Sun, 23 May 2021 05:56:30 +0000",
+         "title" : "Clasp Your Hands and Raise an Eyebrow"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Ian Nepomniachtchi vs. Kirill Alekseenko from the World Championship Candidates in 2021. 2021.04.28<br /> Ian Nepomniachtchi vs Kirill Alekseenko, World Championship Candidates (2020/21): A13 English, Neo-Catalan accepted<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2041080\">https://www.chessgames.com/perl/chessgame?gid=2041080</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-vs-alekseenko-2021-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-in-chess-classic-finals-1",
          "pubDate" : "Sun, 02 May 2021 12:25:00 +0100",
          "title" : "New in Chess Classic Finals: Carlsen wins first set"
-      },
-      {
-         "description" : "Shri Gaurav Jindal, President of The Haryana Chess Association passed away in a tragic road accident. Indian Chess and Haryana in particular lost a dynamic",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-shri-gaurav-jindal/",
-         "pubDate" : "Sun, 02 May 2021 06:55:15 +0000",
-         "title" : "Rest in Peace Shri Gaurav Jindal"
       }
    ]
 }
