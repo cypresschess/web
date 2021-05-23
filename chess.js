@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship 2021 aka known as the Carlsen - Nepomniachtchi 2021 match will be held 24 November - 16 December in Dubai. The battle for the most important title in the sport of chess will be between the reigning champion Magnus Carlsen and his challenger Ian Nepomniachtchi. Nepomniachtchi qualified to the World Chess Championship 2021 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-ian-nepomniachtchi-game-1-live/",
+         "pubDate" : "Sun, 23 May 2021 16:14:07 +0000",
+         "title" : "Magnus Carlsen - Ian Nepomniachtchi game 1 LIVE"
+      },
+      {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.chessdom.com/players-reactions-before-the-start-of-ftx-crypto-cup-2021/",
          "pubDate" : "Sun, 23 May 2021 10:42:54 +0000",
          "title" : "Players' reactions before the start of FTX Crypto Cup 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1093",
+         "pubDate" : "Sun, 23 May 2021 09:57:54 +0000",
+         "title" : "Anatoly Karpov celebrates his 70th birthday"
       },
       {
          "description" : "Anatoly Karpov, the undisputed World Chess Champion for the decade from 1975 to 1985, today turns 70. In an interview with Sport Express, one of the chess greats answered questions from five grandmasters, including Sergey Karjakin and Rustam Kasimdzhanov. He gives his Top 5 players of all time, talks about the match that never happened with Bobby Fischer and laments the 1984 World Championship match where he led Garry Kasparov 5 wins to 0 but missed 21 \"match points\" in a row before the event was controversially stopped while he still led 5:3.",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/agadmator-magnus-to-remain-champion-in-2021/",
          "pubDate" : "Sat, 22 May 2021 05:26:59 +0000",
          "title" : "Agadmator: \"Magnus to remain champion in 2021?\""
-      },
-      {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
-         "pubDate" : "Sat, 22 May 2021 01:51:00 +0000",
-         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Fabiano Caruana vs. Anish Giri from the World Championship Candidates Tournament in 2021. 2021.04.28<br /> Fabiano Caruana vs Anish Giri, World Championship Candidates (2020/21): B40 Sicilian, Anderssen variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2042198\">https://www.chessgames.com/perl/chessgame?gid=2042198</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-giri-2021-candidates-game-review",
@@ -1976,22 +1984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-new-in-chess-classic/articleshow/82363887.cms",
          "pubDate" : "Mon, 03 May 2021 08:37:18 +0530",
          "title" : "Magnus Carlsen wins New In Chess Classic"
-      },
-      {
-         "description" : "Only needing a draw in the second set of the finals against Hikaru Nakamura, Magnus Carlsen bounced back from a loss in game 1 with a win in game 3. Nakamura could not win on demand in game 4, which meant Carlsen had won his first event of the Meltwater Champions Chess Tour. Shakhriyar Mamedyarov obtained a 2&frac12;-&frac12; victory over Levon Aronian to secure third place. | The action kicks off daily at 19:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-live",
-         "pubDate" : "Sun, 02 May 2021 18:45:00 +0100",
-         "title" : "New in Chess Classic Finals: Carlsen wins!"
-      },
-      {
-         "description" : "Now that we know that Ian Nepomniachtchi will be Magnus Carlsen's next challenger for the World Championship title, it's time to start getting ready for the big match. Star columnist Jon Speelman has another go at prediction, claiming that \"Carlsen is surely the favourite, but not, I think, by that much: no more than 60-40, and perhaps just 55-45\". | Photo: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-145",
-         "pubDate" : "Sun, 02 May 2021 17:00:00 +0100",
-         "title" : "Raising the floor: Nepo's chances against Carlsen"
       }
    ]
 }
