@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new era in elite online chess started today as the FTX Crypto Cup launched the world's first bitcoin chess tournament. FTX Crypto Chess Cup all the information FTX Crypto Chess Cup LIVE FTX Crypto Cup Players' reactions Dutch No. 1 Anish Giri finished Day 1 unbeaten and clear on top of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-to-improve-chess-aronian-to-improve-electric-power-ftx-crypto-cup-day-1/",
+         "pubDate" : "Sun, 23 May 2021 22:23:19 +0000",
+         "title" : "Carlsen to improve chess, Aronian to improve electric power - FTX Crypto Cup Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates the shortest possible checkmate ever: one that ends in just two moves! 2021.04.28<br /> A00 Grob&#039;s attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fools-mate-win-two-moves-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8cmSwztF-V0.jpg?itok=A-D13FNd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fools-mate-win-two-moves-shorts",
+         "pubDate" : "Sun, 23 May 2021 21:53:21 +0000",
+         "title" : "Fool's Mate: Win in Two Moves! | #Shorts"
+      },
+      {
+         "description" : "Aliaksandra Tarasenka is born July 6, 2006 in Brest, Belarus. This month of May she won the Belarus national championship at the age of 14. An amazing achievement! But wait until you realize that this is her second (!) national title and now she is a double champion! Her first title came when she was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aliaksandra-tarasenka-a-future-chess-star/",
+         "pubDate" : "Sun, 23 May 2021 20:35:50 +0000",
+         "title" : "Aliaksandra Tarasenka - a future chess star"
+      },
+      {
+         "description" : "The African Continental Championship is going full steam ahead. And while the world is concentrated on large events like the FTX Crypto Chess Cup 2021, beautiful things are happening in Africa. Fawole John Oyeyemi from BruvsChess Media is bringing daily reports on the event. Here are some key excerpts, make sure to visit BruvsChess Media []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/africa-rulz-report-from-the-african-continental-round-1-4/",
+         "pubDate" : "Sun, 23 May 2021 20:14:29 +0000",
+         "title" : "Africa rulz! Report from the African Continental round 1-4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1095",
+         "pubDate" : "Sun, 23 May 2021 18:54:15 +0000",
+         "title" : "Round 2 recap: Blood on Board"
+      },
+      {
+         "description" : " Anish Giri put in a very strong showing on the first day of the online FTX Crypto Chess tournament with a score of 4/5 to lead the event which is part of the Meltwater Champions Chess Tour. Giri beat Ding Liren, Alexander Grischuk and Alan Pichot on day 1 with two draws, he is half a point clear of Hikaru Nakamura, Maxime Vachier-Lagrave and Wesley So. Magnus Carlsen and Ian Nepomniachtchi who meet for the World Chess Championship later in the year drew a game that was full of tension - Carlsen being given a winning position out of the opening and not managing to convert. This seemed to derail his day somewhat and he also lost to MVL and should have lost to Shakhriyar Mamedyarov (or convert",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/giri-leads-the-ftx-crypto-chess-preliminaries-after-day-1",
+         "pubDate" : "Sun, 23 May 2021 21:37:00 +0400",
+         "title" : "Giri leads the FTX Crypto Chess Preliminaries after day 1 - Day 1"
+      },
+      {
          "description" : "The World Chess Championship 2021 aka known as the Carlsen - Nepomniachtchi 2021 match will be held 24 November - 16 December in Dubai. The battle for the most important title in the sport of chess will be between the reigning champion Magnus Carlsen and his challenger Ian Nepomniachtchi. Nepomniachtchi qualified to the World Chess Championship 2021 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,28 +210,12 @@ news_feed (
          "title" : "Gunay Mammadzada, \"I had so many difficulties coming to Gibraltar\""
       },
       {
-         "description" : "After their draw in R1 of FIDE Women Grand Prix, Mariya and Anna Muzychuk discuss their experience with lockdown, the advantages of over the board chess, and the movie Queen's Gambit. See also: BBC World Service, \"Queen's Gambit essential to online chess streamers boom\" &#160;The Queens Gambit - with WIM Lara Janzelj and WIM Teja []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mariya-and-anna-muzychuk-queens-gambit-will-bring-more-players-in-chess-especially-girls/",
-         "pubDate" : "Sat, 22 May 2021 17:23:57 +0000",
-         "title" : "Mariya and Anna Muzychuk, \"Queen's Gambit will bring more players in chess, especially girls\""
-      },
-      {
          "description" : "The FIDE Women's Grand Prix was supposed to end in Sardinia in May 2020, but then the pandemic intervened. It was rescheduled for Gibraltar, then postponed from January, but it finally begins Saturday May 22nd, with the players competing for two places in this year's Women's Candidates Tournament. Aleksandra Goryachkina is uncatchable in first place, but already has a spot in the Candidates. The leaders in the race are Humpy Koneru and Alexandra Kosteniuk, but neither plays, so that most of the field in Gibraltar is in with a chance.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/gibraltar-hosts-final-women-s-fide-grand-prix",
          "pubDate" : "Sat, 22 May 2021 13:33:08 +0000",
          "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
-      },
-      {
-         "description" : "Players in #ChessChamps #FTXCryptoCup looking at their prize fund be like More on FTXCrypto Cup Live: FTX Crypto Cup live Social media: Reactions before the start of FTX Crypto Crypto and chess: Chess and crypto - love at&hellip; third sight? Latest event: Carlsen wins Meltwater Championship Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/participants-in-ftxcrypto-cup-reacting-to-the-crypto-crash-tweetoftheday/",
-         "pubDate" : "Sat, 22 May 2021 12:56:00 +0000",
-         "title" : "Participants in FTXCrypto Cup reacting to the crypto crash #TweetOftheDay"
       },
       {
          "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/energetic-2",
          "pubDate" : "Sat, 22 May 2021 09:00:00 +0100",
          "title" : "Carlsen's kamikaze king"
-      },
-      {
-         "description" : "The famous youtuber Agadmator is publishing a series of previews on the upcoming World Chess Championship 2021. After two episodes on the challenger Ian Nepomniachtchi, Agadmator looks into the champion in a video titled &#8220;Magnus to remain champion in 2021?&#8221; More on Nepo Carlsen by Agadmator Agadmator on Nepo Carlsen 2021 Agadmator on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/agadmator-magnus-to-remain-champion-in-2021/",
-         "pubDate" : "Sat, 22 May 2021 05:26:59 +0000",
-         "title" : "Agadmator: \"Magnus to remain champion in 2021?\""
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Fabiano Caruana vs. Anish Giri from the World Championship Candidates Tournament in 2021. 2021.04.28<br /> Fabiano Caruana vs Anish Giri, World Championship Candidates (2020/21): B40 Sicilian, Anderssen variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2042198\">https://www.chessgames.com/perl/chessgame?gid=2042198</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-giri-2021-candidates-game-review",
@@ -712,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-preview",
          "pubDate" : "Mon, 17 May 2021 23:00:00 +0100",
          "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes a fascinating endgame between Kirill Alekseenko and Alexander Grischuk from the second half of the 2020/21 Candidates Tournament. 2021.05.18<br /> Kirill Alekseenko vs Alexander Grischuk, World Championship Candidates (2020/21): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2040554\">https://www.chessgames.com/perl/chessgame?gid=2040554</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alekseenko-vs-grischuk-2021-candidates-insane-endgame-gm-josh-friedel",
-         "pubDate" : "Mon, 17 May 2021 21:48:23 +0000",
-         "title" : "Alekseenko vs. Grischuk, 2021 Candidates | Insane in the Endgame - GM Josh Friedel"
       },
       {
          "description" : "Chess.com is excited to announce the upcoming CryptoChamps tournament&#38;nbsp;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on June 12 and 13, starting at 10 a.m. Pacific/19:00 CE...",
