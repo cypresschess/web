@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Sun, 23 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1094",
+         "pubDate" : "Sun, 23 May 2021 14:31:21 +0000",
+         "title" : "12 chess gems by the 12th World Champion"
+      },
+      {
+         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Sun, 23 May 2021 15:05:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 28th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about schematic thinking in the endgame and presents a curious endgame. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-28-a-curious-endgame",
+         "pubDate" : "Sun, 23 May 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 28: A curious endgame"
+      },
+      {
+         "description" : " Everyone loves a good second half comeback, especially if it is from a team or player you support. Here is an example from the Asian Continental where White (GM Temur Kuybokarov) looked dead lost for quite a while, before recovering to win at the death. It does of course help to have a pawn on the 7th rank quite early in the game, but that can only help you so far. Finding a way to stay in the game is the other half of the equation. <br /> <b>Kuybokarov,Temur (2549) - Urazayev,Arystanbek (2429) [C78]</b><br />Asian Hybrid Continental Chess Champions (3.7), 21.05.2021 <script>new PgnViewer( { boardName: \"game1245\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/i-thought-this-was-bonkers.html",
+         "pubDate" : "Sun, 23 May 2021 13:25:00 +0000",
+         "title" : "I thought this was bonkers"
+      },
+      {
          "description" : " Here's a rapidplay game played the other day in one of my club's online arena events. I was black, facing the Ponziani. 1. e4 e5 2. Nf3 Nc6 3. c3 The Ponziani seems to be undergoing a mini revival at the moment. Is this justified? 3.. Nf6 The safest reply, though 3.. d5 is also <a href=\"https://chessimprover.com/pulverising-the-ponziani/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pulverising the Ponziani\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pulverising-the-ponziani/\">Pulverising the Ponziani</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "FTX Crypto Chess Cup 2021"
       },
       {
-         "description" : "FTX Crypto Chess Cup 2021 is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
@@ -114,20 +154,20 @@ news_feed (
          "title" : "Mariya and Anna Muzychuk, \"Queen's Gambit will bring more players in chess, especially girls\""
       },
       {
-         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Sat, 22 May 2021 14:55:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
-      },
-      {
          "description" : "The FIDE Women's Grand Prix was supposed to end in Sardinia in May 2020, but then the pandemic intervened. It was rescheduled for Gibraltar, then postponed from January, but it finally begins Saturday May 22nd, with the players competing for two places in this year's Women's Candidates Tournament. Aleksandra Goryachkina is uncatchable in first place, but already has a spot in the Candidates. The leaders in the race are Humpy Koneru and Alexandra Kosteniuk, but neither plays, so that most of the field in Gibraltar is in with a chance.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/gibraltar-hosts-final-women-s-fide-grand-prix",
          "pubDate" : "Sat, 22 May 2021 13:33:08 +0000",
          "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
+      },
+      {
+         "description" : "Players in #ChessChamps #FTXCryptoCup looking at their prize fund be like More on FTXCrypto Cup Live: FTX Crypto Cup live Social media: Reactions before the start of FTX Crypto Crypto and chess: Chess and crypto - love at&hellip; third sight? Latest event: Carlsen wins Meltwater Championship Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/participants-in-ftxcrypto-cup-reacting-to-the-crypto-crash-tweetoftheday/",
+         "pubDate" : "Sat, 22 May 2021 12:56:00 +0000",
+         "title" : "Participants in FTXCrypto Cup reacting to the crypto crash #TweetOftheDay"
       },
       {
          "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -264,14 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
          "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
          "title" : "Chartres: Maurizzi on course for the title"
-      },
-      {
-         "description" : "Chess prodigies of the new generation are making a serious advance. Most chess events and travel are blocked due to the ongoing covid-19 pandemic, but wherever there is OTB chess, a young chess talent shines. Just as the chess world is impatiently awaiting the final GM norm of Abhimanyu Mishra, a young boy in France []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marcandria-maurizzi-is-the-youngest-french-grandmaster-of-all-time/",
-         "pubDate" : "Fri, 21 May 2021 11:50:03 +0000",
-         "title" : "Marc'Andria Maurizzi is the youngest French Grandmaster of all time"
       },
       {
          "description" : "For 24 years the record stood but since today, GM Etienne Bacrot is no longer France&#39;s youngest grandmaster ever. Five days after turning 14, Marc&#39;Andria Maurizzi secured the GM title at the GM tournament in Chartres. The news has been dominated...",
@@ -1960,38 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-145",
          "pubDate" : "Sun, 02 May 2021 17:00:00 +0100",
          "title" : "Raising the floor: Nepo's chances against Carlsen"
-      },
-      {
-         "description" : "GM Magnus Carlsen defeated GM Hikaru Nakamura 3-1 in the New In Chess Classic on day one of the finals. GM Levon Aronian and Shakhriyar Mamedyarov scored 2-2 in their match for third place.&#38;nbsp; How to watch?The games of the New in Chess Classi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-finals-day-1",
-         "pubDate" : "Sun, 02 May 2021 07:09:00 -0700",
-         "title" : "New In Chess Classic: Carlsen Strikes"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 25th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how useful a \"Strategic Thinking Protocol\" is to find the right plans and moves. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-25-the-power-of-the-strategic-thinking-protocol",
-         "pubDate" : "Sun, 02 May 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 25: The \"Strategic Thinking Protocol\""
-      },
-      {
-         "description" : " Looking at the games from the 2021 Zone3.3 (Hybrid) Championship I came across this curious opening. To be honest I think I have seen it before (and may have even blogged about it), but Qe7 on move 2 is rare enough that I thought I should feature it again. No happy ending though, as White scored the point, albeit after a long hard struggle. <br /> <br /> <b>QUIZON,Daniel (2319) - VELARDE,Jerish John (1896) [C40]</b><br />Zone 3.3 Zonal Chess Championships 2021 (1.13), 01.05.2021 <script>new PgnViewer( { boardName: \"game1239\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Qe7 3.Nc3 Nf6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.d4 d6 8.Bg5 c6 9.h3 h6 10.Be3 b5 11.a3 Bb7 12.Qd2 Kh7 13.Rad1 Nbd7 14.dxe5",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/qe7.html",
-         "pubDate" : "Sun, 02 May 2021 13:37:00 +0000",
-         "title" : "Qe7!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1061",
-         "pubDate" : "Sun, 02 May 2021 12:15:33 +0000",
-         "title" : "Carlsen edges ahead in tense final"
       }
    ]
 }
