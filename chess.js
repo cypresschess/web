@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Here's a rapidplay game played the other day in one of my club's online arena events. I was black, facing the Ponziani. 1. e4 e5 2. Nf3 Nc6 3. c3 The Ponziani seems to be undergoing a mini revival at the moment. Is this justified? 3.. Nf6 The safest reply, though 3.. d5 is also <a href=\"https://chessimprover.com/pulverising-the-ponziani/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pulverising the Ponziani\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pulverising-the-ponziani/\">Pulverising the Ponziani</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/pulverising-the-ponziani/",
+         "pubDate" : "Sun, 23 May 2021 10:57:02 +0000",
+         "title" : "Pulverising the Ponziani"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. With just a few hours remaining before the FTX Crypto Cup 2021 prelims, here is what excites the social media. Crypto and chess: Bitcoin, crypto and chess the full story Fabiano Caruana happy to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/players-reactions-before-the-start-of-ftx-crypto-cup-2021/",
+         "pubDate" : "Sun, 23 May 2021 10:42:54 +0000",
+         "title" : "Players' reactions before the start of FTX Crypto Cup 2021"
+      },
+      {
+         "description" : "Anatoly Karpov, the undisputed World Chess Champion for the decade from 1975 to 1985, today turns 70. In an interview with Sport Express, one of the chess greats answered questions from five grandmasters, including Sergey Karjakin and Rustam Kasimdzhanov. He gives his Top 5 players of all time, talks about the match that never happened with Bobby Fischer and laments the 1984 World Championship match where he led Garry Kasparov 5 wins to 0 but missed 21 \"match points\" in a row before the event was controversially stopped while he still led 5:3.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/karpov-at-70-my-great-blunder-was-i-agreed-to-hold-the-match-with-kasparov-in-the-soviet-union",
+         "pubDate" : "Sun, 23 May 2021 08:32:31 +0000",
+         "title" : "Karpov at 70: \"My great blunder was I agreed to hold the match with Kasparov in the Soviet Union\""
+      },
+      {
          "description" : "Today, on 23 May, Anatoly Karpov turns 70! The 12th World Champion is still very active and on 31 May 2021, he will give a simul at the Karpov Children's Cup, an event supported by FIDE. Which made Alexey Root remember a remarkable Karpov simul in Austin, Texas, back in 1994. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,38 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-vs-alekseenko-2021-candidates-game-review",
          "pubDate" : "Sun, 23 May 2021 00:52:41 +0000",
          "title" : "Nepomniachtchi vs. Alekseenko, 2021 Candidates | Game Review"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021 is going to start today. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
+         "pubDate" : "Sun, 23 May 2021 00:22:00 +0000",
+         "title" : "FTX Crypto Chess Cup 2021"
+      },
+      {
+         "description" : "FTX Crypto Chess Cup 2021 is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
+         "pubDate" : "Sun, 23 May 2021 00:20:00 +0000",
+         "title" : "FTX Crypto Cup LIVE"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Live games from the open and women section The stakes at the African Individual Chess Championship are high as the 4 top placed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Sun, 23 May 2021 00:15:00 +0000",
+         "title" : "African Individual Chess Championship 2021"
+      },
+      {
+         "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/",
+         "pubDate" : "Sun, 23 May 2021 00:10:40 +0000",
+         "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
       },
       {
          "description" : "Only 12 engines in League 4, but an epic, a tragedy and a drama are developing at the Top Chess Engine Championship. Happening at the same time we have a race for the first place, a race for the last qualifying position, and a race to avoid relegation. Virtus tentamine gaudet Two engines at the []",
@@ -226,44 +282,12 @@ news_feed (
          "title" : "Marc'Andria Maurizzi Becomes France's Youngest GM Ever"
       },
       {
-         "description" : "The American Qualification tournament for the FIDE World Cup 2021&#160;kicks off tomorrow with 114 players fighting for the 8 spots for the FIDE World Cup 2021. The event is played in a knock-out hybrid format, from the designated USA &#8220;Tournament Hall&#8221; at the St. Louis Chess Club. Top seeded are:&#160;GM Mareco Sandro (Argentina),&#160;GM Delgado Ramirez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-continental-chess-championship-2021-live/",
-         "pubDate" : "Fri, 21 May 2021 10:52:13 +0000",
-         "title" : "American Continental Chess Championship 2021 LIVE"
-      },
-      {
-         "description" : "The chess world is dominated by Continental events in the month of May. Europe, the Americas, Africa, and Asia will get to know their champions. Moreover, these events are qualification for the World Chess Cup 2021, which is part of the World Chess Championship cycle. Chessdom.com will have extensive coverage of the continental events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/continental-chess-the-whats-and-the-wheres/",
-         "pubDate" : "Fri, 21 May 2021 10:29:19 +0000",
-         "title" : "Continental chess - the whats and the wheres"
-      },
-      {
          "description" : "Practice what you preach: in a theme blitz tournament on playchess.com the well-known and popular ChessBase authors Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft showed why they like and what they know about the openings they present in their courses. If you missed the live transmission of the entertaining event on twitch.tv, here's a summary with highlights from the games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/thematic-tournament-with-kasimdzhanov-marin-ris-van-delft-and-king",
          "pubDate" : "Fri, 21 May 2021 11:05:19 +0100",
          "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
-      },
-      {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;will take place from 22nd-30th May through Tornelo online platform. The total prize fund for the event is 32 000 eur. Here is the list of the approved venues that will host the hybrid event. Photo: Arena di Serdica, a five star hotel with actual ancient []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/venues-of-the-european-hybrid-qualification-tournament/",
-         "pubDate" : "Fri, 21 May 2021 09:56:29 +0000",
-         "title" : "Venues of the European Hybrid Qualification tournament"
-      },
-      {
-         "description" : "The Azerbaijan Women's Chess Championship 2021 takes place from 21-30 May in Nakhchivan. The event is played in round-robin format with 11 rounds and 12 participants. Top seeded are&#160;IM Gulnar Mammadova,&#160;WGM Ulviyya Fataliyeva&#160;and&#160;WGM Zeinab Mamedjarova&#160;(4 times National Women's Champion). Azerbaijan Women's Chess Championship 2021 full information Live games from the Azerbaijan Women's Chess Championship 2021 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2021-live/",
-         "pubDate" : "Fri, 21 May 2021 09:51:47 +0000",
-         "title" : "Azerbaijan Women's Chess Championship 2021 LIVE"
       },
       {
          "description" : " This week, were are going to look at a very important part of your opening, the transition into the middle-game. Most beginners assume that as soon their Rooks are connected, signaling the end of the opening phase, it's time to start capturing pawns and pieces. The game's three phases - the opening, middle and endgame <a href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Nineteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\">A Foundation for Beginners Nineteen</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chinese-chess-championships-yu-yangyi-tan-zhongyi",
          "pubDate" : "Mon, 17 May 2021 06:55:00 -0700",
          "title" : "Yu Retains Chinese Title But Loses To Ju"
-      },
-      {
-         "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/17/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/17/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/",
-         "pubDate" : "Mon, 17 May 2021 13:38:40 +0000",
-         "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
@@ -1330,14 +1346,6 @@ news_feed (
          "title" : "Russian Premier League, Round 9 - Live!"
       },
       {
-         "description" : "It's that time again - Premium members get the chance to vote for your choice to be in the next Meltwater Champions Chess Tour event. And this time, we have the biggest line-up of choices yet.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/premium-only-have-your-say-in-the-biggest-tour-vote-yet",
-         "pubDate" : "Mon, 10 May 2021 10:48:42 +0000",
-         "title" : "Premium only: Have your say in the biggest Tour vote yet"
-      },
-      {
          "description" : "The new FIDE Regulations for Arbiters, approved by the FIDE Council on Monday 19th April, have now been published here arbiters.fide.com/news/6041 The effective date...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1722,14 +1730,6 @@ news_feed (
          "title" : "\"Iron Horsemen\" lead Russian Team Championship"
       },
       {
-         "description" : " As I'm currently writing a book for Everyman Chess on a Nimzo and Queen's Indian repertoire the Nimzo was an obvious choice for N. Some of you might have expected the Najdorf but I prefer not to encourage highly theoretical lines in which the maintenance load increases as players move up the rankings. The Nimzo-Indian <a href=\"https://chessimprover.com/nuke-em-with-the-nimzo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Nuke 'em with the Nimzo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/nuke-em-with-the-nimzo/\">Nuke 'em with the Nimzo</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/nuke-em-with-the-nimzo/",
-         "pubDate" : "Wed, 05 May 2021 13:30:31 +0000",
-         "title" : "Nuke 'em with the Nimzo"
-      },
-      {
          "description" : "Two students are studying a chess position. A Zen master watches and tells them that one of the pieces will play a very deep move. \"Which one?\" the students want to know. The Zen master whispers the piece type to one student and the colour to the other. From their reactions they are able to deduce which piece it is. You can help us in a book project by solving the problem. And hopefully have some fun in the process.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1061",
          "pubDate" : "Sun, 02 May 2021 12:15:33 +0000",
          "title" : "Carlsen edges ahead in tense final"
-      },
-      {
-         "description" : "In a hard-fought first set of the New in Chess Classic finals, Magnus Carlsen grabbed the lead by scoring a 3-1 win over Hikaru Nakamura. After drawing the first two games and losing the third encounter, Naka had a better position in a must-win situation. The American mishandled his advantage and Carlsen ended up scoring a second win in a row. Meanwhile, Shakhriyar Mamedyarov and Levon Aronian tied the first set in the match for third place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-finals-1",
-         "pubDate" : "Sun, 02 May 2021 12:25:00 +0100",
-         "title" : "New in Chess Classic Finals: Carlsen wins first set"
       }
    ]
 }
