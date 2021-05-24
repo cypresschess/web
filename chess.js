@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 kicked off today and takes place from 24-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 LIVE 264 players (160 GMs) participate the event representing 35 European federations. All the players compete from the approved tournament halls per country. Photo gallery of the venues:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-venues/",
+         "pubDate" : "Mon, 24 May 2021 19:19:00 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament - Venues"
+      },
+      {
+         "description" : "Teimour Radjabov has, as expected, been given a spot in the 2022 Candidates Tournament after his pandemic concerns saw him replaced by Maxime Vachier-Lagrave for the event that began in 2020. The other spots will go to the loser of this year's World Championship match, two players in the World Cup, two players in the FIDE Grand Swiss and finally two players from a FIDE Grand Prix Series set to take place from February to April next year. Potentially we can then have the Candidates and another World Championship match in 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/radjabov-given-controversial-spot-in-2022-candidates",
+         "pubDate" : "Mon, 24 May 2021 19:16:58 +0000",
+         "title" : "Radjabov given controversial spot in 2022 Candidates"
+      },
+      {
+         "description" : "You are a very talented young player taking part in a tournament in Budapest. After it is over you learn that your scheduled flight home to Goa, India, is no longer available - the first one to be cancelled due to the outbreak of the pandemic. So you are stuck in the Hungarian capital, and still are, over a year later. So what do you do, how do you manage? Here's one way Leon Mendonca and his father are coping: with a Pentecostal violin performance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stranded-in-budapest",
+         "pubDate" : "Mon, 24 May 2021 18:59:20 +0100",
+         "title" : "Stranded in Budapest"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1097",
+         "pubDate" : "Mon, 24 May 2021 16:19:42 +0000",
+         "title" : "FIDE announces qualification paths for Candidates Tournament 2022"
+      },
+      {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/giri-leads-the-ftx-crypto-chess-preliminaries-after-day-1",
          "pubDate" : "Sun, 23 May 2021 21:37:00 +0400",
          "title" : "Giri leads the FTX Crypto Chess Preliminaries after day 1 - Day 1"
-      },
-      {
-         "description" : "The World Chess Championship 2021 aka known as the Carlsen - Nepomniachtchi 2021 match will be held 24 November - 16 December in Dubai. The battle for the most important title in the sport of chess will be between the reigning champion Magnus Carlsen and his challenger Ian Nepomniachtchi. Nepomniachtchi qualified to the World Chess Championship 2021 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-ian-nepomniachtchi-game-1-live/",
-         "pubDate" : "Sun, 23 May 2021 16:14:07 +0000",
-         "title" : "Magnus Carlsen - Ian Nepomniachtchi game 1 LIVE"
       },
       {
          "description" : "",
@@ -1362,14 +1386,6 @@ news_feed (
          "title" : "Always double check"
       },
       {
-         "description" : "Anish Giri returns to defend his title and fight for the same photo of a man on a horse as the 16-player Mr Dodgy Invitational 2.0 starts Wednesday May 12th. The blitz knockout tournament on chess24 has the kind of line-up chess fans would choose, with the likes of Baadur Jobava, Adhiban, Alexei Shirov and Daniil Dubov ensuring we can expect explosive action. Jan Gustafsson will commentate and there are trailers&hellip; lots of trailers!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-mrdodgy-invitational-is-back",
-         "pubDate" : "Tue, 11 May 2021 12:31:20 +0000",
-         "title" : "The Mr Dodgy Invitational is back!"
-      },
-      {
          "description" : "Tanitoluwa (Tani) Adewumi, a 10-year-old Nigerian refugee who won the New York State K-3 Championship at eight years old, reached a new milestone last week: he conquered the title of national master (NM). Adewumi did so on May 1 at the Fairfield...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1992,14 +2008,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/4/new-in-chess-classic-2021-carlsen-wins.html",
          "pubDate" : "Tue, 04 May 2021 07:12:10 +0000",
          "title" : "New In Chess Classic 2021: Carlsen Wins"
-      },
-      {
-         "description" : " National Master Tani AdewumiPhoto courtesy of Facebook (Kayode Adewumi) The star has continued to rise for Tanitoluwa &#8220;Tani&#8221; Adewumi who earned his title of National Master at 10 years 7 months and 29 days. The story of Tani broke on these pages a few years back when his family decided to emigrate to the U.S. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/03/tani-adewumi-becomes-master-at-10/\">Tani Adewumi becomes Chess Master at 10!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/05/03/tani-adewumi-becomes-master-at-10/",
-         "pubDate" : "Mon, 03 May 2021 18:21:55 +0000",
-         "title" : "Tani Adewumi becomes Chess Master at 10!"
       }
    ]
 }
