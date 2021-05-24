@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The European Hybrid Qualification Tournament 2021 for the FIDE World Chess Cup 2021 kicked off today and takes place from 24-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 LIVE 264 players (160 GMs) participate the event representing 35 European federations. All the players compete from the approved tournament halls per country. Photo gallery of the venues:",
+         "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qualification-criteria-candidates-2022",
+         "pubDate" : "Mon, 24 May 2021 23:35:00 +0100",
+         "title" : "Qualification criteria for the Candidates announced, Radjabov gets a spot"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1100",
+         "pubDate" : "Mon, 24 May 2021 22:28:19 +0000",
+         "title" : "Round 3: Players go all-in"
+      },
+      {
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix is being played in Gibraltar. After each game the players are invited to discuss the games in a video interview. Anna Muzychuk did not play the Dragon in her round 2 game. Or did she? MrDodgy found one in his photo report",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-there-be-dragons-tweetoftheday/",
+         "pubDate" : "Mon, 24 May 2021 21:37:17 +0000",
+         "title" : "MrDodgy: There be dragons! #TweetOftheDay"
+      },
+      {
+         "description" : "The International Chess Federation today confirmed what had been suggested earlier: GM Teimour Radjabov gets a direct place in the 2022 Candidates Tournament. FIDE&#39;s new qualification system does not include another wildcard and neither a qualifie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/radjabov-2022-fide-candidates",
+         "pubDate" : "Mon, 24 May 2021 13:47:00 -0700",
+         "title" : "Radjabov Gets Direct Spot In 2022 FIDE Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1098",
+         "pubDate" : "Mon, 24 May 2021 20:25:11 +0000",
+         "title" : "FIDE Online Cadets & Youth Rapid World Cup announced"
+      },
+      {
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;kicked off today and takes place from 24-30 May through Tornelo online platform. Following the regulations, all the players competed from the approved tournament halls per country. Pairings of the Round 1 brought the encounter of two Spanish compatriots: GM Alvar Alonso Rosell and FM Gabriel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-tournament-with-over-the-board-games/",
+         "pubDate" : "Mon, 24 May 2021 19:34:24 +0000",
+         "title" : "European Hybrid Qualification Tournament with Over-the-Board games"
+      },
+      {
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;kicked off today and takes place from 24-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 LIVE 264 players (160 GMs) participate the event representing 35 European federations. All the players compete from the approved tournament halls per country. Photo gallery of the venues:",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-venues/",
          "pubDate" : "Mon, 24 May 2021 19:19:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament - Venues"
+         "title" : "European Hybrid Qualification Chess Tournament - Photo gallery of the venues"
       },
       {
          "description" : "Teimour Radjabov has, as expected, been given a spot in the 2022 Candidates Tournament after his pandemic concerns saw him replaced by Maxime Vachier-Lagrave for the event that began in 2020. The other spots will go to the loser of this year's World Championship match, two players in the World Cup, two players in the FIDE Grand Swiss and finally two players from a FIDE Grand Prix Series set to take place from February to April next year. Potentially we can then have the Candidates and another World Championship match in 2022.",
@@ -18,12 +66,28 @@ news_feed (
          "title" : "Radjabov given controversial spot in 2022 Candidates"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/take-it-back-store-exchange-philidor-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3XPmRIbono.jpg?itok=5ytDF1jd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/take-it-back-store-exchange-philidor-chess-openings-explained-lichessorg",
+         "pubDate" : "Mon, 24 May 2021 18:54:18 +0000",
+         "title" : "Take it Back to the Store! Exchange Philidor | Chess Openings Explained | lichess.org"
+      },
+      {
          "description" : "You are a very talented young player taking part in a tournament in Budapest. After it is over you learn that your scheduled flight home to Goa, India, is no longer available - the first one to be cancelled due to the outbreak of the pandemic. So you are stuck in the Hungarian capital, and still are, over a year later. So what do you do, how do you manage? Here's one way Leon Mendonca and his father are coping: with a Pentecostal violin performance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/stranded-in-budapest",
          "pubDate" : "Mon, 24 May 2021 18:59:20 +0100",
          "title" : "Stranded in Budapest"
+      },
+      {
+         "description" : " The FTX Crypto Cup Preliminaries are still wide open going into the final day. Fabiano Caruana moved into a share of the lead on 6.5/10 after scoring 4/5 on day 2. Teimour Radjabov (3.5/5 on day 2) and Hikaru Nakamura (3/5) are also there. Former leader Anish Giri lost in rounds 9 and 10 (2/5) and he shares 4th with Wesley So (all draws). Magnus Carlsen also looked to be heading for an excellent day before losing to Levon Aronian in the final round of the day to finish on 5.5/10 with 3/5 on the day. Shakhriyar Mamedyarov recovered strongly on day two after his poor day 1 with 3.5/5 as did Peter Svidler. With the field so strong not even the leaders are guaranteed progression to the knockout",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/caruana-radjabov-and-nakamura-lead-the-ftx-crypto-cup-preliminaries-after-day-2",
+         "pubDate" : "Mon, 24 May 2021 21:20:00 +0400",
+         "title" : "Caruana, Radjabov and Nakamura lead the FTX Crypto Cup Preliminaries after day 2 - Day 2"
       },
       {
          "description" : "",
@@ -170,12 +234,12 @@ news_feed (
          "title" : "Gibraltar GP: Abdumalik starts with two wins"
       },
       {
-         "description" : "A new era in elite online chess started today as the FTX Crypto Cup launched the world's first bitcoin chess tournament. FTX Crypto Chess Cup all the information FTX Crypto Chess Cup LIVE FTX Crypto Cup Players' reactions Dutch No. 1 Anish Giri finished Day 1 unbeaten and clear on top of []",
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-to-improve-chess-aronian-to-improve-electric-power-ftx-crypto-cup-day-1/",
-         "pubDate" : "Sun, 23 May 2021 22:23:19 +0000",
-         "title" : "Carlsen to improve chess, Aronian to improve electric power - FTX Crypto Cup Day 1"
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
+         "pubDate" : "Mon, 24 May 2021 01:51:00 +0000",
+         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates the shortest possible checkmate ever: one that ends in just two moves! 2021.04.28<br /> A00 Grob&#039;s attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fools-mate-win-two-moves-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8cmSwztF-V0.jpg?itok=A-D13FNd\" alt=\"\" /></a></div>",
@@ -184,22 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fools-mate-win-two-moves-shorts",
          "pubDate" : "Sun, 23 May 2021 21:53:21 +0000",
          "title" : "Fool's Mate: Win in Two Moves! | #Shorts"
-      },
-      {
-         "description" : "Aliaksandra Tarasenka is born July 6, 2006 in Brest, Belarus. This month of May she won the Belarus national championship at the age of 14. An amazing achievement! But wait until you realize that this is her second (!) national title and now she is a double champion! Her first title came when she was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aliaksandra-tarasenka-a-future-chess-star/",
-         "pubDate" : "Sun, 23 May 2021 20:35:50 +0000",
-         "title" : "Aliaksandra Tarasenka - a future chess star"
-      },
-      {
-         "description" : "The African Continental Championship is going full steam ahead. And while the world is concentrated on large events like the FTX Crypto Chess Cup 2021, beautiful things are happening in Africa. Fawole John Oyeyemi from BruvsChess Media is bringing daily reports on the event. Here are some key excerpts, make sure to visit BruvsChess Media []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/africa-rulz-report-from-the-african-continental-round-1-4/",
-         "pubDate" : "Sun, 23 May 2021 20:14:29 +0000",
-         "title" : "Africa rulz! Report from the African Continental round 1-4"
       },
       {
          "description" : "",
@@ -808,14 +856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-sharpest-endgame-weapon",
          "pubDate" : "Tue, 18 May 2021 09:00:00 +0100",
          "title" : "The sharpest endgame weapon"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Chekhover Variation of the Sicilian Defence. The Chekhover begins with the moves 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4. Qxd4 2021.05.17<br /> B53 Sicilian, Chekhover variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ill-take-chekhover-sicilian-please-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QO8ejRrH978.jpg?itok=Zh9sV",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ill-take-chekhover-sicilian-please-chess-openings-explained",
-         "pubDate" : "Tue, 18 May 2021 06:48:43 +0000",
-         "title" : "I'll Take the Chekhover Sicilian, Please! | Chess Openings Explained"
       },
       {
          "description" : " A little update from around the chess world. First, Abhimanyu Mishra will be a GM soon, but not by the end of the <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">norm event</a> he's playing in now. He (probably) needed 7/9; 2/5 clearly isn't going to cut it. Hopefully he can minimize the rating damage he has suffered thus far. (Unless you're a Sergey Karjakin superfan, in which case you hope the damage piles up like an avalanche.) Second: the \"<a href=\"https://events.chess24.com/mrdodgy-invitational/\">Mr Dodgy Invitational 2.0</a>\" (afaik, \"Mr. Dodgy\" is the username of a Chess24 superfan; I don't know if he contributed any money to the event's ",
