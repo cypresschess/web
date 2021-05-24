@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Round 1 of the Gibraltar leg of the FIDE Women's Grand Prix got underway at the Caleta Hotel on 22 May 2021. FIDE Women's Grand Prix full information and LIVE games Thankfully, all players were present for the start, with Valentina Gunina of Russia being the last to arrive just a few hours before the []",
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Mon, 24 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Live!"
+      },
+      {
+         "description" : "This summer, as part of the Sparkassen Chess in Dortmund, Viswanathan Anand will play the first match in chess without castling in the duel of the world champions against Vladimir Kramnik. After Vladimir Kramnik had already talked about the special features of the No Castling Chess variation in an exclusive interview, Anand was now the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/no-castling-chess-2021-interview-with-anand-and-kramnik/",
+         "pubDate" : "Mon, 24 May 2021 14:49:33 +0000",
+         "title" : "No Castling Chess - interview with Anand and Kramnik"
+      },
+      {
+         "description" : "The preliminaries of the FTX Crypto Cup, the sixth event of the Meltwater Champions Chess Tour, started on Sunday. Anish Giri grabbed the sole lead with a 4/5 score, while world champion Magnus Carlsen only managed to get fifty percent of the points. There are ten more preliminary round games to come, so Carlsen is well in time to climb up the standings table. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-1",
+         "pubDate" : "Mon, 24 May 2021 15:25:00 +0100",
+         "title" : "FTX Crypto Cup: Giri leads, Carlsen struggling"
+      },
+      {
+         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Pictured: Dinara Saduakassova | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Mon, 24 May 2021 14:55:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : " Opening a dedicated 'Chess Centre' is a bit of a risk, as without a large (paying) membership, generating enough income to keep it going can be a bit of a challenge. However, some enterprising lads in the Yorkshire town of Ilkley have taken a risk and opened <a href=\"https://www.chesscentre.online/\">The Chess Centre</a>. It is a modest sized venue (fitting around 16 players inside) but from the look of the pictures (and a report by ChessExpress's intrepid correspondent Rupert Jones*) it seems to be a very stylish club. When visiting the old country, I do on occasion travel to that part of the UK, and when restrictions are lifted I am keen to drop in. The news from Ilkley inspired me to look",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/on-ilkla-moor-baht-at.html",
+         "pubDate" : "Mon, 24 May 2021 13:23:00 +0000",
+         "title" : "On Ilkla Moor Baht 'at"
+      },
+      {
+         "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship/",
+         "pubDate" : "Mon, 24 May 2021 11:55:35 +0000",
+         "title" : "British Junior Rapid & Blitz Championship"
+      },
+      {
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 full information / Pairing Tree 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
+         "pubDate" : "Mon, 24 May 2021 11:50:00 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
+      },
+      {
+         "description" : " The European Hybrid Qualification tournament takes place on Tornelo 24th to 30th May to 2021. The event is a three round knockout aimed at cutting the 264 strong field down to 36 qualifiers. Leading players by rating: Vladislav Artemiev, Evgeny Tomashevsky, Andrey Esipenko, Kirill Alekseenko, David Navara, Alexandr Predke, Maxim Matlakov, Vladimir Fedoseev, Boris Gelfand, David Anton Guijarro, Ferenc Berkes, Pavel Eljanov, Nils Grandelius, Matthias Bluebaum, Ivan Cheparinov, Sanan Sjugirov, Sanan Donchenko Alexander, Constantin Lupulescu, Ernesto Inarkiev, Grigoriy Oparin, Aleksandr Rakhmanov, Alexey Sarana, Evgeniy Najer, Aleksey Dreev, Viktor Laznicka and Sergei Movsesian. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-hybrid-qualification-2021",
+         "pubDate" : "Mon, 24 May 2021 15:02:00 +0400",
+         "title" : "European Hybrid Qualification 2021 - "
+      },
+      {
+         "description" : " The Gibraltar FIDE Women's Grand Prix takes place 22nd May to 2nd June 2021. This is the final Grand Prix in a much extended series due to the Coronavirus crisis. The previous events were: Skolkovo, September 10th - 23rd 2019; Monaco, December 2nd - 15th 2019 and Lausanne, March 1st - 14th 2020. Aleksandra Goryachkina has finished her participation in the series and is in first place in the over all standings in the series, in second is Humpy Koneru who should have played in Gibraltar but felt the <a href=\"https://sportstar.thehindu.com/chess/koneru-humpy-to-skip-fide-womens-grand-prix-gibraltar-leg/article33144572.ece\">risk of traveling to the event during the Coronavirus crisis was too mu",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-fide-womens-grand-prix-2021",
+         "pubDate" : "Mon, 24 May 2021 14:54:00 +0400",
+         "title" : "Gibraltar FIDE Women's Grand Prix 2021 - Games and Results"
+      },
+      {
+         "description" : "Round 1 of the Gibraltar leg of the FIDE Women's Grand Prix began at the Caleta Hotel this May 22. FIDE Women's Grand Prix full information and LIVE games Thankfully, all players were present for the start, with Valentina Gunina of Russia being the last to arrive just a few hours before the round started []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-with-a-perfect-fide-womens-grand-prix-gibraltar/",
          "pubDate" : "Mon, 24 May 2021 10:50:04 +0000",
-         "title" : "Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar"
+         "title" : "Zhansaya Abdumalik with a perfect start at FIDE Women's Grand Prix Gibraltar"
       },
       {
          "description" : "",
@@ -42,7 +114,7 @@ news_feed (
          "title" : "Anna Muzychuk analyzes her win from R2 of the FIDE Women Grand Prix"
       },
       {
-         "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen only scored 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
+         "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen scored just 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-1",
@@ -122,14 +194,6 @@ news_feed (
          "title" : "Magnus Carlsen - Ian Nepomniachtchi game 1 LIVE"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Sun, 23 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,14 +224,6 @@ news_feed (
          "link" : "https://chessimprover.com/pulverising-the-ponziani/",
          "pubDate" : "Sun, 23 May 2021 10:57:02 +0000",
          "title" : "Pulverising the Ponziani"
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. With just a few hours remaining before the FTX Crypto Cup 2021 prelims, here is what excites the social media. Crypto and chess: Bitcoin, crypto and chess the full story Fabiano Caruana happy to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/players-reactions-before-the-start-of-ftx-crypto-cup-2021/",
-         "pubDate" : "Sun, 23 May 2021 10:42:54 +0000",
-         "title" : "Players' reactions before the start of FTX Crypto Cup 2021"
       },
       {
          "description" : "",
@@ -208,14 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-vs-alekseenko-2021-candidates-game-review",
          "pubDate" : "Sun, 23 May 2021 00:52:41 +0000",
          "title" : "Nepomniachtchi vs. Alekseenko, 2021 Candidates | Game Review"
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021 is going to start today. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. A cool $100,000 of that is a bonus paid in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
-         "pubDate" : "Sun, 23 May 2021 00:22:00 +0000",
-         "title" : "FTX Crypto Chess Cup 2021"
       },
       {
          "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
@@ -1426,14 +1474,6 @@ news_feed (
          "title" : "New FIDE Regulations for Arbiters"
       },
       {
-         "description" : "The International Chess Federation and Chess.com announce the FIDE/Chess.com Women's Speed Chess Championship, an online competition to be held between May 28th and July 3rd...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-fide-chess-com-womens-speed-chess-championship/",
-         "pubDate" : "Mon, 10 May 2021 07:53:29 +0000",
-         "title" : "The FIDE/Chess.com Women's Speed Chess Championship"
-      },
-      {
          "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,46 +2000,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/05/03/tani-adewumi-becomes-master-at-10/",
          "pubDate" : "Mon, 03 May 2021 18:21:55 +0000",
          "title" : "Tani Adewumi becomes Chess Master at 10!"
-      },
-      {
-         "description" : "From 10 to 18 July, Dortmund will once again be Germany's chess capital. Chess fans in Dortmund organise the \"Sparkassen Chess Trophy\", a grandmaster tournament, and Vladimir Kramnik and Vishy Anand will play a match in No Castling Chess. In an interview Kramnik reveals more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/no-castling-chess-an-interview-with-vladimir-kramnik",
-         "pubDate" : "Mon, 03 May 2021 16:28:49 +0100",
-         "title" : "No Castling Chess: An interview with Vladimir Kramnik"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1063",
-         "pubDate" : "Mon, 03 May 2021 14:44:42 +0000",
-         "title" : "Nona Gaprindashvili celebrates her 80th birthday"
-      },
-      {
-         "description" : " Keith Robertson, a long time player and organiser on the Canberra chess scene passed away earlier today. For many years he was President and main organiser of the Canberra Chess Club, as well as being a regular player at the Woden Chess Club, the ANU Chess Club and most recently, the Southern Cross Chess group. He was involved with the ACT Chess Association for many years, helping write the current associations constitution, for which he was awarded the initial Life Membership of the ACTCA. Outside of chess he was an accomplished musician, training for the choir as a young student, and as a skilled pianist, often performing at aged care facilities and for community groups. He was generous w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/keith-robertson-1930-2021.html",
-         "pubDate" : "Mon, 03 May 2021 13:15:00 +0000",
-         "title" : "Keith Robertson (1930-2021)"
-      },
-      {
-         "description" : "GM Magnus Carlsen clinched the New in Chess Classic tournament after scoring 2-2 against GM Hikaru Nakamura on day two of the finals. Shakhriyar Mamedyarov bagged third place after winning two games against GM Levon Aronian.&#38;nbsp; How to watch?T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-in-chess-classic-finals-day-2",
-         "pubDate" : "Mon, 03 May 2021 06:12:00 -0700",
-         "title" : "Magnus Carlsen Wins New In Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1062",
-         "pubDate" : "Mon, 03 May 2021 11:38:42 +0000",
-         "title" : "Carlsen clinches first Meltwater Champions Chess Tour title"
       }
    ]
 }
