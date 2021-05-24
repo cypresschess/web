@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-finals-2",
          "pubDate" : "Mon, 03 May 2021 06:50:00 +0100",
          "title" : "Carlsen beats Nakamura, wins New in Chess Classic"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-new-in-chess-classic/articleshow/82363887.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82363887.cms\" /></a>Magnus Carlsen survived a fierce fightback from Hikaru Nakamura to clinch his first Meltwater Champions Chess Tour title on Sunday. The World Champion broke his duck in the $1.5 million Tour events at the fifth attempt with a 3-1 final set victory that sealed the New In Chess Classic.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-new-in-chess-classic/articleshow/82363887.cms",
-         "pubDate" : "Mon, 03 May 2021 08:37:18 +0530",
-         "title" : "Magnus Carlsen wins New In Chess Classic"
       }
    ]
 }
