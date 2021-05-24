@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Zhansaya Abdumalik from Kazakhstan is leading the fourth leg of the Women's Grand Prix in Gibraltar after two rounds. The 21-year-old is the only player to have won both her games so far, as she got the better of compatriot Dinara Saduakassova and Elisabeth Paehtz in the first rounds of the event. Four players stand a half point behind. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r2",
+         "pubDate" : "Mon, 24 May 2021 05:45:00 +0100",
+         "title" : "Gibraltar GP: Abdumalik starts with two wins"
+      },
+      {
          "description" : "A new era in elite online chess started today as the FTX Crypto Cup launched the world's first bitcoin chess tournament. FTX Crypto Chess Cup all the information FTX Crypto Chess Cup LIVE FTX Crypto Cup Players' reactions Dutch No. 1 Anish Giri finished Day 1 unbeaten and clear on top of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -63,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Sun, 23 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Live!"
+         "title" : "FTX Crypto Cup - Games and results"
       },
       {
          "description" : "",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1094",
          "pubDate" : "Sun, 23 May 2021 14:31:21 +0000",
          "title" : "12 chess gems by the 12th World Champion"
-      },
-      {
-         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Sun, 23 May 2021 15:05:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 28th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about schematic thinking in the endgame and presents a curious endgame. | Photo: Tommy Grooten",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1062",
          "pubDate" : "Mon, 03 May 2021 11:38:42 +0000",
          "title" : "Carlsen clinches first Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : "Only needing a draw in the second set of the finals against Hikaru Nakamura, Magnus Carlsen bounced back from a loss in game 1 with a win in game 3 - Nakamura could not win on demand in game 4, which meant Carlsen had won his first event of the Meltwater Champions Chess Tour. Shakhriyar Mamedyarov obtained a 2&frac12;-&frac12; victory over Levon Aronian to secure third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-classic-2021-finals-2",
-         "pubDate" : "Mon, 03 May 2021 06:50:00 +0100",
-         "title" : "Carlsen beats Nakamura, wins New in Chess Classic"
       }
    ]
 }
