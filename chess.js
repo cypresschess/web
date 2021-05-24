@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 1 of the Gibraltar leg of the FIDE Women's Grand Prix got underway at the Caleta Hotel on 22 May 2021. FIDE Women's Grand Prix full information and LIVE games Thankfully, all players were present for the start, with Valentina Gunina of Russia being the last to arrive just a few hours before the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-with-a-perfect-fide-womens-grand-prix-gibraltar/",
+         "pubDate" : "Mon, 24 May 2021 10:50:04 +0000",
+         "title" : "Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1096",
+         "pubDate" : "Mon, 24 May 2021 09:58:28 +0000",
+         "title" : "FIDE Chessable Academy: 140 Nominations from 51 Federations"
+      },
+      {
+         "description" : "In an interview with John Saunders, Antoaneta Stefanova discusses her round 2 game with Valentina Gunina. Replay: Antoaneta Stefanova - Valentina Gunina Upcoming: Irina Bulmaga - Antoaneta Stefanova Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/antoaneta-stefanova-interview-after-r2-of-the-fide-women-grand-prix/",
+         "pubDate" : "Mon, 24 May 2021 09:23:00 +0000",
+         "title" : "Antoaneta Stefanova interview after R2 of the FIDE Women Grand Prix"
+      },
+      {
+         "description" : "Gunay Mammadzada won her round 2 game from the FIDE Women Grand Prix. Here is Gunay Mammadzada discussing the game with John Saunders. Replay: Gunay Mammadzada - Irina Bulmaga Upcoming: Zhansaya Abdumalik - Gunay Mammadzada Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-interview/",
+         "pubDate" : "Mon, 24 May 2021 09:22:00 +0000",
+         "title" : "Gunay Mammadzada interview"
+      },
+      {
+         "description" : "Anna Muzychuk analyzes her win against Dinara Saduakassova from round 2 of the FIDE Women Grand Prix in Gibraltar, in an interview by John Saunders. Replay: Dinara Saduakassova Anna Muzychuk 0-1 Upcoming: Alina Kashlinskaya - Anna Muzychuk Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-muzychuk-analyzes-her-win-from-r2-of-the-fide-women-grand-prix/",
+         "pubDate" : "Mon, 24 May 2021 09:21:00 +0000",
+         "title" : "Anna Muzychuk analyzes her win from R2 of the FIDE Women Grand Prix"
+      },
+      {
+         "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen only scored 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-1",
+         "pubDate" : "Mon, 24 May 2021 02:14:00 -0700",
+         "title" : "FTX Crypto Cup: Giri Leads, 'Awful' Start For Carlsen"
+      },
+      {
+         "description" : "Anish Giri is the sole leader on 4/5 after Day 1 of the FTX Crypto Cup, the strongest online chess event ever played. World Champion Magnus Carlsen ended on a respectable 50% but described his play as \"awful\" after he lost to MVL, nearly lost to Mamedyarov, squandered a winning position against World Championship Challenger Nepomniachtchi and failed to put pressure on tournament underdog Pichot. Hikaru Nakamura made three instant draws but beat Mamedyarov and Nepo to join MVL and So in 2nd place, while Levon Aronian fought on despite a power cut.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-day-1-giri-leads-as-carlsen-struggles",
+         "pubDate" : "Mon, 24 May 2021 09:09:02 +0000",
+         "title" : "FTX Crypto Cup 1: Giri leads as Carlsen struggles"
+      },
+      {
          "description" : "Zhansaya Abdumalik from Kazakhstan is leading the fourth leg of the Women's Grand Prix in Gibraltar after two rounds. The 21-year-old is the only player to have won both her games so far, as she got the better of compatriot Dinara Saduakassova and Elisabeth Paehtz in the first rounds of the event. Four players stand a half point behind. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,22 +218,6 @@ news_feed (
          "title" : "FTX Crypto Chess Cup 2021"
       },
       {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
-         "pubDate" : "Sun, 23 May 2021 00:20:00 +0000",
-         "title" : "FTX Crypto Cup LIVE"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Live games from the open and women section The stakes at the African Individual Chess Championship are high as the 4 top placed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Sun, 23 May 2021 00:15:00 +0000",
-         "title" : "African Individual Chess Championship 2021"
-      },
-      {
          "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -186,28 +226,12 @@ news_feed (
          "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
       },
       {
-         "description" : "Only 12 engines in League 4, but an epic, a tragedy and a drama are developing at the Top Chess Engine Championship. Happening at the same time we have a race for the first place, a race for the last qualifying position, and a race to avoid relegation. Virtus tentamine gaudet Two engines at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-failed-triumvirate-report/",
-         "pubDate" : "Sat, 22 May 2021 23:46:22 +0000",
-         "title" : "\"The failed triumvirate report\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1092",
          "pubDate" : "Sat, 22 May 2021 21:29:46 +0000",
          "title" : "Round 1: Opening Salvoes"
-      },
-      {
-         "description" : "The youngest players in the field of the FIDE Women's Grand Prix shared in an interview for FIDE's official Youtube channel about her multiple difficulties coming to Gibraltar. Gunay Mammadzada also shared her view on the game with Antoaneta Stefanova and her opinion about &#8220;Queen's Gambit&#8221;. See also: BBC World Service, \"Queen's Gambit essential to online []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-i-had-so-many-difficulties-coming-to-gibraltar/",
-         "pubDate" : "Sat, 22 May 2021 17:39:42 +0000",
-         "title" : "Gunay Mammadzada, \"I had so many difficulties coming to Gibraltar\""
       },
       {
          "description" : "The FIDE Women's Grand Prix was supposed to end in Sardinia in May 2020, but then the pandemic intervened. It was rescheduled for Gibraltar, then postponed from January, but it finally begins Saturday May 22nd, with the players competing for two places in this year's Women's Candidates Tournament. Aleksandra Goryachkina is uncatchable in first place, but already has a spot in the Candidates. The leaders in the race are Humpy Koneru and Alexandra Kosteniuk, but neither plays, so that most of the field in Gibraltar is in with a chance.",
@@ -1360,14 +1384,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-shri-umesh-panbude/",
          "pubDate" : "Tue, 11 May 2021 07:34:08 +0000",
          "title" : "Rest in Peace Shri Umesh Panbude"
-      },
-      {
-         "description" : "17-year-old Arjun Erigaisi will have the chance to make a name for himself when he plays in the Meltwater Champions Chess Tour in June, and the way he dispatched top seed Adhiban in the final of the Indian Qualifier should ensure the world's best players will take him very seriously. Arjun was close to winning the second rapid game before he finally drew blood with a counterattack in the first blitz game, just when Adhiban seemed set to triumph with 1.b3. Third place was taken by Aravindh, who beat Gukesh 2.5:0.5.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/erigaisi-beats-adhiban-to-win-indian-qualifier",
-         "pubDate" : "Mon, 10 May 2021 20:32:03 +0000",
-         "title" : "Erigaisi beats Adhiban to win Indian Qualifier"
       },
       {
          "description" : " The Russian Team Championships took place in Sochi 1st to 10th May 2021. The St Petersburg team Bronze Horseman won the title winning all 8 matches. The Women's title was won by the Moscow team. The South Ural team from the Chelyabinsk region won the Higher League.",
