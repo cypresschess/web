@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana, Hikaru Nakamura and Teimour Radjabov are sharing the lead on 6&frac12;/10 points in the preliminaries of the FTX Crypto Cup after two days of action. Out of the 16 participants, those that finish at the top half of the standings table will move on to the knockout stage. World champion Magnus Carlsen is currently sharing 6th-9th place with a 5&frac12;/10 score. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-2",
+         "pubDate" : "Tue, 25 May 2021 08:30:00 +0100",
+         "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
+      },
+      {
+         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Pictured: Kateryna Lagno | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Tue, 25 May 2021 08:20:00 +0100",
+         "title" : "Women's GP: Gibraltar - Lagno joins the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Exchange Variation of the Philidor Defense, characterized as 1.e4 e5 2.Nf3 d6 3.d4 exd4. 2021.05.24<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> B07 Pirc defence<br /> C41 Philidor, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-1-chess-openings-explained",
+         "pubDate" : "Tue, 25 May 2021 06:54:32 +0000",
+         "title" : "The Exchange Philidor: Part 1 | Chess Openings Explained"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Exchange Variation of the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.05.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg",
+         "pubDate" : "Tue, 25 May 2021 06:54:32 +0000",
+         "title" : "The Exchange Philidor: Part 2 | Chess Openings Explained | lichess.org"
+      },
+      {
+         "description" : " This <a href=\"https://championschesstour.com/\">elite rapid event</a> started Sunday, and after two days of the three-day preliminary the field remains tightly bunched. Sixteen players are fighting it out in a round-robin to determine the top eight places for the knockout portion of the event, and with five rounds to go the top 12 players are within two points of each other, with two more players are just a further half point back. (And these two aren't exactly chumps: Daniil Dubov and Alireza Firouzja!) Anish Giri led after the first day with 4/5, while Magnus Carlsen and Fabiano Caruana were among those mired at 50%. Giri had a tough second day, getting only 2/5, while Caruana got hot with",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/25/ftx-crypto-cup-days-1-2-of-the-preliminaries.html",
+         "pubDate" : "Tue, 25 May 2021 05:16:35 +0000",
+         "title" : "FTX Crypto Cup, Days 1 & 2 of the Preliminaries"
+      },
+      {
+         "description" : " After speedily <a href=\"http://www.thechessmind.net/blog/2021/5/17/no-norm-for-mishra-and-other-news.html\">falling out of contention for his third and final GM norm</a>, Abhimanyu Mishru finished like a house on fire, <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=4&amp;turdet=YES&amp;flag=30\">winning his last four games</a> (most notably against GM Zoltan Varga) and coming out of the event with another <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=1&amp;turdet=YES&amp;flag=30\">nine rating points</a> in his pocket. He still needs one norm and approximately 17 rating points before this September 5 to break Sergey Karjakin's record for the youngest GM ever. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/25/mishra-finishes-strongly-no-norm-but-more-rating-points.html",
+         "pubDate" : "Tue, 25 May 2021 05:12:29 +0000",
+         "title" : "Mishra Finishes Strongly: No Norm, But More Rating Points"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/take-it-back-store-exchange-philidor-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3XPmRIbono.jpg?itok=5ytDF1jd\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,14 +162,6 @@ news_feed (
          "title" : "FIDE announces qualification paths for Candidates Tournament 2022"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Mon, 24 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Live!"
-      },
-      {
          "description" : "This summer, as part of the Sparkassen Chess in Dortmund, Viswanathan Anand will play the first match in chess without castling in the duel of the world champions against Vladimir Kramnik. After Vladimir Kramnik had already talked about the special features of the No Castling Chess variation in an exclusive interview, Anand was now the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-1",
          "pubDate" : "Mon, 24 May 2021 15:25:00 +0100",
          "title" : "FTX Crypto Cup: Giri leads, Carlsen struggling"
-      },
-      {
-         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Pictured: Dinara Saduakassova | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Mon, 24 May 2021 14:55:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : " Opening a dedicated 'Chess Centre' is a bit of a risk, as without a large (paying) membership, generating enough income to keep it going can be a bit of a challenge. However, some enterprising lads in the Yorkshire town of Ilkley have taken a risk and opened <a href=\"https://www.chesscentre.online/\">The Chess Centre</a>. It is a modest sized venue (fitting around 16 players inside) but from the look of the pictures (and a report by ChessExpress's intrepid correspondent Rupert Jones*) it seems to be a very stylish club. When visiting the old country, I do on occasion travel to that part of the UK, and when restrictions are lifted I am keen to drop in. The news from Ilkley inspired me to look",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "No Castling Chess online tournament open to all"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 19 May 2021 21:50:07 +0000",
-         "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
          "pubDate" : "Wed, 19 May 2021 00:48:59 -0500",
          "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dives into the minds of the best grandmasters in the United States and contrasts them with the thinking of chess masters (specifically National Masters and FIDE Masters in the 2200-2400 range). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qh",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 19 May 2021 00:49:34 +0000",
-         "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 Cen...",
@@ -2040,22 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-may-2021",
          "pubDate" : "Tue, 04 May 2021 08:55:40 +0100",
          "title" : "FIDE Ratings May 2021"
-      },
-      {
-         "description" : " But <a href=\"https://twitter.com/ChampChessTour/status/1387848472741752837\">not a particularly difficult one</a>. Why do such tests tend to focus on some of the most famous or historically important games? How about showing Carlsen a bland draw from, say, San Antonio 1972? Or even a win from that event, but not one involving a player from the top half of the draw? Or if we want to restrict it to great players, how about a workaday victory by, say, Petrosian that hasn't been anthologized in 50 books and retrospectives? There are probably even some boring draws from world championship matches that would give Carlsen a real test. The point isn't to show Carlsen up or to debunk claims about his",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/4/putting-carlsens-chess-memory-to-the-test.html",
-         "pubDate" : "Tue, 04 May 2021 07:26:46 +0000",
-         "title" : "Putting Carlsen's Chess Memory to the Test"
-      },
-      {
-         "description" : " And about time, too - it has been quite a while since he won an event. This is slightly bad news for Ian Nepomniachtchi, who will contest a world championship match with Magnus Carlsen late this year. Carlsen's rival, as was almost always to be expected a few years ago in blitz events in particular, was Hikaru Nakamura. It was a well-contested match, but the champ came out on top, winning the first day's mini-match 3-1 (two draws, then two wins) and drawing the second day's match to clinch overall victory. The second day's match started well for Nakamura, who won the first game and drew the second, but Carlsen won with Black in the third game and gave Nakamura a draw in a dead won position ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/4/new-in-chess-classic-2021-carlsen-wins.html",
-         "pubDate" : "Tue, 04 May 2021 07:12:10 +0000",
-         "title" : "New In Chess Classic 2021: Carlsen Wins"
       }
    ]
 }
