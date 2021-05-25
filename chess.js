@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds Kateryna Lagno and Zhansaya Abdumalik lead the Women's Grand Prix in Gibraltar with 3.5/4 each. In round 4 Lagno plays with Black against Antonaeta Stefanova while Abdumalik plays with Black against Irina Bulmaga. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Kateryna Lagno | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Tue, 25 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar, Round 4 - Live"
+      },
+      {
          "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 1.2 starts at 13:00 CEST (07:00 ET, 11:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-2",
-         "pubDate" : "Tue, 25 May 2021 01:25:48 -0700",
+         "pubDate" : "Tue, 25 May 2021 01:25:00 -0700",
          "title" : "FTX Crypto Cup: Caruana Jumps To 1st, Carlsen Still Struggling"
       },
       {
@@ -2032,30 +2040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/behind-the-stonewall-you-should-never-lose",
          "pubDate" : "Tue, 04 May 2021 15:00:00 +0100",
          "title" : "\"Behind the Stonewall you should never lose\""
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620134120464-HXICIO7EEDE8FZ06X139/ke17ZwdGBToddI8pDm48kL9abKdKFW3O9MS_qYoS2A5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVG5Z-jo5PIOKs7yKFUN0w1G5wCqOBBAC97ss82Zp12j4vIia0fTDLLZMl0msAdarmk/210422smith2-2.jpg\" data-image-dimensions=\"408x346\" data-image-focal-point=\"0.5,0.5\" alt=\"210422smith2-2.jpg\" data-load=\"false\" data-image-id=\"609148e83d4eb30bf30df007\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620134120464-HXICIO7EEDE8FZ06X139/ke17ZwdGBToddI8pDm48kL9abKdKFW3O9M",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/4/episode-225-gm-axel-smith",
-         "pubDate" : "Tue, 04 May 2021 13:18:11 +0000",
-         "title" : "Episode 225- GM Axel Smith"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1064",
-         "pubDate" : "Tue, 04 May 2021 13:02:25 +0000",
-         "title" : "Rafael Araque wins first hybrid tournament in the Americas"
-      },
-      {
-         "description" : "After their first record-breaking event, BlockChamps, the star duo WFM Alexandra and Andrea Botez are back with another groundbreaking event: the Botez Bullet Invitational. Fan-favorite streamers and content creators will go head-to-head to compet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-the-botez-bullet-invitational-on-may-5",
-         "pubDate" : "Tue, 04 May 2021 05:52:00 -0700",
-         "title" : "Announcing The Botez Bullet Invitational On May 5"
       }
    ]
 }
