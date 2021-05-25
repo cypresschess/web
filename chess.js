@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 1.2 starts at 13:00 CEST (07:00 ET, 11:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
+         "pubDate" : "Tue, 25 May 2021 12:57:58 +0100",
+         "title" : "European Hybrid Qualification live"
+      },
+      {
+         "description" : "Magnus Carlsen started Day 2 of the FTX Crypto Cup with 1.b4 and followed up with 1.b3, but while those experiments went well he was cursing the \"worst self-inflicted wound\" of losing to Levon Aronian in the final round of the day. That left him in a qualification dogfight on 5.5/10, but he's not alone, with the top 9 players separated by a single point. Fabiano Caruana came back from the dead to beat Alan Pichot, then take down leader Anish Giri, on the way to posting the day's best 4/5 score and joining Hikaru Nakamura and Teimour Radjabov in the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-2-carlsen-plays-1-b4-as-race-blown-wide-open",
+         "pubDate" : "Tue, 25 May 2021 11:24:20 +0000",
+         "title" : "FTX Crypto Cup 2: Carlsen plays 1.b4 as race blown wide open"
+      },
+      {
+         "description" : "This is a 12-year-old on a mission: to become the youngest chess grandmaster in history. Abhimanyu Mishra has made two norms, but in his latest tournament suffered a setback: in time trouble refused a draw offer by a GM and discovered that this is not such a great idea. Abhi lost the game, and a second one to boot, but staged a remarkable comeback with four back-to-back wins. He gained nine rating points and is currently just eight points from his goal. Read the messages of encouragement the lad from Englishtown, New Jersey, is getting from well-known personalities from all over the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhimanyu-eight-points-from-the-title",
+         "pubDate" : "Tue, 25 May 2021 12:00:00 +0100",
+         "title" : "Abhimanyu eight points from the title"
+      },
+      {
+         "description" : "Simplifying into a pawn ending must always be calculated carefully. In the diagram position Black is a rook up but White has powerful passed pawns. But how and when to advance them?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/small-move-big-impact",
+         "pubDate" : "Tue, 25 May 2021 09:46:23 +0100",
+         "title" : "Small move, big impact"
+      },
+      {
+         "description" : "Scoring 4/5 on the second day, GM Fabiano Caruana jumped to shared first place at the FTX Crypto Cup. The American GM shares the lead with 2022 FIDE Candidate GM Teimour Radjabov and GM Hikaru Nakamura. GM Magnus Carlsen, on the other hand, is in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-2",
+         "pubDate" : "Tue, 25 May 2021 01:25:48 -0700",
+         "title" : "FTX Crypto Cup: Caruana Jumps To 1st, Carlsen Still Struggling"
+      },
+      {
          "description" : "Fabiano Caruana, Hikaru Nakamura and Teimour Radjabov are sharing the lead on 6&frac12;/10 points in the preliminaries of the FTX Crypto Cup after two days of action. Out of the 16 participants, those that finish at the top half of the standings table will move on to the knockout stage. World champion Magnus Carlsen is currently sharing 6th-9th place with a 5&frac12;/10 score. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-2",
          "pubDate" : "Tue, 25 May 2021 08:30:00 +0100",
          "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
-      },
-      {
-         "description" : "The fourth leg of the Women's FIDE Grand Prix is taking in Gibraltar from May 22 to June 2. The best female chess players in the world are competing in a crucial event in the race for the World Championship title, since the two best players from the series qualify directly to the Candidates Tournament. Follow the games live with commentary starting at 15.00 CEST. | Pictured: Kateryna Lagno | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Tue, 25 May 2021 08:20:00 +0100",
-         "title" : "Women's GP: Gibraltar - Lagno joins the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Exchange Variation of the Philidor Defense, characterized as 1.e4 e5 2.Nf3 d6 3.d4 exd4. 2021.05.24<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> B07 Pirc defence<br /> C41 Philidor, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-done-quick-puzzles-edition",
          "pubDate" : "Mon, 24 May 2021 17:32:04 -0700",
          "title" : "Chess Done Quick: Puzzles Edition"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: Today, May 25 2021, is Africa day! Happy holiday to everyone! Join us with some chess celebration and Live games from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Tue, 25 May 2021 00:15:00 +0000",
+         "title" : "African Individual Chess Championship 2021 (happy Africa day!)"
       },
       {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
@@ -282,14 +322,6 @@ news_feed (
          "title" : "Gibraltar GP: Abdumalik starts with two wins"
       },
       {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
-         "pubDate" : "Mon, 24 May 2021 01:51:00 +0000",
-         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates the shortest possible checkmate ever: one that ends in just two moves! 2021.04.28<br /> A00 Grob&#039;s attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fools-mate-win-two-moves-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8cmSwztF-V0.jpg?itok=A-D13FNd\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -312,6 +344,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/giri-leads-the-ftx-crypto-chess-preliminaries-after-day-1",
          "pubDate" : "Sun, 23 May 2021 21:37:00 +0400",
          "title" : "Giri leads the FTX Crypto Chess Preliminaries after day 1 - Day 1"
+      },
+      {
+         "description" : "The Global Women's Online Chess Challenge The Queens' Festival, a series of continental and global women's online chess tournaments and educative side events, will start...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-queens-festival-connecting-women-in-chess/",
+         "pubDate" : "Sun, 23 May 2021 16:00:26 +0000",
+         "title" : "The Queens' Festival - Connecting Women in Chess"
       },
       {
          "description" : "",
@@ -1282,14 +1322,6 @@ news_feed (
          "title" : "Shri Dhiraj Raghuvanshi took his last breath"
       },
       {
-         "description" : "Adhiban took a 2:0 lead against David Navara after playing 1.b3 and forcing resignation in 9 moves, but the Czech no. 1 stormed back to win the match 6.5:4.5. That was the same scoreline by which Vidit beat Peter Heine Nielsen in a hard-fought match to reach the quarterfinals of the Mr Dodgy Invitational 2.0, while the other two matches on Day 1 were massacres. Defending Champion Anish Giri beat Pepe Cuenca 7:0 while Simon Williams managed a draw in a 6.5:0.5 loss to Daniil Dubov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mdi-2-day-1-adhiban-wins-in-9-moves-but-navara-giri-dubov-vidit-advance",
-         "pubDate" : "Thu, 13 May 2021 07:43:31 +0000",
-         "title" : "MDI 2, Day 1: Adhiban wins in 9 moves, but Navara, Giri, Dubov & Vidit advance"
-      },
-      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1480DB9C-1719-47E1-AA50-0D3BB6425D69.jpeg\" width=\"1800\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Front page of 2700chess</div> </div> 2700chess.com, an influential website that calculates and publishes chess players' live ratings, will publish live ratings from <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform. Ratings will be updated hourly and will include the top 100 players from the Arena. The step is important for the sport, because it recognizes the value of online chess, which especially grew during the pandemic. FIDE Online Arena accords online rati",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1544,14 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
          "pubDate" : "Mon, 10 May 2021 13:45:00 +0100",
          "title" : "Russian Premier League, Round 9 - Live!"
-      },
-      {
-         "description" : "The new FIDE Regulations for Arbiters, approved by the FIDE Council on Monday 19th April, have now been published here arbiters.fide.com/news/6041 The effective date...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-fide-regulations-for-arbiters/",
-         "pubDate" : "Mon, 10 May 2021 07:56:34 +0000",
-         "title" : "New FIDE Regulations for Arbiters"
       },
       {
          "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
@@ -2032,30 +2056,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-the-botez-bullet-invitational-on-may-5",
          "pubDate" : "Tue, 04 May 2021 05:52:00 -0700",
          "title" : "Announcing The Botez Bullet Invitational On May 5"
-      },
-      {
-         "description" : "The 2020-21 FIDE Candidates Tournament concluded on April 27, 2021 with Ian Nepomniachtchi (pictured) emerging victorious from a close race in the second half of the event, ahead of Maxime Vachier-Lagrave, Anish Giri, and Fabiano Caruana. In a two-part reflection on the Candidates the Canadian FM Joshua Doknjas aims to provide readers with a glimpse into the preparation of the world's best players and showcase some of their brilliant ideas that were hidden beneath the surface. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reflecting-on-the-2020-21-candidates-part-1",
-         "pubDate" : "Tue, 04 May 2021 12:00:00 +0100",
-         "title" : "Reflecting on the 2020-21 Candidates - Part 1"
-      },
-      {
-         "description" : "The diagram position looks pretty bad for Black. He has a passed pawn that is close to queening and he is to move but White has the nasty threat of 55.Rd8+ that is hard to parry. But Black's knight can do some magic and save the game. What should Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-magical-knight",
-         "pubDate" : "Tue, 04 May 2021 09:00:00 +0100",
-         "title" : "A magical knight"
-      },
-      {
-         "description" : "On 1 May the FIDE published the new World Ranking List. Magnus Carlsen (2847) continues to be the world's number one, followed by Fabiano Caruna (2820) on two. The second half of the Candidates Tournament helped Ding Liren (number 3, 2799) to eight additional rating points while Ian Nepomniachtchi (number 4, 2792) gained three rating points and Anish Giri (number 6, 2780) four. But it was the Iranian Parham Maghsoodloo who made the biggest jump ahead: after convincingly winning the Iranian Championship he now has a rating of 2698 and is the world's number 41.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-may-2021",
-         "pubDate" : "Tue, 04 May 2021 08:55:40 +0100",
-         "title" : "FIDE Ratings May 2021"
       }
    ]
 }
