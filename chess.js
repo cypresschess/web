@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1101",
+         "pubDate" : "Tue, 25 May 2021 18:39:42 +0000",
+         "title" : "FIDE expands support program for distinguished veterans"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on a new crop of young super talents - Marc'Andria Maurizzi, who got his GM title at the age of 14 years and 5 days, and Abhimanyu Mishra, the 12 year old close to becoming the youngest GM in history (he only needs 8 points and one norm to be the youngest GM of all time). | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-young-talents",
+         "pubDate" : "Tue, 25 May 2021 19:00:00 +0100",
+         "title" : "The Weekly Show: Young Talents"
+      },
+      {
+         "description" : "Chess, chess online and cryptocurrencies. Well put, Olimpiu Urcan, well put! More: Chess and crypto - love at&hellip; third sight?",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cant-touch-this-tweetoftheday/",
+         "pubDate" : "Tue, 25 May 2021 17:41:43 +0000",
+         "title" : "Can't touch this! #TweetOftheDay"
+      },
+      {
+         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-5",
+         "pubDate" : "Tue, 25 May 2021 18:12:59 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 5"
+      },
+      {
          "description" : "Fritz & Chesster has been around for 20 years! The chess learning software for children is an absolute classic! It shows how digital learning works and is fun. Now the ChessBase merchandising partner LEMI Consulting is redesigning the program and developing physical pieces and boards for children to enhance their online experience. You can support their Kickstarter project.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,12 +194,28 @@ news_feed (
          "title" : "Round 3: Players go all-in"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1099",
+         "pubDate" : "Mon, 24 May 2021 22:06:56 +0000",
+         "title" : "\"The Queens' Festival\": Connecting Women in Chess"
+      },
+      {
          "description" : "The fourth and final leg of the FIDE Women's Grand Prix is being played in Gibraltar. After each game the players are invited to discuss the games in a video interview. Anna Muzychuk did not play the Dragon in her round 2 game. Or did she? MrDodgy found one in his photo report",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/mrdodgy-there-be-dragons-tweetoftheday/",
          "pubDate" : "Mon, 24 May 2021 21:37:17 +0000",
          "title" : "MrDodgy: There be dragons! #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1097",
+         "pubDate" : "Mon, 24 May 2021 20:54:42 +0000",
+         "title" : "FIDE announces qualification paths for Candidates Tournament 2022"
       },
       {
          "description" : "The International Chess Federation today confirmed what had been suggested earlier: GM Teimour Radjabov gets a direct place in the 2022 Candidates Tournament. FIDE&#39;s new qualification system does not include another wildcard and neither a qualifie...",
@@ -232,14 +280,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/caruana-radjabov-and-nakamura-lead-the-ftx-crypto-cup-preliminaries-after-day-2",
          "pubDate" : "Mon, 24 May 2021 21:20:00 +0400",
          "title" : "Caruana, Radjabov and Nakamura lead the FTX Crypto Cup Preliminaries after day 2 - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1097",
-         "pubDate" : "Mon, 24 May 2021 16:19:42 +0000",
-         "title" : "FIDE announces qualification paths for Candidates Tournament 2022"
       },
       {
          "description" : "This summer, as part of the Sparkassen Chess in Dortmund, Viswanathan Anand will play the first match in chess without castling in the duel of the world champions against Vladimir Kramnik. After Vladimir Kramnik had already talked about the special features of the No Castling Chess variation in an exclusive interview, Anand was now the []",
@@ -320,14 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/antoaneta-stefanova-interview-after-r2-of-the-fide-women-grand-prix/",
          "pubDate" : "Mon, 24 May 2021 09:23:00 +0000",
          "title" : "Antoaneta Stefanova interview after R2 of the FIDE Women Grand Prix"
-      },
-      {
-         "description" : "Gunay Mammadzada won her round 2 game from the FIDE Women Grand Prix. Here is Gunay Mammadzada discussing the game with John Saunders. Replay: Gunay Mammadzada - Irina Bulmaga Upcoming: Zhansaya Abdumalik - Gunay Mammadzada Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-interview/",
-         "pubDate" : "Mon, 24 May 2021 09:22:00 +0000",
-         "title" : "Gunay Mammadzada interview"
       },
       {
          "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen scored just 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
@@ -2032,30 +2064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/polish-championships-2021-r5",
          "pubDate" : "Tue, 04 May 2021 21:00:00 +0100",
          "title" : "Polish Championships in Bydgoszcz"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1065",
-         "pubDate" : "Tue, 04 May 2021 17:41:51 +0000",
-         "title" : "Ian Nepomniachtchi: \"The strategy was not to lose\""
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the New in Chess Classic where Magnus Carlsen won his first Meltwater Champion Chess Tour title. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-new-in-chess-classic",
-         "pubDate" : "Tue, 04 May 2021 17:59:36 +0100",
-         "title" : "The Weekly Show: The New in Chess Classic"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-2",
-         "pubDate" : "Tue, 04 May 2021 17:08:35 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 2"
       }
    ]
 }
