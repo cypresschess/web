@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/take-it-back-store-exchange-philidor-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3XPmRIbono.jpg?itok=5ytDF1jd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/take-it-back-store-exchange-philidor-chess-openings-explained",
+         "pubDate" : "Tue, 25 May 2021 00:54:34 +0000",
+         "title" : "Take it Back to the Store! Exchange Philidor | Chess Openings Explained"
+      },
+      {
+         "description" : "Chess.com is excited to announce our new series of monthly events for chess streamers, Chess Done Quick. In this first edition, we invite the best streamers to dash through our Puzzles on a race for cash prizes and bragging rights! The first eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-done-quick-puzzles-edition",
+         "pubDate" : "Mon, 24 May 2021 17:32:04 -0700",
+         "title" : "Chess Done Quick: Puzzles Edition"
+      },
+      {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 19 May 2021 00:49:34 +0000",
          "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.05.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gqz7qhjbyJY.jpg?itok=ZZbGVyj9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-different-master-grandmaster-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 18 May 2021 21:49:35 +0000",
-         "title" : "How Different is a Master from a Grandmaster? | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 Cen...",
