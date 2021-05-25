@@ -5,9 +5,33 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1102",
+         "pubDate" : "Tue, 25 May 2021 22:21:26 +0000",
+         "title" : "Round 4: Joy for the Muzychuks, but Elisabeth steals the show"
+      },
+      {
+         "description" : "Rapid advance: In a last round drama, the World Champion Magnus Carlsen barely managed to qualify for the FTX Crypto Cup finals. In a nail-biter vs Radjabov, Magnus managed to take a dramatic full point (replay). With a draw he would have been out of the competition. Besides Carlsen, to the next round advance Caruana, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-barely-gets-to-the-ftx-crypto-cup-finals/",
+         "pubDate" : "Tue, 25 May 2021 19:47:56 +0000",
+         "title" : "Carlsen barely gets to the FTX Crypto Cup finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1101",
          "pubDate" : "Tue, 25 May 2021 18:39:42 +0000",
          "title" : "FIDE expands support program for distinguished veterans"
+      },
+      {
+         "description" : " Fabiano Caruana's debut on the Meltwater Champions Chess tour has started with victory in the Preliminary section of the FTX Crypto Cup. Caruana hasn't played any online chess this year just the Tata Steel tournament as a warm up to the Candidates but here he scored 10/15 just losing one game - against Shakhriyar Mamedyarov. Having played no events on the tour so far and with only three left after this Caruana will probably have to win this event to reach the tour finals. The whole event was fairly tight but Anish Giri, Hikaru Nakamura, MVL and Wesley So had relatively pain free qualifications along with Teimour Radjabov who didn't have a good day but also had a bit of leeway with his good ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/caruana-wins-the-ftx-crypto-cup-preliminaries-carlsen-and-nepomniachtchi-just-manage-to-squeak-through-to-the-second-phase",
+         "pubDate" : "Tue, 25 May 2021 22:01:00 +0400",
+         "title" : "Caruana wins the FTX Crypto Cup Preliminaries - Carlsen and Nepomniachtchi just manage to squeak through to the second phase - Day 3"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on a new crop of young super talents - Marc'Andria Maurizzi, who got his GM title at the age of 14 years and 5 days, and Abhimanyu Mishra, the 12 year old close to becoming the youngest GM in history (he only needs 8 points and one norm to be the youngest GM of all time). | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1096",
          "pubDate" : "Mon, 24 May 2021 09:58:28 +0000",
          "title" : "FIDE Chessable Academy: 140 Nominations from 51 Federations"
-      },
-      {
-         "description" : "In an interview with John Saunders, Antoaneta Stefanova discusses her round 2 game with Valentina Gunina. Replay: Antoaneta Stefanova - Valentina Gunina Upcoming: Irina Bulmaga - Antoaneta Stefanova Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/antoaneta-stefanova-interview-after-r2-of-the-fide-women-grand-prix/",
-         "pubDate" : "Mon, 24 May 2021 09:23:00 +0000",
-         "title" : "Antoaneta Stefanova interview after R2 of the FIDE Women Grand Prix"
       },
       {
          "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen scored just 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
@@ -2048,22 +2064,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/",
          "pubDate" : "Wed, 05 May 2021 00:10:28 +0000",
          "title" : "The Lasker Method to Improve in Chess"
-      },
-      {
-         "description" : " The continuing Hosking v Press rivalry continued at Gungahlin Eastlake Chess Club last night. Dodging my opening preparation, 1.b3 was IM Hosking's weapon of choice (disappointing those who had 1.b4 in the opening sweep). At one point I though I had a big advantage but this was not quite true. So I went in for a sharp line where a rook sac by White led to a perpetual. White duly obliged and the game was over after 16 moves (and around 90 minutes of play). <br /> <b>Hosking,Ian - Press,Shaun [A05]</b><br />Murphy Memorial (6), 04.05.2021 <script>new PgnViewer( { boardName: \"game1241\", movesFormat: \"default\", pgnString:'1.b3 Nf6 2.Bb2 b6 3.Nf3 Bb7 4.c4 e6 5.g3 d5 6.Nc3 d4 7.Nb5 c5 8.Bg2 a6 9.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/chess-was-real-winner.html",
-         "pubDate" : "Tue, 04 May 2021 23:21:00 +0000",
-         "title" : "Chess was the real winner"
-      },
-      {
-         "description" : "The 2021 Polish Chess Championships are taking place from April 29 to May 7 in Bydgoszcz. The open tournament is a 16-player knockout event, while the women's section is being played as a 9-round single round robin. The biggest upsets in the open were given by IM Pawel Teclaf, who knocked out GM Mateusz Bartel and Robert Kempinski in consecutive rounds. | Pictured: Joanna Dworakowska facing Joanna Majdan | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-championships-2021-r5",
-         "pubDate" : "Tue, 04 May 2021 21:00:00 +0100",
-         "title" : "Polish Championships in Bydgoszcz"
       }
    ]
 }
