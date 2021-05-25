@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After three rounds Kateryna Lagno and Zhansaya Abdumalik lead the Women's Grand Prix in Gibraltar with 3.5/4 each. In round 4 Lagno plays with Black against Antonaeta Stefanova while Abdumalik plays with Black against Irina Bulmaga. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Kateryna Lagno | Photo: FIDE",
+         "description" : "Fritz & Chesster has been around for 20 years! The chess learning software for children is an absolute classic! It shows how digital learning works and is fun. Now the ChessBase merchandising partner LEMI Consulting is redesigning the program and developing physical pieces and boards for children to enhance their online experience. You can support their Kickstarter project.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-chesster-chessboard-editions",
+         "pubDate" : "Tue, 25 May 2021 16:52:28 +0100",
+         "title" : "Fritz & Chesster Chessboard editions"
+      },
+      {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 2 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Tue, 25 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621950005605-5JLL85ELM5297UXF3QO6/ke17ZwdGBToddI8pDm48kE36Uh9bApxLEgMUgad3QiYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcVlyuJQfoPDVItoHphofWVjF3J7v8XtghArXT5ss6EJA3bcYaMguvwelSeo-qDWJi/37841064_1107558472726714_9055942606655062016_n.jpg\" data-image-dimensions=\"1008x756\" data-image-focal-point=\"0.5,0.5\" alt=\"GM Ben Finegold with Karen Boyd, his wife, and co-founder of the Chess Club and Scholastic Center of Atlanta. Photo via the CCSCATL Facebook Page\" data-load=\"false\" data-image-id=\"60acfe3",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/25/episode-228-gm-ben-finegold-returns",
+         "pubDate" : "Tue, 25 May 2021 13:58:23 +0000",
+         "title" : "Episode 228- GM Ben Finegold returns "
+      },
+      {
+         "description" : "After three rounds Kateryna Lagno [pictured] and Zhansaya Abdumalik lead the Women's Grand Prix in Gibraltar with 3.5/4 each. In round 4 Lagno plays with Black against Antonaeta Stefanova while Abdumalik plays with Black against Irina Bulmaga. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
          "pubDate" : "Tue, 25 May 2021 14:45:00 +0100",
          "title" : "Women's GP: Gibraltar, Round 4 - Live"
+      },
+      {
+         "description" : "After having a rough start in the Qualification League, Booot (ELO 3391) finally showed its potential. It won convincingly League 4 of TCEC S21 with 17,5/22 13 wins, 9 draws and no losses. Booot finished a full point ahead of the rating favorite Halogen, and three points ahead of the QL winner Koivisto. Booot, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/booot-kicks-into-high-gear-wins-tcec-s21-l4/",
+         "pubDate" : "Tue, 25 May 2021 13:29:41 +0000",
+         "title" : "Booot kicks into high gear, wins TCEC S21 L4"
       },
       {
          "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 1.2 starts at 13:00 CEST (07:00 ET, 11:00 UTC). Follow the games live.",
@@ -296,14 +328,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gunay-mammadzada-interview/",
          "pubDate" : "Mon, 24 May 2021 09:22:00 +0000",
          "title" : "Gunay Mammadzada interview"
-      },
-      {
-         "description" : "Anna Muzychuk analyzes her win against Dinara Saduakassova from round 2 of the FIDE Women Grand Prix in Gibraltar, in an interview by John Saunders. Replay: Dinara Saduakassova Anna Muzychuk 0-1 Upcoming: Alina Kashlinskaya - Anna Muzychuk Report: Zhansaya Abdumalik with a perfect FIDE Women's Grand Prix Gibraltar",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-muzychuk-analyzes-her-win-from-r2-of-the-fide-women-grand-prix/",
-         "pubDate" : "Mon, 24 May 2021 09:21:00 +0000",
-         "title" : "Anna Muzychuk analyzes her win from R2 of the FIDE Women Grand Prix"
       },
       {
          "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen scored just 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
@@ -2032,14 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-2",
          "pubDate" : "Tue, 04 May 2021 17:08:35 +0100",
          "title" : "Svitlana's Smart Moves - Episode 2"
-      },
-      {
-         "description" : "It's also thanks to Magnus Carlsen that the Stonewall currently enjoys a good reputation and is considered healthy and ambitious. Usually, the Stonewall structure arises via the Dutch Defense, after 1.d4 f5. But in ChessBase Magazine #201, the new issue of the CBM, the renowned theoretician and Dutch expert Viktor Moskalenko shows that Black also does well against line-ups without d2-d4 (English or Reti). He explains the ideas of these systems with some of his own games and concludes: \"Behind the Stonewall you should never lose\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-stonewall-you-should-never-lose",
-         "pubDate" : "Tue, 04 May 2021 15:00:00 +0100",
-         "title" : "\"Behind the Stonewall you should never lose\""
       }
    ]
 }
