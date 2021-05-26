@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-bishops-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0-NAdImSsTo.jpg?itok=NeN4V9s2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opposite-bishops-insane-endgame-gm-josh-friedel",
+         "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
+         "title" : "Opposite Bishops | Insane in the Endgame - GM Josh Friedel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the best games from the ongoing American Hybrid World Cup Qualifier, a collection of eight 16-player online knockouts. The eight winners will earn entry into the World Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JjT0",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
+         "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "Chess streamers are experiencing a huge boom in traffic and audience. It is wonderful to see chess thriving in video platforms, with instructive classes and/or interactive chess fun. Chess streams and videos break boundaries and travel limitations and reach every corner of the world. Just recently Hikaru Nakamura, arguably the top chess streamer, broke 100 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/say-hello-to-the-chess-streamers/",
+         "pubDate" : "Wed, 26 May 2021 00:30:48 +0000",
+         "title" : "Say hello to the chess streamers!"
+      },
+      {
+         "description" : "FM Peter Giannatos, Founder and Director of the Charlotte Chess Center &#38; Scholastic Academy, has an informative bi-weekly stream on Twitch. FM Peter Giannatos is FIDE Master since February of 2017. Peter is also a United States Chess Federation National Master (NM)/Life Master (LM), Senior Tournament Director, and FIDE International Arbiter (IA). Follow FM Peter []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-peter-giannatos-live-stream/",
+         "pubDate" : "Wed, 26 May 2021 00:22:57 +0000",
+         "title" : "FM Peter Giannatos - live stream"
+      },
+      {
+         "description" : "WIM Rucha Pujari is a professional chess player from India. Among many other achievements Rucha Pujari is a holder of eight medals from Asian Chess Championships in different categories, four medals from Commonwealth Chess Championships, fifteen (!) medals from National Chess Championships including six gold medals, and more. Rucha Pujari is also a Trainer and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-rucha-pujari-live-stream/",
+         "pubDate" : "Wed, 26 May 2021 00:21:17 +0000",
+         "title" : "WIM Rucha Pujari - live stream"
+      },
+      {
+         "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/",
+         "pubDate" : "Wed, 26 May 2021 00:10:43 +0000",
+         "title" : "The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White"
+      },
+      {
+         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Follow FM Klaasen on Twitch / Youtube Schedule Tuesdays 7pm [GMT+2]&#160; Reflections (interviews and game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-stream/",
+         "pubDate" : "Wed, 26 May 2021 00:01:00 +0000",
+         "title" : "FM Calvin Klaasen - live stream"
+      },
+      {
+         "description" : "This is the live stream page of the 6 time youth and junior champion of France, WIM Andreea Navrotescu. Andreea aka andy_rekt is Team Vitality Ambassador and Twitch partner. She is fluent in English, French, Spanish, and Romanian and provides weekly chess streams and lessons. Official website / Twitter / Instagram / Facebook / Youtube []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-live-stream/",
+         "pubDate" : "Wed, 26 May 2021 00:01:00 +0000",
+         "title" : "WIM Andreea Navrotescu - live stream"
+      },
+      {
+         "description" : "GM Mircea Parligras has a regular online stream on Twitch. GM Parligras played for Romania a total of eight times in the Chess Olympiads. Among his top career achievements are third round at the World Cup and a national title in 2016 Follow GM Mircea Parligras on Facebook",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-mircea-parligras-live-stream/",
+         "pubDate" : "Tue, 25 May 2021 23:57:34 +0000",
+         "title" : "GM Mircea Parligras - live stream"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -114,6 +186,14 @@ news_feed (
          "title" : "FTX Crypto Cup 2: Carlsen plays 1.b4 as race blown wide open"
       },
       {
+         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Follow FM Lefong []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
+         "pubDate" : "Tue, 25 May 2021 11:01:00 +0000",
+         "title" : "FM Lefong Hua - live stream"
+      },
+      {
          "description" : "This is a 12-year-old on a mission: to become the youngest chess grandmaster in history. Abhimanyu Mishra has made two norms, but in his latest tournament suffered a setback: in time trouble refused a draw offer by a GM and discovered that this is not such a great idea. Abhi lost the game, and a second one to boot, but staged a remarkable comeback with four back-to-back wins. He gained nine rating points and is currently just eight points from his goal. Read the messages of encouragement the lad from Englishtown, New Jersey, is getting from well-known personalities from all over the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +234,7 @@ news_feed (
          "title" : "The Exchange Philidor: Part 1 | Chess Openings Explained"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Exchange Variation of the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.05.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Exchange Variation of the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.06.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg",
@@ -194,14 +274,6 @@ news_feed (
          "title" : "Chess Done Quick: Puzzles Edition"
       },
       {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: Today, May 25 2021, is Africa day! Happy holiday to everyone! Join us with some chess celebration and Live games from the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Tue, 25 May 2021 00:15:00 +0000",
-         "title" : "African Individual Chess Championship 2021 (happy Africa day!)"
-      },
-      {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,14 +298,6 @@ news_feed (
          "title" : "\"The Queens' Festival\": Connecting Women in Chess"
       },
       {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix is being played in Gibraltar. After each game the players are invited to discuss the games in a video interview. Anna Muzychuk did not play the Dragon in her round 2 game. Or did she? MrDodgy found one in his photo report",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-there-be-dragons-tweetoftheday/",
-         "pubDate" : "Mon, 24 May 2021 21:37:17 +0000",
-         "title" : "MrDodgy: There be dragons! #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,22 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1098",
          "pubDate" : "Mon, 24 May 2021 20:25:11 +0000",
          "title" : "FIDE Online Cadets & Youth Rapid World Cup announced"
-      },
-      {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;kicked off today and takes place from 24-30 May through Tornelo online platform. Following the regulations, all the players competed from the approved tournament halls per country. Pairings of the Round 1 brought the encounter of two Spanish compatriots: GM Alvar Alonso Rosell and FM Gabriel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-tournament-with-over-the-board-games/",
-         "pubDate" : "Mon, 24 May 2021 19:34:24 +0000",
-         "title" : "European Hybrid Qualification Tournament with Over-the-Board games"
-      },
-      {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;kicked off today and takes place from 24-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 LIVE 264 players (160 GMs) participate the event representing 35 European federations. All the players compete from the approved tournament halls per country. Photo gallery of the venues:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-venues/",
-         "pubDate" : "Mon, 24 May 2021 19:19:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament - Photo gallery of the venues"
       },
       {
          "description" : "Teimour Radjabov has, as expected, been given a spot in the 2022 Candidates Tournament after his pandemic concerns saw him replaced by Maxime Vachier-Lagrave for the event that began in 2020. The other spots will go to the loser of this year's World Championship match, two players in the World Cup, two players in the FIDE Grand Swiss and finally two players from a FIDE Grand Prix Series set to take place from February to April next year. Potentially we can then have the Candidates and another World Championship match in 2022.",
@@ -306,14 +354,6 @@ news_feed (
          "title" : "Caruana, Radjabov and Nakamura lead the FTX Crypto Cup Preliminaries after day 2 - Day 2"
       },
       {
-         "description" : "This summer, as part of the Sparkassen Chess in Dortmund, Viswanathan Anand will play the first match in chess without castling in the duel of the world champions against Vladimir Kramnik. After Vladimir Kramnik had already talked about the special features of the No Castling Chess variation in an exclusive interview, Anand was now the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/no-castling-chess-2021-interview-with-anand-and-kramnik/",
-         "pubDate" : "Mon, 24 May 2021 14:49:33 +0000",
-         "title" : "No Castling Chess - interview with Anand and Kramnik"
-      },
-      {
          "description" : "The preliminaries of the FTX Crypto Cup, the sixth event of the Meltwater Champions Chess Tour, started on Sunday. Anish Giri grabbed the sole lead with a 4/5 score, while world champion Magnus Carlsen only managed to get fifty percent of the points. There are ten more preliminary round games to come, so Carlsen is well in time to climb up the standings table. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -338,14 +378,6 @@ news_feed (
          "title" : "British Junior Rapid & Blitz Championship"
       },
       {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. European Hybrid Qualification Tournament 2021 full information / Pairing Tree 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
-         "pubDate" : "Mon, 24 May 2021 11:50:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
-      },
-      {
          "description" : " The European Hybrid Qualification tournament takes place on Tornelo 24th to 30th May to 2021. The event is a three round knockout aimed at cutting the 264 strong field down to 36 qualifiers. Leading players by rating: Vladislav Artemiev, Evgeny Tomashevsky, Andrey Esipenko, Kirill Alekseenko, David Navara, Alexandr Predke, Maxim Matlakov, Vladimir Fedoseev, Boris Gelfand, David Anton Guijarro, Ferenc Berkes, Pavel Eljanov, Nils Grandelius, Matthias Bluebaum, Ivan Cheparinov, Sanan Sjugirov, Sanan Donchenko Alexander, Constantin Lupulescu, Ernesto Inarkiev, Grigoriy Oparin, Aleksandr Rakhmanov, Alexey Sarana, Evgeniy Najer, Aleksey Dreev, Viktor Laznicka and Sergei Movsesian. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gibraltar-fide-womens-grand-prix-2021",
          "pubDate" : "Mon, 24 May 2021 14:54:00 +0400",
          "title" : "Gibraltar FIDE Women's Grand Prix 2021 - Games and Results"
-      },
-      {
-         "description" : "Round 1 of the Gibraltar leg of the FIDE Women's Grand Prix began at the Caleta Hotel this May 22. FIDE Women's Grand Prix full information and LIVE games Thankfully, all players were present for the start, with Valentina Gunina of Russia being the last to arrive just a few hours before the round started []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-with-a-perfect-fide-womens-grand-prix-gibraltar/",
-         "pubDate" : "Mon, 24 May 2021 10:50:04 +0000",
-         "title" : "Zhansaya Abdumalik with a perfect start at FIDE Women's Grand Prix Gibraltar"
       },
       {
          "description" : "",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "Botvinnik-Smyslov: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a champion of its Spring league! Join GM Josh Friedel for the move-by-move. Who will win: Edward Jones, World Wide Technology, Enterprise, or Maritz? 2021.05.20<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-spring-championship-chesscom",
-         "pubDate" : "Fri, 21 May 2021 00:50:57 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Spring Championship | Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
          "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mp0RgxMGImM.jpg?itok=GdaLZNMY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/smyslov-botvinnik-first-encounter-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 20 May 2021 00:50:06 +0000",
-         "title" : "Smyslov-Botvinnik: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/bruce-pandolfini-nepo-might-win-the-match/",
          "pubDate" : "Wed, 05 May 2021 08:58:01 +0000",
          "title" : "Bruce Pandolfini: Nepo Might Win the Match"
-      },
-      {
-         "description" : " The Lasker Method to Improve in Chess : Gerard Welling and Steve Giddins From the book's rear cover : &#8220;Many club players think that studying chess is all about cramming as much information in their brain as they can. Most textbooks support that notion by stressing the importance of always trying to find the objectively best <a href=\"http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Lasker Method to Improve in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/\">The Lasker M",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/05/the-lasker-method-to-improve-in-chess/",
-         "pubDate" : "Wed, 05 May 2021 00:10:28 +0000",
-         "title" : "The Lasker Method to Improve in Chess"
       }
    ]
 }
