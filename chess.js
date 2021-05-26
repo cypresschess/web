@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Merijn van Delft takes a look at a game between Magnus Carlsen and Alexander Grischuk in which the World Champion sacrificed a piece in the opening to build up a slow and powerful attack. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-carlsen-vs-grischuk",
+         "pubDate" : "Wed, 26 May 2021 18:00:00 +0100",
+         "title" : "Game of the Week: Carlsen vs Grischuk"
+      },
+      {
+         "description" : "GM Jeffery Xiong won the May 25 Titled Tuesday tournament outright with a score of 10/11, his second win in as many months. GM Vladimir Dobrov finished second with 9.5/11 on a tiebreak over third-place GM Salem Saleh after both won in the final ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-wins-may-25-titled-tuesday",
+         "pubDate" : "Wed, 26 May 2021 09:55:00 -0700",
+         "title" : "Xiong Wins May 25 Titled Tuesday"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour is a circuit of five tournaments, consisting of classical, rapid, and blitz time controls. Ten full tour players compete for a total prize fund of $1.275 million. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FptKBQ0DXvA.jpg?itok=r-N01VdA\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-preview",
+         "pubDate" : "Wed, 26 May 2021 15:55:40 +0000",
+         "title" : "2021 Grand Chess Tour: Preview"
+      },
+      {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 3 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Wed, 26 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Quarterifnals Live!"
+      },
+      {
+         "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-3",
+         "pubDate" : "Wed, 26 May 2021 16:40:00 +0100",
+         "title" : "FTX Crypto Cup: Caruana wins the prelims, Carlsen and Nepo qualify"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82976200.cms\" /></a>The women's chess World Cup, to be held in Sochi from July 10 to August 3, will see a strong Indian line-up comprising Koneru Humpy, D Harika, Padmini Rout, Bhakti Kulkarni and R Vaishali. For 20-year-old Vaishali Grandmaster R Praggnanandhaa's elder sister this will be her first major over-the-board senior event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms",
+         "pubDate" : "Wed, 26 May 2021 19:49:48 +0530",
+         "title" : "Going to the women's World Cup with an open mind: R Vaishali"
+      },
+      {
+         "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Wed, 26 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar, Round 5 - Live"
+      },
+      {
+         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 2.1 starts at 14:00 CEST (08:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
+         "pubDate" : "Wed, 26 May 2021 13:50:58 +0100",
+         "title" : "European Hybrid Qualification live"
+      },
+      {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-5/",
+         "pubDate" : "Wed, 26 May 2021 11:52:00 +0000",
+         "title" : "Quick Decisions (5)"
+      },
+      {
          "description" : "Three players share the lead after round four of the Gibraltar leg of the FIDE Women's Grand Prix, played at the Caleta Hotel on 25 May 2021. Zhansaya Abdumalik (Kazakhstan), Mariya Muzychuk (Ukraine) and Kateryna Lagno (Russia) have three points from a possible four, and they are also the only players in the field who []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,7 +98,7 @@ news_feed (
          "title" : "R1 report - European Hybrid Qualification Chess Tournament"
       },
       {
-         "description" : "Another modest 3/5 score on day three of the FTX Crypto Cup was enough for GM Magnus Carlsen to make it to the knockout stage, starting on Wednesday. World Championship contender GM Ian Nepomniachtchi also just made it, while GM Fabiano Caruana fi...",
+         "description" : "Another modest 3/5 score on day three of the FTX Crypto Cup was enough for GM Magnus Carlsen to make it to the knockout stage, which starts on Wednesday. World Championship contender GM Ian Nepomniachtchi also just made it, while GM Fabiano Caruan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-3",
@@ -40,6 +112,14 @@ news_feed (
          "link" : "https://www.chessdom.com/carlsen-barely-gets-to-the-ftx-crypto-cup-finals/",
          "pubDate" : "Wed, 26 May 2021 08:47:00 +0000",
          "title" : "Carlsen barely gets to the FTX Crypto Cup finals (UPDATED)"
+      },
+      {
+         "description" : "The African Continental Championship is going full steam ahead. The event takes place 17-28 May in Lilongwe, Malawi and only two rounds left to be played. Fawole John Oyeyemi from&#160;BruvsChess Media&#160;is bringing daily reports on the event. Here are some key excerpts, make sure to visit BruvsChess Media for the full coverage. African Individual Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-continental-championship-round-5-6-reports/",
+         "pubDate" : "Wed, 26 May 2021 08:40:00 +0000",
+         "title" : "African Continental Championship - round 5-6 reports"
       },
       {
          "description" : "Fabiano Caruana cruised to 1st place in his debut Meltwater Champions Chess Tour preliminary stage, scoring 10/15 to finish a full point ahead of the field. He plays Ian Nepomniachtchi in the quarterfinals, after the new World Championship Challenger scraped an unlikely win against Alexander Grischuk in the final round. That almost knocked out Magnus Carlsen, with the World Champion calling it a \"massive relief\" that he ultimately beat Teimour Radjabov on demand. Levon Aronian and Shakhriyar Mamedyarov were the players to suffer last-round heartbreak.",
@@ -138,12 +218,12 @@ news_feed (
          "title" : "The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White"
       },
       {
-         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Follow FM Klaasen on Twitch / Youtube Schedule Tuesdays 7pm [GMT+2]&#160; Reflections (interviews and game []",
+         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Live stream tonight 23:00 CEST Join the live stream of FM Calvin Klaasen tonight, will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-stream/",
          "pubDate" : "Wed, 26 May 2021 00:01:00 +0000",
-         "title" : "FM Calvin Klaasen - live stream"
+         "title" : "FM Calvin Klaasen - live stream tonight at 23:00 CEST"
       },
       {
          "description" : "This is the live stream page of the 6 time youth and junior champion of France, WIM Andreea Navrotescu. Andreea aka andy_rekt is Team Vitality Ambassador and Twitch partner. She is fluent in English, French, Spanish, and Romanian and provides weekly chess streams and lessons. Official website / Twitter / Instagram / Facebook / Youtube []",
@@ -194,14 +274,6 @@ news_feed (
          "title" : "The Weekly Show: Young Talents"
       },
       {
-         "description" : "Chess, chess online and cryptocurrencies. Well put, Olimpiu Urcan, well put! More: Chess and crypto - love at&hellip; third sight?",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cant-touch-this-tweetoftheday/",
-         "pubDate" : "Tue, 25 May 2021 17:41:43 +0000",
-         "title" : "Can't touch this! #TweetOftheDay"
-      },
-      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fritz-chesster-chessboard-editions",
          "pubDate" : "Tue, 25 May 2021 16:52:28 +0100",
          "title" : "Fritz & Chesster Chessboard editions"
-      },
-      {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. World champion Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 2 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Tue, 25 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621950005605-5JLL85ELM5297UXF3QO6/ke17ZwdGBToddI8pDm48kE36Uh9bApxLEgMUgad3QiYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcVlyuJQfoPDVItoHphofWVjF3J7v8XtghArXT5ss6EJA3bcYaMguvwelSeo-qDWJi/37841064_1107558472726714_9055942606655062016_n.jpg\" data-image-dimensions=\"1008x756\" data-image-focal-point=\"0.5,0.5\" alt=\"GM Ben Finegold with Karen Boyd, his wife, and co-founder of the Chess Club and Scholastic Center of Atlanta. Photo via the CCSCATL Facebook Page\" data-load=\"false\" data-image-id=\"60acfe3",
@@ -576,14 +640,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/clasp-your-hands-and-raise-an-eyebrow/",
          "pubDate" : "Sun, 23 May 2021 05:56:30 +0000",
          "title" : "Clasp Your Hands and Raise an Eyebrow"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Ian Nepomniachtchi vs. Kirill Alekseenko from the World Championship Candidates in 2021. 2021.04.28<br /> Ian Nepomniachtchi vs Kirill Alekseenko, World Championship Candidates (2020/21): A13 English, Neo-Catalan accepted<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2041080\">https://www.chessgames.com/perl/chessgame?gid=2041080</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-vs-alekseenko-2021-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-vs-alekseenko-2021-candidates-game-review",
-         "pubDate" : "Sun, 23 May 2021 00:52:41 +0000",
-         "title" : "Nepomniachtchi vs. Alekseenko, 2021 Candidates | Game Review"
       },
       {
          "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
@@ -1906,14 +1962,6 @@ news_feed (
          "title" : "Magnus Carlsen ends tournament win drought at New In Chess Classic"
       },
       {
-         "description" : " Last week, we started looking at the opening through the eyes of the beginner playing Black. The key points I made regarding playing Black were that the same opening principles that apply to White hold true for Black as well. We dismissed the idea that White had a big advantage because of having the first <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventeen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventeen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventeen/\">A Foundation for Beginners Seventeen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventeen/",
-         "pubDate" : "Fri, 07 May 2021 06:58:30 +0000",
-         "title" : "A Foundation for Beginners Seventeen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,38 +2088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-may-4-titled-tuesday",
          "pubDate" : "Wed, 05 May 2021 12:16:00 -0700",
          "title" : "Nakamura Wins May 4 Titled Tuesday"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1067",
-         "pubDate" : "Wed, 05 May 2021 16:31:05 +0000",
-         "title" : "Shenzhen Road Primary School stages impressive chess scene"
-      },
-      {
-         "description" : "This week Merijn van Delft takes another look at the Candidates and presents a game by Ian Nepomniachtchi, the winner of the Candidates, who will challenge World Champion Magnus Carlsen in November. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-i-nepomniachtchi-vs-k-alekseenko",
-         "pubDate" : "Wed, 05 May 2021 17:00:00 +0100",
-         "title" : "Game of the Week: I. Nepomniachtchi vs K. Alekseenko"
-      },
-      {
-         "description" : "In the Russian Team Championship in Sochi, Mednyi Vsadnik St. Petersburg defended its lead by defeating KPRF Moscow in round 4. In the women's tournament, Chess Team Moscow, with Kateryna Lagno, Polina Shuvalova and Alexandra Kosteniuk on the top boards, won its fourth match in a row and is clear first. | Photos: Russian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iron-horsemen-lead-russian-team-championship",
-         "pubDate" : "Wed, 05 May 2021 16:23:36 +0100",
-         "title" : "\"Iron Horsemen\" lead Russian Team Championship"
-      },
-      {
-         "description" : "Two students are studying a chess position. A Zen master watches and tells them that one of the pieces will play a very deep move. \"Which one?\" the students want to know. The Zen master whispers the piece type to one student and the colour to the other. From their reactions they are able to deduce which piece it is. You can help us in a book project by solving the problem. And hopefully have some fun in the process.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-logicals-an-experiment",
-         "pubDate" : "Wed, 05 May 2021 14:00:00 +0100",
-         "title" : "Chess Logicals - an experiment"
       }
    ]
 }
