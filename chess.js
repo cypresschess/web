@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk (pictured) are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r4",
+         "pubDate" : "Wed, 26 May 2021 08:45:00 +0100",
+         "title" : "Gibraltar GP: No punches pulled"
+      },
+      {
+         "description" : " Ian Nepomniachtchi only qualified for the knockout stage with a win (against Alexander Grischuk) in the last round of the preliminaries, while Magnus Carlsen might have failed to qualify had he not won in the last round against Teimour Radjabov. But they both did, and so the quarterfinals of the <a href=\"https://championschesstour.com/\">FTX Crypto Cup</a> will include both contestants of the forthcoming world championship match. At the top of the pile was Fabiano Caruana, whose 3.5/5 score on the day left him with 10/15 overall, a point clear of his closest pursuers. There were four of them: Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, and Wesley So. Carlsen and Radjabov were a furt",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/5/26/ftx-crypto-cup-preliminaries-finish-quarterfinals-are-set.html",
+         "pubDate" : "Wed, 26 May 2021 06:34:15 +0000",
+         "title" : "FTX Crypto Cup: Preliminaries Finish; Quarterfinals are Set"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the best games from the ongoing American Hybrid World Cup Qualifier, a collection of eight 16-player online knockouts. The eight winners will earn entry into the World Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JjT0Ske6EdI.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
+         "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0-NAdImSsTo.jpg?itok=NeN4V9s2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel",
+         "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
+         "title" : "Opposite Color Bishops: Know the Rules | Insane in the Endgame - GM Josh Friedel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-bishops-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0-NAdImSsTo.jpg?itok=NeN4V9s2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/25/episode-228-gm-ben-finegold-returns",
          "pubDate" : "Tue, 25 May 2021 13:58:23 +0000",
          "title" : "Episode 228- GM Ben Finegold returns "
-      },
-      {
-         "description" : "After three rounds Kateryna Lagno [pictured] and Zhansaya Abdumalik lead the Women's Grand Prix in Gibraltar with 3.5/4 each. In round 4 Lagno plays with Black against Antonaeta Stefanova while Abdumalik plays with Black against Irina Bulmaga. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Tue, 25 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar, Round 4 - Live"
       },
       {
          "description" : "After having a rough start in the Qualification League, Booot (ELO 3391) finally showed its potential. It won convincingly League 4 of TCEC S21 with 17,5/22 13 wins, 9 draws and no losses. Booot finished a full point ahead of the rating favorite Halogen, and three points ahead of the QL winner Koivisto. Booot, []",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Carlsen's kamikaze king"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes Fabiano Caruana vs. Anish Giri from the World Championship Candidates Tournament in 2021. 2021.04.28<br /> Fabiano Caruana vs Anish Giri, World Championship Candidates (2020/21): B40 Sicilian, Anderssen variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2042198\">https://www.chessgames.com/perl/chessgame?gid=2042198</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-giri-2021-candidates-game-review",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-vs-giri-2021-candidates-game-review",
-         "pubDate" : "Sat, 22 May 2021 00:51:45 +0000",
-         "title" : "Caruana vs. Giri, 2021 Candidates | Game Review"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;The Budapest Gambit (1 d4 Nf6 2 c4 e5) is an aggressive, dynamic approach for meeting 1 d4 and is a great line for throwing opponents onto their own resources. It is certainly double-edged as Black moves the same piece twice early on and also <a href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Budapest Gambit</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\">Play the Budapest Gambit</a> appeared first on <a rel=\"nofollow\" href=\"http://brit",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/21/chess-magnus-carlsen-and-entire-world-top-10-compete-for-volatile-bitcoin",
          "pubDate" : "Fri, 21 May 2021 07:00:00 +0000",
          "title" : "Chess: Magnus Carlsen and entire world top 10 compete for volatile bitcoin"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Round 13 of the Botvinnik vs. Vasily Smyslov 1954 World Championship Match. The match was the first of three that they played. 2021.05.19<br /> Vasily Smyslov vs Mikhail Botvinnik, Botvinnik - Smyslov World Championship Match (1954): B24 Sicilian, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032334\">https://www.chessgames.com/perl/chessgame?gid=1032334</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/botvinnik-smyslov-first-encounter-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 21 May 2021 03:51:00 +0000",
-         "title" : "Botvinnik-Smyslov: The First Encounter | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "",
