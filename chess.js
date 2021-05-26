@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players share the lead after round four of the Gibraltar leg of the FIDE Women's Grand Prix, played at the Caleta Hotel on 25 May 2021. Zhansaya Abdumalik (Kazakhstan), Mariya Muzychuk (Ukraine) and Kateryna Lagno (Russia) have three points from a possible four, and they are also the only players in the field who []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/three-players-share-the-lead-at-fide-womens-grand-prix-gibraltar/",
+         "pubDate" : "Wed, 26 May 2021 10:59:33 +0000",
+         "title" : "Three players share the lead at FIDE Women's Grand Prix Gibraltar"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1103",
+         "pubDate" : "Wed, 26 May 2021 10:28:31 +0000",
+         "title" : "Carlsen survives almighty scare Caruana wins prelim stage"
+      },
+      {
+         "description" : "European Hybrid Qualification Chess Tournament for the FIDE World Chess Cup launched on Monday, May 24, through Tornelo Online platform. Shortly before the start of the first round, ECU Secretary General Mr. Theodoros Tzorbatsoglou joined the ECU live studio and addressed all the players. Read more: ECU Secretary General: we should be proud of Women []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/r1-report-european-hybrid-qualification-chess-tournament/",
+         "pubDate" : "Wed, 26 May 2021 09:45:00 +0000",
+         "title" : "R1 report - European Hybrid Qualification Chess Tournament"
+      },
+      {
+         "description" : "Another modest 3/5 score on day three of the FTX Crypto Cup was enough for GM Magnus Carlsen to make it to the knockout stage, starting on Wednesday. World Championship contender GM Ian Nepomniachtchi also just made it, while GM Fabiano Caruana fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-3",
+         "pubDate" : "Wed, 26 May 2021 01:51:00 -0700",
+         "title" : "FTX Crypto Cup: Carlsen, Nepomniachtchi Barely Survive Preliminaries"
+      },
+      {
+         "description" : "In a last round drama, the World Champion Magnus Carlsen barely managed to qualify for the FTX Crypto Cup finals. In a nail-biter vs Radjabov, Magnus managed to take a dramatic full point (replay). With a draw he would have been out of the competition. A frantic end to the FTX Crypto Cup's prelim stage []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-barely-gets-to-the-ftx-crypto-cup-finals/",
+         "pubDate" : "Wed, 26 May 2021 08:47:00 +0000",
+         "title" : "Carlsen barely gets to the FTX Crypto Cup finals (UPDATED)"
+      },
+      {
+         "description" : "Fabiano Caruana cruised to 1st place in his debut Meltwater Champions Chess Tour preliminary stage, scoring 10/15 to finish a full point ahead of the field. He plays Ian Nepomniachtchi in the quarterfinals, after the new World Championship Challenger scraped an unlikely win against Alexander Grischuk in the final round. That almost knocked out Magnus Carlsen, with the World Champion calling it a \"massive relief\" that he ultimately beat Teimour Radjabov on demand. Levon Aronian and Shakhriyar Mamedyarov were the players to suffer last-round heartbreak.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-3-carlsen-naka-in-qfs-as-magnus-nepo-scrape-through",
+         "pubDate" : "Wed, 26 May 2021 08:29:30 +0000",
+         "title" : "FTX Crypto Cup 3: Carlsen-Naka in QFs as Magnus & Nepo scrape through"
+      },
+      {
+         "description" : " One common question asked is \"What is the difference between a GM and an FM?\" (in terms of skill level). Now there are lots of correct answers (fewer mistakes, deeper calculation etc), but as the following game demonstrates, knowing when to strike (and when to play h3!). <br /> <b>Novendra,Priasmoro (2502) - Atakhan,Abtin (2319) [C11]</b><br />Asian Hybrid Continental Chess Champions (6.14), 21.05.2021 <script>new PgnViewer( { boardName: \"game1246\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Rc8 16.O-O Qd8 17.f5 exf5 18.Qe3 Qa5 19.e6 fxe6 20.Rxf5 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/gm-v-fm.html",
+         "pubDate" : "Wed, 26 May 2021 08:18:00 +0000",
+         "title" : "GM v FM"
+      },
+      {
          "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk (pictured) are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +170,6 @@ news_feed (
          "title" : "Round 4: Joy for the Muzychuks, but Elisabeth steals the show"
       },
       {
-         "description" : "Rapid advance: In a last round drama, the World Champion Magnus Carlsen barely managed to qualify for the FTX Crypto Cup finals. In a nail-biter vs Radjabov, Magnus managed to take a dramatic full point (replay). With a draw he would have been out of the competition. Besides Carlsen, to the next round advance Caruana, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-barely-gets-to-the-ftx-crypto-cup-finals/",
-         "pubDate" : "Tue, 25 May 2021 19:47:56 +0000",
-         "title" : "Carlsen barely gets to the FTX Crypto Cup finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -162,6 +210,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 5"
       },
       {
+         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Being Basically Lost Every Time <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
+         "pubDate" : "Tue, 25 May 2021 16:21:00 +0000",
+         "title" : "How To Improve By Playing Online Blitz: Analyse Every Single Game"
+      },
+      {
          "description" : "Fritz & Chesster has been around for 20 years! The chess learning software for children is an absolute classic! It shows how digital learning works and is fun. Now the ChessBase merchandising partner LEMI Consulting is redesigning the program and developing physical pieces and boards for children to enhance their online experience. You can support their Kickstarter project.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,36 +242,12 @@ news_feed (
          "title" : "Episode 228- GM Ben Finegold returns "
       },
       {
-         "description" : "After having a rough start in the Qualification League, Booot (ELO 3391) finally showed its potential. It won convincingly League 4 of TCEC S21 with 17,5/22 13 wins, 9 draws and no losses. Booot finished a full point ahead of the rating favorite Halogen, and three points ahead of the QL winner Koivisto. Booot, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/booot-kicks-into-high-gear-wins-tcec-s21-l4/",
-         "pubDate" : "Tue, 25 May 2021 13:29:41 +0000",
-         "title" : "Booot kicks into high gear, wins TCEC S21 L4"
-      },
-      {
-         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 1.2 starts at 13:00 CEST (07:00 ET, 11:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
-         "pubDate" : "Tue, 25 May 2021 12:57:58 +0100",
-         "title" : "European Hybrid Qualification live"
-      },
-      {
          "description" : "Magnus Carlsen started Day 2 of the FTX Crypto Cup with 1.b4 and followed up with 1.b3, but while those experiments went well he was cursing the \"worst self-inflicted wound\" of losing to Levon Aronian in the final round of the day. That left him in a qualification dogfight on 5.5/10, but he's not alone, with the top 9 players separated by a single point. Fabiano Caruana came back from the dead to beat Alan Pichot, then take down leader Anish Giri, on the way to posting the day's best 4/5 score and joining Hikaru Nakamura and Teimour Radjabov in the lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-2-carlsen-plays-1-b4-as-race-blown-wide-open",
          "pubDate" : "Tue, 25 May 2021 11:24:20 +0000",
          "title" : "FTX Crypto Cup 2: Carlsen plays 1.b4 as race blown wide open"
-      },
-      {
-         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Follow FM Lefong []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
-         "pubDate" : "Tue, 25 May 2021 11:01:00 +0000",
-         "title" : "FM Lefong Hua - live stream"
       },
       {
          "description" : "This is a 12-year-old on a mission: to become the youngest chess grandmaster in history. Abhimanyu Mishra has made two norms, but in his latest tournament suffered a setback: in time trouble refused a draw offer by a GM and discovered that this is not such a great idea. Abhi lost the game, and a second one to boot, but staged a remarkable comeback with four back-to-back wins. He gained nine rating points and is currently just eight points from his goal. Read the messages of encouragement the lad from Englishtown, New Jersey, is getting from well-known personalities from all over the world.",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
       },
       {
-         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis2",
-         "pubDate" : "Sat, 22 May 2021 12:46:00 +0000",
-         "title" : "How To Analyse Your Own Games: Part 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -600,6 +624,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-women-grand-prix-gibraltar-opening",
          "pubDate" : "Sat, 22 May 2021 03:57:00 -0700",
          "title" : "Women's World Championship Cycle Resumes In Gibraltar"
+      },
+      {
+         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/game-analysis2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis2",
+         "pubDate" : "Sat, 22 May 2021 10:46:00 +0000",
+         "title" : "How To Analyse Your Own Games: Part 2"
       },
       {
          "description" : "It hasn't been easy working under pandemic stress. Now that things are getting better we need to get ready to re-enter the chess arena. \"The only real training tool I found,\" writes Davide Nastasio, \"which was comprehensive, and covered all the phases of the game is ChessBase Magazine, now in its 200th edition. Davide shares some of the positions and games he found especially interesting.",
@@ -1314,14 +1346,6 @@ news_feed (
          "title" : "Tashkent hosts Online Seminar for International Organizers"
       },
       {
-         "description" : "Baadur Jobava danced his way to a 6.5:5.5 win over Alexander Grischuk as the most anticipated Round 1 match-up went down to the final game. It was the same in Howell-Van Foreest, which the English Grandmaster clinched 7:5 after an incredible battle, while there were comfortable wins in the day's earlier matches. Nils Grandelius ousted Alexei Shirov 6.5:1.5, while Laurent Fressinet shocked Peter Svidler 6.5:2.5. It's Giri-Grandelius, Dubov-Fressinet, Vidit-Howell and Navara-Jobava in the quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mdi-2-day-2-jobava-dances-to-win-over-grischuk",
-         "pubDate" : "Fri, 14 May 2021 11:11:36 +0000",
-         "title" : "MDI 2, Day 2: Jobava dances to win over Grischuk"
-      },
-      {
          "description" : "Due to the pandemic, the Mitropa Cup 2021 was played as a \"Hybrid Tournament\" - the teams met at a central venue in their own countries from where they played online against the other teams, supervised by an arbiter. The Italian teams coped best with this still unusual form of tournament chess: they won gold in the Open Tournament and in the Women's Tournament. | Picture: Italian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1598,7 +1622,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
-         "pubDate" : "Tue, 11 May 2021 11:32:06 +0000",
+         "pubDate" : "Tue, 11 May 2021 09:32:06 +0000",
          "title" : "How To Set Chess Goals And Achieve Them"
       },
       {
@@ -2048,30 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-logicals-an-experiment",
          "pubDate" : "Wed, 05 May 2021 14:00:00 +0100",
          "title" : "Chess Logicals - an experiment"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1066",
-         "pubDate" : "Wed, 05 May 2021 09:12:08 +0000",
-         "title" : "Qualification for FIDE Women's Candidates Tournament 2022 announced"
-      },
-      {
-         "description" : "France's top players, most prominently Maxime Vachier-Lagrave, have been on bad terms with their Chess Federation for years now. After the deselection of Bachar Kouatly, the association's new president Éloi Relange wants to put an end to the infighting. However, internal struggles within the Chess Federation still persist, as Stefan L&ouml;ffler found out. | Photo: Bachar Kouatly, who remains Deputy President of FIDE. | Photo: FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-president-for-the-french-chess-federation",
-         "pubDate" : "Wed, 05 May 2021 10:00:00 +0100",
-         "title" : "A New President for the French Chess Federation"
-      },
-      {
-         "description" : " <a href=\"https://en.wikipedia.org/wiki/Bruce_Pandolfini\">Bruce Pandolfini</a> is the world's <i>most experienced</i> chess coach and incidentally the man who came up with the title for 'The Queen's Gambit', the book that was repurposed into the eponymous Netflix Series. When Pandolfini appeared in the Breakdown Live Studio by World Chess to discuss the Candidates Tournament, he shared his take on the upcoming Championship Match: \"It's hard to stay at the top for so long - even for a brilliant mind like Carlsen\". Magnus Carlsen will have to defend his title against Russia's Ian Nepomniachtchi - a formidable opponent, according to Carlsen. <div class=\"e2-text-video\"> <iframe src=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/bruce-pandolfini-nepo-might-win-the-match/",
-         "pubDate" : "Wed, 05 May 2021 08:58:01 +0000",
-         "title" : "Bruce Pandolfini: Nepo Might Win the Match"
       }
    ]
 }
