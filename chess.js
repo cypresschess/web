@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/recover-from-setbacks/?utm_source=rss&utm_medium=rss&utm_campaign=recover-from-setbacks",
          "pubDate" : "Wed, 05 May 2021 19:30:23 +0000",
          "title" : "Easy Way To Recover From Setbacks"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won the May 4 Titled Tuesday on tiebreaks, his third win in his last three attempts (while playing the New In Chess Classic on April 27 instead). GM Haik Martirosyan finished second and GM Bogdan-Daniel Deac third, all on 9.5/11...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-may-4-titled-tuesday",
-         "pubDate" : "Wed, 05 May 2021 12:16:00 -0700",
-         "title" : "Nakamura Wins May 4 Titled Tuesday"
       }
    ]
 }
