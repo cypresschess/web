@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open&#160;/&#160;Participants women Round 9 live Round 9 women live Round 8 Round 8 women Round 7 open Round 7 women Round 6 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
+         "pubDate" : "Wed, 26 May 2021 21:40:00 +0000",
+         "title" : "African Chess Championships 2021 LIVE"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82988687.cms\" /></a>Ice cool Magnus Carlsen needed a final game win to save his match against Hikaru Nakamura as the FTX Crypto Cup quarterfinals exploded into action on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms",
+         "pubDate" : "Thu, 27 May 2021 01:53:43 +0530",
+         "title" : "FTX Crypto Cup: Carlsen and Nakamura trade blows in tight quarterfinal"
+      },
+      {
+         "description" : " Magnus Carlsen and Hikaru Nakamura drew their first set 2-2 in the Quarterfinals of their FTX Crypto Chess tie. All four game were pretty one sided with white getting large advantages out of the opening. Carlsen \"mixed something up\" in the opening in game one and got crushed, in game two Nakamura allowed a bishop to live in a variation where he'd taken it previously and Carlsen sacrificed it immediately for a decisive attack. Carlsen felt he was fine in game three out of the opening but then took a long time over 16...d5, missed that 18.f4 was stronger than it appeared and quickly went on the wrong track and lost. Nakamura too was probably fine at some point in the final game but the powerf",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-nakamura-draw-the-first-set-of-their-ftx-crypto-chess-quarterfinal-where-white-won-every-game",
+         "pubDate" : "Wed, 26 May 2021 21:32:00 +0400",
+         "title" : "Carlsen and Nakamura draw the first set of their FTX Crypto Chess quarterfinal where white won every game - Day 4"
+      },
+      {
          "description" : "This week Merijn van Delft takes a look at a game between Magnus Carlsen and Alexander Grischuk in which the World Champion sacrificed a piece in the opening to build up a slow and powerful attack. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
          "pubDate" : "Wed, 26 May 2021 13:50:58 +0100",
          "title" : "European Hybrid Qualification live"
+      },
+      {
+         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: this is the last round of the African Continental. Join us for Live games from the open and women section here The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
+         "pubDate" : "Wed, 26 May 2021 12:15:00 +0000",
+         "title" : "African Individual Chess Championship 2021"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -226,22 +258,6 @@ news_feed (
          "title" : "FM Calvin Klaasen - live stream tonight at 23:00 CEST"
       },
       {
-         "description" : "This is the live stream page of the 6 time youth and junior champion of France, WIM Andreea Navrotescu. Andreea aka andy_rekt is Team Vitality Ambassador and Twitch partner. She is fluent in English, French, Spanish, and Romanian and provides weekly chess streams and lessons. Official website / Twitter / Instagram / Facebook / Youtube []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-andreea-navrotescu-live-stream/",
-         "pubDate" : "Wed, 26 May 2021 00:01:00 +0000",
-         "title" : "WIM Andreea Navrotescu - live stream"
-      },
-      {
-         "description" : "GM Mircea Parligras has a regular online stream on Twitch. GM Parligras played for Romania a total of eight times in the Chess Olympiads. Among his top career achievements are third round at the World Cup and a national title in 2016 Follow GM Mircea Parligras on Facebook",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-mircea-parligras-live-stream/",
-         "pubDate" : "Tue, 25 May 2021 23:57:34 +0000",
-         "title" : "GM Mircea Parligras - live stream"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -390,7 +406,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-done-quick-puzzles-edition",
-         "pubDate" : "Mon, 24 May 2021 17:32:04 -0700",
+         "pubDate" : "Mon, 24 May 2021 17:32:00 -0700",
          "title" : "Chess Done Quick: Puzzles Edition"
       },
       {
@@ -2056,30 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qualification-for-fide-women-s-candidates-tournament-2022-announced",
          "pubDate" : "Thu, 06 May 2021 10:00:00 +0100",
          "title" : "Qualification for FIDE Women's Candidates Tournament 2022 announced"
-      },
-      {
-         "description" : "How well would you do against a PogChamps winner? If that question ever crossed your mind, we have good news! You can now test your wits against each of the PogChampions, as well as other chess personalities on our Play Computer page. Play again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-pogchampions-bots",
-         "pubDate" : "Wed, 05 May 2021 14:09:00 -0700",
-         "title" : "Play Chess Against PogChampions And New Bot Personalities"
-      },
-      {
-         "description" : "The 2021 Icelandic Championship took place on April 22-30 in K&oacute;pavogur. It was a 10-player single round robin. Rating favourite Hj&ouml;rvar Steinn Gr&eacute;tarsson finished in sole first place with a 7/9 score. J&oacute;hann Hjartarson came second with 6&frac12; points, while defending champion Guðmundur Kjartansson got third place after collecting 6 points. | Pictured: Gr&eacute;tarsson during round 7 | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hjorvar-steinn-gretarsson-wins-icelandic-championship-2021",
-         "pubDate" : "Wed, 05 May 2021 22:00:00 +0100",
-         "title" : "Hj&ouml;rvar Steinn Gr&eacute;tarsson wins Icelandic Championship"
-      },
-      {
-         "description" : " Not qualifying for the FIDE World Cup via the Swiss qualification tournament was a big disappointment for me. Recovering mentally from such a setback can often take some time. I want to share a quote that helped me switch my mental state nearly immediately. Focus On The Positive I wrote <a href=\"https://nextlevelchess.blog/recover-from-setbacks/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/recover-from-setbacks/\">Easy Way To Recover From Setbacks</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/recover-from-setbacks/?utm_source=rss&utm_medium=rss&utm_campaign=recover-from-setbacks",
-         "pubDate" : "Wed, 05 May 2021 19:30:23 +0000",
-         "title" : "Easy Way To Recover From Setbacks"
       }
    ]
 }
