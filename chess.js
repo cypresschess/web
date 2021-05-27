@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Teimour Radjabov and Wesley So won the first sets of their quarterfinal matches in the FTX Crypto Cup, while Magnus Carlsen and Fabiano Caruana managed to draw their mini-matches by scoring wins on demand in the last game of the day against Hikaru Nakamura and Ian Nepomniachtchi respectively. In the face-off between Carlsen and Nakamura, all four games finished decisively and favoured the player with the white pieces. | Photo: Lennart Ootes / Altibox Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-4",
+         "pubDate" : "Thu, 27 May 2021 13:20:00 +0100",
+         "title" : "FTX Crypto Cup: Comebacks"
+      },
+      {
+         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 2.2 starts at 13:00 CEST (07:00 ET, 12:00 UTC). Tiebreaks start at 19:00 CEST. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
+         "pubDate" : "Thu, 27 May 2021 12:00:58 +0100",
+         "title" : "European Hybrid Qualification, Round 2.2 - live"
+      },
+      {
+         "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. Both players won both of their ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-ftx-crypto-cup-quarterfinals-day-1",
+         "pubDate" : "Thu, 27 May 2021 02:28:06 -0700",
+         "title" : "FTX Crypto Cup QF: Radjabov, So Lead as Carlsen, Nakamura Trade Blows"
+      },
+      {
+         "description" : "The Welsh Chess Championships 2021 will be an online event taking place May 28 June 1. The main event will be the Welsh Online Championships, which is 8 players closed event and a qualifier event for the British Online Championships. The other two events of the program are Welsh Online Major Open Championships Welsh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/welsh-chess-championships-2021/",
+         "pubDate" : "Thu, 27 May 2021 08:26:46 +0000",
+         "title" : "Welsh Chess Championships 2021"
+      },
+      {
          "description" : "All players eligible to participate in the national age-group chess championships are hereby notified that they can register themselves at the AICF portal directly. Please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,6 +82,22 @@ news_feed (
          "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open Section&#160;/&#160;Participants Women Section&#160;/&#160;Results round 1&#160;/&#160;Report rounds 2-4&#160;/&#160;Report rounds 5-6&#160;/ Report rounds 7-8 / &#160;Live games Video: FM Calvin Klaasen discusses games []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
+         "pubDate" : "Thu, 27 May 2021 00:23:00 +0000",
+         "title" : "African Chess Championships 2021 LIVE"
+      },
+      {
+         "description" : "WIM Rucha Pujari is a professional chess player from India. Among many other achievements Rucha Pujari is a holder of eight medals from Asian Chess Championships in different categories, four medals from Commonwealth Chess Championships, fifteen (!) medals from National Chess Championships including six gold medals, and more. Rucha Pujari is also a Trainer and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-rucha-pujari-live-stream/",
+         "pubDate" : "Thu, 27 May 2021 00:21:00 +0000",
+         "title" : "WIM Rucha Pujari - live stream and challenges today at 14:30 CEST"
+      },
+      {
          "description" : "The Charlotte Invitational Chess 2021 is going to take place 27-31 May. It consists of two round robins valid for FIDE norms. Charlotte Invitational GM A is a closed ten player event with GM Peter Prohaszka as to seed. 6,5/9 is the needed score for a GM norm and a total of seven players will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1104",
          "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
          "title" : "Round 5: Zhansaya and Mariya hold the Lead"
-      },
-      {
-         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information / Participants Open Section / Participants Women Section / Results round 1 / Report rounds 2-4 / Report rounds 5-6 / Report rounds 7-8 / Live games Video: FM Calvin Klaasen discusses games []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
-         "pubDate" : "Wed, 26 May 2021 21:40:00 +0000",
-         "title" : "African Chess Championships 2021 LIVE"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82988687.cms\" /></a>Ice cool Magnus Carlsen needed a final game win to save his match against Hikaru Nakamura as the FTX Crypto Cup quarterfinals exploded into action on Wednesday.",
@@ -119,7 +159,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Wed, 26 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Quarterfinals Live!"
+         "title" : "FTX Crypto Cup - Games and results"
       },
       {
          "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
@@ -200,22 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-3",
          "pubDate" : "Wed, 26 May 2021 01:51:00 -0700",
          "title" : "FTX Crypto Cup: Carlsen, Nepomniachtchi Barely Survive Preliminaries"
-      },
-      {
-         "description" : "In a last round drama, the World Champion Magnus Carlsen barely managed to qualify for the FTX Crypto Cup finals. In a nail-biter vs Radjabov, Magnus managed to take a dramatic full point (replay). With a draw he would have been out of the competition. A frantic end to the FTX Crypto Cup's prelim stage []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-barely-gets-to-the-ftx-crypto-cup-finals/",
-         "pubDate" : "Wed, 26 May 2021 08:47:00 +0000",
-         "title" : "Carlsen barely gets to the FTX Crypto Cup finals (UPDATED)"
-      },
-      {
-         "description" : "The African Continental Championship is going full steam ahead. The event takes place 17-28 May in Lilongwe, Malawi and only two rounds left to be played. Fawole John Oyeyemi from&#160;BruvsChess Media&#160;is bringing daily reports on the event. Here are some key excerpts, make sure to visit BruvsChess Media for the full coverage. African Individual Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-continental-championship-round-5-6-reports/",
-         "pubDate" : "Wed, 26 May 2021 08:40:00 +0000",
-         "title" : "African Continental Championship - round 5-6 reports"
       },
       {
          "description" : "Fabiano Caruana cruised to 1st place in his debut Meltwater Champions Chess Tour preliminary stage, scoring 10/15 to finish a full point ahead of the field. He plays Ian Nepomniachtchi in the quarterfinals, after the new World Championship Challenger scraped an unlikely win against Alexander Grischuk in the final round. That almost knocked out Magnus Carlsen, with the World Champion calling it a \"massive relief\" that he ultimately beat Teimour Radjabov on demand. Levon Aronian and Shakhriyar Mamedyarov were the players to suffer last-round heartbreak.",
@@ -2072,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1068",
          "pubDate" : "Thu, 06 May 2021 11:52:23 +0000",
          "title" : "Russian juniors and trainers awarded in Sirius"
-      },
-      {
-         "description" : "The Mitropa Cup 2021 is the first major team tournament that is played as a hybrid tournament. The players of the ten teams that take part in the tournament play from their home countries but meet in a central place where they play online, watched by arbiters. For the Italian team the Mitropa Cup is already a success: they play in a very modern, almost futuristic location - an eGaming house.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-the-qlash-house",
-         "pubDate" : "Thu, 06 May 2021 12:00:00 +0100",
-         "title" : "Chess in the QLASH house"
-      },
-      {
-         "description" : "In May 2018 the Chinese Grandmaster Ju Wenjun became Women's World Champion by defeating her countrywoman Tan Zhongyi in a match. Later the same year Ju Wenjun defended her title in a knock-out tournament, and in 2020 she defended her title again, this time in a match against Aleksandra Goryachkina from Russia. In 2022 Ju Wenjun will face her next challenger, the winner of the Women's Candidates Tournament 2022, will take place in the first half of 2022. And recently, the FIDE approved the \"qualifying path\" for the Women's Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qualification-for-fide-women-s-candidates-tournament-2022-announced",
-         "pubDate" : "Thu, 06 May 2021 10:00:00 +0100",
-         "title" : "Qualification for FIDE Women's Candidates Tournament 2022 announced"
       }
    ]
 }
