@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the quarterfinals. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Thu, 27 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Live!"
+      },
+      {
+         "description" : "Zhansaya Abdumalik and Mariya Muzychuk are sharing the lead after five rounds at the fourth leg of the Women's Grand Prix in Gibraltar. The co-leaders both won with white on Wednesday before their crucial direct encounter from round 6. Elisabeth Paehtz and Kateryna Lagno stand a half point behind, each on 3&frac12;/5. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Thu, 27 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar, Round 6 - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1105",
+         "pubDate" : "Thu, 27 May 2021 13:43:42 +0000",
+         "title" : "FIDE Chess.com Women's Speed Chess Championship kicks off tomorrow"
+      },
+      {
          "description" : "Teimour Radjabov and Wesley So won the first sets of their quarterfinal matches in the FTX Crypto Cup, while Magnus Carlsen and Fabiano Caruana managed to draw their mini-matches by scoring wins on demand in the last game of the day against Hikaru Nakamura and Ian Nepomniachtchi respectively. In the face-off between Carlsen and Nakamura, all four games finished decisively and favoured the player with the white pieces. | Photo: Lennart Ootes / Altibox Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-4",
          "pubDate" : "Thu, 27 May 2021 13:20:00 +0100",
          "title" : "FTX Crypto Cup: Comebacks"
+      },
+      {
+         "description" : "Wesley So and Teimour Radjabov have one foot in the FTX Crypto Cup semi-finals after winning Day 1 of their quarterfinals against Maxime Vachier-Lagrave and Anish Giri, but the greatest drama took place in the drawn matches. Magnus Carlsen and Hikaru Nakamura traded blows with White winning all four games in a throwback to the first day of the 2020 Magnus Carlsen Invitational, the event that launched the online chess revolution. New World Championship challenger Ian Nepomniachtchi looked set to beat ex-challenger Fabiano Caruana, but couldn't draw the final game on demand.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-carlsen-caruana-stage-comebacks",
+         "pubDate" : "Thu, 27 May 2021 11:38:25 +0000",
+         "title" : "FTX Crypto Cup 4: Carlsen & Caruana stage comebacks"
       },
       {
          "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 2.2 starts at 13:00 CEST (07:00 ET, 12:00 UTC). Tiebreaks start at 19:00 CEST. Follow the games live.",
@@ -18,12 +50,12 @@ news_feed (
          "title" : "European Hybrid Qualification, Round 2.2 - live"
       },
       {
-         "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. Both players won both of their ...",
+         "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-ftx-crypto-cup-quarterfinals-day-1",
-         "pubDate" : "Thu, 27 May 2021 02:28:06 -0700",
-         "title" : "FTX Crypto Cup QF: Radjabov, So Lead as Carlsen, Nakamura Trade Blows"
+         "pubDate" : "Thu, 27 May 2021 02:28:00 -0700",
+         "title" : "FTX Crypto Cup QF: Radjabov, So Lead As Carlsen, Nakamura Trade Blows"
       },
       {
          "description" : "The Welsh Chess Championships 2021 will be an online event taking place May 28 June 1. The main event will be the Welsh Online Championships, which is 8 players closed event and a qualifier event for the British Online Championships. The other two events of the program are Welsh Online Major Open Championships Welsh []",
@@ -82,6 +114,14 @@ news_feed (
          "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
+         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
+         "pubDate" : "Thu, 27 May 2021 00:28:00 +0000",
+         "title" : "FTX Crypto Cup LIVE"
+      },
+      {
          "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open Section&#160;/&#160;Participants Women Section&#160;/&#160;Results round 1&#160;/&#160;Report rounds 2-4&#160;/&#160;Report rounds 5-6&#160;/ Report rounds 7-8 / &#160;Live games Video: FM Calvin Klaasen discusses games []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,6 +152,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1104",
          "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
          "title" : "Round 5: Zhansaya and Mariya hold the Lead"
+      },
+      {
+         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Live today at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
+         "pubDate" : "Wed, 26 May 2021 22:00:00 +0000",
+         "title" : "FM Lefong Hua - live stream today at 15:00 CEST"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82988687.cms\" /></a>Ice cool Magnus Carlsen needed a final game win to save his match against Hikaru Nakamura as the FTX Crypto Cup quarterfinals exploded into action on Wednesday.",
@@ -154,14 +202,6 @@ news_feed (
          "title" : "2021 Grand Chess Tour: Preview"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 3 of the prelims. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Wed, 26 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Games and results"
-      },
-      {
          "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms",
          "pubDate" : "Wed, 26 May 2021 19:49:48 +0530",
          "title" : "Going to the women's World Cup with an open mind: R Vaishali"
-      },
-      {
-         "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Wed, 26 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar, Round 5 - Live"
       },
       {
          "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: this is the last round of the African Continental. Join us for Live games from the open and women section here The []",
@@ -210,28 +242,12 @@ news_feed (
          "title" : "Quick Decisions (5)"
       },
       {
-         "description" : "Three players share the lead after round four of the Gibraltar leg of the FIDE Women's Grand Prix, played at the Caleta Hotel on 25 May 2021. Zhansaya Abdumalik (Kazakhstan), Mariya Muzychuk (Ukraine) and Kateryna Lagno (Russia) have three points from a possible four, and they are also the only players in the field who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/three-players-share-the-lead-at-fide-womens-grand-prix-gibraltar/",
-         "pubDate" : "Wed, 26 May 2021 10:59:33 +0000",
-         "title" : "Three players share the lead at FIDE Women's Grand Prix Gibraltar"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1103",
          "pubDate" : "Wed, 26 May 2021 10:28:31 +0000",
          "title" : "Carlsen survives almighty scare Caruana wins prelim stage"
-      },
-      {
-         "description" : "European Hybrid Qualification Chess Tournament for the FIDE World Chess Cup launched on Monday, May 24, through Tornelo Online platform. Shortly before the start of the first round, ECU Secretary General Mr. Theodoros Tzorbatsoglou joined the ECU live studio and addressed all the players. Read more: ECU Secretary General: we should be proud of Women []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/r1-report-european-hybrid-qualification-chess-tournament/",
-         "pubDate" : "Wed, 26 May 2021 09:45:00 +0000",
-         "title" : "R1 report - European Hybrid Qualification Chess Tournament"
       },
       {
          "description" : "Another modest 3/5 score on day three of the FTX Crypto Cup was enough for GM Magnus Carlsen to make it to the knockout stage, which starts on Wednesday. World Championship contender GM Ian Nepomniachtchi also just made it, while GM Fabiano Caruan...",
@@ -354,7 +370,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 5"
       },
       {
-         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Being Basically Lost Every Time <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "OTB chess resumes!"
       },
       {
-         "description" : "Daniil Dubov, Vidit and David Navara all came back from two points behind to reach the semi-finals of the Mr Dodgy Invitational, with Baadur Jobava winning the final five games in a row as he danced to another victory, this time against David Navara. Only the defending champion Anish Giri never fell behind as he cruised to a 6.5:2.5 victory over Nils Grandelius to set up a semi-final against Dubov. He also joined the commentary team.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mdi-2-giri-dubov-vidit-jobava-in-the-semis",
-         "pubDate" : "Sat, 15 May 2021 13:11:59 +0000",
-         "title" : "MDI 2: Giri-Dubov & Vidit-Jobava in the semis"
-      },
-      {
          "description" : "Despite losing his last-round encounter against women's world champion Ju Wenjun, Yu Yangyi won the open section of the Chinese Championship for a second time in less than six months. The fourth highest-rated player in the country collected 7 points in 11 rounds and edged Wei Yi and Li Di on tiebreaks. Tan Zhongyi had already secured first place in the women's section with a round to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2056,46 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1022",
          "pubDate" : "Thu, 06 May 2021 16:50:12 +0000",
          "title" : "UPDATE: 1st workshop Equal Opportunities"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1069",
-         "pubDate" : "Thu, 06 May 2021 15:04:07 +0000",
-         "title" : "Intercontinental ChessKid/FIDE Challenge Returns"
-      },
-      {
-         "description" : " Recently, most sporting events had <a href=\"https://www.nytimes.com/2021/02/14/sports/tennis/sports-without-fans-covid-australian-open.html\"> few or no fans in attendance</a> because of the pandemic - no roaring crowds and cheering spectators. But for chess this was true even before the pandemic - you can't make a sound while sitting in a darkened hall for hours, following the game and trying to guess the next move. <a href=\"https://club.worldchess.com/\">World Chess Club Moscow</a>, the world's trendiest chess club and bar, has reinvented the chess watching experience for the Candidates Tournament this spring, making it feel like a sport again (which it surely is). For 9 nights straight, th",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watching-chess-the-right-way-in-the-roaring-crowd/",
-         "pubDate" : "Thu, 06 May 2021 14:24:31 +0000",
-         "title" : "Watching Chess The Right Way - In The Roaring Crowd"
-      },
-      {
-         "description" : " When I started this blog a number of years ago I had a couple of ideas for a name. My first choice was 'sixtyfoursquares' but it turned out this had been taken* My second choice 'chessexpress' was surprisingly available, and as it turned out, was probably a better choice anyway (in that it contained both my name, and the raison d'etre for its existence.) However the original name has popped up again, through the website <a href=\"https://sixtyfoursquares.com/\">https://sixtyfoursquares.com/</a> This isn't a blog, but a site that tests you on 100 positions, and then breaks down your strengths and weaknesses. I believe the intention is to extend the site to provide specific training in these ar",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/sixty-four-squares.html",
-         "pubDate" : "Thu, 06 May 2021 14:11:00 +0000",
-         "title" : "Sixty four squares"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won the Candidates Tournament 2020/2021, and in November he will play against Magnus Carlsen for the world title. In an extensive interview with Eteri Kublashvili after the Candidates, Nepomniachtchi talked about his preparations for the second part of the Candidates and revealed why he once was so frustrated during his preparations that he threw his \"iPhone into the wall\". He also talked about his key to success, Magnus Carlsen - \"a very nice dude\" - and why \"there is never enough time to prepare\". | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-strategy-was-not-to-lose-eteri-kublashvili-interviews-ian-nepomniachtchi",
-         "pubDate" : "Thu, 06 May 2021 15:00:00 +0100",
-         "title" : "\"The strategy was not to lose\" - Eteri Kublashvili interviews Ian Nepomniachtchi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1068",
-         "pubDate" : "Thu, 06 May 2021 11:52:23 +0000",
-         "title" : "Russian juniors and trainers awarded in Sirius"
       }
    ]
 }
