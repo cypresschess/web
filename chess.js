@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel covers the FTX Crypto Cup&#039;s quarterfinal match between Fabiano Caruana and Ian Nepomniachtchi in this two-hour special. The ongoing Cup is the sixth leg of the online 2021 Champions Chess Tour. 2021.05.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel",
+         "pubDate" : "Thu, 27 May 2021 21:56:51 +0000",
+         "title" : "FTX Crypto Cup: Fabi Falls to Nepo! | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1106",
+         "pubDate" : "Thu, 27 May 2021 21:01:30 +0000",
+         "title" : "Round 6: Valentina's vultures"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen hit top gear to knock Hikaru Nakamura out of the FTX Crypto Cup. The Norwegian upped his intensity and displayed incredible speed and precision as he won a tense tiebreak against his big rival. The World Champion will meet Radjabov at the semi final of the Champions Tour. Out of three Americans, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-radjabov-and-so-nepomniachtchi-are-the-semis-at-the-ftx-crypto-cup/",
+         "pubDate" : "Thu, 27 May 2021 20:28:14 +0000",
+         "title" : "Carlsen - Radjabov and So - Nepomniachtchi are the semis at the FTX Crypto Cup"
+      },
+      {
+         "description" : " The FTX Crypto Cup quarterfinals concluded today setting up the pairings Carlsen-Radjabov and Nepomniachtchi- Wesley So in the semifinals. Carlsen and Nepomniachtchi only progressed after blitz tie-breaks. The online event is the last major of the Meltwater Champions Chess tour although there remain three more normal qualification events before the final starting on September 25th. Magnus Carlsen won the blitz tie-break 2-0 against Hikaru Nakamura after another close struggle in the rapid games. The first game was a very sharp Giuoco Piano where Carlsen found himself with the harder position to play - even though the computers thought he had quite some advantage. Carlsen fell behind on the ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-nepomniachtchi-so-and-radjabov-progress-to-the-ftx-crypto-cup-semifinals",
+         "pubDate" : "Thu, 27 May 2021 21:16:00 +0400",
+         "title" : "Carlsen, Nepomniachtchi, So and Radjabov progress to the FTX Crypto Cup semifinals - Day 5"
+      },
+      {
          "description" : "This week, the well-known Dutch trainer Robert Ris shows how 14-year old Eline Roebers (Elo 2066) defeated the Greek Grandmaster Athanasios Mastrovasilis in round 1 of the European Hybrid Qualifier. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Thu, 27 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Live!"
+         "title" : "FTX Crypto Cup - Carlsen, Radjabov, Nepo and So advance"
       },
       {
          "description" : "Zhansaya Abdumalik and Mariya Muzychuk are sharing the lead after five rounds at the fourth leg of the Women's Grand Prix in Gibraltar. The co-leaders both won with white on Wednesday before their crucial direct encounter from round 6. Elisabeth Paehtz and Kateryna Lagno stand a half point behind, each on 3&frac12;/5. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
@@ -146,6 +178,14 @@ news_feed (
          "title" : "FTX Crypto Cup LIVE"
       },
       {
+         "description" : "FM Peter Giannatos, Founder and Director of the Charlotte Chess Center &#38; Scholastic Academy, has an informative bi-weekly stream on Twitch. FM Peter Giannatos is FIDE Master since February of 2017. Peter is also a United States Chess Federation National Master (NM)/Life Master (LM), Senior Tournament Director, and FIDE International Arbiter (IA). Follow FM Peter []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-peter-giannatos-live-stream/",
+         "pubDate" : "Thu, 27 May 2021 00:23:00 +0000",
+         "title" : "FM Peter Giannatos - live stream tonight 6:30-7:30pm EDT (0:30-1:30 CEST)"
+      },
+      {
          "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open Section&#160;/&#160;Participants Women Section&#160;/&#160;Results round 1&#160;/&#160;Report rounds 2-4&#160;/&#160;Report rounds 5-6&#160;/ Report rounds 7-8 / &#160;Live games Video: FM Calvin Klaasen discusses games []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -159,7 +199,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/wim-rucha-pujari-live-stream/",
          "pubDate" : "Thu, 27 May 2021 00:21:00 +0000",
-         "title" : "WIM Rucha Pujari - live stream and challenges today at 14:30 CEST"
+         "title" : "WIM Rucha Pujari - live stream"
       },
       {
          "description" : "The Charlotte Invitational Chess 2021 is going to take place 27-31 May. It consists of two round robins valid for FIDE norms. Charlotte Invitational GM A is a closed ten player event with GM Peter Prohaszka as to seed. 6,5/9 is the needed score for a GM norm and a total of seven players will []",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1104",
          "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
          "title" : "Round 5: Zhansaya and Mariya hold the Lead"
-      },
-      {
-         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Live today at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
-         "pubDate" : "Wed, 26 May 2021 22:00:00 +0000",
-         "title" : "FM Lefong Hua - live stream today at 15:00 CEST"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82988687.cms\" /></a>Ice cool Magnus Carlsen needed a final game win to save his match against Hikaru Nakamura as the FTX Crypto Cup quarterfinals exploded into action on Wednesday.",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "Xiong Wins May 25 Titled Tuesday"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour is a circuit of five tournaments, consisting of classical, rapid, and blitz time controls. Ten full tour players compete for a total prize fund of $1.275 million. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FptKBQ0DXvA.jpg?itok=r-N01VdA\" alt=\"\" /></a></di",
+         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour is a circuit of five tournaments, consisting of classical, rapid, and blitz time controls. Nine full tour players compete for a total prize fund of $1.275 million. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uGDDOuMVQzA.jpg?itok=dgP9_iM-\" alt=\"\" /></a></d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-preview",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms",
          "pubDate" : "Wed, 26 May 2021 19:49:48 +0530",
          "title" : "Going to the women's World Cup with an open mind: R Vaishali"
-      },
-      {
-         "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: this is the last round of the African Continental. Join us for Live games from the open and women section here The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Wed, 26 May 2021 12:17:00 +0000",
-         "title" : "African Individual Chess Championship 2021 (final round!)"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/25/mishra-finishes-strongly-no-norm-but-more-rating-points.html",
          "pubDate" : "Tue, 25 May 2021 05:12:29 +0000",
          "title" : "Mishra Finishes Strongly: No Norm, But More Rating Points"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/take-it-back-store-exchange-philidor-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3XPmRIbono.jpg?itok=5ytDF1jd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/take-it-back-store-exchange-philidor-chess-openings-explained",
-         "pubDate" : "Tue, 25 May 2021 00:54:34 +0000",
-         "title" : "Take it Back to the Store! Exchange Philidor | Chess Openings Explained"
       },
       {
          "description" : "Chess.com is excited to announce our new series of monthly events for chess streamers, Chess Done Quick. In this first edition, we invite the best streamers to dash through our Puzzles on a race for cash prizes and bragging rights! The first eve...",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/07/magnus-carlsen-ends-tournament-win-drought-new-in-chess-classic-ian-nepomniachtchi",
          "pubDate" : "Fri, 07 May 2021 07:00:30 +0000",
          "title" : "Magnus Carlsen ends tournament win drought at New In Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1070",
-         "pubDate" : "Thu, 06 May 2021 21:16:56 +0000",
-         "title" : "Chicago hosts 2021 North American Youth Chess Championship"
       }
    ]
 }
