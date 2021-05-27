@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;African Individual Chess Championship 2021&#160;taking place 17-28 May in Lilongwe, Malawi. The event has reached its final round, that will be played today. A total of four players will qualify directly to the World Chess Cup 2021. GM Amin Bassem and GM Ahmed Adly are currently in the lead with 7,0/8, closely followed by their []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-chess-r7-and-r8-report/",
+         "pubDate" : "Thu, 27 May 2021 07:07:12 +0000",
+         "title" : "African Chess - R7 and R8 report"
+      },
+      {
+         "description" : " Today I received the first of my two Covid vaccine jabs. When I mentioned to someone this morning that I was doing this he was horrified, and asked me why I was doing this. \"Because I'm not a f**king idiot\" was my fairly direct reply. He then proceeded to tell me that after the injection, magnets would stick to my arm. In the service of science I have tested this claim. It is of course BS. So <ul style=\"text-align: left;\"><li>Had the injection</li><li>Tested my arms with magnets</li><li>Have had absolutely no ill effects</li><li>Understand the difference between doctor's advice and advice from some guy watching you tube</li></ul><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/had-jab.html",
+         "pubDate" : "Thu, 27 May 2021 06:03:00 +0000",
+         "title" : "Had the jab"
+      },
+      {
+         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
+         "pubDate" : "Thu, 27 May 2021 04:43:42 +0000",
+         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani features games from former world champion Anatoly Karpov. See his win over Vladimir Savon from Moscow 1971, as well as two other positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 27 May 2021 03:56:04 +0000",
+         "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the top 10 players by rating we find seven Russians - []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
+         "pubDate" : "Thu, 27 May 2021 01:15:00 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Round 5: Zhansaya and Mariya hold the Lead"
       },
       {
-         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open&#160;/&#160;Participants women Round 9 live Round 9 women live Round 8 Round 8 women Round 7 open Round 7 women Round 6 []",
+         "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information / Participants Open Section / Participants Women Section / Results round 1 / Report rounds 2-4 / Report rounds 5-6 / Report rounds 7-8 / Live games Video: FM Calvin Klaasen discusses games []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
@@ -79,7 +119,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Wed, 26 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Quarterifnals Live!"
+         "title" : "FTX Crypto Cup - Quarterfinals Live!"
       },
       {
          "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
@@ -226,7 +266,7 @@ news_feed (
          "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0-NAdImSsTo.jpg?itok=NeN4V9s2\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel talks about endgames with opposing bishops on opposite color squares. Typically, these are drawing situations. As in chess though, this is not absolute. Learn the \"rules\" of opposite color bishop games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel",
@@ -248,22 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby-lichessorg",
          "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
          "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "Chess streamers are experiencing a huge boom in traffic and audience. It is wonderful to see chess thriving in video platforms, with instructive classes and/or interactive chess fun. Chess streams and videos break boundaries and travel limitations and reach every corner of the world. Just recently Hikaru Nakamura, arguably the top chess streamer, broke 100 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/say-hello-to-the-chess-streamers/",
-         "pubDate" : "Wed, 26 May 2021 00:30:48 +0000",
-         "title" : "Say hello to the chess streamers!"
-      },
-      {
-         "description" : "FM Peter Giannatos, Founder and Director of the Charlotte Chess Center &#38; Scholastic Academy, has an informative bi-weekly stream on Twitch. FM Peter Giannatos is FIDE Master since February of 2017. Peter is also a United States Chess Federation National Master (NM)/Life Master (LM), Senior Tournament Director, and FIDE International Arbiter (IA). Follow FM Peter []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-peter-giannatos-live-stream/",
-         "pubDate" : "Wed, 26 May 2021 00:22:57 +0000",
-         "title" : "FM Peter Giannatos - live stream"
       },
       {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/radjabov-given-controversial-spot-in-2022-candidates",
          "pubDate" : "Mon, 24 May 2021 19:16:58 +0000",
          "title" : "Radjabov given controversial spot in 2022 Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.05.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/take-it-back-store-exchange-philidor-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3XPmRIbono.jpg?itok=5ytDF1jd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/take-it-back-store-exchange-philidor-chess-openings-explained-lichessorg",
-         "pubDate" : "Mon, 24 May 2021 18:54:18 +0000",
-         "title" : "Take it Back to the Store! Exchange Philidor | Chess Openings Explained | lichess.org"
       },
       {
          "description" : "You are a very talented young player taking part in a tournament in Budapest. After it is over you learn that your scheduled flight home to Goa, India, is no longer available - the first one to be cancelled due to the outbreak of the pandemic. So you are stuck in the Hungarian capital, and still are, over a year later. So what do you do, how do you manage? Here's one way Leon Mendonca and his father are coping: with a Pentecostal violin performance!",
