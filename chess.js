@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All players eligible to participate in the national age-group chess championships are hereby notified that they can register themselves at the AICF portal directly. Please",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-to-all-players-from-west-bengal/",
+         "pubDate" : "Thu, 27 May 2021 07:39:59 +0000",
+         "title" : "NOTICE TO ALL PLAYERS FROM WEST BENGAL"
+      },
+      {
          "description" : "The&#160;African Individual Chess Championship 2021&#160;taking place 17-28 May in Lilongwe, Malawi. The event has reached its final round, that will be played today. A total of four players will qualify directly to the World Chess Cup 2021. GM Amin Bassem and GM Ahmed Adly are currently in the lead with 7,0/8, closely followed by their []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/african-chess-r7-and-r8-report/",
          "pubDate" : "Thu, 27 May 2021 07:07:12 +0000",
          "title" : "African Chess - R7 and R8 report"
-      },
-      {
-         "description" : " Today I received the first of my two Covid vaccine jabs. When I mentioned to someone this morning that I was doing this he was horrified, and asked me why I was doing this. \"Because I'm not a f**king idiot\" was my fairly direct reply. He then proceeded to tell me that after the injection, magnets would stick to my arm. In the service of science I have tested this claim. It is of course BS. So <ul style=\"text-align: left;\"><li>Had the injection</li><li>Tested my arms with magnets</li><li>Have had absolutely no ill effects</li><li>Understand the difference between doctor's advice and advice from some guy watching you tube</li></ul><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/had-jab.html",
-         "pubDate" : "Thu, 27 May 2021 06:03:00 +0000",
-         "title" : "Had the jab"
       },
       {
          "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
@@ -144,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
          "pubDate" : "Wed, 26 May 2021 14:45:00 +0100",
          "title" : "Women's GP: Gibraltar, Round 5 - Live"
-      },
-      {
-         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 2.1 starts at 14:00 CEST (08:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
-         "pubDate" : "Wed, 26 May 2021 13:50:58 +0100",
-         "title" : "European Hybrid Qualification live"
       },
       {
          "description" : "The African Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. The event has separate sections for men and women. Both tournaments will be 9 rounds Swiss. Update: this is the last round of the African Continental. Join us for Live games from the open and women section here The []",
