@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, the well-known Dutch trainer Robert Ris shows how 14-year old Eline Roebers (Elo 2066) defeated the Greek Grandmaster Athanasios Mastrovasilis in round 1 of the European Hybrid Qualifier. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-14-year-old-eline-roebers-beats-grandmaster",
+         "pubDate" : "Thu, 27 May 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: 14-year old Eline Roebers beats Grandmaster"
+      },
+      {
+         "description" : "Just like Mohammed ElShorbagy, Ali Farag, Terek Momen, Marwan Elshorbagy, and Abel Karim Gawad dominate the squash scene, the Egyptian chess players have dominated the &#160;African Individual Chess Championship 2021. At the recently concluded event in Lilongwe all medalists hail from the land of the pharaohs. Ahmed Adly, often dubbed as the ElShorbagy of chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ahmed-adly-the-elshorbagy-of-chess-wins-the-african-continental-championship/",
+         "pubDate" : "Thu, 27 May 2021 16:54:23 +0000",
+         "title" : "Ahmed Adly - the ElShorbagy of chess wins the African Continental Championship"
+      },
+      {
+         "description" : " The Queen's Indian Defence (1.d4 Nf6 2.c4 e6 3.Nf3 b6) is known as one of the most solid defences. Seen as a natural partner to the Nimzo-Indian (3.Nc3 Bb4) it has been played by most of the greats in chess history. Besides its solidity it offers ample opportunity to engage in a complex struggle because <a href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quell 'em with the Queen's Indian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\">Quell 'em with the Queen's Indian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quell-em-with-the-queens-indian/",
+         "pubDate" : "Thu, 27 May 2021 16:06:37 +0000",
+         "title" : "Quell 'em with the Queen's Indian"
+      },
+      {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the quarterfinals. | Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
          "pubDate" : "Wed, 26 May 2021 12:17:00 +0000",
          "title" : "African Individual Chess Championship 2021 (final round!)"
-      },
-      {
-         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
-         "pubDate" : "Wed, 26 May 2021 12:16:00 +0000",
-         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -936,6 +952,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
          "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
+      },
+      {
+         "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/20/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/20/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
+         "pubDate" : "Thu, 20 May 2021 00:10:59 +0000",
+         "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
       },
       {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
@@ -1890,14 +1914,6 @@ news_feed (
          "title" : "Looking Back to The Most Talked About Chess Logo Ever"
       },
       {
-         "description" : " So I'm playing the black pieces in a training game against Little Maggie. 1. e4 e5 2. Nf3 Nc6 3. Nc3 Play the Four Knights if you want, Maggie, but I keep on showing you games with Bb5 and Bc4. Either of those moves or 3. d4 will give you a much more interesting game. <a href=\"https://chessimprover.com/little-maggie/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Little Maggie\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/little-maggie/\">Little Maggie</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/little-maggie/",
-         "pubDate" : "Sun, 09 May 2021 06:49:33 +0000",
-         "title" : "Little Maggie"
-      },
-      {
          "description" : " George Henry Mackenzie: Third US Chess Champion, 1870 From the publisher: Definitive biography of the strongest American chess player, which cover the year 1870. Author worked out all available American (and other) chess sources for this year (The Turf, Field, and Farm, Sunday Mercury, New York Albion, New York Clipper, all New York dailies, British <a href=\"http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">George Henry Mackenzie: Third US Chess Champion, 1870</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/09/ge",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2032,38 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1070",
          "pubDate" : "Thu, 06 May 2021 21:16:56 +0000",
          "title" : "Chicago hosts 2021 North American Youth Chess Championship"
-      },
-      {
-         "description" : "FIDE and Chess.com are excited to announce the 2021 Women&#39;s Speed Chess Championship, an online competition for top female chess players worldwide. The main event will happen from June 10 to July 3, preceded by eight qualifiers from May 28 to June...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-wscc-announcement",
-         "pubDate" : "Thu, 06 May 2021 11:59:00 -0700",
-         "title" : "2021 Women's Speed Chess Championship Presented By FIDE And Chess.com"
-      },
-      {
-         "description" : "In this week's show, well-known Dutch trainer Robert Ris shows how White can play the Sicilian Rossolimo in an aggressive way. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-aggressive-rossolimo-sicilian",
-         "pubDate" : "Thu, 06 May 2021 19:06:04 +0100",
-         "title" : "Robert Ris' Fast and Furious: The aggressive Rossolimo Sicilian"
-      },
-      {
-         "description" : " Danielle Little, Young Royalty Chess Academy If it is true that little is sometimes better, Danielle Little has executed a vision that has evolved over her decade of chess activity starting in upstate New York. The Buffalo native started chess as a preteen and almost immediately started engaging in &#8220;chess activism.&#8221; Last year, Little started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/\">Danielle Little Young Royalty Chess Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/05/06/little-is-bigger-young-royalty-chess-academy/",
-         "pubDate" : "Thu, 06 May 2021 17:24:27 +0000",
-         "title" : "Danielle Little&hellip; Young Royalty Chess Academy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1022",
-         "pubDate" : "Thu, 06 May 2021 16:50:12 +0000",
-         "title" : "UPDATE: 1st workshop Equal Opportunities"
       }
    ]
 }
