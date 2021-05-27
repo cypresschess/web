@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 27 May 2021 00:56:03 +0000",
+         "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "The Charlotte Invitational Chess 2021 is going to take place 27-31 May. It consists of two round robins valid for FIDE norms. Charlotte Invitational GM A is a closed ten player event with GM Peter Prohaszka as to seed. 6,5/9 is the needed score for a GM norm and a total of seven players will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-invitational-chess-2021/",
+         "pubDate" : "Thu, 27 May 2021 00:05:23 +0000",
+         "title" : "Charlotte Invitational Chess 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1104",
+         "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
+         "title" : "Round 5: Zhansaya and Mariya hold the Lead"
+      },
+      {
          "description" : "The Africa Individual Chess Championship 2021 is going to take place 17-28 May in Lilongwe, Malawi. Live games from the top boards will be daily on Chessdom.com Africa Individual Chess 2021 full information&#160;/&#160;Participants Open&#160;/&#160;Participants women Round 9 live Round 9 women live Round 8 Round 8 women Round 7 open Round 7 women Round 6 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -94,8 +118,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/african-individual-chess-championship-2021/",
-         "pubDate" : "Wed, 26 May 2021 12:15:00 +0000",
-         "title" : "African Individual Chess Championship 2021"
+         "pubDate" : "Wed, 26 May 2021 12:17:00 +0000",
+         "title" : "African Individual Chess Championship 2021 (final round!)"
+      },
+      {
+         "description" : "The fourth and final leg of the FIDE Women's Grand Prix will take place from May 22 to June 2, 2021, in Caleta Hotel, Gibraltar. Twelve players will compete in a round-robin event in Gibraltar, fighting for the qualification spot for the FIDE Women's Candidates Tournament 2022. Two best ranked players on the list with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2021-gibraltar/",
+         "pubDate" : "Wed, 26 May 2021 12:16:00 +0000",
+         "title" : "FIDE Women's Grand Prix 2021 Gibraltar LIVE"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -234,28 +266,12 @@ news_feed (
          "title" : "FM Peter Giannatos - live stream"
       },
       {
-         "description" : "WIM Rucha Pujari is a professional chess player from India. Among many other achievements Rucha Pujari is a holder of eight medals from Asian Chess Championships in different categories, four medals from Commonwealth Chess Championships, fifteen (!) medals from National Chess Championships including six gold medals, and more. Rucha Pujari is also a Trainer and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-rucha-pujari-live-stream/",
-         "pubDate" : "Wed, 26 May 2021 00:21:17 +0000",
-         "title" : "WIM Rucha Pujari - live stream"
-      },
-      {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/",
          "pubDate" : "Wed, 26 May 2021 00:10:43 +0000",
          "title" : "The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White"
-      },
-      {
-         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Live stream tonight 23:00 CEST Join the live stream of FM Calvin Klaasen tonight, will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-stream/",
-         "pubDate" : "Wed, 26 May 2021 00:01:00 +0000",
-         "title" : "FM Calvin Klaasen - live stream tonight at 23:00 CEST"
       },
       {
          "description" : "",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r2",
          "pubDate" : "Mon, 24 May 2021 05:45:00 +0100",
          "title" : "Gibraltar GP: Abdumalik starts with two wins"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates the shortest possible checkmate ever: one that ends in just two moves! 2021.04.28<br /> A00 Grob&#039;s attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fools-mate-win-two-moves-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8cmSwztF-V0.jpg?itok=A-D13FNd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fools-mate-win-two-moves-shorts",
-         "pubDate" : "Sun, 23 May 2021 21:53:21 +0000",
-         "title" : "Fool's Mate: Win in Two Moves! | #Shorts"
       },
       {
          "description" : "",
