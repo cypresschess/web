@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/queens-online-chess-festival/",
+         "pubDate" : "Fri, 28 May 2021 04:35:07 +0000",
+         "title" : "Queens' Online Chess Festival"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel covers the FTX Crypto Cup&#039;s quarterfinal match between Fabiano Caruana and Ian Nepomniachtchi in this two-hour special. The ongoing Cup is the sixth leg of the online 2021 Champions Chess Tour. 2021.05.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2032,30 +2040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rapid-interview-ccile-haussernot",
          "pubDate" : "Fri, 07 May 2021 12:00:00 +0100",
          "title" : "Rapid Interview - C&eacute;cile Haussernot"
-      },
-      {
-         "description" : "The International Chess Federation will hold an online conference dubbed \"Chess for Freedom\" on May 11th at 15:30 CET (8:30 US Central Time). The conference will present a newly launched project focused on introducing chess to prisons. This conference will feature FIDE President Arkady Dvorkovich, the 12th World Chess Champion Anatoly Karpov, Cook County Sheriff Tom Dart, and other invited guests.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-freedom-online-conference-2021",
-         "pubDate" : "Fri, 07 May 2021 08:30:00 +0100",
-         "title" : "\"Chess for Freedom\" online conference announced"
-      },
-      {
-         "description" : " <p class=\"lead\">The FIDE Candidates, the longest-ever chess tournament, came to an end, with Ian Nepomniachtchi being the next challenger of Magnus Carlsen. Although Nepo secured an early tournament win in Round 13, the final round had many surprises. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51142908499_bed944f20b_k.jpg\" width=\"2048\" height=\"1230\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes/FIDE</div> </div> <h2>A last round defeat</h2> Ian Nepomniachtchi is already the next challenger for the World Title, but in Round 13 he was found in a very unpleasant situation against Ding Liren. After a poor opening reaction, it was clear that the ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai/",
-         "pubDate" : "Fri, 07 May 2021 07:16:02 +0000",
-         "title" : "Time to say Dubai"
-      },
-      {
-         "description" : " Meanwhile Carlsen's world title challenger Ian Nepomniachtchi has enlisted the help of a supercomputer to aid his preparations Magnus Carlsen's relief was evident last weekend after the world champion finally won his first tournament since his 30th birthday in November, the New In Chess Classic. The Norwegian had finished a disappointing sixth over the board at Wijk aan Zee and had been eliminated in the knockout stages of four previous online tournaments on the Meltwater Champions Tour. Carlsen won the round by round stages of all five online events, so is already in pole position for the 10-player all-play-all tour final in September, which will be played over the board in San Francisco. ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/may/07/magnus-carlsen-ends-tournament-win-drought-new-in-chess-classic-ian-nepomniachtchi",
-         "pubDate" : "Fri, 07 May 2021 07:00:30 +0000",
-         "title" : "Magnus Carlsen ends tournament win drought at New In Chess Classic"
       }
    ]
 }
