@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1108",
+         "pubDate" : "Fri, 28 May 2021 21:45:43 +0000",
+         "title" : "Harika Dronavalli wins Qualifier I"
+      },
+      {
+         "description" : " An invasion of insects sparked losing errors from Ian Nepomniachtchi against Wesley So in their semi-final An invasion of mosquitoes defeated Russia's world title challenger Ian Nepomniachtchi on Friday evening when his online opponent, the US champion Wesley So, was only looking for a draw. It was the first four-game set (of two) of a semi-final between the grandmaster pair. They had drawn the first three, and it seemed the match would go into Saturday's second session at 2-2. The other semi-final between Magnus Carlsen, the world champion, and Teimour Radjabov, of Azerbaijan, was level before a two-day final on Sunday and Monday. <span>Related: </span><a href=\"https://www.theguardian.com/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
+         "pubDate" : "Fri, 28 May 2021 21:33:13 +0000",
+         "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
+      },
+      {
+         "description" : " The first set of the semifinals of the FTX Crypto Chess tournament saw Wesley So take the lead against Ian Nepomniachtchi by winning the final game of a day after he seemed on the back foot for most of it. Magnus Carlsen took the lead against Teimour Radjabov by winning a fine game three only for Radjabov to strike back straight away in game four so that set ended up tied. Magnus Carlsen and Teimour Radjabov managed just one decisive game in two sets in the New in Chess Classic and today they started with two draws - Radjabov equalised pretty easily with black in game one and put a small amount of pressure out of the opening in game two before 23.Qc4 (maybe Re4 was better) h5! equalised for",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/nepomniachtchi-loses-set-one-of-the-ftx-crypto-semifinals-to-wesley-so-after-missing-chances",
+         "pubDate" : "Fri, 28 May 2021 21:07:00 +0400",
+         "title" : "Nepomniachtchi loses set one of the FTX Crypto semifinals to Wesley So after missing chances - Day 6"
+      },
+      {
          "description" : "In this Power Play Show by GM Daniel King the Kalashnikov and a fine game from the FTX Crypto Cup are on the menu. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +38,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abdumalik-muzychuk-gibraltar-women-grand-prix",
-         "pubDate" : "Fri, 28 May 2021 09:40:51 -0700",
+         "pubDate" : "Fri, 28 May 2021 09:40:00 -0700",
          "title" : "Abdumalik, Muzychuk Lead Gibraltar Women's Grand Prix"
-      },
-      {
-         "description" : " The orld champion was close to elimination in preliminaries, then worse against old rival Hikaru Nakamura, but now has a chance to meet title challenger Ian Nepomniachtchi in Sunday's final Magnus Carlsen has lived on the brink for much of the last week, as Norway's world champion struggled in the qualification stage of the FTX Crypto Cup, part of the Meltwater Champions Tour. Carlsen was again in danger in his quarter-final match with his old rival Hikaru Nakamura before surging to an emphatic 2-0 win in their five-minute blitz tie-break. Carlsen, 30, had convincingly won all five of the previous Tour qualifiers, which decide the quarter-finalists in the knockout stage. In contrast this ti",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
-         "pubDate" : "Fri, 28 May 2021 16:22:12 +0000",
-         "title" : "Chess: Carlsen in danger until blitz skills see him into Crypto Cup semi-finals"
       },
       {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the newest Fritz & Chesster project, and take a detailed look at the Gibraltar Grand Prix, and the FTX Crypto Cup + Analysis of two games.",
@@ -152,6 +168,14 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
          "pubDate" : "Fri, 28 May 2021 00:10:59 +0000",
          "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1099",
+         "pubDate" : "Thu, 27 May 2021 22:06:56 +0000",
+         "title" : "\"The Queens' Festival\": Connecting Women in Chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel covers the FTX Crypto Cup&#039;s quarterfinal match between Fabiano Caruana and Ian Nepomniachtchi in this two-hour special. The ongoing Cup is the sixth leg of the online 2021 Champions Chess Tour. 2021.05.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1100",
          "pubDate" : "Mon, 24 May 2021 22:28:19 +0000",
          "title" : "Round 3: Players go all-in"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1099",
-         "pubDate" : "Mon, 24 May 2021 22:06:56 +0000",
-         "title" : "\"The Queens' Festival\": Connecting Women in Chess"
       },
       {
          "description" : "",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/catch-with-a-catch",
          "pubDate" : "Sat, 08 May 2021 09:00:00 +0100",
          "title" : "Catch with a catch!?"
-      },
-      {
-         "description" : " Garry Kasparov weighs in on the coming match between Magnus Carlsen and his challenger, Ian Nepomniachtchi. It looks like what I would call the conventional wisdom, but as there's a difference between someone like me offering it and hearing it from (maybe) the GOAT, it's worth <a href=\"https://www.youtube.com/watch?v=JFVzbZ9tsWM\">hearing it from the horse's mouth</a> (to [deliberately] mix the zoological metaphors). ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/7/kasparov-on-the-carlsen-nepomniachtchi-match.html",
-         "pubDate" : "Fri, 07 May 2021 21:13:00 +0000",
-         "title" : "Kasparov on the Carlsen-Nepomniachtchi Match"
       }
    ]
 }
