@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. After two rounds only 72 players remain and in round three they fight for the ticket to the World Cup. | Round 3.1 starts at 14:00 CEST (08:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
+         "pubDate" : "Fri, 28 May 2021 13:00:58 +0100",
+         "title" : "European Hybrid Qualification, Round 3.1 - live"
+      },
+      {
+         "description" : "Potentially Magnus Carlsen and Ian Nepomniachtchi will meet in the final of the FTX Crypto Cup as both contenders to the World Championship advanced to the semifinals after beating their rivals in blitz tiebreakers. Carlsen will face Teimour Radjabov in the semis, while Nepomniachtchi will play an undefeated Wesley So. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-5",
+         "pubDate" : "Fri, 28 May 2021 13:00:00 +0100",
+         "title" : "FTX Crypto Cup: Close calls"
+      },
+      {
+         "description" : "The 2nd stage of the European Hybrid Qualification Tournament for the FIDE World Cup 2021 took place on May 26 and 27. 144 players participated in Round 2, and half of them (72) advanced to the next stage - Round 3. They are just one step away from qualifying for the FIDE World Cup. Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/r2-report-european-hybrid-qualification-chess-tournament/",
+         "pubDate" : "Fri, 28 May 2021 10:19:37 +0000",
+         "title" : "R2 report - European Hybrid Qualification Chess Tournament"
+      },
+      {
+         "description" : "We may get a World Championship match rehearsal, either in the final or the 3rd place match, after both Magnus Carlsen and Ian Nepomniachtchi made it through to the FTX Crypto Cup semi-finals. Magnus took down Hikaru Nakamura after coming back from losing the first game on Day 2 of their semi-finals to win a blitz playoff. Nepo also needed blitz to beat Fabiano Caruana and will now face Wesley So, who cruised to victory over Maxime Vachier-Lagrave. Magnus takes on Teimour Radjabov, who knocked out Anish Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-are-we-heading-for-a-carlsen-nepomniachtchi-preview",
+         "pubDate" : "Fri, 28 May 2021 08:52:41 +0000",
+         "title" : "FTX Crypto Cup 5: Are we headed for a Carlsen-Nepo preview?"
+      },
+      {
+         "description" : "An interesting situation arose at the European Hybrid Qualification Tournament in the game between the Israeli chess star GM Boris Gelfand (ISR, 2676) and GM Jergus Pechac (SVK, 2519). After two draws in games with classical time control, the first rapid game ended with the same result. The second rapid game went sharply when Gelfand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fair-play-at-its-best-tweetoftheday/",
+         "pubDate" : "Fri, 28 May 2021 08:22:03 +0000",
+         "title" : "Fair play at its best #TweetOftheDay"
+      },
+      {
+         "description" : "The semifinals of the FTX Crypto Cup will start on Friday with the matches GM Magnus Carlsen vs. GM Teimour Radjabov and GM Ian Nepomniachtchi vs. GM Wesley So. Whereas Radjabov and So quickly secured victory against GM Anish Giri and GM Maxime ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-quaterfinals-day-2",
+         "pubDate" : "Fri, 28 May 2021 01:22:00 -0700",
+         "title" : "FTX Crypto Cup Semis: Carlsen-Radjabov, Nepomniachtchi-So"
+      },
+      {
          "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/queens-online-chess-festival/",
          "pubDate" : "Fri, 28 May 2021 04:35:07 +0000",
          "title" : "Queens' Online Chess Festival"
+      },
+      {
+         "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
+         "pubDate" : "Fri, 28 May 2021 00:10:59 +0000",
+         "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel covers the FTX Crypto Cup&#039;s quarterfinal match between Fabiano Caruana and Ian Nepomniachtchi in this two-hour special. The ongoing Cup is the sixth leg of the online 2021 Champions Chess Tour. 2021.05.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
@@ -79,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
          "pubDate" : "Thu, 27 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar, Round 6 - Live"
+         "title" : "Women's GP: Gibraltar - Games and results"
       },
       {
          "description" : "",
@@ -104,14 +160,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-carlsen-caruana-stage-comebacks",
          "pubDate" : "Thu, 27 May 2021 11:38:25 +0000",
          "title" : "FTX Crypto Cup 4: Carlsen & Caruana stage comebacks"
-      },
-      {
-         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. The matches start off with two classical games with a time control of 120 minutes plus 30 seconds per move. If the match is tied after two games, a tiebreak will follow: two games with a time-control of 10+3. If this match also is tied, an Armageddon game will decide. | Round 2.2 starts at 13:00 CEST (07:00 ET, 12:00 UTC). Tiebreaks start at 19:00 CEST. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
-         "pubDate" : "Thu, 27 May 2021 12:00:58 +0100",
-         "title" : "European Hybrid Qualification, Round 2.2 - live"
       },
       {
          "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
@@ -200,22 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/african-chess-championships-2021-live/",
          "pubDate" : "Thu, 27 May 2021 00:23:00 +0000",
          "title" : "African Chess Championships 2021 LIVE"
-      },
-      {
-         "description" : "WIM Rucha Pujari is a professional chess player from India. Among many other achievements Rucha Pujari is a holder of eight medals from Asian Chess Championships in different categories, four medals from Commonwealth Chess Championships, fifteen (!) medals from National Chess Championships including six gold medals, and more. Rucha Pujari is also a Trainer and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-rucha-pujari-live-stream/",
-         "pubDate" : "Thu, 27 May 2021 00:21:00 +0000",
-         "title" : "WIM Rucha Pujari - live stream"
-      },
-      {
-         "description" : "The Charlotte Invitational Chess 2021 is going to take place 27-31 May. It consists of two round robins valid for FIDE norms. Charlotte Invitational GM A is a closed ten player event with GM Peter Prohaszka as to seed. 6,5/9 is the needed score for a GM norm and a total of seven players will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-invitational-chess-2021/",
-         "pubDate" : "Thu, 27 May 2021 00:05:23 +0000",
-         "title" : "Charlotte Invitational Chess 2021"
       },
       {
          "description" : "",
@@ -978,14 +1010,6 @@ news_feed (
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
       },
       {
-         "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/20/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/20/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
-         "pubDate" : "Thu, 20 May 2021 00:10:59 +0000",
-         "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
-      },
-      {
          "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1376,14 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-27-a-multi-stage-plan",
          "pubDate" : "Sun, 16 May 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
-      },
-      {
-         "description" : "Defending Champion Anish Giri came through his toughest test yet to beat Daniil Dubov 7:5 and reach the final of the 2nd edition of the Mr Dodgy Invitational. His opponent will be Baadur Jobava, who danced a little less as he was pushed all the way by Vidit in a match full off dramatic twists, including Vidit deciding to play for a win on time only to get mated on the very next move. Anish is planning to counter Baadur with some Russian rap when the final match starts at 18:00 CEST on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mdi-2-it-s-a-jobava-giri-dance-off",
-         "pubDate" : "Sun, 16 May 2021 11:11:22 +0000",
-         "title" : "MDI 2: It's a Jobava-Giri dance-off!"
       },
       {
          "description" : " It's getting on for a century old now, but Nimzowitsch's My System is still often recommended as a good book on positional chess for intermediate players. I'm not at all convinced that it's the best choice, though. Don't get me wrong. If you're interested in the development of chess ideas over the past 100, or <a href=\"https://chessimprover.com/wrong-books-3-my-system/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (3): My System\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-3-my-system/\">Wrong Books (3): My System</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2032,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1071",
          "pubDate" : "Fri, 07 May 2021 12:04:43 +0000",
          "title" : "FIDE Chess.com Women's Speed Chess Championship announced"
-      },
-      {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. C&eacute;cile Haussernot is probably one of the most attractive titled chess players. I asked her if this ever lead to jealousy from other players, or hate comments, and how she deals with these factors. Furthermore, I wanted to know how it is for the French WIM to live in Tbilisi, Georgia, and what her future goals are in chess. | Photos: C&eacute;cile Haussernot",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-ccile-haussernot",
-         "pubDate" : "Fri, 07 May 2021 12:00:00 +0100",
-         "title" : "Rapid Interview - C&eacute;cile Haussernot"
       }
    ]
 }
