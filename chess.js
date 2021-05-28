@@ -242,6 +242,14 @@ news_feed (
          "title" : "FTX Crypto Cup 4: Carlsen & Caruana stage comebacks"
       },
       {
+         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Live today at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
+         "pubDate" : "Thu, 27 May 2021 11:00:00 +0000",
+         "title" : "FM Lefong Hua - live stream SUB battle"
+      },
+      {
          "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 27 May 2021 03:56:04 +0000",
          "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the top 10 players by rating we find seven Russians - []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
-         "pubDate" : "Thu, 27 May 2021 01:15:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div>",
