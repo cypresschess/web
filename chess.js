@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Power Play Show by GM Daniel King the Kalashnikov and a fine game from the FTX Crypto Cup are on the menu. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-kalashnikov-strikes",
+         "pubDate" : "Fri, 28 May 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Kalashnikov strikes"
+      },
+      {
+         "description" : "IM Zhansaya Abdumalik and GM Mariya Muzychuk are sharing the lead at&#38;nbsp;the FIDE Women&#39;s Grand Prix in Gibraltar on the rest day. With five rounds to go, the fight for the two spots in the 2022 FIDE Women&#39;s Candidates Tournament is far from deci...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdumalik-muzychuk-gibraltar-women-grand-prix",
+         "pubDate" : "Fri, 28 May 2021 09:40:51 -0700",
+         "title" : "Abdumalik, Muzychuk Lead Gibraltar Women's Grand Prix"
+      },
+      {
+         "description" : " The orld champion was close to elimination in preliminaries, then worse against old rival Hikaru Nakamura, but now has a chance to meet title challenger Ian Nepomniachtchi in Sunday's final Magnus Carlsen has lived on the brink for much of the last week, as Norway's world champion struggled in the qualification stage of the FTX Crypto Cup, part of the Meltwater Champions Tour. Carlsen was again in danger in his quarter-final match with his old rival Hikaru Nakamura before surging to an emphatic 2-0 win in their five-minute blitz tie-break. Carlsen, 30, had convincingly won all five of the previous Tour qualifiers, which decide the quarter-finalists in the knockout stage. In contrast this ti",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
+         "pubDate" : "Fri, 28 May 2021 16:22:12 +0000",
+         "title" : "Chess: Carlsen in danger until blitz skills see him into Crypto Cup semi-finals"
+      },
+      {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the newest Fritz & Chesster project, and take a detailed look at the Gibraltar Grand Prix, and the FTX Crypto Cup + Analysis of two games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-quaterfinals-day-2",
          "pubDate" : "Fri, 28 May 2021 01:22:00 -0700",
          "title" : "FTX Crypto Cup Semis: Carlsen-Radjabov, Nepomniachtchi-So"
+      },
+      {
+         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Next by FM Klaasen: Friday &#8220;Openings&#8221; Night, today at 18:00 CEST On Tuesday: interview with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-stream/",
+         "pubDate" : "Fri, 28 May 2021 05:01:00 +0000",
+         "title" : "FM Calvin Klaasen - live stream Friday \"Openings\" Night, today at 18:00 CEST"
       },
       {
          "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
@@ -272,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Thu, 27 May 2021 00:56:03 +0000",
          "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "FM Peter Giannatos, Founder and Director of the Charlotte Chess Center &#38; Scholastic Academy, has an informative bi-weekly stream on Twitch. FM Peter Giannatos is FIDE Master since February of 2017. Peter is also a United States Chess Federation National Master (NM)/Life Master (LM), Senior Tournament Director, and FIDE International Arbiter (IA). Follow FM Peter []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-peter-giannatos-live-stream/",
-         "pubDate" : "Thu, 27 May 2021 00:23:00 +0000",
-         "title" : "FM Peter Giannatos - live stream tonight 6:30-7:30pm EDT (0:30-1:30 CEST)"
       },
       {
          "description" : "",
