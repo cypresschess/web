@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1111",
+         "pubDate" : "Sat, 29 May 2021 20:38:04 +0000",
+         "title" : "Round 7: Black is more than OK"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1110",
+         "pubDate" : "Sat, 29 May 2021 20:05:49 +0000",
+         "title" : "Vaishali R. wins Qualifier II"
+      },
+      {
          "description" : "In his latest column, Siegfried Hornecker writes about the work of judges in endgame studies tournaments. He first introduces how computers have also made their way into this field, before noting that, however, \"it will always be down to an individual judge, or a panel of judges, to finally evaluate a composition\". | Pictured: Clifford E. Berry and the Atanasoff-Berry Computer, or ABC, c. 1942 | Photo: Iowa State University",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1109",
          "pubDate" : "Sat, 29 May 2021 18:29:13 +0000",
          "title" : "Shamsiddin Vokhidov wins Asian Hybrid Championship"
+      },
+      {
+         "description" : " Carlsen and Wesley So meet in the final of the FTX Crypto Cup Magnus Carlsen and Wesley So meet in the final of the FTX Crypto Cup after defeating Teimour Radjabov and Ian Nepomniachtchi in the semifinals. This is the third time on the Meltwater Champions Chess Tour that they've met in the final, So beat him both in the Skilling Open and Opera Euro Rapid, they also met in the third-fourth playoff of the Magnus Carlsen invitational where Carlsen won. Wesley So is undefeated in the tournament thus far. Wesley So survived a testing game one of the second set as black against the English. So thought Nepomniachtchi must have missed a win, it seems 26.Bxd4? was the moment So was out of danger and",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-wesley-so-meet-in-the-final-of-the-ftx-crypto-cup",
+         "pubDate" : "Sat, 29 May 2021 20:51:00 +0400",
+         "title" : "Carlsen and Wesley So meet in the final of the FTX Crypto Cup - Day 7"
       },
       {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
@@ -2104,22 +2128,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/",
          "pubDate" : "Sun, 09 May 2021 00:10:04 +0000",
          "title" : "George Henry Mackenzie: Third US Chess Champion, 1870"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1073",
-         "pubDate" : "Sat, 08 May 2021 23:16:46 +0000",
-         "title" : "African Individual Chess Championships announced"
-      },
-      {
-         "description" : "He learnt the rules of chess when he was two and a half years old. He became the youngest national expert at the age of seven, and the youngest National Master in the US at the age of nine. In late 2019, he beat R. Praggnanandhaa's record of becoming the youngest IM ever. Meet Abhimanyu Mishra, a youngster who lives in New Jersey, USA. Abhimanyu is an amazing talent and is now going after the record of becoming the youngest GM in history. In spite of the Covid pandemic. And you can help him achieve his goal!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/will-he-break-the-world-record",
-         "pubDate" : "Sat, 08 May 2021 21:52:52 +0100",
-         "title" : "Will he break the world record?"
       }
    ]
 }
