@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 2 of the quarterfinals. | Follow the games live with commentary starting at 17.00 CEST.",
+         "description" : "In his latest column, Siegfried Hornecker writes about the work of judges in endgame studies tournaments. He first introduces how computers have also made their way into this field, before noting that, however, \"it will always be down to an individual judge, or a panel of judges, to finally evaluate a composition\". | Pictured: Clifford E. Berry and the Atanasoff-Berry Computer, or ABC, c. 1942 | Photo: Iowa State University",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-05",
+         "pubDate" : "Sat, 29 May 2021 21:00:00 +0100",
+         "title" : "A judge's rant to the awards galaxy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1109",
+         "pubDate" : "Sat, 29 May 2021 18:29:13 +0000",
+         "title" : "Shamsiddin Vokhidov wins Asian Hybrid Championship"
+      },
+      {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Sat, 29 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Semifinals Live!"
+         "title" : "FTX Crypto Cup - So and Carlsen in the finals"
+      },
+      {
+         "description" : "On the first day of the FTX Crypto Cup semifinals, Wesley So beat Ian Nepomniachtchi by winning game 4 after having agreed to three draws. Meanwhile, world champion Magnus Carlsen and Teimour Radjabov traded blows in games 3 and 4, which means their match is tied going into day 2 of the semis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-day-6",
+         "pubDate" : "Sat, 29 May 2021 15:15:00 +0100",
+         "title" : "FTX Crypto Cup: So wins, Carlsen draws"
+      },
+      {
+         "description" : " It is one of the most frustrating feelings in chess. You play a great game, but then you get into time trouble and one wrong decision costs you the full point. Even though you played more good moves than your opponent, you end up losing the game. It certainly feels <a href=\"https://nextlevelchess.blog/time-trouble/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/time-trouble/\">How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/time-trouble/?utm_source=rss&utm_medium=rss&utm_campaign=time-trouble",
+         "pubDate" : "Sat, 29 May 2021 14:00:00 +0000",
+         "title" : "How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results"
       },
       {
          "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
@@ -15,15 +47,15 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
          "pubDate" : "Sat, 29 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
+         "title" : "Women's GP: Gibraltar - Games and results"
       },
       {
-         "description" : "Egyptian GM Ahmed Adly became the African Champion on Thursday, overtaking countryman GM Bassem Amin at the finishing line in the 2021 African Individual Chess Championship. The two players monopolized the tournament and were tied on 8/9, despit...",
+         "description" : "Egyptian GM Ahmed Adly became the African Champion on Thursday, overtaking countryman GM Bassem Amin at the finish line in the 2021 African Individual Chess Championship. The two players monopolized the tournament and were tied on 8/9, despite t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-african-chess-championship-adly-february",
-         "pubDate" : "Sat, 29 May 2021 06:40:22 -0700",
-         "title" : "Ahmed Adly Wins Nip and Tuck African Chess Championship"
+         "pubDate" : "Sat, 29 May 2021 06:40:00 -0700",
+         "title" : "Ahmed Adly Wins Nip-and-Tuck African Chess Championship"
       },
       {
          "description" : " The 2021 ACT Chess Championship is almost at the halfway point, with 4 players sharing the lead on 3/3. IM Junta Ikeda is still undefeated after beating Adian de Noskowsi and WFM Alana Chibnall, and he is joined by Fred Litchfield, CM Hui Li, and Malik Amer. Tomorrow mornings pairings see Ikeda play Amer, and Li play Litchfield. There is another group of players on 2.5/3, who are also looking to make a run tomorrow. Two of those players (Miles Patterson and Sankeerten Badrinarayan) played one the tournaments more interesting games, which you can see <a href=\"http://tournaments.streetchess.net/actchampionship2021/livegames/index.html\">here</a>. The tournament has 2 more days to run, with rou",
@@ -1402,6 +1434,14 @@ news_feed (
          "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1085",
+         "pubDate" : "Mon, 17 May 2021 21:02:24 +0000",
+         "title" : "Albania wins first Online Chess Cup by Teams of Francophonie"
+      },
+      {
          "description" : "Chess.com is excited to announce the upcoming CryptoChamps tournament&#38;nbsp;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on June 12 and 13, starting at 10 a.m. Pacific/19:00 CE...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2080,14 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/will-he-break-the-world-record",
          "pubDate" : "Sat, 08 May 2021 21:52:52 +0100",
          "title" : "Will he break the world record?"
-      },
-      {
-         "description" : "Radoslaw Wojtaszek and Klaudia Kulon prevailed in the open and women's sections of the 2021 Polish Championships, played over the board in Bydgoszcz. This was Wojtaszek's fourth victory in the national championship, while Kulon won the women's title for the first time in her career. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wojtaszek-kulon-win-polish-championships-2021",
-         "pubDate" : "Sat, 08 May 2021 19:00:00 +0100",
-         "title" : "Wojtaszek and Kulon prevail at the Polish Championships"
       }
    ]
 }
