@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 2 of the quarterfinals. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Sat, 29 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup - Semifinals Live!"
+      },
+      {
+         "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Sat, 29 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "Egyptian GM Ahmed Adly became the African Champion on Thursday, overtaking countryman GM Bassem Amin at the finishing line in the 2021 African Individual Chess Championship. The two players monopolized the tournament and were tied on 8/9, despit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-african-chess-championship-adly-february",
+         "pubDate" : "Sat, 29 May 2021 06:40:22 -0700",
+         "title" : "Ahmed Adly Wins Nip and Tuck African Chess Championship"
+      },
+      {
+         "description" : " The 2021 ACT Chess Championship is almost at the halfway point, with 4 players sharing the lead on 3/3. IM Junta Ikeda is still undefeated after beating Adian de Noskowsi and WFM Alana Chibnall, and he is joined by Fred Litchfield, CM Hui Li, and Malik Amer. Tomorrow mornings pairings see Ikeda play Amer, and Li play Litchfield. There is another group of players on 2.5/3, who are also looking to make a run tomorrow. Two of those players (Miles Patterson and Sankeerten Badrinarayan) played one the tournaments more interesting games, which you can see <a href=\"http://tournaments.streetchess.net/actchampionship2021/livegames/index.html\">here</a>. The tournament has 2 more days to run, with rou",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-championship-rds-2.html",
+         "pubDate" : "Sat, 29 May 2021 13:18:00 +0000",
+         "title" : "2021 ACT Championship Rds 2&3"
+      },
+      {
          "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "Gruenfeld disaster"
       },
       {
-         "description" : "GM Wesley So took the lead in his FXT Crypto Cup semifinal against a mosquitos-battling GM Ian Nepomniachtchi. The American grandmaster needs two game points on Saturday to reach the final against either&#38;nbsp;GM Magnus Carlsen or GM Teimour Radjab...",
+         "description" : "GM Wesley So took the lead in his FTX Crypto Cup semifinal against a mosquitos-battling GM Ian Nepomniachtchi. The American grandmaster needs two game points on Saturday to reach the final against either&#38;nbsp;GM Magnus Carlsen or GM Teimour Radjab...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-nepomniachtchi-mosquitoes",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
          "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
          "title" : "The ChessBase News Review (21.05 - 28.05)"
-      },
-      {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 2 of the quarterfinals. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Fri, 28 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - So wins, Carlsen draws"
       },
       {
          "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
@@ -1890,14 +1914,6 @@ news_feed (
          "title" : "Always double check"
       },
       {
-         "description" : "Tanitoluwa (Tani) Adewumi, a 10-year-old Nigerian refugee who won the New York State K-3 Championship at eight years old, reached a new milestone last week: he conquered the title of national master (NM). Adewumi did so on May 1 at the Fairfield...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-adewumi-national-master-at-10",
-         "pubDate" : "Tue, 11 May 2021 05:22:00 -0700",
-         "title" : "Tani Adewumi Makes New Headlines Becoming National Master At 10"
-      },
-      {
          "description" : "Training is important to become better at chess and a good coach helps to develop your talent. To recognize and celebrate the achievements of the chess training community, the FIDE Trainers Commission recently announced the winners of the 14th FIDE Trainer Awards for 2020-21.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2072,22 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wojtaszek-kulon-win-polish-championships-2021",
          "pubDate" : "Sat, 08 May 2021 19:00:00 +0100",
          "title" : "Wojtaszek and Kulon prevail at the Polish Championships"
-      },
-      {
-         "description" : " While there was a lot of work put into developing the FIDE rules for Hybrid Chess (including work done by myself), how it would actually work was a different issue. Thus year has seen a few hybrid events, and while it has generally worked well, there have been a few issues of note. The 2021 Oceania Zonal was held over 2 weekends, with players from around the Pacific. Weirdly, the challenge wasn't getting the players to enter, but finding enough arbiters. There were 20 officials for 8 players(!), which was an unexpected feature. On reflection this should have been obvious, given the need for 1 or 2 venues for each player, but for an event which usually get's by with 2 or 3 arbiters, this was",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/hybrid-chess-is-mixed-bag.html",
-         "pubDate" : "Sat, 08 May 2021 13:48:00 +0000",
-         "title" : "Hybrid Chess is a mixed bag"
-      },
-      {
-         "description" : "Four (out of nine) rounds of the Mitropa Cup have alerady been played. After a 3-1 victory over Hungary in round four, the German team is currently in second place, only one team point behind the leading Czechs. In the women's category, Italy has won every single match so far and has a two-point lead over Hungary and Germany. | Photos: Claudia M&uuml;nstermann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-round-4-czechia-in-the-lead",
-         "pubDate" : "Sat, 08 May 2021 13:00:00 +0100",
-         "title" : "Mitropa Cup, Round 4: Czechia and Italy in the lead"
       }
    ]
 }
