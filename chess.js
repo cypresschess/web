@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r6",
+         "pubDate" : "Sat, 29 May 2021 11:25:00 +0100",
+         "title" : "Gibraltar GP: Abdumalik and Muzychuk share the lead"
+      },
+      {
+         "description" : "Zhansaya Abdumalik (KAZ) and Mariya Muzychuk (UKR) went into the rest day of the Gibraltar leg of the FIDE Women's Grand Prix as the co-leaders. Zhansaya and Mariya drew their game to move to 4&frac12; out of 6, and are followed by Kateryna Lagno (RUS) on 4. FIDE Women's Grand Prix Gibraltar full information and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-and-mariya-muzychuk-leading-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 29 May 2021 09:55:31 +0000",
+         "title" : "Zhansaya Abdumalik and Mariya Muzychuk leading FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "Magnus Carlsen gave perhaps his shortest interview ever after Teimour Radjabov unleashed some deep opening preparation to level the scores on Day 1 of their FTX Crypto Cup semi-final. In the other encounter Ian Nepomniachtchi failed to exploit an incredible blunder by Wesley So in Game 3 before Game 4 became an ordeal that could have featured in Dante's Inferno. While Wesley was grinding out a win in a drawish ending, Nepo was trying and failing to fend off a swarm of mosquitoes.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-6-mosquitoes-radjabov-bite-back",
+         "pubDate" : "Sat, 29 May 2021 08:05:52 +0000",
+         "title" : "FTX Crypto Cup 6: Mosquitoes & Radjabov bite back"
+      },
+      {
+         "description" : "The Western Roman Empire fell definitively in 476AD, when the barbarian Germanic King Odoacer deposed the last Western Emperor Romulus Augustulus and despatched the imperial insignia to the Emperor of the East, Flavius Zeno. The Eastern Empire then went on to survive for a further 977 years under the guise of the Byzantine or Greek []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/did-roman-emperors-play-chess/",
+         "pubDate" : "Sat, 29 May 2021 08:00:47 +0000",
+         "title" : "Did Roman Emperors play chess?"
+      },
+      {
          "description" : "White has misplayed the opening (six moves with the queen!), and in the diagram position Black's huge delevopment advantage is just crying out to be exploited. How did Black (MVL) proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +119,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Fri, 28 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - Semifinals Live!"
+         "title" : "FTX Crypto Cup - So wins, Carlsen draws"
       },
       {
          "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
@@ -186,6 +218,14 @@ news_feed (
          "title" : "FM Calvin Klaasen - live stream Friday \"Openings\" Night, today at 18:00 CEST"
       },
       {
+         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the top 10 players by rating we find seven Russians - []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
+         "pubDate" : "Fri, 28 May 2021 05:01:00 +0000",
+         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
+      },
+      {
          "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -266,14 +306,6 @@ news_feed (
          "title" : "Quell 'em with the Queen's Indian"
       },
       {
-         "description" : "Zhansaya Abdumalik and Mariya Muzychuk are sharing the lead after five rounds at the fourth leg of the Women's Grand Prix in Gibraltar. The co-leaders both won with white on Wednesday before their crucial direct encounter from round 6. Elisabeth Paehtz and Kateryna Lagno stand a half point behind, each on 3&frac12;/5. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Thu, 27 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -314,28 +346,12 @@ news_feed (
          "title" : "FTX Crypto Cup QF: Radjabov, So Lead As Carlsen, Nakamura Trade Blows"
       },
       {
-         "description" : "The Welsh Chess Championships 2021 will be an online event taking place May 28 June 1. The main event will be the Welsh Online Championships, which is 8 players closed event and a qualifier event for the British Online Championships. The other two events of the program are Welsh Online Major Open Championships Welsh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/welsh-chess-championships-2021/",
-         "pubDate" : "Thu, 27 May 2021 08:26:46 +0000",
-         "title" : "Welsh Chess Championships 2021"
-      },
-      {
          "description" : "All players eligible to participate in the national age-group chess championships are hereby notified that they can register themselves at the AICF portal directly. Please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/notice-to-all-players-from-west-bengal/",
          "pubDate" : "Thu, 27 May 2021 07:39:59 +0000",
          "title" : "NOTICE TO ALL PLAYERS FROM WEST BENGAL"
-      },
-      {
-         "description" : "The&#160;African Individual Chess Championship 2021&#160;taking place 17-28 May in Lilongwe, Malawi. The event has reached its final round, that will be played today. A total of four players will qualify directly to the World Chess Cup 2021. GM Amin Bassem and GM Ahmed Adly are currently in the lead with 7,0/8, closely followed by their []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-chess-r7-and-r8-report/",
-         "pubDate" : "Thu, 27 May 2021 07:07:12 +0000",
-         "title" : "African Chess - R7 and R8 report"
       },
       {
          "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "What's New in FIDE Online Arena?"
       },
       {
-         "description" : "Anish Giri has won the Mr Dodgy Invitational for the 2nd year in a row after defeating Baadur Jobava 7:3 in the final. What Baadur described as \"a cool match\" was much closer than the scoreline suggests, with the players exchanging blows for the first five games. The Georgian no. 1 found some incredible moves, but it's Anish who continues to own the same photo of a man on a horse. Where can he go from here? Well, Baadur suggested \"dance chess\" as the new chess boxing.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anish-giri-wins-the-mr-dodgy-invitational-again",
-         "pubDate" : "Sun, 16 May 2021 23:24:19 +0000",
-         "title" : "Anish Giri wins the Mr Dodgy Invitational&hellip; again!"
-      },
-      {
          "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2080,22 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mitropa-cup-round-4-czechia-in-the-lead",
          "pubDate" : "Sat, 08 May 2021 13:00:00 +0100",
          "title" : "Mitropa Cup, Round 4: Czechia and Italy in the lead"
-      },
-      {
-         "description" : "As regular readers of this column will know, the USSR created the mightiest state apparatus for the support of chess which the world has ever seen, or is likely to see. The engine for powering this enterprise was the USSR Chess Federation and the exploits of this imperium of the mind, for much of its []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-soviet-survivor-the-case-of-tigran-petrosian/",
-         "pubDate" : "Sat, 08 May 2021 09:00:01 +0000",
-         "title" : "A Soviet survivor: the case of Tigran Petrosian"
-      },
-      {
-         "description" : "If Black plays 30...Nxc3 in the diagram position he attacks White's rook on b1 and opens the bishop's diagonal a8-g2. So, everything seems fine for Black - unless White can spoil the fun with 31.Bc5. Well, can he?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/catch-with-a-catch",
-         "pubDate" : "Sat, 08 May 2021 09:00:00 +0100",
-         "title" : "Catch with a catch!?"
       }
    ]
 }
