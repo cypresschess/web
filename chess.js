@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the ultimate chess beginner trap, the four-move Scholar&#039;s Mate. 2021.04.28<br /> C23 Bishop&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholars-mate-four-move-checkmate-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YezT87PSv6o.jpg?itok=DctkkzX1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/scholars-mate-four-move-checkmate-shorts",
+         "pubDate" : "Sat, 29 May 2021 00:58:47 +0000",
+         "title" : "Scholar's Mate: The Four-Move Checkmate! | #Shorts"
+      },
+      {
+         "description" : " The 2021 ACT Chess Championship has moved from it's traditional Canberra Day long weekend (in March), to the Reconciliation Day long weekend (in May). On the one hand this has seen a big increase in entries (52 players), but on the other, a few of the stronger players have had to give it a miss due to university exams. With a large field, the chances of first round upsets was diminished, and in fact there were none in the first round. The top sees went 23-0, although Fred Litchfield had to work hard to overcome a determined James Minogue. Cam Cunningham was another who put up a good fight (against WFM Alana Chibnall), but his habitual time trouble once again caused problems. The results fro",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-round-1.html",
+         "pubDate" : "Sat, 29 May 2021 00:35:00 +0000",
+         "title" : "2021 ACT Chess Championship - Round 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-1-chess-openings-explained",
          "pubDate" : "Tue, 25 May 2021 06:54:32 +0000",
          "title" : "The Exchange Philidor: Part 1 | Chess Openings Explained"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Exchange Variation of the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.06.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-2-chess-openings-explained-lichessorg",
-         "pubDate" : "Tue, 25 May 2021 06:54:32 +0000",
-         "title" : "The Exchange Philidor: Part 2 | Chess Openings Explained | lichess.org"
       },
       {
          "description" : " This <a href=\"https://championschesstour.com/\">elite rapid event</a> started Sunday, and after two days of the three-day preliminary the field remains tightly bunched. Sixteen players are fighting it out in a round-robin to determine the top eight places for the knockout portion of the event, and with five rounds to go the top 12 players are within two points of each other, with two more players are just a further half point back. (And these two aren't exactly chumps: Daniil Dubov and Alireza Firouzja!) Anish Giri led after the first day with 4/5, while Magnus Carlsen and Fabiano Caruana were among those mired at 50%. Giri had a tough second day, getting only 2/5, while Caruana got hot with",
