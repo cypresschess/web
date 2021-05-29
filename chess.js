@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "White has misplayed the opening (six moves with the queen!), and in the diagram position Black's huge delevopment advantage is just crying out to be exploited. How did Black (MVL) proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gruenfeld-disaster",
+         "pubDate" : "Sat, 29 May 2021 09:00:00 +0100",
+         "title" : "Gruenfeld disaster"
+      },
+      {
+         "description" : "GM Wesley So took the lead in his FXT Crypto Cup semifinal against a mosquitos-battling GM Ian Nepomniachtchi. The American grandmaster needs two game points on Saturday to reach the final against either&#38;nbsp;GM Magnus Carlsen or GM Teimour Radjab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-nepomniachtchi-mosquitoes",
+         "pubDate" : "Sat, 29 May 2021 00:25:00 -0700",
+         "title" : "FTX Crypto Cup: So Leads As Nepomniachtchi Fights Mosquitoes"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the ultimate chess beginner trap, the four-move Scholar&#039;s Mate. 2021.04.28<br /> C23 Bishop&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholars-mate-four-move-checkmate-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YezT87PSv6o.jpg?itok=DctkkzX1\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1936,14 +1952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reflecting-on-the-2020-21-candidates-part-2",
          "pubDate" : "Mon, 10 May 2021 15:00:00 +0100",
          "title" : "Reflecting on the 2020-2021 Candidates - Part 2"
-      },
-      {
-         "description" : "The first Chess for Freedom program, aimed at the introduction of chess as a tool for education and social inclusion in prisons, takes place May 11, 2021. The project is co-organized by the International Chess Federation (FIDE) and the Cook County...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-for-freedom-online-conference-tournament",
-         "pubDate" : "Mon, 10 May 2021 06:14:00 -0700",
-         "title" : "Chess For Freedom: Online Conference, Tournament On Tuesday"
       },
       {
          "description" : "The Russian Team Championships were decided in the penultimate round: The Iron Horsemen of St. Petersburg win the Open Championship, the Moscow Chess Team wins the Women's Tournament. However, there is still one round to play in which the other teams fight for the places. It starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
