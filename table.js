@@ -1,6 +1,8 @@
 jtable([
+"SUGAR LAND","2021-05-28","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105281492 target=' blank'>FBCC 2021 MAY 28 OPEN</a>",
 "SPRING","2021-05-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202105219502 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-05-21","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105219492 target=' blank'>FBCC 2011 FIRST DAY OF SPRING</a>",
+"CYPRESS","2021-05-21","10","<a href=http://www.uschess.org/msa/XtblMain.php?202105211062 target=' blank'>KOC</a>",
 "LEAGUE CITY","2021-05-15","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105159272 target=' blank'>2021 TEXAS SCHOLASTIC INVITATIONALS</a>",
 "SPRING","2021-05-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202105157742 target=' blank'>DER SPRINGERS</a>",
 "SPRING","2021-05-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105147372 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "TOMBALL","2020-02-02","4","<a href=http://www.uschess.org/msa/XtblMain.php?202002025622 target=' blank'>DA 4 GUYS</a>",
 "HOUSTON","2020-02-01","29","<a href=http://www.uschess.org/msa/XtblMain.php?202002012682 target=' blank'>CHESSPANDA02012020SATURDAY</a>",
 "KATY","2020-02-01","123","<a href=http://www.uschess.org/msa/XtblMain.php?202002012342 target=' blank'>TEXAS REGION V SCHOLASTIC CHAMPIONSHIP</a>",
-"HOUSTON","2020-02-01","31","<a href=http://www.uschess.org/msa/XtblMain.php?202002012332 target=' blank'>THE CHESS REFINERY: 360+MINUTES</a>",
-"HOUSTON","2020-01-31","12","<a href=http://www.uschess.org/msa/XtblMain.php?202001314972 target=' blank'>FRIDAY KNIGHT QUADS 01.31.2020</a>",
 ]);
