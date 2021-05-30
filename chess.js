@@ -18,6 +18,22 @@ news_feed (
          "title" : "FTX Chess Cup Finals - So against Carlsen"
       },
       {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83089692.cms\" /></a> India's R Vaishali on Sunday won the women's Speed chess online championship qualifier 2, beating Polina Shuvalova of Russia in the final. The 20-year-old from Chennai, a woman Grandmaster, became the second Indian to qualify for the main event of the 2021 women's Speed Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms",
+         "pubDate" : "Sun, 30 May 2021 20:50:56 +0530",
+         "title" : "Vaishali wins Speed Chess Championship Qualifier 2"
+      },
+      {
+         "description" : " Magnus Carlsen won the first game of the FTX Crypto Cup final but Wesley So equalised in game three and thus the players shared the first set 2-2 on the first day of the final. These were the only two games of any note on the day as Carlsen really didn't try with the white pieces in game 2 and took a draw by repetition after So introduced a novelty in game 4. Carlsen later claimed that he was feeling ill but his use of the short draw with the white pieces straight after a win has been a regular tactic of his. So also admitted to trouble sleeping last night before the match. The match for the 3rd-4th places between Ian Nepomniachtchi and Teimour Radjabov saw four short content less draws. Wh",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-so-level-after-day-1-of-the-ftx-crypto-cup-but-story-of-short-draws-dominates-the-day",
+         "pubDate" : "Sun, 30 May 2021 19:12:00 +0400",
+         "title" : "Carlsen and So level after day 1 of the FTX Crypto Cup but story of short draws dominates the day - Day 8"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/learning-from-sultan-khan",
          "pubDate" : "Sun, 09 May 2021 21:15:00 +0100",
          "title" : "Learning from Sultan Khan"
-      },
-      {
-         "description" : " Offering a draw is the fastest way to lose out on a possibility to learn. You rate the result higher than the process. And that is definitely not the way to go. A draw offer usually happens in one of the two situations: You are better against a stronger opponent, <a href=\"https://nextlevelchess.blog/never-offer-draw/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/never-offer-draw/\">Why You Should Never Offer A Draw</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
-         "pubDate" : "Sun, 09 May 2021 18:30:56 +0000",
-         "title" : "Why You Should Never Offer A Draw"
       }
    ]
 }
