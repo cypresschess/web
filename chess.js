@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen was surprised in the opening and 10 minutes behind on the clock in Game 1 of the FTX Crypto Cup final against Wesley So, but suddenly launched an unstoppable attack. That win with the black pieces ended Wesley's 29-game unbeaten streak and made Magnus a big favourite in the match, but in Game 3 Wesley hit back to win in similarly devastating style. Magnus revealed afterwards he was feeling unwell and took a quick draw to end the day, while the 3rd place match began with only quick draws between Teimour Radjabov and Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-8-carlsen-so-trade-crushing-blows",
+         "pubDate" : "Sun, 30 May 2021 22:28:17 +0000",
+         "title" : "FTX Crypto Cup 8: Carlsen and So trade crushing blows"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1114",
+         "pubDate" : "Sun, 30 May 2021 21:17:54 +0000",
+         "title" : "Round 8: Zhansaya Abdumalik stretches her lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1113",
+         "pubDate" : "Sun, 30 May 2021 20:45:04 +0000",
+         "title" : "Qualifier III: Third time's a charm for Assaubayeva"
+      },
+      {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1514,14 +1538,6 @@ news_feed (
          "title" : "Planning for Victory (2)"
       },
       {
-         "description" : "Play Magnus Group, the parent company of chess24, Chessable and other leading chess brands, has today expanded by acquiring the chess training and analytics startup Aimchess.com. Aimchess is a fast-growing chess analytics startup powered by AI that delivers personalized insights and training exercises based on users' historical games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-joins-play-magnus-group",
-         "pubDate" : "Tue, 18 May 2021 08:48:24 +0000",
-         "title" : "Aimchess joins Play Magnus Group"
-      },
-      {
          "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r8",
          "pubDate" : "Mon, 10 May 2021 08:26:00 +0100",
          "title" : "Winners decided with a round to spare at the Russian Team Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1074",
-         "pubDate" : "Sun, 09 May 2021 20:42:18 +0000",
-         "title" : "Dante Beukes and Lishen Mentile win Namibia Championship 2021"
-      },
-      {
-         "description" : "Reading seems to have become a dying habit. With the advent of gadgets, distraction lurks around every corner and resisting the temptations has become increasingly difficult. A true bibliophile knows the essence of reading from a physical book - the smell of a newly printed one cannot be replaced by a digital version. Four-time Indian women's champion, Asian continental champion and Olympic individual gold medallist IM Padmini Rout reflects on Daniel King's book about Sultan Khan. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/learning-from-sultan-khan",
-         "pubDate" : "Sun, 09 May 2021 21:15:00 +0100",
-         "title" : "Learning from Sultan Khan"
       }
    ]
 }
