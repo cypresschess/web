@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Sun, 30 May 2021 16:50:00 +0100",
+         "title" : "FTX Crypto Cup Finals - Live!"
+      },
+      {
+         "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE Carlsen, Norway's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-chess-cup-final-so-against-carlsen/",
+         "pubDate" : "Sun, 30 May 2021 15:22:51 +0000",
+         "title" : "FTX Chess Cup Finals - So against Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1112",
+         "pubDate" : "Sun, 30 May 2021 14:53:05 +0000",
+         "title" : "36 European players qualify for FIDE World Cup"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 29th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about good and bad bishops and wonders which pieces to exchange and which pieces to keep on the board. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-29-to-exchange-or-not-to-exchange",
+         "pubDate" : "Sun, 30 May 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 29: To exchange or not to exchange"
+      },
+      {
+         "description" : "Zhansaya Abdumalik is the sole leader of the Women's Grand Prix event in Gibraltar. Three players - Kateryna Lagno, Nana Dzagnidze and Anna Muzychuk - are not only battling for tournament victory but also for a spot in the Candidates. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Elisabeth Paehtz | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Sun, 30 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : " IM Junta Ikeda is now the outright leader of the 2021 ACT Chess Championship, with 5 wins from 5 games. He won an exciting game against 2nd seed Fred Litchfield in the 5th round, leaving him a point ahead of the pack. The win was even more noteworthy as Ikeda played with the black pieces, due to a misunderstanding about the pairings. This started when Litchfield won his 4th round game against CM Hui Li after Li failed to appear before the forfeit time. Going into the 5th round Ikeda and Litchfield were the only players on 4 points, and knew they should play each other. However they assumed that Litchfield was to be white (based on their respective colour history), overlooking that defaulted",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-rds-4-5-aka.html",
+         "pubDate" : "Sun, 30 May 2021 13:13:00 +0000",
+         "title" : "2021 ACT Chess Championship Rds 4 & 5 (AKA not my best day as an arbiter)"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83087372.cms\" /></a>Grandmaster P Iniyan won the Indian qualifiers event - played online - to book a place in the World Cup on Sunday. The premier event, to be held in Sochi, Russia from July 10, will be the 18-year-old's maiden World Cup. \"I never thought I would win this event since the field was super strong. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms",
+         "pubDate" : "Sun, 30 May 2021 18:14:25 +0530",
+         "title" : "Iniyan qualifies for FIDE World Cup"
+      },
+      {
          "description" : " Rustam Kasimdzhanov, a former FIDE World Champion himself, is one of the most famous chess coaches - he was on Vishy Anand's side when he was #1 in the world, and was Fabiano Caruana's second during Fabi's bid for the title in 2018. Rustam posted a chess problem during his Masterclass with World Chess. Listen to the problem and share your response in the comments section. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/HBHlXp4nfpY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\"><a href=\"https://masterclass.worldchess.com/\">Masterclass</a> is a series of seminars for World Chess subscribers.</div> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "Ruining the Rook Ending"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Wesley So, the current numbers one and two of the Champions Chess Tour, will play the final of the FTX Crypto Cup. Carlsen defeated GM Teimour Radjabov twice to reach the final whereas one win against GM Ian Nepomniachtchi...",
+         "description" : "GM Magnus Carlsen and GM Wesley So, the current numbers one and two of the Champions Chess Tour, will play in the final of the FTX Crypto Cup. Carlsen defeated GM Teimour Radjabov twice to reach the final. One win against GM Ian Nepomniachtchi was...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-carlsen-so-in-final",
@@ -106,14 +162,6 @@ news_feed (
          "title" : "Carlsen and Wesley So meet in the final of the FTX Crypto Cup - Day 7"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Sat, 29 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup - So and Carlsen in the finals"
-      },
-      {
          "description" : "On the first day of the FTX Crypto Cup semifinals, Wesley So beat Ian Nepomniachtchi by winning game 4 after having agreed to three draws. Meanwhile, world champion Magnus Carlsen and Teimour Radjabov traded blows in games 3 and 4, which means their match is tied going into day 2 of the semis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +176,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/time-trouble/?utm_source=rss&utm_medium=rss&utm_campaign=time-trouble",
          "pubDate" : "Sat, 29 May 2021 14:00:00 +0000",
          "title" : "How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results"
-      },
-      {
-         "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Dinara Saduakassova | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Sat, 29 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Games and results"
       },
       {
          "description" : "Egyptian GM Ahmed Adly became the African Champion on Thursday, overtaking countryman GM Bassem Amin at the finish line in the 2021 African Individual Chess Championship. The two players monopolized the tournament and were tied on 8/9, despite t...",
@@ -408,14 +448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1106",
          "pubDate" : "Thu, 27 May 2021 21:01:30 +0000",
          "title" : "Round 6: Valentina's vultures"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen hit top gear to knock Hikaru Nakamura out&#160;of the FTX Crypto Cup. The Norwegian upped his intensity and displayed incredible speed and precision as he won a tense tiebreak against his big rival. The World Champion will meet Radjabov at the semi final of the Champions Tour. Out of three Americans, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-radjabov-and-so-nepomniachtchi-are-the-semis-at-the-ftx-crypto-cup/",
-         "pubDate" : "Thu, 27 May 2021 20:28:14 +0000",
-         "title" : "Carlsen - Radjabov and So - Nepomniachtchi are the semis at the FTX Crypto Cup"
       },
       {
          "description" : " The FTX Crypto Cup quarterfinals concluded today setting up the pairings Carlsen-Radjabov and Nepomniachtchi- Wesley So in the semifinals. Carlsen and Nepomniachtchi only progressed after blitz tie-breaks. The online event is the last major of the Meltwater Champions Chess tour although there remain three more normal qualification events before the final starting on September 25th. Magnus Carlsen won the blitz tie-break 2-0 against Hikaru Nakamura after another close struggle in the rapid games. The first game was a very sharp Giuoco Piano where Carlsen found himself with the harder position to play - even though the computers thought he had quite some advantage. Carlsen fell behind on the ",
@@ -2096,30 +2128,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/never-offer-draw/?utm_source=rss&utm_medium=rss&utm_campaign=never-offer-draw",
          "pubDate" : "Sun, 09 May 2021 18:30:56 +0000",
          "title" : "Why You Should Never Offer A Draw"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 26th instalment of his ChessBase show \"Understanding before Moving\", Herman shows examples of a good cooperation between queen and bishop. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-26-cooperation-between-queen-and-bishop",
-         "pubDate" : "Sun, 09 May 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 26: Cooperation between queen and bishop"
-      },
-      {
-         "description" : "The Russian Team Championships are being played on May 1-10 at the Hotel Zhemchuzhina in Sochi. Besides the Premier League, a 9-team round robin, the Women's League and the Higher League are taking place as Swiss tournaments. Both in the Premier League and the Women's Tournament, the clear favourites have managed to win all of their matches - the Mednyi Vsadnik (Iron Horsemen) led by Nikita Vitiugov and the Moscow Chess Team led by Kateryna Lagno. | Pictured: Aleksandra Goryachkina | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r7",
-         "pubDate" : "Sun, 09 May 2021 14:20:00 +0100",
-         "title" : "Favourites top the standings in Russian Team Championships"
-      },
-      {
-         "description" : " Over the weekend was a series of junior raining events, organised by the ACT Junior Chess League Secretary Kate Woodley. On Saturday a number of our new juniors players played in 3 round Round Robins, to get them used to playing longer time control chess. 25 players took part and was enjoyed by everyone, even those who missed out on winners medals. On Sunday, GM Anton Smirnov took on 18 of Canberra's higher rated juniors, in a good old fashioned simul. Simul's seem to be less common these days, although I am not sure of the reasons (probably online chess is to blame, but it may be something else). After 2 and half hours of play, Smirnov finished with 16 wins and 2 draws. He drew with Lachla",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/a-good-old-fashioned-simul.html",
-         "pubDate" : "Sun, 09 May 2021 12:59:00 +0000",
-         "title" : "A good old fashioned Simul"
       }
    ]
 }
