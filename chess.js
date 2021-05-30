@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will be hoping it's 3rd time lucky on Sunday as he takes on Wesley So in the FTX Crypto Cup final after losing to Wesley in their two previous Meltwater Champions Chess Tour finals. Wesley was on top of his game as he calmly dealt with everything Ian Nepomniachtchi threw at him to win their semi-final with a game to spare. Magnus said he'll need to play better to beat Wesley, but even while not firing on all cylinders he won the 1st and 4th games against Teimour Radjabov to book his spot in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-7-carlsen-so-meet-in-3rd-final",
+         "pubDate" : "Sun, 30 May 2021 01:02:03 +0000",
+         "title" : "FTX Crypto Cup 7: Carlsen & So meet in 3rd final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a quick way to disarm the &quot;Bong Cloud&quot; chess opening, a showman opening where the king comes out early to confuse the opponent. 2021.04.28<br /> C20 King&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-bong-cloud-your-bullet-games-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Sxwz4VTfjWY.jpg?itok=X3VM98LB",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/clear-bong-cloud-your-bullet-games-shorts",
+         "pubDate" : "Sun, 30 May 2021 00:59:49 +0000",
+         "title" : "Clear the Bong Cloud in your Bullet Games! | #Shorts"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-2",
          "pubDate" : "Tue, 25 May 2021 08:30:00 +0100",
          "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Exchange Variation of the Philidor Defense, characterized as 1.e4 e5 2.Nf3 d6 3.d4 exd4. 2021.05.24<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> B07 Pirc defence<br /> C41 Philidor, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exchange-philidor-part-1-chess-openings-explained",
-         "pubDate" : "Tue, 25 May 2021 06:54:32 +0000",
-         "title" : "The Exchange Philidor: Part 1 | Chess Openings Explained"
       },
       {
          "description" : " This <a href=\"https://championschesstour.com/\">elite rapid event</a> started Sunday, and after two days of the three-day preliminary the field remains tightly bunched. Sixteen players are fighting it out in a round-robin to determine the top eight places for the knockout portion of the event, and with five rounds to go the top 12 players are within two points of each other, with two more players are just a further half point back. (And these two aren't exactly chumps: Daniil Dubov and Alireza Firouzja!) Anish Giri led after the first day with 4/5, while Magnus Carlsen and Fabiano Caruana were among those mired at 50%. Giri had a tough second day, getting only 2/5, while Caruana got hot with",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "How to solve chess problems"
       },
       {
-         "description" : "Magnus Carlsen faces World Championship Challenger Ian Nepomniachtchi as the FTX Crypto Cup, the 6th event on the Meltwater Champions Chess Tour, begins Sunday, May 23rd at 17:00 CEST. One of the strongest line-ups ever assembled features the full Top 10, meaning a Tour debut for the last challenger and world no. 2 Fabiano Caruana. The last Major on the Tour offers a direct spot to September's Tour Finals in San Francisco as well as a record online chess prize fund of $320k, with sponsors FTX providing a $100k Bitcoin bonus.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-meet-as-top-10-all-play-320-000-ftx-crypto-cup",
-         "pubDate" : "Mon, 17 May 2021 12:00:02 +0000",
-         "title" : "Carlsen-Nepo as full Top 10 play $320,000 FTX Crypto Cup"
-      },
-      {
          "description" : " is here. Click this link for the PDF ",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/looking-back-to-the-most-talked-about-chess-logo-ever/",
          "pubDate" : "Sun, 09 May 2021 08:51:50 +0000",
          "title" : "Looking Back to The Most Talked About Chess Logo Ever"
-      },
-      {
-         "description" : " George Henry Mackenzie: Third US Chess Champion, 1870 From the publisher: Definitive biography of the strongest American chess player, which cover the year 1870. Author worked out all available American (and other) chess sources for this year (The Turf, Field, and Farm, Sunday Mercury, New York Albion, New York Clipper, all New York dailies, British <a href=\"http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">George Henry Mackenzie: Third US Chess Champion, 1870</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/09/ge",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/09/george-henry-mackenzie-third-us-chess-champion-1870/",
-         "pubDate" : "Sun, 09 May 2021 00:10:04 +0000",
-         "title" : "George Henry Mackenzie: Third US Chess Champion, 1870"
       }
    ]
 }
