@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Rustam Kasimdzhanov, a former FIDE World Champion himself, is one of the most famous chess coaches - he was on Vishy Anand's side when he was #1 in the world, and was Fabiano Caruana's second during Fabi's bid for the title in 2018. Rustam posted a chess problem during his Masterclass with World Chess. Listen to the problem and share your response in the comments section. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/HBHlXp4nfpY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\"><a href=\"https://masterclass.worldchess.com/\">Masterclass</a> is a series of seminars for World Chess subscribers.</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-posts-a-chess-problem/",
+         "pubDate" : "Sun, 30 May 2021 10:19:46 +0000",
+         "title" : "Rustam Kasimdzhanov Posts a Chess Problem"
+      },
+      {
+         "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/36-european-players-qualified-for-fide-world-chess-cup/",
+         "pubDate" : "Sun, 30 May 2021 08:01:15 +0000",
+         "title" : "36 European players qualified for FIDE World Chess Cup 2021"
+      },
+      {
+         "description" : " Last week I showed you the first part of one of my online games, where we reached this rook ending after Black's (my) 25th move. All I have to do to win the game is play sensible moves. I'll skip through the next few without comment. They weren't perfect on either side but didn't change <a href=\"https://chessimprover.com/ruining-the-rook-ending/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ruining the Rook Ending\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ruining-the-rook-ending/\">Ruining the Rook Ending</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/ruining-the-rook-ending/",
+         "pubDate" : "Sun, 30 May 2021 08:00:22 +0000",
+         "title" : "Ruining the Rook Ending"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Wesley So, the current numbers one and two of the Champions Chess Tour, will play the final of the FTX Crypto Cup. Carlsen defeated GM Teimour Radjabov twice to reach the final whereas one win against GM Ian Nepomniachtchi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-carlsen-so-in-final",
+         "pubDate" : "Sun, 30 May 2021 00:44:00 -0700",
+         "title" : "FTX Crypto Cup: Carlsen, So In Final"
+      },
+      {
+         "description" : "After another exciting day's play and four decisive results, round seven of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 29 May 2021 ended with Zhansay Abdumalik of Kazakhstan in the lead on 5&frac12;, Mariya Muzychuk in second place on 5, and Kateryna Lagno of Russia and Gunay Mammadzada []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
+         "pubDate" : "Sun, 30 May 2021 05:06:00 +0000",
+         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar"
+      },
+      {
          "description" : "Magnus Carlsen will be hoping it's 3rd time lucky on Sunday as he takes on Wesley So in the FTX Crypto Cup final after losing to Wesley in their two previous Meltwater Champions Chess Tour finals. Wesley was on top of his game as he calmly dealt with everything Ian Nepomniachtchi threw at him to win their semi-final with a game to spare. Magnus said he'll need to play better to beat Wesley, but even while not firing on all cylinders he won the 1st and 4th games against Teimour Radjabov to book his spot in the final.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/clear-bong-cloud-your-bullet-games-shorts",
          "pubDate" : "Sun, 30 May 2021 00:59:49 +0000",
          "title" : "Clear the Bong Cloud in your Bullet Games! | #Shorts"
+      },
+      {
+         "description" : " The Chess Endgame Exercise Book : John Nunn John Nunn has written around thirty books on chess, many of these being some of the finest published in any language : Secrets of Pawnless Endings (1994, Batsford) for example, is easily a candidate for the all time list. John is a director of Gambit Publications Ltd. together <a href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Endgame Exercise Book</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\">The Chess Endgame Exercise Book</a> appe",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/",
+         "pubDate" : "Sun, 30 May 2021 00:10:59 +0000",
+         "title" : "The Chess Endgame Exercise Book"
       },
       {
          "description" : "",
@@ -50,7 +98,7 @@ news_feed (
          "title" : "Shamsiddin Vokhidov wins Asian Hybrid Championship"
       },
       {
-         "description" : " Carlsen and Wesley So meet in the final of the FTX Crypto Cup Magnus Carlsen and Wesley So meet in the final of the FTX Crypto Cup after defeating Teimour Radjabov and Ian Nepomniachtchi in the semifinals. This is the third time on the Meltwater Champions Chess Tour that they've met in the final, So beat him both in the Skilling Open and Opera Euro Rapid, they also met in the third-fourth playoff of the Magnus Carlsen invitational where Carlsen won. Wesley So is undefeated in the tournament thus far. Wesley So survived a testing game one of the second set as black against the English. So thought Nepomniachtchi must have missed a win, it seems 26.Bxd4? was the moment So was out of danger and",
+         "description" : " Magnus Carlsen and Wesley So are to meet in the final of the FTX Crypto Cup after defeating Teimour Radjabov and Ian Nepomniachtchi in the semifinals. This is the third time on the Meltwater Champions Chess Tour that they've met in the final, So beat Carlsen both in the Skilling Open and the Opera Euro Rapid, they also met in the third-fourth playoff of the Magnus Carlsen invitational where Carlsen won. Wesley So is undefeated in the FTX Crypto Cup thus far. Wesley So survived a testing game one of the second set as black against the English. So thought Nepomniachtchi must have missed a win, it seems 26.Bxd4? was the moment So was out of danger, 26.Qd3 is the move recommended by computers b",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-wesley-so-meet-in-the-final-of-the-ftx-crypto-cup",
@@ -386,14 +434,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: 14-year old Eline Roebers beats Grandmaster"
       },
       {
-         "description" : "Just like Mohammed ElShorbagy, Ali Farag, Terek Momen, Marwan Elshorbagy, and Abel Karim Gawad dominate the squash scene, the Egyptian chess players have dominated the &#160;African Individual Chess Championship 2021. At the recently concluded event in Lilongwe all medalists hail from the land of the pharaohs. Ahmed Adly, often dubbed as the ElShorbagy of chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ahmed-adly-the-elshorbagy-of-chess-wins-the-african-continental-championship/",
-         "pubDate" : "Thu, 27 May 2021 16:54:23 +0000",
-         "title" : "Ahmed Adly - the ElShorbagy of chess wins the African Continental Championship"
-      },
-      {
          "description" : " The Queen's Indian Defence (1.d4 Nf6 2.c4 e6 3.Nf3 b6) is known as one of the most solid defences. Seen as a natural partner to the Nimzo-Indian (3.Nc3 Bb4) it has been played by most of the greats in chess history. Besides its solidity it offers ample opportunity to engage in a complex struggle because <a href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quell 'em with the Queen's Indian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\">Quell 'em with the Queen's Indian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-carlsen-caruana-stage-comebacks",
          "pubDate" : "Thu, 27 May 2021 11:38:25 +0000",
          "title" : "FTX Crypto Cup 4: Carlsen & Caruana stage comebacks"
-      },
-      {
-         "description" : "Lefong Hua is Professional Chess Coach &#38; Twitch Partner from Montreal, Canada. A true natural of chess streaming with an easy going and enjoyable style, it is always a pleasure to join his stream. His cat Benoni adds a few extra ELO points to the quality of the live videos :) Live today at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-lefong-hua-live-stream/",
-         "pubDate" : "Thu, 27 May 2021 11:00:00 +0000",
-         "title" : "FM Lefong Hua - live stream SUB battle"
       },
       {
          "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
@@ -1882,14 +1914,6 @@ news_feed (
          "title" : "ECF membership renewals"
       },
       {
-         "description" : " The Owen's Defence with 1b6 is a popular choice at club level because it throws White out of &#8216;book' (well probably) and needs little theory to play. Some years back I did a DVD on this opening and decided that the line with 1.e4 b6 2.d4 Bb7 3.Nd2 was difficult for Black, who could at <a href=\"https://chessimprover.com/obliterate-em-with-the-owens/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Obliterate 'em with the Owen's\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/obliterate-em-with-the-owens/\">Obliterate 'em with the Owen's</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/obliterate-em-with-the-owens/",
-         "pubDate" : "Wed, 12 May 2021 13:00:52 +0000",
-         "title" : "Obliterate 'em with the Owen's"
-      },
-      {
          "description" : "The Chinese Chess Championships are being played on May 7-15 in Xinghua Jiangsu, a county-level city in eastern China. After seven rounds, three players are sharing the lead in the open event while rating favourite Tan Zhongyi has grabbed the sole lead in the women's tournament. | Pictured: Tan Zhongyi during the 2018 Women's World Championship | Photo: Gu Xiaobang",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1936,14 +1960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-indian-qualifier-to-the-champions-chess-tour",
          "pubDate" : "Tue, 11 May 2021 19:00:00 +0100",
          "title" : "Arjun Erigaisi wins Indian Qualifier to the Champions Chess Tour"
-      },
-      {
-         "description" : "GM Andrey Esipenko, the 19-year-old Russian who beat GM Magnus Carlsen at the 2021 Tata Steel Chess Tournament, continued to impress this week. At the Russian Team Championship, Esipenko scored 6.5/7 while playing for the winning team, Mednyi Vsad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrey-esipenko-russian-team-chess-championship",
-         "pubDate" : "Tue, 11 May 2021 09:20:00 -0700",
-         "title" : "Esipenko Enters World's Top 30 At Russian Team Chess Championship"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Team Championships, with a focus on the game Rublevsky vs Askerov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2104,22 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/a-good-old-fashioned-simul.html",
          "pubDate" : "Sun, 09 May 2021 12:59:00 +0000",
          "title" : "A good old fashioned Simul"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1072",
-         "pubDate" : "Sun, 09 May 2021 11:25:50 +0000",
-         "title" : "Wojtaszek and Kulon win Polish Championship 2021"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F2075410-3EC3-4570-9B5D-FA39C7DDFA64.png\" width=\"2500\" height=\"1667\" alt=\"\" /> <div class=\"e2-text-caption\">The controversial logo that shook the chess world</div> </div> The 2018 World Chess Championship found itself at the center of a heated discussion about design, sex and LGBT culture. It was covered by all major media outlets, including an above-the-fold front page feature by the Financial Times. The media called it one of the most important sporting events of the year. One of the key issues in the discussion was the provocative logo that featured two figures playing chess in a way that, some say, resembled <a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/looking-back-to-the-most-talked-about-chess-logo-ever/",
-         "pubDate" : "Sun, 09 May 2021 08:51:50 +0000",
-         "title" : "Looking Back to The Most Talked About Chess Logo Ever"
       }
    ]
 }
