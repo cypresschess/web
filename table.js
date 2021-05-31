@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2021-05-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202105302192 target=' blank'>FBCC MAY 2021 MONTH-OF-SUNDAYS</a>",
+"SPRING","2021-05-28","21","<a href=http://www.uschess.org/msa/XtblMain.php?202105281972 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2021-05-28","15","<a href=http://www.uschess.org/msa/XtblMain.php?202105281542 target=' blank'>05212021KOFC</a>",
 "SUGAR LAND","2021-05-28","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105281492 target=' blank'>FBCC 2021 MAY 28 OPEN</a>",
 "SPRING","2021-05-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202105219502 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-05-21","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105219492 target=' blank'>FBCC 2011 FIRST DAY OF SPRING</a>",
@@ -36,6 +39,7 @@ jtable([
 "SPRING","2021-02-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202102276232 target=' blank'>THE SATURDAY KNIGHTS</a>",
 "SPRING","2021-02-26","33","<a href=http://www.uschess.org/msa/XtblMain.php?202102265852 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2021-01-27  - 02-24","6","<a href=http://www.uschess.org/msa/XtblMain.php?202102245642 target=' blank'>NW MONTHLY</a>",
+"KATY","2021-02-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202102205952 target=' blank'>SR CHESSKNIGHTS 02202021</a>",
 "SPRING","2021-02-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202102204212 target=' blank'>DER SPRINGERS SATURDAY G/75 AND SATURDAY KNIGHTS</a>",
 "SPRING","2021-02-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202102193922 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-02-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202102132612 target=' blank'>SR CHESSKNIGHTS 02132021</a>",
@@ -195,8 +199,4 @@ jtable([
 "CYPRESS","2020-02-07","19","<a href=http://www.uschess.org/msa/XtblMain.php?202002075222 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "TOMBALL","2020-02-07","20","<a href=http://www.uschess.org/msa/XtblMain.php?202002075192 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
 "TOMBALL","2020-02-07","15","<a href=http://www.uschess.org/msa/XtblMain.php?202002075122 target=' blank'>THE FRIDAY KNIGHTS ADVANCED</a>",
-"HOUSTON","2020-02-07","8","<a href=http://www.uschess.org/msa/XtblMain.php?202002074982 target=' blank'>FRIDAY KNIGHT QUADS 02.07.2020</a>",
-"TOMBALL","2020-02-02","4","<a href=http://www.uschess.org/msa/XtblMain.php?202002025622 target=' blank'>DA 4 GUYS</a>",
-"HOUSTON","2020-02-01","29","<a href=http://www.uschess.org/msa/XtblMain.php?202002012682 target=' blank'>CHESSPANDA02012020SATURDAY</a>",
-"KATY","2020-02-01","123","<a href=http://www.uschess.org/msa/XtblMain.php?202002012342 target=' blank'>TEXAS REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 ]);
