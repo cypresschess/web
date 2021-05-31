@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour is back - and the tour begins on Thursday, 3 June 2021 with an over-the-board classical tournament in Bukarest. Ten top players take part, the top seeds are Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, and Wesley So. After the end of the tournament on 15 June, the players travel to Paris to take part in a Rapid & Blitz tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-grand-chess-tour-2021-begins-with-tournaments-in-bukarest-and-paris",
+         "pubDate" : "Mon, 31 May 2021 15:00:00 +0100",
+         "title" : "The Grand Chess Tour 2021 begins - with tournaments in Bukarest and Paris"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/career-spans-of-chess-players-are-getting-shortened-anand/articleshow/83116572.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83116572.cms\" /></a>Five-time world chess champion Viswanathan Anand on Monday said that the career span of players has become shorter than earlier times because of the high level of hard work arising out of intense competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/career-spans-of-chess-players-are-getting-shortened-anand/articleshow/83116572.cms",
+         "pubDate" : "Mon, 31 May 2021 19:17:21 +0530",
+         "title" : "Career spans of chess players are getting shortened: Anand"
+      },
+      {
+         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over closest pursuers Gunay Mammadzada and Mariya Muzychuk. Mammadzada is making a strong impression on the Rock, as she collected three consecutive victories in rounds 6-9, coincidentally over the three Russian participants. Follow the games of round 9 live with commentary. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r8",
+         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
+         "title" : "Gibraltar GP: Abdumalik a full point ahead"
+      },
+      {
+         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over Gunay Mammadzada and Mariya Muzychuk. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Anna Muzychuk | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : " IM Junta Ikeda has won his 7th ACT Chess Championship, with a apt score of 7 wins from 7 games. Having entered the final day leading on 5/5, he defeated Miles Patterson in the morning round, before beating Wenlin Yin in the last round to score 100%. Fred Litchfield also finished the day with 2 wins, to reach 6/7 and outright second place. There was a 5 way tie for third, with Wenlin Yin, CM Hui Li, Harry Johnson, Sankeerten Badrinarayan, and Saffron Archer all on 5 points. Johnson, Badrinarayan and Archer also shared the Under 1900 prize, while Archer was the best scoring junior. Jame Minogue scored 4.5 to win the Under 1500 prize while Louis Serfontein scored 3.5 to be the best Under 1200.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-im-junta.html",
+         "pubDate" : "Mon, 31 May 2021 12:38:00 +0000",
+         "title" : "2021 ACT Chess Championship - IM Junta Ikeda 7/7"
+      },
+      {
          "description" : "264 players started in the European Hybrid Qualification Tournament. The first three rounds of this knock-out tournament consisted of 2-game matches (followed by a blitz-tiebreak and an Armageddon game, if necessary) and the 36 players, who were still in the race after the third round, qualified for the World Cup 2021, which will take place in Sochi, Russia, from 10 Juli to 6 August 2021. These 36 also played a 9-round Swiss blitz tournament (10+3) for prizes and placement. After nine rounds Vladislav Artemiev (pictured) and Aleksandar Indjic both had 6.5/9 and shared first place but Artemiev had the better tiebreak and won the tournament. | Photo: Vladimir Barsky",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "FTX Crypto Cup Finals: Carlsen and So trade blows"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup, with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quic...",
+         "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quick...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-theoretical-draws-radjabov-van-foreest",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-detective-what-color-are-these-pieces-shorts",
          "pubDate" : "Mon, 31 May 2021 01:01:18 +0000",
          "title" : "Chess Detective: What Color are these Pieces? | #Shorts"
+      },
+      {
+         "description" : " From the publisher: &#8220;50% Tactics 50% Opening Book 100% Enjoyment! Enter the world of chess miniatures where games are decided in 20 moves or less! Marvelous Modern Miniatures features the largest collection of miniatures chess games played in the last half-century. Over 500 pages of cut and thrust! Although every player is rated <a href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Marvelous Modern Miniatures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\">Marvelous Modern Miniatures</a> appea",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/",
+         "pubDate" : "Mon, 31 May 2021 00:10:19 +0000",
+         "title" : "Marvelous Modern Miniatures"
       },
       {
          "description" : "Magnus Carlsen was surprised in the opening and 10 minutes behind on the clock in Game 1 of the FTX Crypto Cup final against Wesley So, but suddenly launched an unstoppable attack. That win with the black pieces ended Wesley's 29-game unbeaten streak and made Magnus a big favourite in the match, but in Game 3 Wesley hit back to win in similarly devastating style. Magnus revealed afterwards he was feeling unwell and took a quick draw to end the day, while the 3rd place match began with only quick draws between Teimour Radjabov and Ian Nepomniachtchi.",
@@ -104,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-29-to-exchange-or-not-to-exchange",
          "pubDate" : "Sun, 30 May 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 29: To exchange or not to exchange"
-      },
-      {
-         "description" : "Zhansaya Abdumalik is the sole leader of the Women's Grand Prix event in Gibraltar. Three players - Kateryna Lagno, Nana Dzagnidze and Anna Muzychuk - are not only battling for tournament victory but also for a spot in the Candidates. | Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Elisabeth Paehtz | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Sun, 30 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : " IM Junta Ikeda is now the outright leader of the 2021 ACT Chess Championship, with 5 wins from 5 games. He won an exciting game against 2nd seed Fred Litchfield in the 5th round, leaving him a point ahead of the pack. The win was even more noteworthy as Ikeda played with the black pieces, due to a misunderstanding about the pairings. This started when Litchfield won his 4th round game against CM Hui Li after Li failed to appear before the forfeit time. Going into the 5th round Ikeda and Litchfield were the only players on 4 points, and knew they should play each other. However they assumed that Litchfield was to be white (based on their respective colour history), overlooking that defaulted",
@@ -2128,22 +2168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2021",
          "pubDate" : "Mon, 10 May 2021 19:11:00 +0400",
          "title" : "Russian Team Championship 2021 - "
-      },
-      {
-         "description" : "The Candidates Tournament 2020/2021 brought a wealth of interesting games and interesting novelties. After all, the players had more than one year to prepare for seven games. In his two-part reflection on the Candidates the Canadian FM Joshua Doknjas takes a close look at the most important theoretical developments in the Candidates and discusses various strategies of preparation. | Photo: Tournament winner Ian Nepomniachtchi | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reflecting-on-the-2020-21-candidates-part-2",
-         "pubDate" : "Mon, 10 May 2021 15:00:00 +0100",
-         "title" : "Reflecting on the 2020-2021 Candidates - Part 2"
-      },
-      {
-         "description" : "The Russian Team Championships were decided in the penultimate round: The Iron Horsemen of St. Petersburg win the Open Championship, the Moscow Chess Team wins the Women's Tournament. However, there is still one round to play in which the other teams fight for the places. It starts at 14:00 CEST (8:00 am EDT, 1 pm BST). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
-         "pubDate" : "Mon, 10 May 2021 13:45:00 +0100",
-         "title" : "Russian Premier League, Round 9 - Live!"
       }
    ]
 }
