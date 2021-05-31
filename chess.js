@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a position with all White pieces! How can it be? Work backwards and determine which pieces play for each team. 2021.04.28<br /> Composition by G. Husserl, 1966 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-detective-what-color-are-these-pieces-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7y8yDAeZAuE.jpg?itok=9Hnz01Eo\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-detective-what-color-are-these-pieces-shorts",
+         "pubDate" : "Mon, 31 May 2021 01:01:18 +0000",
+         "title" : "Chess Detective: What Color are these Pieces? | #Shorts"
+      },
+      {
          "description" : "Magnus Carlsen was surprised in the opening and 10 minutes behind on the clock in Game 1 of the FTX Crypto Cup final against Wesley So, but suddenly launched an unstoppable attack. That win with the black pieces ended Wesley's 29-game unbeaten streak and made Magnus a big favourite in the match, but in Game 3 Wesley hit back to win in similarly devastating style. Magnus revealed afterwards he was feeling unwell and took a quick draw to end the day, while the 3rd place match began with only quick draws between Teimour Radjabov and Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opposite-bishops-insane-endgame-gm-josh-friedel",
          "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
          "title" : "Opposite Bishops | Insane in the Endgame - GM Josh Friedel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the best games from the ongoing American Hybrid World Cup Qualifier, a collection of eight 16-player online knockouts. The eight winners will earn entry into the World Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JjT0",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
-         "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
