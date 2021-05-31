@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the finals. | Follow the games live with commentary starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Mon, 31 May 2021 16:55:00 +0100",
+         "title" : "FTX Crypto Cup Finals - Live!"
+      },
+      {
          "description" : "The Grand Chess Tour is back - and the tour begins on Thursday, 3 June 2021 with an over-the-board classical tournament in Bukarest. Ten top players take part, the top seeds are Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, and Wesley So. After the end of the tournament on 15 June, the players travel to Paris to take part in a Rapid & Blitz tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -927,7 +935,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-done-quick-puzzles-edition",
          "pubDate" : "Mon, 24 May 2021 17:32:00 -0700",
-         "title" : "Chess Done Quick: Puzzles Edition"
+         "title" : "Today: Chess Done Quick - Puzzles Edition"
       },
       {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-shri-umesh-panbude/",
          "pubDate" : "Tue, 11 May 2021 07:34:08 +0000",
          "title" : "Rest in Peace Shri Umesh Panbude"
-      },
-      {
-         "description" : " The Russian Team Championships took place in Sochi 1st to 10th May 2021. The St Petersburg team Bronze Horseman won the title winning all 8 matches. The Women's title was won by the Moscow team. The South Ural team from the Chelyabinsk region won the Higher League.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2021",
-         "pubDate" : "Mon, 10 May 2021 19:11:00 +0400",
-         "title" : "Russian Team Championship 2021 - "
       }
    ]
 }
