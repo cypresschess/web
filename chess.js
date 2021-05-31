@@ -74,6 +74,14 @@ news_feed (
          "title" : "FTX Crypto Cup Finals: Carlsen and So trade blows"
       },
       {
+         "description" : "European Hybrid Swiss tiebreak took place yesterday as a 9 rounds Swiss tournament, deciding the distribution of 32.000 EUR prize pool. 36 qualifiers for the FIDE World Cup 2021 participated the Finals. After 9 played rounds, two players tied for the top scoring 6.5 points each: Vladislav Artemiev (RUS, 2709) and Aleksandar Indjic (SRB, 2607). Additional tiebreak criteria&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
+         "pubDate" : "Mon, 31 May 2021 08:34:20 +0000",
+         "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
+      },
+      {
          "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quick...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,6 +216,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-carlsen-so-in-final",
          "pubDate" : "Sun, 30 May 2021 00:44:00 -0700",
          "title" : "FTX Crypto Cup: Carlsen, So In Final"
+      },
+      {
+         "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/36-players-qualified-for-world-chess-cup/",
+         "pubDate" : "Sun, 30 May 2021 05:51:56 +0000",
+         "title" : "36 players qualified for FIDE World Chess Cup"
       },
       {
          "description" : "After another exciting day's play and four decisive results, round seven of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 29 May 2021 ended with Zhansay Abdumalik of Kazakhstan in the lead on 5&frac12;, Mariya Muzychuk in second place on 5, and Kateryna Lagno of Russia and Gunay Mammadzada []",
@@ -514,6 +530,14 @@ news_feed (
          "title" : "FTX Crypto Cup Semis: Carlsen-Radjabov, Nepomniachtchi-So"
       },
       {
+         "description" : "The 2nd stage of European Hybrid Qualification Tournament for the FIDE World Cup 2021 took place on May 26 and 27, via the platform Tornelo Online. 144 players participated in Round 2, and half of them (72) advanced to the next stage Round 3. They are just one step away from qualifying for the FIDE World Cup.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/",
+         "pubDate" : "Fri, 28 May 2021 05:11:36 +0000",
+         "title" : "R2 report - European Hybrid Qualification Tournament"
+      },
+      {
          "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Next by FM Klaasen: Friday &#8220;Openings&#8221; Night, today at 18:00 CEST On Tuesday: interview with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -776,6 +800,14 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/26/ftx-crypto-cup-preliminaries-finish-quarterfinals-are-set.html",
          "pubDate" : "Wed, 26 May 2021 06:34:15 +0000",
          "title" : "FTX Crypto Cup: Preliminaries Finish; Quarterfinals are Set"
+      },
+      {
+         "description" : "European Hybrid Qualification Tournament for the FIDE World Chess Cup launched on Monday, May 24, through Tornelo Online platform. Shortly before the start of the first round, ECU Secretary General Mr. Theodoros Tzorbatsoglou joined the ECU live studio and addressed all the players. 264 players from 35 European federations registered for the event, but only 240 competed in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/r1-report-european-hybrid-qualification-tournament/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/r1-report-european-hybrid-qualification-tournament/",
+         "pubDate" : "Wed, 26 May 2021 05:44:16 +0000",
+         "title" : "R1 report -European Hybrid Qualification Tournament"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the best games from the ongoing American Hybrid World Cup Qualifier, a collection of eight 16-player online knockouts. The eight winners will earn entry into the World Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JjT0Ske6EdI.jpg",
@@ -1122,6 +1154,14 @@ news_feed (
          "title" : "I thought this was bonkers"
       },
       {
+         "description" : "European Hybrid Qualification Tournament for the FIDE World Cup will take place from 24th-30th May through Tornelo online platform. 36 players will qualify for the FIDE World Cup 2021. Official Regulations European Hybrid Qualification event Technical Requirements&#160; FIDE Requirements for Hybrid World Cup 2021 Qualifiers A detailed guide for the venues Knock out Pairing Tree Pairings of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-hybrid-qualification-tournament-for-the-fide-world-cup/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-hybrid-qualification-tournament-for-the-fide-world-cup/",
+         "pubDate" : "Sun, 23 May 2021 13:19:19 +0000",
+         "title" : "EUROPEAN HYBRID QUALIFICATION TOURNAMENT STARTS"
+      },
+      {
          "description" : " Here's a rapidplay game played the other day in one of my club's online arena events. I was black, facing the Ponziani. 1. e4 e5 2. Nf3 Nc6 3. c3 The Ponziani seems to be undergoing a mini revival at the moment. Is this justified? 3.. Nf6 The safest reply, though 3.. d5 is also <a href=\"https://chessimprover.com/pulverising-the-ponziani/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pulverising the Ponziani\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pulverising-the-ponziani/\">Pulverising the Ponziani</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1352,6 +1392,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventures-in-the-karpov-variation-4-nd7-of-the-caro-kann",
          "pubDate" : "Thu, 20 May 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
+      },
+      {
+         "description" : "The past four days have seen interesting discussion around providing opportunities for everyone to participate in chess regardless of their capabilities. After the inaugural workshop took place in Thessaloniki, Greece in September 2019 the Global Pandemic caused the format to be slightly adapted and moved online instead. This allowed for people from all over the world to join&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/online-workshop-equal-opportunities/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/online-workshop-equal-opportunities/",
+         "pubDate" : "Thu, 20 May 2021 14:33:57 +0000",
+         "title" : "Online Workshop \"Equal Opportunities\""
       },
       {
          "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
@@ -1674,6 +1722,14 @@ news_feed (
          "title" : "Yu Retains Chinese Title But Loses To Ju"
       },
       {
+         "description" : "Wishing to participate in the current development of online chess, AIDEF- Francophone Chess Association organized this weekend of 15 &#38; 16 May 2021 the first edition of the Francophone Online Chess Team Cup ( «Coupe d'&eacute;checs en ligne par &eacute;quipes de la Francophonie »). This tournament was reserved for amateur teams selected by their federation to participate in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/albania-wins-1st-francophone-online-chess-team-cup/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/albania-wins-1st-francophone-online-chess-team-cup/",
+         "pubDate" : "Mon, 17 May 2021 13:52:23 +0000",
+         "title" : "Albania wins 1st Francophone Online Chess Team Cup"
+      },
+      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1696,6 +1752,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-solve-chess-problems",
          "pubDate" : "Mon, 17 May 2021 13:43:00 +0100",
          "title" : "How to solve chess problems"
+      },
+      {
+         "description" : "The&#160;ECU Girls and Women's weekend&#160;took place Online, on 14th, 15th and 16th of May. The event was hosted by the German Chess Youth Association, and it gathered more than 800 participants. The event comprised a wide range of events, such as tournaments, simultaneous exhibitions with live commentaries, workshops and coaching sessions. The weekend was opened by ECU Vice&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-girls-and-womens-weekend-concluded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-girls-and-womens-weekend-concluded/",
+         "pubDate" : "Mon, 17 May 2021 10:39:24 +0000",
+         "title" : "European Girl's and Women's Weekend concluded"
       },
       {
          "description" : " is here. Click this link for the PDF ",
@@ -1898,6 +1962,14 @@ news_feed (
          "title" : "Mitropa Cup: Double success for Italy"
       },
       {
+         "description" : "The 1st Online Workshop &#8220;Equal Opportunities&#8221; will take place from 16th-19th of May 2021. The main aim of the Workshop is to introduce and explore the most important information about chess players with disabilities. The participants will analyse the situation in chess and reach basic skills for interacting and accommodating people with disabilities acting as Organiser, Trainer and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/1st-online-workshop-equal-opportunities/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/1st-online-workshop-equal-opportunities/",
+         "pubDate" : "Fri, 14 May 2021 07:40:05 +0000",
+         "title" : "1st Online Workshop \"Equal Opportunities\""
+      },
+      {
          "description" : "ACROSS 2: A great player who had a large number of tournament and match withdrawals highlighed especially by being on the wrong end of a Steinitz brilliancy, Hastings 1895. 4: Several times a candidate for the world chess championship, in 1970 he ceded his candidate position to Bobby Fischer. 6: A bad move which is usually a decisive error. 9: For more than 20 years he was one of the top six players in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/canada2.png",
          "iconName" : "Canadian<br>Chess",
@@ -1992,6 +2064,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
          "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
          "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
+      },
+      {
+         "description" : "European Girls' and Women's Chess Weekend&#160;will be held Online from 14th-16th May with a wide range of events: tournaments, coaching sessions, simultaneous exhibitions and debates. Hundreds of female participants will take part in tournaments and the team battle event, workshops, simultaneous exhibitions and coaching sessions. The weekend is open to all female chess players regardless of their chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-girls-and-womens-chess-weekend/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-girls-and-womens-chess-weekend/",
+         "pubDate" : "Thu, 13 May 2021 05:52:36 +0000",
+         "title" : "ECU Girls' and Women's Chess Weekend"
       },
       {
          "description" : "",
