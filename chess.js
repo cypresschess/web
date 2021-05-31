@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the third attempt, GM Magnus Carlsen finally managed to beat GM Wesley So in a Champions Chess Tour final. In a thriller of a second match, the world champion ended up winning the all-decisive armageddon game.&#38;nbsp; GM Ian Nepomniachtchi came...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup",
+         "pubDate" : "Mon, 31 May 2021 12:20:00 -0700",
+         "title" : "Carlsen Wins FTX Crypto Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. The nine tour players are joined by one wildcard for 11 rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-round-1\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-1",
+         "pubDate" : "Mon, 31 May 2021 19:01:42 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 1"
+      },
+      {
+         "description" : " Last year, World Chess and Match TV, the leading Russian sports TV channel, premiered \"Armageddon\", a chess competition designed specifically for broadcasting on live television. The tournament, filmed is a special pavilion, was different from typical chess events - it was visually engaging, lightning-fast, and featured novelties like heart beat metrics. The event was a prime-time hit. The series will resume next year, and we are happy to give you the insider view of the first time Vladimir Kramnik, one of the participants of the series, visited the playing arena. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3_mX7jIu_DU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/vladimir-kramnik-at-the-armageddon-studio/",
+         "pubDate" : "Mon, 31 May 2021 18:15:16 +0000",
+         "title" : "Vladimir Kramnik at the Armageddon Studio"
+      },
+      {
+         "description" : "European Hybrid Swiss tiebreak took place yesterday as a 9 rounds Swiss tournament, deciding the distribution of 32.000 EUR prize pool. 36 qualifiers for the FIDE World Cup 2021 participated the Finals. After 9 played rounds, two players tied for the top scoring 6.5 points each: Vladislav Artemiev (RUS, 2709) and Aleksandar Indjic (SRB, 2607). []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
+         "pubDate" : "Mon, 31 May 2021 18:06:32 +0000",
+         "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,6 +170,14 @@ news_feed (
          "title" : "Qualifier III: Third time's a charm for Assaubayeva"
       },
       {
+         "description" : "After another exciting day's play and four decisive results, round seven of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 29 May 2021 ended with Zhansay Abdumalik of Kazakhstan in the lead on 5&frac12;, Mariya Muzychuk in second place on 5, and Kateryna Lagno of Russia and Gunay Mammadzada []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
+         "pubDate" : "Sun, 30 May 2021 15:24:00 +0000",
+         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar"
+      },
+      {
          "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE The FTX []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -154,7 +194,7 @@ news_feed (
          "title" : "Vaishali wins Speed Chess Championship Qualifier 2"
       },
       {
-         "description" : " Magnus Carlsen won the first game of the FTX Crypto Cup final but Wesley So equalised in game three and thus the players shared the first set 2-2 on the first day of the final. These were the only two games of any note on the day as Carlsen really didn't try with the white pieces in game 2 and took a draw by repetition after So introduced a novelty in game 4. Carlsen later claimed that he was feeling ill but his use of the short draw with the white pieces straight after a win has been a regular tactic of his. So also admitted to trouble sleeping last night before the match. The match for the 3rd-4th places between Ian Nepomniachtchi and Teimour Radjabov saw four short content less draws. Wh",
+         "description" : " Magnus Carlsen won the first game of the FTX Crypto Cup final but Wesley So equalised in game three and thus the players shared the first set 2-2 on the first day of the final. These were the only two games of any note on the day as Carlsen really didn't try with the white pieces in game 2 and took a draw by repetition - the players repeated exactly the same moves in game 4. Carlsen later claimed that he was feeling ill but his use of the short draw with the white pieces straight after a win has been a regular tactic of his. So also admitted to trouble sleeping last night before the match. The match for the 3rd-4th places between Ian Nepomniachtchi and Teimour Radjabov saw four short conten",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-so-level-after-day-1-of-the-ftx-crypto-cup-but-story-of-short-draws-dominates-the-day",
@@ -240,14 +280,6 @@ news_feed (
          "link" : "https://www.europechess.org/36-players-qualified-for-world-chess-cup/",
          "pubDate" : "Sun, 30 May 2021 05:51:56 +0000",
          "title" : "36 players qualified for FIDE World Chess Cup"
-      },
-      {
-         "description" : "After another exciting day's play and four decisive results, round seven of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 29 May 2021 ended with Zhansay Abdumalik of Kazakhstan in the lead on 5&frac12;, Mariya Muzychuk in second place on 5, and Kateryna Lagno of Russia and Gunay Mammadzada []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
-         "pubDate" : "Sun, 30 May 2021 05:06:00 +0000",
-         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar"
       },
       {
          "description" : "Magnus Carlsen will be hoping it's 3rd time lucky on Sunday as he takes on Wesley So in the FTX Crypto Cup final after losing to Wesley in their two previous Meltwater Champions Chess Tour finals. Wesley was on top of his game as he calmly dealt with everything Ian Nepomniachtchi threw at him to win their semi-final with a game to spare. Magnus said he'll need to play better to beat Wesley, but even while not firing on all cylinders he won the 1st and 4th games against Teimour Radjabov to book his spot in the final.",
@@ -586,14 +618,6 @@ news_feed (
          "title" : "FM Calvin Klaasen - live stream Friday \"Openings\" Night, today at 18:00 CEST"
       },
       {
-         "description" : "The&#160;European Hybrid Qualification Tournament 2021&#160;for the&#160;FIDE World Chess Cup 2021&#160;takes place from 22-30 May through Tornelo online platform. 264 players (160 GMs) from 35 European federations are registered with the most players coming from Russia (40), Czechia (17), Germany (14), and Armenia (13). Among the top 10 players by rating we find seven Russians - []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-hybrid-qualification-chess-tournament-2021-live/",
-         "pubDate" : "Fri, 28 May 2021 05:01:00 +0000",
-         "title" : "European Hybrid Qualification Chess Tournament 2021 LIVE"
-      },
-      {
          "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -872,14 +896,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel",
          "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
          "title" : "Opposite Color Bishops: Know the Rules | Insane in the Endgame - GM Josh Friedel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess endgame class. 2021.05.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-bishops-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0-NAdImSsTo.jpg?itok=NeN4V9s2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opposite-bishops-insane-endgame-gm-josh-friedel",
-         "pubDate" : "Wed, 26 May 2021 00:55:05 +0000",
-         "title" : "Opposite Bishops | Insane in the Endgame - GM Josh Friedel"
       },
       {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1079",
          "pubDate" : "Wed, 12 May 2021 20:29:52 +0000",
          "title" : "\"Chess Behind Bars\""
-      },
-      {
-         "description" : "GM Vladislav Artemiev won the May 11 Titled Tuesday tournament with a score of 10/11. Of seven players tied for second place entering the final round, three won to finish on 9.5/11. After tiebreaks, GM Daniil Dubov took second place, GM Levan Pant...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/artemiev-wins-may-11-titled-tuesday",
-         "pubDate" : "Wed, 12 May 2021 11:27:04 -0700",
-         "title" : "Artemiev Wins May 11 Titled Tuesday"
       },
       {
          "description" : "",
