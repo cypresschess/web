@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "264 players started in the European Hybrid Qualification Tournament. The first three rounds of this knock-out tournament consisted of 2-game matches (followed by a blitz-tiebreak and an Armageddon game, if necessary) and the 36 players, who were still in the race after the third round, qualified for the World Cup 2021, which will take place in Sochi, Russia, from 10 Juli to 6 August 2021. These 36 also played a 9-round Swiss blitz tournament (10+3) for prizes and placement. After nine rounds Vladislav Artemiev (pictured) and Aleksandar Indjic both had 6.5/9 and shared first place but Artemiev had the better tiebreak and won the tournament. | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/artemiev-wins-european-hybrid-qualification-tournament",
+         "pubDate" : "Mon, 31 May 2021 12:30:52 +0100",
+         "title" : "Artemiev wins European Hybrid Qualification Tournament"
+      },
+      {
+         "description" : "With a superlative performance in the AICF World Cup Qualifier, Grandmaster P Iniyan booked his tickets to Sochi for the World Cup 2021. The online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/iniyan-wins-world-cup-qualifier/",
+         "pubDate" : "Mon, 31 May 2021 10:56:54 +0000",
+         "title" : "Iniyan wins World Cup Qualifier"
+      },
+      {
+         "description" : "Wesley So and Magnus Carlsen traded blows in the first set of the FTX Crypto Cup Finals which will be decided in Monday's second mini-match - and potential blitz tiebreaker. A draw was also seen in the match for third place, except that Teimour Radjabov and Ian Nepomniachtchi decided to give themselves a rest day, as they signed four quick draws on Sunday. | Photo: Nick Barton",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-8",
+         "pubDate" : "Mon, 31 May 2021 09:45:00 +0100",
+         "title" : "FTX Crypto Cup Finals: Carlsen and So trade blows"
+      },
+      {
          "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup, with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quic...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,20 +66,12 @@ news_feed (
          "title" : "Qualifier III: Third time's a charm for Assaubayeva"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the semifinals. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Sun, 30 May 2021 16:50:00 +0100",
-         "title" : "FTX Crypto Cup Finals - Live!"
-      },
-      {
-         "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE Carlsen, Norway's []",
+         "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE The FTX []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ftx-chess-cup-final-so-against-carlsen/",
          "pubDate" : "Sun, 30 May 2021 15:22:51 +0000",
-         "title" : "FTX Chess Cup Finals - So against Carlsen"
+         "title" : "FTX Chess Cup Finals Day 2 - So against Carlsen"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83089692.cms\" /></a> India's R Vaishali on Sunday won the women's Speed chess online championship qualifier 2, beating Polina Shuvalova of Russia in the final. The 20-year-old from Chennai, a woman Grandmaster, became the second Indian to qualify for the main event of the 2021 women's Speed Chess Championship.",
