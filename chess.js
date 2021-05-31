@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1115",
+         "pubDate" : "Mon, 31 May 2021 17:19:17 +0000",
+         "title" : "Eight American players qualify for 2021 FIDE World Cup"
+      },
+      {
          "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the finals. | Follow the games live with commentary starting at 17.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,6 +226,14 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen, So In Final"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">36 European players</a>, among them 14 Russians, each won three matches to qualify for the <strong>World Cup</strong> that starts on 10 July in Sochi. One of them is <strong>Baadur Jobava</strong> who resigned his White game immediately after his mouse pushed a pawn one square too far, but managed to win with Black and in the tie-break. The full prize-fund of €32,000 is illogically distributed among the 36 qualifying players after 9 rounds of rapid this Sunday. Both the qualifiers and the rapid were played in hybrid fashion from arbiter-supervised venues all over Europ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/jobava-qualifies-in-spite-of-fatal/",
+         "pubDate" : "Sun, 30 May 2021 08:18:27 +0100",
+         "title" : "Jobava qualifies in spite of fatal mouseslip"
+      },
+      {
          "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -410,6 +426,14 @@ news_feed (
          "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Grand Chess Tour</strong> that starts on 5 June in Bucharest is <a href=\"https://kasparovchess.com/grand-chess-tour\">exclusively broadcast</a> by <strong>Kasparovchess</strong>. <strong>Ding Liren</strong> <a href=\"https://grandchesstour.org/news-press-release/2021-grand-chess-tour-ready-kick-first-two-legs-bucharest-and-paris\">passed on his place</a> on the tour to <strong>Richard Rapport</strong>. After becoming the world championship challenger <strong>Ian Nepomniachtchi</strong> is also not a full tour player any more. He will probably play at least one event with a wildcard like Magnus Carlsen. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kasparovchess-broadcasts-grand-chess/",
+         "pubDate" : "Fri, 28 May 2021 18:40:39 +0100",
+         "title" : "Kasparovchess broadcasts Grand Chess Tour"
+      },
+      {
          "description" : " The first set of the semifinals of the FTX Crypto Chess tournament saw Wesley So take the lead against Ian Nepomniachtchi by winning the final game of a day after he seemed on the back foot for most of it. Magnus Carlsen took the lead against Teimour Radjabov by winning a fine game three only for Radjabov to strike back straight away in game four so that set ended up tied. Magnus Carlsen and Teimour Radjabov managed just one decisive game in two sets in the New in Chess Classic and today they started with two draws - Radjabov equalised pretty easily with black in game one and put a small amount of pressure out of the opening in game two before 23.Qc4 (maybe Re4 was better) h5! equalised for",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -440,6 +464,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
          "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
          "title" : "The ChessBase News Review (21.05 - 28.05)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Our obsession with titles and the age at which they are accomplished ill-serves our most talented and most vulnerable players. A better way to protect child prodigies from overzealous parents, coaches and officials is suggested by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/k12-nationals-chesskid.1920.jpeg\" title=\"A suitable dose of chess enriches children and can foster their development in many ways. photo: Chesskid\" data-title=\"A suitable dose of chess enriches children and can foster their development in many ways. (photo: Chesskid)\" class=\"js-img\"> <img",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/protect-our-prodigies/",
+         "pubDate" : "Fri, 28 May 2021 16:36:42 +0100",
+         "title" : "Protect our prodigies!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Dutch Chess Federation</strong> announced a <a href=\"https://www.chesstech.org/files/jan.master.pdf?v=1\">study composition contest</a> with €600 in cash and more prices to honour the 70th birthday of <strong>Jan Timman</strong> on 14 December. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/study-competition-to-honour-jan/",
+         "pubDate" : "Fri, 28 May 2021 16:17:32 +0100",
+         "title" : "Study competition to honour Jan Timman"
       },
       {
          "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
@@ -786,6 +826,14 @@ news_feed (
          "title" : "GM v FM"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.playmagnusgroup.com/investor\">Higher turnover than expected</a> in the first quarter 2021 and significantly increased spending per customer has driven the <strong>Play Magnus Group</strong> share price up. The only publicly traded chess company has increased its expectation for 2021 by $2 million. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/strong-q1-performance-at-play-magnus/",
+         "pubDate" : "Wed, 26 May 2021 09:07:09 +0100",
+         "title" : "Strong Q1 performance at Play Magnus"
+      },
+      {
          "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk (pictured) are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,6 +896,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1102",
          "pubDate" : "Tue, 25 May 2021 22:21:26 +0000",
          "title" : "Round 4: Joy for the Muzychuks, but Elisabeth steals the show"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Queens Chess Festival</strong> <strong>Festival, <time datetime='2021-06-11' itemprop=\"startDate\">Fri-Sun 11  - 27 Jun 2021</time><br> <span itemprop='location'>Internet: <a href=\"https://queensfestival.fide.com/\">https://queensfestival.fide.com/</a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Series of female-only blitz tournaments, presentations and workshops with Dana Reizniece-Ozola, Jennifer Shahade and others. Organised by the FIDE Women's Commission. </div> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://queensfestival.fide.com/",
+         "pubDate" : "Tue, 25 May 2021 21:50:58 +0100",
+         "title" : "Queens Chess Festival"
       },
       {
          "description" : "",
