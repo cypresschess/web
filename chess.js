@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup, with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-theoretical-draws-radjabov-van-foreest",
+         "pubDate" : "Sun, 30 May 2021 23:57:00 -0700",
+         "title" : "FTX Crypto Cup: Players Criticized For Playing Theoretical Draws"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a position with all White pieces! How can it be? Work backwards and determine which pieces play for each team. 2021.04.28<br /> Composition by G. Husserl, 1966 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-detective-what-color-are-these-pieces-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7y8yDAeZAuE.jpg?itok=9Hnz01Eo\" alt=\"\" /><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1946,14 +1954,6 @@ news_feed (
          "title" : "Montenegro Championship: Luka Draskovic wins his first national title"
       },
       {
-         "description" : "On Monday, IM Abhimanyu Mishra scored his second GM norm at the May 2021 First Saturday Tournament in Budapest, Hungary. The 12-year-old player from New Jersey is 29 Elo points and one GM norm away from becoming the youngest-ever grandmaster in hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abhimanyu-mishra-second-gm-norm-karjakin-record",
-         "pubDate" : "Wed, 12 May 2021 10:21:00 -0700",
-         "title" : "Abhimanyu Mishra Scores 2nd GM Norm, Closing In On Karjakin's Record"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look at the Russian Team Championships, in which the 19-year Russian talent Andrey Esipenko showed a fine performance and played a number of impressive games. The focus will be on his win against M. Kobalia. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-premiere-league-live",
          "pubDate" : "Mon, 10 May 2021 13:45:00 +0100",
          "title" : "Russian Premier League, Round 9 - Live!"
-      },
-      {
-         "description" : "Already one round before the end of the event, the Russian team champions in the Premier League as well as in the women's competition have been decided. In the Premier League, the Mednyi Vsadnik from St. Petersburg secured their fourth consecutive title after winning seven out of seven matches. The women's tournament was similarly won by the Moscow Chess Team, which also has a perfect score. | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r8",
-         "pubDate" : "Mon, 10 May 2021 08:26:00 +0100",
-         "title" : "Winners decided with a round to spare at the Russian Team Championships"
       }
    ]
 }
