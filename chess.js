@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "At the third attempt, GM Magnus Carlsen finally managed to beat GM Wesley So in a Champions Chess Tour final. In a thriller of a second match, the world champion ended up winning the all-decisive armageddon game.&#38;nbsp; GM Ian Nepomniachtchi came...",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1117",
+         "pubDate" : "Mon, 31 May 2021 22:42:36 +0000",
+         "title" : "Round 9: Zhansaya's marathon victory"
+      },
+      {
+         "description" : "Do you want to represent your chess community and compete against other incredible chess communities from around the world while winning premium prizes? The Chess.com Clubs League and Chess.com Nations League are the competitions your seek. Thes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/register-for-chess-coms-clubs-and-nations-leagues-season-3",
+         "pubDate" : "Mon, 31 May 2021 13:41:03 -0700",
+         "title" : "Register For Chess.com's Clubs And Nations Leagues Season 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1116",
+         "pubDate" : "Mon, 31 May 2021 20:06:14 +0000",
+         "title" : "Magnus Carlsen wins world's first bitcoin chess tournament"
+      },
+      {
+         "description" : "On the third attempt, GM Magnus Carlsen finally managed to beat GM Wesley So in a Champions Chess Tour final. In a thriller of a second match, the world champion ended up winning the all-decisive armageddon game.&#38;nbsp; GM Ian Nepomniachtchi came...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.chessdom.com/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
          "pubDate" : "Mon, 31 May 2021 18:06:32 +0000",
          "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
+      },
+      {
+         "description" : " Magnus Carlsen won the FTX Crypto Chess Cup beating Wesley So in an Armageddon tie-break. This win means that Carlsen will appear in the Meltwater tour final in September, although with his lead in the standings this seemed very likely anyway his victory in this last major means that he's already there by right. Carlsen struggled with his form throughout the tournament, he almost didn't make it to the knockout phase. On the final day he took the lead winning the first game playing powerfully to exploit some only slightly misplaced pieces. In game two Carlsen almost certainly mixed something up in his opening preparation, and in a sharp Sicilian this proved to be enough for So to win extreme",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-wins-the-ftx-crypto-chess-cup",
+         "pubDate" : "Mon, 31 May 2021 21:44:00 +0400",
+         "title" : "Carlsen wins the FTX Crypto Chess Cup - Day 9"
       },
       {
          "description" : "",
@@ -232,6 +264,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms",
          "pubDate" : "Sun, 30 May 2021 18:14:25 +0530",
          "title" : "Iniyan qualifies for FIDE World Cup"
+      },
+      {
+         "description" : " The European Hybrid Qualification tournament took place on Tornelo 24th to 30th May to 2021. The event was a three round knockout aimed at cutting the 264 strong field down to 36 qualifiers. Leading players by rating: Vladislav Artemiev, Evgeny Tomashevsky, Andrey Esipenko, Kirill Alekseenko, David Navara, Alexandr Predke, Maxim Matlakov, Vladimir Fedoseev, Boris Gelfand, David Anton Guijarro, Ferenc Berkes, Pavel Eljanov, Nils Grandelius, Matthias Bluebaum, Ivan Cheparinov, Sanan Sjugirov, Sanan Donchenko Alexander, Constantin Lupulescu, Ernesto Inarkiev, Grigoriy Oparin, Aleksandr Rakhmanov, Alexey Sarana, Evgeniy Najer, Aleksey Dreev, Viktor Laznicka and Sergei Movsesian. There was a fin",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-hybrid-qualification-2021",
+         "pubDate" : "Sun, 30 May 2021 15:02:00 +0400",
+         "title" : "European Hybrid Qualification 2021 - "
       },
       {
          "description" : " Rustam Kasimdzhanov, a former FIDE World Champion himself, is one of the most famous chess coaches - he was on Vishy Anand's side when he was #1 in the world, and was Fabiano Caruana's second during Fabi's bid for the title in 2018. Rustam posted a chess problem during his Masterclass with World Chess. Listen to the problem and share your response in the comments section. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/HBHlXp4nfpY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\"><a href=\"https://masterclass.worldchess.com/\">Masterclass</a> is a series of seminars for World Chess subscribers.</div> </div> ",
@@ -1128,14 +1168,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship/",
          "pubDate" : "Mon, 24 May 2021 11:55:35 +0000",
          "title" : "British Junior Rapid & Blitz Championship"
-      },
-      {
-         "description" : " The European Hybrid Qualification tournament takes place on Tornelo 24th to 30th May to 2021. The event is a three round knockout aimed at cutting the 264 strong field down to 36 qualifiers. Leading players by rating: Vladislav Artemiev, Evgeny Tomashevsky, Andrey Esipenko, Kirill Alekseenko, David Navara, Alexandr Predke, Maxim Matlakov, Vladimir Fedoseev, Boris Gelfand, David Anton Guijarro, Ferenc Berkes, Pavel Eljanov, Nils Grandelius, Matthias Bluebaum, Ivan Cheparinov, Sanan Sjugirov, Sanan Donchenko Alexander, Constantin Lupulescu, Ernesto Inarkiev, Grigoriy Oparin, Aleksandr Rakhmanov, Alexey Sarana, Evgeniy Najer, Aleksey Dreev, Viktor Laznicka and Sergei Movsesian. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-hybrid-qualification-2021",
-         "pubDate" : "Mon, 24 May 2021 15:02:00 +0400",
-         "title" : "European Hybrid Qualification 2021 - "
       },
       {
          "description" : " The Gibraltar FIDE Women's Grand Prix takes place 22nd May to 2nd June 2021. This is the final Grand Prix in a much extended series due to the Coronavirus crisis. The previous events were: Skolkovo, September 10th - 23rd 2019; Monaco, December 2nd - 15th 2019 and Lausanne, March 1st - 14th 2020. Aleksandra Goryachkina has finished her participation in the series and is in first place in the over all standings in the series, in second is Humpy Koneru who should have played in Gibraltar but felt the <a href=\"https://sportstar.thehindu.com/chess/koneru-humpy-to-skip-fide-womens-grand-prix-gibraltar-leg/article33144572.ece\">risk of traveling to the event during the Coronavirus crisis was too mu",
@@ -2096,14 +2128,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/first-ever-chess-focused-sports-agency-launched/",
          "pubDate" : "Thu, 13 May 2021 13:51:19 +0000",
          "title" : "First Ever Chess-Focused Sports Agency Launched"
-      },
-      {
-         "description" : "GM Yu Yangyi won the Shenzhen Masters, held April 20-May 1, 2021 on Chess.com. The 26-year-old grandmaster from Huangshi finished ahead of GM Jan-Krzysztof Duda, GM Richard Rapport, and GM Wei Yi. How to watch? You can find, play through, an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yu-yangyi-wins-4th-shenzhen-masters",
-         "pubDate" : "Thu, 13 May 2021 06:21:00 -0700",
-         "title" : "Yu Yangyi Wins 4th Shenzhen Masters"
       },
       {
          "description" : "Online chess overseen by arbiters not only helps preventing cheating, but also offers opportunities to play against distant opponents and teams in an environmentally sustainable way. The Mitropacup and the upcoming World Cup qualification rounds are the first major hybrid tournaments. However, according to Stefan L&ouml;ffler, hybrid chess still requires further field testing. | Photo: Christoph Menezes (Photos: Stefan L&ouml;ffler / Bernhard Riess)",
