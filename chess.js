@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83134369.cms\" /></a>Magnus Carlsen is the world's first bitcoin chess champion after overcoming Wesley So in a thrilling FTX Crypto Cup final. The Norwegian takes home the $60,000 first prize plus a 0.6 bitcoin bonus offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms",
+         "pubDate" : "Tue, 01 Jun 2021 07:59:40 +0530",
+         "title" : "FTX Crypto Cup: Magnus Carlsen clinches world's first bitcoin chess event"
+      },
+      {
+         "description" : "Magnus Carlsen let out a roar of joy and talked of \"massive, massive relief\" as he beat Wesley So in Armageddon to win the FTX Crypto Cup and book a place in the Meltwater Champions Chess Tour Finals in San Francisco. Magnus won the first game but Wesley hit back straight away and then took the lead when Magnus blundered in the first blitz playoff. It looked as if the World Champion would lose a 3rd final to the US Champion, but Magnus stormed back to win the next two games and claim the title. Ian Nepomniachtchi took 3rd place after four fighting games against Teimour Radjabov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-absolutely-insane-ftx-crypto-cup-final",
+         "pubDate" : "Tue, 01 Jun 2021 00:00:27 +0000",
+         "title" : "Magnus Carlsen wins \"absolutely insane\" FTX Crypto Cup final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1079,7 +1095,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-done-quick-puzzles-edition",
          "pubDate" : "Mon, 24 May 2021 17:32:00 -0700",
-         "title" : "Today: Chess Done Quick - Puzzles Edition"
+         "title" : "Chess Done Quick - Puzzles Edition"
       },
       {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-4",
          "pubDate" : "Wed, 19 May 2021 10:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Episode 4"
-      },
-      {
-         "description" : "Bent Larsen (1935-2010), the famous Danish Grandmaster, was a fearless player with an original style of play. He could beat anyone on his day, as proved by his victories against various World Champions, including Mikhail Botvinnik, Boris Spassky, Bobby Fischer and Anatoly Karpov. Sean Marsh takes a look at some of his most memorable checkmating attacks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/bent-larsen-s-checkmating-attacks",
-         "pubDate" : "Wed, 19 May 2021 08:45:47 +0000",
-         "title" : "Bent Larsen's checkmating attacks"
       },
       {
          "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
