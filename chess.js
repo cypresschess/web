@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the duel between bishop and knight it is often the knight which is too slow. However, one should not underestimate knights - they are versatile and often surprisingly quick, e.g. in the diagram position. Can the black knight play on both wings to help Black win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-fast-and-versatile-knight",
+         "pubDate" : "Tue, 01 Jun 2021 09:00:00 +0100",
+         "title" : "A fast and versatile knight"
+      },
+      {
+         "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the FIDE World Cup 2023 with 23 qualification spots. The total prize&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/",
+         "pubDate" : "Tue, 01 Jun 2021 05:12:29 +0000",
+         "title" : "European Individual Chess Championship 2021- official invitation"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> May 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/may-2021-chess-puzzle-answer-key",
+         "pubDate" : "Tue, 01 Jun 2021 05:00:00 +0000",
+         "title" : "May 2021 Chess Puzzle Answer Key "
+      },
+      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83134369.cms\" /></a>Magnus Carlsen is the world's first bitcoin chess champion after overcoming Wesley So in a thrilling FTX Crypto Cup final. The Norwegian takes home the $60,000 first prize plus a 0.6 bitcoin bonus offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -498,6 +522,14 @@ news_feed (
          "title" : "2021 ACT Chess Championship - Round 1"
       },
       {
+         "description" : "FTX Crypto Chess Cup 2021 is going to start today. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. Report on prelims: Carlsen barely gets to the FTX Crypto []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
+         "pubDate" : "Sat, 29 May 2021 00:22:00 +0000",
+         "title" : "FTX Crypto Chess Cup 2021"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -664,14 +696,6 @@ news_feed (
          "link" : "https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/",
          "pubDate" : "Fri, 28 May 2021 05:11:36 +0000",
          "title" : "R2 report - European Hybrid Qualification Tournament"
-      },
-      {
-         "description" : "FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and sharing his knowledge weekly on Youtube and Twitch. Next by FM Klaasen: Friday &#8220;Openings&#8221; Night, today at 18:00 CEST On Tuesday: interview with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-stream/",
-         "pubDate" : "Fri, 28 May 2021 05:01:00 +0000",
-         "title" : "FM Calvin Klaasen - live stream Friday \"Openings\" Night, today at 18:00 CEST"
       },
       {
          "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
@@ -944,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
          "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel talks about endgames with opposing bishops on opposite color squares. Typically, these are drawing situations. As in chess though, this is not absolute. Learn the \"rules\" of opposite color bishop games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opposite-color-bishops-know-rules-insane-endgame-gm-josh-friedel",
-         "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
-         "title" : "Opposite Color Bishops: Know the Rules | Insane in the Endgame - GM Josh Friedel"
       },
       {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
          "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
          "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
-      },
-      {
-         "description" : "European Girls' and Women's Chess Weekend&#160;will be held Online from 14th-16th May with a wide range of events: tournaments, coaching sessions, simultaneous exhibitions and debates. Hundreds of female participants will take part in tournaments and the team battle event, workshops, simultaneous exhibitions and coaching sessions. The weekend is open to all female chess players regardless of their chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-girls-and-womens-chess-weekend/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-girls-and-womens-chess-weekend/",
-         "pubDate" : "Thu, 13 May 2021 05:52:36 +0000",
-         "title" : "ECU Girls' and Women's Chess Weekend"
       },
       {
          "description" : "",
