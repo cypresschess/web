@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Magnus Carlsen won the FTX Crypto Cup after beating Wesley So in a dramatic final. The match on day 1 of the final ended with a 2-2 and that was also the result of the match on day 2. In the blitz-tiebreak Wesley So won the first game after a blunder by Carlsen, but Carlsen bounced back by winning on demand with Black and then also won the Armageddon game. In the match for place three Ian Nepomniachtchi won against Teimour Radjabov. Full report to follow soon. | Games and commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Tue, 01 Jun 2021 12:12:54 +0100",
+         "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
+      },
+      {
+         "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-how-to-study-the-classics-by-adrian-mikhalchishin",
+         "pubDate" : "Tue, 01 Jun 2021 12:00:00 +0100",
+         "title" : "New: How to study the classics by Adrian Mikhalchishin"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (47)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (47)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-47/",
+         "pubDate" : "Tue, 01 Jun 2021 09:01:19 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (47)"
+      },
+      {
          "description" : "In the duel between bishop and knight it is often the knight which is too slow. However, one should not underestimate knights - they are versatile and often surprisingly quick, e.g. in the diagram position. Can the black knight play on both wings to help Black win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +138,6 @@ news_feed (
          "title" : "Eight American players qualify for 2021 FIDE World Cup"
       },
       {
-         "description" : "The FTX Crypto Cup is taking place on May 23-31 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX. Magnus Carlsen takes centre stage as the current leader of the Meltwater Champions Chess Tour, but faces stiff competition in a field of 16 star names. Read the full report on day 1 of the finals. | Follow the games live with commentary starting at 17.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Mon, 31 May 2021 16:55:00 +0100",
-         "title" : "FTX Crypto Cup Finals - Live!"
-      },
-      {
          "description" : "The Grand Chess Tour is back - and the tour begins on Thursday, 3 June 2021 with an over-the-board classical tournament in Bukarest. Ten top players take part, the top seeds are Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, and Wesley So. After the end of the tournament on 15 June, the players travel to Paris to take part in a Rapid & Blitz tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,20 +154,20 @@ news_feed (
          "title" : "Career spans of chess players are getting shortened: Anand"
       },
       {
-         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over closest pursuers Gunay Mammadzada and Mariya Muzychuk. Mammadzada is making a strong impression on the Rock, as she collected three consecutive victories in rounds 6-9, coincidentally over the three Russian participants. Follow the games of round 9 live with commentary. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r8",
-         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
-         "title" : "Gibraltar GP: Abdumalik a full point ahead"
-      },
-      {
          "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over Gunay Mammadzada and Mariya Muzychuk. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Anna Muzychuk | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
          "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
          "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over closest pursuers Gunay Mammadzada and Mariya Muzychuk. Mammadzada is making a strong impression on the Rock, as she collected three consecutive victories in rounds 6-9, coincidentally over the three Russian participants. Follow the games of round 9 live with commentary. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r8",
+         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
+         "title" : "Gibraltar GP: Abdumalik a full point ahead"
       },
       {
          "description" : " IM Junta Ikeda has won his 7th ACT Chess Championship, with a apt score of 7 wins from 7 games. Having entered the final day leading on 5/5, he defeated Miles Patterson in the morning round, before beating Wenlin Yin in the last round to score 100%. Fred Litchfield also finished the day with 2 wins, to reach 6/7 and outright second place. There was a 5 way tie for third, with Wenlin Yin, CM Hui Li, Harry Johnson, Sankeerten Badrinarayan, and Saffron Archer all on 5 points. Johnson, Badrinarayan and Archer also shared the Under 1900 prize, while Archer was the best scoring junior. Jame Minogue scored 4.5 to win the Under 1500 prize while Louis Serfontein scored 3.5 to be the best Under 1200.",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "Chess: American 12-year-old closes in on world record for youngest grandmaster"
       },
       {
-         "description" : " Last week, we started to work through The Sicilian Defense (an opening for Black). We played through the first five moves of the game. When I teach a specific opening to beginners, I teach that opening three to five moves at a time. When my students understand those three to five moves completely, we move <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighteen/\">A Foundation for Beginners Eighteen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighteen/",
-         "pubDate" : "Fri, 14 May 2021 11:23:21 +0000",
-         "title" : "A Foundation for Beginners Eighteen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2312,46 +2320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-trainer-awards-2020-2021",
          "pubDate" : "Tue, 11 May 2021 13:00:00 +0100",
          "title" : "FIDE Trainer Awards 2020-2021"
-      },
-      {
-         "description" : " I like to ask people what their goals are. It opens up interesting conversations. Some people actually do not set clear goals. If you are one of them, I would encourage you to do so. But be careful not to commit the same mistake everyone else does. What Not Why <a href=\"https://nextlevelchess.blog/goal-setting/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/goal-setting/\">How To Set Chess Goals And Achieve Them</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/goal-setting/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting",
-         "pubDate" : "Tue, 11 May 2021 09:32:06 +0000",
-         "title" : "How To Set Chess Goals And Achieve Them"
-      },
-      {
-         "description" : "There was no stopping the favourites at the Premier League and the Women's Tournament of the Russian Team Championships. Mednyi Vsadnik and the Moscow Chess Team won their final matches despite having secured first places with a round to spare. In the open section, the winning team had an inspired Andrey Esipenko on board 4 - the 19-year-old scored 6&frac12;/7 points. | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-team-championships-2021-r9",
-         "pubDate" : "Tue, 11 May 2021 10:00:00 +0100",
-         "title" : "Esipenko impresses as Mednyi Vsadnik dominates the Russian Premier League"
-      },
-      {
-         "description" : "In the diagram position White just attacked the bishop on f6 which is a prelude to a bishop sacrifice on e7 which will allow the white pawns to run. But with correct play the black bishop can stop the pawns. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishop-stops-bishop-sacrifice",
-         "pubDate" : "Tue, 11 May 2021 09:17:00 +0100",
-         "title" : "Bishop stops bishop sacrifice"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1076",
-         "pubDate" : "Tue, 11 May 2021 07:41:34 +0000",
-         "title" : "Russian Team Championships: Favorites shine in Sochi"
-      },
-      {
-         "description" : "Chess Coach and FIDE Arbiter Shri Umesh Panbude took his last breath today at Nagpur after losing his battle against covid. He officiated in several",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-shri-umesh-panbude/",
-         "pubDate" : "Tue, 11 May 2021 07:34:08 +0000",
-         "title" : "Rest in Peace Shri Umesh Panbude"
       }
    ]
 }
