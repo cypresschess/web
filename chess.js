@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1119",
+         "pubDate" : "Tue, 01 Jun 2021 22:05:17 +0000",
+         "title" : "Gulnar Mammadova wins Azerbaijani Women's Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1118",
+         "pubDate" : "Tue, 01 Jun 2021 21:25:41 +0000",
+         "title" : "Round 10: Zhansaya wins the tournament; Kateryna has one foot in the Candidates"
+      },
+      {
+         "description" : "Chess.com is proud to announce Winner Stays, an exciting new event hosted by the ChessBrahs, GMs Eric Hansen and Aman Hambleton. This unique and original format will feature three matches between superstar content creators in different rating cate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-winner-stays",
+         "pubDate" : "Tue, 01 Jun 2021 13:33:00 -0700",
+         "title" : "Announcing Winner Stays"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi will meet in the 9th edition of Norway Chess just two months before they begin their World Championship match in Dubai. Norway Chess, which was originally planned to return to a 10-player format in May 2021, will now be a 6-player double round-robin, with Alireza Firouzja, Richard Rapport, Sergey Karjakin and Aryan Tari completing the line-up. The plan is once again to have fast classical games followed, if the game ends in a draw, by Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-and-nepomniachtchi-to-meet-in-norway-chess",
+         "pubDate" : "Tue, 01 Jun 2021 20:30:26 +0000",
+         "title" : "Carlsen & Nepomniachtchi to meet in Norway Chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess endgame class. 2021.06.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/return-akobian-insane-endgame-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_sqNpCRRoCY.jpg?itok=jbH5cYBk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1642,14 +1674,6 @@ news_feed (
          "title" : "Attention FIDE World Cup participants"
       },
       {
-         "description" : "With just over six months until the World Championship between Magnus Carlsen and Ian Nepomniachtchi starts in Dubai, the reigning champion says he is '100 % motivated' and has mentally started to prepare for the long-awaited match. The 30-year old also hints he has started the hunt for a new team of seconds that will help him prepare.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/100-motivated-magnus-carlsen-hints-at-new-team-as-nepomniachtchi-preparation-begins",
-         "pubDate" : "Wed, 19 May 2021 18:41:01 +0000",
-         "title" : "'100% motivated' Magnus Carlsen hints at new team as Nepomniachtchi preparation begins"
-      },
-      {
          "description" : "GM Levan Pantsulaia won the May 18 Titled Tuesday tournament with a score of 9.5/11. Five players finished on that score but Pantsulaia held the advantage on tiebreaks for his first-ever Titled Tuesday victory. GM Vladislav Artemiev (last week&#39;s w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2280,22 +2304,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/",
          "pubDate" : "Wed, 12 May 2021 00:10:58 +0000",
          "title" : "Technical Decision Making in Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1077",
-         "pubDate" : "Tue, 11 May 2021 22:11:49 +0000",
-         "title" : "Chess for Freedom Conference and Tournament: Brief recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1075",
-         "pubDate" : "Tue, 11 May 2021 20:26:00 +0000",
-         "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
       }
    ]
 }
