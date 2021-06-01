@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "World Champion Magnus Carlsen won the FTX Crypto Cup after beating Wesley So in a dramatic final. The match on day 1 of the final ended with a 2-2 and that was also the result of the match on day 2. In the blitz-tiebreak Wesley So won the first game after a blunder by Carlsen, but Carlsen bounced back by winning on demand with Black and then also won the Armageddon game. In the match for place three Ian Nepomniachtchi won against Teimour Radjabov. Full report to follow soon. | Games and commentary.",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622554135861-WJDIXEPQP09K9Z3PI5CL/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/DKuljasevic2.png\" data-image-dimensions=\"500x500\" data-image-focal-point=\"0.5,0.5\" alt=\"DKuljasevic2.png\" data-load=\"false\" data-image-id=\"60b63617645f1e47fc5c28ec\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622554135861-WJDIXEPQP09K9Z3PI5CL/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8J",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/1/episode-229-gm-davorin-kuljasevic",
+         "pubDate" : "Tue, 01 Jun 2021 14:04:35 +0000",
+         "title" : "Episode 229- GM Davorin Kuljasevic "
+      },
+      {
+         "description" : "Garry Kasparov is perhaps the best player of all times, and he has done a lot to promote and support chess all over the world. In May the Kasparov Chess Foundation and the Saint Louis Chess Club continued their Young Stars program and invited a number of promising juniors to get chess insights from the 13th World Champion. | Photo: ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Tue, 01 Jun 2021 12:12:54 +0100",
-         "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
+         "link" : "https://en.chessbase.com/post/kasparov-trains-young-talents",
+         "pubDate" : "Tue, 01 Jun 2021 15:00:00 +0100",
+         "title" : "Kasparov trains young talents"
+      },
+      {
+         "description" : "Zhansaya Abdumalik secured tournament victory at the Women's Grand Prix in Gibraltar after signing a quick draw with Kateryna Lagno shortly after round 10 started. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Irina Bulmaga | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Tue, 01 Jun 2021 14:45:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-chess-cup/",
+         "pubDate" : "Tue, 01 Jun 2021 13:40:35 +0000",
+         "title" : "Magnus Carlsen wins FTX Crypto Chess Cup"
+      },
+      {
+         "description" : "Entry European National Chess Federations and their partners Schedule: 18 June 3-5 PM CET in a ZOOM-meeting. Description During the meeting you will be presented with the new rules for Erasmus+, how you make an application for an Erasmus+ project, what the process looks like, what the key factors for success are, and general advice. Practical examples of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/webinar-for-erasmus-friday-june-18/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/webinar-for-erasmus-friday-june-18/",
+         "pubDate" : "Tue, 01 Jun 2021 12:34:24 +0000",
+         "title" : "Webinar for Erasmus #Friday June 18"
+      },
+      {
+         "description" : "Magnus Carlsen won the sixth tournament of the Meltwater Champions Chess Tour after beating Wesley So in an exciting final match which was only decided in Armageddon. This was the third time Carlsen and So faced each other in a final of the tour, and So was inches away from scoring an unlikely third victory in a row. Meanwhile, Ian Nepomniachtchi defeated Teimour Radjabov in the match for third place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
+         "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
+         "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
       },
       {
          "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
@@ -32,6 +72,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-fast-and-versatile-knight",
          "pubDate" : "Tue, 01 Jun 2021 09:00:00 +0100",
          "title" : "A fast and versatile knight"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen won the FTX Crypto Cup after beating Wesley So in a dramatic final. The match on day 1 of the final ended with a 2-2 and that was also the result of the match on day 2. In the blitz-tiebreak Wesley So won the first game after a blunder by Carlsen, but Carlsen bounced back by winning on demand with Black and then also won the Armageddon game. In the match for place three Ian Nepomniachtchi won against Teimour Radjabov. Full report to follow soon. | Games and commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
+         "pubDate" : "Tue, 01 Jun 2021 08:50:00 +0100",
+         "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
+      },
+      {
+         "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) - September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the&#160;FIDE World Cup 2023&#160;with 23 qualification spots. The total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-championship-2021",
+         "pubDate" : "Tue, 01 Jun 2021 05:42:00 +0000",
+         "title" : "European Individual Chess Championship 2021"
       },
       {
          "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the FIDE World Cup 2023 with 23 qualification spots. The total prize&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/\">Read More &#187;</a></span>",
@@ -74,11 +130,11 @@ news_feed (
          "title" : "Round 9: Zhansaya's marathon victory"
       },
       {
-         "description" : "Do you want to represent your chess community and compete against other incredible chess communities from around the world while winning premium prizes? The Chess.com Clubs League and Chess.com Nations League are the competitions your seek. Thes...",
+         "description" : "Do you want to represent your chess community and compete against other incredible chess communities from around the world while winning premium prizes? The Chess.com Clubs League and Chess.com Nations League are the competitions you seek. These...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/register-for-chess-coms-clubs-and-nations-leagues-season-3",
-         "pubDate" : "Mon, 31 May 2021 13:41:03 -0700",
+         "pubDate" : "Mon, 31 May 2021 13:41:00 -0700",
          "title" : "Register For Chess.com's Clubs And Nations Leagues Season 3"
       },
       {
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/career-spans-of-chess-players-are-getting-shortened-anand/articleshow/83116572.cms",
          "pubDate" : "Mon, 31 May 2021 19:17:21 +0530",
          "title" : "Career spans of chess players are getting shortened: Anand"
-      },
-      {
-         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over Gunay Mammadzada and Mariya Muzychuk. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Anna Muzychuk | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over closest pursuers Gunay Mammadzada and Mariya Muzychuk. Mammadzada is making a strong impression on the Rock, as she collected three consecutive victories in rounds 6-9, coincidentally over the three Russian participants. Follow the games of round 9 live with commentary. | Photo: David Llada",
@@ -258,12 +306,12 @@ news_feed (
          "title" : "Qualifier III: Third time's a charm for Assaubayeva"
       },
       {
-         "description" : "After another exciting day's play and four decisive results, round seven of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 29 May 2021 ended with Zhansay Abdumalik of Kazakhstan in the lead on 5&frac12;, Mariya Muzychuk in second place on 5, and Kateryna Lagno of Russia and Gunay Mammadzada []",
+         "description" : "Round nine of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 31 May came to a heart-stopping conclusion after six hours and ten minutes as&#160;Zhansaya Abdumalik&#160;of Kazakhstan won her game against&#160;Valentina Gunina&#160;of Russia in 133 moves despite never having the remotest chance of winning the game for the first []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
          "pubDate" : "Sun, 30 May 2021 15:24:00 +0000",
-         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar"
+         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar - R10 report"
       },
       {
          "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE The FTX []",
@@ -674,28 +722,12 @@ news_feed (
          "title" : "FTX Crypto Cup: Close calls"
       },
       {
-         "description" : "The 2nd stage of the European Hybrid Qualification Tournament for the FIDE World Cup 2021 took place on May 26 and 27. 144 players participated in Round 2, and half of them (72) advanced to the next stage - Round 3. They are just one step away from qualifying for the FIDE World Cup. Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/r2-report-european-hybrid-qualification-chess-tournament/",
-         "pubDate" : "Fri, 28 May 2021 10:19:37 +0000",
-         "title" : "R2 report - European Hybrid Qualification Chess Tournament"
-      },
-      {
          "description" : "We may get a World Championship match rehearsal, either in the final or the 3rd place match, after both Magnus Carlsen and Ian Nepomniachtchi made it through to the FTX Crypto Cup semi-finals. Magnus took down Hikaru Nakamura after coming back from losing the first game on Day 2 of their quarterfinals to win a blitz playoff. Nepo also needed blitz to beat Fabiano Caruana and will now face Wesley So, who cruised to victory over Maxime Vachier-Lagrave. Magnus takes on Teimour Radjabov, who knocked out Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-are-we-heading-for-a-carlsen-nepomniachtchi-preview",
          "pubDate" : "Fri, 28 May 2021 08:52:41 +0000",
          "title" : "FTX Crypto Cup 5: Are we headed for a Carlsen-Nepo preview?"
-      },
-      {
-         "description" : "An interesting situation arose at the European Hybrid Qualification Tournament in the game between the Israeli chess star GM Boris Gelfand (ISR, 2676) and GM Jergus Pechac (SVK, 2519). After two draws in games with classical time control, the first rapid game ended with the same result. The second rapid game went sharply when Gelfand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fair-play-at-its-best-tweetoftheday/",
-         "pubDate" : "Fri, 28 May 2021 08:22:03 +0000",
-         "title" : "Fair play at its best #TweetOftheDay"
       },
       {
          "description" : "The semifinals of the FTX Crypto Cup will start on Friday with the matches GM Magnus Carlsen vs. GM Teimour Radjabov and GM Ian Nepomniachtchi vs. GM Wesley So. While Radjabov and So quickly secured victory against GM Anish Giri and GM Maxime Va...",
@@ -2098,14 +2130,6 @@ news_feed (
          "title" : "Mitropa Cup: Double success for Italy"
       },
       {
-         "description" : "The 1st Online Workshop &#8220;Equal Opportunities&#8221; will take place from 16th-19th of May 2021. The main aim of the Workshop is to introduce and explore the most important information about chess players with disabilities. The participants will analyse the situation in chess and reach basic skills for interacting and accommodating people with disabilities acting as Organiser, Trainer and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/1st-online-workshop-equal-opportunities/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/1st-online-workshop-equal-opportunities/",
-         "pubDate" : "Fri, 14 May 2021 07:40:05 +0000",
-         "title" : "1st Online Workshop \"Equal Opportunities\""
-      },
-      {
          "description" : "ACROSS 2: A great player who had a large number of tournament and match withdrawals highlighed especially by being on the wrong end of a Steinitz brilliancy, Hastings 1895. 4: Several times a candidate for the world chess championship, in 1970 he ceded his candidate position to Bobby Fischer. 6: A bad move which is usually a decisive error. 9: For more than 20 years he was one of the top six players in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/canada2.png",
          "iconName" : "Canadian<br>Chess",
@@ -2304,22 +2328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/second-gm-norm-for-abhimanyu-2",
          "pubDate" : "Tue, 11 May 2021 16:48:35 +0100",
          "title" : "Second GM norm for Abhimanyu"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/s840/howlee.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"840\" data-original-width=\"840\" height=\"200\" src=\"https://1.bp.blogspot.com/-DLHyyFTeYf8/YJqMxAxtQfI/AAAAAAAAR2Y/B2x7oSs0f-MRXZQ1HTfJz0TNoAJSm8GogCLcBGAsYHQ/w200-h200/howlee.png\" width=\"200\" /></a></td></tr><tr><td class=\"tr-caption\" style=\"text-align: center;\">White to play and Draw</td></tr></tbo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/always-double-check.html",
-         "pubDate" : "Tue, 11 May 2021 13:56:00 +0000",
-         "title" : "Always double check"
-      },
-      {
-         "description" : "Training is important to become better at chess and a good coach helps to develop your talent. To recognize and celebrate the achievements of the chess training community, the FIDE Trainers Commission recently announced the winners of the 14th FIDE Trainer Awards for 2020-21.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-trainer-awards-2020-2021",
-         "pubDate" : "Tue, 11 May 2021 13:00:00 +0100",
-         "title" : "FIDE Trainer Awards 2020-2021"
       }
    ]
 }
