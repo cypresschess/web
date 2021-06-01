@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess endgame class. 2021.06.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/return-akobian-insane-endgame-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_sqNpCRRoCY.jpg?itok=jbH5cYBk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/return-akobian-insane-endgame-gm-varuzhan-akobian",
+         "pubDate" : "Tue, 01 Jun 2021 19:02:34 +0000",
+         "title" : "The Return of Akobian! | Insane in the Endgame - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-how-to-study-the-classics-by-adrian-mikhalchishin",
+         "pubDate" : "Tue, 01 Jun 2021 20:00:00 +0100",
+         "title" : "New: How to study the classics by Adrian Mikhalchishin"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on the fantastic performance by Zhansaya Abdumalik at the Women's Grand Prix in Gibraltar. She is s currently two points clear of the field and, perhaps more importantly, crossed the 2500 barrier and has officially got her Grandmaster title. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-zhansay-abdumalik-is-grandmaster",
+         "pubDate" : "Tue, 01 Jun 2021 19:18:10 +0100",
+         "title" : "The Weekly Show: Zhansay Abdumalik gains Grandmaster title!"
+      },
+      {
+         "description" : "The Queens' Festival European Online Blitz Qualifier begins on June 19th. Here's a link to the website for the event, which&#160;gives more information &#8212; https://queensfestival.fide.com/...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-queens-festival-global-womens-online-chess-challenge/",
+         "pubDate" : "Tue, 01 Jun 2021 17:44:27 +0000",
+         "title" : "FIDE Queens Festival (Global Women's Online Chess Challenge)"
+      },
+      {
+         "description" : "Zhansaya Abdumalik secured tournament victory at the Women's Grand Prix in Gibraltar after signing a quick draw with Kateryna Lagno shortly after round 10 started. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Irina Bulmaga | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Tue, 01 Jun 2021 18:25:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
          "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
          "pubDate" : "Tue, 01 Jun 2021 15:22:04 +0000",
          "title" : "Online County Championships this summer"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Norway Chess</strong> 2021 has <a href=\"https://norwaychess.no/en/2021/06/01/the-players-are-ready-for-norway-chess-2021/\">secured the participation</a> of both the world champion and his challenger <strong>Ian Nepomniachtchi</strong> for another double-round-robin edition on 7 to 18 September. The other players are Karjakin, Firouzja, Rapport and Tari. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-and-nepo-to-play-twice-in/",
+         "pubDate" : "Tue, 01 Jun 2021 16:14:52 +0100",
+         "title" : "Carlsen and Nepo to play twice in Stavanger"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> won another <strong>Meltwater Champions Chess Tour</strong> event, the <strong>FTX Crypto Cup</strong>, and finally overcame <strong>Wesley So</strong> in a final that was still tied after ten games and was decided in an Armaggedon game. The world champion secured his participation in the Grand Final, $60,000 and the equivalent of $22,000 in Bitcoin. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-broke-the-spell-against-so/",
+         "pubDate" : "Tue, 01 Jun 2021 15:54:08 +0100",
+         "title" : "Carlsen broke the spell against So"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
@@ -24,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kasparov-trains-young-talents",
          "pubDate" : "Tue, 01 Jun 2021 15:00:00 +0100",
          "title" : "Kasparov trains young talents"
-      },
-      {
-         "description" : "Zhansaya Abdumalik secured tournament victory at the Women's Grand Prix in Gibraltar after signing a quick draw with Kateryna Lagno shortly after round 10 started. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Irina Bulmaga | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Tue, 01 Jun 2021 14:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
          "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
-      },
-      {
-         "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-how-to-study-the-classics-by-adrian-mikhalchishin",
-         "pubDate" : "Tue, 01 Jun 2021 12:00:00 +0100",
-         "title" : "New: How to study the classics by Adrian Mikhalchishin"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (47)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (47)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -658,22 +698,6 @@ news_feed (
          "title" : "The ChessBase News Review (21.05 - 28.05)"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Our obsession with titles and the age at which they are accomplished ill-serves our most talented and most vulnerable players. A better way to protect child prodigies from overzealous parents, coaches and officials is suggested by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/k12-nationals-chesskid.1920.jpeg\" title=\"A suitable dose of chess enriches children and can foster their development in many ways. photo: Chesskid\" data-title=\"A suitable dose of chess enriches children and can foster their development in many ways. (photo: Chesskid)\" class=\"js-img\"> <img",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/protect-our-prodigies/",
-         "pubDate" : "Fri, 28 May 2021 16:36:42 +0100",
-         "title" : "Protect our prodigies!"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Dutch Chess Federation</strong> announced a <a href=\"https://www.chesstech.org/files/jan.master.pdf?v=1\">study composition contest</a> with €600 in cash and more prices to honour the 70th birthday of <strong>Jan Timman</strong> on 14 December. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/study-competition-to-honour-jan/",
-         "pubDate" : "Fri, 28 May 2021 16:17:32 +0100",
-         "title" : "Study competition to honour Jan Timman"
-      },
-      {
          "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -986,14 +1010,6 @@ news_feed (
          "title" : "GM v FM"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.playmagnusgroup.com/investor\">Higher turnover than expected</a> in the first quarter 2021 and significantly increased spending per customer has driven the <strong>Play Magnus Group</strong> share price up. The only publicly traded chess company has increased its expectation for 2021 by $2 million. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/strong-q1-performance-at-play-magnus/",
-         "pubDate" : "Wed, 26 May 2021 09:07:09 +0100",
-         "title" : "Strong Q1 performance at Play Magnus"
-      },
-      {
          "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk (pictured) are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.europechess.org/r1-report-european-hybrid-qualification-tournament/",
          "pubDate" : "Wed, 26 May 2021 05:44:16 +0000",
          "title" : "R1 report -European Hybrid Qualification Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the best games from the ongoing American Hybrid World Cup Qualifier, a collection of eight 16-player online knockouts. The eight winners will earn entry into the World Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JjT0Ske6EdI.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-hybrid-world-cup-qualifier-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 26 May 2021 03:55:13 +0000",
-         "title" : "American Hybrid World Cup Qualifier | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
@@ -1312,14 +1320,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/giri-leads-the-ftx-crypto-chess-preliminaries-after-day-1",
          "pubDate" : "Sun, 23 May 2021 21:37:00 +0400",
          "title" : "Giri leads the FTX Crypto Chess Preliminaries after day 1 - Day 1"
-      },
-      {
-         "description" : "The Global Women's Online Chess Challenge The Queens' Festival, a series of continental and global women's online chess tournaments and educative side events, will start...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-queens-festival-connecting-women-in-chess/",
-         "pubDate" : "Sun, 23 May 2021 16:00:26 +0000",
-         "title" : "The Queens' Festival - Connecting Women in Chess"
       },
       {
          "description" : "",
@@ -2296,38 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1075",
          "pubDate" : "Tue, 11 May 2021 20:26:00 +0000",
          "title" : "Announcing the winners of the FIDE Trainer Awards for 2020-21"
-      },
-      {
-         "description" : "Arjun Erigaisi pulled a massive upset in the finals of the Indian Qualifier to the Champions Chess Tour by handing Adhiban his first defeat of the event. Nonetheless, by reaching the finals, Adhiban had already qualified to the elite online tour. Aravindh beat Gukesh in the match for third place. Gukesh should be happy with his performance, as he was the only player to beat eventual champion Arjun Erigaisi in the very first game of the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-indian-qualifier-to-the-champions-chess-tour",
-         "pubDate" : "Tue, 11 May 2021 19:00:00 +0100",
-         "title" : "Arjun Erigaisi wins Indian Qualifier to the Champions Chess Tour"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Team Championships, with a focus on the game Rublevsky vs Askerov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-russian-team-championships",
-         "pubDate" : "Tue, 11 May 2021 16:59:28 +0100",
-         "title" : "The Weekly Show: The Russian Team Championships"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620748290836-H5CWKF77UWUXALVJWQYH/ke17ZwdGBToddI8pDm48kFLwottMPu7LZb6FJ7A6v31Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGCp2LsdeLGygMT3E5p2SI2f0AL5VEubYN1_mzZVJAq5ErWCZvOAQjqmdv8ZRVtgUU/krabbe2.jpg\" data-image-dimensions=\"300x480\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo Courtesy of Tim Krabbe\" data-load=\"false\" data-image-id=\"609aa80216642c510642dfad\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1620748290836-H5CWKF77UWUXALVJWQYH/ke17ZwdGBToddI8pDm48kFLwottMPu7",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/11/episode-226-tim-krabbe",
-         "pubDate" : "Tue, 11 May 2021 15:53:50 +0000",
-         "title" : "Episode 226- Tim Krabb&eacute;"
-      },
-      {
-         "description" : "12-year-old Abhimanyu Mishra scored his 2nd GM norm at the First Saturday GM Round Robin May 2021 with a round to spare. This is the second consecutive event in which Abhimanyu has scored a GM norm, with a dominating 2700+ performance. He is now just 29 Elo points and one GM norm away from becoming the world's youngest grandmaster. Abhi has annotated his eighth round game for us, and will play against ChessBase Premium Members tomorrow.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/second-gm-norm-for-abhimanyu-2",
-         "pubDate" : "Tue, 11 May 2021 16:48:35 +0100",
-         "title" : "Second GM norm for Abhimanyu"
       }
    ]
 }
