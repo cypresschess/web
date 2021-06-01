@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622554135861-WJDIXEPQP09K9Z3PI5CL/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/DKuljasevic2.png\" data-image-dimensions=\"500x500\" data-image-focal-point=\"0.5,0.5\" alt=\"DKuljasevic2.png\" data-load=\"false\" data-image-id=\"60b63617645f1e47fc5c28ec\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622554135861-WJDIXEPQP09K9Z3PI5CL/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8J",
+         "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
+         "pubDate" : "Tue, 01 Jun 2021 15:22:04 +0000",
+         "title" : "Online County Championships this summer"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/1/episode-229-gm-davorin-kuljasevic",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
          "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
          "title" : "60 years ago: Botvinnik wins return match against Tal"
-      },
-      {
-         "description" : "The ECF membership year runs from 1st September to 31st of the following August, and each year during July we open the sale of new...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-renewals/",
-         "pubDate" : "Wed, 12 May 2021 15:40:41 +0000",
-         "title" : "ECF membership renewals"
       },
       {
          "description" : "The Chinese Chess Championships are being played on May 7-15 in Xinghua Jiangsu, a county-level city in eastern China. After seven rounds, three players are sharing the lead in the open event while rating favourite Tan Zhongyi has grabbed the sole lead in the women's tournament. | Pictured: Tan Zhongyi during the 2018 Women's World Championship | Photo: Gu Xiaobang",
