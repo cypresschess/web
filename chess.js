@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1121",
+         "pubDate" : "Wed, 02 Jun 2021 20:46:47 +0000",
+         "title" : "R 11: to Zhansaya, the glory, to Kateryna, the ticket to the Candidates"
+      },
+      {
+         "description" : " Share! Susan Namangale President of Malawi Chess Federation This past year has been one with a bit of intrigue as the continent of Africa seemed to increase chess activity online. There were a number of staged &#8220;cage matches&#8221; and many federations organized friendly matches. Social media groups were abuzz about the prospects of African chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/\">2021 African Individual Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/",
+         "pubDate" : "Wed, 02 Jun 2021 20:32:46 +0000",
+         "title" : "2021 African Individual Chess Championship"
+      },
+      {
          "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2138,7 +2154,7 @@ news_feed (
          "title" : "An interesting Zugzwang"
       },
       {
-         "description" : " Share!11 Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those who [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/",
@@ -2312,14 +2328,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
          "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
          "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1079",
-         "pubDate" : "Wed, 12 May 2021 20:29:52 +0000",
-         "title" : "\"Chess Behind Bars\""
       }
    ]
 }
