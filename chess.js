@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows his quarterfinal World Cup Qualifier game against Cuban GM Luis Manuel Perez at the online hybrid knockout tournament. Akobian won his match against Perez, but ultimately failed to qualify for the Cup. 2021.06.01<br /> Varuzhan Akobian vs. Luis Manuel Perez Rodriguez, 2021: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4287864\">https://www.365chess.com/game.php?back=1&amp;gid=4287864</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-gm-perez-world-cup-qualifier-insane-endgame-gm-varuzhan-akobian",
+         "pubDate" : "Wed, 02 Jun 2021 07:03:03 +0000",
+         "title" : "Beating GM Perez at World Cup Qualifier | Insane in the Endgame - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/holy-cow-i-won-chicago-open-u2300-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 02 Jun 2021 04:02:53 +0000",
+         "title" : "Holy Cow! I Won the Chicago Open! (U2300) | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-zhansay-abdumalik-is-grandmaster",
          "pubDate" : "Tue, 01 Jun 2021 19:18:10 +0100",
-         "title" : "The Weekly Show: Zhansay Abdumalik gains Grandmaster title!"
+         "title" : "The Weekly Show: Zhansaya Abdumalik gains Grandmaster title!"
       },
       {
          "description" : "The Queens' Festival European Online Blitz Qualifier begins on June 19th. Here's a link to the website for the event, which&#160;gives more information &#8212; https://queensfestival.fide.com/...",
@@ -128,6 +144,14 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-chess-cup/",
          "pubDate" : "Tue, 01 Jun 2021 13:40:35 +0000",
          "title" : "Magnus Carlsen wins FTX Crypto Chess Cup"
+      },
+      {
+         "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is <a href=\"https://nextlevelchess.blog/find-your-chess-coach/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
+         "pubDate" : "Tue, 01 Jun 2021 13:30:47 +0000",
+         "title" : "How To Find Your Perfect Chess Coach In 5 Steps"
       },
       {
          "description" : "Entry European National Chess Federations and their partners Schedule: 18 June 3-5 PM CET in a ZOOM-meeting. Description During the meeting you will be presented with the new rules for Erasmus+, how you make an application for an Erasmus+ project, what the process looks like, what the key factors for success are, and general advice. Practical examples of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/webinar-for-erasmus-friday-june-18/\">Read More &#187;</a></span>",
@@ -928,22 +952,6 @@ news_feed (
          "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
          "pubDate" : "Thu, 27 May 2021 04:43:42 +0000",
          "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani features games from former world champion Anatoly Karpov. See his win over Vladimir Savon from Moscow 1971, as well as two other positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 27 May 2021 03:56:04 +0000",
-         "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.05.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xKiSGnw_nxI.jpg?itok=98kKjAPh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-karpov-time-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 27 May 2021 00:56:03 +0000",
-         "title" : "It's Karpov Time! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
