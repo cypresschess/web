@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nearly one hour video training. Plus 23 extensively analysed games by Jan-Krzysztof Duda, Yu Yangyi, Krishnan Sasikiran, Spyridon Kapnisis, Romain Edouard, Sury Vaibhav and Tanmay Srinath. ChessBase Magazine Extra is the perfect addition to ChessBase Magazine and can also be obtained by subscription (6 issues per year). Available on DVD or as a download.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-201",
+         "pubDate" : "Wed, 02 Jun 2021 16:00:00 +0100",
+         "title" : "New: CBM EXTRA 201"
+      },
+      {
+         "description" : " Rook endings are difficult to play, as even a pawn advantage isn't enough to secure the point. However I have seen both recently, and in the past, the easiest way to play them is when you have an extra rook! This was spotted in 2 games at my local club last night, and in one of my games from the 2004 Olympiad. Despite having to play a rook up for 30 moves, the highlight was after the finish when a passing IM congratulated me on converting a 'difficult rook ending'. To be fair, clearly they hadn't expected my opponent to play as many moves as they did. <br /> <b>Niyontegereje,Edison - Press,Shaun (2070) [C55]</b><br />Calvia ol (Men) Mallorca (Spain) (8.61), 23.10.2004 <script>new PgnViewer(",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/the-easy-rook-ending.html",
+         "pubDate" : "Wed, 02 Jun 2021 13:14:00 +0000",
+         "title" : "The easy rook ending"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour will feature two classical and three rapid &amp; blitz events, picking up after the cancellation of the 2020 season. Tour participants will compete for a total prize fund of $1.275 million, including $325,000 per classical tournament and $150,000 in prizes for rapid &amp; blitz events. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-promo",
+         "pubDate" : "Wed, 02 Jun 2021 13:03:10 +0000",
+         "title" : "2021 Grand Chess Tour Promo"
+      },
+      {
+         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Wed, 02 Jun 2021 13:55:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. The young star from Kazakhstan beat Valentina Gunina and signed a quick draw with Kateryna Lagno to get a 1&frac12;-point lead with only one round to go. | Pictured: Deputy Chief Minister of Gibraltar Jospeh Garcia makes the first move in Abdumalik v Lagno. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r10",
+         "pubDate" : "Wed, 02 Jun 2021 13:25:00 +0100",
+         "title" : "Gibraltar GP: Abdumalik wins with a round to spare"
+      },
+      {
          "description" : "There are hardly any changes at the top of the new FIDE World Ranking List as the first 22 players on the list have not played any FIDE-rated games in May and with a rating of 2847 Magnus Carlsen is still clear number one, followed by Fabiano Caruana with 2820. However, in the women's list Aleksandra Goryachkina gained some points and is now on 2596, only four points away from the 2600 mark though Hou Yifan (2658) is still clear number one on the women's list. Alireza Firouzja (2759) remains best junior, and Polina Shuvalova (2489) remains best female junior player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +66,11 @@ news_feed (
          "title" : "Zhansaya Abdumalik wins FIDE Women's Grand Prix Gibraltar with a round to spare"
       },
       {
-         "description" : "On Tuesday, June 1, GM Hikaru Nakamura broke the world record of most victories against unique opponents in one hour in the 1|0 bullet time control. He did so on Chess.com in the Bullet Chess Speedrun presented by Stella Artois. Nakamura defeate...",
+         "description" : "On Tuesday, June 1, GM Hikaru Nakamura broke the world record of most victories against unique opponents in one hour in the 1|0 bullet time control. He accomplished this feat on Chess.com in the Bullet Chess Speedrun presented by Stella Artois. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-record-bullet-chess-speedrun-stella-artois",
-         "pubDate" : "Wed, 02 Jun 2021 00:45:52 -0700",
+         "pubDate" : "Wed, 02 Jun 2021 00:45:00 -0700",
          "title" : "Nakamura Shatters Record In Bullet Chess Speedrun Presented By Stella Artois"
       },
       {
@@ -42,7 +82,7 @@ news_feed (
          "title" : "Beating GM Perez at World Cup Qualifier | Insane in the Endgame - GM Varuzhan Akobian"
       },
       {
-         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 3 - 15, 2021. This rapid and blitz event marks the resumption of the tour which was cancelled last year. Next week there will be a similar event in Paris, later in the year St Louis will host both the Sinquefield Cup and their own rapid and blitz tournaments. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Wesley So, Shakhriyar Mamedyarov, Teimour Radjabov, Maxime Vachier-Lagrave, Richard Rapport and Constantin Lupulescu.",
+         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 5th (Round 1) - 14th (Round 9), 2021. This classical event marks resumption of the tour which was cancelled last year. Earlier I'd completely failed to notice that this was a classical rather than a rapid and blitz as it was in 2019. Following straight on from this event (June 18th) there really will be a rapid and blitz event, in Paris. After that there is the Croatia Rapid & Blitz (5th July). St Louis will host both their own rapid and blitz tournaments (Aug 11th) and the classical Sinquefield Cup (Aug 17th) to finish off the tour. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-queens-festival-global-womens-online-chess-challenge/",
          "pubDate" : "Tue, 01 Jun 2021 17:44:27 +0000",
          "title" : "FIDE Queens Festival (Global Women's Online Chess Challenge)"
-      },
-      {
-         "description" : "Zhansaya Abdumalik secured tournament victory at the Women's Grand Prix in Gibraltar after signing a quick draw with Kateryna Lagno shortly after round 10 started. Follow the games live with commentary starting at 15.00 CEST (09.00 ET, 13:00 UTC). | Pictured: Irina Bulmaga | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Tue, 01 Jun 2021 18:25:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
@@ -896,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1099",
          "pubDate" : "Thu, 27 May 2021 22:06:56 +0000",
          "title" : "\"The Queens' Festival\": Connecting Women in Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel covers the FTX Crypto Cup's quarterfinal match between Fabiano Caruana and Ian Nepomniachtchi in this two-hour special. See Games 1 and 4 of the first set. The ongoing Cup is the sixth leg of the online 2021 Champions Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ftx-crypto-cup-fabi-falls-nepo-grandmasters-choice-gm-josh-friedel",
-         "pubDate" : "Thu, 27 May 2021 21:56:51 +0000",
-         "title" : "FTX Crypto Cup: Fabi Falls to Nepo! | Grandmaster's Choice - GM Josh Friedel"
       },
       {
          "description" : "",
@@ -2232,14 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-developments-in-the-centre-game-1-e4-e5-2-d4-exd4-3-qxd4",
          "pubDate" : "Thu, 13 May 2021 19:47:15 +0100",
          "title" : "Robert Ris' Fast and Furious: New developments in the Centre Game (1.e4 e5 2.d4!? exd4 3.Qxd4)"
-      },
-      {
-         "description" : "May 13, 2021 So far, there have been 3 seasons of the North East Online League, with a total of 14 clubs taking part. Teams...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/north-east-online-league-progress-report/",
-         "pubDate" : "Thu, 13 May 2021 14:55:53 +0000",
-         "title" : "North East Online League - Progress Report"
       },
       {
          "description" : " World Chess, the company behind the game-changing rise in the popularity of chess and the organizer of the recent Chess Championship Matches in New York and London, launches a chess-focused sports marketing agency. It's the world's first sports agency focused exclusively on chess. The agency, Chess and Company, represents top chess talent and events, and aims to help brands across transport, technology, retail, hospitality and luxury sectors, to connect with chess in a way that has a long-lasting effect on the sport and to bring 600 million chess players closer to the brands' offerings. The services are delivered by the team that was responsible for staging the most successful events and ac",
