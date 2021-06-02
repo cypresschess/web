@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to the ongoing pandemic the Asian Individual Hybrid Chess Championship 2021 was played online. From 21 to 29 May 82 players from 15 countries battled in a hybrid tournament for the title, a place in the FIDE World Cup 2021, and the pitfalls of online play. After nine rounds the 19-year old Grandmaster Shamsiddin Vokhidov from Uzbekistan and IM Tin Jingyao from Singapore shared first with 7.0/9 each, but Vokhidov won the tournament on tiebreak. Top seed Parham Maghsoodloo from Iran finished tenth and suffered from power failures.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shamsiddin-vokhidov-wins-asian-individual-hybrid-chess-championship-2021",
+         "pubDate" : "Wed, 02 Jun 2021 11:00:41 +0100",
+         "title" : "Shamsiddin Vokhidov wins Asian Individual Hybrid Chess Championship 2021"
+      },
+      {
+         "description" : "Zhansaya Abdumalik secured first place in the penultimate round of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 1 June after agreeing a very quick draw with Kateryna Lagno of Russia. The quick cessation of hostilities suited both players as Zhansaya wins the tournament while Kateryna will have it in her own []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-wins-fide-womens-grand-prix-gibraltar-with-a-round-to-spare/",
+         "pubDate" : "Wed, 02 Jun 2021 08:37:43 +0000",
+         "title" : "Zhansaya Abdumalik wins FIDE Women's Grand Prix Gibraltar with a round to spare"
+      },
+      {
+         "description" : "On Tuesday, June 1, GM Hikaru Nakamura broke the world record of most victories against unique opponents in one hour in the 1|0 bullet time control. He did so on Chess.com in the Bullet Chess Speedrun presented by Stella Artois. Nakamura defeate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-record-bullet-chess-speedrun-stella-artois",
+         "pubDate" : "Wed, 02 Jun 2021 00:45:52 -0700",
+         "title" : "Nakamura Shatters Record In Bullet Chess Speedrun Presented By Stella Artois"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows his quarterfinal World Cup Qualifier game against Cuban GM Luis Manuel Perez at the online hybrid knockout tournament. Akobian won his match against Perez, but ultimately failed to qualify for the Cup. 2021.06.01<br /> Varuzhan Akobian vs. Luis Manuel Perez Rodriguez, 2021: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4287864\">https://www.365chess.com/game.php?back=1&amp;gid=4287864</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/beating-gm-perez-world-cup-qualifier-insane-endgame-gm-varuzhan-akobian",
          "pubDate" : "Wed, 02 Jun 2021 07:03:03 +0000",
          "title" : "Beating GM Perez at World Cup Qualifier | Insane in the Endgame - GM Varuzhan Akobian"
+      },
+      {
+         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 3 - 15, 2021. This rapid and blitz event marks the resumption of the tour which was cancelled last year. Next week there will be a similar event in Paris, later in the year St Louis will host both the Sinquefield Cup and their own rapid and blitz tournaments. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Wesley So, Shakhriyar Mamedyarov, Teimour Radjabov, Maxime Vachier-Lagrave, Richard Rapport and Constantin Lupulescu.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
+         "pubDate" : "Wed, 2 Jun 2021 10:04:00 +0400",
+         "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
@@ -423,7 +455,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
          "pubDate" : "Sun, 30 May 2021 15:24:00 +0000",
-         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar - R10 report"
+         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar - R9 report"
       },
       {
          "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE The FTX []",
@@ -768,14 +800,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
          "pubDate" : "Fri, 28 May 2021 14:50:00 +0000",
          "title" : "FTX Crypto Cup LIVE"
-      },
-      {
-         "description" : "The African Continental Women Champion Jesse Nikki February will be guest in FM Calvin Klaasen's show &#8220;Reflections&#8221; this Tuesday at 19:00 CEST. Follow it live here Jesse February has just won the Continental Championship and a WGM title. She will talk about her African Continental Chess Championship experience and more on FM Klaasen's broadcast. Read []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-jesse-nikki-february/",
-         "pubDate" : "Fri, 28 May 2021 14:49:01 +0000",
-         "title" : "Interview with Jesse Nikki February"
       },
       {
          "description" : "If a Fair Play Award is handed out for 2021, GM Jergus Pechac will probably receive it. The 19-year-old Slovak GM graciously offered a draw when GM Boris Gelfand blundered a full queen due to a mouse slip. Pechac advanced anyway by winning the arm...",
@@ -1930,14 +1954,6 @@ news_feed (
          "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
       },
       {
-         "description" : "Two weeks after clinching the Shenzhen Masters (online), GM Yu Yangyi won his third Chinese Championship title (over the board!). GM Ju Wenjun, who chose to play in the open section, was one of two players to beat the eventual champion. How to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chinese-chess-championships-yu-yangyi-tan-zhongyi",
-         "pubDate" : "Mon, 17 May 2021 06:55:00 -0700",
-         "title" : "Yu Retains Chinese Title But Loses To Ju"
-      },
-      {
          "description" : "Wishing to participate in the current development of online chess, AIDEF- Francophone Chess Association organized this weekend of 15 &#38; 16 May 2021 the first edition of the Francophone Online Chess Team Cup ( «Coupe d'&eacute;checs en ligne par &eacute;quipes de la Francophonie »). This tournament was reserved for amateur teams selected by their federation to participate in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/albania-wins-1st-francophone-online-chess-team-cup/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2288,22 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
          "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
          "title" : "60 years ago: Botvinnik wins return match against Tal"
-      },
-      {
-         "description" : "The Chinese Chess Championships are being played on May 7-15 in Xinghua Jiangsu, a county-level city in eastern China. After seven rounds, three players are sharing the lead in the open event while rating favourite Tan Zhongyi has grabbed the sole lead in the women's tournament. | Pictured: Tan Zhongyi during the 2018 Women's World Championship | Photo: Gu Xiaobang",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-championships-2021-r7",
-         "pubDate" : "Wed, 12 May 2021 11:00:00 +0100",
-         "title" : "Chinese Chess Championships in Xinghua Jiangsu"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-3",
-         "pubDate" : "Wed, 12 May 2021 10:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 3"
       }
    ]
 }
