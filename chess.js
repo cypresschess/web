@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Wed, 02 Jun 2021 17:22:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
+      },
+      {
+         "description" : " The Rauzer attack against the Sicilian Dragon (1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 followed by 0-0-0 and a kingside pawn advance) is one of two major systems against the Sicilian pioneered by Vsevolod Alfredovich Rauzer; the other one was the Richter-Rauzer attack against the Classical system <a href=\"https://chessimprover.com/rip-em-with-the-rauzer/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Rip 'em with the Rauzer\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/rip-em-with-the-rauzer/\">Rip 'em with the Rauzer</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/rip-em-with-the-rauzer/",
+         "pubDate" : "Wed, 02 Jun 2021 15:10:18 +0000",
+         "title" : "Rip 'em with the Rauzer"
+      },
+      {
          "description" : "Nearly one hour video training. Plus 23 extensively analysed games by Jan-Krzysztof Duda, Yu Yangyi, Krishnan Sasikiran, Spyridon Kapnisis, Romain Edouard, Sury Vaibhav and Tanmay Srinath. ChessBase Magazine Extra is the perfect addition to ChessBase Magazine and can also be obtained by subscription (6 issues per year). Available on DVD or as a download.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-cbm-extra-201",
          "pubDate" : "Wed, 02 Jun 2021 16:00:00 +0100",
          "title" : "New: CBM EXTRA 201"
+      },
+      {
+         "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2020 but current...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/announcement-of-election-of-direct-members-representatives/",
+         "pubDate" : "Wed, 02 Jun 2021 14:51:03 +0000",
+         "title" : "Announcement of election of Direct Members' Representatives"
+      },
+      {
+         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021/",
+         "pubDate" : "Wed, 02 Jun 2021 14:25:20 +0000",
+         "title" : "Grand Chess Tour - Romania 2021"
       },
       {
          "description" : " Rook endings are difficult to play, as even a pawn advantage isn't enough to secure the point. However I have seen both recently, and in the past, the easiest way to play them is when you have an extra rook! This was spotted in 2 games at my local club last night, and in one of my games from the 2004 Olympiad. Despite having to play a rook up for 30 moves, the highlight was after the finish when a passing IM congratulated me on converting a 'difficult rook ending'. To be fair, clearly they hadn't expected my opponent to play as many moves as they did. <br /> <b>Niyontegereje,Edison - Press,Shaun (2070) [C55]</b><br />Calvia ol (Men) Mallorca (Spain) (8.61), 23.10.2004 <script>new PgnViewer(",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-promo",
          "pubDate" : "Wed, 02 Jun 2021 13:03:10 +0000",
          "title" : "2021 Grand Chess Tour Promo"
-      },
-      {
-         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Wed, 02 Jun 2021 13:55:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. The young star from Kazakhstan beat Valentina Gunina and signed a quick draw with Kateryna Lagno to get a 1&frac12;-point lead with only one round to go. | Pictured: Deputy Chief Minister of Gibraltar Jospeh Garcia makes the first move in Abdumalik v Lagno. | Photo: David Llada",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "Kasparov trains young talents"
       },
       {
-         "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-chess-cup/",
-         "pubDate" : "Tue, 01 Jun 2021 13:40:35 +0000",
-         "title" : "Magnus Carlsen wins FTX Crypto Chess Cup"
-      },
-      {
          "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is <a href=\"https://nextlevelchess.blog/find-your-chess-coach/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -240,6 +256,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
          "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
+      },
+      {
+         "description" : "The African Continental Women Champion Jesse Nikki February will be the guest in FM Calvin Klaasen's show \"Reflections\" this Thursday at 19:00 CEST. Follow it live here. FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-interview-with-african-champion-jesse-niki-february-thursday-at-1900-cest/",
+         "pubDate" : "Tue, 01 Jun 2021 12:01:00 +0000",
+         "title" : "FM Calvin Klaasen - live interview with African Champion Jesse Niki February, Thursday at 19:00 CEST"
+      },
+      {
+         "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-chess-cup/",
+         "pubDate" : "Tue, 01 Jun 2021 11:40:00 +0000",
+         "title" : "Magnus Carlsen wins FTX Crypto Chess Cup"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (47)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (47)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -770,14 +802,6 @@ news_feed (
          "title" : "2021 ACT Chess Championship - Round 1"
       },
       {
-         "description" : "FTX Crypto Chess Cup 2021 is going to start today. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000. Report on prelims: Carlsen barely gets to the FTX Crypto []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2021/",
-         "pubDate" : "Sat, 29 May 2021 00:22:00 +0000",
-         "title" : "FTX Crypto Chess Cup 2021"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
          "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
          "title" : "The ChessBase News Review (21.05 - 28.05)"
-      },
-      {
-         "description" : "FTX Crypto Chess Cup 2021&#160;is going to start today, with the games, the players reactions, and more live on Chessdom.com. The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup offers a record prize pot for an online tournament of $320,000 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-live/",
-         "pubDate" : "Fri, 28 May 2021 14:50:00 +0000",
-         "title" : "FTX Crypto Cup LIVE"
       },
       {
          "description" : "If a Fair Play Award is handed out for 2021, GM Jergus Pechac will probably receive it. The 19-year-old Slovak GM graciously offered a draw when GM Boris Gelfand blundered a full queen due to a mouse slip. Pechac advanced anyway by winning the arm...",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Nodirbek Abdusattorov wins Zone 3.4 Open Championship 2021"
       },
       {
-         "description" : "A reminder that the deadline for nominations for the 2021 BCET awards is the 31st May 2021. If you wish to make a nomination but...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2021/",
-         "pubDate" : "Mon, 17 May 2021 08:00:24 +0000",
-         "title" : "BCET Awards 2021 - a reminder!"
-      },
-      {
          "description" : " The Mr Dodgy Invitational 2.0 took place online on Chess24 May 12th - 16th 2021. This 16 player KO blitz (5 minutes no increment) tournament had a strong field. Simon Williams, Peter Heine Nielsen, Nils Grandelius, Jorden van Foreest, Daniil Dubov, Vidit Gujrathi, Alexei Shirov, David Howell, Laurent Fressinet, Pepe Cuenca, David Navara, Baadur Jobava, Peter Svidler, Anish Giri, Baskaran Adhiban and Alexander Grischuk. Anish Giri retained his titled with a comfortable 7-3 in the final, Giri's 7-5 win over Daniil Dubov in the semifinals was his closest match.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-27-a-multi-stage-plan",
          "pubDate" : "Sun, 16 May 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
-      },
-      {
-         "description" : " It's getting on for a century old now, but Nimzowitsch's My System is still often recommended as a good book on positional chess for intermediate players. I'm not at all convinced that it's the best choice, though. Don't get me wrong. If you're interested in the development of chess ideas over the past 100, or <a href=\"https://chessimprover.com/wrong-books-3-my-system/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (3): My System\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-3-my-system/\">Wrong Books (3): My System</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/wrong-books-3-my-system/",
-         "pubDate" : "Sun, 16 May 2021 05:53:14 +0000",
-         "title" : "Wrong Books (3): My System"
       },
       {
          "description" : " So far, it looks like the answer is <em>probably not</em>. <a href=\"https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster\">Leonard Barden thinks</a> he'll need 7/9 to do it, and after a loss in round 2 and a draw in round 3 he only has half a point left to spare. That said, <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">the tournament</a> could still be a success insofar as it brings his rating closer to 2500, even if he doesn't get the final norm this time around. (The GM norm requires a 2600+ TPR, so even if he doesn't achieve that, but does have a TPR greater than his curr",
