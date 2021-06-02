@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are hardly any changes at the top of the new FIDE World Ranking List as the first 22 players on the list have not played any FIDE-rated games in May and with a rating of 2847 Magnus Carlsen is still clear number one, followed by Fabiano Caruana with 2820. However, in the women's list Aleksandra Goryachkina gained some points and is now on 2596, only four points away from the 2600 mark though Hou Yifan (2658) is still clear number one on the women's list. Alireza Firouzja (2759) remains best junior, and Polina Shuvalova (2489) remains best female junior player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hardly-any-changes-fide-ratings-june-2021",
+         "pubDate" : "Wed, 02 Jun 2021 13:00:00 +0100",
+         "title" : "Hardly any changes: FIDE ratings June 2021"
+      },
+      {
          "description" : "Due to the ongoing pandemic the Asian Individual Hybrid Chess Championship 2021 was played online. From 21 to 29 May 82 players from 15 countries battled in a hybrid tournament for the title, a place in the FIDE World Cup 2021, and the pitfalls of online play. After nine rounds the 19-year old Grandmaster Shamsiddin Vokhidov from Uzbekistan and IM Tin Jingyao from Singapore shared first with 7.0/9 each, but Vokhidov won the tournament on tiebreak. Top seed Parham Maghsoodloo from Iran finished tenth and suffered from power failures.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
