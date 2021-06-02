@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-love-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YxQA1IXpad4.jpg?itok=gzecLQHi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/we-love-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 02 Jun 2021 22:03:32 +0000",
+         "title" : "We Love Magnus! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-7-carlsen-so-meet-in-3rd-final",
          "pubDate" : "Sun, 30 May 2021 01:02:03 +0000",
          "title" : "FTX Crypto Cup 7: Carlsen & So meet in 3rd final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a quick way to disarm the &quot;Bong Cloud&quot; chess opening, a showman opening where the king comes out early to confuse the opponent. 2021.04.28<br /> C20 King&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-bong-cloud-your-bullet-games-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Sxwz4VTfjWY.jpg?itok=X3VM98LB",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/clear-bong-cloud-your-bullet-games-shorts",
-         "pubDate" : "Sun, 30 May 2021 00:59:49 +0000",
-         "title" : "Clear the Bong Cloud in your Bullet Games! | #Shorts"
       },
       {
          "description" : " The Chess Endgame Exercise Book : John Nunn John Nunn has written around thirty books on chess, many of these being some of the finest published in any language : Secrets of Pawnless Endings (1994, Batsford) for example, is easily a candidate for the all time list. John is a director of Gambit Publications Ltd. together <a href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Endgame Exercise Book</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\">The Chess Endgame Exercise Book</a> appe",
