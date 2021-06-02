@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
+         "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gulnar-mammadova-wins-azerbaijan-womens-chess-championship-2021/",
+         "pubDate" : "Wed, 02 Jun 2021 18:12:35 +0000",
+         "title" : "Gulnar Mammadova wins Azerbaijan Women's Chess Championship 2021"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov, the 16-year-old rising star from Uzbekistan, won Titled Tuesday on June 1 with a score of 10/11 after defeating GM Hikaru Nakamura in the final round. Nakamura finished in second place on tiebreaks with a score of 9.5/11,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-june-1-titled-tuesday",
+         "pubDate" : "Wed, 02 Jun 2021 10:55:04 -0700",
+         "title" : "Abdusattorov Wins June 1 Titled Tuesday"
+      },
+      {
+         "description" : "The Webinar for FIDE International Organizers will take place from June 28 July 1. The event is organized by European Chess Union in cooperation with FIDE Events Commission and FIDE Women's Commission, co-funded by FIDE Development Fund. The event will be organized for 60 participants in total: 15 female participants from any European federation, supported by FIDE&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-organizers-webinar/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/international-organizers-webinar/",
+         "pubDate" : "Wed, 02 Jun 2021 17:34:45 +0000",
+         "title" : "International Organisers Webinar"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-qualifies-for-womens-candidates/articleshow/83183434.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83183434.cms\" /></a> World No. 3 Koneru Humpy qualified for the FIDE women's Candidates which is scheduled to be held in the first half of next year. The confirmation came after the fourth and final leg of the women's Grand Prix (WGP) which concluded in Gibraltar on Wednesday evening. Interestingly, Humpy had pulled out of the last leg due to the Covid-19 pandemic.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-qualifies-for-womens-candidates/articleshow/83183434.cms",
+         "pubDate" : "Wed, 02 Jun 2021 23:00:21 +0530",
+         "title" : "Koneru Humpy qualifies for women's Candidates"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look at a game Vincent Keymer and Viktor Laznicka played at the European Hybrid Qualification Tournament. Keymer impressed with bold and creative play but then failed to convert a winning endgame. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Wed, 02 Jun 2021 17:22:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
+         "link" : "https://en.chessbase.com/post/game-of-the-week-v-keymer-vs-l-laznicka",
+         "pubDate" : "Wed, 02 Jun 2021 18:00:00 +0100",
+         "title" : "Game of the Week: V. Keymer vs L. Laznicka"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/surprise-cooking-show-fm-thalia-cervantes-lichessorg",
+         "pubDate" : "Wed, 02 Jun 2021 16:03:20 +0000",
+         "title" : "Surprise Cooking Show - FM Thalia Cervantes | lichess.org"
       },
       {
          "description" : " The Rauzer attack against the Sicilian Dragon (1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 followed by 0-0-0 and a kingside pawn advance) is one of two major systems against the Sicilian pioneered by Vsevolod Alfredovich Rauzer; the other one was the Richter-Rauzer attack against the Classical system <a href=\"https://chessimprover.com/rip-em-with-the-rauzer/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Rip 'em with the Rauzer\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/rip-em-with-the-rauzer/\">Rip 'em with the Rauzer</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/announcement-of-election-of-direct-members-representatives/",
          "pubDate" : "Wed, 02 Jun 2021 14:51:03 +0000",
          "title" : "Announcement of election of Direct Members' Representatives"
+      },
+      {
+         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
+         "pubDate" : "Wed, 02 Jun 2021 15:45:00 +0100",
+         "title" : "Women's GP: Gibraltar - Live!"
       },
       {
          "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
@@ -72,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hardly-any-changes-fide-ratings-june-2021",
          "pubDate" : "Wed, 02 Jun 2021 13:00:00 +0100",
          "title" : "Hardly any changes: FIDE ratings June 2021"
+      },
+      {
+         "description" : " The Gibraltar FIDE Women's Grand Prix tookplace 22nd May to 2nd June 2021. This was the final Grand Prix in a much extended series due to the Coronavirus crisis. The previous events were: Skolkovo, September 10th - 23rd 2019; Monaco, December 2nd - 15th 2019 and Lausanne, March 1st - 14th 2020. Aleksandra Goryachkina had already qualified for the Candidates tournament as the loser of the World Championship match, after this tournament Humpy Koneru took the first Grand Prix place and Kateryna Lagno the second and they have qualified too. Zhansaya Abdumalik won this Grand Prix with an impressive score of 8.5/11. The FIDE Women's World Cup has three Candidates places, their Grand Swiss 1 place",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-fide-womens-grand-prix-2021",
+         "pubDate" : "Wed, 2 Jun 2021 14:54:00 +0400",
+         "title" : "Gibraltar FIDE Women's Grand Prix 2021 - Games and Results"
       },
       {
          "description" : "Due to the ongoing pandemic the Asian Individual Hybrid Chess Championship 2021 was played online. From 21 to 29 May 82 players from 15 countries battled in a hybrid tournament for the title, a place in the FIDE World Cup 2021, and the pitfalls of online play. After nine rounds the 19-year old Grandmaster Shamsiddin Vokhidov from Uzbekistan and IM Tin Jingyao from Singapore shared first with 7.0/9 each, but Vokhidov won the tournament on tiebreak. Top seed Parham Maghsoodloo from Iran finished tenth and suffered from power failures.",
@@ -327,7 +383,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms",
          "pubDate" : "Tue, 01 Jun 2021 07:59:40 +0530",
-         "title" : "FTX Crypto Cup: Magnus Carlsen clinches world's first bitcoin chess event"
+         "title" : "FTX Crypto Cup: Carlsen clinches world's first bitcoin chess event"
       },
       {
          "description" : "Magnus Carlsen let out a roar of joy and talked of \"massive, massive relief\" as he beat Wesley So in Armageddon to win the FTX Crypto Cup and book a place in the Meltwater Champions Chess Tour Finals in San Francisco. Magnus won the first game but Wesley hit back straight away and then took the lead when Magnus blundered in the first blitz playoff. It looked as if the World Champion would lose a 3rd final to the US Champion, but Magnus stormed back to win the next two games and claim the title. Ian Nepomniachtchi took 3rd place after four fighting games against Teimour Radjabov.",
@@ -746,14 +802,6 @@ news_feed (
          "title" : "Gibraltar GP: Abdumalik and Muzychuk share the lead"
       },
       {
-         "description" : "Zhansaya Abdumalik (KAZ) and Mariya Muzychuk (UKR) went into the rest day of the Gibraltar leg of the FIDE Women's Grand Prix as the co-leaders. Zhansaya and Mariya drew their game to move to 4&frac12; out of 6, and are followed by Kateryna Lagno (RUS) on 4. FIDE Women's Grand Prix Gibraltar full information and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-and-mariya-muzychuk-leading-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 29 May 2021 09:55:31 +0000",
-         "title" : "Zhansaya Abdumalik and Mariya Muzychuk leading FIDE Women's Grand Prix"
-      },
-      {
          "description" : "Magnus Carlsen gave perhaps his shortest interview ever after Teimour Radjabov unleashed some deep opening preparation to level the scores on Day 1 of their FTX Crypto Cup semi-final. In the other encounter Ian Nepomniachtchi failed to exploit an incredible blunder by Wesley So in Game 3 before Game 4 became an ordeal that could have featured in Dante's Inferno. While Wesley was grinding out a win in a drawish ending, Nepo was trying and failing to fend off a swarm of mosquitoes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -784,14 +832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-nepomniachtchi-mosquitoes",
          "pubDate" : "Sat, 29 May 2021 00:25:00 -0700",
          "title" : "FTX Crypto Cup: So Leads As Nepomniachtchi Fights Mosquitoes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the ultimate chess beginner trap, the four-move Scholar&#039;s Mate. 2021.04.28<br /> C23 Bishop&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholars-mate-four-move-checkmate-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YezT87PSv6o.jpg?itok=DctkkzX1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/scholars-mate-four-move-checkmate-shorts",
-         "pubDate" : "Sat, 29 May 2021 00:58:47 +0000",
-         "title" : "Scholar's Mate: The Four-Move Checkmate! | #Shorts"
       },
       {
          "description" : " The 2021 ACT Chess Championship has moved from it's traditional Canberra Day long weekend (in March), to the Reconciliation Day long weekend (in May). On the one hand this has seen a big increase in entries (52 players), but on the other, a few of the stronger players have had to give it a miss due to university exams. With a large field, the chances of first round upsets was diminished, and in fact there were none in the first round. The top sees went 23-0, although Fred Litchfield had to work hard to overcome a determined James Minogue. Cam Cunningham was another who put up a good fight (against WFM Alana Chibnall), but his habitual time trouble once again caused problems. The results fro",
@@ -1376,14 +1416,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship/",
          "pubDate" : "Mon, 24 May 2021 11:55:35 +0000",
          "title" : "British Junior Rapid & Blitz Championship"
-      },
-      {
-         "description" : " The Gibraltar FIDE Women's Grand Prix takes place 22nd May to 2nd June 2021. This is the final Grand Prix in a much extended series due to the Coronavirus crisis. The previous events were: Skolkovo, September 10th - 23rd 2019; Monaco, December 2nd - 15th 2019 and Lausanne, March 1st - 14th 2020. Aleksandra Goryachkina has finished her participation in the series and is in first place in the over all standings in the series, in second is Humpy Koneru who should have played in Gibraltar but felt the <a href=\"https://sportstar.thehindu.com/chess/koneru-humpy-to-skip-fide-womens-grand-prix-gibraltar-leg/article33144572.ece\">risk of traveling to the event during the Coronavirus crisis was too mu",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-fide-womens-grand-prix-2021",
-         "pubDate" : "Mon, 24 May 2021 14:54:00 +0400",
-         "title" : "Gibraltar FIDE Women's Grand Prix 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "Albania wins first Online Chess Cup by Teams of Francophonie"
       },
       {
-         "description" : "Chess.com is excited to announce the upcoming CryptoChamps tournament&#38;nbsp;powered by Coinbase, an event featuring star personalities from the world of cryptocurrencies. The event will happen on June 12 and 13, starting at 10 a.m. Pacific/19:00 CE...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-cryptochamps-powered-by-coinbase",
-         "pubDate" : "Mon, 17 May 2021 12:59:00 -0700",
-         "title" : "Announcing Chess.com's CryptoChamps Powered By Coinbase"
-      },
-      {
          "description" : "The second edition of the MrDodgy Invitational was played on May 12-16 in the chess24 PlayZone. The event was a 16-player knockout, with each match consisting of 12 blitz games (5 minutes for the game, without increments). Top seed Anish Giri, who had won the first edition of the event, defeated Baadur Jobava in the final to get the first prize of $2,500 plus a picture of Dodgy on a horse.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2032,14 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-solve-chess-problems",
          "pubDate" : "Mon, 17 May 2021 13:43:00 +0100",
          "title" : "How to solve chess problems"
-      },
-      {
-         "description" : "The&#160;ECU Girls and Women's weekend&#160;took place Online, on 14th, 15th and 16th of May. The event was hosted by the German Chess Youth Association, and it gathered more than 800 participants. The event comprised a wide range of events, such as tournaments, simultaneous exhibitions with live commentaries, workshops and coaching sessions. The weekend was opened by ECU Vice&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-girls-and-womens-weekend-concluded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-girls-and-womens-weekend-concluded/",
-         "pubDate" : "Mon, 17 May 2021 10:39:24 +0000",
-         "title" : "European Girl's and Women's Weekend concluded"
       },
       {
          "description" : " is here. Click this link for the PDF ",
@@ -2304,30 +2320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1079",
          "pubDate" : "Wed, 12 May 2021 20:29:52 +0000",
          "title" : "\"Chess Behind Bars\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1078",
-         "pubDate" : "Wed, 12 May 2021 17:56:05 +0000",
-         "title" : "Montenegro Championship: Luka Draskovic wins his first national title"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at the Russian Team Championships, in which the 19-year Russian talent Andrey Esipenko showed a fine performance and played a number of impressive games. The focus will be on his win against M. Kobalia. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-a-esipenko-vs-m-kobalia",
-         "pubDate" : "Wed, 12 May 2021 18:00:00 +0100",
-         "title" : "Game of the Week: A. Esipenko vs M. Kobalia"
-      },
-      {
-         "description" : "60 years ago today, on 12 May 1961, the return World Championship match between Mihail Tal and Mikhail Botvinnik, which had started in Moscow on 15 March, came to an end. Tal had won the first match in 1960 with 12.5-8.5, but in the return match Botvinnik regained the world championship title and defeated Tal 13-8 (+10, -5, =6). But despite the clear result Botvinnik's victory still failed to convince.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/60-years-ago-botvinnik-wins-return-match-against-tal",
-         "pubDate" : "Wed, 12 May 2021 17:00:00 +0100",
-         "title" : "60 years ago: Botvinnik wins return match against Tal"
       }
    ]
 }
