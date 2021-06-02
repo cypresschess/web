@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/holy-cow-i-won-chicago-open-u2300-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 02 Jun 2021 01:02:56 +0000",
+         "title" : "Holy Cow! I Won the Chicago Open! (U2300) | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Carlsen & Nepomniachtchi to meet in Norway Chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess endgame class. 2021.06.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/return-akobian-insane-endgame-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_sqNpCRRoCY.jpg?itok=jbH5cYBk\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess endgame class. 2021.06.01<br /> Varuzhan Akobian vs. Luis Manuel Perez Rodriguez, 2021: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4287864\">https://www.365chess.com/game.php?back=1&amp;gid=4287864</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/return-akobian-insane-endgame-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/return-akobian-insane-endgame-gm-varuzhan-akobian",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/xiong-wins-may-25-titled-tuesday",
          "pubDate" : "Wed, 26 May 2021 09:55:00 -0700",
          "title" : "Xiong Wins May 25 Titled Tuesday"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour is a circuit of five tournaments, consisting of classical, rapid, and blitz time controls. Nine full tour players compete for a total prize fund of $1.275 million. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uGDDOuMVQzA.jpg?itok=dgP9_iM-\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-preview",
-         "pubDate" : "Wed, 26 May 2021 15:55:40 +0000",
-         "title" : "2021 Grand Chess Tour: Preview"
       },
       {
          "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-3",
          "pubDate" : "Wed, 12 May 2021 10:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Episode 3"
-      },
-      {
-         "description" : " Technical Decision Making in Chess : Boris Gelfand From the Publisher's Foreword: &#8220;In Technical Decision Making in Chess former World Championship Challenger Boris Gelfand discusses his path to decision making in endgames and positions where one side possesses a structural or material advantage. This investigation into a top Grandmaster's technical understanding will illuminate difficult parts <a href=\"http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Technical Decision Making in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/12/technical-decision-making-in-chess/",
-         "pubDate" : "Wed, 12 May 2021 00:10:58 +0000",
-         "title" : "Technical Decision Making in Chess"
       }
    ]
 }
