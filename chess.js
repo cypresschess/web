@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A draw with Mariya Muzychuk in the last round of the Gibraltar Women's Grand Prix was enough for Kateryna Lagno to secure a spot in the next edition of the Women's Candidates Tournament. The one scenario in which the Russian would have failed to qualify was not so far from happening, as Muzychuk did not go for the most trying continuation nearing the end of the game while Nana Dzagnidze had a superior position against Valentina Gunina at some point in their lengthy encounter. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r11",
+         "pubDate" : "Thu, 03 Jun 2021 14:00:00 +0100",
+         "title" : "Gibraltar GP: Lagno qualifies to the Candidates"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" /></a>Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms",
+         "pubDate" : "Thu, 03 Jun 2021 17:21:17 +0530",
+         "title" : "Vidit Gujrathi qualifies for chess World Cup"
+      },
+      {
          "description" : "Women's World Rapid Champion and Country's top women player Koneru Humpy qualified for the Women's Candidates 2022 after fourth and final leg of the Women's",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2336,14 +2352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-rise-of-hybrid-chess",
          "pubDate" : "Thu, 13 May 2021 14:00:00 +0100",
          "title" : "The Rise of Hybrid Chess"
-      },
-      {
-         "description" : " A number of years ago I read about a curious sequence of American Chess World Champions. The claim concerned Morphy, Capablanca and Fischer (with Capablanca being rebadged as an American for the purpose of the claim!). Each was born soon after the passing of the previous player, as though their chess talent was being passed along like the Dalai Lama. If this claim is accurate (and I am definitely not saying it is) the the next American World Champion was born soon after the passing of Bobby Fischer in 2008. Doing a little research is seems that the most likely candidate (at least at this stage) is IM Abhimanyu Mishra, who has just turned 12, and is currently aiming to become the youngest GM",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/the-next-american-world-champion.html",
-         "pubDate" : "Thu, 13 May 2021 12:42:00 +0000",
-         "title" : "The next American World Champion?"
       }
    ]
 }
