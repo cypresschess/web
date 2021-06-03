@@ -258,7 +258,7 @@ news_feed (
          "title" : "The easy rook ending"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Grand Chess Tour will feature two classical and three rapid &amp; blitz events, picking up after the cancellation of the 2020 season. Tour participants will compete for a total prize fund of $1.275 million, including $325,000 per classical tournament and $150,000 in prizes for rapid &amp; blitz events. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumb",
+         "description" : "<div class=\"body text-secondary\"> The dates for the first two events are in June. The 2021 Grand Chess Tour will feature two classical and three rapid &amp; blitz events, picking up after the cancellation of the 2020 season. Tour participants will compete for a total prize fund of $1.275 million, including $325,000 per classical tournament and $150,000 in prizes for rapid &amp; blitz events. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-promo\"><img src=\"https://saintlouische",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-promo",
