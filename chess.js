@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce the 2021 Junior Speed Chess Championship presented by ChessKid. Starting on June 7, the most talented chess prodigies on the planet will clash to claim their piece of the highest prize fund for this event to date: ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-2021-jscc",
+         "pubDate" : "Thu, 03 Jun 2021 16:07:41 -0700",
+         "title" : "Chess.com Announces The 2021 Junior Speed Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1124",
+         "pubDate" : "Thu, 03 Jun 2021 21:39:32 +0000",
+         "title" : "Iulija Osmak wins Qualifier IV"
+      },
+      {
          "description" : "The FIDE World Women's Team Championship 2021 will take place from September 26 to October 3 in the city of Sitges. This coastal town&#160;in Spain's Catalonia region hosted 8 editions of an important chess open &#8220;Sunway Sitges Chess&#8221;. Now, for the first time, Sitges will organize an official FIDE event. The event will feature 12 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1970,14 +1986,6 @@ news_feed (
          "title" : "Ahead of FIDE Women's Grand Prix Gibraltar: standings and full pairings"
       },
       {
-         "description" : "On Tuesday, GM Garry Kasparov interacted with fans via a Reddit AMA. The 13th world champion answered questions about his favorite topics such as A.I., Russian politics, and, of course, chess. A Reddit AMA (&#34;Ask Me Anything&#34;) is an interactive Q...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/garry-kasparov-reddit-ama",
-         "pubDate" : "Wed, 19 May 2021 02:04:00 -0700",
-         "title" : "Kasparov Interacts With Fans: Reddit AMA"
-      },
-      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2328,14 +2336,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2021/05/14/chess-crossword-puzzle-1/",
          "pubDate" : "Fri, 14 May 2021 00:00:00 +0000",
          "title" : "Chess Crossword Puzzle #1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1080",
-         "pubDate" : "Thu, 13 May 2021 21:34:16 +0000",
-         "title" : "Law Academy (Kharkiv) wins Ukrainian Team Championship"
       }
    ]
 }
