@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/surprise-cooking-show-fm-thalia-cervantes",
+         "pubDate" : "Thu, 03 Jun 2021 01:03:31 +0000",
+         "title" : "Surprise Cooking Show - FM Thalia Cervantes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani revisits Magnus Carlsen&#039;s Round 9 win over World Champion Viswanathan Anand in the 2013 World Championship match. The victory over Vishy put Carlsen at an insurmountable three points ahead. 2021.06.02<br /> Viswanathan Anand vs Magnus Carlsen, Anand - Carlsen World Championship Match (2013): E25 Nimzo-Indian, Saemisch variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1737896\">https://www.chessgames.com/perl/chessgame?gid=1737896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2013-world-chess-championship-final-blow-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 03 Jun 2021 01:03:31 +0000",
+         "title" : "2013 World Chess Championship: The Final Blow | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-love-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YxQA1IXpad4.jpg?itok=gzecLQHi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -450,14 +466,6 @@ news_feed (
          "title" : "Carlsen Wins FTX Crypto Cup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. The nine tour players are joined by one wildcard for 11 rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-round-1\"><img s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-1",
-         "pubDate" : "Mon, 31 May 2021 19:01:42 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 1"
-      },
-      {
          "description" : " Last year, World Chess and Match TV, the leading Russian sports TV channel, premiered \"Armageddon\", a chess competition designed specifically for broadcasting on live television. The tournament, filmed is a special pavilion, was different from typical chess events - it was visually engaging, lightning-fast, and featured novelties like heart beat metrics. The event was a prime-time hit. The series will resume next year, and we are happy to give you the insider view of the first time Vladimir Kramnik, one of the participants of the series, visited the playing arena. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3_mX7jIu_DU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-theoretical-draws-radjabov-van-foreest",
          "pubDate" : "Sun, 30 May 2021 23:57:00 -0700",
          "title" : "FTX Crypto Cup: Players Criticized For Playing Theoretical Draws"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows a position with all White pieces! How can it be? Work backwards and determine which pieces play for each team. 2021.04.28<br /> Composition by G. Husserl, 1966 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-detective-what-color-are-these-pieces-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7y8yDAeZAuE.jpg?itok=9Hnz01Eo\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-detective-what-color-are-these-pieces-shorts",
-         "pubDate" : "Mon, 31 May 2021 01:01:18 +0000",
-         "title" : "Chess Detective: What Color are these Pieces? | #Shorts"
       },
       {
          "description" : " From the publisher: &#8220;50% Tactics 50% Opening Book 100% Enjoyment! Enter the world of chess miniatures where games are decided in 20 moves or less! Marvelous Modern Miniatures features the largest collection of miniatures chess games played in the last half-century. Over 500 pages of cut and thrust! Although every player is rated <a href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Marvelous Modern Miniatures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\">Marvelous Modern Miniatures</a> appea",
