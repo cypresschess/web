@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Women's World Rapid Champion and Country's top women player Koneru Humpy qualified for the Women's Candidates 2022 after fourth and final leg of the Women's",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/koneru-humpy-qualifies-for-womens-candidates-2022/",
+         "pubDate" : "Thu, 03 Jun 2021 10:53:08 +0000",
+         "title" : "Koneru Humpy qualifies for women's Candidates 2022"
+      },
+      {
+         "description" : "When Ferdinand Maumo (10) walked inside the chess club in the slum of Makoko, his peers started making fun of him. Born with cerebral palsy, Ferdinand is a quiet boy whose condition and poor background deprived him of an education, friends and the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-cerebral-palsy-ferdinand-maumo-nigeria",
+         "pubDate" : "Thu, 03 Jun 2021 02:44:37 -0700",
+         "title" : "Nigerian Child with Cerebral Palsy Becomes Chess Superstar"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> adds a <a href=\"https://www.chess.com/article/view/winner-stays-all-the-information\">new format to feature its content creators</a>: The <strong>Winner Stays</strong> series that starts this Friday matches platform celebrities on three different levels, below 1400 rating, above 2400, and in between. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/more-celebrity-building-on-chesscom/",
+         "pubDate" : "Thu, 03 Jun 2021 10:17:00 +0100",
+         "title" : "More celebrity building on Chess.com"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1123",
+         "pubDate" : "Thu, 03 Jun 2021 09:15:55 +0000",
+         "title" : "Sitges will host the FIDE World Women's Team Championship 2021"
+      },
+      {
+         "description" : "Chess studies have brought pleasure to enthusiasts over the centuries. They show the depth of the game more dramatically than regular over-the-board encounters. They can be mind-bogglingly clever. But how do authors go about composing studies? Amatzia Avni is a Fide Master in both OTB play and composition. He describes the process of spotting an idea and refining it, step by step, together with a colleague, until you have a competition-worthy study.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/building-a-study",
+         "pubDate" : "Thu, 03 Jun 2021 10:05:22 +0100",
+         "title" : "Building a Study"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1122",
+         "pubDate" : "Thu, 03 Jun 2021 08:53:54 +0000",
+         "title" : "Queens' Festival: Registration date extended"
+      },
+      {
+         "description" : "21-year-old Zhansaya Abdumalik blew away the field to win the Gibraltar FIDE Women's Grand Prix with an unbeaten 8.5/11, finishing 1.5 points clear of Mariya Muzychuk in second place. The Kazakhstan star broke through the 2500 barrier to confirm her grandmaster title. The biggest winner, however, was arguably Kateryna Lagno, whose 4th place in three Grand Prix events proved enough for a spot in the 2022 Women's Candidates Tournament, where she'll be joined by Humpy Koneru, who racked up enough points in just two events.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/newly-minted-gm-abdumalik-crushes-in-gibraltar",
+         "pubDate" : "Thu, 03 Jun 2021 08:36:28 +0000",
+         "title" : "Newly-minted GM Abdumalik crushes in Gibraltar"
+      },
+      {
+         "description" : "IM Zhansaya Abdumalik played the tournament of her life in Gibraltar. The Kazakh chess player won the Women&#39;s Grand Prix with a round to spare, earned 15,000 euros, and became a full-fledged grandmaster in the process.&#38;nbsp; The other &#34;winners&#34; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdumalik-wins-gibraltar-women-fide-grand-prix",
+         "pubDate" : "Thu, 03 Jun 2021 01:30:00 -0700",
+         "title" : "Abdumalik Shines In Gibraltar; Lagno, Koneru Reach Candidates"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -872,14 +936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
          "pubDate" : "Fri, 28 May 2021 21:33:13 +0000",
          "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Grand Chess Tour</strong> that starts on 5 June in Bucharest is <a href=\"https://kasparovchess.com/grand-chess-tour\">exclusively broadcast</a> by <strong>Kasparovchess</strong>. <strong>Ding Liren</strong> <a href=\"https://grandchesstour.org/news-press-release/2021-grand-chess-tour-ready-kick-first-two-legs-bucharest-and-paris\">passed on his place</a> on the tour to <strong>Richard Rapport</strong>. After becoming the world championship challenger <strong>Ian Nepomniachtchi</strong> is also not a full tour player any more. He will probably play at least one event with a wildcard like Magnus Carlsen. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kasparovchess-broadcasts-grand-chess/",
-         "pubDate" : "Fri, 28 May 2021 18:40:39 +0100",
-         "title" : "Kasparovchess broadcasts Grand Chess Tour"
       },
       {
          "description" : " The first set of the semifinals of the FTX Crypto Chess tournament saw Wesley So take the lead against Ian Nepomniachtchi by winning the final game of a day after he seemed on the back foot for most of it. Magnus Carlsen took the lead against Teimour Radjabov by winning a fine game three only for Radjabov to strike back straight away in game four so that set ended up tied. Magnus Carlsen and Teimour Radjabov managed just one decisive game in two sets in the New in Chess Classic and today they started with two draws - Radjabov equalised pretty easily with black in game one and put a small amount of pressure out of the opening in game two before 23.Qc4 (maybe Re4 was better) h5! equalised for",
@@ -1770,14 +1826,6 @@ news_feed (
          "title" : "2021 Asian Continental Championship "
       },
       {
-         "description" : "The Banter Blitz Cup is back and now with a Spanish flavour as 64 players bring chess and chat to the table while fighting it out for a $17,000 prize pot. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/banter-blitz-cup-returns",
-         "pubDate" : "Thu, 20 May 2021 12:24:36 +0000",
-         "title" : "Banter Blitz Cup returns! Now with a golden Tour ticket at stake"
-      },
-      {
          "description" : "\"Ask me anything\" (AMA) is a \"Question & Answer\" format on the Reddit platform in which readers are invitid to ask a famous guest, well, anything. On 19 May, the Reddit readers asked Garry Kasparov about chess, Magnus Carlsen, Deep Blue, Artificial Intelligence, and much more. Kasparov's answer were open, frank, clear, and are a pleasure to read. | Photo: kasparov.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,22 +1960,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
          "pubDate" : "Wed, 19 May 2021 00:48:59 -0500",
          "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
-      },
-      {
-         "description" : "Known for inviting everyone to savor life with those who matter most, Stella Artois is partnering with GM Hikaru Nakamura and Chess.com to bring the chess community together to once more make history! On June 1 starting at 2 p.m. Pacific/23:00 Cen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bullet-chess-speedrun-presented-by-stella-artois",
-         "pubDate" : "Tue, 18 May 2021 13:49:00 -0700",
-         "title" : "Nakamura's Bullet Chess Speedrun Presented By Stella Artois"
-      },
-      {
-         "description" : "Chess.com users can now take their endgame skills to the next level using our new Endgames feature. Visit Chess.com/Endgames to learn and master all of the endgames you&#39;ll need to know to become an endgame virtuoso! Get Better At Endgames Now! ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-endgames-feature",
-         "pubDate" : "Tue, 18 May 2021 13:28:00 -0700",
-         "title" : "Chess.com Releases New Endgames Feature"
       },
       {
          "description" : "",
@@ -2312,14 +2344,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/the-next-american-world-champion.html",
          "pubDate" : "Thu, 13 May 2021 12:42:00 +0000",
          "title" : "The next American World Champion?"
-      },
-      {
-         "description" : "President of Uttaranchal Chess Association and former President of Delhi Chess Association Shri Dhiraj Raghuvanshi passed away today after battling against Covid-19 for the past",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/shri-dhiraj-raghuvanshi-took-his-last-breath/",
-         "pubDate" : "Thu, 13 May 2021 10:19:54 +0000",
-         "title" : "Shri Dhiraj Raghuvanshi took his last breath"
       }
    ]
 }
