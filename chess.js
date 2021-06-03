@@ -58,7 +58,7 @@ news_feed (
          "title" : "Abdusattorov Wins June 1 Titled Tuesday"
       },
       {
-         "description" : "The Webinar for FIDE International Organizers will take place from June 28 July 1. The event is organized by European Chess Union in cooperation with FIDE Events Commission and FIDE Women's Commission, co-funded by FIDE Development Fund. The event will be organized for 60 participants in total: 15 female participants from any European federation, supported by FIDE&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-organizers-webinar/\">Read More &#187;</a></span>",
+         "description" : "The Webinar for FIDE International Organizers will take place from June 28 July 1. The event is organized by European Chess Union in cooperation with FIDE Events Commission and FIDE Women's Commission, co-funded by FIDE Development Fund. The event will be organized for maximum 60 participants 15 female participants from any European federation, supported by FIDE Development&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-organizers-webinar/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/international-organizers-webinar/",
@@ -2320,14 +2320,6 @@ news_feed (
          "link" : "https://aicf.in/shri-dhiraj-raghuvanshi-took-his-last-breath/",
          "pubDate" : "Thu, 13 May 2021 10:19:54 +0000",
          "title" : "Shri Dhiraj Raghuvanshi took his last breath"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1480DB9C-1719-47E1-AA50-0D3BB6425D69.jpeg\" width=\"1800\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Front page of 2700chess</div> </div> 2700chess.com, an influential website that calculates and publishes chess players' live ratings, will publish live ratings from <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform. Ratings will be updated hourly and will include the top 100 players from the Arena. The step is important for the sport, because it recognizes the value of online chess, which especially grew during the pandemic. FIDE Online Arena accords online rati",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/top-players-from-fide-online-arena-included-in-2700chess-live-ra/",
-         "pubDate" : "Thu, 13 May 2021 06:25:22 +0000",
-         "title" : "Top Players from FIDE Online Arena Included in 2700Chess Live Ratings"
       }
    ]
 }
