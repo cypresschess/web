@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Women's Team Championship 2021 will take place from September 26 to October 3 in the city of Sitges. This coastal town&#160;in Spain's Catalonia region hosted 8 editions of an important chess open &#8220;Sunway Sitges Chess&#8221;. Now, for the first time, Sitges will organize an official FIDE event. The event will feature 12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-womens-team-championship-2021/",
+         "pubDate" : "Thu, 03 Jun 2021 20:20:53 +0000",
+         "title" : "FIDE World Women's Team Championship 2021"
+      },
+      {
+         "description" : "Zhansaya Abdumalik won the final leg of the FIDE Women's Grand Prix held in Gibraltar. Abdumalik had a final score of 8.5/11 points to be 1.5 points ahead of the runner-ups. Second in the tournament was Mariya Muzychuk on 7 points, with Kateryna Lagno sharing third with&#160;Gunay Mammadzada&#160;of Azerbaijan, who had a fine tournament. Cumulative []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-wins-fide-womens-grand-prix-gibraltar-with-a-round-to-spare/",
+         "pubDate" : "Thu, 03 Jun 2021 19:37:00 +0000",
+         "title" : "Abdumalik wins FIDE Women's Grand Prix Gibraltar; Koneru and Lagno qualify for Candidates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess class on a topic of his choice. 2021.06.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VE5au7xCQGM.jpg?itok=SvquG4JL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian",
+         "pubDate" : "Thu, 03 Jun 2021 19:04:07 +0000",
+         "title" : "World Cup Qualifier: Best of Akobian | Grandmaster's Choice - GM Varuzhan Akobian"
+      },
+      {
          "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates will be issued in due course. All the unsuccessful participants",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -162,6 +186,14 @@ news_feed (
          "title" : "2021 African Individual Chess Championship"
       },
       {
+         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021/",
+         "pubDate" : "Wed, 02 Jun 2021 18:25:00 +0000",
+         "title" : "Grand Chess Tour - Romania 2021"
+      },
+      {
          "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -242,14 +274,6 @@ news_feed (
          "title" : "Women's GP: Gibraltar - Live!"
       },
       {
-         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021/",
-         "pubDate" : "Wed, 02 Jun 2021 14:25:20 +0000",
-         "title" : "Grand Chess Tour - Romania 2021"
-      },
-      {
          "description" : " Rook endings are difficult to play, as even a pawn advantage isn't enough to secure the point. However I have seen both recently, and in the past, the easiest way to play them is when you have an extra rook! This was spotted in 2 games at my local club last night, and in one of my games from the 2004 Olympiad. Despite having to play a rook up for 30 moves, the highlight was after the finish when a passing IM congratulated me on converting a 'difficult rook ending'. To be fair, clearly they hadn't expected my opponent to play as many moves as they did. <br /> <b>Niyontegereje,Edison - Press,Shaun (2070) [C55]</b><br />Calvia ol (Men) Mallorca (Spain) (8.61), 23.10.2004 <script>new PgnViewer(",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shamsiddin-vokhidov-wins-asian-individual-hybrid-chess-championship-2021",
          "pubDate" : "Wed, 02 Jun 2021 11:00:41 +0100",
          "title" : "Shamsiddin Vokhidov wins Asian Individual Hybrid Chess Championship 2021"
-      },
-      {
-         "description" : "Zhansaya Abdumalik secured first place in the penultimate round of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 1 June after agreeing a very quick draw with Kateryna Lagno of Russia. The quick cessation of hostilities suited both players as Zhansaya wins the tournament while Kateryna will have it in her own []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-wins-fide-womens-grand-prix-gibraltar-with-a-round-to-spare/",
-         "pubDate" : "Wed, 02 Jun 2021 08:37:43 +0000",
-         "title" : "Zhansaya Abdumalik wins FIDE Women's Grand Prix Gibraltar with a round to spare"
       },
       {
          "description" : "On Tuesday, June 1, GM Hikaru Nakamura broke the world record of most victories against unique opponents in one hour in the 1|0 bullet time control. He accomplished this feat on Chess.com in the Bullet Chess Speedrun presented by Stella Artois. ...",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/",
          "pubDate" : "Tue, 01 Jun 2021 05:12:29 +0000",
          "title" : "European Individual Chess Championship 2021- official invitation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> May 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/may-2021-chess-puzzle-answer-key",
-         "pubDate" : "Tue, 01 Jun 2021 05:00:00 +0000",
-         "title" : "May 2021 Chess Puzzle Answer Key "
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83134369.cms\" /></a>Magnus Carlsen is the world's first bitcoin chess champion after overcoming Wesley So in a thrilling FTX Crypto Cup final. The Norwegian takes home the $60,000 first prize plus a 0.6 bitcoin bonus offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event.",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-posts-a-chess-problem/",
          "pubDate" : "Sun, 30 May 2021 10:19:46 +0000",
          "title" : "Rustam Kasimdzhanov Posts a Chess Problem"
-      },
-      {
-         "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/36-european-players-qualified-for-fide-world-chess-cup/",
-         "pubDate" : "Sun, 30 May 2021 08:01:15 +0000",
-         "title" : "36 European players qualified for FIDE World Chess Cup 2021"
       },
       {
          "description" : " Last week I showed you the first part of one of my online games, where we reached this rook ending after Black's (my) 25th move. All I have to do to win the game is play sensible moves. I'll skip through the next few without comment. They weren't perfect on either side but didn't change <a href=\"https://chessimprover.com/ruining-the-rook-ending/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ruining the Rook Ending\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ruining-the-rook-ending/\">Ruining the Rook Ending</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2336,22 +2336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1080",
          "pubDate" : "Thu, 13 May 2021 21:34:16 +0000",
          "title" : "Law Academy (Kharkiv) wins Ukrainian Team Championship"
-      },
-      {
-         "description" : " Sergey Karjakin's record for becoming the youngest grandmaster in history has lasted a long time - since 2002 - but it is looking like a very soft record these days. Rameshbabu Praggnanandhaa and Javokhir Sindarov came close to breaking it in 2018, and Dommaraju Gukesh came even closer in 2019, missing out on tying Karjakin's mark by just 17 days. (Karjakin's record was 12 years and exactly 7 months; Gukesh took 12 years, 7 months, and 17 days.) There are probably some other claimants who are threatening the record, but one player with an excellent shot is American youngster <a href=\"https://en.wikipedia.org/wiki/Abhimanyu_Mishra\">Abhimanyu Mishra</a>, who was born on February 5 of 2009 and",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/13/will-mishra-break-karjakins-record.html",
-         "pubDate" : "Thu, 13 May 2021 20:51:12 +0000",
-         "title" : "Will Mishra Break Karjakin's Record?"
-      },
-      {
-         "description" : " Should chess be an Olympic sport? A decade and a half or so ago I wrote at least one post ruminating over whether chess should be considered a sport at all, and concluded (I think) that it was at least very sport-like. (If one thinks that a sport must have an athletic component, chess isn't a sport; if it's not necessary, then it is.) Going further, if one thinks that Olympic sports ought to have some plausible connection with what the ancient Greeks and Romans did, then the idea that chess should be an Olympic sport is ludicrous - but then so is figure skating, rhythmic gymnastics, and curling. Regardless, FIDE hitched its wagon to the IOC going on two decades ago, and while FIDE's patheti",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/13/nepomniachtchi-cant-play-under-the-russian-flag.html",
-         "pubDate" : "Thu, 13 May 2021 20:31:20 +0000",
-         "title" : "Nepomniachtchi Can't Play Under the Russian Flag"
       }
    ]
 }
