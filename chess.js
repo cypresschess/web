@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " While not as well known as the London 1922 International Congress, the 1932 London Tournament was still quite an event. The event was won by Alekhine with 9/11, ahead of Flohr who finished a point behind. Sultan Kahn, Maroczy and Tartakower also played, and the tournament saw Vera Menchik* add more members to he 'club', beating G.A Thomas and William Winter. The second place finish by Flohr was part of a successful run early in his career that saw him touted as a possible World Championship contender. However he was not able to raise the stakes for such a challenge and by the end of the 1930's his cautious, positional style, saw him fall behind his contemporaries. Nonetheless, the following",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/london-1932.html",
+         "pubDate" : "Thu, 03 Jun 2021 13:02:00 +0000",
+         "title" : "London 1932"
+      },
+      {
          "description" : "A draw with Mariya Muzychuk in the last round of the Gibraltar Women's Grand Prix was enough for Kateryna Lagno to secure a spot in the next edition of the Women's Candidates Tournament. The one scenario in which the Russian would have failed to qualify was not so far from happening, as Muzychuk did not go for the most trying continuation nearing the end of the game while Nana Dzagnidze had a superior position against Valentina Gunina at some point in their lengthy encounter. | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r11",
          "pubDate" : "Thu, 03 Jun 2021 14:00:00 +0100",
          "title" : "Gibraltar GP: Lagno qualifies to the Candidates"
+      },
+      {
+         "description" : "The African Continental Women Champion&#160;Jesse Nikki February&#160;will be the guest in FM Calvin Klaasen's show \"Reflections\" this&#160;Thursday at 19:00 CEST.&#160;Follow it live here. FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-interview-with-african-champion-jesse-niki-february-thursday-at-1900-cest/",
+         "pubDate" : "Thu, 03 Jun 2021 12:01:00 +0000",
+         "title" : "FM Calvin Klaasen - live interview with African Champion Jesse Niki February, Thursday at 19:00 CEST"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" /></a>Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
@@ -30,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-cerebral-palsy-ferdinand-maumo-nigeria",
-         "pubDate" : "Thu, 03 Jun 2021 02:44:37 -0700",
-         "title" : "Nigerian Child with Cerebral Palsy Becomes Chess Superstar"
+         "pubDate" : "Thu, 03 Jun 2021 02:44:00 -0700",
+         "title" : "Nigerian Child With Cerebral Palsy Becomes Chess Superstar"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> adds a <a href=\"https://www.chess.com/article/view/winner-stays-all-the-information\">new format to feature its content creators</a>: The <strong>Winner Stays</strong> series that starts this Friday matches platform celebrities on three different levels, below 1400 rating, above 2400, and in between. </div> ",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/abdumalik-wins-gibraltar-women-fide-grand-prix",
          "pubDate" : "Thu, 03 Jun 2021 01:30:00 -0700",
          "title" : "Abdumalik Shines In Gibraltar; Lagno, Koneru Reach Candidates"
+      },
+      {
+         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 5th (Round 1) - 14th (Round 9), 2021. This classical event marks resumption of the tour which was cancelled last year. Earlier I'd completely failed to notice that this was a classical rather than a rapid and blitz as it was in 2019. Following straight on from this event (June 18th) there really will be a rapid and blitz event, in Paris. After that there is the Croatia Rapid & Blitz (5th July). St Louis will host both their own rapid and blitz tournaments (Aug 11th) and the classical Sinquefield Cup (Aug 17th) to finish off the tour. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
+         "pubDate" : "Thu, 3 Jun 2021 10:04:00 +0400",
+         "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
@@ -282,14 +306,6 @@ news_feed (
          "title" : "Beating GM Perez at World Cup Qualifier | Insane in the Endgame - GM Varuzhan Akobian"
       },
       {
-         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 5th (Round 1) - 14th (Round 9), 2021. This classical event marks resumption of the tour which was cancelled last year. Earlier I'd completely failed to notice that this was a classical rather than a rapid and blitz as it was in 2019. Following straight on from this event (June 18th) there really will be a rapid and blitz event, in Paris. After that there is the Croatia Rapid & Blitz (5th July). St Louis will host both their own rapid and blitz tournaments (Aug 11th) and the classical Sinquefield Cup (Aug 17th) to finish off the tour. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
-         "pubDate" : "Wed, 2 Jun 2021 10:04:00 +0400",
-         "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
          "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
-      },
-      {
-         "description" : "The African Continental Women Champion Jesse Nikki February will be the guest in FM Calvin Klaasen's show \"Reflections\" this Thursday at 19:00 CEST. Follow it live here. FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-interview-with-african-champion-jesse-niki-february-thursday-at-1900-cest/",
-         "pubDate" : "Tue, 01 Jun 2021 12:01:00 +0000",
-         "title" : "FM Calvin Klaasen - live interview with African Champion Jesse Niki February, Thursday at 19:00 CEST"
       },
       {
          "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
@@ -2336,22 +2344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-developments-in-the-centre-game-1-e4-e5-2-d4-exd4-3-qxd4",
          "pubDate" : "Thu, 13 May 2021 19:47:15 +0100",
          "title" : "Robert Ris' Fast and Furious: New developments in the Centre Game (1.e4 e5 2.d4!? exd4 3.Qxd4)"
-      },
-      {
-         "description" : " World Chess, the company behind the game-changing rise in the popularity of chess and the organizer of the recent Chess Championship Matches in New York and London, launches a chess-focused sports marketing agency. It's the world's first sports agency focused exclusively on chess. The agency, Chess and Company, represents top chess talent and events, and aims to help brands across transport, technology, retail, hospitality and luxury sectors, to connect with chess in a way that has a long-lasting effect on the sport and to bring 600 million chess players closer to the brands' offerings. The services are delivered by the team that was responsible for staging the most successful events and ac",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/first-ever-chess-focused-sports-agency-launched/",
-         "pubDate" : "Thu, 13 May 2021 13:51:19 +0000",
-         "title" : "First Ever Chess-Focused Sports Agency Launched"
-      },
-      {
-         "description" : "Online chess overseen by arbiters not only helps preventing cheating, but also offers opportunities to play against distant opponents and teams in an environmentally sustainable way. The Mitropacup and the upcoming World Cup qualification rounds are the first major hybrid tournaments. However, according to Stefan L&ouml;ffler, hybrid chess still requires further field testing. | Photo: Christoph Menezes (Photos: Stefan L&ouml;ffler / Bernhard Riess)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rise-of-hybrid-chess",
-         "pubDate" : "Thu, 13 May 2021 14:00:00 +0100",
-         "title" : "The Rise of Hybrid Chess"
       }
    ]
 }
