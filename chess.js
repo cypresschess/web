@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates will be issued in due course. All the unsuccessful participants",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-chess-in-school-trainers-training-results/",
+         "pubDate" : "Thu, 03 Jun 2021 17:36:18 +0000",
+         "title" : "AICF Chess in School Trainers Training Results"
+      },
+      {
+         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at the old main line (Be2 & Be3) of the Sicilian Taimanov, which often leads to fascinating games full of fun and tactical blows. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attack-and-counterattack-in-the-sicilian-taimanov",
+         "pubDate" : "Thu, 03 Jun 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Attack and counterattack in the Sicilian Taimanov"
+      },
+      {
          "description" : " While not as well known as the London 1922 International Congress, the 1932 London Tournament was still quite an event. The event was won by Alekhine with 9/11, ahead of Flohr who finished a point behind. Sultan Kahn, Maroczy and Tartakower also played, and the tournament saw Vera Menchik* add more members to he 'club', beating G.A Thomas and William Winter. The second place finish by Flohr was part of a successful run early in his career that saw him touted as a possible World Championship contender. However he was not able to raise the stakes for such a challenge and by the end of the 1930's his cautious, positional style, saw him fall behind his contemporaries. Nonetheless, the following",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -183,7 +199,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-v-keymer-vs-l-laznicka",
          "pubDate" : "Wed, 02 Jun 2021 18:00:00 +0100",
-         "title" : "Game of the Week: V. Keymer vs L. Laznicka"
+         "title" : "Game of the Week: V. Keymer vs V. Laznicka"
       },
       {
          "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
@@ -2336,14 +2352,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/13/nepomniachtchi-cant-play-under-the-russian-flag.html",
          "pubDate" : "Thu, 13 May 2021 20:31:20 +0000",
          "title" : "Nepomniachtchi Can't Play Under the Russian Flag"
-      },
-      {
-         "description" : "In this week's show, well-known Dutch trainer Robert Ris presents a number of ideas how White can get good attacking chances with the Centre Game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-developments-in-the-centre-game-1-e4-e5-2-d4-exd4-3-qxd4",
-         "pubDate" : "Thu, 13 May 2021 19:47:15 +0100",
-         "title" : "Robert Ris' Fast and Furious: New developments in the Centre Game (1.e4 e5 2.d4!? exd4 3.Qxd4)"
       }
    ]
 }
