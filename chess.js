@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. List of participants: Fabiano Caruana Levon Aronian Anish Giri []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021-live/",
+         "pubDate" : "Fri, 04 Jun 2021 20:08:15 +0000",
+         "title" : "Grand Chess Tour - Romania 2021 LIVE"
+      },
+      {
          "description" : "The final of the FTX Crypto Cup, which ended on Monday, could hardly have been more exciting, as Magnus Carlsen and Wesley So fought a thrilling duel that Carlsen only won with a victory in the eleventh and final encounter, the Armageddon game. The stakes were high for both sides and Carlsen and So made a few more or less serious mistakes and allowed themselves some unpleasantly short draws, but all in all the level of the match was still high. Daniel King took a closer look at the \"best game\" of the final. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,20 +298,20 @@ news_feed (
          "title" : "2021 African Individual Chess Championship"
       },
       {
+         "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gulnar-mammadova-wins-azerbaijan-womens-chess-championship-2021/",
+         "pubDate" : "Wed, 02 Jun 2021 18:27:00 +0000",
+         "title" : "Gulnar Mammadova wins Azerbaijan Women's Chess Championship 2021"
+      },
+      {
          "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021/",
          "pubDate" : "Wed, 02 Jun 2021 18:25:00 +0000",
          "title" : "Grand Chess Tour - Romania 2021"
-      },
-      {
-         "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gulnar-mammadova-wins-azerbaijan-womens-chess-championship-2021/",
-         "pubDate" : "Wed, 02 Jun 2021 18:12:35 +0000",
-         "title" : "Gulnar Mammadova wins Azerbaijan Women's Chess Championship 2021"
       },
       {
          "description" : "GM Nodirbek Abdusattorov, the 16-year-old rising star from Uzbekistan, won Titled Tuesday on June 1 with a score of 10/11 after defeating GM Hikaru Nakamura in the final round. Nakamura finished in second place on tiebreaks with a score of 9.5/11,...",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
          "pubDate" : "Sun, 30 May 2021 15:24:00 +0000",
          "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar - R9 report"
-      },
-      {
-         "description" : "Wesley So stretched his incredible unbeaten run to 29 games as he set up a blockbuster FTX Crypto Cup&#160;finale against&#160;Magnus Carlsen. The two pacesetters in this season's $1.5 million&#160;Meltwater Champions Chess Tour, both eased into the final with smooth semifinal wins. FTX Chess Cup Final Wesley so against Magnus Carlsen LIVE The FTX []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-chess-cup-final-so-against-carlsen/",
-         "pubDate" : "Sun, 30 May 2021 15:22:51 +0000",
-         "title" : "FTX Chess Cup Finals Day 2 - So against Carlsen"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83089692.cms\" /></a> India's R Vaishali on Sunday won the women's Speed chess online championship qualifier 2, beating Polina Shuvalova of Russia in the final. The 20-year-old from Chennai, a woman Grandmaster, became the second Indian to qualify for the main event of the 2021 women's Speed Chess Championship.",
