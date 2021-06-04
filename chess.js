@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In December, on the 14th to be specific, Dutch grandmaster Jan Timman turns seventy. He was one of the world's leading players from the late 1970s to the early 1990s. He is also a prolific study composer. So it is appropriate that a Study Composition Tourney is being staged in his honour. Awards will be distributed on his birthday. For this announcement Jan has selected five of his favourite studies, composed by him, for you to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timman-70-composition-tourney",
+         "pubDate" : "Fri, 04 Jun 2021 08:43:25 +0100",
+         "title" : "\"Timman-70\" Composition Tourney"
+      },
+      {
+         "description" : " The world No 1 atoned for two final losses against So as complaints over quickly halved Champions Tour games are growing Magnus Carlsen's uneven progress through the online Meltwater Champions Tour, two tournament victories in six attempts, still leaves the world champion in pole position for the 10-player Tour final over the board at San Francisco in September. There have been suggestions that the 30-year-old has lacked focus at times, and he admitted to feeling unwell on the penultimate day of last weekend's FTX Crypto Cup, but the Norwegian still wins his share of impressive games. His hard-fought <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-ftx-c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-third-attempt-champions-tour-amid-copycat-draws-gripes-chess",
+         "pubDate" : "Fri, 04 Jun 2021 07:00:32 +0000",
+         "title" : "Magnus Carlsen beats Wesley So at third attempt amid copycat draw gripes"
+      },
+      {
          "description" : "Chess.com is excited to announce the 2021 Junior Speed Chess Championship presented by ChessKid. Starting on June 7, the most talented chess prodigies on the planet will clash to claim their piece of the highest prize fund for this event to date: ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
