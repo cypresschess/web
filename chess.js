@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss a lot of studies, and Lawrence does an impressive job trying to solve them. They also analyse a game from the Grand-Prix, and talk about the Isle of Man tournament, and the rather controversial idea to set candidate spots for the tournament winners.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-9",
+         "pubDate" : "Fri, 04 Jun 2021 16:58:17 +0100",
+         "title" : "The ChessBase News Review (28.05. - 04.06)"
+      },
+      {
+         "description" : "The Global Women's Online Chess Challenge \"The Queens' Festival\", a series of continental and global women's online chess tournaments and educative side events, starts on June 11, 2021. Female players from Africa, Asia, Europe and the Americas will first be able to participate in the Continental Online Blitz Qualification Tournaments and those who qualify will advance to the Queens' Online Individual and Team Finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-extends-the-registration-date-of-the-queens-festival",
+         "pubDate" : "Fri, 04 Jun 2021 15:00:00 +0100",
+         "title" : "FIDE extends the registration date of the Queens' Festival"
+      },
+      {
+         "description" : " Last week, we looked at the transition between the opening and middle game. This week, we'll introduce the meat and potatoes of the middle-game, tactics. Actually, we will spend the next few weeks going over tactics because there's a lot to it! Before jumping into the world of tactics, we'll talk about two fundamental skills <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-one/\">A Foundation for Beginners Twenty One</a> appeared first on <a rel=\"nofollow\" h",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-one/",
+         "pubDate" : "Fri, 04 Jun 2021 13:39:18 +0000",
+         "title" : "A Foundation for Beginners Twenty One"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83235225.cms\" /></a>World no. 3 Koneru Humpy, who qualified for the women's Candidates on Wednesday, has decided to not feature in the women's World Cup scheduled to be held next month in Sochi, Russia. \"I have decided not to play in the World Cup. I didn't feel comfortable as they will be having the same venue for around 300 odd players (men and women together),\" Humpy told TOI on Friday. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms",
+         "pubDate" : "Fri, 04 Jun 2021 18:32:44 +0530",
+         "title" : "Koneru Humpy to skip women's Chess World Cup"
+      },
+      {
          "description" : "The ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, the Magnus Carlsen Invitational and the Opera Euro Rapid, 547 games, 3 opening videos, 12 opening surveys, demo, lectures and exercises for training. It also includes games annotated by Anish Giri, Wesley So and Jan-Krzysztof Duda to mention a few. Prof. Nagesh Havanur takes a look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-magazine-201-carlsen-under-pressure-a-review-by-nagesh-havanur",
          "pubDate" : "Fri, 04 Jun 2021 13:25:26 +0100",
          "title" : "ChessBase Magazine #201: Carlsen under pressure - A review by Nagesh Havanur"
+      },
+      {
+         "description" : "After the Grand Chess Tour was canceled altogether in 2020 due to the coronavirus pandemic, it returns in 2021. The first tournament is the Superbet Chess Classic starting on Saturday. This standard (classical) tournament is the first top event ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-grand-chess-tour-superbet-chess-classic",
+         "pubDate" : "Fri, 04 Jun 2021 05:24:00 -0700",
+         "title" : "Grand Chess Tour Returns With Superbet Chess Classic"
       },
       {
          "description" : "",
@@ -1754,14 +1794,6 @@ news_feed (
          "title" : "ChessBase Magazine 200"
       },
       {
-         "description" : "Marc'Andria Maurizzi has become a grandmaster at the age of 14 years and 5 days, beating Etienne Bacrot's record as the youngest ever French Grandmaster that was set 24 years ago in 1997. The Corsican's 3rd and final GM norm at the 2nd Chartres GM tournament took him ahead of Teimour Radjabov to become the 13th youngest grandmaster in history. Sergey Karjakin holds the all-time record at 12 years and 7 months, though US prodigy Abhimanyu Mishra is pushing to break that record this year.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/marc-andria-maurizzi-is-youngest-ever-french-gm",
-         "pubDate" : "Sat, 22 May 2021 09:15:05 +0000",
-         "title" : "Marc'Andria Maurizzi is youngest ever French GM"
-      },
-      {
          "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Then there was the Spassky vs Fischer clash from 1972, which reflected the extreme tensions of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1938,14 +1970,6 @@ news_feed (
          "title" : "Attention FIDE World Cup participants"
       },
       {
-         "description" : "GM Levan Pantsulaia won the May 18 Titled Tuesday tournament with a score of 9.5/11. Five players finished on that score but Pantsulaia held the advantage on tiebreaks for his first-ever Titled Tuesday victory. GM Vladislav Artemiev (last week&#39;s w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pantsulaia-wins-may-18-titled-tuesday",
-         "pubDate" : "Wed, 19 May 2021 10:42:00 -0700",
-         "title" : "Pantsulaia Wins May 18 Titled Tuesday"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/rooting-for-magnus-against-nepo-anand/articleshow/82777057.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82777057.cms\" /></a>The world chess championship final between Magnus Carlsen and Ian Nepomniachtchi may be over 6 months away, but former world champion Viswanathan Anand is clear about who his pick will be.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2096,14 +2120,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/sccu-online-junior-jamboree-2021/",
          "pubDate" : "Tue, 18 May 2021 09:33:16 +0000",
          "title" : "SCCU Online Junior Jamboree 2021"
-      },
-      {
-         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu Playing correspondence chess with the help of engines is hard. It gets harder and harder as the engines improve. You can ask what is the pleasure of getting into it? <a href=\"https://chessimprover.com/planning-for-victory-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-2/\">Planning for Victory (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/planning-for-victory-2/",
-         "pubDate" : "Tue, 18 May 2021 09:00:56 +0000",
-         "title" : "Planning for Victory (2)"
       },
       {
          "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
@@ -2328,22 +2344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-with-3-bc4",
          "pubDate" : "Fri, 14 May 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit with 3.Bc4"
-      },
-      {
-         "description" : "In today's tenth round Yu Yangyi won against his main rival Wei Yi and now leads the Open Chinese Championship by one point before the final round. In the Women's Tournament Tan Zhongyi (pictured) secured the title though there is still one round to play. | Photo: Gu Xiaobang",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-championship-yu-leads-tan-wins",
-         "pubDate" : "Fri, 14 May 2021 15:00:00 +0100",
-         "title" : "Chinese Championship: Yu leads, Tan wins"
-      },
-      {
-         "description" : " Abhimanyu Mishra poised to break Sergey Karjakin's mark of 12 years seven months despite going six months without playing in a tournament due to Covid-19 One of the most enduring chess records, Sergey Karjakin as the youngest grandmaster ever at 12 years and seven months, looks set to fall in the next few weeks. Abhimanyu Mishra, from New Jersey, US, is already the youngest ever international master, at 10, and has just achieved two of the three required GM norms for the higher title. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/apr/30/garry-kasparov-interview-chess-vladimir-putin-russia\">Garry Kasparov: 'Why become a martyr? I can do much more outside Russia'</a> <",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster",
-         "pubDate" : "Fri, 14 May 2021 12:22:11 +0000",
-         "title" : "Chess: American 12-year-old closes in on world record for youngest grandmaster"
       }
    ]
 }
