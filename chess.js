@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, the Magnus Carlsen Invitational and the Opera Euro Rapid, 547 games, 3 opening videos, 12 opening surveys, demo, lectures and exercises for training. It also includes games annotated by Anish Giri, Wesley So and Jan-Krzysztof Duda to mention a few. Prof. Nagesh Havanur takes a look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-201-carlsen-under-pressure-a-review-by-nagesh-havanur",
+         "pubDate" : "Fri, 04 Jun 2021 13:25:26 +0100",
+         "title" : "ChessBase Magazine #201: Carlsen under pressure - A review by Nagesh Havanur"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1120",
+         "pubDate" : "Fri, 04 Jun 2021 09:30:16 +0000",
+         "title" : "FIDE and Tech Mahindra announce landmark partnership marking a key milestone in the creation of the Global Chess League"
+      },
+      {
          "description" : "In December, on the 14th to be specific, Dutch grandmaster Jan Timman turns seventy. He was one of the world's leading players from the late 1970s to the early 1990s. He is also a prolific study composer. So it is appropriate that a Study Composition Tourney is being staged in his honour. Awards will be distributed on his birthday. For this announcement Jan has selected five of his favourite studies, composed by him, for you to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -407,7 +423,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-winner-stays",
          "pubDate" : "Tue, 01 Jun 2021 13:33:00 -0700",
-         "title" : "Tomorrow: Winner Stays"
+         "title" : "Today: Winner Stays"
       },
       {
          "description" : "Magnus Carlsen and Ian Nepomniachtchi will meet in the 9th edition of Norway Chess just two months before they begin their World Championship match in Dubai. Norway Chess, which was originally planned to return to a 10-player format in May 2021, will now be a 6-player double round-robin, with Alireza Firouzja, Richard Rapport, Sergey Karjakin and Aryan Tari completing the line-up. The plan is once again to have fast classical games followed, if the game ends in a draw, by Armageddon.",
@@ -1722,10 +1738,10 @@ news_feed (
          "title" : "Women's World Championship Cycle Resumes In Gibraltar"
       },
       {
-         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis-2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis2",
+         "link" : "https://nextlevelchess.blog/game-analysis-2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis-2",
          "pubDate" : "Sat, 22 May 2021 10:46:00 +0000",
          "title" : "How To Analyse Your Own Games: Part 2"
       },
@@ -2328,22 +2344,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster",
          "pubDate" : "Fri, 14 May 2021 12:22:11 +0000",
          "title" : "Chess: American 12-year-old closes in on world record for youngest grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1081",
-         "pubDate" : "Fri, 14 May 2021 11:16:26 +0000",
-         "title" : "Tashkent hosts Online Seminar for International Organizers"
-      },
-      {
-         "description" : "Due to the pandemic, the Mitropa Cup 2021 was played as a \"Hybrid Tournament\" - the teams met at a central venue in their own countries from where they played online against the other teams, supervised by an arbiter. The Italian teams coped best with this still unusual form of tournament chess: they won gold in the Open Tournament and in the Women's Tournament. | Picture: Italian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-double-success-for-italy",
-         "pubDate" : "Fri, 14 May 2021 12:01:01 +0100",
-         "title" : "Mitropa Cup: Double success for Italy"
       }
    ]
 }
