@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final of the FTX Crypto Cup, which ended on Monday, could hardly have been more exciting, as Magnus Carlsen and Wesley So fought a thrilling duel that Carlsen only won with a victory in the eleventh and final encounter, the Armageddon game. The stakes were high for both sides and Carlsen and So made a few more or less serious mistakes and allowed themselves some unpleasantly short draws, but all in all the level of the match was still high. Daniel King took a closer look at the \"best game\" of the final. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-carlsen-vs-so-the-best-game-of-the-ftx-crypto-cup-final",
+         "pubDate" : "Fri, 04 Jun 2021 18:00:00 +0100",
+         "title" : "Daniel King: Carlsen vs So - The best game of the FTX Crypto Cup final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Watch from June 5-14! GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-preview",
+         "pubDate" : "Fri, 04 Jun 2021 16:04:34 +0000",
+         "title" : "2021 Superbet Chess Classic: Preview"
+      },
+      {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss a lot of studies, and Lawrence does an impressive job trying to solve them. They also analyse a game from the Grand-Prix, and talk about the Isle of Man tournament, and the rather controversial idea to set candidate spots for the tournament winners.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-nepomniachtchi-to-meet-in-norway-chess",
          "pubDate" : "Tue, 01 Jun 2021 20:30:26 +0000",
          "title" : "Carlsen & Nepomniachtchi to meet in Norway Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess endgame class. 2021.06.01<br /> Varuzhan Akobian vs. Luis Manuel Perez Rodriguez, 2021: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4287864\">https://www.365chess.com/game.php?back=1&amp;gid=4287864</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/return-akobian-insane-endgame-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/return-akobian-insane-endgame-gm-varuzhan-akobian",
-         "pubDate" : "Tue, 01 Jun 2021 19:02:34 +0000",
-         "title" : "The Return of Akobian! | Insane in the Endgame - GM Varuzhan Akobian"
       },
       {
          "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
@@ -2328,22 +2336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dirty-tricks-documentary-bridge-cheating-scandal",
          "pubDate" : "Fri, 14 May 2021 22:00:00 +0100",
          "title" : "Dirty Tricks: documenting an elite-level cheating scandal"
-      },
-      {
-         "description" : "On 17 May, 19:00 CEST (13:00 ET, 17:00 UTC) our Fritztrainers will compete against each other in a theme tournament with randomly picked Fritztrainer openings. Daniel King and Arne Kaehler will accompany them LIVE on Twitch.tv through the evening. Will the two Dutch IMs be able to hold their own against the Grandmasters from Uzbekistan and Romania? Which of the chosen Fritztrainer openings will perform best? Six different openings will be played, from the Benoni to the Traxler Counterattack.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-tournament-with-kazimdzhanov-van-delft-ris-and-marin",
-         "pubDate" : "Fri, 14 May 2021 17:11:43 +0100",
-         "title" : "Live Tournament with Kasimdzhanov, van Delft, Ris and Marin"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at the Bishop's Gambit, 1.e4 e5 2.f4 exf4 3.Bc4, an interesting and surprisingly tricky way to play the King's Gambit. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-with-3-bc4",
-         "pubDate" : "Fri, 14 May 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The King's Gambit with 3.Bc4"
       }
    ]
 }
