@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1125",
+         "pubDate" : "Fri, 04 Jun 2021 22:41:55 +0000",
+         "title" : "Nana Dzagnidze wins Qualifier V"
+      },
+      {
+         "description" : "The European Qualifier to the World Cup was played as a hybrid tournament last week, with participants playing from approved venues monitored by foreign arbiters. A total of 36 players obtained spots in the World Cup, scheduled to take place from July 10 to August 6 in Sochi. Highlights from the massive event include a 14-year-old girl knocking out an experienced grandmaster, and a young Slovak player offering a draw after Boris Gelfand hung his queen due to a mouse slip. | Pictured: GM Jergus Pechac",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-hybrid-world-cup-qualifier-highlights-2021",
+         "pubDate" : "Fri, 04 Jun 2021 23:15:00 +0100",
+         "title" : "Highlights from the European Hybrid World Cup Qualifier"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is the second leg of the 2021 Tour. Nine rapid rounds, 18 blitz rounds, live from Gobelins Manufactory. Join a commentary team TBA for the move-by-move. 2021.06.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-grand-chess-tour-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Cn1k2ZxqXoc.jpg?itok=1LeuXAcq\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-1",
+         "pubDate" : "Fri, 04 Jun 2021 22:04:52 +0000",
+         "title" : "2021 Paris Grand Chess Tour: Day 1"
+      },
+      {
          "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. List of participants: Fabiano Caruana Levon Aronian Anish Giri []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -130,7 +154,7 @@ news_feed (
          "title" : "Abdumalik wins FIDE Women's Grand Prix Gibraltar; Koneru and Lagno qualify for Candidates"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian teaches a chess class on a topic of his choice. 2021.06.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VE5au7xCQGM.jpg?itok=SvquG4JL\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows two of his games from the American Hybrid World Cup Qualifier, an online event. See Akobian win his third semifinal game, and see how his second game from the final match against Leandro Krysa slipped through his fingers. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/holy-cow-i-won-chicago-open-u2300-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 02 Jun 2021 04:02:53 +0000",
          "title" : "Holy Cow! I Won the Chicago Open! (U2300) | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/holy-cow-i-won-chicago-open-u2300-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 02 Jun 2021 01:02:56 +0000",
-         "title" : "Holy Cow! I Won the Chicago Open! (U2300) | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "",
@@ -2328,14 +2344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/energetic",
          "pubDate" : "Sat, 15 May 2021 09:00:00 +0100",
          "title" : "Energetic"
-      },
-      {
-         "description" : "Chess and bridge are the only 'mind sports' recognized by the International Olympic Committee. The two highly popularized games also share that cheating has become a growing preoccupation for fans and organizers alike. In a recently released documentary, Israeli filmmaker Daniel Sivan tells the story of a cheating scandal which involved Lotan Fisher, the strongest bridge player in the world. | Pictured: Lotan Fisher and Ron Schwartz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dirty-tricks-documentary-bridge-cheating-scandal",
-         "pubDate" : "Fri, 14 May 2021 22:00:00 +0100",
-         "title" : "Dirty Tricks: documenting an elite-level cheating scandal"
       }
    ]
 }
