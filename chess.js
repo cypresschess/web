@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-announces-2021-jscc",
-         "pubDate" : "Thu, 03 Jun 2021 16:07:41 -0700",
+         "pubDate" : "Thu, 03 Jun 2021 16:07:00 -0700",
          "title" : "Chess.com Announces The 2021 Junior Speed Chess Championship"
       },
       {
@@ -391,7 +391,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-winner-stays",
          "pubDate" : "Tue, 01 Jun 2021 13:33:00 -0700",
-         "title" : "Announcing Winner Stays"
+         "title" : "Tomorrow: Winner Stays"
       },
       {
          "description" : "Magnus Carlsen and Ian Nepomniachtchi will meet in the 9th edition of Norway Chess just two months before they begin their World Championship match in Dubai. Norway Chess, which was originally planned to return to a 10-player format in May 2021, will now be a 6-player double round-robin, with Alireza Firouzja, Richard Rapport, Sergey Karjakin and Aryan Tari completing the line-up. The plan is once again to have fast classical games followed, if the game ends in a draw, by Armageddon.",
@@ -2328,14 +2328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mitropa-cup-double-success-for-italy",
          "pubDate" : "Fri, 14 May 2021 12:01:01 +0100",
          "title" : "Mitropa Cup: Double success for Italy"
-      },
-      {
-         "description" : "ACROSS 2: A great player who had a large number of tournament and match withdrawals highlighed especially by being on the wrong end of a Steinitz brilliancy, Hastings 1895. 4: Several times a candidate for the world chess championship, in 1970 he ceded his candidate position to Bobby Fischer. 6: A bad move which is usually a decisive error. 9: For more than 20 years he was one of the top six players in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2021/05/14/chess-crossword-puzzle-1/",
-         "pubDate" : "Fri, 14 May 2021 00:00:00 +0000",
-         "title" : "Chess Crossword Puzzle #1"
       }
    ]
 }
