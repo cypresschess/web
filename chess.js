@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2021 African Continental Championship was held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
+         "description" : " After a break last year, the ACT Junior Chess League interschool series is up and running for 2021. Term 1 saw one of Girl's zones held, while the open Primary School zones are about to commence for term 2. The North Canberra/ Gungahalin zone is running this Tuesday, and it looks like around 100 players will take part. Over the following weeks 2 other zones are being held, while Term 3 will see the Secondary events taking place. One thing that is slightly concerning is that not all the event information is getting passed on to the school's chess player. So if you are a junior player in Canberra, and you haven't heard about the upcoming events, head over to <a href=\"https://actjcl.org.au/act",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/act-interschool-2021.html",
+         "pubDate" : "Sat, 05 Jun 2021 13:20:00 +0000",
+         "title" : "ACT Interschool 2021"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Sat, 05 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Streamer Ludwig, Youtuber NM Kurt Hugo Schneider, and streaming GM Krikor Mekhitarian won their matches in the inaugural Winner Stays event on Chess.com. We&#39;ll see the trio return next month facing new opponents. The first edition of the new Win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ludwig-schneider-mekhitarian-winner-stays",
+         "pubDate" : "Sat, 05 Jun 2021 05:29:00 -0700",
+         "title" : "Ludwig, Schneider, Mekhitarian \"Stay\" In Inaugural Winner Stays Event"
+      },
+      {
+         "description" : "The 2021 African Continental Championships were held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/african-individual-continental-championship-2021",
          "pubDate" : "Sat, 05 Jun 2021 13:25:00 +0100",
-         "title" : "African Individual Continental Championship 2021"
+         "title" : "African Individual Continental Championships 2021"
+      },
+      {
+         "description" : "Sam Shankland and David Anton were big name casualties on Day 1 of the San Fermin Banter Blitz Cup as they lost their first round matches to Vahap Sanal and Hans Niemann. It's going to be Duda-Sadhwani and Sanal-Niemann in the semi-finals of the A Qualifier, which is the first of eight mini-knockout qualifiers. The winners will play an 8-player round-robin for a place either in the Meltwater Champions Chess Tour or the San Fermin final event featuring World Champion Magnus Carlsen playing from Pamplona, Spain.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/shankland-and-anton-knocked-out-of-banter-blitz-cup",
+         "pubDate" : "Sat, 05 Jun 2021 11:55:44 +0000",
+         "title" : "Shankland & Anton knocked out of Banter Blitz Cup"
       },
       {
          "description" : "During the 1840s and 1850s three chess masters dominated the global chessboard. These champions avant la lettre, before the world title had been generally recognised, were the Englishman Howard Staunton, the German Adolph Anderssen and the American Paul Morphy. In this column so far, I have concentrated on games played mano-a-mano between single opponents. This week I turn []",
@@ -202,7 +234,7 @@ news_feed (
          "title" : "World Cup Qualifier: Best of Akobian | Grandmaster's Choice - GM Varuzhan Akobian"
       },
       {
-         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates will be issued in due course. All the unsuccessful participants",
+         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates&#160;will be issued in due course. All the&#160; unsuccessful&#160;participants",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-chess-in-school-trainers-training-results/",
@@ -1490,20 +1522,20 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 5"
       },
       {
-         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
-         "pubDate" : "Tue, 25 May 2021 16:21:00 +0000",
-         "title" : "How To Improve By Playing Online Blitz: Analyse Every Single Game"
-      },
-      {
          "description" : "Fritz & Chesster has been around for 20 years! The chess learning software for children is an absolute classic! It shows how digital learning works and is fun. Now the ChessBase merchandising partner LEMI Consulting is redesigning the program and developing physical pieces and boards for children to enhance their online experience. You can support their Kickstarter project.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fritz-chesster-chessboard-editions",
          "pubDate" : "Tue, 25 May 2021 16:52:28 +0100",
          "title" : "Fritz & Chesster Chessboard editions"
+      },
+      {
+         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
+         "pubDate" : "Tue, 25 May 2021 14:21:00 +0000",
+         "title" : "How To Improve By Playing Online Blitz: Analyse Every Single Game"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621950005605-5JLL85ELM5297UXF3QO6/ke17ZwdGBToddI8pDm48kE36Uh9bApxLEgMUgad3QiYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcVlyuJQfoPDVItoHphofWVjF3J7v8XtghArXT5ss6EJA3bcYaMguvwelSeo-qDWJi/37841064_1107558472726714_9055942606655062016_n.jpg\" data-image-dimensions=\"1008x756\" data-image-focal-point=\"0.5,0.5\" alt=\"GM Ben Finegold with Karen Boyd, his wife, and co-founder of the Chess Club and Scholastic Center of Atlanta. Photo via the CCSCATL Facebook Page\" data-load=\"false\" data-image-id=\"60acfe3",
@@ -1802,14 +1834,6 @@ news_feed (
          "title" : "Round 1: Opening Salvoes"
       },
       {
-         "description" : "The FIDE Women's Grand Prix was supposed to end in Sardinia in May 2020, but then the pandemic intervened. It was rescheduled for Gibraltar, then postponed from January, but it finally begins Saturday May 22nd, with the players competing for two places in this year's Women's Candidates Tournament. Aleksandra Goryachkina is uncatchable in first place, but already has a spot in the Candidates. The leaders in the race are Humpy Koneru and Alexandra Kosteniuk, but neither plays, so that most of the field in Gibraltar is in with a chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gibraltar-hosts-final-women-s-fide-grand-prix",
-         "pubDate" : "Sat, 22 May 2021 13:33:08 +0000",
-         "title" : "Gibraltar hosts final Women's FIDE Grand Prix"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1912,14 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
          "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
          "title" : "Chartres: Maurizzi on course for the title"
-      },
-      {
-         "description" : "For 24 years the record stood but since today, GM Etienne Bacrot is no longer France&#39;s youngest grandmaster ever. Five days after turning 14, Marc&#39;Andria Maurizzi secured the GM title at the GM tournament in Chartres. The news has been dominated...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/marcandria-maurizzi-youngest-gm-ever-france",
-         "pubDate" : "Fri, 21 May 2021 04:42:00 -0700",
-         "title" : "Marc'Andria Maurizzi Becomes France's Youngest GM Ever"
       },
       {
          "description" : "Practice what you preach: in a theme blitz tournament on playchess.com the well-known and popular ChessBase authors Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft showed why they like and what they know about the openings they present in their courses. If you missed the live transmission of the entertaining event on twitch.tv, here's a summary with highlights from the games.",
@@ -2154,20 +2170,20 @@ news_feed (
          "title" : "Winton British Chess Solving Championship 2021-2022"
       },
       {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
-         "pubDate" : "Tue, 18 May 2021 11:16:00 +0000",
-         "title" : "How To Analyse Your Own Chess Game: Part 1"
-      },
-      {
          "description" : "The SCCU invites all Under 18 and Under 14 teams from counties, schools and clubs in England to join our Junior Jamboree on Saturday 5th...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/sccu-online-junior-jamboree-2021/",
          "pubDate" : "Tue, 18 May 2021 09:33:16 +0000",
          "title" : "SCCU Online Junior Jamboree 2021"
+      },
+      {
+         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
+         "pubDate" : "Tue, 18 May 2021 09:16:00 +0000",
+         "title" : "How To Analyse Your Own Chess Game: Part 1"
       },
       {
          "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
@@ -2320,38 +2336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1083",
          "pubDate" : "Sat, 15 May 2021 21:03:48 +0000",
          "title" : "Enyonam Sewa Fumey, FIDE's General Secretary, changes position"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/s680/zugal.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://1.bp.blogspot.com/-XMG9A1h24D4/YJ_cCtEDpRI/AAAAAAAAR3Y/Uu2rZ3I27982S-t4tWS330FGtFwwSylUgCLcBGAsYHQ/w200-h200/zugal.png\" width=\"200\" /></a></div><br />The diagrammed position shows an interesting Zugzwang, which was inspired by a game played at Street Chess today. Despite being a rook up Black is completely lost, as the rook has no s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/an-interesting-zugzwang.html",
-         "pubDate" : "Sat, 15 May 2021 14:35:00 +0000",
-         "title" : "An interesting Zugzwang"
-      },
-      {
-         "description" : " Over-the-board (OTB) chess resumes as things are beginning to normalize as far as social interactions are concerned. The COVID-19 virus is still wreaking havoc in parts of the world including India, one of the top chess countries in the world. However, medical authorities have begun loosening restrictions on masks and social distancing for those who [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/\">OTB chess resumes!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/05/15/otb-chess-resumes/",
-         "pubDate" : "Sat, 15 May 2021 13:24:27 +0000",
-         "title" : "OTB chess resumes!"
-      },
-      {
-         "description" : "Despite losing his last-round encounter against women's world champion Ju Wenjun, Yu Yangyi won the open section of the Chinese Championship for a second time in less than six months. The fourth highest-rated player in the country collected 7 points in 11 rounds and edged Wei Yi and Li Di on tiebreaks. Tan Zhongyi had already secured first place in the women's section with a round to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-championships-2021-r11",
-         "pubDate" : "Sat, 15 May 2021 14:00:00 +0100",
-         "title" : "Yu Yangyi repeats as Chinese champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1082",
-         "pubDate" : "Sat, 15 May 2021 11:52:08 +0000",
-         "title" : "Chinese Championships 2021: Yu Yangyi and Tan Zhongyi defend titles"
       }
    ]
 }
