@@ -10,6 +10,14 @@ news_feed (
          "title" : "Superbet Chess Classic: Five draws [Express report]"
       },
       {
+         "description" : " The Superbet Chess Classic got underway in Bucharest, Romania with a pretty quiet day of play. This is the first of two classical events as part of the Grand Chess Tour, the second and final one will be the Sinquefield Cup in August. Only Anish Giri was in any danger when his choice of the combative Semi-Slav with black got out of control against Bogdan-Daniel Deac, but this was a brief chance and the game was eventually drawn. It must have been very strange to play over the board for many of these players and there was a lot of fairly well known theoretical chess played with quick draws being the result. Bogdan-Daniel Deac, the last minute replacement for Richard Rapport almost managed a s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/quiet-start-to-the-superbet-chess-classic-with-five-draws",
+         "pubDate" : "Sat, 5 Jun 2021 18:45:00 +0400",
+         "title" : "Quiet start to the Superbet Chess Classic with five draws - 1"
+      },
+      {
          "description" : " After a break last year, the ACT Junior Chess League interschool series is up and running for 2021. Term 1 saw one of Girl's zones held, while the open Primary School zones are about to commence for term 2. The North Canberra/ Gungahalin zone is running this Tuesday, and it looks like around 100 players will take part. Over the following weeks 2 other zones are being held, while Term 3 will see the Secondary events taking place. One thing that is slightly concerning is that not all the event information is getting passed on to the school's chess player. So if you are a junior player in Canberra, and you haven't heard about the upcoming events, head over to <a href=\"https://actjcl.org.au/act",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
