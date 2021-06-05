@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "White's continuation in the diagram position truly belongs into the category \"very special\". How about a little test: how did White continue here and was this move among your first three candidate moves?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deep",
+         "pubDate" : "Sat, 05 Jun 2021 09:00:00 +0100",
+         "title" : "Deep"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
