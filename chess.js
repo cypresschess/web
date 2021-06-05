@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 African Continental Championship was held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/african-individual-continental-championship-2021",
+         "pubDate" : "Sat, 05 Jun 2021 13:25:00 +0100",
+         "title" : "African Individual Continental Championship 2021"
+      },
+      {
+         "description" : "During the 1840s and 1850s three chess masters dominated the global chessboard. These champions avant la lettre, before the world title had been generally recognised, were the Englishman Howard Staunton, the German Adolph Anderssen and the American Paul Morphy. In this column so far, I have concentrated on games played mano-a-mano between single opponents. This week I turn []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-turning-point-in-chess-history/",
+         "pubDate" : "Sat, 05 Jun 2021 08:00:17 +0000",
+         "title" : "A turning point in chess history"
+      },
+      {
          "description" : "White's continuation in the diagram position truly belongs into the category \"very special\". How about a little test: how did White continue here and was this move among your first three candidate moves?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deep",
          "pubDate" : "Sat, 05 Jun 2021 09:00:00 +0100",
          "title" : "Deep"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Dutch Chess Federation</strong> is running relegation matches this June for the <a href=\"https://www.schaakbond.nl/nieuws/opstarten-knsb-competitie-20212022\">new regular season</a> to start on 17 September. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/dutch-leagues-to-start-on-17/",
+         "pubDate" : "Sat, 05 Jun 2021 08:28:31 +0100",
+         "title" : "Dutch leagues to start on 17 September"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The IM, law graduate and twice Austrian champion <strong>Georg Fr&ouml;wis</strong> is the new junior coach of the <strong>Austrian Chess Federation</strong> after <strong>Harald Schneider-Zinner</strong> retired in April. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/froewis-appointed-as-austrian-junior/",
+         "pubDate" : "Sat, 05 Jun 2021 08:26:10 +0100",
+         "title" : "Fr&ouml;wis appointed as Austrian junior coach"
       },
       {
          "description" : "",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "Carlsen and Nepo to play twice in Stavanger"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> won another <strong>Meltwater Champions Chess Tour</strong> event, the <strong>FTX Crypto Cup</strong>, and finally overcame <strong>Wesley So</strong> in a final that was still tied after ten games and was decided in an Armaggedon game. The world champion secured his participation in the Grand Final, $60,000 and the equivalent of $22,000 in Bitcoin. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-broke-the-spell-against-so/",
-         "pubDate" : "Tue, 01 Jun 2021 15:54:08 +0100",
-         "title" : "Carlsen broke the spell against So"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-carlsen-so-in-final",
          "pubDate" : "Sun, 30 May 2021 00:44:00 -0700",
          "title" : "FTX Crypto Cup: Carlsen, So In Final"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">36 European players</a>, among them 14 Russians, each won three matches to qualify for the <strong>World Cup</strong> that starts on 10 July in Sochi. One of them is <strong>Baadur Jobava</strong> who resigned his White game immediately after his mouse pushed a pawn one square too far, but managed to win with Black and in the tie-break. The full prize-fund of €32,000 is illogically distributed among the 36 qualifying players after 9 rounds of rapid this Sunday. Both the qualifiers and the rapid were played in hybrid fashion from arbiter-supervised venues all over Europ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/jobava-qualifies-in-spite-of-fatal/",
-         "pubDate" : "Sun, 30 May 2021 08:18:27 +0100",
-         "title" : "Jobava qualifies in spite of fatal mouseslip"
       },
       {
          "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
@@ -2336,22 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1082",
          "pubDate" : "Sat, 15 May 2021 11:52:08 +0000",
          "title" : "Chinese Championships 2021: Yu Yangyi and Tan Zhongyi defend titles"
-      },
-      {
-         "description" : "Chess masters have, over the past two centuries, devised various spectacular final 'endgames' for themselves. Some of the more eccentric and ingenious methods have included: defenestration (such as, Curt von Bardeleben 1861-1924 and Lembit Oll 1966-2019), leaping to their doom from bridges (Karen Gregorian 1947-1989), plunging one way into otherwise impenetrable mountain caverns (Georgy Agzamov 1954-1986), throwing []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/brain-nutrition-alzheimers-longevity-and-the-power-of-memory/",
-         "pubDate" : "Sat, 15 May 2021 08:00:24 +0000",
-         "title" : "Brain nutrition, Alzheimer's, longevity and the power of memory"
-      },
-      {
-         "description" : "After White's bishop retreat from f4 to h2 (see diagram position), Black needed no second invitation to unleash her forces. What did she play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/energetic",
-         "pubDate" : "Sat, 15 May 2021 09:00:00 +0100",
-         "title" : "Energetic"
       }
    ]
 }
