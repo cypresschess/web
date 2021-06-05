@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Chess Classic in Bucharest. In the most exciting encounter of the round, Anish Giri went for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Full report to follow shortly. | Photo: Lennart Ootes",
+         "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Classic in Bucharest. The one exciting encounter of the round saw Anish Giri going for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Sat, 05 Jun 2021 18:30:00 +0100",
-         "title" : "Superbet Chess Classic: Five draws [Express report]"
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r1",
+         "pubDate" : "Sat, 05 Jun 2021 22:30:00 +0100",
+         "title" : "Superbet: Giri lives dangerously, escapes"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1126",
+         "pubDate" : "Sat, 05 Jun 2021 20:39:36 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 1 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-2",
+         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-3",
+         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-4",
+         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-5",
+         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 5"
       },
       {
          "description" : " The Superbet Chess Classic got underway in Bucharest, Romania with a pretty quiet day of play. This is the first of two classical events as part of the Grand Chess Tour, the second and final one will be the Sinquefield Cup in August. Only Anish Giri was in any danger when his choice of the combative Semi-Slav with black got out of control against Bogdan-Daniel Deac, but this was a brief chance and the game was eventually drawn. It must have been very strange to play over the board for many of these players and there was a lot of fairly well known theoretical chess played with quick draws being the result. Bogdan-Daniel Deac, the last minute replacement for Richard Rapport almost managed a s",
@@ -31,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ludwig-schneider-mekhitarian-winner-stays",
          "pubDate" : "Sat, 05 Jun 2021 05:29:00 -0700",
-         "title" : "Ludwig, Schneider, Mekhitarian \"Stay\" In Inaugural Winner Stays Event"
+         "title" : "Ludwig, Schneider, Mekhitarian 'Stay' In Inaugural Winner Stays Event"
       },
       {
          "description" : "The 2021 African Continental Championships were held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
@@ -450,14 +490,6 @@ news_feed (
          "title" : "Game of the Week: V. Keymer vs V. Laznicka"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/surprise-cooking-show-fm-thalia-cervantes-lichessorg",
-         "pubDate" : "Wed, 02 Jun 2021 16:03:20 +0000",
-         "title" : "Surprise Cooking Show - FM Thalia Cervantes | lichess.org"
-      },
-      {
          "description" : " The Rauzer attack against the Sicilian Dragon (1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 followed by 0-0-0 and a kingside pawn advance) is one of two major systems against the Sicilian pioneered by Vsevolod Alfredovich Rauzer; the other one was the Richter-Rauzer attack against the Classical system <a href=\"https://chessimprover.com/rip-em-with-the-rauzer/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Rip 'em with the Rauzer\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/rip-em-with-the-rauzer/\">Rip 'em with the Rauzer</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -498,14 +530,6 @@ news_feed (
          "title" : "The easy rook ending"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The dates for the first two events are in June. The 2021 Grand Chess Tour will feature two classical and three rapid &amp; blitz events, picking up after the cancellation of the 2020 season. Tour participants will compete for a total prize fund of $1.275 million, including $325,000 per classical tournament and $150,000 in prizes for rapid &amp; blitz events. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-grand-chess-tour-promo\"><img src=\"https://saintlouische",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-grand-chess-tour-promo",
-         "pubDate" : "Wed, 02 Jun 2021 13:03:10 +0000",
-         "title" : "2021 Grand Chess Tour Promo"
-      },
-      {
          "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. The young star from Kazakhstan beat Valentina Gunina and signed a quick draw with Kateryna Lagno to get a 1&frac12;-point lead with only one round to go. | Pictured: Deputy Chief Minister of Gibraltar Jospeh Garcia makes the first move in Abdumalik v Lagno. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,22 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-record-bullet-chess-speedrun-stella-artois",
          "pubDate" : "Wed, 02 Jun 2021 00:45:00 -0700",
          "title" : "Nakamura Shatters Record In Bullet Chess Speedrun Presented By Stella Artois"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows his quarterfinal World Cup Qualifier game against Cuban GM Luis Manuel Perez at the online hybrid knockout tournament. Akobian won his match against Perez, but ultimately failed to qualify for the Cup. 2021.06.01<br /> Varuzhan Akobian vs. Luis Manuel Perez Rodriguez, 2021: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4287864\">https://www.365chess.com/game.php?back=1&amp;gid=4287864</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-gm-perez-world-cup-qualifier-insane-endgame-gm-varuzhan-akobian",
-         "pubDate" : "Wed, 02 Jun 2021 07:03:03 +0000",
-         "title" : "Beating GM Perez at World Cup Qualifier | Insane in the Endgame - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares lessons he learned during the 2021 Chicago Open, where he won clear first in the U2300 section. 2021.06.01<br /> Caleb Denby vs. Evan Huang, 2021: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Benjamin Tang vs. Denby, 2021: B18 Caro-Kann, classical variation<br /> Denby vs. Sergei Muratov, 2021: D31 Queen&#039;s Gambit Declined, semi-Slav, Marshall gambit<br /> Max Zinski vs. Denby, 2021: B10 Caro-Kann, two knights variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/holy-cow-i-won-chicago-open-u2300-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 02 Jun 2021 04:02:53 +0000",
-         "title" : "Holy Cow! I Won the Chicago Open! (U2300) | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
@@ -2336,14 +2344,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/5/16/mishras-current-event-will-he-get-his-third-gm-norm.html",
          "pubDate" : "Sun, 16 May 2021 05:43:31 +0000",
          "title" : "Mishra's Current Event: Will He Get His Third GM Norm?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1083",
-         "pubDate" : "Sat, 15 May 2021 21:03:48 +0000",
-         "title" : "Enyonam Sewa Fumey, FIDE's General Secretary, changes position"
       }
    ]
 }
