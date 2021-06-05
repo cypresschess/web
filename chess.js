@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Chess Classic in Bucharest. In the most exciting encounter of the round, Anish Giri went for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Full report to follow shortly. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Sat, 05 Jun 2021 18:30:00 +0100",
+         "title" : "Superbet Chess Classic: Five draws [Express report]"
+      },
+      {
          "description" : " After a break last year, the ACT Junior Chess League interschool series is up and running for 2021. Term 1 saw one of Girl's zones held, while the open Primary School zones are about to commence for term 2. The North Canberra/ Gungahalin zone is running this Tuesday, and it looks like around 100 players will take part. Over the following weeks 2 other zones are being held, while Term 3 will see the Secondary events taking place. One thing that is slightly concerning is that not all the event information is getting passed on to the school's chess player. So if you are a junior player in Canberra, and you haven't heard about the upcoming events, head over to <a href=\"https://actjcl.org.au/act",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/act-interschool-2021.html",
          "pubDate" : "Sat, 05 Jun 2021 13:20:00 +0000",
          "title" : "ACT Interschool 2021"
-      },
-      {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Sat, 05 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Streamer Ludwig, Youtuber NM Kurt Hugo Schneider, and streaming GM Krikor Mekhitarian won their matches in the inaugural Winner Stays event on Chess.com. We&#39;ll see the trio return next month facing new opponents. The first edition of the new Win...",
