@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour, took off on Saturday with draws on all five boards. GM Anish Giri lived dangerously in his game with GM Bogdan-Daniel Deac but survived in the end. How to watch?The games ...",
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 30th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-2",
+         "pubDate" : "Sun, 06 Jun 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 30: To exchange or not to exchange (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1127",
+         "pubDate" : "Sun, 06 Jun 2021 13:46:37 +0000",
+         "title" : "Gulnar Mammadova wins Qualifier VI"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Sun, 06 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour, began on Saturday with draws on all five boards. GM Anish Giri lived dangerously in his game with GM Bogdan-Daniel Deac but survived in the end. How to watch?The games of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-1",
@@ -2328,14 +2352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-146",
          "pubDate" : "Sun, 16 May 2021 18:40:00 +0100",
          "title" : "Pearly Kings"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 27th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"multi-stage\" plan. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-27-a-multi-stage-plan",
-         "pubDate" : "Sun, 16 May 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
       }
    ]
 }
