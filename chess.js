@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Often times during a chess game you have to make a choice between waiting and initiating concrete action. Star columnist Jon Speelman notes that \"this eerie silence before battle is perhaps the most difficult moment psychologically\", and goes on to show how even world champion Magnus Carlsen can take a wrong turn from time to time. | Photo: Georgios Souleidis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-147",
+         "pubDate" : "Sun, 06 Jun 2021 22:00:00 +0100",
+         "title" : "Overthinking the silence"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1128",
+         "pubDate" : "Sun, 06 Jun 2021 20:30:10 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 2 Recap"
+      },
+      {
+         "description" : "chess24 will host a star-studded benefit event for one of America's original chess education organisations, Chess in the Schools. The online tournament - which you can play in - features GMs Pascal Charbonneau, Irina Krush, Daniel Naroditsky, Hans Niemann, Andrew Tang, plus up-and-coming young talents IM Carissa Yip, IM Christopher Yoo and Tanitoluwa Adewumi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/simul-for-the-schools-8-us-stars-raise-cash-for-schoolkids",
+         "pubDate" : "Sun, 06 Jun 2021 20:10:27 +0000",
+         "title" : "Simul for the schools: 8 US stars raise cash for schoolkids"
+      },
+      {
          "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac stunned Maxime Vachier-Lagrave. | Full report to follow shortly. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
          "pubDate" : "Sun, 06 Jun 2021 18:00:00 +0100",
          "title" : "Superbet Chess Classic: Deac and Caruana score [Express report]"
+      },
+      {
+         "description" : " The Superbet Chess Classic sprung to life in the second round with two decisive results, both involving the local players. It's always nice to see strong events have places and opportunities for local players, sometimes that's not a priority which is often a shame. In particular Bogdan-Daniel Deac seems ready to grab this opportunity with both hands. Fabiano Caruana won fairly easily as white against Constantin Lupulescu. The game was a sharp French Defence with castling on opposite wings. The key moment seems to have been 17...Ba4? which allowed Caruana to win a clean pawn and take the Queens off. 17....e5 seems to have been the correct test of white's setup - 18. h5 exd4 19. hxg6 Qg5 20. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/caruana-and-deac-are-winners-on-day-two-of-the-superbet-chess-classic",
+         "pubDate" : "Sun, 6 Jun 2021 20:39:00 +0400",
+         "title" : "Caruana and Deac are winners on day two of the Superbet Chess Classic - 2"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 30th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
@@ -1784,14 +1816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-1",
          "pubDate" : "Mon, 24 May 2021 02:14:00 -0700",
          "title" : "FTX Crypto Cup: Giri Leads, 'Awful' Start For Carlsen"
-      },
-      {
-         "description" : "Anish Giri is the sole leader on 4/5 after Day 1 of the FTX Crypto Cup, the strongest online chess event ever played. World Champion Magnus Carlsen ended on a respectable 50% but described his play as \"awful\" after he lost to MVL, nearly lost to Mamedyarov, squandered a winning position against World Championship Challenger Nepomniachtchi and failed to put pressure on tournament underdog Pichot. Hikaru Nakamura made three instant draws but beat Mamedyarov and Nepo to join MVL and So in 2nd place, while Levon Aronian fought on despite a power cut.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-day-1-giri-leads-as-carlsen-struggles",
-         "pubDate" : "Mon, 24 May 2021 09:09:02 +0000",
-         "title" : "FTX Crypto Cup 1: Giri leads as Carlsen struggles"
       },
       {
          "description" : "Zhansaya Abdumalik from Kazakhstan is leading the fourth leg of the Women's Grand Prix in Gibraltar after two rounds. The 21-year-old is the only player to have won both her games so far, as she got the better of compatriot Dinara Saduakassova and Elisabeth Paehtz in the first rounds of the event. Four players stand a half point behind. | Photo: FIDE",
