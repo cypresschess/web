@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour, took off on Saturday with draws on all five boards. GM Anish Giri lived dangerously in his game with GM Bogdan-Daniel Deac but survived in the end. How to watch?The games ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-1",
+         "pubDate" : "Sun, 06 Jun 2021 01:24:00 -0700",
+         "title" : "Superbet Chess Classic: Giri Escapes In Peaceful Opening Round"
+      },
+      {
+         "description" : "\"Nobody else wanted to play chess!\" said Anish Giri after flirting with disaster against Bogdan-Daniel Deac on a day when the Superbet Chess Classic began with four completely uneventful draws. His game was also ultimately a draw, but only after 19-year-old Deac, a very late replacement for Richard Rapport, came within a move or two of victory. Instead it was a peaceful start to the first classical over-the-board tournament some of the players had played in a year and a half.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-1-giri-s-gamble-almost-backfires",
+         "pubDate" : "Sun, 06 Jun 2021 08:00:24 +0000",
+         "title" : "Superbet Chess Classic 1: Giri's gamble almost backfires"
+      },
+      {
          "description" : " I've played two rather similar endings online recently. Both started off with bishop against knight before the minor pieces were traded off into a pawn ending. I was very lucky to win both games after my opponents, with not a lot of time on the clock, went wrong. In the first game I was black <a href=\"https://chessimprover.com/two-instructive-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Two Instructive Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/two-instructive-endings/\">Two Instructive Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "Anatoly Karpov celebrates his 70th birthday"
       },
       {
-         "description" : "Anatoly Karpov, the undisputed World Chess Champion for the decade from 1975 to 1985, today turns 70. In an interview with Sport Express, one of the chess greats answered questions from five grandmasters, including Sergey Karjakin and Rustam Kasimdzhanov. He gives his Top 5 players of all time, talks about the match that never happened with Bobby Fischer and laments the 1984 World Championship match where he led Garry Kasparov 5 wins to 0 but missed 21 \"match points\" in a row before the event was controversially stopped while he still led 5:3.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/karpov-at-70-my-great-blunder-was-i-agreed-to-hold-the-match-with-kasparov-in-the-soviet-union",
-         "pubDate" : "Sun, 23 May 2021 08:32:31 +0000",
-         "title" : "Karpov at 70: \"My great blunder was I agreed to hold the match with Kasparov in the Soviet Union\""
-      },
-      {
          "description" : "Today, on 23 May, Anatoly Karpov turns 70! The 12th World Champion is still very active and on 31 May 2021, he will give a simul at the Karpov Children's Cup, an event supported by FIDE. Which made Alexey Root remember a remarkable Karpov simul in Austin, Texas, back in 1994. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1091",
          "pubDate" : "Sat, 22 May 2021 11:08:10 +0000",
          "title" : "FIDE Women's Grand Prix Gibraltar: Opening Ceremony"
-      },
-      {
-         "description" : "Over-the-board chess is slowly returning and now, finally, that is also the case for top female players. On Saturday, the fourth and final leg of the FIDE Women&#39;s Grand Prix starts in Gibraltar. How to watch? You can find, play through, and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-women-grand-prix-gibraltar-opening",
-         "pubDate" : "Sat, 22 May 2021 03:57:00 -0700",
-         "title" : "Women's World Championship Cycle Resumes In Gibraltar"
       },
       {
          "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis-2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
