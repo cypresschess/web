@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've played two rather similar endings online recently. Both started off with bishop against knight before the minor pieces were traded off into a pawn ending. I was very lucky to win both games after my opponents, with not a lot of time on the clock, went wrong. In the first game I was black <a href=\"https://chessimprover.com/two-instructive-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Two Instructive Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/two-instructive-endings/\">Two Instructive Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/two-instructive-endings/",
+         "pubDate" : "Sun, 06 Jun 2021 07:11:25 +0000",
+         "title" : "Two Instructive Endings"
+      },
+      {
          "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Classic in Bucharest. The one exciting encounter of the round saw Anish Giri going for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2082,14 +2090,6 @@ news_feed (
          "title" : "Women's World Cup: List of Qualified Players"
       },
       {
-         "description" : " The Philidor Defence traditionally began with the moves 1.e4 e5 2.Nf3 d6, but times have changed considerably. With this move order it was found that if Black plays 3Nd7 to strongpoint e5, then after 4.Bc4 he finds it difficult to continue his development without making some concession. As an example 4Ngf6 is met by 5.dxe5 <a href=\"https://chessimprover.com/punch-em-with-the-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Punch 'em with the Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/punch-em-with-the-philidor/\">Punch 'em with the Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/punch-em-with-the-philidor/",
-         "pubDate" : "Wed, 19 May 2021 13:00:15 +0000",
-         "title" : "Punch 'em with the Philidor"
-      },
-      {
          "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2336,14 +2336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-27-a-multi-stage-plan",
          "pubDate" : "Sun, 16 May 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 27: A \"multi-stage\" plan"
-      },
-      {
-         "description" : " So far, it looks like the answer is <em>probably not</em>. <a href=\"https://www.theguardian.com/sport/2021/may/14/chess-american-12-year-old-closes-in-on-world-record-for-youngest-grandmaster\">Leonard Barden thinks</a> he'll need 7/9 to do it, and after a loss in round 2 and a draw in round 3 he only has half a point left to spare. That said, <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">the tournament</a> could still be a success insofar as it brings his rating closer to 2500, even if he doesn't get the final norm this time around. (The GM norm requires a 2600+ TPR, so even if he doesn't achieve that, but does have a TPR greater than his curr",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/16/mishras-current-event-will-he-get-his-third-gm-norm.html",
-         "pubDate" : "Sun, 16 May 2021 05:43:31 +0000",
-         "title" : "Mishra's Current Event: Will He Get His Third GM Norm?"
       }
    ]
 }
