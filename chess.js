@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac stunned Maxime Vachier-Lagrave. | Full report to follow shortly. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Sun, 06 Jun 2021 18:00:00 +0100",
+         "title" : "Superbet Chess Classic: Deac and Caruana score [Express report]"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 30th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1127",
          "pubDate" : "Sun, 06 Jun 2021 13:46:37 +0000",
          "title" : "Gulnar Mammadova wins Qualifier VI"
-      },
-      {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Sun, 06 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour, began on Saturday with draws on all five boards. GM Anish Giri lived dangerously in his game with GM Bogdan-Daniel Deac but survived in the end. How to watch?The games of ...",
@@ -96,6 +96,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-5",
          "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
          "title" : "2021 Superbet Chess Classic: Round 5"
+      },
+      {
+         "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn <a href=\"https://nextlevelchess.blog/best-opening/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
+         "pubDate" : "Sat, 05 Jun 2021 18:00:00 +0000",
+         "title" : "What Is The Best Chess Opening? - There is None!"
       },
       {
          "description" : " The Superbet Chess Classic got underway in Bucharest, Romania with a pretty quiet day of play. This is the first of two classical events as part of the Grand Chess Tour, the second and final one will be the Sinquefield Cup in August. Only Anish Giri was in any danger when his choice of the combative Semi-Slav with black got out of control against Bogdan-Daniel Deac, but this was a brief chance and the game was eventually drawn. It must have been very strange to play over the board for many of these players and there was a lot of fairly well known theoretical chess played with quick draws being the result. Bogdan-Daniel Deac, the last minute replacement for Richard Rapport almost managed a s",
@@ -2344,14 +2352,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/whats-new-in-fide-online-arena/",
          "pubDate" : "Mon, 17 May 2021 06:25:14 +0000",
          "title" : "What's New in FIDE Online Arena?"
-      },
-      {
-         "description" : "Looking at the games from the recent Russian Team Championship, played in Sochi, prompted Jon Speelman to reminisce on a tournament he played nearly four decades ago in the same Russian city near the Black Sea. \"In those distant Soviet times, the seven foreigners were put up in the Zhemchuzhina (Pearl) Hotel while the nine Soviets were dispersed among other lesser establishments\". | Photo: John Saunders / John Nunn 60th Birthday Blitz Chess Tournament",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-146",
-         "pubDate" : "Sun, 16 May 2021 18:40:00 +0100",
-         "title" : "Pearly Kings"
       }
    ]
 }
