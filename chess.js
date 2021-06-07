@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1132",
+         "pubDate" : "Mon, 07 Jun 2021 23:04:40 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 3 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Romanian former football player and coach Ilie Dumitrescu during the first round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-ilie-dumitrescu-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FaxA5w1oh48.jpg?itok=mrlv8jiO\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-ilie-dumitrescu-interview-round-1",
+         "pubDate" : "Mon, 07 Jun 2021 19:08:03 +0000",
+         "title" : "2021 Superbet Chess Classic: Ilie Dumitrescu Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alexander Grischuk during the first round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p-oQO219LTQ.jpg?itok=8K35le9J\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-1",
+         "pubDate" : "Mon, 07 Jun 2021 19:08:03 +0000",
+         "title" : "2021 Superbet Chess Classic: Alexander Grischuk Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Anish Giri during the first round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-anish-giri-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Cs4V658-DKc.jpg?itok=jgadx5XO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-anish-giri-interview-round-1",
+         "pubDate" : "Mon, 07 Jun 2021 19:08:03 +0000",
+         "title" : "2021 Superbet Chess Classic: Anish Giri Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Maxime Vachier-Lagrave during the first round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-maxime-vachier-lagrave-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WCEGDVKfLeg.jpg?itok=Tswoq7ax\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-maxime-vachier-lagrave-interview-round-1",
+         "pubDate" : "Mon, 07 Jun 2021 19:08:03 +0000",
+         "title" : "2021 Superbet Chess Classic: Maxime Vachier-Lagrave Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Constantin Lupulescu during the third round of the 2021 Superbet Chess Classic. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-constantin-lupulescu-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2onP98uKRxU.jpg?itok=CwbXEnj_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-constantin-lupulescu-interview-round-3",
+         "pubDate" : "Mon, 07 Jun 2021 19:08:03 +0000",
+         "title" : "2021 Superbet Chess Classic: Constantin Lupulescu Interview | Round 3"
+      },
+      {
          "description" : "Imagine you play in an important online event and your opponent makes a move that is obviously a mouse-slip. What do you do? Do you use the opportunity to exploit the blunder and to win the game? Or do you allow your opponent to take the move back or do you offer a draw? What, do you think, is fair play in this and other cases? Assi Philosoph shares some thoughts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,14 +298,6 @@ news_feed (
          "title" : "2021 Superbet Chess Classic: Round 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-5",
-         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 5"
-      },
-      {
          "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn <a href=\"https://nextlevelchess.blog/best-opening/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -362,14 +402,6 @@ news_feed (
          "title" : "Highlights from the European Hybrid World Cup Qualifier"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is the second leg of the 2021 Tour. Nine rapid rounds, 18 blitz rounds, live from Gobelins Manufactory. Join a commentary team TBA for the move-by-move. 2021.06.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-grand-chess-tour-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Cn1k2ZxqXoc.jpg?itok=1LeuXAcq\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-1",
-         "pubDate" : "Fri, 04 Jun 2021 22:04:52 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Day 1"
-      },
-      {
          "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. List of participants: Fabiano Caruana Levon Aronian Anish Giri []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -384,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-carlsen-vs-so-the-best-game-of-the-ftx-crypto-cup-final",
          "pubDate" : "Fri, 04 Jun 2021 18:00:00 +0100",
          "title" : "Daniel King: Carlsen vs So - The best game of the FTX Crypto Cup final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Watch from June 5-14! GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-preview\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-preview",
-         "pubDate" : "Fri, 04 Jun 2021 16:04:34 +0000",
-         "title" : "2021 Superbet Chess Classic: Preview"
       },
       {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss a lot of studies, and Lawrence does an impressive job trying to solve them. They also analyse a game from the Grand-Prix, and talk about the Isle of Man tournament, and the rather controversial idea to set candidate spots for the tournament winners.",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-wins-fide-womens-grand-prix-gibraltar-with-a-round-to-spare/",
          "pubDate" : "Thu, 03 Jun 2021 19:37:00 +0000",
          "title" : "Abdumalik wins FIDE Women's Grand Prix Gibraltar; Koneru and Lagno qualify for Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows two of his games from the American Hybrid World Cup Qualifier, an online event. See Akobian win his third semifinal game, and see how his second game from the final match against Leandro Krysa slipped through his fingers. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/world-cup-qualifier-best-akobian-grandmasters-choice-gm-varuzhan-akobian",
-         "pubDate" : "Thu, 03 Jun 2021 19:04:07 +0000",
-         "title" : "World Cup Qualifier: Best of Akobian | Grandmaster's Choice - GM Varuzhan Akobian"
       },
       {
          "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates&#160;will be issued in due course. All the&#160; unsuccessful&#160;participants",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
          "pubDate" : "Thu, 3 Jun 2021 10:04:00 +0400",
          "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> FIDE Master Thalia Cervantes plays chess with the people while baking a &quot;chess cake.&quot; 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-cooking-show-fm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Chb3y804adM.jpg?itok=mjDQQ88Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/surprise-cooking-show-fm-thalia-cervantes",
-         "pubDate" : "Thu, 03 Jun 2021 01:03:31 +0000",
-         "title" : "Surprise Cooking Show - FM Thalia Cervantes"
       },
       {
          "description" : "",
@@ -2360,30 +2368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-sharpest-endgame-weapon",
          "pubDate" : "Tue, 18 May 2021 09:00:00 +0100",
          "title" : "The sharpest endgame weapon"
-      },
-      {
-         "description" : " A little update from around the chess world. First, Abhimanyu Mishra will be a GM soon, but not by the end of the <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=2&amp;turdet=YES&amp;flag=30\">norm event</a> he's playing in now. He (probably) needed 7/9; 2/5 clearly isn't going to cut it. Hopefully he can minimize the rating damage he has suffered thus far. (Unless you're a Sergey Karjakin superfan, in which case you hope the damage piles up like an avalanche.) Second: the \"<a href=\"https://events.chess24.com/mrdodgy-invitational/\">Mr Dodgy Invitational 2.0</a>\" (afaik, \"Mr. Dodgy\" is the username of a Chess24 superfan; I don't know if he contributed any money to the event's ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/17/no-norm-for-mishra-and-other-news.html",
-         "pubDate" : "Mon, 17 May 2021 23:02:54 +0000",
-         "title" : "No Norm for Mishra, and Other News"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour delivers a world first for its next event: an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event - $100,000 of that is a bonus paid in crypto by new sponsor FTX, the leading cryptocurrency exchange. Fans will be able to track the prize pot's value in real-time throughout the broadcast to see how it fluctuates.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-preview",
-         "pubDate" : "Mon, 17 May 2021 23:00:00 +0100",
-         "title" : "Carlsen to face Nepo in world's first bitcoin chess event"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1085",
-         "pubDate" : "Mon, 17 May 2021 21:02:24 +0000",
-         "title" : "Albania wins first Online Chess Cup by Teams of Francophonie"
       }
    ]
 }
