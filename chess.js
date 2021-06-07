@@ -2352,30 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1084",
          "pubDate" : "Mon, 17 May 2021 09:03:51 +0000",
          "title" : "Nodirbek Abdusattorov wins Zone 3.4 Open Championship 2021"
-      },
-      {
-         "description" : " The Mr Dodgy Invitational 2.0 took place online on Chess24 May 12th - 16th 2021. This 16 player KO blitz (5 minutes no increment) tournament had a strong field. Simon Williams, Peter Heine Nielsen, Nils Grandelius, Jorden van Foreest, Daniil Dubov, Vidit Gujrathi, Alexei Shirov, David Howell, Laurent Fressinet, Pepe Cuenca, David Navara, Baadur Jobava, Peter Svidler, Anish Giri, Baskaran Adhiban and Alexander Grischuk. Anish Giri retained his titled with a comfortable 7-3 in the final, Giri's 7-5 win over Daniil Dubov in the semifinals was his closest match.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/mr-dodgy-invitational-2-2021",
-         "pubDate" : "Mon, 17 May 2021 10:31:00 +0400",
-         "title" : "Mr Dodgy Invitational 2 2021 - Games and Results"
-      },
-      {
-         "description" : " The Chinese Championships took place 7th to 15th May 2021. Yu Yangyi edged out Wei Yi and Li Di on tie-break to win his second title in a row in spite of losing to women's world champion Ju Wenjun in the final round. All three players scored 7/11. Yu Yangyi retained the title he won in December. In the women's event top seed Tan Zhongyi won with 8.5/11 half a point clear of Ning Kaiyu. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chinese-championships-2021",
-         "pubDate" : "Mon, 17 May 2021 10:27:00 +0400",
-         "title" : "Chinese Championships 2021 - Games and Results"
-      },
-      {
-         "description" : " <p class=\"lead\">We are building <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> as more than just another place to enjoy chess - we are building a launch site for chess players' careers online. Many players come to <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a> for the official FIDE-recognized ratings and titles but also for design and attention to detail that made the biggest events in the sport - like the World Chess Championship matches - so exciting. We at World Chess, the company that are responsible for FIDE Online Arena, have been developing the platform and releasing updates, but the changes mostly have been under the hood. As of this moment, all release",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/whats-new-in-fide-online-arena/",
-         "pubDate" : "Mon, 17 May 2021 06:25:14 +0000",
-         "title" : "What's New in FIDE Online Arena?"
       }
    ]
 }
