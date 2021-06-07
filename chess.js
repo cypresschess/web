@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti-2-2.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-online-arena-now-has-an-ios-app-hmmm/",
+         "pubDate" : "Mon, 07 Jun 2021 11:06:43 +0000",
+         "title" : "FIDE Online Arena Now Has an iOS App. Hmmm"
+      },
+      {
+         "description" : "Last-minute substitute GM Bogdan-Daniel Deac had a great start at the Superbet Chess Classic. After missing a win in the first round, he beat GM Maxime Vachier-Lagrave the next day. Deac leads with GM Fabiano Caruana, who beat GM Constantin Lupule...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-2-deac",
+         "pubDate" : "Mon, 07 Jun 2021 03:10:00 -0700",
+         "title" : "Superbet Chess Classic: Deac Beats MVL, Leads With Caruana"
+      },
+      {
+         "description" : "When you play 1.d4, one of the most common openings that you will encounter is the King's Indian Defence. After 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 how do continue? GM Jan Werle of the Netherlands suggests 5.f3 - the Saemisch Variation. Guess what: you can also use the same antidote against the Benoni! Jan, who has published a ChessBase DVD on the subject, shows you how this works - in this video stream with ChessBase India. It is the perfect 1&frac12; lesson to build your understanding of this opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-werle-beat-the-king-s-indian",
+         "pubDate" : "Mon, 07 Jun 2021 11:00:00 +0100",
+         "title" : "Jan Werle: Beat the King's Indian"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Reporting on women and girls in chess can go wrong in many ways, but do not despair, help is near. <em>Tatiana Flores</em> has some guidelines. </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/fide-website-3-june-all-women.1920.jpeg\" title=\"Women's chess was all over the FIDE website during the last week. \" data-title=\"Women's chess was all over the FIDE website during the last week.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/fide-website-3-june-all-women.960.jpeg\" alt=\"Women's chess was all over the FIDE website during the last week.\" srcset=\"https://www.",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/by-all-appearances/",
+         "pubDate" : "Mon, 07 Jun 2021 09:36:21 +0100",
+         "title" : "By all appearances"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1130",
+         "pubDate" : "Mon, 07 Jun 2021 08:31:16 +0000",
+         "title" : "​​​​​​​Cori and Gunina qualify for Main Event"
+      },
+      {
+         "description" : "19-year-old Bogdan-Daniel Deac leads two rounds into the Superbet Chess Classic after surviving a difficult opening to turn the tables and defeat French no. 1 Maxime Vachier-Lagrave. Deac is joined in the lead by the more familiar figure of world no. 2 Fabiano Caruana, who smoothly outplayed Constantin Lupulescu, while the remaining three games in Bucharest were instantly forgettable draws.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-deac-shocks-mvl",
+         "pubDate" : "Mon, 07 Jun 2021 08:19:41 +0000",
+         "title" : "Superbet Chess Classic 2: Deac shocks MVL"
+      },
+      {
+         "description" : "ECU E-Magazine May 2021 is out! The May 2021 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be doawnloaded as a PDF file down bellow. In this edition of the ECU E-Magazine you may read about: European Hybrid Qualification Tournament Mitropa Cup 2021 ECU Girls'&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-may-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-2021/",
+         "pubDate" : "Mon, 07 Jun 2021 07:41:59 +0000",
+         "title" : "ECU E-MAGAZINE MAY 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1129",
+         "pubDate" : "Mon, 07 Jun 2021 07:26:52 +0000",
+         "title" : "FIDE's Chess in Education Commission accelerates its provision of training for Lecturers and Teachers of Educational chess"
+      },
+      {
          "description" : "Often times during a chess game you have to make a choice between waiting and initiating concrete action. Star columnist Jon Speelman notes that \"this eerie silence before battle is perhaps the most difficult moment psychologically\", and goes on to show how even world champion Magnus Carlsen can take a wrong turn from time to time. | Photo: Georgios Souleidis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,6 +272,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/froewis-appointed-as-austrian-junior/",
          "pubDate" : "Sat, 05 Jun 2021 08:26:10 +0100",
          "title" : "Fr&ouml;wis appointed as Austrian junior coach"
+      },
+      {
+         "description" : " Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez : FM Ioannis Simeonidis From the book's rear cover : &#8220;White players will thoroughly dislike the Neo-M&oslash;ller! The Ruy Lopez is one of the most important chess openings, hugely popular with amateurs and masters alike. Black players allowing the Ruy Lopez main lines are <a href=\"http://britishchessnews.com/2021/06/05/carlsens-neo-moller/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessne",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/06/05/carlsens-neo-moller/",
+         "pubDate" : "Sat, 05 Jun 2021 00:10:42 +0000",
+         "title" : "Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez"
       },
       {
          "description" : "",
@@ -1586,7 +1658,7 @@ news_feed (
          "title" : "Round 4: Joy for the Muzychuks, but Elisabeth steals the show"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Queens Chess Festival</strong> <strong>Festival, <time datetime='2021-06-11' itemprop=\"startDate\">Fri-Sun 11  - 27 Jun 2021</time><br> <span itemprop='location'>Internet: <a href=\"https://queensfestival.fide.com/\">https://queensfestival.fide.com/</a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Series of female-only blitz tournaments, presentations and workshops with Dana Reizniece-Ozola, Jennifer Shahade and others. Organised by the FIDE Women's Commission. </div> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a",
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Queens Chess Festival</strong> <strong>Festival, <time datetime='2021-06-11' itemprop=\"startDate\">Fri-Sun 11  - 27 Jun 2021</time><br> <span itemprop='location'>Internet: <a href=\"https://queensfestival.fide.com/\">https://queensfestival.fide.com/</a></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/queens-festival.png?v=1\" class=\"js-img\" title=\"Queens Festival \" data-title=\"Queens Festival \"><img src=\"https://www.chesstech.org/files/2021/events/queens-festival.480.png?v=1\" srcset=\"https://www.chesstech.org/",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://queensfestival.fide.com/",
@@ -1754,14 +1826,6 @@ news_feed (
          "title" : "FIDE Online Cadets & Youth Rapid World Cup announced"
       },
       {
-         "description" : "Teimour Radjabov has, as expected, been given a spot in the 2022 Candidates Tournament after his pandemic concerns saw him replaced by Maxime Vachier-Lagrave for the event that began in 2020. The other spots will go to the loser of this year's World Championship match, two players in the World Cup, two players in the FIDE Grand Swiss and finally two players from a FIDE Grand Prix Series set to take place from February to April next year. Potentially we can then have the Candidates and another World Championship match in 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/radjabov-given-controversial-spot-in-2022-candidates",
-         "pubDate" : "Mon, 24 May 2021 19:16:58 +0000",
-         "title" : "Radjabov given controversial spot in 2022 Candidates"
-      },
-      {
          "description" : "You are a very talented young player taking part in a tournament in Budapest. After it is over you learn that your scheduled flight home to Goa, India, is no longer available - the first one to be cancelled due to the outbreak of the pandemic. So you are stuck in the Hungarian capital, and still are, over a year later. So what do you do, how do you manage? Here's one way Leon Mendonca and his father are coping: with a Pentecostal violin performance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1808,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1096",
          "pubDate" : "Mon, 24 May 2021 09:58:28 +0000",
          "title" : "FIDE Chessable Academy: 140 Nominations from 51 Federations"
-      },
-      {
-         "description" : "GM Anish Giri had the best first day at the FTX Crypto Cup, the sixth leg of the Champions Chess Tour. The Dutch GM scored 4/5 on Sunday. World Champion Magnus Carlsen scored just 50 percent and said he had played &#34;awful&#34; chess. How to watch?The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-1",
-         "pubDate" : "Mon, 24 May 2021 02:14:00 -0700",
-         "title" : "FTX Crypto Cup: Giri Leads, 'Awful' Start For Carlsen"
       },
       {
          "description" : "Zhansaya Abdumalik from Kazakhstan is leading the fourth leg of the Women's Grand Prix in Gibraltar after two rounds. The 21-year-old is the only player to have won both her games so far, as she got the better of compatriot Dinara Saduakassova and Elisabeth Paehtz in the first rounds of the event. Four players stand a half point behind. | Photo: FIDE",
@@ -2306,14 +2362,6 @@ news_feed (
          "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
       },
       {
-         "description" : "Wishing to participate in the current development of online chess, AIDEF- Francophone Chess Association organized this weekend of 15 &#38; 16 May 2021 the first edition of the Francophone Online Chess Team Cup ( �Coupe d'&eacute;checs en ligne par &eacute;quipes de la Francophonie �). This tournament was reserved for amateur teams selected by their federation to participate in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/albania-wins-1st-francophone-online-chess-team-cup/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/albania-wins-1st-francophone-online-chess-team-cup/",
-         "pubDate" : "Mon, 17 May 2021 13:52:23 +0000",
-         "title" : "Albania wins 1st Francophone Online Chess Team Cup"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2336,22 +2384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-solve-chess-problems",
          "pubDate" : "Mon, 17 May 2021 13:43:00 +0100",
          "title" : "How to solve chess problems"
-      },
-      {
-         "description" : " is here. Click this link for the PDF ",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-may-2021-long-form-newsletter/",
-         "pubDate" : "Mon, 17 May 2021 09:06:54 +0000",
-         "title" : "The May 2021 long-form newsletter &hellip;"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1084",
-         "pubDate" : "Mon, 17 May 2021 09:03:51 +0000",
-         "title" : "Nodirbek Abdusattorov wins Zone 3.4 Open Championship 2021"
       }
    ]
 }
