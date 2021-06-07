@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The French Open is currently being broadcast, and the Tour de France isn't far away, but of course, the late night sports I'm talking about is the Superbet Chess Classic. It starts late evening Canberra time, and while there are plenty of commentary choices, the one that I have settled on St Louis Chess Club coverage via youtube. Both Yasser Seirawan and Maurice Ashley are part of the commentary team, along with team of supporting GM's. The tournament is currently up to round 3 and the link for this round is https://www.youtube.com/watch?v=Pce2ncWepDY ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/late-night-sports.html",
+         "pubDate" : "Mon, 07 Jun 2021 13:45:00 +0000",
+         "title" : "Late night sports"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Mon, 07 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac [pictured] stunned Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r2",
+         "pubDate" : "Mon, 07 Jun 2021 13:30:00 +0100",
+         "title" : "Superbet: Deac and Caruana strike first"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jordi Lopez</strong>, who already worked full-time for the <strong>French Chess Federation</strong> 2007-2018, is <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13389\">back as Technical Director</a>. His dismissal by former President Bachar Kouatly led to a lengthy law suit. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/jordi-lopez-returns-to-french/",
+         "pubDate" : "Mon, 07 Jun 2021 13:01:13 +0100",
+         "title" : "Jordi Lopez returns to French Federation"
+      },
+      {
          "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti-2-2.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/simul-for-the-schools-8-us-stars-raise-cash-for-schoolkids",
          "pubDate" : "Sun, 06 Jun 2021 20:10:27 +0000",
          "title" : "Simul for the schools: 8 US stars raise cash for schoolkids"
-      },
-      {
-         "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac stunned Maxime Vachier-Lagrave. | Full report to follow shortly. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Sun, 06 Jun 2021 18:00:00 +0100",
-         "title" : "Superbet Chess Classic: Deac and Caruana score [Express report]"
       },
       {
          "description" : " The Superbet Chess Classic sprung to life in the second round with two decisive results, both involving the local players. It's always nice to see strong events have places and opportunities for local players, sometimes that's not a priority which is often a shame. In particular Bogdan-Daniel Deac seems ready to grab this opportunity with both hands. Fabiano Caruana won fairly easily as white against Constantin Lupulescu. The game was a sharp French Defence with castling on opposite wings. The key moment seems to have been 17...Ba4? which allowed Caruana to win a clean pawn and take the Queens off. 17....e5 seems to have been the correct test of white's setup - 18. h5 exd4 19. hxg6 Qg5 20. ",
@@ -792,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
          "pubDate" : "Tue, 01 Jun 2021 15:22:04 +0000",
          "title" : "Online County Championships this summer"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Norway Chess</strong> 2021 has <a href=\"https://norwaychess.no/en/2021/06/01/the-players-are-ready-for-norway-chess-2021/\">secured the participation</a> of both the world champion and his challenger <strong>Ian Nepomniachtchi</strong> for another double-round-robin edition on 7 to 18 September. The other players are Karjakin, Firouzja, Rapport and Tari. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-and-nepo-to-play-twice-in/",
-         "pubDate" : "Tue, 01 Jun 2021 16:14:52 +0100",
-         "title" : "Carlsen and Nepo to play twice in Stavanger"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
@@ -2360,30 +2376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fritztrainer-tournament-live-with-daniel-king-and-arne-kaehler",
          "pubDate" : "Mon, 17 May 2021 17:08:30 +0100",
          "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82708950.cms\" /></a>The Meltwater Champions Chess Tour delivers a world first for its next event - an elite-level bitcoin chess tournament. The star-studded FTX Crypto Cup starts on May 23 and offers a record $320,000 prize pot for an online event. The tournament is the final Major in this season's $1.5 million Meltwater Champions Chess Tour, the richest and most prestigious online chess event in history.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-chess-to-kick-off-from-may-23/articleshow/82708950.cms",
-         "pubDate" : "Mon, 17 May 2021 18:24:52 +0530",
-         "title" : "FTX Crypto Cup chess to kick off from May 23"
-      },
-      {
-         "description" : " Today I attended the funeral of Keith Robertson, a long-time member of the ACT chess community. One of the pictures used for the service was of Keith in front of a birthday cake that was in the form of a chessboard. However the baker (or designer) got a bit carried away, as the board was a 9 by 9 board. While this may seem like an obvious blunder by a non chessplayer, it does have one desirable feature. Each corner of the board was a white square, meaning it was impossible to orient the wrong way (the bottom right hand square is always white). On the other hand, a board of this type has two other drawbacks. Firstly, if the pieces are arranged from outside in, the all the bishops for both si",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/the-idiot-proof-chessboard.html",
-         "pubDate" : "Mon, 17 May 2021 12:52:00 +0000",
-         "title" : "The idiot-proof chessboard"
-      },
-      {
-         "description" : "For many chess players, chess problems just look bizarre: the pieces on the board often seem to be randomly placed and the positions appear to to be utterly removed from anything that can happen in a practical game. However, solving chess problems can be fun - if you know how to approach them. Vlaicu Crisan has some advice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-solve-chess-problems",
-         "pubDate" : "Mon, 17 May 2021 13:43:00 +0100",
-         "title" : "How to solve chess problems"
       }
    ]
 }
