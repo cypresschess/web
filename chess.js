@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Imagine you play in an important online event and your opponent makes a move that is obviously a mouse-slip. What do you do? Do you use the opportunity to exploit the blunder and to win the game? Or do you allow your opponent to take the move back or do you offer a draw? What, do you think, is fair play in this and other cases? Assi Philosoph shares some thoughts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fair-play-in-chess",
+         "pubDate" : "Mon, 07 Jun 2021 20:00:00 +0100",
+         "title" : "Fair play in chess"
+      },
+      {
+         "description" : "In the one game of the day that finished decisively, Constantin Lupulescu took down Anish Giri to bounce back from his defeat against Fabiano Caruana in the preceding round. The Romanian contestants - Lupulescu and Bogdan-Daniel Deac - have shown the most fighting chess so far in Bucharest, with their higher-rated colleagues often choosing to play it safe in their direct encounters. | Full report to follow shortly. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Mon, 07 Jun 2021 18:30:00 +0100",
+         "title" : "Superbet Chess Classic: Lupulescu beats Giri [Express report]"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Wesley So during the third round of the 2021 Superbet Chess Classic. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-wesley-so-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g3Ol4RU0LrA.jpg?itok=zKKLmzWN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-wesley-so-interview-round-3",
+         "pubDate" : "Mon, 07 Jun 2021 16:07:58 +0000",
+         "title" : "2021 Superbet Chess Classic: Wesley So Interview | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana during the third round of the 2021 Superbet Chess Classic. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p-Yb7dJEHaM.jpg?itok=xG1-fzc2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-3",
+         "pubDate" : "Mon, 07 Jun 2021 16:07:58 +0000",
+         "title" : "2021 Superbet Chess Classic: Fabiano Caruana Interview | Round 3"
+      },
+      {
+         "description" : " The Superbet Chess Classic saw more local success when Constantin Lupulescu beat Anish Giri in the third round. The event is the first of the Grand Chess Tour 2021. Thus far some of the biggest stars have struggled to get going and the games involving the local Romanian players have had most content. So far they haven't looked out of place in this company. Lupulescu beat Giri in a topical line of the English although the result had little to do with the opening. Lupulescu was already on his own when he played the new move 14.f3 which was certainly ambitious. 20.Re2 seems wrong as after Giri's 20....Qh5 white seems in quite a bit of trouble. Having spent some time on Qh5 Giri hurried his nex",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/caruana-and-deac-remain-sharing-the-lead-in-the-superbet-chess-classic",
+         "pubDate" : "Mon, 7 Jun 2021 18:55:00 +0400",
+         "title" : "Caruana and Deac remain sharing the lead in the Superbet Chess Classic - 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1131",
+         "pubDate" : "Mon, 07 Jun 2021 14:38:11 +0000",
+         "title" : "Chess in Schools Survey 2021: First conclusions and takeaways"
+      },
+      {
          "description" : " The French Open is currently being broadcast, and the Tour de France isn't far away, but of course, the late night sports I'm talking about is the Superbet Chess Classic. It starts late evening Canberra time, and while there are plenty of commentary choices, the one that I have settled on St Louis Chess Club coverage via youtube. Both Yasser Seirawan and Maurice Ashley are part of the commentary team, along with team of supporting GM's. The tournament is currently up to round 3 and the link for this round is https://www.youtube.com/watch?v=Pce2ncWepDY ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/late-night-sports.html",
          "pubDate" : "Mon, 07 Jun 2021 13:45:00 +0000",
          "title" : "Late night sports"
-      },
-      {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Mon, 07 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac [pictured] stunned Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
@@ -592,22 +632,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/surprise-cooking-show-fm-thalia-cervantes",
          "pubDate" : "Thu, 03 Jun 2021 01:03:31 +0000",
          "title" : "Surprise Cooking Show - FM Thalia Cervantes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani revisits Magnus Carlsen&#039;s Round 9 win over World Champion Viswanathan Anand in the 2013 World Championship match. The victory over Vishy put Carlsen at an insurmountable three points ahead. 2021.06.02<br /> Viswanathan Anand vs Magnus Carlsen, Anand - Carlsen World Championship Match (2013): E25 Nimzo-Indian, Saemisch variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1737896\">https://www.chessgames.com/perl/chessgame?gid=1737896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2013-world-chess-championship-final-blow-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 03 Jun 2021 01:03:31 +0000",
-         "title" : "2013 World Chess Championship: The Final Blow | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.06.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-love-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YxQA1IXpad4.jpg?itok=gzecLQHi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/we-love-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 02 Jun 2021 22:03:32 +0000",
-         "title" : "We Love Magnus! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -2360,22 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1085",
          "pubDate" : "Mon, 17 May 2021 21:02:24 +0000",
          "title" : "Albania wins first Online Chess Cup by Teams of Francophonie"
-      },
-      {
-         "description" : "The second edition of the MrDodgy Invitational was played on May 12-16 in the chess24 PlayZone. The event was a 16-player knockout, with each match consisting of 12 blitz games (5 minutes for the game, without increments). Top seed Anish Giri, who had won the first edition of the event, defeated Baadur Jobava in the final to get the first prize of $2,500 plus a picture of Dodgy on a horse.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-wins-mr-dodgy-invitational-2021",
-         "pubDate" : "Mon, 17 May 2021 19:20:00 +0100",
-         "title" : "Giri beats Jobava to win MrDodgy Invitational"
-      },
-      {
-         "description" : "The Fritztrainer thematic tournament starts today at 19:00 CEST (13:00 ET, 17:00 UTC) and will be hosted live on Twitch.tv by Daniel King and Arne Kaehler. The discount day, which starts Monday, 17 May, 18:00 CEST (12:00 ET, 16:00 UTC) offers a great opportunity to support your favourite Fritztrainer. But first and foremost, this tournament should be fun and it should offer us fine games with interesting openings to watch. We are looking forward to seeing the players in action: Rustam Kasimdzhanov, Mihail Marin, Merijn van Delft and Robert Ris.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritztrainer-tournament-live-with-daniel-king-and-arne-kaehler",
-         "pubDate" : "Mon, 17 May 2021 17:08:30 +0100",
-         "title" : "Fritztrainer Tournament: Live, with Daniel King and Arne Kaehler"
       }
    ]
 }
