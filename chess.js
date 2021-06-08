@@ -418,7 +418,7 @@ news_feed (
          "title" : "2021 Superbet Chess Classic - Day 1 Recap"
       },
       {
-         "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn <a href=\"https://nextlevelchess.blog/best-opening/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn new openings. An IM thinks [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
@@ -978,7 +978,7 @@ news_feed (
          "title" : "Kasparov trains young talents"
       },
       {
-         "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is <a href=\"https://nextlevelchess.blog/find-your-chess-coach/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is still a great investment in [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
@@ -1394,7 +1394,7 @@ news_feed (
          "title" : "FTX Crypto Cup: So wins, Carlsen draws"
       },
       {
-         "description" : " It is one of the most frustrating feelings in chess. You play a great game, but then you get into time trouble and one wrong decision costs you the full point. Even though you played more good moves than your opponent, you end up losing the game. It certainly feels <a href=\"https://nextlevelchess.blog/time-trouble/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/time-trouble/\">How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " It is one of the most frustrating feelings in chess. You play a great game, but then you get into time trouble and one wrong decision costs you the full point. Even though you played more good moves than your opponent, you end up losing the game. It certainly feels unfair, but that is how [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/time-trouble/\">How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/time-trouble/?utm_source=rss&utm_medium=rss&utm_campaign=time-trouble",
@@ -1866,7 +1866,7 @@ news_feed (
          "title" : "Fritz & Chesster Chessboard editions"
       },
       {
-         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 <a href=\"https://nextlevelchess.blog/blitz-analysis/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 In Every Game My father [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
@@ -2122,7 +2122,7 @@ news_feed (
          "title" : "FIDE Women's Grand Prix Gibraltar: Opening Ceremony"
       },
       {
-         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days <a href=\"https://nextlevelchess.blog/game-analysis-2/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days after a tournament. This depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/game-analysis-2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis-2",
