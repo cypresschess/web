@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/ke17ZwdGBToddI8pDm48kEwOrdvVlRFgF5wC8VXDtvNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFYz0HFK4KG_PwyIpaZ4b1uHlCbSS0q2L2q685BLjbpRiEWBb17oPPNFYU46ZgoeA0/Irene2.jpg\" data-image-dimensions=\"489x489\" data-image-focal-point=\"0.5,0.5\" alt=\"Irene2.jpg\" data-load=\"false\" data-image-id=\"60bf7fc0bb3d184f0f97a1cb\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/ke17ZwdGBToddI8pDm48kEwOrdvVlRFgF5wC8VXDtvNZw-zPPg",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/8/episode-230-wgm-irene-sukander",
+         "pubDate" : "Tue, 08 Jun 2021 14:36:29 +0000",
+         "title" : "Episode 230- WGM Irene Sukander "
+      },
+      {
+         "description" : " The start of the local interschool competition always brings with a new set of 'non' rules, that children assure me are the correct rules (at least according to Dad). I in fact got two today, although is quite an old one, long since discarded. The totally new one, was when a king makes it to the other side of the board you get one of your pawns back. Not quite sure where this even came from, but the possible logic behind it, is that as you cannot promote to a king, a kind of reverse promotion provides compensation for this. The very old one was 'bare king'. One of the players claimed a win on the grounds that he had captured all his opponents pieces. I explained to him that the goal in ches",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/yet-another-non-rule.html",
+         "pubDate" : "Tue, 08 Jun 2021 13:42:00 +0000",
+         "title" : "Yet another non rule"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Tue, 08 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "In the one game of the day that finished decisively, Constantin Lupulescu took down Anish Giri to bounce back from his defeat against Fabiano Caruana in the preceding round. The Romanian contestants - Lupulescu and Bogdan-Daniel Deac - have shown the most fighting chess so far in Bucharest, with their higher-rated colleagues often choosing to play it safe in their direct encounters. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2344,30 +2368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-chinese-championships",
          "pubDate" : "Tue, 18 May 2021 19:10:43 +0100",
          "title" : "The Weekly Show: The Chinese Championships"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621349819333-6JCI9515MR1RBYTNS920/ke17ZwdGBToddI8pDm48kAbbt5gxxewyJhDb7Ux5tXd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWztSIr2BbXYTzo1xlP0SVFHjRJzkRudTUndHWzc2YHl3WUfc_ZsVm9Mi1E6FasEnQ/me-norwaychess-dsc06056-emelianova-removebg.png\" data-image-dimensions=\"1646x1515\" data-image-focal-point=\"0.5,0.5\" alt=\"me-norwaychess-dsc06056-emelianova-removebg.png\" data-load=\"false\" data-image-id=\"60a3d5ba974d877319488c7f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/co",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/18/episode-227-wfm-maria-emelianova",
-         "pubDate" : "Tue, 18 May 2021 14:59:45 +0000",
-         "title" : "Episode 227- WFM Maria Emelianova "
-      },
-      {
-         "description" : "One year ago the ChessBase Magazine introduced a new column, the \"Special\". It offers room for a wide range of topics, e.g. Dorian Rogozenco's video presentation of rediscovered Kasparov games in ChessBase Magazine #195, \"My favourite Fischer game\" (CBM #196), \"Kasparov as challenger\" (CBM #198), \"My favourite game of Paul Keres\" (CBM 199) or how people remember the young Magnus Carlsen (CBM #200). The current issue #201 focuses on a player who has been among the world's best for more than three decades: Vassily Ivanchuk. The \"Ivanchuk Special\" in CBM #201 includes 22 games from 1987 to 2019. As a sample we show two of these games, annotated by Renato Quintilliano and David Navara. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-genius-vassily-ivanchuk",
-         "pubDate" : "Tue, 18 May 2021 15:00:00 +0100",
-         "title" : "Chess genius Vassily Ivanchuk"
-      },
-      {
-         "description" : "Organised by the British Chess Problem Society click below for the Starter Announcement WORD &#124; PDF",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2021-2022/",
-         "pubDate" : "Tue, 18 May 2021 13:50:49 +0000",
-         "title" : "Winton British Chess Solving Championship 2021-2022"
       }
    ]
 }
