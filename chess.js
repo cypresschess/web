@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the one game of the day that finished decisively, Constantin Lupulescu took down Anish Giri to bounce back from his defeat against Fabiano Caruana in the preceding round. The Romanian contestants - Lupulescu and Bogdan-Daniel Deac - have shown the most fighting chess so far in Bucharest, with their higher-rated colleagues often choosing to play it safe in their direct encounters. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r3",
+         "pubDate" : "Tue, 08 Jun 2021 13:15:00 +0100",
+         "title" : "Superbet Chess Classic: Lupulescu tricks Giri"
+      },
+      {
+         "description" : "The local players keep making a name for themselves at the Superbet Chess Classic. In the third round, it was GM Constantin Lupulescu who took the spotlight with a win against world number-six GM Anish Giri. Meanwhile, GM Teimour Radjabov surpri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-3-lupulescu-giri",
+         "pubDate" : "Tue, 08 Jun 2021 04:05:00 -0700",
+         "title" : "Superbet Chess Classic: Lupulescu Beats Giri"
+      },
+      {
+         "description" : "Train and analyse with video - almost like in a chess club, but simply via the browser! The new training functions in the PlayChess web browser are already being actively used by Stefan Kindermann and the Munich Chess Academy! You can see, hear, analyse, train and of course play! Anyone can create their own virtual room, invite friends and training groups and get started. Martin Fischer explains step-by-step how it works. Online training has never been so much fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chess-training-with-video-on-playchess",
+         "pubDate" : "Tue, 08 Jun 2021 11:50:52 +0100",
+         "title" : "New: Chess training with video on Playchess!"
+      },
+      {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras A couple of games from the past 2 rounds of our club tournament provided instructive positions. The first one of them is from an endgame. Black's last move was 29 c6. Have a look at the position but not at the solution and decide what you would have <a href=\"https://chessimprover.com/quick-decisions-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-6/\">Quick Decisions (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-6/",
+         "pubDate" : "Tue, 08 Jun 2021 09:30:34 +0000",
+         "title" : "Quick Decisions (6)"
+      },
+      {
+         "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
+         "pubDate" : "Tue, 08 Jun 2021 08:00:04 +0000",
+         "title" : "Online County Championships this summer"
+      },
+      {
          "description" : "Connected passed pawns can be powerful, in the middlegame but especially in the endgame. A good reason to stop them sooner rather than later. What should White do in the diagram position to stop Black's pawns from becoming really powerful?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bishop-vs-pawns",
          "pubDate" : "Tue, 08 Jun 2021 09:00:00 +0100",
          "title" : "Bishop vs pawns"
+      },
+      {
+         "description" : "First MVL, now Anish Giri! The Romanian players in the Superbet Chess Classic continue to show their teeth, as Constantin Lupulescu withstood a powerful attack by Giri to hit back with a mating attack of his own. The win for the Romanian no. 1 was the only decisive game of Round 3, with Grischuk-So and especially Radjabov-MVL featuring little action. Levon Aronian gave Fabiano Caruana a scare, while Bogdan-Daniel Deac continues to lead with Fabi after showing no fear in his game against Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-3-lupulescu-stuns-giri",
+         "pubDate" : "Tue, 08 Jun 2021 07:58:26 +0000",
+         "title" : "Superbet Chess Classic 3: Lupulescu stuns Giri"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.06.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/philidor-part-2-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
@@ -90,14 +138,6 @@ news_feed (
          "title" : "Fair play in chess"
       },
       {
-         "description" : "In the one game of the day that finished decisively, Constantin Lupulescu took down Anish Giri to bounce back from his defeat against Fabiano Caruana in the preceding round. The Romanian contestants - Lupulescu and Bogdan-Daniel Deac - have shown the most fighting chess so far in Bucharest, with their higher-rated colleagues often choosing to play it safe in their direct encounters. | Full report to follow shortly. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Mon, 07 Jun 2021 18:30:00 +0100",
-         "title" : "Superbet Chess Classic: Lupulescu beats Giri [Express report]"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Wesley So during the third round of the 2021 Superbet Chess Classic. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-wesley-so-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g3Ol4RU0LrA.jpg?itok=zKKLmzWN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -154,7 +194,7 @@ news_feed (
          "title" : "Jordi Lopez returns to French Federation"
       },
       {
-         "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti-2-2.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to",
+         "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to the",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-online-arena-now-has-an-ios-app-hmmm/",
@@ -856,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-queens-festival-global-womens-online-chess-challenge/",
          "pubDate" : "Tue, 01 Jun 2021 17:44:27 +0000",
          "title" : "FIDE Queens Festival (Global Women's Online Chess Challenge)"
-      },
-      {
-         "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
-         "pubDate" : "Tue, 01 Jun 2021 15:22:04 +0000",
-         "title" : "Online County Championships this summer"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
@@ -1786,14 +1818,6 @@ news_feed (
          "title" : "Episode 228- GM Ben Finegold returns "
       },
       {
-         "description" : "Magnus Carlsen started Day 2 of the FTX Crypto Cup with 1.b4 and followed up with 1.b3, but while those experiments went well he was cursing the \"worst self-inflicted wound\" of losing to Levon Aronian in the final round of the day. That left him in a qualification dogfight on 5.5/10, but he's not alone, with the top 9 players separated by a single point. Fabiano Caruana came back from the dead to beat Alan Pichot, then take down leader Anish Giri, on the way to posting the day's best 4/5 score and joining Hikaru Nakamura and Teimour Radjabov in the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-2-carlsen-plays-1-b4-as-race-blown-wide-open",
-         "pubDate" : "Tue, 25 May 2021 11:24:20 +0000",
-         "title" : "FTX Crypto Cup 2: Carlsen plays 1.b4 as race blown wide open"
-      },
-      {
          "description" : "This is a 12-year-old on a mission: to become the youngest chess grandmaster in history. Abhimanyu Mishra has made two norms, but in his latest tournament suffered a setback: in time trouble refused a draw offer by a GM and discovered that this is not such a great idea. Abhi lost the game, and a second one to boot, but staged a remarkable comeback with four back-to-back wins. He gained nine rating points and is currently just eight points from his goal. Read the messages of encouragement the lad from Englishtown, New Jersey, is getting from well-known personalities from all over the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1097",
          "pubDate" : "Mon, 24 May 2021 20:54:42 +0000",
          "title" : "FIDE announces qualification paths for Candidates Tournament 2022"
-      },
-      {
-         "description" : "The International Chess Federation today confirmed what had been suggested earlier: GM Teimour Radjabov gets a direct place in the 2022 Candidates Tournament. FIDE&#39;s new qualification system does not include another wildcard and neither a qualifie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/radjabov-2022-fide-candidates",
-         "pubDate" : "Mon, 24 May 2021 13:47:00 -0700",
-         "title" : "Radjabov Gets Direct Spot In 2022 FIDE Candidates"
       },
       {
          "description" : "",
@@ -2146,14 +2162,6 @@ news_feed (
          "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
       },
       {
-         "description" : " This week, were are going to look at a very important part of your opening, the transition into the middle-game. Most beginners assume that as soon their Rooks are connected, signaling the end of the opening phase, it's time to start capturing pawns and pieces. The game's three phases - the opening, middle and endgame <a href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Nineteen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-nineteen/\">A Foundation for Beginners Nineteen</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-nineteen/",
-         "pubDate" : "Fri, 21 May 2021 09:17:08 +0000",
-         "title" : "A Foundation for Beginners Nineteen"
-      },
-      {
          "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating crypto-currency, and the careful strategies of the chessboard might seem to have little in common as partners but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2360,30 +2368,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2021-2022/",
          "pubDate" : "Tue, 18 May 2021 13:50:49 +0000",
          "title" : "Winton British Chess Solving Championship 2021-2022"
-      },
-      {
-         "description" : "The SCCU invites all Under 18 and Under 14 teams from counties, schools and clubs in England to join our Junior Jamboree on Saturday 5th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/sccu-online-junior-jamboree-2021/",
-         "pubDate" : "Tue, 18 May 2021 09:33:16 +0000",
-         "title" : "SCCU Online Junior Jamboree 2021"
-      },
-      {
-         "description" : " Learning from your own mistakes is the most effective way to improve. You avoid making the same mistake twice. And you find out your strengths and weaknesses. When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't <a href=\"https://nextlevelchess.blog/game-analysis1/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis1/\">How To Analyse Your Own Chess Game: Part 1</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis1/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis1",
-         "pubDate" : "Tue, 18 May 2021 09:16:00 +0000",
-         "title" : "How To Analyse Your Own Chess Game: Part 1"
-      },
-      {
-         "description" : "The German word \"Zugzwang\" describes the phenomenom that the rules of chess force you to make a move when it's your turn even if it would be better to do nothing. In chess, you simply cannot pass. \"Zugzwang\" is a typical endgame phenomenon that often decides the game. In the diagram position White can use \"zugzwang\" to force the opponent to self-destruct. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-sharpest-endgame-weapon",
-         "pubDate" : "Tue, 18 May 2021 09:00:00 +0100",
-         "title" : "The sharpest endgame weapon"
       }
    ]
 }
