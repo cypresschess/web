@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Connected passed pawns can be powerful, in the middlegame but especially in the endgame. A good reason to stop them sooner rather than later. What should White do in the diagram position to stop Black's pawns from becoming really powerful?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishop-vs-pawns",
+         "pubDate" : "Tue, 08 Jun 2021 09:00:00 +0100",
+         "title" : "Bishop vs pawns"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues about the Philidor Defense, specifically on the &quot;Pirc&quot; order of moves. 2021.06.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/philidor-part-2-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/philidor-part-2-chess-openings-explained",
+         "pubDate" : "Tue, 08 Jun 2021 04:08:30 +0000",
+         "title" : "The Philidor: Part 2 | Chess Openings Explained"
+      },
+      {
          "description" : "KIND ATTENTION ALL THE PLAYERS REGISTERED FOR NATIONAL UNDER-18 OPEN &#38; GIRLS ONLINE CHESS CHAMPIONSHIP-2021 The Tornelo link for the championship is forwarded to your",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-2",
          "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
          "title" : "2021 Superbet Chess Classic: Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-3",
-         "pubDate" : "Sat, 05 Jun 2021 19:05:54 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 3"
       },
       {
          "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn <a href=\"https://nextlevelchess.blog/best-opening/\" class=\"btn btn-link continue-link\">Continue Reading</a> The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
