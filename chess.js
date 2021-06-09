@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-6",
+         "pubDate" : "Wed, 09 Jun 2021 11:32:07 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 6"
+      },
+      {
+         "description" : "The Global Women's Online Chess Challenge \"The Queens' Festival\", a series of continental and global women's online chess tournaments and educative side events, will start on June 11, 2021.&#160; The Queen's Festival is a unique all-inclusive event with the aim to develop a strong global community of women in chess and enhance participation of women in all aspects&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-festival-connecting-women-in-chess/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/queens-festival-connecting-women-in-chess/",
+         "pubDate" : "Wed, 09 Jun 2021 10:15:35 +0000",
+         "title" : "Queens' Festival - Connecting Women in Chess"
+      },
+      {
+         "description" : "Wesley So cited divine intervention after beating Fabiano Caruana in Round 4 of the Superbet Chess Classic to leapfrog his opponent into the lead. That was the first win not involving the Romanian players, but there could easily have been another, since Anish Giri had Levon Aronian on the ropes. Instead the day's other winner and new leader was Alexander Grischuk, who ground down Bogdan-Daniel Deac in five hours. Mamedyarov-Radjabov was the only game with no action, with Teimour afterwards putting his peaceful approach down to a lack of time for opening preparation.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-so-grischuk-snatch-lead",
+         "pubDate" : "Wed, 09 Jun 2021 09:37:40 +0000",
+         "title" : "Superbet Chess Classic 4: So & Grischuk snatch lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Karel van Delft</strong>, a Dutch psychologist, chess coach and author, has joined <strong>Chessable</strong> as science project manager and is <a href=\"https://www.chessable.com/blog/introducing-karel-van-delft/\">calling</a> university-based scientists who plan chess related projects. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessable-supports-chess-related/",
+         "pubDate" : "Wed, 09 Jun 2021 10:09:30 +0100",
+         "title" : "Chessable supports chess-related research"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A joint working group of <strong>FIDE</strong> and <strong>ECU</strong> has presented a <a href=\"https://www.fide.com/news/1131\">worldwide survey</a> that estimates that more than 25 million pupils learn and play chess in schools. Since 15 million of these are in India and 5 million in China, the numbers on the other continents seem lower than circulated earlier. More than 90,000 school teachers and more than 140,000 chess instructors are estimated to be involved. It is not clarified if these numbers are current or prepandemic. The survey forms the basis for a new strategy and policies that shall be formulated in the next months. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/25-million-worldwide-in-school-chess/",
+         "pubDate" : "Wed, 09 Jun 2021 09:29:11 +0100",
+         "title" : "25 million worldwide in school chess"
+      },
+      {
          "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -522,14 +562,6 @@ news_feed (
          "title" : "Dutch leagues to start on 17 September"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The IM, law graduate and twice Austrian champion <strong>Georg Fr&ouml;wis</strong> is the new junior coach of the <strong>Austrian Chess Federation</strong> after <strong>Harald Schneider-Zinner</strong> retired in April. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/froewis-appointed-as-austrian-junior/",
-         "pubDate" : "Sat, 05 Jun 2021 08:26:10 +0100",
-         "title" : "Fr&ouml;wis appointed as Austrian junior coach"
-      },
-      {
          "description" : " Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez : FM Ioannis Simeonidis From the book's rear cover : &#8220;White players will thoroughly dislike the Neo-M&oslash;ller! The Ruy Lopez is one of the most important chess openings, hugely popular with amateurs and masters alike. Black players allowing the Ruy Lopez main lines are <a href=\"http://britishchessnews.com/2021/06/05/carlsens-neo-moller/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessne",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-cerebral-palsy-ferdinand-maumo-nigeria",
          "pubDate" : "Thu, 03 Jun 2021 02:44:00 -0700",
          "title" : "Nigerian Child With Cerebral Palsy Becomes Chess Superstar"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> adds a <a href=\"https://www.chess.com/article/view/winner-stays-all-the-information\">new format to feature its content creators</a>: The <strong>Winner Stays</strong> series that starts this Friday matches platform celebrities on three different levels, below 1400 rating, above 2400, and in between. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/more-celebrity-building-on-chesscom/",
-         "pubDate" : "Thu, 03 Jun 2021 10:17:00 +0100",
-         "title" : "More celebrity building on Chess.com"
       },
       {
          "description" : "",
@@ -1786,14 +1810,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen, Nepomniachtchi Barely Survive Preliminaries"
       },
       {
-         "description" : "Fabiano Caruana cruised to 1st place in his debut Meltwater Champions Chess Tour preliminary stage, scoring 10/15 to finish a full point ahead of the field. He plays Ian Nepomniachtchi in the quarterfinals, after the new World Championship Challenger scraped an unlikely win against Alexander Grischuk in the final round. That almost knocked out Magnus Carlsen, with the World Champion calling it a \"massive relief\" that he ultimately beat Teimour Radjabov on demand. Levon Aronian and Shakhriyar Mamedyarov were the players to suffer last-round heartbreak.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-3-carlsen-naka-in-qfs-as-magnus-nepo-scrape-through",
-         "pubDate" : "Wed, 26 May 2021 08:29:30 +0000",
-         "title" : "FTX Crypto Cup 3: Carlsen-Naka in QFs as Magnus & Nepo scrape through"
-      },
-      {
          "description" : " One common question asked is \"What is the difference between a GM and an FM?\" (in terms of skill level). Now there are lots of correct answers (fewer mistakes, deeper calculation etc), but as the following game demonstrates, knowing when to strike (and when to play h3!). <br /> <b>Novendra,Priasmoro (2502) - Atakhan,Abtin (2319) [C11]</b><br />Asian Hybrid Continental Chess Champions (6.14), 21.05.2021 <script>new PgnViewer( { boardName: \"game1246\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Rc8 16.O-O Qd8 17.f5 exf5 18.Qe3 Qa5 19.e6 fxe6 20.Rxf5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2274,14 +2290,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
       },
       {
-         "description" : "The past four days have seen interesting discussion around providing opportunities for everyone to participate in chess regardless of their capabilities. After the inaugural workshop took place in Thessaloniki, Greece in September 2019 the Global Pandemic caused the format to be slightly adapted and moved online instead. This allowed for people from all over the world to join&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/online-workshop-equal-opportunities/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/online-workshop-equal-opportunities/",
-         "pubDate" : "Thu, 20 May 2021 14:33:57 +0000",
-         "title" : "Online Workshop \"Equal Opportunities\""
-      },
-      {
          "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2376,30 +2384,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/a-seven-goal-thriller.html",
          "pubDate" : "Wed, 19 May 2021 11:31:00 +0000",
          "title" : "A seven goal thriller"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1088",
-         "pubDate" : "Wed, 19 May 2021 09:50:28 +0000",
-         "title" : "Ahead of FIDE Women's Grand Prix Gibraltar: standings and full pairings"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-4",
-         "pubDate" : "Wed, 19 May 2021 10:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 4"
-      },
-      {
-         "description" : "Already a well-known figure in the world of chess, Tanitoluwa Emmanuel Adewumi made mainstream headlines after becoming a National Master at the Fairfield County Chess Club Championship tournament in Connecticut. The 10-year-old was a Nigerian refugee living in a homeless shelter in Manhattana and is now pursuing the dream of becoming the world's youngest grandmaster. | Photo: Epoch Times",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tani-adewumi-becomes-national-master-at-10",
-         "pubDate" : "Wed, 19 May 2021 09:06:00 +0100",
-         "title" : "Tani Adewumi becomes National Master at 10"
       }
    ]
 }
