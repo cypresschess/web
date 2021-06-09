@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian analyzes his second classical game against Argentinean Leandro Krysa during the final of the 2021 American Hybrid World Cup Qualifier. The online knockout featured players from nations in North and South America. Had Akobian won this game, he would have qualified for the Cup, but GM Krysa defended masterfully. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-got-away-insane-endgame-gm-varuzhan-akobian\"><img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/world-cup-qualifier-got-away-insane-endgame-gm-varuzhan-akobian",
+         "pubDate" : "Wed, 09 Jun 2021 22:10:03 +0000",
+         "title" : "The World Cup Qualifier That Got Away | Insane in the Endgame - GM Varuzhan Akobian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 09 Jun 2021 22:10:03 +0000",
+         "title" : "Sacrificial Magnus! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "GM Hikaru Nakamura returned to the top of Titled Tuesday on June 8, winning outright with a score of 10/11. Iranian GM Amin Tabatabaei took clear second with 9.5/11 ahead of nine players tied at 9/11. Of those, last week&#39;s winner GM Nodirbek Abdus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-june-8-titled-tuesday",
+         "pubDate" : "Wed, 09 Jun 2021 14:40:25 -0700",
+         "title" : "Nakamura Wins June 8 Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1136",
+         "pubDate" : "Wed, 09 Jun 2021 20:17:07 +0000",
+         "title" : "FIDE World Cup 2021: Accommodation guide"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps some of the best games from the ongoing Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbets-best-caruana-grischuk-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g0EHEyvuadg.jpg?itok=7S_p_AlG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,22 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/philidor-2-hanham-lion-variations-chess-openings-explained",
          "pubDate" : "Tue, 08 Jun 2021 22:09:14 +0000",
          "title" : "The Philidor #2: Hanham & Lion Variations | Chess Openings Explained"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews National Girls U12 Champion Alexia Iordache during the second round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexia-iordache-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ge0WbBAkrf0.jpg?itok=Iyv3cWJH\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexia-iordache-interview-round-2",
-         "pubDate" : "Tue, 08 Jun 2021 22:09:14 +0000",
-         "title" : "2021 Superbet Chess Classic: Alexia Iordache Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Shakhriyar Mamedyarov during the second round of the 2021 Superbet Chess Classic. 2021.06.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0wYoo3HRFvU.jpg?itok=uCwmSSZr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-2",
-         "pubDate" : "Tue, 08 Jun 2021 22:09:14 +0000",
-         "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 2"
       },
       {
          "description" : "",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "Carlsen survives almighty scare Caruana wins prelim stage"
       },
       {
-         "description" : "Another modest 3/5 score on day three of the FTX Crypto Cup was enough for GM Magnus Carlsen to make it to the knockout stage, which starts on Wednesday. World Championship contender GM Ian Nepomniachtchi also just made it, while GM Fabiano Caruan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-3",
-         "pubDate" : "Wed, 26 May 2021 01:51:00 -0700",
-         "title" : "FTX Crypto Cup: Carlsen, Nepomniachtchi Barely Survive Preliminaries"
-      },
-      {
          "description" : " One common question asked is \"What is the difference between a GM and an FM?\" (in terms of skill level). Now there are lots of correct answers (fewer mistakes, deeper calculation etc), but as the following game demonstrates, knowing when to strike (and when to play h3!). <br /> <b>Novendra,Priasmoro (2502) - Atakhan,Abtin (2319) [C11]</b><br />Asian Hybrid Continental Chess Champions (6.14), 21.05.2021 <script>new PgnViewer( { boardName: \"game1246\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Rc8 16.O-O Qd8 17.f5 exf5 18.Qe3 Qa5 19.e6 fxe6 20.Rxf5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2344,22 +2352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
          "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
          "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
-      },
-      {
-         "description" : "This summer Vladimir Kramnik and Viswanathan Anand will face each other in an innovative chess variant, proposed by Kramnik: No Castling Chess. There is one simple rule change - no castling is allowed, everything else remains the same. The organizers have announced that everybody will get a chance to try the new variant at the Sparkassen Online Open to be played on July 10-18. The winner will get a spot in next year's Dortmund Open.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/no-castling-chess-online-qualifiers",
-         "pubDate" : "Wed, 19 May 2021 23:00:00 +0100",
-         "title" : "No Castling Chess online tournament open to all"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1089",
-         "pubDate" : "Wed, 19 May 2021 20:24:22 +0000",
-         "title" : "Attention FIDE World Cup participants"
       }
    ]
 }
