@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " As a kid I read that White had the advantage in open games (1.e4 e5) if he could get d2-d4 in successfully, so I wondered why he didn't just play 2.Nf3 Nc6 3.d4 rather than mess about with the indirect 3.Bb5. After 3exd4 4.Nxd4 I figured that White was threatening to give Black doubled pawns <a href=\"https://chessimprover.com/slay-em-with-the-scotch/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Slay 'em with the Scotch\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/slay-em-with-the-scotch/\">Slay 'em with the Scotch</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/slay-em-with-the-scotch/",
+         "pubDate" : "Wed, 09 Jun 2021 14:00:36 +0000",
+         "title" : "Slay 'em with the Scotch"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 4. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Wed, 09 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Wesley So and Alexander Grischuk are now sharing the lead at the Superbet Chess Classic in Bucharest, as each defeated a former co-leader in Tuesday's fourth round. So played brilliantly to take down Fabiano Caruana, while Grischuk ground out a win against Bogdan-Daniel Deac from a very slightly favourable queen endgame. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r4",
+         "pubDate" : "Wed, 09 Jun 2021 13:40:00 +0100",
+         "title" : "Superbet Chess Classic: So and Grischuk grab the lead"
+      },
+      {
+         "description" : "The Superbet Chess Classic is wide open again after both tournament leaders GM Fabiano Caruana&#38;nbsp;and GM Bogdan-Daniel Deac lost their games. Caruana was defeated by GM Wesley So, and Deac went down against GM Alexander Grischuk. The quick dra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-4",
+         "pubDate" : "Wed, 09 Jun 2021 04:55:00 -0700",
+         "title" : "Superbet Chess Classic: Leaders Caruana, Deac Lose"
+      },
+      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-florin-r%C4%83ducioiu-interview-round-3",
          "pubDate" : "Tue, 08 Jun 2021 19:09:11 +0000",
          "title" : "2021 Superbet Chess Classic: Florin Răducioiu Interview | Round 3"
-      },
-      {
-         "description" : "Wesley So and Alexander Grischuk are now sharing the lead at the Superbet Chess Classic in Bucharest, as each defeated a former co-leader in Tuesday's fourth round. So played brilliantly to take down Fabiano Caruana, while Grischuk ground out a win against Bogdan-Daniel Deac from a very slightly favourable queen endgame. | Full report to follow shortly. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Tue, 08 Jun 2021 19:20:00 +0100",
-         "title" : "Superbet Chess Classic: Wins for Grischuk and So [Express report]"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Superbet Chess Classic Tournament in Bucharest. The game of the day will be Lupulescu-Giri, where the big underdog stunned the Dutch number 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1938,14 +1962,6 @@ news_feed (
          "title" : "Small move, big impact"
       },
       {
-         "description" : "Scoring 4/5 on the second day, GM Fabiano Caruana jumped to shared first place at the FTX Crypto Cup. The American GM shares the lead with 2022 FIDE Candidate GM Teimour Radjabov and GM Hikaru Nakamura. GM Magnus Carlsen, on the other hand, is in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-day-2",
-         "pubDate" : "Tue, 25 May 2021 01:25:00 -0700",
-         "title" : "FTX Crypto Cup: Caruana Jumps To 1st, Carlsen Still Struggling"
-      },
-      {
          "description" : "Fabiano Caruana, Hikaru Nakamura and Teimour Radjabov are sharing the lead on 6&frac12;/10 points in the preliminaries of the FTX Crypto Cup after two days of action. Out of the 16 participants, those that finish at the top half of the standings table will move on to the knockout stage. World champion Magnus Carlsen is currently sharing 6th-9th place with a 5&frac12;/10 score. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-hybrid-qualification-tournament-for-the-fide-world-cup/",
          "pubDate" : "Sun, 23 May 2021 13:19:19 +0000",
          "title" : "EUROPEAN HYBRID QUALIFICATION TOURNAMENT STARTS"
-      },
-      {
-         "description" : " Here's a rapidplay game played the other day in one of my club's online arena events. I was black, facing the Ponziani. 1. e4 e5 2. Nf3 Nc6 3. c3 The Ponziani seems to be undergoing a mini revival at the moment. Is this justified? 3.. Nf6 The safest reply, though 3.. d5 is also <a href=\"https://chessimprover.com/pulverising-the-ponziani/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pulverising the Ponziani\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pulverising-the-ponziani/\">Pulverising the Ponziani</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/pulverising-the-ponziani/",
-         "pubDate" : "Sun, 23 May 2021 10:57:02 +0000",
-         "title" : "Pulverising the Ponziani"
       },
       {
          "description" : "",
@@ -2344,46 +2352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-wei-ji-vs-zhao-yun",
          "pubDate" : "Wed, 19 May 2021 18:00:00 +0100",
          "title" : "Game of the Week: Wei Ji vs Zhao Jun"
-      },
-      {
-         "description" : "Entry forms are now available for the 2021 Northumbria Masters (August 26th-30th 2021) which is going ahead over-the-board at a brand new Covid-secure venue, Marriott...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/northumbria-masters-entry-forms-now-available/",
-         "pubDate" : "Wed, 19 May 2021 15:00:46 +0000",
-         "title" : "Northumbria Masters entry forms now available!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1086",
-         "pubDate" : "Wed, 19 May 2021 13:42:13 +0000",
-         "title" : "Women's World Cup: List of Qualified Players"
-      },
-      {
-         "description" : "Playing over-the-board but entering the moves of the game into a computer to play online against an opponent who is playing in an entirely different location, all supervised by an arbiter - that is Hybrid Chess. After the first hybrid tournaments the players now share their impressions. But feedback from the Mitropacup participants reveals mixed attitudes about hybrid chess and the rules that were applied, writes Stefan L&ouml;ffler. | Photo: Peter Sadilek | Photo: Stefan L&ouml;ffler",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hybrid-chess-an-okay-way-to-play-during-the-pandemic",
-         "pubDate" : "Wed, 19 May 2021 13:00:00 +0100",
-         "title" : "Hybrid Chess - an okay way to play during the pandemic"
-      },
-      {
-         "description" : "The latest iteration of the renowned program belongs to the strongest chess engines in the world, especially now that it draws its strength from the tremendous tactical power of a classic Alpha Beta engine, combined with deep positional play drawn from an advanced neural network. It also has different modes of play which you may find very interesting. For instance in MCTS mode it will show you not which is the objectively best move, but the one that gives the opponent the best chance of going wrong.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/komodo-dragon-2-is-here",
-         "pubDate" : "Wed, 19 May 2021 12:34:00 +0100",
-         "title" : "Komodo Dragon 2 is here!"
-      },
-      {
-         "description" : " It is a rare game where there are 5 promotions. Excluding fakes (which are these days well known) there have been as few as 3 games where 6 promotions took place. So while I think that 5 promotion games (with 7 queens appearing in total) are a little more common, it is still noteworthy when they occur. Sadly I was on the wrong end of this one! <br /> <b>Yang,Minchen - Press,Shaun [C45]</b><br />Belconnen Cup, 18.05.2021 <script>new PgnViewer( { boardName: \"game1243\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6 9.Nc3 a5 10.a4 Ba6 11.b3 d5 12.exd6 cxd6 13.Qxe7+ Bxe7 14.Be3 Bf6 15.Rc1 Rb8 16.Ne4 Nc8 17.Nxf6+ gxf6 18.Rb1 Kd7 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/a-seven-goal-thriller.html",
-         "pubDate" : "Wed, 19 May 2021 11:31:00 +0000",
-         "title" : "A seven goal thriller"
       }
    ]
 }
