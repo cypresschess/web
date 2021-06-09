@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There have been some health problems in my family of late, but - for now - things have settled down and it's possible to return to blogging. So let's do it and see if we can get some momentum going. It would help me if some of you would comment from time to time; it's more interesting for me when there's feedback, and it also creates some sense of community. If you can take a few moments to chime in, that would be terrific. Without further ado, let the \"real\" posts commence... ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/8/back-to-blogging.html",
+         "pubDate" : "Wed, 09 Jun 2021 02:47:52 +0000",
+         "title" : "Back to Blogging"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
