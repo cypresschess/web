@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021-day-4/",
+         "pubDate" : "Wed, 09 Jun 2021 06:42:52 +0000",
+         "title" : "Grand Chess Tour Romania 2021 - Day 4"
+      },
+      {
+         "description" : " Let's catch up on some other news, and take note of some interesting matters from around the web. 1.<span style=\"white-space: pre;\"> </span>Carlsen wins the <a href=\"https://championschesstour.com/\">FTX Crypto Cup</a> Old news, but for those who didn't follow the event, it's worth going back and browsing the games. After the preliminaries of this rapid event the quarterfinal pairings, in bracket order, were as follows: <ul> <li>Caruana vs. Nepomniachtchi</li> <li>MVL vs. So</li> <li>Nakamura vs. Carlsen</li> <li>Giri vs. Radjabov</li> </ul> It would have been interesting to have a world championship match preview, but it didn't happen. In fact, both players were nearly eliminated in the qua",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/9/this-and-that-from-here-and-there.html",
+         "pubDate" : "Wed, 09 Jun 2021 05:08:02 +0000",
+         "title" : "This and That From Here and There"
+      },
+      {
+         "description" : " While the online rapid &amp; blitz games make for good drama, it's nice to see slow over-the-board chess return (at least when the players fight and there's a non-trivial percentage of decisive games). The depth of the game is so much greater at a classical time control, and while it's harder to win and to pose unsolvable opening surprises when the defender has two hours rather than 20 minutes (or less) on the clock, that greater level of difficulty makes won games all the more impressive and valuable. The classical event in question is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-superbet-chess-classic\">Superbet Chess Classic</a> in Bucharest, Romania, which started J",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/8/the-superbeat-chess-classic-rounds-1-4.html",
+         "pubDate" : "Wed, 09 Jun 2021 02:51:06 +0000",
+         "title" : "The Superbeat Chess Classic, Rounds 1-4"
+      },
+      {
          "description" : " There have been some health problems in my family of late, but - for now - things have settled down and it's possible to return to blogging. So let's do it and see if we can get some momentum going. It would help me if some of you would comment from time to time; it's more interesting for me when there's feedback, and it also creates some sense of community. If you can take a few moments to chime in, that would be terrific. Without further ado, let the \"real\" posts commence... ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1242,14 +1266,6 @@ news_feed (
          "title" : "Qualifier III: Third time's a charm for Assaubayeva"
       },
       {
-         "description" : "Round nine of the Gibraltar leg of the FIDE Women's Grand Prix at the Caleta Hotel on 31 May came to a heart-stopping conclusion after six hours and ten minutes as&#160;Zhansaya Abdumalik&#160;of Kazakhstan won her game against&#160;Valentina Gunina&#160;of Russia in 133 moves despite never having the remotest chance of winning the game for the first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-tops-fide-womens-grand-prix-gibraltar/",
-         "pubDate" : "Sun, 30 May 2021 15:24:00 +0000",
-         "title" : "Zhansaya Abdumalik tops FIDE Women's Grand Prix Gibraltar - R9 report"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83089692.cms\" /></a> India's R Vaishali on Sunday won the women's Speed chess online championship qualifier 2, beating Polina Shuvalova of Russia in the final. The 20-year-old from Chennai, a woman Grandmaster, became the second Indian to qualify for the main event of the 2021 women's Speed Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2384,14 +2400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tani-adewumi-becomes-national-master-at-10",
          "pubDate" : "Wed, 19 May 2021 09:06:00 +0100",
          "title" : "Tani Adewumi becomes National Master at 10"
-      },
-      {
-         "description" : "American player and world's youngest IM is one norm away from breaking 19-year-old GM record.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31464540/speed-chess-abhimanyu-mishra-races-youngest-ever-gm?device=featurephone",
-         "pubDate" : "Wed, 19 May 2021 00:48:59 -0500",
-         "title" : "Speed chess: Abhimanyu Mishra races time to be youngest-ever GM"
       }
    ]
 }
