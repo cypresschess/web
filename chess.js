@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the Julius Baer Challengers Chess Tour begins today: the Gelfand Challenge. It is one of four challenges in which 20 of the world's best junior players (10 boys and 10 girls) face each other in a single round-robin event with a rapid time control (10+5). The winner will receive $3,000 and will get a place in the next tournament of the Meltwater Champions Chess Tour. | Picture: Julius Baer Challenger Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
+         "pubDate" : "Thu, 10 Jun 2021 15:48:55 +0100",
+         "title" : "The Gelfand Chess Challenge, Day 1 - Live!"
+      },
+      {
+         "description" : " If my memory hasn't completely gone, this weekends NSW Open will be my first 'away' weekend event since early last year. I'm not going as a player mid you, but as an arbiter. The last event I directed outside Canberra was the 2020 Australian Championship and since then it has either been local events, or online ones. The good news for the organisers is that there will be 140 players in attendance (actually the maximum allowed). The bad news for spectators/parents is that this is close to the venue capacity, so only 'essential' staff are allowed in the playing area. Otherwise you will have to follow the tournament online via <a href=\"http://nswopen.nswca.org.au\">nswopen.nswca.org.au</a> <br ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/on-road-again.html",
+         "pubDate" : "Thu, 10 Jun 2021 13:57:00 +0000",
+         "title" : "On the road - again"
+      },
+      {
          "description" : "World Youth Chess Championships are known to produce tons of interesting games and often very surprising and inconsistent results. However, it appears that at least one thing stays fairly consistent - certain federations typically gain rating points while others lose them at the event. Why is there such a contrasting trend for Asian versus European countries, and what could be the possible reasons behind it? Sveta Demchenko presents the data from which we can draw our conclusions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,20 @@ news_feed (
          "title" : "Why do some countries always gain and other always lose rating points?"
       },
       {
-         "description" : "The second event on the Julius Baer Challengers Chess Tour is named after the legendary Boris Gelfand. This is one of four challenges in which 20 young participants (10 boys and 10 girls) play a single round-robin event with a rapid time control. The winner will receive $15,000 in prize money plus a chance to face top opposition in the next event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-preview",
-         "pubDate" : "Thu, 10 Jun 2021 09:30:00 +0100",
-         "title" : "Julius Baer Challengers Tour: Gelfand Challenge kicks off Thursday"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1136",
+         "pubDate" : "Thu, 10 Jun 2021 11:17:07 +0000",
+         "title" : "FIDE World Cup 2021: Accommodation guide"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1138",
+         "pubDate" : "Thu, 10 Jun 2021 10:18:02 +0000",
+         "title" : "Ziaur Rahman wins Asian Zonal 3.2 Hybrid Championship"
       },
       {
          "description" : "Shakhriyar Mamedyarov joined Wesley So and Alexander Grischuk in the lead of the Superbet Chess Classic after beating local hero Constantin Lupulescu in round 5. The Romanian, who played with the white pieces, faltered in time trouble and is now sharing last place with Maxime Vachier-Lagrave and Anish Giri - a single point behind the leaders, though! | Photo: Bryan Adams",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Superbet: Mamedyarov joins the lead"
       },
       {
-         "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in first place in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful c...",
+         "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful combination. T...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-5-mamedyarov-lupulescu",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-5-shakh-attack",
          "pubDate" : "Thu, 10 Jun 2021 00:17:51 +0000",
          "title" : "Superbet Chess Classic 5: Shakh attack!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1137",
-         "pubDate" : "Thu, 10 Jun 2021 00:16:04 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 5 Recap"
       },
       {
          "description" : " Spurious Games: David Jenkins From the publisher: When a local chess player is discovered dead, Detective Inspector John Logos of Cornwall s St Borstal Constabulary is called in to investigate what turns out to be a serial killer running amok in the sedate world of Cornish chess. The detectives quickly find themselves as pawns in <a href=\"http://britishchessnews.com/2021/06/10/spurious-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Spurious Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/10/spurious-games/\">Spurious Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
@@ -93,9 +109,9 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1136",
-         "pubDate" : "Wed, 09 Jun 2021 20:17:07 +0000",
-         "title" : "FIDE World Cup 2021: Accommodation guide"
+         "link" : "https://www.fide.com/news/1137",
+         "pubDate" : "Wed, 09 Jun 2021 20:16:04 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 5 Recap"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps some of the best games from the ongoing Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbets-best-caruana-grischuk-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g0EHEyvuadg.jpg?itok=7S_p_AlG\" alt=\"\" /></a></div>",
@@ -2376,22 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventures-in-the-karpov-variation-4-nd7-of-the-caro-kann",
          "pubDate" : "Thu, 20 May 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
-      },
-      {
-         "description" : "Currently, a Grandmaster tournament and three matches between prominent players are played in Chartres, France. The idea is to give members of the club a chance to get practice after the long break caused by the pandemic. The 14-year-old Marc Andria Maurizzi hopes to get his third GM norm in the tournament to become France's youngest grandmaster of all time. But with 4.0/6 he still needs 2.5/3 in the final rounds to reach this goal. Tournament leader is Sophie Milliet (pictured) with 4.5/6. | Photos: Chartres Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sophie-milliet-leads-at-the-gm-tournament-in-chartres",
-         "pubDate" : "Thu, 20 May 2021 14:21:23 +0100",
-         "title" : "Sophie Milliet leads in Chartres"
-      },
-      {
-         "description" : " The 2021 Asian Continental Championship is being organised as a hybrid event, with the top 7 players qualifying for the 2021 World Cup. There are currently 85 players entered, with GM Temur Kuybokarov as the sole Australian representative. Although the regulations normally only allow players rated above 2300 (plus one nominated player per member federation), this years event sees a number of players who are below the cutoff. The tournament is being run on the Tornelo platform and begins at 4pm 21 May Canberra time. Each group of players is being supervised by a local arbiter, while there will also be remote supervision from tournament arbiters (** I am one of these arbiters **). If it turns",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/2021-asian-continental-championship.html",
-         "pubDate" : "Thu, 20 May 2021 13:10:00 +0000",
-         "title" : "2021 Asian Continental Championship "
       }
    ]
 }
