@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Youth Chess Championships are known to produce tons of interesting games and often very surprising and inconsistent results. However, it appears that at least one thing stays fairly consistent - certain federations typically gain rating points while others lose them at the event. Why is there such a contrasting trend for Asian versus European countries, and what could be the possible reasons behind it? Sveta Demchenko presents the data from which we can draw our conclusions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/why-do-some-countries-always-gain-and-other-always-lose-rating-points",
+         "pubDate" : "Thu, 10 Jun 2021 13:00:00 +0100",
+         "title" : "Why do some countries always gain and other always lose rating points?"
+      },
+      {
+         "description" : "The second event on the Julius Baer Challengers Chess Tour is named after the legendary Boris Gelfand. This is one of four challenges in which 20 young participants (10 boys and 10 girls) play a single round-robin event with a rapid time control. The winner will receive $15,000 in prize money plus a chance to face top opposition in the next event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-preview",
+         "pubDate" : "Thu, 10 Jun 2021 09:30:00 +0100",
+         "title" : "Julius Baer Challengers Tour: Gelfand Challenge kicks off Thursday"
+      },
+      {
          "description" : "Shakhriyar Mamedyarov joined Wesley So and Alexander Grischuk in the lead of the Superbet Chess Classic after beating local hero Constantin Lupulescu in round 5. The Romanian, who played with the white pieces, faltered in time trouble and is now sharing last place with Maxime Vachier-Lagrave and Anish Giri - a single point behind the leaders, though! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,7 +242,7 @@ news_feed (
          "title" : "25 million worldwide in school chess"
       },
       {
-         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
+         "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021-day-4/",
@@ -2376,14 +2392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/2021-asian-continental-championship.html",
          "pubDate" : "Thu, 20 May 2021 13:10:00 +0000",
          "title" : "2021 Asian Continental Championship "
-      },
-      {
-         "description" : "\"Ask me anything\" (AMA) is a \"Question & Answer\" format on the Reddit platform in which readers are invitid to ask a famous guest, well, anything. On 19 May, the Reddit readers asked Garry Kasparov about chess, Magnus Carlsen, Deep Blue, Artificial Intelligence, and much more. Kasparov's answer were open, frank, clear, and are a pleasure to read. | Photo: kasparov.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ask-me-anything-garry-kasparov-at-reddit",
-         "pubDate" : "Thu, 20 May 2021 10:48:28 +0100",
-         "title" : "\"Ask me anything\": Garry Kasparov at Reddit"
       }
    ]
 }
