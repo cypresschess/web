@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I wake up and I think I need to take some risk,\" said Shakhriyar Mamedyarov after playing an offbeat opening and crashing though in Constantin Lupulescu's time trouble to join Wesley So and Alexander Grischuk in the lead going into the rest day in Bucharest. The other games in Round 5 of the Superbet Chess Classic were all drawn, with Fabiano Caruana's 8.Qe2!? against the Berlin Defence the only one that's likely to be remembered.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-5-shakh-attack",
+         "pubDate" : "Thu, 10 Jun 2021 00:17:51 +0000",
+         "title" : "Superbet Chess Classic 5: Shakh attack!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1137",
+         "pubDate" : "Thu, 10 Jun 2021 00:16:04 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 5 Recap"
+      },
+      {
+         "description" : " Spurious Games: David Jenkins From the publisher: When a local chess player is discovered dead, Detective Inspector John Logos of Cornwall s St Borstal Constabulary is called in to investigate what turns out to be a serial killer running amok in the sedate world of Cornish chess. The detectives quickly find themselves as pawns in <a href=\"http://britishchessnews.com/2021/06/10/spurious-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Spurious Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/10/spurious-games/\">Spurious Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/06/10/spurious-games/",
+         "pubDate" : "Thu, 10 Jun 2021 00:10:04 +0000",
+         "title" : "Spurious Games"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian analyzes his second classical game against Argentinean Leandro Krysa during the final of the 2021 American Hybrid World Cup Qualifier. The online knockout featured players from nations in North and South America. Had Akobian won this game, he would have qualified for the Cup, but GM Krysa defended masterfully. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-got-away-insane-endgame-gm-varuzhan-akobian\"><img src=\"https",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,6 +224,14 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/9/this-and-that-from-here-and-there.html",
          "pubDate" : "Wed, 09 Jun 2021 05:08:02 +0000",
          "title" : "This and That From Here and There"
+      },
+      {
+         "description" : " You spend a lot of time on chess but do not really see improvement? I have been there as well. This means you should improve the quality of your training. Let me show you how! There is a common misconception when it comes to chess improvement. Whenever one talks about his training, one usually just [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/quality/\">Quality, Not Quantity: The Most Important Factor Of Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/quality/",
+         "pubDate" : "Wed, 09 Jun 2021 04:00:00 +0000",
+         "title" : "Quality, Not Quantity: The Most Important Factor Of Chess Improvement"
       },
       {
          "description" : " While the online rapid &amp; blitz games make for good drama, it's nice to see slow over-the-board chess return (at least when the players fight and there's a non-trivial percentage of decisive games). The depth of the game is so much greater at a classical time control, and while it's harder to win and to pose unsolvable opening surprises when the defender has two hours rather than 20 minutes (or less) on the clock, that greater level of difficulty makes won games all the more impressive and valuable. The classical event in question is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-superbet-chess-classic\">Superbet Chess Classic</a> in Bucharest, Romania, which started J",
@@ -557,7 +589,7 @@ news_feed (
          "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn new openings. An IM thinks [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
+         "link" : "https://nextlevelchess.blog/best-opening/",
          "pubDate" : "Sat, 05 Jun 2021 18:00:00 +0000",
          "title" : "What Is The Best Chess Opening? - There is None!"
       },
@@ -1101,7 +1133,7 @@ news_feed (
          "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is still a great investment in [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
+         "link" : "https://nextlevelchess.blog/find-your-chess-coach/",
          "pubDate" : "Tue, 01 Jun 2021 13:30:47 +0000",
          "title" : "How To Find Your Perfect Chess Coach In 5 Steps"
       },
@@ -1509,7 +1541,7 @@ news_feed (
          "description" : " It is one of the most frustrating feelings in chess. You play a great game, but then you get into time trouble and one wrong decision costs you the full point. Even though you played more good moves than your opponent, you end up losing the game. It certainly feels unfair, but that is how [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/time-trouble/\">How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/time-trouble/?utm_source=rss&utm_medium=rss&utm_campaign=time-trouble",
+         "link" : "https://nextlevelchess.blog/time-trouble/",
          "pubDate" : "Sat, 29 May 2021 14:00:00 +0000",
          "title" : "How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results"
       },
@@ -1762,14 +1794,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Comebacks"
       },
       {
-         "description" : "Wesley So and Teimour Radjabov have one foot in the FTX Crypto Cup semi-finals after winning Day 1 of their quarterfinals against Maxime Vachier-Lagrave and Anish Giri, but the greatest drama took place in the drawn matches. Magnus Carlsen and Hikaru Nakamura traded blows with White winning all four games in a throwback to the first day of the 2020 Magnus Carlsen Invitational, the event that launched the online chess revolution. New World Championship challenger Ian Nepomniachtchi looked set to beat ex-challenger Fabiano Caruana, but couldn't draw the final game on demand.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-carlsen-caruana-stage-comebacks",
-         "pubDate" : "Thu, 27 May 2021 11:38:25 +0000",
-         "title" : "FTX Crypto Cup 4: Carlsen & Caruana stage comebacks"
-      },
-      {
          "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1965,7 +1989,7 @@ news_feed (
          "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 In Every Game My father [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/blitz-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=blitz-analysis",
+         "link" : "https://nextlevelchess.blog/blitz-analysis/",
          "pubDate" : "Tue, 25 May 2021 14:21:00 +0000",
          "title" : "How To Improve By Playing Online Blitz: Analyse Every Single Game"
       },
@@ -2205,7 +2229,7 @@ news_feed (
          "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days after a tournament. This depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis-2/?utm_source=rss&utm_medium=rss&utm_campaign=game-analysis-2",
+         "link" : "https://nextlevelchess.blog/game-analysis-2/",
          "pubDate" : "Sat, 22 May 2021 10:46:00 +0000",
          "title" : "How To Analyse Your Own Games: Part 2"
       },
