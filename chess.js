@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shakhriyar Mamedyarov joined Wesley So and Alexander Grischuk in the lead of the Superbet Chess Classic after beating local hero Constantin Lupulescu in round 5. The Romanian, who played with the white pieces, faltered in time trouble and is now sharing last place with Maxime Vachier-Lagrave and Anish Giri - a single point behind the leaders, though! | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r5",
+         "pubDate" : "Thu, 10 Jun 2021 09:00:00 +0100",
+         "title" : "Superbet: Mamedyarov joins the lead"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in first place in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-5-mamedyarov-lupulescu",
+         "pubDate" : "Wed, 09 Jun 2021 21:40:00 -0700",
+         "title" : "Superbet Chess Classic: Mamedyarov Strikes With Wonderful Combination"
+      },
+      {
+         "description" : " Now it's five out of six decisive games that involve the Romanian players, as Constantin Lupulescu dropped to -1 after losing to Shakhriyar Mamedyarov, who now shares the lead with Wesley So and Alexander Grischuk. The game was interesting from start to finish, and the initiative went back and forth, but at a certain point Lupulescu lost the thread of the game. Mamedyarov built up a kingside attack, and when Lupulescu missed a nice tactical trick his game was instantly lost, and his opponent had no trouble bringing home the full point. The players are off on Thursday, and on Friday we have these pairings: <ul> <li>So (3) - Giri (2)</li> <li>Vachier-Lagrave (2) - Caruana 2.5</li> <li>Mamedya",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/9/the-superbet-chess-classic-round-5-mamedyarov-makes-it-a-tri.html",
+         "pubDate" : "Thu, 10 Jun 2021 03:49:18 +0000",
+         "title" : "The Superbet Chess Classic, Round 5: Mamedyarov Makes it a Triumvirate"
+      },
+      {
          "description" : "\"I wake up and I think I need to take some risk,\" said Shakhriyar Mamedyarov after playing an offbeat opening and crashing though in Constantin Lupulescu's time trouble to join Wesley So and Alexander Grischuk in the lead going into the rest day in Bucharest. The other games in Round 5 of the Superbet Chess Classic were all drawn, with Fabiano Caruana's 8.Qe2!? against the Berlin Defence the only one that's likely to be remembered.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/superbets-best-caruana-grischuk-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 09 Jun 2021 19:09:59 +0000",
          "title" : "Superbet's Best: Caruana & Grischuk | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov joined Wesley So and Alexander Grischuk in the lead of the Superbet Chess Classic after beating local hero Constantin Lupulescu in round 5. The Romanian, who played with the white pieces, faltered in time trouble and is now sharing last place with Maxime Vachier-Lagrave and Anish Giri - a single point behind the leaders, though! | Full report to follow shortly | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Wed, 09 Jun 2021 20:00:00 +0100",
-         "title" : "Superbet Chess Classic: Mamedyarov takes down Lupulescu [Express report]"
       },
       {
          "description" : "This week Merijn van Delft takes a look at Wesley So's fine win against Fabiano Caruana at the Superbet Chess Classic tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -237,9 +253,9 @@ news_feed (
          "description" : " While the online rapid &amp; blitz games make for good drama, it's nice to see slow over-the-board chess return (at least when the players fight and there's a non-trivial percentage of decisive games). The depth of the game is so much greater at a classical time control, and while it's harder to win and to pose unsolvable opening surprises when the defender has two hours rather than 20 minutes (or less) on the clock, that greater level of difficulty makes won games all the more impressive and valuable. The classical event in question is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-superbet-chess-classic\">Superbet Chess Classic</a> in Bucharest, Romania, which started J",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/8/the-superbeat-chess-classic-rounds-1-4.html",
+         "link" : "http://www.thechessmind.net/blog/2021/6/8/the-superbet-chess-classic-rounds-1-4.html",
          "pubDate" : "Wed, 09 Jun 2021 02:51:06 +0000",
-         "title" : "The Superbeat Chess Classic, Rounds 1-4"
+         "title" : "The Superbet Chess Classic, Rounds 1-4"
       },
       {
          "description" : " There have been some health problems in my family of late, but - for now - things have settled down and it's possible to return to blogging. So let's do it and see if we can get some momentum going. It would help me if some of you would comment from time to time; it's more interesting for me when there's feedback, and it also creates some sense of community. If you can take a few moments to chime in, that would be terrific. Without further ado, let the \"real\" posts commence... ",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-carlsen-vs-grischuk",
          "pubDate" : "Wed, 26 May 2021 18:00:00 +0100",
          "title" : "Game of the Week: Carlsen vs Grischuk"
-      },
-      {
-         "description" : "GM Jeffery Xiong won the May 25 Titled Tuesday tournament outright with a score of 10/11, his second win in as many months. GM Vladimir Dobrov finished second with 9.5/11 on a tiebreak over third-place GM Salem Saleh after both won in the final ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-may-25-titled-tuesday",
-         "pubDate" : "Wed, 26 May 2021 09:55:00 -0700",
-         "title" : "Xiong Wins May 25 Titled Tuesday"
       },
       {
          "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
