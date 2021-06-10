@@ -10,6 +10,14 @@ news_feed (
          "title" : "Sacrificial Magnus! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Smerdon</strong> <a href=\"https://www.davidsmerdon.com/?p=2168\">has published</a> a Fighting Chess Index (FCI) based on the proportion of draws by a player and the average number of moves in their drawn games during the period 2015-2020. The Australian grandmaster and lecturer in Economics at the University of Queensland has published a list of the 50 players with the highest average rating in 2015-2020, among whom the now inactive Vladimir Kramnik has the highest FCI score. <strong>Fabiano Caruana</strong> is the highest top ten player on 4th place with <strong>Magnus Carlsen</strong> not far behind. <strong>Alireza Firouzja</strong>'",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/caruana-biggest-fighter-in-top-ten/",
+         "pubDate" : "Thu, 10 Jun 2021 19:39:58 +0100",
+         "title" : "Caruana biggest fighter in top ten"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen will play the FIDE World Cup that starts in Sochi, Russia on July 12th, though as one of the Top 50 seeds he'll join from Round 2 on July 15th. Magnus last played in the 2017 World Cup, when he overpressed and got knocked out by Bu Xiangzhi in Round 3. Although Ian Nepomniachtchi and Wesley So have declined invitations the rest of the world Top 10, including world no. 2 Fabiano Caruana, defending champion Teimour Radjabov and losing finalist Ding Liren, are all set to play.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r2",
          "pubDate" : "Mon, 07 Jun 2021 13:30:00 +0100",
          "title" : "Superbet: Deac and Caruana strike first"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jordi Lopez</strong>, who already worked full-time for the <strong>French Chess Federation</strong> 2007-2018, is <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13389\">back as Technical Director</a>. His dismissal by former President Bachar Kouatly led to a lengthy law suit. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/jordi-lopez-returns-to-french/",
-         "pubDate" : "Mon, 07 Jun 2021 13:01:13 +0100",
-         "title" : "Jordi Lopez returns to French Federation"
       },
       {
          "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to the",
