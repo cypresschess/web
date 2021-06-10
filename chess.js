@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LsfL3Qm7",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 10 Jun 2021 19:11:12 +0000",
+         "title" : "Sacrificial Magnus! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen will play the FIDE World Cup that starts in Sochi, Russia on July 12th, though as one of the Top 50 seeds he'll join from Round 2 on July 15th. Magnus last played in the 2017 World Cup, when he overpressed and got knocked out by Bu Xiangzhi in Round 3. Although Ian Nepomniachtchi and Wesley So have declined invitations the rest of the world Top 10, including world no. 2 Fabiano Caruana, defending champion Teimour Radjabov and losing finalist Ding Liren, are all set to play.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-plays-the-2021-world-cup",
+         "pubDate" : "Thu, 10 Jun 2021 18:30:43 +0000",
+         "title" : "Magnus Carlsen plays the 2021 World Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.fide.com/news/1139\">confirmed his participation</a> in the <strong>World Cup</strong> that starts on 14 July in Sochi where he will fight for a $88,000 first prize (according to the <a href=\"https://handbook.fide.com/files/handbook/WorldCup2021Regulations.pdf\">regulations</a> 20% of the nominal prizes are retained by <strong>FIDE</strong>). His challenger <strong>Ian Nepomniachtchi</strong> is one of the few missing top players. If the world champion reaches the final, the second qualification spot for the Candidates Tournament 2022 goes to the winner of the match for 3rd place. Except for a f",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-plays-world-cup/",
+         "pubDate" : "Thu, 10 Jun 2021 19:18:33 +0100",
+         "title" : "Carlsen plays World Cup"
+      },
+      {
+         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Irina Krush talks about her time dealing with the coronavirus, which still affects her today, if she has more power and ambition to win another U.S. women's champion title, and what her plans are for the future, involving an own YouTube channel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-interview-irina-krush",
+         "pubDate" : "Thu, 10 Jun 2021 18:37:55 +0100",
+         "title" : "Rapid Interview - Irina Krush"
+      },
+      {
+         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new developments in an old opening: the Open Ruy Lopez. Bogdan Deac used this line to surprisingly win with Black against Maxime Vachier-Lagrave in the Superbet Chess Classic Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-open-ruy-lopez",
+         "pubDate" : "Thu, 10 Jun 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Ruy Lopez Open Variation"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-to-play-the-fide-world-cup-in-sochi/articleshow/83407852.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83407852.cms\" /></a>The reigning World Chess Champion will be one of the participants in the upcoming FIDE World Cup, to be played in Sochi next month.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-to-play-the-fide-world-cup-in-sochi/articleshow/83407852.cms",
+         "pubDate" : "Thu, 10 Jun 2021 22:14:24 +0530",
+         "title" : "Magnus Carlsen to play the FIDE World Cup in Sochi"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1139",
+         "pubDate" : "Thu, 10 Jun 2021 16:35:36 +0000",
+         "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
+      },
+      {
+         "description" : " The Gelfand Challenge is the second rapid event of the Baer Challengers Chess Tour played on the Chess24 servers. This 20 player round robin has some of the best young players competing. The time control is 10 minutes plus a 5-second increment. Players: Nodirbek Abdusattorov, Sarin Nihal, R Praggnanandhaa, Awonder Liang, Vincent Keymer, D Gukesh, Leon Luke Mendonca, Jonas Buhl Bjerre, Tingjie Lei, Volodar Murzin, Dinara Saduakassova, Sarasadat Khademalsharieh, Polina Shuvalova, Zhansaya Abdumalik, Jiner Zhu, Christopher Woojin Yoo, Gunay Mammadzada, Carissa Yip, Olga Badelka, Nurgyul Salimova.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
+         "pubDate" : "Thu, 10 Jun 2021 19:50:00 +0400",
+         "title" : "Gelfand Challenge 2021 - Games and Results"
+      },
+      {
          "description" : "The second event of the Julius Baer Challengers Chess Tour begins today: the Gelfand Challenge. It is one of four challenges in which 20 of the world's best junior players (10 boys and 10 girls) face each other in a single round-robin event with a rapid time control (10+5). The winner will receive $3,000 and will get a place in the next tournament of the Meltwater Champions Chess Tour. | Picture: Julius Baer Challenger Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r5",
          "pubDate" : "Thu, 10 Jun 2021 09:00:00 +0100",
          "title" : "Superbet: Mamedyarov joins the lead"
+      },
+      {
+         "description" : "European Women Individual Chess Championship 2021 will take place from 8th-21st of August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. The total&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/",
+         "pubDate" : "Thu, 10 Jun 2021 06:02:53 +0000",
+         "title" : "European Women Individual Chess Championship - 20 June Registration Deadline"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful combination. T...",
@@ -304,14 +376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1134",
          "pubDate" : "Tue, 08 Jun 2021 23:14:21 +0000",
          "title" : "2021 Superbet Chess Classic - Day 4 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko concludes his mini-series about the Philidor Defense, with this one specifically on the Hanham and Lion variations. 2021.06.07<br /> B07 Pirc defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/philidor-2-hanham-lion-variations-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gItrnnQf3A.jpg?itok=IUHbls9e\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/philidor-2-hanham-lion-variations-chess-openings-explained",
-         "pubDate" : "Tue, 08 Jun 2021 22:09:14 +0000",
-         "title" : "The Philidor #2: Hanham & Lion Variations | Chess Openings Explained"
       },
       {
          "description" : "",
@@ -696,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deep",
          "pubDate" : "Sat, 05 Jun 2021 09:00:00 +0100",
          "title" : "Deep"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Dutch Chess Federation</strong> is running relegation matches this June for the <a href=\"https://www.schaakbond.nl/nieuws/opstarten-knsb-competitie-20212022\">new regular season</a> to start on 17 September. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/dutch-leagues-to-start-on-17/",
-         "pubDate" : "Sat, 05 Jun 2021 08:28:31 +0100",
-         "title" : "Dutch leagues to start on 17 September"
       },
       {
          "description" : " Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez : FM Ioannis Simeonidis From the book's rear cover : &#8220;White players will thoroughly dislike the Neo-M&oslash;ller! The Ruy Lopez is one of the most important chess openings, hugely popular with amateurs and masters alike. Black players allowing the Ruy Lopez main lines are <a href=\"http://britishchessnews.com/2021/06/05/carlsens-neo-moller/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessne",
@@ -1746,14 +1802,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Close calls"
       },
       {
-         "description" : "We may get a World Championship match rehearsal, either in the final or the 3rd place match, after both Magnus Carlsen and Ian Nepomniachtchi made it through to the FTX Crypto Cup semi-finals. Magnus took down Hikaru Nakamura after coming back from losing the first game on Day 2 of their quarterfinals to win a blitz playoff. Nepo also needed blitz to beat Fabiano Caruana and will now face Wesley So, who cruised to victory over Maxime Vachier-Lagrave. Magnus takes on Teimour Radjabov, who knocked out Anish Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-are-we-heading-for-a-carlsen-nepomniachtchi-preview",
-         "pubDate" : "Fri, 28 May 2021 08:52:41 +0000",
-         "title" : "FTX Crypto Cup 5: Are we headed for a Carlsen-Nepo preview?"
-      },
-      {
          "description" : "The semifinals of the FTX Crypto Cup will start on Friday with the matches GM Magnus Carlsen vs. GM Teimour Radjabov and GM Ian Nepomniachtchi vs. GM Wesley So. While Radjabov and So quickly secured victory against GM Anish Giri and GM Maxime Va...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2210,14 +2258,6 @@ news_feed (
          "title" : "I thought this was bonkers"
       },
       {
-         "description" : "European Hybrid Qualification Tournament for the FIDE World Cup will take place from 24th-30th May through Tornelo online platform. 36 players will qualify for the FIDE World Cup 2021. Official Regulations European Hybrid Qualification event Technical Requirements&#160; FIDE Requirements for Hybrid World Cup 2021 Qualifiers A detailed guide for the venues Knock out Pairing Tree Pairings of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-hybrid-qualification-tournament-for-the-fide-world-cup/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-hybrid-qualification-tournament-for-the-fide-world-cup/",
-         "pubDate" : "Sun, 23 May 2021 13:19:19 +0000",
-         "title" : "EUROPEAN HYBRID QUALIFICATION TOURNAMENT STARTS"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2368,30 +2408,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/21/chess-magnus-carlsen-and-entire-world-top-10-compete-for-volatile-bitcoin",
          "pubDate" : "Fri, 21 May 2021 07:00:00 +0000",
          "title" : "Chess: Magnus Carlsen and entire world top 10 compete for volatile bitcoin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1090",
-         "pubDate" : "Thu, 20 May 2021 18:21:04 +0000",
-         "title" : "In memory of Max Euwe on the 120th anniversary of his birth"
-      },
-      {
-         "description" : " The FTX Crypto Cup is part of the online Champions Chess Tour and takes place 23rd to 31st May 2021. This is the last Major - that is an event where the winner qualifies directly for the tour final in late September - although there are 3 more standard events and the leading players in the tour standings will qualify for the finals too. The top 10 players in the world all compete making this the strongest event on the tour so far. 16 players in the preliminaries will play a round robin to produce 8 qualifiers for the second knockout stage. Players: Magnus Carlsen, Maxime Vachier-Lagrave, Liren Ding, Hikaru Nakamura, Alexander Grischuk, Ian Nepomniachtchi, Levon Aronian, Fabiano Caruana, Dan",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021",
-         "pubDate" : "Thu, 20 May 2021 20:49:00 +0400",
-         "title" : "FTX Crypto Cup 2021 - Games and Results"
-      },
-      {
-         "description" : "In this week's show, well-known Dutch trainer Robert Ris takes a look at the Karpov Variation of the Caro-Kann, a still reliable but also somewhat risky system. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventures-in-the-karpov-variation-4-nd7-of-the-caro-kann",
-         "pubDate" : "Thu, 20 May 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Adventures in the Karpov Variation (4...Nd7) of the Caro-Kann"
       }
    ]
 }
