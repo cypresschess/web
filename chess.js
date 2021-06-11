@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Superbet Chess Classic is the first event of this year's Grand Chess Tour and it takes place in Bucharest, Romania from June 5 to June 14. Canadian FM Joshua Doknjas had a look at four interesting games from the first five rounds of the tournament, all of which contain important opening ideas and are dynamic battles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-1",
+         "pubDate" : "Fri, 11 Jun 2021 13:00:00 +0100",
+         "title" : "New Opening Ideas in Bucharest - Part 1"
+      },
+      {
+         "description" : "The Tornelo link for the championship is forwarded to your respective email IDs which you used during AICF Registration. If you have registered for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attention-all-the-players-registered-for-national-under-16-open-girls-online-chess-championship-2021/",
+         "pubDate" : "Fri, 11 Jun 2021 11:12:10 +0000",
+         "title" : "KIND ATTENTION ALL THE PLAYERS REGISTERED FOR NATIONAL UNDER-16 OPEN & GIRLS ONLINE CHESS CHAMPIONSHIP-2021"
+      },
+      {
+         "description" : "Five rounds have been played at the first leg of the Grand Chess Tour Romania 2021. After 5 played rounds, the resting day took place yesterday. World No. 9 GM Shakhriyar Mamedyarov won the only decisive game of the day 5 as he defeated GM Constantin Lupulescu with the Black pieces, catching up to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-6-grand-chess-tour-romania-2021/",
+         "pubDate" : "Fri, 11 Jun 2021 09:43:11 +0000",
+         "title" : "Round 6 - Grand Chess Tour Romania 2021"
+      },
+      {
+         "description" : "Surprising news from FIDE: in a press release the FIDE announced that World Champion Magnus Carlsen will play in the next World Cup, which will take place in Sochi, Russia, from July 10 to August 6. It's a knock-out event with 206 players, in which the two finalists will qualify for the Candidates 2022. However, as reigning World Champion Carlsen is already guaranteed a spot in the Candidates 2022 should he lose the World Championship match against Ian Nepomniachtchi in November. But maybe the World Champion wants to play some over-the-board chess again after the long break caused by the pandemic and enjoys the challenge of a very tough tournament. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-to-play-in-fide-world-cup-in-sochi",
+         "pubDate" : "Fri, 11 Jun 2021 10:30:00 +0100",
+         "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
+      },
+      {
+         "description" : "American phenom GM Awonder Liang shone with a perfect start in the Gelfand Challenge, racing out to a 5-0 score and leading the pack of 20 of the world's best young chess talents. The second event of the $100,000 Julius Baer Challengers Chess Tour kicked off with high-paced action right out of its gates, seeing only 12 total draws across 50 games in a fighting first day of the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gelfand-challenge-1-awonder-s-stunning-start",
+         "pubDate" : "Fri, 11 Jun 2021 09:16:29 +0000",
+         "title" : "Gelfand Challenge 1: Awonder's stunning start"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The UK charity <strong>Chess in Schools and Communities</strong> runs a Alice in Wonderland-themed <a href=\"https://www.chess-fest.com/\">weekend of chess</a> in Central London culminating on Trafalgar Square. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessfest-in-london-on-16-18-july/",
+         "pubDate" : "Fri, 11 Jun 2021 10:15:52 +0100",
+         "title" : "ChessFest in London on 16-18 July"
+      },
+      {
+         "description" : "The top 50 of the Fighting Chess Index introduced by the Australian grandmaster and economist David Smerdon has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Cla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fighting-chess-index-kramnik-radjabov",
+         "pubDate" : "Fri, 11 Jun 2021 01:37:00 -0700",
+         "title" : "Kramnik Tops Fighting Chess Index Top 50, Radjabov At Bottom"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Club Cup</strong> will take place in Lake Ohrid (Macedonia) 17-25 September, the <strong>European Teams Championship</strong> in Terme Omilia (Slovenia) 11-22 November, and the <strong>European Rapid and Blitz</strong> in Katowice (Poland) 16-19 December. A decision about the <strong>European Youth Championship</strong> <a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">has been postponed</a> by the <strong>ECU</strong> board to early July. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/ecu-announces-2021-events/",
+         "pubDate" : "Fri, 11 Jun 2021 09:12:17 +0100",
+         "title" : "ECU announces 2021 events"
+      },
+      {
+         "description" : "Greetings from the All India Chess Federation. This notice is hereby issued in furtherance of the unanimous decisions taken by the members of the AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/public-notice-dob-issue/",
+         "pubDate" : "Fri, 11 Jun 2021 07:49:29 +0000",
+         "title" : "PUBLIC NOTICE : DOB ISSUE"
+      },
+      {
          "description" : "Yermo is back! Once the restrictions allowed it, he made it down to Mexico City with travelling pal Alexander Shabalov to try his hand in a 10-player round robin. In a thorough report, including plenty of pictures and annotations, he tells us all about his time in CDMX - chapulines, positive COVID tests and good old over-the-board chess made for a great experience in the second-largest metropolitan area of the Western Hemisphere.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
          "pubDate" : "Thu, 10 Jun 2021 19:50:00 +0400",
          "title" : "Gelfand Challenge 2021 - Games and Results"
-      },
-      {
-         "description" : "The second event of the Julius Baer Challengers Chess Tour begins today: the Gelfand Challenge. It is one of four challenges in which 20 of the world's best junior players (10 boys and 10 girls) face each other in a single round-robin event with a rapid time control (10+5). The winner will receive $3,000 and will get a place in the next tournament of the Meltwater Champions Chess Tour. | Picture: Julius Baer Challenger Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
-         "pubDate" : "Thu, 10 Jun 2021 15:48:55 +0100",
-         "title" : "The Gelfand Chess Challenge, Day 1 - Live!"
       },
       {
          "description" : " If my memory hasn't completely gone, this weekends NSW Open will be my first 'away' weekend event since early last year. I'm not going as a player mid you, but as an arbiter. The last event I directed outside Canberra was the 2020 Australian Championship and since then it has either been local events, or online ones. The good news for the organisers is that there will be 140 players in attendance (actually the maximum allowed). The bad news for spectators/parents is that this is close to the venue capacity, so only 'essential' staff are allowed in the playing area. Otherwise you will have to follow the tournament online via <a href=\"http://nswopen.nswca.org.au\">nswopen.nswca.org.au</a> <br ",
@@ -370,14 +434,6 @@ news_feed (
          "title" : "Chessable supports chess-related research"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A joint working group of <strong>FIDE</strong> and <strong>ECU</strong> has presented a <a href=\"https://www.fide.com/news/1131\">worldwide survey</a> that estimates that more than 25 million pupils learn and play chess in schools. Since 15 million of these are in India and 5 million in China, the numbers on the other continents seem lower than circulated earlier. More than 90,000 school teachers and more than 140,000 chess instructors are estimated to be involved. It is not clarified if these numbers are current or prepandemic. The survey forms the basis for a new strategy and policies that shall be formulated in the next months. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/25-million-worldwide-in-school-chess/",
-         "pubDate" : "Wed, 09 Jun 2021 09:29:11 +0100",
-         "title" : "25 million worldwide in school chess"
-      },
-      {
          "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -608,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-werle-beat-the-king-s-indian",
          "pubDate" : "Mon, 07 Jun 2021 11:00:00 +0100",
          "title" : "Jan Werle: Beat the King's Indian"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Reporting on women and girls in chess can go wrong in many ways, but do not despair, help is near. <em>Tatiana Flores</em> has some guidelines. </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/fide-website-3-june-all-women.1920.jpeg\" title=\"Women's chess was all over the FIDE website during the last week. \" data-title=\"Women's chess was all over the FIDE website during the last week.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/fide-website-3-june-all-women.960.jpeg\" alt=\"Women's chess was all over the FIDE website during the last week.\" srcset=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/by-all-appearances/",
-         "pubDate" : "Mon, 07 Jun 2021 09:36:21 +0100",
-         "title" : "By all appearances"
       },
       {
          "description" : "",
@@ -1402,14 +1450,6 @@ news_feed (
          "title" : "Vladimir Kramnik at the Armageddon Studio"
       },
       {
-         "description" : "European Hybrid Swiss tiebreak took place yesterday as a 9 rounds Swiss tournament, deciding the distribution of 32.000 EUR prize pool. 36 qualifiers for the FIDE World Cup 2021 participated the Finals. After 9 played rounds, two players tied for the top scoring 6.5 points each: Vladislav Artemiev (RUS, 2709) and Aleksandar Indjic (SRB, 2607). []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
-         "pubDate" : "Mon, 31 May 2021 18:06:32 +0000",
-         "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
-      },
-      {
          "description" : " Magnus Carlsen won the FTX Crypto Chess Cup beating Wesley So in an Armageddon tie-break. This win means that Carlsen will appear in the Meltwater tour final in September, although with his lead in the standings this seemed very likely anyway his victory in this last major means that he's already there by right. Carlsen struggled with his form throughout the tournament, he almost didn't make it to the knockout phase. On the final day he took the lead winning the first game playing powerfully to exploit some only slightly misplaced pieces. In game two Carlsen almost certainly mixed something up in his opening preparation, and in a sharp Sicilian this proved to be enough for So to win extreme",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1714,14 +1754,6 @@ news_feed (
          "title" : "Gibraltar GP: Abdumalik and Muzychuk share the lead"
       },
       {
-         "description" : "Magnus Carlsen gave perhaps his shortest interview ever after Teimour Radjabov unleashed some deep opening preparation to level the scores on Day 1 of their FTX Crypto Cup semi-final. In the other encounter Ian Nepomniachtchi failed to exploit an incredible blunder by Wesley So in Game 3 before Game 4 became an ordeal that could have featured in Dante's Inferno. While Wesley was grinding out a win in a drawish ending, Nepo was trying and failing to fend off a swarm of mosquitoes.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-6-mosquitoes-radjabov-bite-back",
-         "pubDate" : "Sat, 29 May 2021 08:05:52 +0000",
-         "title" : "FTX Crypto Cup 6: Mosquitoes & Radjabov bite back"
-      },
-      {
          "description" : "The Western Roman Empire fell definitively in 476AD, when the barbarian Germanic King Odoacer deposed the last Western Emperor Romulus Augustulus and despatched the imperial insignia to the Emperor of the East, Flavius Zeno. The Eastern Empire then went on to survive for a further 977 years under the guise of the Byzantine or Greek []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1928,14 +1960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-4",
          "pubDate" : "Thu, 27 May 2021 13:20:00 +0100",
          "title" : "FTX Crypto Cup: Comebacks"
-      },
-      {
-         "description" : "GM Teimour Radjabov and GM Wesley So are leading their two-day matches in the quarterfinals of the FTX Crypto Cup. Radjabov defeated GM Anish Giri in the fourth game, while So beat GM Maxime Vachier-Lagrave twice. In a remarkable first match bet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-ftx-crypto-cup-quarterfinals-day-1",
-         "pubDate" : "Thu, 27 May 2021 02:28:00 -0700",
-         "title" : "FTX Crypto Cup QF: Radjabov, So Lead As Carlsen, Nakamura Trade Blows"
       },
       {
          "description" : "All players eligible to participate in the national age-group chess championships are hereby notified that they can register themselves at the AICF portal directly. Please",
@@ -2424,14 +2448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
          "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
          "title" : "Chartres: Maurizzi on course for the title"
-      },
-      {
-         "description" : "Practice what you preach: in a theme blitz tournament on playchess.com the well-known and popular ChessBase authors Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft showed why they like and what they know about the openings they present in their courses. If you missed the live transmission of the entertaining event on twitch.tv, here's a summary with highlights from the games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thematic-tournament-with-kasimdzhanov-marin-ris-van-delft-and-king",
-         "pubDate" : "Fri, 21 May 2021 11:05:19 +0100",
-         "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
       }
    ]
 }
