@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian reviews the best games from this week in world class chess. 2021.06.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/close-glory-2014-us-championship-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PzupT0BaFQU.jpg?itok=6CfEsR0Y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/close-glory-2014-us-championship-grandmasters-choice-gm-varuzhan-akobian",
+         "pubDate" : "Fri, 11 Jun 2021 01:11:18 +0000",
+         "title" : "Close to Glory: 2014 U.S. Championship | Grandmaster's Choice - GM Varuzhan Akobian"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LsfL3Qm7",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-5",
          "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
          "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-love-magnus-carlsen-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/we-love-magnus-carlsen-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "We Love Magnus Carlsen! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
