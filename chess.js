@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shakhriyar Mamedyarov and Alexander Grischuk were sharing the lead with Wesley So after five rounds at the Superbet Chess Classic in Bucharest. Both the Azerbaijani and the Russian won their round-6 games and are now a half point ahead of So, who drew Anish Giri with the white pieces. | Full report to follow shortly | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Fri, 11 Jun 2021 20:00:00 +0100",
+         "title" : "Superbet Chess Classic: Grischuk and Mamedyarov score [Express report]"
+      },
+      {
+         "description" : " This week, we are going to start delving into the world of tactics. You have probably heard the world tactics used in unison with the word strategy, as in the phrase strategy and tactics. The two words are actually very different in meaning. Strategy can be thought of as the overall plan that helps you <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\">A Foundation for Beginners Twenty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-two/",
+         "pubDate" : "Fri, 11 Jun 2021 18:17:37 +0000",
+         "title" : "A Foundation for Beginners Twenty Two"
+      },
+      {
+         "description" : "In this Power Play Show GM Daniel King features some complex calculation from the Superbet Chess Classic tournament in Bucharest, focusing in particular on the fine game Caruana-Lupulescu.| Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-fabiano-caruana-calculation-and-strategy",
+         "pubDate" : "Fri, 11 Jun 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Calculation and strategy"
+      },
+      {
+         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss the juicy topic of how fair you would play chess in a high stakes situation, how Alex Yermolinksy played in Mexico, and Lawrence Trent's journey to becoming a Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-10",
+         "pubDate" : "Fri, 11 Jun 2021 17:43:55 +0100",
+         "title" : "News Review - Fair play, Ratings, and a journey to becoming a GM"
+      },
+      {
+         "description" : " The sixth round of the Superbet Chess Classic saw wins for two of the three leaders. Alexander Grischuk took advantage of a mistake by Constantin Lupulescu while they were still in theory. Shakhriyar Mamedyarov beat Levon Aronian in a pretty well known line where Aronian went wrong pretty fast after Mamedyarov's novelty. The third leader going into the round was Wesley So, his advantage was not quite enough for a win against Anish Giri. Grischuk beat Lupulescu in a Sicilian Richter-Rauser. 17...Bb5? led to a win for black in the game Stefansson-Filipenko from 2001 but 18.Qe1! (instead of 18.Be2 which is about equal) led to a significant advantage for white and he brought home the full point",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-and-grischuk-lead-the-superbet-classic-with-4-points-from-6-games",
+         "pubDate" : "Fri, 11 Jun 2021 20:23:00 +0400",
+         "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
+      },
+      {
          "description" : "Just like in 2017, GM Magnus Carlsen will be participating in the FIDE World Cup that starts July 12 in Sochi, Russia. The world champion won&#39;t be clashing with his challenger GM Ian Nepomniachtchi, who instead has chosen to focus on preparing for...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-1",
          "pubDate" : "Fri, 11 Jun 2021 14:00:00 +0100",
          "title" : "Gelfand Challenge: A perfect start for Liang"
-      },
-      {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 5. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Fri, 11 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The 2021 Superbet Chess Classic is the first event of this year's Grand Chess Tour and it takes place in Bucharest, Romania from June 5 to June 14. Canadian FM Joshua Doknjas had a look at four interesting games from the first five rounds of the tournament, all of which contain important opening ideas and are dynamic battles.",
@@ -2050,14 +2082,6 @@ news_feed (
          "title" : "Going to the women's World Cup with an open mind: R Vaishali"
       },
       {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras Our club tournament is into its second half. The results are beginning to matter for the final standings. One of the students was on the verge of running away with it. This is what a 5 out of 5 result gives you. The round 6 encounter with another <a href=\"https://chessimprover.com/quick-decisions-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-5/\">Quick Decisions (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-5/",
-         "pubDate" : "Wed, 26 May 2021 11:52:00 +0000",
-         "title" : "Quick Decisions (5)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2424,30 +2448,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/",
          "pubDate" : "Sat, 22 May 2021 00:10:31 +0000",
          "title" : "Play the Budapest Gambit"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King looks back to the Russian Team Championships in Sochi and presents interesting miniatures, games in which one side quickly collapsed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-miniatures-from-the-russian-team-championships",
-         "pubDate" : "Fri, 21 May 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Miniatures from the Russian Team Championships"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. After not having a show last Friday, This week we talk about the Fritztrainer tournament with Kasimdzhanov, King & Co, the young talent Adewumi, how \"funding\" plays a role in developing child prodigies, and our thoughts about \"no castling\" chess, which will take place in Dortmund soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-7",
-         "pubDate" : "Fri, 21 May 2021 17:17:59 +0100",
-         "title" : "The ChessBase News Review (07.05. - 21.05)"
-      },
-      {
-         "description" : "It was a two-part task: from the reactions of students to a Zen master's whispered hints, they try to deduce which piece he is thinking of. In the second part you have to solve a chess study with a uniquely different drawing strategy. Very strong players all over the world joined in our experiment - most failed to solve the Logical. Here at last are the solutions - both of them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
-         "pubDate" : "Fri, 21 May 2021 17:00:00 +0100",
-         "title" : "Chess Logical: did you solve it?"
       }
    ]
 }
