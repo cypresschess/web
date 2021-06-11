@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yermo is back! Once the restrictions allowed it, he made it down to Mexico City with travelling pal Alexander Shabalov to try his hand in a 10-player round robin. In a thorough report, including plenty of pictures and annotations, he tells us all about his time in CDMX - chapulines, positive COVID tests and good old over-the-board chess made for a great experience in the second-largest metropolitan area of the Western Hemisphere.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yermos-travels-back-on-the-road",
+         "pubDate" : "Fri, 11 Jun 2021 08:27:47 +0100",
+         "title" : "Yermo's travels: Back on the road"
+      },
+      {
+         "description" : " The 58-year-old will play several of the current elite grandmasters at the over-the-board event in Zagreb, Croatia Garry Kasparov, now aged 58 and for many still the all-time No 1 player, will make a rare cameo comeback next month when the 2021 over-the-board Grand Tour, which was cancelled in 2020 due to the pandemic, reaches Zagreb in Croatia. Kasparov will play 18 games in the five-minute blitz section on 10-11 July, when his leading opponent will be the current world title challenger, Ian Nepomniachtchi, who is not playing the full Tour but is competing in Zagreb as a wildcard. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes",
+         "pubDate" : "Fri, 11 Jun 2021 07:00:11 +0000",
+         "title" : "Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes"
+      },
+      {
+         "description" : " This rapid &amp; blitz event, part of the 2021 Grand Chess Tour, takes place in Zagreb, Croatia from July 6-11. Maxime Vachier-Lagrave, Alexander Grischuk, Shakhriyar Mamedyarov, and Anish Giri are participating as full tour players; Garry Kasparov, Viswanathan Anand, Ian Nepomniachtchi, Ivan Saric, Jan-Krzysztof Duda, Anton Korobov, and Jorden Van Foreest are participating as wildcards. Nine of the eleven players are participating in both events; unfortunately, Kasparov is only playing in the blitz, leaving Saric to take his place in the rapid. Based on his performances in recent years, Kasparov is unlikely to do very well unless he will have spent more time preparing than usual. He's sure",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/11/kasparov-and-anand-to-play-the-croatia-grand-prix.html",
+         "pubDate" : "Fri, 11 Jun 2021 06:15:01 +0000",
+         "title" : "Kasparov and Anand to Play the Croatia Grand Prix"
+      },
+      {
+         "description" : " Before you <a href=\"https://www.davidsmerdon.com/?p=2168\">have a look</a> at GM David Smerdon's top 50 and how he calculated his \"fighting chess index\", take a guess as to who was #1 from 2015-2020. Some of you may be surprised (at least those of you with long memories and a hatred for the \"B-word\"). And you probably <em>won't</em> be surprised by who came in last, at least if you've been paying attention. Regardless, it's fun, and there are surprises like alleged drawmeister Anish Giri finishing ahead of Daniil Dubov (as noted by HT recipient Ross Hytnen). Thoughts? ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/11/the-fighting-chess-index.html",
+         "pubDate" : "Fri, 11 Jun 2021 06:08:57 +0000",
+         "title" : "The Fighting Chess Index"
+      },
+      {
+         "description" : "The&#160;third&#160;ECU Board meeting in 2021 took place on&#160;Wednesday&#160;9th&#160;of June&#160;through teleconference.&#160; ECU Board discussed the reports of European Online and Hybrid Competitions,&#160;which were&#160;organized from March to May 2021 and expresses its satisfaction with the level and results of the events.&#160;For the European Hybrid Qualifier Tournament, ECU thanks National Chess Federations, who went to great lengths to organize the venues&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/",
+         "pubDate" : "Fri, 11 Jun 2021 05:44:00 +0000",
+         "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian reviews the best games from this week in world class chess. 2021.06.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/close-glory-2014-us-championship-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PzupT0BaFQU.jpg?itok=6CfEsR0Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2002,14 +2042,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Preliminaries Finish; Quarterfinals are Set"
       },
       {
-         "description" : "European Hybrid Qualification Tournament for the FIDE World Chess Cup launched on Monday, May 24, through Tornelo Online platform. Shortly before the start of the first round, ECU Secretary General Mr. Theodoros Tzorbatsoglou joined the ECU live studio and addressed all the players. 264 players from 35 European federations registered for the event, but only 240 competed in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/r1-report-european-hybrid-qualification-tournament/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/r1-report-european-hybrid-qualification-tournament/",
-         "pubDate" : "Wed, 26 May 2021 05:44:16 +0000",
-         "title" : "R1 report -European Hybrid Qualification Tournament"
-      },
-      {
          "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2400,14 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/thematic-tournament-with-kasimdzhanov-marin-ris-van-delft-and-king",
          "pubDate" : "Fri, 21 May 2021 11:05:19 +0100",
          "title" : "The experts play their openings: a theme tournament with Rustam Kasimdzhanov, Mihail Marin, Robert Ris and Merijn van Delft"
-      },
-      {
-         "description" : " World champion seeks second tournament victory in a row in richest and strongest online event Bitcoin, the wildly fluctuating crypto-currency, and the careful strategies of the chessboard might seem to have little in common as partners but the unlikely marriage is about to happen. On Sunday the pair come together in the strongest and richest ever online tournament, the FTX Crypto Cup, with the entire world top 10 in the <a href=\"https://www.2700chess.com/\" title=\"\">live ratings</a> taking part and a record $320,000 prize fund. FTX is a leading cryptocurrency exchange, so the prize total includes $100,000 in bitcoin, whose volatile movements will be displayed to fans in real time on the <a h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/may/21/chess-magnus-carlsen-and-entire-world-top-10-compete-for-volatile-bitcoin",
-         "pubDate" : "Fri, 21 May 2021 07:00:00 +0000",
-         "title" : "Chess: Magnus Carlsen and entire world top 10 compete for volatile bitcoin"
       }
    ]
 }
