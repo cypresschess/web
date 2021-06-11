@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just like in 2017, GM Magnus Carlsen will be participating in the FIDE World Cup that starts July 12 in Sochi, Russia. The world champion won&#39;t be clashing with his challenger GM Ian Nepomniachtchi, who instead has chosen to focus on preparing for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-fide-world-cup-2021",
+         "pubDate" : "Fri, 11 Jun 2021 06:32:00 -0700",
+         "title" : "Carlsen To Play In FIDE Chess World Cup Again"
+      },
+      {
+         "description" : "The Gelfand Challenge is one of four tournaments in which 20 of the world's best junior players (10 boys and 10 girls) face each other in a single round-robin with a time control of 10+5. The winner will receive $3,000 and will get a place in the next tournament of the Meltwater Champions Chess Tour. Awonder Liang from the U.S. had the best start: after day 1 he leads with 5/5! But will he keep up the pace on day 2? Follow the games live and with commentary! | Picture: Julius Baer Challenger Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
+         "pubDate" : "Fri, 11 Jun 2021 14:30:55 +0100",
+         "title" : "The Gelfand Chess Challenge, Day 2 - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-6-lichessorg",
+         "pubDate" : "Fri, 11 Jun 2021 13:11:31 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 6 | lichess.org"
+      },
+      {
+         "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-1",
+         "pubDate" : "Fri, 11 Jun 2021 14:00:00 +0100",
+         "title" : "Gelfand Challenge: A perfect start for Liang"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 5. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Fri, 11 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "The 2021 Superbet Chess Classic is the first event of this year's Grand Chess Tour and it takes place in Bucharest, Romania from June 5 to June 14. Canadian FM Joshua Doknjas had a look at four interesting games from the first five rounds of the tournament, all of which contain important opening ideas and are dynamic battles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +90,12 @@ news_feed (
          "title" : "ChessFest in London on 16-18 July"
       },
       {
-         "description" : "The top 50 of the Fighting Chess Index introduced by the Australian grandmaster and economist David Smerdon has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Cla...",
+         "description" : "The top 50 of the Fighting Chess Index, introduced by Australian grandmaster and economist David Smerdon, has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Class...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fighting-chess-index-kramnik-radjabov",
          "pubDate" : "Fri, 11 Jun 2021 01:37:00 -0700",
-         "title" : "Kramnik Tops Fighting Chess Index Top 50, Radjabov At Bottom"
+         "title" : "Kramnik Leads Fighting Chess Index Top 50, Radjabov At Bottom"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Club Cup</strong> will take place in Lake Ohrid (Macedonia) 17-25 September, the <strong>European Teams Championship</strong> in Terme Omilia (Slovenia) 11-22 November, and the <strong>European Rapid and Blitz</strong> in Katowice (Poland) 16-19 December. A decision about the <strong>European Youth Championship</strong> <a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">has been postponed</a> by the <strong>ECU</strong> board to early July. </div> ",
@@ -352,14 +392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-5",
          "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
          "title" : "2021 Superbet Chess Classic: Fabiano Caruana Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Shakhriyar Mamedyarov during the fifth round of the 2021 Superbet Chess Classic. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aAA_Zs-s9_o.jpg?itok=gAEEO_Si\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-5",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 5"
       },
       {
          "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
@@ -1874,14 +1906,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Close calls"
       },
       {
-         "description" : "The semifinals of the FTX Crypto Cup will start on Friday with the matches GM Magnus Carlsen vs. GM Teimour Radjabov and GM Ian Nepomniachtchi vs. GM Wesley So. While Radjabov and So quickly secured victory against GM Anish Giri and GM Maxime Va...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-quaterfinals-day-2",
-         "pubDate" : "Fri, 28 May 2021 01:22:00 -0700",
-         "title" : "FTX Crypto Cup Semis: Carlsen-Radjabov, Nepomniachtchi-So"
-      },
-      {
          "description" : "The 2nd stage of European Hybrid Qualification Tournament for the FIDE World Cup 2021 took place on May 26 and 27, via the platform Tornelo Online. 144 players participated in Round 2, and half of them (72) advanced to the next stage Round 3. They are just one step away from qualifying for the FIDE World Cup.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2424,30 +2448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-logical-did-you-solve-it",
          "pubDate" : "Fri, 21 May 2021 17:00:00 +0100",
          "title" : "Chess Logical: did you solve it?"
-      },
-      {
-         "description" : "The International Chess Federation announced the new dates of the final stage of the Women's FIDE Grand Prix, to be played in Gibraltar from May 22 to June 2. The best female chess players in the world will be competing in a crucial event in the race for the World Championship title, since the two best players from the Women Grand Prix Series qualify directly for the Candidates Tournament. | Photo: David Llada / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-preview",
-         "pubDate" : "Fri, 21 May 2021 15:20:00 +0100",
-         "title" : "Fighting for a spot in the Candidates: Gibraltar Women's GP"
-      },
-      {
-         "description" : " The 2021 Asian Continental Championship started today, and began without any serious issues. Almost all games went according to rating, although there were a few hard fought draws, and one rating upset. I was supervising (from afar) a couple of countries including Kazakhstan, which interestingly had 4 female representatives among the 6 players taking part. One of the more interesting games I watched was between IM Arystanbek Urazayev and FM Munkhdalai Amilal from Mongolia. Apart from the well played mating attack, the other interesting feature was that White did the correct thing by castling to safety, while Black allowed his king to get caught in the centre. And yet it was Black who emerge",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/king-safety.html",
-         "pubDate" : "Fri, 21 May 2021 13:04:00 +0000",
-         "title" : "King safety?"
-      },
-      {
-         "description" : "With only one point out of three games the 14-year old French talent Marc Andria Maurizzi had a bumpy start at the Grandmaster Tournament in Chartres but after five wins in a row he now only needs a draw in the final round to become the youngest French Grandmaster of all time. | Photos: Chartres Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chartres-maurizzi-on-course-for-the-title",
-         "pubDate" : "Fri, 21 May 2021 12:56:19 +0100",
-         "title" : "Chartres: Maurizzi on course for the title"
       }
    ]
 }
