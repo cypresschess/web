@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1141",
+         "pubDate" : "Fri, 11 Jun 2021 21:45:51 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 6 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1140",
+         "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
+         "title" : "The Queens' Festival kicks off on June 11"
+      },
+      {
          "description" : "Shakhriyar Mamedyarov and Alexander Grischuk were sharing the lead with Wesley So after five rounds at the Superbet Chess Classic in Bucharest. Both the Azerbaijani and the Russian won their round-6 games and are now a half point ahead of So, who drew Anish Giri with the white pieces. | Full report to follow shortly | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-1",
          "pubDate" : "Fri, 11 Jun 2021 13:00:00 +0100",
          "title" : "New Opening Ideas in Bucharest - Part 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1136",
+         "pubDate" : "Fri, 11 Jun 2021 11:17:07 +0000",
+         "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
          "description" : "The Tornelo link for the championship is forwarded to your respective email IDs which you used during AICF Registration. If you have registered for the",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/why-do-some-countries-always-gain-and-other-always-lose-rating-points",
          "pubDate" : "Thu, 10 Jun 2021 13:00:00 +0100",
          "title" : "Why do some countries always gain and other always lose rating points?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1136",
-         "pubDate" : "Thu, 10 Jun 2021 11:17:07 +0000",
-         "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
          "description" : "",
@@ -2400,14 +2416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1092",
          "pubDate" : "Sat, 22 May 2021 21:29:46 +0000",
          "title" : "Round 1: Opening Salvoes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1091",
-         "pubDate" : "Sat, 22 May 2021 11:08:10 +0000",
-         "title" : "FIDE Women's Grand Prix Gibraltar: Opening Ceremony"
       },
       {
          "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days after a tournament. This depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
