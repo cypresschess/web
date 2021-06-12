@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the rest day some of the players in the Superbet Chess Classic came back swinging. Shakhriyar Mamedyarov defeated Levon Aronian while Alexander Grischuk got the better of Constantin Lupulescu. Fabiano Caruana missed a good opportunity against Maxime Vachier-Lagrave. The results left Grischuk and Mamedyarov atop the standings on 4/6 points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r6",
+         "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0100",
+         "title" : "Superbet: Exciting round leaves Grischuk and Mamedyarov in the lead"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov beat Levon Aronian in Round 6 of the Superbet Chess Classic in a game where Levon had just 7 minutes less than he started with but a dead lost position by move 22. That saw Shakh move to +2, where he was joined by Alexander Grischuk, who was also winning right out of the opening against Romanian no. 1 Constantin Lupulescu. Wesley So won a pawn against Anish Giri but couldn't keep pace with his co-leaders, MVL and Caruana traded blunders in what Fabi called \"a ridiculous game\", while Teimour Radjabov had a 6th contentless draw, this time against Bogdan-Daniel Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-grischuk-mamedyarov-extend-lead",
+         "pubDate" : "Sat, 12 Jun 2021 11:05:22 +0000",
+         "title" : "Superbet Chess Classic 6: Grischuk & Mamedyarov extend lead"
+      },
+      {
+         "description" : "Over the last several weeks zonal and continental qualifiers were taking place around the globe in anticipation of the World Cup scheduled for 10 July - 6 August, 2021 in Sochi, Russia. Among the latest qualifier tournaments was the American Continental Championship that took place 22 - 30 May and was played as a hybrid tournament. Eight players secured a ticket to Sochi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eight-players-succeed-in-american-hybrid-qualifier",
+         "pubDate" : "Sat, 12 Jun 2021 09:50:28 +0100",
+         "title" : "Eight players succeed in American Hybrid Qualifier"
+      },
+      {
+         "description" : "In recent weeks there has been considerable controversy over the portrayal on TV, by black actress Jodie Turner-Smith, of Queen Anne Boleyn, who was palpably white. Surely the wrong kind of queen for a chess column, one might object, but there are interesting familial and royal associations. As I have been regularly demonstrating in this []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/white-queen-black-queen/",
+         "pubDate" : "Sat, 12 Jun 2021 08:00:01 +0000",
+         "title" : "White Queen - Black Queen"
+      },
+      {
          "description" : "In endgames, a \"petite combinaison\" &agrave; la Capablanca is often the quickest (if not the only) way to convert a material advantage. In the diagram position, White is a pawn up - how does he save himself a lot of work?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/technique-and-tactics",
          "pubDate" : "Sat, 12 Jun 2021 09:00:00 +0100",
          "title" : "Technique and tactics"
+      },
+      {
+         "description" : "The President of All India Chess Federation Dr Sanjay Kapoor inaugurated the National Under-16 Open &#38; Girls Online Chess Championship on Saturday in presence of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-16-open-girls-online-chess-championships-begins/",
+         "pubDate" : "Sat, 12 Jun 2021 07:59:15 +0000",
+         "title" : "National Under-16 Open & Girls Online Chess Championships begins"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov and GM Alexander Grischuk moved to plus two and are sharing the lead at the Superbet Chess Classic with three rounds to go. Mamedyarov profited from tactical oversights by GM Levon Aronian while Grischuk outplayed GM Const...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-6-aronian-blunder",
+         "pubDate" : "Sat, 12 Jun 2021 00:56:00 -0700",
+         "title" : "Superbet Chess Classic: Grischuk, Mamedyarov Strike Again"
       },
       {
          "description" : "Indian star GM Rameshbabu Praggnanandhaa has blasted into the lead of the Gelfand Challenge, scoring a perfect 5/5 on Friday in the second event of the Julius Baer Challengers Chess Tour. Now at the tournament's halfway point, Pragg is tied for the lead at 8/10 with Uzbekistan GM Nodirbek Abdusattorov, who was one of several players to notch four wins on Friday and stay in front of a furious pace set by 20 of the world's best next-generation talents.",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1140",
          "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
          "title" : "The Queens' Festival kicks off on June 11"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov and Alexander Grischuk were sharing the lead with Wesley So after five rounds at the Superbet Chess Classic in Bucharest. Both the Azerbaijani and the Russian won their round-6 games and are now a half point ahead of So, who drew Anish Giri with the white pieces. | Full report to follow shortly | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Fri, 11 Jun 2021 20:00:00 +0100",
-         "title" : "Superbet Chess Classic: Grischuk and Mamedyarov score [Express report]"
       },
       {
          "description" : " This week, we are going to start delving into the world of tactics. You have probably heard the world tactics used in unison with the word strategy, as in the phrase strategy and tactics. The two words are actually very different in meaning. Strategy can be thought of as the overall plan that helps you <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\">A Foundation for Beginners Twenty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
@@ -1658,14 +1698,6 @@ news_feed (
          "title" : "Marvelous Modern Miniatures"
       },
       {
-         "description" : "Magnus Carlsen was surprised in the opening and 10 minutes behind on the clock in Game 1 of the FTX Crypto Cup final against Wesley So, but suddenly launched an unstoppable attack. That win with the black pieces ended Wesley's 29-game unbeaten streak and made Magnus a big favourite in the match, but in Game 3 Wesley hit back to win in similarly devastating style. Magnus revealed afterwards he was feeling unwell and took a quick draw to end the day, while the 3rd place match began with only quick draws between Teimour Radjabov and Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-8-carlsen-so-trade-crushing-blows",
-         "pubDate" : "Sun, 30 May 2021 22:28:17 +0000",
-         "title" : "FTX Crypto Cup 8: Carlsen and So trade crushing blows"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1936,14 +1968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
          "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
          "title" : "The ChessBase News Review (21.05 - 28.05)"
-      },
-      {
-         "description" : "If a Fair Play Award is handed out for 2021, GM Jergus Pechac will probably receive it. The 19-year-old Slovak GM graciously offered a draw when GM Boris Gelfand blundered a full queen due to a mouse slip. Pechac advanced anyway by winning the arm...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gelfand-mouse-slip-pechac-draw-offer-european-hybrid-chess",
-         "pubDate" : "Fri, 28 May 2021 07:06:00 -0700",
-         "title" : "Gelfand Mouse Slip: Slovak GM Pechac Responds With Gracious Draw Offer"
       },
       {
          "description" : " Last week, we started working our way into the middle-game by examining the further development of our forces (the pawns and pieces) at the opening's conclusion and the middle-game's start. The transition between the opening and middle-game is a great opportunity to further activate your pawns and pieces. This further activation of your forces allows <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty/\">A Foundation for Beginners Twenty</a> appeared first on <a rel=\"n",
@@ -2440,38 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1092",
          "pubDate" : "Sat, 22 May 2021 21:29:46 +0000",
          "title" : "Round 1: Opening Salvoes"
-      },
-      {
-         "description" : " In Part 1 I focused on the game analysis at the tournament. As in Part 2 we will need some notes we did back then, it is vital that you read and do all the steps in Part 1 before reading this. I usually take a break of some days after a tournament. This depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/game-analysis-2/\">How To Analyse Your Own Games: Part 2</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis-2/",
-         "pubDate" : "Sat, 22 May 2021 10:46:00 +0000",
-         "title" : "How To Analyse Your Own Games: Part 2"
-      },
-      {
-         "description" : "It hasn't been easy working under pandemic stress. Now that things are getting better we need to get ready to re-enter the chess arena. \"The only real training tool I found,\" writes Davide Nastasio, \"which was comprehensive, and covered all the phases of the game is ChessBase Magazine, now in its 200th edition. Davide shares some of the positions and games he found especially interesting.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-2",
-         "pubDate" : "Sat, 22 May 2021 11:17:28 +0100",
-         "title" : "ChessBase Magazine 200"
-      },
-      {
-         "description" : "The history of chess has been marked by numerous epic confrontations. These include Staunton vs St Amant, a microcosmic struggle from 1843 which acquired particular relevance from memories of the traditional macrocosmic Anglo-French rivalry, culminating at the Battle of Waterloo. Then there was the Spassky vs Fischer clash from 1972, which reflected the extreme tensions of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/freudian-feud-tarrasch-versus-nimzowitsch/",
-         "pubDate" : "Sat, 22 May 2021 08:28:52 +0000",
-         "title" : "Freudian feud: Tarrasch versus Nimzowitsch"
-      },
-      {
-         "description" : "The diagram shows a position from the game L. Dominguez vs M. Carlsen, Opera Euro 2021. Black's last move 27...Kh6? gave White the chance to hunt the bold king down and to win against the World Champion. But as this was a rapid game and White did not have much time left on the clock, he failed to find the win. Can you do better, without a ticking clock and all the time in the world?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/energetic-2",
-         "pubDate" : "Sat, 22 May 2021 09:00:00 +0100",
-         "title" : "Carlsen's kamikaze king"
       }
    ]
 }
