@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. | Follow the games live with expert commentary.",
+         "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Full report to follow shortly | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Sat, 12 Jun 2021 19:30:00 +0100",
+         "title" : "Superbet Classic: Wins for Mamedyarov, Aronian and Giri [Express report]"
+      },
+      {
+         "description" : "Chess.com and The Charlotte Chess Center are proud to announce the Blitzcoin Invitational! In this new action-packed event, the best US Chess players 25 years old and under will compete for their share of one Bitcoin. The event will run from Oct...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-charlotte-chess-center-blitzcoin-invitational",
+         "pubDate" : "Sat, 12 Jun 2021 10:00:38 -0700",
+         "title" : "Chess.com And The Charlotte Chess Center Present: The Blitzcoin Invitational"
+      },
+      {
+         "description" : " Share! GM Rom&aacute;n Hern&aacute;ndez Rom&aacute;n Hern&aacute;ndez Onna passed away early this month on June 1st from a lengthy illness. The Cuban Grandmaster and former national champion was 71 years old. As a pioneer, Hernandez had a long r&eacute;sum&eacute; before he ventured abroad and faced some of the world's elite competition. Recently, The Chess Drum featured [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/\">GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/",
+         "pubDate" : "Sat, 12 Jun 2021 16:12:40 +0000",
+         "title" : "GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71"
+      },
+      {
+         "description" : " Shakhriyar Mamedyarov beat a struggling Fabiano Caruana with the black pieces in round 7 of the Superbet Classic, this was his third straight win and due to the defeat of Alexander Grischuk it meant that he holds a one point lead with only a couple of rounds to go. Mamedyarov was rewarded for his enterprising play with a win with the black pieces against Fabiano Caruana. Mamedyarov's 9...g5 was risky and could have left him with a big disadvantage after 10.Nd5! and if Bd7 11.Bxg5! but neither he nor Caruana found this over the board. Caruana was faced with all sorts of tactics, not something he can have been happy about 18...Bd8 likely came as a surprise and Mamedyarov brought home the full",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/third-win-in-a-row-for-mamedyarov-gives-him-a-one-point-lead-in-the-superbet-classic-after-7-rounds",
+         "pubDate" : "Sat, 12 Jun 2021 19:59:00 +0400",
+         "title" : "Third win in a row for Mamedyarov gives him a one point lead in the Superbet Classic after 7 rounds - 7"
+      },
+      {
+         "description" : "Vincent Keymer was the third player to have a perfect day in the Gelfand Challenge for young stars, as the German obtained five wins in as many games on Saturday to take the sole lead with four rounds to go. Praggnanandhaa, who was sharing the lead after a remarkable performance on Friday, is in sole second place a half point behind. Nihal Sarin also scored 5 points on the third day of action.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
          "pubDate" : "Sat, 12 Jun 2021 14:50:00 +0100",
-         "title" : "The Gelfand Chess Challenge, Day 3 - Live!"
+         "title" : "Gelfand Challenge - Games and results"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. Three players stand a full point behind with nine rounds to go. | Photo: Niklesh Jain",
@@ -26,14 +58,6 @@ news_feed (
          "title" : "2021 Superbet Chess Classic: Round 7 | lichess.org"
       },
       {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 6. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Sat, 12 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : " The first day of the 2021 NSW Open saw a capacity field of 140, and plenty of tough chess. There is still a bit of a logjam at the top of the tournament, although a number of top seeds have decided to have a bit of a sleep in, taking a half point bye for tomorrow mornings round. Nonetheless, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane are all hoping to get ahead of the field with wins in the morning round. With 8 DGT boards in operation there was plenty of chess to follow online. One quick game from round 2 was this win by Fred Litchfield over Ashley Rambukwella <br /> <b>Litchfield, Fred -Rambukwella, Ashley [E33]</b><br />2021 NSW Open, 2021.06.12 <script>new PgnViewer( { boardNa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
       },
       {
-         "description" : "After the rest day some of the players in the Superbet Chess Classic came back swinging. Shakhriyar Mamedyarov defeated Levon Aronian while Alexander Grischuk got the better of Constantin Lupulescu. Fabiano Caruana missed a good opportunity against Maxime Vachier-Lagrave. The results left Grischuk and Mamedyarov atop the standings on 4/6 points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r6",
-         "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0100",
-         "title" : "Superbet: Exciting round leaves Grischuk and Mamedyarov in the lead"
-      },
-      {
          "description" : "Shakhriyar Mamedyarov beat Levon Aronian in Round 6 of the Superbet Chess Classic in a game where Levon had just 7 minutes less than he started with but a dead lost position by move 22. That saw Shakh move to +2, where he was joined by Alexander Grischuk, who was also winning right out of the opening against Romanian no. 1 Constantin Lupulescu. Wesley So won a pawn against Anish Giri but couldn't keep pace with his co-leaders, MVL and Caruana traded blunders in what Fabi called \"a ridiculous game\", while Teimour Radjabov had a 6th contentless draw, this time against Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eight-players-succeed-in-american-hybrid-qualifier",
          "pubDate" : "Sat, 12 Jun 2021 09:50:28 +0100",
          "title" : "Eight players succeed in American Hybrid Qualifier"
+      },
+      {
+         "description" : "After the rest day some of the players in the Superbet Chess Classic came back swinging. Shakhriyar Mamedyarov defeated Levon Aronian while Alexander Grischuk got the better of Constantin Lupulescu. Fabiano Caruana missed a good opportunity against Maxime Vachier-Lagrave. The results left Grischuk and Mamedyarov atop the standings on 4/6 points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r6",
+         "pubDate" : "Sat, 12 Jun 2021 09:30:00 +0100",
+         "title" : "Superbet: Exciting round leaves Grischuk and Mamedyarov in the lead"
       },
       {
          "description" : "In recent weeks there has been considerable controversy over the portrayal on TV, by black actress Jodie Turner-Smith, of Queen Anne Boleyn, who was palpably white. Surely the wrong kind of queen for a chess column, one might object, but there are interesting familial and royal associations. As I have been regularly demonstrating in this []",
@@ -1298,7 +1322,7 @@ news_feed (
          "title" : "R 11: to Zhansaya, the glory, to Kateryna, the ticket to the Candidates"
       },
       {
-         "description" : " Share! Susan Namangale President of Malawi Chess Federation This past year has been one with a bit of intrigue as the continent of Africa seemed to increase chess activity online. There were a number of staged &#8220;cage matches&#8221; and many federations organized friendly matches. Social media groups were abuzz about the prospects of African chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/\">2021 African Individual Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Susan Namangale President of Malawi Chess Federation This past year has been one with a bit of intrigue as the continent of Africa seemed to increase chess activity online. There were a number of staged &#8220;cage matches&#8221; and many federations organized friendly matches. Social media groups were abuzz about the prospects of African chess and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/\">2021 African Individual Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/",
@@ -1986,14 +2010,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The Kalashnikov strikes"
       },
       {
-         "description" : "IM Zhansaya Abdumalik and GM Mariya Muzychuk are sharing the lead at&#38;nbsp;the FIDE Women&#39;s Grand Prix in Gibraltar on the rest day. With five rounds to go, the fight for the two spots in the 2022 FIDE Women&#39;s Candidates Tournament is far from deci...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdumalik-muzychuk-gibraltar-women-grand-prix",
-         "pubDate" : "Fri, 28 May 2021 09:40:00 -0700",
-         "title" : "Abdumalik, Muzychuk Lead Gibraltar Women's Grand Prix"
-      },
-      {
          "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the newest Fritz & Chesster project, and take a detailed look at the Gibraltar Grand Prix, and the FTX Crypto Cup + Analysis of two games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2424,14 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1095",
          "pubDate" : "Sun, 23 May 2021 18:54:15 +0000",
          "title" : "Round 2 recap: Blood on Board"
-      },
-      {
-         "description" : " Anish Giri put in a very strong showing on the first day of the online FTX Crypto Chess tournament with a score of 4/5 to lead the event which is part of the Meltwater Champions Chess Tour. Giri beat Ding Liren, Alexander Grischuk and Alan Pichot on day 1 with two draws, he is half a point clear of Hikaru Nakamura, Maxime Vachier-Lagrave and Wesley So. Magnus Carlsen and Ian Nepomniachtchi who meet for the World Chess Championship later in the year drew a game that was full of tension - Carlsen being given a winning position out of the opening and not managing to convert. This seemed to derail his day somewhat and he also lost to MVL and should have lost to Shakhriyar Mamedyarov (or convert",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/giri-leads-the-ftx-crypto-chess-preliminaries-after-day-1",
-         "pubDate" : "Sun, 23 May 2021 21:37:00 +0400",
-         "title" : "Giri leads the FTX Crypto Chess Preliminaries after day 1 - Day 1"
       },
       {
          "description" : "",
