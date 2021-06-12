@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Per usual, a Romanian player - Constantin Lupulescu again - was involved in the day's decisive games, but for the second time in the tournament a non-Romanian was involved in one of the decisive games. Wesley So made Anish Giri defend for a long time, but was unable to win. Knight and four pawns vs. knight and three pawns is typically winning for the strong side, but because Black had 48...g5 available at the start of the ending it was objectively drawn. Good \"d\" by Giri. Alexander Grischuk won convincingly on the white side of a Classical Sicilian against Lupulescu. His preparation was good, and his opponent's wasn't. A surprisingly easy win for White. Maxime Vachier-Lagrave seemed to mix ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/11/superbet-chess-classic-round-6-mamedyarov-grischuk-win-lead.html",
+         "pubDate" : "Fri, 11 Jun 2021 23:58:15 +0000",
+         "title" : "Superbet Chess Classic, Round 6: Mamedyarov & Grischuk Win, Lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2448,14 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/energetic-2",
          "pubDate" : "Sat, 22 May 2021 09:00:00 +0100",
          "title" : "Carlsen's kamikaze king"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;The Budapest Gambit (1 d4 Nf6 2 c4 e5) is an aggressive, dynamic approach for meeting 1 d4 and is a great line for throwing opponents onto their own resources. It is certainly double-edged as Black moves the same piece twice early on and also <a href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Budapest Gambit</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/\">Play the Budapest Gambit</a> appeared first on <a rel=\"nofollow\" href=\"http://brit",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/22/play-the-budapest-gambit/",
-         "pubDate" : "Sat, 22 May 2021 00:10:31 +0000",
-         "title" : "Play the Budapest Gambit"
       }
    ]
 }
