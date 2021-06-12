@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In endgames, a \"petite combinaison\" &agrave; la Capablanca is often the quickest (if not the only) way to convert a material advantage. In the diagram position, White is a pawn up - how does he save himself a lot of work?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/technique-and-tactics",
+         "pubDate" : "Sat, 12 Jun 2021 09:00:00 +0100",
+         "title" : "Technique and tactics"
+      },
+      {
+         "description" : "Indian star GM Rameshbabu Praggnanandhaa has blasted into the lead of the Gelfand Challenge, scoring a perfect 5/5 on Friday in the second event of the Julius Baer Challengers Chess Tour. Now at the tournament's halfway point, Pragg is tied for the lead at 8/10 with Uzbekistan GM Nodirbek Abdusattorov, who was one of several players to notch four wins on Friday and stay in front of a furious pace set by 20 of the world's best next-generation talents.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gelfand-challenge-day-2-perfect-pragg-joins-abdusattorov-in-halfway-lead",
+         "pubDate" : "Sat, 12 Jun 2021 06:39:49 +0000",
+         "title" : "Gelfand Challenge Day 2: Perfect Pragg joins Abdusattorov in halfway lead"
+      },
+      {
+         "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-live-coverage.html",
+         "pubDate" : "Sat, 12 Jun 2021 04:07:00 +0000",
+         "title" : "2021 NSW Open - Live Coverage"
+      },
+      {
          "description" : " Per usual, a Romanian player - Constantin Lupulescu again - was involved in the day's decisive games, but for the second time in the tournament a non-Romanian was involved in one of the decisive games. Wesley So made Anish Giri defend for a long time, but was unable to win. Knight and four pawns vs. knight and three pawns is typically winning for the strong side, but because Black had 48...g5 available at the start of the ending it was objectively drawn. Good \"d\" by Giri. Alexander Grischuk won convincingly on the white side of a Classical Sicilian against Lupulescu. His preparation was good, and his opponent's wasn't. A surprisingly easy win for White. Maxime Vachier-Lagrave seemed to mix ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -143,7 +167,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/gelfand-challenge-1-awonder-s-stunning-start",
          "pubDate" : "Fri, 11 Jun 2021 09:16:29 +0000",
-         "title" : "Gelfand Challenge 1: Awonder's stunning start"
+         "title" : "Gelfand Challenge Day 1: Awonder's stunning start"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The UK charity <strong>Chess in Schools and Communities</strong> runs a Alice in Wonderland-themed <a href=\"https://www.chess-fest.com/\">weekend of chess</a> in Central London culminating on Trafalgar Square. </div> ",
@@ -1744,14 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/36-players-qualified-for-world-chess-cup/",
          "pubDate" : "Sun, 30 May 2021 05:51:56 +0000",
          "title" : "36 players qualified for FIDE World Chess Cup"
-      },
-      {
-         "description" : "Magnus Carlsen will be hoping it's 3rd time lucky on Sunday as he takes on Wesley So in the FTX Crypto Cup final after losing to Wesley in their two previous Meltwater Champions Chess Tour finals. Wesley was on top of his game as he calmly dealt with everything Ian Nepomniachtchi threw at him to win their semi-final with a game to spare. Magnus said he'll need to play better to beat Wesley, but even while not firing on all cylinders he won the 1st and 4th games against Teimour Radjabov to book his spot in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-7-carlsen-so-meet-in-3rd-final",
-         "pubDate" : "Sun, 30 May 2021 01:02:03 +0000",
-         "title" : "FTX Crypto Cup 7: Carlsen & So meet in 3rd final"
       },
       {
          "description" : " The Chess Endgame Exercise Book : John Nunn John Nunn has written around thirty books on chess, many of these being some of the finest published in any language : Secrets of Pawnless Endings (1994, Batsford) for example, is easily a candidate for the all time list. John is a director of Gambit Publications Ltd. together <a href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Endgame Exercise Book</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\">The Chess Endgame Exercise Book</a> appe",
