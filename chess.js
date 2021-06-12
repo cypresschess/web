@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. | Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
+         "pubDate" : "Sat, 12 Jun 2021 14:50:00 +0100",
+         "title" : "The Gelfand Chess Challenge, Day 3 - Live!"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. Three players stand a full point behind with nine rounds to go. | Photo: Niklesh Jain",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-2",
+         "pubDate" : "Sat, 12 Jun 2021 14:20:00 +0100",
+         "title" : "Gelfand Challenge: Pragg is back"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-7-lichessorg",
+         "pubDate" : "Sat, 12 Jun 2021 13:12:30 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 7 | lichess.org"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 6. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Sat, 12 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " The first day of the 2021 NSW Open saw a capacity field of 140, and plenty of tough chess. There is still a bit of a logjam at the top of the tournament, although a number of top seeds have decided to have a bit of a sleep in, taking a half point bye for tomorrow mornings round. Nonetheless, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane are all hoping to get ahead of the field with wins in the morning round. With 8 DGT boards in operation there was plenty of chess to follow online. One quick game from round 2 was this win by Fred Litchfield over Ashley Rambukwella <br /> <b>Litchfield, Fred -Rambukwella, Ashley [E33]</b><br />2021 NSW Open, 2021.06.12 <script>new PgnViewer( { boardNa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-1.html",
+         "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0000",
+         "title" : "2021 NSW Open - Day 1"
+      },
+      {
+         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
+         "pubDate" : "Sat, 12 Jun 2021 15:22:00 +0400",
+         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
+      },
+      {
          "description" : "After the rest day some of the players in the Superbet Chess Classic came back swinging. Shakhriyar Mamedyarov defeated Levon Aronian while Alexander Grischuk got the better of Constantin Lupulescu. Fabiano Caruana missed a good opportunity against Maxime Vachier-Lagrave. The results left Grischuk and Mamedyarov atop the standings on 4/6 points. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-fide-world-cup-2021",
          "pubDate" : "Fri, 11 Jun 2021 06:32:00 -0700",
          "title" : "Carlsen To Play In FIDE Chess World Cup Again"
-      },
-      {
-         "description" : "The Gelfand Challenge is one of four tournaments in which 20 of the world's best junior players (10 boys and 10 girls) face each other in a single round-robin with a time control of 10+5. The winner will receive $3,000 and will get a place in the next tournament of the Meltwater Champions Chess Tour. Awonder Liang from the U.S. had the best start: after day 1 he leads with 5/5! But will he keep up the pace on day 2? Follow the games live and with commentary! | Picture: Julius Baer Challenger Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
-         "pubDate" : "Fri, 11 Jun 2021 14:30:55 +0100",
-         "title" : "The Gelfand Chess Challenge, Day 2 - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
@@ -504,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-5",
          "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
          "title" : "2021 Superbet Chess Classic: Alexander Grischuk Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana during the fifth round of the 2021 Superbet Chess Classic. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DoyJgm8NlDw.jpg?itok=IZgtk-EB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-5",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "2021 Superbet Chess Classic: Fabiano Caruana Interview | Round 5"
       },
       {
          "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
