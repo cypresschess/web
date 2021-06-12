@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1143",
+         "pubDate" : "Sat, 12 Jun 2021 21:22:53 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 7 Recap"
+      },
+      {
+         "description" : "The Grand Chess Tour (GCT) has confirmed the field for the Croatia Grand Chess Tour leg that will include four full tour participants and seven wildcards. With legendary World Champions Garry Kasparov and Vishy Anand as well as the World Championship title challenger Ian Nepomniachtchi from Russia the Croatia Grand Chess Tour promises to be action packed. | Pictured: Kasparov and Anand at the 2017 Saint Louis Rapid and Blitz Tournament | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-anand-croatia-grand-chess-tour-wildcards",
+         "pubDate" : "Sat, 12 Jun 2021 21:35:00 +0100",
+         "title" : "Kasparov and Anand to play in Croatian leg of the Grand Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1142",
+         "pubDate" : "Sat, 12 Jun 2021 20:33:08 +0000",
+         "title" : "Assaubayeva beats Koneru to advance into quarters"
+      },
+      {
          "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Full report to follow shortly | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
          "pubDate" : "Sat, 12 Jun 2021 15:22:00 +0400",
          "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1136",
+         "pubDate" : "Sat, 12 Jun 2021 11:17:07 +0000",
+         "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
          "description" : "Shakhriyar Mamedyarov beat Levon Aronian in Round 6 of the Superbet Chess Classic in a game where Levon had just 7 minutes less than he started with but a dead lost position by move 22. That saw Shakh move to +2, where he was joined by Alexander Grischuk, who was also winning right out of the opening against Romanian no. 1 Constantin Lupulescu. Wesley So won a pawn against Anish Giri but couldn't keep pace with his co-leaders, MVL and Caruana traded blunders in what Fabi called \"a ridiculous game\", while Teimour Radjabov had a 6th contentless draw, this time against Bogdan-Daniel Deac.",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-1",
          "pubDate" : "Fri, 11 Jun 2021 13:00:00 +0100",
          "title" : "New Opening Ideas in Bucharest - Part 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1136",
-         "pubDate" : "Fri, 11 Jun 2021 11:17:07 +0000",
-         "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
          "description" : "The Tornelo link for the championship is forwarded to your respective email IDs which you used during AICF Registration. If you have registered for the",
@@ -2466,14 +2490,6 @@ news_feed (
          "title" : "I thought this was bonkers"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1093",
-         "pubDate" : "Sun, 23 May 2021 09:57:54 +0000",
-         "title" : "Anatoly Karpov celebrates his 70th birthday"
-      },
-      {
          "description" : "Today, on 23 May, Anatoly Karpov turns 70! The 12th World Champion is still very active and on 31 May 2021, he will give a simul at the Karpov Children's Cup, an event supported by FIDE. Which made Alexey Root remember a remarkable Karpov simul in Austin, Texas, back in 1994. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2496,14 +2512,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/",
          "pubDate" : "Sun, 23 May 2021 00:10:40 +0000",
          "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1092",
-         "pubDate" : "Sat, 22 May 2021 21:29:46 +0000",
-         "title" : "Round 1: Opening Salvoes"
       }
    ]
 }
