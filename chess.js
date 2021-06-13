@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With 5 rounds of the 2021 NSW Open completed, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane share the lead on 4.5/5. In round 5 Fernandez once again demonstrated his creativity in complex positions, sacrificing a piece early on against Fred Litchfield, before reaching an ending a whole rook down, but with an avalanche of pawns as winning compensation. Lane got to 4.5 after Harry Press sacrificed a piece in the early middlegame, but this proved unsound, giving lane a quick win. Ikeda also had a quick win, punishing CM Isaac Zhao after Zhao went pawn grabbing in the opening. Tomorrow mornings round has Lane against Fernandez and Morris against Ikeda. As none of the 4 have played each o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-2.html",
+         "pubDate" : "Sun, 13 Jun 2021 14:12:00 +0000",
+         "title" : "2021 NSW Open - Day 2"
+      },
+      {
+         "description" : "Vincent Keymer was the third player to have a perfect day in the Gelfand Challenge for young stars, as the German obtained five wins in as many games on Saturday to take the sole lead with four rounds to go. Praggnanandhaa, who was sharing the lead after a remarkable performance on Friday, is in sole second place a half point behind. Nihal Sarin also scored 5 points on the third day of action.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
+         "pubDate" : "Sun, 13 Jun 2021 15:05:00 +0100",
+         "title" : "Gelfand Challenge - Day 4 Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 31st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-3",
+         "pubDate" : "Sun, 13 Jun 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 30: To exchange or not to exchange (2)"
+      },
+      {
+         "description" : "The Main Event of the FIDE Chess.com Women&#39;s Speed Chess Championship started with a surprise as IM Bibisara Assaubayeva eliminated GM Humpy Koneru. The Kazakh number-three player beat the female world number-three 14.5-7.5. The live broadcast o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-assaubayeva-koneru",
+         "pubDate" : "Sun, 13 Jun 2021 06:45:57 -0700",
+         "title" : "Women's Speed Chess Championship: Assaubayeva Stuns Koneru"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-8-lichessorg",
+         "pubDate" : "Sun, 13 Jun 2021 13:13:52 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 8 | lichess.org"
+      },
+      {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 7. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Sun, 13 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r7",
+         "pubDate" : "Sun, 13 Jun 2021 13:45:00 +0100",
+         "title" : "Superbet: Mamedyarov in the sole lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Michael S. Langer</strong> refused to run for the Presidency of the <strong>German Chess Federation</strong>, the reelection of <strong>Ullrich Krause</strong> was all but certain. The unpopular incumbent was still challenged by <strong>Olga Birkholz</strong> who, despite having hardly a programme, team or record in the national federation, <a href=\"https://steffans-schachseiten.de/2021/06/12/4307/\">collected 92 votes in Saturday's online congress vs Krause's 118</a>. Birkholz ran and was elected as new Vice President Federation Development after the only candidate <strong>Boris Bruhn</strong> couldn't secure a majority. Another Krause ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/krause-remains-in-germany/",
+         "pubDate" : "Sun, 13 Jun 2021 13:14:09 +0100",
+         "title" : "Krause remains German chess President"
+      },
+      {
          "description" : "GM Shakhriyar Mamedyarov won his third consecutive game and is suddenly a full point ahead of the pack with two rounds to go at the Superbet Chess Classic in Bucharest. The Azerbaijani grandmaster defeated GM Fabiano Caruana with the black pieces ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +80,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-7-shakh-strikes-again",
          "pubDate" : "Sun, 13 Jun 2021 09:25:20 +0000",
          "title" : "Superbet Chess Classic 7: Shakh strikes again"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Michael S. Langer</strong> refused to run for the Presidency of the <strong>German Chess Federation</strong>, the reelection of <strong>Ullrich Krause</strong> was all but certain. The unpopular incumbent was still challenged by <strong>Olga Birkholz</strong> who, despite having hardly a programme, team or record, collected <a href=\"https://twitter.com/Bodenseeperlen/status/1403720891545141250\">92 votes in Saturday's online congress vs Krause's 118</a>. After nearly 13 hours the assembly was <a href=\"https://twitter.com/BruhnBoris/status/1403801615405043714\">postponed to 9 October</a>, allowing the delegates to catch up with an ongoing ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/krause-remains-in-germany/",
-         "pubDate" : "Sun, 13 Jun 2021 08:48:47 +0100",
-         "title" : "Krause remains German chess President"
       },
       {
          "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -50,6 +106,14 @@ news_feed (
          "title" : "Superbet Chess Classic, Round 7: Mamedyarov Wins, Leads by a Point"
       },
       {
+         "description" : " Wherever you go, be it a major chess site or YouTube, you will find opening videos or articles. With this much information, it should be easier than ever to excel in openings. But in my experience the overload of information has made it harder, not easier for many. With all that information looming, it is [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/analyse-openings/\">How To Analyse Chess Openings Like A GM</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/analyse-openings/",
+         "pubDate" : "Sat, 12 Jun 2021 23:00:00 +0000",
+         "title" : "How To Analyse Chess Openings Like A GM"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,14 +138,6 @@ news_feed (
          "title" : "Assaubayeva beats Koneru to advance into quarters"
       },
       {
-         "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Full report to follow shortly | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Sat, 12 Jun 2021 19:30:00 +0100",
-         "title" : "Superbet Classic: Wins for Mamedyarov, Aronian and Giri [Express report]"
-      },
-      {
          "description" : "Chess.com and The Charlotte Chess Center are proud to announce the Blitzcoin Invitational! In this new action-packed event, the best US Chess players 25 years old and under will compete for their share of one Bitcoin. The event will run from Oct...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/third-win-in-a-row-for-mamedyarov-gives-him-a-one-point-lead-in-the-superbet-classic-after-7-rounds",
          "pubDate" : "Sat, 12 Jun 2021 19:59:00 +0400",
          "title" : "Third win in a row for Mamedyarov gives him a one point lead in the Superbet Classic after 7 rounds - 7"
-      },
-      {
-         "description" : "Vincent Keymer was the third player to have a perfect day in the Gelfand Challenge for young stars, as the German obtained five wins in as many games on Saturday to take the sole lead with four rounds to go. Praggnanandhaa, who was sharing the lead after a remarkable performance on Friday, is in sole second place a half point behind. Nihal Sarin also scored 5 points on the third day of action.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
-         "pubDate" : "Sat, 12 Jun 2021 14:50:00 +0100",
-         "title" : "Gelfand Challenge - Games and results"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. Three players stand a full point behind with nine rounds to go. | Photo: Niklesh Jain",
@@ -640,14 +688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-wesley-so-interview-round-5",
          "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
          "title" : "2021 Superbet Chess Classic: Wesley So Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alexander Grischuk during the fifth round of the 2021 Superbet Chess Classic. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RyAYhV7JJN4.jpg?itok=U01V7f7w\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-5",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "2021 Superbet Chess Classic: Alexander Grischuk Interview | Round 5"
       },
       {
          "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
@@ -1978,14 +2018,6 @@ news_feed (
          "title" : "How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results"
       },
       {
-         "description" : "Egyptian GM Ahmed Adly became the African Champion on Thursday, overtaking countryman GM Bassem Amin at the finish line in the 2021 African Individual Chess Championship. The two players monopolized the tournament and were tied on 8/9, despite t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-african-chess-championship-adly-february",
-         "pubDate" : "Sat, 29 May 2021 06:40:00 -0700",
-         "title" : "Ahmed Adly Wins Nip-and-Tuck African Chess Championship"
-      },
-      {
          "description" : " The 2021 ACT Chess Championship is almost at the halfway point, with 4 players sharing the lead on 3/3. IM Junta Ikeda is still undefeated after beating Adian de Noskowsi and WFM Alana Chibnall, and he is joined by Fred Litchfield, CM Hui Li, and Malik Amer. Tomorrow mornings pairings see Ikeda play Amer, and Li play Litchfield. There is another group of players on 2.5/3, who are also looking to make a run tomorrow. Two of those players (Miles Patterson and Sankeerten Badrinarayan) played one the tournaments more interesting games, which you can see <a href=\"http://tournaments.streetchess.net/actchampionship2021/livegames/index.html\">here</a>. The tournament has 2 more days to run, with rou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2464,30 +2496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1095",
          "pubDate" : "Sun, 23 May 2021 18:54:15 +0000",
          "title" : "Round 2 recap: Blood on Board"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1094",
-         "pubDate" : "Sun, 23 May 2021 14:31:21 +0000",
-         "title" : "12 chess gems by the 12th World Champion"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 28th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about schematic thinking in the endgame and presents a curious endgame. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-28-a-curious-endgame",
-         "pubDate" : "Sun, 23 May 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 28: A curious endgame"
-      },
-      {
-         "description" : " Everyone loves a good second half comeback, especially if it is from a team or player you support. Here is an example from the Asian Continental where White (GM Temur Kuybokarov) looked dead lost for quite a while, before recovering to win at the death. It does of course help to have a pawn on the 7th rank quite early in the game, but that can only help you so far. Finding a way to stay in the game is the other half of the equation. <br /> <b>Kuybokarov,Temur (2549) - Urazayev,Arystanbek (2429) [C78]</b><br />Asian Hybrid Continental Chess Champions (3.7), 21.05.2021 <script>new PgnViewer( { boardName: \"game1245\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/i-thought-this-was-bonkers.html",
-         "pubDate" : "Sun, 23 May 2021 13:25:00 +0000",
-         "title" : "I thought this was bonkers"
       }
    ]
 }
