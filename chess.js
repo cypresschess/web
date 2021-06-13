@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shakhriyar Mamedyarov kept his 1-point lead going into the last round of the Superbet Chess Classic, as in the only decisive game of Sunday's round Levon Aronian got the better of Bogdan-Daniel Deac. Mamedyarov signed a quick draw in his game against Anish Giri, while Alexander Grischuk vs Fabiano Caruana was an exciting encounter in which both players missed chances. | Full report to follow shortly | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
+         "pubDate" : "Sun, 13 Jun 2021 19:30:00 +0100",
+         "title" : "Superbet Classic: Aronian beats Deac [Express report]"
+      },
+      {
+         "description" : "All India Chess Federation lost a great supporter and friend as Member of FIDE Ethics Commission, Former President of Nepal Chess Association and Former President",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rest-in-peace-shri-rajesh-hari-joshi/",
+         "pubDate" : "Sun, 13 Jun 2021 17:43:43 +0000",
+         "title" : "Rest in Peace Shri Rajesh Hari Joshi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-7",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews International Master Irina Bulmagă during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-irina-bulmag%C4%83-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lk0vhaKdHI4.jpg?itok=QNVIm7nK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-irina-bulmag%C4%83-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Irina Bulmagă Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews FIDE Executive Director Victor Bologan during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-victor-bologan-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9tiLDtvFrKU.jpg?itok=Z8LVSyVC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-victor-bologan-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Victor Bologan Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Maxime Vachier-Lagrave during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-maxime-vachier-lagrave-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AJ9iSl8Yprk.jpg?itok=gHRUDkFq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-maxime-vachier-lagrave-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Maxime Vachier-Lagrave Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p-aBTKPsnkk.jpg?itok=rjdUr_1B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-fabiano-caruana-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Fabiano Caruana Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Grand Chess Tour Founder Garry Kasparov during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-garry-kasparov-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QDdafAjbP3M.jpg?itok=3EcwUUUU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-garry-kasparov-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Garry Kasparov Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Shakhriyar Mamedyarov during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lOHy2FtvpkM.jpg?itok=GLMWOsES\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alexander Grischuk during the sixth round of the 2021 Superbet Chess Classic. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OuLVlcg1Dp4.jpg?itok=F3UNgply\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-6",
+         "pubDate" : "Sun, 13 Jun 2021 16:13:59 +0000",
+         "title" : "2021 Superbet Chess Classic: Alexander Grischuk Interview | Round 6"
+      },
+      {
          "description" : " With 5 rounds of the 2021 NSW Open completed, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane share the lead on 4.5/5. In round 5 Fernandez once again demonstrated his creativity in complex positions, sacrificing a piece early on against Fred Litchfield, before reaching an ending a whole rook down, but with an avalanche of pawns as winning compensation. Lane got to 4.5 after Harry Press sacrificed a piece in the early middlegame, but this proved unsound, giving lane a quick win. Ikeda also had a quick win, punishing CM Isaac Zhao after Zhao went pawn grabbing in the opening. Tomorrow mornings round has Lane against Fernandez and Morris against Ikeda. As none of the 4 have played each o",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -10,12 +98,12 @@ news_feed (
          "title" : "2021 NSW Open - Day 2"
       },
       {
-         "description" : "Vincent Keymer was the third player to have a perfect day in the Gelfand Challenge for young stars, as the German obtained five wins in as many games on Saturday to take the sole lead with four rounds to go. Praggnanandhaa, who was sharing the lead after a remarkable performance on Friday, is in sole second place a half point behind. Nihal Sarin also scored 5 points on the third day of action.",
+         "description" : "An amazingly close race in the last rounds of the Gelfand Challenge saw Gukesh finally coming out on top, as he ended up with as many points as Praggnanandhaa but had a better tiebreaker score. Vincent Keymer, who was the sole leader after 15 rounds, finished in sole third place, a half point behind the Indian duo. | Games and results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
          "pubDate" : "Sun, 13 Jun 2021 15:05:00 +0100",
-         "title" : "Gelfand Challenge - Day 4 Live!"
+         "title" : "Gelfand Challenge - Gukesh wins!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 31st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
@@ -30,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-assaubayeva-koneru",
-         "pubDate" : "Sun, 13 Jun 2021 06:45:57 -0700",
+         "pubDate" : "Sun, 13 Jun 2021 06:45:00 -0700",
          "title" : "Women's Speed Chess Championship: Assaubayeva Stuns Koneru"
       },
       {
@@ -40,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-8-lichessorg",
          "pubDate" : "Sun, 13 Jun 2021 13:13:52 +0000",
          "title" : "2021 Superbet Chess Classic: Round 8 | lichess.org"
-      },
-      {
-         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Read the full report on round 7. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Sun, 13 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
@@ -168,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-2",
          "pubDate" : "Sat, 12 Jun 2021 14:20:00 +0100",
          "title" : "Gelfand Challenge: Pragg is back"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-7-lichessorg",
-         "pubDate" : "Sat, 12 Jun 2021 13:12:30 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 7 | lichess.org"
       },
       {
          "description" : " The first day of the 2021 NSW Open saw a capacity field of 140, and plenty of tough chess. There is still a bit of a logjam at the top of the tournament, although a number of top seeds have decided to have a bit of a sleep in, taking a half point bye for tomorrow mornings round. Nonetheless, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane are all hoping to get ahead of the field with wins in the morning round. With 8 DGT boards in operation there was plenty of chess to follow online. One quick game from round 2 was this win by Fred Litchfield over Ashley Rambukwella <br /> <b>Litchfield, Fred -Rambukwella, Ashley [E33]</b><br />2021 NSW Open, 2021.06.12 <script>new PgnViewer( { boardNa",
@@ -346,14 +418,6 @@ news_feed (
          "title" : "Carlsen To Play In FIDE Chess World Cup Again"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-6-lichessorg",
-         "pubDate" : "Fri, 11 Jun 2021 13:11:31 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 6 | lichess.org"
-      },
-      {
          "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,22 +536,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/",
          "pubDate" : "Fri, 11 Jun 2021 05:44:00 +0000",
          "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian reviews the best games from this week in world class chess. 2021.06.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/close-glory-2014-us-championship-grandmasters-choice-gm-varuzhan-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PzupT0BaFQU.jpg?itok=6CfEsR0Y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/close-glory-2014-us-championship-grandmasters-choice-gm-varuzhan-akobian",
-         "pubDate" : "Fri, 11 Jun 2021 01:11:18 +0000",
-         "title" : "Close to Glory: 2014 U.S. Championship | Grandmaster's Choice - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LsfL3Qm7",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 10 Jun 2021 19:11:12 +0000",
-         "title" : "Sacrificial Magnus! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Smerdon</strong> <a href=\"https://www.davidsmerdon.com/?p=2168\">has published</a> a Fighting Chess Index (FCI) based on the proportion of draws by a player and the average number of moves in their drawn games during the period 2015-2020. The Australian grandmaster and lecturer in Economics at the University of Queensland has published a list of the 50 players with the highest average rating in 2015-2020, among whom the now inactive Vladimir Kramnik has the highest FCI score. <strong>Fabiano Caruana</strong> is the highest top ten player on 4th place with <strong>Magnus Carlsen</strong> not far behind. <strong>Alireza Firouzja</strong>'",
@@ -626,22 +674,6 @@ news_feed (
          "title" : "Spurious Games"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian analyzes his second classical game against Argentinean Leandro Krysa during the final of the 2021 American Hybrid World Cup Qualifier. The online knockout featured players from nations in North and South America. Had Akobian won this game, he would have qualified for the Cup, but GM Krysa defended masterfully. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-cup-qualifier-got-away-insane-endgame-gm-varuzhan-akobian\"><img src=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/world-cup-qualifier-got-away-insane-endgame-gm-varuzhan-akobian",
-         "pubDate" : "Wed, 09 Jun 2021 22:10:03 +0000",
-         "title" : "The World Cup Qualifier That Got Away | Insane in the Endgame - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class with plenty of Magnus Carlsen content! Watch the previous Carlsen video: <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a> 2021.06.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sacrificial-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 09 Jun 2021 22:10:03 +0000",
-         "title" : "Sacrificial Magnus! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "GM Hikaru Nakamura returned to the top of Titled Tuesday on June 8, winning outright with a score of 10/11. Iranian GM Amin Tabatabaei took clear second with 9.5/11 ahead of nine players tied at 9/11. Of those, last week&#39;s winner GM Nodirbek Abdus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -658,36 +690,12 @@ news_feed (
          "title" : "2021 Superbet Chess Classic - Day 5 Recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps some of the best games from the ongoing Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbets-best-caruana-grischuk-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g0EHEyvuadg.jpg?itok=7S_p_AlG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbets-best-caruana-grischuk-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 09 Jun 2021 19:09:59 +0000",
-         "title" : "Superbet's Best: Caruana & Grischuk | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look at Wesley So's fine win against Fabiano Caruana at the Superbet Chess Classic tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-w-so-vs-v-f-caruana",
          "pubDate" : "Wed, 09 Jun 2021 18:00:00 +0100",
          "title" : "Game of the Week: W. So vs F. Caruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews musical artist Adrian Naidin during the fifth round of the 2021 Superbet Chess Classic. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-adrian-naidin-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B1676o_AGqc.jpg?itok=pwGMd8mJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-adrian-naidin-interview-round-5",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "2021 Superbet Chess Classic: Adrian Naidin Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Wesley So during the fifth round of the 2021 Superbet Chess Classic. 2021.06.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-wesley-so-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oJ2gYkpDTMY.jpg?itok=ZtpkuJrh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-wesley-so-interview-round-5",
-         "pubDate" : "Wed, 09 Jun 2021 16:10:09 +0000",
-         "title" : "2021 Superbet Chess Classic: Wesley So Interview | Round 5"
       },
       {
          "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
@@ -2202,14 +2210,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Comebacks"
       },
       {
-         "description" : "All players eligible to participate in the national age-group chess championships are hereby notified that they can register themselves at the AICF portal directly. Please",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-to-all-players-from-west-bengal/",
-         "pubDate" : "Thu, 27 May 2021 07:39:59 +0000",
-         "title" : "NOTICE TO ALL PLAYERS FROM WEST BENGAL"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r2",
          "pubDate" : "Mon, 24 May 2021 05:45:00 +0100",
          "title" : "Gibraltar GP: Abdumalik starts with two wins"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1095",
-         "pubDate" : "Sun, 23 May 2021 18:54:15 +0000",
-         "title" : "Round 2 recap: Blood on Board"
       }
    ]
 }
