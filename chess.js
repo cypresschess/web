@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Shakhriyar Mamedyarov won his third consecutive game and is suddenly a full point ahead of the pack with two rounds to go at the Superbet Chess Classic in Bucharest. The Azerbaijani grandmaster defeated GM Fabiano Caruana with the black pieces ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-7-mamedyarov",
+         "pubDate" : "Sun, 13 Jun 2021 02:53:00 -0700",
+         "title" : "Superbet Chess Classic: Full-Point Lead For Mamedyarov"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov took down world no. 2 Fabiano Caruana on the bloodiest day yet in Bucharest. Shakh's 3rd win in a row took him up to world no. 5 on the live rating list and also gave him a 1-point lead going into the final two rounds after co-leader Alexander Grischuk collapsed in time trouble against Levon Aronian. The day's other winner was Anish Giri, who ground down Maxime Vachier-Lagrave in a drawish ending and later declared \"chess is just about luck - there's really nothing else!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-7-shakh-strikes-again",
+         "pubDate" : "Sun, 13 Jun 2021 09:25:20 +0000",
+         "title" : "Superbet Chess Classic 7: Shakh strikes again"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Michael S. Langer</strong> refused to run for the Presidency of the <strong>German Chess Federation</strong>, the reelection of <strong>Ullrich Krause</strong> was all but certain. The unpopular incumbent was still challenged by <strong>Olga Birkholz</strong> who, despite having hardly a programme, team or record, collected <a href=\"https://twitter.com/Bodenseeperlen/status/1403720891545141250\">92 votes in Saturday's online congress vs Krause's 118</a>. After nearly 13 hours the assembly was <a href=\"https://twitter.com/BruhnBoris/status/1403801615405043714\">postponed to 9 October</a>, allowing the delegates to catch up with an ongoing ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/krause-remains-in-germany/",
+         "pubDate" : "Sun, 13 Jun 2021 08:48:47 +0100",
+         "title" : "Krause remains German chess President"
+      },
+      {
          "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-so-grischuk-snatch-lead",
          "pubDate" : "Wed, 09 Jun 2021 09:37:40 +0000",
          "title" : "Superbet Chess Classic 4: So & Grischuk snatch lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Karel van Delft</strong>, a Dutch psychologist, chess coach and author, has joined <strong>Chessable</strong> as science project manager and is <a href=\"https://www.chessable.com/blog/introducing-karel-van-delft/\">calling</a> university-based scientists who plan chess related projects. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessable-supports-chess-related/",
-         "pubDate" : "Wed, 09 Jun 2021 10:09:30 +0100",
-         "title" : "Chessable supports chess-related research"
       },
       {
          "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "Today: Winner Stays"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi will meet in the 9th edition of Norway Chess just two months before they begin their World Championship match in Dubai. Norway Chess, which was originally planned to return to a 10-player format in May 2021, will now be a 6-player double round-robin, with Alireza Firouzja, Richard Rapport, Sergey Karjakin and Aryan Tari completing the line-up. The plan is once again to have fast classical games followed, if the game ends in a draw, by Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-and-nepomniachtchi-to-meet-in-norway-chess",
-         "pubDate" : "Tue, 01 Jun 2021 20:30:26 +0000",
-         "title" : "Carlsen & Nepomniachtchi to meet in Norway Chess"
-      },
-      {
          "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gruenfeld-disaster",
          "pubDate" : "Sat, 29 May 2021 09:00:00 +0100",
          "title" : "Gruenfeld disaster"
-      },
-      {
-         "description" : "GM Wesley So took the lead in his FTX Crypto Cup semifinal against a mosquitos-battling GM Ian Nepomniachtchi. The American grandmaster needs two game points on Saturday to reach the final against either&#38;nbsp;GM Magnus Carlsen or GM Teimour Radjab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-nepomniachtchi-mosquitoes",
-         "pubDate" : "Sat, 29 May 2021 00:25:00 -0700",
-         "title" : "FTX Crypto Cup: So Leads As Nepomniachtchi Fights Mosquitoes"
       },
       {
          "description" : " The 2021 ACT Chess Championship has moved from it's traditional Canberra Day long weekend (in March), to the Reconciliation Day long weekend (in May). On the one hand this has seen a big increase in entries (52 players), but on the other, a few of the stronger players have had to give it a miss due to university exams. With a large field, the chances of first round upsets was diminished, and in fact there were none in the first round. The top sees went 23-0, although Fred Litchfield had to work hard to overcome a determined James Minogue. Cam Cunningham was another who put up a good fight (against WFM Alana Chibnall), but his habitual time trouble once again caused problems. The results fro",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/i-thought-this-was-bonkers.html",
          "pubDate" : "Sun, 23 May 2021 13:25:00 +0000",
          "title" : "I thought this was bonkers"
-      },
-      {
-         "description" : "Today, on 23 May, Anatoly Karpov turns 70! The 12th World Champion is still very active and on 31 May 2021, he will give a simul at the Karpov Children's Cup, an event supported by FIDE. Which made Alexey Root remember a remarkable Karpov simul in Austin, Texas, back in 1994. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-anatoly-karpov",
-         "pubDate" : "Sun, 23 May 2021 09:00:00 +0100",
-         "title" : "Happy Birthday, Anatoly Karpov"
       }
    ]
 }
