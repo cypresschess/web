@@ -2504,14 +2504,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/clasp-your-hands-and-raise-an-eyebrow/",
          "pubDate" : "Sun, 23 May 2021 05:56:30 +0000",
          "title" : "Clasp Your Hands and Raise an Eyebrow"
-      },
-      {
-         "description" : " Chess for Educators : Karel van Delft From the book's rear cover : &#8220;Chess has the rare quality that children love it despite the fact that it is good for them. Playing chess is just like life: you have to make plans, take decisions, be creative, deal with challenges, handle disappointments, interact with others and evaluate <a href=\"http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" hre",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/23/chess-for-educators-how-to-organize-and-promote-a-meaningful-chess-teaching-program/",
-         "pubDate" : "Sun, 23 May 2021 00:10:40 +0000",
-         "title" : "Chess for Educators : How to Organize and Promote a Meaningful Chess Teaching Program"
       }
    ]
 }
