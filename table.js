@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2021-06-04","23","<a href=http://www.uschess.org/msa/XtblMain.php?202106043802 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-06-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202106043762 target=' blank'>FBCC 2021 JUNE 3</a>",
 "SUGAR LAND","2021-05-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202105302192 target=' blank'>FBCC MAY 2021 MONTH-OF-SUNDAYS</a>",
@@ -198,5 +199,4 @@ jtable([
 "TOMBALL","2020-02-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202002149282 target=' blank'>THE FRIDAY KNIGHTS Advanced</a>",
 "HOUSTON","2020-02-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002143082 target=' blank'>FRIDAY KNIGHT QUADS</a>",
 "HOUSTON","2020-02-14","14","<a href=http://www.uschess.org/msa/XtblMain.php?202002140592 target=' blank'>CHESSPANDA02142020FRIDAY</a>",
-"SPRING","2020-02-08","93","<a href=http://www.uschess.org/msa/XtblMain.php?202002086892 target=' blank'>TRINITY KLEIN TOURNAMENT 2020</a>",
 ]);
