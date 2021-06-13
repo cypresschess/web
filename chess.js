@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/wrong-books-4-chess-for-kids/",
+         "pubDate" : "Sun, 13 Jun 2021 07:28:04 +0000",
+         "title" : "Wrong Books (4): Chess for Kids"
+      },
+      {
+         "description" : "German GM Vincent Keymer took clear lead of the world's next-generation talent Saturday, scoring 5/5 in a wildly decisive penultimate day of the Gelfand Challenge. The 16-year-old's run was part of one stretch of action in the rapid 10+5 event that saw just three draws across 40 games, including Saturday's penultimate Round 14 that produced decisions in all 10 games. Keymer has 12/15 and a headstart in Sunday's four-game sprint to the finish line, chased by India GM Praggnanandhaa a half point behind, and American IM Christopher Yoo in clear third after a four-win Saturday himself.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gelfand-challenge-day-3-keymer-leads-race",
+         "pubDate" : "Sun, 13 Jun 2021 07:25:07 +0000",
+         "title" : "Gelfand Challenge Day 3: Keymer leads race"
+      },
+      {
+         "description" : " At last, there is some stratification at the Superbet Chess Classic. In round 6, the leading triumvirate lost one of its members, and now Shakhriyar Mamedyarov is alone in first place with two rounds to go, thanks to his third consecutive win and Alexander Grischuk's loss. Today's action saw three decisive games, none of which featured Romanian players. Mamedyarov defeated no less a player than Fabiano Caruana, and with the black pieces. White played 4.d3 against the Berlin, and his subsequent 0-0 and h3 may have reminded Shakh of Aronian-Kramnik from the 2018 Candidates. He reacted similarly, and while the play continued in a different fashion than that earlier game the plan of ...g5 and .",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/13/superbet-chess-classic-round-7-mamedyarov-wins-leads-by-a-po.html",
+         "pubDate" : "Sun, 13 Jun 2021 05:14:06 +0000",
+         "title" : "Superbet Chess Classic, Round 7: Mamedyarov Wins, Leads by a Point"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -168,6 +192,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/gelfand-challenge-day-2-perfect-pragg-joins-abdusattorov-in-halfway-lead",
          "pubDate" : "Sat, 12 Jun 2021 06:39:49 +0000",
          "title" : "Gelfand Challenge Day 2: Perfect Pragg joins Abdusattorov in halfway lead"
+      },
+      {
+         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
+         "pubDate" : "Sat, 12 Jun 2021 04:43:00 +0000",
+         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
@@ -1634,14 +1666,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen clinches world's first bitcoin chess event"
       },
       {
-         "description" : "Magnus Carlsen let out a roar of joy and talked of \"massive, massive relief\" as he beat Wesley So in Armageddon to win the FTX Crypto Cup and book a place in the Meltwater Champions Chess Tour Finals in San Francisco. Magnus won the first game but Wesley hit back straight away and then took the lead when Magnus blundered in the first blitz playoff. It looked as if the World Champion would lose a 3rd final to the US Champion, but Magnus stormed back to win the next two games and claim the title. Ian Nepomniachtchi took 3rd place after four fighting games against Teimour Radjabov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-absolutely-insane-ftx-crypto-cup-final",
-         "pubDate" : "Tue, 01 Jun 2021 00:00:27 +0000",
-         "title" : "Magnus Carlsen wins \"absolutely insane\" FTX Crypto Cup final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2130,14 +2154,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: 14-year old Eline Roebers beats Grandmaster"
       },
       {
-         "description" : " The Queen's Indian Defence (1.d4 Nf6 2.c4 e6 3.Nf3 b6) is known as one of the most solid defences. Seen as a natural partner to the Nimzo-Indian (3.Nc3 Bb4) it has been played by most of the greats in chess history. Besides its solidity it offers ample opportunity to engage in a complex struggle because <a href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quell 'em with the Queen's Indian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quell-em-with-the-queens-indian/\">Quell 'em with the Queen's Indian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quell-em-with-the-queens-indian/",
-         "pubDate" : "Thu, 27 May 2021 16:06:37 +0000",
-         "title" : "Quell 'em with the Queen's Indian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2160,14 +2176,6 @@ news_feed (
          "link" : "https://aicf.in/notice-to-all-players-from-west-bengal/",
          "pubDate" : "Thu, 27 May 2021 07:39:59 +0000",
          "title" : "NOTICE TO ALL PLAYERS FROM WEST BENGAL"
-      },
-      {
-         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
-         "pubDate" : "Thu, 27 May 2021 04:43:42 +0000",
-         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : "",
@@ -2362,14 +2370,6 @@ news_feed (
          "title" : "FTX Crypto Cup, Days 1 & 2 of the Preliminaries"
       },
       {
-         "description" : " After speedily <a href=\"http://www.thechessmind.net/blog/2021/5/17/no-norm-for-mishra-and-other-news.html\">falling out of contention for his third and final GM norm</a>, Abhimanyu Mishru finished like a house on fire, <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=4&amp;turdet=YES&amp;flag=30\">winning his last four games</a> (most notably against GM Zoltan Varga) and coming out of the event with another <a href=\"https://chess-results.com/tnr560007.aspx?lan=1&amp;art=1&amp;turdet=YES&amp;flag=30\">nine rating points</a> in his pocket. He still needs one norm and approximately 17 rating points before this September 5 to break Sergey Karjakin's record for the youngest GM ever. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/25/mishra-finishes-strongly-no-norm-but-more-rating-points.html",
-         "pubDate" : "Tue, 25 May 2021 05:12:29 +0000",
-         "title" : "Mishra Finishes Strongly: No Norm, But More Rating Points"
-      },
-      {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2496,14 +2496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/happy-birthday-anatoly-karpov",
          "pubDate" : "Sun, 23 May 2021 09:00:00 +0100",
          "title" : "Happy Birthday, Anatoly Karpov"
-      },
-      {
-         "description" : " Anya Taylor-Joy, the star of The Queen's Gambit, shared her opinion on how to be the chess prodigy in her inaugural appearance on Saturday Night Live. Apparently, you simply need to coast your hands and raise an eyebrow. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/DhSz9aPiBe0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/clasp-your-hands-and-raise-an-eyebrow/",
-         "pubDate" : "Sun, 23 May 2021 05:56:30 +0000",
-         "title" : "Clasp Your Hands and Raise an Eyebrow"
       }
    ]
 }
