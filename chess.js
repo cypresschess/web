@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the last round of the Superbet Chess Classic, Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with the black to secure tournament victory. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament, kicks off on Friday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r9",
+         "pubDate" : "Tue, 15 Jun 2021 01:15:00 +0100",
+         "title" : "Shakhriyar Mamedyarov wins Superbet Chess Classic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1146",
+         "pubDate" : "Mon, 14 Jun 2021 23:14:43 +0000",
+         "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
+      },
+      {
+         "description" : "CryptoChamps powered by Coinbase was a smashing success, bringing together some of the crypto community heavyweights for a weekend of chess battles. Paradigm co-founder Matt Huang defeated Surojir Chatterjee in the finals to win the event. On hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/matt-huang-wins-cryptochamps",
+         "pubDate" : "Mon, 14 Jun 2021 15:56:42 -0700",
+         "title" : "Matt Huang Wins CryptoChamps"
+      },
+      {
          "description" : " What is most shocking about <a href=\"https://chess24.com/en/read/news/billionaire-admits-cheating-against-anand-in-charity-simul\">this story</a> is that it's likely to give billionaires, hitherto known and beloved as paragons of virtue, a bad name. Facetiousness aside, how <strong>especially</strong> awful is it to cheat in an event for charity, against one of your personal heroes, a player (Viswanathan Anand) who is universally respected for his sportsmanship? HT: Ross Hytnen and Allen Becker ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1874,14 +1898,6 @@ news_feed (
          "title" : "Magnus Carlsen wins world's first bitcoin chess tournament"
       },
       {
-         "description" : "On the third attempt, GM Magnus Carlsen finally managed to beat GM Wesley So in a Champions Chess Tour final. In a thriller of a second match, the world champion ended up winning the all-decisive armageddon game.&#38;nbsp; GM Ian Nepomniachtchi came...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup",
-         "pubDate" : "Mon, 31 May 2021 12:20:00 -0700",
-         "title" : "Carlsen Wins FTX Crypto Cup"
-      },
-      {
          "description" : " Last year, World Chess and Match TV, the leading Russian sports TV channel, premiered \"Armageddon\", a chess competition designed specifically for broadcasting on live television. The tournament, filmed is a special pavilion, was different from typical chess events - it was visually engaging, lightning-fast, and featured novelties like heart beat metrics. The event was a prime-time hit. The series will resume next year, and we are happy to give you the insider view of the first time Vladimir Kramnik, one of the participants of the series, visited the playing arena. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3_mX7jIu_DU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2472,22 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-2",
          "pubDate" : "Tue, 25 May 2021 08:30:00 +0100",
          "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
-      },
-      {
-         "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qualification-criteria-candidates-2022",
-         "pubDate" : "Mon, 24 May 2021 23:35:00 +0100",
-         "title" : "Qualification criteria for the Candidates announced, Radjabov gets a spot"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1100",
-         "pubDate" : "Mon, 24 May 2021 22:28:19 +0000",
-         "title" : "Round 3: Players go all-in"
       }
    ]
 }
