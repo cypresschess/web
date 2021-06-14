@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Gelfand Challenge was the second rapid event of the Baer Challengers Chess Tour played on the Chess24 servers. This 20 player round robin had some of the best young players competing. The time control was 10 minutes plus a 5-second increment. Players: Nodirbek Abdusattorov, Sarin Nihal, R Praggnanandhaa, Awonder Liang, Vincent Keymer, D Gukesh, Leon Luke Mendonca, Jonas Buhl Bjerre, Tingjie Lei, Volodar Murzin, Dinara Saduakassova, Sarasadat Khademalsharieh, Polina Shuvalova, Zhansaya Abdumalik, Jiner Zhu, Christopher Woojin Yoo, Gunay Mammadzada, Carissa Yip, Olga Badelka, Nurgyul Salimova. D Gukesh just edged out R Praggnanandhaa on tie-break (he beat him in their individual game and ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
+         "pubDate" : "Mon, 14 Jun 2021 19:50:00 +0400",
+         "title" : "Gelfand Challenge 2021 - Games and Results"
+      },
+      {
+         "description" : "Just after receiving an invitation to next month's FIDE World Cup in Sochi, Indian junior star GM Gukesh D now has his warm-up plans booked: polishing up his skills with World Champion Magnus Carlsen and the globe's best GMs in the Meltwater Champions Chess Tour. The second-youngest GM in history punched his ticket to the June 26 super event by winning the Gelfand Challenge with a 14/19 score, first beating rival GM Praggnanandhaa in a dramatic Round 17 game, then catching him at the finish line with a clutch 4/4 performance to close the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gukesh-books-spot-on-champions-chess-tour",
+         "pubDate" : "Mon, 14 Jun 2021 11:04:37 +0000",
+         "title" : "Gukesh books spot on Champions Chess Tour"
+      },
+      {
+         "description" : "Manish Kumar of Odisha and V Rindhya of Tamilnadu crowned as National Under-18 Open &#38; Girls Online Chess Champions respectively which concluded on Saturday. Scoring",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/manish-kumar-and-rindhya-champions/",
+         "pubDate" : "Mon, 14 Jun 2021 10:29:01 +0000",
+         "title" : "Manish Kumar and Rindhya Champions"
+      },
+      {
+         "description" : "On Sunday, the last four of the 19 rounds of the \"Gelfand Challenge\" were played. After 15 rounds Vincent Keymer from Germany had led the tournament but he only scored 1.5/4 on the final day. This was the chance for the 15-year old Indian Gukesh D., who had started the day two points behind Keymer, to catch up. After a 4.0/4 run Gukesh finished on 14.0/19 and tied first with his compatriot Praggnanandhaa but Gukesh won the tournament on tiebreak because he had won the direct encounter against \"Pragg\". Half a point behind the two Indians, Vincent Keymer came third. | Picture: Julius Baer Challengers Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-d-wins-the-gelfand-challenge",
+         "pubDate" : "Mon, 14 Jun 2021 10:43:38 +0100",
+         "title" : "Gukesh D. wins the Gelfand Challenge"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1145",
+         "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
+         "title" : "2021 Superbet Chess Classic - Day 8 Recap"
+      },
+      {
+         "description" : "India's youngest billionaire Nikhil Kamath blundered a pawn on move 1 but then went on to crush 5-time World Chess Champion Vishy Anand in a \"Checkmate COVID\" charity simul. Nikhil said afterwards that he just got lucky, while the World Champion politely noted, \"Today was not the chess of people who just know how the pieces move\". Outrage followed, with Nikhil eventually admitting computer and other help, though his apology implied Vishy was aware his opponent was going to have assistance. The Indian legend made it clear he wasn't.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/billionaire-admits-cheating-against-anand-in-charity-simul",
+         "pubDate" : "Mon, 14 Jun 2021 08:56:36 +0000",
+         "title" : "Billionaire admits cheating against Anand in charity simul"
+      },
+      {
+         "description" : "In a very close round of 16 match in the FIDE Chess.com Women&#39;s Speed Chess Championship, reigning world blitz champion GM Kateryna Lagno defeated GM Valentina Gunina 11.5-10.5. The next match is on Wednesday, June 16 between GM Alexandra Kosteniu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-beats-gunina",
+         "pubDate" : "Mon, 14 Jun 2021 01:40:44 -0700",
+         "title" : "Women's Speed Chess Championship: Lagno Beats Gunina"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov used a now-infamous variation in the Grunfeld to force a draw with GM Anish Giri in round eight of the Superbet Chess Classic. Mamedyarov is half a point away from sole tournament victory. While three more games ended in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-8-mamedyarov-giri-grunfeld",
+         "pubDate" : "Mon, 14 Jun 2021 00:40:04 -0700",
+         "title" : "Superbet Chess Classic: Mamedyarov Closes In With Grunfeld Move Repetition"
+      },
+      {
          "description" : " One round remains, and Shakhriyar Mamedyarov retains a full point lead over his closest pursuers. Mamedyarov decided not to take any risks today against Anish Giri, choosing a variation that has already been used to assure White of a speedy drawn in seven games - including (move for move) the Teimour Radjabov vs. Maxime Vachier-Lagrave game from round 3 of this tournament. That opened the door for Wesley So and Alexander Grischuk to come within half a point of the lead, if they could manage to defeat Vachier-Lagrave or Caruana, respectively. Neither did. Wesley So enjoyed a very small edge against MVL's comical knight's tour of an opening, but the latter defended well and made a comfortable",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -98,12 +162,12 @@ news_feed (
          "title" : "2021 Superbet Chess Classic: Levon Aronian Interview | Round 8"
       },
       {
-         "description" : "Shakhriyar Mamedyarov kept his 1-point lead going into the last round of the Superbet Chess Classic, as in the only decisive game of Sunday's round Levon Aronian got the better of Bogdan-Daniel Deac. Mamedyarov signed a quick draw in his game against Anish Giri, while Alexander Grischuk vs Fabiano Caruana was an exciting encounter in which both players missed chances. | Full report to follow shortly | Photo: Bryan Adams",
+         "description" : "Shakhriyar Mamedyarov kept his 1-point lead going into the last round of the Superbet Chess Classic, as in the only decisive game of Sunday's round Levon Aronian got the better of Bogdan-Daniel Deac. Mamedyarov signed a quick draw in his game against Anish Giri, while Alexander Grischuk vs Fabiano Caruana was an exciting encounter in which both players missed chances. | Games and results | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
          "pubDate" : "Sun, 13 Jun 2021 19:30:00 +0100",
-         "title" : "Superbet Classic: Aronian beats Deac [Express report]"
+         "title" : "Superbet Classic: Aronian beats Deac"
       },
       {
          "description" : " Shakhriyar Mamedyarov only needs a draw in the final round against Maxime Vachier-Lagrave to win the Superbet Chess Classic tournament. Mamedyarov drew against Anish Giri using the moves of the game Radjabov vs MVL from earlier in the event. The only decisive game was Levon Aronian grinding out a win with black against Bogdan-Daniel Deac. 18...Rd7?! 19.Be3 might have been a different matter for Deac. Wesley So drew with Maxime Vachier-Lagrave in a game mainly notable for the six consecutive knight moves played by black, 5...Nb4, 6... Nd3+ 7... Nf4+ 8... Ne6 9... Nd4 10... Ndc6N only the final move being new however, still it's a very striking journey for a piece to make. Teimour Radjabov wa",
@@ -128,14 +192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-2.html",
          "pubDate" : "Sun, 13 Jun 2021 14:12:00 +0000",
          "title" : "2021 NSW Open - Day 2"
-      },
-      {
-         "description" : "An amazingly close race in the last rounds of the Gelfand Challenge saw Gukesh finally coming out on top, as he ended up with as many points as Praggnanandhaa but had a better tiebreaker score. Vincent Keymer, who was the sole leader after 15 rounds, finished in sole third place, a half point behind the Indian duo. | Games and results.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-gelfand-chess-challenge-day-1-live",
-         "pubDate" : "Sun, 13 Jun 2021 15:05:00 +0100",
-         "title" : "Gelfand Challenge - Gukesh wins!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 31st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
@@ -616,14 +672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1139",
          "pubDate" : "Thu, 10 Jun 2021 16:35:36 +0000",
          "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
-      },
-      {
-         "description" : " The Gelfand Challenge is the second rapid event of the Baer Challengers Chess Tour played on the Chess24 servers. This 20 player round robin has some of the best young players competing. The time control is 10 minutes plus a 5-second increment. Players: Nodirbek Abdusattorov, Sarin Nihal, R Praggnanandhaa, Awonder Liang, Vincent Keymer, D Gukesh, Leon Luke Mendonca, Jonas Buhl Bjerre, Tingjie Lei, Volodar Murzin, Dinara Saduakassova, Sarasadat Khademalsharieh, Polina Shuvalova, Zhansaya Abdumalik, Jiner Zhu, Christopher Woojin Yoo, Gunay Mammadzada, Carissa Yip, Olga Badelka, Nurgyul Salimova.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
-         "pubDate" : "Thu, 10 Jun 2021 19:50:00 +0400",
-         "title" : "Gelfand Challenge 2021 - Games and Results"
       },
       {
          "description" : " If my memory hasn't completely gone, this weekends NSW Open will be my first 'away' weekend event since early last year. I'm not going as a player mid you, but as an arbiter. The last event I directed outside Canberra was the 2020 Australian Championship and since then it has either been local events, or online ones. The good news for the organisers is that there will be 140 players in attendance (actually the maximum allowed). The bad news for spectators/parents is that this is close to the venue capacity, so only 'essential' staff are allowed in the playing area. Otherwise you will have to follow the tournament online via <a href=\"http://nswopen.nswca.org.au\">nswopen.nswca.org.au</a> <br ",
@@ -1434,14 +1482,6 @@ news_feed (
          "title" : "Queens' Festival: Registration date extended"
       },
       {
-         "description" : "21-year-old Zhansaya Abdumalik blew away the field to win the Gibraltar FIDE Women's Grand Prix with an unbeaten 8.5/11, finishing 1.5 points clear of Mariya Muzychuk in second place. The Kazakhstan star broke through the 2500 barrier to confirm her grandmaster title. The biggest winner, however, was arguably Kateryna Lagno, whose 4th place in three Grand Prix events proved enough for a spot in the 2022 Women's Candidates Tournament, where she'll be joined by Humpy Koneru, who racked up enough points in just two events.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/newly-minted-gm-abdumalik-crushes-in-gibraltar",
-         "pubDate" : "Thu, 03 Jun 2021 08:36:28 +0000",
-         "title" : "Newly-minted GM Abdumalik crushes in Gibraltar"
-      },
-      {
          "description" : "IM Zhansaya Abdumalik played the tournament of her life in Gibraltar. The Kazakh chess player won the Women&#39;s Grand Prix with a round to spare, earned 15,000 euros, and became a full-fledged grandmaster in the process.&#38;nbsp; The other &#34;winners&#34; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1866,14 +1906,6 @@ news_feed (
          "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Wesley So tied their first match in the final of the FTX Crypto Cup with two theoretical draws and a win each. In the consolation final between GM Ian Nepomniachtchi and GM Teimour Radjabov, the players went for four quick...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-theoretical-draws-radjabov-van-foreest",
-         "pubDate" : "Sun, 30 May 2021 23:57:00 -0700",
-         "title" : "FTX Crypto Cup: Players Criticized For Playing Theoretical Draws"
-      },
-      {
          "description" : " From the publisher: &#8220;50% Tactics 50% Opening Book 100% Enjoyment! Enter the world of chess miniatures where games are decided in 20 moves or less! Marvelous Modern Miniatures features the largest collection of miniatures chess games played in the last half-century. Over 500 pages of cut and thrust! Although every player is rated <a href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Marvelous Modern Miniatures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\">Marvelous Modern Miniatures</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1968,14 +2000,6 @@ news_feed (
          "link" : "https://chessimprover.com/ruining-the-rook-ending/",
          "pubDate" : "Sun, 30 May 2021 08:00:22 +0000",
          "title" : "Ruining the Rook Ending"
-      },
-      {
-         "description" : "GM Magnus Carlsen and GM Wesley So, the current numbers one and two of the Champions Chess Tour, will play in the final of the FTX Crypto Cup. Carlsen defeated GM Teimour Radjabov twice to reach the final. One win against GM Ian Nepomniachtchi was...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-carlsen-so-in-final",
-         "pubDate" : "Sun, 30 May 2021 00:44:00 -0700",
-         "title" : "FTX Crypto Cup: Carlsen, So In Final"
       },
       {
          "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
@@ -2168,14 +2192,6 @@ news_feed (
          "link" : "https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/",
          "pubDate" : "Fri, 28 May 2021 05:11:36 +0000",
          "title" : "R2 report - European Hybrid Qualification Tournament"
-      },
-      {
-         "description" : "FIDE Commission for Women's Chess is organising Queens' Online Chess Festival and the detailed regulations are appended below Women Players who are interested to participate",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/queens-online-chess-festival/",
-         "pubDate" : "Fri, 28 May 2021 04:35:07 +0000",
-         "title" : "Queens' Online Chess Festival"
       },
       {
          "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
@@ -2480,14 +2496,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship/",
          "pubDate" : "Mon, 24 May 2021 11:55:35 +0000",
          "title" : "British Junior Rapid & Blitz Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1096",
-         "pubDate" : "Mon, 24 May 2021 09:58:28 +0000",
-         "title" : "FIDE Chessable Academy: 140 Nominations from 51 Federations"
       }
    ]
 }
