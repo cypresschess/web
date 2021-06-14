@@ -10,6 +10,38 @@ news_feed (
          "title" : "Gelfand Challenge 2021 - Games and Results"
       },
       {
+         "description" : "In the winter of 1921/22, Ernst Gr&uuml;nfeld developed a revolutionary chess opening. Almost a hundred years later, the Viennese, who became a professional player out of necessity and joined the NSDAP because of his Jewish-sounding name, is the unlikely star of an exhibition in his hometown. Stefan L&ouml;ffler visited it. | Photos, if not otherwise indicated: Collection Michael Ehn",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/homo-neubau-an-exhibition-featuring-ernst-gruenfeld",
+         "pubDate" : "Mon, 14 Jun 2021 16:00:00 +0100",
+         "title" : "\"Homo Neubau\": An exhibition featuring Ernst Gr&uuml;nfeld"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nikhil Kamath</strong>, cofounder of the Indian trading platform <strong>Zerodha</strong>, won a game against <strong>Vishy Anand</strong> in a charity online simul. After being banned by <strong>Chess.com</strong>, the billionaire admitted that he had taken hints from Grandmasters, computers and even Anand himself during the game and apologized. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/billionaire-apologized-for-computer/",
+         "pubDate" : "Mon, 14 Jun 2021 15:23:42 +0100",
+         "title" : "Billionaire apologized for computer assistance"
+      },
+      {
+         "description" : "Seventeen names and you get two choices - this is the latest Premium-only vote for the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/premium-only-17-names-to-choose-you-decide-who-plays-in-the-next-tour-event",
+         "pubDate" : "Mon, 14 Jun 2021 13:46:06 +0000",
+         "title" : "Premium only: 17 names to choose - you decide who plays in the next Tour event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-9-lichessorg",
+         "pubDate" : "Mon, 14 Jun 2021 13:14:33 +0000",
+         "title" : "2021 Superbet Chess Classic: Round 9 | lichess.org"
+      },
+      {
          "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,11 +114,11 @@ news_feed (
          "title" : "Billionaire admits cheating against Anand in charity simul"
       },
       {
-         "description" : "In a very close round of 16 match in the FIDE Chess.com Women&#39;s Speed Chess Championship, reigning world blitz champion GM Kateryna Lagno defeated GM Valentina Gunina 11.5-10.5. The next match is on Wednesday, June 16 between GM Alexandra Kosteniu...",
+         "description" : "In a very close round of 16 match in the FIDE Chess.com Women&#39;s Speed Chess Championship, reigning women&#39;s world blitz champion GM Kateryna Lagno defeated GM Valentina Gunina 11.5-10.5. The next match is on Wednesday, June 16, between GM Alexandra...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-beats-gunina",
-         "pubDate" : "Mon, 14 Jun 2021 01:40:44 -0700",
+         "pubDate" : "Mon, 14 Jun 2021 01:40:00 -0700",
          "title" : "Women's Speed Chess Championship: Lagno Beats Gunina"
       },
       {
@@ -94,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-8-mamedyarov-giri-grunfeld",
-         "pubDate" : "Mon, 14 Jun 2021 00:40:04 -0700",
+         "pubDate" : "Mon, 14 Jun 2021 00:40:00 -0700",
          "title" : "Superbet Chess Classic: Mamedyarov Closes In With Grunfeld Move Repetition"
       },
       {
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-constantin-lupulescu-interview-round-8",
          "pubDate" : "Sun, 13 Jun 2021 19:13:55 +0000",
          "title" : "2021 Superbet Chess Classic: Constantin Lupulescu Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Grandmaster Levon Aronian during the eighth round of the 2021 Superbet Chess Classic. 2021.06.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-levon-aronian-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MqkoOfccX2g.jpg?itok=f17ZBh2E\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-levon-aronian-interview-round-8",
-         "pubDate" : "Sun, 13 Jun 2021 19:13:55 +0000",
-         "title" : "2021 Superbet Chess Classic: Levon Aronian Interview | Round 8"
       },
       {
          "description" : "Shakhriyar Mamedyarov kept his 1-point lead going into the last round of the Superbet Chess Classic, as in the only decisive game of Sunday's round Levon Aronian got the better of Bogdan-Daniel Deac. Mamedyarov signed a quick draw in his game against Anish Giri, while Alexander Grischuk vs Fabiano Caruana was an exciting encounter in which both players missed chances. | Games and results | Photo: Bryan Adams",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-plays-the-2021-world-cup",
          "pubDate" : "Thu, 10 Jun 2021 18:30:43 +0000",
          "title" : "Magnus Carlsen plays the 2021 World Cup"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.fide.com/news/1139\">confirmed his participation</a> in the <strong>World Cup</strong> that starts on 14 July in Sochi where he will fight for a $88,000 first prize (according to the <a href=\"https://handbook.fide.com/files/handbook/WorldCup2021Regulations.pdf\">regulations</a> 20% of the nominal prizes are retained by <strong>FIDE</strong>). His challenger <strong>Ian Nepomniachtchi</strong> is one of the few missing top players. If the world champion reaches the final, the second qualification spot for the Candidates Tournament 2022 goes to the winner of the match for 3rd place. Except for a f",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-plays-world-cup/",
-         "pubDate" : "Thu, 10 Jun 2021 19:18:33 +0100",
-         "title" : "Carlsen plays World Cup"
       },
       {
          "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Irina Krush talks about her time dealing with the coronavirus, which still affects her today, if she has more power and ambition to win another U.S. women's champion title, and what her plans are for the future, involving an own YouTube channel.",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-1",
          "pubDate" : "Sun, 06 Jun 2021 01:24:00 -0700",
          "title" : "Superbet Chess Classic: Giri Escapes In Peaceful Opening Round"
-      },
-      {
-         "description" : "\"Nobody else wanted to play chess!\" said Anish Giri after flirting with disaster against Bogdan-Daniel Deac on a day when the Superbet Chess Classic began with four completely uneventful draws. His game was also ultimately a draw, but only after 19-year-old Deac, a very late replacement for Richard Rapport, came within a move or two of victory. Instead it was a peaceful start to the first classical over-the-board tournament some of the players had played in a year and a half.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-1-giri-s-gamble-almost-backfires",
-         "pubDate" : "Sun, 06 Jun 2021 08:00:24 +0000",
-         "title" : "Superbet Chess Classic 1: Giri's gamble almost backfires"
       },
       {
          "description" : " I've played two rather similar endings online recently. Both started off with bishop against knight before the minor pieces were traded off into a pawn ending. I was very lucky to win both games after my opponents, with not a lot of time on the clock, went wrong. In the first game I was black <a href=\"https://chessimprover.com/two-instructive-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Two Instructive Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/two-instructive-endings/\">Two Instructive Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2496,22 +2504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/stranded-in-budapest",
          "pubDate" : "Mon, 24 May 2021 18:59:20 +0100",
          "title" : "Stranded in Budapest"
-      },
-      {
-         "description" : "The preliminaries of the FTX Crypto Cup, the sixth event of the Meltwater Champions Chess Tour, started on Sunday. Anish Giri grabbed the sole lead with a 4/5 score, while world champion Magnus Carlsen only managed to get fifty percent of the points. There are ten more preliminary round games to come, so Carlsen is well in time to climb up the standings table. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-1",
-         "pubDate" : "Mon, 24 May 2021 15:25:00 +0100",
-         "title" : "FTX Crypto Cup: Giri leads, Carlsen struggling"
-      },
-      {
-         "description" : " Opening a dedicated 'Chess Centre' is a bit of a risk, as without a large (paying) membership, generating enough income to keep it going can be a bit of a challenge. However, some enterprising lads in the Yorkshire town of Ilkley have taken a risk and opened <a href=\"https://www.chesscentre.online/\">The Chess Centre</a>. It is a modest sized venue (fitting around 16 players inside) but from the look of the pictures (and a report by ChessExpress's intrepid correspondent Rupert Jones*) it seems to be a very stylish club. When visiting the old country, I do on occasion travel to that part of the UK, and when restrictions are lifted I am keen to drop in. The news from Ilkley inspired me to look",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/on-ilkla-moor-baht-at.html",
-         "pubDate" : "Mon, 24 May 2021 13:23:00 +0000",
-         "title" : "On Ilkla Moor Baht 'at"
       }
    ]
 }
