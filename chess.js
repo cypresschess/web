@@ -10,6 +10,30 @@ news_feed (
          "title" : "Gelfand Challenge 2021 - Games and Results"
       },
       {
+         "description" : "The 2021 Grand Chess Tour features two classical and three rapid & blitz events, picking up after the cancellation of the 2020 season. Following the success of the 2019 Superbet Rapid and Blitz tournament in Bucharest, the Romanian capital is hosting the first classical event of the season on June 5-14. | Follow the games live with commentary starting at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Mon, 14 Jun 2021 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" /></a>Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms",
+         "pubDate" : "Mon, 14 Jun 2021 17:43:02 +0530",
+         "title" : "Aronyak Ghosh qualifies for world youth chess"
+      },
+      {
+         "description" : " New features and updates for the <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Active game widget that follows you around the platform</h2> Sometimes when you are deep into a game and waiting for an opponent's move (especially in longer time controls) you want to visit the platform's lobby or see other games or profiles. Now you can - a useful widget with the last move indicator will follow you around and you can track your opponent's move. When you are ready to return to the game, use the 'go back to the game' button on the widget. <div class=\"e2-text",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-june-2021/",
+         "pubDate" : "Mon, 14 Jun 2021 11:59:06 +0000",
+         "title" : "What's New on FIDE Online Arena - June 2021"
+      },
+      {
          "description" : "Just after receiving an invitation to next month's FIDE World Cup in Sochi, Indian junior star GM Gukesh D now has his warm-up plans booked: polishing up his skills with World Champion Magnus Carlsen and the globe's best GMs in the Meltwater Champions Chess Tour. The second-youngest GM in history punched his ticket to the June 26 super event by winning the Gelfand Challenge with a 14/19 score, first beating rival GM Praggnanandhaa in a dramatic Round 17 game, then catching him at the finish line with a clutch 4/4 performance to close the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -42,6 +66,14 @@ news_feed (
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
       },
       {
+         "description" : " The 3rd Prague International Chess Festival takes place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Jan Krzysztof Duda, Jorden Van Foreest, David Navara, Radoslaw Wojtaszek, Sam Shankland, Nils Grandelius, Nijat Abasov and Nguyen Thai Dai Van.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-prague-international-chess-festival-2021",
+         "pubDate" : "Mon, 14 Jun 2021 12:57:00 +0400",
+         "title" : "3rd Prague International Chess Festival 2021 - Games and Results"
+      },
+      {
          "description" : "India's youngest billionaire Nikhil Kamath blundered a pawn on move 1 but then went on to crush 5-time World Chess Champion Vishy Anand in a \"Checkmate COVID\" charity simul. Nikhil said afterwards that he just got lucky, while the World Champion politely noted, \"Today was not the chess of people who just know how the pieces move\". Outrage followed, with Nikhil eventually admitting computer and other help, though his apology implied Vishy was aware his opponent was going to have assistance. The Indian legend made it clear he wasn't.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-8-mamedyarov-giri-grunfeld",
          "pubDate" : "Mon, 14 Jun 2021 00:40:04 -0700",
          "title" : "Superbet Chess Classic: Mamedyarov Closes In With Grunfeld Move Repetition"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov will at least share 1st place in the Superbet Chess Classic after taking an instant draw against Anish Giri in Round 8, while a draw in the final round would guarantee him sole first place. The players who can catch him are Wesley So, Alexander Grischuk and Levon Aronian, who are all a point back after Levon picked up the only win of the penultimate round, against Bogdan-Daniel Deac. So-MVL was a theoretical battle, Grischuk-Caruana was time-trouble mayhem, while Radjabov-Lupulescu saw Teimour dragged, at least briefly, into a fight.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-8-shakh-on-the-brink",
+         "pubDate" : "Mon, 14 Jun 2021 07:00:00 +0000",
+         "title" : "Superbet Chess Classic 8: Shakh on the brink"
       },
       {
          "description" : " One round remains, and Shakhriyar Mamedyarov retains a full point lead over his closest pursuers. Mamedyarov decided not to take any risks today against Anish Giri, choosing a variation that has already been used to assure White of a speedy drawn in seven games - including (move for move) the Teimour Radjabov vs. Maxime Vachier-Lagrave game from round 3 of this tournament. That opened the door for Wesley So and Alexander Grischuk to come within half a point of the lead, if they could manage to defeat Vachier-Lagrave or Caruana, respectively. Neither did. Wesley So enjoyed a very small edge against MVL's comical knight's tour of an opening, but the latter defended well and made a comfortable",
@@ -1226,14 +1266,6 @@ news_feed (
          "title" : "African Individual Continental Championships 2021"
       },
       {
-         "description" : "Sam Shankland and David Anton were big name casualties on Day 1 of the San Fermin Banter Blitz Cup as they lost their first round matches to Vahap Sanal and Hans Niemann. It's going to be Duda-Sadhwani and Sanal-Niemann in the semi-finals of the A Qualifier, which is the first of eight mini-knockout qualifiers. The winners will play an 8-player round-robin for a place either in the Meltwater Champions Chess Tour or the San Fermin final event featuring World Champion Magnus Carlsen playing from Pamplona, Spain.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/shankland-and-anton-knocked-out-of-banter-blitz-cup",
-         "pubDate" : "Sat, 05 Jun 2021 11:55:44 +0000",
-         "title" : "Shankland & Anton knocked out of Banter Blitz Cup"
-      },
-      {
          "description" : "During the 1840s and 1850s three chess masters dominated the global chessboard. These champions avant la lettre, before the world title had been generally recognised, were the Englishman Howard Staunton, the German Adolph Anderssen and the American Paul Morphy. In this column so far, I have concentrated on games played mano-a-mano between single opponents. This week I turn []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2362,14 +2394,6 @@ news_feed (
          "title" : "FIDE expands support program for distinguished veterans"
       },
       {
-         "description" : " Fabiano Caruana's debut on the Meltwater Champions Chess tour has started with victory in the Preliminary section of the FTX Crypto Cup. Caruana hasn't played any online chess this year just the Tata Steel tournament as a warm up to the Candidates but here he scored 10/15 just losing one game - against Shakhriyar Mamedyarov. Having played no events on the tour so far and with only three left after this Caruana will probably have to win this event to reach the tour finals. The whole event was fairly tight but Anish Giri, Hikaru Nakamura, MVL and Wesley So had relatively pain free qualifications along with Teimour Radjabov who didn't have a good day but also had a bit of leeway with his good ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/caruana-wins-the-ftx-crypto-cup-preliminaries-carlsen-and-nepomniachtchi-just-manage-to-squeak-through-to-the-second-phase",
-         "pubDate" : "Tue, 25 May 2021 22:01:00 +0400",
-         "title" : "Caruana wins the FTX Crypto Cup Preliminaries - Carlsen and Nepomniachtchi just manage to squeak through to the second phase - Day 3"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on a new crop of young super talents - Marc'Andria Maurizzi, who got his GM title at the age of 14 years and 5 days, and Abhimanyu Mishra, the 12 year old close to becoming the youngest GM in history (he only needs 8 points and one norm to be the youngest GM of all time). | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2488,14 +2512,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/on-ilkla-moor-baht-at.html",
          "pubDate" : "Mon, 24 May 2021 13:23:00 +0000",
          "title" : "On Ilkla Moor Baht 'at"
-      },
-      {
-         "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship/",
-         "pubDate" : "Mon, 24 May 2021 11:55:35 +0000",
-         "title" : "British Junior Rapid & Blitz Championship"
       }
    ]
 }
