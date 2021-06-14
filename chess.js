@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One round remains, and Shakhriyar Mamedyarov retains a full point lead over his closest pursuers. Mamedyarov decided not to take any risks today against Anish Giri, choosing a variation that has already been used to assure White of a speedy drawn in seven games - including (move for move) the Teimour Radjabov vs. Maxime Vachier-Lagrave game from round 3 of this tournament. That opened the door for Wesley So and Alexander Grischuk to come within half a point of the lead, if they could manage to defeat Vachier-Lagrave or Caruana, respectively. Neither did. Wesley So enjoyed a very small edge against MVL's comical knight's tour of an opening, but the latter defended well and made a comfortable",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/14/superbet-chess-classic-round-8-mamedyarov-on-the-verge-of-to.html",
+         "pubDate" : "Mon, 14 Jun 2021 05:59:10 +0000",
+         "title" : "Superbet Chess Classic, Round 8: Mamedyarov on the Verge of Tournament Victory"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2410,14 +2418,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
       },
       {
-         "description" : " This <a href=\"https://championschesstour.com/\">elite rapid event</a> started Sunday, and after two days of the three-day preliminary the field remains tightly bunched. Sixteen players are fighting it out in a round-robin to determine the top eight places for the knockout portion of the event, and with five rounds to go the top 12 players are within two points of each other, with two more players are just a further half point back. (And these two aren't exactly chumps: Daniil Dubov and Alireza Firouzja!) Anish Giri led after the first day with 4/5, while Magnus Carlsen and Fabiano Caruana were among those mired at 50%. Giri had a tough second day, getting only 2/5, while Caruana got hot with",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/5/25/ftx-crypto-cup-days-1-2-of-the-preliminaries.html",
-         "pubDate" : "Tue, 25 May 2021 05:16:35 +0000",
-         "title" : "FTX Crypto Cup, Days 1 & 2 of the Preliminaries"
-      },
-      {
          "description" : "The International Chess Federation has published the qualification criteria that will be used to determine who participates in the next Candidates Tournament, scheduled to take place in 2022. Notably, Teimour Radjabov was granted a spot after the Azerbaijani withdrew from the previous edition, rightfully predicting that the sanitary crisis would become a real obstacle for the normal development of the event. FIDE has also eliminated the chance to qualify by rating. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1096",
          "pubDate" : "Mon, 24 May 2021 09:58:28 +0000",
          "title" : "FIDE Chessable Academy: 140 Nominations from 51 Federations"
-      },
-      {
-         "description" : "Zhansaya Abdumalik from Kazakhstan is leading the fourth leg of the Women's Grand Prix in Gibraltar after two rounds. The 21-year-old is the only player to have won both her games so far, as she got the better of compatriot Dinara Saduakassova and Elisabeth Paehtz in the first rounds of the event. Four players stand a half point behind. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r2",
-         "pubDate" : "Mon, 24 May 2021 05:45:00 +0100",
-         "title" : "Gibraltar GP: Abdumalik starts with two wins"
       }
    ]
 }
