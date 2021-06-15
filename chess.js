@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-championship-v-road-2000-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CoKuMJgrGoQ.jpg?itok=BN19x0tS\" alt=\"\" /></a></div>",
+         "description" : " While the game show called \"You Bet Your Life\" was before my time, Groucho Marx and the Marx Brothers were well-known to people of my age cohort, at least in the U.S. and, I suspect, elsewhere. For those of you who only know that last name as a politican/economic figure, you're missing out - go dig up some clips on YouTube. At any rate, Groucho went on to be the host of the aforementioned (rather quirky) game show, and in <a href=\"https://archive.org/details/youBetYourLife1956-SecretWordDoor\">this episode</a> [HT: Les Kistler] from 1956 one of his guests was grandmaster <a href=\"https://en.wikipedia.org/wiki/Isaac_Kashdan\">Isaac Kashdan</a> (1905-1985). On the show, Kashdan was paired up wi",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/15/old-time-gms-on-old-time-game-shows.html",
+         "pubDate" : "Tue, 15 Jun 2021 22:35:31 +0000",
+         "title" : "Old-Time GMs on Old-Time Game Shows"
+      },
+      {
+         "description" : "Unlike other sports, chess allows for players to agree to a draw, be it explicitly or implicitly - for example, by entering a forced line that leads to a threefold repetition. Many workarounds have been proposed to prevent this from happening too often, but at the end of the day, it mostly has to do with how 'fighting' a player is. But how to measure the players' combativeness? GM David Smerdon has developed a method to answer this question.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/david-smerdon-introduces-the-fighting-chess-index",
+         "pubDate" : "Tue, 15 Jun 2021 23:00:00 +0100",
+         "title" : "David Smerdon introduces the Fighting Chess Index"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. All medal winners will receive Free Entry into &quot;Summer Slam Bash&quot; (online) on 6/23. All players are entered into a Raffle (held on 6/23) for a free one Hour GM Lesson via Skype. Full details: <a href=\"https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585\">https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585</a> 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidde",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby-chesscom",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/11/kasparov-and-anand-to-play-the-croatia-grand-prix.html",
          "pubDate" : "Fri, 11 Jun 2021 06:15:01 +0000",
          "title" : "Kasparov and Anand to Play the Croatia Grand Prix"
-      },
-      {
-         "description" : " Before you <a href=\"https://www.davidsmerdon.com/?p=2168\">have a look</a> at GM David Smerdon's top 50 and how he calculated his \"fighting chess index\", take a guess as to who was #1 from 2015-2020. Some of you may be surprised (at least those of you with long memories and a hatred for the \"B-word\"). And you probably <em>won't</em> be surprised by who came in last, at least if you've been paying attention. Regardless, it's fun, and there are surprises like alleged drawmeister Anish Giri finishing ahead of Daniil Dubov (as noted by HT recipient Ross Hytnen). Thoughts? ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/11/the-fighting-chess-index.html",
-         "pubDate" : "Fri, 11 Jun 2021 06:08:57 +0000",
-         "title" : "The Fighting Chess Index"
       },
       {
          "description" : "The&#160;third&#160;ECU Board meeting in 2021 took place on&#160;Wednesday&#160;9th&#160;of June&#160;through teleconference.&#160; ECU Board discussed the reports of European Online and Hybrid Competitions,&#160;which were&#160;organized from March to May 2021 and expresses its satisfaction with the level and results of the events.&#160;For the European Hybrid Qualifier Tournament, ECU thanks National Chess Federations, who went to great lengths to organize the venues&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">Read More &#187;</a></span>",
@@ -2464,22 +2472,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/",
          "pubDate" : "Wed, 26 May 2021 00:10:43 +0000",
          "title" : "The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1102",
-         "pubDate" : "Tue, 25 May 2021 22:21:26 +0000",
-         "title" : "Round 4: Joy for the Muzychuks, but Elisabeth steals the show"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Queens Chess Festival</strong> <strong>Festival, <time datetime='2021-06-11' itemprop=\"startDate\">Fri-Sun 11  - 27 Jun 2021</time><br> <span itemprop='location'>Internet: <a href=\"https://queensfestival.fide.com/\">https://queensfestival.fide.com/</a></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/queens-festival.png?v=1\" class=\"js-img\" title=\"Queens Festival \" data-title=\"Queens Festival \"><img src=\"https://www.chesstech.org/files/2021/events/queens-festival.480.png?v=1\" srcset=\"https://www.chesstech.org/",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://queensfestival.fide.com/",
-         "pubDate" : "Tue, 25 May 2021 21:50:58 +0100",
-         "title" : "Queens Chess Festival"
       }
    ]
 }
