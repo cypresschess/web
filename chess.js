@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
+         "pubDate" : "Mon, 14 Jun 2021 22:01:36 -0500",
+         "title" : "How a rookie 'beat' Anand - with a little help from his friends"
+      },
+      {
+         "description" : " In case you're experiencing the DTs now that the Snoozerbet tournament has finished, fear not: a strong tournament is underway in Prague while the Grand Chess Tour will see a rapid &amp; blitz tournament in Paris starting this coming Sunday. The <a href=\"https://praguechessfestival.com/\">Prague Masters</a> started today (Monday), and seven of the eight players are near-2700 or over it (the eighth, <a href=\"https://en.wikipedia.org/wiki/Thai_Dai_Van_Nguyen\">Thai Dai Van Nguyen</a>, is a 19-year-old Czech GM who is \"only\" 2577): Jan-Krzysztof Duda, Jorden Van Foreest, David Navara, Sam Shankland, Radoslaw Wojtaszek, Nils Grandelius, and Nijat Abasov. The early leader is Duda, who defeated Nav",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/14/ongoing-and-upcoming-events.html",
+         "pubDate" : "Tue, 15 Jun 2021 01:00:25 +0000",
+         "title" : "Ongoing and Upcoming Events"
+      },
+      {
+         "description" : " He's knocking on the door and gaining points, and still has until September 5 to break Sergey Karjakin's record to become the youngest (chess) grandmaster in history. He is the American prodigy Abhimanyu Mishra, who entered the latest <a href=\"http://chess-results.com/tnr563462.aspx?lan=1&amp;art=1&amp;flag=30\">First Saturday GM tournament</a> in need of one more norm and 15 more points (to reach a rating of 2500) to get the grandmaster title. He gained 7 points (or maybe \"has gained\" - he has one round to go, but it's not clear if one or more players dropped out of the event), but even if he plays his last round game and wins it, he will only score 6.5/9; if the numbers I've found are accu",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/14/another-month-another-fsgmbut-no-third-norm-for-mishra.html",
+         "pubDate" : "Tue, 15 Jun 2021 00:52:37 +0000",
+         "title" : "Another Month, Another FSGM...But No Third Norm for Mishra"
+      },
+      {
          "description" : "In the last round of the Superbet Chess Classic, Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with the black to secure tournament victory. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament, kicks off on Friday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r9",
          "pubDate" : "Tue, 15 Jun 2021 01:15:00 +0100",
          "title" : "Shakhriyar Mamedyarov wins Superbet Chess Classic"
+      },
+      {
+         "description" : " GM Daniel Fernandez (ENG) and IM Junta Ikeda (AUS) have tied for first in the 2021 NSW Open, both with an undefeated 6/7. They started the day with draws in the 6th round (Fernandez against IM Gary Lane and Ikeda against IM James Morris), before both winning their final round games. Fernandez defeated Kerry Lin on the top board, while Ikeda beat Gary Lane on board 2. The minor places were filled by IM James Morris, Sterling Bayaca and Harry Press. Due to the large field in the Open (78 players) and results in the earlier rounds, Fernandez and Ikeda did not play each other. Only Lin and Lane played both of the winners, while the field was much more varied for the other top finishers. The Und",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-fernandez-and-ikeda-share.html",
+         "pubDate" : "Tue, 15 Jun 2021 00:09:00 +0000",
+         "title" : "2021 NSW Open - Fernandez and Ikeda share the spoils"
       },
       {
          "description" : "",
@@ -18,11 +50,11 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
       },
       {
-         "description" : "CryptoChamps powered by Coinbase was a smashing success, bringing together some of the crypto community heavyweights for a weekend of chess battles. Paradigm co-founder Matt Huang defeated Surojir Chatterjee in the finals to win the event. On hi...",
+         "description" : "CryptoChamps powered by Coinbase was a smashing success, bringing together some of the crypto community heavyweights for a weekend of chess battles. Paradigm co-founder Matt Huang defeated Surojit Chatterjee in the finals to win the event. On hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/matt-huang-wins-cryptochamps",
-         "pubDate" : "Mon, 14 Jun 2021 15:56:42 -0700",
+         "pubDate" : "Mon, 14 Jun 2021 15:56:00 -0700",
          "title" : "Matt Huang Wins CryptoChamps"
       },
       {
@@ -40,14 +72,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/14/superbet-chess-classic-round-9-mamedyarov-wins-the-tournamen.html",
          "pubDate" : "Mon, 14 Jun 2021 20:05:40 +0000",
          "title" : "Superbet Chess \"Classic\", Round 9. Mamedyarov Wins the Tournament; Radjabov Gains the \"Moral\" Victory"
-      },
-      {
-         "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
-         "pubDate" : "Mon, 14 Jun 2021 14:38:46 -0500",
-         "title" : "How a rookie 'beat' Anand - with a little help from his friends"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alexander Grischuk during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/euHLHydA1E4.jpg?itok=_y9-9dDw\" alt=\"\" /></a></div>",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "2021 Superbet Chess Classic: Round 9 | lichess.org"
       },
       {
-         "description" : "Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with black to secure first place at the opening event of the 2021 Grand Chess Tour, the Superbet Chess Classic in Bucharest. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament kicks off on Friday. | Full report to follow shortly | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Mon, 14 Jun 2021 13:50:00 +0100",
-         "title" : "Superbet Classic: Five draws, Mamedyarov gets tournament victory [Express report]"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" /></a>Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -216,6 +232,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-d-wins-the-gelfand-challenge",
          "pubDate" : "Mon, 14 Jun 2021 10:43:38 +0100",
          "title" : "Gukesh D. wins the Gelfand Challenge"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with black to secure first place at the opening event of the 2021 Grand Chess Tour, the Superbet Chess Classic in Bucharest. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament kicks off on Friday. | Full report to follow shortly | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
+         "pubDate" : "Mon, 14 Jun 2021 10:35:00 +0100",
+         "title" : "Superbet Classic: Five draws, Mamedyarov gets tournament victory [Express report]"
       },
       {
          "description" : "",
@@ -954,28 +978,12 @@ news_feed (
          "title" : "Grand Chess Tour Romania 2021 - Day 4"
       },
       {
-         "description" : " Let's catch up on some other news, and take note of some interesting matters from around the web. 1.<span style=\"white-space: pre;\"> </span>Carlsen wins the <a href=\"https://championschesstour.com/\">FTX Crypto Cup</a> Old news, but for those who didn't follow the event, it's worth going back and browsing the games. After the preliminaries of this rapid event the quarterfinal pairings, in bracket order, were as follows: <ul> <li>Caruana vs. Nepomniachtchi</li> <li>MVL vs. So</li> <li>Nakamura vs. Carlsen</li> <li>Giri vs. Radjabov</li> </ul> It would have been interesting to have a world championship match preview, but it didn't happen. In fact, both players were nearly eliminated in the qua",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/9/this-and-that-from-here-and-there.html",
-         "pubDate" : "Wed, 09 Jun 2021 05:08:02 +0000",
-         "title" : "This and That From Here and There"
-      },
-      {
          "description" : " You spend a lot of time on chess but do not really see improvement? I have been there as well. This means you should improve the quality of your training. Let me show you how! There is a common misconception when it comes to chess improvement. Whenever one talks about his training, one usually just [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/quality/\">Quality, Not Quantity: The Most Important Factor Of Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/quality/",
          "pubDate" : "Wed, 09 Jun 2021 04:00:00 +0000",
          "title" : "Quality, Not Quantity: The Most Important Factor Of Chess Improvement"
-      },
-      {
-         "description" : " While the online rapid &amp; blitz games make for good drama, it's nice to see slow over-the-board chess return (at least when the players fight and there's a non-trivial percentage of decisive games). The depth of the game is so much greater at a classical time control, and while it's harder to win and to pose unsolvable opening surprises when the defender has two hours rather than 20 minutes (or less) on the clock, that greater level of difficulty makes won games all the more impressive and valuable. The classical event in question is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-superbet-chess-classic\">Superbet Chess Classic</a> in Bucharest, Romania, which started J",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/8/the-superbet-chess-classic-rounds-1-4.html",
-         "pubDate" : "Wed, 09 Jun 2021 02:51:06 +0000",
-         "title" : "The Superbet Chess Classic, Rounds 1-4"
       },
       {
          "description" : "",
