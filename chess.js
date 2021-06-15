@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yesterday, 14 June, the Prague Chess Festival 2021 began at the Don Giovanni Hotel in Prague, with a Masters tournament, an Open and a few other tournaments. In the Masters Jan-Krzysztof Duda started with a win over David Navara. | Photo: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/duda-beats-navara-in-the-first-round-of-the-prague-chess-festival",
+         "pubDate" : "Tue, 15 Jun 2021 12:47:12 +0100",
+         "title" : "Duda beats Navara in the first round of the Prague Chess Festival"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov took a quick draw against Maxime Vachier-Lagrave in the final round to clinch first place in the Superbet Chess Classic along with the $90,000 top prize. The Azerbaijan no. 1 finished a full point ahead of Levon Aronian, Alexander Grischuk and Wesley So in 2nd place. Caruana-Deac was by far the longest game of the day, but Fabiano Caruana couldn't improve a disappointing tournament, while MVL finished last before heading to his home city this weekend for the Paris Rapid &amp; Blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mamedyarov-cruises-to-superbet-chess-classic-triumph",
+         "pubDate" : "Tue, 15 Jun 2021 10:24:46 +0000",
+         "title" : "Mamedyarov cruises to Superbet Chess Classic triumph"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://europeandesign.org/submissions/meltwater-champions-chess-tour/\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimage'><div class=\"image panorama\"><fi",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/design-awards-for-champions-tour/",
+         "pubDate" : "Tue, 15 Jun 2021 11:15:56 +0100",
+         "title" : "Design awards for Champions Tour logo"
+      },
+      {
+         "description" : "August 26th - September 5th, Reykjav&iacute;k, Iceland the Icelandic Chess Federation is organising, and invites entries to, the above event under the auspices of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2021/",
+         "pubDate" : "Tue, 15 Jun 2021 09:37:32 +0000",
+         "title" : "European Individual Chess Championship 2021"
+      },
+      {
+         "description" : "On Sunday, 13 June, Carol Jarecki died at the age of 86. She came to chess through her son, promoted and organised chess tournaments and was the arbiter in many top level tournaments and matches, including the world championship match Kasparov vs. Anand in 1995 and the match Kasparov vs. Deep Blue in 1997. She was a passionate pilot, and together with her husband Richard Jarecki she also won millions in casinos by exploiting mechanical imperfections of roulette wheels.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arbiter-organiser-author-and-roulette-millionaire-carol-jarecki-13-february-1935-13-june-2021-died",
+         "pubDate" : "Tue, 15 Jun 2021 10:23:04 +0100",
+         "title" : "Arbiter, organiser, author and roulette millionaire Carol Jarecki (13 February 1935 - 13 June 2021) died"
+      },
+      {
+         "description" : " \"Chess is the gymnasium of the mind.\" Blaise Pascal Last week we had the level 4 (rating range 1,100 to 1,400) graduation exam. It was the first time when we did it online: one hour to solve 20 puzzles. A simple arithmetic look at it gives the student 3 minutes per puzzle. Any saved time <a href=\"https://chessimprover.com/tales-from-the-club-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from the Club (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-the-club-2/\">Tales from the Club (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tales-from-the-club-2/",
+         "pubDate" : "Tue, 15 Jun 2021 09:00:29 +0000",
+         "title" : "Tales from the Club (2)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The culture foundation <strong>Katara</strong> and the <strong>Qatar Chess Federation</strong> <a href=\"https://www.katara.net/en/whats-on/events/katara-international-chess-tournament-2021\">sponsor a $12,800 bullet</a> (1 minute per player and game) tournament on <strong>Lichess</strong> with qualifiers on 20 June and a 16 players-k.o. on 23 June into which the 2020 winner <strong>Magnus Carlsen</strong> is seated. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-headlines-bullet-open/",
+         "pubDate" : "Tue, 15 Jun 2021 09:40:46 +0100",
+         "title" : "Carlsen headlines bullet open"
+      },
+      {
+         "description" : "The diagram position is complicated and extremely sharp. Both sides have dangerous passed pawns which the knights might or might not stop. However, it was Black to move and he had a way to win. But in the game Black failed to find the winning move - can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics",
+         "pubDate" : "Tue, 15 Jun 2021 09:29:19 +0100",
+         "title" : "Endgame tactics"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov won the $90,000 first prize at the Superbet Chess Classic on Monday. The 36-year-old Azerbaijani GM finished a point ahead of the pack as he secured victory with an easy draw against GM Maxime Vachier-Lagrave. The standi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mamedyarov-wins-superbet-chess-classic",
+         "pubDate" : "Tue, 15 Jun 2021 00:55:00 -0700",
+         "title" : "Mamedyarov Wins Superbet Chess Classic"
+      },
+      {
          "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -698,28 +770,12 @@ news_feed (
          "title" : "Gelfand Challenge Day 1: Awonder's stunning start"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The UK charity <strong>Chess in Schools and Communities</strong> runs a Alice in Wonderland-themed <a href=\"https://www.chess-fest.com/\">weekend of chess</a> in Central London culminating on Trafalgar Square. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessfest-in-london-on-16-18-july/",
-         "pubDate" : "Fri, 11 Jun 2021 10:15:52 +0100",
-         "title" : "ChessFest in London on 16-18 July"
-      },
-      {
          "description" : "The top 50 of the Fighting Chess Index, introduced by Australian grandmaster and economist David Smerdon, has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Class...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fighting-chess-index-kramnik-radjabov",
          "pubDate" : "Fri, 11 Jun 2021 01:37:00 -0700",
          "title" : "Kramnik Leads Fighting Chess Index Top 50, Radjabov At Bottom"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Club Cup</strong> will take place in Lake Ohrid (Macedonia) 17-25 September, the <strong>European Teams Championship</strong> in Terme Omilia (Slovenia) 11-22 November, and the <strong>European Rapid and Blitz</strong> in Katowice (Poland) 16-19 December. A decision about the <strong>European Youth Championship</strong> <a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">has been postponed</a> by the <strong>ECU</strong> board to early July. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/ecu-announces-2021-events/",
-         "pubDate" : "Fri, 11 Jun 2021 09:12:17 +0100",
-         "title" : "ECU announces 2021 events"
       },
       {
          "description" : "Greetings from the All India Chess Federation. This notice is hereby issued in furtherance of the unanimous decisions taken by the members of the AICF",
@@ -1224,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1128",
          "pubDate" : "Sun, 06 Jun 2021 20:30:10 +0000",
          "title" : "2021 Superbet Chess Classic - Day 2 Recap"
-      },
-      {
-         "description" : "chess24 will host a star-studded benefit event for one of America's original chess education organisations, Chess in the Schools. The online tournament - which you can play in - features GMs Pascal Charbonneau, Irina Krush, Daniel Naroditsky, Hans Niemann, Andrew Tang, plus up-and-coming young talents IM Carissa Yip, IM Christopher Yoo and Tanitoluwa Adewumi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/simul-for-the-schools-8-us-stars-raise-cash-for-schoolkids",
-         "pubDate" : "Sun, 06 Jun 2021 20:10:27 +0000",
-         "title" : "Simul for the schools: 8 US stars raise cash for schoolkids"
       },
       {
          "description" : " The Superbet Chess Classic sprung to life in the second round with two decisive results, both involving the local players. It's always nice to see strong events have places and opportunities for local players, sometimes that's not a priority which is often a shame. In particular Bogdan-Daniel Deac seems ready to grab this opportunity with both hands. Fabiano Caruana won fairly easily as white against Constantin Lupulescu. The game was a sharp French Defence with castling on opposite wings. The key moment seems to have been 17...Ba4? which allowed Caruana to win a clean pawn and take the Queens off. 17....e5 seems to have been the correct test of white's setup - 18. h5 exd4 19. hxg6 Qg5 20. ",
@@ -1890,14 +1938,6 @@ news_feed (
          "title" : "Round 9: Zhansaya's marathon victory"
       },
       {
-         "description" : "Do you want to represent your chess community and compete against other incredible chess communities from around the world while winning premium prizes? The Chess.com Clubs League and Chess.com Nations League are the competitions you seek. These...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/register-for-chess-coms-clubs-and-nations-leagues-season-3",
-         "pubDate" : "Mon, 31 May 2021 13:41:00 -0700",
-         "title" : "Register For Chess.com's Clubs And Nations Leagues Season 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2242,14 +2282,6 @@ news_feed (
          "title" : "The ChessBase News Review (21.05 - 28.05)"
       },
       {
-         "description" : " Last week, we started working our way into the middle-game by examining the further development of our forces (the pawns and pieces) at the opening's conclusion and the middle-game's start. The transition between the opening and middle-game is a great opportunity to further activate your pawns and pieces. This further activation of your forces allows <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty/\">A Foundation for Beginners Twenty</a> appeared first on <a rel=\"n",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty/",
-         "pubDate" : "Fri, 28 May 2021 12:09:22 +0000",
-         "title" : "A Foundation for Beginners Twenty"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2472,22 +2504,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/25/episode-228-gm-ben-finegold-returns",
          "pubDate" : "Tue, 25 May 2021 13:58:23 +0000",
          "title" : "Episode 228- GM Ben Finegold returns "
-      },
-      {
-         "description" : "This is a 12-year-old on a mission: to become the youngest chess grandmaster in history. Abhimanyu Mishra has made two norms, but in his latest tournament suffered a setback: in time trouble refused a draw offer by a GM and discovered that this is not such a great idea. Abhi lost the game, and a second one to boot, but staged a remarkable comeback with four back-to-back wins. He gained nine rating points and is currently just eight points from his goal. Read the messages of encouragement the lad from Englishtown, New Jersey, is getting from well-known personalities from all over the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhimanyu-eight-points-from-the-title",
-         "pubDate" : "Tue, 25 May 2021 12:00:00 +0100",
-         "title" : "Abhimanyu eight points from the title"
-      },
-      {
-         "description" : "Simplifying into a pawn ending must always be calculated carefully. In the diagram position Black is a rook up but White has powerful passed pawns. But how and when to advance them?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/small-move-big-impact",
-         "pubDate" : "Tue, 25 May 2021 09:46:23 +0100",
-         "title" : "Small move, big impact"
       }
    ]
 }
