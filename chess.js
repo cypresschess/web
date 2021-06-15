@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
-         "pubDate" : "Mon, 14 Jun 2021 22:01:36 -0500",
+         "pubDate" : "Mon, 14 Jun 2021 23:02:09 -0500",
          "title" : "How a rookie 'beat' Anand - with a little help from his friends"
       },
       {
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/small-move-big-impact",
          "pubDate" : "Tue, 25 May 2021 09:46:23 +0100",
          "title" : "Small move, big impact"
-      },
-      {
-         "description" : "Fabiano Caruana, Hikaru Nakamura and Teimour Radjabov are sharing the lead on 6&frac12;/10 points in the preliminaries of the FTX Crypto Cup after two days of action. Out of the 16 participants, those that finish at the top half of the standings table will move on to the knockout stage. World champion Magnus Carlsen is currently sharing 6th-9th place with a 5&frac12;/10 score. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-2",
-         "pubDate" : "Tue, 25 May 2021 08:30:00 +0100",
-         "title" : "FTX Crypto Cup: Three leaders, Carlsen still in danger"
       }
    ]
 }
