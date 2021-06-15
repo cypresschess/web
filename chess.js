@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches the Ponziani Opening. 2021.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ponziani-scheme-its-legal-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wrhZH_40xD4.jpg?itok=RXeQ9FiH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ponziani-scheme-its-legal-chess-openings-explained",
+         "pubDate" : "Tue, 15 Jun 2021 13:16:12 +0000",
+         "title" : "The Ponziani Scheme: It's Legal | Chess Openings Explained"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov took a quick draw against Maxime Vachier-Lagrave in the final round to clinch first place in the Superbet Chess Classic along with the $90,000 top prize. The Azerbaijan no. 1 finished a full point ahead of Levon Aronian, Alexander Grischuk and Wesley So in 2nd place. Caruana-Deac was by far the longest game of the day, but Fabiano Caruana couldn't improve a disappointing tournament, while MVL finished last before heading to his home city this weekend for the Paris Rapid &amp; Blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mamedyarov-cruises-to-superbet-chess-classic-triumph",
+         "pubDate" : "Tue, 15 Jun 2021 13:00:00 +0000",
+         "title" : "Mamedyarov cruises to Superbet Chess Classic triumph"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/hzYQj_zC.jpg+large.jpg\" data-image-dimensions=\"1280x720\" data-image-focal-point=\"0.5,0.5\" alt=\"hzYQj_zC.jpg large.jpg\" data-load=\"false\" data-image-id=\"60c8a1ee26697a315dcd872c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/ke17",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/15/episode-231-braden-laughlin-adult-improver-series",
+         "pubDate" : "Tue, 15 Jun 2021 12:58:42 +0000",
+         "title" : "Episode 231- Braden Laughlin (Adult Improver Series)"
+      },
+      {
+         "description" : "Play Magnus Group's innovative logo for the Meltwater Champions Chess Tour has won two gold medals at the prestigious European Design Awards.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards",
+         "pubDate" : "Tue, 15 Jun 2021 12:38:42 +0000",
+         "title" : "Tour's eye-catching logo wins double gold at the European Design Awards"
+      },
+      {
          "description" : "Yesterday, 14 June, the Prague Chess Festival 2021 began at the Don Giovanni Hotel in Prague, with a Masters tournament, an Open and a few other tournaments. In the Masters Jan-Krzysztof Duda started with a win over David Navara. | Photo: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Duda beats Navara in the first round of the Prague Chess Festival"
       },
       {
-         "description" : "Shakhriyar Mamedyarov took a quick draw against Maxime Vachier-Lagrave in the final round to clinch first place in the Superbet Chess Classic along with the $90,000 top prize. The Azerbaijan no. 1 finished a full point ahead of Levon Aronian, Alexander Grischuk and Wesley So in 2nd place. Caruana-Deac was by far the longest game of the day, but Fabiano Caruana couldn't improve a disappointing tournament, while MVL finished last before heading to his home city this weekend for the Paris Rapid &amp; Blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mamedyarov-cruises-to-superbet-chess-classic-triumph",
-         "pubDate" : "Tue, 15 Jun 2021 10:24:46 +0000",
-         "title" : "Mamedyarov cruises to Superbet Chess Classic triumph"
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carol Jarecki</strong>, chess organiser and head arbiter of the 1995 PCA World Championship Kasparov vs Anand, the Kasparov vs Deep Blue-match in 1997 and many other events and also one of the most profound critical voices in <strong>FIDE</strong>, has passed away. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carol-jarecki-1935-2021/",
+         "pubDate" : "Tue, 15 Jun 2021 12:32:47 +0100",
+         "title" : "Carol Jarecki (1935-2021)"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://europeandesign.org/submissions/meltwater-champions-chess-tour/\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimage'><div class=\"image panorama\"><fi",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Premium only: 17 names to choose - you decide who plays in the next Tour event"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-9-lichessorg",
-         "pubDate" : "Mon, 14 Jun 2021 13:14:33 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 9 | lichess.org"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" /></a>Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r7",
          "pubDate" : "Sun, 13 Jun 2021 13:45:00 +0100",
          "title" : "Superbet: Mamedyarov in the sole lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Michael S. Langer</strong> refused to run for the Presidency of the <strong>German Chess Federation</strong>, the reelection of <strong>Ullrich Krause</strong> was all but certain. The unpopular incumbent was still challenged by <strong>Olga Birkholz</strong> who, despite having hardly a programme, team or record in the national federation, <a href=\"https://steffans-schachseiten.de/2021/06/12/4307/\">collected 92 votes in Saturday's online congress vs Krause's 118</a>. Birkholz ran and was elected as new Vice President Federation Development after the only candidate <strong>Boris Bruhn</strong> couldn't secure a majority. Another Krause ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/krause-remains-in-germany/",
-         "pubDate" : "Sun, 13 Jun 2021 13:14:09 +0100",
-         "title" : "Krause remains German chess President"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov won his third consecutive game and is suddenly a full point ahead of the pack with two rounds to go at the Superbet Chess Classic in Bucharest. The Azerbaijani grandmaster defeated GM Fabiano Caruana with the black pieces ...",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1130",
          "pubDate" : "Mon, 07 Jun 2021 08:31:16 +0000",
          "title" : "​​​​​​​Cori and Gunina qualify for Main Event"
-      },
-      {
-         "description" : "19-year-old Bogdan-Daniel Deac leads two rounds into the Superbet Chess Classic after surviving a difficult opening to turn the tables and defeat French no. 1 Maxime Vachier-Lagrave. Deac is joined in the lead by the more familiar figure of world no. 2 Fabiano Caruana, who smoothly outplayed Constantin Lupulescu, while the remaining three games in Bucharest were instantly forgettable draws.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-deac-shocks-mvl",
-         "pubDate" : "Mon, 07 Jun 2021 08:19:41 +0000",
-         "title" : "Superbet Chess Classic 2: Deac shocks MVL"
       },
       {
          "description" : "ECU E-Magazine May 2021 is out! The May 2021 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be doawnloaded as a PDF file down bellow. In this edition of the ECU E-Magazine you may read about: European Hybrid Qualification Tournament Mitropa Cup 2021 ECU Girls'&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-may-2021/\">Read More &#187;</a></span>",
@@ -2488,22 +2496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fritz-chesster-chessboard-editions",
          "pubDate" : "Tue, 25 May 2021 16:52:28 +0100",
          "title" : "Fritz & Chesster Chessboard editions"
-      },
-      {
-         "description" : " Blitzing is fun. But it can slow down your improvement tremendously if done wrong. There is a big danger of learning faulty thinking. After my posts (Part 1; Part 2) on the game analysis of classical games, it is time to take on Blitz games. Same Mistake On Move 3 In Every Game My father [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/blitz-analysis/\">How To Improve By Playing Online Blitz: Analyse Every Single Game</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/blitz-analysis/",
-         "pubDate" : "Tue, 25 May 2021 14:21:00 +0000",
-         "title" : "How To Improve By Playing Online Blitz: Analyse Every Single Game"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1621950005605-5JLL85ELM5297UXF3QO6/ke17ZwdGBToddI8pDm48kE36Uh9bApxLEgMUgad3QiYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcVlyuJQfoPDVItoHphofWVjF3J7v8XtghArXT5ss6EJA3bcYaMguvwelSeo-qDWJi/37841064_1107558472726714_9055942606655062016_n.jpg\" data-image-dimensions=\"1008x756\" data-image-focal-point=\"0.5,0.5\" alt=\"GM Ben Finegold with Karen Boyd, his wife, and co-founder of the Chess Club and Scholastic Center of Atlanta. Photo via the CCSCATL Facebook Page\" data-load=\"false\" data-image-id=\"60acfe3",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/5/25/episode-228-gm-ben-finegold-returns",
-         "pubDate" : "Tue, 25 May 2021 13:58:23 +0000",
-         "title" : "Episode 228- GM Ben Finegold returns "
       }
    ]
 }
