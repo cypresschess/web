@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live three round G/3 tournament on Chess.com. The winner earns an entry into a raffle for a grandmaster lesson. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-championship-v-road-2000-nm-caleb-denby-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CoKuMJgrGoQ.jpg?itok=BN19x0tS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby-chesscom",
+         "pubDate" : "Tue, 15 Jun 2021 19:16:46 +0000",
+         "title" : "The Road to 2000 Championship V | Road to 2000 - NM Caleb Denby | Chess.com"
+      },
+      {
+         "description" : "American chess organizer, international arbiter, and chess writer Carol Jarecki died on Sunday, June 13 at the age of 86 after losing a battle to cancer. An arbiter at world championship matches in New York in 1990 and 1995, Jarecki will be sorely...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carol-jarecki-1935-2021",
+         "pubDate" : "Tue, 15 Jun 2021 11:00:00 -0700",
+         "title" : "Carol Jarecki 1935-2021"
+      },
+      {
+         "description" : " Apparently it's even a genre, of which <a href=\"https://gumroad.com/l/1DChess\">this</a> is just a recent version. (HT: <a href=\"https://marginalrevolution.com/marginalrevolution/2021/06/tuesday-assorted-links-318.html\">Marginal Revolution</a>) I haven't tried it (yet?), but I assume it should be pretty easy to solve. Anyone want to try to work it out to the end? ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/15/one-dimensional-chess.html",
+         "pubDate" : "Tue, 15 Jun 2021 17:14:03 +0000",
+         "title" : "One-Dimensional Chess?"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/it-is-time-to-move-on-and-get-closure-anand-on-kamaths-misdemeanor-in-simul-event/articleshow/83551109.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" /></a>Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/it-is-time-to-move-on-and-get-closure-anand-on-kamaths-misdemeanor-in-simul-event/articleshow/83551109.cms",
+         "pubDate" : "Tue, 15 Jun 2021 22:42:16 +0530",
+         "title" : "It is time to move on and get closure: Anand on Kamath's misdemeanor in simul event"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at Shakhriyar Mamedyarov's win at the Superbet Classic in Bucharest. The featured game will be Caruana-Mamedyarov where Mamedyarov scored a brilliant victory with Black against the world's number two. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-superbet-chess-classic-2",
+         "pubDate" : "Tue, 15 Jun 2021 17:57:07 +0100",
+         "title" : "The Weekly Show: The Superbet Chess Classic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews legend GM Yasser Seirawan about his career, world standings, streaming, and 80s chess! Questions are accepted via chat. 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-gm-yasser-seirawan-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DbDlVL-N_os.jpg?itok=Oet8gNL7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/get-know-gm-yasser-seirawan-gm-denes-boros",
+         "pubDate" : "Tue, 15 Jun 2021 16:16:31 +0000",
+         "title" : "Get to Know GM Yasser Seirawan with GM Denes Boros"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" /></a>Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms",
+         "pubDate" : "Tue, 15 Jun 2021 21:12:51 +0530",
+         "title" : "Anand to feature in Croatia leg of Grand Chess Tour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko teaches the Ponziani Opening. 2021.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ponziani-scheme-its-legal-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wrhZH_40xD4.jpg?itok=RXeQ9FiH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -232,22 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-9",
          "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
          "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Grand Chess Tour Executive Director Michael Khodarkovsky during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-michael-khodarkovsky-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gcRP2SuE8j8.jpg?itok=aeLwJu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-michael-khodarkovsky-interview-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
-         "title" : "2021 Superbet Chess Classic: Michael Khodarkovsky Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Constantin Lupulescu during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-constantin-lupulescu-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QGofHYsQUgg.jpg?itok=RWYSJl6a\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-constantin-lupulescu-interview-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
-         "title" : "2021 Superbet Chess Classic: Constantin Lupulescu Interview | Round 9"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
@@ -928,14 +968,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-5-mamedyarov-lupulescu",
          "pubDate" : "Wed, 09 Jun 2021 21:40:00 -0700",
          "title" : "Superbet Chess Classic: Mamedyarov Strikes With Wonderful Combination"
-      },
-      {
-         "description" : " Now it's five out of six decisive games that involve the Romanian players, as Constantin Lupulescu dropped to -1 after losing to Shakhriyar Mamedyarov, who now shares the lead with Wesley So and Alexander Grischuk. The game was interesting from start to finish, and the initiative went back and forth, but at a certain point Lupulescu lost the thread of the game. Mamedyarov built up a kingside attack, and when Lupulescu missed a nice tactical trick his game was instantly lost, and his opponent had no trouble bringing home the full point. The players are off on Thursday, and on Friday we have these pairings: <ul> <li>So (3) - Giri (2)</li> <li>Vachier-Lagrave (2) - Caruana 2.5</li> <li>Mamedya",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/9/the-superbet-chess-classic-round-5-mamedyarov-makes-it-a-tri.html",
-         "pubDate" : "Thu, 10 Jun 2021 03:49:18 +0000",
-         "title" : "The Superbet Chess Classic, Round 5: Mamedyarov Makes it a Triumvirate"
       },
       {
          "description" : "\"I wake up and I think I need to take some risk,\" said Shakhriyar Mamedyarov after playing an offbeat opening and crashing though in Constantin Lupulescu's time trouble to join Wesley So and Alexander Grischuk in the lead going into the rest day in Bucharest. The other games in Round 5 of the Superbet Chess Classic were all drawn, with Fabiano Caruana's 8.Qe2!? against the Berlin Defence the only one that's likely to be remembered.",
@@ -1810,14 +1842,6 @@ news_feed (
          "title" : "Round 10: Zhansaya wins the tournament; Kateryna has one foot in the Candidates"
       },
       {
-         "description" : "Chess.com is proud to announce Winner Stays, an exciting new event hosted by the ChessBrahs, GMs Eric Hansen and Aman Hambleton. This unique and original format will feature three matches between superstar content creators in different rating cate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-winner-stays",
-         "pubDate" : "Tue, 01 Jun 2021 13:33:00 -0700",
-         "title" : "Today: Winner Stays"
-      },
-      {
          "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1832,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-zhansay-abdumalik-is-grandmaster",
          "pubDate" : "Tue, 01 Jun 2021 19:18:10 +0100",
          "title" : "The Weekly Show: Zhansaya Abdumalik gains Grandmaster title!"
-      },
-      {
-         "description" : "The Queens' Festival European Online Blitz Qualifier begins on June 19th. Here's a link to the website for the event, which&#160;gives more information &#8212; https://queensfestival.fide.com/...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-queens-festival-global-womens-online-chess-challenge/",
-         "pubDate" : "Tue, 01 Jun 2021 17:44:27 +0000",
-         "title" : "FIDE Queens Festival (Global Women's Online Chess Challenge)"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
@@ -2464,38 +2480,6 @@ news_feed (
          "link" : "https://queensfestival.fide.com/",
          "pubDate" : "Tue, 25 May 2021 21:50:58 +0100",
          "title" : "Queens Chess Festival"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1101",
-         "pubDate" : "Tue, 25 May 2021 18:39:42 +0000",
-         "title" : "FIDE expands support program for distinguished veterans"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on a new crop of young super talents - Marc'Andria Maurizzi, who got his GM title at the age of 14 years and 5 days, and Abhimanyu Mishra, the 12 year old close to becoming the youngest GM in history (he only needs 8 points and one norm to be the youngest GM of all time). | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-young-talents",
-         "pubDate" : "Tue, 25 May 2021 19:00:00 +0100",
-         "title" : "The Weekly Show: Young Talents"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-5",
-         "pubDate" : "Tue, 25 May 2021 18:12:59 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 5"
-      },
-      {
-         "description" : "Fritz & Chesster has been around for 20 years! The chess learning software for children is an absolute classic! It shows how digital learning works and is fun. Now the ChessBase merchandising partner LEMI Consulting is redesigning the program and developing physical pieces and boards for children to enhance their online experience. You can support their Kickstarter project.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-chesster-chessboard-editions",
-         "pubDate" : "Tue, 25 May 2021 16:52:28 +0100",
-         "title" : "Fritz & Chesster Chessboard editions"
       }
    ]
 }
