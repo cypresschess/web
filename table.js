@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target=' blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
+
 "CYPRESS","2021-06-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202106116582 target=' blank'>11JUN21</a>",
 "SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-06-04","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106046932 target=' blank'>KOFC  04JUN21</a>",
@@ -198,5 +199,4 @@ jtable([
 "PASADENA","2020-02-15","34","<a href=http://www.uschess.org/msa/XtblMain.php?202002151002 target=' blank'>PISD FEBRUARY 2020</a>",
 "HOUSTON","2020-02-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202002150612 target=' blank'>CHESSPANDA02152020SATURDAY</a>",
 "TOMBALL","2020-02-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202002149962 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
-"CYPRESS","2020-02-14","15","<a href=http://www.uschess.org/msa/XtblMain.php?202002149332 target=' blank'>KOC</a>",
 ]);
