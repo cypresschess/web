@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1147",
+         "pubDate" : "Wed, 16 Jun 2021 20:06:58 +0000",
+         "title" : "Harika brings down Kosteniuk to reach quarterfinals"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. All medal winners will receive Free Entry into &quot;Summer Slam Bash&quot; (online) on 6/23. All players are entered into a Raffle (held on 6/23) for a free one Hour GM Lesson via Skype. Full details: <a href=\"https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585\">https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585</a> 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidde",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2472,14 +2480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1104",
          "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
          "title" : "Round 5: Zhansaya and Mariya hold the Lead"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82988687.cms\" /></a>Ice cool Magnus Carlsen needed a final game win to save his match against Hikaru Nakamura as the FTX Crypto Cup quarterfinals exploded into action on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms",
-         "pubDate" : "Thu, 27 May 2021 01:53:43 +0530",
-         "title" : "FTX Crypto Cup: Carlsen and Nakamura trade blows in tight quarterfinal"
       }
    ]
 }
