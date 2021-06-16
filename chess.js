@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. All medal winners will receive Free Entry into &quot;Summer Slam Bash&quot; (online) on 6/23. All players are entered into a Raffle (held on 6/23) for a free one Hour GM Lesson via Skype. Full details: <a href=\"https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585\">https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585</a> 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidde",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
+         "title" : "The Road to 2000 Championship V | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dissects two major piece endgames by Anatoly Karpov and Harry Nelson Pillsbury from the Carlsbad pawn structure. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros",
+         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
+         "title" : "Heavy Piece Carlsbad Endgames | Insane in the Endgame - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
+         "title" : "Dear Magnus... | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "GM&#38;nbsp;Kirill Shevchenko, the 18-year-old grandmaster from Ukraine, won Titled Tuesday on June 15 for his first-ever win in the event. His 10/11 score took the tournament outright. In second with 9.5/11 was GM Alexander Zubov on tiebreaks over th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shevchenko-wins-june-15-titled-tuesday",
+         "pubDate" : "Wed, 16 Jun 2021 11:18:03 -0700",
+         "title" : "Shevchenko Wins June 15 Titled Tuesday"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look at the game Gukush D. vs Praggnanandhaa, which ultimately decided the Gelfand Challenge, a rapid tournament, in which 20 of the world's best juniors (10 male, 10 female) faced each other in a round robin. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-gukesh-praggnanandhaa",
+         "pubDate" : "Wed, 16 Jun 2021 18:00:00 +0100",
+         "title" : "Game of the Week: Gukesh-Praggnanandhaa"
+      },
+      {
+         "description" : "It is intimated to all stake holders that any player secured any prize/standings in the National Online Age Group Chess Championship-2021 and later found that",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-regulation-national-online-age-group-chess-championship-2021/",
+         "pubDate" : "Wed, 16 Jun 2021 16:31:18 +0000",
+         "title" : "ADDITIONAL FAIR PLAY REGULATION : NATIONAL ONLINE AGE GROUP CHESS CHAMPIONSHIP 2021"
+      },
+      {
          "description" : "The ChessBase Magazine Extra is up-to-date and attractive. In the new Extra # 201, Mihail Marin takes the game Grischuk-Vachier-Lagrave from the Candidates Tournament as the starting point of his opening video \"Anti-Najdorf &agrave; la Carlsen\" (1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 ), and Daniel King provides a video analysis of the way Caruana handled the King's Indian in Wojtaszek-Caruana (Tata Steel 2021). And in the famous \"Lucky Bag\" you will find many high-quality analyses and chess treats. \"The brilliancy\" is one example of the 25 extensively annotated games in the new edition. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -408,30 +456,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/best-superbet-chess-classic-road-2000-nm-caleb-denby-lichessorg",
          "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
          "title" : "Best of Superbet Chess Classic | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Superbet Chess Classic is the first leg of the 2021 Grand Chess Tour, live from the Sheraton Bucharest Hotel in Romania. Eight of the nine tour players are joined by two wildcards for nine rounds of classical chess. Join GMs Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-rou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
-         "title" : "2021 Superbet Chess Classic: Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila, Michael Khodarkovsky, and Augusta Dragic present Shakhriyar Mamedyarov with the Superbet Chess Classic trophy after the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-trophy-presentation-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yout",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-trophy-presentation-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
-         "title" : "2021 Superbet Chess Classic: Trophy Presentation | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Levon Aronian during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-levon-aronian-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/usSu6ViyATM.jpg?itok=TCWBPf9W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-levon-aronian-interview-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
-         "title" : "2021 Superbet Chess Classic: Levon Aronian Interview | Round 9"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "Vidit Gujrathi qualifies for chess World Cup"
       },
       {
-         "description" : "Women's World Rapid Champion and Country's top women player Koneru Humpy qualified for the Women's Candidates 2022 after fourth and final leg of the Women's",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/koneru-humpy-qualifies-for-womens-candidates-2022/",
-         "pubDate" : "Thu, 03 Jun 2021 10:53:08 +0000",
-         "title" : "Koneru Humpy qualifies for women's Candidates 2022"
-      },
-      {
          "description" : "When Ferdinand Maumo (10) walked inside the chess club in the slum of Makoko, his peers started making fun of him. Born with cerebral palsy, Ferdinand is a quiet boy whose condition and poor background deprived him of an education, friends and the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shamsiddin-vokhidov-wins-asian-individual-hybrid-chess-championship-2021",
          "pubDate" : "Wed, 02 Jun 2021 11:00:41 +0100",
          "title" : "Shamsiddin Vokhidov wins Asian Individual Hybrid Chess Championship 2021"
-      },
-      {
-         "description" : "On Tuesday, June 1, GM Hikaru Nakamura broke the world record of most victories against unique opponents in one hour in the 1|0 bullet time control. He accomplished this feat on Chess.com in the Bullet Chess Speedrun presented by Stella Artois. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-record-bullet-chess-speedrun-stella-artois",
-         "pubDate" : "Wed, 02 Jun 2021 00:45:00 -0700",
-         "title" : "Nakamura Shatters Record In Bullet Chess Speedrun Presented By Stella Artois"
       },
       {
          "description" : "",
@@ -2472,22 +2480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-carlsen-and-nakamura-trade-blows-in-tight-quarterfinal/articleshow/82988687.cms",
          "pubDate" : "Thu, 27 May 2021 01:53:43 +0530",
          "title" : "FTX Crypto Cup: Carlsen and Nakamura trade blows in tight quarterfinal"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at a game between Magnus Carlsen and Alexander Grischuk in which the World Champion sacrificed a piece in the opening to build up a slow and powerful attack. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-carlsen-vs-grischuk",
-         "pubDate" : "Wed, 26 May 2021 18:00:00 +0100",
-         "title" : "Game of the Week: Carlsen vs Grischuk"
-      },
-      {
-         "description" : "The preliminaries of the FTX Crypto Cup ended on Tuesday, with eight of the sixteen players qualifying to the quarterfinals. Fabiano Caruana was the top scorer in the round robin, while Magnus Carlsen only managed to qualify at the last minute, after defeating Teimour Radjabov on demand in the last round. Anish Giri, Hikaru Nakamura, Maxime Vachier-Lagrave, Wesley So, Teimour Radjabov and Ian Nepomniachtchi also made it through.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-3",
-         "pubDate" : "Wed, 26 May 2021 16:40:00 +0100",
-         "title" : "FTX Crypto Cup: Caruana wins the prelims, Carlsen and Nepo qualify"
       }
    ]
 }
