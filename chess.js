@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Magazine Extra is up-to-date and attractive. In the new Extra # 201, Mihail Marin takes the game Grischuk-Vachier-Lagrave from the Candidates Tournament as the starting point of his opening video \"Anti-Najdorf &agrave; la Carlsen\" (1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 ), and Daniel King provides a video analysis of the way Caruana handled the King's Indian in Wojtaszek-Caruana (Tata Steel 2021). And in the famous \"Lucky Bag\" you will find many high-quality analyses and chess treats. \"The brilliancy\" is one example of the 25 extensively annotated games in the new edition. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-extra-201-the-brilliancy",
+         "pubDate" : "Wed, 16 Jun 2021 16:00:00 +0100",
+         "title" : "CBM Extra #201: \"The brilliancy\""
+      },
+      {
+         "description" : "Computer cheating in online chess is a real plague. Now an Indian billionaire and two Bollywood celebrities have even cheated when they had the chance to play against Vishy Anand at the online charity simul \"Checkmate Covid\", an event to help the Indian Red Cross' COVID-19 relief.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/billionaire-and-celebrities-cheat-at-charity-simul",
+         "pubDate" : "Wed, 16 Jun 2021 15:48:17 +0100",
+         "title" : "Billionaire and celebrities cheat at Charity Simul"
+      },
+      {
+         "description" : "Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour and this year is no exception. Through the support of Vivendi and Colliers International, Paris will host the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Ten elite grandmasters will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-paris-rapidblitz-2021/",
+         "pubDate" : "Wed, 16 Jun 2021 14:47:07 +0000",
+         "title" : "Grand Chess Tour Paris Rapid&Blitz 2021"
+      },
+      {
+         "description" : "The 36th European Club Cup and the 25th European Club Cup for Women will take place from 17th-25th September 2021 in Struga, Ohrid Lake, North Macedonia. The championships will be held in 7 rounds, played in the Swiss system in accordance with the ECU Tournament Rules.&#160;According to FIDE and ECU rules, the time control will be 90 minutes&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-club-cup-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-club-cup-2021-official-regulations/",
+         "pubDate" : "Wed, 16 Jun 2021 14:30:59 +0000",
+         "title" : "EUROPEAN CLUB CUP 2021 - Official regulations"
+      },
+      {
+         "description" : " I wonder how many of you guess that &#8216;T' would be the Trompowsky or &#8216;Tromp' (1.d4 Nf6 2.Bg5). Sorry to disappoint you but I've gone instead for the ultra-respectable Tartakower-Bondarevsky-Makogonov Variation of the Queen's Gambit Declined, with 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 <a href=\"https://chessimprover.com/trounce-em-with-the-tartakower/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Trounce 'em with the Tartakower\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/trounce-em-with-the-tartakower/\">Trounce 'em with the Tartakower</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/trounce-em-with-the-tartakower/",
+         "pubDate" : "Wed, 16 Jun 2021 14:00:26 +0000",
+         "title" : "Trounce 'em with the Tartakower"
+      },
+      {
+         "description" : "Today, round 3 of the Masters and the Open at the Prague Chess Festival will be played. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead in the Masters with 1.5/2 each. Round 3 of the Masters starts at 15:00 CEST (9:00 ET, 13:00 UTC), round 3 of the Open starts at 9:00 CEST (3:00 ET, 7:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
+         "pubDate" : "Wed, 16 Jun 2021 14:55:00 +0100",
+         "title" : "Prague Chess Festival, Round 3 - Live"
+      },
+      {
+         "description" : " Normally a game that holds up the end of a weekend tournament isn't that enjoyable, either to the players or organisers. However, there are exceptions, and the following is one of them. While the first half of the game involved a lot of manoeuvring of pieces, but little progress, FM Clive Ng decided to spice things up with an exchange sacrifice. The only problem with this approach was that it now meant he was worse, and after a few more moves, was in fact lost. The only ray of hope for Ng was the fact that his king was stalemated on h2, which gave him a drawing defence. When Anthony Fikh pushed his g pawn up the board, Clive was faced with being a whole rook down, but this actually helped h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/a-great-escape.html",
+         "pubDate" : "Wed, 16 Jun 2021 13:48:00 +0000",
+         "title" : "A great escape"
+      },
+      {
+         "description" : "Dear Players/Parents/Coaches, Greetings from All India Chess Federation! All the players who already enrolled for the National Age Group Online Chess Championships (U14G, U12O, U12G,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/important-announcement-national-age-group-online-chess-championship/",
+         "pubDate" : "Wed, 16 Jun 2021 12:03:24 +0000",
+         "title" : "IMPORTANT ANNOUNCEMENT : NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIP"
+      },
+      {
+         "description" : "Gukesh, fresh from his Gelfand Challenge triumph, takes on Johan Sebastian Christiansen today as the San Fermin Banter Blitz Cup qualifiers continue. The D Qualifier also sees the likes of Baadur Jobava and 14-year-old Grandmaster Marc'Andria Maurizzi in action. They're fighting to join the already qualified Adhiban, Jan-Krzysztof Duda and Liem Quang Le in an 8-player final that will decide a player in the Meltwater Champions Chess Tour and also next month's San Fermin festival in Pamplona, where World Champion Magnus Carlsen plays.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gukesh-jobava-co-fight-to-join-adhiban-duda-le-in-banter-blitz-cup-final",
+         "pubDate" : "Wed, 16 Jun 2021 11:59:48 +0000",
+         "title" : "Gukesh, Jobava & co. fight to join Adhiban, Duda & Le in Banter Blitz Cup final"
+      },
+      {
          "description" : "In round 2 of the Masters at the Prague Chess Festival David Navara played against Radoslaw Wojtaszek and suffered his second loss in a row. Sam Shankland won against Jan-Krzysztof Duda and Nihat Abasov defeated Nils Grandelius. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead with 1.5/2 each. | Picture: The hotel Don Giovanni, the host of the event",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +90,20 @@ news_feed (
          "title" : "The greatest number you can imagine"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carol Jarecki</strong>, <a href=\"https://www.chess.com/news/view/carol-jarecki-1935-2021\">chess organiser and head arbiter</a> of the 1995 PCA World Championship Kasparov vs Anand, the Kasparov vs Deep Blue-match in 1997 and many other events and also one of the most profound critical voices in <strong>FIDE</strong>, has passed away. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carol-jarecki-1935-2021/",
+         "pubDate" : "Wed, 16 Jun 2021 11:33:42 +0100",
+         "title" : "Carol Jarecki (1935-2021)"
+      },
+      {
          "description" : "The Northumbria Masters is pleased to announce that the John Robinson Youth Chess Trust has generously made junior bursaries available to a number of Under...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/junior-bursaries-announced-for-northumbria-masters/",
          "pubDate" : "Wed, 16 Jun 2021 08:55:11 +0000",
          "title" : "Junior bursaries announced for Northumbria Masters"
-      },
-      {
-         "description" : "Today, round 3 of the Masters and the Open at the Prague Chess Festival will be played. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead in the Masters with 1.5/2 each. Round 3 of the Masters starts at 15:00 CEST (9:00 ET, 13:00 UTC), round 3 of the Open starts at 9:00 CEST (3:00 ET, 7:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
-         "pubDate" : "Wed, 16 Jun 2021 09:00:00 +0100",
-         "title" : "Prague Chess Festival, Round 3 - Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
@@ -184,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/duda-beats-navara-in-the-first-round-of-the-prague-chess-festival",
          "pubDate" : "Tue, 15 Jun 2021 12:47:12 +0100",
          "title" : "Duda beats Navara in the first round of the Prague Chess Festival"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carol Jarecki</strong>, chess organiser and head arbiter of the 1995 PCA World Championship Kasparov vs Anand, the Kasparov vs Deep Blue-match in 1997 and many other events and also one of the most profound critical voices in <strong>FIDE</strong>, has passed away. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carol-jarecki-1935-2021/",
-         "pubDate" : "Tue, 15 Jun 2021 12:32:47 +0100",
-         "title" : "Carol Jarecki (1935-2021)"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://europeandesign.org/submissions/meltwater-champions-chess-tour/\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimage'><div class=\"image panorama\"><fi",
@@ -1258,14 +1322,6 @@ news_feed (
          "title" : "Bishop vs pawns"
       },
       {
-         "description" : "First MVL, now Anish Giri! The Romanian players in the Superbet Chess Classic continue to show their teeth, as Constantin Lupulescu withstood a powerful attack by Giri to hit back with a mating attack of his own. The win for the Romanian no. 1 was the only decisive game of Round 3, with Grischuk-So and especially Radjabov-MVL featuring little action. Levon Aronian gave Fabiano Caruana a scare, while Bogdan-Daniel Deac continues to lead with Fabi after showing no fear in his game against Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-3-lupulescu-stuns-giri",
-         "pubDate" : "Tue, 08 Jun 2021 07:58:26 +0000",
-         "title" : "Superbet Chess Classic 3: Lupulescu stuns Giri"
-      },
-      {
          "description" : "KIND ATTENTION ALL THE PLAYERS REGISTERED FOR NATIONAL UNDER-18 OPEN &#38; GIRLS ONLINE CHESS CHAMPIONSHIP-2021 The Tornelo link for the championship is forwarded to your",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1762,14 +1818,6 @@ news_feed (
          "title" : "2021 African Individual Chess Championship"
       },
       {
-         "description" : "The Azerbaijan Women's Chess Championship 2021 took place from 21-30 May in Nakhchivan. IM Gulnar Mammadova scored 9/11 points to convincingly win the Championship. Mammadova earned the title of the Azerbaijani Women's Chess Champion for the first time in her chess career. 18 years old WIM Govhar Beydullayeva, 4 times Azerbaijani Champion WGM Zeinab Mamedjarova []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gulnar-mammadova-wins-azerbaijan-womens-chess-championship-2021/",
-         "pubDate" : "Wed, 02 Jun 2021 18:27:00 +0000",
-         "title" : "Gulnar Mammadova wins Azerbaijan Women's Chess Championship 2021"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov, the 16-year-old rising star from Uzbekistan, won Titled Tuesday on June 1 with a score of 10/11 after defeating GM Hikaru Nakamura in the final round. Nakamura finished in second place on tiebreaks with a score of 9.5/11,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2074,14 +2122,6 @@ news_feed (
          "title" : "Artemiev wins European Hybrid Qualification Tournament"
       },
       {
-         "description" : "With a superlative performance in the AICF World Cup Qualifier, Grandmaster P Iniyan booked his tickets to Sochi for the World Cup 2021. The online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/iniyan-wins-world-cup-qualifier/",
-         "pubDate" : "Mon, 31 May 2021 10:56:54 +0000",
-         "title" : "Iniyan wins World Cup Qualifier"
-      },
-      {
          "description" : "Wesley So and Magnus Carlsen traded blows in the first set of the FTX Crypto Cup Finals which will be decided in Monday's second mini-match - and potential blitz tiebreaker. A draw was also seen in the match for third place, except that Teimour Radjabov and Ian Nepomniachtchi decided to give themselves a rest day, as they signed four quick draws on Sunday. | Photo: Nick Barton",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2184,14 +2224,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-posts-a-chess-problem/",
          "pubDate" : "Sun, 30 May 2021 10:19:46 +0000",
          "title" : "Rustam Kasimdzhanov Posts a Chess Problem"
-      },
-      {
-         "description" : " Last week I showed you the first part of one of my online games, where we reached this rook ending after Black's (my) 25th move. All I have to do to win the game is play sensible moves. I'll skip through the next few without comment. They weren't perfect on either side but didn't change <a href=\"https://chessimprover.com/ruining-the-rook-ending/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ruining the Rook Ending\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ruining-the-rook-ending/\">Ruining the Rook Ending</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/ruining-the-rook-ending/",
-         "pubDate" : "Sun, 30 May 2021 08:00:22 +0000",
-         "title" : "Ruining the Rook Ending"
       },
       {
          "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
@@ -2370,14 +2402,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Close calls"
       },
       {
-         "description" : "The 2nd stage of European Hybrid Qualification Tournament for the FIDE World Cup 2021 took place on May 26 and 27, via the platform Tornelo Online. 144 players participated in Round 2, and half of them (72) advanced to the next stage Round 3. They are just one step away from qualifying for the FIDE World Cup.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/r2-report-european-hybrid-qualification-tournament/",
-         "pubDate" : "Fri, 28 May 2021 05:11:36 +0000",
-         "title" : "R2 report - European Hybrid Qualification Tournament"
-      },
-      {
          "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2464,14 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-3",
          "pubDate" : "Wed, 26 May 2021 16:40:00 +0100",
          "title" : "FTX Crypto Cup: Caruana wins the prelims, Carlsen and Nepo qualify"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/82976200.cms\" /></a>The women's chess World Cup, to be held in Sochi from July 10 to August 3, will see a strong Indian line-up comprising Koneru Humpy, D Harika, Padmini Rout, Bhakti Kulkarni and R Vaishali. For 20-year-old Vaishali Grandmaster R Praggnanandhaa's elder sister this will be her first major over-the-board senior event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms",
-         "pubDate" : "Wed, 26 May 2021 19:49:48 +0530",
-         "title" : "Going to the women's World Cup with an open mind: R Vaishali"
       }
    ]
 }
