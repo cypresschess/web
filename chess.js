@@ -26,6 +26,14 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov wins Grand Chess Tour Romania 2021"
       },
       {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83560934.cms\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms",
+         "pubDate" : "Wed, 16 Jun 2021 06:02:03 +0530",
+         "title" : "Nikhil Kamath ban lifted as Anand says 'forgot and forgave'"
+      },
+      {
          "description" : " While the game show called \"You Bet Your Life\" was before my time, Groucho Marx and the Marx Brothers were well-known to people of my age cohort, at least in the U.S. and, I suspect, elsewhere. For those of you who only know that last name as a politican/economic figure, you're missing out - go dig up some clips on YouTube. At any rate, Groucho went on to be the host of the aforementioned (rather quirky) game show, and in <a href=\"https://archive.org/details/youBetYourLife1956-SecretWordDoor\">this episode</a> [HT: Les Kistler] from 1956 one of his guests was grandmaster <a href=\"https://en.wikipedia.org/wiki/Isaac_Kashdan\">Isaac Kashdan</a> (1905-1985). On the show, Kashdan was paired up wi",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
