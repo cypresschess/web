@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg",
+         "pubDate" : "Wed, 16 Jun 2021 01:16:49 +0000",
+         "title" : "Heavy Piece Carlsbad Endgames | Insane in the Endgame - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "After Slovakian Grandmaster Jergus Pechac showed the spirit of majestic sportsmanship during the European Hybrid Qualification Tournament for the FIDE World Cup 2021, FIDE President decided to provide him a wild card for Sochi. An interesting situation arose at the&#160;European Hybrid Qualification Tournament&#160;in the game between the Israeli chess star GM Boris Gelfand (ISR, 2676) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fair-play-pays-off-tweetoftheday/",
+         "pubDate" : "Wed, 16 Jun 2021 01:10:43 +0000",
+         "title" : "Fair play pays off! #TweetOftheDay"
+      },
+      {
+         "description" : "World No. 5 Shakhriyar Mamedyarov finished the 1st leg of the 2021 Grand Chess Tour with 6.0/9 points to win 1st place in the 2021 Superbet Chess Classic, clinching victory after a draw with Maxime Vachier-Lagrave in the final round. Tying for second place were Levon Aronian, Wesley So, and Alexander Grischuk, who each drew []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-wins-grand-chess-tour-romania-2021/",
+         "pubDate" : "Wed, 16 Jun 2021 00:49:20 +0000",
+         "title" : "Shakhriyar Mamedyarov wins Grand Chess Tour Romania 2021"
+      },
+      {
          "description" : " While the game show called \"You Bet Your Life\" was before my time, Groucho Marx and the Marx Brothers were well-known to people of my age cohort, at least in the U.S. and, I suspect, elsewhere. For those of you who only know that last name as a politican/economic figure, you're missing out - go dig up some clips on YouTube. At any rate, Groucho went on to be the host of the aforementioned (rather quirky) game show, and in <a href=\"https://archive.org/details/youBetYourLife1956-SecretWordDoor\">this episode</a> [HT: Les Kistler] from 1956 one of his guests was grandmaster <a href=\"https://en.wikipedia.org/wiki/Isaac_Kashdan\">Isaac Kashdan</a> (1905-1985). On the show, Kashdan was paired up wi",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards",
          "pubDate" : "Tue, 15 Jun 2021 12:38:42 +0000",
          "title" : "Tour's eye-catching logo wins double gold at the European Design Awards"
+      },
+      {
+         "description" : "The 2021 edition of the Prague Chess Festival takes place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The Festival features Masters, Futures, Open and Rated tournaments. The main Master event is an 8-player round-robin tournament with participation of: Duda Jan-Krzysztof (POL) Van Foreest Jorden (NED) Navara David (CZE) Shankland Sam (USA) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-festival-2021/",
+         "pubDate" : "Tue, 15 Jun 2021 11:52:00 +0000",
+         "title" : "Prague Chess Festival 2021"
       },
       {
          "description" : "Yesterday, 14 June, the Prague Chess Festival 2021 began at the Don Giovanni Hotel in Prague, with a Masters tournament, an Open and a few other tournaments. In the Masters Jan-Krzysztof Duda started with a win over David Navara. | Photo: Tournament page",
@@ -296,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-levon-aronian-interview-round-9",
          "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
          "title" : "2021 Superbet Chess Classic: Levon Aronian Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Shakhriyar Mamedyarov during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/koIYAnRaaCk.jpg?itok=QG12h85G\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-shakhriyar-mamedyarov-interview-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 16:14:59 +0000",
-         "title" : "2021 Superbet Chess Classic: Shakhriyar Mamedyarov Interview | Round 9"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
@@ -1714,14 +1738,6 @@ news_feed (
          "title" : "Gulnar Mammadova wins Azerbaijan Women's Chess Championship 2021"
       },
       {
-         "description" : "The first event of the 2021 Grand Chess Tour, Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round robin tournament. The total prize fund is 325.000$. In the 2019 Grand Chess Tour, the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021/",
-         "pubDate" : "Wed, 02 Jun 2021 18:25:00 +0000",
-         "title" : "Grand Chess Tour - Romania 2021"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov, the 16-year-old rising star from Uzbekistan, won Titled Tuesday on June 1 with a score of 10/11 after defeating GM Hikaru Nakamura in the final round. Nakamura finished in second place on tiebreaks with a score of 9.5/11,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
       },
       {
-         "description" : "Magnus Carlsen is the world's first bitcoin chess champion after overcoming&#160;Wesley So in a thrilling FTX Crypto Cup final. The Norwegian&#160;takes home the $60,000 first prize&#160;plus a 0.6 bitcoin bonus&#160;offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event. After the see-saw match ended with&#160;Carlsen punching []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-chess-cup/",
-         "pubDate" : "Tue, 01 Jun 2021 11:40:00 +0000",
-         "title" : "Magnus Carlsen wins FTX Crypto Chess Cup"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (47)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (47)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Tue, 01 Jun 2021 08:50:00 +0100",
          "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
-      },
-      {
-         "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) - September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the&#160;FIDE World Cup 2023&#160;with 23 qualification spots. The total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-championship-2021",
-         "pubDate" : "Tue, 01 Jun 2021 05:42:00 +0000",
-         "title" : "European Individual Chess Championship 2021"
       },
       {
          "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the FIDE World Cup 2023 with 23 qualification spots. The total prize&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/\">Read More &#187;</a></span>",
@@ -2464,14 +2464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r4",
          "pubDate" : "Wed, 26 May 2021 08:45:00 +0100",
          "title" : "Gibraltar GP: No punches pulled"
-      },
-      {
-         "description" : " &#8220;Dariusz Swiercz was born in 1994 in Tarnowskie Gory, Poland. His grandfather taught him to play chess at the age of three. During his junior career he won numerous National Championships as well as several European and World Championship medals. His highest successes include the bronze medal in 2010 at the World U20 Championship (Chotowa, <a href=\"http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/26/the-modernized-ruy-lopez-volume-2-a-complete-repertoire-for-white/",
-         "pubDate" : "Wed, 26 May 2021 00:10:43 +0000",
-         "title" : "The Modernized Ruy Lopez - Volume 2 - A Complete Repertoire for White"
       }
    ]
 }
