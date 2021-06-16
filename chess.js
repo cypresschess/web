@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 2 of the Masters at the Prague Chess Festival David Navara played against Radoslaw Wojtaszek and suffered his second loss in a row. Sam Shankland won against Jan-Krzysztof Duda and Nihat Abasov defeated Nils Grandelius. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead with 1.5/2 each. | Picture: The hotel Don Giovanni, the host of the event",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-three-decisions-in-round-2",
+         "pubDate" : "Wed, 16 Jun 2021 12:49:12 +0100",
+         "title" : "Prague Chess Festival: Three decisions in round 2"
+      },
+      {
+         "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-greatest-number-you-can-imagine",
+         "pubDate" : "Wed, 16 Jun 2021 12:27:47 +0100",
+         "title" : "The greatest number you can imagine"
+      },
+      {
+         "description" : "The Northumbria Masters is pleased to announce that the John Robinson Youth Chess Trust has generously made junior bursaries available to a number of Under...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-bursaries-announced-for-northumbria-masters/",
+         "pubDate" : "Wed, 16 Jun 2021 08:55:11 +0000",
+         "title" : "Junior bursaries announced for Northumbria Masters"
+      },
+      {
+         "description" : "Today, round 3 of the Masters and the Open at the Prague Chess Festival will be played. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead in the Masters with 1.5/2 each. Round 3 of the Masters starts at 15:00 CEST (9:00 ET, 13:00 UTC), round 3 of the Open starts at 9:00 CEST (3:00 ET, 7:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
+         "pubDate" : "Wed, 16 Jun 2021 09:00:00 +0100",
+         "title" : "Prague Chess Festival, Round 3 - Live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -416,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-d-wins-the-gelfand-challenge",
          "pubDate" : "Mon, 14 Jun 2021 10:43:38 +0100",
          "title" : "Gukesh D. wins the Gelfand Challenge"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with black to secure first place at the opening event of the 2021 Grand Chess Tour, the Superbet Chess Classic in Bucharest. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament kicks off on Friday. | Full report to follow shortly | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-live",
-         "pubDate" : "Mon, 14 Jun 2021 10:35:00 +0100",
-         "title" : "Superbet Classic: Five draws, Mamedyarov gets tournament victory [Express report]"
       },
       {
          "description" : "",
@@ -2448,30 +2472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/going-to-the-womens-chess-world-cup-with-an-open-mind-r-vaishali/articleshow/82976200.cms",
          "pubDate" : "Wed, 26 May 2021 19:49:48 +0530",
          "title" : "Going to the women's World Cup with an open mind: R Vaishali"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1103",
-         "pubDate" : "Wed, 26 May 2021 10:28:31 +0000",
-         "title" : "Carlsen survives almighty scare Caruana wins prelim stage"
-      },
-      {
-         "description" : " One common question asked is \"What is the difference between a GM and an FM?\" (in terms of skill level). Now there are lots of correct answers (fewer mistakes, deeper calculation etc), but as the following game demonstrates, knowing when to strike (and when to play h3!). <br /> <b>Novendra,Priasmoro (2502) - Atakhan,Abtin (2319) [C11]</b><br />Asian Hybrid Continental Chess Champions (6.14), 21.05.2021 <script>new PgnViewer( { boardName: \"game1246\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Rc8 16.O-O Qd8 17.f5 exf5 18.Qe3 Qa5 19.e6 fxe6 20.Rxf5 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/gm-v-fm.html",
-         "pubDate" : "Wed, 26 May 2021 08:18:00 +0000",
-         "title" : "GM v FM"
-      },
-      {
-         "description" : "Uncompromising chess has been the rule at the fourth leg of the Women's Grand Prix series in Gibraltar. After four rounds, Zhansaya Abdumalik, Kateryna Lagno and Mariya Muzychuk (pictured) are sharing the lead on 3 points, while Elisabeth Paehtz is the only player a half point behind in fourth place. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r4",
-         "pubDate" : "Wed, 26 May 2021 08:45:00 +0100",
-         "title" : "Gibraltar GP: No punches pulled"
       }
    ]
 }
