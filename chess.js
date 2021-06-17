@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-greatest-number-you-can-imagine",
+         "pubDate" : "Thu, 17 Jun 2021 03:27:47 +0100",
+         "title" : "The greatest number you can imagine"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/site",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-chess-festival-three-decisions-in-round-2",
          "pubDate" : "Wed, 16 Jun 2021 12:49:12 +0100",
          "title" : "Prague Chess Festival: Three decisions in round 2"
-      },
-      {
-         "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-greatest-number-you-can-imagine",
-         "pubDate" : "Wed, 16 Jun 2021 12:27:47 +0100",
-         "title" : "The greatest number you can imagine"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carol Jarecki</strong>, <a href=\"https://www.chess.com/news/view/carol-jarecki-1935-2021\">chess organiser and head arbiter</a> of the 1995 PCA World Championship Kasparov vs Anand, the Kasparov vs Deep Blue-match in 1997 and many other events and also one of the most profound critical voices in <strong>FIDE</strong>, has passed away. </div> ",
