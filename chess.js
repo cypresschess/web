@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup in July and the World Champion match in November still have to be played but FIDE and World Chess already plan ahead and just announced the FIDE Grand Prix Series 2022. It will take place from February to April 2022 and will consist of three tournaments, which will be played in one city. The two best players qualify for the Candidates Tournament 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-announces-grand-prix-series-2022",
+         "pubDate" : "Thu, 17 Jun 2021 12:45:09 +0100",
+         "title" : "FIDE and World Chess announce Grand Prix Series 2022"
+      },
+      {
+         "description" : "David Navara, the number one Czech player, started the Masters at the Prague Chess Festival with two losses, and in round 3 he had to play against Sam Shankland, who seems to be in good shape in Prague. But Navara still played ambitiously which allowed Shankland to counter and to win a fine game. With 2.5/3 Shankland is now the sole leader at the Masters. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-round-3-shankland-beats-navara",
+         "pubDate" : "Thu, 17 Jun 2021 11:56:36 +0100",
+         "title" : "Prague Chess Festival, Round 3: Shankland beats Navara"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" /></a>Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms",
+         "pubDate" : "Thu, 17 Jun 2021 15:46:32 +0530",
+         "title" : "4 Indians in the fray for Asian Rapid chess"
+      },
+      {
+         "description" : " <p class=\"lead\">Two tickets to the FIDE Candidates Tournament will be decided in a tightly-packed series organized by World Chess <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F862BDE-27CE-4BF9-87BD-1DD6482C35AA.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Opening ceremony of the 2019 FIDE Grand Prix organized by World Chess in Moscow</div> </div> FIDE and World Chess are pleased to announce <b>the 2022 Grand Prix Series</b> that will take place in February - April of 2022 and will consist of three tournaments. The events will take place in one city - a deviation from the typical system where Grand Prix events are hosted in different",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
+         "pubDate" : "Thu, 17 Jun 2021 09:56:47 +0000",
+         "title" : "2022 FIDE Grand Prix Series Announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1148",
+         "pubDate" : "Thu, 17 Jun 2021 09:43:50 +0000",
+         "title" : "2022 FIDE Grand Prix Series Announced"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two places for the next Candidates Tournament shall be decided in a series of three <strong>Grand Prix</strong> <a href=\"https://www.fide.com/news/1148\">events in February to April 2022</a>, each with 16 players, a group and a knockout phase. The full series shall be held in one yet unknown city according to <strong>Ilya Merenzon</strong> from <strong>World Chess</strong>, still entrusted by <strong>FIDE</strong> with the organisation. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-grand-prix-stays-with-merenzon/",
+         "pubDate" : "Thu, 17 Jun 2021 10:11:25 +0100",
+         "title" : "FIDE Grand Prix stays with Merenzon"
+      },
+      {
+         "description" : "Women's no. 1 Hou Yifan will be the first female player to participate in the full Meltwater Champions Chess Tour when the Goldmoney Asian Rapid, the 7th stage on the $1.6 million tour, starts at 13:00 CEST on Saturday June 26th. The earlier starting time should boost the chances of the players based in Asia, with no less than four Indian grandmasters taking part, including 15-year-old Gelfand Challenge winner Gukesh and 17-year-old Indian Qualifier winner Arjun Erigaisi. There are also tour debuts for Adhiban, Vladislav Artemiev and Salem Saleh.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hou-yifan-joins-carlsen-for-goldmoney-asian-rapid",
+         "pubDate" : "Thu, 17 Jun 2021 09:00:01 +0000",
+         "title" : "Hou Yifan joins Magnus Carlsen for Goldmoney Asian Rapid"
+      },
+      {
+         "description" : "Chess is not all about competitiveness, and Gibraltar has become a place that embodies the multi-faceted character of the royal game. Following this vein, FIDE recorded a series of well-produced videos with the participants of the Women's Grand Prix that came to an end a couple of weeks ago. Enjoy getting to know a bit more about some of the strongest female chess players in the world! | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-participants-of-the-womens-grand-prix",
+         "pubDate" : "Thu, 17 Jun 2021 10:00:00 +0100",
+         "title" : "Meet the participants of the Women's Grand Prix"
+      },
+      {
+         "description" : "GM Harika Dronavalli eliminated GM Alexandra Kosteniuk from the FIDE Chess.com Women&#39;s Speed Chess Championship on Wednesday. Kosteniuk started strongly, but Harika came back, leveled the score just in time and then decided the match in the tiebre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-harika-kosteniuk",
+         "pubDate" : "Thu, 17 Jun 2021 01:28:57 -0700",
+         "title" : "Women's Speed Chess Championship: Harika Eliminates Kosteniuk In Tiebreak"
+      },
+      {
          "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +184,6 @@ news_feed (
          "link" : "https://chessimprover.com/trounce-em-with-the-tartakower/",
          "pubDate" : "Wed, 16 Jun 2021 14:00:26 +0000",
          "title" : "Trounce 'em with the Tartakower"
-      },
-      {
-         "description" : "Today, round 3 of the Masters and the Open at the Prague Chess Festival will be played. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead in the Masters with 1.5/2 each. Round 3 of the Masters starts at 15:00 CEST (9:00 ET, 13:00 UTC), round 3 of the Open starts at 9:00 CEST (3:00 ET, 7:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
-         "pubDate" : "Wed, 16 Jun 2021 14:55:00 +0100",
-         "title" : "Prague Chess Festival, Round 3 - Live"
       },
       {
          "description" : " Normally a game that holds up the end of a weekend tournament isn't that enjoyable, either to the players or organisers. However, there are exceptions, and the following is one of them. While the first half of the game involved a lot of manoeuvring of pieces, but little progress, FM Clive Ng decided to spice things up with an exchange sacrifice. The only problem with this approach was that it now meant he was worse, and after a few more moves, was in fact lost. The only ray of hope for Ng was the fact that his king was stalemated on h2, which gave him a drawing defence. When Anthony Fikh pushed his g pawn up the board, Clive was faced with being a whole rook down, but this actually helped h",
@@ -480,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/homo-neubau-an-exhibition-featuring-ernst-gruenfeld",
          "pubDate" : "Mon, 14 Jun 2021 16:00:00 +0100",
          "title" : "\"Homo Neubau\": An exhibition featuring Ernst Gr&uuml;nfeld"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nikhil Kamath</strong>, cofounder of the Indian trading platform <strong>Zerodha</strong>, won a game against <strong>Vishy Anand</strong> in a charity online simul. After being banned by <strong>Chess.com</strong>, the billionaire admitted that he had taken hints from Grandmasters, computers and even Anand himself during the game and apologized. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/billionaire-apologized-for-computer/",
-         "pubDate" : "Mon, 14 Jun 2021 15:23:42 +0100",
-         "title" : "Billionaire apologized for computer assistance"
       },
       {
          "description" : "Seventeen names and you get two choices - this is the latest Premium-only vote for the Meltwater Champions Chess Tour.",
@@ -1226,14 +1282,6 @@ news_feed (
          "title" : "Queens' Festival - Connecting Women in Chess"
       },
       {
-         "description" : "Wesley So cited divine intervention after beating Fabiano Caruana in Round 4 of the Superbet Chess Classic to leapfrog his opponent into the lead. That was the first win not involving the Romanian players, but there could easily have been another, since Anish Giri had Levon Aronian on the ropes. Instead the day's other winner and new leader was Alexander Grischuk, who ground down Bogdan-Daniel Deac in five hours. Mamedyarov-Radjabov was the only game with no action, with Teimour afterwards putting his peaceful approach down to a lack of time for opening preparation.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-so-grischuk-snatch-lead",
-         "pubDate" : "Wed, 09 Jun 2021 09:37:40 +0000",
-         "title" : "Superbet Chess Classic 4: So & Grischuk snatch lead"
-      },
-      {
          "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1840,14 +1888,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/",
          "pubDate" : "Wed, 02 Jun 2021 20:32:46 +0000",
          "title" : "2021 African Individual Chess Championship"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov, the 16-year-old rising star from Uzbekistan, won Titled Tuesday on June 1 with a score of 10/11 after defeating GM Hikaru Nakamura in the final round. Nakamura finished in second place on tiebreaks with a score of 9.5/11,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-june-1-titled-tuesday",
-         "pubDate" : "Wed, 02 Jun 2021 10:55:04 -0700",
-         "title" : "Abdusattorov Wins June 1 Titled Tuesday"
       },
       {
          "description" : "The Webinar for FIDE International Organizers will take place from June 28 July 1. The event is organized by European Chess Union in cooperation with FIDE Events Commission and FIDE Women's Commission, co-funded by FIDE Development Fund. The event will be organized for maximum 60 participants 15 female participants from any European federation, supported by FIDE Development&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-organizers-webinar/\">Read More &#187;</a></span>",
