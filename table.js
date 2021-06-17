@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target=' blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
 
+"HOUSTON","2021-05-14  - 06-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106117892 target=' blank'>POISONPAWNRECREATE</a>",
 "CYPRESS","2021-06-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202106116582 target=' blank'>11JUN21</a>",
 "SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-06-04","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106046932 target=' blank'>KOFC  04JUN21</a>",
@@ -16,7 +17,7 @@ jtable([
 "LEAGUE CITY","2021-05-15","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105159272 target=' blank'>2021 TEXAS SCHOLASTIC INVITATIONALS</a>",
 "SPRING","2021-05-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202105157742 target=' blank'>DER SPRINGERS</a>",
 "SPRING","2021-05-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105147372 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target=' blank'>WEST HOUSTON CHESS OPEN I</a>",
+"HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target=' blank'>TCR: WEST HOUSTON CHESS OPEN I</a>",
 "HOUSTON","2021-05-08","107","<a href=http://www.uschess.org/msa/XtblMain.php?202105086112 target=' blank'>ST THOMAS HS CHESS TOURNAMENT</a>",
 
 "SPRING","2021-05-07","10","<a href=http://www.uschess.org/msa/XtblMain.php?202105075812 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-02-15","11","<a href=http://www.uschess.org/msa/XtblMain.php?202002152532 target=' blank'>SR CHESSKNIGHTS 02152020</a>",
 "PASADENA","2020-02-15","34","<a href=http://www.uschess.org/msa/XtblMain.php?202002151002 target=' blank'>PISD FEBRUARY 2020</a>",
 "HOUSTON","2020-02-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202002150612 target=' blank'>CHESSPANDA02152020SATURDAY</a>",
-"TOMBALL","2020-02-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202002149962 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
 ]);
