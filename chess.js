@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-photos.html",
+         "pubDate" : "Thu, 17 Jun 2021 23:18:00 +0000",
+         "title" : "2021 NSW Open - Photos"
+      },
+      {
+         "description" : " Bananas are supposed to be good for your chess. GM Max Illingworth famously brings a bunch to the board for every game, while IM Gary Lane once convinced an entire Olympiad team that this was the secret to winning more matches. One participant in yesterdays interschool event showed me another way that they can help your chess. Early on she told me that her mother had written (actually carved) a message on the banana skin, and I (Mr Grumpy) replied \"As long as they aren't chess moves\". On one side it read \"Woot!! Chess\" and on the other \"Good Luck\". So far so good, but her mother even carved a couple of chess pieces at the end. Although I remembered what happed to Wesley So at the US Champio",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/bananas.html",
+         "pubDate" : "Thu, 17 Jun 2021 23:14:00 +0000",
+         "title" : "Bananas"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1149",
+         "pubDate" : "Thu, 17 Jun 2021 20:57:45 +0000",
+         "title" : "WSCC 2021: Antoaneta Stefanova eases into quarterfinals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> From June 18-22, watch EXCLUSIVELY on KasparovChess.com and Kasparovchess on Twitch. Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour. Through the support of KasparovChess, Vivendi, and Colliers International, Paris hosts the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Eleven elite grandmasters will compete in 9 rounds of rapid chess and 18 rounds of blitz chess for a total prize fund of $150,000. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-typ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-exclusively-kasparovchess",
+         "pubDate" : "Thu, 17 Jun 2021 19:18:23 +0000",
+         "title" : "2021 Paris Grand Chess Tour: EXCLUSIVELY on KasparovChess"
+      },
+      {
+         "description" : " The Goldmoney Asian Rapid takes place Sat 26th Jun to Sun 4th Jul 2021. This is the latest event of the Champions Chess Tour and features a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Play starts significantly earlier than most of the events on the tour so far, 12pm BST.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
+         "pubDate" : "Thu, 17 Jun 2021 22:13:00 +0400",
+         "title" : "Goldmoney Asian Rapid 2021 - "
+      },
+      {
+         "description" : " The Paris Rapid & Blitz is part of the Grand Chess Tour and take place 18th to 22nd June 2021. 9 rounds of rapid and followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
+         "pubDate" : "Thu, 17 Jun 2021 22:05:00 +0400",
+         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
+      },
+      {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new and aggressive idea that helps Black to spice up things up in the Queen's Gambit Accepted. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-superbet-chess-classic-2",
          "pubDate" : "Tue, 15 Jun 2021 17:57:07 +0100",
          "title" : "The Weekly Show: The Superbet Chess Classic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews legend GM Yasser Seirawan about his career, world standings, streaming, and 80s chess! Questions are accepted via chat. 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-gm-yasser-seirawan-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DbDlVL-N_os.jpg?itok=Oet8gNL7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/get-know-gm-yasser-seirawan-gm-denes-boros",
-         "pubDate" : "Tue, 15 Jun 2021 16:16:31 +0000",
-         "title" : "Get to Know GM Yasser Seirawan with GM Denes Boros"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" /></a>Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
@@ -2450,14 +2490,6 @@ news_feed (
          "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
       },
       {
-         "description" : " The first set of the semifinals of the FTX Crypto Chess tournament saw Wesley So take the lead against Ian Nepomniachtchi by winning the final game of a day after he seemed on the back foot for most of it. Magnus Carlsen took the lead against Teimour Radjabov by winning a fine game three only for Radjabov to strike back straight away in game four so that set ended up tied. Magnus Carlsen and Teimour Radjabov managed just one decisive game in two sets in the New in Chess Classic and today they started with two draws - Radjabov equalised pretty easily with black in game one and put a small amount of pressure out of the opening in game two before 23.Qc4 (maybe Re4 was better) h5! equalised for",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/nepomniachtchi-loses-set-one-of-the-ftx-crypto-semifinals-to-wesley-so-after-missing-chances",
-         "pubDate" : "Fri, 28 May 2021 21:07:00 +0400",
-         "title" : "Nepomniachtchi loses set one of the FTX Crypto semifinals to Wesley So after missing chances - Day 6"
-      },
-      {
          "description" : "In this Power Play Show by GM Daniel King the Kalashnikov and a fine game from the FTX Crypto Cup are on the menu. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2504,22 +2536,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
          "pubDate" : "Fri, 28 May 2021 00:10:59 +0000",
          "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1099",
-         "pubDate" : "Thu, 27 May 2021 22:06:56 +0000",
-         "title" : "\"The Queens' Festival\": Connecting Women in Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1106",
-         "pubDate" : "Thu, 27 May 2021 21:01:30 +0000",
-         "title" : "Round 6: Valentina's vultures"
       }
    ]
 }
