@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/",
+         "pubDate" : "Thu, 17 Jun 2021 14:14:44 +0000",
+         "title" : "Ram&oacute;n Mateo&hellip; Dominican trailblazer!"
+      },
+      {
+         "description" : " After a slow start to the 2021 Belconnen Cup (0.5/2) I have started to catch the leaders, after 3 straight wins. In what should be an important lesson to newer players, in each game I was winning before my opponent castled. In fact in two of the games, my opponent failed to castle at all. Here is the latest win, highlighting the difficulties you can run into if you fail to get your king out of the centre. <br /> <b>Press,Shaun - Teymant,Roy [D11]</b><br />Belconnen Cup, 15.06.2021 <script>new PgnViewer( { boardName: \"game1252\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.g3 Bf5 5.Nc3 e6 6.Bg2 Be7 7.O-O Nbd7 8.Qb3 Qc7 9.Bf4 Qc8 10.Rac1 Nh5 11.cxd5 Nxf4 12.gxf4 exd5 13.Nxd5",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/caught-in-middle.html",
+         "pubDate" : "Thu, 17 Jun 2021 13:36:00 +0000",
+         "title" : "Caught in the middle"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The next <strong>Meltwater Champions Chess Tour</strong> event from 26 June to 4 July will be the <strong>Goldmoney Asian Rapid</strong> with the <a href=\"https://chess24.com/en/read/news/hou-yifan-joins-carlsen-for-goldmoney-asian-rapid\">majority of the participants</a> born in Asia and earlier playing hours to the benefit of participants like 15-year old <strong>Dommaraju Gukesh</strong> who narrowly won the second <strong>Challengers Chess Tour</strong> event. The recently inactive female number one <strong>Hou Yifan</strong> receives a wildcard. The title sponsor is again a financial company, the Canadian precious metals platform <strong>Goldmon",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/asia-themed-tour-event/",
+         "pubDate" : "Thu, 17 Jun 2021 14:03:13 +0100",
+         "title" : "Asia-themed tour event"
+      },
+      {
+         "description" : "After three rounds Sam Shankland is the sole leader in the Masters tournament at the Prague Chess Festival. With 2.5/3 he is half a point ahead of Nijat Abasov and Radoslaw Wojtaszek, but in round 4 Shankland plays with Black against Wojtaszek and has to defend his lead. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
+         "pubDate" : "Thu, 17 Jun 2021 14:00:00 +0100",
+         "title" : "Prague Chess Festival, Round 4 - Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimag",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/design-awards-for-champions-tour/",
+         "pubDate" : "Thu, 17 Jun 2021 13:50:51 +0100",
+         "title" : "Design awards for Champions Tour logo"
+      },
+      {
+         "description" : "FIDE and its partner World Chess announced on Thursday that the 2022 Grand Prix series will consist of three tournaments that will be held between February and April 2022. The top two finishers of the series will qualify for the 2022 Candidates To...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-grand-prix-series-announcement",
+         "pubDate" : "Thu, 17 Jun 2021 05:29:00 -0700",
+         "title" : "2022 Chess Grand Prix: 3 Tournaments, 1 City"
+      },
+      {
          "description" : "The FIDE World Cup in July and the World Champion match in November still have to be played but FIDE and World Chess already plan ahead and just announced the FIDE Grand Prix Series 2022. It will take place from February to April 2022 and will consist of three tournaments, which will be played in one city. The two best players qualify for the Candidates Tournament 2022.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-chess-festival-round-3-shankland-beats-navara",
          "pubDate" : "Thu, 17 Jun 2021 11:56:36 +0100",
          "title" : "Prague Chess Festival, Round 3: Shankland beats Navara"
+      },
+      {
+         "description" : "Aronyak Ghosh of West Bengal and V Rindhya of Tamilnadu crowned as National Under-18 Open &#38; Girls Online Chess Champions respectively which concluded on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aronyak-ghosh-and-rindhya-champions/",
+         "pubDate" : "Thu, 17 Jun 2021 10:29:00 +0000",
+         "title" : "Aronyak Ghosh and Rindhya Champions"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" /></a>Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
@@ -66,11 +122,19 @@ news_feed (
          "title" : "Meet the participants of the Women's Grand Prix"
       },
       {
-         "description" : "GM Harika Dronavalli eliminated GM Alexandra Kosteniuk from the FIDE Chess.com Women&#39;s Speed Chess Championship on Wednesday. Kosteniuk started strongly, but Harika came back, leveled the score just in time and then decided the match in the tiebre...",
+         "description" : "A 3-tournament FIDE Grand Prix series will be held in February to April next year to decide the remaining two players in the 2022 Candidates Tournament. All three 16-players events will take place in the same yet-to-be-decided city, with each of the 24 players competing in two of the three tournaments. A new format sees the players split into four groups of four, who play mini round-robins before the winners go forward to a knockout. FIDE note that it's possible a new World Championship match will be held in late 2022 or early 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-series-announced-for-feb-apr-2022",
+         "pubDate" : "Thu, 17 Jun 2021 08:30:00 +0000",
+         "title" : "FIDE Grand Prix series announced for Feb-Apr 2022"
+      },
+      {
+         "description" : "GM Harika Dronavalli eliminated GM Alexandra Kosteniuk from the FIDE Chess.com Women&#39;s Speed Chess Championship on Wednesday. Kosteniuk started very strong, but Harika came back, leveled the score just in time, and then decided the match in the ti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-harika-kosteniuk",
-         "pubDate" : "Thu, 17 Jun 2021 01:28:57 -0700",
+         "pubDate" : "Thu, 17 Jun 2021 01:28:00 -0700",
          "title" : "Women's Speed Chess Championship: Harika Eliminates Kosteniuk In Tiebreak"
       },
       {
@@ -386,14 +450,6 @@ news_feed (
          "title" : "Duda beats Navara in the first round of the Prague Chess Festival"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://europeandesign.org/submissions/meltwater-champions-chess-tour/\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimage'><div class=\"image panorama\"><fi",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/design-awards-for-champions-tour/",
-         "pubDate" : "Tue, 15 Jun 2021 11:15:56 +0100",
-         "title" : "Design awards for Champions Tour logo"
-      },
-      {
          "description" : "August 26th - September 5th, Reykjav&iacute;k, Iceland the Icelandic Chess Federation is organising, and invites entries to, the above event under the auspices of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -584,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
          "pubDate" : "Mon, 14 Jun 2021 14:50:00 +0400",
          "title" : "Gelfand Challenge 2021 - Games and Results"
-      },
-      {
-         "description" : "Manish Kumar of Odisha and V Rindhya of Tamilnadu crowned as National Under-18 Open &#38; Girls Online Chess Champions respectively which concluded on Saturday. Scoring",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/manish-kumar-and-rindhya-champions/",
-         "pubDate" : "Mon, 14 Jun 2021 10:29:01 +0000",
-         "title" : "Manish Kumar and Rindhya Champions"
       },
       {
          "description" : "On Sunday, the last four of the 19 rounds of the \"Gelfand Challenge\" were played. After 15 rounds Vincent Keymer from Germany had led the tournament but he only scored 1.5/4 on the final day. This was the chance for the 15-year old Indian Gukesh D., who had started the day two points behind Keymer, to catch up. After a 4.0/4 run Gukesh finished on 14.0/19 and tied first with his compatriot Praggnanandhaa but Gukesh won the tournament on tiebreak because he had won the direct encounter against \"Pragg\". Half a point behind the two Indians, Vincent Keymer came third. | Picture: Julius Baer Challengers Chess Tour",
@@ -810,7 +858,7 @@ news_feed (
          "title" : "Chess.com And The Charlotte Chess Center Present: The Blitzcoin Invitational"
       },
       {
-         "description" : " Share! GM Rom&aacute;n Hern&aacute;ndez Rom&aacute;n Hern&aacute;ndez Onna passed away early this month on June 1st from a lengthy illness. The Cuban Grandmaster and former national champion was 71 years old. As a pioneer, Hernandez had a long r&eacute;sum&eacute; before he ventured abroad and faced some of the world's elite competition. Recently, The Chess Drum featured [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/\">GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " GM Rom&aacute;n Hern&aacute;ndez Rom&aacute;n Hern&aacute;ndez Onna passed away early this month on June 1st from a lengthy illness. The Cuban Grandmaster and former national champion was 71 years old. As a pioneer, Hernandez had a long r&eacute;sum&eacute; before he ventured abroad and faced some of the world's elite competition. Recently, The Chess Drum featured his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/\">GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/",
@@ -1184,14 +1232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-5-mamedyarov-lupulescu",
          "pubDate" : "Wed, 09 Jun 2021 21:40:00 -0700",
          "title" : "Superbet Chess Classic: Mamedyarov Strikes With Wonderful Combination"
-      },
-      {
-         "description" : "\"I wake up and I think I need to take some risk,\" said Shakhriyar Mamedyarov after playing an offbeat opening and crashing though in Constantin Lupulescu's time trouble to join Wesley So and Alexander Grischuk in the lead going into the rest day in Bucharest. The other games in Round 5 of the Superbet Chess Classic were all drawn, with Fabiano Caruana's 8.Qe2!? against the Berlin Defence the only one that's likely to be remembered.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-5-shakh-attack",
-         "pubDate" : "Thu, 10 Jun 2021 00:17:51 +0000",
-         "title" : "Superbet Chess Classic 5: Shakh attack!"
       },
       {
          "description" : " Spurious Games: David Jenkins From the publisher: When a local chess player is discovered dead, Detective Inspector John Logos of Cornwall s St Borstal Constabulary is called in to investigate what turns out to be a serial killer running amok in the sedate world of Cornish chess. The detectives quickly find themselves as pawns in <a href=\"http://britishchessnews.com/2021/06/10/spurious-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Spurious Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/10/spurious-games/\">Spurious Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
@@ -1858,14 +1898,6 @@ news_feed (
          "title" : "Queens' Festival: Registration date extended"
       },
       {
-         "description" : "IM Zhansaya Abdumalik played the tournament of her life in Gibraltar. The Kazakh chess player won the Women&#39;s Grand Prix with a round to spare, earned 15,000 euros, and became a full-fledged grandmaster in the process.&#38;nbsp; The other &#34;winners&#34; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdumalik-wins-gibraltar-women-fide-grand-prix",
-         "pubDate" : "Thu, 03 Jun 2021 01:30:00 -0700",
-         "title" : "Abdumalik Shines In Gibraltar; Lagno, Koneru Reach Candidates"
-      },
-      {
          "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 5th (Round 1) - 14th (Round 9), 2021. This classical event marks resumption of the tour which was cancelled last year. Earlier I'd completely failed to notice that this was a classical rather than a rapid and blitz as it was in 2019. Following straight on from this event (June 18th) there really will be a rapid and blitz event, in Paris. After that there is the Croatia Rapid & Blitz (5th July). St Louis will host both their own rapid and blitz tournaments (Aug 11th) and the classical Sinquefield Cup (Aug 17th) to finish off the tour. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2496,22 +2528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-14-year-old-eline-roebers-beats-grandmaster",
          "pubDate" : "Thu, 27 May 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: 14-year old Eline Roebers beats Grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1105",
-         "pubDate" : "Thu, 27 May 2021 13:43:42 +0000",
-         "title" : "FIDE Chess.com Women's Speed Chess Championship kicks off tomorrow"
-      },
-      {
-         "description" : "Teimour Radjabov and Wesley So won the first sets of their quarterfinal matches in the FTX Crypto Cup, while Magnus Carlsen and Fabiano Caruana managed to draw their mini-matches by scoring wins on demand in the last game of the day against Hikaru Nakamura and Ian Nepomniachtchi respectively. In the face-off between Carlsen and Nakamura, all four games finished decisively and favoured the player with the white pieces. | Photo: Lennart Ootes / Altibox Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-4",
-         "pubDate" : "Thu, 27 May 2021 13:20:00 +0100",
-         "title" : "FTX Crypto Cup: Comebacks"
       }
    ]
 }
