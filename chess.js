@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new and aggressive idea that helps Black to spice up things up in the Queen's Gambit Accepted. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-for-black-in-the-queen-s-gambit-accepted",
+         "pubDate" : "Thu, 17 Jun 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: New ideas for Black in the Queen's Gambit Accepted"
+      },
+      {
+         "description" : "Pranesh M of Tamilnadu and Bhagyashree Patil of Maharashtra becomes champions in the Open and Girls Categories respectively in the National Under-16 Online Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/pranesh-and-bhagyashree-under-16-champions/",
+         "pubDate" : "Thu, 17 Jun 2021 16:49:36 +0000",
+         "title" : "Pranesh and Bhagyashree Under-16 Champions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. See a game from the 2017 London Chess Classic, where Carlsen's 2021 world championship challenger Ian Nepomniachtchi defeated him. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-nepo-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
+         "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. 2021.06.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0un1OeyXxRU.jpg?itok=1X8Ne14q\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
+         "title" : "The Shocking Brooklyn | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews the best games from this week in world class chess. 2021.06.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarovs-win-streak-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a-5GasBjpQU.jpg?itok=wIt5nyXK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarovs-win-streak-games-week-gm-denes-boros",
+         "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
+         "title" : "Mamedyarov's Win Streak | Games of the Week - GM Denes Boros"
+      },
+      {
          "description" : " Share! Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -402,14 +442,6 @@ news_feed (
          "title" : "Anand to feature in Croatia leg of Grand Chess Tour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches the Ponziani Opening. 2021.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ponziani-scheme-its-legal-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wrhZH_40xD4.jpg?itok=RXeQ9FiH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ponziani-scheme-its-legal-chess-openings-explained",
-         "pubDate" : "Tue, 15 Jun 2021 13:16:12 +0000",
-         "title" : "The Ponziani Scheme: It's Legal | Chess Openings Explained"
-      },
-      {
          "description" : "Shakhriyar Mamedyarov took a quick draw against Maxime Vachier-Lagrave in the final round to clinch first place in the Superbet Chess Classic along with the $90,000 top prize. The Azerbaijan no. 1 finished a full point ahead of Levon Aronian, Alexander Grischuk and Wesley So in 2nd place. Caruana-Deac was by far the longest game of the day, but Fabiano Caruana couldn't improve a disappointing tournament, while MVL finished last before heading to his home city this weekend for the Paris Rapid &amp; Blitz.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -568,22 +600,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/14/superbet-chess-classic-round-9-mamedyarov-wins-the-tournamen.html",
          "pubDate" : "Mon, 14 Jun 2021 20:05:40 +0000",
          "title" : "Superbet Chess \"Classic\", Round 9. Mamedyarov Wins the Tournament; Radjabov Gains the \"Moral\" Victory"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alexander Grischuk during the ninth round of the 2021 Superbet Chess Classic. 2021.06.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/euHLHydA1E4.jpg?itok=_y9-9dDw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-superbet-chess-classic-alexander-grischuk-interview-round-9",
-         "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
-         "title" : "2021 Superbet Chess Classic: Alexander Grischuk Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches the Ponziani Opening. 2021.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ponziani-scheme-its-legal-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wrhZH_40xD4.jpg?itok=RXeQ9FiH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ponziani-scheme-its-legal-chess-openings-explained-lichessorg",
-         "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
-         "title" : "The Ponziani Scheme: It's Legal | Chess Openings Explained | lichess.org"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "Abdumalik wins FIDE Women's Grand Prix Gibraltar; Koneru and Lagno qualify for Candidates"
       },
       {
-         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates&#160;will be issued in due course. All the&#160; unsuccessful&#160;participants",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-chess-in-school-trainers-training-results/",
-         "pubDate" : "Thu, 03 Jun 2021 17:36:18 +0000",
-         "title" : "AICF Chess in School Trainers Training Results"
-      },
-      {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at the old main line (Be2 & Be3) of the Sicilian Taimanov, which often leads to fascinating games full of fun and tactical blows. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2512,22 +2520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1106",
          "pubDate" : "Thu, 27 May 2021 21:01:30 +0000",
          "title" : "Round 6: Valentina's vultures"
-      },
-      {
-         "description" : " The FTX Crypto Cup quarterfinals concluded today setting up the pairings Carlsen-Radjabov and Nepomniachtchi- Wesley So in the semifinals. Carlsen and Nepomniachtchi only progressed after blitz tie-breaks. The online event is the last major of the Meltwater Champions Chess tour although there remain three more normal qualification events before the final starting on September 25th. Magnus Carlsen won the blitz tie-break 2-0 against Hikaru Nakamura after another close struggle in the rapid games. The first game was a very sharp Giuoco Piano where Carlsen found himself with the harder position to play - even though the computers thought he had quite some advantage. Carlsen fell behind on the ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-nepomniachtchi-so-and-radjabov-progress-to-the-ftx-crypto-cup-semifinals",
-         "pubDate" : "Thu, 27 May 2021 21:16:00 +0400",
-         "title" : "Carlsen, Nepomniachtchi, So and Radjabov progress to the FTX Crypto Cup semifinals - Day 5"
-      },
-      {
-         "description" : "This week, the well-known Dutch trainer Robert Ris shows how 14-year old Eline Roebers (Elo 2066) defeated the Greek Grandmaster Athanasios Mastrovasilis in round 1 of the European Hybrid Qualifier. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-14-year-old-eline-roebers-beats-grandmaster",
-         "pubDate" : "Thu, 27 May 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: 14-year old Eline Roebers beats Grandmaster"
       }
    ]
 }
