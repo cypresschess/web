@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/site",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 17 Jun 2021 01:17:59 +0000",
+         "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ponziani-scheme-its-legal-chess-openings-explained-lichessorg",
          "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
          "title" : "The Ponziani Scheme: It's Legal | Chess Openings Explained | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps some of the best games from the Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour. Shakhriyar Mamedyarov won the tournament by a clear point. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-superbet-chess-classic-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CoKuMJgrGoQ.jpg?i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/best-superbet-chess-classic-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Mon, 14 Jun 2021 19:14:56 +0000",
-         "title" : "Best of Superbet Chess Classic | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
@@ -2472,14 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-4",
          "pubDate" : "Thu, 27 May 2021 13:20:00 +0100",
          "title" : "FTX Crypto Cup: Comebacks"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1104",
-         "pubDate" : "Wed, 26 May 2021 23:50:58 +0000",
-         "title" : "Round 5: Zhansaya and Mariya hold the Lead"
       }
    ]
 }
