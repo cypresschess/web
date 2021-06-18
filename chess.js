@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds Sam Shankland and Nijat Abasov lead the Masters tournament at the Prague Chess Festival with 3.0/4 each and in round 5 they play against each other - Shankland has the white pieces. David Navara, who started the tournament with four losses, plays against Thai Dan Van Nguyen. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
+         "pubDate" : "Fri, 18 Jun 2021 14:45:00 +0100",
+         "title" : "Prague Chess Festival, Round 5 - Live"
+      },
+      {
+         "description" : "The second leg of the 2021 Grand Chess Tour is taking place on June 18-22 at the Mobilier National in Paris. The event consists of two sections: a three-day single round robin with a rapid time control (25'+10\"), followed by a two-day double round robin with a blitz time control (5'+2\"). The action kicks off daily at 14.00 CEST (12.00 UTC, 08.00 ET) | Follow the games live! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Fri, 18 Jun 2021 13:55:00 +0100",
+         "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "2018 US Chess Champion Sam Shankland co-leads the Prague Masters on 3/4 with Azerbaijan's Nijat Abasov after defeating Jan-Krzysztof Duda and David Navara. The wins took Sam back above 2700 on the live rating list for the first time since October 2019. Jorden van Foreest has dipped under 2700 with four draws so far, but the player to really suffer in Prague is local hero Navara. He's been unrecognisable as he's sunk to four defeats in a row, dropping 20 rating points.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/shankland-returns-to-2700-club-in-prague-masters",
+         "pubDate" : "Fri, 18 Jun 2021 11:44:59 +0000",
+         "title" : "Shankland returns to 2700 club in Prague Masters"
+      },
+      {
          "description" : "In this year's Prague Chess Festival things do not go well for David Navara. In round 4 of the Masters he played against Nijat Abasov (pictured) and suffered his fourth loss in a row. Navara had an excellent position but first gave his advantage away and then lost on time. The other three games of the round ended in a draw. After four rounds Sam Shankland and Abasov now share the lead with 3.0/4 each. | Photo: Nijat Abasov (Vladimir Jagr)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-stefanova-cori",
-         "pubDate" : "Fri, 18 Jun 2021 02:49:06 -0700",
+         "pubDate" : "Fri, 18 Jun 2021 02:49:00 -0700",
          "title" : "Women's Speed Chess Championship: Stefanova Too Strong For Cori"
       },
       {
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Mongolian Chess Federation suspended for one year"
       },
       {
-         "description" : " Entry is free, the prize fun is expected to be at least &pound;1,200, and the winner qualifies for the 2022 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <span>Related: </span><a href=\"https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes\">Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes</a> <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-b",
+         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2022 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <span>Related: </span><a href=\"https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes\">Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes</a> <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/jun/18/chess-national-solving-championship-opens-for-entries-from-britain",
@@ -1264,14 +1288,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/",
          "pubDate" : "Fri, 11 Jun 2021 05:44:00 +0000",
          "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen will play the FIDE World Cup that starts in Sochi, Russia on July 12th, though as one of the Top 50 seeds he'll join from Round 2 on July 15th. Magnus last played in the 2017 World Cup, when he overpressed and got knocked out by Bu Xiangzhi in Round 3. Although Ian Nepomniachtchi and Wesley So have declined invitations the rest of the world Top 10, including world no. 2 Fabiano Caruana, defending champion Teimour Radjabov and losing finalist Ding Liren, are all set to play.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-plays-the-2021-world-cup",
-         "pubDate" : "Thu, 10 Jun 2021 18:30:43 +0000",
-         "title" : "Magnus Carlsen plays the 2021 World Cup"
       },
       {
          "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Irina Krush talks about her time dealing with the coronavirus, which still affects her today, if she has more power and ambition to win another U.S. women's champion title, and what her plans are for the future, involving an own YouTube channel.",
@@ -2552,30 +2568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
          "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
          "title" : "The ChessBase News Review (21.05 - 28.05)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1107",
-         "pubDate" : "Fri, 28 May 2021 12:09:09 +0000",
-         "title" : "Ahmed Adly and Jesse February win 2021 African Chess Championship"
-      },
-      {
-         "description" : "The European Hybrid World Cup Qualifier is a 288-player knockout tournament that takes place from 24-29 May. The top 36 qualifiy for the 2021 World Cup in Sochi, Russia. The players meet in various venues but the games are played online on Tornelo (Hybrid) and are supervised by an arbiter. After two rounds only 72 players remain and in round three they fight for the ticket to the World Cup. | Round 3.1 starts at 14:00 CEST (08:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-hybrid-qualification-live",
-         "pubDate" : "Fri, 28 May 2021 13:00:58 +0100",
-         "title" : "European Hybrid Qualification, Round 3.1 - live"
-      },
-      {
-         "description" : "Potentially Magnus Carlsen and Ian Nepomniachtchi will meet in the final of the FTX Crypto Cup as both contenders to the World Championship advanced to the semifinals after beating their rivals in blitz tiebreakers. Carlsen will face Teimour Radjabov in the semis, while Nepomniachtchi will play an undefeated Wesley So. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-5",
-         "pubDate" : "Fri, 28 May 2021 13:00:00 +0100",
-         "title" : "FTX Crypto Cup: Close calls"
       }
    ]
 }
