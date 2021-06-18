@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this year's Prague Chess Festival things do not go well for David Navara. In round 4 of the Masters he played against Nijat Abasov (pictured) and suffered his fourth loss in a row. Navara had an excellent position but first gave his advantage away and then lost on time. The other three games of the round ended in a draw. After four rounds Sam Shankland and Abasov now share the lead with 3.0/4 each. | Photo: Nijat Abasov (Vladimir Jagr)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-chess-festival-navara-loses-again",
+         "pubDate" : "Fri, 18 Jun 2021 12:11:06 +0100",
+         "title" : "Prague Chess Festival: Navara loses again"
+      },
+      {
+         "description" : "Our ChessBase Magazine subscribers recently received a particularly interesting offer: A theme tournament with Spyridos Kapnisis! \"Play the Author\" lets readers play against their favourite author in a round-robin tournament. Another attraction is the set opening that is played in each round. In this \"Play the Author\" episode, the Richter-Rauzer Variation in the Sicilian was played.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-spyridos-kapnisis",
+         "pubDate" : "Fri, 18 Jun 2021 11:00:00 +0100",
+         "title" : "Play the Author - Theme tournament with Spyridos Kapnisis"
+      },
+      {
+         "description" : "Former women&#39;s world champion GM Antoaneta Stefanova of Bulgaria defeated the Peruvian WGM Deysi Cori 16.5-6.5 in the FIDE Chess.com Women&#39;s Speed Chess Championship&#39;s round of 16. Stefanova was the winner in all three time controls. The next ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-stefanova-cori",
+         "pubDate" : "Fri, 18 Jun 2021 02:49:06 -0700",
+         "title" : "Women's Speed Chess Championship: Stefanova Too Strong For Cori"
+      },
+      {
+         "description" : " Last week, we started our examination of the pin, one of the first chess tactics a beginner learns. Today we'll finish looking at the pin and a few caveats to keep in mind when employing this tactic, or any tactic for that matter. In my previous article, we looked at the fundamentals of the pin. <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\">A Foundation for Beginners Twenty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-three/",
+         "pubDate" : "Fri, 18 Jun 2021 09:13:55 +0000",
+         "title" : "A Foundation for Beginners Twenty Three"
+      },
+      {
+         "description" : "The 2021 Superbet Chess Classic concluded on June 14 and Shakhriyar Mamedyarov (pictured) won with 6.0/9 (3 wins, 6 draws). FM Joshua Doknjas analyzes four games from the second half of the event, all of which contain interesting opening ideas. | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-2",
+         "pubDate" : "Fri, 18 Jun 2021 09:50:57 +0100",
+         "title" : "New Opening Ideas in Bucharest - Part 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1151",
+         "pubDate" : "Fri, 18 Jun 2021 07:48:25 +0000",
+         "title" : "FIDE Council decision on the suspension of the Mongolian Chess Federation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1150",
+         "pubDate" : "Fri, 18 Jun 2021 07:38:11 +0000",
+         "title" : "Mongolian Chess Federation suspended for one year"
+      },
+      {
          "description" : " Entry is free, the prize fun is expected to be at least &pound;1,200, and the winner qualifies for the 2022 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <span>Related: </span><a href=\"https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes\">Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes</a> <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-b",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/asia-themed-tour-event/",
          "pubDate" : "Thu, 17 Jun 2021 14:03:13 +0100",
          "title" : "Asia-themed tour event"
-      },
-      {
-         "description" : "After three rounds Sam Shankland is the sole leader in the Masters tournament at the Prague Chess Festival. With 2.5/3 he is half a point ahead of Nijat Abasov and Radoslaw Wojtaszek, but in round 4 Shankland plays with Black against Wojtaszek and has to defend his lead. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
-         "pubDate" : "Thu, 17 Jun 2021 14:00:00 +0100",
-         "title" : "Prague Chess Festival, Round 4 - Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimag",
@@ -831,7 +879,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-3",
          "pubDate" : "Sun, 13 Jun 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 30: To exchange or not to exchange (2)"
+         "title" : "Understanding before Moving 31: To exchange or not to exchange (3)"
       },
       {
          "description" : "The Main Event of the FIDE Chess.com Women&#39;s Speed Chess Championship started with a surprise as IM Bibisara Assaubayeva eliminated GM Humpy Koneru. The Kazakh number-three player beat the female world number-three 14.5-7.5. The live broadcast o...",
@@ -1930,14 +1978,6 @@ news_feed (
          "title" : "Vidit Gujrathi qualifies for chess World Cup"
       },
       {
-         "description" : "When Ferdinand Maumo (10) walked inside the chess club in the slum of Makoko, his peers started making fun of him. Born with cerebral palsy, Ferdinand is a quiet boy whose condition and poor background deprived him of an education, friends and the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-cerebral-palsy-ferdinand-maumo-nigeria",
-         "pubDate" : "Thu, 03 Jun 2021 02:44:00 -0700",
-         "title" : "Nigerian Child With Cerebral Palsy Becomes Chess Superstar"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,14 +2192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
          "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (47)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-47/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (47)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-47/",
-         "pubDate" : "Tue, 01 Jun 2021 09:01:19 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (47)"
       },
       {
          "description" : "In the duel between bishop and knight it is often the knight which is too slow. However, one should not underestimate knights - they are versatile and often surprisingly quick, e.g. in the diagram position. Can the black knight play on both wings to help Black win the game?",
