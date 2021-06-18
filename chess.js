@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. 2021.06.17<br /> Laurent Fressinet vs Magnus Carlsen, World Blitz Championship (2014): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1759253\">https://www.chessgames.com/perl/chessgame?gid=1759253</a><br /> David J Eggleston vs Vladimir Fedoseev, Abu Dhabi Masters (2016): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1828963\">https://www.chessgames.com/perl/chessgame?gid=1828963</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros-lichessorg",
+         "pubDate" : "Fri, 18 Jun 2021 01:18:30 +0000",
+         "title" : "The Shocking Brooklyn | Grandmaster's Choice - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews Shakhriyar Mamedyarov's games from the 2021 Superbet Chess Classic in Romania. The Azeri went on a three-game winning streak en route to winning the event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarovs-superbet-win-streak-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a-5GasBjpQU.jpg?itok=wIt5nyXK\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarovs-superbet-win-streak-games-week-gm-denes-boros",
+         "pubDate" : "Fri, 18 Jun 2021 01:18:30 +0000",
+         "title" : "Mamedyarov's Superbet Win Streak! | Games of the Week - GM Denes Boros"
+      },
+      {
          "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -386,14 +402,6 @@ news_feed (
          "title" : "Junior bursaries announced for Northumbria Masters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 16 Jun 2021 01:16:49 +0000",
-         "title" : "Heavy Piece Carlsbad Endgames | Insane in the Endgame - GM Denes Boros | lichess.org"
-      },
-      {
          "description" : "After Slovakian Grandmaster Jergus Pechac showed the spirit of majestic sportsmanship during the European Hybrid Qualification Tournament for the FIDE World Cup 2021, FIDE President decided to provide him a wild card for Sochi. An interesting situation arose at the&#160;European Hybrid Qualification Tournament&#160;in the game between the Israeli chess star GM Boris Gelfand (ISR, 2676) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -432,14 +440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/david-smerdon-introduces-the-fighting-chess-index",
          "pubDate" : "Tue, 15 Jun 2021 23:00:00 +0100",
          "title" : "David Smerdon introduces the Fighting Chess Index"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. All medal winners will receive Free Entry into &quot;Summer Slam Bash&quot; (online) on 6/23. All players are entered into a Raffle (held on 6/23) for a free one Hour GM Lesson via Skype. Full details: <a href=\"https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585\">https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585</a> 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidde",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby-chesscom",
-         "pubDate" : "Tue, 15 Jun 2021 19:16:46 +0000",
-         "title" : "The Road to 2000 Championship V | Road to 2000 - NM Caleb Denby | Chess.com"
       },
       {
          "description" : "American chess organizer, international arbiter, and chess writer Carol Jarecki died on Sunday, June 13 at the age of 86 after losing a battle to cancer. An arbiter at world championship matches in New York in 1990 and 1995, Jarecki will be sorely...",
@@ -2528,14 +2528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-5",
          "pubDate" : "Fri, 28 May 2021 13:00:00 +0100",
          "title" : "FTX Crypto Cup: Close calls"
-      },
-      {
-         "description" : " The Gloomy Fate and Romantic Chess of Arthur Towle Marriott : Fabrizio Zavatarelli From the publisher: Biography of prominent Nottingham chess-player (1859-1884). Biography contents 156 annotated games with comments mostly from contemporary sources. A. T. Marriott played chess with many contemporary chess players of this time, e.g. Blackburne, Freeborough, MacDonnell, Thorold, etc. I won't quote <a href=\"http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Gloomy Fate and Romantic Chess of Arthur Towle Marriott</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a r",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/28/the-gloomy-fate-and-romantic-chess-of-arthur-towle-marriott/",
-         "pubDate" : "Fri, 28 May 2021 00:10:59 +0000",
-         "title" : "The Gloomy Fate and Romantic Chess of Arthur Towle Marriott"
       }
    ]
 }
