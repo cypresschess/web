@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Entry is free, the prize fun is expected to be at least &pound;1,200, and the winner qualifies for the 2022 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <span>Related: </span><a href=\"https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes\">Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes</a> <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-b",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jun/18/chess-national-solving-championship-opens-for-entries-from-britain",
+         "pubDate" : "Fri, 18 Jun 2021 07:00:04 +0000",
+         "title" : "Chess: National solving championship opens for entries from Britain"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83627213.cms\" /></a>The last week has been eventful for D Gukesh --- the second youngest Grandmaster in the history of chess. The 15-year-old not only got a wild card for the FIDE World Cup to be held next month in Sochi, but also qualified for the Goldmoney Asian Rapid --- the next leg of the Champions Chess Tour --- after reigning supreme at the Gelfand Challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms",
+         "pubDate" : "Fri, 18 Jun 2021 11:11:04 +0530",
+         "title" : "Can't wait to be part of Goldmoney Asian Rapid: Gukesh"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros is amused by openings named for cities, but Brooklyn needs some love! See why and how to play the Brooklyn variation of the Alekhine Defense, where the knight retreats back home to g8 on the second move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/undevelop-shocking-brooklyn-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/undevelop-shocking-brooklyn-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Fri, 18 Jun 2021 04:18:28 +0000",
+         "title" : "Undevelop? The Shocking Brooklyn! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. 2021.06.17<br /> Laurent Fressinet vs Magnus Carlsen, World Blitz Championship (2014): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1759253\">https://www.chessgames.com/perl/chessgame?gid=1759253</a><br /> David J Eggleston vs Vladimir Fedoseev, Abu Dhabi Masters (2016): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1828963\">https://www.chessgames.com/perl/chessgame?gid=1828963</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros",
          "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
          "title" : "Heavy Piece Carlsbad Endgames | Insane in the Endgame - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
-         "title" : "Dear Magnus... | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "GM&#38;nbsp;Kirill Shevchenko, the 18-year-old grandmaster from Ukraine, won Titled Tuesday on June 15 for his first-ever win in the event. His 10/11 score took the tournament outright. In second with 9.5/11 was GM Alexander Zubov on tiebreaks over th...",
