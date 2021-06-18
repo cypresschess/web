@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-1",
+         "pubDate" : "Fri, 18 Jun 2021 23:15:00 +0100",
+         "title" : "Paris Rapid & Blitz: An entertaining first day of action"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1152",
+         "pubDate" : "Fri, 18 Jun 2021 20:46:01 +0000",
+         "title" : "WSCC 2021: Nana Dzagnidze squeezes into quarterfinals"
+      },
+      {
+         "description" : "The&#160;FIDE World Chess Cup 2021&#160;will take place in Sochi, starting July 10, 2021. Out of&#160;206 players&#160;taking part in FIDE World Cup 2021, a large portion earned their spots through Continental events, allowed to be organized in hybrid or online formats. This is the first time in the history of chess that the World Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-chess-cup-2021-participants-list/",
+         "pubDate" : "Fri, 18 Jun 2021 20:32:56 +0000",
+         "title" : "FIDE World Chess Cup 2021 - Participants list"
+      },
+      {
+         "description" : "The second event in the 2021 Grand Chess Tour started on Friday with the first day of rapid in the Paris Rapid &#38;amp; Blitz. After three rounds, there&#39;s a four-way tie among GMs Levon Aronian, Ian Nepomniachtchi, Wesley So, and Peter Svidler. GM Al...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-18th-birthday-paris-rapid-blitz-grand-chess-tour",
+         "pubDate" : "Fri, 18 Jun 2021 12:58:00 -0700",
+         "title" : "Firouzja Turns 18 As Paris Rapid & Blitz Grand Chess Tour Gets Underway"
+      },
+      {
          "description" : "The last Monday of June is approaching, and with it comes the next edition of Chess Done Quick. This time, Chess.com invites top chess streamers to pull out the big guns and give their best in a bullet speed run to snatch their share of the $12,00...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-announces-chess-done-quick-bullet-edition",
-         "pubDate" : "Fri, 18 Jun 2021 11:38:08 -0700",
+         "pubDate" : "Fri, 18 Jun 2021 11:38:00 -0700",
          "title" : "Chess.com Announces Chess Done Quick Bullet Edition On June 28"
-      },
-      {
-         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Full report to follow shortly. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Fri, 18 Jun 2021 18:05:00 +0100",
-         "title" : "Paris Rapid & Blitz - Games and results"
       },
       {
          "description" : "In this Power Play Show GM Daniel King looks at some attacking games from the Gelfand Challenge, an online rapid round-robin tournament with 20 of the world's best juniors that was won by the Indian Gukesh D. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "ChessBase Magazine #201: Carlsen under pressure - A review by Nagesh Havanur"
       },
       {
-         "description" : "After the Grand Chess Tour was canceled altogether in 2020 due to the coronavirus pandemic, it returns in 2021. The first tournament is the Superbet Chess Classic starting on Saturday. This standard (classical) tournament is the first top event ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-grand-chess-tour-superbet-chess-classic",
-         "pubDate" : "Fri, 04 Jun 2021 05:24:00 -0700",
-         "title" : "Grand Chess Tour Returns With Superbet Chess Classic"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r11",
          "pubDate" : "Thu, 03 Jun 2021 14:00:00 +0100",
          "title" : "Gibraltar GP: Lagno qualifies to the Candidates"
-      },
-      {
-         "description" : "The African Continental Women Champion&#160;Jesse Nikki February&#160;will be the guest in FM Calvin Klaasen's show \"Reflections\" this&#160;Thursday at 19:00 CEST.&#160;Follow it live here. FM Calvin Klaasen is a professional chess player/coach from South Africa. FM Klaasen is the South Africa National Champion for 2017 and has played in multiple Chess Olympiads. He is playing and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-calvin-klaasen-live-interview-with-african-champion-jesse-niki-february-thursday-at-1900-cest/",
-         "pubDate" : "Thu, 03 Jun 2021 12:01:00 +0000",
-         "title" : "FM Calvin Klaasen - live interview with African Champion Jesse Niki February, Thursday at 19:00 CEST"
       },
       {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" /></a>Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
@@ -2544,22 +2552,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-round-1.html",
          "pubDate" : "Sat, 29 May 2021 00:35:00 +0000",
          "title" : "2021 ACT Chess Championship - Round 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1108",
-         "pubDate" : "Fri, 28 May 2021 21:45:43 +0000",
-         "title" : "Harika Dronavalli wins Qualifier I"
-      },
-      {
-         "description" : " An invasion of insects sparked losing errors from Ian Nepomniachtchi against Wesley So in their semi-final An invasion of mosquitoes defeated Russia's world title challenger Ian Nepomniachtchi on Friday evening when his online opponent, the US champion Wesley So, was only looking for a draw. It was the first four-game set (of two) of a semi-final between the grandmaster pair. They had drawn the first three, and it seemed the match would go into Saturday's second session at 2-2. The other semi-final between Magnus Carlsen, the world champion, and Teimour Radjabov, of Azerbaijan, was level before a two-day final on Sunday and Monday. <span>Related: </span><a href=\"https://www.theguardian.com/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
-         "pubDate" : "Fri, 28 May 2021 21:33:13 +0000",
-         "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
       }
    ]
 }
