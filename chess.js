@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last Monday of June is approaching, and with it comes the next edition of Chess Done Quick. This time, Chess.com invites top chess streamers to pull out the big guns and give their best in a bullet speed run to snatch their share of the $12,00...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-announces-chess-done-quick-bullet-edition",
+         "pubDate" : "Fri, 18 Jun 2021 11:38:08 -0700",
+         "title" : "Chess.com Announces Chess Done Quick Bullet Edition On June 28"
+      },
+      {
+         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Full report to follow shortly. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Fri, 18 Jun 2021 18:05:00 +0100",
+         "title" : "Paris Rapid & Blitz - Games and results"
+      },
+      {
+         "description" : "In this Power Play Show GM Daniel King looks at some attacking games from the Gelfand Challenge, an online rapid round-robin tournament with 20 of the world's best juniors that was won by the Indian Gukesh D. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-attacking-play",
+         "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Test your attacking play"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Watch the event June 18-22! Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour. Through the support of KasparovChess, Vivendi, and Colliers International, Paris hosts the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Eleven elite grandmasters will compete in 9 rounds of rapid chess and 18 rounds of blitz chess for a total prize fund of $150,000. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-preview",
+         "pubDate" : "Fri, 18 Jun 2021 16:19:07 +0000",
+         "title" : "2021 Paris Grand Chess Tour: Preview"
+      },
+      {
          "description" : "After four rounds Sam Shankland and Nijat Abasov lead the Masters tournament at the Prague Chess Festival with 3.0/4 each and in round 5 they play against each other - Shankland has the white pieces. David Navara, who started the tournament with four losses, plays against Thai Dan Van Nguyen. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
          "pubDate" : "Fri, 18 Jun 2021 14:45:00 +0100",
          "title" : "Prague Chess Festival, Round 5 - Live"
-      },
-      {
-         "description" : "The second leg of the 2021 Grand Chess Tour is taking place on June 18-22 at the Mobilier National in Paris. The event consists of two sections: a three-day single round robin with a rapid time control (25'+10\"), followed by a two-day double round robin with a blitz time control (5'+2\"). The action kicks off daily at 14.00 CEST (12.00 UTC, 08.00 ET) | Follow the games live! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Fri, 18 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Live!"
       },
       {
          "description" : "2018 US Chess Champion Sam Shankland co-leads the Prague Masters on 3/4 with Azerbaijan's Nijat Abasov after defeating Jan-Krzysztof Duda and David Navara. The wins took Sam back above 2700 on the live rating list for the first time since October 2019. Jorden van Foreest has dipped under 2700 with four draws so far, but the player to really suffer in Prague is local hero Navara. He's been unrecognisable as he's sunk to four defeats in a row, dropping 20 rating points.",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Prague Chess Festival: Navara loses again"
       },
       {
-         "description" : "Our ChessBase Magazine subscribers recently received a particularly interesting offer: A theme tournament with Spyridos Kapnisis! \"Play the Author\" lets readers play against their favourite author in a round-robin tournament. Another attraction is the set opening that is played in each round. In this \"Play the Author\" episode, the Richter-Rauzer Variation in the Sicilian was played.",
+         "description" : "Our ChessBase Magazine subscribers recently received a particularly interesting offer: a theme tournament with Spyridos Kapnisis! \"Play the Author\" lets readers play against their favourite author in a round-robin tournament. Another attraction is the set opening that is played in each round. In this \"Play the Author\" episode, the Richter-Rauzer Variation in the Sicilian was the chosen setup.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-spyridos-kapnisis",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
          "title" : "The Road to 2000 Championship V | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dissects two major piece endgames by Anatoly Karpov and Harry Nelson Pillsbury from the Carlsbad pawn structure. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0RUWVUBNjog.jpg?itok=O2LT43ZN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/heavy-piece-carlsbad-endgames-insane-endgame-gm-denes-boros",
-         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
-         "title" : "Heavy Piece Carlsbad Endgames | Insane in the Endgame - GM Denes Boros"
       },
       {
          "description" : "GM&#38;nbsp;Kirill Shevchenko, the 18-year-old grandmaster from Ukraine, won Titled Tuesday on June 15 for his first-ever win in the event. His 10/11 score took the tournament outright. In second with 9.5/11 was GM Alexander Zubov on tiebreaks over th...",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "Magnus Carlsen beats Wesley So at third attempt amid copycat draw gripes"
       },
       {
-         "description" : "Chess.com is excited to announce the 2021 Junior Speed Chess Championship presented by ChessKid. Starting on June 7, the most talented chess prodigies on the planet will clash to claim their piece of the highest prize fund for this event to date: ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2021-jscc",
-         "pubDate" : "Thu, 03 Jun 2021 16:07:00 -0700",
-         "title" : "Chess.com Announces The 2021 Junior Speed Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2552,22 +2560,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/may/28/chess-carlsen-in-danger-until-blitz-skills-see-him-into-crypto-cup-semi-finals",
          "pubDate" : "Fri, 28 May 2021 21:33:13 +0000",
          "title" : "Chess: Mosquitos attack Russia's world title challenger in $220,000 semi-final"
-      },
-      {
-         "description" : "In this Power Play Show by GM Daniel King the Kalashnikov and a fine game from the FTX Crypto Cup are on the menu. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-kalashnikov-strikes",
-         "pubDate" : "Fri, 28 May 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Kalashnikov strikes"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week we talk about the newest Fritz & Chesster project, and take a detailed look at the Gibraltar Grand Prix, and the FTX Crypto Cup + Analysis of two games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-8",
-         "pubDate" : "Fri, 28 May 2021 17:00:00 +0100",
-         "title" : "The ChessBase News Review (21.05 - 28.05)"
       }
    ]
 }
