@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Day 1 of the Rapid portion of <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">this Grand Chess Tour event</a> started today. In the first round Peter Svidler won a very long game against Maxime Vachier-Lagrave on the white side of a <em>very</em> closed French, and Etienne Bacrot - who played three decisive games out of three - defeated Richard Rapport's eccentric hybrid of a Caro-Kann and the North Sea Defense. In round 2 Rapport lost again, again with Black, but this time playing a conventional opening. Wesley So won a nice game against him on the white side of a Nimzo-Indian, finishing with some nice tactics. Bacrot switched colors and results, losing wi",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/18/paris-rapid-blitz-kicks-off.html",
+         "pubDate" : "Sat, 19 Jun 2021 01:23:54 +0000",
+         "title" : "Paris Rapid & Blitz Kicks Off"
+      },
+      {
+         "description" : " GM Pentala Harikrishna is an established elite player who has been in India's Olympiad team for over two decades. Since November 2016 Harikrishna has often entered the top 10 of the world rankings, and has consistently stayed in the top 20. His peak rating is 2770 and he is well known for his exceptional endgame <a href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beating the French Defense with 3.Nc3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\">Beating the French Defense wit",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/",
+         "pubDate" : "Sat, 19 Jun 2021 00:10:12 +0000",
+         "title" : "Beating the French Defense with 3.Nc3"
+      },
+      {
          "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes"
       },
       {
-         "description" : " This rapid &amp; blitz event, part of the 2021 Grand Chess Tour, takes place in Zagreb, Croatia from July 6-11. Maxime Vachier-Lagrave, Alexander Grischuk, Shakhriyar Mamedyarov, and Anish Giri are participating as full tour players; Garry Kasparov, Viswanathan Anand, Ian Nepomniachtchi, Ivan Saric, Jan-Krzysztof Duda, Anton Korobov, and Jorden Van Foreest are participating as wildcards. Nine of the eleven players are participating in both events; unfortunately, Kasparov is only playing in the blitz, leaving Saric to take his place in the rapid. Based on his performances in recent years, Kasparov is unlikely to do very well unless he will have spent more time preparing than usual. He's sure",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/11/kasparov-and-anand-to-play-the-croatia-grand-prix.html",
-         "pubDate" : "Fri, 11 Jun 2021 06:15:01 +0000",
-         "title" : "Kasparov and Anand to Play the Croatia Grand Prix"
-      },
-      {
          "description" : "The&#160;third&#160;ECU Board meeting in 2021 took place on&#160;Wednesday&#160;9th&#160;of June&#160;through teleconference.&#160; ECU Board discussed the reports of European Online and Hybrid Competitions,&#160;which were&#160;organized from March to May 2021 and expresses its satisfaction with the level and results of the events.&#160;For the European Hybrid Qualifier Tournament, ECU thanks National Chess Federations, who went to great lengths to organize the venues&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2544,14 +2552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gruenfeld-disaster",
          "pubDate" : "Sat, 29 May 2021 09:00:00 +0100",
          "title" : "Gruenfeld disaster"
-      },
-      {
-         "description" : " The 2021 ACT Chess Championship has moved from it's traditional Canberra Day long weekend (in March), to the Reconciliation Day long weekend (in May). On the one hand this has seen a big increase in entries (52 players), but on the other, a few of the stronger players have had to give it a miss due to university exams. With a large field, the chances of first round upsets was diminished, and in fact there were none in the first round. The top sees went 23-0, although Fred Litchfield had to work hard to overcome a determined James Minogue. Cam Cunningham was another who put up a good fight (against WFM Alana Chibnall), but his habitual time trouble once again caused problems. The results fro",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-round-1.html",
-         "pubDate" : "Sat, 29 May 2021 00:35:00 +0000",
-         "title" : "2021 ACT Chess Championship - Round 1"
       }
    ]
 }
