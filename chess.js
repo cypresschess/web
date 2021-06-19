@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two more players qualified for the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship on Saturday. First,&#38;nbsp;GM Lei Tingjie (China) defeated WGM Vaishali R. (India) and in the second match, GM Anna Muzychuk beat IM Iulija Osmak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lei-tingjie-anna-muzychuk",
+         "pubDate" : "Sat, 19 Jun 2021 13:17:00 -0700",
+         "title" : "Women's Speed Chess Championship: Lei Tingjie, Anna Muzychuk Advance"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1154",
+         "pubDate" : "Sat, 19 Jun 2021 20:15:18 +0000",
+         "title" : "WSCC2021: Lei Tingjie and Anna Muzychuk are in Quarters"
+      },
+      {
          "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-2",
-         "pubDate" : "Sat, 19 Jun 2021 11:10:19 -0700",
+         "pubDate" : "Sat, 19 Jun 2021 11:10:00 -0700",
          "title" : "Paris Rapid & Blitz Grand Chess Tour: Three-Way Tie With More Exciting Chess"
       },
       {
@@ -1778,14 +1794,6 @@ news_feed (
          "title" : "FIDE Online Arena Now Has an iOS App. Hmmm"
       },
       {
-         "description" : "Last-minute substitute GM Bogdan-Daniel Deac had a great start at the Superbet Chess Classic. After missing a win in the first round, he beat GM Maxime Vachier-Lagrave the next day. Deac leads with GM Fabiano Caruana, who beat GM Constantin Lupule...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-2-deac",
-         "pubDate" : "Mon, 07 Jun 2021 03:10:00 -0700",
-         "title" : "Superbet Chess Classic: Deac Beats MVL, Leads With Caruana"
-      },
-      {
          "description" : "When you play 1.d4, one of the most common openings that you will encounter is the King's Indian Defence. After 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 how do continue? GM Jan Werle of the Netherlands suggests 5.f3 - the Saemisch Variation. Guess what: you can also use the same antidote against the Benoni! Jan, who has published a ChessBase DVD on the subject, shows you how this works - in this video stream with ChessBase India. It is the perfect 1&frac12; lesson to build your understanding of this opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2536,30 +2544,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/",
          "pubDate" : "Sun, 30 May 2021 00:10:59 +0000",
          "title" : "The Chess Endgame Exercise Book"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1111",
-         "pubDate" : "Sat, 29 May 2021 20:38:04 +0000",
-         "title" : "Round 7: Black is more than OK"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1110",
-         "pubDate" : "Sat, 29 May 2021 20:05:49 +0000",
-         "title" : "Vaishali R. wins Qualifier II"
-      },
-      {
-         "description" : "In his latest column, Siegfried Hornecker writes about the work of judges in endgame studies tournaments. He first introduces how computers have also made their way into this field, before noting that, however, \"it will always be down to an individual judge, or a panel of judges, to finally evaluate a composition\". | Pictured: Clifford E. Berry and the Atanasoff-Berry Computer, or ABC, c. 1942 | Photo: Iowa State University",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-05",
-         "pubDate" : "Sat, 29 May 2021 21:00:00 +0100",
-         "title" : "A judge's rant to the awards galaxy"
       }
    ]
 }
