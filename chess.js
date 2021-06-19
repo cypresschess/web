@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
+         "pubDate" : "Sat, 19 Jun 2021 18:26:19 +0000",
+         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
+      },
+      {
+         "description" : "After another day of exciting chess, GM Fabiano Caruana, GM Ian Nepomniachtchi, and GM Wesley So are sharing the lead at the Paris Rapid &#38;amp; Blitz tournament. One more day of rapid will follow and then two days of blitz. How to watch?The gam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-2",
+         "pubDate" : "Sat, 19 Jun 2021 11:10:19 -0700",
+         "title" : "Paris Rapid & Blitz Grand Chess Tour: Three-Way Tie With More Exciting Chess"
+      },
+      {
          "description" : " There are two reasons why I am showing the following game. 1) It has a nice mate and 2) I am testing how this blog handles newer pgn file formats (** Update: It did not work as expected, which is a bit of shame as I had annotated this one) <br /> <br /> <b>Steinkuehler, Guenter - Blackburne, Joseph Henry [C54]</b><br />London, 1863 <script>new PgnViewer( { boardName: \"game1253\", movesFormat: \"default\", pgnString:'1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nfxd2 Nxd4 9. O-O d6 10. Nb3 Nxb3 11. Qxb3 O-O 12. Re1 Nh5 13. e5 Qg5 14.exd6 Nf4 15. Bxf7+ Kh8 16. g3 cxd6 17. Nc3 Nh3+ 18. Kg2 Qf6 19. Bd5 Qxf2+ 20.Kh1 Qg1+ 21. Rxg1 Nf2+ 22. Kg2 Bh3# 0-1', pauseBetw",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1706,14 +1722,6 @@ news_feed (
          "title" : "Bishop vs pawns"
       },
       {
-         "description" : "KIND ATTENTION ALL THE PLAYERS REGISTERED FOR NATIONAL UNDER-18 OPEN &#38; GIRLS ONLINE CHESS CHAMPIONSHIP-2021 The Tornelo link for the championship is forwarded to your",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/important-notice-for-players-registered-for-national-u-18/",
-         "pubDate" : "Tue, 08 Jun 2021 03:19:18 +0000",
-         "title" : "IMPORTANT NOTICE FOR PLAYERS REGISTERED FOR NATIONAL U-18"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1127",
          "pubDate" : "Sun, 06 Jun 2021 13:46:37 +0000",
          "title" : "Gulnar Mammadova wins Qualifier VI"
-      },
-      {
-         "description" : "The Superbet Chess Classic, the first leg of the 2021 Grand Chess Tour, began on Saturday with draws on all five boards. GM Anish Giri lived dangerously in his game with GM Bogdan-Daniel Deac but survived in the end. How to watch?The games of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-1",
-         "pubDate" : "Sun, 06 Jun 2021 01:24:00 -0700",
-         "title" : "Superbet Chess Classic: Giri Escapes In Peaceful Opening Round"
       },
       {
          "description" : " I've played two rather similar endings online recently. Both started off with bishop against knight before the minor pieces were traded off into a pawn ending. I was very lucky to win both games after my opponents, with not a lot of time on the clock, went wrong. In the first game I was black <a href=\"https://chessimprover.com/two-instructive-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Two Instructive Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/two-instructive-endings/\">Two Instructive Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2560,22 +2560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-2021-05",
          "pubDate" : "Sat, 29 May 2021 21:00:00 +0100",
          "title" : "A judge's rant to the awards galaxy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1109",
-         "pubDate" : "Sat, 29 May 2021 18:29:13 +0000",
-         "title" : "Shamsiddin Vokhidov wins Asian Hybrid Championship"
-      },
-      {
-         "description" : " Magnus Carlsen and Wesley So are to meet in the final of the FTX Crypto Cup after defeating Teimour Radjabov and Ian Nepomniachtchi in the semifinals. This is the third time on the Meltwater Champions Chess Tour that they've met in the final, So beat Carlsen both in the Skilling Open and the Opera Euro Rapid, they also met in the third-fourth playoff of the Magnus Carlsen invitational where Carlsen won. Wesley So is undefeated in the FTX Crypto Cup thus far. Wesley So survived a testing game one of the second set as black against the English. So thought Nepomniachtchi must have missed a win, it seems 26.Bxd4? was the moment So was out of danger, 26.Qd3 is the move recommended by computers b",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-wesley-so-meet-in-the-final-of-the-ftx-crypto-cup",
-         "pubDate" : "Sat, 29 May 2021 20:51:00 +0400",
-         "title" : "Carlsen and Wesley So meet in the final of the FTX Crypto Cup - Day 7"
       }
    ]
 }
