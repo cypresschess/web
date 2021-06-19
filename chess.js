@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja celebrated his 18th birthday in Paris on Friday, but not everything went to plan. After missed chances in the first two games he was beaten by Teimour Radjabov, who had started the day with a 10th non-game in a row but was suddenly spurred into action by losing to Maxime Vachier-Lagrave. No-one managed to blow away the field on the first day, with Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler all leading on 4/6 after scoring one win and two draws.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-1-firouzja-s-birthday-blues",
+         "pubDate" : "Sat, 19 Jun 2021 10:19:10 +0000",
+         "title" : "Paris Rapid & Blitz 1: Firouzja's birthday blues"
+      },
+      {
+         "description" : "&#8212; from the Guardian website &#8212; https://www.theguardian.com/sport/2021/jun/19/uk-to-stage-inclusive-chessfest-in-londons-trafalgar-square [image courtesy of the Guardian]",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Sat, 19 Jun 2021 09:07:07 +0000",
+         "title" : "ChessFest in London's Trafalgar Square"
+      },
+      {
+         "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/daniel-weil-renown-architect-on-the-world-chess-set-design/",
+         "pubDate" : "Sat, 19 Jun 2021 08:51:49 +0000",
+         "title" : "Daniel Weil, Renown Architect, on the World Chess Set Design"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1153",
+         "pubDate" : "Sat, 19 Jun 2021 08:43:37 +0000",
+         "title" : "Shortlist for Yuri Averbakh/Isaac Boleslavsky Award announced"
+      },
+      {
+         "description" : "Georgia&#39;s GM Nana Dzagnidze beat U.S. GM Irina Krush on Friday in the round of 16 of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Krush managed to win the final regular bullet game on demand, but then lost three bullet games in a row ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-womens-speed-chess-championship-dzagnidze-krush",
+         "pubDate" : "Sat, 19 Jun 2021 01:18:00 -0700",
+         "title" : "Women's Speed Chess Championship: Dzagnidze Beats Krush In Tiebreak"
+      },
+      {
+         "description" : "In the past, chess has been employed both as a mathematical metaphor and adapted as a method of penetrating the secrets of the universe. An early and celebrated instance appears in an episode from Dante's Paradiso, where he interrogates his guide about the number of angels in the heavens. More recently, as we shall see, Professor []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-and-the-mathematics-of-heaven/",
+         "pubDate" : "Sat, 19 Jun 2021 08:00:51 +0000",
+         "title" : "Chess and the mathematics of Heaven"
+      },
+      {
          "description" : "A far advanced passed pawn supported by his queen can be an irresistible force. In the diagram position it is White to play and win!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +66,12 @@ news_feed (
          "title" : "Paris Rapid & Blitz Kicks Off"
       },
       {
-         "description" : " GM Pentala Harikrishna is an established elite player who has been in India's Olympiad team for over two decades. Since November 2016 Harikrishna has often entered the top 10 of the world rankings, and has consistently stayed in the top 20. His peak rating is 2770 and he is well known for his exceptional endgame <a href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beating the French Defense with 3.Nc3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\">Beating the French Defense wit",
+         "description" : " &#8220;GM Pentala Harikrishna is an established elite player who has been in India's Olympiad team for over two decades. Since November 2016 Harikrishna has often entered the top 10 of the world rankings, and has consistently stayed in the top 20. His peak rating is 2770 and he is well known for his exceptional endgame <a href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the French Defense with 3.Nc3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\">Beat the French Defense wi",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/",
          "pubDate" : "Sat, 19 Jun 2021 00:10:12 +0000",
-         "title" : "Beating the French Defense with 3.Nc3"
+         "title" : "Beat the French Defense with 3.Nc3"
       },
       {
          "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Photo: Lennart Ootes",
@@ -64,6 +112,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-announces-chess-done-quick-bullet-edition",
          "pubDate" : "Fri, 18 Jun 2021 11:38:00 -0700",
          "title" : "Chess.com Announces Chess Done Quick Bullet Edition On June 28"
+      },
+      {
+         "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/engines/",
+         "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0000",
+         "title" : "How To Use Chess Engines - So They Do Not Use You"
       },
       {
          "description" : "In this Power Play Show GM Daniel King looks at some attacking games from the Gelfand Challenge, an online rapid round-robin tournament with 20 of the world's best juniors that was won by the Indian Gukesh D. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1298,14 +1354,6 @@ news_feed (
          "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
       },
       {
-         "description" : "American phenom GM Awonder Liang shone with a perfect start in the Gelfand Challenge, racing out to a 5-0 score and leading the pack of 20 of the world's best young chess talents. The second event of the $100,000 Julius Baer Challengers Chess Tour kicked off with high-paced action right out of its gates, seeing only 12 total draws across 50 games in a fighting first day of the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gelfand-challenge-1-awonder-s-stunning-start",
-         "pubDate" : "Fri, 11 Jun 2021 09:16:29 +0000",
-         "title" : "Gelfand Challenge Day 1: Awonder's stunning start"
-      },
-      {
          "description" : "The top 50 of the Fighting Chess Index, introduced by Australian grandmaster and economist David Smerdon, has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Class...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1832,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/act-interschool-2021.html",
          "pubDate" : "Sat, 05 Jun 2021 13:20:00 +0000",
          "title" : "ACT Interschool 2021"
-      },
-      {
-         "description" : "Streamer Ludwig, Youtuber NM Kurt Hugo Schneider, and streaming GM Krikor Mekhitarian won their matches in the inaugural Winner Stays event on Chess.com. We&#39;ll see the trio return next month facing new opponents. The first edition of the new Win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ludwig-schneider-mekhitarian-winner-stays",
-         "pubDate" : "Sat, 05 Jun 2021 05:29:00 -0700",
-         "title" : "Ludwig, Schneider, Mekhitarian 'Stay' In Inaugural Winner Stays Event"
       },
       {
          "description" : "The 2021 African Continental Championships were held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
@@ -2536,30 +2576,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-championship-rds-2.html",
          "pubDate" : "Sat, 29 May 2021 13:18:00 +0000",
          "title" : "2021 ACT Championship Rds 2&3"
-      },
-      {
-         "description" : "Going into the only rest day at the Women's Grand Prix event in Gibraltar, Zhansaya Abdumalik and Mariya Muzychuk (pictured) are sharing the lead on 4&frac12;/6 points. The co-leaders drew their direct encounter in round 6, much like Kateryna Lagno, who is the only player trailing by a half point. As per the current standings, the Russian is the favourite to get a spot in the Candidates via the Grand Prix. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r6",
-         "pubDate" : "Sat, 29 May 2021 11:25:00 +0100",
-         "title" : "Gibraltar GP: Abdumalik and Muzychuk share the lead"
-      },
-      {
-         "description" : "The Western Roman Empire fell definitively in 476AD, when the barbarian Germanic King Odoacer deposed the last Western Emperor Romulus Augustulus and despatched the imperial insignia to the Emperor of the East, Flavius Zeno. The Eastern Empire then went on to survive for a further 977 years under the guise of the Byzantine or Greek []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/did-roman-emperors-play-chess/",
-         "pubDate" : "Sat, 29 May 2021 08:00:47 +0000",
-         "title" : "Did Roman Emperors play chess?"
-      },
-      {
-         "description" : "White has misplayed the opening (six moves with the queen!), and in the diagram position Black's huge delevopment advantage is just crying out to be exploited. How did Black (MVL) proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gruenfeld-disaster",
-         "pubDate" : "Sat, 29 May 2021 09:00:00 +0100",
-         "title" : "Gruenfeld disaster"
       }
    ]
 }
