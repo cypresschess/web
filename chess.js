@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There are two reasons why I am showing the following game. 1) It has a nice mate and 2) I am testing how this blog handles newer pgn file formats (** Update: It did not work as expected, which is a bit of shame as I had annotated this one) <br /> <br /> <b>Steinkuehler, Guenter - Blackburne, Joseph Henry [C54]</b><br />London, 1863 <script>new PgnViewer( { boardName: \"game1253\", movesFormat: \"default\", pgnString:'1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nfxd2 Nxd4 9. O-O d6 10. Nb3 Nxb3 11. Qxb3 O-O 12. Re1 Nh5 13. e5 Qg5 14.exd6 Nf4 15. Bxf7+ Kh8 16. g3 cxd6 17. Nc3 Nh3+ 18. Kg2 Qf6 19. Bd5 Qxf2+ 20.Kh1 Qg1+ 21. Rxg1 Nf2+ 22. Kg2 Bh3# 0-1', pauseBetw",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/classical-hack.html",
+         "pubDate" : "Sat, 19 Jun 2021 14:14:00 +0000",
+         "title" : "Classical hack"
+      },
+      {
+         "description" : "With the World Cup just around the corner, players from all over the world are fighting to get a spot in the event scheduled to take place next month in Sochi. Diana Mihajlova tells us all about the Zonal Tournaments that were played in Asia and Canada.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-and-canadian-zonals-2021",
+         "pubDate" : "Sat, 19 Jun 2021 15:10:00 +0100",
+         "title" : "Winners of the Asian and Canadian Zonals qualify to the World Cup"
+      },
+      {
+         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Follow the games live! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Sat, 19 Jun 2021 13:55:00 +0100",
+         "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
          "description" : "Alireza Firouzja celebrated his 18th birthday in Paris on Friday, but not everything went to plan. After missed chances in the first two games he was beaten by Teimour Radjabov, who had started the day with a 10th non-game in a row but was suddenly spurred into action by losing to Maxime Vachier-Lagrave. No-one managed to blow away the field on the first day, with Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler all leading on 4/6 after scoring one win and two draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Shortlist for Yuri Averbakh/Isaac Boleslavsky Award announced"
       },
       {
-         "description" : "Georgia&#39;s GM Nana Dzagnidze beat U.S. GM Irina Krush on Friday in the round of 16 of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Krush managed to win the final regular bullet game on demand, but then lost three bullet games in a row ...",
+         "description" : "Georgia&#39;s GM Nana Dzagnidze beat U.S. GM Irina Krush on Friday in the round of 16 of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Krush managed to win the final regular bullet game on demand but then lost three bullet games in a row i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-womens-speed-chess-championship-dzagnidze-krush",
@@ -2552,30 +2576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-wesley-so-meet-in-the-final-of-the-ftx-crypto-cup",
          "pubDate" : "Sat, 29 May 2021 20:51:00 +0400",
          "title" : "Carlsen and Wesley So meet in the final of the FTX Crypto Cup - Day 7"
-      },
-      {
-         "description" : "On the first day of the FTX Crypto Cup semifinals, Wesley So beat Ian Nepomniachtchi by winning game 4 after having agreed to three draws. Meanwhile, world champion Magnus Carlsen and Teimour Radjabov traded blows in games 3 and 4, which means their match is tied going into day 2 of the semis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-day-6",
-         "pubDate" : "Sat, 29 May 2021 15:15:00 +0100",
-         "title" : "FTX Crypto Cup: So wins, Carlsen draws"
-      },
-      {
-         "description" : " It is one of the most frustrating feelings in chess. You play a great game, but then you get into time trouble and one wrong decision costs you the full point. Even though you played more good moves than your opponent, you end up losing the game. It certainly feels unfair, but that is how [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/time-trouble/\">How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/time-trouble/",
-         "pubDate" : "Sat, 29 May 2021 14:00:00 +0000",
-         "title" : "How To Avoid Time Trouble In Chess: 5 Tips To Improve Your Results"
-      },
-      {
-         "description" : " The 2021 ACT Chess Championship is almost at the halfway point, with 4 players sharing the lead on 3/3. IM Junta Ikeda is still undefeated after beating Adian de Noskowsi and WFM Alana Chibnall, and he is joined by Fred Litchfield, CM Hui Li, and Malik Amer. Tomorrow mornings pairings see Ikeda play Amer, and Li play Litchfield. There is another group of players on 2.5/3, who are also looking to make a run tomorrow. Two of those players (Miles Patterson and Sankeerten Badrinarayan) played one the tournaments more interesting games, which you can see <a href=\"http://tournaments.streetchess.net/actchampionship2021/livegames/index.html\">here</a>. The tournament has 2 more days to run, with rou",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-championship-rds-2.html",
-         "pubDate" : "Sat, 29 May 2021 13:18:00 +0000",
-         "title" : "2021 ACT Championship Rds 2&3"
       }
    ]
 }
