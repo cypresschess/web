@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A far advanced passed pawn supported by his queen can be an irresistible force. In the diagram position it is White to play and win!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dream-team",
+         "pubDate" : "Sat, 19 Jun 2021 09:00:00 +0100",
+         "title" : "Dream team"
+      },
+      {
          "description" : " Day 1 of the Rapid portion of <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">this Grand Chess Tour event</a> started today. In the first round Peter Svidler won a very long game against Maxime Vachier-Lagrave on the white side of a <em>very</em> closed French, and Etienne Bacrot - who played three decisive games out of three - defeated Richard Rapport's eccentric hybrid of a Caro-Kann and the North Sea Defense. In round 2 Rapport lost again, again with Black, but this time playing a conventional opening. Wesley So won a nice game against him on the white side of a Nimzo-Indian, finishing with some nice tactics. Bacrot switched colors and results, losing wi",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
