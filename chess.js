@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-g",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-2",
+         "pubDate" : "Sat, 19 Jun 2021 22:20:27 +0000",
+         "title" : "2021 Paris Grand Chess Tour: Day 2"
+      },
+      {
          "description" : "Two more players qualified for the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship on Saturday. First,&#38;nbsp;GM Lei Tingjie (China) defeated WGM Vaishali R. (India) and in the second match, GM Anna Muzychuk beat IM Iulija Osmak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
       },
       {
-         "description" : "After another day of exciting chess, GM Fabiano Caruana, GM Ian Nepomniachtchi, and GM Wesley So are sharing the lead at the Paris Rapid &#38;amp; Blitz tournament. One more day of rapid will follow and then two days of blitz. How to watch?The gam...",
+         "description" : "After another day of exciting chess, GM Fabiano Caruana, GM Ian Nepomniachtchi, and GM Wesley So are sharing the lead at the Paris Rapid &#38;amp; Blitz tournament. One more day of rapid will follow and next will be two days of blitz. How to watch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-2",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1147",
          "pubDate" : "Wed, 16 Jun 2021 20:06:58 +0000",
          "title" : "Harika brings down Kosteniuk to reach quarterfinals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hosts a live seven round G/3 tournament on Chess.com. All medal winners will receive Free Entry into &quot;Summer Slam Bash&quot; (online) on 6/23. All players are entered into a Raffle (held on 6/23) for a free one Hour GM Lesson via Skype. Full details: <a href=\"https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585\">https://saintlouischessclub.org/civicrm/event/info?reset=1&amp;id=11585</a> 2021.06.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidde",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/road-2000-championship-v-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 16 Jun 2021 19:17:13 +0000",
-         "title" : "The Road to 2000 Championship V | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "GM&#38;nbsp;Kirill Shevchenko, the 18-year-old grandmaster from Ukraine, won Titled Tuesday on June 15 for his first-ever win in the event. His 10/11 score took the tournament outright. In second with 9.5/11 was GM Alexander Zubov on tiebreaks over th...",
