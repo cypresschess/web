@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 32nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks whether \"to trade or not to trade\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-32-to-trade-or-not-to-trade",
+         "pubDate" : "Sun, 20 Jun 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 32: To trade or not to trade"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/34ZZT-09p8w\" width=\"320\" youtube-src-id=\"34ZZT-09p8w\"></iframe></div><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/this-is-too-good-to-ignore.html",
+         "pubDate" : "Sun, 20 Jun 2021 13:19:00 +0000",
+         "title" : "This is too good to ignore"
+      },
+      {
+         "description" : "Fabiano Caruana, Ian Nepomniachtchi and Wesley So go into the third day of action in the Paris Rapid & Blitz Tournament sharing the lead on 7/10 points. After 3 more rounds of rapid chess on Sunday, 18 rounds of blitz will decide who gets the title in France's capital. | Follow the games live! | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Sun, 20 Jun 2021 13:55:00 +0100",
+         "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1155",
+         "pubDate" : "Sun, 20 Jun 2021 12:51:24 +0000",
+         "title" : "Three-way tie on the top after Day 2"
+      },
+      {
          "description" : "Ian Nepomniachtchi was the first player to take the sole lead in the Paris Rapid & Blitz after taking down Levon Aronian with a beautiful combination in Round 5, but in the very next round he spoilt a great opening position before falling for a stunning final move from Maxime Vachier-Lagrave. Maxime had suffered himself earlier in the day, playing 1.b3 before losing a rook endgame to his compatriot and second Etienne Bacrot. The day ended with Fabiano Caruana, Nepo and Wesley So tied for the lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-and-canadian-zonals-2021",
          "pubDate" : "Sat, 19 Jun 2021 15:10:00 +0100",
          "title" : "Winners of the Asian and Canadian Zonals qualify to the World Cup"
-      },
-      {
-         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Follow the games live! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Sat, 19 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Live!"
       },
       {
          "description" : "Alireza Firouzja celebrated his 18th birthday in Paris on Friday, but not everything went to plan. After missed chances in the first two games he was beaten by Teimour Radjabov, who had started the day with a 10th non-game in a row but was suddenly spurred into action by losing to Maxime Vachier-Lagrave. No-one managed to blow away the field on the first day, with Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler all leading on 4/6 after scoring one win and two draws.",
@@ -2472,54 +2496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1113",
          "pubDate" : "Sun, 30 May 2021 20:45:04 +0000",
          "title" : "Qualifier III: Third time's a charm for Assaubayeva"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83089692.cms\" /></a> India's R Vaishali on Sunday won the women's Speed chess online championship qualifier 2, beating Polina Shuvalova of Russia in the final. The 20-year-old from Chennai, a woman Grandmaster, became the second Indian to qualify for the main event of the 2021 women's Speed Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-speed-chess-championship-qualifier-2/articleshow/83089692.cms",
-         "pubDate" : "Sun, 30 May 2021 20:50:56 +0530",
-         "title" : "Vaishali wins Speed Chess Championship Qualifier 2"
-      },
-      {
-         "description" : " Magnus Carlsen won the first game of the FTX Crypto Cup final but Wesley So equalised in game three and thus the players shared the first set 2-2 on the first day of the final. These were the only two games of any note on the day as Carlsen really didn't try with the white pieces in game 2 and took a draw by repetition - the players repeated exactly the same moves in game 4. Carlsen later claimed that he was feeling ill but his use of the short draw with the white pieces straight after a win has been a regular tactic of his. So also admitted to trouble sleeping last night before the match. The match for the 3rd-4th places between Ian Nepomniachtchi and Teimour Radjabov saw four short conten",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-and-so-level-after-day-1-of-the-ftx-crypto-cup-but-story-of-short-draws-dominates-the-day",
-         "pubDate" : "Sun, 30 May 2021 19:12:00 +0400",
-         "title" : "Carlsen and So level after day 1 of the FTX Crypto Cup but story of short draws dominates the day - Day 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1112",
-         "pubDate" : "Sun, 30 May 2021 14:53:05 +0000",
-         "title" : "36 European players qualify for FIDE World Cup"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 29th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about good and bad bishops and wonders which pieces to exchange and which pieces to keep on the board. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-29-to-exchange-or-not-to-exchange",
-         "pubDate" : "Sun, 30 May 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 29: To exchange or not to exchange"
-      },
-      {
-         "description" : " IM Junta Ikeda is now the outright leader of the 2021 ACT Chess Championship, with 5 wins from 5 games. He won an exciting game against 2nd seed Fred Litchfield in the 5th round, leaving him a point ahead of the pack. The win was even more noteworthy as Ikeda played with the black pieces, due to a misunderstanding about the pairings. This started when Litchfield won his 4th round game against CM Hui Li after Li failed to appear before the forfeit time. Going into the 5th round Ikeda and Litchfield were the only players on 4 points, and knew they should play each other. However they assumed that Litchfield was to be white (based on their respective colour history), overlooking that defaulted",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-rds-4-5-aka.html",
-         "pubDate" : "Sun, 30 May 2021 13:13:00 +0000",
-         "title" : "2021 ACT Chess Championship Rds 4 & 5 (AKA not my best day as an arbiter)"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83087372.cms\" /></a>Grandmaster P Iniyan won the Indian qualifiers event - played online - to book a place in the World Cup on Sunday. The premier event, to be held in Sochi, Russia from July 10, will be the 18-year-old's maiden World Cup. \"I never thought I would win this event since the field was super strong. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms",
-         "pubDate" : "Sun, 30 May 2021 18:14:25 +0530",
-         "title" : "Iniyan qualifies for FIDE World Cup"
       }
    ]
 }
