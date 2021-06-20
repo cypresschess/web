@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After two days of the Rapid portion of the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">Paris</a> leg of the Grand Chess Tour, there are three leaders: Fabiano Caruana, Ian Nepomniachtchi, and Wesley So, each with 3.5/6 - or rather, with 7/12. (The rapid games count double, while the blitz games coming after the rapid finishes tomorrow will count in the usual 1-.5-0 way.) So's sole win came on day 1. Caruana's came today, against Peter Svidler, but he was worse much of the way. The win only came into view when Svidler made big errors on moves 36 and 37. And Nepo won yesterday and then again today in round 5 in good style against Levon Aronian. That game ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/20/paris-rapid-day-2-three-leaders.html",
+         "pubDate" : "Sun, 20 Jun 2021 06:26:26 +0000",
+         "title" : "Paris Rapid, Day 2: Three Leaders"
+      },
+      {
+         "description" : " My good friend and former colleague at Richmond Junior Chess Club, Ray Cannon, has just published a book which I think you might find interesting. It's called Battle of Endgames: 1066 Stratagems for you to Conquer and comprises you've guessed it 1066 endgame puzzles. In each case there's just one move that will <a href=\"https://chessimprover.com/battle-of-endgames-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Battle of Endgames: 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/battle-of-endgames-1/\">Battle of Endgames: 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/battle-of-endgames-1/",
+         "pubDate" : "Sun, 20 Jun 2021 05:08:43 +0000",
+         "title" : "Battle of Endgames: 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-g",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "2021 NSW Open - Live Coverage"
       },
       {
-         "description" : " Per usual, a Romanian player - Constantin Lupulescu again - was involved in the day's decisive games, but for the second time in the tournament a non-Romanian was involved in one of the decisive games. Wesley So made Anish Giri defend for a long time, but was unable to win. Knight and four pawns vs. knight and three pawns is typically winning for the strong side, but because Black had 48...g5 available at the start of the ending it was objectively drawn. Good \"d\" by Giri. Alexander Grischuk won convincingly on the white side of a Classical Sicilian against Lupulescu. His preparation was good, and his opponent's wasn't. A surprisingly easy win for White. Maxime Vachier-Lagrave seemed to mix ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/11/superbet-chess-classic-round-6-mamedyarov-grischuk-win-lead.html",
-         "pubDate" : "Fri, 11 Jun 2021 23:58:15 +0000",
-         "title" : "Superbet Chess Classic, Round 6: Mamedyarov & Grischuk Win, Lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "Game of the Week: V. Keymer vs V. Laznicka"
       },
       {
-         "description" : " The Rauzer attack against the Sicilian Dragon (1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 followed by 0-0-0 and a kingside pawn advance) is one of two major systems against the Sicilian pioneered by Vsevolod Alfredovich Rauzer; the other one was the Richter-Rauzer attack against the Classical system <a href=\"https://chessimprover.com/rip-em-with-the-rauzer/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Rip 'em with the Rauzer\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/rip-em-with-the-rauzer/\">Rip 'em with the Rauzer</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/rip-em-with-the-rauzer/",
-         "pubDate" : "Wed, 02 Jun 2021 15:10:18 +0000",
-         "title" : "Rip 'em with the Rauzer"
-      },
-      {
          "description" : "Nearly one hour video training. Plus 23 extensively analysed games by Jan-Krzysztof Duda, Yu Yangyi, Krishnan Sasikiran, Spyridon Kapnisis, Romain Edouard, Sury Vaibhav and Tanmay Srinath. ChessBase Magazine Extra is the perfect addition to ChessBase Magazine and can also be obtained by subscription (6 issues per year). Available on DVD or as a download.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2528,14 +2528,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-posts-a-chess-problem/",
          "pubDate" : "Sun, 30 May 2021 10:19:46 +0000",
          "title" : "Rustam Kasimdzhanov Posts a Chess Problem"
-      },
-      {
-         "description" : "The final knockout round of the European Hybrid Qualification Chess Tournament took place from 28-29 May. The games were played on Tornelo Online platform with 72 players fighting for 36 FIDE World Cup spots. 21 players qualified after two games-match classical time control, while 15 matches proceeded to tiebreak games. After the tiebreaker rapid mini matches and three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/36-players-qualified-for-world-chess-cup/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/36-players-qualified-for-world-chess-cup/",
-         "pubDate" : "Sun, 30 May 2021 05:51:56 +0000",
-         "title" : "36 players qualified for FIDE World Chess Cup"
       }
    ]
 }
