@@ -2536,14 +2536,6 @@ news_feed (
          "link" : "https://www.europechess.org/36-players-qualified-for-world-chess-cup/",
          "pubDate" : "Sun, 30 May 2021 05:51:56 +0000",
          "title" : "36 players qualified for FIDE World Chess Cup"
-      },
-      {
-         "description" : " The Chess Endgame Exercise Book : John Nunn John Nunn has written around thirty books on chess, many of these being some of the finest published in any language : Secrets of Pawnless Endings (1994, Batsford) for example, is easily a candidate for the all time list. John is a director of Gambit Publications Ltd. together <a href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Endgame Exercise Book</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/\">The Chess Endgame Exercise Book</a> appe",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/30/the-chess-endgame-exercise-book/",
-         "pubDate" : "Sun, 30 May 2021 00:10:59 +0000",
-         "title" : "The Chess Endgame Exercise Book"
       }
    ]
 }
