@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi was the first player to take the sole lead in the Paris Rapid & Blitz after taking down Levon Aronian with a beautiful combination in Round 5, but in the very next round he spoilt a great opening position before falling for a stunning final move from Maxime Vachier-Lagrave. Maxime had suffered himself earlier in the day, playing 1.b3 before losing a rook endgame to his compatriot and second Etienne Bacrot. The day ended with Fabiano Caruana, Nepo and Wesley So tied for the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-2-blunders-brilliancies",
+         "pubDate" : "Sun, 20 Jun 2021 08:57:31 +0000",
+         "title" : "Paris Rapid & Blitz 2: Blunders & Brilliancies"
+      },
+      {
+         "description" : "Mediterranean Chess Championship 2021&#160;and&#160;European School Chess Individual Cup 2021 kicked off yesterday in Petrovac, Montenegro. The events are simultaneously played in Hotel Palas, with participation of 128 players from 20 countries in the Mediterranean Chess Championship. The events were officially opened by ECU President, Mr. Zurab Azmaiparashvili who addressed all the players during the Opening ceremony which took&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mediterranean-chess-championship-kicked-off/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mediterranean-chess-championship-kicked-off/",
+         "pubDate" : "Sun, 20 Jun 2021 07:52:55 +0000",
+         "title" : "Mediterranean Chess Championship kicked off"
+      },
+      {
          "description" : " After two days of the Rapid portion of the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">Paris</a> leg of the Grand Chess Tour, there are three leaders: Fabiano Caruana, Ian Nepomniachtchi, and Wesley So, each with 3.5/6 - or rather, with 7/12. (The rapid games count double, while the blitz games coming after the rapid finishes tomorrow will count in the usual 1-.5-0 way.) So's sole win came on day 1. Caruana's came today, against Peter Svidler, but he was worse much of the way. The win only came into view when Svidler made big errors on moves 36 and 37. And Nepo won yesterday and then again today in round 5 in good style against Levon Aronian. That game ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -39,7 +55,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1154",
          "pubDate" : "Sat, 19 Jun 2021 20:15:18 +0000",
-         "title" : "WSCC2021: Lei Tingjie and Anna Muzychuk are in Quarters"
+         "title" : "Lei Tingjie and Anna Muzychuk advance into quarterfinals"
       },
       {
          "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
@@ -1298,14 +1314,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Grischuk, Mamedyarov Strike Again"
       },
       {
-         "description" : "Indian star GM Rameshbabu Praggnanandhaa has blasted into the lead of the Gelfand Challenge, scoring a perfect 5/5 on Friday in the second event of the Julius Baer Challengers Chess Tour. Now at the tournament's halfway point, Pragg is tied for the lead at 8/10 with Uzbekistan GM Nodirbek Abdusattorov, who was one of several players to notch four wins on Friday and stay in front of a furious pace set by 20 of the world's best next-generation talents.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gelfand-challenge-day-2-perfect-pragg-joins-abdusattorov-in-halfway-lead",
-         "pubDate" : "Sat, 12 Jun 2021 06:39:49 +0000",
-         "title" : "Gelfand Challenge Day 2: Perfect Pragg joins Abdusattorov in halfway lead"
-      },
-      {
          "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2512,22 +2520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-qualifies-for-fide-world-cup/articleshow/83087372.cms",
          "pubDate" : "Sun, 30 May 2021 18:14:25 +0530",
          "title" : "Iniyan qualifies for FIDE World Cup"
-      },
-      {
-         "description" : " The European Hybrid Qualification tournament took place on Tornelo 24th to 30th May to 2021. The event was a three round knockout aimed at cutting the 264 strong field down to 36 qualifiers. Leading players by rating: Vladislav Artemiev, Evgeny Tomashevsky, Andrey Esipenko, Kirill Alekseenko, David Navara, Alexandr Predke, Maxim Matlakov, Vladimir Fedoseev, Boris Gelfand, David Anton Guijarro, Ferenc Berkes, Pavel Eljanov, Nils Grandelius, Matthias Bluebaum, Ivan Cheparinov, Sanan Sjugirov, Sanan Donchenko Alexander, Constantin Lupulescu, Ernesto Inarkiev, Grigoriy Oparin, Aleksandr Rakhmanov, Alexey Sarana, Evgeniy Najer, Aleksey Dreev, Viktor Laznicka and Sergei Movsesian. There was a fin",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-hybrid-qualification-2021",
-         "pubDate" : "Sun, 30 May 2021 15:02:00 +0400",
-         "title" : "European Hybrid Qualification 2021 - "
-      },
-      {
-         "description" : " Rustam Kasimdzhanov, a former FIDE World Champion himself, is one of the most famous chess coaches - he was on Vishy Anand's side when he was #1 in the world, and was Fabiano Caruana's second during Fabi's bid for the title in 2018. Rustam posted a chess problem during his Masterclass with World Chess. Listen to the problem and share your response in the comments section. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/HBHlXp4nfpY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\"><a href=\"https://masterclass.worldchess.com/\">Masterclass</a> is a series of seminars for World Chess subscribers.</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-posts-a-chess-problem/",
-         "pubDate" : "Sun, 30 May 2021 10:19:46 +0000",
-         "title" : "Rustam Kasimdzhanov Posts a Chess Problem"
       }
    ]
 }
