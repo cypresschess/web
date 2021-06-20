@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sam Shankland reached the final round of the Prague Masters Tournament with a half-point lead over Radoslaw Wojtaszek and Jan-Krzysztof Duda. The American grandmaster was still busy with his game against Jorden van Foreest when Duda had already overtaken him in the standings thanks to a win over Wojtaszek. Shankland only needed a draw, but his opponent was desperate to win. The curse turned into a blessing when Van Foreest blundered: Shankland won and thus became the undisputed tournament winner. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shankland-wins-prague-masters-2021",
+         "pubDate" : "Sun, 20 Jun 2021 23:05:00 +0100",
+         "title" : "Shankland wins Prague Masters after dramatic final round"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Open</strong> <a href=\"http://www.uschess.org/tournaments/2021/usopen/\">can take place</a> between 31 July and 8 August in Cherry Hill near Philadelphia. The venue hotel is already booked out. While the players are required to wear masks, participants of the <strong>US Chess</strong> governance meetings are not since all of them are supposed to be fully vaccinated. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/us-chess-comes-together/",
+         "pubDate" : "Sun, 20 Jun 2021 22:37:52 +0100",
+         "title" : "US Chess comes together"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1157",
+         "pubDate" : "Sun, 20 Jun 2021 20:49:58 +0000",
+         "title" : "Wesley So grabs the lead after rapid portion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1156",
+         "pubDate" : "Sun, 20 Jun 2021 20:08:08 +0000",
+         "title" : "Hou Yifan sails into the quarterfinals"
+      },
+      {
          "description" : "A comment in the previous column prompted Jon Speelman to share with the readers which players he considers to be the best to have ever lived. He starts with Bobby Fischer, whom he characterizes as having \"precise power\"; and with Anatoly Karpov - \"deft control\". Chime in your thoughts in the comments section and, if you like, characterize your favourite players' styles in a couple of words! | Artwork: Unknown (via Quora)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +912,6 @@ news_feed (
          "link" : "https://chessimprover.com/tales-from-the-club-2/",
          "pubDate" : "Tue, 15 Jun 2021 09:00:29 +0000",
          "title" : "Tales from the Club (2)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The culture foundation <strong>Katara</strong> and the <strong>Qatar Chess Federation</strong> <a href=\"https://www.katara.net/en/whats-on/events/katara-international-chess-tournament-2021\">sponsor a $12,800 bullet</a> (1 minute per player and game) tournament on <strong>Lichess</strong> with qualifiers on 20 June and a 16 players-k.o. on 23 June into which the 2020 winner <strong>Magnus Carlsen</strong> is seated. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-headlines-bullet-open/",
-         "pubDate" : "Tue, 15 Jun 2021 09:40:46 +0100",
-         "title" : "Carlsen headlines bullet open"
       },
       {
          "description" : "The diagram position is complicated and extremely sharp. Both sides have dangerous passed pawns which the knights might or might not stop. However, it was Black to move and he had a way to win. But in the game Black failed to find the winning move - can you do better?",
@@ -2480,22 +2504,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/",
          "pubDate" : "Mon, 31 May 2021 00:10:19 +0000",
          "title" : "Marvelous Modern Miniatures"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1114",
-         "pubDate" : "Sun, 30 May 2021 21:17:54 +0000",
-         "title" : "Round 8: Zhansaya Abdumalik stretches her lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1113",
-         "pubDate" : "Sun, 30 May 2021 20:45:04 +0000",
-         "title" : "Qualifier III: Third time's a charm for Assaubayeva"
       }
    ]
 }
