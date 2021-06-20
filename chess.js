@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A comment in the previous column prompted Jon Speelman to share with the readers which players he considers to be the best to have ever lived. He starts with Bobby Fischer, whom he characterizes as having \"precise power\"; and with Anatoly Karpov - \"deft control\". Chime in your thoughts in the comments section and, if you like, characterize your favourite players' styles in a couple of words! | Artwork: Unknown (via Quora)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-148",
+         "pubDate" : "Sun, 20 Jun 2021 18:10:00 +0100",
+         "title" : "Mirror mirror on the wall..."
+      },
+      {
+         "description" : "European Women Individual Chess Championship 2021 will take place from 8-21 August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-championship-2021/",
+         "pubDate" : "Sun, 20 Jun 2021 16:58:17 +0000",
+         "title" : "European Women Chess Championship 2021"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 32nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks whether \"to trade or not to trade\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,20 @@ news_feed (
          "title" : "Understanding before Moving 32: To trade or not to trade"
       },
       {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/34ZZT-09p8w\" width=\"320\" youtube-src-id=\"34ZZT-09p8w\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/this-is-too-good-to-ignore.html",
-         "pubDate" : "Sun, 20 Jun 2021 13:19:00 +0000",
-         "title" : "This is too good to ignore"
+         "description" : " The Paris Rapid & Blitz is part of the Grand Chess Tour and take place 18th to 22nd June 2021. 9 rounds of rapid and followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
+         "pubDate" : "Sun, 20 Jun 2021 17:43:00 +0400",
+         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
       },
       {
-         "description" : "Fabiano Caruana, Ian Nepomniachtchi and Wesley So go into the third day of action in the Paris Rapid & Blitz Tournament sharing the lead on 7/10 points. After 3 more rounds of rapid chess on Sunday, 18 rounds of blitz will decide who gets the title in France's capital. | Follow the games live! | Photo: Bryan Adams",
+         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Full report to follow shortly. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
          "pubDate" : "Sun, 20 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Live!"
+         "title" : "Paris Rapid & Blitz - Games and results"
       },
       {
          "description" : "",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1155",
          "pubDate" : "Sun, 20 Jun 2021 12:51:24 +0000",
          "title" : "Three-way tie on the top after Day 2"
+      },
+      {
+         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. The first round of knockout matches has been completed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
+         "pubDate" : "Sun, 20 Jun 2021 15:22:00 +0400",
+         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "Ian Nepomniachtchi was the first player to take the sole lead in the Paris Rapid & Blitz after taking down Levon Aronian with a beautiful combination in Round 5, but in the very next round he spoilt a great opening position before falling for a stunning final move from Maxime Vachier-Lagrave. Maxime had suffered himself earlier in the day, playing 1.b3 before losing a rook endgame to his compatriot and second Etienne Bacrot. The day ended with Fabiano Caruana, Nepo and Wesley So tied for the lead.",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
          "pubDate" : "Thu, 17 Jun 2021 22:13:00 +0400",
          "title" : "Goldmoney Asian Rapid 2021 - "
-      },
-      {
-         "description" : " The Paris Rapid & Blitz is part of the Grand Chess Tour and take place 18th to 22nd June 2021. 9 rounds of rapid and followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
-         "pubDate" : "Thu, 17 Jun 2021 22:05:00 +0400",
-         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
       },
       {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new and aggressive idea that helps Black to spice up things up in the Queen's Gambit Accepted. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1034,7 +1050,7 @@ news_feed (
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
       },
       {
-         "description" : " The 3rd Prague International Chess Festival takes place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Jan Krzysztof Duda, Jorden Van Foreest, David Navara, Radoslaw Wojtaszek, Sam Shankland, Nils Grandelius, Nijat Abasov and Nguyen Thai Dai Van.",
+         "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/3rd-prague-international-chess-festival-2021",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-1.html",
          "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0000",
          "title" : "2021 NSW Open - Day 1"
-      },
-      {
-         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
-         "pubDate" : "Sat, 12 Jun 2021 15:22:00 +0400",
-         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-womens-team-championship-2021/",
          "pubDate" : "Thu, 03 Jun 2021 20:20:53 +0000",
          "title" : "FIDE World Women's Team Championship 2021"
-      },
-      {
-         "description" : "Zhansaya Abdumalik won the final leg of the FIDE Women's Grand Prix held in Gibraltar. Abdumalik had a final score of 8.5/11 points to be 1.5 points ahead of the runner-ups. Second in the tournament was Mariya Muzychuk on 7 points, with Kateryna Lagno sharing third with&#160;Gunay Mammadzada&#160;of Azerbaijan, who had a fine tournament. Cumulative []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-wins-fide-womens-grand-prix-gibraltar-with-a-round-to-spare/",
-         "pubDate" : "Thu, 03 Jun 2021 19:37:00 +0000",
-         "title" : "Abdumalik wins FIDE Women's Grand Prix Gibraltar; Koneru and Lagno qualify for Candidates"
       },
       {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at the old main line (Be2 & Be3) of the Sicilian Taimanov, which often leads to fascinating games full of fun and tactical blows. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
