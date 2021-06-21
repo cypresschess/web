@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Arzum Turkish Women's Championship took place from 13-19 June in Corum Turkey. The event was played in 7 rounds, Swiss system, with participation of 32 players and time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. After 7 played rounds, IM Ekaterina Atalik convincingly won []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ekaterina-atalik-wins-turkish-womens-chess-championship-2021/",
+         "pubDate" : "Mon, 21 Jun 2021 14:41:46 +0000",
+         "title" : "Ekaterina Atalik wins Turkish Women's Chess Championship 2021"
+      },
+      {
+         "description" : " I've been looking into the topic of tie-break systems again, and one of the challenges is how to define the difficulty of the field. Opinions on this seemed to be split pretty evenly, so I am interested in what other people think or prefer. Here are the general choices A) The more points my opponents score, the harder the field is for me (eg Buccholz) B) The higher my opponents ratings are, the harder the field (eg Average of Opponents Ratings) C) The earlier I hit the lead, the stronger my opponents will be (eg Sum of Progressive Scores) D) If I have more games with Black, then the tougher it is to win (eg Most games with Black) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
+         "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
+         "title" : "Tie-breaks"
+      },
+      {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Follow the games live! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,12 @@ news_feed (
          "title" : "Queens' Festival winners - Europe"
       },
       {
-         "description" : "In what is her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. ...",
+         "description" : "In her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. The next...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-hou-yifan-joins-mammadova",
-         "pubDate" : "Mon, 21 Jun 2021 00:59:39 -0700",
-         "title" : "Women's Speed Chess Championship: Hou Yifan Joins Quaterfinalists"
+         "pubDate" : "Mon, 21 Jun 2021 00:59:00 -0700",
+         "title" : "Women's Speed Chess Championship: Hou Yifan Joins Quarterfinalists"
       },
       {
          "description" : "GM Wesley So is leading the Paris Rapid &#38;amp; Blitz tournament after nine rounds of rapid chess. The American grandmaster is one point ahead of GM Ian Nepomniachtchi, who played a brilliant sacrifice in the ninth round. GM Etienne Bacrot, who will...",
@@ -168,6 +184,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-2-blunders-brilliancies",
          "pubDate" : "Sun, 20 Jun 2021 08:57:31 +0000",
          "title" : "Paris Rapid & Blitz 2: Blunders & Brilliancies"
+      },
+      {
+         "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-prague-international-chess-festival-2021",
+         "pubDate" : "Sun, 20 Jun 2021 12:57:00 +0400",
+         "title" : "3rd Prague International Chess Festival 2021 - Games and Results"
       },
       {
          "description" : "Mediterranean Chess Championship 2021&#160;and&#160;European School Chess Individual Cup 2021 kicked off yesterday in Petrovac, Montenegro. The events are simultaneously played in Hotel Palas, with participation of 128 players from 20 countries in the Mediterranean Chess Championship. The events were officially opened by ECU President, Mr. Zurab Azmaiparashvili who addressed all the players during the Opening ceremony which took&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mediterranean-chess-championship-kicked-off/\">Read More &#187;</a></span>",
@@ -1136,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1145",
          "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
-      },
-      {
-         "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-prague-international-chess-festival-2021",
-         "pubDate" : "Mon, 14 Jun 2021 12:57:00 +0400",
-         "title" : "3rd Prague International Chess Festival 2021 - Games and Results"
       },
       {
          "description" : "India's youngest billionaire Nikhil Kamath blundered a pawn on move 1 but then went on to crush 5-time World Chess Champion Vishy Anand in a \"Checkmate COVID\" charity simul. Nikhil said afterwards that he just got lucky, while the World Champion politely noted, \"Today was not the chess of people who just know how the pieces move\". Outrage followed, with Nikhil eventually admitting computer and other help, though his apology implied Vishy was aware his opponent was going to have assistance. The Indian legend made it clear he wasn't.",
@@ -2138,14 +2154,6 @@ news_feed (
          "title" : "Iulija Osmak wins Qualifier IV"
       },
       {
-         "description" : "The FIDE World Women's Team Championship 2021 will take place from September 26 to October 3 in the city of Sitges. This coastal town&#160;in Spain's Catalonia region hosted 8 editions of an important chess open &#8220;Sunway Sitges Chess&#8221;. Now, for the first time, Sitges will organize an official FIDE event. The event will feature 12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-womens-team-championship-2021/",
-         "pubDate" : "Thu, 03 Jun 2021 20:20:53 +0000",
-         "title" : "FIDE World Women's Team Championship 2021"
-      },
-      {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at the old main line (Be2 & Be3) of the Sicilian Taimanov, which often leads to fascinating games full of fun and tactical blows. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2448,38 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1115",
          "pubDate" : "Mon, 31 May 2021 17:19:17 +0000",
          "title" : "Eight American players qualify for 2021 FIDE World Cup"
-      },
-      {
-         "description" : "The Grand Chess Tour is back - and the tour begins on Thursday, 3 June 2021 with an over-the-board classical tournament in Bukarest. Ten top players take part, the top seeds are Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, and Wesley So. After the end of the tournament on 15 June, the players travel to Paris to take part in a Rapid & Blitz tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-grand-chess-tour-2021-begins-with-tournaments-in-bukarest-and-paris",
-         "pubDate" : "Mon, 31 May 2021 15:00:00 +0100",
-         "title" : "The Grand Chess Tour 2021 begins - with tournaments in Bukarest and Paris"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/career-spans-of-chess-players-are-getting-shortened-anand/articleshow/83116572.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83116572.cms\" /></a>Five-time world chess champion Viswanathan Anand on Monday said that the career span of players has become shorter than earlier times because of the high level of hard work arising out of intense competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/career-spans-of-chess-players-are-getting-shortened-anand/articleshow/83116572.cms",
-         "pubDate" : "Mon, 31 May 2021 19:17:21 +0530",
-         "title" : "Career spans of chess players are getting shortened: Anand"
-      },
-      {
-         "description" : "Thanks to back-to-back wins in rounds 7 and 8, Zhansaya Abdumalik is now leading the standings of the Women's Grand Prix in Gibraltar by a full point over closest pursuers Gunay Mammadzada and Mariya Muzychuk. Mammadzada is making a strong impression on the Rock, as she collected three consecutive victories in rounds 6-9, coincidentally over the three Russian participants. Follow the games of round 9 live with commentary. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r8",
-         "pubDate" : "Mon, 31 May 2021 14:45:00 +0100",
-         "title" : "Gibraltar GP: Abdumalik a full point ahead"
-      },
-      {
-         "description" : " IM Junta Ikeda has won his 7th ACT Chess Championship, with a apt score of 7 wins from 7 games. Having entered the final day leading on 5/5, he defeated Miles Patterson in the morning round, before beating Wenlin Yin in the last round to score 100%. Fred Litchfield also finished the day with 2 wins, to reach 6/7 and outright second place. There was a 5 way tie for third, with Wenlin Yin, CM Hui Li, Harry Johnson, Sankeerten Badrinarayan, and Saffron Archer all on 5 points. Johnson, Badrinarayan and Archer also shared the Under 1900 prize, while Archer was the best scoring junior. Jame Minogue scored 4.5 to win the Under 1500 prize while Louis Serfontein scored 3.5 to be the best Under 1200.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-im-junta.html",
-         "pubDate" : "Mon, 31 May 2021 12:38:00 +0000",
-         "title" : "2021 ACT Chess Championship - IM Junta Ikeda 7/7"
       }
    ]
 }
