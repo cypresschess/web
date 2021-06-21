@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-g",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-3",
+         "pubDate" : "Mon, 21 Jun 2021 19:21:51 +0000",
+         "title" : "2021 Paris Grand Chess Tour: Day 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1158",
+         "pubDate" : "Mon, 21 Jun 2021 19:13:55 +0000",
+         "title" : "Sam Shankland wins Prague Chess Festival Masters"
+      },
+      {
+         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
+         "pubDate" : "Mon, 21 Jun 2021 18:16:52 +0000",
+         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
+      },
+      {
+         "description" : "Prague International Chess Festival 2021 took place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The historically third winner of the Masters tournament is the American grandmaster Sam Shankland. Shankland scored 5.5/7 points to be the sole winner of the event, followed by GM Duda Jan-Krzysztof with 5 points, and GM Wojtaszek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sam-shankland-wins-prague-chess-festival-masters-2021/",
+         "pubDate" : "Mon, 21 Jun 2021 17:56:58 +0000",
+         "title" : "Sam Shankland wins Prague Chess Festival Masters 2021"
+      },
+      {
+         "description" : "GM Sam Shankland won the third edition of the Prague Masters. Playing his first over-the-board tournament in 16 months, the California-based grandmaster finished on 5.5/7, half a point more than Polish GM Jan-Krzysztof Duda. How to watch?The g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sam-shankland-wins-prague-masters-2021",
+         "pubDate" : "Mon, 21 Jun 2021 10:22:44 -0700",
+         "title" : "Sam Shankland Wins Prague Masters With 2900 Performance"
+      },
+      {
+         "description" : "Hundreds of different Fritztrainers have been teaching us chess on ChessBase for more than a decade. Maybe you sometimes wonder what else the authors of these Fritztrainers do? \"Meet the Fritztrainer\" takes a look behind the scenes, telling us more about the private life of your favourite chess trainer. Grandmaster Jan Werle recently made the Fritztrainer: \"The Saemisch Variation against the King's Indian and Benoni\". In our interview, he tells us why his signature glasses are missing, and what his puppy \"Molly\" has to do with this, and that he also created something else than Fritztrainers, and books, during the last year. | Photos: Jan Werle",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-jan-werle",
+         "pubDate" : "Mon, 21 Jun 2021 18:00:00 +0100",
+         "title" : "Meet The Fritztrainer - Jan Werle"
+      },
+      {
          "description" : "The 2021 Arzum Turkish Women's Championship took place from 13-19 June in Corum Turkey. The event was played in 7 rounds, Swiss system, with participation of 32 players and time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. After 7 played rounds, IM Ekaterina Atalik convincingly won []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-3",
          "pubDate" : "Mon, 21 Jun 2021 07:00:00 +0100",
          "title" : "Paris Rapid & Blitz: So grabs the lead"
+      },
+      {
+         "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/everyone-can-improve/?utm_source=rss&utm_medium=rss&utm_campaign=everyone-can-improve",
+         "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
+         "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
       },
       {
          "description" : "Telangana youngster Prraneeth Vuppala becomes champion in the National Under-14 Open Online Chess Championship which concluded on Friday. Prraneeth scored 10 points of possible 11",
@@ -389,7 +445,7 @@ news_feed (
          "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/engines/",
+         "link" : "https://nextlevelchess.blog/engines/?utm_source=rss&utm_medium=rss&utm_campaign=engines",
          "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0000",
          "title" : "How To Use Chess Engines - So They Do Not Use You"
       },
@@ -728,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-greatest-number-you-can-imagine",
          "pubDate" : "Thu, 17 Jun 2021 03:27:47 +0100",
          "title" : "The greatest number you can imagine"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> 2021.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/site",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 17 Jun 2021 01:17:59 +0000",
-         "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -1197,7 +1245,7 @@ news_feed (
          "description" : " Disclaimer: I am no doctor, nor do I want to play one on the internet. I am just telling what has worked for me. If you have serious issues with Stress, then please visit a doctor! Chess games and tournaments can be extremely stressful. You have to sit tight and think for hours. Every moment [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/stress-reduction/\">Reducing Stress During Tournaments 3 Easy Steps To Less Stress</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/stress-reduction/",
+         "link" : "https://nextlevelchess.blog/stress-reduction/?utm_source=rss&utm_medium=rss&utm_campaign=stress-reduction",
          "pubDate" : "Mon, 14 Jun 2021 06:00:00 +0000",
          "title" : "Reducing Stress During Tournaments - 3 Easy Steps To Less Stress"
       },
@@ -1309,7 +1357,7 @@ news_feed (
          "description" : " Wherever you go, be it a major chess site or YouTube, you will find opening videos or articles. With this much information, it should be easier than ever to excel in openings. But in my experience the overload of information has made it harder, not easier for many. With all that information looming, it is [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/analyse-openings/\">How To Analyse Chess Openings Like A GM</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/analyse-openings/",
+         "link" : "https://nextlevelchess.blog/analyse-openings/?utm_source=rss&utm_medium=rss&utm_campaign=analyse-openings",
          "pubDate" : "Sat, 12 Jun 2021 23:00:00 +0000",
          "title" : "How To Analyse Chess Openings Like A GM"
       },
@@ -1432,14 +1480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-6-aronian-blunder",
          "pubDate" : "Sat, 12 Jun 2021 00:56:00 -0700",
          "title" : "Superbet Chess Classic: Grischuk, Mamedyarov Strike Again"
-      },
-      {
-         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
-         "pubDate" : "Sat, 12 Jun 2021 04:43:00 +0000",
-         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
@@ -1714,14 +1754,6 @@ news_feed (
          "title" : "Superbet Chess Classic: So and Grischuk grab the lead"
       },
       {
-         "description" : "The Superbet Chess Classic is wide open again after both tournament leaders GM Fabiano Caruana&#38;nbsp;and GM Bogdan-Daniel Deac lost their games. Caruana was defeated by GM Wesley So, and Deac went down against GM Alexander Grischuk. The quick dra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-4",
-         "pubDate" : "Wed, 09 Jun 2021 04:55:00 -0700",
-         "title" : "Superbet Chess Classic: Leaders Caruana, Deac Lose"
-      },
-      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1749,7 +1781,7 @@ news_feed (
          "description" : " You spend a lot of time on chess but do not really see improvement? I have been there as well. This means you should improve the quality of your training. Let me show you how! There is a common misconception when it comes to chess improvement. Whenever one talks about his training, one usually just [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/quality/\">Quality, Not Quantity: The Most Important Factor Of Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/quality/",
+         "link" : "https://nextlevelchess.blog/quality/?utm_source=rss&utm_medium=rss&utm_campaign=quality",
          "pubDate" : "Wed, 09 Jun 2021 04:00:00 +0000",
          "title" : "Quality, Not Quantity: The Most Important Factor Of Chess Improvement"
       },
@@ -1997,7 +2029,7 @@ news_feed (
          "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn new openings. An IM thinks [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/best-opening/",
+         "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
          "pubDate" : "Sat, 05 Jun 2021 18:00:00 +0000",
          "title" : "What Is The Best Chess Opening? - There is None!"
       },
@@ -2064,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-hybrid-world-cup-qualifier-highlights-2021",
          "pubDate" : "Fri, 04 Jun 2021 23:15:00 +0100",
          "title" : "Highlights from the European Hybrid World Cup Qualifier"
-      },
-      {
-         "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, will take place from June 3-15, 2021 in Bucharest, Romania. The event will be hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. List of participants: Fabiano Caruana Levon Aronian Anish Giri []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021-live/",
-         "pubDate" : "Fri, 04 Jun 2021 20:08:15 +0000",
-         "title" : "Grand Chess Tour - Romania 2021 LIVE"
       },
       {
          "description" : "The final of the FTX Crypto Cup, which ended on Monday, could hardly have been more exciting, as Magnus Carlsen and Wesley So fought a thrilling duel that Carlsen only won with a victory in the eleventh and final encounter, the Armageddon game. The stakes were high for both sides and Carlsen and So made a few more or less serious mistakes and allowed themselves some unpleasantly short draws, but all in all the level of the match was still high. Daniel King took a closer look at the \"best game\" of the final. | Photos: Lennart Ootes",
@@ -2365,7 +2389,7 @@ news_feed (
          "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is still a great investment in [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/find-your-chess-coach/",
+         "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
          "pubDate" : "Tue, 01 Jun 2021 13:30:47 +0000",
          "title" : "How To Find Your Perfect Chess Coach In 5 Steps"
       },
@@ -2432,30 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1116",
          "pubDate" : "Mon, 31 May 2021 20:06:14 +0000",
          "title" : "Magnus Carlsen wins world's first bitcoin chess tournament"
-      },
-      {
-         "description" : " Last year, World Chess and Match TV, the leading Russian sports TV channel, premiered \"Armageddon\", a chess competition designed specifically for broadcasting on live television. The tournament, filmed is a special pavilion, was different from typical chess events - it was visually engaging, lightning-fast, and featured novelties like heart beat metrics. The event was a prime-time hit. The series will resume next year, and we are happy to give you the insider view of the first time Vladimir Kramnik, one of the participants of the series, visited the playing arena. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3_mX7jIu_DU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/vladimir-kramnik-at-the-armageddon-studio/",
-         "pubDate" : "Mon, 31 May 2021 18:15:16 +0000",
-         "title" : "Vladimir Kramnik at the Armageddon Studio"
-      },
-      {
-         "description" : " Magnus Carlsen won the FTX Crypto Chess Cup beating Wesley So in an Armageddon tie-break. This win means that Carlsen will appear in the Meltwater tour final in September, although with his lead in the standings this seemed very likely anyway his victory in this last major means that he's already there by right. Carlsen struggled with his form throughout the tournament, he almost didn't make it to the knockout phase. On the final day he took the lead winning the first game playing powerfully to exploit some only slightly misplaced pieces. In game two Carlsen almost certainly mixed something up in his opening preparation, and in a sharp Sicilian this proved to be enough for So to win extreme",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2021/carlsen-wins-the-ftx-crypto-chess-cup",
-         "pubDate" : "Mon, 31 May 2021 21:44:00 +0400",
-         "title" : "Carlsen wins the FTX Crypto Chess Cup - Day 9"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1115",
-         "pubDate" : "Mon, 31 May 2021 17:19:17 +0000",
-         "title" : "Eight American players qualify for 2021 FIDE World Cup"
       }
    ]
 }
