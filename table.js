@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2021-06-19","22","<a href=http://www.uschess.org/msa/XtblMain.php?202106199082 target=' blank'>DER SPRINGERS</a>",
 "SPRING","2021-06-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202106188612 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-06-18","15","<a href=http://www.uschess.org/msa/XtblMain.php?202106188602 target=' blank'>FBCC MIDDLE JUNE OPEN</a>",
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target=' blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2020-02-15","23","<a href=http://www.uschess.org/msa/XtblMain.php?202002159812 target=' blank'>THE CHESS REFINERY: DUAL RATED G45</a>",
 "HOUSTON","2020-02-15","208","<a href=http://www.uschess.org/msa/XtblMain.php?202002159652 target=' blank'>DEBAKEY HIGH SCHOOL CHESS TOURNAMENT</a>",
 "PASADENA","2020-02-15","65","<a href=http://www.uschess.org/msa/XtblMain.php?202002159642 target=' blank'>PISD FEBRUARY 2020</a>",
-"KATY","2020-02-15","11","<a href=http://www.uschess.org/msa/XtblMain.php?202002152532 target=' blank'>SR CHESSKNIGHTS 02152020</a>",
 ]);
