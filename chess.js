@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Telangana youngster Prraneeth Vuppala becomes champion in the National Under-14 Open Online Chess Championship which concluded on Friday. Prraneeth scored 10 points of possible 11",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/prraneeth-wins-under-14-open-title/",
+         "pubDate" : "Mon, 21 Jun 2021 02:44:02 +0000",
+         "title" : "Prraneeth wins Under-14 Open Title"
+      },
+      {
+         "description" : "Sam Shankland has won the Prague Masters with an unbeaten 5.5/7, climbing 14 places on the live rating list to cement his position back in the 2700 club. The tournament had looked set to go to a playoff after Radek Wojtaszek blundered in the final round and allowed Jan-Krzysztof Duda to score a 3rd win in a row, but just when Sam looked sure to draw his game, Jorden van Foreest went astray and fell to defeat. Wojtaszek took clear 3rd, while Jorden, Nils Grandelius and David Navara all had tournaments to forget.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/shankland-triumphs-in-prague-after-dramatic-final-day",
+         "pubDate" : "Mon, 21 Jun 2021 00:01:35 +0000",
+         "title" : "Shankland triumphs in Prague after dramatic final day"
+      },
+      {
          "description" : "Sam Shankland reached the final round of the Prague Masters Tournament with a half-point lead over Radoslaw Wojtaszek and Jan-Krzysztof Duda. The American grandmaster was still busy with his game against Jorden van Foreest when Duda had already overtaken him in the standings thanks to a win over Wojtaszek. Shankland only needed a draw, but his opponent was desperate to win. The curse turned into a blessing when Van Foreest blundered: Shankland won and thus became the undisputed tournament winner. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
-         "description" : "Shakhriyar Mamedyarov beat Levon Aronian in Round 6 of the Superbet Chess Classic in a game where Levon had just 7 minutes less than he started with but a dead lost position by move 22. That saw Shakh move to +2, where he was joined by Alexander Grischuk, who was also winning right out of the opening against Romanian no. 1 Constantin Lupulescu. Wesley So won a pawn against Anish Giri but couldn't keep pace with his co-leaders, MVL and Caruana traded blunders in what Fabi called \"a ridiculous game\", while Teimour Radjabov had a 6th contentless draw, this time against Bogdan-Daniel Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-grischuk-mamedyarov-extend-lead",
-         "pubDate" : "Sat, 12 Jun 2021 11:05:22 +0000",
-         "title" : "Superbet Chess Classic 6: Grischuk & Mamedyarov extend lead"
-      },
-      {
          "description" : "Over the last several weeks zonal and continental qualifiers were taking place around the globe in anticipation of the World Cup scheduled for 10 July - 6 August, 2021 in Sochi, Russia. Among the latest qualifier tournaments was the American Continental Championship that took place 22 - 30 May and was played as a hybrid tournament. Eight players secured a ticket to Sochi.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fighting-chess-index-kramnik-radjabov",
          "pubDate" : "Fri, 11 Jun 2021 01:37:00 -0700",
          "title" : "Kramnik Leads Fighting Chess Index Top 50, Radjabov At Bottom"
-      },
-      {
-         "description" : "Greetings from the All India Chess Federation. This notice is hereby issued in furtherance of the unanimous decisions taken by the members of the AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/public-notice-dob-issue/",
-         "pubDate" : "Fri, 11 Jun 2021 07:49:29 +0000",
-         "title" : "PUBLIC NOTICE : DOB ISSUE"
       },
       {
          "description" : "Yermo is back! Once the restrictions allowed it, he made it down to Mexico City with travelling pal Alexander Shabalov to try his hand in a 10-player round robin. In a thorough report, including plenty of pictures and annotations, he tells us all about his time in CDMX - chapulines, positive COVID tests and good old over-the-board chess made for a great experience in the second-largest metropolitan area of the Western Hemisphere.",
@@ -2496,14 +2496,6 @@ news_feed (
          "link" : "https://www.europechess.org/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
          "pubDate" : "Mon, 31 May 2021 08:34:20 +0000",
          "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
-      },
-      {
-         "description" : " From the publisher: &#8220;50% Tactics 50% Opening Book 100% Enjoyment! Enter the world of chess miniatures where games are decided in 20 moves or less! Marvelous Modern Miniatures features the largest collection of miniatures chess games played in the last half-century. Over 500 pages of cut and thrust! Although every player is rated <a href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Marvelous Modern Miniatures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/\">Marvelous Modern Miniatures</a> appea",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/05/31/marvelous-modern-miniatures/",
-         "pubDate" : "Mon, 31 May 2021 00:10:19 +0000",
-         "title" : "Marvelous Modern Miniatures"
       }
    ]
 }
