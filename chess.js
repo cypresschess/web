@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So leads Ian Nepomniachtchi by a point going into the 18 rounds of blitz on Monday and Tuesday after becoming the only player to win two games on any day of the rapid section of the Paris Rapid &amp; Blitz. The US Champion brilliantly defeated Fabiano Caruana with the black pieces before taking advantage of a blunder by MVL in the next round. Nepo showed glimpsed of his brilliant best to take 2nd, while Etienne Bacrot beat Caruana to finish 3rd before he's replaced by his blitz stunt double Vladimir Kramnik.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-3-wesley-so-wins-the-rapid",
+         "pubDate" : "Mon, 21 Jun 2021 11:17:10 +0000",
+         "title" : "Paris Rapid & Blitz 3: Wesley So wins the Rapid"
+      },
+      {
+         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (&#62; 2100) Sikorava,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
+         "pubDate" : "Mon, 21 Jun 2021 10:11:01 +0000",
+         "title" : "Queens' Festival winners - Europe"
+      },
+      {
+         "description" : "国际象棋在中国越来越受欢迎--数据库程序ChessBase也是如此。但不是每个人都能流利地使用英语。对于那些喜欢用母语操作的人，我们有一项特殊的服务：ChessBase的中文教程手册。 Chess is becoming more popular in China - as is the database program ChessBase. But not everyone is fluent in English. For those who prefer to operate in their native language we have a special service: a ChessBase tutorial manual in Chinese.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase--",
+         "pubDate" : "Mon, 21 Jun 2021 10:00:00 +0100",
+         "title" : "ChessBase - 快速入门/快速指南现已推出"
+      },
+      {
+         "description" : "In what is her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-hou-yifan-joins-mammadova",
+         "pubDate" : "Mon, 21 Jun 2021 00:59:39 -0700",
+         "title" : "Women's Speed Chess Championship: Hou Yifan Joins Quaterfinalists"
+      },
+      {
          "description" : "GM Wesley So is leading the Paris Rapid &#38;amp; Blitz tournament after nine rounds of rapid chess. The American grandmaster is one point ahead of GM Ian Nepomniachtchi, who played a brilliant sacrifice in the ninth round. GM Etienne Bacrot, who will...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-3",
-         "pubDate" : "Mon, 21 Jun 2021 00:21:13 -0700",
+         "pubDate" : "Mon, 21 Jun 2021 00:21:00 -0700",
          "title" : "Paris Rapid & Blitz: So Leads, Nepomniachtchi Sacs"
       },
       {
@@ -218,12 +250,12 @@ news_feed (
          "title" : "Paris Rapid & Blitz 1: Firouzja's birthday blues"
       },
       {
-         "description" : "&#8212; from the Guardian website &#8212; https://www.theguardian.com/sport/2021/jun/19/uk-to-stage-inclusive-chessfest-in-londons-trafalgar-square [image courtesy of the Guardian]",
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
          "pubDate" : "Sat, 19 Jun 2021 09:07:07 +0000",
-         "title" : "ChessFest in London's Trafalgar Square"
+         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
@@ -1250,14 +1282,6 @@ news_feed (
          "title" : "Wrong Books (4): Chess for Kids"
       },
       {
-         "description" : "German GM Vincent Keymer took clear lead of the world's next-generation talent Saturday, scoring 5/5 in a wildly decisive penultimate day of the Gelfand Challenge. The 16-year-old's run was part of one stretch of action in the rapid 10+5 event that saw just three draws across 40 games, including Saturday's penultimate Round 14 that produced decisions in all 10 games. Keymer has 12/15 and a headstart in Sunday's four-game sprint to the finish line, chased by India GM Praggnanandhaa a half point behind, and American IM Christopher Yoo in clear third after a four-win Saturday himself.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gelfand-challenge-day-3-keymer-leads-race",
-         "pubDate" : "Sun, 13 Jun 2021 07:25:07 +0000",
-         "title" : "Gelfand Challenge Day 3: Keymer leads race"
-      },
-      {
          "description" : " At last, there is some stratification at the Superbet Chess Classic. In round 6, the leading triumvirate lost one of its members, and now Shakhriyar Mamedyarov is alone in first place with two rounds to go, thanks to his third consecutive win and Alexander Grischuk's loss. Today's action saw three decisive games, none of which featured Romanian players. Mamedyarov defeated no less a player than Fabiano Caruana, and with the black pieces. White played 4.d3 against the Berlin, and his subsequent 0-0 and h3 may have reminded Shakh of Aronian-Kramnik from the 2018 Candidates. He reacted similarly, and while the play continued in a different fashion than that earlier game the plan of ...g5 and .",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1728,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1133",
          "pubDate" : "Tue, 08 Jun 2021 21:26:27 +0000",
          "title" : "Ehsan Ghaem Maghami wins Zone 3.1 Championship"
-      },
-      {
-         "description" : "Tournament Arc returns for a second season, this time with a twist! Running July 16 to 18 and 22 to 25 starting at 5 p.m. Pacific Time/02:00 Central Europe, four Youtubers from the Anime Community will face four stars from the world of Fighting Ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-tournament-arc-2",
-         "pubDate" : "Tue, 08 Jun 2021 12:58:00 -0700",
-         "title" : "Chess.com Announces Tournament Arc 2: FGC vs. Anitubers"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Superbet Chess Classic Tournament in Bucharest. The game of the day will be Lupulescu-Giri, where the big underdog stunned the Dutch number 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2242,14 +2258,6 @@ news_feed (
          "title" : "New: CBM EXTRA 201"
       },
       {
-         "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2020 but current...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/announcement-of-election-of-direct-members-representatives/",
-         "pubDate" : "Wed, 02 Jun 2021 14:51:03 +0000",
-         "title" : "Announcement of election of Direct Members' Representatives"
-      },
-      {
          "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2472,30 +2480,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/05/2021-act-chess-championship-im-junta.html",
          "pubDate" : "Mon, 31 May 2021 12:38:00 +0000",
          "title" : "2021 ACT Chess Championship - IM Junta Ikeda 7/7"
-      },
-      {
-         "description" : "264 players started in the European Hybrid Qualification Tournament. The first three rounds of this knock-out tournament consisted of 2-game matches (followed by a blitz-tiebreak and an Armageddon game, if necessary) and the 36 players, who were still in the race after the third round, qualified for the World Cup 2021, which will take place in Sochi, Russia, from 10 Juli to 6 August 2021. These 36 also played a 9-round Swiss blitz tournament (10+3) for prizes and placement. After nine rounds Vladislav Artemiev (pictured) and Aleksandar Indjic both had 6.5/9 and shared first place but Artemiev had the better tiebreak and won the tournament. | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/artemiev-wins-european-hybrid-qualification-tournament",
-         "pubDate" : "Mon, 31 May 2021 12:30:52 +0100",
-         "title" : "Artemiev wins European Hybrid Qualification Tournament"
-      },
-      {
-         "description" : "Wesley So and Magnus Carlsen traded blows in the first set of the FTX Crypto Cup Finals which will be decided in Monday's second mini-match - and potential blitz tiebreaker. A draw was also seen in the match for third place, except that Teimour Radjabov and Ian Nepomniachtchi decided to give themselves a rest day, as they signed four quick draws on Sunday. | Photo: Nick Barton",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-8",
-         "pubDate" : "Mon, 31 May 2021 09:45:00 +0100",
-         "title" : "FTX Crypto Cup Finals: Carlsen and So trade blows"
-      },
-      {
-         "description" : "European Hybrid Swiss tiebreak took place yesterday as a 9 rounds Swiss tournament, deciding the distribution of 32.000 EUR prize pool. 36 qualifiers for the FIDE World Cup 2021 participated the Finals. After 9 played rounds, two players tied for the top scoring 6.5 points each: Vladislav Artemiev (RUS, 2709) and Aleksandar Indjic (SRB, 2607). Additional tiebreak criteria&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/vladislav-artemiev-wins-european-hybrid-swiss-tiebreaks/",
-         "pubDate" : "Mon, 31 May 2021 08:34:20 +0000",
-         "title" : "Vladislav Artemiev wins European Hybrid Swiss Tiebreaks"
       }
    ]
 }
