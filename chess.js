@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So is leading the Paris Rapid &#38;amp; Blitz tournament after nine rounds of rapid chess. The American grandmaster is one point ahead of GM Ian Nepomniachtchi, who played a brilliant sacrifice in the ninth round. GM Etienne Bacrot, who will...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-3",
+         "pubDate" : "Mon, 21 Jun 2021 00:21:13 -0700",
+         "title" : "Paris Rapid & Blitz: So Leads, Nepomniachtchi Sacs"
+      },
+      {
+         "description" : "National Under-12 Open Online Chess Championship, in which more than 700 players from across the nation are participating got off to a rousing start on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-12-open-online-chess-championships-begins/",
+         "pubDate" : "Mon, 21 Jun 2021 06:27:48 +0000",
+         "title" : "National Under-12 Open Online Chess Championships begins"
+      },
+      {
+         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-3",
+         "pubDate" : "Mon, 21 Jun 2021 07:00:00 +0100",
+         "title" : "Paris Rapid & Blitz: So grabs the lead"
+      },
+      {
          "description" : "Telangana youngster Prraneeth Vuppala becomes champion in the National Under-14 Open Online Chess Championship which concluded on Friday. Prraneeth scored 10 points of possible 11",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
          "pubDate" : "Sun, 20 Jun 2021 17:43:00 +0400",
          "title" : "Paris Rapid & Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Full report to follow shortly. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Sun, 20 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Games and results"
       },
       {
          "description" : "",
@@ -1466,14 +1482,6 @@ news_feed (
          "title" : "New Opening Ideas in Bucharest - Part 1"
       },
       {
-         "description" : "The Tornelo link for the championship is forwarded to your respective email IDs which you used during AICF Registration. If you have registered for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attention-all-the-players-registered-for-national-under-16-open-girls-online-chess-championship-2021/",
-         "pubDate" : "Fri, 11 Jun 2021 11:12:10 +0000",
-         "title" : "KIND ATTENTION ALL THE PLAYERS REGISTERED FOR NATIONAL UNDER-16 OPEN & GIRLS ONLINE CHESS CHAMPIONSHIP-2021"
-      },
-      {
          "description" : "Five rounds have been played at the first leg of the Grand Chess Tour Romania 2021. After 5 played rounds, the resting day took place yesterday. World No. 9 GM Shakhriyar Mamedyarov won the only decisive game of the day 5 as he defeated GM Constantin Lupulescu with the Black pieces, catching up to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r3",
          "pubDate" : "Tue, 08 Jun 2021 13:15:00 +0100",
          "title" : "Superbet Chess Classic: Lupulescu tricks Giri"
-      },
-      {
-         "description" : "The local players keep making a name for themselves at the Superbet Chess Classic. In the third round, it was GM Constantin Lupulescu who took the spotlight with a win against world number-six GM Anish Giri. Meanwhile, GM Teimour Radjabov surpri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-3-lupulescu-giri",
-         "pubDate" : "Tue, 08 Jun 2021 04:05:00 -0700",
-         "title" : "Superbet Chess Classic: Lupulescu Beats Giri"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras A couple of games from the past 2 rounds of our club tournament provided instructive positions. The first one of them is from an endgame. Black's last move was 29 c6. Have a look at the position but not at the solution and decide what you would have <a href=\"https://chessimprover.com/quick-decisions-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-6/\">Quick Decisions (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
