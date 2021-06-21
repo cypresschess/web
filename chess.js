@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Follow the games live! | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Mon, 21 Jun 2021 13:55:00 +0100",
+         "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
          "description" : "Wesley So leads Ian Nepomniachtchi by a point going into the 18 rounds of blitz on Monday and Tuesday after becoming the only player to win two games on any day of the rapid section of the Paris Rapid &amp; Blitz. The US Champion brilliantly defeated Fabiano Caruana with the black pieces before taking advantage of a blunder by MVL in the next round. Nepo showed glimpsed of his brilliant best to take 2nd, while Etienne Bacrot beat Caruana to finish 3rd before he's replaced by his blitz stunt double Vladimir Kramnik.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Paris Rapid & Blitz 3: Wesley So wins the Rapid"
       },
       {
-         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (&#62; 2100) Sikorava,...",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andreas Weidinger</strong>, former head of the Danish Conservative People party youth and a climate policy expert, is the <a href=\"https://www.linkedin.com/in/andreasweidingerdk/\">newly appointed Director of Development</a> at <strong>Dansk Skoleskak</strong>, an innovator in school chess that is planning to open a \"chess house\" by 2025. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/dansk-skoleskak-appoints-development/",
+         "pubDate" : "Mon, 21 Jun 2021 11:33:54 +0100",
+         "title" : "Dansk Skoleskak appoints development director"
+      },
+      {
+         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
          "pubDate" : "Mon, 21 Jun 2021 10:11:01 +0000",
          "title" : "Queens' Festival winners - Europe"
-      },
-      {
-         "description" : "国际象棋在中国越来越受欢迎--数据库程序ChessBase也是如此。但不是每个人都能流利地使用英语。对于那些喜欢用母语操作的人，我们有一项特殊的服务：ChessBase的中文教程手册。 Chess is becoming more popular in China - as is the database program ChessBase. But not everyone is fluent in English. For those who prefer to operate in their native language we have a special service: a ChessBase tutorial manual in Chinese.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase--",
-         "pubDate" : "Mon, 21 Jun 2021 10:00:00 +0100",
-         "title" : "ChessBase - 快速入门/快速指南现已推出"
       },
       {
          "description" : "In what is her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. ...",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/asia-themed-tour-event/",
          "pubDate" : "Thu, 17 Jun 2021 14:03:13 +0100",
          "title" : "Asia-themed tour event"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The logos of the <strong>Meltwater Champions Chess Tour</strong> and its ten <strong>chess24</strong>-hosted events, created by <strong>Schjærven Reklamebyr&aring;</strong> in Oslo, <a href=\"https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards\">have won two golden</a> <strong>European Design Awards</strong>. The logos are generated from game data, e.g. the tour logo is <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6810513698449362945/\">based on the Armageddon game</a> between Carlsen and Nakamura that concluded the first Magnus Carlsen Chess Tour in 2020. </div> <div class='topimag",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/design-awards-for-champions-tour/",
-         "pubDate" : "Thu, 17 Jun 2021 13:50:51 +0100",
-         "title" : "Design awards for Champions Tour logo"
       },
       {
          "description" : "FIDE and its partner World Chess announced on Thursday that the 2022 Grand Prix series will consist of three tournaments that will be held between February and April 2022. The top two finishers of the series will qualify for the 2022 Candidates To...",
