@@ -2,15 +2,47 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So won 4 of his last 5 games as he clinched the Paris Rapid & Blitz with a round to spare and finished a full 3 points clear of Ian Nepomniachtchi in 2nd place. Wesley commented \"today was just my day\" after he scored 7/9, beating Alireza Firouzja's 6.5/9 the day before and clinching first place in the blitz as well as the overall prize. Maxime Vachier-Lagrave and Alireza Firouzja scored an underwhelming 50% on the final day, but shared 3rd place. Vladimir Kramnik won his last two games, but couldn't avoid finishing last.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-storms-to-victory-in-paris-rapid-blitz",
+         "pubDate" : "Tue, 22 Jun 2021 22:34:56 +0000",
+         "title" : "Wesley So storms to victory in Paris Rapid & Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1162",
+         "pubDate" : "Tue, 22 Jun 2021 20:59:49 +0000",
+         "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> confirms the great form he has been showing in the Champions Chess Tour by winning both the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">rapid and the blitz at the Paris</a> leg of the <strong>Grand Chess Tour</strong>, while challenger <strong>Ian Nepomniachtchi</strong> came in as clear second. No spectators were allowed at the <strong>Kasparovchess.com</strong>- broadcast event. Next is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz\">Croatia Rapid and Blitz in Zagreb</a> on 6-11 July where the wildcard is reserved for a Croatian citizen, <stron",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/so-wins-paris-rapid-blitz-ahead-of/",
+         "pubDate" : "Tue, 22 Jun 2021 20:35:57 +0100",
+         "title" : "So wins Paris Rapid & Blitz ahead of Nepo"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has the final nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/202",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-5",
+         "pubDate" : "Tue, 22 Jun 2021 19:22:41 +0000",
+         "title" : "2021 Paris Grand Chess Tour: Day 5"
+      },
+      {
          "description" : "Leading from start to finish, GM Wesley So won the Paris Rapid &#38;amp; Blitz tournament as the best and most consistent player in the field. The American player secured the $37,500 first prize with a round to spare before beating his closest rival G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-paris-rapid-blitz",
-         "pubDate" : "Tue, 22 Jun 2021 11:47:06 -0700",
+         "pubDate" : "Tue, 22 Jun 2021 11:47:00 -0700",
          "title" : "Wesley So Wins 2021 Paris Rapid & Blitz"
       },
       {
-         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with two rounds to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French's capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
+         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French's capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Bonus- Introducing The How to Chess Podcast! "
       },
       {
-         "description" : "170 years ago, on 21 June 1851, Adolf Anderssen and Lionel Kieseritzky played one of the most famous games of all time: the so-called \"Immortal Game\", in which Anderssen sacrificed a large part of his army to mate the enemy king. Since then this game has been included in countless anthologies, it continues to be a popular for live exhibition games, it has been quoted in films, and the decisive position has been printed on T-shirts. It also played a role in the novel \"Writers & Lovers\" by American author Lily King.",
+         "description" : "170 years ago, on 21 June 1851, Adolf Anderssen and Lionel Kieseritzky played one of the most famous games of all time: the so-called \"Immortal Game\", in which Anderssen sacrificed a large part of his army to mate the enemy king. Since then this game has been included in countless anthologies, it continues to be a popular choice for live exhibition games, it has been quoted in films, and the decisive position has been printed on T-shirts. It also played a role in the novel \"Writers & Lovers\" by American author Lily King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-in-literature-writers-lovers-and-the-immortal-game",
@@ -842,14 +874,6 @@ news_feed (
          "title" : "Pranesh and Bhagyashree Under-16 Champions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her June chess series on Magnus Carlsen. See a game from the 2017 London Chess Classic, where Carlsen's 2021 world championship challenger Ian Nepomniachtchi defeated him. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/can-nepo-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
-         "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : " Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention that [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/caught-in-middle.html",
          "pubDate" : "Thu, 17 Jun 2021 13:36:00 +0000",
          "title" : "Caught in the middle"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The next <strong>Meltwater Champions Chess Tour</strong> event from 26 June to 4 July will be the <strong>Goldmoney Asian Rapid</strong> with the <a href=\"https://chess24.com/en/read/news/hou-yifan-joins-carlsen-for-goldmoney-asian-rapid\">majority of the participants</a> born in Asia and earlier playing hours to the benefit of participants like 15-year old <strong>Dommaraju Gukesh</strong> who narrowly won the second <strong>Challengers Chess Tour</strong> event. The recently inactive female number one <strong>Hou Yifan</strong> receives a wildcard. The title sponsor is again a financial company, the Canadian precious metals platform <strong>Goldmon",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/asia-themed-tour-event/",
-         "pubDate" : "Thu, 17 Jun 2021 14:03:13 +0100",
-         "title" : "Asia-themed tour event"
       },
       {
          "description" : "FIDE and its partner World Chess announced on Thursday that the 2022 Grand Prix series will consist of three tournaments that will be held between February and April 2022. The top two finishers of the series will qualify for the 2022 Candidates To...",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1145",
          "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
-      },
-      {
-         "description" : "India's youngest billionaire Nikhil Kamath blundered a pawn on move 1 but then went on to crush 5-time World Chess Champion Vishy Anand in a \"Checkmate COVID\" charity simul. Nikhil said afterwards that he just got lucky, while the World Champion politely noted, \"Today was not the chess of people who just know how the pieces move\". Outrage followed, with Nikhil eventually admitting computer and other help, though his apology implied Vishy was aware his opponent was going to have assistance. The Indian legend made it clear he wasn't.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/billionaire-admits-cheating-against-anand-in-charity-simul",
-         "pubDate" : "Mon, 14 Jun 2021 08:56:36 +0000",
-         "title" : "Billionaire admits cheating against Anand in charity simul"
       },
       {
          "description" : "In a very close round of 16 match in the FIDE Chess.com Women&#39;s Speed Chess Championship, reigning women&#39;s world blitz champion GM Kateryna Lagno defeated GM Valentina Gunina 11.5-10.5. The next match is on Wednesday, June 16, between GM Alexandra...",
@@ -2464,22 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shamsiddin-vokhidov-wins-asian-individual-hybrid-chess-championship-2021",
          "pubDate" : "Wed, 02 Jun 2021 11:00:41 +0100",
          "title" : "Shamsiddin Vokhidov wins Asian Individual Hybrid Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1119",
-         "pubDate" : "Tue, 01 Jun 2021 22:05:17 +0000",
-         "title" : "Gulnar Mammadova wins Azerbaijani Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1118",
-         "pubDate" : "Tue, 01 Jun 2021 21:25:41 +0000",
-         "title" : "Round 10: Zhansaya wins the tournament; Kateryna has one foot in the Candidates"
       }
    ]
 }
