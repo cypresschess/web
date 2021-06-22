@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-4",
+         "pubDate" : "Tue, 22 Jun 2021 13:20:00 +0100",
+         "title" : "Paris Rapid & Blitz: Firouzja strong in the blitz"
+      },
+      {
+         "description" : "In the National Open in Las Vegas five players shared first with 7.0/9. The 15-year-old Arthur Guo had the best tiebreak and won the tournament. | Photos: Tournament page National Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arthur-guo-wins-national-open-in-las-vegas",
+         "pubDate" : "Tue, 22 Jun 2021 11:15:22 +0100",
+         "title" : "Arthur Guo wins National Open in Las Vegas"
+      },
+      {
+         "description" : "Wesley So leads Ian Nepomniachtchi by half a point going into what looks set to be a two-horse race on the final day of the Paris Rapid &amp; Blitz. Wesley managed to stop the rampage of Alireza Firouzja, who had moved from last to 3rd place with a stunning 5.5/6 start to the blitz section. Firouzja trails Wesley by a full four points, while Peter Svidler is in 3rd place after winning the last three games of the day. His fellow Russian 45-year-old, Vladimir Kramnik, won their individual encounter in spectacular style, but looked rusty as he lost games on time and scored only 2.5/9.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-4-firouzja-on-fire-but-so-nepo-lead",
+         "pubDate" : "Tue, 22 Jun 2021 09:29:50 +0000",
+         "title" : "Paris Rapid & Blitz 4: Firouzja on fire, but So & Nepo lead"
+      },
+      {
+         "description" : "Knights that fight against pawns in the endgame can be versatile or very clumsy. In the diagram position the black knight turned out to be very versatile. How did it help Black to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-versatile-knight",
+         "pubDate" : "Tue, 22 Jun 2021 09:31:54 +0100",
+         "title" : "A versatile knight"
+      },
+      {
          "description" : "The man behind the Komodo Dragon 2, Larry Kaufman, was a successful broker in the mid-80s. He earned enough money to retire for the rest of his life and lie in a hammock, reading books. But instead, he won the senior chess championship in 2008 to become a chess Grandmaster at the age of over 60 years, worked on several chess engines, like Machack, Rybka, and of course, the Komodo series, steadily played on the highest \"Shogi\" level for decades, and wrote plenty of books - his newest one \"Chess Board Options\" just came out a week ago. In the interview with Kaufman, there is even more to discover about his fascinating life. | Photos: Larry Kaufman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/larry-kaufman-interview-the-dragon-s-tale",
          "pubDate" : "Tue, 22 Jun 2021 09:01:37 +0100",
          "title" : "Larry Kaufman Interview - The Dragon's tale"
+      },
+      {
+         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu This weekend brought a fantastic piece of news for the Canadian Correspondence Chess Association. Pierre Jean, one of our members from Quebec, has managed to achieve a great result in <a href=\"https://chessimprover.com/planning-for-victory-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-3/\">Planning for Victory (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/planning-for-victory-3/",
+         "pubDate" : "Tue, 22 Jun 2021 08:00:46 +0000",
+         "title" : "Planning for Victory (3)"
+      },
+      {
+         "description" : "GM Wesley So is still leading the Paris Rapid &#38;amp; Blitz tournament after the first nine rounds of blitz chess. The American grandmaster is half a point ahead of GM Ian Nepomniachtchi. GM Alireza Firouzja surged in the standings after scoring a f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-day-4-firouzja",
+         "pubDate" : "Tue, 22 Jun 2021 00:49:00 -0700",
+         "title" : "Paris Rapid & Blitz: So Leads, Firouzja Surges"
       },
       {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
@@ -24,6 +72,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/get-know-wfm-anna-cramling-gm-denes-boros",
          "pubDate" : "Tue, 22 Jun 2021 01:22:11 +0000",
          "title" : "Get to Know WFM Anna Cramling with GM Denes Boros"
+      },
+      {
+         "description" : " The Queen's Gambit - Accepted!: Jonathan Arnott &#38; Rosie Irwin From the publisher: The game of chess has hundreds of child-friendly books, but what about the adult beginner inspired by The Queen's Gambit Netflix series? Rosie Irwin is the perfect example: just like the title character, she's had her own struggles with mental health and <a href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Queen's Gambit - Accepted!</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\">The Queen's Gambit - Accepted!</",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/",
+         "pubDate" : "Tue, 22 Jun 2021 00:10:27 +0000",
+         "title" : "The Queen's Gambit - Accepted!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1160",
+         "pubDate" : "Mon, 21 Jun 2021 22:57:41 +0000",
+         "title" : "Final lists of FIDE World Cups participants published"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-gr",
@@ -78,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sam-shankland-wins-prague-masters-2021",
-         "pubDate" : "Mon, 21 Jun 2021 10:22:44 -0700",
+         "pubDate" : "Mon, 21 Jun 2021 10:22:00 -0700",
          "title" : "Sam Shankland Wins Prague Masters With 2900 Performance"
       },
       {
@@ -104,14 +168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
          "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
          "title" : "Tie-breaks"
-      },
-      {
-         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Follow the games live! | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Mon, 21 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Live!"
       },
       {
          "description" : "Wesley So leads Ian Nepomniachtchi by a point going into the 18 rounds of blitz on Monday and Tuesday after becoming the only player to win two games on any day of the rapid section of the Paris Rapid &amp; Blitz. The US Champion brilliantly defeated Fabiano Caruana with the black pieces before taking advantage of a blunder by MVL in the next round. Nepo showed glimpsed of his brilliant best to take 2nd, while Etienne Bacrot beat Caruana to finish 3rd before he's replaced by his blitz stunt double Vladimir Kramnik.",
@@ -1354,14 +1410,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Full-Point Lead For Mamedyarov"
       },
       {
-         "description" : "Shakhriyar Mamedyarov took down world no. 2 Fabiano Caruana on the bloodiest day yet in Bucharest. Shakh's 3rd win in a row took him up to world no. 5 on the live rating list and also gave him a 1-point lead going into the final two rounds after co-leader Alexander Grischuk collapsed in time trouble against Levon Aronian. The day's other winner was Anish Giri, who ground down Maxime Vachier-Lagrave in a drawish ending and later declared \"chess is just about luck - there's really nothing else!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-7-shakh-strikes-again",
-         "pubDate" : "Sun, 13 Jun 2021 09:25:20 +0000",
-         "title" : "Superbet Chess Classic 7: Shakh strikes again"
-      },
-      {
          "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1720,14 +1768,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/10/spurious-games/",
          "pubDate" : "Thu, 10 Jun 2021 00:10:04 +0000",
          "title" : "Spurious Games"
-      },
-      {
-         "description" : "GM Hikaru Nakamura returned to the top of Titled Tuesday on June 8, winning outright with a score of 10/11. Iranian GM Amin Tabatabaei took clear second with 9.5/11 ahead of nine players tied at 9/11. Of those, last week&#39;s winner GM Nodirbek Abdus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-june-8-titled-tuesday",
-         "pubDate" : "Wed, 09 Jun 2021 14:40:25 -0700",
-         "title" : "Nakamura Wins June 8 Titled Tuesday"
       },
       {
          "description" : "",
@@ -2146,14 +2186,6 @@ news_feed (
          "title" : "FIDE extends the registration date of the Queens' Festival"
       },
       {
-         "description" : " Last week, we looked at the transition between the opening and middle game. This week, we'll introduce the meat and potatoes of the middle-game, tactics. Actually, we will spend the next few weeks going over tactics because there's a lot to it! Before jumping into the world of tactics, we'll talk about two fundamental skills <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-one/\">A Foundation for Beginners Twenty One</a> appeared first on <a rel=\"nofollow\" h",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-one/",
-         "pubDate" : "Fri, 04 Jun 2021 13:39:18 +0000",
-         "title" : "A Foundation for Beginners Twenty One"
-      },
-      {
          "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83235225.cms\" /></a>World no. 3 Koneru Humpy, who qualified for the women's Candidates on Wednesday, has decided to not feature in the women's World Cup scheduled to be held next month in Sochi, Russia. \"I have decided not to play in the World Cup. I didn't feel comfortable as they will be having the same venue for around 300 odd players (men and women together),\" Humpy told TOI on Friday. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2432,22 +2464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
          "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
          "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
-      },
-      {
-         "description" : "In the duel between bishop and knight it is often the knight which is too slow. However, one should not underestimate knights - they are versatile and often surprisingly quick, e.g. in the diagram position. Can the black knight play on both wings to help Black win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-fast-and-versatile-knight",
-         "pubDate" : "Tue, 01 Jun 2021 09:00:00 +0100",
-         "title" : "A fast and versatile knight"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen won the FTX Crypto Cup after beating Wesley So in a dramatic final. The match on day 1 of the final ended with a 2-2 and that was also the result of the match on day 2. In the blitz-tiebreak Wesley So won the first game after a blunder by Carlsen, but Carlsen bounced back by winning on demand with Black and then also won the Armageddon game. In the match for place three Ian Nepomniachtchi won against Teimour Radjabov. Full report to follow soon. | Games and commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
-         "pubDate" : "Tue, 01 Jun 2021 08:50:00 +0100",
-         "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
       }
    ]
 }
