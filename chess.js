@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJOY_wrHLc7qxIYr6AqcrahZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwy09bJQ2v8vmsiJLulTbJKBdSpBoV59p4iKw5yzo7i3G7BeZ2-3bdeBcxHb2XV2s4/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/bonus-introducing-the-how-to-chess-podcast",
+         "pubDate" : "Tue, 22 Jun 2021 13:46:19 +0000",
+         "title" : "Bonus- Introducing The How to Chess Podcast! "
+      },
+      {
          "description" : "170 years ago, on 21 June 1851, Adolf Anderssen and Lionel Kieseritzky played one of the most famous games of all time: the so-called \"Immortal Game\", in which Anderssen sacrificed a large part of his army to mate the enemy king. Since then this game has been included in countless anthologies, it continues to be a popular for live exhibition games, it has been quoted in films, and the decisive position has been printed on T-shirts. It also played a role in the novel \"Writers & Lovers\" by American author Lily King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-in-literature-writers-lovers-and-the-immortal-game",
          "pubDate" : "Tue, 22 Jun 2021 14:42:55 +0100",
          "title" : "Chess in Literature: \"Writers & Lovers\" and the Immortal Game"
+      },
+      {
+         "description" : "<p class=\"\">It's a rare week off for Perpetual Chess, but we will back on June 29 and every Tuesday thereafter for the foreseeable future. :) <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/unsplash-image-gzhyKEo_cbU.jpg\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" alt=\"unsplash-image-gzhyKEo_cbU.jpg\" data-load=\"",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/no-perpetual-chess-this-week",
+         "pubDate" : "Tue, 22 Jun 2021 13:38:31 +0000",
+         "title" : "No Perpetual Chess this week "
       },
       {
          "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
          "pubDate" : "Tue, 22 Jun 2021 13:55:00 +0100",
          "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kahoot!</strong> enables teachers to create quizzes in a fun format for their whiteboard, digital or online classes. It is also a great tool for chess teachers, writes <em>Philippe Kalman</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/kahoot1-2.1920.jpeg\" title=\"To get beginners going the questions can hardly be too simple. Philippe Kalman\" data-title=\"To get beginners going the questions can hardly be too simple. (Philippe Kalman)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/kahoot1-2.480.jpeg\" alt=\"To get beginners going the questions can hardl",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/because-kids-love-quizzes/",
+         "pubDate" : "Tue, 22 Jun 2021 13:50:36 +0100",
+         "title" : "Because kids love quizzes"
       },
       {
          "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Photo: Lennart Ootes",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1148",
          "pubDate" : "Thu, 17 Jun 2021 09:43:50 +0000",
          "title" : "2022 FIDE Grand Prix Series Announced"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two places for the next Candidates Tournament shall be decided in a series of three <strong>Grand Prix</strong> <a href=\"https://www.fide.com/news/1148\">events in February to April 2022</a>, each with 16 players, a group and a knockout phase. The full series shall be held in one yet unknown city according to <strong>Ilya Merenzon</strong> from <strong>World Chess</strong>, still entrusted by <strong>FIDE</strong> with the organisation. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-grand-prix-stays-with-merenzon/",
-         "pubDate" : "Thu, 17 Jun 2021 10:11:25 +0100",
-         "title" : "FIDE Grand Prix stays with Merenzon"
       },
       {
          "description" : "Women's no. 1 Hou Yifan will be the first female player to participate in the full Meltwater Champions Chess Tour when the Goldmoney Asian Rapid, the 7th stage on the $1.6 million tour, starts at 13:00 CEST on Saturday June 26th. The earlier starting time should boost the chances of the players based in Asia, with no less than four Indian grandmasters taking part, including 15-year-old Gelfand Challenge winner Gukesh and 17-year-old Indian Qualifier winner Arjun Erigaisi. There are also tour debuts for Adhiban, Vladislav Artemiev and Salem Saleh.",
@@ -2456,30 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-zhansay-abdumalik-is-grandmaster",
          "pubDate" : "Tue, 01 Jun 2021 19:18:10 +0100",
          "title" : "The Weekly Show: Zhansaya Abdumalik gains Grandmaster title!"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"Photo courtesy of GM Davorin Kuljasevic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1622558260007-2VZKGU76K3HCDCP1T3OB/ke17ZwdGBToddI8pDm48kKmtqzVQ84qrk3ZBkVNgI5NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGGAitUd9-ZTyq5voUk6RF5oPDtX3DNkUerYucXg0gR-RxM7liirRoZJu3B2R2sfw4/Davorin+Chess+192.2.jpg\" data-image-dimensions=\"413x276\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Davorin Kuljasevic\" data-load=\"false\" data-image-id=\"60b6463371ea826d88ff8b28\" data-type=\"image\" src=\"https://images.squarespace-cdn",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/1/episode-229-gm-davorin-kuljasevic",
-         "pubDate" : "Tue, 01 Jun 2021 14:04:35 +0000",
-         "title" : "Episode 229- GM Davorin Kuljasevic "
-      },
-      {
-         "description" : "Garry Kasparov is perhaps the best player of all times, and he has done a lot to promote and support chess all over the world. In May the Kasparov Chess Foundation and the Saint Louis Chess Club continued their Young Stars program and invited a number of promising juniors to get chess insights from the 13th World Champion. | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-trains-young-talents",
-         "pubDate" : "Tue, 01 Jun 2021 15:00:00 +0100",
-         "title" : "Kasparov trains young talents"
-      },
-      {
-         "description" : " Disclaimer: In this article I am always refere to him/he when talking about the Coach. This makes it easier to read. I am totally aware that there are also amazing female Coaches out there! Even though there is so much material available on the internet, having a personal coach is still a great investment in [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/find-your-chess-coach/\">How To Find Your Perfect Chess Coach In 5 Steps</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
-         "pubDate" : "Tue, 01 Jun 2021 13:30:47 +0000",
-         "title" : "How To Find Your Perfect Chess Coach In 5 Steps"
       }
    ]
 }
