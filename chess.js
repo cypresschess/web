@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The man behind the Komodo Dragon 2, Larry Kaufman, was a successful broker in the mid-80s. He earned enough money to retire for the rest of his life and lie in a hammock, reading books. But instead, he won the senior chess championship in 2008 to become a chess Grandmaster at the age of over 60 years, worked on several chess engines, like Machack, Rybka, and of course, the Komodo series, steadily played on the highest \"Shogi\" level for decades, and wrote plenty of books - his newest one \"Chess Board Options\" just came out a week ago. In the interview with Kaufman, there is even more to discover about his fascinating life. | Photos: Larry Kaufman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/larry-kaufman-interview-the-dragon-s-tale",
+         "pubDate" : "Tue, 22 Jun 2021 09:01:37 +0100",
+         "title" : "Larry Kaufman Interview - The Dragon's tale"
+      },
+      {
+         "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-official-regulations/",
+         "pubDate" : "Tue, 22 Jun 2021 05:24:59 +0000",
+         "title" : "EUROPEAN TEAM CHESS CHAMPIONSHIP 2021 - Official Regulations"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews WFM Anna Cramling about her career, world standings, streaming, and chess! Questions are accepted via chat. 2021.06.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-wfm-anna-cramling-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1nHvdTCdlk.jpg?itok=dVFDitiL\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1687,7 +1703,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/",
          "pubDate" : "Thu, 10 Jun 2021 06:02:53 +0000",
-         "title" : "European Women Individual Chess Championship - 20 June Registration Deadline"
+         "title" : "European Women Individual Chess Championship - 30 June Registration Deadline"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful combination. T...",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-live",
          "pubDate" : "Tue, 01 Jun 2021 08:50:00 +0100",
          "title" : "Express report: FTX Crypto Cup Finals - Carlsen wins!"
-      },
-      {
-         "description" : "European Individual Chess Championship 2021 will take place from August 26th (1st round) September 5th in Reykjavik, Iceland. The Championship will be played according to the ECU Tournament Rules Swiss system of 11 rounds. The European Individual Chess Championship 2021 is a qualifying event for the FIDE World Cup 2023 with 23 qualification spots. The total prize&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/",
-         "pubDate" : "Tue, 01 Jun 2021 05:12:29 +0000",
-         "title" : "European Individual Chess Championship 2021- official invitation"
       }
    ]
 }
