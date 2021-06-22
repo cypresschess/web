@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews WFM Anna Cramling about her career, world standings, streaming, and chess! Questions are accepted via chat. 2021.06.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-wfm-anna-cramling-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1nHvdTCdlk.jpg?itok=dVFDitiL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/get-know-wfm-anna-cramling-gm-denes-boros",
+         "pubDate" : "Tue, 22 Jun 2021 01:22:11 +0000",
+         "title" : "Get to Know WFM Anna Cramling with GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-gr",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/can-nepo-beat-magnus-you-bet-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
          "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. 2021.06.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0un1OeyXxRU.jpg?itok=1X8Ne14q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Thu, 17 Jun 2021 16:18:18 +0000",
-         "title" : "The Shocking Brooklyn | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : " Share! Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2021-official-invitation/",
          "pubDate" : "Tue, 01 Jun 2021 05:12:29 +0000",
          "title" : "European Individual Chess Championship 2021- official invitation"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83134369.cms\" /></a>Magnus Carlsen is the world's first bitcoin chess champion after overcoming Wesley So in a thrilling FTX Crypto Cup final. The Norwegian takes home the $60,000 first prize plus a 0.6 bitcoin bonus offered by tournament sponsor FTX. It is the largest prize pot ever offered in an elite online chess event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-magnus-carlsen-clinches-worlds-first-bitcoin-chess-event/articleshow/83134369.cms",
-         "pubDate" : "Tue, 01 Jun 2021 07:59:40 +0530",
-         "title" : "FTX Crypto Cup: Carlsen clinches world's first bitcoin chess event"
       }
    ]
 }
