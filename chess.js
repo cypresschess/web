@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leading from start to finish, GM Wesley So won the Paris Rapid &#38;amp; Blitz tournament as the best and most consistent player in the field. The American player secured the $37,500 first prize with a round to spare before beating his closest rival G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-paris-rapid-blitz",
+         "pubDate" : "Tue, 22 Jun 2021 11:47:06 -0700",
+         "title" : "Wesley So Wins 2021 Paris Rapid & Blitz"
+      },
+      {
+         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with two rounds to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French's capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Tue, 22 Jun 2021 19:15:00 +0100",
+         "title" : "Paris Rapid & Blitz - Wesley So wins!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1161",
+         "pubDate" : "Tue, 22 Jun 2021 18:01:01 +0000",
+         "title" : "Amadou Lamine Ciss&eacute; wins Senegal National Championship"
+      },
+      {
+         "description" : " Share!The anticipation was high and many eagerly awaited the moment when over-the-board (OTB) chess would return. The Continental Chess Association (CCA) announced that they were be hosting a full slate of tournaments for 2021 year, but for the Chicago Open, there would be restrictions. David Hater mentioned in his report on uschess.org that were varied [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/\">Chicago Open excites OTB in full swing!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/",
+         "pubDate" : "Tue, 22 Jun 2021 17:37:54 +0000",
+         "title" : "Chicago Open excites&hellip; OTB in full swing!"
+      },
+      {
+         "description" : "The San Ferm&iacute;n Arena International, open to all FIDE titled players, will consist of four 2-hour Arena tournaments at a 3+2 time control. Each of the tournaments will qualify 10 players to a Final Arena on June 27th, a tournament from which the winner will qualify for the San Ferm&iacute;n Mundial Masters with the participation of World Chess Champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/internacional-arena",
+         "pubDate" : "Tue, 22 Jun 2021 17:30:00 +0000",
+         "title" : "International Arena begins today - open to all FIDE titled players!"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the National Open in Las Vegas, focusing on the game Levy Rozman vs Christopher Yoo in round 5, a superb attacking display by the \"internet's chess teacher\". And Lawrence will talk about the Paris Rapid & Blitz tournament and the Prague Masters. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-chess-in-las-vegas",
+         "pubDate" : "Tue, 22 Jun 2021 18:27:52 +0100",
+         "title" : "The Weekly Show: Chess in Las Vegas"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJOY_wrHLc7qxIYr6AqcrahZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwy09bJQ2v8vmsiJLulTbJKBdSpBoV59p4iKw5yzo7i3G7BeZ2-3bdeBcxHb2XV2s4/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -26,20 +74,20 @@ news_feed (
          "title" : "No Perpetual Chess this week "
       },
       {
+         "description" : " The Paris Rapid & Blitz was part of the Grand Chess Tour and took place 18th to 22nd June 2021. 9 rounds of rapid was followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9 and then won the blitz with 12.5/18 with just one defeat. The next event on the tour is the Rapid and Blitz in Croatia Mon 5th Jul to \tMon 12th Jul 2021. In between now and then (Sat 26th Jun to Sun 4th Jul 2021\t) is the online Goldmoney A",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
+         "pubDate" : "Tue, 22 Jun 2021 17:30:00 +0400",
+         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
+      },
+      {
          "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/coaching-for-grown-ups.html",
          "pubDate" : "Tue, 22 Jun 2021 13:15:00 +0000",
          "title" : "Coaching for grown ups"
-      },
-      {
-         "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Follow the games live! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Tue, 22 Jun 2021 13:55:00 +0100",
-         "title" : "Paris Rapid & Blitz - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kahoot!</strong> enables teachers to create quizzes in a fun format for their whiteboard, digital or online classes. It is also a great tool for chess teachers, writes <em>Philippe Kalman</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/kahoot1-2.1920.jpeg\" title=\"To get beginners going the questions can hardly be too simple. Philippe Kalman\" data-title=\"To get beginners going the questions can hardly be too simple. (Philippe Kalman)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/kahoot1-2.480.jpeg\" alt=\"To get beginners going the questions can hardl",
@@ -384,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-32-to-trade-or-not-to-trade",
          "pubDate" : "Sun, 20 Jun 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 32: To trade or not to trade"
-      },
-      {
-         "description" : " The Paris Rapid & Blitz is part of the Grand Chess Tour and take place 18th to 22nd June 2021. 9 rounds of rapid and followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
-         "pubDate" : "Sun, 20 Jun 2021 17:43:00 +0400",
-         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -810,7 +850,7 @@ news_feed (
          "title" : "Can Nepo Beat Magnus? You Bet! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : " Share! Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention that [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/",
@@ -1370,14 +1410,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Mamedyarov Closes In With Grunfeld Move Repetition"
       },
       {
-         "description" : "Shakhriyar Mamedyarov will at least share 1st place in the Superbet Chess Classic after taking an instant draw against Anish Giri in Round 8, while a draw in the final round would guarantee him sole first place. The players who can catch him are Wesley So, Alexander Grischuk and Levon Aronian, who are all a point back after Levon picked up the only win of the penultimate round, against Bogdan-Daniel Deac. So-MVL was a theoretical battle, Grischuk-Caruana was time-trouble mayhem, while Radjabov-Lupulescu saw Teimour dragged, at least briefly, into a fight.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-8-shakh-on-the-brink",
-         "pubDate" : "Mon, 14 Jun 2021 07:00:00 +0000",
-         "title" : "Superbet Chess Classic 8: Shakh on the brink"
-      },
-      {
          "description" : " Disclaimer: I am no doctor, nor do I want to play one on the internet. I am just telling what has worked for me. If you have serious issues with Stress, then please visit a doctor! Chess games and tournaments can be extremely stressful. You have to sit tight and think for hours. Every moment [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/stress-reduction/\">Reducing Stress During Tournaments 3 Easy Steps To Less Stress</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1800,14 +1832,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/",
          "pubDate" : "Thu, 10 Jun 2021 06:02:53 +0000",
          "title" : "European Women Individual Chess Championship - 30 June Registration Deadline"
-      },
-      {
-         "description" : "GM Shakhriyar Mamedyarov caught the leaders GM Alexander Grischuk and GM Wesley So in the fifth round of the Superbet Chess Classic. Mamedyarov was the only winner of the day as he defeated GM Constantin Lupulescu with a wonderful combination. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-5-mamedyarov-lupulescu",
-         "pubDate" : "Wed, 09 Jun 2021 21:40:00 -0700",
-         "title" : "Superbet Chess Classic: Mamedyarov Strikes With Wonderful Combination"
       },
       {
          "description" : " Spurious Games: David Jenkins From the publisher: When a local chess player is discovered dead, Detective Inspector John Logos of Cornwall s St Borstal Constabulary is called in to investigate what turns out to be a serial killer running amok in the sedate world of Cornish chess. The detectives quickly find themselves as pawns in <a href=\"http://britishchessnews.com/2021/06/10/spurious-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Spurious Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/10/spurious-games/\">Spurious Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
@@ -2456,22 +2480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1118",
          "pubDate" : "Tue, 01 Jun 2021 21:25:41 +0000",
          "title" : "Round 10: Zhansaya wins the tournament; Kateryna has one foot in the Candidates"
-      },
-      {
-         "description" : "Chess education is based on examples of great players of the past. Most of the typical methods of attack, analogous plans and correct ways of conducting different endgames happened for the first time in their games. On the basis of these games, numerous books have been written about endgame subjects and endgame technique. Even concerning openings, the great Alexander Alekhine said that theory is simply the practice of the masters!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-how-to-study-the-classics-by-adrian-mikhalchishin",
-         "pubDate" : "Tue, 01 Jun 2021 20:00:00 +0100",
-         "title" : "New: How to study the classics by Adrian Mikhalchishin"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will focus on the fantastic performance by Zhansaya Abdumalik at the Women's Grand Prix in Gibraltar. She is s currently two points clear of the field and, perhaps more importantly, crossed the 2500 barrier and has officially got her Grandmaster title. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-zhansay-abdumalik-is-grandmaster",
-         "pubDate" : "Tue, 01 Jun 2021 19:18:10 +0100",
-         "title" : "The Weekly Show: Zhansaya Abdumalik gains Grandmaster title!"
       }
    ]
 }
