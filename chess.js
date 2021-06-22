@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "170 years ago, on 21 June 1851, Adolf Anderssen and Lionel Kieseritzky played one of the most famous games of all time: the so-called \"Immortal Game\", in which Anderssen sacrificed a large part of his army to mate the enemy king. Since then this game has been included in countless anthologies, it continues to be a popular for live exhibition games, it has been quoted in films, and the decisive position has been printed on T-shirts. It also played a role in the novel \"Writers & Lovers\" by American author Lily King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-literature-writers-lovers-and-the-immortal-game",
+         "pubDate" : "Tue, 22 Jun 2021 14:42:55 +0100",
+         "title" : "Chess in Literature: \"Writers & Lovers\" and the Immortal Game"
+      },
+      {
+         "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/coaching-for-grown-ups.html",
+         "pubDate" : "Tue, 22 Jun 2021 13:15:00 +0000",
+         "title" : "Coaching for grown ups"
+      },
+      {
+         "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Follow the games live! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Tue, 22 Jun 2021 13:55:00 +0100",
+         "title" : "Paris Rapid & Blitz - Live!"
+      },
+      {
          "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-4",
          "pubDate" : "Tue, 22 Jun 2021 13:20:00 +0100",
          "title" : "Paris Rapid & Blitz: Firouzja strong in the blitz"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Providing 10,000 kids from disadvantaged families in New York City with chess instruction, learning software and a set is the goal of <strong>The Gift of Chess</strong> <a href=\"https://thegiftofchess.org/\">campaign</a>, that has raised two thirds of its goal within a month and is <a href=\"https://youtu.be/7ZmKrvdBFZs\">covered by ABC</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nyc-kids-campaign-goes-strong/",
+         "pubDate" : "Tue, 22 Jun 2021 13:05:52 +0100",
+         "title" : "NYC kids campaign goes strong"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/4-indians-in-fray-in-asian-rapid-chess-tournament/articleshow/83746133.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83746133.cms\" /></a>Four Indian players, including Vidit Gujrathi and D Gukesh, will take part in the Asian Rapid online chess tournament to be held from June 26 to July 4.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-fray-in-asian-rapid-chess-tournament/articleshow/83746133.cms",
+         "pubDate" : "Tue, 22 Jun 2021 17:15:59 +0530",
+         "title" : "4 Indians in fray in Asian Rapid Chess tournament"
       },
       {
          "description" : "In the National Open in Las Vegas five players shared first with 7.0/9. The 15-year-old Arthur Guo had the best tiebreak and won the tournament. | Photos: Tournament page National Open",
@@ -122,6 +162,14 @@ news_feed (
          "title" : "Sam Shankland wins Prague Chess Festival Masters"
       },
       {
+         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
+         "pubDate" : "Mon, 21 Jun 2021 18:26:00 +0000",
+         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
+      },
+      {
          "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,6 +272,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-3",
          "pubDate" : "Mon, 21 Jun 2021 07:00:00 +0100",
          "title" : "Paris Rapid & Blitz: So grabs the lead"
+      },
+      {
+         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
+         "pubDate" : "Mon, 21 Jun 2021 04:43:00 +0000",
+         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -392,14 +448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1154",
          "pubDate" : "Sat, 19 Jun 2021 20:15:18 +0000",
          "title" : "Lei Tingjie and Anna Muzychuk advance into quarterfinals"
-      },
-      {
-         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
-         "pubDate" : "Sat, 19 Jun 2021 18:26:19 +0000",
-         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
       },
       {
          "description" : "After another day of exciting chess, GM Fabiano Caruana, GM Ian Nepomniachtchi, and GM Wesley So are sharing the lead at the Paris Rapid &#38;amp; Blitz tournament. One more day of rapid will follow and next will be two days of blitz. How to watch...",
@@ -970,14 +1018,6 @@ news_feed (
          "title" : "Prague Chess Festival: Three decisions in round 2"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carol Jarecki</strong>, <a href=\"https://www.chess.com/news/view/carol-jarecki-1935-2021\">chess organiser and head arbiter</a> of the 1995 PCA World Championship Kasparov vs Anand, the Kasparov vs Deep Blue-match in 1997 and many other events and also one of the most profound critical voices in <strong>FIDE</strong>, has passed away. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carol-jarecki-1935-2021/",
-         "pubDate" : "Wed, 16 Jun 2021 11:33:42 +0100",
-         "title" : "Carol Jarecki (1935-2021)"
-      },
-      {
          "description" : "The Northumbria Masters is pleased to announce that the John Robinson Youth Chess Trust has generously made junior bursaries available to a number of Under...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1536,14 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/technique-and-tactics",
          "pubDate" : "Sat, 12 Jun 2021 09:00:00 +0100",
          "title" : "Technique and tactics"
-      },
-      {
-         "description" : "The President of All India Chess Federation Dr Sanjay Kapoor inaugurated the National Under-16 Open &#38; Girls Online Chess Championship on Saturday in presence of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-16-open-girls-online-chess-championships-begins/",
-         "pubDate" : "Sat, 12 Jun 2021 07:59:15 +0000",
-         "title" : "National Under-16 Open & Girls Online Chess Championships begins"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov and GM Alexander Grischuk moved to plus two and are sharing the lead at the Superbet Chess Classic with three rounds to go. Mamedyarov profited from tactical oversights by GM Levon Aronian while Grischuk outplayed GM Const...",
@@ -2448,22 +2480,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/find-your-chess-coach/?utm_source=rss&utm_medium=rss&utm_campaign=find-your-chess-coach",
          "pubDate" : "Tue, 01 Jun 2021 13:30:47 +0000",
          "title" : "How To Find Your Perfect Chess Coach In 5 Steps"
-      },
-      {
-         "description" : "Entry European National Chess Federations and their partners Schedule: 18 June 3-5 PM CET in a ZOOM-meeting. Description During the meeting you will be presented with the new rules for Erasmus+, how you make an application for an Erasmus+ project, what the process looks like, what the key factors for success are, and general advice. Practical examples of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/webinar-for-erasmus-friday-june-18/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/webinar-for-erasmus-friday-june-18/",
-         "pubDate" : "Tue, 01 Jun 2021 12:34:24 +0000",
-         "title" : "Webinar for Erasmus #Friday June 18"
-      },
-      {
-         "description" : "Magnus Carlsen won the sixth tournament of the Meltwater Champions Chess Tour after beating Wesley So in an exciting final match which was only decided in Armageddon. This was the third time Carlsen and So faced each other in a final of the tour, and So was inches away from scoring an unlikely third victory in a row. Meanwhile, Ian Nepomniachtchi defeated Teimour Radjabov in the match for third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2021-day-9",
-         "pubDate" : "Tue, 01 Jun 2021 13:20:00 +0100",
-         "title" : "Carlsen beats So in Armageddon, wins FTX Crypto Cup"
       }
    ]
 }
