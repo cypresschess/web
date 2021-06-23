@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh leg of the Meltwater Champions Chess Tour will be played from June 26 until July 4. Dubbed the Goldmoney Asian Rapid, the event will feature a $100,000 prize fund. Remarkably, the highest-rated woman player in the world, Hou Yifan, will take part in the tournament. Magnus Carlsen and Wesley So, currently placed first and second respectively in the tour standings, will also participate.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-preview",
+         "pubDate" : "Wed, 23 Jun 2021 13:00:00 +0100",
+         "title" : "Asian players to face Carlsen & Co. at Goldmoney Asian Rapid"
+      },
+      {
+         "description" : "Guildford Chess Club is celebrating its 125th anniversary, and is running a special event in Guildford High Street on Saturday 11th September from 10.30 -...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/guildford-chess-club-is-125-years-old/",
+         "pubDate" : "Wed, 23 Jun 2021 10:49:17 +0000",
+         "title" : "Guildford Chess Club is 125 years old!"
+      },
+      {
+         "description" : "Tejaswini G of Tamilnadu becomes champion in the National Under-14 Girls Online Chess Championship which concluded on Monday. She comfortably clinched the title with 10.5",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tejaswini-under-14-girls-champion/",
+         "pubDate" : "Wed, 23 Jun 2021 09:42:39 +0000",
+         "title" : "Tejaswini Under-14 Girls Champion"
+      },
+      {
+         "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman van Grooten, Robert Ris or Lawrence Trent. Real pre",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-chessbase-chessbase-account-video-section-2021",
+         "pubDate" : "Wed, 23 Jun 2021 09:38:45 +0100",
+         "title" : "The new ChessBase video portal: 5,000 videos online!"
+      },
+      {
+         "description" : " Hopefully the Covid crisis is gradually coming to an end and things will now return to some version of new normal. It has been a tough year for many people whose normal lifestyles have been curtailed and anyone who has lived through this time will never forget it. What will this new normal look like? <a href=\"https://chessimprover.com/fifty-shades-of-ray/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fifty Shades of Ray\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fifty-shades-of-ray/\">Fifty Shades of Ray</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/fifty-shades-of-ray/",
+         "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
+         "title" : "Fifty Shades of Ray"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Bryght Labs</strong> has appointed Abrahamyan and Aronian and keeps hiring developers for the <strong>Chessup</strong> board, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/tatev-abrahamian.1920.jpeg\" title=\"Tatev Abrahamyan is the Chess Director of Chessup. Lennart Ootes / St Louis Chess Campus\" data-title=\"Tatev Abrahamyan is the Chess Director of Chessup. (Lennart Ootes / St Louis Chess Campus)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tatev-abrahamian.480.jpeg\" alt=\"Tatev Abrahamyan is the Chess Director of ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/building-a-team-to-build-a-board/",
+         "pubDate" : "Wed, 23 Jun 2021 08:08:30 +0100",
+         "title" : "Building a team to build a board"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros treks through two games from true chess endgame masters: former U.S. Champion Sam Reshevsky and living legend Ulf Andersson. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -456,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/shankland-wins-prague-masters-2021",
          "pubDate" : "Sun, 20 Jun 2021 23:05:00 +0100",
          "title" : "Shankland wins Prague Masters after dramatic final round"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Open</strong> <a href=\"http://www.uschess.org/tournaments/2021/usopen/\">can take place</a> between 31 July and 8 August in Cherry Hill near Philadelphia. The venue hotel is already booked out. While the players are required to wear masks, participants of the <strong>US Chess</strong> governance meetings are not since all of them are supposed to be fully vaccinated. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/us-chess-comes-together/",
-         "pubDate" : "Sun, 20 Jun 2021 22:37:52 +0100",
-         "title" : "US Chess comes together"
       },
       {
          "description" : "",
@@ -1474,14 +1514,6 @@ news_feed (
          "title" : "Mamedyarov takes a one point lead into the final round of the Superbet Classic - 8"
       },
       {
-         "description" : "All India Chess Federation lost a great supporter and friend as Member of FIDE Ethics Commission, Former President of Nepal Chess Association and Former President",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-shri-rajesh-hari-joshi/",
-         "pubDate" : "Sun, 13 Jun 2021 17:43:43 +0000",
-         "title" : "Rest in Peace Shri Rajesh Hari Joshi"
-      },
-      {
          "description" : " With 5 rounds of the 2021 NSW Open completed, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane share the lead on 4.5/5. In round 5 Fernandez once again demonstrated his creativity in complex positions, sacrificing a piece early on against Fred Litchfield, before reaching an ending a whole rook down, but with an avalanche of pawns as winning compensation. Lane got to 4.5 after Harry Press sacrificed a piece in the early middlegame, but this proved unsound, giving lane a quick win. Ikeda also had a quick win, punishing CM Isaac Zhao after Zhao went pawn grabbing in the opening. Tomorrow mornings round has Lane against Fernandez and Morris against Ikeda. As none of the 4 have played each o",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2162,14 +2194,6 @@ news_feed (
          "title" : "Gulnar Mammadova wins Qualifier VI"
       },
       {
-         "description" : " I've played two rather similar endings online recently. Both started off with bishop against knight before the minor pieces were traded off into a pawn ending. I was very lucky to win both games after my opponents, with not a lot of time on the clock, went wrong. In the first game I was black <a href=\"https://chessimprover.com/two-instructive-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Two Instructive Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/two-instructive-endings/\">Two Instructive Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/two-instructive-endings/",
-         "pubDate" : "Sun, 06 Jun 2021 07:11:25 +0000",
-         "title" : "Two Instructive Endings"
-      },
-      {
          "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Classic in Bucharest. The one exciting encounter of the round saw Anish Giri going for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2472,22 +2496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hardly-any-changes-fide-ratings-june-2021",
          "pubDate" : "Wed, 02 Jun 2021 13:00:00 +0100",
          "title" : "Hardly any changes: FIDE ratings June 2021"
-      },
-      {
-         "description" : " The Gibraltar FIDE Women's Grand Prix tookplace 22nd May to 2nd June 2021. This was the final Grand Prix in a much extended series due to the Coronavirus crisis. The previous events were: Skolkovo, September 10th - 23rd 2019; Monaco, December 2nd - 15th 2019 and Lausanne, March 1st - 14th 2020. Aleksandra Goryachkina had already qualified for the Candidates tournament as the loser of the World Championship match, after this tournament Humpy Koneru took the first Grand Prix place and Kateryna Lagno the second and they have qualified too. Zhansaya Abdumalik won this Grand Prix with an impressive score of 8.5/11. The FIDE Women's World Cup has three Candidates places, their Grand Swiss 1 place",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-fide-womens-grand-prix-2021",
-         "pubDate" : "Wed, 2 Jun 2021 14:54:00 +0400",
-         "title" : "Gibraltar FIDE Women's Grand Prix 2021 - Games and Results"
-      },
-      {
-         "description" : "Due to the ongoing pandemic the Asian Individual Hybrid Chess Championship 2021 was played online. From 21 to 29 May 82 players from 15 countries battled in a hybrid tournament for the title, a place in the FIDE World Cup 2021, and the pitfalls of online play. After nine rounds the 19-year old Grandmaster Shamsiddin Vokhidov from Uzbekistan and IM Tin Jingyao from Singapore shared first with 7.0/9 each, but Vokhidov won the tournament on tiebreak. Top seed Parham Maghsoodloo from Iran finished tenth and suffered from power failures.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shamsiddin-vokhidov-wins-asian-individual-hybrid-chess-championship-2021",
-         "pubDate" : "Wed, 02 Jun 2021 11:00:41 +0100",
-         "title" : "Shamsiddin Vokhidov wins Asian Individual Hybrid Chess Championship 2021"
       }
    ]
 }
