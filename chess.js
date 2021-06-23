@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Magnus Carlsen starts his Goldmoney Asian Rapid campaign this Saturday, June 26th with clashes against 18-year-old Alireza Firouzja, women's no. 1 Hou Yifan and Paris Rapid & Blitz winner Wesley So. Other Day 1 pairings for the 7th event on the Meltwater Champions Chess Tour include Indian maverick Adhiban taking on all three of his Indian colleagues - 15-year-old Gukesh, 17-year-old Erigaisi and finally Vidit. There's a novelty in the commentary teams, with Danny King stepping in for Peter Leko as Tania Sachdev's partner.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-starts-goldmoney-asian-rapid-against-firouzja-hou-yifan-so",
+         "pubDate" : "Wed, 23 Jun 2021 16:52:49 +0000",
+         "title" : "Carlsen starts Goldmoney Asian Rapid against Firouzja, Hou Yifan & So"
+      },
+      {
          "description" : "The new edition of one of our favourite books, by problemist Werner Keym, now contains 400 famous examples of brilliant games, remarkable, sometimes outrageous studies, and preposterous chess problems. The book includes a lot of subsidiary diagrams that makes it particularly easy to read. We bring you a number of entertaining examples: for instance, can you find a forced mate in two in this position? There is only one key move that will do it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1458,14 +1466,6 @@ news_feed (
          "title" : "What's New on FIDE Online Arena - June 2021"
       },
       {
-         "description" : "Just after receiving an invitation to next month's FIDE World Cup in Sochi, Indian junior star GM Gukesh D now has his warm-up plans booked: polishing up his skills with World Champion Magnus Carlsen and the globe's best GMs in the Meltwater Champions Chess Tour. The second-youngest GM in history punched his ticket to the June 26 super event by winning the Gelfand Challenge with a 14/19 score, first beating rival GM Praggnanandhaa in a dramatic Round 17 game, then catching him at the finish line with a clutch 4/4 performance to close the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gukesh-books-spot-on-champions-chess-tour",
-         "pubDate" : "Mon, 14 Jun 2021 11:04:37 +0000",
-         "title" : "Gukesh books spot on Champions Chess Tour"
-      },
-      {
          "description" : " The Gelfand Challenge was the second rapid event of the Baer Challengers Chess Tour played on the Chess24 servers. This 20 player round robin had some of the best young players competing. The time control was 10 minutes plus a 5-second increment. Players: Nodirbek Abdusattorov, Sarin Nihal, R Praggnanandhaa, Awonder Liang, Vincent Keymer, D Gukesh, Leon Luke Mendonca, Jonas Buhl Bjerre, Tingjie Lei, Volodar Murzin, Dinara Saduakassova, Sarasadat Khademalsharieh, Polina Shuvalova, Zhansaya Abdumalik, Jiner Zhu, Christopher Woojin Yoo, Gunay Mammadzada, Carissa Yip, Olga Badelka, Nurgyul Salimova. D Gukesh just edged out R Praggnanandhaa on tie-break (he beat him in their individual game and ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2464,30 +2464,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/",
          "pubDate" : "Wed, 02 Jun 2021 20:32:46 +0000",
          "title" : "2021 African Individual Chess Championship"
-      },
-      {
-         "description" : "The Webinar for FIDE International Organizers will take place from June 28 July 1. The event is organized by European Chess Union in cooperation with FIDE Events Commission and FIDE Women's Commission, co-funded by FIDE Development Fund. The event will be organized for maximum 60 participants 15 female participants from any European federation, supported by FIDE Development&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-organizers-webinar/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/international-organizers-webinar/",
-         "pubDate" : "Wed, 02 Jun 2021 17:34:45 +0000",
-         "title" : "International Organisers Webinar"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-qualifies-for-womens-candidates/articleshow/83183434.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83183434.cms\" /></a> World No. 3 Koneru Humpy qualified for the FIDE women's Candidates which is scheduled to be held in the first half of next year. The confirmation came after the fourth and final leg of the women's Grand Prix (WGP) which concluded in Gibraltar on Wednesday evening. Interestingly, Humpy had pulled out of the last leg due to the Covid-19 pandemic.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-qualifies-for-womens-candidates/articleshow/83183434.cms",
-         "pubDate" : "Wed, 02 Jun 2021 23:00:21 +0530",
-         "title" : "Koneru Humpy qualifies for women's Candidates"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at a game Vincent Keymer and Viktor Laznicka played at the European Hybrid Qualification Tournament. Keymer impressed with bold and creative play but then failed to convert a winning endgame. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-v-keymer-vs-l-laznicka",
-         "pubDate" : "Wed, 02 Jun 2021 18:00:00 +0100",
-         "title" : "Game of the Week: V. Keymer vs V. Laznicka"
       }
    ]
 }
