@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/masters-endgame-insane-endgame-gm-denes-boros-lichessorg",
+         "pubDate" : "Wed, 23 Jun 2021 01:22:54 +0000",
+         "title" : "Masters of the Endgame | Insane in the Endgame - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes the great rook vs. knight blitz endgame Maxime Vachier-Lagrave vs. Alireza Firouzja from the 2021 Paris Grand Chess Tour. Plus, see how the game relates to a historic game, and to one of Caleb's games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paris-gct-rook-vs-knight-mvl-firouzja-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paris-gct-rook-vs-knight-mvl-firouzja-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 23 Jun 2021 01:22:54 +0000",
+         "title" : "Paris GCT: Rook vs. Knight (MVL-Firouzja) | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Oote",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-5",
+         "pubDate" : "Wed, 23 Jun 2021 01:35:00 +0100",
+         "title" : "Wesley So triumphs at the Paris Rapid & Blitz Tournament"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1163",
+         "pubDate" : "Tue, 22 Jun 2021 23:44:15 +0000",
+         "title" : "Wesley So wins 2021 Paris Grand Chess Tour"
+      },
+      {
          "description" : "Wesley So won 4 of his last 5 games as he clinched the Paris Rapid & Blitz with a round to spare and finished a full 3 points clear of Ian Nepomniachtchi in 2nd place. Wesley commented \"today was just my day\" after he scored 7/9, beating Alireza Firouzja's 6.5/9 the day before and clinching first place in the blitz as well as the overall prize. Maxime Vachier-Lagrave and Alireza Firouzja scored an underwhelming 50% on the final day, but shared 3rd place. Vladimir Kramnik won his last two games, but couldn't avoid finishing last.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-paris-rapid-blitz",
          "pubDate" : "Tue, 22 Jun 2021 11:47:00 -0700",
          "title" : "Wesley So Wins 2021 Paris Rapid & Blitz"
-      },
-      {
-         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French's capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Tue, 22 Jun 2021 19:15:00 +0100",
-         "title" : "Paris Rapid & Blitz - Wesley So wins!"
       },
       {
          "description" : "",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
          "pubDate" : "Tue, 22 Jun 2021 17:30:00 +0400",
          "title" : "Paris Rapid & Blitz 2021 - Games and Results"
+      },
+      {
+         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
+         "pubDate" : "Tue, 22 Jun 2021 14:30:00 +0100",
+         "title" : "Paris Rapid & Blitz - Wesley So wins!"
       },
       {
          "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
@@ -810,14 +842,6 @@ news_feed (
          "title" : "The Shocking Brooklyn | Grandmaster's Choice - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews Shakhriyar Mamedyarov's games from the 2021 Superbet Chess Classic in Romania. The Azeri went on a three-game winning streak en route to winning the event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarovs-superbet-win-streak-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a-5GasBjpQU.jpg?itok=wIt5nyXK\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarovs-superbet-win-streak-games-week-gm-denes-boros",
-         "pubDate" : "Fri, 18 Jun 2021 01:18:30 +0000",
-         "title" : "Mamedyarov's Superbet Win Streak! | Games of the Week - GM Denes Boros"
-      },
-      {
          "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -840,14 +864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1149",
          "pubDate" : "Thu, 17 Jun 2021 20:57:45 +0000",
          "title" : "WSCC 2021: Antoaneta Stefanova eases into quarterfinals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> From June 18-22, watch EXCLUSIVELY on KasparovChess.com and Kasparovchess on Twitch. Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour. Through the support of KasparovChess, Vivendi, and Colliers International, Paris hosts the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Eleven elite grandmasters will compete in 9 rounds of rapid chess and 18 rounds of blitz chess for a total prize fund of $150,000. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-typ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-exclusively-kasparovchess",
-         "pubDate" : "Thu, 17 Jun 2021 19:18:23 +0000",
-         "title" : "2021 Paris Grand Chess Tour: EXCLUSIVELY on KasparovChess"
       },
       {
          "description" : " The Goldmoney Asian Rapid takes place Sat 26th Jun to Sun 4th Jul 2021. This is the latest event of the Champions Chess Tour and features a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Play starts significantly earlier than most of the events on the tour so far, 12pm BST.",
