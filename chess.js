@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros treks through two games from true chess endgame masters: former U.S. Champion Sam Reshevsky and living legend Ulf Andersson. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/masters-endgame-reshevsky-andersson-insane-endgame-gm-denes-boros",
+         "pubDate" : "Wed, 23 Jun 2021 04:22:50 +0000",
+         "title" : "Masters of the Endgame: Reshevsky & Andersson | Insane in the Endgame - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Paris GCT: Rook vs. Knight (MVL-Firouzja) | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Oote",
+         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-5",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/undevelop-shocking-brooklyn-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Fri, 18 Jun 2021 04:18:28 +0000",
          "title" : "Undevelop? The Shocking Brooklyn! | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. 2021.06.17<br /> Laurent Fressinet vs Magnus Carlsen, World Blitz Championship (2014): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1759253\">https://www.chessgames.com/perl/chessgame?gid=1759253</a><br /> David J Eggleston vs Vladimir Fedoseev, Abu Dhabi Masters (2016): B02 Alekhine&#039;s defence, Brooklyn defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1828963\">https://www.chessgames.com/perl/chessgame?gid=1828963</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shocking-brooklyn-grandmasters-choice-gm-denes-boros-lichessorg",
-         "pubDate" : "Fri, 18 Jun 2021 01:18:30 +0000",
-         "title" : "The Shocking Brooklyn | Grandmaster's Choice - GM Denes Boros | lichess.org"
       },
       {
          "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
