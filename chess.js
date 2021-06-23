@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new edition of one of our favourite books, by problemist Werner Keym, now contains 400 famous examples of brilliant games, remarkable, sometimes outrageous studies, and preposterous chess problems. The book includes a lot of subsidiary diagrams that makes it particularly easy to read. We bring you a number of entertaining examples: for instance, can you find a forced mate in two in this position? There is only one key move that will do it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anything-but-average",
+         "pubDate" : "Wed, 23 Jun 2021 17:00:00 +0100",
+         "title" : "Anything But Average"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1164",
+         "pubDate" : "Wed, 23 Jun 2021 15:24:19 +0000",
+         "title" : "Budapest Chess Olympiad 2024: The contract is signed"
+      },
+      {
+         "description" : "European Union Youth Chess Championship 2021 will take place from 13th-22nd August 2021, in Kouty nad Desnou, Czech Republic. The event will be played in 4 age categories: U8, U10, U12 and U14, according to a Swiss system in 9 rounds, with time control of 90 min for the whole game + 30 sec increase for each move&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-union-youth-chess-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2021/",
+         "pubDate" : "Wed, 23 Jun 2021 14:54:44 +0000",
+         "title" : "European Union Youth Chess Championship 2021"
+      },
+      {
+         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gears-up-for-asian-rapid-chess-tourney/articleshow/83778887.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83778887.cms\" /></a> Telangana Grand Master Arjun Erigaisi will be among the four Indian players participating in the Asian Rapid Online Chess tournament being held as part of the Meltwater Champions Chess Tour from June 26. The Goldmoney Asian Rapid will offer a prize money of $100,000 and is leg seven of the prestigious ATP-style season of online chess organized by the Play Magnus Group.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gears-up-for-asian-rapid-chess-tourney/articleshow/83778887.cms",
+         "pubDate" : "Wed, 23 Jun 2021 18:04:08 +0530",
+         "title" : "Arjun Erigaisi gears up for Asian Rapid chess tourney"
+      },
+      {
          "description" : "The seventh leg of the Meltwater Champions Chess Tour will be played from June 26 until July 4. Dubbed the Goldmoney Asian Rapid, the event will feature a $100,000 prize fund. Remarkably, the highest-rated woman player in the world, Hou Yifan, will take part in the tournament. Magnus Carlsen and Wesley So, currently placed first and second respectively in the tour standings, will also participate.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "Tejaswini Under-14 Girls Champion"
       },
       {
-         "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman van Grooten, Robert Ris or Lawrence Trent. Real pre",
+         "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman Grooten, Robert Ris or Lawrence Trent. Real premium",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-new-chessbase-chessbase-account-video-section-2021",
@@ -2456,46 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-v-keymer-vs-l-laznicka",
          "pubDate" : "Wed, 02 Jun 2021 18:00:00 +0100",
          "title" : "Game of the Week: V. Keymer vs V. Laznicka"
-      },
-      {
-         "description" : "Nearly one hour video training. Plus 23 extensively analysed games by Jan-Krzysztof Duda, Yu Yangyi, Krishnan Sasikiran, Spyridon Kapnisis, Romain Edouard, Sury Vaibhav and Tanmay Srinath. ChessBase Magazine Extra is the perfect addition to ChessBase Magazine and can also be obtained by subscription (6 issues per year). Available on DVD or as a download.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-201",
-         "pubDate" : "Wed, 02 Jun 2021 16:00:00 +0100",
-         "title" : "New: CBM EXTRA 201"
-      },
-      {
-         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. Follow the games live with commentary starting at 14.00 CEST (08.00 ET, 12.00 UTC). | Pictured: Gunay Mammadzada | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-live",
-         "pubDate" : "Wed, 02 Jun 2021 15:45:00 +0100",
-         "title" : "Women's GP: Gibraltar - Live!"
-      },
-      {
-         "description" : " Rook endings are difficult to play, as even a pawn advantage isn't enough to secure the point. However I have seen both recently, and in the past, the easiest way to play them is when you have an extra rook! This was spotted in 2 games at my local club last night, and in one of my games from the 2004 Olympiad. Despite having to play a rook up for 30 moves, the highlight was after the finish when a passing IM congratulated me on converting a 'difficult rook ending'. To be fair, clearly they hadn't expected my opponent to play as many moves as they did. <br /> <b>Niyontegereje,Edison - Press,Shaun (2070) [C55]</b><br />Calvia ol (Men) Mallorca (Spain) (8.61), 23.10.2004 <script>new PgnViewer(",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/the-easy-rook-ending.html",
-         "pubDate" : "Wed, 02 Jun 2021 13:14:00 +0000",
-         "title" : "The easy rook ending"
-      },
-      {
-         "description" : "After an exciting ninth round and a quieter tenth day of action, 21-year-old Zhansaya Abdumalik secured first place at the Women's Grand Prix in Gibraltar. The young star from Kazakhstan beat Valentina Gunina and signed a quick draw with Kateryna Lagno to get a 1&frac12;-point lead with only one round to go. | Pictured: Deputy Chief Minister of Gibraltar Jospeh Garcia makes the first move in Abdumalik v Lagno. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r10",
-         "pubDate" : "Wed, 02 Jun 2021 13:25:00 +0100",
-         "title" : "Gibraltar GP: Abdumalik wins with a round to spare"
-      },
-      {
-         "description" : "There are hardly any changes at the top of the new FIDE World Ranking List as the first 22 players on the list have not played any FIDE-rated games in May and with a rating of 2847 Magnus Carlsen is still clear number one, followed by Fabiano Caruana with 2820. However, in the women's list Aleksandra Goryachkina gained some points and is now on 2596, only four points away from the 2600 mark though Hou Yifan (2658) is still clear number one on the women's list. Alireza Firouzja (2759) remains best junior, and Polina Shuvalova (2489) remains best female junior player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hardly-any-changes-fide-ratings-june-2021",
-         "pubDate" : "Wed, 02 Jun 2021 13:00:00 +0100",
-         "title" : "Hardly any changes: FIDE ratings June 2021"
       }
    ]
 }
