@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/korobov-wins-june-22-titled-tuesday",
+         "pubDate" : "Wed, 23 Jun 2021 15:03:03 -0700",
+         "title" : "Korobov Wins June 22 Titled Tuesday With 10.5/11"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess district of South Westphalia in the centre of Germany has <a href=\"https://perlenvombodensee.de/2021/06/23/altes-spiel-neue-vorzeichen/\">decided to suspend</a> the 2021/22 team season and invite those who want to play to test new match formats with smaller teams or two shorter games instead of a long one. Some regional leagues are considering hybrid matches. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/south-westphalia-tries-something-new/",
+         "pubDate" : "Wed, 23 Jun 2021 22:58:21 +0100",
+         "title" : "South Westphalia tries something new"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look how Maxime Vachier-Lagrave won a fine positional and attacking game in a popular opening line against Teimour Radjabov at the Grand Chess Tournament in Paris. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-vachier-lagrave-vs-radjabov",
+         "pubDate" : "Wed, 23 Jun 2021 18:00:00 +0100",
+         "title" : "Game of the Week: Vachier-Lagrave vs Radjabov"
+      },
+      {
          "description" : "World Champion Magnus Carlsen starts his Goldmoney Asian Rapid campaign this Saturday, June 26th with clashes against 18-year-old Alireza Firouzja, women's no. 1 Hou Yifan and Paris Rapid & Blitz winner Wesley So. Other Day 1 pairings for the 7th event on the Meltwater Champions Chess Tour include Indian maverick Adhiban taking on all three of his Indian colleagues - 15-year-old Gukesh, 17-year-old Erigaisi and finally Vidit. There's a novelty in the commentary teams, with Danny King stepping in for Peter Leko as Tania Sachdev's partner.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-3-wesley-so-wins-the-rapid",
          "pubDate" : "Mon, 21 Jun 2021 11:17:10 +0000",
          "title" : "Paris Rapid & Blitz 3: Wesley So wins the Rapid"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andreas Weidinger</strong>, former head of the Danish Conservative People party youth and a climate policy expert, is the <a href=\"https://www.linkedin.com/in/andreasweidingerdk/\">newly appointed Director of Development</a> at <strong>Dansk Skoleskak</strong>, an innovator in school chess that is planning to open a \"chess house\" by 2025. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/dansk-skoleskak-appoints-development/",
-         "pubDate" : "Mon, 21 Jun 2021 11:33:54 +0100",
-         "title" : "Dansk Skoleskak appoints development director"
       },
       {
          "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
       },
       {
-         "description" : "The top 50 of the Fighting Chess Index, introduced by Australian grandmaster and economist David Smerdon, has GM Vladimir Kramnik in first place. GM Teimour Radjabov, who was criticized this week for playing quick draws at the Superbet Chess Class...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fighting-chess-index-kramnik-radjabov",
-         "pubDate" : "Fri, 11 Jun 2021 01:37:00 -0700",
-         "title" : "Kramnik Leads Fighting Chess Index Top 50, Radjabov At Bottom"
-      },
-      {
          "description" : "Yermo is back! Once the restrictions allowed it, he made it down to Mexico City with travelling pal Alexander Shabalov to try his hand in a 10-player round robin. In a thorough report, including plenty of pictures and annotations, he tells us all about his time in CDMX - chapulines, positive COVID tests and good old over-the-board chess made for a great experience in the second-largest metropolitan area of the Western Hemisphere.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2448,22 +2456,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
          "pubDate" : "Thu, 3 Jun 2021 10:04:00 +0400",
          "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1121",
-         "pubDate" : "Wed, 02 Jun 2021 20:46:47 +0000",
-         "title" : "R 11: to Zhansaya, the glory, to Kateryna, the ticket to the Candidates"
-      },
-      {
-         "description" : " Susan Namangale President of Malawi Chess Federation This past year has been one with a bit of intrigue as the continent of Africa seemed to increase chess activity online. There were a number of staged &#8220;cage matches&#8221; and many federations organized friendly matches. Social media groups were abuzz about the prospects of African chess and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/\">2021 African Individual Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/02/2021-african-individual-chess-championship/",
-         "pubDate" : "Wed, 02 Jun 2021 20:32:46 +0000",
-         "title" : "2021 African Individual Chess Championship"
       }
    ]
 }
