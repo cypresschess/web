@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1165",
+         "pubDate" : "Thu, 24 Jun 2021 14:57:29 +0000",
+         "title" : "Latvia to stage the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
+      },
+      {
          "description" : "The French Team Championship starts today in Chalons-en-Champagne and many world class players sit down to play. Round 1 begins today at 15:15 CEST (9:15 ET, 13:15 UTC), the rounds on the following will begin at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
