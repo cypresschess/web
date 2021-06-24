@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews the best games from this week in world class chess. 2021.06.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-prague-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Rr-hD5MxSc.jpg?itok=1_-kp5tI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-prague-games-week-gm-denes-boros",
+         "pubDate" : "Thu, 24 Jun 2021 22:25:10 +0000",
+         "title" : "Duda in Prague | Games of the Week - GM Denes Boros"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1166",
+         "pubDate" : "Thu, 24 Jun 2021 21:09:46 +0000",
+         "title" : "Lagno beats Dzagnidze to advance into semis"
+      },
+      {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look how Maxime Vachier-Lagrave won a spectacular game against Ian Nepomniachtchi and the French Defense. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-mvl-beats-the-french",
          "pubDate" : "Thu, 24 Jun 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: MVL beats the French"
+      },
+      {
+         "description" : " The final of the 2nd Katara International Bullet Tournament took place on Lichess on 23rd June. Vladislav Artemiev survived a strong comeback from Andrew Tang to win the final 7.5-6.5. Tang had earlier defeated defending champion Magnus Carlsen in the Semifinals, Artemiev saw off Alexander Grischuk convincingly. The event was a 16 player knockout.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/2nd-katara-international-bullet-tournament-2021",
+         "pubDate" : "Thu, 24 Jun 2021 20:57:00 +0400",
+         "title" : "2nd Katara International Bullet Tournament 2021 - Games and Results"
+      },
+      {
+         "description" : " The French Team Championship Top 12 takes place in Chalons en Champagne Thu 24th Jun to Sat 17th Jul 2021. Mamedyarov, Navara, Bacrot, Giri, Grischuk, Wang Hao, Topalov, Adams, Korobov, Jones, Firouzja, Ivanchuk, MVL, Harikrishna, etc are in the team rosters although there are no guarantees as to who of these may actually play. 12 teams 11 rounds,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/french-team-championship-top-12-2021",
+         "pubDate" : "Thu, 24 Jun 2021 20:52:00 +0400",
+         "title" : "French Team Championship Top 12 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -984,14 +1016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms",
          "pubDate" : "Fri, 18 Jun 2021 11:11:04 +0530",
          "title" : "Can't wait to be part of Goldmoney Asian Rapid: Gukesh"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros is amused by openings named for cities, but Brooklyn needs some love! See why and how to play the Brooklyn variation of the Alekhine Defense, where the knight retreats back home to g8 on the second move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/undevelop-shocking-brooklyn-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/undevelop-shocking-brooklyn-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Fri, 18 Jun 2021 04:18:28 +0000",
-         "title" : "Undevelop? The Shocking Brooklyn! | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
@@ -2432,14 +2456,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-third-attempt-champions-tour-amid-copycat-draws-gripes-chess",
          "pubDate" : "Fri, 04 Jun 2021 07:00:32 +0000",
          "title" : "Magnus Carlsen beats Wesley So at third attempt amid copycat draw gripes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1124",
-         "pubDate" : "Thu, 03 Jun 2021 21:39:32 +0000",
-         "title" : "Iulija Osmak wins Qualifier IV"
       }
    ]
 }
