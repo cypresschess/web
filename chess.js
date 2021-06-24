@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Team Championship starts today in Chalons-en-Champagne and many world class players sit down to play. Round 1 begins today at 15:15 CEST (9:15 ET, 13:15 UTC), the rounds on the following will begin at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Thu, 24 Jun 2021 15:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : " Share! GM Pontus Carlsson GM Pontus Carlsson has told The Chess Drum that he was at a tournament in Spain where the others did not believe he was a chess player. After not taking him seriously, he promptly won all of the games. He overheard one of the players saying &#8220;The Black guy is playing [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/\">Pontus Carlsson wins 2021 Prague Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/",
+         "pubDate" : "Thu, 24 Jun 2021 13:05:52 +0000",
+         "title" : "Pontus Carlsson wins 2021 Prague Blitz!"
+      },
+      {
+         "description" : " The draw for the 2021 World Cup has been published, although the new format leaves it looking a little weird. The top 50 players now get seeded into round 2, but they are included in the first round (all paired against Bye). After that it becomes a normal 128 player knockout. Possibly the changes have encouraged Magnus Carlsen to play this year, although a number of players in the top 20 are missing, although the cause is likely to be connected to travel difficulties. Such difficulties resulted in the top 3 qualifiers from the Oceania Zonal pulling out, and our spot now goes to CM Elmer Prudente from Guam. The short notice has not done him any favours, and he is running a gofundme campaign ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/2021-world-cup-draw-announced.html",
+         "pubDate" : "Thu, 24 Jun 2021 12:21:00 +0000",
+         "title" : "2021 World Cup draw announced"
+      },
+      {
          "description" : "The crème de la crème of French and international chess currently meet in Châlons-en-Champagne in France, where the French Team Championship will be played from 24 June to 4 July. Top Grandmasters such as Fabiano Caruana, Anish Giri, Veselin Topalov, Shakhriyar Mamdyarov, Pentala Harikrishna, Alireza Firozja, Bassem Amin or Jorden van Foreest to name just a few will support their French teams. This afternoon the 1st round will be played.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,7 +250,7 @@ news_feed (
          "title" : "Amadou Lamine Ciss&eacute; wins Senegal National Championship"
       },
       {
-         "description" : " Share!The anticipation was high and many eagerly awaited the moment when over-the-board (OTB) chess would return. The Continental Chess Association (CCA) announced that they were be hosting a full slate of tournaments for 2021 year, but for the Chicago Open, there would be restrictions. David Hater mentioned in his report on uschess.org that were varied [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/\">Chicago Open excites OTB in full swing!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " The anticipation was high and many eagerly awaited the moment when over-the-board (OTB) chess would return. The Continental Chess Association (CCA) announced that they were be hosting a full slate of tournaments for 2021 year, but for the Chicago Open, there would be restrictions. David Hater mentioned in his report on uschess.org that were varied [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/\">Chicago Open excites OTB in full swing!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/",
@@ -2408,30 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attack-and-counterattack-in-the-sicilian-taimanov",
          "pubDate" : "Thu, 03 Jun 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Attack and counterattack in the Sicilian Taimanov"
-      },
-      {
-         "description" : " While not as well known as the London 1922 International Congress, the 1932 London Tournament was still quite an event. The event was won by Alekhine with 9/11, ahead of Flohr who finished a point behind. Sultan Kahn, Maroczy and Tartakower also played, and the tournament saw Vera Menchik* add more members to he 'club', beating G.A Thomas and William Winter. The second place finish by Flohr was part of a successful run early in his career that saw him touted as a possible World Championship contender. However he was not able to raise the stakes for such a challenge and by the end of the 1930's his cautious, positional style, saw him fall behind his contemporaries. Nonetheless, the following",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/london-1932.html",
-         "pubDate" : "Thu, 03 Jun 2021 13:02:00 +0000",
-         "title" : "London 1932"
-      },
-      {
-         "description" : "A draw with Mariya Muzychuk in the last round of the Gibraltar Women's Grand Prix was enough for Kateryna Lagno to secure a spot in the next edition of the Women's Candidates Tournament. The one scenario in which the Russian would have failed to qualify was not so far from happening, as Muzychuk did not go for the most trying continuation nearing the end of the game while Nana Dzagnidze had a superior position against Valentina Gunina at some point in their lengthy encounter. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-women-gp-2021-r11",
-         "pubDate" : "Thu, 03 Jun 2021 14:00:00 +0100",
-         "title" : "Gibraltar GP: Lagno qualifies to the Candidates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" />Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms",
-         "pubDate" : "Thu, 03 Jun 2021 17:21:17 +0530",
-         "title" : "Vidit Gujrathi qualifies for chess World Cup"
       }
    ]
 }
