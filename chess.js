@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The crème de la crème of French and international chess currently meet in Châlons-en-Champagne in France, where the French Team Championship will be played from 24 June to 4 July. Top Grandmasters such as Fabiano Caruana, Anish Giri, Veselin Topalov, Shakhriyar Mamdyarov, Pentala Harikrishna, Alireza Firozja, Bassem Amin or Jorden van Foreest to name just a few will support their French teams. This afternoon the 1st round will be played.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-top-players-take-part-in-french-team-championship",
+         "pubDate" : "Thu, 24 Jun 2021 11:33:57 +0100",
+         "title" : "International top players take part in French Team Championship"
+      },
+      {
+         "description" : " In Russia the so-called Pirc Defence (1.e4 d6 2.d4 Nf6 3.Nc3 g6 or 1.e4 d6 2.d4 g6 followed by Nf6) is usually called the Ufimtsev Defence or the Ufimtsev-Pirc. It is so named after the Soviet and Kazakh master Anatoly Ufimtsev, who was already pioneering this line in the 1930s. Black's idea in the Ufimtsev-Pirc <a href=\"https://chessimprover.com/undermine-em-with-the-ufimtsev/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Undermine 'em with the Ufimtsev\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/undermine-em-with-the-ufimtsev/\">Undermine 'em with the Ufimtsev</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/undermine-em-with-the-ufimtsev/",
+         "pubDate" : "Thu, 24 Jun 2021 08:00:22 +0000",
+         "title" : "Undermine 'em with the Ufimtsev"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Horst Rittner</strong>, who for 26 years edited the German magazine <strong>Schach</strong>, presented chess on Eastern German TV and became correspondence chess world champion in 1971, has passed away in Berlin on 14 June, as has <a href=\"https://www.schachbund.de/news/horst-rittner.html\">become known only now</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/horst-rittner-1930-2021/",
+         "pubDate" : "Thu, 24 Jun 2021 08:41:36 +0100",
+         "title" : "Horst Rittner (1930-2021)"
+      },
+      {
          "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-4",
          "pubDate" : "Tue, 22 Jun 2021 13:20:00 +0100",
          "title" : "Paris Rapid & Blitz: Firouzja strong in the blitz"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Providing 10,000 kids from disadvantaged families in New York City with chess instruction, learning software and a set is the goal of <strong>The Gift of Chess</strong> <a href=\"https://thegiftofchess.org/\">campaign</a>, that has raised two thirds of its goal within a month and is <a href=\"https://youtu.be/7ZmKrvdBFZs\">covered by ABC</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nyc-kids-campaign-goes-strong/",
-         "pubDate" : "Tue, 22 Jun 2021 13:05:52 +0100",
-         "title" : "NYC kids campaign goes strong"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83746133.cms\" />Four Indian players, including Vidit Gujrathi and D Gukesh, will take part in the Asian Rapid online chess tournament to be held from June 26 to July 4.",
@@ -2082,14 +2098,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Lupulescu tricks Giri"
       },
       {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras A couple of games from the past 2 rounds of our club tournament provided instructive positions. The first one of them is from an endgame. Black's last move was 29 c6. Have a look at the position but not at the solution and decide what you would have <a href=\"https://chessimprover.com/quick-decisions-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-6/\">Quick Decisions (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-6/",
-         "pubDate" : "Tue, 08 Jun 2021 09:30:34 +0000",
-         "title" : "Quick Decisions (6)"
-      },
-      {
          "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2424,30 +2432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms",
          "pubDate" : "Thu, 03 Jun 2021 17:21:17 +0530",
          "title" : "Vidit Gujrathi qualifies for chess World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1123",
-         "pubDate" : "Thu, 03 Jun 2021 09:15:55 +0000",
-         "title" : "Sitges will host the FIDE World Women's Team Championship 2021"
-      },
-      {
-         "description" : "Chess studies have brought pleasure to enthusiasts over the centuries. They show the depth of the game more dramatically than regular over-the-board encounters. They can be mind-bogglingly clever. But how do authors go about composing studies? Amatzia Avni is a Fide Master in both OTB play and composition. He describes the process of spotting an idea and refining it, step by step, together with a colleague, until you have a competition-worthy study.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/building-a-study",
-         "pubDate" : "Thu, 03 Jun 2021 10:05:22 +0100",
-         "title" : "Building a Study"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1122",
-         "pubDate" : "Thu, 03 Jun 2021 08:53:54 +0000",
-         "title" : "Queens' Festival: Registration date extended"
       }
    ]
 }
