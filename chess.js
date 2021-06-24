@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look how Maxime Vachier-Lagrave won a spectacular game against Ian Nepomniachtchi and the French Defense. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-mvl-beats-the-french",
+         "pubDate" : "Thu, 24 Jun 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: MVL beats the French"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,8 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/korobov-wins-june-22-titled-tuesday",
-         "pubDate" : "Wed, 23 Jun 2021 15:03:03 -0700",
-         "title" : "Korobov Wins June 22 Titled Tuesday With 10.5/11"
+         "pubDate" : "Wed, 23 Jun 2021 15:03:00 -0700",
+         "title" : "Korobov Wins June 22 Titled Tuesday With Record-Setting Performance"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess district of South Westphalia in the centre of Germany has <a href=\"https://perlenvombodensee.de/2021/06/23/altes-spiel-neue-vorzeichen/\">decided to suspend</a> the 2021/22 team season and invite those who want to play to test new match formats with smaller teams or two shorter games instead of a long one. Some regional leagues are considering hybrid matches. </div> ",
@@ -2432,14 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1124",
          "pubDate" : "Thu, 03 Jun 2021 21:39:32 +0000",
          "title" : "Iulija Osmak wins Qualifier IV"
-      },
-      {
-         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at the old main line (Be2 & Be3) of the Sicilian Taimanov, which often leads to fascinating games full of fun and tactical blows. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attack-and-counterattack-in-the-sicilian-taimanov",
-         "pubDate" : "Thu, 03 Jun 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Attack and counterattack in the Sicilian Taimanov"
       }
    ]
 }
