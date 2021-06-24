@@ -58,7 +58,7 @@ news_feed (
          "title" : "European Union Youth Chess Championship 2021"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gears-up-for-asian-rapid-chess-tourney/articleshow/83778887.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83778887.cms\" /></a> Telangana Grand Master Arjun Erigaisi will be among the four Indian players participating in the Asian Rapid Online Chess tournament being held as part of the Meltwater Champions Chess Tour from June 26. The Goldmoney Asian Rapid will offer a prize money of $100,000 and is leg seven of the prestigious ATP-style season of online chess organized by the Play Magnus Group.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83778887.cms\" /> Telangana Grand Master Arjun Erigaisi will be among the four Indian players participating in the Asian Rapid Online Chess tournament being held as part of the Meltwater Champions Chess Tour from June 26. The Goldmoney Asian Rapid will offer a prize money of $100,000 and is leg seven of the prestigious ATP-style season of online chess organized by the Play Magnus Group.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gears-up-for-asian-rapid-chess-tourney/articleshow/83778887.cms",
@@ -226,7 +226,7 @@ news_feed (
          "title" : "The Weekly Show: Chess in Las Vegas"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJOY_wrHLc7qxIYr6AqcrahZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwy09bJQ2v8vmsiJLulTbJKBdSpBoV59p4iKw5yzo7i3G7BeZ2-3bdeBcxHb2XV2s4/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/ke17ZwdGBToddI8pDm48kJ",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg?format=1000w\" /> </figure> <p class=\"\">While Perpetual Chess catches its breath, I invite you all to check out my new podcast/YouTube show. <p class=\"\"><em>How to Chess ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/bonus-introducing-the-how-to-chess-podcast",
@@ -242,7 +242,7 @@ news_feed (
          "title" : "Chess in Literature: \"Writers & Lovers\" and the Immortal Game"
       },
       {
-         "description" : "<p class=\"\">It's a rare week off for Perpetual Chess, but we will back on June 29 and every Tuesday thereafter for the foreseeable future. :) <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/unsplash-image-gzhyKEo_cbU.jpg\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" alt=\"unsplash-image-gzhyKEo_cbU.jpg\" data-load=\"",
+         "description" : "<p class=\"\">It's a rare week off for Perpetual Chess, but we will back on June 29 and every Tuesday thereafter for the foreseeable future. :) <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/unsplash-image-gzhyKEo_cbU.jpg\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" alt=\"unsplash-image-gzhyKEo_cbU.jpg\" data-load=\"false\" data-image-id=\"60d1e781b5a0870ff3fd69a7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/unsplash-image-gzhyKEo_cbU.jpg?format=",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/no-perpetual-chess-this-week",
@@ -298,7 +298,7 @@ news_feed (
          "title" : "NYC kids campaign goes strong"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/4-indians-in-fray-in-asian-rapid-chess-tournament/articleshow/83746133.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83746133.cms\" /></a>Four Indian players, including Vidit Gujrathi and D Gukesh, will take part in the Asian Rapid online chess tournament to be held from June 26 to July 4.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83746133.cms\" />Four Indian players, including Vidit Gujrathi and D Gukesh, will take part in the Asian Rapid online chess tournament to be held from June 26 to July 4.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-fray-in-asian-rapid-chess-tournament/articleshow/83746133.cms",
@@ -922,7 +922,7 @@ news_feed (
          "title" : "Chess: National solving championship opens for entries from Britain"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83627213.cms\" /></a>The last week has been eventful for D Gukesh --- the second youngest Grandmaster in the history of chess. The 15-year-old not only got a wild card for the FIDE World Cup to be held next month in Sochi, but also qualified for the Goldmoney Asian Rapid --- the next leg of the Champions Chess Tour --- after reigning supreme at the Gelfand Challenge.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83627213.cms\" />The last week has been eventful for D Gukesh --- the second youngest Grandmaster in the history of chess. The 15-year-old not only got a wild card for the FIDE World Cup to be held next month in Sochi, but also qualified for the Goldmoney Asian Rapid --- the next leg of the Champions Chess Tour --- after reigning supreme at the Gelfand Challenge.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms",
@@ -1034,7 +1034,7 @@ news_feed (
          "title" : "Aronyak Ghosh and Rindhya Champions"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" /></a>Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" />Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms",
@@ -1226,7 +1226,7 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov wins Grand Chess Tour Romania 2021"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83560934.cms\" /></a>",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83560934.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms",
@@ -1266,7 +1266,7 @@ news_feed (
          "title" : "One-Dimensional Chess?"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/it-is-time-to-move-on-and-get-closure-anand-on-kamaths-misdemeanor-in-simul-event/articleshow/83551109.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" /></a>Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" />Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/it-is-time-to-move-on-and-get-closure-anand-on-kamaths-misdemeanor-in-simul-event/articleshow/83551109.cms",
@@ -1282,7 +1282,7 @@ news_feed (
          "title" : "The Weekly Show: The Superbet Chess Classic"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" /></a>Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" />Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms",
@@ -1298,7 +1298,7 @@ news_feed (
          "title" : "Mamedyarov cruises to Superbet Chess Classic triumph"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/hzYQj_zC.jpg+large.jpg\" data-image-dimensions=\"1280x720\" data-image-focal-point=\"0.5,0.5\" alt=\"hzYQj_zC.jpg large.jpg\" data-load=\"false\" data-image-id=\"60c8a1ee26697a315dcd872c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/ke17",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg\" data-image-dimensions=\"1280x720\" data-image-focal-point=\"0.5,0.5\" alt=\"hzYQj_zC.jpg large.jpg\" data-load=\"false\" data-image-id=\"60c8a1ee26697a315dcd872c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg?format=1000w\" /> </figure> <iframe src=\"https://omny.fm/shows/perpetual-chess-podcast/ep-230-braden-laughlin/embed\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/15/episode-231-braden-laughlin-adult-improver-series",
@@ -1466,7 +1466,7 @@ news_feed (
          "title" : "Premium only: 17 names to choose - you decide who plays in the next Tour event"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" /></a>Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" />Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms",
@@ -1874,7 +1874,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Ruy Lopez Open Variation"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-to-play-the-fide-world-cup-in-sochi/articleshow/83407852.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83407852.cms\" /></a>The reigning World Chess Champion will be one of the participants in the upcoming FIDE World Cup, to be played in Sochi next month.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83407852.cms\" />The reigning World Chess Champion will be one of the participants in the upcoming FIDE World Cup, to be played in Sochi next month.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-to-play-the-fide-world-cup-in-sochi/articleshow/83407852.cms",
@@ -2050,7 +2050,7 @@ news_feed (
          "title" : "Wesley So and Grischuk take the lead after beating the previous leaders of the Superbet Chess Classic - 4"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/ke17ZwdGBToddI8pDm48kEwOrdvVlRFgF5wC8VXDtvNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFYz0HFK4KG_PwyIpaZ4b1uHlCbSS0q2L2q685BLjbpRiEWBb17oPPNFYU46ZgoeA0/Irene2.jpg\" data-image-dimensions=\"489x489\" data-image-focal-point=\"0.5,0.5\" alt=\"Irene2.jpg\" data-load=\"false\" data-image-id=\"60bf7fc0bb3d184f0f97a1cb\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/ke17ZwdGBToddI8pDm48kEwOrdvVlRFgF5wC8VXDtvNZw-zPPg",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/Irene2.jpg\" data-image-dimensions=\"489x489\" data-image-focal-point=\"0.5,0.5\" alt=\"Irene2.jpg\" data-load=\"false\" data-image-id=\"60bf7fc0bb3d184f0f97a1cb\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/Irene2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by<a href=\"https://www.youtube.com/channel/UCXy10-NEFGxQ3b4NVrzHw1Q\"> IM Eric Rosen </a> <p class=\"\">WGM and IM Irene Sukander is one of the top players in Indonesia,",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/8/episode-230-wgm-irene-sukander",
@@ -2346,7 +2346,7 @@ news_feed (
          "title" : "FIDE extends the registration date of the Queens' Festival"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83235225.cms\" /></a>World no. 3 Koneru Humpy, who qualified for the women's Candidates on Wednesday, has decided to not feature in the women's World Cup scheduled to be held next month in Sochi, Russia. \"I have decided not to play in the World Cup. I didn't feel comfortable as they will be having the same venue for around 300 odd players (men and women together),\" Humpy told TOI on Friday. ",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83235225.cms\" />World no. 3 Koneru Humpy, who qualified for the women's Candidates on Wednesday, has decided to not feature in the women's World Cup scheduled to be held next month in Sochi, Russia. \"I have decided not to play in the World Cup. I didn't feel comfortable as they will be having the same venue for around 300 odd players (men and women together),\" Humpy told TOI on Friday. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms",
@@ -2418,7 +2418,7 @@ news_feed (
          "title" : "Gibraltar GP: Lagno qualifies to the Candidates"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" /></a>Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83204066.cms\" />Vidit Gujrathi has qualified for the Chess World Cup 2021 on the basis of his rating. The mega-event is all set to take place in Russia from July 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-qualifies-for-chess-world-cup-2021/articleshow/83204066.cms",
@@ -2448,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1122",
          "pubDate" : "Thu, 03 Jun 2021 08:53:54 +0000",
          "title" : "Queens' Festival: Registration date extended"
-      },
-      {
-         "description" : " The Grand Chess Tour 2021 starts with the Superbet Romania Chess Classic which takes place June 5th (Round 1) - 14th (Round 9), 2021. This classical event marks resumption of the tour which was cancelled last year. Earlier I'd completely failed to notice that this was a classical rather than a rapid and blitz as it was in 2019. Following straight on from this event (June 18th) there really will be a rapid and blitz event, in Paris. After that there is the Croatia Rapid & Blitz (5th July). St Louis will host both their own rapid and blitz tournaments (Aug 11th) and the classical Sinquefield Cup (Aug 17th) to finish off the tour. Players: Fabiano Caruana, Levon Aronian, Anish Giri, Alexander ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021",
-         "pubDate" : "Thu, 3 Jun 2021 10:04:00 +0400",
-         "title" : "Superbet Romania Chess Classic 2021 - Games and Results"
       }
    ]
 }
