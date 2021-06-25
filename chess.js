@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews the best games from this week in world class chess. 2021.06.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-prague-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Rr-hD5MxSc.jpg?itok=1_-kp5tI\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks back on his complex games with elite chess player Daniil Dubov. 2021.06.24<br /> Denes Boros vs. Daniil Dubov, 2021: C26 Vienna, Falkbeer variation<br /> Daniil Dubov vs. Denes Boros, 2021: D02 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros-lichessorg",
+         "pubDate" : "Fri, 25 Jun 2021 01:25:17 +0000",
+         "title" : "My Complex Games with Dubov | Grandmaster's Choice - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A Grandmaster to-be-determined teaches the first chess class at the Saint Louis Chess Club since March 2020. Welcome back live audience. Welcome to the old normal. We did it. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/real-chess-class-grandmasters-choice\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/laL8CPgpdFE.jpg?itok=4iW_WV71\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/real-chess-class-grandmasters-choice",
+         "pubDate" : "Fri, 25 Jun 2021 01:25:17 +0000",
+         "title" : "The Real Chess Class | Grandmaster's Choice"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews the best games from this week in world class chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-prague-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Rr-hD5MxSc.jpg?itok=1_-kp5tI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/duda-prague-games-week-gm-denes-boros",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "Battle of Endgames: 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-g",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-2",
-         "pubDate" : "Sat, 19 Jun 2021 22:20:27 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Day 2"
-      },
-      {
          "description" : "Two more players qualified for the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship on Saturday. First,&#38;nbsp;GM Lei Tingjie (China) defeated WGM Vaishali R. (India) and in the second match, GM Anna Muzychuk beat IM Iulija Osmak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-attacking-play",
          "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Test your attacking play"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Watch the event June 18-22! Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour. Through the support of KasparovChess, Vivendi, and Colliers International, Paris hosts the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Eleven elite grandmasters will compete in 9 rounds of rapid chess and 18 rounds of blitz chess for a total prize fund of $150,000. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-preview",
-         "pubDate" : "Fri, 18 Jun 2021 16:19:07 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Preview"
       },
       {
          "description" : "After four rounds Sam Shankland and Nijat Abasov lead the Masters tournament at the Prague Chess Festival with 3.0/4 each and in round 5 they play against each other - Shankland has the white pieces. David Navara, who started the tournament with four losses, plays against Thai Dan Van Nguyen. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
