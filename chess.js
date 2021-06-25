@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1167",
+         "pubDate" : "Fri, 25 Jun 2021 20:24:04 +0000",
+         "title" : "Hou Yifan and Harika Dronavalli progress into semis"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83846094.cms\" />Boris Gelfand, six-time World Championship candidate and 2021 World Championship Challenger, turned 53 on Thursday. While most from his generation may have stopped playing active chess, Gelfand isn't showing any signs of slowing down.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
