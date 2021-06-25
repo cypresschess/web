@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Women's Speed Chess Championship has reached its final stages. While Kateryna Lagno already made it into the semis after beating Nana Dzagnidze, six more players, including the likes of Hou Yifan and Anna Muzychuk, are set to play their quarterfinal matches on Friday and Monday. The semifinals are scheduled to take place on July 1-2 while the final match will be played on Saturday, July 3.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-speed-chess-championship-2021-quarterfinals",
+         "pubDate" : "Fri, 25 Jun 2021 09:00:00 +0100",
+         "title" : "Top female players battle at the Women's Speed Chess Championship"
+      },
+      {
+         "description" : " Ian Nepomniachtchi's Berlin Wall novelty makes Garry Kasparov want to turn the clock back to 2000 Starting at midday on Saturday, Magnus Carlsen will take on in succession: first, the 18-year-old widely tipped as a future world champion; second, the world No 1 woman; and third, the reigning US champion who has become Carlsen's main rival for first place in the online Meltwater Champions Tour. All three games can be viewed online, free and live with grandmaster and computer commentaries on the <a href=\"https://chess24.com/en\" title=\"\">Chess24.com playzone</a>. The event, the Goldmoney Asian Rapid, is the seventh of nine qualifiers before the Tour final in September-October. The prize pool is",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jun/25/chess-carlsen-takes-on-no-1-junior-no-1-woman-and-no-1-rival-on-same-afternoon",
+         "pubDate" : "Fri, 25 Jun 2021 07:00:19 +0000",
+         "title" : "Chess: Carlsen takes on No 1 junior, No 1 woman and No 1 rival on same afternoon"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks back on his complex online games this year with elite chess player Daniil Dubov. 2021.06.24<br /> Denes Boros vs. Daniil Dubov, 2021: C26 Vienna, Falkbeer variation<br /> Daniil Dubov vs. Denes Boros, 2021: D02 Queen&#039;s pawn game<br /> Denes Boros vs. Daniil Dubov, 2021: E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chess.com/game/live/6583211425\">https://www.chess.com/game/live/6583211425</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Fri, 25 Jun 2021 04:25:21 +0000",
+         "title" : "My Complex Games with Dubov | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks back on his complex games with elite chess player Daniil Dubov. 2021.06.24<br /> Denes Boros vs. Daniil Dubov, 2021: C26 Vienna, Falkbeer variation<br /> Daniil Dubov vs. Denes Boros, 2021: D02 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -504,14 +528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1159",
          "pubDate" : "Mon, 21 Jun 2021 20:59:49 +0000",
          "title" : "Day 04 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-g",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-3",
-         "pubDate" : "Mon, 21 Jun 2021 19:21:51 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Day 3"
       },
       {
          "description" : "",
@@ -2448,14 +2464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/timman-70-composition-tourney",
          "pubDate" : "Fri, 04 Jun 2021 08:43:25 +0100",
          "title" : "\"Timman-70\" Composition Tourney"
-      },
-      {
-         "description" : " The world No 1 atoned for two final losses against So as complaints over quickly halved Champions Tour games are growing Magnus Carlsen's uneven progress through the online Meltwater Champions Tour, two tournament victories in six attempts, still leaves the world champion in pole position for the 10-player Tour final over the board at San Francisco in September. There have been suggestions that the 30-year-old has lacked focus at times, and he admitted to feeling unwell on the penultimate day of last weekend's FTX Crypto Cup, but the Norwegian still wins his share of impressive games. His hard-fought <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-ftx-c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-third-attempt-champions-tour-amid-copycat-draws-gripes-chess",
-         "pubDate" : "Fri, 04 Jun 2021 07:00:32 +0000",
-         "title" : "Magnus Carlsen beats Wesley So at third attempt amid copycat draw gripes"
       }
    ]
 }
