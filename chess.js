@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup takes place between July 12 and August 6, 2021 in Sochi, Russia. The prize fund is $1,892,500. It is part of the world championship cycle: the top two players qualify for the 2022 FIDE Candidates Tournament.&#38;nbsp; GM Viswanath...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-announcement",
+         "pubDate" : "Fri, 25 Jun 2021 16:16:08 -0700",
+         "title" : "FIDE World Cup: Carlsen Plays, Anand Star Commentator In Chess.com Broadcast"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>The French Chess Federation</strong> has <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6813115584193015808/\">signed an agreement</a> with <strong>Clubs de la D&eacute;fense</strong>. The federation provides chess presentations and training with the objective to build chess sections in many of the 410 army clubs in which 160,000 members are organised. The agreement is a fruit of the work of the Paris lawyer and chess organiser <strong>Joël Gautier</strong>, who was a candidate in the recent presidential election. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chess-for-french-army-clubs/",
+         "pubDate" : "Fri, 25 Jun 2021 22:24:57 +0100",
+         "title" : "Chess for French army clubs"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jens Hilgers</strong>, founder of the <a href=\"https://www.bitkraft.vc/people/#\">E-sports venture capital fund</a> <strong>Bitkraft</strong>, has joined the board of the <strong>Play Magnus Group</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/e-sport-pioneer-joins-play-magnus/",
+         "pubDate" : "Fri, 25 Jun 2021 22:10:33 +0100",
+         "title" : "E-sport pioneer joins Play Magnus board"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> confirms the great form he has been showing in the Champions Chess Tour by winning both the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">rapid and the blitz at the Paris</a> leg of the <strong>Grand Chess Tour</strong>, while challenger <strong>Ian Nepomniachtchi</strong> came in as clear second. No spectators were allowed at the <strong>Kasparovchess.com</strong>- broadcast event. Next is the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz\">Croatia Rapid and Blitz in Zagreb</a> on 6-11 July where the wildcard is reserved for a Croatian citizen, <stron",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/so-wins-paris-rapid-blitz-ahead-of/",
-         "pubDate" : "Tue, 22 Jun 2021 20:35:57 +0100",
-         "title" : "So wins Paris Rapid & Blitz ahead of Nepo"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has the final nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/202",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/coaching-for-grown-ups.html",
          "pubDate" : "Tue, 22 Jun 2021 13:15:00 +0000",
          "title" : "Coaching for grown ups"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kahoot!</strong> enables teachers to create quizzes in a fun format for their whiteboard, digital or online classes. It is also a great tool for chess teachers, writes <em>Philippe Kalman</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/kahoot1-2.1920.jpeg\" title=\"To get beginners going the questions can hardly be too simple. Philippe Kalman\" data-title=\"To get beginners going the questions can hardly be too simple. (Philippe Kalman)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/kahoot1-2.480.jpeg\" alt=\"To get beginners going the questions can hardl",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/because-kids-love-quizzes/",
-         "pubDate" : "Tue, 22 Jun 2021 13:50:36 +0100",
-         "title" : "Because kids love quizzes"
       },
       {
          "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Photo: Lennart Ootes",
@@ -1882,14 +1890,6 @@ news_feed (
          "title" : "Technique and tactics"
       },
       {
-         "description" : "GM Shakhriyar Mamedyarov and GM Alexander Grischuk moved to plus two and are sharing the lead at the Superbet Chess Classic with three rounds to go. Mamedyarov profited from tactical oversights by GM Levon Aronian while Grischuk outplayed GM Const...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-6-aronian-blunder",
-         "pubDate" : "Sat, 12 Jun 2021 00:56:00 -0700",
-         "title" : "Superbet Chess Classic: Grischuk, Mamedyarov Strike Again"
-      },
-      {
          "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2432,22 +2432,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/05/carlsens-neo-moller/",
          "pubDate" : "Sat, 05 Jun 2021 00:10:42 +0000",
          "title" : "Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1125",
-         "pubDate" : "Fri, 04 Jun 2021 22:41:55 +0000",
-         "title" : "Nana Dzagnidze wins Qualifier V"
-      },
-      {
-         "description" : "The European Qualifier to the World Cup was played as a hybrid tournament last week, with participants playing from approved venues monitored by foreign arbiters. A total of 36 players obtained spots in the World Cup, scheduled to take place from July 10 to August 6 in Sochi. Highlights from the massive event include a 14-year-old girl knocking out an experienced grandmaster, and a young Slovak player offering a draw after Boris Gelfand hung his queen due to a mouse slip. | Pictured: GM Jergus Pechac",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ecu-hybrid-world-cup-qualifier-highlights-2021",
-         "pubDate" : "Fri, 04 Jun 2021 23:15:00 +0100",
-         "title" : "Highlights from the European Hybrid World Cup Qualifier"
       }
    ]
 }
