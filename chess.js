@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83846094.cms\" />Boris Gelfand, six-time World Championship candidate and 2021 World Championship Challenger, turned 53 on Thursday. While most from his generation may have stopped playing active chess, Gelfand isn't showing any signs of slowing down.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/curiosity-is-what-drives-me-boris-gelfand/articleshow/83846094.cms",
+         "pubDate" : "Fri, 25 Jun 2021 21:31:27 +0530",
+         "title" : "Curiosity is what drives me: Boris Gelfand"
+      },
+      {
          "description" : "In this Power Play Show GM Daniel King looks at the game Fischer-Gheorghiu - a beautiful and typical strategic squeeze from the American World Champion, played in his golden period in 1970. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2432,22 +2440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-hybrid-world-cup-qualifier-highlights-2021",
          "pubDate" : "Fri, 04 Jun 2021 23:15:00 +0100",
          "title" : "Highlights from the European Hybrid World Cup Qualifier"
-      },
-      {
-         "description" : "The final of the FTX Crypto Cup, which ended on Monday, could hardly have been more exciting, as Magnus Carlsen and Wesley So fought a thrilling duel that Carlsen only won with a victory in the eleventh and final encounter, the Armageddon game. The stakes were high for both sides and Carlsen and So made a few more or less serious mistakes and allowed themselves some unpleasantly short draws, but all in all the level of the match was still high. Daniel King took a closer look at the \"best game\" of the final. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-carlsen-vs-so-the-best-game-of-the-ftx-crypto-cup-final",
-         "pubDate" : "Fri, 04 Jun 2021 18:00:00 +0100",
-         "title" : "Daniel King: Carlsen vs So - The best game of the FTX Crypto Cup final"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss a lot of studies, and Lawrence does an impressive job trying to solve them. They also analyse a game from the Grand-Prix, and talk about the Isle of Man tournament, and the rather controversial idea to set candidate spots for the tournament winners.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-9",
-         "pubDate" : "Fri, 04 Jun 2021 16:58:17 +0100",
-         "title" : "The ChessBase News Review (28.05. - 04.06)"
       }
    ]
 }
