@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final lists of the FIDE World Cup and the FIDE Women's World Cup's participants have been published. The knock-out events will be held from July 10 to August 8 2021 in the Gazprom Mountain Resort in Sochi. The two finalists of the open event will qualify for the 2022 FIDE Candidates Tournament, whilst the three best players of the women's competition will get spots in the FIDE Women's Candidates Tournament. Top seed in the open section is World Champion Magnus Carlsen, top seed in the women's tournament is Aleksandra Goryachkina.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/players-lists-and-full-pairings-of-fide-world-cups-published",
+         "pubDate" : "Fri, 25 Jun 2021 13:00:00 +0100",
+         "title" : "Players lists and full pairings of FIDE World Cups published"
+      },
+      {
+         "description" : "1. As per the request and recommendation made by Selection Committee consists of GM Abhijt Kunte , GM Dibeyandu Barua and IM Dinesh Sharma, All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-regulations-important-update/",
+         "pubDate" : "Fri, 25 Jun 2021 10:27:05 +0000",
+         "title" : "FAIR PLAY REGULATIONS: IMPORTANT UPDATE"
+      },
+      {
+         "description" : "GM Kateryna Lagno is the first player to reach the semifinals of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. The reigning women&#39;s world blitz champion from Russia defeated Georgia&#39;s number-one female GM Nana Dzagnidze 14-8 on Thursda...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-dzagnidze",
+         "pubDate" : "Fri, 25 Jun 2021 02:04:00 -0700",
+         "title" : "Women's Speed Chess Championship: Lagno 1st Semifinalist"
+      },
+      {
          "description" : "The 2021 Women's Speed Chess Championship has reached its final stages. While Kateryna Lagno already made it into the semis after beating Nana Dzagnidze, six more players, including the likes of Hou Yifan and Anna Muzychuk, are set to play their quarterfinal matches on Friday and Monday. The semifinals are scheduled to take place on July 1-2 while the final match will be played on Saturday, July 3.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/womens-speed-chess-championship-2021-quarterfinals",
          "pubDate" : "Fri, 25 Jun 2021 09:00:00 +0100",
          "title" : "Top female players battle at the Women's Speed Chess Championship"
+      },
+      {
+         "description" : " Last week, we finished our examination of the pin, a great tactic that can change the course of a game. This week, we'll delve into the wonderful world of the fork, another tactic that can be decisive in your play. We will continue our examination of the fork next week in greater detail. This week, <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-four/\">A Foundation for Beginners Twenty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-four/",
+         "pubDate" : "Fri, 25 Jun 2021 07:52:19 +0000",
+         "title" : "A Foundation for Beginners Twenty Four"
       },
       {
          "description" : " Ian Nepomniachtchi's Berlin Wall novelty makes Garry Kasparov want to turn the clock back to 2000 Starting at midday on Saturday, Magnus Carlsen will take on in succession: first, the 18-year-old widely tipped as a future world champion; second, the world No 1 woman; and third, the reigning US champion who has become Carlsen's main rival for first place in the online Meltwater Champions Tour. All three games can be viewed online, free and live with grandmaster and computer commentaries on the <a href=\"https://chess24.com/en\" title=\"\">Chess24.com playzone</a>. The event, the Goldmoney Asian Rapid, is the seventh of nine qualifiers before the Tour final in September-October. The prize pool is",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1165",
          "pubDate" : "Thu, 24 Jun 2021 14:57:29 +0000",
          "title" : "Latvia to stage the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
-      },
-      {
-         "description" : "The French Team Championship starts today in Chalons-en-Champagne and many world class players sit down to play. Round 1 begins today at 15:15 CEST (9:15 ET, 13:15 UTC), the rounds on the following will begin at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Thu, 24 Jun 2021 15:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : " Share! GM Pontus Carlsson GM Pontus Carlsson has told The Chess Drum that he was at a tournament in Spain where the others did not believe he was a chess player. After not taking him seriously, he promptly won all of the games. He overheard one of the players saying &#8220;The Black guy is playing [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/\">Pontus Carlsson wins 2021 Prague Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -474,6 +498,14 @@ news_feed (
          "title" : "Planning for Victory (3)"
       },
       {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Tue, 22 Jun 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
+      },
+      {
          "description" : "GM Wesley So is still leading the Paris Rapid &#38;amp; Blitz tournament after the first nine rounds of blitz chess. The American grandmaster is half a point ahead of GM Ian Nepomniachtchi. GM Alireza Firouzja surged in the standings after scoring a f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,14 +856,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-1-firouzja-s-birthday-blues",
          "pubDate" : "Sat, 19 Jun 2021 10:19:10 +0000",
          "title" : "Paris Rapid & Blitz 1: Firouzja's birthday blues"
-      },
-      {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Sat, 19 Jun 2021 09:07:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/a-great-escape.html",
          "pubDate" : "Wed, 16 Jun 2021 13:48:00 +0000",
          "title" : "A great escape"
-      },
-      {
-         "description" : "Dear Players/Parents/Coaches, Greetings from All India Chess Federation! All the players who already enrolled for the National Age Group Online Chess Championships (U14G, U12O, U12G,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/important-announcement-national-age-group-online-chess-championship/",
-         "pubDate" : "Wed, 16 Jun 2021 12:03:24 +0000",
-         "title" : "IMPORTANT ANNOUNCEMENT : NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIP"
       },
       {
          "description" : "Gukesh, fresh from his Gelfand Challenge triumph, takes on Johan Sebastian Christiansen today as the San Fermin Banter Blitz Cup qualifiers continue. The D Qualifier also sees the likes of Baadur Jobava and 14-year-old Grandmaster Marc'Andria Maurizzi in action. They're fighting to join the already qualified Adhiban, Jan-Krzysztof Duda and Liem Quang Le in an 8-player final that will decide a player in the Meltwater Champions Chess Tour and also next month's San Fermin festival in Pamplona, where World Champion Magnus Carlsen plays.",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
       },
       {
-         "description" : "Just like in 2017, GM Magnus Carlsen will be participating in the FIDE World Cup that starts July 12 in Sochi, Russia. The world champion won&#39;t be clashing with his challenger GM Ian Nepomniachtchi, who instead has chosen to focus on preparing for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-fide-world-cup-2021",
-         "pubDate" : "Fri, 11 Jun 2021 06:32:00 -0700",
-         "title" : "Carlsen To Play In FIDE Chess World Cup Again"
-      },
-      {
          "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-joins-so-and-grischuk-in-the-lead-of-the-superbet-classic-after-5-rounds",
          "pubDate" : "Wed, 9 Jun 2021 19:01:00 +0400",
          "title" : "Mamedyarov joins So and Grischuk in the lead of the Superbet Classic after 5 rounds - 5"
-      },
-      {
-         "description" : " As a kid I read that White had the advantage in open games (1.e4 e5) if he could get d2-d4 in successfully, so I wondered why he didn't just play 2.Nf3 Nc6 3.d4 rather than mess about with the indirect 3.Bb5. After 3exd4 4.Nxd4 I figured that White was threatening to give Black doubled pawns <a href=\"https://chessimprover.com/slay-em-with-the-scotch/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Slay 'em with the Scotch\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/slay-em-with-the-scotch/\">Slay 'em with the Scotch</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/slay-em-with-the-scotch/",
-         "pubDate" : "Wed, 09 Jun 2021 14:00:36 +0000",
-         "title" : "Slay 'em with the Scotch"
       },
       {
          "description" : "",
@@ -2448,22 +2448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-magazine-201-carlsen-under-pressure-a-review-by-nagesh-havanur",
          "pubDate" : "Fri, 04 Jun 2021 13:25:26 +0100",
          "title" : "ChessBase Magazine #201: Carlsen under pressure - A review by Nagesh Havanur"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1120",
-         "pubDate" : "Fri, 04 Jun 2021 09:30:16 +0000",
-         "title" : "FIDE and Tech Mahindra announce landmark partnership marking a key milestone in the creation of the Global Chess League"
-      },
-      {
-         "description" : "In December, on the 14th to be specific, Dutch grandmaster Jan Timman turns seventy. He was one of the world's leading players from the late 1970s to the early 1990s. He is also a prolific study composer. So it is appropriate that a Study Composition Tourney is being staged in his honour. Awards will be distributed on his birthday. For this announcement Jan has selected five of his favourite studies, composed by him, for you to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timman-70-composition-tourney",
-         "pubDate" : "Fri, 04 Jun 2021 08:43:25 +0100",
-         "title" : "\"Timman-70\" Composition Tourney"
       }
    ]
 }
