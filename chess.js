@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Round 2 begins today at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Fri, 25 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : "The pairings are out for the biggest FIDE Chess World Cups ever held, with Baadur Jobava vs. 12-year-old GM record chaser Mishra Abhimanyu one of the most intriguing Round 1 match-ups. The big guns start from Round 2, with Magnus Carlsen facing either Sasa Martinovic or Kaido Kulaots. If the World Champion is going to win the event he may need to beat Alireza Firouzja, Anish Giri and Fabiano Caruana from the quarterfinals on. Check out the pairings, and even make your own predictions for the 206-player open and 103-player women's brackets!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-2021-pairings-are-out",
+         "pubDate" : "Fri, 25 Jun 2021 12:41:36 +0000",
+         "title" : "FIDE World Cup 2021 pairings are out"
+      },
+      {
          "description" : "The final lists of the FIDE World Cup and the FIDE Women's World Cup's participants have been published. The knock-out events will be held from July 10 to August 8 2021 in the Gazprom Mountain Resort in Sochi. The two finalists of the open event will qualify for the 2022 FIDE Candidates Tournament, whilst the three best players of the women's competition will get spots in the FIDE Women's Candidates Tournament. Top seed in the open section is World Champion Magnus Carlsen, top seed in the women's tournament is Aleksandra Goryachkina.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "\"Homo Neubau\": An exhibition featuring Ernst Gr&uuml;nfeld"
       },
       {
-         "description" : "Seventeen names and you get two choices - this is the latest Premium-only vote for the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/premium-only-17-names-to-choose-you-decide-who-plays-in-the-next-tour-event",
-         "pubDate" : "Mon, 14 Jun 2021 13:46:06 +0000",
-         "title" : "Premium only: 17 names to choose - you decide who plays in the next Tour event"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" />Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms",
          "pubDate" : "Fri, 04 Jun 2021 18:32:44 +0530",
          "title" : "Koneru Humpy to skip women's Chess World Cup"
-      },
-      {
-         "description" : "The ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, the Magnus Carlsen Invitational and the Opera Euro Rapid, 547 games, 3 opening videos, 12 opening surveys, demo, lectures and exercises for training. It also includes games annotated by Anish Giri, Wesley So and Jan-Krzysztof Duda to mention a few. Prof. Nagesh Havanur takes a look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-201-carlsen-under-pressure-a-review-by-nagesh-havanur",
-         "pubDate" : "Fri, 04 Jun 2021 13:25:26 +0100",
-         "title" : "ChessBase Magazine #201: Carlsen under pressure - A review by Nagesh Havanur"
       }
    ]
 }
