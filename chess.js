@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Power Play Show GM Daniel King looks at the game Fischer-Gheorghiu - a beautiful and typical strategic squeeze from the American World Champion, played in his golden period in 1970. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-play-like-bobby-fischer",
+         "pubDate" : "Fri, 25 Jun 2021 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Play like Bobby Fischer"
+      },
+      {
          "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Round 2 begins today at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,20 @@ news_feed (
          "title" : "FAIR PLAY REGULATIONS: IMPORTANT UPDATE"
       },
       {
-         "description" : "GM Kateryna Lagno is the first player to reach the semifinals of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. The reigning women&#39;s world blitz champion from Russia defeated Georgia&#39;s number-one female GM Nana Dzagnidze 14-8 on Thursda...",
+         "description" : "GM Kateryna Lagno is the first player to reach the semifinals of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. The reigning women&#39;s world blitz champion from Russia defeated Georgia&#39;s number-one female, GM Nana Dzagnidze, 14-8 on Thurs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-dzagnidze",
          "pubDate" : "Fri, 25 Jun 2021 02:04:00 -0700",
          "title" : "Women's Speed Chess Championship: Lagno 1st Semifinalist"
+      },
+      {
+         "description" : "The Foreign Desk is a current affairs podcast, and this week's episode is centred around chess and politics. Sometimes art imitates life; some games do...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-foreign-desk-radio-broadcast-26-6-21/",
+         "pubDate" : "Fri, 25 Jun 2021 08:18:58 +0000",
+         "title" : "The Foreign Desk - radio broadcast 26/6/21"
       },
       {
          "description" : "The 2021 Women's Speed Chess Championship has reached its final stages. While Kateryna Lagno already made it into the semis after beating Nana Dzagnidze, six more players, including the likes of Hou Yifan and Anna Muzychuk, are set to play their quarterfinal matches on Friday and Monday. The semifinals are scheduled to take place on July 1-2 while the final match will be played on Saturday, July 3.",
@@ -2432,22 +2448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-news-review-9",
          "pubDate" : "Fri, 04 Jun 2021 16:58:17 +0100",
          "title" : "The ChessBase News Review (28.05. - 04.06)"
-      },
-      {
-         "description" : "The Global Women's Online Chess Challenge \"The Queens' Festival\", a series of continental and global women's online chess tournaments and educative side events, starts on June 11, 2021. Female players from Africa, Asia, Europe and the Americas will first be able to participate in the Continental Online Blitz Qualification Tournaments and those who qualify will advance to the Queens' Online Individual and Team Finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-extends-the-registration-date-of-the-queens-festival",
-         "pubDate" : "Fri, 04 Jun 2021 15:00:00 +0100",
-         "title" : "FIDE extends the registration date of the Queens' Festival"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83235225.cms\" />World no. 3 Koneru Humpy, who qualified for the women's Candidates on Wednesday, has decided to not feature in the women's World Cup scheduled to be held next month in Sochi, Russia. \"I have decided not to play in the World Cup. I didn't feel comfortable as they will be having the same venue for around 300 odd players (men and women together),\" Humpy told TOI on Friday. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koneru-humpy-to-skip-womens-chess-world-cup/articleshow/83235225.cms",
-         "pubDate" : "Fri, 04 Jun 2021 18:32:44 +0530",
-         "title" : "Koneru Humpy to skip women's Chess World Cup"
       }
    ]
 }
