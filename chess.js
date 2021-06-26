@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/the-heavy-piece-middlegame-ending.html",
+         "pubDate" : "Sat, 26 Jun 2021 13:19:00 +0000",
+         "title" : "The heavy piece middlegame -> ending"
+      },
+      {
+         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after two rounds. Follow the games live starting at 14:15 CEST (8:15 ET, 12:15 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Sat, 26 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
          "description" : "The French Team Championship, also known as Top 12, is taking place in Châlons-en-Champagne. Only two teams have managed to score victories in the first two rounds: Bischwiller, with Markus Ragger and Etienne Bacrot on top boards, and the team from Clichy, led by Jorden van Foreest. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "Cold blooded defence"
       },
       {
-         "description" : "GM Hou Yifan and GM Harika Dronavalli both won their quarterfinals on Friday in the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Hou beat IM Bibisara Assaubayeva 13.5-9.5, after which Harika won her match vs. GM Anna Muzychuk with almost ...",
+         "description" : "GM Hou Yifan and GM Harika Dronavalli both won their quarterfinals on Friday in the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Hou beat IM Bibisara Assaubayeva 13.5-9.5. Then Harika won her match vs. GM Anna Muzychuk with almost the sam...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/women-speed-chess-championship-hou-yifan-harika-dronavalli",
-         "pubDate" : "Sat, 26 Jun 2021 00:33:48 -0700",
+         "pubDate" : "Sat, 26 Jun 2021 00:33:00 -0700",
          "title" : "Women's Speed Chess Championship: Hou Yifan, Harika Dronavalli Reach Semis"
       },
       {
@@ -2424,30 +2440,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
          "pubDate" : "Sat, 05 Jun 2021 18:00:00 +0000",
          "title" : "What Is The Best Chess Opening? - There is None!"
-      },
-      {
-         "description" : " The Superbet Chess Classic got underway in Bucharest, Romania with a pretty quiet day of play. This is the first of two classical events as part of the Grand Chess Tour, the second and final one will be the Sinquefield Cup in August. Only Anish Giri was in any danger when his choice of the combative Semi-Slav with black got out of control against Bogdan-Daniel Deac, but this was a brief chance and the game was eventually drawn. It must have been very strange to play over the board for many of these players and there was a lot of fairly well known theoretical chess played with quick draws being the result. Bogdan-Daniel Deac, the last minute replacement for Richard Rapport almost managed a s",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/quiet-start-to-the-superbet-chess-classic-with-five-draws",
-         "pubDate" : "Sat, 5 Jun 2021 18:45:00 +0400",
-         "title" : "Quiet start to the Superbet Chess Classic with five draws - 1"
-      },
-      {
-         "description" : " After a break last year, the ACT Junior Chess League interschool series is up and running for 2021. Term 1 saw one of Girl's zones held, while the open Primary School zones are about to commence for term 2. The North Canberra/ Gungahalin zone is running this Tuesday, and it looks like around 100 players will take part. Over the following weeks 2 other zones are being held, while Term 3 will see the Secondary events taking place. One thing that is slightly concerning is that not all the event information is getting passed on to the school's chess player. So if you are a junior player in Canberra, and you haven't heard about the upcoming events, head over to <a href=\"https://actjcl.org.au/act",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/act-interschool-2021.html",
-         "pubDate" : "Sat, 05 Jun 2021 13:20:00 +0000",
-         "title" : "ACT Interschool 2021"
-      },
-      {
-         "description" : "The 2021 African Continental Championships were held on May 17-28 at the Crossroads Hotel in Lilongwe, the capital of Malawi. The top players from the continent fought to get one of the fours spots granted to participate in the upcoming World Cup. Egyptian grandmasters Ahmed Adly, Amin Bassem, Fawzy Adham and Hesham Abdelrahman finished atop the standings. Diana Mihajlova reports from the 'warm heart of Africa'",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/african-individual-continental-championship-2021",
-         "pubDate" : "Sat, 05 Jun 2021 13:25:00 +0100",
-         "title" : "African Individual Continental Championships 2021"
       }
    ]
 }
