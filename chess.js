@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deep",
          "pubDate" : "Sat, 05 Jun 2021 09:00:00 +0100",
          "title" : "Deep"
-      },
-      {
-         "description" : " Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez : FM Ioannis Simeonidis From the book's rear cover : &#8220;White players will thoroughly dislike the Neo-M&oslash;ller! The Ruy Lopez is one of the most important chess openings, hugely popular with amateurs and masters alike. Black players allowing the Ruy Lopez main lines are <a href=\"http://britishchessnews.com/2021/06/05/carlsens-neo-moller/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessne",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/06/05/carlsens-neo-moller/",
-         "pubDate" : "Sat, 05 Jun 2021 00:10:42 +0000",
-         "title" : "Carlsen's Neo-M&oslash;ller : A Complete and Surprising Repertoire Against the Ruy Lopez"
       }
    ]
 }
