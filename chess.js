@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid, the seventh leg of the Champions Chess Tour, began on Saturday. Despite a loss in the first round to GM Alireza Firouzja, World Champion Magnus Carlsen is tied for first place with&#38;nbsp;GMs Ding Liren, Levon Aronian,&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-1-giri-carlsen-firouzja",
+         "pubDate" : "Sat, 26 Jun 2021 11:07:00 -0700",
+         "title" : "Goldmoney Asian Rapid: 5-Way Tie As Giri Steals The Show"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83875997.cms\" />The Goldmoney Asian Rapid got off to a quick start on Saturday. However, World Champion Magnus Carlsen suffered a disappointing first-game loss as he lost to teen star Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-carlsen-in-five-way-lead-after-day-1/articleshow/83875997.cms",
+         "pubDate" : "Sat, 26 Jun 2021 22:03:20 +0530",
+         "title" : "Goldmoney Asian Rapid: Carlsen in five-way lead after Day 1"
+      },
+      {
+         "description" : " The Goldmoney Asian Rapid takes place Sat 26th Jun to Sun 4th Jul 2021. This is the latest event of the Champions Chess Tour and features a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Play starts significantly earlier than most of the events on the tour so far, 12pm BST.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
+         "pubDate" : "Sat, 26 Jun 2021 17:51:00 +0400",
+         "title" : "Goldmoney Asian Rapid 2021 - "
+      },
+      {
          "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "Top 12: Bischwiller and Clichy still perfect"
       },
       {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev, Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
          "pubDate" : "Sat, 26 Jun 2021 12:45:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Live!"
+         "title" : "Goldmoney Asian Rapid - Five players share the lead"
       },
       {
          "description" : "All you need to know about the latest pitstop in the Carlsen-motored big-money online tournament enterprise.",
@@ -1218,14 +1242,6 @@ news_feed (
          "title" : "WSCC 2021: Antoaneta Stefanova eases into quarterfinals"
       },
       {
-         "description" : " The Goldmoney Asian Rapid takes place Sat 26th Jun to Sun 4th Jul 2021. This is the latest event of the Champions Chess Tour and features a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Play starts significantly earlier than most of the events on the tour so far, 12pm BST.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
-         "pubDate" : "Thu, 17 Jun 2021 22:13:00 +0400",
-         "title" : "Goldmoney Asian Rapid 2021 - "
-      },
-      {
          "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new and aggressive idea that helps Black to spice up things up in the Queen's Gambit Accepted. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1816,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r7",
          "pubDate" : "Sun, 13 Jun 2021 13:45:00 +0100",
          "title" : "Superbet: Mamedyarov in the sole lead"
-      },
-      {
-         "description" : "GM Shakhriyar Mamedyarov won his third consecutive game and is suddenly a full point ahead of the pack with two rounds to go at the Superbet Chess Classic in Bucharest. The Azerbaijani grandmaster defeated GM Fabiano Caruana with the black pieces ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-7-mamedyarov",
-         "pubDate" : "Sun, 13 Jun 2021 02:53:00 -0700",
-         "title" : "Superbet Chess Classic: Full-Point Lead For Mamedyarov"
       },
       {
          "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2432,14 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1126",
          "pubDate" : "Sat, 05 Jun 2021 20:39:36 +0000",
          "title" : "2021 Superbet Chess Classic - Day 1 Recap"
-      },
-      {
-         "description" : " One of the most frequent asked questions is: What is the best chess opening? In the span of one week I got that question several times. And not only from beginners. A 2200 FIDE thinks Sicilian &#8220;is not fitting her level anymore&#8221;. A 1500 thinks he needs to diversify, learn new openings. An IM thinks [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-opening/\">What Is The Best Chess Opening? There is None!</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/best-opening/?utm_source=rss&utm_medium=rss&utm_campaign=best-opening",
-         "pubDate" : "Sat, 05 Jun 2021 18:00:00 +0000",
-         "title" : "What Is The Best Chess Opening? - There is None!"
       }
    ]
 }
