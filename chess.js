@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black has a strong attack and threatens 30...Qxg2#. But with careful play White can defend and win the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cold-blooded-defence",
+         "pubDate" : "Sat, 26 Jun 2021 09:00:00 +0100",
+         "title" : "Cold blooded defence"
+      },
+      {
+         "description" : "Considering the change in Fair Play Regulations, the prospectus &#38; schedule of National Under-10 Open &#38; Girls Online Chess Championship has been revised.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/updated-regulations-schedule-national-under-10-open-girls/",
+         "pubDate" : "Sat, 26 Jun 2021 04:46:31 +0000",
+         "title" : "UPDATED REGULATIONS & SCHEDULE : NATIONAL UNDER-10 OPEN & GIRLS"
+      },
+      {
          "description" : "The FIDE World Cup takes place between July 12 and August 6, 2021 in Sochi, Russia. The prize fund is $1,892,500. It is part of the world championship cycle: the top two players qualify for the 2022 FIDE Candidates Tournament.&#38;nbsp; GM Viswanath...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-announcement",
-         "pubDate" : "Fri, 25 Jun 2021 16:16:08 -0700",
+         "pubDate" : "Fri, 25 Jun 2021 16:16:00 -0700",
          "title" : "FIDE World Cup: Carlsen Plays, Anand Star Commentator In Chess.com Broadcast"
       },
       {
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/players-lists-and-full-pairings-of-fide-world-cups-published",
          "pubDate" : "Fri, 25 Jun 2021 13:00:00 +0100",
          "title" : "Players lists and full pairings of FIDE World Cups published"
+      },
+      {
+         "description" : " Since starting my blog I got tons of requests for private Chess Coaching. It makes me very happy to hear that some of you see me as a good fit as your Chess Coach. Sadly, I have to decline all those requests. In this article I want to explain why. Do not get me wrong. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/no-to-coaching/\">The Power Of Focus Or Why I Don't Do Chess Coaching</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/no-to-coaching/?utm_source=rss&utm_medium=rss&utm_campaign=no-to-coaching",
+         "pubDate" : "Fri, 25 Jun 2021 11:00:00 +0000",
+         "title" : "The Power Of Focus - Or Why I Don't Do Chess Coaching"
       },
       {
          "description" : "1. As per the request and recommendation made by Selection Committee consists of GM Abhijt Kunte , GM Dibeyandu Barua and IM Dinesh Sharma, All",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-gukesh-praggnanandhaa",
          "pubDate" : "Wed, 16 Jun 2021 18:00:00 +0100",
          "title" : "Game of the Week: Gukesh-Praggnanandhaa"
-      },
-      {
-         "description" : "It is intimated to all stake holders that any player secured any prize/standings in the National Online Age Group Chess Championship-2021 and later found that",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-regulation-national-online-age-group-chess-championship-2021/",
-         "pubDate" : "Wed, 16 Jun 2021 16:31:18 +0000",
-         "title" : "ADDITIONAL FAIR PLAY REGULATION : NATIONAL ONLINE AGE GROUP CHESS CHAMPIONSHIP 2021"
       },
       {
          "description" : "The ChessBase Magazine Extra is up-to-date and attractive. In the new Extra # 201, Mihail Marin takes the game Grischuk-Vachier-Lagrave from the Candidates Tournament as the starting point of his opening video \"Anti-Najdorf &agrave; la Carlsen\" (1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 ), and Daniel King provides a video analysis of the way Caruana handled the King's Indian in Wojtaszek-Caruana (Tata Steel 2021). And in the famous \"Lucky Bag\" you will find many high-quality analyses and chess treats. \"The brilliancy\" is one example of the 25 extensively annotated games in the new edition. Take a look!",
