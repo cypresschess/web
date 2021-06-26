@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-06",
+         "pubDate" : "Sat, 26 Jun 2021 22:20:00 +0100",
+         "title" : "Summer knight city"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1168",
+         "pubDate" : "Sat, 26 Jun 2021 20:46:53 +0000",
+         "title" : "Five-way split for the lead after Day 1"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid, the seventh leg of the Champions Chess Tour, began on Saturday. Despite a loss in the first round to GM Alireza Firouzja, World Champion Magnus Carlsen is tied for first place with&#38;nbsp;GMs Ding Liren, Levon Aronian,&#38;nbs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "Goldmoney Asian Rapid 2021 - "
       },
       {
+         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev, Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sat, 26 Jun 2021 14:45:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Five players share the lead"
+      },
+      {
          "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/the-heavy-piece-middlegame-ending.html",
          "pubDate" : "Sat, 26 Jun 2021 13:19:00 +0000",
          "title" : "The heavy piece middlegame -> ending"
+      },
+      {
+         "description" : "In the diagram position Black has a strong attack and threatens 30...Qxg2#. But with careful play White can defend and win the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cold-blooded-defence",
+         "pubDate" : "Sat, 26 Jun 2021 14:15:00 +0100",
+         "title" : "Cold blooded defence"
       },
       {
          "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after two rounds. Follow the games live starting at 14:15 CEST (8:15 ET, 12:15 UTC).",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-12-2021-r2",
          "pubDate" : "Sat, 26 Jun 2021 13:10:00 +0100",
          "title" : "Top 12: Bischwiller and Clichy still perfect"
-      },
-      {
-         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev, Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sat, 26 Jun 2021 12:45:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Five players share the lead"
       },
       {
          "description" : "All you need to know about the latest pitstop in the Carlsen-motored big-money online tournament enterprise.",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-martial-menagerie-of-king-alfonso-the-wise/",
          "pubDate" : "Sat, 26 Jun 2021 08:00:52 +0000",
          "title" : "The Martial menagerie of King Alfonso the Wise"
-      },
-      {
-         "description" : "In the diagram position Black has a strong attack and threatens 30...Qxg2#. But with careful play White can defend and win the game. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cold-blooded-defence",
-         "pubDate" : "Sat, 26 Jun 2021 09:00:00 +0100",
-         "title" : "Cold blooded defence"
       },
       {
          "description" : "GM Hou Yifan and GM Harika Dronavalli both won their quarterfinals on Friday in the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Hou beat IM Bibisara Assaubayeva 13.5-9.5. Then Harika won her match vs. GM Anna Muzychuk with almost the sam...",
@@ -2424,22 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1127",
          "pubDate" : "Sun, 06 Jun 2021 13:46:37 +0000",
          "title" : "Gulnar Mammadova wins Qualifier VI"
-      },
-      {
-         "description" : "A rather quiet round on opening day saw all five games finishing drawn at the Superbet Classic in Bucharest. The one exciting encounter of the round saw Anish Giri going for complications at every turn against late replacement Bogdan-Daniel Deac. In the end, it was the Dutchman who needed to tread lightly to save a half point. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r1",
-         "pubDate" : "Sat, 05 Jun 2021 22:30:00 +0100",
-         "title" : "Superbet: Giri lives dangerously, escapes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1126",
-         "pubDate" : "Sat, 05 Jun 2021 20:39:36 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 1 Recap"
       }
    ]
 }
