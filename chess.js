@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Team Championship, also known as Top 12, is taking place in Châlons-en-Champagne. Only two teams have managed to score victories in the first two rounds: Bischwiller, with Markus Ragger and Etienne Bacrot on top boards, and the team from Clichy, led by Jorden van Foreest. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-12-2021-r2",
+         "pubDate" : "Sat, 26 Jun 2021 13:10:00 +0100",
+         "title" : "Top 12: Bischwiller and Clichy still perfect"
+      },
+      {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sat, 26 Jun 2021 12:45:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Live!"
+      },
+      {
+         "description" : "Chess streaming",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31711514/chess-streaming?device=featurephone",
+         "pubDate" : "Sat, 26 Jun 2021 04:59:43 -0500",
+         "title" : "Chess streaming"
+      },
+      {
+         "description" : "One of the most famous examples of longevity in top-level chess is Vassily Smyslov reaching the Final of the Candidates Matches against Garry Kasparov in 1984. Smyslov turned 63 during the match, while Kasparov celebrated his 21st birthday on the last day of the confrontation - three to one age odds!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/at-what-age-do-chess-players-peak",
+         "pubDate" : "Sat, 26 Jun 2021 09:51:03 +0000",
+         "title" : "At What Age Are Chess Players At Their Peak?"
+      },
+      {
+         "description" : "On Sunday July 18 2021, Trafalgar Square will be taken over by numerous chess manifestations designed to introduce the general public to the game. There will be opportunities to challenge Grandmasters, as well as receive tuition, but the highlight of the day will be a display of living chess, with actors taking on the characters []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-martial-menagerie-of-king-alfonso-the-wise/",
+         "pubDate" : "Sat, 26 Jun 2021 08:00:52 +0000",
+         "title" : "The Martial menagerie of King Alfonso the Wise"
+      },
+      {
          "description" : "In the diagram position Black has a strong attack and threatens 30...Qxg2#. But with careful play White can defend and win the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cold-blooded-defence",
          "pubDate" : "Sat, 26 Jun 2021 09:00:00 +0100",
          "title" : "Cold blooded defence"
+      },
+      {
+         "description" : "GM Hou Yifan and GM Harika Dronavalli both won their quarterfinals on Friday in the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Hou beat IM Bibisara Assaubayeva 13.5-9.5, after which Harika won her match vs. GM Anna Muzychuk with almost ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-hou-yifan-harika-dronavalli",
+         "pubDate" : "Sat, 26 Jun 2021 00:33:48 -0700",
+         "title" : "Women's Speed Chess Championship: Hou Yifan, Harika Dronavalli Reach Semis"
       },
       {
          "description" : "Considering the change in Fair Play Regulations, the prospectus &#38; schedule of National Under-10 Open &#38; Girls Online Chess Championship has been revised.",
@@ -1490,14 +1538,6 @@ news_feed (
          "title" : "Episode 231- Braden Laughlin (Adult Improver Series)"
       },
       {
-         "description" : "Play Magnus Group's innovative logo for the Meltwater Champions Chess Tour has won two gold medals at the prestigious European Design Awards.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tour-s-eye-catching-logo-wins-double-gold-at-the-european-design-awards",
-         "pubDate" : "Tue, 15 Jun 2021 12:38:42 +0000",
-         "title" : "Tour's eye-catching logo wins double gold at the European Design Awards"
-      },
-      {
          "description" : "The 2021 edition of the Prague Chess Festival takes place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The Festival features Masters, Futures, Open and Rated tournaments. The main Master event is an 8-player round-robin tournament with participation of: Duda Jan-Krzysztof (POL) Van Foreest Jorden (NED) Navara David (CZE) Shankland Sam (USA) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1824,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1142",
          "pubDate" : "Sat, 12 Jun 2021 20:33:08 +0000",
          "title" : "Assaubayeva beats Koneru to advance into quarters"
-      },
-      {
-         "description" : "Chess.com and The Charlotte Chess Center are proud to announce the Blitzcoin Invitational! In this new action-packed event, the best US Chess players 25 years old and under will compete for their share of one Bitcoin. The event will run from Oct...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-charlotte-chess-center-blitzcoin-invitational",
-         "pubDate" : "Sat, 12 Jun 2021 10:00:00 -0700",
-         "title" : "Chess.com And The Charlotte Chess Center Present: The Blitzcoin Invitational"
       },
       {
          "description" : " GM Rom&aacute;n Hern&aacute;ndez Rom&aacute;n Hern&aacute;ndez Onna passed away early this month on June 1st from a lengthy illness. The Cuban Grandmaster and former national champion was 71 years old. As a pioneer, Hernandez had a long r&eacute;sum&eacute; before he ventured abroad and faced some of the world's elite competition. Recently, The Chess Drum featured his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/\">GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2424,22 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/african-individual-continental-championship-2021",
          "pubDate" : "Sat, 05 Jun 2021 13:25:00 +0100",
          "title" : "African Individual Continental Championships 2021"
-      },
-      {
-         "description" : "During the 1840s and 1850s three chess masters dominated the global chessboard. These champions avant la lettre, before the world title had been generally recognised, were the Englishman Howard Staunton, the German Adolph Anderssen and the American Paul Morphy. In this column so far, I have concentrated on games played mano-a-mano between single opponents. This week I turn []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-turning-point-in-chess-history/",
-         "pubDate" : "Sat, 05 Jun 2021 08:00:17 +0000",
-         "title" : "A turning point in chess history"
-      },
-      {
-         "description" : "White's continuation in the diagram position truly belongs into the category \"very special\". How about a little test: how did White continue here and was this move among your first three candidate moves?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deep",
-         "pubDate" : "Sat, 05 Jun 2021 09:00:00 +0100",
-         "title" : "Deep"
       }
    ]
 }
