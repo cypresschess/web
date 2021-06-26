@@ -18,12 +18,12 @@ news_feed (
          "title" : "Goldmoney Asian Rapid - Live!"
       },
       {
-         "description" : "Chess streaming",
+         "description" : "All you need to know about the latest pitstop in the Carlsen-motored big-money online tournament enterprise.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31711514/chess-streaming?device=featurephone",
-         "pubDate" : "Sat, 26 Jun 2021 04:59:43 -0500",
-         "title" : "Chess streaming"
+         "link" : "https://www.espn.com/chess/story/_/id/31711508/magnus-carlsen-champions-tour-asian-rapid?device=featurephone",
+         "pubDate" : "Sat, 26 Jun 2021 05:11:57 -0500",
+         "title" : "Magnus Carlsen's Champions Tour -- Asian Rapid"
       },
       {
          "description" : "One of the most famous examples of longevity in top-level chess is Vassily Smyslov reaching the Final of the Candidates Matches against Garry Kasparov in 1984. Smyslov turned 63 during the match, while Kasparov celebrated his 21st birthday on the last day of the confrontation - three to one age odds!",
@@ -112,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-play-like-bobby-fischer",
          "pubDate" : "Fri, 25 Jun 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Play like Bobby Fischer"
-      },
-      {
-         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Round 2 begins today at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Fri, 25 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "The pairings are out for the biggest FIDE Chess World Cups ever held, with Baadur Jobava vs. 12-year-old GM record chaser Mishra Abhimanyu one of the most intriguing Round 1 match-ups. The big guns start from Round 2, with Magnus Carlsen facing either Sasa Martinovic or Kaido Kulaots. If the World Champion is going to win the event he may need to beat Alireza Firouzja, Anish Giri and Fabiano Caruana from the quarterfinals on. Check out the pairings, and even make your own predictions for the 206-player open and 103-player women's brackets!",
