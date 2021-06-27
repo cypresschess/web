@@ -10,6 +10,14 @@ news_feed (
          "title" : "Senegal crowns national champion!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1169",
+         "pubDate" : "Sun, 27 Jun 2021 17:47:54 +0000",
+         "title" : "Ding and Aronian take the lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83899509.cms\" />Levon Aronian and Ding Liren shared the lead after the second day of the Goldmoney Asian Rapid on Sunday. Aronian began the second day in good form and led right until the end having gone five unbeaten on day one.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
