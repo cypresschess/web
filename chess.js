@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 33nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks again whether \"to trade or not to trade\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-33-to-trade-or-not-to-trade-2",
+         "pubDate" : "Sun, 27 Jun 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 33: To trade or not to trade (2)"
+      },
+      {
+         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after three rounds. Follow the games live starting at 14:15 CEST (8:15 ET, 12:15 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Sun, 27 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on Day 1.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2432,22 +2448,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/caruana-and-deac-are-winners-on-day-two-of-the-superbet-chess-classic",
          "pubDate" : "Sun, 6 Jun 2021 20:39:00 +0400",
          "title" : "Caruana and Deac are winners on day two of the Superbet Chess Classic - 2"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 30th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-2",
-         "pubDate" : "Sun, 06 Jun 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 30: To exchange or not to exchange (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1127",
-         "pubDate" : "Sun, 06 Jun 2021 13:46:37 +0000",
-         "title" : "Gulnar Mammadova wins Qualifier VI"
       }
    ]
 }
