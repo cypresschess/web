@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on Day 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sun, 27 Jun 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Live!"
+      },
+      {
+         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev [pictured], Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-1",
+         "pubDate" : "Sun, 27 Jun 2021 12:25:00 +0100",
+         "title" : "Goldmoney Asian Rapid: Five leaders after five rounds"
+      },
+      {
+         "description" : " Success at any skill-based activity requires three things: generic attributes and skills (the difference is that you can train skills but not attributes), domain-specific knowledge and domain-specific skills. For example, you might know it's possible to force mate with a bishop and knight against a lone king: that's knowledge. Knowing the mate positions, and that <a href=\"https://chessimprover.com/knowledge-and-skill-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knowledge and Skill\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knowledge-and-skill-2/\">Knowledge and Skill</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/knowledge-and-skill-2/",
+         "pubDate" : "Sun, 27 Jun 2021 09:47:29 +0000",
+         "title" : "Knowledge and Skill"
+      },
+      {
+         "description" : "Maharashtra youngster Kshatriya Nitin Vekhande becomes champion in the Under-12 Open Category of the National Age Group Chess Championship which concluded on Thursady. Kshatriya tied",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kshatriya-vekhande-under-12-open-champion/",
+         "pubDate" : "Sun, 27 Jun 2021 09:02:54 +0000",
+         "title" : "Kshatriya Vekhande Under-12 Open Champion"
+      },
+      {
+         "description" : "Magnus Carlsen began the Goldmoney Asian Rapid with a loss to 18-year-old Alireza Firouzja, but from there on their fortunes diverged dramatically. Magnus hit back to win three of the next four games and join a 5-way tie for the lead, while Alireza is half a point off last place after losing three games. The co-leaders are Vladislav Artemiev and Daniil Dubov, who like Magnus won three games but suffered one heavy loss, and Ding Liren and Levon Aronian, who are the only players still unbeaten.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-1-carlsen-hits-back-after-firouzja-stumble",
+         "pubDate" : "Sun, 27 Jun 2021 08:44:22 +0000",
+         "title" : "Goldmoney Asian Rapid 1: Carlsen hits back after Firouzja stumble"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83887545.cms\" /> India's best teenage Grandmasters (GM) Raunak Sadhwani and Nihal Sarin recorded yet another victory in their respective fourth rounds contests to share the top position in the Silver Lake Open classical chess tournament at Veliko Gradiste, Serbia, on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,14 +90,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid 2021 - "
       },
       {
-         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev, Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sat, 26 Jun 2021 14:45:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Five players share the lead"
-      },
-      {
          "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cold-blooded-defence",
          "pubDate" : "Sat, 26 Jun 2021 14:15:00 +0100",
          "title" : "Cold blooded defence"
-      },
-      {
-         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after two rounds. Follow the games live starting at 14:15 CEST (8:15 ET, 12:15 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Sat, 26 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "The French Team Championship, also known as Top 12, is taking place in Châlons-en-Champagne. Only two teams have managed to score victories in the first two rounds: Bischwiller, with Markus Ragger and Etienne Bacrot on top boards, and the team from Clichy, led by Jorden van Foreest. | Photos: Official site",
@@ -103,7 +127,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/at-what-age-do-chess-players-peak",
          "pubDate" : "Sat, 26 Jun 2021 09:51:03 +0000",
-         "title" : "At What Age Are Chess Players At Their Peak?"
+         "title" : "At what age are chess players at their peak?"
       },
       {
          "description" : "On Sunday July 18 2021, Trafalgar Square will be taken over by numerous chess manifestations designed to introduce the general public to the game. There will be opportunities to challenge Grandmasters, as well as receive tuition, but the highlight of the day will be a display of living chess, with actors taking on the characters []",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "Prague Chess Festival, Round 3: Shankland beats Navara"
       },
       {
-         "description" : "Aronyak Ghosh of West Bengal and V Rindhya of Tamilnadu crowned as National Under-18 Open &#38; Girls Online Chess Champions respectively which concluded on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aronyak-ghosh-and-rindhya-champions/",
-         "pubDate" : "Thu, 17 Jun 2021 10:29:00 +0000",
-         "title" : "Aronyak Ghosh and Rindhya Champions"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" />Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1568,14 +1584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms",
          "pubDate" : "Tue, 15 Jun 2021 21:12:51 +0530",
          "title" : "Anand to feature in Croatia leg of Grand Chess Tour"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov took a quick draw against Maxime Vachier-Lagrave in the final round to clinch first place in the Superbet Chess Classic along with the $90,000 top prize. The Azerbaijan no. 1 finished a full point ahead of Levon Aronian, Alexander Grischuk and Wesley So in 2nd place. Caruana-Deac was by far the longest game of the day, but Fabiano Caruana couldn't improve a disappointing tournament, while MVL finished last before heading to his home city this weekend for the Paris Rapid &amp; Blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mamedyarov-cruises-to-superbet-chess-classic-triumph",
-         "pubDate" : "Tue, 15 Jun 2021 13:00:00 +0000",
-         "title" : "Mamedyarov cruises to Superbet Chess Classic triumph"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg\" data-image-dimensions=\"1280x720\" data-image-focal-point=\"0.5,0.5\" alt=\"hzYQj_zC.jpg large.jpg\" data-load=\"false\" data-image-id=\"60c8a1ee26697a315dcd872c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg?format=1000w\" /> </figure> <iframe src=\"https://omny.fm/shows/perpetual-chess-podcast/ep-230-braden-laughlin/embed\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1140",
          "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
          "title" : "The Queens' Festival kicks off on June 11"
-      },
-      {
-         "description" : " This week, we are going to start delving into the world of tactics. You have probably heard the world tactics used in unison with the word strategy, as in the phrase strategy and tactics. The two words are actually very different in meaning. Strategy can be thought of as the overall plan that helps you <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-two/\">A Foundation for Beginners Twenty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-two/",
-         "pubDate" : "Fri, 11 Jun 2021 18:17:37 +0000",
-         "title" : "A Foundation for Beginners Twenty Two"
       },
       {
          "description" : "In this Power Play Show GM Daniel King features some complex calculation from the Superbet Chess Classic tournament in Bucharest, focusing in particular on the fine game Caruana-Lupulescu.| Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
