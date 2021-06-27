@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann from [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
+         "pubDate" : "Sun, 27 Jun 2021 19:04:33 +0000",
+         "title" : "Senegal crowns national champion!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83899509.cms\" />Levon Aronian and Ding Liren shared the lead after the second day of the Goldmoney Asian Rapid on Sunday. Aronian began the second day in good form and led right until the end having gone five unbeaten on day one.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-ding-and-aronian-share-the-lead-after-day-2/articleshow/83899509.cms",
+         "pubDate" : "Sun, 27 Jun 2021 22:27:06 +0530",
+         "title" : "Goldmoney Asian Rapid: Ding and Aronian share the lead after Day 2"
+      },
+      {
+         "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sun, 27 Jun 2021 15:10:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Ding and Aronian in the lead"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 33nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks again whether \"to trade or not to trade\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
          "pubDate" : "Sun, 27 Jun 2021 14:00:00 +0100",
          "title" : "French Team Championship \"Top 12\" live"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on Day 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sun, 27 Jun 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Live!"
       },
       {
          "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev [pictured], Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Photo: Vladimir Barsky",
@@ -362,7 +378,7 @@ news_feed (
          "title" : "Latvia to stage the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
       },
       {
-         "description" : " Share! GM Pontus Carlsson GM Pontus Carlsson has told The Chess Drum that he was at a tournament in Spain where the others did not believe he was a chess player. After not taking him seriously, he promptly won all of the games. He overheard one of the players saying &#8220;The Black guy is playing [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/\">Pontus Carlsson wins 2021 Prague Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " GM Pontus Carlsson GM Pontus Carlsson has told The Chess Drum that he was at a tournament in Spain where the others did not believe he was a chess player. After not taking him seriously, he promptly won all of the games. He overheard one of the players saying &#8220;The Black guy is playing good!&#8221; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/\">Pontus Carlsson wins 2021 Prague Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/",
@@ -2440,14 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1128",
          "pubDate" : "Sun, 06 Jun 2021 20:30:10 +0000",
          "title" : "2021 Superbet Chess Classic - Day 2 Recap"
-      },
-      {
-         "description" : " The Superbet Chess Classic sprung to life in the second round with two decisive results, both involving the local players. It's always nice to see strong events have places and opportunities for local players, sometimes that's not a priority which is often a shame. In particular Bogdan-Daniel Deac seems ready to grab this opportunity with both hands. Fabiano Caruana won fairly easily as white against Constantin Lupulescu. The game was a sharp French Defence with castling on opposite wings. The key moment seems to have been 17...Ba4? which allowed Caruana to win a clean pawn and take the Queens off. 17....e5 seems to have been the correct test of white's setup - 18. h5 exd4 19. hxg6 Qg5 20. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/caruana-and-deac-are-winners-on-day-two-of-the-superbet-chess-classic",
-         "pubDate" : "Sun, 6 Jun 2021 20:39:00 +0400",
-         "title" : "Caruana and Deac are winners on day two of the Superbet Chess Classic - 2"
       }
    ]
 }
