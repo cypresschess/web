@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83887545.cms\" /> India's best teenage Grandmasters (GM) Raunak Sadhwani and Nihal Sarin recorded yet another victory in their respective fourth rounds contests to share the top position in the Silver Lake Open classical chess tournament at Veliko Gradiste, Serbia, on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-best-teenage-gms-raunak-nihal-in-lead-to-face-off-in-round-5/articleshow/83887545.cms",
+         "pubDate" : "Sun, 27 Jun 2021 10:03:03 +0530",
+         "title" : "India's best teenage GMs Raunak, Nihal in lead; to face off in round 5"
+      },
+      {
          "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
