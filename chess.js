@@ -2448,22 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1129",
          "pubDate" : "Mon, 07 Jun 2021 07:26:52 +0000",
          "title" : "FIDE's Chess in Education Commission accelerates its provision of training for Lecturers and Teachers of Educational chess"
-      },
-      {
-         "description" : "Often times during a chess game you have to make a choice between waiting and initiating concrete action. Star columnist Jon Speelman notes that \"this eerie silence before battle is perhaps the most difficult moment psychologically\", and goes on to show how even world champion Magnus Carlsen can take a wrong turn from time to time. | Photo: Georgios Souleidis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-147",
-         "pubDate" : "Sun, 06 Jun 2021 22:00:00 +0100",
-         "title" : "Overthinking the silence"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1128",
-         "pubDate" : "Sun, 06 Jun 2021 20:30:10 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 2 Recap"
       }
    ]
 }
