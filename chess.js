@@ -5,9 +5,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1172",
+         "pubDate" : "Mon, 28 Jun 2021 20:51:02 +0000",
+         "title" : "Levon Aronian wins prelim stage"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> From graphic and sound design to curriculum and business analysis, the <a href=\"https://www.chesstech.org/jobs/\">job roles advertised</a> by <strong>Chess.com</strong> are getting more diverse. Most positions can be filled from anywhere, a notable exception is the future Chief Operating Officer who must be a US resident. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/jobs-get-more-diverse-at-chesscom/",
+         "pubDate" : "Mon, 28 Jun 2021 20:13:25 +0100",
+         "title" : "Jobs get more diverse at Chess.com"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1171",
          "pubDate" : "Mon, 28 Jun 2021 18:23:37 +0000",
-         "title" : "Lei Tingjie progress into semifinals"
+         "title" : "Lei Tingjie reaches semifinals"
       },
       {
          "description" : "GM Lei Tingjie joined GMs&#38;nbsp;Kateryna Lagno, Hou Yifan, and Harika Dronavalli in the semifinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. Lei beat former women&#39;s world champion GM Antoaneta Stefanova 11-9 in their quarterfinal on M...",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://chessimprover.com/fifty-shades-of-ray/",
          "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
          "title" : "Fifty Shades of Ray"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Bryght Labs</strong> has appointed Abrahamyan and Aronian and keeps hiring developers for the <strong>Chessup</strong> board, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/tatev-abrahamian.1920.jpeg\" title=\"Tatev Abrahamyan is the Chess Director of Chessup. Lennart Ootes / St Louis Chess Campus\" data-title=\"Tatev Abrahamyan is the Chess Director of Chessup. (Lennart Ootes / St Louis Chess Campus)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tatev-abrahamian.480.jpeg\" alt=\"Tatev Abrahamyan is the Chess Director of ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/building-a-team-to-build-a-board/",
-         "pubDate" : "Wed, 23 Jun 2021 08:08:30 +0100",
-         "title" : "Building a team to build a board"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros treks through two games from true chess endgame masters: former U.S. Champion Sam Reshevsky and living legend Ulf Andersson. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
