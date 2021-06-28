@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ulf Andersson is the best Swedish chess player of all time and at his peak he was the world's number four. Andersson is also a correspondence chess grandmaster and one of the best correspondence chess players in the world. Yesterday, 27 June, he celebrated his 70th birthday. | Photo: Bert Verhoeff / Anefo / CCO",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swedish-chess-legend-ulf-andersson-celebrates-his-70th-birthday",
+         "pubDate" : "Mon, 28 Jun 2021 16:53:45 +0100",
+         "title" : "Swedish chess legend Ulf Andersson celebrates his 70th birthday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1170",
+         "pubDate" : "Mon, 28 Jun 2021 13:28:02 +0000",
+         "title" : "Qatar Chess Association and Northwestern University in Qatar gain recognition for their joint course \"Chess and Strategic Thinking\""
+      },
+      {
          "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after four rounds - so far, both clubs have won all their matches. Follow the games of live. Round 5 starts at 14:15 CEST (8:15 ET, 12:15 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2408,30 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fair-play-in-chess",
          "pubDate" : "Mon, 07 Jun 2021 20:00:00 +0100",
          "title" : "Fair play in chess"
-      },
-      {
-         "description" : " The Superbet Chess Classic saw more local success when Constantin Lupulescu beat Anish Giri in the third round. The event is the first of the Grand Chess Tour 2021. Thus far some of the biggest stars have struggled to get going and the games involving the local Romanian players have had most content. So far they haven't looked out of place in this company. Lupulescu beat Giri in a topical line of the English although the result had little to do with the opening. Lupulescu was already on his own when he played the new move 14.f3 which was certainly ambitious. 20.Re2 seems wrong as after Giri's 20....Qh5 white seems in quite a bit of trouble. Having spent some time on Qh5 Giri hurried his nex",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/caruana-and-deac-remain-sharing-the-lead-in-the-superbet-chess-classic",
-         "pubDate" : "Mon, 7 Jun 2021 18:55:00 +0400",
-         "title" : "Caruana and Deac remain sharing the lead in the Superbet Chess Classic - 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1131",
-         "pubDate" : "Mon, 07 Jun 2021 14:38:11 +0000",
-         "title" : "Chess in Schools Survey 2021: First conclusions and takeaways"
-      },
-      {
-         "description" : " The French Open is currently being broadcast, and the Tour de France isn't far away, but of course, the late night sports I'm talking about is the Superbet Chess Classic. It starts late evening Canberra time, and while there are plenty of commentary choices, the one that I have settled on St Louis Chess Club coverage via youtube. Both Yasser Seirawan and Maurice Ashley are part of the commentary team, along with team of supporting GM's. The tournament is currently up to round 3 and the link for this round is https://www.youtube.com/watch?v=Pce2ncWepDY ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/late-night-sports.html",
-         "pubDate" : "Mon, 07 Jun 2021 13:45:00 +0000",
-         "title" : "Late night sports"
       }
    ]
 }
