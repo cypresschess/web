@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches the first chess class at the Saint Louis Chess Club since March 2020. Welcome back live audience. Welcome to the old normal. We did it. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/real-chess-class-dorsas-choice\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/laL8CPgpdFE.jpg?itok=4iW_WV71\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/real-chess-class-dorsas-choice",
+         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
+         "title" : "The REAL Chess Class | Dorsa's Choice"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews IM Eric Rosen about his career, world standings, streaming, and chess! Questions are accepted via chat. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-im-eric-rosen-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i4Fmx7FxFRo.jpg?itok=NU6MuFRe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/get-know-im-eric-rosen-gm-denes-boros",
+         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
+         "title" : "Get to Know IM Eric Rosen with GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.06.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/not-sweet-tartakower-defense-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nkhPEbFY5BM.jpg?itok=kXJWJLij\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/not-sweet-tartakower-defense-chess-openings-explained-lichessorg",
+         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
+         "title" : "Not Sweet: The Tartakower Defense | Chess Openings Explained | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -658,14 +682,6 @@ news_feed (
          "title" : "Masters of the Endgame | Insane in the Endgame - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes the great rook vs. knight blitz endgame Maxime Vachier-Lagrave vs. Alireza Firouzja from the 2021 Paris Grand Chess Tour. Plus, see how the game relates to a historic game, and to one of Caleb's games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paris-gct-rook-vs-knight-mvl-firouzja-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paris-gct-rook-vs-knight-mvl-firouzja-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 23 Jun 2021 01:22:54 +0000",
-         "title" : "Paris GCT: Rook vs. Knight (MVL-Firouzja) | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1162",
          "pubDate" : "Tue, 22 Jun 2021 20:59:49 +0000",
          "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has the final nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/202",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-5",
-         "pubDate" : "Tue, 22 Jun 2021 19:22:41 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Day 5"
       },
       {
          "description" : "Leading from start to finish, GM Wesley So won the Paris Rapid &#38;amp; Blitz tournament as the best and most consistent player in the field. The American player secured the $37,500 first prize with a round to spare before beating his closest rival G...",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-official-regulations/",
          "pubDate" : "Tue, 22 Jun 2021 05:24:59 +0000",
          "title" : "EUROPEAN TEAM CHESS CHAMPIONSHIP 2021 - Official Regulations"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews WFM Anna Cramling about her career, world standings, streaming, and chess! Questions are accepted via chat. 2021.06.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-wfm-anna-cramling-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1nHvdTCdlk.jpg?itok=dVFDitiL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/get-know-wfm-anna-cramling-gm-denes-boros",
-         "pubDate" : "Tue, 22 Jun 2021 01:22:11 +0000",
-         "title" : "Get to Know WFM Anna Cramling with GM Denes Boros"
       },
       {
          "description" : " The Queen's Gambit - Accepted!: Jonathan Arnott &#38; Rosie Irwin From the publisher: The game of chess has hundreds of child-friendly books, but what about the adult beginner inspired by The Queen's Gambit Netflix series? Rosie Irwin is the perfect example: just like the title character, she's had her own struggles with mental health and <a href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Queen's Gambit - Accepted!</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\">The Queen's Gambit - Accepted!</",
@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bishop-vs-pawns",
          "pubDate" : "Tue, 08 Jun 2021 09:00:00 +0100",
          "title" : "Bishop vs pawns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1132",
-         "pubDate" : "Mon, 07 Jun 2021 23:04:40 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 3 Recap"
       }
    ]
 }
