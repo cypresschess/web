@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1171",
+         "pubDate" : "Mon, 28 Jun 2021 18:23:37 +0000",
+         "title" : "Lei Tingjie progress into semifinals"
+      },
+      {
+         "description" : "GM Lei Tingjie joined GMs&#38;nbsp;Kateryna Lagno, Hou Yifan, and Harika Dronavalli in the semifinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. Lei beat former women&#39;s world champion GM Antoaneta Stefanova 11-9 in their quarterfinal on M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-lei-tingjie-stefanova",
+         "pubDate" : "Mon, 28 Jun 2021 10:55:00 -0700",
+         "title" : "Women's Speed Chess Championship: Lei Tingjie Joins Semifinalists"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at Magnus Carlsen vs. Vassily Ivanchuk from the second half of the 2011 Grand Slam Final in Bilbao. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-grand-slam-over-ivanchuk-bilbao-2011-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Mon, 28 Jun 2021 16:28:18 +0000",
+         "title" : "Carlsen's Grand Slam over Ivanchuk, Bilbao 2011 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Ulf Andersson is the best Swedish chess player of all time and at his peak he was the world's number four. Andersson is also a correspondence chess grandmaster and one of the best correspondence chess players in the world. Yesterday, 27 June, he celebrated his 70th birthday. | Photo: Bert Verhoeff / Anefo / CCO",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +42,22 @@ news_feed (
          "title" : "Qatar Chess Association and Northwestern University in Qatar gain recognition for their joint course \"Chess and Strategic Thinking\""
       },
       {
+         "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Mon, 28 Jun 2021 14:10:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Aronian wins preliminaries"
+      },
+      {
+         "description" : "Planning in chess is a fine and important art. On his DVD \"Strategy Training: How to Make a Plan\" Robert Ris shows how to master this art. Jana Schneider, one of Germany's top women players, had a look at the DVD and liked what she saw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-how-to-make-a-plan-a-review",
+         "pubDate" : "Mon, 28 Jun 2021 14:05:00 +0100",
+         "title" : "Robert Ris: \"How to Make a Plan\" - A review"
+      },
+      {
          "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after four rounds - so far, both clubs have won all their matches. Follow the games of live. Round 5 starts at 14:15 CEST (8:15 ET, 12:15 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,28 +66,12 @@ news_feed (
          "title" : "French Team Championship \"Top 12\" live"
       },
       {
-         "description" : "Planning in chess is a fine and important art. On his DVD \"Strategy Training: How to Make a Plan\" Robert Ris shows how to master this art. Jana Schneider, one of Germany's top women players, had a look at the DVD and liked what she saw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-how-to-make-a-plan-a-review",
-         "pubDate" : "Mon, 28 Jun 2021 13:59:28 +0100",
-         "title" : "Robert Ris: \"How to Make a Plan\" - A review"
-      },
-      {
          "description" : " This post was originally going to be another one about very short losses by people who should know better. I downloaded the latest set of games from TWIC and sorted them by length, to find likely candidates. I quickly discovered that almost all the miniatures I was looking at occurred in online events. I'm assuming with the games played at a fast time limit (3m+1s) that mistakes will happen, but these were pretty horrible. Clearly the online chess boom has made chess more popular, but at least in this format, there is a price to be paid. Here is one example of what I am talking about! <br /> <b>Zhukov,Anton (2174) - Boyer,Mahel (2412) [A01]</b><br />Titled Tuesday 15th June chess.com INT (5",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/one-reason-i-dont-play-online.html",
          "pubDate" : "Mon, 28 Jun 2021 12:56:00 +0000",
          "title" : "One reason I don't play online"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Mon, 28 Jun 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Live!"
       },
       {
          "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Pictured: Arjun Erigaisi | Photo: Lennart Ootes / Sunway Sitges",
@@ -866,14 +890,6 @@ news_feed (
          "title" : "Final lists of FIDE World Cups participants published"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The fifth Paris Grand Chess Tour is a rapid and blitz tournament and the second stop on the 2021 Tour. Players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from Gobelins Manufactory. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, Maurice Ashley, and IM Almira Skripchenko for the move-by-move. 2021.06.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-paris-gr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-paris-grand-chess-tour-day-4",
-         "pubDate" : "Mon, 21 Jun 2021 22:22:13 +0000",
-         "title" : "2021 Paris Grand Chess Tour: Day 4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1258,12 +1274,12 @@ news_feed (
          "title" : "Firouzja Turns 18 As Paris Rapid & Blitz Grand Chess Tour Gets Underway"
       },
       {
-         "description" : "The last Monday of June is approaching, and with it comes the next edition of Chess Done Quick. This time, Chess.com invites top chess streamers to pull out the big guns and give their best in a bullet speed run to snatch their share of the $12,00...",
+         "description" : "The last Monday of June is approaching, and with it comes the next edition of Chess Played Quick. This time, Chess.com invites top chess streamers to pull out the big guns and give their best in a bullet speed run to snatch their share of the $12,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-announces-chess-done-quick-bullet-edition",
+         "link" : "https://www.chess.com/news/view/chess-com-announces-chess-played-quick-bullet-edition",
          "pubDate" : "Fri, 18 Jun 2021 11:38:00 -0700",
-         "title" : "Chess.com Announces Chess Done Quick Bullet Edition On June 28"
+         "title" : "Chess.com Announces Chess Played Quick Bullet Edition On June 28"
       },
       {
          "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Women's Speed Chess Championship: Lagno Beats Gunina"
       },
       {
-         "description" : "GM Shakhriyar Mamedyarov used a now-infamous variation in the Grunfeld to force a draw with GM Anish Giri in round eight of the Superbet Chess Classic. Mamedyarov is half a point away from sole tournament victory. While three more games ended in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/superbet-chess-classic-2021-round-8-mamedyarov-giri-grunfeld",
-         "pubDate" : "Mon, 14 Jun 2021 00:40:00 -0700",
-         "title" : "Superbet Chess Classic: Mamedyarov Closes In With Grunfeld Move Repetition"
-      },
-      {
          "description" : " Disclaimer: I am no doctor, nor do I want to play one on the internet. I am just telling what has worked for me. If you have serious issues with Stress, then please visit a doctor! Chess games and tournaments can be extremely stressful. You have to sit tight and think for hours. Every moment [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/stress-reduction/\">Reducing Stress During Tournaments 3 Easy Steps To Less Stress</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1132",
          "pubDate" : "Mon, 07 Jun 2021 23:04:40 +0000",
          "title" : "2021 Superbet Chess Classic - Day 3 Recap"
-      },
-      {
-         "description" : "Imagine you play in an important online event and your opponent makes a move that is obviously a mouse-slip. What do you do? Do you use the opportunity to exploit the blunder and to win the game? Or do you allow your opponent to take the move back or do you offer a draw? What, do you think, is fair play in this and other cases? Assi Philosoph shares some thoughts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fair-play-in-chess",
-         "pubDate" : "Mon, 07 Jun 2021 20:00:00 +0100",
-         "title" : "Fair play in chess"
       }
    ]
 }
