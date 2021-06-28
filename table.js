@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-06-26","74","<a href=http://www.uschess.org/msa/XtblMain.php?202106261592 target=' blank'>SPINDLETAP SCHOLASTIC & COLLEGIATE</a>",
 "SPRING","2021-06-25","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106251102 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-06-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106251032 target=' blank'>FRIDAYNIGHTJUNE25</a>",
 "SPRING","2021-06-19","22","<a href=http://www.uschess.org/msa/XtblMain.php?202106199082 target=' blank'>DER SPRINGERS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2020-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002213092 target=' blank'>FRIDAY KNIGHT QUADS 02.21.2020</a>",
 "HOUSTON","2020-02-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202002213062 target=' blank'>CHESSPANDA02212020FRIDAY</a>",
 "CYPRESS","2020-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002213042 target=' blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2020-02-16","20","<a href=http://www.uschess.org/msa/XtblMain.php?202002160362 target=' blank'>THE CHESS REFINERY: SCHOLASTIC SUNDAY</a>",
 ]);
