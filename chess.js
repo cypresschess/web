@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-may-2021/",
          "pubDate" : "Mon, 07 Jun 2021 07:41:59 +0000",
          "title" : "ECU E-MAGAZINE MAY 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1129",
-         "pubDate" : "Mon, 07 Jun 2021 07:26:52 +0000",
-         "title" : "FIDE's Chess in Education Commission accelerates its provision of training for Lecturers and Teachers of Educational chess"
       }
    ]
 }
