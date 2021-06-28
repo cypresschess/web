@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Mon, 28 Jun 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Live!"
+      },
+      {
          "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Pictured: Arjun Erigaisi | Photo: Lennart Ootes / Sunway Sitges",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-2-aronian-ding",
-         "pubDate" : "Mon, 28 Jun 2021 01:53:58 -0700",
+         "pubDate" : "Mon, 28 Jun 2021 01:53:00 -0700",
          "title" : "Goldmoney Asian Rapid: Aronian, Ding Lead"
       },
       {
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
          "pubDate" : "Sun, 27 Jun 2021 19:04:33 +0000",
          "title" : "Senegal crowns national champion!"
+      },
+      {
+         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
+         "pubDate" : "Sun, 27 Jun 2021 18:16:00 +0000",
+         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
       },
       {
          "description" : "",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
          "pubDate" : "Mon, 21 Jun 2021 18:26:00 +0000",
          "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
-      },
-      {
-         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
-         "pubDate" : "Mon, 21 Jun 2021 18:16:52 +0000",
-         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
       },
       {
          "description" : "Prague International Chess Festival 2021 took place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The historically third winner of the Masters tournament is the American grandmaster Sam Shankland. Shankland scored 5.5/7 points to be the sole winner of the event, followed by GM Duda Jan-Krzysztof with 5 points, and GM Wojtaszek []",
@@ -2400,14 +2408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r2",
          "pubDate" : "Mon, 07 Jun 2021 13:30:00 +0100",
          "title" : "Superbet: Deac and Caruana strike first"
-      },
-      {
-         "description" : " FIDE Online Arena, the official chess gaming platform, released a native iOS app which was met with hmmms because it didn't happen earlier. After all, it's 2021, most of the gaming is mobile-first, and the app should have been released ages ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/zastavka-k-rassylke_novosti.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> \"Yes, it's even <i>cringeworthy</i> to announce it now, - says <b>Ilya Merenzon, CEO of World Chess, the company that manages FIDE Online Arena</b>. 'We apologize sincerely to the users for not releasing it a decade ago. Of course, in the next few months, we will be adding some cool features to the",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-online-arena-now-has-an-ios-app-hmmm/",
-         "pubDate" : "Mon, 07 Jun 2021 11:06:43 +0000",
-         "title" : "FIDE Online Arena Now Has an iOS App. Hmmm"
       }
    ]
 }
