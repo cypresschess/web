@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after four rounds - so far, both clubs have won all their matches. Follow the games of live. Round 5 starts at 14:15 CEST (8:15 ET, 12:15 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Mon, 28 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : "Planning in chess is a fine and important art. On his DVD \"Strategy Training: How to Make a Plan\" Robert Ris shows how to master this art. Jana Schneider, one of Germany's top women players, had a look at the DVD and liked what she saw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-how-to-make-a-plan-a-review",
+         "pubDate" : "Mon, 28 Jun 2021 13:59:28 +0100",
+         "title" : "Robert Ris: \"How to Make a Plan\" - A review"
+      },
+      {
+         "description" : " This post was originally going to be another one about very short losses by people who should know better. I downloaded the latest set of games from TWIC and sorted them by length, to find likely candidates. I quickly discovered that almost all the miniatures I was looking at occurred in online events. I'm assuming with the games played at a fast time limit (3m+1s) that mistakes will happen, but these were pretty horrible. Clearly the online chess boom has made chess more popular, but at least in this format, there is a price to be paid. Here is one example of what I am talking about! <br /> <b>Zhukov,Anton (2174) - Boyer,Mahel (2412) [A01]</b><br />Titled Tuesday 15th June chess.com INT (5",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/one-reason-i-dont-play-online.html",
+         "pubDate" : "Mon, 28 Jun 2021 12:56:00 +0000",
+         "title" : "One reason I don't play online"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,15 @@ news_feed (
          "title" : "Goldmoney Asian Rapid 2: Aronian & Ding lead"
       },
       {
-         "description" : " Share! Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann from [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " We all know that feeling of fucking up a winning position. It truly hurts and it seems to be a never ending experience. After reading this article you will convert more of your winning positions! Getting a winning position is only half the work. Converting the winning advantage is the real test. It is no [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/winning-won-position/\">How To Win A Winning Position In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/winning-won-position/?utm_source=rss&utm_medium=rss&utm_campaign=winning-won-position",
+         "pubDate" : "Mon, 28 Jun 2021 04:14:00 +0000",
+         "title" : "How To Win A Winning Position In Chess"
+      },
+      {
+         "description" : " Share! Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
@@ -2400,14 +2432,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/late-night-sports.html",
          "pubDate" : "Mon, 07 Jun 2021 13:45:00 +0000",
          "title" : "Late night sports"
-      },
-      {
-         "description" : "The first two decisive results of the Superbet Chess Classic were seen in Sunday's second round, as the top seed and the bottom seed won their games and are now sharing the lead. Fabiano Caruana defeated Constantin Lupulescu, while Bogdan-Daniel Deac [pictured] stunned Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r2",
-         "pubDate" : "Mon, 07 Jun 2021 13:30:00 +0100",
-         "title" : "Superbet: Deac and Caruana strike first"
       }
    ]
 }
