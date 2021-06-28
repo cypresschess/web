@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Pictured: Arjun Erigaisi | Photo: Lennart Ootes / Sunway Sitges",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-2",
+         "pubDate" : "Mon, 28 Jun 2021 10:00:00 +0100",
+         "title" : "Goldmoney Asian Rapid: A tough field"
+      },
+      {
+         "description" : "After the second day of the preliminaries in the Goldmoney Asian Rapid, GMs&#38;nbsp;Levon Aronian and Ding Liren are tied for first place with 7/10, closely followed by GM Wesley So and Vladislav Artemiev.&#38;nbsp;GM Alireza Firouzja and Daniil Dubov ne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-2-aronian-ding",
+         "pubDate" : "Mon, 28 Jun 2021 01:53:58 -0700",
+         "title" : "Goldmoney Asian Rapid: Aronian, Ding Lead"
+      },
+      {
+         "description" : "Levon Aronian beat Magnus Carlsen in the first round of Day 2 of the Goldmoney Asian Rapid as he joined Ding Liren in scoring an unbeaten 3.5/5 for a second day in a row to move ahead of the pack. Of the five co-leaders at the start of the day, Artemiev scored a solid 3/5, Magnus scored 50% and Dubov crashed to three defeats and just two draws to leave him outside the qualifying spots. His place was taken by 17-year-old Indian star Arjun Erigaisi, who defeated Vidit and Hou Yifan.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-2-aronian-ding-lead",
+         "pubDate" : "Mon, 28 Jun 2021 08:24:05 +0000",
+         "title" : "Goldmoney Asian Rapid 2: Aronian & Ding lead"
+      },
+      {
          "description" : " Share! Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann from [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -26,28 +50,12 @@ news_feed (
          "title" : "Goldmoney Asian Rapid: Ding and Aronian share the lead after Day 2"
       },
       {
-         "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sun, 27 Jun 2021 15:10:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Ding and Aronian in the lead"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 33nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks again whether \"to trade or not to trade\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-33-to-trade-or-not-to-trade-2",
          "pubDate" : "Sun, 27 Jun 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 33: To trade or not to trade (2)"
-      },
-      {
-         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after three rounds. Follow the games live starting at 14:15 CEST (8:15 ET, 12:15 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Sun, 27 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev [pictured], Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Photo: Vladimir Barsky",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "A great escape"
       },
       {
-         "description" : "Gukesh, fresh from his Gelfand Challenge triumph, takes on Johan Sebastian Christiansen today as the San Fermin Banter Blitz Cup qualifiers continue. The D Qualifier also sees the likes of Baadur Jobava and 14-year-old Grandmaster Marc'Andria Maurizzi in action. They're fighting to join the already qualified Adhiban, Jan-Krzysztof Duda and Liem Quang Le in an 8-player final that will decide a player in the Meltwater Champions Chess Tour and also next month's San Fermin festival in Pamplona, where World Champion Magnus Carlsen plays.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gukesh-jobava-co-fight-to-join-adhiban-duda-le-in-banter-blitz-cup-final",
-         "pubDate" : "Wed, 16 Jun 2021 11:59:48 +0000",
-         "title" : "Gukesh, Jobava & co. fight to join Adhiban, Duda & Le in Banter Blitz Cup final"
-      },
-      {
          "description" : "In round 2 of the Masters at the Prague Chess Festival David Navara played against Radoslaw Wojtaszek and suffered his second loss in a row. Sam Shankland won against Jan-Krzysztof Duda and Nihat Abasov defeated Nils Grandelius. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead with 1.5/2 each. | Picture: The hotel Don Giovanni, the host of the event",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-3",
          "pubDate" : "Sun, 13 Jun 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 31: To exchange or not to exchange (3)"
-      },
-      {
-         "description" : "The Main Event of the FIDE Chess.com Women&#39;s Speed Chess Championship started with a surprise as IM Bibisara Assaubayeva eliminated GM Humpy Koneru. The Kazakh number-three player beat the female world number-three 14.5-7.5. The live broadcast o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-assaubayeva-koneru",
-         "pubDate" : "Sun, 13 Jun 2021 06:45:00 -0700",
-         "title" : "Women's Speed Chess Championship: Assaubayeva Stuns Koneru"
       },
       {
          "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
@@ -2416,30 +2408,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-online-arena-now-has-an-ios-app-hmmm/",
          "pubDate" : "Mon, 07 Jun 2021 11:06:43 +0000",
          "title" : "FIDE Online Arena Now Has an iOS App. Hmmm"
-      },
-      {
-         "description" : "When you play 1.d4, one of the most common openings that you will encounter is the King's Indian Defence. After 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 how do continue? GM Jan Werle of the Netherlands suggests 5.f3 - the Saemisch Variation. Guess what: you can also use the same antidote against the Benoni! Jan, who has published a ChessBase DVD on the subject, shows you how this works - in this video stream with ChessBase India. It is the perfect 1&frac12; lesson to build your understanding of this opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-werle-beat-the-king-s-indian",
-         "pubDate" : "Mon, 07 Jun 2021 11:00:00 +0100",
-         "title" : "Jan Werle: Beat the King's Indian"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1130",
-         "pubDate" : "Mon, 07 Jun 2021 08:31:16 +0000",
-         "title" : "​​​​​​​Cori and Gunina qualify for Main Event"
-      },
-      {
-         "description" : "ECU E-Magazine May 2021 is out! The May 2021 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link or can be doawnloaded as a PDF file down bellow. In this edition of the ECU E-Magazine you may read about: European Hybrid Qualification Tournament Mitropa Cup 2021 ECU Girls'&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-may-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-2021/",
-         "pubDate" : "Mon, 07 Jun 2021 07:41:59 +0000",
-         "title" : "ECU E-MAGAZINE MAY 2021"
       }
    ]
 }
