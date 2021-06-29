@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.06.28<br /> D55 Queen&#039;s Gambit Declined, Petrosian variation<br /> D58 Queen&#039;s Gambit Declined, Tartakower (Makagonov-Bondarevsky) system<br /> D59 Queen&#039;s Gambit Declined, Tartakower variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-sweet-play-tartakower-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-be-sweet-play-tartakower-chess-openings-explained",
+         "pubDate" : "Tue, 29 Jun 2021 01:28:44 +0000",
+         "title" : "Don't Be Sweet: Play the Tartakower! | Chess Openings Explained"
+      },
+      {
+         "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out of contention. | Don't miss the instructive analyses by GM Karsten M&uuml;ller! | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-3",
+         "pubDate" : "Tue, 29 Jun 2021 01:35:00 +0100",
+         "title" : "Goldmoney Asian Rapid: Firouzja, Svidler and Dubov miss the cut"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches the first chess class at the Saint Louis Chess Club since March 2020. Welcome back live audience. Welcome to the old normal. We did it. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/real-chess-class-dorsas-choice\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/laL8CPgpdFE.jpg?itok=4iW_WV71\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Jobs get more diverse at Chess.com"
       },
       {
+         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
+         "pubDate" : "Mon, 28 Jun 2021 18:26:00 +0000",
+         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1170",
          "pubDate" : "Mon, 28 Jun 2021 13:28:02 +0000",
          "title" : "Qatar Chess Association and Northwestern University in Qatar gain recognition for their joint course \"Chess and Strategic Thinking\""
-      },
-      {
-         "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Mon, 28 Jun 2021 14:10:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Aronian wins preliminaries"
       },
       {
          "description" : "Planning in chess is a fine and important art. On his DVD \"Strategy Training: How to Make a Plan\" Robert Ris shows how to master this art. Jana Schneider, one of Germany's top women players, had a look at the DVD and liked what she saw.",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Masters of the Endgame: Reshevsky & Andersson | Insane in the Endgame - GM Denes Boros"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/masters-endgame-insane-endgame-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 23 Jun 2021 01:22:54 +0000",
-         "title" : "Masters of the Endgame | Insane in the Endgame - GM Denes Boros | lichess.org"
-      },
-      {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1158",
          "pubDate" : "Mon, 21 Jun 2021 19:13:55 +0000",
          "title" : "Sam Shankland wins Prague Chess Festival Masters"
-      },
-      {
-         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
-         "pubDate" : "Mon, 21 Jun 2021 18:26:00 +0000",
-         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
       },
       {
          "description" : "Prague International Chess Festival 2021 took place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The historically third winner of the Masters tournament is the American grandmaster Sam Shankland. Shankland scored 5.5/7 points to be the sole winner of the event, followed by GM Duda Jan-Krzysztof with 5 points, and GM Wojtaszek []",
