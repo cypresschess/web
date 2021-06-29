@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Tue, 29 Jun 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid - Live!"
+      },
+      {
+         "description" : "An 88-year-old chess player from Venezuela recently received a very nice surprise: his FM title. He was informed that FIDE had acknowledged the title application based on results that he scored in the 1960s. It&#39;s a record that won&#39;t be easy to b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/venezuela-chess-player-fm-title-88-salvador-diaz-carias",
+         "pubDate" : "Tue, 29 Jun 2021 04:10:02 -0700",
+         "title" : "Venezuelan Chess Player Gets FM Title At 88"
+      },
+      {
+         "description" : "ChessBase Magazine is the most comprehensive and most sophisticated chess magazine there is. World class players analyze their brilliancies and explain the ideas behind the moves to you, opening specialists present the latest trends in opening theory and offer exciting ideas for your repertoire. Master trainers in the fields of tactics, strategy, and the endgame show you the tricks and techniques a successful tournament player needs! DVD with several hours of video + booklet. Also available for download including the booklet in pdf!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-202",
+         "pubDate" : "Tue, 29 Jun 2021 11:00:00 +0100",
+         "title" : "New: ChessBase Magazine 202"
+      },
+      {
+         "description" : "It was Steinitz who claimed that the king is strong, even in the opening and the middlegame. However, the more enemy pieces on the board, the greater the danger for His Majesty. But in the endgame the king can often show its power. In the diagram position Black is a pawn down but is still able to draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-king-is-a-strong-piece",
+         "pubDate" : "Tue, 29 Jun 2021 09:54:32 +0100",
+         "title" : "The king is a strong piece"
+      },
+      {
+         "description" : "With lovely combinative play, GM Levon Aronian finished at the top of the leaderboard in the Goldmoney Asian Rapid tournament&#39;s preliminaries. He made it to the knockout phase with seven other players, including the 17-year-old Indian GM Arjun Eri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-3-aronian-erigaisi",
+         "pubDate" : "Tue, 29 Jun 2021 01:25:00 -0700",
+         "title" : "Goldmoney Asian Rapid: Aronian Puzzle Rushes To 1st, Erigaisi Through"
+      },
+      {
          "description" : "Levon Aronian scored brilliant wins over Alireza Firouzja and Daniil Dubov as he cruised to 1st place in the Goldmoney Asian Rapid Prelims. The real drama came in the final round, when Jan-Krzysztof Duda won what had seemed a hopeless position to reach the knockouts and make Alireza Firouzja's third win in four games irrelevant. 17-year-old Arjun Erigaisi was the main sensation after he secured qualification like an old pro. Magnus Carlsen and Anish Giri got through after struggles, with Adhiban giving Anish the birthday gift of beating him with 1.b3!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/not-sweet-tartakower-defense-chess-openings-explained-lichessorg",
          "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
          "title" : "Not Sweet: The Tartakower Defense | Chess Openings Explained | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1173",
+         "pubDate" : "Mon, 28 Jun 2021 22:02:07 +0000",
+         "title" : "Queens' Festival goes big"
       },
       {
          "description" : "",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-how-to-make-a-plan-a-review",
          "pubDate" : "Mon, 28 Jun 2021 14:05:00 +0100",
          "title" : "Robert Ris: \"How to Make a Plan\" - A review"
-      },
-      {
-         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after four rounds - so far, both clubs have won all their matches. Follow the games of live. Round 5 starts at 14:15 CEST (8:15 ET, 12:15 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Mon, 28 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : " This post was originally going to be another one about very short losses by people who should know better. I downloaded the latest set of games from TWIC and sorted them by length, to find likely candidates. I quickly discovered that almost all the miniatures I was looking at occurred in online events. I'm assuming with the games played at a fast time limit (3m+1s) that mistakes will happen, but these were pretty horrible. Clearly the online chess boom has made chess more popular, but at least in this format, there is a price to be paid. Here is one example of what I am talking about! <br /> <b>Zhukov,Anton (2174) - Boyer,Mahel (2412) [A01]</b><br />Titled Tuesday 15th June chess.com INT (5",
@@ -1818,14 +1858,6 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
       },
       {
-         "description" : "CryptoChamps powered by Coinbase was a smashing success, bringing together some of the crypto community heavyweights for a weekend of chess battles. Paradigm co-founder Matt Huang defeated Surojit Chatterjee in the finals to win the event. On hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/matt-huang-wins-cryptochamps",
-         "pubDate" : "Mon, 14 Jun 2021 15:56:00 -0700",
-         "title" : "Matt Huang Wins CryptoChamps"
-      },
-      {
          "description" : " What is most shocking about <a href=\"https://chess24.com/en/read/news/billionaire-admits-cheating-against-anand-in-charity-simul\">this story</a> is that it's likely to give billionaires, hitherto known and beloved as paragons of virtue, a bad name. Facetiousness aside, how <strong>especially</strong> awful is it to cheat in an event for charity, against one of your personal heroes, a player (Viswanathan Anand) who is universally respected for his sportsmanship? HT: Ross Hytnen and Allen Becker ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1896,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1145",
          "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
-      },
-      {
-         "description" : "In a very close round of 16 match in the FIDE Chess.com Women&#39;s Speed Chess Championship, reigning women&#39;s world blitz champion GM Kateryna Lagno defeated GM Valentina Gunina 11.5-10.5. The next match is on Wednesday, June 16, between GM Alexandra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-beats-gunina",
-         "pubDate" : "Mon, 14 Jun 2021 01:40:00 -0700",
-         "title" : "Women's Speed Chess Championship: Lagno Beats Gunina"
       },
       {
          "description" : " Disclaimer: I am no doctor, nor do I want to play one on the internet. I am just telling what has worked for me. If you have serious issues with Stress, then please visit a doctor! Chess games and tournaments can be extremely stressful. You have to sit tight and think for hours. Every moment [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/stress-reduction/\">Reducing Stress During Tournaments 3 Easy Steps To Less Stress</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2408,22 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r3",
          "pubDate" : "Tue, 08 Jun 2021 13:15:00 +0100",
          "title" : "Superbet Chess Classic: Lupulescu tricks Giri"
-      },
-      {
-         "description" : "Season 2 sees a streamlined format, with qualifying Swiss team tournaments for each of the Semi-Finals/Finals of the three Championships- Open, Minor Open 1900 (maximum...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-county-championships-this-summer/",
-         "pubDate" : "Tue, 08 Jun 2021 08:00:04 +0000",
-         "title" : "Online County Championships this summer"
-      },
-      {
-         "description" : "Connected passed pawns can be powerful, in the middlegame but especially in the endgame. A good reason to stop them sooner rather than later. What should White do in the diagram position to stop Black's pawns from becoming really powerful?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishop-vs-pawns",
-         "pubDate" : "Tue, 08 Jun 2021 09:00:00 +0100",
-         "title" : "Bishop vs pawns"
       }
    ]
 }
