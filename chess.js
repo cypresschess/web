@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Asian Goldmoney Rapid tournament (part of Meltwater Chess Tour). He will particularly focus on the performance of another new young star - the Indian GM Arjun Erigaisi who qualified for the knockout stage and defeated Hou Yifan in round 10 in crushing style. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-arjun-erigaisi-surprises-at-goldmoney-asian-rapid-tournament",
+         "pubDate" : "Tue, 29 Jun 2021 19:00:00 +0100",
+         "title" : "The Weekly Show: Arjun Erigaisi surprises at Goldmoney Asian Rapid tournament"
+      },
+      {
          "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-7",
          "pubDate" : "Tue, 29 Jun 2021 17:12:22 +0100",
          "title" : "Svitlana's Smart Moves - Episode 7"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83958723.cms\" />The opening day of the quarterfinal clash of the Goldmoney Asian Rapid event saw the seasoned Levon Aronian and the event's 17-year-old surprise package Arjun Erigaisi battle it out in each game. Arjun, the lowest rated player in the tournament, had escaped with a draw in the first game against the unbeaten Aronian who dominated the prelims.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-arjun-holds-levon/articleshow/83958723.cms",
+         "pubDate" : "Tue, 29 Jun 2021 21:12:55 +0530",
+         "title" : "Goldmoney Asian Rapid: Arjun holds Levon"
       },
       {
          "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch It takes time to convince yourself to try new things. Depending what they are, you might jump at the opportunity right away or dismiss in outright. More often than not you find first a reason why you should not do it. I guess <a href=\"https://chessimprover.com/three-check-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess/\">Three Check Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2408,22 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1133",
          "pubDate" : "Tue, 08 Jun 2021 21:26:27 +0000",
          "title" : "Ehsan Ghaem Maghami wins Zone 3.1 Championship"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Superbet Chess Classic Tournament in Bucharest. The game of the day will be Lupulescu-Giri, where the big underdog stunned the Dutch number 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-superbet-chess-classic",
-         "pubDate" : "Tue, 08 Jun 2021 18:00:00 +0100",
-         "title" : "The Weekly Show: The Superbet Chess Classic"
-      },
-      {
-         "description" : " It was all change at the top of the leader board as Wesley So defeated Fabiano Caruana and Alexander Grischuk beat Bogdan-Daniel Deac in the fourth round of the Superbet Chess Classic. So and Grischuk thus took the lead on 2.5/4 have both had quiet starts to the event. Both Wesley So and Caruana were in combative mood in their game. Caruana's 3...Bc5 is a sideline albeit one he and Ding played just last month in the FTX Crypto Cup. So's 13.f3 was a fighting move, Caruana snagged an extremely hot pawn, but it seems that 21...Na6 was just a bit too much, 21...Nbd7 and the game would have continued to be more or less balanced, as it was after 22.h4 Caruana was down to just one move to keep thi",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/wesley-so-and-grischuk-take-the-lead-after-beating-the-previous-leaders-of-the-superbet-chess-classic",
-         "pubDate" : "Tue, 8 Jun 2021 19:55:00 +0400",
-         "title" : "Wesley So and Grischuk take the lead after beating the previous leaders of the Superbet Chess Classic - 4"
       }
    ]
 }
