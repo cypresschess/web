@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1174",
+         "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
+         "title" : "Carlsen takes first blood as Artemiev runs riot"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Asian Goldmoney Rapid tournament (part of Meltwater Chess Tour). He will particularly focus on the performance of another new young star - the Indian GM Arjun Erigaisi who qualified for the knockout stage and defeated Hou Yifan in round 10 in crushing style. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
