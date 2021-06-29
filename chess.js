@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.06.28<br /> D55 Queen&#039;s Gambit Declined, Petrosian variation<br /> D58 Queen&#039;s Gambit Declined, Tartakower (Makagonov-Bondarevsky) system<br /> D59 Queen&#039;s Gambit Declined, Tartakower variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-sweet-play-tartakower-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
+         "description" : "Levon Aronian scored brilliant wins over Alireza Firouzja and Daniil Dubov as he cruised to 1st place in the Goldmoney Asian Rapid Prelims. The real drama came in the final round, when Jan-Krzysztof Duda won what had seemed a hopeless position to reach the knockouts and make Alireza Firouzja's third win in four games irrelevant. 17-year-old Arjun Erigaisi was the main sensation after he secured qualification like an old pro. Magnus Carlsen and Anish Giri got through after struggles, with Adhiban giving Anish the birthday gift of beating him with 1.b3!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-3-aronian-triumphs-faces-17-year-old-erigaisi",
+         "pubDate" : "Tue, 29 Jun 2021 07:28:32 +0000",
+         "title" : "Goldmoney Asian Rapid 3: Aronian triumphs & faces 17-year-old Erigaisi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Tartakower Defense from the Queen&#039;s Gambit Declined. 2021.06.28<br /> D55 Queen&#039;s Gambit Declined, Petrosian variation<br /> D58 Queen&#039;s Gambit Declined, Tartakower (Makagonov-Bondarevsky) system<br /> D59 Queen&#039;s Gambit Declined, Tartakower variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-sweet-play-tartakower-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/file",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dont-be-sweet-play-tartakower-chess-openings-explained",
@@ -1512,14 +1520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meet-the-participants-of-the-womens-grand-prix",
          "pubDate" : "Thu, 17 Jun 2021 10:00:00 +0100",
          "title" : "Meet the participants of the Women's Grand Prix"
-      },
-      {
-         "description" : "A 3-tournament FIDE Grand Prix series will be held in February to April next year to decide the remaining two players in the 2022 Candidates Tournament. All three 16-players events will take place in the same yet-to-be-decided city, with each of the 24 players competing in two of the three tournaments. A new format sees the players split into four groups of four, who play mini round-robins before the winners go forward to a knockout. FIDE note that it's possible a new World Championship match will be held in late 2022 or early 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-grand-prix-series-announced-for-feb-apr-2022",
-         "pubDate" : "Thu, 17 Jun 2021 08:30:00 +0000",
-         "title" : "FIDE Grand Prix series announced for Feb-Apr 2022"
       },
       {
          "description" : "GM Harika Dronavalli eliminated GM Alexandra Kosteniuk from the FIDE Chess.com Women&#39;s Speed Chess Championship on Wednesday. Kosteniuk started very strong, but Harika came back, leveled the score just in time, and then decided the match in the ti...",
