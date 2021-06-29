@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-7",
+         "pubDate" : "Tue, 29 Jun 2021 17:12:22 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 7"
+      },
+      {
+         "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch It takes time to convince yourself to try new things. Depending what they are, you might jump at the opportunity right away or dismiss in outright. More often than not you find first a reason why you should not do it. I guess <a href=\"https://chessimprover.com/three-check-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess/\">Three Check Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/three-check-chess/",
+         "pubDate" : "Tue, 29 Jun 2021 14:58:54 +0000",
+         "title" : "Three Check Chess"
+      },
+      {
          "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "Superbet: Mamedyarov in the sole lead"
       },
       {
-         "description" : " There are several books with this title, but the one I had in mind in this episode of my occasional series concerning books which are often bought by the wrong people for the wrong reasons, was this. In truth there were many books I could have chosen for this article, but I didn't want to <a href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (4): Chess for Kids\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-4-chess-for-kids/\">Wrong Books (4): Chess for Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/wrong-books-4-chess-for-kids/",
-         "pubDate" : "Sun, 13 Jun 2021 07:28:04 +0000",
-         "title" : "Wrong Books (4): Chess for Kids"
-      },
-      {
          "description" : " At last, there is some stratification at the Superbet Chess Classic. In round 6, the leading triumvirate lost one of its members, and now Shakhriyar Mamedyarov is alone in first place with two rounds to go, thanks to his third consecutive win and Alexander Grischuk's loss. Today's action saw three decisive games, none of which featured Romanian players. Mamedyarov defeated no less a player than Fabiano Caruana, and with the black pieces. White played 4.d3 against the Berlin, and his subsequent 0-0 and h3 may have reminded Shakh of Aronian-Kramnik from the 2018 Candidates. He reacted similarly, and while the play continued in a different fashion than that earlier game the plan of ...g5 and .",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/wesley-so-and-grischuk-take-the-lead-after-beating-the-previous-leaders-of-the-superbet-chess-classic",
          "pubDate" : "Tue, 8 Jun 2021 19:55:00 +0400",
          "title" : "Wesley So and Grischuk take the lead after beating the previous leaders of the Superbet Chess Classic - 4"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/Irene2.jpg\" data-image-dimensions=\"489x489\" data-image-focal-point=\"0.5,0.5\" alt=\"Irene2.jpg\" data-load=\"false\" data-image-id=\"60bf7fc0bb3d184f0f97a1cb\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623162816639-3BBNK98DJA3MNO00DDQ6/Irene2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by<a href=\"https://www.youtube.com/channel/UCXy10-NEFGxQ3b4NVrzHw1Q\"> IM Eric Rosen </a> <p class=\"\">WGM and IM Irene Sukander is one of the top players in Indonesia,",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/8/episode-230-wgm-irene-sukander",
-         "pubDate" : "Tue, 08 Jun 2021 14:36:29 +0000",
-         "title" : "Episode 230- WGM Irene Sukander "
       }
    ]
 }
