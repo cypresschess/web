@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/06/who-was-that-masked-chessplayer.html",
+         "pubDate" : "Tue, 29 Jun 2021 13:11:00 +0000",
+         "title" : "Who was that masked chessplayer?"
+      },
+      {
+         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after five rounds: both teams have won all their five matches and are three points ahead of the field. Round 6 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Tue, 29 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg\" data-image-dimensions=\"410x363\" data-image-focal-point=\"0.5,0.5\" alt=\"James.chess.jpg\" data-load=\"false\" data-image-id=\"60db0fd687d8bc3e4e223fb7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://jamesaltucher.com\">courtesy of James Altucher </a> <p class=\"\">James Altucher is a best-selling author, popular business podcast host,",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/29/james-altucher-returns",
+         "pubDate" : "Tue, 29 Jun 2021 12:25:28 +0000",
+         "title" : "James Altucher returns"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/venezuela-chess-player-fm-title-88-salvador-diaz-carias",
-         "pubDate" : "Tue, 29 Jun 2021 04:10:02 -0700",
+         "pubDate" : "Tue, 29 Jun 2021 04:10:00 -0700",
          "title" : "Venezuelan Chess Player Gets FM Title At 88"
       },
       {
@@ -39,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-3-aronian-erigaisi",
          "pubDate" : "Tue, 29 Jun 2021 01:25:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Aronian Puzzle Rushes To 1st, Erigaisi Through"
+         "title" : "Goldmoney Asian Rapid: Aronian Puzzle Rushes To 1st, Erigaisi Advances"
       },
       {
          "description" : "Levon Aronian scored brilliant wins over Alireza Firouzja and Daniil Dubov as he cruised to 1st place in the Goldmoney Asian Rapid Prelims. The real drama came in the final round, when Jan-Krzysztof Duda won what had seemed a hopeless position to reach the knockouts and make Alireza Firouzja's third win in four games irrelevant. 17-year-old Arjun Erigaisi was the main sensation after he secured qualification like an old pro. Magnus Carlsen and Anish Giri got through after struggles, with Adhiban giving Anish the birthday gift of beating him with 1.b3!",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-literature-writers-lovers-and-the-immortal-game",
          "pubDate" : "Tue, 22 Jun 2021 14:42:55 +0100",
          "title" : "Chess in Literature: \"Writers & Lovers\" and the Immortal Game"
-      },
-      {
-         "description" : "<p class=\"\">It's a rare week off for Perpetual Chess, but we will back on June 29 and every Tuesday thereafter for the foreseeable future. :) <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/unsplash-image-gzhyKEo_cbU.jpg\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" alt=\"unsplash-image-gzhyKEo_cbU.jpg\" data-load=\"false\" data-image-id=\"60d1e781b5a0870ff3fd69a7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624369026453-NJTX74DEHYETTNLNZZ3D/unsplash-image-gzhyKEo_cbU.jpg?format=",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/no-perpetual-chess-this-week",
-         "pubDate" : "Tue, 22 Jun 2021 13:38:31 +0000",
-         "title" : "No Perpetual Chess this week "
       },
       {
          "description" : " The Paris Rapid & Blitz was part of the Grand Chess Tour and took place 18th to 22nd June 2021. 9 rounds of rapid was followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9 and then won the blitz with 12.5/18 with just one defeat. The next event on the tour is the Rapid and Blitz in Croatia Mon 5th Jul to \tMon 12th Jul 2021. In between now and then (Sat 26th Jun to Sun 4th Jul 2021\t) is the online Goldmoney A",
@@ -2408,30 +2424,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/8/episode-230-wgm-irene-sukander",
          "pubDate" : "Tue, 08 Jun 2021 14:36:29 +0000",
          "title" : "Episode 230- WGM Irene Sukander "
-      },
-      {
-         "description" : " The start of the local interschool competition always brings with a new set of 'non' rules, that children assure me are the correct rules (at least according to Dad). I in fact got two today, although is quite an old one, long since discarded. The totally new one, was when a king makes it to the other side of the board you get one of your pawns back. Not quite sure where this even came from, but the possible logic behind it, is that as you cannot promote to a king, a kind of reverse promotion provides compensation for this. The very old one was 'bare king'. One of the players claimed a win on the grounds that he had captured all his opponents pieces. I explained to him that the goal in ches",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/yet-another-non-rule.html",
-         "pubDate" : "Tue, 08 Jun 2021 13:42:00 +0000",
-         "title" : "Yet another non rule"
-      },
-      {
-         "description" : "Train and analyse with video - almost like in a chess club, but simply via the browser! The new training functions in the PlayChess web browser are already being actively used by Stefan Kindermann and the Munich Chess Academy! You can see, hear, analyse, train and of course play! Anyone can create their own virtual room, invite friends and training groups and get started. Martin Fischer explains step-by-step how it works. Online training has never been so much fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chess-training-with-video-on-playchess",
-         "pubDate" : "Tue, 08 Jun 2021 13:50:52 +0100",
-         "title" : "New: Chess training with video on Playchess!"
-      },
-      {
-         "description" : "In the one game of the day that finished decisively, Constantin Lupulescu took down Anish Giri to bounce back from his defeat against Fabiano Caruana in the preceding round. The Romanian contestants - Lupulescu and Bogdan-Daniel Deac - have shown the most fighting chess so far in Bucharest, with their higher-rated colleagues often choosing to play it safe in their direct encounters. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r3",
-         "pubDate" : "Tue, 08 Jun 2021 13:15:00 +0100",
-         "title" : "Superbet Chess Classic: Lupulescu tricks Giri"
       }
    ]
 }
