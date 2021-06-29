@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rgsUNMSCnqg.jpg?itok=b5XoGm72\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros",
+         "pubDate" : "Tue, 29 Jun 2021 22:29:43 +0000",
+         "title" : "Birthday Boy Plays the Catalan | Insane in the Endgame - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 29 Jun 2021 22:29:43 +0000",
+         "title" : "Kramnik Wins with the Catalan | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1175",
+         "pubDate" : "Tue, 29 Jun 2021 21:49:02 +0000",
+         "title" : "FIDE Chessable Academy kicks off on Chessable Classroom"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1174",
          "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
          "title" : "Carlsen takes first blood as Artemiev runs riot"
+      },
+      {
+         "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Tue, 29 Jun 2021 19:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid QF - Carlsen and Artemiev win first sets"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Asian Goldmoney Rapid tournament (part of Meltwater Chess Tour). He will particularly focus on the performance of another new young star - the Indian GM Arjun Erigaisi who qualified for the knockout stage and defeated Hou Yifan in round 10 in crushing style. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -63,15 +95,7 @@ news_feed (
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/29/james-altucher-returns",
          "pubDate" : "Tue, 29 Jun 2021 12:25:28 +0000",
-         "title" : "James Altucher returns"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Tue, 29 Jun 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid - Live!"
+         "title" : "Episode 232- James Altucher returns"
       },
       {
          "description" : "An 88-year-old chess player from Venezuela recently received a very nice surprise: his FM title. He was informed that FIDE had acknowledged the title application based on results that he scored in the 1960s. It&#39;s a record that won&#39;t be easy to b...",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "The Real Chess Class | Grandmaster's Choice"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros reviews the best games from this week in world class chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-prague-games-week-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Rr-hD5MxSc.jpg?itok=1_-kp5tI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-prague-games-week-gm-denes-boros",
-         "pubDate" : "Thu, 24 Jun 2021 22:25:10 +0000",
-         "title" : "Duda in Prague | Games of the Week - GM Denes Boros"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://chessimprover.com/fifty-shades-of-ray/",
          "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
          "title" : "Fifty Shades of Ray"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros treks through two games from true chess endgame masters: former U.S. Champion Sam Reshevsky and living legend Ulf Andersson. 2021.06.22<br /> Ulf Andersson vs Jaime Sunye Neto, Brasilia (1981)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1020014\">https://www.chessgames.com/perl/chessgame?gid=1020014</a><br /> Samuel Reshevsky vs Herman Pilnik, 1st Pan-American Championship (1945)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1422090\">https://www.chessgames.com/perl/chessgame?gid=1422090</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/masters-endgame-reshevsky-andersson-insane-endgame-gm-denes-boros",
-         "pubDate" : "Wed, 23 Jun 2021 04:22:50 +0000",
-         "title" : "Masters of the Endgame: Reshevsky & Andersson | Insane in the Endgame - GM Denes Boros"
       },
       {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
@@ -2416,22 +2424,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/quality/?utm_source=rss&utm_medium=rss&utm_campaign=quality",
          "pubDate" : "Wed, 09 Jun 2021 04:00:00 +0000",
          "title" : "Quality, Not Quantity: The Most Important Factor Of Chess Improvement"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1134",
-         "pubDate" : "Tue, 08 Jun 2021 23:14:21 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1133",
-         "pubDate" : "Tue, 08 Jun 2021 21:26:27 +0000",
-         "title" : "Ehsan Ghaem Maghami wins Zone 3.1 Championship"
       }
    ]
 }
