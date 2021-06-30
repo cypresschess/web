@@ -14,8 +14,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
-         "pubDate" : "Wed, 30 Jun 2021 14:17:15 -0500",
+         "pubDate" : "Wed, 30 Jun 2021 14:34:54 -0500",
          "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
+      },
+      {
+         "description" : "US chess prodigy Abhimanyu Mishra has become the youngest grandmaster in history at the age of 12 years, 4 months and 25 days, shattering Sergey Karjakin's record of 12 years and 7 months that had stood for 19 years. Abhimanyu, from New Jersey, clinched the title when he scored his 3rd and final grandmaster norm by beating fellow prodigy Leon Mendonca in a nail-biting 9th round of the Vezerkepzo GM Mix tournament in Budapest, Hungary.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/abhimanyu-mishra-beats-karjakin-s-record-youngest-ever-grandmaster",
+         "pubDate" : "Wed, 30 Jun 2021 18:45:04 +0000",
+         "title" : "Abhimanyu Mishra beats Karjakin's record as youngest ever grandmaster"
       },
       {
          "description" : "",
@@ -66,6 +74,14 @@ news_feed (
          "title" : "National School Online Championship : Participation of Fair Play defaulters"
       },
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Wed, 30 Jun 2021 14:35:00 +0100",
+         "title" : "Goldmoney Asian Rapid QF - Carlsen, Aronian, Ding and Artemiev in semis"
+      },
+      {
          "description" : "The Main Event of the 2021 Junior Speed Chess Championship presented by ChessKid starts on Thursday, July 1. The first match in the round of 16 will see GM Raunak Sadhwani of India vs. GM Paulius Pultinevicius of Lithuania at 10 a.m. Pacific / 19:...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
          "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
          "title" : "European Senior Chess Championship 2021"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Wed, 30 Jun 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid QF - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, the President of the <strong>Moldovian Chess Federation</strong> and until December President of Moldova, <a href=\"https://www.facebook.com/dodon.igor1/\">hosted a two-day simul and lecture visit</a> of former world champion <strong>Anatoly Karpov</strong>, himself a parliamentarian for Putin's United Russia, just ahead of the parliamentary snap election on 11 July, for which Dodon's Socialists formed a coalition, likely to come out on top, with the Communist Party that he had left in 2011. Dogon's party colleague <strong>Viorel Bologan</strong> is a <a href=\"http://parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
          "pubDate" : "Fri, 18 Jun 2021 14:45:00 +0100",
          "title" : "Prague Chess Festival, Round 5 - Live"
-      },
-      {
-         "description" : "2018 US Chess Champion Sam Shankland co-leads the Prague Masters on 3/4 with Azerbaijan's Nijat Abasov after defeating Jan-Krzysztof Duda and David Navara. The wins took Sam back above 2700 on the live rating list for the first time since October 2019. Jorden van Foreest has dipped under 2700 with four draws so far, but the player to really suffer in Prague is local hero Navara. He's been unrecognisable as he's sunk to four defeats in a row, dropping 20 rating points.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/shankland-returns-to-2700-club-in-prague-masters",
-         "pubDate" : "Fri, 18 Jun 2021 11:44:59 +0000",
-         "title" : "Shankland returns to 2700 club in Prague Masters"
       },
       {
          "description" : "In this year's Prague Chess Festival things do not go well for David Navara. In round 4 of the Masters he played against Nijat Abasov (pictured) and suffered his fourth loss in a row. Navara had an excellent position but first gave his advantage away and then lost on time. The other three games of the round ended in a draw. After four rounds Sam Shankland and Abasov now share the lead with 3.0/4 each. | Photo: Nijat Abasov (Vladimir Jagr)",
