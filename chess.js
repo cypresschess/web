@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29<br /> Zoltan Ribli vs Anatoly Karpov, HUN-URS (1969): C77 Ruy Lopez, Morphy defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067467\">https://www.chessgames.com/perl/chessgame?gid=1067467</a><br /> Ulf Andersson vs Luis Galego, Bled Olympiad (2002): E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1256076\">https://www.chessgames.com/perl/chessgame?gid=1256076</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros-lichessorg",
+         "pubDate" : "Wed, 30 Jun 2021 01:29:48 +0000",
+         "title" : "Birthday Boy Plays the Catalan | Insane in the Endgame - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 30 Jun 2021 01:29:48 +0000",
+         "title" : "Kramnik Wins with the Catalan | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-4",
+         "pubDate" : "Wed, 30 Jun 2021 02:25:00 +0100",
+         "title" : "Goldmoney Asian Rapid QF: Artemiev stuns Giri, Carlsen beats So"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rgsUNMSCnqg.jpg?itok=b5XoGm72\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1174",
          "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
          "title" : "Carlsen takes first blood as Artemiev runs riot"
-      },
-      {
-         "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Tue, 29 Jun 2021 19:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid QF - Carlsen and Artemiev win first sets"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Asian Goldmoney Rapid tournament (part of Meltwater Chess Tour). He will particularly focus on the performance of another new young star - the Indian GM Arjun Erigaisi who qualified for the knockout stage and defeated Hou Yifan in round 10 in crushing style. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -608,22 +624,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Fri, 25 Jun 2021 04:25:21 +0000",
          "title" : "My Complex Games with Dubov | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks back on his complex games with elite chess player Daniil Dubov. 2021.06.24<br /> Denes Boros vs. Daniil Dubov, 2021: C26 Vienna, Falkbeer variation<br /> Daniil Dubov vs. Denes Boros, 2021: D02 Queen&#039;s pawn game </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros-lichessorg",
-         "pubDate" : "Fri, 25 Jun 2021 01:25:17 +0000",
-         "title" : "My Complex Games with Dubov | Grandmaster's Choice - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> A Grandmaster to-be-determined teaches the first chess class at the Saint Louis Chess Club since March 2020. Welcome back live audience. Welcome to the old normal. We did it. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/real-chess-class-grandmasters-choice\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/laL8CPgpdFE.jpg?itok=4iW_WV71\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/real-chess-class-grandmasters-choice",
-         "pubDate" : "Fri, 25 Jun 2021 01:25:17 +0000",
-         "title" : "The Real Chess Class | Grandmaster's Choice"
       },
       {
          "description" : "",
