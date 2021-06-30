@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over 460 female players from 82 countries participated in the individual and team tournaments within the Queens' festival global chess tournaments run from June 11 to June 27. The ambitious global project aiming at connecting women chess players from around the world of all ages and all rating groups was organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission and with the support of the International Olympic Committee (IOC), as well as Asian Chess Federation, African Chess Confederation, European Chess Union, and Confederation of Chess for Americas. | Pictures: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-reports-the-queens-festival-goes-big",
+         "pubDate" : "Wed, 30 Jun 2021 09:07:12 +0100",
+         "title" : "FIDE reports: \"The Queens' Festival goes big\""
+      },
+      {
+         "description" : "European Senior Chess Championship 2021 will take place from 25th September 5th October in Budoni, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women sections separately. The events will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves + 30 minutes till the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
+         "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
+         "title" : "European Senior Chess Championship 2021 - Official regulations"
+      },
+      {
+         "description" : " Another apologies post, as once again family health issues have taken over for the last couple of weeks. I intend to resume blogging when the situation resolves itself one way or another, but until then, with apologies, I'm going to take a hiatus. Hope to be back in touch with everyone soon, with good news and the psychological energy to resume. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/30/no-posts-for-a-while.html",
+         "pubDate" : "Wed, 30 Jun 2021 05:42:43 +0000",
+         "title" : "No Posts for a While"
+      },
+      {
+         "description" : "Please note that the Tornelo Server at Australia is not taking the load and there is a major network issues are going on at Australia.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/important-update-national-under-10-open-rounds-called-off/",
+         "pubDate" : "Wed, 30 Jun 2021 04:54:03 +0000",
+         "title" : "IMPORTANT UPDATE : NATIONAL UNDER-10 OPEN ROUNDS CALLED OFF"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83976229.cms\" />India's best teenage Grandmaster Nihal Sarin stretched his lead further to one clear point and Maharashtra's youngest GM Raunak Sadhwani forced the top seed in the tournament to sign a truce, while Abhimanyu Puranik and Harshit Raja followed the leader at the joint second position.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-nihal-sarin-inches-closer-to-silver-lake-title-raunak-sadhwani-holds-top-seed-to-remain-joint-second/articleshow/83976229.cms",
+         "pubDate" : "Wed, 30 Jun 2021 10:03:05 +0530",
+         "title" : "Nihal inches closer to Silver Lake title, Raunak holds top seed to remain joint 2nd"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at former world champion Vladimir Kramnik's games as White, where the Russian plays the Catalan. Kramnik is a master of that opening, and these games are instructive. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-0",
+         "pubDate" : "Wed, 30 Jun 2021 04:29:47 +0000",
+         "title" : "Kramnik Wins with the Catalan! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros loves the players from the 70s and 80s! Join Boros as he celebrates Hungarian legend Zoltan Ribli and Swedish chess ace Ulf Andersson, who just turned 70 years old. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hungarian-olympian-birthday-boy-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rgsUNMSCnqg.jpg?itok=b5XoGm72\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hungarian-olympian-birthday-boy-insane-endgame-gm-denes-boros",
+         "pubDate" : "Wed, 30 Jun 2021 04:29:47 +0000",
+         "title" : "The Hungarian Olympian & The Birthday Boy | Insane in the Endgame - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29<br /> Zoltan Ribli vs Anatoly Karpov, HUN-URS (1969): C77 Ruy Lopez, Morphy defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067467\">https://www.chessgames.com/perl/chessgame?gid=1067467</a><br /> Ulf Andersson vs Luis Galego, Bled Olympiad (2002): E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1256076\">https://www.chessgames.com/perl/chessgame?gid=1256076</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/who-was-that-masked-chessplayer.html",
          "pubDate" : "Tue, 29 Jun 2021 13:11:00 +0000",
          "title" : "Who was that masked chessplayer?"
-      },
-      {
-         "description" : "Some of the world's best players take part in the French Team Championship that started on 24 June in Chalons-en-Champagne. Bischwiller and Clichy are leading the standings after five rounds: both teams have won all their five matches and are three points ahead of the field. Round 6 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Tue, 29 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg\" data-image-dimensions=\"410x363\" data-image-focal-point=\"0.5,0.5\" alt=\"James.chess.jpg\" data-load=\"false\" data-image-id=\"60db0fd687d8bc3e4e223fb7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://jamesaltucher.com\">courtesy of James Altucher </a> <p class=\"\">James Altucher is a best-selling author, popular business podcast host,",
@@ -240,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/women-speed-chess-championship-lei-tingjie-stefanova",
          "pubDate" : "Mon, 28 Jun 2021 10:55:00 -0700",
          "title" : "Women's Speed Chess Championship: Lei Tingjie Joins Semifinalists"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at Magnus Carlsen vs. Vassily Ivanchuk from the second half of the 2011 Grand Slam Final in Bilbao. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-grand-slam-over-ivanchuk-bilbao-2011-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Mon, 28 Jun 2021 16:28:18 +0000",
-         "title" : "Carlsen's Grand Slam over Ivanchuk, Bilbao 2011 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Ulf Andersson is the best Swedish chess player of all time and at his peak he was the world's number four. Andersson is also a correspondence chess grandmaster and one of the best correspondence chess players in the world. Yesterday, 27 June, he celebrated his 70th birthday. | Photo: Bert Verhoeff / Anefo / CCO",
@@ -616,14 +656,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jun/25/chess-carlsen-takes-on-no-1-junior-no-1-woman-and-no-1-rival-on-same-afternoon",
          "pubDate" : "Fri, 25 Jun 2021 07:00:19 +0000",
          "title" : "Chess: Carlsen takes on No 1 junior, No 1 woman and No 1 rival on same afternoon"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks back on his complex online games this year with elite chess player Daniil Dubov. 2021.06.24<br /> Denes Boros vs. Daniil Dubov, 2021: C26 Vienna, Falkbeer variation<br /> Daniil Dubov vs. Denes Boros, 2021: D02 Queen&#039;s pawn game<br /> Denes Boros vs. Daniil Dubov, 2021: E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chess.com/game/live/6583211425\">https://www.chess.com/game/live/6583211425</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-complex-games-dubov-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Fri, 25 Jun 2021 04:25:21 +0000",
-         "title" : "My Complex Games with Dubov | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : "",
@@ -1538,14 +1570,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: New ideas for Black in the Queen's Gambit Accepted"
       },
       {
-         "description" : "Pranesh M of Tamilnadu and Bhagyashree Patil of Maharashtra becomes champions in the Open and Girls Categories respectively in the National Under-16 Online Chess Championship",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/pranesh-and-bhagyashree-under-16-champions/",
-         "pubDate" : "Thu, 17 Jun 2021 16:49:36 +0000",
-         "title" : "Pranesh and Bhagyashree Under-16 Champions"
-      },
-      {
          "description" : " Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention that [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2058,14 +2082,6 @@ news_feed (
          "title" : "Superbet: Mamedyarov in the sole lead"
       },
       {
-         "description" : " At last, there is some stratification at the Superbet Chess Classic. In round 6, the leading triumvirate lost one of its members, and now Shakhriyar Mamedyarov is alone in first place with two rounds to go, thanks to his third consecutive win and Alexander Grischuk's loss. Today's action saw three decisive games, none of which featured Romanian players. Mamedyarov defeated no less a player than Fabiano Caruana, and with the black pieces. White played 4.d3 against the Berlin, and his subsequent 0-0 and h3 may have reminded Shakh of Aronian-Kramnik from the 2018 Candidates. He reacted similarly, and while the play continued in a different fashion than that earlier game the plan of ...g5 and .",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/13/superbet-chess-classic-round-7-mamedyarov-wins-leads-by-a-po.html",
-         "pubDate" : "Sun, 13 Jun 2021 05:14:06 +0000",
-         "title" : "Superbet Chess Classic, Round 7: Mamedyarov Wins, Leads by a Point"
-      },
-      {
          "description" : " Wherever you go, be it a major chess site or YouTube, you will find opening videos or articles. With this much information, it should be easier than ever to excel in openings. But in my experience the overload of information has made it harder, not easier for many. With all that information looming, it is [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/analyse-openings/\">How To Analyse Chess Openings Like A GM</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2408,22 +2424,6 @@ news_feed (
          "link" : "https://www.europechess.org/queens-festival-connecting-women-in-chess/",
          "pubDate" : "Wed, 09 Jun 2021 10:15:35 +0000",
          "title" : "Queens' Festival - Connecting Women in Chess"
-      },
-      {
-         "description" : "The first event of the 2021 Grand Chess Tour,&#160;Superbet Chess Classic 2021, takes place from June 3-15, 2021 in Bucharest, Romania. The event is hosted in Stejarii County Club, with 10 participants playing a 9 rounds round-robin tournament. The total prize fund is 325.000$. LIVE: Grand Chess Tour Romania 2021 The 1st round of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2021-day-4/",
-         "pubDate" : "Wed, 09 Jun 2021 06:42:52 +0000",
-         "title" : "Grand Chess Tour Romania 2021 - Day 4"
-      },
-      {
-         "description" : " You spend a lot of time on chess but do not really see improvement? I have been there as well. This means you should improve the quality of your training. Let me show you how! There is a common misconception when it comes to chess improvement. Whenever one talks about his training, one usually just [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/quality/\">Quality, Not Quantity: The Most Important Factor Of Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/quality/?utm_source=rss&utm_medium=rss&utm_campaign=quality",
-         "pubDate" : "Wed, 09 Jun 2021 04:00:00 +0000",
-         "title" : "Quality, Not Quantity: The Most Important Factor Of Chess Improvement"
       }
    ]
 }
