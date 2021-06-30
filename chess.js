@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This remarkable lad from Englishtown, New Jersey, playing with great determination under Covid restrictions in Hungary, has scored his third and final GM norm. He has earned the title at the age of 12 years, 4 months, and 25 days, which is 66 days sooner than Sergey Karjakin in 2002. This comes after he had broken the record of youngest US master (at nine years and two months), and youngest International Master ever (at 10 years, nine months, and three days). Congratulations, Abhi!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/made-it-abhi-youngest-gm-in-history",
+         "pubDate" : "Wed, 30 Jun 2021 20:35:13 +0100",
+         "title" : "Made it! Abhi youngest GM in history!"
+      },
+      {
+         "description" : "At 12 years, four months, and 25 days, American chess player Abhimanyu Mishra is the youngest GM in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
+         "pubDate" : "Wed, 30 Jun 2021 14:17:15 -0500",
+         "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1178",
+         "pubDate" : "Wed, 30 Jun 2021 17:44:11 +0000",
+         "title" : "FIDE Binance Business Schools Super Cup announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83997101.cms\" /> The youngest Grandmaster in chess a feat held by Russian Sergey Karjakin for almost 19 years was broken by Abhimanyu Mishra on Wednesday night. The American boy, with Indian roots, rewrote that record at 12 years, 4 months and 25 days. \"The match against Leon was tough but a mistake from his end was all that I needed to cross the landmark. I feel just relieved and happy to be able to achieve this feat,\" Abhimanyu told TOI moments after his victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-mishra-becomes-youngest-grandmaster-in-chess-history/articleshow/83997101.cms",
+         "pubDate" : "Wed, 30 Jun 2021 22:59:40 +0530",
+         "title" : "Abhimanyu Mishra becomes youngest Grandmaster in chess history"
+      },
+      {
+         "description" : "IM Abhimanyu Mishra became the youngest chess grandmaster in history today. The 12-year-old player from New Jersey scored his third GM norm in Budapest, having already crossed the required 2500 Elo rating barrier. Mishra (often called &#34;Abhi&#34;) br...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abhimanyu-mishra-youngest-grandmaster-in-chess-history",
+         "pubDate" : "Wed, 30 Jun 2021 09:52:00 -0700",
+         "title" : "BREAKING: Abhimanyu Mishra Becomes Youngest Grandmaster In Chess History"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> JULY 7-11, 2021, exclusively on KasparovChess.com and KasparovChess on Twitch. The second Croatia Grand Chess Tour is the third stop on the 2021 Tour, live from the National and University Library in Zagreb. Eleven players compete in a rapid round robin and two blitz round robins, July 7-11. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-preview",
+         "pubDate" : "Wed, 30 Jun 2021 16:30:39 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Preview"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83993708.cms\" />Two thrilling blitz chess playoffs decided the Goldmoney Asian Rapid semifinal line-up as Magnus Carlsen survived a fierce comeback. The World Champion finally overcame two-time US champ Wesley So after the man dubbed the \"Comeback King\" launched a nerveless rearguard action to level the match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-carlsen-prevails-over-wesley-so/articleshow/83993708.cms",
+         "pubDate" : "Wed, 30 Jun 2021 21:48:07 +0530",
+         "title" : "Goldmoney Asian Rapid: Carlsen prevails over Wesley So"
+      },
+      {
          "description" : "It is intimated that players removed on the grounds of Fair Play violations during National Age Group Online Chess Championship 2021 are not eligible to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,7 +74,7 @@ news_feed (
          "title" : "Junior Speed Chess Championship Main Event Starts Thursday"
       },
       {
-         "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Domninguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
+         "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/torneo-magistral-ajedrez-ciudad-de-leon",
@@ -344,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/get-know-im-eric-rosen-gm-denes-boros",
          "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
          "title" : "Get to Know IM Eric Rosen with GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about a specific chess opening. 2021.06.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/not-sweet-tartakower-defense-chess-openings-explained-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nkhPEbFY5BM.jpg?itok=kXJWJLij\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/not-sweet-tartakower-defense-chess-openings-explained-lichessorg",
-         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
-         "title" : "Not Sweet: The Tartakower Defense | Chess Openings Explained | lichess.org"
       },
       {
          "description" : "",
@@ -1754,14 +1802,6 @@ news_feed (
          "title" : "Harika brings down Kosteniuk to reach quarterfinals"
       },
       {
-         "description" : "GM&#38;nbsp;Kirill Shevchenko, the 18-year-old grandmaster from Ukraine, won Titled Tuesday on June 15 for his first-ever win in the event. His 10/11 score took the tournament outright. In second with 9.5/11 was GM Alexander Zubov on tiebreaks over th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shevchenko-wins-june-15-titled-tuesday",
-         "pubDate" : "Wed, 16 Jun 2021 11:18:03 -0700",
-         "title" : "Shevchenko Wins June 15 Titled Tuesday"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look at the game Gukush D. vs Praggnanandhaa, which ultimately decided the Gelfand Challenge, a rapid tournament, in which 20 of the world's best juniors (10 male, 10 female) faced each other in a round robin. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2408,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1138",
          "pubDate" : "Thu, 10 Jun 2021 10:18:02 +0000",
          "title" : "Ziaur Rahman wins Asian Zonal 3.2 Hybrid Championship"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov joined Wesley So and Alexander Grischuk in the lead of the Superbet Chess Classic after beating local hero Constantin Lupulescu in round 5. The Romanian, who played with the white pieces, faltered in time trouble and is now sharing last place with Maxime Vachier-Lagrave and Anish Giri - a single point behind the leaders, though! | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r5",
-         "pubDate" : "Thu, 10 Jun 2021 09:00:00 +0100",
-         "title" : "Superbet: Mamedyarov joins the lead"
       },
       {
          "description" : "European Women Individual Chess Championship 2021 will take place from 8th-21st of August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. The total&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
