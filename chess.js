@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Wed, 30 Jun 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid QF - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1177",
+         "pubDate" : "Wed, 30 Jun 2021 11:06:13 +0000",
+         "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, the President of the <strong>Moldavian Chess Federation</strong> and until December President of Moldova, <a href=\"https://www.facebook.com/dodon.igor1/\">hosted a two-day visit</a> of former world champion <strong>Anatoly Karpov</strong> just ahead of the parliamentary snap election on 11 July, for which Dodon's Socialists formed a coalition, likely to come out on top, with the Communist Party that he had left in 2011. Dogon's party colleague <strong>Viorel Bologan</strong> is a <a href=\"http://parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid/87/Id/805/language/en-US/Default.aspx\">member of the Moldavian parliame",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/karpov-simul-during-moldavian/",
+         "pubDate" : "Wed, 30 Jun 2021 10:54:09 +0100",
+         "title" : "Karpov simul during Moldavian campaign"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Vladislav Artemiev won their first quarterfinal matches in the Goldmoney Asian Rapid knockout. Carlsen defeated GM Wesley So with two wins vs. one loss, whereas Artemiev won three straight games vs. GM Anish Giri. The ot...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-carlsen-artemiev",
+         "pubDate" : "Wed, 30 Jun 2021 02:27:16 -0700",
+         "title" : "Goldmoney Asian Rapid: Artemiev, Carlsen Lead In Quarterfinals"
+      },
+      {
+         "description" : "Magnus Carlsen described it as \"massive\" that he won Day 1 of his Goldmoney Asian Rapid quarterfinal match against Wesley So after a slugfest that featured just one draw. Vladislav Artemiev also took the lead with a 3:0 whitewash of Anish Giri, who joked that \"playing horrible chess\" might be a hitherto unknown side effect of vaccination. 17-year-old Arjun Erigaisi traded wins with world no. 5 Levon Aronian, and while Ding Liren-Duda saw all four games drawn it featured some of the day's most combative chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-4-carlsen-and-artemiev-lead",
+         "pubDate" : "Wed, 30 Jun 2021 09:27:02 +0000",
+         "title" : "Goldmoney Asian Rapid 4: Carlsen and Artemiev lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Jeans, sneakers, T-shirts and caps are banned in the playing hall of the upcoming <strong>FIDE World Cup</strong> in Sochi, where a conservative dress code will be in place along with a <a href=\"https://drive.google.com/file/d/1qtGFt5hqB-0B6cpqrvNJJnADELKRspcR/view\">health protocol</a> of PCR tests every 4-5 days and daily health checks for everyone. At the board, masks don't have to be worn. Tabletop separators will be put up between opponents. Seconds and spectators will not be allowed in the hall. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/conservative-dress-code-at-world-cup/",
+         "pubDate" : "Wed, 30 Jun 2021 10:00:50 +0100",
+         "title" : "Conservative dress-code at World Cup"
+      },
+      {
+         "description" : "After eight of nine rounds the young Indian Grandmaster Nihal Sarin leads at the Silver Lake Open Veliko Gradiste with 7.0/8 and is half a point ahead of his countryman Raunak Sadhwani and the Serbian GM Branko Damljanovic, against whom Sarin has to play with Black in round nine. | Photos: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nihal-sarin-leads-at-silver-lake-open",
+         "pubDate" : "Wed, 30 Jun 2021 09:52:39 +0100",
+         "title" : "Nihal Sarin leads at the Silver Lake Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1176",
+         "pubDate" : "Wed, 30 Jun 2021 08:51:37 +0000",
+         "title" : "Issues concerning the Member Chess Federation of Morocco"
+      },
+      {
          "description" : "Over 460 female players from 82 countries participated in the individual and team tournaments within the Queens' festival global chess tournaments run from June 11 to June 27. The ambitious global project aiming at connecting women chess players from around the world of all ages and all rating groups was organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission and with the support of the International Olympic Committee (IOC), as well as Asian Chess Federation, African Chess Confederation, European Chess Union, and Confederation of Chess for Americas. | Pictures: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,28 +794,12 @@ news_feed (
          "title" : "Undermine 'em with the Ufimtsev"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Horst Rittner</strong>, who for 26 years edited the German magazine <strong>Schach</strong>, presented chess on Eastern German TV and became correspondence chess world champion in 1971, has passed away in Berlin on 14 June, as has <a href=\"https://www.schachbund.de/news/horst-rittner.html\">become known only now</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/horst-rittner-1930-2021/",
-         "pubDate" : "Thu, 24 Jun 2021 08:41:36 +0100",
-         "title" : "Horst Rittner (1930-2021)"
-      },
-      {
          "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/korobov-wins-june-22-titled-tuesday",
          "pubDate" : "Wed, 23 Jun 2021 15:03:00 -0700",
          "title" : "Korobov Wins June 22 Titled Tuesday With Record-Setting Performance"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess district of South Westphalia in the centre of Germany has <a href=\"https://perlenvombodensee.de/2021/06/23/altes-spiel-neue-vorzeichen/\">decided to suspend</a> the 2021/22 team season and invite those who want to play to test new match formats with smaller teams or two shorter games instead of a long one. Some regional leagues are considering hybrid matches. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/south-westphalia-tries-something-new/",
-         "pubDate" : "Wed, 23 Jun 2021 22:58:21 +0100",
-         "title" : "South Westphalia tries something new"
       },
       {
          "description" : "This week Merijn van Delft takes a look how Maxime Vachier-Lagrave won a fine positional and attacking game in a popular opening line against Teimour Radjabov at the Grand Chess Tournament in Paris. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -970,6 +1018,14 @@ news_feed (
          "title" : "4 Indians in fray in Asian Rapid Chess tournament"
       },
       {
+         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
+         "pubDate" : "Tue, 22 Jun 2021 10:59:01 +0000",
+         "title" : "Queens' Festival winners - Europe"
+      },
+      {
          "description" : "In the National Open in Las Vegas five players shared first with 7.0/9. The 15-year-old Arthur Guo had the best tiebreak and won the tournament. | Photos: Tournament page National Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1112,14 +1168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-3-wesley-so-wins-the-rapid",
          "pubDate" : "Mon, 21 Jun 2021 11:17:10 +0000",
          "title" : "Paris Rapid & Blitz 3: Wesley So wins the Rapid"
-      },
-      {
-         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
-         "pubDate" : "Mon, 21 Jun 2021 10:11:01 +0000",
-         "title" : "Queens' Festival winners - Europe"
       },
       {
          "description" : "In her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. The next...",
@@ -1634,14 +1682,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Series Announced"
       },
       {
-         "description" : "Women's no. 1 Hou Yifan will be the first female player to participate in the full Meltwater Champions Chess Tour when the Goldmoney Asian Rapid, the 7th stage on the $1.6 million tour, starts at 13:00 CEST on Saturday June 26th. The earlier starting time should boost the chances of the players based in Asia, with no less than four Indian grandmasters taking part, including 15-year-old Gelfand Challenge winner Gukesh and 17-year-old Indian Qualifier winner Arjun Erigaisi. There are also tour debuts for Adhiban, Vladislav Artemiev and Salem Saleh.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hou-yifan-joins-carlsen-for-goldmoney-asian-rapid",
-         "pubDate" : "Thu, 17 Jun 2021 09:00:01 +0000",
-         "title" : "Hou Yifan joins Magnus Carlsen for Goldmoney Asian Rapid"
-      },
-      {
          "description" : "Chess is not all about competitiveness, and Gibraltar has become a place that embodies the multi-faceted character of the royal game. Following this vein, FIDE recorded a series of well-produced videos with the participants of the Women's Grand Prix that came to an end a couple of weeks ago. Enjoy getting to know a bit more about some of the strongest female chess players in the world! | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-tactics",
          "pubDate" : "Tue, 15 Jun 2021 09:29:19 +0100",
          "title" : "Endgame tactics"
-      },
-      {
-         "description" : "GM Shakhriyar Mamedyarov won the $90,000 first prize at the Superbet Chess Classic on Monday. The 36-year-old Azerbaijani GM finished a point ahead of the pack as he secured victory with an easy draw against GM Maxime Vachier-Lagrave. The standi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mamedyarov-wins-superbet-chess-classic",
-         "pubDate" : "Tue, 15 Jun 2021 00:55:00 -0700",
-         "title" : "Mamedyarov Wins Superbet Chess Classic"
       },
       {
          "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
@@ -2408,22 +2440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r4",
          "pubDate" : "Wed, 09 Jun 2021 13:40:00 +0100",
          "title" : "Superbet Chess Classic: So and Grischuk grab the lead"
-      },
-      {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-6",
-         "pubDate" : "Wed, 09 Jun 2021 11:32:07 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 6"
-      },
-      {
-         "description" : "The Global Women's Online Chess Challenge \"The Queens' Festival\", a series of continental and global women's online chess tournaments and educative side events, will start on June 11, 2021.&#160; The Queen's Festival is a unique all-inclusive event with the aim to develop a strong global community of women in chess and enhance participation of women in all aspects&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-festival-connecting-women-in-chess/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/queens-festival-connecting-women-in-chess/",
-         "pubDate" : "Wed, 09 Jun 2021 10:15:35 +0000",
-         "title" : "Queens' Festival - Connecting Women in Chess"
       }
    ]
 }
