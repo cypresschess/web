@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is intimated that players removed on the grounds of Fair Play violations during National Age Group Online Chess Championship 2021 are not eligible to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-championship-participation-of-fair-play-defaulters/",
+         "pubDate" : "Wed, 30 Jun 2021 14:13:19 +0000",
+         "title" : "National School Online Championship : Participation of Fair Play defaulters"
+      },
+      {
+         "description" : "The Main Event of the 2021 Junior Speed Chess Championship presented by ChessKid starts on Thursday, July 1. The first match in the round of 16 will see GM Raunak Sadhwani of India vs. GM Paulius Pultinevicius of Lithuania at 10 a.m. Pacific / 19:...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-main-event-announcement",
+         "pubDate" : "Wed, 30 Jun 2021 06:29:55 -0700",
+         "title" : "Junior Speed Chess Championship Main Event Starts Thursday"
+      },
+      {
+         "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Domninguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/torneo-magistral-ajedrez-ciudad-de-leon",
+         "pubDate" : "Wed, 30 Jun 2021 14:29:16 +0100",
+         "title" : "34. Torneo Magistral Ajedrez Ciudad de Leon"
+      },
+      {
+         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After six rounds, the team of Bischwiller, which has won all of its six matches, is sole leader. Clichy and Asnieres follow on places two and three. Round 7 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Wed, 30 Jun 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : "From 25th September - 5th October in Budoni, Italy. The event will be played in two age categories [50+ and 65+] with Open and Women's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
+         "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
+         "title" : "European Senior Chess Championship 2021"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
          "pubDate" : "Wed, 30 Jun 2021 12:50:00 +0100",
          "title" : "Goldmoney Asian Rapid QF - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, the President of the <strong>Moldovian Chess Federation</strong> and until December President of Moldova, <a href=\"https://www.facebook.com/dodon.igor1/\">hosted a two-day simul and lecture visit</a> of former world champion <strong>Anatoly Karpov</strong>, himself a parliamentarian for Putin's United Russia, just ahead of the parliamentary snap election on 11 July, for which Dodon's Socialists formed a coalition, likely to come out on top, with the Communist Party that he had left in 2011. Dogon's party colleague <strong>Viorel Bologan</strong> is a <a href=\"http://parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/karpov-simul-during-moldavian/",
+         "pubDate" : "Wed, 30 Jun 2021 12:21:16 +0100",
+         "title" : "Karpov appearance in Moldovian campaign"
       },
       {
          "description" : "",
@@ -18,20 +66,12 @@ news_feed (
          "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, the President of the <strong>Moldavian Chess Federation</strong> and until December President of Moldova, <a href=\"https://www.facebook.com/dodon.igor1/\">hosted a two-day visit</a> of former world champion <strong>Anatoly Karpov</strong> just ahead of the parliamentary snap election on 11 July, for which Dodon's Socialists formed a coalition, likely to come out on top, with the Communist Party that he had left in 2011. Dogon's party colleague <strong>Viorel Bologan</strong> is a <a href=\"http://parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid/87/Id/805/language/en-US/Default.aspx\">member of the Moldavian parliame",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/karpov-simul-during-moldavian/",
-         "pubDate" : "Wed, 30 Jun 2021 10:54:09 +0100",
-         "title" : "Karpov simul during Moldavian campaign"
-      },
-      {
-         "description" : "GM Magnus Carlsen and GM Vladislav Artemiev won their first quarterfinal matches in the Goldmoney Asian Rapid knockout. Carlsen defeated GM Wesley So with two wins vs. one loss, whereas Artemiev won three straight games vs. GM Anish Giri. The ot...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-carlsen-artemiev",
-         "pubDate" : "Wed, 30 Jun 2021 02:27:16 -0700",
-         "title" : "Goldmoney Asian Rapid: Artemiev, Carlsen Lead In Quarterfinals"
+         "description" : " The 34th Leon Chess tournament takes place Wed 30th Jun to Sun 4th Jul 2021.This is a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match takes place on 3rd of July and the final on Sunday 4th. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
+         "pubDate" : "Wed, 30 Jun 2021 14:01:00 +0400",
+         "title" : "34th Leon Chess 2021 - Games and Results"
       },
       {
          "description" : "Magnus Carlsen described it as \"massive\" that he won Day 1 of his Goldmoney Asian Rapid quarterfinal match against Wesley So after a slugfest that featured just one draw. Vladislav Artemiev also took the lead with a 3:0 whitewash of Anish Giri, who joked that \"playing horrible chess\" might be a hitherto unknown side effect of vaccination. 17-year-old Arjun Erigaisi traded wins with world no. 5 Levon Aronian, and while Ding Liren-Duda saw all four games drawn it featured some of the day's most combative chess.",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-4-carlsen-and-artemiev-lead",
          "pubDate" : "Wed, 30 Jun 2021 09:27:02 +0000",
          "title" : "Goldmoney Asian Rapid 4: Carlsen and Artemiev lead"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Vladislav Artemiev won their first quarterfinal matches in the Goldmoney Asian Rapid knockout. Carlsen defeated GM Wesley So with two wins vs. one loss, while Artemiev won three straight games vs. GM Anish Giri. The othe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-carlsen-artemiev",
+         "pubDate" : "Wed, 30 Jun 2021 02:27:00 -0700",
+         "title" : "Goldmoney Asian Rapid: Artemiev, Carlsen Lead In Quarterfinals"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Jeans, sneakers, T-shirts and caps are banned in the playing hall of the upcoming <strong>FIDE World Cup</strong> in Sochi, where a conservative dress code will be in place along with a <a href=\"https://drive.google.com/file/d/1qtGFt5hqB-0B6cpqrvNJJnADELKRspcR/view\">health protocol</a> of PCR tests every 4-5 days and daily health checks for everyone. At the board, masks don't have to be worn. Tabletop separators will be put up between opponents. Seconds and spectators will not be allowed in the hall. </div> ",
@@ -890,6 +938,14 @@ news_feed (
          "title" : "Fifty Shades of Ray"
       },
       {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Wed, 23 Jun 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
+      },
+      {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1066,14 +1122,6 @@ news_feed (
          "title" : "Planning for Victory (3)"
       },
       {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Tue, 22 Jun 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
-      },
-      {
          "description" : "GM Wesley So is still leading the Paris Rapid &#38;amp; Blitz tournament after the first nine rounds of blitz chess. The American grandmaster is half a point ahead of GM Ian Nepomniachtchi. GM Alireza Firouzja surged in the standings after scoring a f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1216,14 +1264,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/everyone-can-improve/?utm_source=rss&utm_medium=rss&utm_campaign=everyone-can-improve",
          "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
          "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
-      },
-      {
-         "description" : "Telangana youngster Prraneeth Vuppala becomes champion in the National Under-14 Open Online Chess Championship which concluded on Friday. Prraneeth scored 10 points of possible 11",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/prraneeth-wins-under-14-open-title/",
-         "pubDate" : "Mon, 21 Jun 2021 02:44:02 +0000",
-         "title" : "Prraneeth wins Under-14 Open Title"
       },
       {
          "description" : "Sam Shankland has won the Prague Masters with an unbeaten 5.5/7, climbing 14 places on the live rating list to cement his position back in the 2700 club. The tournament had looked set to go to a playoff after Radek Wojtaszek blundered in the final round and allowed Jan-Krzysztof Duda to score a 3rd win in a row, but just when Sam looked sure to draw his game, Jorden van Foreest went astray and fell to defeat. Wojtaszek took clear 3rd, while Jorden, Nils Grandelius and David Navara all had tournaments to forget.",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "David Smerdon introduces the Fighting Chess Index"
       },
       {
-         "description" : "American chess organizer, international arbiter, and chess writer Carol Jarecki died on Sunday, June 13 at the age of 86 after losing a battle to cancer. An arbiter at world championship matches in New York in 1990 and 1995, Jarecki will be sorely...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carol-jarecki-1935-2021",
-         "pubDate" : "Tue, 15 Jun 2021 11:00:00 -0700",
-         "title" : "Carol Jarecki 1935-2021"
-      },
-      {
          "description" : " Apparently it's even a genre, of which <a href=\"https://gumroad.com/l/1DChess\">this</a> is just a recent version. (HT: <a href=\"https://marginalrevolution.com/marginalrevolution/2021/06/tuesday-assorted-links-318.html\">Marginal Revolution</a>) I haven't tried it (yet?), but I assume it should be pretty easy to solve. Anyone want to try to work it out to the end? ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2408,38 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1137",
          "pubDate" : "Wed, 09 Jun 2021 20:16:04 +0000",
          "title" : "2021 Superbet Chess Classic - Day 5 Recap"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at Wesley So's fine win against Fabiano Caruana at the Superbet Chess Classic tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-w-so-vs-v-f-caruana",
-         "pubDate" : "Wed, 09 Jun 2021 18:00:00 +0100",
-         "title" : "Game of the Week: W. So vs F. Caruana"
-      },
-      {
-         "description" : " Shakhriyar Mamedyarov was the only winner in the fifth round of the Superbet Classic in Bucharest. He joined Wesley So and Alexander Grischuk in the lead on 3/5 after winning the final game to finish, the remaining games were drawn. There is a rest day on Thursday and the sixth round takes place on Friday. Mamedyarov played quite an interesting idea as black against the Reti system played by Constantin Lupulescu and after the novelty 8.Na4 which wasn't all that testing he was at least equal. The middle game at least was pretty non-standard and white wasn't in any terrible trouble but perhaps was the one on the back foot as Mamedyarov encouraged a few weakening pawn moves. Then suddenly it a",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-joins-so-and-grischuk-in-the-lead-of-the-superbet-classic-after-5-rounds",
-         "pubDate" : "Wed, 9 Jun 2021 19:01:00 +0400",
-         "title" : "Mamedyarov joins So and Grischuk in the lead of the Superbet Classic after 5 rounds - 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1135",
-         "pubDate" : "Wed, 09 Jun 2021 13:24:38 +0000",
-         "title" : "PhosAgro and FIDE sign strategic partnership"
-      },
-      {
-         "description" : "Wesley So and Alexander Grischuk are now sharing the lead at the Superbet Chess Classic in Bucharest, as each defeated a former co-leader in Tuesday's fourth round. So played brilliantly to take down Fabiano Caruana, while Grischuk ground out a win against Bogdan-Daniel Deac from a very slightly favourable queen endgame. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r4",
-         "pubDate" : "Wed, 09 Jun 2021 13:40:00 +0100",
-         "title" : "Superbet Chess Classic: So and Grischuk grab the lead"
       }
    ]
 }
