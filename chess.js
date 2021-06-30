@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In the tenth consecutive tournament he played in Budapest since mid-April, <strong>Abhimanyu Mishra</strong> has completed the mission <a href=\"https://www.chesstech.org/2021/protect-our-prodigies/\">for which his father took him out of school a year ago and let him play or train 12-13 hours each day</a>. The 12-year-old from New Jersey has <a href=\"http://chess-results.com/tnr565933.aspx?lan=0&amp;art=9&amp;fed=USA&amp;turdet=YES&amp;flag=30&amp;snr=3\">fulfilled his final GM-norm</a> and beats the dubious record that had been set 19 years ago by Sergey Karjakin <a href=\"https://www.chesstech.org/2020/malinins-epilogue/\">with (allegedly) a little hel",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mishra-becomes-youngest-gm-in/",
+         "pubDate" : "Wed, 30 Jun 2021 22:35:45 +0100",
+         "title" : "Mishra becomes youngest GM in history"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1180",
+         "pubDate" : "Wed, 30 Jun 2021 21:09:29 +0000",
+         "title" : "Carlsen, Aronian, Artemiev and Ding through to semis"
+      },
+      {
+         "description" : "At 12 years, 4 months and 25 days, American chess player Abhimanyu Mishra is the youngest GM in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
+         "pubDate" : "Wed, 30 Jun 2021 15:47:20 -0500",
+         "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
+      },
+      {
+         "description" : " Yes, of course, this is always how these things work: I say \"no more blogging for a while\", and then I blog. I hadn't intended to, but this bit of good news came in my email, so here goes: American prodigy Abhimanyu Mishru has broken Sergey Karjakin's surprisingly durable record for the youngest grandmaster ever. Karjakin acquired the record back in 2002 at the age of 12 years and 7 months, shattering Bu Xiangzhi's record of 13 years, 10 months, and 13 days. Since then, many have come close (and eight others players had bested Bu's mark), but only now has the record been broken. Mishru got his third norm and broke the 2500 barrier to earn the grandmaster title, and did so at the ripe old ag",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/6/30/abhimanyu-mishru-grandmaster.html",
+         "pubDate" : "Wed, 30 Jun 2021 20:36:47 +0000",
+         "title" : "Abhimanyu Mishru: Grandmaster!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1179",
+         "pubDate" : "Wed, 30 Jun 2021 19:57:21 +0000",
+         "title" : "Abhimanyu Mishra is the youngest Grandmaster in history"
+      },
+      {
          "description" : "This remarkable lad from Englishtown, New Jersey, playing with great determination under Covid restrictions in Hungary, has scored his third and final GM norm. He has earned the title at the age of 12 years, 4 months, and 25 days, which is 66 days sooner than Sergey Karjakin in 2002. This comes after he had broken the record of youngest US master (at nine years and two months), and youngest International Master ever (at 10 years, nine months, and three days). Congratulations, Abhi!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/made-it-abhi-youngest-gm-in-history",
          "pubDate" : "Wed, 30 Jun 2021 20:35:13 +0100",
          "title" : "Made it! Abhi youngest GM in history!"
-      },
-      {
-         "description" : "At 12 years, four months, and 25 days, American chess player Abhimanyu Mishra is the youngest GM in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
-         "pubDate" : "Wed, 30 Jun 2021 14:34:54 -0500",
-         "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
       },
       {
          "description" : "US chess prodigy Abhimanyu Mishra has become the youngest grandmaster in history at the age of 12 years, 4 months and 25 days, shattering Sergey Karjakin's record of 12 years and 7 months that had stood for 19 years. Abhimanyu, from New Jersey, clinched the title when he scored his 3rd and final grandmaster norm by beating fellow prodigy Leon Mendonca in a nail-biting 9th round of the Vezerkepzo GM Mix tournament in Budapest, Hungary.",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/karpov-simul-during-moldavian/",
          "pubDate" : "Wed, 30 Jun 2021 12:21:16 +0100",
          "title" : "Karpov appearance in Moldovian campaign"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1177",
-         "pubDate" : "Wed, 30 Jun 2021 11:06:13 +0000",
-         "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
       },
       {
          "description" : " The 34th Leon Chess tournament takes place Wed 30th Jun to Sun 4th Jul 2021.This is a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match takes place on 3rd of July and the final on Sunday 4th. ",
@@ -280,6 +304,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1175",
          "pubDate" : "Tue, 29 Jun 2021 21:49:02 +0000",
          "title" : "FIDE Chessable Academy kicks off on Chessable Classroom"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1177",
+         "pubDate" : "Tue, 29 Jun 2021 21:42:13 +0000",
+         "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
       },
       {
          "description" : "",
@@ -720,14 +752,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/chess-for-french-army-clubs/",
          "pubDate" : "Fri, 25 Jun 2021 22:24:57 +0100",
          "title" : "Chess for French army clubs"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jens Hilgers</strong>, founder of the <a href=\"https://www.bitkraft.vc/people/#\">E-sports venture capital fund</a> <strong>Bitkraft</strong>, has joined the board of the <strong>Play Magnus Group</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/e-sport-pioneer-joins-play-magnus/",
-         "pubDate" : "Fri, 25 Jun 2021 22:10:33 +0100",
-         "title" : "E-sport pioneer joins Play Magnus board"
       },
       {
          "description" : "",
@@ -2130,14 +2154,6 @@ news_feed (
          "title" : "Reducing Stress During Tournaments - 3 Easy Steps To Less Stress"
       },
       {
-         "description" : " One round remains, and Shakhriyar Mamedyarov retains a full point lead over his closest pursuers. Mamedyarov decided not to take any risks today against Anish Giri, choosing a variation that has already been used to assure White of a speedy drawn in seven games - including (move for move) the Teimour Radjabov vs. Maxime Vachier-Lagrave game from round 3 of this tournament. That opened the door for Wesley So and Alexander Grischuk to come within half a point of the lead, if they could manage to defeat Vachier-Lagrave or Caruana, respectively. Neither did. Wesley So enjoyed a very small edge against MVL's comical knight's tour of an opening, but the latter defended well and made a comfortable",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/14/superbet-chess-classic-round-8-mamedyarov-on-the-verge-of-to.html",
-         "pubDate" : "Mon, 14 Jun 2021 05:59:10 +0000",
-         "title" : "Superbet Chess Classic, Round 8: Mamedyarov on the Verge of Tournament Victory"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2464,14 +2480,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/10/spurious-games/",
          "pubDate" : "Thu, 10 Jun 2021 00:10:04 +0000",
          "title" : "Spurious Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1137",
-         "pubDate" : "Wed, 09 Jun 2021 20:16:04 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 5 Recap"
       }
    ]
 }
