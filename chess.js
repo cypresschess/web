@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Perhaps in the context of my recent post about grandmasters on TV, reader Pedro E. wrote in to mention a 2018 documentary about the circus that was the 1978 World Championship match between Anatoly Karpov and Viktor Korchnoi. Somehow I had missed this, but it seems to widely and inexpensively available at various sites. More about the film, <a href=\"https://en.chessbase.com/post/closing-gambit-new-feature-documentary\">here</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/1/closing-gambit.html",
+         "pubDate" : "Thu, 01 Jul 2021 22:44:46 +0000",
+         "title" : "\"Closing Gambit\""
+      },
+      {
+         "description" : " Another two-stage rapid event is underway, the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a>, which is part of Magnus Carlsen's \"Champions Chess Tour\". It started a few days ago and I'm not going to cover the games this time around, but for those of you who are casual enough in your following of top-level events that you might only now be finding out about it, here's the scoop: The eight (of sixteen) players who made it to the knockout stage were, in order, Levon Aronian, Vladislav Artemiev, Ding Liren, Magnus Carlsen, Wesley So, Jan-Krzysztof Duda, Anish Giri, and Arjun Erigaisi. Pairing order for the k.o. stage has 1 play 8, 2 play 7, etc. In the quarters, Aronian an",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/1/goldmoney-asian-rapid.html",
+         "pubDate" : "Thu, 01 Jul 2021 21:55:43 +0000",
+         "title" : "Goldmoney Asian Rapid"
+      },
+      {
+         "description" : " Not about my family's health crises, which are ongoing. But let's have a little fun on the lighter side of things--I just came across <a href=\"https://www.espn.com/college-football/insider/story/_/id/31719405/2022-college-football-recruiting-class-rankings-notre-dame-fsu-move-top-five\">this story</a>, which will warm the hearts of all those who have one. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/1/good-news-critical-information.html",
+         "pubDate" : "Thu, 01 Jul 2021 21:53:22 +0000",
+         "title" : "Good News, Critical Information"
+      },
+      {
          "description" : "You read it yesterday: the 12-year-ole New Jersey lad Abhimanyu Mishra gained his final GM norm, to become the youngest grandmaster in history. Sagar Shah of ChessBase India spoke to Abhi about the key game, and how he turned tables against his GM opponent; but also about his motivation and his future plans in chess. It is quite revealing to hear this boy speak about his remarkable accomplishments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/abhi-on-getting-his-gm-title",
          "pubDate" : "Thu, 01 Jul 2021 20:42:12 +0100",
          "title" : "Abhimanyu on getting his GM title"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews the best games from this week in world class chess. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/games-week-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oneY18SStp8.jpg?itok=FS7KCmuh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/games-week-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 01 Jul 2021 19:32:00 +0000",
+         "title" : "Games of the Week - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-dragon-6-g3",
          "pubDate" : "Thu, 01 Jul 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Sicilian Dragon (6.g3)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1182",
+         "pubDate" : "Thu, 01 Jul 2021 16:56:35 +0000",
+         "title" : "Harika Dronavalli squeezes into final"
       },
       {
          "description" : " The Vienna Game (1 e4 e5 2 Nc3) is one of the most venerable answers to 1e5. White develops a piece and at the same time keeps the option of the f2-f4 pawn lever, which 1. e4 e5 2.Nf3 does not. In a sense it is related to the King's Gambit (1.e4 e5 2.f4) but <a href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Vanquish 'em with the Vienna\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\">Vanquish 'em with the Vienna</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -576,14 +616,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-3-aronian-triumphs-faces-17-year-old-erigaisi",
          "pubDate" : "Tue, 29 Jun 2021 07:28:32 +0000",
          "title" : "Goldmoney Asian Rapid 3: Aronian triumphs & faces 17-year-old Erigaisi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko teaches all about the Tartakower Defense from the Queen&#039;s Gambit Declined. 2021.06.28<br /> D55 Queen&#039;s Gambit Declined, Petrosian variation<br /> D58 Queen&#039;s Gambit Declined, Tartakower (Makagonov-Bondarevsky) system<br /> D59 Queen&#039;s Gambit Declined, Tartakower variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-be-sweet-play-tartakower-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/file",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-be-sweet-play-tartakower-chess-openings-explained",
-         "pubDate" : "Tue, 29 Jun 2021 01:28:44 +0000",
-         "title" : "Don't Be Sweet: Play the Tartakower! | Chess Openings Explained"
       },
       {
          "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out of contention. | Don't miss the instructive analyses by GM Karsten M&uuml;ller! | Photo: Amruta Mokal",
@@ -2122,14 +2154,6 @@ news_feed (
          "title" : "Ongoing and Upcoming Events"
       },
       {
-         "description" : " He's knocking on the door and gaining points, and still has until September 5 to break Sergey Karjakin's record to become the youngest (chess) grandmaster in history. He is the American prodigy Abhimanyu Mishra, who entered the latest <a href=\"http://chess-results.com/tnr563462.aspx?lan=1&amp;art=1&amp;flag=30\">First Saturday GM tournament</a> in need of one more norm and 15 more points (to reach a rating of 2500) to get the grandmaster title. He gained 7 points (or maybe \"has gained\" - he has one round to go, but it's not clear if one or more players dropped out of the event), but even if he plays his last round game and wins it, he will only score 6.5/9; if the numbers I've found are accu",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/14/another-month-another-fsgmbut-no-third-norm-for-mishra.html",
-         "pubDate" : "Tue, 15 Jun 2021 00:52:37 +0000",
-         "title" : "Another Month, Another FSGM...But No Third Norm for Mishra"
-      },
-      {
          "description" : "In the last round of the Superbet Chess Classic, Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with the black to secure tournament victory. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament, kicks off on Friday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,22 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1146",
          "pubDate" : "Mon, 14 Jun 2021 23:14:43 +0000",
          "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
-      },
-      {
-         "description" : " What is most shocking about <a href=\"https://chess24.com/en/read/news/billionaire-admits-cheating-against-anand-in-charity-simul\">this story</a> is that it's likely to give billionaires, hitherto known and beloved as paragons of virtue, a bad name. Facetiousness aside, how <strong>especially</strong> awful is it to cheat in an event for charity, against one of your personal heroes, a player (Viswanathan Anand) who is universally respected for his sportsmanship? HT: Ross Hytnen and Allen Becker ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/14/cheating-vs-anand-in-a-charity-simul.html",
-         "pubDate" : "Mon, 14 Jun 2021 20:25:38 +0000",
-         "title" : "Cheating vs. Anand in a Charity Simul"
-      },
-      {
-         "description" : " Five mostly nondescript draws brought the \"Super\"bet Chess \"Classic\" to a merciful conclusion. Chess fans haven't seen this kind of rip-roaring action since Karpov, Andersson, and Ribli were perennial tournament favorites, and I hope they never will again. Congratulations to Shakhriyar Mamedyarov, whose three consecutive wins (which were also his only wins) in rounds 5-7 with draws in his remaining games secured clear first by a full point over the trailing troika of Levon Aronian, Wesley So, and Alexander Grischuk. Anish Giri and Teimour Radjabov came next, a further half a point back, both scoring 50%. Giri won one and lost one, but Radjabov was perfect in the event, drawing all nine game",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/14/superbet-chess-classic-round-9-mamedyarov-wins-the-tournamen.html",
-         "pubDate" : "Mon, 14 Jun 2021 20:05:40 +0000",
-         "title" : "Superbet Chess \"Classic\", Round 9. Mamedyarov Wins the Tournament; Radjabov Gains the \"Moral\" Victory"
       },
       {
          "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
