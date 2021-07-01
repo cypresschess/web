@@ -18,14 +18,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid"
       },
       {
-         "description" : " Not about my family's health crises, which are ongoing. But let's have a little fun on the lighter side of things--I just came across <a href=\"https://www.espn.com/college-football/insider/story/_/id/31719405/2022-college-football-recruiting-class-rankings-notre-dame-fsu-move-top-five\">this story</a>, which will warm the hearts of all those who have one. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/1/good-news-critical-information.html",
-         "pubDate" : "Thu, 01 Jul 2021 21:53:22 +0000",
-         "title" : "Good News, Critical Information"
-      },
-      {
          "description" : "You read it yesterday: the 12-year-ole New Jersey lad Abhimanyu Mishra gained his final GM norm, to become the youngest grandmaster in history. Sagar Shah of ChessBase India spoke to Abhi about the key game, and how he turned tables against his GM opponent; but also about his motivation and his future plans in chess. It is quite revealing to hear this boy speak about his remarkable accomplishments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
