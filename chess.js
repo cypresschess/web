@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You read it yesterday: the 12-year-ole New Jersey lad Abhimanyu Mishra gained his final GM norm, to become the youngest grandmaster in history. Sagar Shah of ChessBase India spoke to Abhi about the key game, and how he turned tables against his GM opponent; but also about his motivation and his future plans in chess. It is quite revealing to hear this boy speak about his remarkable accomplishments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhi-on-getting-his-gm-title",
+         "pubDate" : "Thu, 01 Jul 2021 20:42:12 +0100",
+         "title" : "Abhimanyu on getting his GM title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1181",
+         "pubDate" : "Thu, 01 Jul 2021 18:27:39 +0000",
+         "title" : "Yuri Dokhoian passes away"
+      },
+      {
+         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look how Black can spice up the Sicilian Dragon even if White tries to have a quiet life. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-dragon-6-g3",
+         "pubDate" : "Thu, 01 Jul 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Sicilian Dragon (6.g3)"
+      },
+      {
+         "description" : " The Vienna Game (1 e4 e5 2 Nc3) is one of the most venerable answers to 1e5. White develops a piece and at the same time keeps the option of the f2-f4 pawn lever, which 1. e4 e5 2.Nf3 does not. In a sense it is related to the King's Gambit (1.e4 e5 2.f4) but <a href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Vanquish 'em with the Vienna\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\">Vanquish 'em with the Vienna</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/vanquish-em-with-the-vienna/",
+         "pubDate" : "Thu, 01 Jul 2021 16:42:39 +0000",
+         "title" : "Vanquish 'em with the Vienna"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> June 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2066,14 +2098,6 @@ news_feed (
          "title" : "Arbiter, organiser, author and roulette millionaire Carol Jarecki (13 February 1935 - 13 June 2021) died"
       },
       {
-         "description" : " \"Chess is the gymnasium of the mind.\" Blaise Pascal Last week we had the level 4 (rating range 1,100 to 1,400) graduation exam. It was the first time when we did it online: one hour to solve 20 puzzles. A simple arithmetic look at it gives the student 3 minutes per puzzle. Any saved time <a href=\"https://chessimprover.com/tales-from-the-club-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from the Club (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-the-club-2/\">Tales from the Club (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tales-from-the-club-2/",
-         "pubDate" : "Tue, 15 Jun 2021 09:00:29 +0000",
-         "title" : "Tales from the Club (2)"
-      },
-      {
          "description" : "The diagram position is complicated and extremely sharp. Both sides have dangerous passed pawns which the knights might or might not stop. However, it was Black to move and he had a way to win. But in the game Black failed to find the winning move - can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2410,22 +2434,6 @@ news_feed (
          "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
       },
       {
-         "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-1",
-         "pubDate" : "Fri, 11 Jun 2021 14:00:00 +0100",
-         "title" : "Gelfand Challenge: A perfect start for Liang"
-      },
-      {
-         "description" : "The 2021 Superbet Chess Classic is the first event of this year's Grand Chess Tour and it takes place in Bucharest, Romania from June 5 to June 14. Canadian FM Joshua Doknjas had a look at four interesting games from the first five rounds of the tournament, all of which contain important opening ideas and are dynamic battles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-1",
-         "pubDate" : "Fri, 11 Jun 2021 13:00:00 +0100",
-         "title" : "New Opening Ideas in Bucharest - Part 1"
-      },
-      {
          "description" : "Five rounds have been played at the first leg of the Grand Chess Tour Romania 2021. After 5 played rounds, the resting day took place yesterday. World No. 9 GM Shakhriyar Mamedyarov won the only decisive game of the day 5 as he defeated GM Constantin Lupulescu with the Black pieces, catching up to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2448,22 +2456,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/",
          "pubDate" : "Fri, 11 Jun 2021 05:44:00 +0000",
          "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83407852.cms\" />The reigning World Chess Champion will be one of the participants in the upcoming FIDE World Cup, to be played in Sochi next month.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-to-play-the-fide-world-cup-in-sochi/articleshow/83407852.cms",
-         "pubDate" : "Thu, 10 Jun 2021 22:14:24 +0530",
-         "title" : "Magnus Carlsen to play the FIDE World Cup in Sochi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1139",
-         "pubDate" : "Thu, 10 Jun 2021 16:35:36 +0000",
-         "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
       }
    ]
 }
