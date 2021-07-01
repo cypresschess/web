@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The ECF membership year runs from 1st September to 31st of the following August, and each year during July we open the sale of new...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-renewals/",
-         "pubDate" : "Thu, 01 Jul 2021 07:00:41 +0000",
-         "title" : "ECF membership renewals"
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Thu, 01 Jul 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid SF - Live!"
+      },
+      {
+         "description" : "Nihal Sarin was the dominant player at the Silver Lake Open: the young Indian and reigning U18 World Champion won the tournament with 8.0/9 and a rating performance of 2809. His compatriots Raunak Sadhwani and Abhimanyu Puranik won silver and bronze. | Photo: Rupali Mulick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nihal-sarin-wins-silver-lake-open",
+         "pubDate" : "Thu, 01 Jul 2021 12:05:17 +0100",
+         "title" : "Nihal Sarin wins Silver Lake Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84016729.cms\" />Reigning women's world rapid chess champion Koneru Humpy has been nominated for the prestigious Rajiv Gandhi Khel Ratna award by the All India Chess Federation (AICF).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-nominates-koneru-humpy-for-khel-ratna-award/articleshow/84016729.cms",
+         "pubDate" : "Thu, 01 Jul 2021 15:42:41 +0530",
+         "title" : "AICF nominates Koneru Humpy for Khel Ratna award"
+      },
+      {
+         "description" : "For two games Magnus Carlsen dared to dream of an easy win over Wesley So, only for the US Champion to hit back with two brilliant wins on demand to force a playoff. Magnus finally took over in blitz, and will now play Levon Aronian, who only overcame 17-year-old Arjun Erigaisi by the narrowest of margins. In the other half of the draw it's an Artemiev-Ding semi-final after Vladislav Artemiev cruised home against Anish Giri, while Ding Liren hit back from losing the first game to Jan-Krzysztof Duda to win the final three.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-5-carlsen-aronian-scrape-into-semis-after-playoffs",
+         "pubDate" : "Thu, 01 Jul 2021 10:10:32 +0000",
+         "title" : "Goldmoney Asian Rapid 5: Carlsen & Aronian scrape into semis after playoffs"
+      },
+      {
+         "description" : "This week Merijn van Delft takes a look how Magnus Carlsen surprised Peter Svidler - and chess fans around the world - with an unusual move in the starting position of the Najdorf Sicilian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-m-carlsen-vs-p-svidler",
+         "pubDate" : "Thu, 01 Jul 2021 11:05:27 +0100",
+         "title" : "Game of the Week: M. Carlsen vs P. Svidler"
+      },
+      {
+         "description" : "The Goldmoney Asian Rapid tournament will see GM Magnus Carlsen vs. GM Levon Aronian and GM Vladislav Artemiev vs. GM Ding Liren in the semifinals, starting on Thursday. Aronian and Carlsen both won their matches in the tiebreak, against GM Arju...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-day-2",
+         "pubDate" : "Thu, 01 Jul 2021 00:44:00 -0700",
+         "title" : "Goldmoney Asian Rapid Semis: Aronian-Carlsen, Artemiev-Ding"
       },
       {
          "description" : "Two of the four quarterfinal matches at the Goldmoney Asian Rapid tournament were decided on tiebreaks. After winning the first set and the first game of the second set, it seemed like Magnus Carlsen was going to have an easy day at the office, but back-to-back wins by Wesley So meant it would all be decided in blitz. The world champion finally moved on to the semis thanks to a win and a draw in the 5-minute games. Levon Aronian also had a tough time against Arjun Erigaisi, but managed to advance, while Vladislav Artemiev and Ding Liren won their matches in the rapid section of the second set. | Photo: Lennart Ootes",
@@ -168,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/torneo-magistral-ajedrez-ciudad-de-leon",
          "pubDate" : "Wed, 30 Jun 2021 14:29:16 +0100",
          "title" : "34. Torneo Magistral Ajedrez Ciudad de Leon"
-      },
-      {
-         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After six rounds, the team of Bischwiller, which has won all of its six matches, is sole leader. Clichy and Asnieres follow on places two and three. Round 7 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Wed, 30 Jun 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "From 25th September - 5th October in Budoni, Italy. The event will be played in two age categories [50+ and 65+] with Open and Women's...",
@@ -946,14 +978,6 @@ news_feed (
          "title" : "Undermine 'em with the Ufimtsev"
       },
       {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Thu, 24 Jun 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
-      },
-      {
          "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,6 +1072,14 @@ news_feed (
          "link" : "https://chessimprover.com/fifty-shades-of-ray/",
          "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
          "title" : "Fifty Shades of Ray"
+      },
+      {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Wed, 23 Jun 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
@@ -1514,14 +1546,6 @@ news_feed (
          "title" : "Winners of the Asian and Canadian Zonals qualify to the World Cup"
       },
       {
-         "description" : "Alireza Firouzja celebrated his 18th birthday in Paris on Friday, but not everything went to plan. After missed chances in the first two games he was beaten by Teimour Radjabov, who had started the day with a 10th non-game in a row but was suddenly spurred into action by losing to Maxime Vachier-Lagrave. No-one managed to blow away the field on the first day, with Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler all leading on 4/6 after scoring one win and two draws.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-1-firouzja-s-birthday-blues",
-         "pubDate" : "Sat, 19 Jun 2021 10:19:10 +0000",
-         "title" : "Paris Rapid & Blitz 1: Firouzja's birthday blues"
-      },
-      {
          "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1760,14 +1784,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/caught-in-middle.html",
          "pubDate" : "Thu, 17 Jun 2021 13:36:00 +0000",
          "title" : "Caught in the middle"
-      },
-      {
-         "description" : "FIDE and its partner World Chess announced on Thursday that the 2022 Grand Prix series will consist of three tournaments that will be held between February and April 2022. The top two finishers of the series will qualify for the 2022 Candidates To...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-grand-prix-series-announcement",
-         "pubDate" : "Thu, 17 Jun 2021 05:29:00 -0700",
-         "title" : "2022 Chess Grand Prix: 3 Tournaments, 1 City"
       },
       {
          "description" : "The FIDE World Cup in July and the World Champion match in November still have to be played but FIDE and World Chess already plan ahead and just announced the FIDE Grand Prix Series 2022. It will take place from February to April 2022 and will consist of three tournaments, which will be played in one city. The two best players qualify for the Candidates Tournament 2022.",
@@ -2418,22 +2434,6 @@ news_feed (
          "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
       },
       {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Irina Krush talks about her time dealing with the coronavirus, which still affects her today, if she has more power and ambition to win another U.S. women's champion title, and what her plans are for the future, involving an own YouTube channel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-irina-krush",
-         "pubDate" : "Thu, 10 Jun 2021 18:37:55 +0100",
-         "title" : "Rapid Interview - Irina Krush"
-      },
-      {
-         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new developments in an old opening: the Open Ruy Lopez. Bogdan Deac used this line to surprisingly win with Black against Maxime Vachier-Lagrave in the Superbet Chess Classic Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-open-ruy-lopez",
-         "pubDate" : "Thu, 10 Jun 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Ruy Lopez Open Variation"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83407852.cms\" />The reigning World Chess Champion will be one of the participants in the upcoming FIDE World Cup, to be played in Sochi next month.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2464,14 +2464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/why-do-some-countries-always-gain-and-other-always-lose-rating-points",
          "pubDate" : "Thu, 10 Jun 2021 13:00:00 +0100",
          "title" : "Why do some countries always gain and other always lose rating points?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1138",
-         "pubDate" : "Thu, 10 Jun 2021 10:18:02 +0000",
-         "title" : "Ziaur Rahman wins Asian Zonal 3.2 Hybrid Championship"
       }
    ]
 }
