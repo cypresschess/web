@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> June 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/june-2021-chess-puzzle-answer-key",
+         "pubDate" : "Thu, 01 Jul 2021 15:28:49 +0000",
+         "title" : "June 2021 Chess Puzzle Answer Key "
+      },
+      {
          "description" : "The \"Top 12\" competition sees some of the world's best players battle it out to claim the French club championship. This year players such as Maxime Vachier-Lagrave, Veselin Topalov and Jorden Van Foreest show their class in this 11-round event. However, this competition also serves as an excellent platform for amateurs who seldom get to play against such strong opponents. Dhananjay Khadilkar asked Mathieu Ternault (pictured), a wine maker by profession, and Mickael Hutois, a professor for mathematics, how it feels to play in such an event. | Photo: Dhananjay Khadilkar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-3",
          "pubDate" : "Tue, 29 Jun 2021 01:35:00 +0100",
          "title" : "Goldmoney Asian Rapid: Firouzja, Svidler and Dubov miss the cut"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches the first chess class at the Saint Louis Chess Club since March 2020. Welcome back live audience. Welcome to the old normal. We did it. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/real-chess-class-dorsas-choice\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/laL8CPgpdFE.jpg?itok=4iW_WV71\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/real-chess-class-dorsas-choice",
-         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
-         "title" : "The REAL Chess Class | Dorsa's Choice"
       },
       {
          "description" : "",
