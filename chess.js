@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Top 12\" competition sees some of the world's best players battle it out to claim the French club championship. This year players such as Maxime Vachier-Lagrave, Veselin Topalov and Jorden Van Foreest show their class in this 11-round event. However, this competition also serves as an excellent platform for amateurs who seldom get to play against such strong opponents. Dhananjay Khadilkar asked Mathieu Ternault (pictured), a wine maker by profession, and Mickael Hutois, a professor for mathematics, how it feels to play in such an event. | Photo: Dhananjay Khadilkar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-12-a-wine-maker-and-a-mathematics-professor-battle-it-out-against-international-stars",
+         "pubDate" : "Thu, 01 Jul 2021 15:54:49 +0100",
+         "title" : "Top 12: A wine maker and a mathematics professor battle it out against international stars"
+      },
+      {
+         "description" : " While the chess world is taking notice of Abhimanyu Mishra, who is about to become the worlds youngest GM at the age of 12 (when the title is confirmed) I am also impressed by Salvador Dias Carias, who has been awarded the FM title at the age of 88. In the case of Carias, the title was awarded for his achievements in the 1960's and 1970's, when he achieved a published rating of 2300. Both achievements are newsworthy, and should give some hope to both younger and more senior players. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/oldest-and-youngest.html",
+         "pubDate" : "Thu, 01 Jul 2021 14:15:00 +0000",
+         "title" : "Oldest and youngest"
+      },
+      {
+         "description" : "The youngest grandmaster in chess history Abhimanyu Mishra reveals two of the secrets to his success.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/what-it-takes-to-be-the-world-s-youngest-grandmaster",
+         "pubDate" : "Thu, 01 Jul 2021 14:00:46 +0000",
+         "title" : "What it takes to be the world's youngest Grandmaster: Abhi Mishra"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84037694.cms\" />Chess legend Viswanathan Anand has congratulated Indian-origin Abhimanyu Mishra on becoming the youngest ever Grandmaster (GM) of the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-congratulates-the-worlds-youngest-chess-gm/articleshow/84037694.cms",
+         "pubDate" : "Thu, 01 Jul 2021 19:08:55 +0530",
+         "title" : "Anand congratulates the world's youngest chess GM"
+      },
+      {
+         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After seven rounds, the team of Bischwiller leads the table, Clichy and Asnieres follow on places two and three. But in round 8 Clichy and Bischwiller clash and this crucial match might decide the Championship. The round starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Thu, 01 Jul 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> spent a few days in Munich for sport medical checks and fitness training with <strong>Marcus Lindner</strong>, athletic coach of the Bayern M&uuml;nchen basketball team, who will stay in touch with him during the preparation for the match in November. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepo-got-fitness-checks-and-advice/",
+         "pubDate" : "Thu, 01 Jul 2021 13:37:49 +0100",
+         "title" : "Nepo got fitness checks and advice"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The future of the biggest German chess sponsorship <strong>GRENKE</strong> is in huge doubt <a href=\"https://perlenvombodensee.de/2021/07/01/grenke-ag-wolfgang-grenke-scheidet-aus-sven-noppes-auch/\">after an announcement</a> that founder <strong>Wolfgang Grenke</strong> will leave the supervisory board on 29 July and <strong>Sven Noppes</strong> will be replaced at the helm of <strong>Grenke Bank</strong> before the end of the year. Noppes managed the Bundesliga teams of Baden-Baden and Deizisau as well as the Grenke Classic and Open, which was Europe's biggest chess festival until 2019. The company had come under fire from shortsellers who brought ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/grenke-and-noppes-leave/",
+         "pubDate" : "Thu, 01 Jul 2021 13:22:19 +0100",
+         "title" : "Grenke and Noppes leave"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +98,7 @@ news_feed (
          "title" : "Game of the Week: M. Carlsen vs P. Svidler"
       },
       {
-         "description" : "The Goldmoney Asian Rapid tournament will see GM Magnus Carlsen vs. GM Levon Aronian and GM Vladislav Artemiev vs. GM Ding Liren in the semifinals, starting on Thursday. Aronian and Carlsen both won their matches in the tiebreak, against GM Arju...",
+         "description" : "The Goldmoney Asian Rapid tournament will see GM Magnus Carlsen vs. GM Levon Aronian and GM Vladislav Artemiev vs. GM Ding Liren in the semifinals that start on Thursday. Aronian and Carlsen both won their matches in the tiebreak, against GM Arj...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-day-2",
@@ -522,14 +578,6 @@ news_feed (
          "title" : "Levon Aronian wins prelim stage"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> From graphic and sound design to curriculum and business analysis, the <a href=\"https://www.chesstech.org/jobs/\">job roles advertised</a> by <strong>Chess.com</strong> are getting more diverse. Most positions can be filled from anywhere, a notable exception is the future Chief Operating Officer who must be a US resident. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/jobs-get-more-diverse-at-chesscom/",
-         "pubDate" : "Mon, 28 Jun 2021 20:13:25 +0100",
-         "title" : "Jobs get more diverse at Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -800,14 +848,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-announcement",
          "pubDate" : "Fri, 25 Jun 2021 16:16:00 -0700",
          "title" : "FIDE World Cup: Carlsen Plays, Anand Star Commentator In Chess.com Broadcast"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>The French Chess Federation</strong> has <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6813115584193015808/\">signed an agreement</a> with <strong>Clubs de la D&eacute;fense</strong>. The federation provides chess presentations and training with the objective to build chess sections in many of the 410 army clubs in which 160,000 members are organised. The agreement is a fruit of the work of the Paris lawyer and chess organiser <strong>Joël Gautier</strong>, who was a candidate in the recent presidential election. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chess-for-french-army-clubs/",
-         "pubDate" : "Fri, 25 Jun 2021 22:24:57 +0100",
-         "title" : "Chess for French army clubs"
       },
       {
          "description" : "",
@@ -1464,14 +1504,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
          "pubDate" : "Sun, 20 Jun 2021 15:22:00 +0400",
          "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "Ian Nepomniachtchi was the first player to take the sole lead in the Paris Rapid & Blitz after taking down Levon Aronian with a beautiful combination in Round 5, but in the very next round he spoilt a great opening position before falling for a stunning final move from Maxime Vachier-Lagrave. Maxime had suffered himself earlier in the day, playing 1.b3 before losing a rook endgame to his compatriot and second Etienne Bacrot. The day ended with Fabiano Caruana, Nepo and Wesley So tied for the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-2-blunders-brilliancies",
-         "pubDate" : "Sun, 20 Jun 2021 08:57:31 +0000",
-         "title" : "Paris Rapid & Blitz 2: Blunders & Brilliancies"
       },
       {
          "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
@@ -2402,22 +2434,6 @@ news_feed (
          "title" : "Round 6 - Grand Chess Tour Romania 2021"
       },
       {
-         "description" : "Surprising news from FIDE: in a press release the FIDE announced that World Champion Magnus Carlsen will play in the next World Cup, which will take place in Sochi, Russia, from July 10 to August 6. It's a knock-out event with 206 players, in which the two finalists will qualify for the Candidates 2022. However, as reigning World Champion Carlsen is already guaranteed a spot in the Candidates 2022 should he lose the World Championship match against Ian Nepomniachtchi in November. But maybe the World Champion wants to play some over-the-board chess again after the long break caused by the pandemic and enjoys the challenge of a very tough tournament. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-to-play-in-fide-world-cup-in-sochi",
-         "pubDate" : "Fri, 11 Jun 2021 10:30:00 +0100",
-         "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
-      },
-      {
-         "description" : "Yermo is back! Once the restrictions allowed it, he made it down to Mexico City with travelling pal Alexander Shabalov to try his hand in a 10-player round robin. In a thorough report, including plenty of pictures and annotations, he tells us all about his time in CDMX - chapulines, positive COVID tests and good old over-the-board chess made for a great experience in the second-largest metropolitan area of the Western Hemisphere.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yermos-travels-back-on-the-road",
-         "pubDate" : "Fri, 11 Jun 2021 08:27:47 +0100",
-         "title" : "Yermo's travels: Back on the road"
-      },
-      {
          "description" : " The 58-year-old will play several of the current elite grandmasters at the over-the-board event in Zagreb, Croatia Garry Kasparov, now aged 58 and for many still the all-time No 1 player, will make a rare cameo comeback next month when the 2021 over-the-board Grand Tour, which was cancelled in 2020 due to the pandemic, reaches Zagreb in Croatia. Kasparov will play 18 games in the five-minute blitz section on 10-11 July, when his leading opponent will be the current world title challenger, Ian Nepomniachtchi, who is not playing the full Tour but is competing in Zagreb as a wildcard. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2448,22 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1139",
          "pubDate" : "Thu, 10 Jun 2021 16:35:36 +0000",
          "title" : "Magnus Carlsen to play in FIDE World Cup in Sochi"
-      },
-      {
-         "description" : " If my memory hasn't completely gone, this weekends NSW Open will be my first 'away' weekend event since early last year. I'm not going as a player mid you, but as an arbiter. The last event I directed outside Canberra was the 2020 Australian Championship and since then it has either been local events, or online ones. The good news for the organisers is that there will be 140 players in attendance (actually the maximum allowed). The bad news for spectators/parents is that this is close to the venue capacity, so only 'essential' staff are allowed in the playing area. Otherwise you will have to follow the tournament online via <a href=\"http://nswopen.nswca.org.au\">nswopen.nswca.org.au</a> <br ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/on-road-again.html",
-         "pubDate" : "Thu, 10 Jun 2021 13:57:00 +0000",
-         "title" : "On the road - again"
-      },
-      {
-         "description" : "World Youth Chess Championships are known to produce tons of interesting games and often very surprising and inconsistent results. However, it appears that at least one thing stays fairly consistent - certain federations typically gain rating points while others lose them at the event. Why is there such a contrasting trend for Asian versus European countries, and what could be the possible reasons behind it? Sveta Demchenko presents the data from which we can draw our conclusions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/why-do-some-countries-always-gain-and-other-always-lose-rating-points",
-         "pubDate" : "Thu, 10 Jun 2021 13:00:00 +0100",
-         "title" : "Why do some countries always gain and other always lose rating points?"
       }
    ]
 }
