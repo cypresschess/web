@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> 2021.06.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 01 Jul 2021 01:30:59 +0000",
+         "title" : "Dear Magnus... | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "GM Vidit Gujrathi won Titled Tuesday on June 29 with 9.5 points out of 11. He held the tiebreaker advantage over second-place GM Oleksandr Bortnyk and third-place GM Baadur Jobava. GM Hikaru Nakamura finished with 9/11 for fourth place after tiebr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vidit-wins-june-29-titled-tuesday",
+         "pubDate" : "Wed, 30 Jun 2021 16:45:53 -0700",
+         "title" : "Vidit Wins June 29 Titled Tuesday"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In the tenth consecutive tournament he played in Budapest since mid-April, <strong>Abhimanyu Mishra</strong> has completed the mission <a href=\"https://www.chesstech.org/2021/protect-our-prodigies/\">for which his father took him out of school a year ago and let him play or train 12-13 hours each day</a>. The 12-year-old from New Jersey has <a href=\"http://chess-results.com/tnr565933.aspx?lan=0&amp;art=9&amp;fed=USA&amp;turdet=YES&amp;flag=30&amp;snr=3\">fulfilled his final GM-norm</a> and beats the dubious record that had been set 19 years ago by Sergey Karjakin <a href=\"https://www.chesstech.org/2020/malinins-epilogue/\">with (allegedly) a little hel",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/abhimanyu-mishra-beats-karjakin-s-record-youngest-ever-grandmaster",
          "pubDate" : "Wed, 30 Jun 2021 18:45:04 +0000",
          "title" : "Abhimanyu Mishra beats Karjakin's record as youngest ever grandmaster"
+      },
+      {
+         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
+         "pubDate" : "Wed, 30 Jun 2021 18:26:00 +0000",
+         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021 : UPDATED SCHEDULE & CIRCULAR"
       },
       {
          "description" : "",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "The REAL Chess Class | Dorsa's Choice"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros interviews IM Eric Rosen about his career, world standings, streaming, and chess! Questions are accepted via chat. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/get-know-im-eric-rosen-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i4Fmx7FxFRo.jpg?itok=NU6MuFRe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/get-know-im-eric-rosen-gm-denes-boros",
-         "pubDate" : "Mon, 28 Jun 2021 22:28:42 +0000",
-         "title" : "Get to Know IM Eric Rosen with GM Denes Boros"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/jobs-get-more-diverse-at-chesscom/",
          "pubDate" : "Mon, 28 Jun 2021 20:13:25 +0100",
          "title" : "Jobs get more diverse at Chess.com"
-      },
-      {
-         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
-         "pubDate" : "Mon, 28 Jun 2021 18:26:00 +0000",
-         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021"
       },
       {
          "description" : "",
@@ -1802,14 +1810,6 @@ news_feed (
          "title" : "Meet the participants of the Women's Grand Prix"
       },
       {
-         "description" : "GM Harika Dronavalli eliminated GM Alexandra Kosteniuk from the FIDE Chess.com Women&#39;s Speed Chess Championship on Wednesday. Kosteniuk started very strong, but Harika came back, leveled the score just in time, and then decided the match in the ti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-harika-kosteniuk",
-         "pubDate" : "Thu, 17 Jun 2021 01:28:00 -0700",
-         "title" : "Women's Speed Chess Championship: Harika Eliminates Kosteniuk In Tiebreak"
-      },
-      {
          "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2472,14 +2472,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/",
          "pubDate" : "Thu, 10 Jun 2021 06:02:53 +0000",
          "title" : "European Women Individual Chess Championship - 30 June Registration Deadline"
-      },
-      {
-         "description" : " Spurious Games: David Jenkins From the publisher: When a local chess player is discovered dead, Detective Inspector John Logos of Cornwall s St Borstal Constabulary is called in to investigate what turns out to be a serial killer running amok in the sedate world of Cornish chess. The detectives quickly find themselves as pawns in <a href=\"http://britishchessnews.com/2021/06/10/spurious-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Spurious Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/10/spurious-games/\">Spurious Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/06/10/spurious-games/",
-         "pubDate" : "Thu, 10 Jun 2021 00:10:04 +0000",
-         "title" : "Spurious Games"
       }
    ]
 }
