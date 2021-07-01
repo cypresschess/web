@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF membership year runs from 1st September to 31st of the following August, and each year during July we open the sale of new...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-renewals/",
+         "pubDate" : "Thu, 01 Jul 2021 07:00:41 +0000",
+         "title" : "ECF membership renewals"
+      },
+      {
+         "description" : "Two of the four quarterfinal matches at the Goldmoney Asian Rapid tournament were decided on tiebreaks. After winning the first set and the first game of the second set, it seemed like Magnus Carlsen was going to have an easy day at the office, but back-to-back wins by Wesley So meant it would all be decided in blitz. The world champion finally moved on to the semis thanks to a win and a draw in the 5-minute games. Levon Aronian also had a tough time against Arjun Erigaisi, but managed to advance, while Vladislav Artemiev and Ding Liren won their matches in the rapid section of the second set. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-6",
+         "pubDate" : "Thu, 01 Jul 2021 07:45:00 +0100",
+         "title" : "Goldmoney Asian Rapid: Carlsen knocks out So in tiebreaks"
+      },
+      {
+         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-online-chess-championship-2021-updated-schedule-circular/",
+         "pubDate" : "Thu, 01 Jul 2021 06:05:29 +0000",
+         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021 : UPDATED SCHEDULE & CIRCULAR"
+      },
+      {
+         "description" : "Delhi Girl Sachi Jain becomes the National Under-12 Girls Online Chess Champion with 10 points out of possible 11. Yashvi Jain of Telangana and Sarvani",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sachi-jain-under-12-girls-champion/",
+         "pubDate" : "Thu, 01 Jul 2021 04:10:01 +0000",
+         "title" : "Sachi Jain Under-12 Girls Champion"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> 2021.06.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,14 +106,6 @@ news_feed (
          "title" : "Abhimanyu Mishra beats Karjakin's record as youngest ever grandmaster"
       },
       {
-         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-chess-championship-2021/",
-         "pubDate" : "Wed, 30 Jun 2021 18:26:00 +0000",
-         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021 : UPDATED SCHEDULE & CIRCULAR"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -103,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/abhimanyu-mishra-youngest-grandmaster-in-chess-history",
          "pubDate" : "Wed, 30 Jun 2021 09:52:00 -0700",
-         "title" : "BREAKING: Abhimanyu Mishra Becomes Youngest Grandmaster In Chess History"
+         "title" : "Abhimanyu Mishra Becomes Youngest Grandmaster In Chess History"
       },
       {
          "description" : "<div class=\"body text-secondary\"> JULY 7-11, 2021, exclusively on KasparovChess.com and KasparovChess on Twitch. The second Croatia Grand Chess Tour is the third stop on the 2021 Tour, live from the National and University Library in Zagreb. Eleven players compete in a rapid round robin and two blitz round robins, July 7-11. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-online-championship-participation-of-fair-play-defaulters/",
          "pubDate" : "Wed, 30 Jun 2021 14:13:19 +0000",
          "title" : "National School Online Championship : Participation of Fair Play defaulters"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Wed, 30 Jun 2021 14:35:00 +0100",
-         "title" : "Goldmoney Asian Rapid QF - Carlsen, Aronian, Ding and Artemiev in semis"
       },
       {
          "description" : "The Main Event of the 2021 Junior Speed Chess Championship presented by ChessKid starts on Thursday, July 1. The first match in the round of 16 will see GM Raunak Sadhwani of India vs. GM Paulius Pultinevicius of Lithuania at 10 a.m. Pacific / 19:...",
@@ -930,6 +946,14 @@ news_feed (
          "title" : "Undermine 'em with the Ufimtsev"
       },
       {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Thu, 24 Jun 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
+      },
+      {
          "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1024,14 +1048,6 @@ news_feed (
          "link" : "https://chessimprover.com/fifty-shades-of-ray/",
          "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
          "title" : "Fifty Shades of Ray"
-      },
-      {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Wed, 23 Jun 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
@@ -1336,14 +1352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-3",
          "pubDate" : "Mon, 21 Jun 2021 07:00:00 +0100",
          "title" : "Paris Rapid & Blitz: So grabs the lead"
-      },
-      {
-         "description" : "The National Age Group Online Chess Championships 2021 will be held from 10 June 21 to 03 July 21. The championships will serves as selection",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-age-group-online-chess-championships-2021/",
-         "pubDate" : "Mon, 21 Jun 2021 04:43:00 +0000",
-         "title" : "NATIONAL AGE GROUP ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2464,14 +2472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1138",
          "pubDate" : "Thu, 10 Jun 2021 10:18:02 +0000",
          "title" : "Ziaur Rahman wins Asian Zonal 3.2 Hybrid Championship"
-      },
-      {
-         "description" : "European Women Individual Chess Championship 2021 will take place from 8th-21st of August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. The total&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-women-individual-chess-championship-2021-official-regulations/",
-         "pubDate" : "Thu, 10 Jun 2021 06:02:53 +0000",
-         "title" : "European Women Individual Chess Championship - 30 June Registration Deadline"
       }
    ]
 }
