@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84055389.cms\" />Abhimanyu Mishra landed in Budapest on April 12 with one goal --- becoming the youngest-ever Grandmaster. Seventy-nine days down the line, the 12-year-old Indian-origin American managed to secure close to 100 points to cross the 2500 ELO points barrier which helped him bag three GM norms and break Russian Sergey Karjakin's record (of becoming a GM at 12 years and 7 months) set in August 2002.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/for-wonder-kid-abhimanyu-mishra-becoming-the-youngest-gm-is-just-the-beginning/articleshow/84055389.cms",
+         "pubDate" : "Fri, 02 Jul 2021 08:25:08 +0530",
+         "title" : "For wonder kid Abhimanyu Mishra, becoming the youngest GM is just the beginning"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Alireza Firouzja&#039;s win over world champion Magnus Carlsen at the 2021 Goldmoney Asian Rapid. This is the first chess class at the Saint Louis Chess Club since March 2020. Welcome back, live audience. Welcome to the old normal. We did it. 2021.07.01<br /> Alireza Firouzja vs Magnus Carlsen, Goldmoney Asian Rapid (2021): C26 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054817\">https://www.chessgames.com/perl/chessgame?gid=2054817</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-nam",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-gives-carlsen-bad-day-dorsas-choice",
+         "pubDate" : "Fri, 02 Jul 2021 01:32:02 +0000",
+         "title" : "Firouzja Gives Carlsen a Bad Day! | Dorsa's Choice"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen has now been the world no. 1 on every rating list for the past decade since July 2011, an unbeaten streak that will now eclipse Garry Kasparov's two decade-long streaks as world no. 1 from 1986 to 1996 and 1996 to his retirement in 2006. Although Magnus has suffered scares - for instance any loss to Fabiano Caruana in the 2018 World Championship match would have taken Fabi top - he's remarkably been unbroken world no. 1 for a decade on the live rating list as well.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-celebrates-10-years-unbroken-as-world-no-1",
+         "pubDate" : "Thu, 01 Jul 2021 23:48:00 +0000",
+         "title" : "Magnus Carlsen celebrates 10 years unbroken as world no. 1"
+      },
+      {
          "description" : " Perhaps in the context of my recent post about grandmasters on TV, reader Pedro E. wrote in to mention a 2018 documentary about the circus that was the 1978 World Championship match between Anatoly Karpov and Viktor Korchnoi. Somehow I had missed this, but it seems to widely and inexpensively available at various sites. More about the film, <a href=\"https://en.chessbase.com/post/closing-gambit-new-feature-documentary\">here</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros",
          "pubDate" : "Tue, 29 Jun 2021 22:29:43 +0000",
          "title" : "Birthday Boy Plays the Catalan | Insane in the Endgame - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 29 Jun 2021 22:29:43 +0000",
-         "title" : "Kramnik Wins with the Catalan | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "",
@@ -1488,14 +1504,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/everyone-can-improve/?utm_source=rss&utm_medium=rss&utm_campaign=everyone-can-improve",
          "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
          "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
-      },
-      {
-         "description" : "Sam Shankland has won the Prague Masters with an unbeaten 5.5/7, climbing 14 places on the live rating list to cement his position back in the 2700 club. The tournament had looked set to go to a playoff after Radek Wojtaszek blundered in the final round and allowed Jan-Krzysztof Duda to score a 3rd win in a row, but just when Sam looked sure to draw his game, Jorden van Foreest went astray and fell to defeat. Wojtaszek took clear 3rd, while Jorden, Nils Grandelius and David Navara all had tournaments to forget.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/shankland-triumphs-in-prague-after-dramatic-final-day",
-         "pubDate" : "Mon, 21 Jun 2021 00:01:35 +0000",
-         "title" : "Shankland triumphs in Prague after dramatic final day"
       },
       {
          "description" : "Sam Shankland reached the final round of the Prague Masters Tournament with a half-point lead over Radoslaw Wojtaszek and Jan-Krzysztof Duda. The American grandmaster was still busy with his game against Jorden van Foreest when Duda had already overtaken him in the standings thanks to a win over Wojtaszek. Shankland only needed a draw, but his opponent was desperate to win. The curse turned into a blessing when Van Foreest blundered: Shankland won and thus became the undisputed tournament winner. | Photo: Official site",
