@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/torneo-magistral-de-ajedrez-leinier-dominguez-wins-first-semifinal",
+         "pubDate" : "Fri, 02 Jul 2021 13:18:36 +0100",
+         "title" : "Torneo Magistral de Ajedrez: Leinier Dominguez wins first semifinal"
+      },
+      {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. On day 2 of the semifinals Magnus Carlsen plays against Levon Aronian and as he won the first match he only needs a draw in the match to advance to the finals. In the second semifinal Ding Liren plays against Vladislav Artemiev and also only needs a draw in the match to reach the finals - the Chinese number one won the first match convincingly 2.5-05. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Fri, 02 Jul 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid SF, Day 2 - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen began his second decade of being top on every published rating list with a loss to Levon Aronian, but he hit back immediately to grind out an endgame win in the next game. He took the lead in their semi-final by winning the last game of the day, though not without a scare at the end. In the other semi-final Ding Liren credited playing basketball with an improvement in form that saw him power to victory with a game to spare. Vladislav Artemiev, like Levon Aronian, will have to win on demand on Saturday to force a playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-6-carlsen-ding-strike",
+         "pubDate" : "Fri, 02 Jul 2021 10:53:36 +0000",
+         "title" : "Goldmoney Asian Rapid 6: Carlsen & Ding strike"
+      },
+      {
+         "description" : "At just 12 years of age, Abhimanyu Mishra has become the youngest grandmaster in chess history. He broke the record of Sergey Karjakin who held the title of the youngest GM in the chess world. Mishra's quest for the youngest GM holder position had extra merit, having in mind the ongoing Covid19 pandemic and postponement of many []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/12-year-old-abhimanyu-mishra-becomes-the-youngest-gm-in-chess-history/",
+         "pubDate" : "Fri, 02 Jul 2021 10:21:05 +0000",
+         "title" : "12-year-old Abhimanyu Mishra becomes the youngest GM in chess history"
+      },
+      {
+         "description" : "GM Harika Dronavalli on Thursday eliminated GM Kateryna Lagno from the FIDE Chess.com Women&#39;s Speed Chess Championship. In what was a thriller of a match, everything was decided in the third bullet game of the tiebreak. Lagno, who was the top se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-harika-lagno",
+         "pubDate" : "Fri, 02 Jul 2021 02:26:38 -0700",
+         "title" : "Women's Speed Chess Championship: Harika Stuns Lagno In Semifinal Thriller"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Ding Liren won their first matches in the semifinals of the Goldmoney Asian Rapid tournament. Carlsen lost his first game to GM Levon Aronian but then scored 2.5/3 in the remainder whereas Ding drew one and won two games v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-1",
+         "pubDate" : "Fri, 02 Jul 2021 01:15:45 -0700",
+         "title" : "Goldmoney Asian Rapid: Carlsen, Ding Win 1st Set"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/what-clubs-need-now/",
+         "pubDate" : "Fri, 02 Jul 2021 08:31:28 +0100",
+         "title" : "What clubs need now"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews Alireza Firouzja&#039;s loss to Levon Aronian at the 2021 Goldmoney Asian Rapid via a devastating combination. 2021.07.01<br /> Alireza Firouzja vs Levon Aronian, Goldmoney Asian Rapid (2021): C27 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054890\">https://www.chessgames.com/perl/chessgame?gid=2054890</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-gets-whooped-aronian-games-we",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/grenke-and-noppes-leave/",
          "pubDate" : "Thu, 01 Jul 2021 13:22:19 +0100",
          "title" : "Grenke and Noppes leave"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Remarkably, the highest-rated woman player in the world, Hou Yifan, has been included in the 16-player lineup. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Thu, 01 Jul 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid SF - Live!"
       },
       {
          "description" : "Nihal Sarin was the dominant player at the Silver Lake Open: the young Indian and reigning U18 World Champion won the tournament with 8.0/9 and a rating performance of 2809. His compatriots Raunak Sadhwani and Abhimanyu Puranik won silver and bronze. | Photo: Rupali Mulick",
@@ -402,14 +450,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid: Artemiev, Carlsen Lead In Quarterfinals"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Jeans, sneakers, T-shirts and caps are banned in the playing hall of the upcoming <strong>FIDE World Cup</strong> in Sochi, where a conservative dress code will be in place along with a <a href=\"https://drive.google.com/file/d/1qtGFt5hqB-0B6cpqrvNJJnADELKRspcR/view\">health protocol</a> of PCR tests every 4-5 days and daily health checks for everyone. At the board, masks don't have to be worn. Tabletop separators will be put up between opponents. Seconds and spectators will not be allowed in the hall. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/conservative-dress-code-at-world-cup/",
-         "pubDate" : "Wed, 30 Jun 2021 10:00:50 +0100",
-         "title" : "Conservative dress-code at World Cup"
-      },
-      {
          "description" : "After eight of nine rounds the young Indian Grandmaster Nihal Sarin leads at the Silver Lake Open Veliko Gradiste with 7.0/8 and is half a point ahead of his countryman Raunak Sadhwani and the Serbian GM Branko Damljanovic, against whom Sarin has to play with Black in round nine. | Photos: Rupali Mullick",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -432,14 +472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-reports-the-queens-festival-goes-big",
          "pubDate" : "Wed, 30 Jun 2021 09:07:12 +0100",
          "title" : "FIDE reports: \"The Queens' Festival goes big\""
-      },
-      {
-         "description" : "European Senior Chess Championship 2021 will take place from 25th September 5th October in Budoni, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women sections separately. The events will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves + 30 minutes till the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
-         "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
-         "title" : "European Senior Chess Championship 2021 - Official regulations"
       },
       {
          "description" : " Another apologies post, as once again family health issues have taken over for the last couple of weeks. I intend to resume blogging when the situation resolves itself one way or another, but until then, with apologies, I'm going to take a hiatus. Hope to be back in touch with everyone soon, with good news and the psychological energy to resume. ",
@@ -1450,14 +1482,6 @@ news_feed (
          "title" : "Tie-breaks"
       },
       {
-         "description" : "Wesley So leads Ian Nepomniachtchi by a point going into the 18 rounds of blitz on Monday and Tuesday after becoming the only player to win two games on any day of the rapid section of the Paris Rapid &amp; Blitz. The US Champion brilliantly defeated Fabiano Caruana with the black pieces before taking advantage of a blunder by MVL in the next round. Nepo showed glimpsed of his brilliant best to take 2nd, while Etienne Bacrot beat Caruana to finish 3rd before he's replaced by his blitz stunt double Vladimir Kramnik.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-3-wesley-so-wins-the-rapid",
-         "pubDate" : "Mon, 21 Jun 2021 11:17:10 +0000",
-         "title" : "Paris Rapid & Blitz 3: Wesley So wins the Rapid"
-      },
-      {
          "description" : "In her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. The next...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "Firouzja Turns 18 As Paris Rapid & Blitz Grand Chess Tour Gets Underway"
       },
       {
-         "description" : "The last Monday of June is approaching, and with it comes the next edition of Chess Played Quick. This time, Chess.com invites top chess streamers to pull out the big guns and give their best in a bullet speed run to snatch their share of the $12,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-announces-chess-played-quick-bullet-edition",
-         "pubDate" : "Fri, 18 Jun 2021 11:38:00 -0700",
-         "title" : "Chess.com Announces Chess Played Quick Bullet Edition On June 28"
-      },
-      {
          "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-spyridos-kapnisis",
          "pubDate" : "Fri, 18 Jun 2021 11:00:00 +0100",
          "title" : "Play the Author - Theme tournament with Spyridos Kapnisis"
-      },
-      {
-         "description" : "Former women&#39;s world champion GM Antoaneta Stefanova of Bulgaria defeated the Peruvian WGM Deysi Cori 16.5-6.5 in the FIDE Chess.com Women&#39;s Speed Chess Championship&#39;s round of 16. Stefanova was the winner in all three time controls. The next ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-stefanova-cori",
-         "pubDate" : "Fri, 18 Jun 2021 02:49:00 -0700",
-         "title" : "Women's Speed Chess Championship: Stefanova Too Strong For Cori"
       },
       {
          "description" : " Last week, we started our examination of the pin, one of the first chess tactics a beginner learns. Today we'll finish looking at the pin and a few caveats to keep in mind when employing this tactic, or any tactic for that matter. In my previous article, we looked at the fundamentals of the pin. <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\">A Foundation for Beginners Twenty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
@@ -2432,22 +2440,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-and-grischuk-lead-the-superbet-classic-with-4-points-from-6-games",
          "pubDate" : "Fri, 11 Jun 2021 20:23:00 +0400",
          "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
-      },
-      {
-         "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-1",
-         "pubDate" : "Fri, 11 Jun 2021 14:00:00 +0100",
-         "title" : "Gelfand Challenge: A perfect start for Liang"
-      },
-      {
-         "description" : "Five rounds have been played at the first leg of the Grand Chess Tour Romania 2021. After 5 played rounds, the resting day took place yesterday. World No. 9 GM Shakhriyar Mamedyarov won the only decisive game of the day 5 as he defeated GM Constantin Lupulescu with the Black pieces, catching up to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-6-grand-chess-tour-romania-2021/",
-         "pubDate" : "Fri, 11 Jun 2021 09:43:11 +0000",
-         "title" : "Round 6 - Grand Chess Tour Romania 2021"
       }
    ]
 }
