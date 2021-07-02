@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-stumbles-aronian-norway-2020-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 02 Jul 2021 22:32:33 +0000",
+         "title" : "Magnus Stumbles with Aronian at Norway 2020 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows one of Garry Kasparov&#039;s quickest victories, 12 moves against Australian Champion Guy West. 2021.04.28<br /> Garry Kasparov vs Guy West, telex (1977)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069675\">https://www.chessgames.com/perl/chessgame?gid=1069675</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gday-mate-kasparovs-quickest-victory-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/file",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gday-mate-kasparovs-quickest-victory-shorts",
+         "pubDate" : "Fri, 02 Jul 2021 22:32:33 +0000",
+         "title" : "G'Day Mate! Kasparov's Quickest Victory! | #Shorts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1184",
+         "pubDate" : "Fri, 02 Jul 2021 20:49:11 +0000",
+         "title" : "Carlsen OUT as Aronian hits overtime winner to face Artemiev in final"
+      },
+      {
+         "description" : "The final of the Goldmoney Asian Rapid tournament will be played between GM Levon Aronian and GM Vladislav Artemiev. Both managed to come back from yesterday&#39;s losses as they won their matches today and then also the tiebreaks. As a result, GM Mag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-2",
+         "pubDate" : "Fri, 02 Jul 2021 13:45:04 -0700",
+         "title" : "Goldmoney Asian Rapid: Winning Comebacks For Aronian, Artemiev"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1183",
+         "pubDate" : "Fri, 02 Jul 2021 20:28:52 +0000",
+         "title" : "Hou Yifan reaches the final"
+      },
+      {
+         "description" : "The final of the FIDE Chess.com Women&#39;s Speed Chess Championship will be played between GM Hou Yifan&#38;nbsp;and&#38;nbsp;GM Harika Dronavalli. In the second semifinal on Friday, Hou defeated her compatriot GM Lei Tingjie 11.5-9.5. The final will take ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-hou-yifan-lei-tingjie",
+         "pubDate" : "Fri, 02 Jul 2021 13:08:00 -0700",
+         "title" : "Women's Speed Chess Championship: Hou Qualifies For Saturday Final With Harika"
+      },
+      {
          "description" : " Share! Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -584,22 +632,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hungarian-olympian-birthday-boy-insane-endgame-gm-denes-boros",
          "pubDate" : "Wed, 30 Jun 2021 04:29:47 +0000",
          "title" : "The Hungarian Olympian & The Birthday Boy | Insane in the Endgame - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29<br /> Zoltan Ribli vs Anatoly Karpov, HUN-URS (1969): C77 Ruy Lopez, Morphy defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067467\">https://www.chessgames.com/perl/chessgame?gid=1067467</a><br /> Ulf Andersson vs Luis Galego, Bled Olympiad (2002): E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1256076\">https://www.chessgames.com/perl/chessgame?gid=1256076</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 30 Jun 2021 01:29:48 +0000",
-         "title" : "Birthday Boy Plays the Catalan | Insane in the Endgame - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 30 Jun 2021 01:29:48 +0000",
-         "title" : "Kramnik Wins with the Catalan | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "Lei Tingjie and Anna Muzychuk advance into quarterfinals"
       },
       {
-         "description" : "After another day of exciting chess, GM Fabiano Caruana, GM Ian Nepomniachtchi, and GM Wesley So are sharing the lead at the Paris Rapid &#38;amp; Blitz tournament. One more day of rapid will follow and next will be two days of blitz. How to watch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-2",
-         "pubDate" : "Sat, 19 Jun 2021 11:10:00 -0700",
-         "title" : "Paris Rapid & Blitz Grand Chess Tour: Three-Way Tie With More Exciting Chess"
-      },
-      {
          "description" : " There are two reasons why I am showing the following game. 1) It has a nice mate and 2) I am testing how this blog handles newer pgn file formats (** Update: It did not work as expected, which is a bit of shame as I had annotated this one) <br /> <br /> <b>Steinkuehler, Guenter - Blackburne, Joseph Henry [C54]</b><br />London, 1863 <script>new PgnViewer( { boardName: \"game1253\", movesFormat: \"default\", pgnString:'1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nfxd2 Nxd4 9. O-O d6 10. Nb3 Nxb3 11. Qxb3 O-O 12. Re1 Nh5 13. e5 Qg5 14.exd6 Nf4 15. Bxf7+ Kh8 16. g3 cxd6 17. Nc3 Nh3+ 18. Kg2 Qf6 19. Bd5 Qxf2+ 20.Kh1 Qg1+ 21. Rxg1 Nf2+ 22. Kg2 Bh3# 0-1', pauseBetw",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1153",
          "pubDate" : "Sat, 19 Jun 2021 08:43:37 +0000",
          "title" : "Shortlist for Yuri Averbakh/Isaac Boleslavsky Award announced"
-      },
-      {
-         "description" : "Georgia&#39;s GM Nana Dzagnidze beat U.S. GM Irina Krush on Friday in the round of 16 of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Krush managed to win the final regular bullet game on demand but then lost three bullet games in a row i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-womens-speed-chess-championship-dzagnidze-krush",
-         "pubDate" : "Sat, 19 Jun 2021 01:18:00 -0700",
-         "title" : "Women's Speed Chess Championship: Dzagnidze Beats Krush In Tiebreak"
       },
       {
          "description" : "In the past, chess has been employed both as a mathematical metaphor and adapted as a method of penetrating the secrets of the universe. An early and celebrated instance appears in an episode from Dante's Paradiso, where he interrogates his guide about the number of angels in the heavens. More recently, as we shall see, Professor []",
@@ -2440,22 +2456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-live-coverage.html",
          "pubDate" : "Sat, 12 Jun 2021 04:07:00 +0000",
          "title" : "2021 NSW Open - Live Coverage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1141",
-         "pubDate" : "Fri, 11 Jun 2021 21:45:51 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 6 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1140",
-         "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
-         "title" : "The Queens' Festival kicks off on June 11"
       }
    ]
 }
