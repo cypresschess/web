@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent is English, Arne Kaehler is German - time to analyse the recent Euro 2020 football game clash of both nations, which, funnily enough, had a couple of similarities to a grandmaster chess game. Furthermore, the \"Wunderkinder\" from India are breaking world records, winning tournaments, and are on top of the tables these last weeks. Lawrence Trent gives an analysis of the youngest chess Grandmaster Abhimanyu vs. Mendonca. We also take a look at the Goldmoney and Silver Lake tournaments, and talk about Larry Kaufman's interesting life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
+         "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
+         "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
+      },
+      {
+         "description" : "In the new ChessBase Magazine # 202, Ian Nepomniachtchi, the winner of the Candidates Tournament 2020/20201 and World Championship challenger, takes a close look at his crucial win against Wang Hao in the Candidates. Nepomniachtchi provides deep but also entertaining commentary. Here's a shortened version of his analysis. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-comments",
+         "pubDate" : "Fri, 02 Jul 2021 16:00:00 +0100",
+         "title" : "Ian Nepomniachtchi comments"
+      },
+      {
+         "description" : "GM Raunak Sadhwani on Thursday defeated GM Paulius Pultinevicius in the opening match of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sadhwani-beats-pultinevicius-junior-speed-chess-championship",
+         "pubDate" : "Fri, 02 Jul 2021 06:53:55 -0700",
+         "title" : "Sadhwani Beats Pultinevicius As Junior Speed Chess Championship Gets Underway"
+      },
+      {
+         "description" : "On the first day of play in the semifinals of the Goldmoney Asian Rapid, Magnus Carlsen won the first set against Levon Aronian while Ding Liren got the better of Vladislav Artemiev. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-7",
+         "pubDate" : "Fri, 02 Jul 2021 14:25:00 +0100",
+         "title" : "Goldmoney Asian Rapid SF: Carlsen and Ding win first sets"
+      },
+      {
+         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After eight rounds the team of Bischwiller leads, Clichy and Asnieres follow on places two and three. Round 9 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Fri, 02 Jul 2021 14:00:00 +0100",
+         "title" : "French Team Championship \"Top 12\" live"
+      },
+      {
          "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,19 +74,27 @@ news_feed (
          "title" : "12-year-old Abhimanyu Mishra becomes the youngest GM in chess history"
       },
       {
-         "description" : "GM Harika Dronavalli on Thursday eliminated GM Kateryna Lagno from the FIDE Chess.com Women&#39;s Speed Chess Championship. In what was a thriller of a match, everything was decided in the third bullet game of the tiebreak. Lagno, who was the top se...",
+         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. The first round of knockout matches has been completed.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
+         "pubDate" : "Fri, 2 Jul 2021 13:57:00 +0400",
+         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
+      },
+      {
+         "description" : "GM Harika Dronavalli on Thursday eliminated GM Kateryna Lagno from the FIDE Chess.com Women&#39;s Speed Chess Championship. In a thriller of a match, everything was decided in the third bullet game of the tiebreak. Lagno, the top seed in the event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/women-speed-chess-championship-harika-lagno",
-         "pubDate" : "Fri, 02 Jul 2021 02:26:38 -0700",
+         "pubDate" : "Fri, 02 Jul 2021 02:26:00 -0700",
          "title" : "Women's Speed Chess Championship: Harika Stuns Lagno In Semifinal Thriller"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Ding Liren won their first matches in the semifinals of the Goldmoney Asian Rapid tournament. Carlsen lost his first game to GM Levon Aronian but then scored 2.5/3 in the remainder whereas Ding drew one and won two games v...",
+         "description" : "GM Magnus Carlsen and GM Ding Liren won their first matches in the semifinals of the Goldmoney Asian Rapid tournament. Carlsen lost his first game to GM Levon Aronian but then scored 2.5/3 in the remainder, while Ding drew one and won two games vs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-1",
-         "pubDate" : "Fri, 02 Jul 2021 01:15:45 -0700",
+         "pubDate" : "Fri, 02 Jul 2021 01:15:00 -0700",
          "title" : "Goldmoney Asian Rapid: Carlsen, Ding Win 1st Set"
       },
       {
@@ -472,6 +520,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-reports-the-queens-festival-goes-big",
          "pubDate" : "Wed, 30 Jun 2021 09:07:12 +0100",
          "title" : "FIDE reports: \"The Queens' Festival goes big\""
+      },
+      {
+         "description" : "European Senior Chess Championship 2021 will take place from 25th September 5th October in Budoni, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women sections separately. The events will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves + 30 minutes till the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
+         "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
+         "title" : "European Senior Chess Championship 2021 - Official regulations"
       },
       {
          "description" : " Another apologies post, as once again family health issues have taken over for the last couple of weeks. I intend to resume blogging when the situation resolves itself one way or another, but until then, with apologies, I'm going to take a hiatus. Hope to be back in touch with everyone soon, with good news and the psychological energy to resume. ",
@@ -1578,14 +1634,6 @@ news_feed (
          "title" : "Three-way tie on the top after Day 2"
       },
       {
-         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. The first round of knockout matches has been completed.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
-         "pubDate" : "Sun, 20 Jun 2021 15:22:00 +0400",
-         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
-      },
-      {
          "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1736,14 +1784,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-chess-cup-2021-participants-list/",
          "pubDate" : "Fri, 18 Jun 2021 20:32:56 +0000",
          "title" : "FIDE World Chess Cup 2021 - Participants list"
-      },
-      {
-         "description" : "The second event in the 2021 Grand Chess Tour started on Friday with the first day of rapid in the Paris Rapid &#38;amp; Blitz. After three rounds, there&#39;s a four-way tie among GMs Levon Aronian, Ian Nepomniachtchi, Wesley So, and Peter Svidler. GM Al...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-18th-birthday-paris-rapid-blitz-grand-chess-tour",
-         "pubDate" : "Fri, 18 Jun 2021 12:58:00 -0700",
-         "title" : "Firouzja Turns 18 As Paris Rapid & Blitz Grand Chess Tour Gets Underway"
       },
       {
          "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2370,28 +2410,12 @@ news_feed (
          "title" : "Eight players succeed in American Hybrid Qualifier"
       },
       {
-         "description" : "After the rest day some of the players in the Superbet Chess Classic came back swinging. Shakhriyar Mamedyarov defeated Levon Aronian while Alexander Grischuk got the better of Constantin Lupulescu. Fabiano Caruana missed a good opportunity against Maxime Vachier-Lagrave. The results left Grischuk and Mamedyarov atop the standings on 4/6 points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r6",
-         "pubDate" : "Sat, 12 Jun 2021 09:30:00 +0100",
-         "title" : "Superbet: Exciting round leaves Grischuk and Mamedyarov in the lead"
-      },
-      {
          "description" : "In recent weeks there has been considerable controversy over the portrayal on TV, by black actress Jodie Turner-Smith, of Queen Anne Boleyn, who was palpably white. Surely the wrong kind of queen for a chess column, one might object, but there are interesting familial and royal associations. As I have been regularly demonstrating in this []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/white-queen-black-queen/",
          "pubDate" : "Sat, 12 Jun 2021 08:00:01 +0000",
          "title" : "White Queen - Black Queen"
-      },
-      {
-         "description" : "In endgames, a \"petite combinaison\" &agrave; la Capablanca is often the quickest (if not the only) way to convert a material advantage. In the diagram position, White is a pawn up - how does he save himself a lot of work?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/technique-and-tactics",
-         "pubDate" : "Sat, 12 Jun 2021 09:00:00 +0100",
-         "title" : "Technique and tactics"
       },
       {
          "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
@@ -2416,22 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1140",
          "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
          "title" : "The Queens' Festival kicks off on June 11"
-      },
-      {
-         "description" : "In this Power Play Show GM Daniel King features some complex calculation from the Superbet Chess Classic tournament in Bucharest, focusing in particular on the fine game Caruana-Lupulescu.| Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-fabiano-caruana-calculation-and-strategy",
-         "pubDate" : "Fri, 11 Jun 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Calculation and strategy"
-      },
-      {
-         "description" : "Lawrence Trent and Arne Kaehler talk about what happened chess-wise last week. They give their opinions on various topics, and encourage you to think about the subject, analyse games, or read the articles thoroughly yourself. This week they discuss the juicy topic of how fair you would play chess in a high stakes situation, how Alex Yermolinksy played in Mexico, and Lawrence Trent's journey to becoming a Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-news-review-10",
-         "pubDate" : "Fri, 11 Jun 2021 17:43:55 +0100",
-         "title" : "News Review - Fair play, Ratings, and a journey to becoming a GM"
       },
       {
          "description" : " The sixth round of the Superbet Chess Classic saw wins for two of the three leaders. Alexander Grischuk took advantage of a mistake by Constantin Lupulescu while they were still in theory. Shakhriyar Mamedyarov beat Levon Aronian in a pretty well known line where Aronian went wrong pretty fast after Mamedyarov's novelty. The third leader going into the round was Wesley So, his advantage was not quite enough for a win against Anish Giri. Grischuk beat Lupulescu in a Sicilian Richter-Rauser. 17...Bb5? led to a win for black in the game Stefansson-Filipenko from 2001 but 18.Qe1! (instead of 18.Be2 which is about equal) led to a significant advantage for white and he brought home the full point",
