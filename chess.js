@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
+         "pubDate" : "Fri, 02 Jul 2021 18:06:32 +0000",
+         "title" : "Abhimanyu Mishra, youngest chess GM in history!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1178",
+         "pubDate" : "Fri, 02 Jul 2021 17:44:11 +0000",
+         "title" : "FIDE Binance Business Schools Super Cup announced"
+      },
+      {
          "description" : "Lawrence Trent is English, Arne Kaehler is German - time to analyse the recent Euro 2020 football game clash of both nations, which, funnily enough, had a couple of similarities to a grandmaster chess game. Furthermore, the \"Wunderkinder\" from India are breaking world records, winning tournaments, and are on top of the tables these last weeks. Lawrence Trent gives an analysis of the youngest chess Grandmaster Abhimanyu vs. Mendonca. We also take a look at the Goldmoney and Silver Lake tournaments, and talk about Larry Kaufman's interesting life.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
          "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
          "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>, <strong>FIDE</strong> also partners with crypto currency companies: The Malta-registered trading platform <strong>Binance</strong> sponsors a <a href=\"https://www.fide.com/news/1178\">rapid tournament for teams from business schools</a> that is announced at short notice for 9 to 11 July and hosted by <strong>Lichess</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-partners-with-binance/",
+         "pubDate" : "Fri, 02 Jul 2021 16:18:37 +0100",
+         "title" : "FIDE partners with Binance"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> GM <strong>Yuri Dokhoian</strong> who was Garry Kasparov's permanent second and later on coach of the <strong>Russian Chess Federation</strong> and most recently of Andrei Esipenko has <a href=\"https://ruchess.ru/en/news/all/rip_yury_dokhoian_1964_2021/\">died from Covid-19</a> in Moscow. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/yuri-dokhoian-1964-2021/",
+         "pubDate" : "Fri, 02 Jul 2021 16:03:37 +0100",
+         "title" : "Yuri Dokhoian (1964-2021)"
       },
       {
          "description" : "In the new ChessBase Magazine # 202, Ian Nepomniachtchi, the winner of the Candidates Tournament 2020/20201 and World Championship challenger, takes a close look at his crucial win against Wang Hao in the Candidates. Nepomniachtchi provides deep but also entertaining commentary. Here's a shortened version of his analysis. Enjoy!",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "Sadhwani Beats Pultinevicius As Junior Speed Chess Championship Gets Underway"
       },
       {
+         "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/torneo-magistral-de-ajedrez-leinier-dominguez-wins-first-semifinal",
+         "pubDate" : "Fri, 02 Jul 2021 14:30:00 +0100",
+         "title" : "Torneo Magistral de Ajedrez: Leinier Dominguez wins first semifinal"
+      },
+      {
          "description" : "On the first day of play in the semifinals of the Goldmoney Asian Rapid, Magnus Carlsen won the first set against Levon Aronian while Ding Liren got the better of Vladislav Artemiev. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,20 +82,12 @@ news_feed (
          "title" : "French Team Championship \"Top 12\" live"
       },
       {
-         "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/torneo-magistral-de-ajedrez-leinier-dominguez-wins-first-semifinal",
-         "pubDate" : "Fri, 02 Jul 2021 13:18:36 +0100",
-         "title" : "Torneo Magistral de Ajedrez: Leinier Dominguez wins first semifinal"
-      },
-      {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. On day 2 of the semifinals Magnus Carlsen plays against Levon Aronian and as he won the first match he only needs a draw in the match to advance to the finals. In the second semifinal Ding Liren plays against Vladislav Artemiev and also only needs a draw in the match to reach the finals - the Chinese number one won the first match convincingly 2.5-05. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "description" : "An exciting second day of the semifinals at the Goldmoney Asian Rapid tournament left Magnus Carlsen and Ding Liren out of contention. Both Levon Aronian and Vladislav Artemiev came back from behind after losing on Thursday, and then defeated their higher-rated opponents in the blitz tiebreakers. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
          "pubDate" : "Fri, 02 Jul 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid SF, Day 2 - Live!"
+         "title" : "Goldmoney Asian Rapid SF - Carlsen and Ding knocked out"
       },
       {
          "description" : "Magnus Carlsen began his second decade of being top on every published rating list with a loss to Levon Aronian, but he hit back immediately to grind out an endgame win in the next game. He took the lead in their semi-final by winning the last game of the day, though not without a scare at the end. In the other semi-final Ding Liren credited playing basketball with an improvement in form that saw him power to victory with a game to spare. Vladislav Artemiev, like Levon Aronian, will have to win on demand on Saturday to force a playoff.",
@@ -96,6 +128,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-1",
          "pubDate" : "Fri, 02 Jul 2021 01:15:00 -0700",
          "title" : "Goldmoney Asian Rapid: Carlsen, Ding Win 1st Set"
+      },
+      {
+         "description" : " I have the feeling that nearly every day somebody starts a new Chess Training Website. Everybody wants a piece of the ever-growing chess online-business cake. But as most of these people seem to be after the big fast money in the first place, the quality of the content is mediocre at best. Luckily there are [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/the-best-chess-training-website/\">The Best Chess Training Website</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/the-best-chess-training-website/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-chess-training-website",
+         "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
+         "title" : "The Best Chess Training Website"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
@@ -338,14 +378,6 @@ news_feed (
          "title" : "Vidit Wins June 29 Titled Tuesday"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In the tenth consecutive tournament he played in Budapest since mid-April, <strong>Abhimanyu Mishra</strong> has completed the mission <a href=\"https://www.chesstech.org/2021/protect-our-prodigies/\">for which his father took him out of school a year ago and let him play or train 12-13 hours each day</a>. The 12-year-old from New Jersey has <a href=\"http://chess-results.com/tnr565933.aspx?lan=0&amp;art=9&amp;fed=USA&amp;turdet=YES&amp;flag=30&amp;snr=3\">fulfilled his final GM-norm</a> and beats the dubious record that had been set 19 years ago by Sergey Karjakin <a href=\"https://www.chesstech.org/2020/malinins-epilogue/\">with (allegedly) a little hel",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mishra-becomes-youngest-gm-in/",
-         "pubDate" : "Wed, 30 Jun 2021 22:35:45 +0100",
-         "title" : "Mishra becomes youngest GM in history"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -362,12 +394,12 @@ news_feed (
          "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
       },
       {
-         "description" : " Yes, of course, this is always how these things work: I say \"no more blogging for a while\", and then I blog. I hadn't intended to, but this bit of good news came in my email, so here goes: American prodigy Abhimanyu Mishru has broken Sergey Karjakin's surprisingly durable record for the youngest grandmaster ever. Karjakin acquired the record back in 2002 at the age of 12 years and 7 months, shattering Bu Xiangzhi's record of 13 years, 10 months, and 13 days. Since then, many have come close (and eight others players had bested Bu's mark), but only now has the record been broken. Mishru got his third norm and broke the 2500 barrier to earn the grandmaster title, and did so at the ripe old ag",
+         "description" : " Yes, of course, this is always how these things work: I say \"no more blogging for a while\", and then I blog. I hadn't intended to, but this bit of good news came in my email, so here goes: American prodigy Abhimanyu Mishra has broken Sergey Karjakin's surprisingly durable record for the youngest grandmaster ever. Karjakin acquired the record back in 2002 at the age of 12 years and 7 months, shattering Bu Xiangzhi's record of 13 years, 10 months, and 13 days. Since then, many have come close (and eight others players had bested Bu's mark), but only now has the record been broken. Mishra got his third norm and broke the 2500 barrier to earn the grandmaster title, and did so at the ripe old ag",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/30/abhimanyu-mishru-grandmaster.html",
+         "link" : "http://www.thechessmind.net/blog/2021/6/30/abhimanyu-mishra-grandmaster.html",
          "pubDate" : "Wed, 30 Jun 2021 20:36:47 +0000",
-         "title" : "Abhimanyu Mishru: Grandmaster!"
+         "title" : "Abhimanyu Mishra: Grandmaster!"
       },
       {
          "description" : "",
@@ -392,14 +424,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/abhimanyu-mishra-beats-karjakin-s-record-youngest-ever-grandmaster",
          "pubDate" : "Wed, 30 Jun 2021 18:45:04 +0000",
          "title" : "Abhimanyu Mishra beats Karjakin's record as youngest ever grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1178",
-         "pubDate" : "Wed, 30 Jun 2021 17:44:11 +0000",
-         "title" : "FIDE Binance Business Schools Super Cup announced"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83997101.cms\" /> The youngest Grandmaster in chess a feat held by Russian Sergey Karjakin for almost 19 years was broken by Abhimanyu Mishra on Wednesday night. The American boy, with Indian roots, rewrote that record at 12 years, 4 months and 25 days. \"The match against Leon was tough but a mistake from his end was all that I needed to cross the landmark. I feel just relieved and happy to be able to achieve this feat,\" Abhimanyu told TOI moments after his victory.",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
          "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
          "title" : "European Senior Chess Championship 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, the President of the <strong>Moldovian Chess Federation</strong> and until December President of Moldova, <a href=\"https://www.facebook.com/dodon.igor1/\">hosted a two-day simul and lecture visit</a> of former world champion <strong>Anatoly Karpov</strong>, himself a parliamentarian for Putin's United Russia, just ahead of the parliamentary snap election on 11 July, for which Dodon's Socialists formed a coalition, likely to come out on top, with the Communist Party that he had left in 2011. Dogon's party colleague <strong>Viorel Bologan</strong> is a <a href=\"http://parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/karpov-simul-during-moldavian/",
-         "pubDate" : "Wed, 30 Jun 2021 12:21:16 +0100",
-         "title" : "Karpov appearance in Moldovian campaign"
       },
       {
          "description" : " The 34th Leon Chess tournament takes place Wed 30th Jun to Sun 4th Jul 2021.This is a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match takes place on 3rd of July and the final on Sunday 4th. ",
@@ -810,7 +826,7 @@ news_feed (
          "title" : "How To Win A Winning Position In Chess"
       },
       {
-         "description" : " Share! Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
@@ -2440,14 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1140",
          "pubDate" : "Fri, 11 Jun 2021 20:05:23 +0000",
          "title" : "The Queens' Festival kicks off on June 11"
-      },
-      {
-         "description" : " The sixth round of the Superbet Chess Classic saw wins for two of the three leaders. Alexander Grischuk took advantage of a mistake by Constantin Lupulescu while they were still in theory. Shakhriyar Mamedyarov beat Levon Aronian in a pretty well known line where Aronian went wrong pretty fast after Mamedyarov's novelty. The third leader going into the round was Wesley So, his advantage was not quite enough for a win against Anish Giri. Grischuk beat Lupulescu in a Sicilian Richter-Rauser. 17...Bb5? led to a win for black in the game Stefansson-Filipenko from 2001 but 18.Qe1! (instead of 18.Be2 which is about equal) led to a significant advantage for white and he brought home the full point",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-and-grischuk-lead-the-superbet-classic-with-4-points-from-6-games",
-         "pubDate" : "Fri, 11 Jun 2021 20:23:00 +0400",
-         "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
       }
    ]
 }
