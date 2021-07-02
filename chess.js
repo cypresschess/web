@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews Alireza Firouzja&#039;s loss to Levon Aronian at the 2021 Goldmoney Asian Rapid via a devastating combination. 2021.07.01<br /> Alireza Firouzja vs Levon Aronian, Goldmoney Asian Rapid (2021): C27 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054890\">https://www.chessgames.com/perl/chessgame?gid=2054890</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-gets-whooped-aronian-games-we",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alireza-gets-whooped-aronian-games-week-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 02 Jul 2021 04:32:10 +0000",
+         "title" : "Alireza Gets Whooped by Aronian! | Games of the Week - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84055389.cms\" />Abhimanyu Mishra landed in Budapest on April 12 with one goal --- becoming the youngest-ever Grandmaster. Seventy-nine days down the line, the 12-year-old Indian-origin American managed to secure close to 100 points to cross the 2500 ELO points barrier which helped him bag three GM norms and break Russian Sergey Karjakin's record (of becoming a GM at 12 years and 7 months) set in August 2002.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-congratulates-the-worlds-youngest-chess-gm/articleshow/84037694.cms",
          "pubDate" : "Thu, 01 Jul 2021 19:08:55 +0530",
          "title" : "Anand congratulates the world's youngest chess GM"
-      },
-      {
-         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After seven rounds, the team of Bischwiller leads the table, Clichy and Asnieres follow on places two and three. But in round 8 Clichy and Bischwiller clash and this crucial match might decide the Championship. The round starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Thu, 01 Jul 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> spent a few days in Munich for sport medical checks and fitness training with <strong>Marcus Lindner</strong>, athletic coach of the Bayern M&uuml;nchen basketball team, who will stay in touch with him during the preparation for the match in November. </div> ",
@@ -504,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-4",
          "pubDate" : "Wed, 30 Jun 2021 02:25:00 +0100",
          "title" : "Goldmoney Asian Rapid QF: Artemiev stuns Giri, Carlsen beats So"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros celebrates Ulf Andersson, who just turned 70 years old. 2021.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rgsUNMSCnqg.jpg?itok=b5XoGm72\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/birthday-boy-plays-catalan-insane-endgame-gm-denes-boros",
-         "pubDate" : "Tue, 29 Jun 2021 22:29:43 +0000",
-         "title" : "Birthday Boy Plays the Catalan | Insane in the Endgame - GM Denes Boros"
       },
       {
          "description" : "",
@@ -2442,28 +2434,20 @@ news_feed (
          "title" : "Mamedyarov and Grischuk lead the Superbet Classic with 4 points from 6 games - 6"
       },
       {
+         "description" : "The Julius Baer Chess Tour brings together 20 of the world's best male and female talented young players. The second tournament of the series, the Gelfand Challenge, started yesterday. After the first five rounds, Awonder Liang leads with a perfect score. Nodirbek Abdussatorov is currently in sole second place with 4 points. | Photo: Crystall Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-1",
+         "pubDate" : "Fri, 11 Jun 2021 14:00:00 +0100",
+         "title" : "Gelfand Challenge: A perfect start for Liang"
+      },
+      {
          "description" : "Five rounds have been played at the first leg of the Grand Chess Tour Romania 2021. After 5 played rounds, the resting day took place yesterday. World No. 9 GM Shakhriyar Mamedyarov won the only decisive game of the day 5 as he defeated GM Constantin Lupulescu with the Black pieces, catching up to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/round-6-grand-chess-tour-romania-2021/",
          "pubDate" : "Fri, 11 Jun 2021 09:43:11 +0000",
          "title" : "Round 6 - Grand Chess Tour Romania 2021"
-      },
-      {
-         "description" : " The 58-year-old will play several of the current elite grandmasters at the over-the-board event in Zagreb, Croatia Garry Kasparov, now aged 58 and for many still the all-time No 1 player, will make a rare cameo comeback next month when the 2021 over-the-board Grand Tour, which was cancelled in 2020 due to the pandemic, reaches Zagreb in Croatia. Kasparov will play 18 games in the five-minute blitz section on 10-11 July, when his leading opponent will be the current world title challenger, Ian Nepomniachtchi, who is not playing the full Tour but is competing in Zagreb as a wildcard. <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-beats-wesley-so-th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes",
-         "pubDate" : "Fri, 11 Jun 2021 07:00:11 +0000",
-         "title" : "Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes"
-      },
-      {
-         "description" : "The&#160;third&#160;ECU Board meeting in 2021 took place on&#160;Wednesday&#160;9th&#160;of June&#160;through teleconference.&#160; ECU Board discussed the reports of European Online and Hybrid Competitions,&#160;which were&#160;organized from March to May 2021 and expresses its satisfaction with the level and results of the events.&#160;For the European Hybrid Qualifier Tournament, ECU thanks National Chess Federations, who went to great lengths to organize the venues&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-ecu-cl-no5-2021/",
-         "pubDate" : "Fri, 11 Jun 2021 05:44:00 +0000",
-         "title" : "COMMUNIQUE OF THE ECU BOARD - ECU CL No5/2021"
       }
    ]
 }
