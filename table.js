@@ -1,11 +1,13 @@
 jtable([
 "HOUSTON","2021-06-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202106273132 target=' blank'>INAUG TOURNEY</a>",
 "HOUSTON","2021-06-26","74","<a href=http://www.uschess.org/msa/XtblMain.php?202106261592 target=' blank'>SPINDLETAP SCHOLASTIC & COLLEGIATE</a>",
+"CYPRESS","2021-06-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202106253112 target=' blank'>05212021KOFC</a>",
 "SPRING","2021-06-25","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106251102 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-06-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106251032 target=' blank'>FRIDAYNIGHTJUNE25</a>",
 "SPRING","2021-06-19","22","<a href=http://www.uschess.org/msa/XtblMain.php?202106199082 target=' blank'>DER SPRINGERS</a>",
 "SPRING","2021-06-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202106188612 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-06-18","15","<a href=http://www.uschess.org/msa/XtblMain.php?202106188602 target=' blank'>FBCC MIDDLE JUNE OPEN</a>",
+"CYPRESS","2021-06-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202106180552 target=' blank'>05212021KOFC</a>",
 "HOUSTON","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106180062 target=' blank'>FRINITEJUN18</a>",
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target=' blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
 
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2020-02-22","27","<a href=http://www.uschess.org/msa/XtblMain.php?202002223952 target=' blank'>CHESSPANDA02222020SATURDAY</a>",
 "HOUSTON","2020-02-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202002223332 target=' blank'>MONTHLY BLITZ FEB 2020</a>",
 "TOMBALL","2020-02-21","14","<a href=http://www.uschess.org/msa/XtblMain.php?202002213172 target=' blank'>THE FRIDAY KNIGHTS ADVANCED</a>",
-"HOUSTON","2020-02-21","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002213092 target=' blank'>FRIDAY KNIGHT QUADS 02.21.2020</a>",
-"HOUSTON","2020-02-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202002213062 target=' blank'>CHESSPANDA02212020FRIDAY</a>",
 ]);
