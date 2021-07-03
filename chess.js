@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " That was surprising! Magnus Carlsen and Ding Liren won their first mini-matches in the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a> against Levon Aronian and Vladislav Artemiev, respectively, as noted a few posts back. But both lost today, both in the second mini-match and in their subsequent tiebreaks. The latter match was more competitive, but for Carlsen it was as if he left his mind asleep in bed. Aronian won games 1 and 4 of the second mini-match (the other games were drawn), and then won both of the blitz games in the tiebreak to advance. (How many times has Carlsen scored just 1 out of 6 in professional competition?) The final between the \"Ar\"s starts tomorrow.",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/2/goldmoney-asian-rapid-reversals-of-fortune-in-the-semi-final.html",
+         "pubDate" : "Sat, 03 Jul 2021 01:22:31 +0000",
+         "title" : "Goldmoney Asian Rapid: Reversals of Fortune in the Semi-Finals"
+      },
+      {
+         "description" : " In the preceding post I mentioned the 2018 chess documentary, \"Closing Gambit: 1978 Korchnoi vs. Karpov and the Kremlin\". It's short, so I took a short vacation from normal life to watch. As a comment to the aforementioned post suspects, the narrative is, unsurprisingly, slanted in Korchnoi's favor - and why wouldn't it be? But it's not portrayed as saint vs. devil. Viktor Korchnoi's prickliness is acknowledged by all, and it does not ignore the fact that he abandoned his family. And while Anatoly Karpov is portrayed as opportunistically accepting every advantage that his Soviet supporters could bestow on him, he is presented with humanity, and he is one of the major participants in the doc",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/2/closing-gambit-a-quick-comment-or-two.html",
+         "pubDate" : "Sat, 03 Jul 2021 01:01:49 +0000",
+         "title" : "\"Closing Gambit\" - A Quick Comment or Two"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2130,14 +2146,6 @@ news_feed (
          "title" : "David Smerdon introduces the Fighting Chess Index"
       },
       {
-         "description" : " Apparently it's even a genre, of which <a href=\"https://gumroad.com/l/1DChess\">this</a> is just a recent version. (HT: <a href=\"https://marginalrevolution.com/marginalrevolution/2021/06/tuesday-assorted-links-318.html\">Marginal Revolution</a>) I haven't tried it (yet?), but I assume it should be pretty easy to solve. Anyone want to try to work it out to the end? ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/15/one-dimensional-chess.html",
-         "pubDate" : "Tue, 15 Jun 2021 17:14:03 +0000",
-         "title" : "One-Dimensional Chess?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" />Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
          "pubDate" : "Mon, 14 Jun 2021 23:02:09 -0500",
          "title" : "How a rookie 'beat' Anand - with a little help from his friends"
-      },
-      {
-         "description" : " In case you're experiencing the DTs now that the Snoozerbet tournament has finished, fear not: a strong tournament is underway in Prague while the Grand Chess Tour will see a rapid &amp; blitz tournament in Paris starting this coming Sunday. The <a href=\"https://praguechessfestival.com/\">Prague Masters</a> started today (Monday), and seven of the eight players are near-2700 or over it (the eighth, <a href=\"https://en.wikipedia.org/wiki/Thai_Dai_Van_Nguyen\">Thai Dai Van Nguyen</a>, is a 19-year-old Czech GM who is \"only\" 2577): Jan-Krzysztof Duda, Jorden Van Foreest, David Navara, Sam Shankland, Radoslaw Wojtaszek, Nils Grandelius, and Nijat Abasov. The early leader is Duda, who defeated Nav",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/14/ongoing-and-upcoming-events.html",
-         "pubDate" : "Tue, 15 Jun 2021 01:00:25 +0000",
-         "title" : "Ongoing and Upcoming Events"
       },
       {
          "description" : "In the last round of the Superbet Chess Classic, Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with the black to secure tournament victory. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament, kicks off on Friday. | Photo: Lennart Ootes",
