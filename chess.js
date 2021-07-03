@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black seems to be able to win a pawn with 20...Rxa4?? 21.Rxa4 Rxa4. But taking this pawn leaves Black's back rank unprotected which White can exploit. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-decisive-detail",
+         "pubDate" : "Sat, 03 Jul 2021 09:00:00 +0100",
+         "title" : "The decisive detail"
+      },
+      {
+         "description" : "Levon Aronian and Vladislav Artemiev will contest the final of the Goldmoney Asian Rapid after pulling off spectacular comebacks on the second day of the semi-finals. Levon took full advantage of an out-of-sorts Magnus Carlsen and put his victory down to fighting spirit rather than sparkling chess. Artemiev also said he wanted to give Ding Liren \"a real fight\" and that's just what he did, dominating almost from start to finish. Ding and Carlsen will play for 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-7-aronian-artemiev-stun-carlsen-ding",
+         "pubDate" : "Sat, 03 Jul 2021 07:12:34 +0000",
+         "title" : "Goldmoney Asian Rapid 7: Aronian & Artemiev stun Carlsen & Ding"
+      },
+      {
+         "description" : "European Team Senior Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/",
+         "pubDate" : "Sat, 03 Jul 2021 05:53:27 +0000",
+         "title" : "European Team Senior Chess Championship 2021 - Official regulations"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/what-clubs-need-now/",
+         "pubDate" : "Sat, 03 Jul 2021 05:09:57 +0100",
+         "title" : "What clubs need now"
+      },
+      {
          "description" : " That was surprising! Magnus Carlsen and Ding Liren won their first mini-matches in the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a> against Levon Aronian and Vladislav Artemiev, respectively, as noted a few posts back. But both lost today, both in the second mini-match and in their subsequent tiebreaks. The latter match was more competitive, but for Carlsen it was as if he left his mind asleep in bed. Aronian won games 1 and 4 of the second mini-match (the other games were drawn), and then won both of the blitz games in the tiebreak to advance. (How many times has Carlsen scored just 1 out of 6 in professional competition?) The final between the \"Ar\"s starts tomorrow.",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -46,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-2",
-         "pubDate" : "Fri, 02 Jul 2021 13:45:04 -0700",
+         "pubDate" : "Fri, 02 Jul 2021 13:45:00 -0700",
          "title" : "Goldmoney Asian Rapid: Winning Comebacks For Aronian, Artemiev"
       },
       {
@@ -200,14 +232,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/the-best-chess-training-website/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-chess-training-website",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/what-clubs-need-now/",
-         "pubDate" : "Fri, 02 Jul 2021 08:31:28 +0100",
-         "title" : "What clubs need now"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews Alireza Firouzja&#039;s loss to Levon Aronian at the 2021 Goldmoney Asian Rapid via a devastating combination. 2021.07.01<br /> Alireza Firouzja vs Levon Aronian, Goldmoney Asian Rapid (2021): C27 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054890\">https://www.chessgames.com/perl/chessgame?gid=2054890</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-gets-whooped-aronian-games-we",
@@ -1482,14 +1506,6 @@ news_feed (
          "title" : "Arthur Guo wins National Open in Las Vegas"
       },
       {
-         "description" : "Wesley So leads Ian Nepomniachtchi by half a point going into what looks set to be a two-horse race on the final day of the Paris Rapid &amp; Blitz. Wesley managed to stop the rampage of Alireza Firouzja, who had moved from last to 3rd place with a stunning 5.5/6 start to the blitz section. Firouzja trails Wesley by a full four points, while Peter Svidler is in 3rd place after winning the last three games of the day. His fellow Russian 45-year-old, Vladimir Kramnik, won their individual encounter in spectacular style, but looked rusty as he lost games on time and scored only 2.5/9.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/paris-rapid-blitz-4-firouzja-on-fire-but-so-nepo-lead",
-         "pubDate" : "Tue, 22 Jun 2021 09:29:50 +0000",
-         "title" : "Paris Rapid & Blitz 4: Firouzja on fire, but So & Nepo lead"
-      },
-      {
          "description" : "Knights that fight against pawns in the endgame can be versatile or very clumsy. In the diagram position the black knight turned out to be very versatile. How did it help Black to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2434,28 +2450,12 @@ news_feed (
          "title" : "FIDE World Cup 2021: Accommodation guide"
       },
       {
-         "description" : "Over the last several weeks zonal and continental qualifiers were taking place around the globe in anticipation of the World Cup scheduled for 10 July - 6 August, 2021 in Sochi, Russia. Among the latest qualifier tournaments was the American Continental Championship that took place 22 - 30 May and was played as a hybrid tournament. Eight players secured a ticket to Sochi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eight-players-succeed-in-american-hybrid-qualifier",
-         "pubDate" : "Sat, 12 Jun 2021 09:50:28 +0100",
-         "title" : "Eight players succeed in American Hybrid Qualifier"
-      },
-      {
          "description" : "In recent weeks there has been considerable controversy over the portrayal on TV, by black actress Jodie Turner-Smith, of Queen Anne Boleyn, who was palpably white. Surely the wrong kind of queen for a chess column, one might object, but there are interesting familial and royal associations. As I have been regularly demonstrating in this []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/white-queen-black-queen/",
          "pubDate" : "Sat, 12 Jun 2021 08:00:01 +0000",
          "title" : "White Queen - Black Queen"
-      },
-      {
-         "description" : " The 2021 NSW Open is up and running, with a maximum sized field of 140 players. Due to venue restrictions, we cannot have spectators in the playing hall, so following the event online is the best you can do. The top 8 boards of the Open are being shown live at <a href=\"https://view.livechesscloud.com/#3ffb82e3-478c-4c14-a49f-5be4e8bbcfb5\">this link</a>. As I type this, Board 1 has already finished,but the remaining 7 games are still in progress.<br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-live-coverage.html",
-         "pubDate" : "Sat, 12 Jun 2021 04:07:00 +0000",
-         "title" : "2021 NSW Open - Live Coverage"
       }
    ]
 }
