@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hou Yifan won the FIDE Chess.com Women&#39;s Speed Chess Championship after beating GM Harika Dronavalli 15-13 in the final on Saturday. Hou clinched the $20,000 first prize in a tight match where she won the final two bullet games. Harika won $12,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hou-yifan-wins-2021-fide-chess-com-womens-speed-chess-championship",
+         "pubDate" : "Sat, 03 Jul 2021 10:24:00 -0700",
+         "title" : "Hou Yifan Wins 2021 FIDE Chess.com Women's Speed Chess Championship"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave has had a roller coaster 2021. A faltering start after resumption in the Candidates Tournament meant Maxime could never catch up with the eventual winner Ian Nepomniachtchi. The disappointment of the Candidates was compounded by a drop in rating points. In an exclusive interview, the French Grandmaster touched upon these topics and much more. | Photo: Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mvl-interview-2021-chalons-en-champagne",
+         "pubDate" : "Sat, 03 Jul 2021 18:00:00 +0100",
+         "title" : "MVL: I aim to get back into the top 10 very soon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1185",
+         "pubDate" : "Sat, 03 Jul 2021 16:47:43 +0000",
+         "title" : "Hou Yifan wins Women's Speed Chess Championship"
+      },
+      {
          "description" : " Earlier in the year I tweeted about how well the Doeberl Cup went, showing some pictures of the 335 player field. A few people (from OS) commented about the lack of mask wearing, which then provoked a reply from someone who asked if wearing a mask affected the ability to play chess well. Based in a single (non scientific) sample, it probably doesn't, or if it does, everyone is equally handicapped. Today's Street Chess event was played indoors, which due to current ACT health regulations, meant that everyone over the age of 12 was required to wear a mask. In the end the top seeds finished at the top, and even a few players who expressed annoyance at having to put a mask on, found themselves ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Things that are possible"
       },
       {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Vladislav Artemiev and Levon Aronian meet in the finals after knocking out rating favourites Ding Liren and Magnus Carlsen respectively. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on day 2 of the semifinals.",
+         "description" : "Levon Aronian won the first set of the Goldmoney Asian Rapid finals. In the only decisive game of the day, the Armenian needed 25 moves to score with the white pieces. Meanwhile, Magnus Carlsen got ahead in the match for third place against Ding Liren. The event comes to an end on Sunday. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
          "pubDate" : "Sat, 03 Jul 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid Finals - Live!"
+         "title" : "Goldmoney Asian Rapid Finals - Aronian strikes first"
       },
       {
          "description" : "Magnus Carlsen and Ding Liren were leading in their matches against Levon Aronian and Vladislav Artemiev before Friday's second day of play in the semifinals of the Goldmoney Asian Rapid. But in both matches, Thursday's winners lost the second set and were eliminated in the tiebreaks. | Photo: Maria Emelianova",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-decisive-detail",
          "pubDate" : "Sat, 03 Jul 2021 09:00:00 +0100",
          "title" : "The decisive detail"
+      },
+      {
+         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After 9 rounds, Bischwiller is leading the standings table, with Clichy and Asnieres in shared second place. Round 10 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
+         "pubDate" : "Sat, 03 Jul 2021 08:45:00 +0100",
+         "title" : "French Team Championship \"Top 12\" - Bischwiller leads"
       },
       {
          "description" : "Levon Aronian and Vladislav Artemiev will contest the final of the Goldmoney Asian Rapid after pulling off spectacular comebacks on the second day of the semi-finals. Levon took full advantage of an out-of-sorts Magnus Carlsen and put his victory down to fighting spirit rather than sparkling chess. Artemiev also said he wanted to give Ding Liren \"a real fight\" and that's just what he did, dominating almost from start to finish. Ding and Carlsen will play for 3rd place.",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-7",
          "pubDate" : "Fri, 02 Jul 2021 14:25:00 +0100",
          "title" : "Goldmoney Asian Rapid SF: Carlsen and Ding win first sets"
-      },
-      {
-         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After eight rounds the team of Bischwiller leads, Clichy and Asnieres follow on places two and three. Round 9 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Fri, 02 Jul 2021 14:00:00 +0100",
-         "title" : "French Team Championship \"Top 12\" live"
       },
       {
          "description" : "Magnus Carlsen began his second decade of being top on every published rating list with a loss to Levon Aronian, but he hit back immediately to grind out an endgame win in the next game. He took the lead in their semi-final by winning the last game of the day, though not without a scare at the end. In the other semi-final Ding Liren credited playing basketball with an improvement in form that saw him power to victory with a game to spare. Vladislav Artemiev, like Levon Aronian, will have to win on demand on Saturday to force a playoff.",
@@ -1778,14 +1802,6 @@ news_feed (
          "title" : "Battle of Endgames: 1"
       },
       {
-         "description" : "Two more players qualified for the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship on Saturday. First,&#38;nbsp;GM Lei Tingjie (China) defeated WGM Vaishali R. (India) and in the second match, GM Anna Muzychuk beat IM Iulija Osmak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lei-tingjie-anna-muzychuk",
-         "pubDate" : "Sat, 19 Jun 2021 13:17:00 -0700",
-         "title" : "Women's Speed Chess Championship: Lei Tingjie, Anna Muzychuk Advance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2418,36 +2434,12 @@ news_feed (
          "title" : "2021 Superbet Chess Classic - Day 7 Recap"
       },
       {
-         "description" : "The Grand Chess Tour (GCT) has confirmed the field for the Croatia Grand Chess Tour leg that will include four full tour participants and seven wildcards. With legendary World Champions Garry Kasparov and Vishy Anand as well as the World Championship title challenger Ian Nepomniachtchi from Russia the Croatia Grand Chess Tour promises to be action packed. | Pictured: Kasparov and Anand at the 2017 Saint Louis Rapid and Blitz Tournament | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-anand-croatia-grand-chess-tour-wildcards",
-         "pubDate" : "Sat, 12 Jun 2021 21:35:00 +0100",
-         "title" : "Kasparov and Anand to play in Croatian leg of the Grand Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1142",
          "pubDate" : "Sat, 12 Jun 2021 20:33:08 +0000",
          "title" : "Assaubayeva beats Koneru to advance into quarters"
-      },
-      {
-         "description" : " GM Rom&aacute;n Hern&aacute;ndez Rom&aacute;n Hern&aacute;ndez Onna passed away early this month on June 1st from a lengthy illness. The Cuban Grandmaster and former national champion was 71 years old. As a pioneer, Hernandez had a long r&eacute;sum&eacute; before he ventured abroad and faced some of the world's elite competition. Recently, The Chess Drum featured his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/\">GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/12/gm-roman-hernandez-onna-dies-at-71/",
-         "pubDate" : "Sat, 12 Jun 2021 16:12:40 +0000",
-         "title" : "GM Rom&aacute;n Hern&aacute;ndez Onna dies at 71"
-      },
-      {
-         "description" : " Shakhriyar Mamedyarov beat a struggling Fabiano Caruana with the black pieces in round 7 of the Superbet Classic, this was his third straight win and due to the defeat of Alexander Grischuk it meant that he holds a one point lead with only a couple of rounds to go. Mamedyarov was rewarded for his enterprising play with a win with the black pieces against Fabiano Caruana. Mamedyarov's 9...g5 was risky and could have left him with a big disadvantage after 10.Nd5! and if Bd7 11.Bxg5! but neither he nor Caruana found this over the board. Caruana was faced with all sorts of tactics, not something he can have been happy about 18...Bd8 likely came as a surprise and Mamedyarov brought home the full",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/third-win-in-a-row-for-mamedyarov-gives-him-a-one-point-lead-in-the-superbet-classic-after-7-rounds",
-         "pubDate" : "Sat, 12 Jun 2021 19:59:00 +0400",
-         "title" : "Third win in a row for Mamedyarov gives him a one point lead in the Superbet Classic after 7 rounds - 7"
       }
    ]
 }
