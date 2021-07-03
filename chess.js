@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess world mourns the passing of Yury Dohkoian. The successful coach and long-time second of Garry Kasparov died on July 1 in Moscow due to a Covid-19 infection. | Photo: Eteri Kublashvili / Russian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yury-dokhoian-1964-2021",
+         "pubDate" : "Sat, 03 Jul 2021 22:20:00 +0100",
+         "title" : "Yury Dokhoian (1964-2021)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1186",
+         "pubDate" : "Sat, 03 Jul 2021 20:28:56 +0000",
+         "title" : "Aronian on brink of first Meltwater Champions Chess Tour title"
+      },
+      {
+         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship took place 12th June to 3rd July 2021. The final stage had 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. Former Women's World Chess Champion Hou Yifan beat Dronavalli Harika 15-13 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
+         "pubDate" : "Sat, 3 Jul 2021 22:36:00 +0400",
+         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
+      },
+      {
          "description" : "GM Hou Yifan won the FIDE Chess.com Women&#39;s Speed Chess Championship after beating GM Harika Dronavalli 15-13 in the final on Saturday. Hou clinched the $20,000 first prize in a tight match where she won the final two bullet games. Harika won $12,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/12-year-old-abhimanyu-mishra-becomes-the-youngest-gm-in-chess-history/",
          "pubDate" : "Fri, 02 Jul 2021 10:21:05 +0000",
          "title" : "12-year-old Abhimanyu Mishra becomes the youngest GM in chess history"
-      },
-      {
-         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship take place 12th June to 3rd July 2021. This final stage has 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. The first round of knockout matches has been completed.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
-         "pubDate" : "Fri, 2 Jul 2021 13:57:00 +0400",
-         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "GM Harika Dronavalli on Thursday eliminated GM Kateryna Lagno from the FIDE Chess.com Women&#39;s Speed Chess Championship. In a thriller of a match, everything was decided in the third bullet game of the tiebreak. Lagno, the top seed in the event, ...",
@@ -2408,38 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-3",
          "pubDate" : "Sun, 13 Jun 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 31: To exchange or not to exchange (3)"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov is the sole leader at the Superbet Chess Classic after an eventful seventh round in Bucharest. The Azerbaijani beat Fabiano Caruana with black while former co-leader Alexander Grischuk was defeated by Levon Aronian. The third decisive game of the day saw Anish Giri getting a full point in his encounter against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r7",
-         "pubDate" : "Sun, 13 Jun 2021 13:45:00 +0100",
-         "title" : "Superbet: Mamedyarov in the sole lead"
-      },
-      {
-         "description" : " Wherever you go, be it a major chess site or YouTube, you will find opening videos or articles. With this much information, it should be easier than ever to excel in openings. But in my experience the overload of information has made it harder, not easier for many. With all that information looming, it is [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/analyse-openings/\">How To Analyse Chess Openings Like A GM</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/analyse-openings/?utm_source=rss&utm_medium=rss&utm_campaign=analyse-openings",
-         "pubDate" : "Sat, 12 Jun 2021 23:00:00 +0000",
-         "title" : "How To Analyse Chess Openings Like A GM"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1143",
-         "pubDate" : "Sat, 12 Jun 2021 21:22:53 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 7 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1142",
-         "pubDate" : "Sat, 12 Jun 2021 20:33:08 +0000",
-         "title" : "Assaubayeva beats Koneru to advance into quarters"
       }
    ]
 }
