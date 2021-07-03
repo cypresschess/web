@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Vladislav Artemiev and Levon Aronian meet in the finals after knocking out rating favourites Ding Liren and Magnus Carlsen respectively. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on day 2 of the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sat, 03 Jul 2021 12:50:00 +0100",
+         "title" : "Goldmoney Asian Rapid Finals - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen and Ding Liren were leading in their matches against Levon Aronian and Vladislav Artemiev before Friday's second day of play in the semifinals of the Goldmoney Asian Rapid. But in both matches, Thursday's winners lost the second set and were eliminated in the tiebreaks. | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-8",
+         "pubDate" : "Sat, 03 Jul 2021 12:20:00 +0100",
+         "title" : "Goldmoney Asian Rapid: Artemiev and Aronian mount incredible comebacks"
+      },
+      {
+         "description" : "The postponed rounds 8 to 11 of National Under-10 Open Online Chess Championship will be played tomorrow (04 July 2021) as per the following schedule.Round",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/revised-schedule-national-under-10/",
+         "pubDate" : "Sat, 03 Jul 2021 11:09:03 +0000",
+         "title" : "REVISED SCHEDULE : NATIONAL UNDER-10"
+      },
+      {
+         "description" : "King James I of England, simultaneously King James VI of Scotland, had three things he badly wanted to cancel. The first was tobacco, against which he issued the first government health warning, in the sternest possible terms, in order to discourage smoking. The second was witchcraft, which attracted Draconian penalties from the monarch. The third was chess. In []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tobacco-witchcraft-and-chess-a-study-in-jacobean-cancel-culture/",
+         "pubDate" : "Sat, 03 Jul 2021 08:00:18 +0000",
+         "title" : "Tobacco, witchcraft and chess: a study in Jacobean cancel culture"
+      },
+      {
          "description" : "In the diagram position Black seems to be able to win a pawn with 20...Rxa4?? 21.Rxa4 Rxa4. But taking this pawn leaves Black's back rank unprotected which White can exploit. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +50,12 @@ news_feed (
          "title" : "Goldmoney Asian Rapid 7: Aronian & Artemiev stun Carlsen & Ding"
       },
       {
-         "description" : "European Team Senior Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
+         "description" : "European Senior Team Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/",
          "pubDate" : "Sat, 03 Jul 2021 05:53:27 +0000",
-         "title" : "European Team Senior Chess Championship 2021 - Official regulations"
+         "title" : "European Senior Team Chess Championship 2021 - Official regulations"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
          "pubDate" : "Fri, 02 Jul 2021 14:00:00 +0100",
          "title" : "French Team Championship \"Top 12\" live"
-      },
-      {
-         "description" : "An exciting second day of the semifinals at the Goldmoney Asian Rapid tournament left Magnus Carlsen and Ding Liren out of contention. Both Levon Aronian and Vladislav Artemiev came back from behind after losing on Thursday, and then defeated their higher-rated opponents in the blitz tiebreakers. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Fri, 02 Jul 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid SF - Carlsen and Ding knocked out"
       },
       {
          "description" : "Magnus Carlsen began his second decade of being top on every published rating list with a loss to Levon Aronian, but he hit back immediately to grind out an endgame win in the next game. He took the lead in their semi-final by winning the last game of the day, though not without a scare at the end. In the other semi-final Ding Liren credited playing basketball with an improvement in form that saw him power to victory with a game to spare. Vladislav Artemiev, like Levon Aronian, will have to win on demand on Saturday to force a playoff.",
@@ -416,6 +440,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-m-carlsen-vs-p-svidler",
          "pubDate" : "Thu, 01 Jul 2021 11:05:27 +0100",
          "title" : "Game of the Week: M. Carlsen vs P. Svidler"
+      },
+      {
+         "description" : " <p class=\"lead\">Two tickets to the FIDE Candidates Tournament will be decided in a tightly-packed series organized by World Chess <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F862BDE-27CE-4BF9-87BD-1DD6482C35AA.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Opening ceremony of the 2019 FIDE Grand Prix organized by World Chess in Moscow</div> </div> FIDE and World Chess are pleased to announce <b>the 2022 Grand Prix Series</b> that will take place in February - April of 2022 and will consist of three tournaments. The events will take place in one city - a deviation from the typical system where Grand Prix events are hosted in different",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
+         "pubDate" : "Thu, 01 Jul 2021 09:56:00 +0000",
+         "title" : "2022 FIDE Grand Prix Series Announced"
       },
       {
          "description" : "The Goldmoney Asian Rapid tournament will see GM Magnus Carlsen vs. GM Levon Aronian and GM Vladislav Artemiev vs. GM Ding Liren in the semifinals that start on Thursday. Aronian and Carlsen both won their matches in the tiebreak, against GM Arj...",
@@ -1634,14 +1666,6 @@ news_feed (
          "title" : "Paris Rapid & Blitz: So Leads, Nepomniachtchi Sacs"
       },
       {
-         "description" : "National Under-12 Open Online Chess Championship, in which more than 700 players from across the nation are participating got off to a rousing start on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-12-open-online-chess-championships-begins/",
-         "pubDate" : "Mon, 21 Jun 2021 06:27:48 +0000",
-         "title" : "National Under-12 Open Online Chess Championships begins"
-      },
-      {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms",
          "pubDate" : "Thu, 17 Jun 2021 15:46:32 +0530",
          "title" : "4 Indians in the fray for Asian Rapid chess"
-      },
-      {
-         "description" : " <p class=\"lead\">Two tickets to the FIDE Candidates Tournament will be decided in a tightly-packed series organized by World Chess <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F862BDE-27CE-4BF9-87BD-1DD6482C35AA.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Opening ceremony of the 2019 FIDE Grand Prix organized by World Chess in Moscow</div> </div> FIDE and World Chess are pleased to announce <b>the 2022 Grand Prix Series</b> that will take place in February - April of 2022 and will consist of three tournaments. The events will take place in one city - a deviation from the typical system where Grand Prix events are hosted in different",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
-         "pubDate" : "Thu, 17 Jun 2021 09:56:47 +0000",
-         "title" : "2022 FIDE Grand Prix Series Announced"
       },
       {
          "description" : "",
@@ -2426,36 +2442,12 @@ news_feed (
          "title" : "Third win in a row for Mamedyarov gives him a one point lead in the Superbet Classic after 7 rounds - 7"
       },
       {
-         "description" : "Praggnanandhaa Rameshbabu, who came from winning the first event of the Julius Baer Challengers Tour, did not have a strong first day in the Gelfand Challenge. However, an impressive streak of five straight wins on day 2 prompted him to the top of the standings, as he is currently sharing the lead on 8/10 points with Nodirbek Abdusattorov. Three players stand a full point behind with nine rounds to go. | Photo: Niklesh Jain",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-challenge-2021-day-2",
-         "pubDate" : "Sat, 12 Jun 2021 14:20:00 +0100",
-         "title" : "Gelfand Challenge: Pragg is back"
-      },
-      {
          "description" : " The first day of the 2021 NSW Open saw a capacity field of 140, and plenty of tough chess. There is still a bit of a logjam at the top of the tournament, although a number of top seeds have decided to have a bit of a sleep in, taking a half point bye for tomorrow mornings round. Nonetheless, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane are all hoping to get ahead of the field with wins in the morning round. With 8 DGT boards in operation there was plenty of chess to follow online. One quick game from round 2 was this win by Fred Litchfield over Ashley Rambukwella <br /> <b>Litchfield, Fred -Rambukwella, Ashley [E33]</b><br />2021 NSW Open, 2021.06.12 <script>new PgnViewer( { boardNa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-1.html",
          "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0000",
          "title" : "2021 NSW Open - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1136",
-         "pubDate" : "Sat, 12 Jun 2021 11:17:07 +0000",
-         "title" : "FIDE World Cup 2021: Accommodation guide"
-      },
-      {
-         "description" : "In recent weeks there has been considerable controversy over the portrayal on TV, by black actress Jodie Turner-Smith, of Queen Anne Boleyn, who was palpably white. Surely the wrong kind of queen for a chess column, one might object, but there are interesting familial and royal associations. As I have been regularly demonstrating in this []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/white-queen-black-queen/",
-         "pubDate" : "Sat, 12 Jun 2021 08:00:01 +0000",
-         "title" : "White Queen - Black Queen"
       }
    ]
 }
