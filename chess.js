@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Earlier in the year I tweeted about how well the Doeberl Cup went, showing some pictures of the 335 player field. A few people (from OS) commented about the lack of mask wearing, which then provoked a reply from someone who asked if wearing a mask affected the ability to play chess well. Based in a single (non scientific) sample, it probably doesn't, or if it does, everyone is equally handicapped. Today's Street Chess event was played indoors, which due to current ACT health regulations, meant that everyone over the age of 12 was required to wear a mask. In the end the top seeds finished at the top, and even a few players who expressed annoyance at having to put a mask on, found themselves ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/things-that-are-possible.html",
+         "pubDate" : "Sat, 03 Jul 2021 14:14:00 +0000",
+         "title" : "Things that are possible"
+      },
+      {
          "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Vladislav Artemiev and Levon Aronian meet in the finals after knocking out rating favourites Ding Liren and Magnus Carlsen respectively. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST). | Read the full report on day 2 of the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/third-win-in-a-row-for-mamedyarov-gives-him-a-one-point-lead-in-the-superbet-classic-after-7-rounds",
          "pubDate" : "Sat, 12 Jun 2021 19:59:00 +0400",
          "title" : "Third win in a row for Mamedyarov gives him a one point lead in the Superbet Classic after 7 rounds - 7"
-      },
-      {
-         "description" : " The first day of the 2021 NSW Open saw a capacity field of 140, and plenty of tough chess. There is still a bit of a logjam at the top of the tournament, although a number of top seeds have decided to have a bit of a sleep in, taking a half point bye for tomorrow mornings round. Nonetheless, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane are all hoping to get ahead of the field with wins in the morning round. With 8 DGT boards in operation there was plenty of chess to follow online. One quick game from round 2 was this win by Fred Litchfield over Ashley Rambukwella <br /> <b>Litchfield, Fred -Rambukwella, Ashley [E33]</b><br />2021 NSW Open, 2021.06.12 <script>new PgnViewer( { boardNa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-1.html",
-         "pubDate" : "Sat, 12 Jun 2021 12:15:00 +0000",
-         "title" : "2021 NSW Open - Day 1"
       }
    ]
 }
