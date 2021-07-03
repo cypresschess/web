@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2021-07-02","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107023992 target=' blank'>FBCC 2021 JULY HOLIDAY OPEN</a>",
+"SPRING","2021-07-02","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107023972 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-06-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202106273132 target=' blank'>INAUG TOURNEY</a>",
 "HOUSTON","2021-06-26","74","<a href=http://www.uschess.org/msa/XtblMain.php?202106261592 target=' blank'>SPINDLETAP SCHOLASTIC & COLLEGIATE</a>",
 "CYPRESS","2021-06-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202106253112 target=' blank'>05212021KOFC</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2020-02-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002224902 target=' blank'>SR CHESSKNIGHTS 02222020</a>",
 "HOUSTON","2020-02-22","31","<a href=http://www.uschess.org/msa/XtblMain.php?202002224012 target=' blank'>THE CHESS REFINERY: SAT SWISS 75</a>",
 "HOUSTON","2020-02-22","27","<a href=http://www.uschess.org/msa/XtblMain.php?202002223952 target=' blank'>CHESSPANDA02222020SATURDAY</a>",
-"HOUSTON","2020-02-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202002223332 target=' blank'>MONTHLY BLITZ FEB 2020</a>",
-"TOMBALL","2020-02-21","14","<a href=http://www.uschess.org/msa/XtblMain.php?202002213172 target=' blank'>THE FRIDAY KNIGHTS ADVANCED</a>",
 ]);
