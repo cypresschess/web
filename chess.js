@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Vladislav Artemiev and Levon Aronian meet in the finals after knocking out rating favourites Ding Liren and Magnus Carlsen respectively. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand was superior in the semifinal against the local player, except perhaps in the first game, when he was stunned by Santos' preparation. The final match kicks off at 15:30 CEST (9:30 ET, 13:30 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-dominguez-final-magistral-leon-2021",
+         "pubDate" : "Sun, 04 Jul 2021 16:00:00 +0100",
+         "title" : "Leon Masters Final: Gelfand vs Dom&iacute;nguez - Live!"
+      },
+      {
+         "description" : "It was a rather quick victory by Levon Aronian in the finals of the Goldmoney Asian Rapid tournament. The Armenian won the first set on Saturday and scored back-to-back wins in the second mini-match to make it impossible for Vladislav Artemiev to equalize the score and take the match to tiebreaks. Karsten M&uuml;ller analyzes two endgames in which Aronian showed his excellent technique with the black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aronian-triumphs-karsten-muller-analyzes",
+         "pubDate" : "Sun, 04 Jul 2021 15:10:00 +0100",
+         "title" : "Aronian triumphs, Karsten M&uuml;ller analyzes"
+      },
+      {
+         "description" : "Levon Aronian had a short day at the office, as he scored back-to-back wins against Vladislav Artemiev to secure first place at the Goldmoney Asian Rapid tournament. Meanwhile, Ding Liren bounced back from his loss in the first set by remarkably beating Magnus Carlsen 3-0 in the second mini-match. However, it was the world champion who prevailed in the blitz tiebreakers to take third place. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sun, 04 Jul 2021 12:45:00 +0100",
-         "title" : "Goldmoney Asian Rapid Finals - Live!"
+         "pubDate" : "Sun, 04 Jul 2021 15:05:00 +0100",
+         "title" : "Goldmoney Asian Rapid Finals - Aronian first, Carlsen third"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 34th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the chess principles Dutch International Master and chess thinker Dick Van Geet, advocate of 1.Nc3. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-34-the-priniciples-of-dick-van-geet",
+         "pubDate" : "Sun, 04 Jul 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 34: The priniciples of Dick Van Geet"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84116356.cms\" />Levon Aronian was in supreme form as he won the Goldmoney Asian Rapid event on Sunday. The 38-year-old breezed through the second match of the final to put to bed the challenge of Vladislav Artemiev. Russia's young speed demon, who made the final on his Tour debut, needed a swift comeback to stand any chance of beating the vastly experienced Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-aronian-clinches-crown/articleshow/84116356.cms",
+         "pubDate" : "Sun, 04 Jul 2021 19:23:47 +0530",
+         "title" : "Goldmoney Asian Rapid: Aronian clinches crown"
+      },
+      {
+         "description" : " If you are looking for a fairly lightweight Chess Database then <a href=\"https://chessx.sourceforge.io/\">ChessX</a> might fit your needs. It is designed to work with PGN files and is particularly suited to entering games from tournaments (at least that is what I use it for). As with most software I recommend, it is open source and cross platform, so it will run under Windows, MacOs and Linux. It has integrated support for Stockfish, or you can add your own UCI or Xboard compatible engines. The other selling point is that is currently being maintained, which means that new features are still be added (or you can add them yourself!) <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/chessx.html",
+         "pubDate" : "Sun, 04 Jul 2021 13:37:00 +0000",
+         "title" : "ChessX"
+      },
+      {
+         "description" : " The Goldmoney Asian Rapid took place Sat 26th Jun to Sun 4th Jul 2021. This Champions Chess Tour event featured a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Levon Aronian defeated Magnus Carlsen in the semifinals and went on to dominate Vladislav Artemiev in the final. Artemiev hasn't had a lot of chances on the tour in spite of being one of the better speed chess playe",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
+         "pubDate" : "Sun, 4 Jul 2021 16:18:00 +0400",
+         "title" : "Goldmoney Asian Rapid 2021 - "
       },
       {
          "description" : " Here's another of my pawn ending questions for you. It's Black's move. What would you play here? In one of my club's recent lockdown arena sessions I miscalculated two pawn endings in consecutive games. In the position above I was facing a slightly stronger opponent and failed to find the correct move. You'll find the <a href=\"https://chessimprover.com/double-trouble/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Double Trouble\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/double-trouble/\">Double Trouble</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1138,14 +1186,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid: Carlsen in five-way lead after Day 1"
       },
       {
-         "description" : " The Goldmoney Asian Rapid takes place Sat 26th Jun to Sun 4th Jul 2021. This is the latest event of the Champions Chess Tour and features a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Play starts significantly earlier than most of the events on the tour so far, 12pm BST.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
-         "pubDate" : "Sat, 26 Jun 2021 17:51:00 +0400",
-         "title" : "Goldmoney Asian Rapid 2021 - "
-      },
-      {
          "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2090,14 +2130,6 @@ news_feed (
          "title" : "Prague Chess Festival, Round 3: Shankland beats Navara"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83602418.cms\" />Four of India's finest players will be part of the next Meltwater Champions Chess Tour event - the Goldmoney Asian Rapid --- which commences from June 26.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-the-fray-for-asian-rapid-chess/articleshow/83602418.cms",
-         "pubDate" : "Thu, 17 Jun 2021 15:46:32 +0530",
-         "title" : "4 Indians in the fray for Asian Rapid chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2378,14 +2410,6 @@ news_feed (
          "title" : "Gelfand Challenge 2021 - Games and Results"
       },
       {
-         "description" : "On Sunday, the last four of the 19 rounds of the \"Gelfand Challenge\" were played. After 15 rounds Vincent Keymer from Germany had led the tournament but he only scored 1.5/4 on the final day. This was the chance for the 15-year old Indian Gukesh D., who had started the day two points behind Keymer, to catch up. After a 4.0/4 run Gukesh finished on 14.0/19 and tied first with his compatriot Praggnanandhaa but Gukesh won the tournament on tiebreak because he had won the direct encounter against \"Pragg\". Half a point behind the two Indians, Vincent Keymer came third. | Picture: Julius Baer Challengers Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-d-wins-the-gelfand-challenge",
-         "pubDate" : "Mon, 14 Jun 2021 10:43:38 +0100",
-         "title" : "Gukesh D. wins the Gelfand Challenge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2410,36 +2434,12 @@ news_feed (
          "title" : "Lagno beat Gunina to advance into quarters"
       },
       {
-         "description" : "Shakhriyar Mamedyarov kept his 1-point lead going into the last round of the Superbet Chess Classic, as in the only decisive game of Sunday's round Levon Aronian got the better of Bogdan-Daniel Deac. Mamedyarov signed a quick draw in his game against Anish Giri, while Alexander Grischuk vs Fabiano Caruana was an exciting encounter in which both players missed chances. | Games and results | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-express",
-         "pubDate" : "Sun, 13 Jun 2021 19:30:00 +0100",
-         "title" : "Superbet Classic: Aronian beats Deac"
-      },
-      {
          "description" : " Shakhriyar Mamedyarov only needs a draw in the final round against Maxime Vachier-Lagrave to win the Superbet Chess Classic tournament. Mamedyarov drew against Anish Giri using the moves of the game Radjabov vs MVL from earlier in the event. The only decisive game was Levon Aronian grinding out a win with black against Bogdan-Daniel Deac. 18...Rd7?! 19.Be3 might have been a different matter for Deac. Wesley So drew with Maxime Vachier-Lagrave in a game mainly notable for the six consecutive knight moves played by black, 5...Nb4, 6... Nd3+ 7... Nf4+ 8... Ne6 9... Nd4 10... Ndc6N only the final move being new however, still it's a very striking journey for a piece to make. Teimour Radjabov wa",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-takes-a-one-point-lead-into-the-final-round-of-the-superbet-classic",
          "pubDate" : "Sun, 13 Jun 2021 22:17:00 +0400",
          "title" : "Mamedyarov takes a one point lead into the final round of the Superbet Classic - 8"
-      },
-      {
-         "description" : " With 5 rounds of the 2021 NSW Open completed, GM Daniel Fernandez, IM Junta Ikeda and IM Gary Lane share the lead on 4.5/5. In round 5 Fernandez once again demonstrated his creativity in complex positions, sacrificing a piece early on against Fred Litchfield, before reaching an ending a whole rook down, but with an avalanche of pawns as winning compensation. Lane got to 4.5 after Harry Press sacrificed a piece in the early middlegame, but this proved unsound, giving lane a quick win. Ikeda also had a quick win, punishing CM Isaac Zhao after Zhao went pawn grabbing in the opening. Tomorrow mornings round has Lane against Fernandez and Morris against Ikeda. As none of the 4 have played each o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-day-2.html",
-         "pubDate" : "Sun, 13 Jun 2021 14:12:00 +0000",
-         "title" : "2021 NSW Open - Day 2"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 31st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the right exchange. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-30-to-exchange-or-not-to-exchange-3",
-         "pubDate" : "Sun, 13 Jun 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 31: To exchange or not to exchange (3)"
       }
    ]
 }
