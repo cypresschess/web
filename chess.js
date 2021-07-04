@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand was superior in the semifinal against the local player, except perhaps in the first game, when he was stunned by Santos' preparation. The final match kicks off at 15:30 CEST (9:30 ET, 13:30 UTC).",
+         "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
+         "pubDate" : "Sun, 4 Jul 2021 19:49:00 +0400",
+         "title" : "34th Leon Chess 2021 - Games and Results"
+      },
+      {
+         "description" : "On what was was a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing only two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-wins-goldmoney-asian-rapid",
+         "pubDate" : "Sun, 04 Jul 2021 08:44:00 -0700",
+         "title" : "Aronian Wins Goldmoney Asian Rapid"
+      },
+      {
+         "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand beat Dominguez in the final match. A 2-2 tie in the rapid games meant it would all come down to the blitz tiebreakers. After a draw in the first 5-minute game, Gelfand managed to convert a rook vs bishop endgame to get tournament victory. | Replay the games with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gelfand-dominguez-final-magistral-leon-2021",
          "pubDate" : "Sun, 04 Jul 2021 16:00:00 +0100",
-         "title" : "Leon Masters Final: Gelfand vs Dom&iacute;nguez - Live!"
+         "title" : "Leon Masters Final: Gelfand vs Dom&iacute;nguez - Games and results"
       },
       {
          "description" : "It was a rather quick victory by Levon Aronian in the finals of the Goldmoney Asian Rapid tournament. The Armenian won the first set on Saturday and scored back-to-back wins in the second mini-match to make it impossible for Vladislav Artemiev to equalize the score and take the match to tiebreaks. Karsten M&uuml;ller analyzes two endgames in which Aronian showed his excellent technique with the black pieces.",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
          "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
          "title" : "European Senior Chess Championship 2021"
-      },
-      {
-         "description" : " The 34th Leon Chess tournament takes place Wed 30th Jun to Sun 4th Jul 2021.This is a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match takes place on 3rd of July and the final on Sunday 4th. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
-         "pubDate" : "Wed, 30 Jun 2021 14:01:00 +0400",
-         "title" : "34th Leon Chess 2021 - Games and Results"
       },
       {
          "description" : "Magnus Carlsen described it as \"massive\" that he won Day 1 of his Goldmoney Asian Rapid quarterfinal match against Wesley So after a slugfest that featured just one draw. Vladislav Artemiev also took the lead with a 3:0 whitewash of Anish Giri, who joked that \"playing horrible chess\" might be a hitherto unknown side effect of vaccination. 17-year-old Arjun Erigaisi traded wins with world no. 5 Levon Aronian, and while Ding Liren-Duda saw all four games drawn it featured some of the day's most combative chess.",
@@ -1770,14 +1778,6 @@ news_feed (
          "title" : "Tie-breaks"
       },
       {
-         "description" : "In her first official chess event in 2021, GM Hou Yifan reached the quarterfinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. The former women&#39;s world champion from China beat Azerbaijan&#39;s IM Gulnar Mammadova 15-6 on Sunday. The next...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-hou-yifan-joins-mammadova",
-         "pubDate" : "Mon, 21 Jun 2021 00:59:00 -0700",
-         "title" : "Women's Speed Chess Championship: Hou Yifan Joins Quarterfinalists"
-      },
-      {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2432,14 +2432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1144",
          "pubDate" : "Sun, 13 Jun 2021 21:28:53 +0000",
          "title" : "Lagno beat Gunina to advance into quarters"
-      },
-      {
-         "description" : " Shakhriyar Mamedyarov only needs a draw in the final round against Maxime Vachier-Lagrave to win the Superbet Chess Classic tournament. Mamedyarov drew against Anish Giri using the moves of the game Radjabov vs MVL from earlier in the event. The only decisive game was Levon Aronian grinding out a win with black against Bogdan-Daniel Deac. 18...Rd7?! 19.Be3 might have been a different matter for Deac. Wesley So drew with Maxime Vachier-Lagrave in a game mainly notable for the six consecutive knight moves played by black, 5...Nb4, 6... Nd3+ 7... Nf4+ 8... Ne6 9... Nd4 10... Ndc6N only the final move being new however, still it's a very striking journey for a piece to make. Teimour Radjabov wa",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/mamedyarov-takes-a-one-point-lead-into-the-final-round-of-the-superbet-classic",
-         "pubDate" : "Sun, 13 Jun 2021 22:17:00 +0400",
-         "title" : "Mamedyarov takes a one point lead into the final round of the Superbet Classic - 8"
       }
    ]
 }
