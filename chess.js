@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian took the lead in the Goldmoney Asian Rapid final and needs only two game points vs. GM Vladislav Artemiev on Sunday to win the tournament. Aronian drew three times and won one game on Saturday, just like GM Magnus Carlsen vs. GM D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-finals-aronian-carlsen",
+         "pubDate" : "Sat, 03 Jul 2021 23:33:00 -0700",
+         "title" : "Goldmoney Asian Rapid Finals: Aronian, Carlsen Lead"
+      },
+      {
+         "description" : "It is intimated that the following vacancies are available for participation in the World Youth &#38; Cadet Online World Cup 2021 due to non-registration of players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-online-chess-championship-entry-vacancy/",
+         "pubDate" : "Sun, 04 Jul 2021 05:12:35 +0000",
+         "title" : "WORLD YOUTH ONLINE CHESS CHAMPIONSHIP : ENTRY VACANCY"
+      },
+      {
          "description" : "The chess world mourns the passing of Yury Dohkoian. The successful coach and long-time second of Garry Kasparov died on July 1 in Moscow due to a Covid-19 infection. | Photo: Eteri Kublashvili / Russian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "Guildford Chess Club is 125 years old!"
       },
       {
-         "description" : "Tejaswini G of Tamilnadu becomes champion in the National Under-14 Girls Online Chess Championship which concluded on Monday. She comfortably clinched the title with 10.5",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tejaswini-under-14-girls-champion/",
-         "pubDate" : "Wed, 23 Jun 2021 09:42:39 +0000",
-         "title" : "Tejaswini Under-14 Girls Champion"
-      },
-      {
          "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman Grooten, Robert Ris or Lawrence Trent. Real premium",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-hou-yifan-joins-mammadova",
          "pubDate" : "Mon, 21 Jun 2021 00:59:00 -0700",
          "title" : "Women's Speed Chess Championship: Hou Yifan Joins Quarterfinalists"
-      },
-      {
-         "description" : "GM Wesley So is leading the Paris Rapid &#38;amp; Blitz tournament after nine rounds of rapid chess. The American grandmaster is one point ahead of GM Ian Nepomniachtchi, who played a brilliant sacrifice in the ninth round. GM Etienne Bacrot, who will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-grand-chess-tour-day-3",
-         "pubDate" : "Mon, 21 Jun 2021 00:21:00 -0700",
-         "title" : "Paris Rapid & Blitz: So Leads, Nepomniachtchi Sacs"
       },
       {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
