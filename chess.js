@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Star columnist Jon Speelman reactivates his \"mirror\", a potent if imaginary artefact intended to reflect the best chess players ever. This week, a couple of games by Garry Kasparov, \"an (un)caged tiger who revels in violent conflict\". | Pictured: Kasparov with ChessBase's Matthias W&uuml;llenweber",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-149",
+         "pubDate" : "Sun, 04 Jul 2021 23:15:00 +0100",
+         "title" : "A few reflections more (and a cocktail of Caissists)"
+      },
+      {
+         "description" : "Levon Aronian needed just two games and under an hour and a half of play to clinch victory over Vladislav Artemiev and take the $30,000 top prize in the Goldmoney Asian Rapid. Levon's spectacular final win was a fitting end to an event where he'd also won the Preliminary stage, to take home the maximum number of tour points. The fight for 3rd place was also one-sided, but with a twist. Ding Liren hit back to win the second day's rapid chess 3:0 before Magnus Carlsen took over in blitz to clinch the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/levon-aronian-cruises-to-goldmoney-asian-rapid-victory",
+         "pubDate" : "Sun, 04 Jul 2021 21:34:00 +0000",
+         "title" : "Levon Aronian cruises to Goldmoney Asian Rapid victory"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1187",
+         "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
+         "title" : "Aronian wins his first Meltwater Chess Masters title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Stockfish</strong> team <a href=\"https://stockfishchess.org/blog/2021/stockfish-14/\">credits</a> its cooperation with <strong>Leela Chess Zero</strong> for improvements in its new 14th version, estimating its pace of advancing at 80 rating points per year. A significant jump has been made in Fischer Random (that some people started to call Chess959). </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/stockfish-14-is-out/",
+         "pubDate" : "Sun, 04 Jul 2021 20:29:46 +0100",
+         "title" : "Stockfish 14 is out"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levon Aronian</strong> won the preliminaries, the semifinal against Carlsen and the final against Artemiev with two games to spare as well as $30,000 in the <strong>Goldmoney Asian Rapid</strong>. The Armenian, who will represent the US in the future, has jumped to the 7th spot in the <a href=\"https://championschesstour.com/standings/\"><strong>Meltwater Champions Chess Tour</strong> ranking</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/aronian-dominated-goldmoney-asian/",
+         "pubDate" : "Sun, 04 Jul 2021 20:23:34 +0100",
+         "title" : "Aronian dominated Goldmoney Asian Rapid"
+      },
+      {
          "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,7 +50,7 @@ news_feed (
          "title" : "34th Leon Chess 2021 - Games and Results"
       },
       {
-         "description" : "On what was was a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing only two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and ...",
+         "description" : "On a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing just two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and 25 minutes of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aronian-wins-goldmoney-asian-rapid",
@@ -552,22 +592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-congratulates-the-worlds-youngest-chess-gm/articleshow/84037694.cms",
          "pubDate" : "Thu, 01 Jul 2021 19:08:55 +0530",
          "title" : "Anand congratulates the world's youngest chess GM"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> spent a few days in Munich for sport medical checks and fitness training with <strong>Marcus Lindner</strong>, athletic coach of the Bayern M&uuml;nchen basketball team, who will stay in touch with him during the preparation for the match in November. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepo-got-fitness-checks-and-advice/",
-         "pubDate" : "Thu, 01 Jul 2021 13:37:49 +0100",
-         "title" : "Nepo got fitness checks and advice"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The future of the biggest German chess sponsorship <strong>GRENKE</strong> is in huge doubt <a href=\"https://perlenvombodensee.de/2021/07/01/grenke-ag-wolfgang-grenke-scheidet-aus-sven-noppes-auch/\">after an announcement</a> that founder <strong>Wolfgang Grenke</strong> will leave the supervisory board on 29 July and <strong>Sven Noppes</strong> will be replaced at the helm of <strong>Grenke Bank</strong> before the end of the year. Noppes managed the Bundesliga teams of Baden-Baden and Deizisau as well as the Grenke Classic and Open, which was Europe's biggest chess festival until 2019. The company had come under fire from shortsellers who brought ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/grenke-and-noppes-leave/",
-         "pubDate" : "Thu, 01 Jul 2021 13:22:19 +0100",
-         "title" : "Grenke and Noppes leave"
       },
       {
          "description" : "Nihal Sarin was the dominant player at the Silver Lake Open: the young Indian and reigning U18 World Champion won the tournament with 8.0/9 and a rating performance of 2809. His compatriots Raunak Sadhwani and Abhimanyu Puranik won silver and bronze. | Photo: Rupali Mulick",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "Wesley So wins 2021 Paris Grand Chess Tour"
       },
       {
-         "description" : "Wesley So won 4 of his last 5 games as he clinched the Paris Rapid & Blitz with a round to spare and finished a full 3 points clear of Ian Nepomniachtchi in 2nd place. Wesley commented \"today was just my day\" after he scored 7/9, beating Alireza Firouzja's 6.5/9 the day before and clinching first place in the blitz as well as the overall prize. Maxime Vachier-Lagrave and Alireza Firouzja scored an underwhelming 50% on the final day, but shared 3rd place. Vladimir Kramnik won his last two games, but couldn't avoid finishing last.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-storms-to-victory-in-paris-rapid-blitz",
-         "pubDate" : "Tue, 22 Jun 2021 22:34:56 +0000",
-         "title" : "Wesley So storms to victory in Paris Rapid & Blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2378,14 +2394,6 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov wins the Superbet Romania Chess Classic - 9"
       },
       {
-         "description" : "In the winter of 1921/22, Ernst Gr&uuml;nfeld developed a revolutionary chess opening. Almost a hundred years later, the Viennese, who became a professional player out of necessity and joined the NSDAP because of his Jewish-sounding name, is the unlikely star of an exhibition in his hometown. Stefan L&ouml;ffler visited it. | Photos, if not otherwise indicated: Collection Michael Ehn",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/homo-neubau-an-exhibition-featuring-ernst-gruenfeld",
-         "pubDate" : "Mon, 14 Jun 2021 16:00:00 +0100",
-         "title" : "\"Homo Neubau\": An exhibition featuring Ernst Gr&uuml;nfeld"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" />Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2424,14 +2432,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/stress-reduction/?utm_source=rss&utm_medium=rss&utm_campaign=stress-reduction",
          "pubDate" : "Mon, 14 Jun 2021 06:00:00 +0000",
          "title" : "Reducing Stress During Tournaments - 3 Easy Steps To Less Stress"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1144",
-         "pubDate" : "Sun, 13 Jun 2021 21:28:53 +0000",
-         "title" : "Lagno beat Gunina to advance into quarters"
       }
    ]
 }
