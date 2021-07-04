@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Goldmoney Asian Rapid is the seventh leg of the Meltwater Champions Chess and is being played from June 26 until July 4. Vladislav Artemiev and Levon Aronian meet in the finals after knocking out rating favourites Ding Liren and Magnus Carlsen respectively. Follow the action live with expert commentary starting at 13:00 CEST (7:00 ET, 16:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
+         "pubDate" : "Sun, 04 Jul 2021 12:45:00 +0100",
+         "title" : "Goldmoney Asian Rapid Finals - Live!"
+      },
+      {
+         "description" : " Here's another of my pawn ending questions for you. It's Black's move. What would you play here? In one of my club's recent lockdown arena sessions I miscalculated two pawn endings in consecutive games. In the position above I was facing a slightly stronger opponent and failed to find the correct move. You'll find the <a href=\"https://chessimprover.com/double-trouble/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Double Trouble\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/double-trouble/\">Double Trouble</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/double-trouble/",
+         "pubDate" : "Sun, 04 Jul 2021 09:21:37 +0000",
+         "title" : "Double Trouble"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84112580.cms\" />Abhimanyu Mishra, who recently became the youngest chess grandmaster in history, said that his ultimate goal is to be the World Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-world-champion-youngest-grandmaster-abhimanyu-mishra/articleshow/84112580.cms",
+         "pubDate" : "Sun, 04 Jul 2021 14:07:49 +0530",
+         "title" : "My ultimate goal is to become world champion: Youngest Grandmaster Abhimanyu Mishra"
+      },
+      {
+         "description" : " Business Insider took a trip to India and looked at how the exquisite <a href=\"https://shop.worldchess.com/\">World Chess Championship sets</a> are made. First of all, it's all about the Knight. And second, it takes years of experience to get the sets just right. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-Tg9xiJ6D6k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/an-insider-look-at-how-the-world-chess-sets-are-made/",
+         "pubDate" : "Sun, 04 Jul 2021 08:11:52 +0000",
+         "title" : "An Insider Look At How the World Chess Sets Are Made"
+      },
+      {
+         "description" : "Levon Aronian admitted it was \"kind of a miracle\" that he survived the 2nd game of the day against Vladislav Artemiev before he won the 3rd to clinch the first set of the Goldmoney Asian Rapid final. It means Vladislav now has to win on demand on Sunday to force a playoff for the $30,000 top prize. Magnus Carlsen said a 3rd place match is \"not where I want to be\", but a flawed attack by Ding Liren in the first game of the day gave the World Champion a lead that he didn't let slip despite a shaky final game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-8-aronian-leads-final",
+         "pubDate" : "Sun, 04 Jul 2021 07:58:32 +0000",
+         "title" : "Goldmoney Asian Rapid 8: Aronian leads final"
+      },
+      {
          "description" : "GM Levon Aronian took the lead in the Goldmoney Asian Rapid final and needs only two game points vs. GM Vladislav Artemiev on Sunday to win the tournament. Aronian drew three times and won one game on Saturday, just like GM Magnus Carlsen vs. GM D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/things-that-are-possible.html",
          "pubDate" : "Sat, 03 Jul 2021 14:14:00 +0000",
          "title" : "Things that are possible"
-      },
-      {
-         "description" : "Levon Aronian won the first set of the Goldmoney Asian Rapid finals. In the only decisive game of the day, the Armenian needed 25 moves to score with the white pieces. Meanwhile, Magnus Carlsen got ahead in the match for third place against Ding Liren. The event comes to an end on Sunday. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sat, 03 Jul 2021 12:50:00 +0100",
-         "title" : "Goldmoney Asian Rapid Finals - Aronian strikes first"
       },
       {
          "description" : "Magnus Carlsen and Ding Liren were leading in their matches against Levon Aronian and Vladislav Artemiev before Friday's second day of play in the semifinals of the Goldmoney Asian Rapid. But in both matches, Thursday's winners lost the second set and were eliminated in the tiebreaks. | Photo: Maria Emelianova",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "Chicago Open excites&hellip; OTB in full swing!"
       },
       {
-         "description" : "The San Ferm&iacute;n Arena International, open to all FIDE titled players, will consist of four 2-hour Arena tournaments at a 3+2 time control. Each of the tournaments will qualify 10 players to a Final Arena on June 27th, a tournament from which the winner will qualify for the San Ferm&iacute;n Mundial Masters with the participation of World Chess Champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/internacional-arena",
-         "pubDate" : "Tue, 22 Jun 2021 17:30:00 +0000",
-         "title" : "International Arena begins today - open to all FIDE titled players!"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the National Open in Las Vegas, focusing on the game Levy Rozman vs Christopher Yoo in round 5, a superb attacking display by the \"internet's chess teacher\". And Lawrence will talk about the Paris Rapid & Blitz tournament and the Prague Masters. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,14 +2168,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-club-cup-2021-official-regulations/",
          "pubDate" : "Wed, 16 Jun 2021 14:30:59 +0000",
          "title" : "EUROPEAN CLUB CUP 2021 - Official regulations"
-      },
-      {
-         "description" : " I wonder how many of you guess that &#8216;T' would be the Trompowsky or &#8216;Tromp' (1.d4 Nf6 2.Bg5). Sorry to disappoint you but I've gone instead for the ultra-respectable Tartakower-Bondarevsky-Makogonov Variation of the Queen's Gambit Declined, with 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 <a href=\"https://chessimprover.com/trounce-em-with-the-tartakower/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Trounce 'em with the Tartakower\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/trounce-em-with-the-tartakower/\">Trounce 'em with the Tartakower</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/trounce-em-with-the-tartakower/",
-         "pubDate" : "Wed, 16 Jun 2021 14:00:26 +0000",
-         "title" : "Trounce 'em with the Tartakower"
       },
       {
          "description" : " Normally a game that holds up the end of a weekend tournament isn't that enjoyable, either to the players or organisers. However, there are exceptions, and the following is one of them. While the first half of the game involved a lot of manoeuvring of pieces, but little progress, FM Clive Ng decided to spice things up with an exchange sacrifice. The only problem with this approach was that it now meant he was worse, and after a few more moves, was in fact lost. The only ray of hope for Ng was the fact that his king was stalemated on h2, which gave him a drawing defence. When Anthony Fikh pushed his g pawn up the board, Clive was faced with being a whole rook down, but this actually helped h",
