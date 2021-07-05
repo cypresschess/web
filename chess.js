@@ -98,6 +98,14 @@ news_feed (
          "title" : "Aronian dominated Goldmoney Asian Rapid"
       },
       {
+         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
+         "pubDate" : "Sun, 04 Jul 2021 18:16:00 +0000",
+         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
+      },
+      {
          "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-8",
          "pubDate" : "Sat, 03 Jul 2021 12:20:00 +0100",
          "title" : "Goldmoney Asian Rapid: Artemiev and Aronian mount incredible comebacks"
-      },
-      {
-         "description" : "The postponed rounds 8 to 11 of National Under-10 Open Online Chess Championship will be played tomorrow (04 July 2021) as per the following schedule.Round",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/revised-schedule-national-under-10/",
-         "pubDate" : "Sat, 03 Jul 2021 11:09:03 +0000",
-         "title" : "REVISED SCHEDULE : NATIONAL UNDER-10"
       },
       {
          "description" : "King James I of England, simultaneously King James VI of Scotland, had three things he badly wanted to cancel. The first was tobacco, against which he issued the first government health warning, in the sternest possible terms, in order to discourage smoking. The second was witchcraft, which attracted Draconian penalties from the monarch. The third was chess. In []",
@@ -906,14 +906,6 @@ news_feed (
          "title" : "No Posts for a While"
       },
       {
-         "description" : "Please note that the Tornelo Server at Australia is not taking the load and there is a major network issues are going on at Australia.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/important-update-national-under-10-open-rounds-called-off/",
-         "pubDate" : "Wed, 30 Jun 2021 04:54:03 +0000",
-         "title" : "IMPORTANT UPDATE : NATIONAL UNDER-10 OPEN ROUNDS CALLED OFF"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83976229.cms\" />India's best teenage Grandmaster Nihal Sarin stretched his lead further to one clear point and Maharashtra's youngest GM Raunak Sadhwani forced the top seed in the tournament to sign a truce, while Abhimanyu Puranik and Harshit Raja followed the leader at the joint second position.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1168,14 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
          "pubDate" : "Sun, 27 Jun 2021 19:04:33 +0000",
          "title" : "Senegal crowns national champion!"
-      },
-      {
-         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
-         "pubDate" : "Sun, 27 Jun 2021 18:16:00 +0000",
-         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
       },
       {
          "description" : "",
@@ -1586,6 +1570,14 @@ news_feed (
          "title" : "Guildford Chess Club is 125 years old!"
       },
       {
+         "description" : "Tejaswini G of Tamilnadu becomes champion in the National Under-14 Girls Online Chess Championship which concluded on Monday. She comfortably clinched the title with 10.5",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tejaswini-under-14-girls-champion/",
+         "pubDate" : "Wed, 23 Jun 2021 09:42:39 +0000",
+         "title" : "Tejaswini Under-14 Girls Champion"
+      },
+      {
          "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman Grooten, Robert Ris or Lawrence Trent. Real premium",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1832,6 +1824,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
          "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
          "title" : "Tie-breaks"
+      },
+      {
+         "description" : "National Under-12 Open Online Chess Championship, in which more than 700 players from across the nation are participating got off to a rousing start on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-12-open-online-chess-championships-begins/",
+         "pubDate" : "Mon, 21 Jun 2021 06:27:48 +0000",
+         "title" : "National Under-12 Open Online Chess Championships begins"
       },
       {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
