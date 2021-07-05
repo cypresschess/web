@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian had a short day at the office on Sunday, as he scored back-to-back wins against Vladislav Artemiev to secure first place at the Goldmoney Asian Rapid tournament. Meanwhile, Ding Liren bounced back from his loss in the first set by remarkably beating Magnus Carlsen 3-0 in their second mini-match. However, it was the world champion who prevailed in the blitz tiebreakers to take third place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-10",
+         "pubDate" : "Mon, 05 Jul 2021 17:15:00 +0100",
+         "title" : "Levon Aronian convincingly wins the Goldmoney Asian Rapid tournament"
+      },
+      {
+         "description" : "For a long time, the Classical Variation in the French Defence (1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6) has been considered as slightly dubious for Black. But recently Black found new possibilities and the line became attractive again. In the new ChessBase Magazine #202, opening expert Rustam Kasimdzhanov shows the latest developments of this variation. The French expert uses the game Alekseenko-Grischuk from the Candidates Tournament 2020/2021 as a starting point. Take a look at an excerpt of his video analysis!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/good-news-for-french-players",
+         "pubDate" : "Mon, 05 Jul 2021 17:00:00 +0100",
+         "title" : "\"Good news for French players!\""
+      },
+      {
+         "description" : "GM Boris Gelfand won the 34th edition of the Leon Masters, held on Chess.com for the second year in a row due to the pandemic. Gelfand beat GM Leinier Dominguez in the blitz tiebreak of the final to win his second Leon title. How to watch?The ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gelfand-wins-34th-leon-masters",
+         "pubDate" : "Mon, 05 Jul 2021 08:05:48 -0700",
+         "title" : "Gelfand Wins 34th Leon Masters"
+      },
+      {
+         "description" : " The credit for the development of the Queen's Gambit as a serious opening is usually (and rightly) given to Harry Pillsbury (at the 1895 Hastings Tournament). As late as the mid 19th century is was regarded as somewhat offbeat, and only merited 13 pages in 'The Chess-Players Handbook\" by Staunton (of which 6 pages were example games). By contrast the King's Gambit ran to 105 pages in the same book, which shows the level of interest analysts had at the time. Nonetheless, in the period between 1847 and 1895 it did get used occasionally, most memorably in the following game between Steinitz and Anderssen. What is strange about this game (which has quite a modern look about it), is that it took",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/the-model-queens-gambit.html",
+         "pubDate" : "Mon, 05 Jul 2021 13:27:00 +0000",
+         "title" : "'The' model Queen's Gambit"
+      },
+      {
          "description" : "It was a great shock to wake up and learn that Yury Dokhoian had died, at the age of just 56, struck down by the accursed virus that has immobilized the world. Yet another reminder that we are not over it, yet. It is still going to take friends and loved ones. Frederic Friedel shares some memories of his friend Yury, with whom he spent a great deal of time. | Photo: Wiki, Porto Carras, 2011",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Proposals to change FIDE's rating and title regulations"
       },
       {
-         "description" : "GM Arjun Erigaisi beat GM Kirill Shevchenko on Sunday in what was the second match in the round of 16 in the&#38;nbsp;Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $...",
+         "description" : "GM Arjun Erigaisi beat GM Kirill Shevchenko on Sunday in the second match in the round of 16 in the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-erigaisi-beats-shevchenko",
@@ -1730,14 +1762,6 @@ news_feed (
          "title" : "Planning for Victory (3)"
       },
       {
-         "description" : "GM Wesley So is still leading the Paris Rapid &#38;amp; Blitz tournament after the first nine rounds of blitz chess. The American grandmaster is half a point ahead of GM Ian Nepomniachtchi. GM Alireza Firouzja surged in the standings after scoring a f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paris-rapid-blitz-day-4-firouzja",
-         "pubDate" : "Tue, 22 Jun 2021 00:49:00 -0700",
-         "title" : "Paris Rapid & Blitz: So Leads, Firouzja Surges"
-      },
-      {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2354,22 +2378,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2021"
       },
       {
-         "description" : "On Sunday, 13 June, Carol Jarecki died at the age of 86. She came to chess through her son, promoted and organised chess tournaments and was the arbiter in many top level tournaments and matches, including the world championship match Kasparov vs. Anand in 1995 and the match Kasparov vs. Deep Blue in 1997. She was a passionate pilot, and together with her husband Richard Jarecki she also won millions in casinos by exploiting mechanical imperfections of roulette wheels.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arbiter-organiser-author-and-roulette-millionaire-carol-jarecki-13-february-1935-13-june-2021-died",
-         "pubDate" : "Tue, 15 Jun 2021 10:23:04 +0100",
-         "title" : "Arbiter, organiser, author and roulette millionaire Carol Jarecki (13 February 1935 - 13 June 2021) died"
-      },
-      {
-         "description" : "The diagram position is complicated and extremely sharp. Both sides have dangerous passed pawns which the knights might or might not stop. However, it was Black to move and he had a way to win. But in the game Black failed to find the winning move - can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics",
-         "pubDate" : "Tue, 15 Jun 2021 09:29:19 +0100",
-         "title" : "Endgame tactics"
-      },
-      {
          "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2392,30 +2400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1146",
          "pubDate" : "Mon, 14 Jun 2021 23:14:43 +0000",
          "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
-      },
-      {
-         "description" : " A burst of three consecutive wins in rounds 5, 6 and 7 against Constantin Lupulescu, Levon Aronian and Fabiano Caruana were sufficient to win Shakhriyar Mamedyarov the Superbet Chess Classic with 6/9 a point clear of Levon Aronian, Wesley So and Alexander Grischuk. All the games were drawn in the final round. First to finish was Levon Aronian against Teimour Radjabov (who drew all his games) in just 14 moves. Maxime Vachier-Lagrave drew against Shakhriyar Mamedyarov, this result confirmed Mamedyarov's tournament win, MVL's choice of the Four Knights wasn't particularly inspiring. Giri-Grischuk was an interesting Giuoco Piano that finished in a draw in 42 moves. Lupulescu-So was a pretty dra",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2021/shakhriyar-mamedyarov-wins-the-superbet-romania-chess-classic",
-         "pubDate" : "Mon, 14 Jun 2021 19:09:00 +0400",
-         "title" : "Shakhriyar Mamedyarov wins the Superbet Romania Chess Classic - 9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83510902.cms\" />Bengal youngster Aronyak Ghosh will represent the country in the world youth chess championship later this year by finishing second in the National Under-18 Online Rapid event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aronyak-ghosh-qualifies-for-world-youth-chess/articleshow/83510902.cms",
-         "pubDate" : "Mon, 14 Jun 2021 17:43:02 +0530",
-         "title" : "Aronyak Ghosh qualifies for world youth chess"
-      },
-      {
-         "description" : " New features and updates for the <a href=\"https://new.arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Active game widget that follows you around the platform</h2> Sometimes when you are deep into a game and waiting for an opponent's move (especially in longer time controls) you want to visit the platform's lobby or see other games or profiles. Now you can - a useful widget with the last move indicator will follow you around and you can track your opponent's move. When you are ready to return to the game, use the 'go back to the game' button on the widget. <div class=\"e2-text",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-june-2021/",
-         "pubDate" : "Mon, 14 Jun 2021 11:59:06 +0000",
-         "title" : "What's New on FIDE Online Arena - June 2021"
       }
    ]
 }
