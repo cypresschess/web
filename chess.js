@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a great shock to wake up and learn that Yury Dokhoian had died, at the age of just 56, struck down by the accursed virus that has immobilized the world. Yet another reminder that we are not over it, yet. It is still going to take friends and loved ones. Frederic Friedel shares some memories of his friend Yury, with whom he spent a great deal of time. | Photo: Wiki, Porto Carras, 2011",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-yury",
+         "pubDate" : "Mon, 05 Jul 2021 12:00:00 +0100",
+         "title" : "Remembering Yury"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1188",
+         "pubDate" : "Mon, 05 Jul 2021 10:24:30 +0000",
+         "title" : "Proposals to change FIDE's rating and title regulations"
+      },
+      {
+         "description" : "GM Arjun Erigaisi beat GM Kirill Shevchenko on Sunday in what was the second match in the round of 16 in the&#38;nbsp;Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-erigaisi-beats-shevchenko",
+         "pubDate" : "Mon, 05 Jul 2021 02:34:00 -0700",
+         "title" : "Junior Speed Chess Championship: Erigaisi Beats Shevchenko"
+      },
+      {
          "description" : "Star columnist Jon Speelman reactivates his \"mirror\", a potent if imaginary artefact intended to reflect the best chess players ever. This week, a couple of games by Garry Kasparov, \"an (un)caged tiger who revels in violent conflict\". | Pictured: Kasparov with ChessBase's Matthias W&uuml;llenweber",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -346,7 +370,7 @@ news_feed (
          "title" : "Women's Speed Chess Championship: Hou Qualifies For Saturday Final With Harika"
       },
       {
-         "description" : " Share! Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!113 Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
@@ -398,7 +422,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sadhwani-beats-pultinevicius-junior-speed-chess-championship",
-         "pubDate" : "Fri, 02 Jul 2021 06:53:55 -0700",
+         "pubDate" : "Fri, 02 Jul 2021 06:53:00 -0700",
          "title" : "Sadhwani Beats Pultinevicius As Junior Speed Chess Championship Gets Underway"
       },
       {
@@ -1762,14 +1786,6 @@ news_feed (
          "title" : "Sam Shankland wins Prague Chess Festival Masters 2021"
       },
       {
-         "description" : "GM Sam Shankland won the third edition of the Prague Masters. Playing his first over-the-board tournament in 16 months, the California-based grandmaster finished on 5.5/7, half a point more than Polish GM Jan-Krzysztof Duda. How to watch?The g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sam-shankland-wins-prague-masters-2021",
-         "pubDate" : "Mon, 21 Jun 2021 10:22:00 -0700",
-         "title" : "Sam Shankland Wins Prague Masters With 2900 Performance"
-      },
-      {
          "description" : "Hundreds of different Fritztrainers have been teaching us chess on ChessBase for more than a decade. Maybe you sometimes wonder what else the authors of these Fritztrainers do? \"Meet the Fritztrainer\" takes a look behind the scenes, telling us more about the private life of your favourite chess trainer. Grandmaster Jan Werle recently made the Fritztrainer: \"The Saemisch Variation against the King's Indian and Benoni\". In our interview, he tells us why his signature glasses are missing, and what his puppy \"Molly\" has to do with this, and that he also created something else than Fritztrainers, and books, during the last year. | Photos: Jan Werle",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2362,14 +2378,6 @@ news_feed (
          "title" : "How a rookie 'beat' Anand - with a little help from his friends"
       },
       {
-         "description" : "In the last round of the Superbet Chess Classic, Shakhriyar Mamedyarov safely drew Maxime Vachier-Lagrave with the black to secure tournament victory. Wesley So, Levon Aronian and Alexander Grischuk shared second place a full point behind the Azerbaijani. The second event of the tour, the Paris Rapid & Blitz Tournament, kicks off on Friday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2021-r9",
-         "pubDate" : "Tue, 15 Jun 2021 01:15:00 +0100",
-         "title" : "Shakhriyar Mamedyarov wins Superbet Chess Classic"
-      },
-      {
          "description" : " GM Daniel Fernandez (ENG) and IM Junta Ikeda (AUS) have tied for first in the 2021 NSW Open, both with an undefeated 6/7. They started the day with draws in the 6th round (Fernandez against IM Gary Lane and Ikeda against IM James Morris), before both winning their final round games. Fernandez defeated Kerry Lin on the top board, while Ikeda beat Gary Lane on board 2. The minor places were filled by IM James Morris, Sterling Bayaca and Harry Press. Due to the large field in the Open (78 players) and results in the earlier rounds, Fernandez and Ikeda did not play each other. Only Lin and Lane played both of the winners, while the field was much more varied for the other top finishers. The Und",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2408,22 +2416,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-june-2021/",
          "pubDate" : "Mon, 14 Jun 2021 11:59:06 +0000",
          "title" : "What's New on FIDE Online Arena - June 2021"
-      },
-      {
-         "description" : " The Gelfand Challenge was the second rapid event of the Baer Challengers Chess Tour played on the Chess24 servers. This 20 player round robin had some of the best young players competing. The time control was 10 minutes plus a 5-second increment. Players: Nodirbek Abdusattorov, Sarin Nihal, R Praggnanandhaa, Awonder Liang, Vincent Keymer, D Gukesh, Leon Luke Mendonca, Jonas Buhl Bjerre, Tingjie Lei, Volodar Murzin, Dinara Saduakassova, Sarasadat Khademalsharieh, Polina Shuvalova, Zhansaya Abdumalik, Jiner Zhu, Christopher Woojin Yoo, Gunay Mammadzada, Carissa Yip, Olga Badelka, Nurgyul Salimova. D Gukesh just edged out R Praggnanandhaa on tie-break (he beat him in their individual game and ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gelfand-challenge-2021",
-         "pubDate" : "Mon, 14 Jun 2021 14:50:00 +0400",
-         "title" : "Gelfand Challenge 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1145",
-         "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
-         "title" : "2021 Superbet Chess Classic - Day 8 Recap"
       }
    ]
 }
