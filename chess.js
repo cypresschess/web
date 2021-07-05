@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Renowned Russian chess coach Yury Dokhoian was buried today in the Nikolo-Khovanskoye cemetery near Moscow after dying from COVID-19 on July 1st at the age of just 56. Sergey Karjakin, who was coached by Dokhoian from 2009-2020, and 18-year-old Andrey Esipenko, his latest prot&eacute;g&eacute;, attended the funeral. Yury was a strong chess player, but was best known as Garry Kasparov's second for the last decade of his career, before going on to coach the Kosintseva sisters and head the Russian women's and men's teams.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/karjakin-and-esipenko-pay-tribute-to-their-coach-yury-dokhoian-1964-2021",
+         "pubDate" : "Mon, 05 Jul 2021 21:43:48 +0000",
+         "title" : "Karjakin and Esipenko pay tribute to their coach Yury Dokhoian (1964-2021)"
+      },
+      {
+         "description" : "Bischwiller claimed their third consecutive French club championship title by winning the 2021 edition of 'Top 12' in Chalons en Champagne. Led by French Grandmaster Etienne Bacrot, the club scored an impressive 10 wins and a draw in the 11-round event to claim 32 points, three ahead of the runners-up Asnieres. | Pictured: Marie Sebag (left) of Bischwiller defeated Pauline Guichard of Asnieres in their round-5 match",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bischwiller-wins-french-club-championship-2021",
+         "pubDate" : "Mon, 05 Jul 2021 22:20:00 +0100",
+         "title" : "Bischwiller claim hat-trick of French club championship titles"
+      },
+      {
          "description" : "Levon Aronian had a short day at the office on Sunday, as he scored back-to-back wins against Vladislav Artemiev to secure first place at the Goldmoney Asian Rapid tournament. Meanwhile, Ding Liren bounced back from his loss in the first set by remarkably beating Magnus Carlsen 3-0 in their second mini-match. However, it was the world champion who prevailed in the blitz tiebreakers to take third place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Game of the Week: Vachier-Lagrave vs Radjabov"
       },
       {
-         "description" : "World Champion Magnus Carlsen starts his Goldmoney Asian Rapid campaign this Saturday, June 26th with clashes against 18-year-old Alireza Firouzja, women's no. 1 Hou Yifan and Paris Rapid & Blitz winner Wesley So. Other Day 1 pairings for the 7th event on the Meltwater Champions Chess Tour include Indian maverick Adhiban taking on all three of his Indian colleagues - 15-year-old Gukesh, 17-year-old Erigaisi and finally Vidit. There's a novelty in the commentary teams, with Danny King stepping in for Peter Leko as Tania Sachdev's partner.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-starts-goldmoney-asian-rapid-against-firouzja-hou-yifan-so",
-         "pubDate" : "Wed, 23 Jun 2021 16:52:49 +0000",
-         "title" : "Carlsen starts Goldmoney Asian Rapid against Firouzja, Hou Yifan & So"
-      },
-      {
          "description" : "The new edition of one of our favourite books, by problemist Werner Keym, now contains 400 famous examples of brilliant games, remarkable, sometimes outrageous studies, and preposterous chess problems. The book includes a lot of subsidiary diagrams that makes it particularly easy to read. We bring you a number of entertaining examples: for instance, can you find a forced mate in two in this position? There is only one key move that will do it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2392,14 +2400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-fernandez-and-ikeda-share.html",
          "pubDate" : "Tue, 15 Jun 2021 00:09:00 +0000",
          "title" : "2021 NSW Open - Fernandez and Ikeda share the spoils"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1146",
-         "pubDate" : "Mon, 14 Jun 2021 23:14:43 +0000",
-         "title" : "Shakhriyar Mamedyarov wins Superbet Classic"
       }
    ]
 }
