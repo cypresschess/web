@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1145",
          "pubDate" : "Mon, 14 Jun 2021 09:21:45 +0000",
          "title" : "2021 Superbet Chess Classic - Day 8 Recap"
-      },
-      {
-         "description" : " Disclaimer: I am no doctor, nor do I want to play one on the internet. I am just telling what has worked for me. If you have serious issues with Stress, then please visit a doctor! Chess games and tournaments can be extremely stressful. You have to sit tight and think for hours. Every moment [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/stress-reduction/\">Reducing Stress During Tournaments 3 Easy Steps To Less Stress</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/stress-reduction/?utm_source=rss&utm_medium=rss&utm_campaign=stress-reduction",
-         "pubDate" : "Mon, 14 Jun 2021 06:00:00 +0000",
-         "title" : "Reducing Stress During Tournaments - 3 Easy Steps To Less Stress"
       }
    ]
 }
