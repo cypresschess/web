@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The list of players registered for World Youth &#38; Cadet Championship except Under-10 Open &#38; Girls is appended below:- In case any player who registered",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attention-world-youth-cadet-online-championship/",
+         "pubDate" : "Tue, 06 Jul 2021 11:23:40 +0000",
+         "title" : "KIND ATTENTION : WORLD YOUTH & CADET ONLINE CHAMPIONSHIP"
+      },
+      {
+         "description" : "The 34th edition of the \"Magistral Ciudad de Le&oacute;n\" took place online from June 30 until July 4. A 4-player knockout, the event saw Boris Gelfand beating Leinier Dominguez in the final match played on Sunday. Dominguez had defeated women's world champion Ju Wenjun while Gelfand had knocked out Jaime Santos in the semifinals. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boris-gelfand-wins-leon-masters-2021",
+         "pubDate" : "Tue, 06 Jul 2021 12:20:00 +0100",
+         "title" : "Boris Gelfand prevails in Leon"
+      },
+      {
+         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov This year's edition of Canadian Youth Chess Championship (CYCC) took place online at Lichess. The format was unusual and consisted of 7 rapid games (15 minutes + 10 seconds increment), all played on Saturday, July 3rd. While the format attracted a higher than usual number of <a href=\"https://chessimprover.com/tales-from-cycc-2021/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021/\">Tales from CYCC 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tales-from-cycc-2021/",
+         "pubDate" : "Tue, 06 Jul 2021 09:30:58 +0000",
+         "title" : "Tales from CYCC 2021"
+      },
+      {
+         "description" : "Overcoming both a 1-7 deficit and internet issues, GM Parham Maghsoodloo defeated GM Praggnanandhaa R. on Monday in their round of 16 match of the Junior Speed Chess Championship presented by ChessKid. The next match in the championship is GM Am...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-maghsoodloo-praggnanandhaa",
+         "pubDate" : "Tue, 06 Jul 2021 02:00:00 -0700",
+         "title" : "Junior Speed Chess: Record Comeback Maghsoodloo vs. Praggnanandhaa"
+      },
+      {
          "description" : "Knights that fight against pawns can be clumsy but sometimes they can also work magic. In the diagram position, Black's a-pawn wants to queen but the white knight can still stop him. On the other hand it is hard to see how Black can stop White's e-pawn from queening. But Black can help her knight to do some magic and win. Do you have an idea how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1674,6 @@ news_feed (
          "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
       },
       {
-         "description" : "Leading from start to finish, GM Wesley So won the Paris Rapid &#38;amp; Blitz tournament as the best and most consistent player in the field. The American player secured the $37,500 first prize with a round to spare before beating his closest rival G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-paris-rapid-blitz",
-         "pubDate" : "Tue, 22 Jun 2021 11:47:00 -0700",
-         "title" : "Wesley So Wins 2021 Paris Rapid & Blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1840,14 +1864,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
          "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
          "title" : "Tie-breaks"
-      },
-      {
-         "description" : "National Under-12 Open Online Chess Championship, in which more than 700 players from across the nation are participating got off to a rousing start on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-12-open-online-chess-championships-begins/",
-         "pubDate" : "Mon, 21 Jun 2021 06:27:48 +0000",
-         "title" : "National Under-12 Open Online Chess Championships begins"
       },
       {
          "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-spyridos-kapnisis",
          "pubDate" : "Fri, 18 Jun 2021 11:00:00 +0100",
          "title" : "Play the Author - Theme tournament with Spyridos Kapnisis"
-      },
-      {
-         "description" : " Last week, we started our examination of the pin, one of the first chess tactics a beginner learns. Today we'll finish looking at the pin and a few caveats to keep in mind when employing this tactic, or any tactic for that matter. In my previous article, we looked at the fundamentals of the pin. <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-three/\">A Foundation for Beginners Twenty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-three/",
-         "pubDate" : "Fri, 18 Jun 2021 09:13:55 +0000",
-         "title" : "A Foundation for Beginners Twenty Three"
       },
       {
          "description" : "The 2021 Superbet Chess Classic concluded on June 14 and Shakhriyar Mamedyarov (pictured) won with 6.0/9 (3 wins, 6 draws). FM Joshua Doknjas analyzes four games from the second half of the event, all of which contain interesting opening ideas. | Photo: Lennart Ootes (Archive)",
@@ -2346,14 +2354,6 @@ news_feed (
          "title" : "It is time to move on and get closure: Anand on Kamath's misdemeanor in simul event"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at Shakhriyar Mamedyarov's win at the Superbet Classic in Bucharest. The featured game will be Caruana-Mamedyarov where Mamedyarov scored a brilliant victory with Black against the world's number two. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-superbet-chess-classic-2",
-         "pubDate" : "Tue, 15 Jun 2021 17:57:07 +0100",
-         "title" : "The Weekly Show: The Superbet Chess Classic"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" />Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/prague-chess-festival-2021/",
          "pubDate" : "Tue, 15 Jun 2021 11:52:00 +0000",
          "title" : "Prague Chess Festival 2021"
-      },
-      {
-         "description" : "August 26th - September 5th, Reykjav&iacute;k, Iceland the Icelandic Chess Federation is organising, and invites entries to, the above event under the auspices of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2021/",
-         "pubDate" : "Tue, 15 Jun 2021 09:37:32 +0000",
-         "title" : "European Individual Chess Championship 2021"
       }
    ]
 }
