@@ -2384,14 +2384,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2021/",
          "pubDate" : "Tue, 15 Jun 2021 09:37:32 +0000",
          "title" : "European Individual Chess Championship 2021"
-      },
-      {
-         "description" : "Celeb at charity event breaks rules, puts spotlight on online chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
-         "pubDate" : "Mon, 14 Jun 2021 23:02:09 -0500",
-         "title" : "How a rookie 'beat' Anand - with a little help from his friends"
       }
    ]
 }
