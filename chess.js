@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knights that fight against pawns can be clumsy but sometimes they can also work magic. In the diagram position, Black's a-pawn wants to queen but the white knight can still stop him. On the other hand it is hard to see how Black can stop White's e-pawn from queening. But Black can help her knight to do some magic and win. Do you have an idea how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-magic-knight",
+         "pubDate" : "Tue, 06 Jul 2021 09:00:00 +0100",
+         "title" : "A magic knight"
+      },
+      {
          "description" : "Renowned Russian chess coach Yury Dokhoian was buried today in the Nikolo-Khovanskoye cemetery near Moscow after dying from COVID-19 on July 1st at the age of just 56. Sergey Karjakin, who was coached by Dokhoian from 2009-2020, and 18-year-old Andrey Esipenko, his latest prot&eacute;g&eacute;, attended the funeral. Yury was a strong chess player, but was best known as Garry Kasparov's second for the last decade of his career, before going on to coach the Kosintseva sisters and head the Russian women's and men's teams.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2368,14 +2376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/prague-chess-festival-2021/",
          "pubDate" : "Tue, 15 Jun 2021 11:52:00 +0000",
          "title" : "Prague Chess Festival 2021"
-      },
-      {
-         "description" : "Yesterday, 14 June, the Prague Chess Festival 2021 began at the Don Giovanni Hotel in Prague, with a Masters tournament, an Open and a few other tournaments. In the Masters Jan-Krzysztof Duda started with a win over David Navara. | Photo: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duda-beats-navara-in-the-first-round-of-the-prague-chess-festival",
-         "pubDate" : "Tue, 15 Jun 2021 12:47:12 +0100",
-         "title" : "Duda beats Navara in the first round of the Prague Chess Festival"
       },
       {
          "description" : "August 26th - September 5th, Reykjav&iacute;k, Iceland the Icelandic Chess Federation is organising, and invites entries to, the above event under the auspices of...",
