@@ -2392,14 +2392,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/31631136/how-nikhil-kamath-beat-viswanathan-anand-little-help-friends?device=featurephone",
          "pubDate" : "Mon, 14 Jun 2021 23:02:09 -0500",
          "title" : "How a rookie 'beat' Anand - with a little help from his friends"
-      },
-      {
-         "description" : " GM Daniel Fernandez (ENG) and IM Junta Ikeda (AUS) have tied for first in the 2021 NSW Open, both with an undefeated 6/7. They started the day with draws in the 6th round (Fernandez against IM Gary Lane and Ikeda against IM James Morris), before both winning their final round games. Fernandez defeated Kerry Lin on the top board, while Ikeda beat Gary Lane on board 2. The minor places were filled by IM James Morris, Sterling Bayaca and Harry Press. Due to the large field in the Open (78 players) and results in the earlier rounds, Fernandez and Ikeda did not play each other. Only Lin and Lane played both of the winners, while the field was much more varied for the other top finishers. The Und",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-fernandez-and-ikeda-share.html",
-         "pubDate" : "Tue, 15 Jun 2021 00:09:00 +0000",
-         "title" : "2021 NSW Open - Fernandez and Ikeda share the spoils"
       }
    ]
 }
