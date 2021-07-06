@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Higher League. He analyses a highly entertaining victory by Maksim Chigaev, one that included a spectacular finish. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-russian-higher-league-2021",
+         "pubDate" : "Tue, 06 Jul 2021 18:45:00 +0100",
+         "title" : "The Weekly Show: A spectacular finish from the Russian Higher League"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1191",
+         "pubDate" : "Tue, 06 Jul 2021 17:32:15 +0000",
+         "title" : "Intercontinental Online Chess Championship for Prisoners announced"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Following the twitter debate over the legitimacy of the most recent youngest GM record, <strong>FIDE</strong> <a href=\"https://fide.com/news/1188\">invites suggestions</a> on ratings and titles in two open Zoom sessions on 19 resp. 21 July. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-discusses-ratings-and-titles/",
+         "pubDate" : "Tue, 06 Jul 2021 18:20:14 +0100",
+         "title" : "FIDE discusses ratings and titles"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French league aka <strong>Top12</strong>, held in Chalons-en-Champagne, was <a href=\"https://chess24.com/fr/read/news/les-combinaisons-du-top-12\">won for the third consecutive time</a> by the team of the Alsatian town <strong>Bischwiller</strong> that is sponsored by <strong>GRENKE</strong> as well as the German team champion from Baden-Baden which lies a mere 30 km across the Rhine to the East. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/grenke-sponsored-bischwiller-wins/",
+         "pubDate" : "Tue, 06 Jul 2021 18:16:21 +0100",
+         "title" : "Grenke sponsored Bischwiller wins Top12"
+      },
+      {
+         "description" : "Let us assume you are a chess amateur, who in pandemic times have become obsessed with improving your game. Wouldn't it be nice to have one of the top ten players in the world coach you? If that is what you want it is of advantage to be a leading stand-up comedian. But even if you are not, you can still profit from this charming little lesson Anish Giri, rated 2776, gave Biswa Kalyan Rath, 1600, on how to best use a bishop pair to win a game. Learn and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/coaching-from-a-top-ten-player",
+         "pubDate" : "Tue, 06 Jul 2021 18:00:00 +0100",
+         "title" : "Coaching from a top ten player"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG\" data-image-dimensions=\"431x244\" data-image-focal-point=\"0.5,0.5\" alt=\"Gotham.JPG\" data-load=\"false\" data-image-id=\"60e46f3a9d9258644a4c3c29\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG?format=1000w\" /> </figure> <p class=\"\">IM Levy Rozman a/k/a \"GothamChess\" is a chess commentator, Twitch streamer, and, of course, creator of one of the most popular Chess YouTube channels in the World. His chan",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2021 - Official regulations"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A poll shows how chess clubs in the Netherlands are surviving the pandemic and what support they expect from their national federation, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/promoknsb.1920.jpeg\" title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. KNSB\" data-title=\"\"Chess does something with you\" is the slogan of promotional posters the Dutch federation is providing to clubs. (KNSB)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/promoknsb.480.jpeg\" a",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/what-clubs-need-now/",
-         "pubDate" : "Sat, 03 Jul 2021 05:09:57 +0100",
-         "title" : "What clubs need now"
-      },
-      {
          "description" : " That was surprising! Magnus Carlsen and Ding Liren won their first mini-matches in the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a> against Levon Aronian and Vladislav Artemiev, respectively, as noted a few posts back. But both lost today, both in the second mini-match and in their subsequent tiebreaks. The latter match was more competitive, but for Carlsen it was as if he left his mind asleep in bed. Aronian won games 1 and 4 of the second mini-match (the other games were drawn), and then won both of the blitz games in the tiebreak to advance. (How many times has Carlsen scored just 1 out of 6 in professional competition?) The final between the \"Ar\"s starts tomorrow.",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/fide-partners-with-binance/",
          "pubDate" : "Fri, 02 Jul 2021 16:18:37 +0100",
          "title" : "FIDE partners with Binance"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> GM <strong>Yuri Dokhoian</strong> who was Garry Kasparov's permanent second and later on coach of the <strong>Russian Chess Federation</strong> and most recently of Andrei Esipenko has <a href=\"https://ruchess.ru/en/news/all/rip_yury_dokhoian_1964_2021/\">died from Covid-19</a> in Moscow. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/yuri-dokhoian-1964-2021/",
-         "pubDate" : "Fri, 02 Jul 2021 16:03:37 +0100",
-         "title" : "Yuri Dokhoian (1964-2021)"
       },
       {
          "description" : "In the new ChessBase Magazine # 202, Ian Nepomniachtchi, the winner of the Candidates Tournament 2020/20201 and World Championship challenger, takes a close look at his crucial win against Wang Hao in the Candidates. Nepomniachtchi provides deep but also entertaining commentary. Here's a shortened version of his analysis. Enjoy!",
@@ -2298,14 +2322,6 @@ news_feed (
          "title" : "CBM Extra #201: \"The brilliancy\""
       },
       {
-         "description" : "Computer cheating in online chess is a real plague. Now an Indian billionaire and two Bollywood celebrities have even cheated when they had the chance to play against Vishy Anand at the online charity simul \"Checkmate Covid\", an event to help the Indian Red Cross' COVID-19 relief.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/billionaire-and-celebrities-cheat-at-charity-simul",
-         "pubDate" : "Wed, 16 Jun 2021 15:48:17 +0100",
-         "title" : "Billionaire and celebrities cheat at Charity Simul"
-      },
-      {
          "description" : "Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour and this year is no exception. Through the support of Vivendi and Colliers International, Paris will host the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Ten elite grandmasters will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2328,14 +2344,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/a-great-escape.html",
          "pubDate" : "Wed, 16 Jun 2021 13:48:00 +0000",
          "title" : "A great escape"
-      },
-      {
-         "description" : "In round 2 of the Masters at the Prague Chess Festival David Navara played against Radoslaw Wojtaszek and suffered his second loss in a row. Sam Shankland won against Jan-Krzysztof Duda and Nihat Abasov defeated Nils Grandelius. After two rounds Sam Shankland, Radoslav Wojtaszek and Nijat Abasov share the lead with 1.5/2 each. | Picture: The hotel Don Giovanni, the host of the event",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-three-decisions-in-round-2",
-         "pubDate" : "Wed, 16 Jun 2021 12:49:12 +0100",
-         "title" : "Prague Chess Festival: Three decisions in round 2"
       },
       {
          "description" : "The Northumbria Masters is pleased to announce that the John Robinson Youth Chess Trust has generously made junior bursaries available to a number of Under...",
@@ -2376,22 +2384,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/15/old-time-gms-on-old-time-game-shows.html",
          "pubDate" : "Tue, 15 Jun 2021 22:35:31 +0000",
          "title" : "Old-Time GMs on Old-Time Game Shows"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" />Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/it-is-time-to-move-on-and-get-closure-anand-on-kamaths-misdemeanor-in-simul-event/articleshow/83551109.cms",
-         "pubDate" : "Tue, 15 Jun 2021 22:42:16 +0530",
-         "title" : "It is time to move on and get closure: Anand on Kamath's misdemeanor in simul event"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83546238.cms\" />Former world champion Viswanathan Anand will participate in the Croatia Grand Chess Tour Rapid and Blitz tournament to be held in Zagreb from July 5 to 12.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms",
-         "pubDate" : "Tue, 15 Jun 2021 21:12:51 +0530",
-         "title" : "Anand to feature in Croatia leg of Grand Chess Tour"
       }
    ]
 }
