@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG\" data-image-dimensions=\"431x244\" data-image-focal-point=\"0.5,0.5\" alt=\"Gotham.JPG\" data-load=\"false\" data-image-id=\"60e46f3a9d9258644a4c3c29\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG?format=1000w\" /> </figure> <p class=\"\">IM Levy Rozman a/k/a \"GothamChess\" is a chess commentator, Twitch streamer, and, of course, creator of one of the most popular Chess YouTube channels in the World. His chan",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/6/episode-233-im-levy-rozman-returns",
+         "pubDate" : "Tue, 06 Jul 2021 15:00:02 +0000",
+         "title" : "Episode 233- IM Levy Rozman returns "
+      },
+      {
+         "description" : "Following the recent request for candidates for the posts of Direct Members' Representatives to Council, the following have been returned unopposed and will take up...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
+         "pubDate" : "Tue, 06 Jul 2021 14:40:18 +0000",
+         "title" : "Direct Members' Representatives - elections"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84175565.cms\" />Five-time world champion Viswanathan Anand will resume his storied rivalry with Russian legend Garry Kasparov in the Croatia Grand Chess Tour Rapid and Blitz tournament beginning on Wednesday, returning to over-the-board action after more than a year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-returns-to-over-the-board-action-after-a-year-in-croatia/articleshow/84175565.cms",
+         "pubDate" : "Tue, 06 Jul 2021 20:05:10 +0530",
+         "title" : "Anand returns to over-the-board action after a year in Croatia"
+      },
+      {
+         "description" : " Another game in the ongoing Press v Hosking matchup. This time it wasn't drawn! <br /> <b>Press,Shaun - Hosking,Ian [A50]</b><br />Belconnen Rapid, 06.07.2021 <script>new PgnViewer( { boardName: \"game1257\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.g3 g6 5.Bg2 Bg7 6.Nc3 O-O 7.O-O d6 8.Qc2 Nbd7 9.e4 e5 10.Rd1 Re8 11.dxe5 dxe5 12.Bg5 h6 13.Bxf6 Bxf6 14.Qd2 Nc5 15.Qxh6 Qe7 16.Qe3 Rad8 17.Nd5 Bxd5 18.cxd5 Qd7 19.Rdc1 Qg4 20.b4 Na6 21.a3 Re7 22.Rc6 Kg7 23.Rac1 Rdd7 24.h3 Qh5 25.g4 Qh8 26.g5 Bxg5 27.Qxg5 Kf8 28.Bf1 Nb8 29.Rxc7 Rxc7 30.Rxc7 Rxc7 31.Qd8+ Kg7 32.Qxc7 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1257-container\"></div><div i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/not-always-drawn.html",
+         "pubDate" : "Tue, 06 Jul 2021 14:03:00 +0000",
+         "title" : "Not always drawn"
+      },
+      {
+         "description" : "The English is becoming increasingly popular as White players avoid the heavy theory of 1.e4 or 1.d4 and hope to achieve a small advantage in a safe position. A lot of club players tend to focus on openings against 1.e4 and 1.d4 but neglect to study a response to the English. 1...e5 is a theoretically sound response with good chances of equality or better in all variations, and in this video series, Grandmaster Nicholas Pert provides a complete Black repertoire based on this move.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-nicholas-pert-a-complete-black-repertoire-versus-the-english-1-e5",
+         "pubDate" : "Tue, 06 Jul 2021 15:00:00 +0100",
+         "title" : "New: Nicholas Pert: A Complete Black Repertoire versus the English, 1...e5"
+      },
+      {
          "description" : "The list of players registered for World Youth &#38; Cadet Championship except Under-10 Open &#38; Girls is appended below:- In case any player who registered",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Tales from CYCC 2021"
       },
       {
-         "description" : "Overcoming both a 1-7 deficit and internet issues, GM Parham Maghsoodloo defeated GM Praggnanandhaa R. on Monday in their round of 16 match of the Junior Speed Chess Championship presented by ChessKid. The next match in the championship is GM Am...",
+         "description" : "Overcoming both a 1-7 deficit and internet disconnections, GM Parham Maghsoodloo defeated GM Praggnanandhaa R. on Monday in their round-of-16 match of the Junior Speed Chess Championship presented by ChessKid. The next match in the championship ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-maghsoodloo-praggnanandhaa",
@@ -78,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gelfand-wins-34th-leon-masters",
-         "pubDate" : "Mon, 05 Jul 2021 08:05:48 -0700",
+         "pubDate" : "Mon, 05 Jul 2021 08:05:00 -0700",
          "title" : "Gelfand Wins 34th Leon Masters"
       },
       {
@@ -1554,6 +1594,14 @@ news_feed (
          "title" : "Undermine 'em with the Ufimtsev"
       },
       {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Thu, 24 Jun 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
+      },
+      {
          "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1640,14 +1688,6 @@ news_feed (
          "link" : "https://chessimprover.com/fifty-shades-of-ray/",
          "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
          "title" : "Fifty Shades of Ray"
-      },
-      {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Wed, 23 Jun 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
@@ -2338,14 +2378,6 @@ news_feed (
          "title" : "Old-Time GMs on Old-Time Game Shows"
       },
       {
-         "description" : "Unlike other sports, chess allows for players to agree to a draw, be it explicitly or implicitly - for example, by entering a forced line that leads to a threefold repetition. Many workarounds have been proposed to prevent this from happening too often, but at the end of the day, it mostly has to do with how 'fighting' a player is. But how to measure the players' combativeness? GM David Smerdon has developed a method to answer this question.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/david-smerdon-introduces-the-fighting-chess-index",
-         "pubDate" : "Tue, 15 Jun 2021 23:00:00 +0100",
-         "title" : "David Smerdon introduces the Fighting Chess Index"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83551109.cms\" />Former world champion Viswanathan Anand on Tuesday said it is time to move and \"get closure\" on the controversy that erupted after his loss to entrepreneur Nikhil Kamath in an online simultaneous charity event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2360,22 +2392,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-feature-in-croatia-leg-of-grand-chess-tour/articleshow/83546238.cms",
          "pubDate" : "Tue, 15 Jun 2021 21:12:51 +0530",
          "title" : "Anand to feature in Croatia leg of Grand Chess Tour"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg\" data-image-dimensions=\"1280x720\" data-image-focal-point=\"0.5,0.5\" alt=\"hzYQj_zC.jpg large.jpg\" data-load=\"false\" data-image-id=\"60c8a1ee26697a315dcd872c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1623761390134-HQOWSI3D0CV915GLKMTL/hzYQj_zC.jpg+large.jpg?format=1000w\" /> </figure> <iframe src=\"https://omny.fm/shows/perpetual-chess-podcast/ep-230-braden-laughlin/embed\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/15/episode-231-braden-laughlin-adult-improver-series",
-         "pubDate" : "Tue, 15 Jun 2021 12:58:42 +0000",
-         "title" : "Episode 231- Braden Laughlin (Adult Improver Series)"
-      },
-      {
-         "description" : "The 2021 edition of the Prague Chess Festival takes place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The Festival features Masters, Futures, Open and Rated tournaments. The main Master event is an 8-player round-robin tournament with participation of: Duda Jan-Krzysztof (POL) Van Foreest Jorden (NED) Navara David (CZE) Shankland Sam (USA) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-festival-2021/",
-         "pubDate" : "Tue, 15 Jun 2021 11:52:00 +0000",
-         "title" : "Prague Chess Festival 2021"
       }
    ]
 }
