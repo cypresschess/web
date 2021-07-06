@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A multiple Romanian champion, Mihail Marin's first major international success was achieved in 1987, when he qualified to the Interzonal Tournament played in Szir&aacute;k. A famed author, he was described by Jeremy Silman as \"one of the world's finest chess writers\". Marin shares with us his most memorable game, a fantastic win with the white pieces played at the 1996 Chess Olympiad in Yerevan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-most-memorable-game-marin",
+         "pubDate" : "Wed, 07 Jul 2021 01:00:00 +0100",
+         "title" : "Mihail Marin: My most memorable game"
+      },
+      {
+         "description" : "GM Amin Tabatabaei narrowly defeated GM Anton Smirnov in an exciting match on Tuesday in the Junior Speed Chess Championship presented by ChessKid. Tabatabaei is the second Iranian player to move on to the quarterfinals after GM Parham Maghsoodloo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-tabatabaei-knocks-out-smirnov",
+         "pubDate" : "Tue, 06 Jul 2021 16:11:00 -0700",
+         "title" : "Junior Speed Chess Championship: Tabatabaei Knocks Out Smirnov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1192",
+         "pubDate" : "Tue, 06 Jul 2021 20:17:33 +0000",
+         "title" : "Ponkratov and Guseva win Higher League of Russian Championship"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Higher League. He analyses a highly entertaining victory by Maksim Chigaev, one that included a spectacular finish. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
-         "description" : "While others have come close, GM Anton Korobov became the first player to score 10.5/11 in Titled Tuesday, earning him a full-point tournament victory on June 22. GM Aryan Tari came in second with 9.5/11 on a tiebreak over GM Oleksandr Bortnyk. Ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/korobov-wins-june-22-titled-tuesday",
-         "pubDate" : "Wed, 23 Jun 2021 15:03:00 -0700",
-         "title" : "Korobov Wins June 22 Titled Tuesday With Record-Setting Performance"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look how Maxime Vachier-Lagrave won a fine positional and attacking game in a popular opening line against Teimour Radjabov at the Grand Chess Tournament in Paris. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2314,14 +2330,6 @@ news_feed (
          "title" : "Game of the Week: Gukesh-Praggnanandhaa"
       },
       {
-         "description" : "The ChessBase Magazine Extra is up-to-date and attractive. In the new Extra # 201, Mihail Marin takes the game Grischuk-Vachier-Lagrave from the Candidates Tournament as the starting point of his opening video \"Anti-Najdorf &agrave; la Carlsen\" (1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 ), and Daniel King provides a video analysis of the way Caruana handled the King's Indian in Wojtaszek-Caruana (Tata Steel 2021). And in the famous \"Lucky Bag\" you will find many high-quality analyses and chess treats. \"The brilliancy\" is one example of the 25 extensively annotated games in the new edition. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-extra-201-the-brilliancy",
-         "pubDate" : "Wed, 16 Jun 2021 16:00:00 +0100",
-         "title" : "CBM Extra #201: \"The brilliancy\""
-      },
-      {
          "description" : "Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour and this year is no exception. Through the support of Vivendi and Colliers International, Paris will host the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Ten elite grandmasters will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2376,14 +2384,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms",
          "pubDate" : "Wed, 16 Jun 2021 06:02:03 +0530",
          "title" : "Nikhil Kamath ban lifted as Anand says 'forgot and forgave'"
-      },
-      {
-         "description" : " While the game show called \"You Bet Your Life\" was before my time, Groucho Marx and the Marx Brothers were well-known to people of my age cohort, at least in the U.S. and, I suspect, elsewhere. For those of you who only know that last name as a politican/economic figure, you're missing out - go dig up some clips on YouTube. At any rate, Groucho went on to be the host of the aforementioned (rather quirky) game show, and in <a href=\"https://archive.org/details/youBetYourLife1956-SecretWordDoor\">this episode</a> [HT: Les Kistler] from 1956 one of his guests was grandmaster <a href=\"https://en.wikipedia.org/wiki/Isaac_Kashdan\">Isaac Kashdan</a> (1905-1985). On the show, Kashdan was paired up wi",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/15/old-time-gms-on-old-time-game-shows.html",
-         "pubDate" : "Tue, 15 Jun 2021 22:35:31 +0000",
-         "title" : "Old-Time GMs on Old-Time Game Shows"
       }
    ]
 }
