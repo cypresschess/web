@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The list of players registered for World Youth &#38; Cadet Championship (all categories) is appended below:- In case any player who registered and his/her name",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attention-world-youth-cadet-online-championship-list-of-all-categories/",
+         "pubDate" : "Wed, 07 Jul 2021 13:59:22 +0000",
+         "title" : "KIND ATTENTION : WORLD YOUTH & CADET ONLINE CHAMPIONSHIP LIST OF ALL CATEGORIES"
+      },
+      {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Wed, 07 Jul 2021 14:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Live!"
+      },
+      {
+         "description" : "Aleksandra Goryachkina has qualified to play in the \"men's\" Russian Championship Superfinal after finishing 3rd in the Higher League with a brilliant 6.5/9. 22-year-old Aleksandra, the reigning Russian Women's Champion, scored a perfect 5/5 with the white pieces as she climbed to 2610.5 on the live rating list, the 4th highest female rating of all time. Russian Women's Championship runner-up Polina Shuvalova also starred as she finished 14th, picking up 18 rating points to storm into the 2500 club.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goryachkina-6th-woman-ever-to-cross-2600",
+         "pubDate" : "Wed, 07 Jul 2021 13:01:31 +0000",
+         "title" : "Goryachkina 6th woman ever to cross 2600"
+      },
+      {
+         "description" : " An opening that I've had a long standing affection for is the Wing Gambit against the Sicilian Defence (1.e5 c5 2.b4!?). I recommended it for White in my 2007 book, Gambiteer I, something that drew a mixed reception. Club players who tried it in their games reported having a lot of fun with it, several <a href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Whack 'em with the Wing Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\">Whack 'em with the Wing Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/whack-em-with-the-wing-gambit/",
+         "pubDate" : "Wed, 07 Jul 2021 13:00:57 +0000",
+         "title" : "Whack 'em with the Wing Gambit"
+      },
+      {
          "description" : "If you are a true chess aficionado, you will want to stay updated with the latest games from tournaments all over the world! ChessBase 16 lets you do that with a single click. You can see all currently running tournament games, with machine analysis, the important novelties that were played, and even the most interesting tactical shots that occurred in the latest games. IM Sagar Shah explains it all to you in this tutorial video. It is just five minutes long, but will save you hours of tedious searching and copying.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "AlphaZero to analyse \"no-castling\" match of the champions"
       },
       {
-         "description" : "GM Aleksandra Goryachkina is the first woman ever to qualify for the open section of the Russian Championship Superfinal. The 22-year-old grandmaster from Orsk, Russia finished in shared second place at the Higher League tournament in Cheboksary, ...",
+         "description" : "GM Aleksandra Goryachkina is the first woman ever to qualify for the open section of the Russian Championship Superfinal. The 22-year-old grandmaster from Orsk, Russia, finished in shared second place at the Higher League tournament in Cheboksary,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aleksandra-goryachkina-russian-championship-higher-league-superfinal-2600",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-nicholas-pert-a-complete-black-repertoire-versus-the-english-1-e5",
          "pubDate" : "Tue, 06 Jul 2021 15:00:00 +0100",
          "title" : "New: Nicholas Pert: A Complete Black Repertoire versus the English, 1...e5"
-      },
-      {
-         "description" : "The list of players registered for World Youth &#38; Cadet Championship except Under-10 Open &#38; Girls is appended below:- In case any player who registered",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attention-world-youth-cadet-online-championship/",
-         "pubDate" : "Tue, 06 Jul 2021 11:23:40 +0000",
-         "title" : "KIND ATTENTION : WORLD YOUTH & CADET ONLINE CHAMPIONSHIP"
       },
       {
          "description" : "The 34th edition of the \"Magistral Ciudad de Le&oacute;n\" took place online from June 30 until July 4. A 4-player knockout, the event saw Boris Gelfand beating Leinier Dominguez in the final match played on Sunday. Dominguez had defeated women's world champion Ju Wenjun while Gelfand had knocked out Jaime Santos in the semifinals. | Photo: Amruta Mokal",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "Magnus Carlsen's Champions Tour -- Asian Rapid"
       },
       {
-         "description" : "One of the most famous examples of longevity in top-level chess is Vassily Smyslov reaching the Final of the Candidates Matches against Garry Kasparov in 1984. Smyslov turned 63 during the match, while Kasparov celebrated his 21st birthday on the last day of the confrontation - three to one age odds!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/at-what-age-do-chess-players-peak",
-         "pubDate" : "Sat, 26 Jun 2021 09:51:03 +0000",
-         "title" : "At what age are chess players at their peak?"
-      },
-      {
          "description" : "On Sunday July 18 2021, Trafalgar Square will be taken over by numerous chess manifestations designed to introduce the general public to the game. There will be opportunities to challenge Grandmasters, as well as receive tuition, but the highlight of the day will be a display of living chess, with actors taking on the characters []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "Paris Rapid, Day 2: Three Leaders"
       },
       {
-         "description" : " My good friend and former colleague at Richmond Junior Chess Club, Ray Cannon, has just published a book which I think you might find interesting. It's called Battle of Endgames: 1066 Stratagems for you to Conquer and comprises you've guessed it 1066 endgame puzzles. In each case there's just one move that will <a href=\"https://chessimprover.com/battle-of-endgames-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Battle of Endgames: 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/battle-of-endgames-1/\">Battle of Endgames: 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/battle-of-endgames-1/",
-         "pubDate" : "Sun, 20 Jun 2021 05:08:43 +0000",
-         "title" : "Battle of Endgames: 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2322,44 +2330,12 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Series Announced"
       },
       {
-         "description" : "Chess is not all about competitiveness, and Gibraltar has become a place that embodies the multi-faceted character of the royal game. Following this vein, FIDE recorded a series of well-produced videos with the participants of the Women's Grand Prix that came to an end a couple of weeks ago. Enjoy getting to know a bit more about some of the strongest female chess players in the world! | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-participants-of-the-womens-grand-prix",
-         "pubDate" : "Thu, 17 Jun 2021 10:00:00 +0100",
-         "title" : "Meet the participants of the Women's Grand Prix"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1147",
          "pubDate" : "Wed, 16 Jun 2021 20:06:58 +0000",
          "title" : "Harika brings down Kosteniuk to reach quarterfinals"
-      },
-      {
-         "description" : "Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour and this year is no exception. Through the support of Vivendi and Colliers International, Paris will host the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Ten elite grandmasters will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-paris-rapidblitz-2021/",
-         "pubDate" : "Wed, 16 Jun 2021 14:47:07 +0000",
-         "title" : "Grand Chess Tour Paris Rapid&Blitz 2021"
-      },
-      {
-         "description" : "The 36th European Club Cup and the 25th European Club Cup for Women will take place from 17th-25th September 2021 in Struga, Ohrid Lake, North Macedonia. The championships will be held in 7 rounds, played in the Swiss system in accordance with the ECU Tournament Rules.&#160;According to FIDE and ECU rules, the time control will be 90 minutes&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-club-cup-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-club-cup-2021-official-regulations/",
-         "pubDate" : "Wed, 16 Jun 2021 14:30:59 +0000",
-         "title" : "EUROPEAN CLUB CUP 2021 - Official regulations"
-      },
-      {
-         "description" : " Normally a game that holds up the end of a weekend tournament isn't that enjoyable, either to the players or organisers. However, there are exceptions, and the following is one of them. While the first half of the game involved a lot of manoeuvring of pieces, but little progress, FM Clive Ng decided to spice things up with an exchange sacrifice. The only problem with this approach was that it now meant he was worse, and after a few more moves, was in fact lost. The only ray of hope for Ng was the fact that his king was stalemated on h2, which gave him a drawing defence. When Anthony Fikh pushed his g pawn up the board, Clive was faced with being a whole rook down, but this actually helped h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/a-great-escape.html",
-         "pubDate" : "Wed, 16 Jun 2021 13:48:00 +0000",
-         "title" : "A great escape"
       }
    ]
 }
