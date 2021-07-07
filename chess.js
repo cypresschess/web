@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1193",
+         "pubDate" : "Wed, 07 Jul 2021 21:42:30 +0000",
+         "title" : "Asian Chess Championship for Players with Disabilities starts on Tornelo"
+      },
+      {
+         "description" : "The state of Kerala, India found a pleasant gesture from a land faraway, the Czech Republic, when 'Chess Train' organiser Pavel Matocha organised a charity chess simultaneous display at Prague to help in its vaccination drive, with the raised money going to the Chief Minister's Distress Relief Fund of the Kerala Government. The motive behind this hearty gesture was no more than the attachment felt with the state of Kerala and its people, when Matocha participated in the 'Chess Houseboat' event held during early 2020. The event received support from the top echelons of the Czech Government, as well as the Ambassador of India to the Czech Republic. | Photo: Prague Chess Society",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-hearty-chess-gesture-from-the-czech-republic-to-the-indian-state-of-kerala",
+         "pubDate" : "Wed, 07 Jul 2021 22:20:00 +0100",
+         "title" : "A hearty chess gesture from the Czech Republic to the Indian state of Kerala"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi, the challenger of GM&#38;nbsp;Magnus Carlsen in the world championship in November, made his mark on the first day of the Zagreb Rapid &#38;amp; Blitz. The third leg of the Grand Chess Tour will have GM Garry Kasparov playing in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
          "pubDate" : "Wed, 07 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Live!"
+         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "Aleksandra Goryachkina has qualified to play in the \"men's\" Russian Championship Superfinal after finishing 3rd in the Higher League with a brilliant 6.5/9. 22-year-old Aleksandra, the reigning Russian Women's Champion, scored a perfect 5/5 with the white pieces as she climbed to 2610.5 on the live rating list, the 4th highest female rating of all time. Russian Women's Championship runner-up Polina Shuvalova also starred as she finished 14th, picking up 18 rating points to storm into the 2500 club.",
@@ -2322,28 +2338,12 @@ news_feed (
          "title" : "Caught in the middle"
       },
       {
-         "description" : "The FIDE World Cup in July and the World Champion match in November still have to be played but FIDE and World Chess already plan ahead and just announced the FIDE Grand Prix Series 2022. It will take place from February to April 2022 and will consist of three tournaments, which will be played in one city. The two best players qualify for the Candidates Tournament 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-announces-grand-prix-series-2022",
-         "pubDate" : "Thu, 17 Jun 2021 12:45:09 +0100",
-         "title" : "FIDE and World Chess announce Grand Prix Series 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1148",
          "pubDate" : "Thu, 17 Jun 2021 09:43:50 +0000",
          "title" : "2022 FIDE Grand Prix Series Announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1147",
-         "pubDate" : "Wed, 16 Jun 2021 20:06:58 +0000",
-         "title" : "Harika brings down Kosteniuk to reach quarterfinals"
       }
    ]
 }
