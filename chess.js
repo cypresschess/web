@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you are a true chess aficionado, you will want to stay updated with the latest games from tournaments all over the world! ChessBase 16 lets you do that with a single click. You can see all currently running tournament games, with machine analysis, the important novelties that were played, and even the most interesting tactical shots that occurred in the latest games. IM Sagar Shah explains it all to you in this tutorial video. It is just five minutes long, but will save you hours of tedious searching and copying.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-stay-updated-with-the-latest-games-with-one-click",
+         "pubDate" : "Wed, 07 Jul 2021 12:30:00 +0100",
+         "title" : "How to stay updated with the latest games with one click"
+      },
+      {
+         "description" : "Vladimir Kramnik and Viswanathan Anand will play a special 4-game match in Dortmund starting on July 14, as castling will not be allowed. The event will be supported by world-leading AI company DeepMind. Online audiences will get to experience novel AlphaZero insights first hand in the post-match commentary of the no castling tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alpha-zero-to-analyse-no-castling-match-dortmund",
+         "pubDate" : "Wed, 07 Jul 2021 10:40:00 +0100",
+         "title" : "AlphaZero to analyse \"no-castling\" match of the champions"
+      },
+      {
+         "description" : "GM Aleksandra Goryachkina is the first woman ever to qualify for the open section of the Russian Championship Superfinal. The 22-year-old grandmaster from Orsk, Russia finished in shared second place at the Higher League tournament in Cheboksary, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aleksandra-goryachkina-russian-championship-higher-league-superfinal-2600",
+         "pubDate" : "Wed, 07 Jul 2021 02:24:00 -0700",
+         "title" : "Goryachkina 1st Woman To Qualify For Russian Championship Superfinal"
+      },
+      {
+         "description" : "‌The French Top 12, organised by the Châlons-en-Champagne Club under the leadership of Diego Salazar, came to a conclusion on Sunday: Bischwiller won their 3rd title in a row, finishing above Asnières. Clichy completed the podium thanks to a fine match against the Champions of France. We've put together a selection of the best combinations from the French Club Championship!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/combinations-from-the-french-top-12",
+         "pubDate" : "Wed, 07 Jul 2021 08:17:31 +0000",
+         "title" : "Combinations from the French Top 12"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Simen Agdestein</strong> is the <a href=\"https://www.sjakk.no/2021/07/04/simen-agdestein-ny-sjakkpresident/\">new President</a> of the <strong>Norwegian Chess Federation</strong> after beating incumbent <strong>Morten Madsen</strong> with 66:49 votes. Agdestein, who is a chess and football coach, played football professionally until an injury stopped him at 24. He was a top 30 player in the 1990s and later on coached world champion Magnus Carlsen, whose manager Espen is his brother. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/simen-agdestein-leads-norwegian/",
+         "pubDate" : "Wed, 07 Jul 2021 08:42:00 +0100",
+         "title" : "Simen Agdestein leads Norwegian chess"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Andr&eacute; V&ouml;gtlin, a <a href=\"https://www.linkedin.com/in/andr%C3%A9-v%C3%B6gtlin-4232b7/\">career and executive search consultant</a> (\"headhunting\"), <a href=\"http://www.swisschess.ch/news-112/andre-voegtlin-neuer-ssb-zentralpraesident-zimmerbergs-sgm-antrag-klar-abgelehnt.html\">follows Peter Wyss</a> at the helm of the <strong>Swiss Chess Federation</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/voegtlin-is-president-of-swiss/",
          "pubDate" : "Wed, 07 Jul 2021 06:36:39 +0100",
          "title" : "V&ouml;gtlin is President of Swiss Federation"
+      },
+      {
+         "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/croatia-grand-chess-tour-rapid-and-blitz-2021",
+         "pubDate" : "Wed, 7 Jul 2021 09:33:00 +0400",
+         "title" : "Croatia Grand Chess Tour Rapid and Blitz 2021 - Games and Results"
       },
       {
          "description" : "A multiple Romanian champion, Mihail Marin's first major international success was achieved in 1987, when he qualified to the Interzonal Tournament played in Szir&aacute;k. A famed author, he was described by Jeremy Silman as \"one of the world's finest chess writers\". Marin shares with us his most memorable game, a fantastic win with the white pieces played at the 1996 Chess Olympiad in Yerevan.",
@@ -256,14 +304,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/stockfish-14-is-out/",
          "pubDate" : "Sun, 04 Jul 2021 20:29:46 +0100",
          "title" : "Stockfish 14 is out"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levon Aronian</strong> won the preliminaries, the semifinal against Carlsen and the final against Artemiev with two games to spare as well as $30,000 in the <strong>Goldmoney Asian Rapid</strong>. The Armenian, who will represent the US in the future, has jumped to the 7th spot in the <a href=\"https://championschesstour.com/standings/\"><strong>Meltwater Champions Chess Tour</strong> ranking</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/aronian-dominated-goldmoney-asian/",
-         "pubDate" : "Sun, 04 Jul 2021 20:23:34 +0100",
-         "title" : "Aronian dominated Goldmoney Asian Rapid"
       },
       {
          "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
@@ -1498,14 +1538,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Play like Bobby Fischer"
       },
       {
-         "description" : "The pairings are out for the biggest FIDE Chess World Cups ever held, with Baadur Jobava vs. 12-year-old GM record chaser Mishra Abhimanyu one of the most intriguing Round 1 match-ups. The big guns start from Round 2, with Magnus Carlsen facing either Sasa Martinovic or Kaido Kulaots. If the World Champion is going to win the event he may need to beat Alireza Firouzja, Anish Giri and Fabiano Caruana from the quarterfinals on. Check out the pairings, and even make your own predictions for the 206-player open and 103-player women's brackets!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-2021-pairings-are-out",
-         "pubDate" : "Fri, 25 Jun 2021 12:41:36 +0000",
-         "title" : "FIDE World Cup 2021 pairings are out"
-      },
-      {
          "description" : "The final lists of the FIDE World Cup and the FIDE Women's World Cup's participants have been published. The knock-out events will be held from July 10 to August 8 2021 in the Gazprom Mountain Resort in Sochi. The two finalists of the open event will qualify for the 2022 FIDE Candidates Tournament, whilst the three best players of the women's competition will get spots in the FIDE Women's Candidates Tournament. Top seed in the open section is World Champion Magnus Carlsen, top seed in the women's tournament is Aleksandra Goryachkina.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1528,14 +1560,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-regulations-important-update/",
          "pubDate" : "Fri, 25 Jun 2021 10:27:05 +0000",
          "title" : "FAIR PLAY REGULATIONS: IMPORTANT UPDATE"
-      },
-      {
-         "description" : "GM Kateryna Lagno is the first player to reach the semifinals of the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. The reigning women&#39;s world blitz champion from Russia defeated Georgia&#39;s number-one female, GM Nana Dzagnidze, 14-8 on Thurs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-speed-chess-championship-lagno-dzagnidze",
-         "pubDate" : "Fri, 25 Jun 2021 02:04:00 -0700",
-         "title" : "Women's Speed Chess Championship: Lagno 1st Semifinalist"
       },
       {
          "description" : "The Foreign Desk is a current affairs podcast, and this week's episode is centred around chess and politics. Sometimes art imitates life; some games do...",
@@ -2306,28 +2330,12 @@ news_feed (
          "title" : "Meet the participants of the Women's Grand Prix"
       },
       {
-         "description" : "How many different games of chess are possible? Everyone knows it's a very, very large number. It can be written down in seconds, using just a few digits, is unimaginably huge. Unimaginable? The great scientist Enrico Fermi recommended that we at least try to understand very large numbers, to estimate what they entail. Mathematics professor Christian Hesse attempts to do this for the number of chess games. You will be stunned!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-greatest-number-you-can-imagine",
-         "pubDate" : "Thu, 17 Jun 2021 03:27:47 +0100",
-         "title" : "The greatest number you can imagine"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1147",
          "pubDate" : "Wed, 16 Jun 2021 20:06:58 +0000",
          "title" : "Harika brings down Kosteniuk to reach quarterfinals"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look at the game Gukush D. vs Praggnanandhaa, which ultimately decided the Gelfand Challenge, a rapid tournament, in which 20 of the world's best juniors (10 male, 10 female) faced each other in a round robin. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-gukesh-praggnanandhaa",
-         "pubDate" : "Wed, 16 Jun 2021 18:00:00 +0100",
-         "title" : "Game of the Week: Gukesh-Praggnanandhaa"
       },
       {
          "description" : "Since 2016, the Paris Rapid and Blitz tournament has been a part of the Grand Chess Tour and this year is no exception. Through the support of Vivendi and Colliers International, Paris will host the second stop on the 2021 Grand Chess Tour and promises five days of excitement and fireworks. Ten elite grandmasters will []",
@@ -2352,14 +2360,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/a-great-escape.html",
          "pubDate" : "Wed, 16 Jun 2021 13:48:00 +0000",
          "title" : "A great escape"
-      },
-      {
-         "description" : "The Northumbria Masters is pleased to announce that the John Robinson Youth Chess Trust has generously made junior bursaries available to a number of Under...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-bursaries-announced-for-northumbria-masters/",
-         "pubDate" : "Wed, 16 Jun 2021 08:55:11 +0000",
-         "title" : "Junior bursaries announced for Northumbria Masters"
       }
    ]
 }
