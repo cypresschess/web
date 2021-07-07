@@ -2360,30 +2360,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/junior-bursaries-announced-for-northumbria-masters/",
          "pubDate" : "Wed, 16 Jun 2021 08:55:11 +0000",
          "title" : "Junior bursaries announced for Northumbria Masters"
-      },
-      {
-         "description" : "After Slovakian Grandmaster Jergus Pechac showed the spirit of majestic sportsmanship during the European Hybrid Qualification Tournament for the FIDE World Cup 2021, FIDE President decided to provide him a wild card for Sochi. An interesting situation arose at the&#160;European Hybrid Qualification Tournament&#160;in the game between the Israeli chess star GM Boris Gelfand (ISR, 2676) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fair-play-pays-off-tweetoftheday/",
-         "pubDate" : "Wed, 16 Jun 2021 01:10:43 +0000",
-         "title" : "Fair play pays off! #TweetOftheDay"
-      },
-      {
-         "description" : "World No. 5 Shakhriyar Mamedyarov finished the 1st leg of the 2021 Grand Chess Tour with 6.0/9 points to win 1st place in the 2021 Superbet Chess Classic, clinching victory after a draw with Maxime Vachier-Lagrave in the final round. Tying for second place were Levon Aronian, Wesley So, and Alexander Grischuk, who each drew []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-wins-grand-chess-tour-romania-2021/",
-         "pubDate" : "Wed, 16 Jun 2021 00:49:20 +0000",
-         "title" : "Shakhriyar Mamedyarov wins Grand Chess Tour Romania 2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83560934.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nikhil-kamath-ban-lifted-as-anand-says-forgot-and-forgave/articleshow/83560934.cms",
-         "pubDate" : "Wed, 16 Jun 2021 06:02:03 +0530",
-         "title" : "Nikhil Kamath ban lifted as Anand says 'forgot and forgave'"
       }
    ]
 }
