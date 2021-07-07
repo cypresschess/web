@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Andr&eacute; V&ouml;gtlin, a <a href=\"https://www.linkedin.com/in/andr%C3%A9-v%C3%B6gtlin-4232b7/\">career and executive search consultant</a> (\"headhunting\"), <a href=\"http://www.swisschess.ch/news-112/andre-voegtlin-neuer-ssb-zentralpraesident-zimmerbergs-sgm-antrag-klar-abgelehnt.html\">follows Peter Wyss</a> at the helm of the <strong>Swiss Chess Federation</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/voegtlin-is-president-of-swiss/",
+         "pubDate" : "Wed, 07 Jul 2021 06:36:39 +0100",
+         "title" : "V&ouml;gtlin is President of Swiss Federation"
+      },
+      {
          "description" : "A multiple Romanian champion, Mihail Marin's first major international success was achieved in 1987, when he qualified to the Interzonal Tournament played in Szir&aacute;k. A famed author, he was described by Jeremy Silman as \"one of the world's finest chess writers\". Marin shares with us his most memorable game, a fantastic win with the white pieces played at the 1996 Chess Olympiad in Yerevan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
          "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
          "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>, <strong>FIDE</strong> also partners with crypto currency companies: The Malta-registered trading platform <strong>Binance</strong> sponsors a <a href=\"https://www.fide.com/news/1178\">rapid tournament for teams from business schools</a> that is announced at short notice for 9 to 11 July and hosted by <strong>Lichess</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-partners-with-binance/",
-         "pubDate" : "Fri, 02 Jul 2021 16:18:37 +0100",
-         "title" : "FIDE partners with Binance"
       },
       {
          "description" : "In the new ChessBase Magazine # 202, Ian Nepomniachtchi, the winner of the Candidates Tournament 2020/20201 and World Championship challenger, takes a close look at his crucial win against Wang Hao in the Candidates. Nepomniachtchi provides deep but also entertaining commentary. Here's a shortened version of his analysis. Enjoy!",
