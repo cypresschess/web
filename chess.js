@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi, the challenger of GM&#38;nbsp;Magnus Carlsen in the world championship in November, made his mark on the first day of the Zagreb Rapid &#38;amp; Blitz. The third leg of the Grand Chess Tour will have GM Garry Kasparov playing in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-1",
+         "pubDate" : "Wed, 07 Jul 2021 12:10:27 -0700",
+         "title" : "Dazzling Chess By Nepomniachtchi As Zagreb Rapid & Blitz Gets Underway"
+      },
+      {
+         "description" : "GM Haik Martirosyan defeated GM Vincent Keymer convincingly in their round of 16 match in the&#38;nbsp;Junior Speed Chess Championship presented by ChessKid. The Armenian grandmaster won in all three time controls. The next match in the championship...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-martirosyan-keymer",
+         "pubDate" : "Wed, 07 Jul 2021 10:40:30 -0700",
+         "title" : "Junior Speed Chess Championship: Martirosyan Too Strong For Keymer"
+      },
+      {
+         "description" : "GM Hikaru Nakamura returned to the top of Titled Tuesday this week, winning outright with a score of 10/11. GM Parham Maghsoodloo, coming off a win in the Round of 16 in the Junior Speed Chess Championship, scored 9.5/11 for second place. Five pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-july-6-titled-tuesday",
+         "pubDate" : "Wed, 07 Jul 2021 10:17:37 -0700",
+         "title" : "Nakamura Wins July 6 Titled Tuesday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84211758.cms\" />Former world champion Viswanathan Anand started with a fluent win over Dutch Grandmaster Jorden van Foreest before faltering against Maxime Vachier-Lagrave in the second round of the rapid event in the Croatia Grand Chess Tour tournament which began here Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mixed-fortunes-for-anand-in-croatia-grand-chess-tour-event/articleshow/84211758.cms",
+         "pubDate" : "Wed, 07 Jul 2021 22:14:38 +0530",
+         "title" : "Mixed fortunes for Anand in Croatia Grand Chess tour event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-1",
+         "pubDate" : "Wed, 07 Jul 2021 16:36:43 +0000",
+         "title" : "2021 Croatia Grand Chess Tour (Day 1)"
+      },
+      {
+         "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kovalenko-and-nihal-lead-serbia-open",
+         "pubDate" : "Wed, 07 Jul 2021 17:20:00 +0100",
+         "title" : "Serbia Open: Kovalenko and Nihal in the lead"
+      },
+      {
          "description" : "The list of players registered for World Youth &#38; Cadet Championship (all categories) is appended below:- In case any player who registered and his/her name",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1130,14 +1178,6 @@ news_feed (
          "title" : "Kramnik Wins with the Catalan! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros loves the players from the 70s and 80s! Join Boros as he celebrates Hungarian legend Zoltan Ribli and Swedish chess ace Ulf Andersson, who just turned 70 years old. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hungarian-olympian-birthday-boy-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rgsUNMSCnqg.jpg?itok=b5XoGm72\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hungarian-olympian-birthday-boy-insane-endgame-gm-denes-boros",
-         "pubDate" : "Wed, 30 Jun 2021 04:29:47 +0000",
-         "title" : "The Hungarian Olympian & The Birthday Boy | Insane in the Endgame - GM Denes Boros"
-      },
-      {
          "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1490,6 @@ news_feed (
          "title" : "Five-way split for the lead after Day 1"
       },
       {
-         "description" : "The Goldmoney Asian Rapid, the seventh leg of the Champions Chess Tour, began on Saturday. Despite a loss in the first round to GM Alireza Firouzja, World Champion Magnus Carlsen is tied for first place with&#38;nbsp;GMs Ding Liren, Levon Aronian,&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-1-giri-carlsen-firouzja",
-         "pubDate" : "Sat, 26 Jun 2021 11:07:00 -0700",
-         "title" : "Goldmoney Asian Rapid: 5-Way Tie As Giri Steals The Show"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83875997.cms\" />The Goldmoney Asian Rapid got off to a quick start on Saturday. However, World Champion Magnus Carlsen suffered a disappointing first-game loss as he lost to teen star Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1506,28 +1538,12 @@ news_feed (
          "title" : "The Martial menagerie of King Alfonso the Wise"
       },
       {
-         "description" : "GM Hou Yifan and GM Harika Dronavalli both won their quarterfinals on Friday in the&#38;nbsp;FIDE Chess.com Women&#39;s Speed Chess Championship. Hou beat IM Bibisara Assaubayeva 13.5-9.5. Then Harika won her match vs. GM Anna Muzychuk with almost the sam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-hou-yifan-harika-dronavalli",
-         "pubDate" : "Sat, 26 Jun 2021 00:33:00 -0700",
-         "title" : "Women's Speed Chess Championship: Hou Yifan, Harika Dronavalli Reach Semis"
-      },
-      {
          "description" : "Considering the change in Fair Play Regulations, the prospectus &#38; schedule of National Under-10 Open &#38; Girls Online Chess Championship has been revised.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/updated-regulations-schedule-national-under-10-open-girls/",
          "pubDate" : "Sat, 26 Jun 2021 04:46:31 +0000",
          "title" : "UPDATED REGULATIONS & SCHEDULE : NATIONAL UNDER-10 OPEN & GIRLS"
-      },
-      {
-         "description" : "The FIDE World Cup takes place between July 12 and August 6, 2021 in Sochi, Russia. The prize fund is $1,892,500. It is part of the world championship cycle: the top two players qualify for the 2022 FIDE Candidates Tournament.&#38;nbsp; GM Viswanath...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-announcement",
-         "pubDate" : "Fri, 25 Jun 2021 16:16:00 -0700",
-         "title" : "FIDE World Cup: Carlsen Plays, Anand Star Commentator In Chess.com Broadcast"
       },
       {
          "description" : "",
@@ -2312,14 +2328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-announces-grand-prix-series-2022",
          "pubDate" : "Thu, 17 Jun 2021 12:45:09 +0100",
          "title" : "FIDE and World Chess announce Grand Prix Series 2022"
-      },
-      {
-         "description" : "David Navara, the number one Czech player, started the Masters at the Prague Chess Festival with two losses, and in round 3 he had to play against Sam Shankland, who seems to be in good shape in Prague. But Navara still played ambitiously which allowed Shankland to counter and to win a fine game. With 2.5/3 Shankland is now the sole leader at the Masters. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-round-3-shankland-beats-navara",
-         "pubDate" : "Thu, 17 Jun 2021 11:56:36 +0100",
-         "title" : "Prague Chess Festival, Round 3: Shankland beats Navara"
       },
       {
          "description" : "",
