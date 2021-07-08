@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a fascinating game from the Croatia Grand Chess Tour. He delves into the intricacies of a trendy line of the Sicilian Taimanov (with an early 7.g4), discussing the thematic attacking ideas for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-taimanov-7-g4",
+         "pubDate" : "Thu, 08 Jul 2021 20:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Sicilian Taimanov (6.Be3 a6 7.g4)"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi still leads the Croatia Rapid &#38;amp; Blitz despite a loss in round six to the local wildcard participant GM Ivan Saric.&#38;nbsp;GM Vishy Anand and&#38;nbsp;GM Maxime Vachier-Lagrave, who both scored plus one on Thursday, are tied for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-2",
+         "pubDate" : "Thu, 08 Jul 2021 12:06:00 -0700",
+         "title" : "Croatia Rapid & Blitz: Nepomniachtchi Loses To Saric, Still Leads"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84245692.cms\" />As dreaded as it may sound, 'second wave' has been a memorable one for Nihal Sarin this week. After a blistering win in the Silver Lake open, the Masters Group of Serbia Open saw Nihal sweep away his opponents to emerge champion for the second time in a week in as many over-the-board appearances after the unlock.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihals-second-wave-sweeps-away-opponents-seals-serbia-open-chess-crown/articleshow/84245692.cms",
+         "pubDate" : "Thu, 08 Jul 2021 22:49:26 +0530",
+         "title" : "Nihal sweeps away opponents, seals Serbia Open chess crown"
+      },
+      {
+         "description" : "16-year-old GM Nihal Sarin has a fantastic month of chess behind him. The Indian prodigy won two strong tournaments in a row in Serbia and gained 35 Elo points, reaching a virtual rating of 2655. How to watch?The games of the Silver Lake Open ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-tournaments-serbia-enters-world-top-100",
+         "pubDate" : "Thu, 08 Jul 2021 10:13:39 -0700",
+         "title" : "Nihal Sarin Wins Back-To-Back Tournaments, Enters World's Top 100"
+      },
+      {
+         "description" : "After a year of boom in chess, the UK is hosting its biggest-ever outdoor chess event - ChessFest - in London's famous Trafalgar Square. It is just a few hundred metres away from the old-time chess mecca, Simpson's in the Strand, and the theme is inspired by Lewis Carroll's Alice Through the Looking Glass. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/is-chess-coming-home-england-looks-forward-to-its-big-day-chessfest",
+         "pubDate" : "Thu, 08 Jul 2021 16:41:29 +0000",
+         "title" : "Is chess coming \"home\"? England looks forward to its big day: ChessFest"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84243969.cms\" />Former world champion Viswanathan Anand was held to a draw by Russian Alexander Grischuk in the sixth round of the Croatia Grand Chess Tour tournament here on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-anton-korobov-in-croatia-grand-chess-tour-event/articleshow/84243969.cms",
+         "pubDate" : "Thu, 08 Jul 2021 22:10:00 +0530",
+         "title" : "Anand beats Korobov in Croatia Grand Chess Tour event"
+      },
+      {
+         "description" : "This week, Merijn van Delft analyses a game from the finals of the Goldmoney Asian Rapid tournament. Levon Aronian showcased excellent strategic understanding and a keen tactical eye to score a great victory over Vladislav Artemiev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-l-aronian",
+         "pubDate" : "Thu, 08 Jul 2021 17:00:00 +0100",
+         "title" : "Game of the Week: L. Aronian vs V. Artemiev"
+      },
+      {
          "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +66,12 @@ news_feed (
          "title" : "Pia Cramling leads the Swedish Championship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84238567.cms\" />Young Indian chess sensation Nihal Sarin won the Masters' section of the Serbia Open Chess Championship, his second consecutive tournament victory, after claiming the title in Silver Lake Open, which has propelled him into the top 100 in live chess ratings. The 16-year-old from Thrissur, Kerala, on Thursday, played out a draw with GM Vladimir Fedoseev of Russia to finish with 7.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-nihal-sarin-wins-serbia-open-chess-enters-top-100/articleshow/84238567.cms",
-         "pubDate" : "Thu, 08 Jul 2021 19:46:32 +0530",
-         "title" : "India's Nihal Sarin wins Serbia Open chess, enters top 100"
-      },
-      {
          "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
          "pubDate" : "Thu, 08 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Live!"
+         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -1418,14 +1466,6 @@ news_feed (
          "title" : "Lei Tingjie reaches semifinals"
       },
       {
-         "description" : "GM Lei Tingjie joined GMs&#38;nbsp;Kateryna Lagno, Hou Yifan, and Harika Dronavalli in the semifinals of the FIDE Chess.com Women&#39;s Speed Chess Championship. Lei beat former women&#39;s world champion GM Antoaneta Stefanova 11-9 in their quarterfinal on M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-lei-tingjie-stefanova",
-         "pubDate" : "Mon, 28 Jun 2021 10:55:00 -0700",
-         "title" : "Women's Speed Chess Championship: Lei Tingjie Joins Semifinalists"
-      },
-      {
          "description" : "Ulf Andersson is the best Swedish chess player of all time and at his peak he was the world's number four. Andersson is also a correspondence chess grandmaster and one of the best correspondence chess players in the world. Yesterday, 27 June, he celebrated his 70th birthday. | Photo: Bert Verhoeff / Anefo / CCO",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,22 +1504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-2",
          "pubDate" : "Mon, 28 Jun 2021 10:00:00 +0100",
          "title" : "Goldmoney Asian Rapid: A tough field"
-      },
-      {
-         "description" : "After the second day of the preliminaries in the Goldmoney Asian Rapid, GMs&#38;nbsp;Levon Aronian and Ding Liren are tied for first place with 7/10, closely followed by GM Wesley So and Vladislav Artemiev.&#38;nbsp;GM Alireza Firouzja and Daniil Dubov ne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-2-aronian-ding",
-         "pubDate" : "Mon, 28 Jun 2021 01:53:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Aronian, Ding Lead"
-      },
-      {
-         "description" : "Levon Aronian beat Magnus Carlsen in the first round of Day 2 of the Goldmoney Asian Rapid as he joined Ding Liren in scoring an unbeaten 3.5/5 for a second day in a row to move ahead of the pack. Of the five co-leaders at the start of the day, Artemiev scored a solid 3/5, Magnus scored 50% and Dubov crashed to three defeats and just two draws to leave him outside the qualifying spots. His place was taken by 17-year-old Indian star Arjun Erigaisi, who defeated Vidit and Hou Yifan.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-2-aronian-ding-lead",
-         "pubDate" : "Mon, 28 Jun 2021 08:24:05 +0000",
-         "title" : "Goldmoney Asian Rapid 2: Aronian & Ding lead"
       },
       {
          "description" : " We all know that feeling of fucking up a winning position. It truly hurts and it seems to be a never ending experience. After reading this article you will convert more of your winning positions! Getting a winning position is only half the work. Converting the winning advantage is the real test. It is no [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/winning-won-position/\">How To Win A Winning Position In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "Paris Rapid & Blitz: Firouzja strong in the blitz"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83746133.cms\" />Four Indian players, including Vidit Gujrathi and D Gukesh, will take part in the Asian Rapid online chess tournament to be held from June 26 to July 4.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/4-indians-in-fray-in-asian-rapid-chess-tournament/articleshow/83746133.cms",
-         "pubDate" : "Tue, 22 Jun 2021 17:15:59 +0530",
-         "title" : "4 Indians in fray in Asian Rapid Chess tournament"
-      },
-      {
          "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2296,22 +2312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
          "pubDate" : "Fri, 18 Jun 2021 14:45:00 +0100",
          "title" : "Prague Chess Festival, Round 5 - Live"
-      },
-      {
-         "description" : "In this year's Prague Chess Festival things do not go well for David Navara. In round 4 of the Masters he played against Nijat Abasov (pictured) and suffered his fourth loss in a row. Navara had an excellent position but first gave his advantage away and then lost on time. The other three games of the round ended in a draw. After four rounds Sam Shankland and Abasov now share the lead with 3.0/4 each. | Photo: Nijat Abasov (Vladimir Jagr)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-navara-loses-again",
-         "pubDate" : "Fri, 18 Jun 2021 12:11:06 +0100",
-         "title" : "Prague Chess Festival: Navara loses again"
-      },
-      {
-         "description" : "Our ChessBase Magazine subscribers recently received a particularly interesting offer: a theme tournament with Spyridos Kapnisis! \"Play the Author\" lets readers play against their favourite author in a round-robin tournament. Another attraction is the set opening that is played in each round. In this \"Play the Author\" episode, the Richter-Rauzer Variation in the Sicilian was the chosen setup.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-spyridos-kapnisis",
-         "pubDate" : "Fri, 18 Jun 2021 11:00:00 +0100",
-         "title" : "Play the Author - Theme tournament with Spyridos Kapnisis"
       },
       {
          "description" : "",
