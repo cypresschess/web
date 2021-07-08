@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in the main event of the 2021 Junior Speed Chess Championship, the lower seed won in an upset as #10 IM Christopher Yoo defeated #7 GM Hans Niemann by a score of 23-9 on Thursday. The next match in the championship is GM Nihal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-yoo-niemann",
+         "pubDate" : "Thu, 08 Jul 2021 16:05:56 -0700",
+         "title" : "Junior Speed Chess Championship: Yoo Upsets Niemann"
+      },
+      {
          "description" : "After beating former co-leader Igor Kovalenko in round 8, Nihal Sarin only needed a draw in the last round to win the Serbia Open in Belgrade. The 16-year-old Indian prodigy scored 7&frac12;/9 points. A group of 9 players finished a half point behind. | Pictured: Vladimir Fedoseev (3rd), Nihal Sarin (1st) and Manuel Petrosyan (2nd) | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1434,6 @@ news_feed (
          "title" : "The king is a strong piece"
       },
       {
-         "description" : "With lovely combinative play, GM Levon Aronian finished at the top of the leaderboard in the Goldmoney Asian Rapid tournament&#39;s preliminaries. He made it to the knockout phase with seven other players, including the 17-year-old Indian GM Arjun Eri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-day-3-aronian-erigaisi",
-         "pubDate" : "Tue, 29 Jun 2021 01:25:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Aronian Puzzle Rushes To 1st, Erigaisi Advances"
-      },
-      {
          "description" : "Levon Aronian scored brilliant wins over Alireza Firouzja and Daniil Dubov as he cruised to 1st place in the Goldmoney Asian Rapid Prelims. The real drama came in the final round, when Jan-Krzysztof Duda won what had seemed a hopeless position to reach the knockouts and make Alireza Firouzja's third win in four games irrelevant. 17-year-old Arjun Erigaisi was the main sensation after he secured qualification like an old pro. Magnus Carlsen and Anish Giri got through after struggles, with Adhiban giving Anish the birthday gift of beating him with 1.b3!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2336,22 +2336,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jun/18/chess-national-solving-championship-opens-for-entries-from-britain",
          "pubDate" : "Fri, 18 Jun 2021 07:00:04 +0000",
          "title" : "Chess: National solving championship opens for entries from Britain"
-      },
-      {
-         "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-nsw-open-photos.html",
-         "pubDate" : "Thu, 17 Jun 2021 23:18:00 +0000",
-         "title" : "2021 NSW Open - Photos"
-      },
-      {
-         "description" : " Bananas are supposed to be good for your chess. GM Max Illingworth famously brings a bunch to the board for every game, while IM Gary Lane once convinced an entire Olympiad team that this was the secret to winning more matches. One participant in yesterdays interschool event showed me another way that they can help your chess. Early on she told me that her mother had written (actually carved) a message on the banana skin, and I (Mr Grumpy) replied \"As long as they aren't chess moves\". On one side it read \"Woot!! Chess\" and on the other \"Good Luck\". So far so good, but her mother even carved a couple of chess pieces at the end. Although I remembered what happed to Wesley So at the US Champio",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/bananas.html",
-         "pubDate" : "Thu, 17 Jun 2021 23:14:00 +0000",
-         "title" : "Bananas"
       }
    ]
 }
