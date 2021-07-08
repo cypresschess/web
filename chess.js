@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After beating former co-leader Igor Kovalenko in round 8, Nihal Sarin only needed a draw in the last round to win the Serbia Open in Belgrade. The 16-year-old Indian prodigy scored 7&frac12;/9 points. A group of 9 players finished a half point behind. | Pictured: Vladimir Fedoseev (3rd), Nihal Sarin (1st) and Manuel Petrosyan (2nd) | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nihal-sarin-wins-the-serbia-open",
+         "pubDate" : "Thu, 08 Jul 2021 23:05:00 +0100",
+         "title" : "Nihal Sarin wins the Serbia Chess Open"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a fascinating game from the Croatia Grand Chess Tour. He delves into the intricacies of a trendy line of the Sicilian Taimanov (with an early 7.g4), discussing the thematic attacking ideas for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "Anand beats Korobov in Croatia Grand Chess Tour event"
       },
       {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Thu, 08 Jul 2021 17:20:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Games and results"
+      },
+      {
          "description" : "This week, Merijn van Delft analyses a game from the finals of the Goldmoney Asian Rapid tournament. Levon Aronian showcased excellent strategic understanding and a keen tactical eye to score a great victory over Vladislav Artemiev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pia-cramling-leads-the-swedish-championship",
          "pubDate" : "Thu, 08 Jul 2021 15:30:00 +0100",
          "title" : "Pia Cramling leads the Swedish Championship"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Thu, 08 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -2306,14 +2314,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Test your attacking play"
       },
       {
-         "description" : "After four rounds Sam Shankland and Nijat Abasov lead the Masters tournament at the Prague Chess Festival with 3.0/4 each and in round 5 they play against each other - Shankland has the white pieces. David Navara, who started the tournament with four losses, plays against Thai Dan Van Nguyen. The round starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-chess-festival-live",
-         "pubDate" : "Fri, 18 Jun 2021 14:45:00 +0100",
-         "title" : "Prague Chess Festival, Round 5 - Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2352,14 +2352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/bananas.html",
          "pubDate" : "Thu, 17 Jun 2021 23:14:00 +0000",
          "title" : "Bananas"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1149",
-         "pubDate" : "Thu, 17 Jun 2021 20:57:45 +0000",
-         "title" : "WSCC 2021: Antoaneta Stefanova eases into quarterfinals"
       }
    ]
 }
