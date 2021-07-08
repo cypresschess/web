@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year's 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. Read more about the tournament here: <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz\">https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/croatia-grand-chess-tour-day-1",
+         "pubDate" : "Thu, 08 Jul 2021 01:36:52 +0000",
+         "title" : "Croatia Grand Chess Tour: Day 1"
+      },
+      {
+         "description" : "Two wins and a draw gave Ian Nepomniachtchi a commanding lead after day 1 at the Croatian leg of the Grand Chess Tour. Not only was the World Championship challenger the only player to end the day with a plus score, but he also showed excellent form in the first three games of the rapid section. Plenty of exciting chess was seen in Zagreb, with living legend Viswanathan Anand showing that he still has what it takes to fight on an equal footing with the world's elite. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-1",
+         "pubDate" : "Thu, 08 Jul 2021 01:40:00 +0100",
+         "title" : "GCT Croatia: Nepo starts strong"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://aicf.in/kind-attention-world-youth-cadet-online-championship-list-of-all-categories/",
          "pubDate" : "Wed, 07 Jul 2021 13:59:22 +0000",
          "title" : "KIND ATTENTION : WORLD YOUTH & CADET ONLINE CHAMPIONSHIP LIST OF ALL CATEGORIES"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Wed, 07 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "Aleksandra Goryachkina has qualified to play in the \"men's\" Russian Championship Superfinal after finishing 3rd in the Higher League with a brilliant 6.5/9. 22-year-old Aleksandra, the reigning Russian Women's Champion, scored a perfect 5/5 with the white pieces as she climbed to 2610.5 on the live rating list, the 4th highest female rating of all time. Russian Women's Championship runner-up Polina Shuvalova also starred as she finished 14th, picking up 18 rating points to storm into the 2500 club.",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-nihal-sarin-inches-closer-to-silver-lake-title-raunak-sadhwani-holds-top-seed-to-remain-joint-second/articleshow/83976229.cms",
          "pubDate" : "Wed, 30 Jun 2021 10:03:05 +0530",
          "title" : "Nihal inches closer to Silver Lake title, Raunak holds top seed to remain joint 2nd"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at former world champion Vladimir Kramnik's games as White, where the Russian plays the Catalan. Kramnik is a master of that opening, and these games are instructive. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_RFQvl-qMI.jpg?itok=kiNhR1oM\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kramnik-wins-catalan-road-2000-nm-caleb-denby-0",
-         "pubDate" : "Wed, 30 Jun 2021 04:29:47 +0000",
-         "title" : "Kramnik Wins with the Catalan! | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
