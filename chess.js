@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pia-cramling-leads-the-swedish-championship",
+         "pubDate" : "Thu, 08 Jul 2021 15:30:00 +0100",
+         "title" : "Pia Cramling leads the Swedish Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84238567.cms\" />Young Indian chess sensation Nihal Sarin won the Masters' section of the Serbia Open Chess Championship, his second consecutive tournament victory, after claiming the title in Silver Lake Open, which has propelled him into the top 100 in live chess ratings. The 16-year-old from Thrissur, Kerala, on Thursday, played out a draw with GM Vladimir Fedoseev of Russia to finish with 7.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-nihal-sarin-wins-serbia-open-chess-enters-top-100/articleshow/84238567.cms",
+         "pubDate" : "Thu, 08 Jul 2021 19:46:32 +0530",
+         "title" : "India's Nihal Sarin wins Serbia Open chess, enters top 100"
+      },
+      {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Thu, 08 Jul 2021 14:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-2",
+         "pubDate" : "Thu, 08 Jul 2021 13:37:04 +0000",
+         "title" : "2021 Croatia Grand Chess Tour (Day 2)"
+      },
+      {
+         "description" : " The ACT Chess Association is holding the ACT Winter Open on the 23rd (Friday), 24th and 25th of July this year. This event is in place of the ANU Open, which is unable to be held at the ANU this year. Instead it will be held at Campbell High School, which is where the ACT Junior Chess League run their events. With the Covid situation still be in flux (especially in Sydney), the event is being restricted to 64 players (across the Open and Minor tournaments), and obviously will only be open to players who are allowed to enter the ACT. If this changes (eg restrictions are eased or lifted) the numbers for this event may be increased. The full details are <p dir=\"ltr\" style=\"background-color: wh",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-23-25-july-2021.html",
+         "pubDate" : "Thu, 08 Jul 2021 12:38:00 +0000",
+         "title" : "2021 ACT Winter Open - 23-25 July 2021"
+      },
+      {
+         "description" : "World Championship Challenger Ian Nepomniachtchi justified his position as top seed in the Croatia Grand Chess Tour by beating Anton Korobov and Shakhriyar Mamedyarov to leave the rest of the field trailing in his wake. He was held to a draw by Vishy Anand, with the former World Champion having an eventful return to the board as he won an dramatic first game against Jorden van Foreest before losing the next to MVL. No less than 7 players join Vishy on 50%, with only the Dutch duo of Anish Giri and Jorden on a minus score.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/croatia-gct-1-nepo-storms-into-lead",
+         "pubDate" : "Thu, 08 Jul 2021 10:20:44 +0000",
+         "title" : "Croatia GCT 1: Nepo storms into lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84232470.cms\" />14-year-old Aditya Mittal on Thursday earned his first Grandmaster title. He achieved the feat in the ongoing Serbian Open. Mittal scored 7/9 including three consecutive wins against GMs to win his first Grandmaster title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/14-year-old-aditya-mittal-earns-first-grandmaster-title/articleshow/84232470.cms",
+         "pubDate" : "Thu, 08 Jul 2021 15:47:56 +0530",
+         "title" : "14-year-old Aditya Mittal earns first Grandmaster title"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84226901.cms\" />India's best bet and country's top teenage Grandmaster (GM) Nihal Sarin continued his impressive run by sharing the lead in the Masters group of Serbia Open international rating chess tournament at Belgrade.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-1",
          "pubDate" : "Thu, 08 Jul 2021 01:40:00 +0100",
          "title" : "GCT Croatia: Nepo starts strong"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1194",
+         "pubDate" : "Wed, 07 Jul 2021 23:32:15 +0000",
+         "title" : "Nornickel becomes FIDE's youth and children global chess development partner"
       },
       {
          "description" : "",
@@ -112,6 +176,14 @@ news_feed (
          "link" : "https://chessimprover.com/whack-em-with-the-wing-gambit/",
          "pubDate" : "Wed, 07 Jul 2021 13:00:57 +0000",
          "title" : "Whack 'em with the Wing Gambit"
+      },
+      {
+         "description" : " Everybody wants to be in good form at a tournament. But just by wanting something you don't automatically get it. To be in good form at a tournament, you need good preparation before the tournament. By failing to prepare, you are preparing to fail Benjamin Franklin Sadly most Chess Players leave it to luck or [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/tournament-preparation/\">Grandmaster Tournament Preparation How To Be In Good Form</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/tournament-preparation/?utm_source=rss&utm_medium=rss&utm_campaign=tournament-preparation",
+         "pubDate" : "Wed, 07 Jul 2021 11:34:00 +0000",
+         "title" : "Grandmaster Tournament Preparation - How To Be In Good Form"
       },
       {
          "description" : "If you are a true chess aficionado, you will want to stay updated with the latest games from tournaments all over the world! ChessBase 16 lets you do that with a single click. You can see all currently running tournament games, with machine analysis, the important novelties that were played, and even the most interesting tactical shots that occurred in the latest games. IM Sagar Shah explains it all to you in this tutorial video. It is just five minutes long, but will save you hours of tedious searching and copying.",
@@ -1090,14 +1162,6 @@ news_feed (
          "title" : "Abhimanyu Mishra Becomes Youngest Grandmaster In Chess History"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> JULY 7-11, 2021, exclusively on KasparovChess.com and KasparovChess on Twitch. The second Croatia Grand Chess Tour is the third stop on the 2021 Tour, live from the National and University Library in Zagreb. Eleven players compete in a rapid round robin and two blitz round robins, July 7-11. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-preview",
-         "pubDate" : "Wed, 30 Jun 2021 16:30:39 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Preview"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83993708.cms\" />Two thrilling blitz chess playoffs decided the Goldmoney Asian Rapid semifinal line-up as Magnus Carlsen survived a fierce comeback. The World Champion finally overcame two-time US champ Wesley So after the man dubbed the \"Comeback King\" launched a nerveless rearguard action to level the match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1480,14 +1544,6 @@ news_feed (
          "link" : "https://aicf.in/kshatriya-vekhande-under-12-open-champion/",
          "pubDate" : "Sun, 27 Jun 2021 09:02:54 +0000",
          "title" : "Kshatriya Vekhande Under-12 Open Champion"
-      },
-      {
-         "description" : "Magnus Carlsen began the Goldmoney Asian Rapid with a loss to 18-year-old Alireza Firouzja, but from there on their fortunes diverged dramatically. Magnus hit back to win three of the next four games and join a 5-way tie for the lead, while Alireza is half a point off last place after losing three games. The co-leaders are Vladislav Artemiev and Daniil Dubov, who like Magnus won three games but suffered one heavy loss, and Ding Liren and Levon Aronian, who are the only players still unbeaten.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-1-carlsen-hits-back-after-firouzja-stumble",
-         "pubDate" : "Sun, 27 Jun 2021 08:44:22 +0000",
-         "title" : "Goldmoney Asian Rapid 1: Carlsen hits back after Firouzja stumble"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83887545.cms\" /> India's best teenage Grandmasters (GM) Raunak Sadhwani and Nihal Sarin recorded yet another victory in their respective fourth rounds contests to share the top position in the Silver Lake Open classical chess tournament at Veliko Gradiste, Serbia, on Saturday.",
@@ -2258,14 +2314,6 @@ news_feed (
          "title" : "Play the Author - Theme tournament with Spyridos Kapnisis"
       },
       {
-         "description" : "The 2021 Superbet Chess Classic concluded on June 14 and Shakhriyar Mamedyarov (pictured) won with 6.0/9 (3 wins, 6 draws). FM Joshua Doknjas analyzes four games from the second half of the event, all of which contain interesting opening ideas. | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-opening-ideas-in-bucharest-part-2",
-         "pubDate" : "Fri, 18 Jun 2021 09:50:57 +0100",
-         "title" : "New Opening Ideas in Bucharest - Part 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2290,14 +2338,6 @@ news_feed (
          "title" : "Chess: National solving championship opens for entries from Britain"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83627213.cms\" />The last week has been eventful for D Gukesh --- the second youngest Grandmaster in the history of chess. The 15-year-old not only got a wild card for the FIDE World Cup to be held next month in Sochi, but also qualified for the Goldmoney Asian Rapid --- the next leg of the Champions Chess Tour --- after reigning supreme at the Gelfand Challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/cant-wait-to-be-part-of-goldmoney-asian-rapid-gukesh/articleshow/83627213.cms",
-         "pubDate" : "Fri, 18 Jun 2021 11:11:04 +0530",
-         "title" : "Can't wait to be part of Goldmoney Asian Rapid: Gukesh"
-      },
-      {
          "description" : " If you want to see some good photos (and not so good ones of me) from the 2021 NSW Open, you can see them at <a data-saferedirecturl=\"https://www.google.com/url?q=https://flic.kr/s/aHsmVZkhyD&amp;source=gmail&amp;ust=1623912804228000&amp;usg=AFQjCNEajYnOQ1aBqU7I6h0TqNpbKJvwrQ\" href=\"https://flic.kr/s/aHsmVZkhyD\" style=\"background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;\" target=\"_blank\">https://flic.kr/s/aHsmVZkhyD</a> Many thanks to Sabrina Koetsier for taking an uploading these pictures ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2320,38 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1149",
          "pubDate" : "Thu, 17 Jun 2021 20:57:45 +0000",
          "title" : "WSCC 2021: Antoaneta Stefanova eases into quarterfinals"
-      },
-      {
-         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look at new and aggressive idea that helps Black to spice up things up in the Queen's Gambit Accepted. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-for-black-in-the-queen-s-gambit-accepted",
-         "pubDate" : "Thu, 17 Jun 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: New ideas for Black in the Queen's Gambit Accepted"
-      },
-      {
-         "description" : " Ram&oacute;n Mateo For many years, the name Ram&oacute;n Mateo has been a trailblazer of Latin American and Caribbean chess. In the U.S., his name was also known due to his time living in New York and playing in the parks. However, what is clear is that Mateo (meaning &#8220;Matthew&#8221;) has not gotten the attention that [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/\">Ram&oacute;n Mateo Dominican trailblazer!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/17/ramon-mateo-dominican-trailblazer/",
-         "pubDate" : "Thu, 17 Jun 2021 14:14:44 +0000",
-         "title" : "Ram&oacute;n Mateo&hellip; Dominican trailblazer!"
-      },
-      {
-         "description" : " After a slow start to the 2021 Belconnen Cup (0.5/2) I have started to catch the leaders, after 3 straight wins. In what should be an important lesson to newer players, in each game I was winning before my opponent castled. In fact in two of the games, my opponent failed to castle at all. Here is the latest win, highlighting the difficulties you can run into if you fail to get your king out of the centre. <br /> <b>Press,Shaun - Teymant,Roy [D11]</b><br />Belconnen Cup, 15.06.2021 <script>new PgnViewer( { boardName: \"game1252\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.g3 Bf5 5.Nc3 e6 6.Bg2 Be7 7.O-O Nbd7 8.Qb3 Qc7 9.Bf4 Qc8 10.Rac1 Nh5 11.cxd5 Nxf4 12.gxf4 exd5 13.Nxd5",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/caught-in-middle.html",
-         "pubDate" : "Thu, 17 Jun 2021 13:36:00 +0000",
-         "title" : "Caught in the middle"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1148",
-         "pubDate" : "Thu, 17 Jun 2021 09:43:50 +0000",
-         "title" : "2022 FIDE Grand Prix Series Announced"
       }
    ]
 }
