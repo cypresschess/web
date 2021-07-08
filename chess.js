@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84226901.cms\" />India's best bet and country's top teenage Grandmaster (GM) Nihal Sarin continued his impressive run by sharing the lead in the Masters group of Serbia Open international rating chess tournament at Belgrade.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-maintains-lead-arjun-loses-raunak-withdraws-in-serbia-open/articleshow/84226901.cms",
+         "pubDate" : "Thu, 08 Jul 2021 11:19:03 +0530",
+         "title" : "Nihal maintains lead, Arjun loses, Raunak withdraws in Serbia Open"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year's 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. Read more about the tournament here: <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz\">https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-1",
-         "pubDate" : "Wed, 07 Jul 2021 12:10:27 -0700",
+         "pubDate" : "Wed, 07 Jul 2021 12:10:00 -0700",
          "title" : "Dazzling Chess By Nepomniachtchi As Zagreb Rapid & Blitz Gets Underway"
       },
       {
@@ -818,7 +826,7 @@ news_feed (
          "title" : "Firouzja Gives Carlsen a Bad Day! | Dorsa's Choice"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen has now been the world no. 1 on every rating list for the past decade since July 2011, an unbeaten streak that will now eclipse Garry Kasparov's two decade-long streaks as world no. 1 from 1986 to 1996 and 1996 to his retirement in 2006. Although Magnus has suffered scares - for instance any loss to Fabiano Caruana in the 2018 World Championship match would have taken Fabi top - he's remarkably been unbroken world no. 1 for a decade on the live rating list as well.",
+         "description" : "World Chess Champion Magnus Carlsen has now been the world no. 1 on every rating list for the past decade since July 2011, an unbeaten streak that will now eclipse Garry Kasparov's two decade-long streaks as world no. 1 from 1986 to 1996 and 1996 until he dropped off the list after his retirement in 2005. Although Magnus has suffered scares - for instance any loss to Fabiano Caruana in the 2018 World Championship match would have taken Fabi top - he's remarkably been unbroken world no. 1 for a decade on the live rating list as well.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-celebrates-10-years-unbroken-as-world-no-1",
