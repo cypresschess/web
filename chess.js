@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Special\" of the new ChessBase Magazine #202 is dedicated to Jan Timman, the Dutch legend who will celebrate his 70th birthday this year. \"My favourite Timman game\" features an exquisite selection of a total of 25 victories annotated by our authors, containing some very personal notes: \"... Timman appeared to incorporate a mixture of the hippie, the free spirit and the chess artist, and despite that was world class over the board\" (Martin Breutigam). David Navara, Adhiban Baskaran, Yannick Pelletier, Krishnan Sasikiran and many others have contributed to the \"Special\" of this issue. Today, we present you Igor Stohl's analysis of the game Nigel Short - Jan Timman from Linares 1992. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-202-special-jan-timman",
+         "pubDate" : "Fri, 09 Jul 2021 18:30:00 +0100",
+         "title" : "CBM #202 Special: Jan Timman"
+      },
+      {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Fri, 09 Jul 2021 17:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Games and results"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84274042.cms\" />Indian Grandmaster Viswanathan Anand went down to Dutch GM Anish Giri in the ninth round of the Rapid event of Croatia Grand Chess Tour here on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-goes-down-to-anish-giri-in-croatia-grand-chess-tour/articleshow/84274042.cms",
+         "pubDate" : "Fri, 09 Jul 2021 22:10:39 +0530",
+         "title" : "Anand goes down to Anish Giri in Croatia Grand Chess Tour"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.zurich-cc.com/en/zurich-1953/photos#!4\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg\" data-image-dimensions=\"480x334\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Zurich 1953 Attendees, via the Zurich Chess Club\" data-load=\"false\" data-image-id=\"60e8741b7727436ecd344805\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg?format=1000w\" /> </a> <figcaption class=\"image-caption-wrapper\"> <p cl",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/9/book-recap-17-discussing-zurich-1953-with-fm-nate-solon-featuring-gm-andy-soltis",
+         "pubDate" : "Fri, 09 Jul 2021 16:15:33 +0000",
+         "title" : "Book Recap #17- Discussing \"Zurich 1953\" with FM Nate Solon, featuring GM Andy Soltis "
+      },
+      {
          "description" : "Lawrence Trent is looking forward to Sunday, when Italy will face England in the Euro 2020 final. But there is more to come, like the no-castling chess event in Dortmund and, of course, the World Cup in Sochi. Trent and Arne Kaehler talk about Nihal Sarin, who keeps on winning tournaments; Pia Cramling, who is not far away from winning the Swedish Championship, and Ian Nepomniachtchi, who is dominating in Croatia. Furthermore, we talk about the English opening 1.c4, and dive into the \"Chess Train\" events. Will we ever be able to play chess on Mars?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-focused-on-world-cup/articleshow/84269963.cms",
          "pubDate" : "Fri, 09 Jul 2021 20:09:04 +0530",
          "title" : "Harika focused on World Cup"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Fri, 09 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -349,7 +373,7 @@ news_feed (
          "description" : " Everybody wants to be in good form at a tournament. But just by wanting something you don't automatically get it. To be in good form at a tournament, you need good preparation before the tournament. By failing to prepare, you are preparing to fail Benjamin Franklin Sadly most Chess Players leave it to luck or [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/tournament-preparation/\">Grandmaster Tournament Preparation How To Be In Good Form</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/tournament-preparation/?utm_source=rss&utm_medium=rss&utm_campaign=tournament-preparation",
+         "link" : "https://nextlevelchess.blog/tournament-preparation/",
          "pubDate" : "Wed, 07 Jul 2021 11:34:00 +0000",
          "title" : "Grandmaster Tournament Preparation - How To Be In Good Form"
       },
@@ -1029,7 +1053,7 @@ news_feed (
          "description" : " I have the feeling that nearly every day somebody starts a new Chess Training Website. Everybody wants a piece of the ever-growing chess online-business cake. But as most of these people seem to be after the big fast money in the first place, the quality of the content is mediocre at best. Luckily there are [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/the-best-chess-training-website/\">The Best Chess Training Website</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/the-best-chess-training-website/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-chess-training-website",
+         "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
       },
@@ -1589,7 +1613,7 @@ news_feed (
          "description" : " We all know that feeling of fucking up a winning position. It truly hurts and it seems to be a never ending experience. After reading this article you will convert more of your winning positions! Getting a winning position is only half the work. Converting the winning advantage is the real test. It is no [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/winning-won-position/\">How To Win A Winning Position In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/winning-won-position/?utm_source=rss&utm_medium=rss&utm_campaign=winning-won-position",
+         "link" : "https://nextlevelchess.blog/winning-won-position/",
          "pubDate" : "Mon, 28 Jun 2021 04:14:00 +0000",
          "title" : "How To Win A Winning Position In Chess"
       },
@@ -1738,14 +1762,6 @@ news_feed (
          "title" : "Hou Yifan and Harika Dronavalli progress into semis"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83846094.cms\" />Boris Gelfand, six-time World Championship candidate and 2021 World Championship Challenger, turned 53 on Thursday. While most from his generation may have stopped playing active chess, Gelfand isn't showing any signs of slowing down.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/curiosity-is-what-drives-me-boris-gelfand/articleshow/83846094.cms",
-         "pubDate" : "Fri, 25 Jun 2021 21:31:27 +0530",
-         "title" : "Curiosity is what drives me: Boris Gelfand"
-      },
-      {
          "description" : "In this Power Play Show GM Daniel King looks at the game Fischer-Gheorghiu - a beautiful and typical strategic squeeze from the American World Champion, played in his golden period in 1970. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1765,7 +1781,7 @@ news_feed (
          "description" : " Since starting my blog I got tons of requests for private Chess Coaching. It makes me very happy to hear that some of you see me as a good fit as your Chess Coach. Sadly, I have to decline all those requests. In this article I want to explain why. Do not get me wrong. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/no-to-coaching/\">The Power Of Focus Or Why I Don't Do Chess Coaching</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/no-to-coaching/?utm_source=rss&utm_medium=rss&utm_campaign=no-to-coaching",
+         "link" : "https://nextlevelchess.blog/no-to-coaching/",
          "pubDate" : "Fri, 25 Jun 2021 11:00:00 +0000",
          "title" : "The Power Of Focus - Or Why I Don't Do Chess Coaching"
       },
@@ -2173,7 +2189,7 @@ news_feed (
          "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/everyone-can-improve/?utm_source=rss&utm_medium=rss&utm_campaign=everyone-can-improve",
+         "link" : "https://nextlevelchess.blog/everyone-can-improve/",
          "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
          "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
       },
@@ -2274,14 +2290,6 @@ news_feed (
          "title" : "Classical hack"
       },
       {
-         "description" : "With the World Cup just around the corner, players from all over the world are fighting to get a spot in the event scheduled to take place next month in Sochi. Diana Mihajlova tells us all about the Zonal Tournaments that were played in Asia and Canada.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-and-canadian-zonals-2021",
-         "pubDate" : "Sat, 19 Jun 2021 15:10:00 +0100",
-         "title" : "Winners of the Asian and Canadian Zonals qualify to the World Cup"
-      },
-      {
          "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2336,14 +2344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-chess-cup-2021-participants-list/",
          "pubDate" : "Fri, 18 Jun 2021 20:32:56 +0000",
          "title" : "FIDE World Chess Cup 2021 - Participants list"
-      },
-      {
-         "description" : " Chess engines have revolutionized our beloved game and Sport. Instead of analyzing a position several days, we can just download a free Engine and in less than a second we know what the best move is. You don't need to be a genius anymore to find a crazy opening novelty. Just switch on your Engine [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/engines/\">How To Use Chess Engines So They Do Not Use You</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/engines/?utm_source=rss&utm_medium=rss&utm_campaign=engines",
-         "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0000",
-         "title" : "How To Use Chess Engines - So They Do Not Use You"
       }
    ]
 }
