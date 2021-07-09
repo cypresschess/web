@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent is looking forward to Sunday, when Italy will face England in the Euro 2020 final. But there is more to come, like the no-castling chess event in Dortmund and, of course, the World Cup in Sochi. Trent and Arne Kaehler talk about Nihal Sarin, who keeps on winning tournaments; Pia Cramling, who is not far away from winning the Swedish Championship, and Ian Nepomniachtchi, who is dominating in Croatia. Furthermore, we talk about the English opening 1.c4, and dive into the \"Chess Train\" events. Will we ever be able to play chess on Mars?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-giuoco-piano-vs-1-c4-nihal-sarin-unstoppable-and-chess-on-mars",
+         "pubDate" : "Fri, 09 Jul 2021 17:00:00 +0100",
+         "title" : "News Review - Giuoco Piano vs. 1.c4, Nihal unstoppable, and chess on Mars!"
+      },
+      {
+         "description" : "The French Chess Federation has announced that Alireza Firouzja will be naturalized in France. The current number 1 player in the junior rating list will represent the French Federation in the future. It will take some time for the change of federation to be completed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alireza-firouzja-to-play-for-france",
+         "pubDate" : "Fri, 09 Jul 2021 16:20:00 +0100",
+         "title" : "Alireza Firouzja to play for France"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84269963.cms\" />After her runner-up finish in the Women's online speed chess tournament to Chinese top ranked player GM Hou Yifan, Grand Master Dronavalli Harika is ready for the World Cup starting in Sochi, Russia, on July 12.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-focused-on-world-cup/articleshow/84269963.cms",
+         "pubDate" : "Fri, 09 Jul 2021 20:09:04 +0530",
+         "title" : "Harika focused on World Cup"
+      },
+      {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Fri, 09 Jul 2021 14:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-2-0",
+         "pubDate" : "Fri, 09 Jul 2021 13:39:11 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-3",
+         "pubDate" : "Fri, 09 Jul 2021 13:39:11 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Day 3"
+      },
+      {
+         "description" : "After five rounds at the Croatian leg of the Grand Chess Tour, Ian Nepomniachtchi had a 2-point lead in the standings table (a win is worth 2 points in this phase of the event). But then local representative Ivan Saric defeated the leader in a beautiful game. Nepomniachtchi remains in first place, nevertheless. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-2",
+         "pubDate" : "Fri, 09 Jul 2021 14:25:00 +0100",
+         "title" : "GCT Croatia: Saric stops Nepo"
+      },
+      {
          "description" : "Press release: Riga Technical University Open comes back for a special 10th edition In these uncertain times we are pleased to announce some good news the 10th edition of Riga Technical University Open has just been confirmed for 7th till 15th August! That means one of the biggest chess Festivals in Europe is back after a one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/10th-riga-technical-university-open-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -122,28 +178,20 @@ news_feed (
          "title" : "Anand beats Korobov in Croatia Grand Chess Tour event"
       },
       {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Thu, 08 Jul 2021 17:20:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Games and results"
-      },
-      {
-         "description" : "This week, Merijn van Delft analyses a game from the finals of the Goldmoney Asian Rapid tournament. Levon Aronian showcased excellent strategic understanding and a keen tactical eye to score a great victory over Vladislav Artemiev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-l-aronian",
-         "pubDate" : "Thu, 08 Jul 2021 17:00:00 +0100",
-         "title" : "Game of the Week: L. Aronian vs V. Artemiev"
-      },
-      {
          "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pia-cramling-leads-the-swedish-championship",
          "pubDate" : "Thu, 08 Jul 2021 15:30:00 +0100",
          "title" : "Pia Cramling leads the Swedish Championship"
+      },
+      {
+         "description" : "This week, Merijn van Delft analyses a game from the finals of the Goldmoney Asian Rapid tournament. Levon Aronian showcased excellent strategic understanding and a keen tactical eye to score a great victory over Vladislav Artemiev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-l-aronian",
+         "pubDate" : "Thu, 08 Jul 2021 15:20:00 +0100",
+         "title" : "Game of the Week: L. Aronian vs V. Artemiev"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -1082,14 +1130,6 @@ news_feed (
          "title" : "Vanquish 'em with the Vienna"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> June 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/june-2021-chess-puzzle-answer-key",
-         "pubDate" : "Thu, 01 Jul 2021 15:28:49 +0000",
-         "title" : "June 2021 Chess Puzzle Answer Key "
-      },
-      {
          "description" : "The \"Top 12\" competition sees some of the world's best players battle it out to claim the French club championship. This year players such as Maxime Vachier-Lagrave, Veselin Topalov and Jorden Van Foreest show their class in this 11-round event. However, this competition also serves as an excellent platform for amateurs who seldom get to play against such strong opponents. Dhananjay Khadilkar asked Mathieu Ternault (pictured), a wine maker by profession, and Mickael Hutois, a professor for mathematics, how it feels to play in such an event. | Photo: Dhananjay Khadilkar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,14 +1232,6 @@ news_feed (
          "link" : "https://aicf.in/sachi-jain-under-12-girls-champion/",
          "pubDate" : "Thu, 01 Jul 2021 04:10:01 +0000",
          "title" : "Sachi Jain Under-12 Girls Champion"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> 2021.06.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dear-magnus-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 01 Jul 2021 01:30:59 +0000",
-         "title" : "Dear Magnus... | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "GM Vidit Gujrathi won Titled Tuesday on June 29 with 9.5 points out of 11. He held the tiebreaker advantage over second-place GM Oleksandr Bortnyk and third-place GM Baadur Jobava. GM Hikaru Nakamura finished with 9/11 for fourth place after tiebr...",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "European Union Youth Chess Championship 2021"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83778887.cms\" /> Telangana Grand Master Arjun Erigaisi will be among the four Indian players participating in the Asian Rapid Online Chess tournament being held as part of the Meltwater Champions Chess Tour from June 26. The Goldmoney Asian Rapid will offer a prize money of $100,000 and is leg seven of the prestigious ATP-style season of online chess organized by the Play Magnus Group.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gears-up-for-asian-rapid-chess-tourney/articleshow/83778887.cms",
-         "pubDate" : "Wed, 23 Jun 2021 18:04:08 +0530",
-         "title" : "Arjun Erigaisi gears up for Asian Rapid chess tourney"
-      },
-      {
          "description" : "The seventh leg of the Meltwater Champions Chess Tour will be played from June 26 until July 4. Dubbed the Goldmoney Asian Rapid, the event will feature a $100,000 prize fund. Remarkably, the highest-rated woman player in the world, Hou Yifan, will take part in the tournament. Magnus Carlsen and Wesley So, currently placed first and second respectively in the tour standings, will also participate.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2282,14 +2306,6 @@ news_feed (
          "title" : "Chess and the mathematics of Heaven"
       },
       {
-         "description" : "A far advanced passed pawn supported by his queen can be an irresistible force. In the diagram position it is White to play and win!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dream-team",
-         "pubDate" : "Sat, 19 Jun 2021 09:00:00 +0100",
-         "title" : "Dream team"
-      },
-      {
          "description" : " Day 1 of the Rapid portion of <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">this Grand Chess Tour event</a> started today. In the first round Peter Svidler won a very long game against Maxime Vachier-Lagrave on the white side of a <em>very</em> closed French, and Etienne Bacrot - who played three decisive games out of three - defeated Richard Rapport's eccentric hybrid of a Caro-Kann and the North Sea Defense. In round 2 Rapport lost again, again with Black, but this time playing a conventional opening. Wesley So won a nice game against him on the white side of a Nimzo-Indian, finishing with some nice tactics. Bacrot switched colors and results, losing wi",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2304,14 +2320,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/",
          "pubDate" : "Sat, 19 Jun 2021 00:10:12 +0000",
          "title" : "Beat the French Defense with 3.Nc3"
-      },
-      {
-         "description" : "Four players finished day 1 of the Paris Rapid & Blitz Tournament with a +1 score. Ian Nepomniachtchi, Levon Aronian, Wesley So and Peter Svidler are sharing the lead after three rounds of rapid games. Wunderkind Alireza Firouzja drew his first two games and lost against Teimour Radjabov, as he made his Grand Chess Tour debut on his 18th birthday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-1",
-         "pubDate" : "Fri, 18 Jun 2021 23:15:00 +0100",
-         "title" : "Paris Rapid & Blitz: An entertaining first day of action"
       },
       {
          "description" : "",
@@ -2336,14 +2344,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/engines/?utm_source=rss&utm_medium=rss&utm_campaign=engines",
          "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0000",
          "title" : "How To Use Chess Engines - So They Do Not Use You"
-      },
-      {
-         "description" : "In this Power Play Show GM Daniel King looks at some attacking games from the Gelfand Challenge, an online rapid round-robin tournament with 20 of the world's best juniors that was won by the Indian Gukesh D. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-attacking-play",
-         "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Test your attacking play"
       }
    ]
 }
