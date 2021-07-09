@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Croatian no. 1 Ivan Saric beat World Champion Magnus Carlsen in the 2014 Olympiad, and on Day 2 of the Croatian Grand Chess Tour in Zagreb he got to celebrate defeating World Championship Challenger Ian Nepomniachtchi as well. That win with the black pieces allowed Ivan to join Vishy Anand and Maxime Vachier-Lagrave in moving to within just a point of the leader on a day when no-one managed to win more than a single game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/croatia-gct-2-saric-shocks-nepo",
+         "pubDate" : "Fri, 09 Jul 2021 07:13:19 +0000",
+         "title" : "Croatia GCT 2: Saric shocks Nepo"
+      },
+      {
+         "description" : " Garry Kasparov to take on world title challenger, Ian Nepomniachtchi, this weekend Magnus Carlsen suffered a rare double setback last weekend when the world champion twice lost three games in a row at the $100,000 Goldmoney Asian Rapid. The defeats occurred in his losing semi-final against the world No 5, Levon Aronian, then in his third place play-off against Ding Liren, though he still managed to defeat China's world No 3. The 30-year-old Norwegian had an off day, missing several tactical chances. The No 1 has already qualified for the Meltwater Champions Tour final after winning the two previous events, so diminished motivation explains it. Next week he bids to try and put to rest a long",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jul/09/chess-carlsen-loses-three-in-a-row-twice-as-champion-heads-for-world-cup",
+         "pubDate" : "Fri, 09 Jul 2021 07:00:41 +0000",
+         "title" : "Chess: Carlsen loses three in a row twice as champion heads for World Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1195",
+         "pubDate" : "Fri, 09 Jul 2021 07:00:18 +0000",
+         "title" : "Nepomniachtchi keeps the lead"
+      },
+      {
+         "description" : " Once upon a time, when chess was slowly making its way west from India to Europe, the rules were somewhat different. One of the differences was that castling was not permitted--or rather, it's better to say that no one had yet dreamt up the idea of castling. That innovation was one of many ways the game was changed to speed up the action. But what if we got rid of it? Vladimir Kramnik has been proposing various chess variants over the last few years, and he'll put it to the test against the greatest player from the land where chess (probably) started (India) - his great rival Viswanathan Anand. They'll play a four-game match in Dortmund starting July 14; let's hope it's a good one. More <a ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/9/no-castling-chess-between-kramnik-and-anand-starting-july-14.html",
+         "pubDate" : "Fri, 09 Jul 2021 06:42:39 +0000",
+         "title" : "No-Castling Chess Between Kramnik and Anand, Starting July 14"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1194\">announced a partnership</a> dedicated to the global development of youth chess with the mining company <strong>Nornickel</strong>, formerly known as Nickel Norilsk, whose main shareholder <a href=\"https://en.wikipedia.org/wiki/Vladimir_Potanin\"><strong>Vladimir Potanin</strong></a> is a chess lover, Russia's richest man and has excellent relations with President Putin. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/russias-richest-sponsors-fide/",
+         "pubDate" : "Fri, 09 Jul 2021 07:28:43 +0100",
+         "title" : "Russia's richest sponsors FIDE"
+      },
+      {
+         "description" : " Last week, we started looking at the fork, another tactic the beginner should have in his or her chess player's tool box. A fork occurs when one pawn or piece attacks two or more pawns or pieces simultaneously (at the same time). Any member of your army can employ a fork, even the pawn and <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\">A Foundation for Beginners Twenty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-five/",
+         "pubDate" : "Fri, 09 Jul 2021 06:19:34 +0000",
+         "title" : "A Foundation for Beginners Twenty Five"
+      },
+      {
          "description" : "For the first time in the main event of the 2021 Junior Speed Chess Championship, the lower seed won in an upset as #10 IM Christopher Yoo defeated #7 GM Hans Niemann by a score of 23-9 on Thursday. The next match in the championship is GM Nihal...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -536,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1187",
          "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
          "title" : "Aronian wins his first Meltwater Chess Masters title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Stockfish</strong> team <a href=\"https://stockfishchess.org/blog/2021/stockfish-14/\">credits</a> its cooperation with <strong>Leela Chess Zero</strong> for improvements in its new 14th version, estimating its pace of advancing at 80 rating points per year. A significant jump has been made in Fischer Random (that some people started to call Chess959). </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/stockfish-14-is-out/",
-         "pubDate" : "Sun, 04 Jul 2021 20:29:46 +0100",
-         "title" : "Stockfish 14 is out"
       },
       {
          "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
@@ -1434,14 +1474,6 @@ news_feed (
          "title" : "The king is a strong piece"
       },
       {
-         "description" : "Levon Aronian scored brilliant wins over Alireza Firouzja and Daniil Dubov as he cruised to 1st place in the Goldmoney Asian Rapid Prelims. The real drama came in the final round, when Jan-Krzysztof Duda won what had seemed a hopeless position to reach the knockouts and make Alireza Firouzja's third win in four games irrelevant. 17-year-old Arjun Erigaisi was the main sensation after he secured qualification like an old pro. Magnus Carlsen and Anish Giri got through after struggles, with Adhiban giving Anish the birthday gift of beating him with 1.b3!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-3-aronian-triumphs-faces-17-year-old-erigaisi",
-         "pubDate" : "Tue, 29 Jun 2021 07:28:32 +0000",
-         "title" : "Goldmoney Asian Rapid 3: Aronian triumphs & faces 17-year-old Erigaisi"
-      },
-      {
          "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out of contention. | Don't miss the instructive analyses by GM Karsten M&uuml;ller! | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2026,14 +2058,6 @@ news_feed (
          "title" : "Larry Kaufman Interview - The Dragon's tale"
       },
       {
-         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu This weekend brought a fantastic piece of news for the Canadian Correspondence Chess Association. Pierre Jean, one of our members from Quebec, has managed to achieve a great result in <a href=\"https://chessimprover.com/planning-for-victory-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-3/\">Planning for Victory (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/planning-for-victory-3/",
-         "pubDate" : "Tue, 22 Jun 2021 08:00:46 +0000",
-         "title" : "Planning for Victory (3)"
-      },
-      {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2328,14 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1150",
          "pubDate" : "Fri, 18 Jun 2021 07:38:11 +0000",
          "title" : "Mongolian Chess Federation suspended for one year"
-      },
-      {
-         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2022 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <span>Related: </span><a href=\"https://www.theguardian.com/world/2021/jun/11/chess-garry-kasparov-to-make-cameo-comeback-when-grand-tour-resumes\">Chess: Garry Kasparov to make cameo comeback when Grand Tour resumes</a> <span>Related: </span><a href=\"https://www.theguardian.com/sport/2021/jun/04/magnus-carlsen-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jun/18/chess-national-solving-championship-opens-for-entries-from-britain",
-         "pubDate" : "Fri, 18 Jun 2021 07:00:04 +0000",
-         "title" : "Chess: National solving championship opens for entries from Britain"
       }
    ]
 }
