@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Press release: Riga Technical University Open comes back for a special 10th edition In these uncertain times we are pleased to announce some good news the 10th edition of Riga Technical University Open has just been confirmed for 7th till 15th August! That means one of the biggest chess Festivals in Europe is back after a one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/10th-riga-technical-university-open-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/10th-riga-technical-university-open-2021/",
+         "pubDate" : "Fri, 09 Jul 2021 08:16:11 +0000",
+         "title" : "10th Riga Technical University Open 2021"
+      },
+      {
          "description" : "Croatian no. 1 Ivan Saric beat World Champion Magnus Carlsen in the 2014 Olympiad, and on Day 2 of the Croatian Grand Chess Tour in Zagreb he got to celebrate defeating World Championship Challenger Ian Nepomniachtchi as well. That win with the black pieces allowed Ivan to join Vishy Anand and Maxime Vachier-Lagrave in moving to within just a point of the leader on a day when no-one managed to win more than a single game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-yoo-niemann",
-         "pubDate" : "Thu, 08 Jul 2021 16:05:56 -0700",
+         "pubDate" : "Thu, 08 Jul 2021 16:05:00 -0700",
          "title" : "Junior Speed Chess Championship: Yoo Upsets Niemann"
       },
       {
@@ -882,7 +890,7 @@ news_feed (
          "title" : "Women's Speed Chess Championship: Hou Qualifies For Saturday Final With Harika"
       },
       {
-         "description" : " Share!113 Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!121 Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
@@ -2336,22 +2344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-attacking-play",
          "pubDate" : "Fri, 18 Jun 2021 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Test your attacking play"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1151",
-         "pubDate" : "Fri, 18 Jun 2021 07:48:25 +0000",
-         "title" : "FIDE Council decision on the suspension of the Mongolian Chess Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1150",
-         "pubDate" : "Fri, 18 Jun 2021 07:38:11 +0000",
-         "title" : "Mongolian Chess Federation suspended for one year"
       }
    ]
 }
