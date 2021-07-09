@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After starting the rapid section of the Croatia GCT with back-to-back wins, Ian Nepomniachtchi never let go of the lead - the Russian goes into the final two days of action a full point ahead of a 4-player chasing pack. In the blitz section, Garry Kasparov will replace Croatian GM Ivan Saric. Saric had a great performance, scoring two wins, six draws and a single loss against his higher-rated colleagues. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-3",
+         "pubDate" : "Sat, 10 Jul 2021 00:40:00 +0100",
+         "title" : "GCT Croatia: Ready for Garry"
+      },
+      {
          "description" : "The \"Special\" of the new ChessBase Magazine #202 is dedicated to Jan Timman, the Dutch legend who will celebrate his 70th birthday this year. \"My favourite Timman game\" features an exquisite selection of a total of 25 victories annotated by our authors, containing some very personal notes: \"... Timman appeared to incorporate a mixture of the hippie, the free spirit and the chess artist, and despite that was world class over the board\" (Martin Breutigam). David Navara, Adhiban Baskaran, Yannick Pelletier, Krishnan Sasikiran and many others have contributed to the \"Special\" of this issue. Today, we present you Igor Stohl's analysis of the game Nigel Short - Jan Timman from Linares 1992. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-202-special-jan-timman",
          "pubDate" : "Fri, 09 Jul 2021 18:30:00 +0100",
          "title" : "CBM #202 Special: Jan Timman"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Fri, 09 Jul 2021 17:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84274042.cms\" />Indian Grandmaster Viswanathan Anand went down to Dutch GM Anish Giri in the ninth round of the Rapid event of Croatia Grand Chess Tour here on Thursday.",
@@ -2328,22 +2328,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/",
          "pubDate" : "Sat, 19 Jun 2021 00:10:12 +0000",
          "title" : "Beat the French Defense with 3.Nc3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1152",
-         "pubDate" : "Fri, 18 Jun 2021 20:46:01 +0000",
-         "title" : "WSCC 2021: Nana Dzagnidze squeezes into quarterfinals"
-      },
-      {
-         "description" : "The&#160;FIDE World Chess Cup 2021&#160;will take place in Sochi, starting July 10, 2021. Out of&#160;206 players&#160;taking part in FIDE World Cup 2021, a large portion earned their spots through Continental events, allowed to be organized in hybrid or online formats. This is the first time in the history of chess that the World Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-chess-cup-2021-participants-list/",
-         "pubDate" : "Fri, 18 Jun 2021 20:32:56 +0000",
-         "title" : "FIDE World Chess Cup 2021 - Participants list"
       }
    ]
 }
