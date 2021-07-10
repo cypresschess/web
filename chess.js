@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi came first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over from G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-3",
+         "pubDate" : "Sat, 10 Jul 2021 01:54:00 -0700",
+         "title" : "Croatia Rapid & Blitz: Slim Lead For Nepomniachtchi Before Kasparov Joins"
+      },
+      {
+         "description" : "Ian Nepomniachtchi finished top after the rapid section of the Croatia Grand Chess Tour, but it was an underwhelming day of chess, with the World Championship Challenger drawing all three games. In fact the first 10 games of the day were drawn, with some near misses, before the dam burst in the final round of rapid chess. Jan-Krzysztof Duda and Anish Giri moved into a 4-player pack a point behind Nepo after defeating Anton Korobov and Vishy Anand. Garry Kasparov will join for the blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/croatia-gct-3-nepo-wins-rapid-kasparov-awaits",
+         "pubDate" : "Sat, 10 Jul 2021 08:51:12 +0000",
+         "title" : "Croatia GCT 3: Nepo wins rapid | Kasparov awaits"
+      },
+      {
+         "description" : "As previously announced in my column The Martial menagerie of King Alfonso the Wise, a charitable chess spectacular in London is happening this coming week, culminating in a living game in Trafalgar Square, organised by the Stakhanovite Malcolm Pein. I have on several occasions been involved in playing live chess games, with schoolchildren, actors or, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/living-chess-in-rabelais-and-trafalgar-square/",
+         "pubDate" : "Sat, 10 Jul 2021 08:00:09 +0000",
+         "title" : "Living chess in Rabelais and Trafalgar Square"
+      },
+      {
          "description" : "In the diagram position White has brought almost all of his pieces in position to attack the black king. However, in order to exploit this menacing show of force White needs to play all over the board. But he will be rewarded with checkmating the opponent or a decisive material plus - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mighty-knights",
          "pubDate" : "Sat, 10 Jul 2021 09:00:00 +0100",
          "title" : "Mighty knights"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1196",
+         "pubDate" : "Sat, 10 Jul 2021 07:27:29 +0000",
+         "title" : "Nepomniachtchi in front after rapid"
       },
       {
          "description" : "All India Chess Federation President Dr Sanjay Kapoor and Secretary Shri Bharat Singh Chauhan along with Chairman of AICF's Chess in School Commission Shri AK",
@@ -1394,14 +1426,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2021"
       },
       {
-         "description" : "Magnus Carlsen described it as \"massive\" that he won Day 1 of his Goldmoney Asian Rapid quarterfinal match against Wesley So after a slugfest that featured just one draw. Vladislav Artemiev also took the lead with a 3:0 whitewash of Anish Giri, who joked that \"playing horrible chess\" might be a hitherto unknown side effect of vaccination. 17-year-old Arjun Erigaisi traded wins with world no. 5 Levon Aronian, and while Ding Liren-Duda saw all four games drawn it featured some of the day's most combative chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-4-carlsen-and-artemiev-lead",
-         "pubDate" : "Wed, 30 Jun 2021 09:27:02 +0000",
-         "title" : "Goldmoney Asian Rapid 4: Carlsen and Artemiev lead"
-      },
-      {
          "description" : "GM Magnus Carlsen and GM Vladislav Artemiev won their first quarterfinal matches in the Goldmoney Asian Rapid knockout. Carlsen defeated GM Wesley So with two wins vs. one loss, while Artemiev won three straight games vs. GM Anish Giri. The othe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1536,14 +1560,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/29/james-altucher-returns",
          "pubDate" : "Tue, 29 Jun 2021 12:25:28 +0000",
          "title" : "Episode 232- James Altucher returns"
-      },
-      {
-         "description" : "An 88-year-old chess player from Venezuela recently received a very nice surprise: his FM title. He was informed that FIDE had acknowledged the title application based on results that he scored in the 1960s. It&#39;s a record that won&#39;t be easy to b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/venezuela-chess-player-fm-title-88-salvador-diaz-carias",
-         "pubDate" : "Tue, 29 Jun 2021 04:10:00 -0700",
-         "title" : "Venezuelan Chess Player Gets FM Title At 88"
       },
       {
          "description" : "ChessBase Magazine is the most comprehensive and most sophisticated chess magazine there is. World class players analyze their brilliancies and explain the ideas behind the moves to you, opening specialists present the latest trends in opening theory and offer exciting ideas for your repertoire. Master trainers in the fields of tactics, strategy, and the endgame show you the tricks and techniques a successful tournament player needs! DVD with several hours of video + booklet. Also available for download including the booklet in pdf!",
@@ -2288,30 +2304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/classical-hack.html",
          "pubDate" : "Sat, 19 Jun 2021 14:14:00 +0000",
          "title" : "Classical hack"
-      },
-      {
-         "description" : " Daniel Weil, renown architect and designer, took on a mission to reinvent the <a href=\"https://shop.worldchess.com/\">chess pieces</a> for World Chess. In the process, he redesigned the entire way chess feels and looks today, ranging from the chess pieces to stage design to lighting to furniture. In this unique lecture, Weil breaks down the process of redesigning chess and explains the basis for each piece and reference. World Chess has partnered with Daniel since the outset, and his vision and respect for the game are visible in all events and products that World Chess brings to the market today. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q92YBqT5TiE?enablejsapi=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/daniel-weil-renown-architect-on-the-world-chess-set-design/",
-         "pubDate" : "Sat, 19 Jun 2021 08:51:49 +0000",
-         "title" : "Daniel Weil, Renown Architect, on the World Chess Set Design"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1153",
-         "pubDate" : "Sat, 19 Jun 2021 08:43:37 +0000",
-         "title" : "Shortlist for Yuri Averbakh/Isaac Boleslavsky Award announced"
-      },
-      {
-         "description" : "In the past, chess has been employed both as a mathematical metaphor and adapted as a method of penetrating the secrets of the universe. An early and celebrated instance appears in an episode from Dante's Paradiso, where he interrogates his guide about the number of angels in the heavens. More recently, as we shall see, Professor []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-and-the-mathematics-of-heaven/",
-         "pubDate" : "Sat, 19 Jun 2021 08:00:51 +0000",
-         "title" : "Chess and the mathematics of Heaven"
       }
    ]
 }
