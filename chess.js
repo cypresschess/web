@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White has brought almost all of his pieces in position to attack the black king. However, in order to exploit this menacing show of force White needs to play all over the board. But he will be rewarded with checkmating the opponent or a decisive material plus - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mighty-knights",
+         "pubDate" : "Sat, 10 Jul 2021 09:00:00 +0100",
+         "title" : "Mighty knights"
+      },
+      {
+         "description" : "All India Chess Federation President Dr Sanjay Kapoor and Secretary Shri Bharat Singh Chauhan along with Chairman of AICF's Chess in School Commission Shri AK",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-shri-anurag-thakur/",
+         "pubDate" : "Sat, 10 Jul 2021 05:44:01 +0000",
+         "title" : "Congratulations Shri Anurag Thakur"
+      },
+      {
          "description" : "After starting the rapid section of the Croatia GCT with back-to-back wins, Ian Nepomniachtchi never let go of the lead - the Russian goes into the final two days of action a full point ahead of a 4-player chasing pack. In the blitz section, Garry Kasparov will replace Croatian GM Ivan Saric. Saric had a great performance, scoring two wins, six draws and a single loss against his higher-rated colleagues. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,6 +584,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-magic-knight",
          "pubDate" : "Tue, 06 Jul 2021 09:00:00 +0100",
          "title" : "A magic knight"
+      },
+      {
+         "description" : "Reyan Md of Bihar and Alana Meenakshi Kolagatla of Andhra Pradesh becomes champions in the Open and Girls Categories respectively in the National Under-10 Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/reyan-and-alana-under-10-champions/",
+         "pubDate" : "Tue, 06 Jul 2021 04:17:00 +0000",
+         "title" : "Reyan and Alana Under-10 Champions"
       },
       {
          "description" : "Renowned Russian chess coach Yury Dokhoian was buried today in the Nikolo-Khovanskoye cemetery near Moscow after dying from COVID-19 on July 1st at the age of just 56. Sergey Karjakin, who was coached by Dokhoian from 2009-2020, and 18-year-old Andrey Esipenko, his latest prot&eacute;g&eacute;, attended the funeral. Yury was a strong chess player, but was best known as Garry Kasparov's second for the last decade of his career, before going on to coach the Kosintseva sisters and head the Russian women's and men's teams.",
@@ -1786,14 +1810,6 @@ news_feed (
          "title" : "The Power Of Focus - Or Why I Don't Do Chess Coaching"
       },
       {
-         "description" : "1. As per the request and recommendation made by Selection Committee consists of GM Abhijt Kunte , GM Dibeyandu Barua and IM Dinesh Sharma, All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-regulations-important-update/",
-         "pubDate" : "Fri, 25 Jun 2021 10:27:05 +0000",
-         "title" : "FAIR PLAY REGULATIONS: IMPORTANT UPDATE"
-      },
-      {
          "description" : "The Foreign Desk is a current affairs podcast, and this week's episode is centred around chess and politics. Sometimes art imitates life; some games do...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1952,14 +1968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/guildford-chess-club-is-125-years-old/",
          "pubDate" : "Wed, 23 Jun 2021 10:49:17 +0000",
          "title" : "Guildford Chess Club is 125 years old!"
-      },
-      {
-         "description" : "Tejaswini G of Tamilnadu becomes champion in the National Under-14 Girls Online Chess Championship which concluded on Monday. She comfortably clinched the title with 10.5",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tejaswini-under-14-girls-champion/",
-         "pubDate" : "Wed, 23 Jun 2021 09:42:39 +0000",
-         "title" : "Tejaswini Under-14 Girls Champion"
       },
       {
          "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman Grooten, Robert Ris or Lawrence Trent. Real premium",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-women-chess-championship-2021/",
          "pubDate" : "Sun, 20 Jun 2021 16:58:17 +0000",
          "title" : "European Women Chess Championship 2021"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 32nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks whether \"to trade or not to trade\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-32-to-trade-or-not-to-trade",
-         "pubDate" : "Sun, 20 Jun 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 32: To trade or not to trade"
       },
       {
          "description" : "",
