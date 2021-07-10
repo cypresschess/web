@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Ian Nepomniachtchi came first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over from G...",
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Sat, 10 Jul 2021 14:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-4",
+         "pubDate" : "Sat, 10 Jul 2021 13:39:50 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Day 4"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84295965.cms\" />In a fresh twist to their internal wrangling, All India Chess Federation joint-secretary Atanu Lahiri on Saturday sent a letter to Prime Minister Narendra Modi alleging \"data theft, corruption and misuse of funds\" by secretary Bharat Singh Chauhan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-joint-secretary-lahiri-writes-to-pm-alleges-corruption-against-boss-chauhan/articleshow/84295965.cms",
+         "pubDate" : "Sat, 10 Jul 2021 18:59:15 +0530",
+         "title" : "AICF joint secretary Lahiri writes to PM, alleges corruption against 'boss' Chauhan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1197",
+         "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
+         "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
+      },
+      {
+         "description" : " The San Fermin Masters Final is a Chess24 blitz event taking place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they've been joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
+         "pubDate" : "Sat, 10 Jul 2021 15:59:00 +0400",
+         "title" : "San Fermin Masters Final 2021 - Games and Results"
+      },
+      {
+         "description" : "World no. 12 Alireza Firouzja is now officially a French player. The 18-year-old Iranian-born chess prodigy had been living in Chartres, France since 2019 and was recently granted French citizenship. At the time he was still playing under the FIDE flag, but his transfer to the French Chess Federation is now complete, meaning that Firouzja will go into a World Cup match against Andrew Tang or Javokhir Sindarov next Thursday 15th July as the French no. 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/alireza-firouzja-is-now-the-french-no-1",
+         "pubDate" : "Sat, 10 Jul 2021 11:31:02 +0000",
+         "title" : "Alireza Firouzja is now the French no. 1"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi came in first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over fro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-3",
@@ -48,6 +96,14 @@ news_feed (
          "link" : "https://aicf.in/congratulations-shri-anurag-thakur/",
          "pubDate" : "Sat, 10 Jul 2021 05:44:01 +0000",
          "title" : "Congratulations Shri Anurag Thakur"
+      },
+      {
+         "description" : " How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level: FM Alex Dunne From the publisher: Surprise yourself and reach higher! This book is based on real amateur games and shows you how an average club player can proceed through the ranks and reach Candidate Master level. Its <a href=\"http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/",
+         "pubDate" : "Sat, 10 Jul 2021 00:10:11 +0000",
+         "title" : "How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level"
       },
       {
          "description" : "After starting the rapid section of the Croatia GCT with back-to-back wins, Ian Nepomniachtchi never let go of the lead - the Russian goes into the final two days of action a full point ahead of a 4-player chasing pack. In the blitz section, Garry Kasparov will replace Croatian GM Ivan Saric. Saric had a great performance, scoring two wins, six draws and a single loss against his higher-rated colleagues. | Photo: Lennart Ootes",
@@ -698,6 +754,14 @@ news_feed (
          "title" : "Junior Speed Chess Championship: Erigaisi Beats Shevchenko"
       },
       {
+         "description" : " From the publisher: &#8220;After his first two most successful volumes of Chess Middlegame Strategies, Ivan Solokov explores in his final volume ideas related to the symbiosis of the strategic and dynamic elements of chess. He combined the most exceptional ideas, strategies and positional play essentials. These three volumes will give you a serious head start <a href=\"http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Middlegame Strategies Strategy Meets Dynamics, Volume 3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://british",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/",
+         "pubDate" : "Mon, 05 Jul 2021 00:10:10 +0000",
+         "title" : "Chess Middlegame Strategies - Strategy Meets Dynamics, Volume 3"
+      },
+      {
          "description" : "Star columnist Jon Speelman reactivates his \"mirror\", a potent if imaginary artefact intended to reflect the best chess players ever. This week, a couple of games by Garry Kasparov, \"an (un)caged tiger who revels in violent conflict\". | Pictured: Kasparov with ChessBase's Matthias W&uuml;llenweber",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1170,14 +1234,6 @@ news_feed (
          "title" : "Abhimanyu on getting his GM title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews the best games from this week in world class chess. 2021.07.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/games-week-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oneY18SStp8.jpg?itok=FS7KCmuh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/games-week-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 01 Jul 2021 19:32:00 +0000",
-         "title" : "Games of the Week - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1314,6 +1370,14 @@ news_feed (
          "title" : "Sachi Jain Under-12 Girls Champion"
       },
       {
+         "description" : " From the publisher: &#8220;Using carefully selected examples, the authors want to make you familiar with the strategic ideas behind the famous Maroczy bind. These plans arising from both colours, are a must for your arsenal of chess knowledge and understanding.&#8221; &#8220;Adrian Bohdanovych Mikhalchishin was born in Lvov, Ukraine in 1954 and became a Grandmaster in <a href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Maroczy Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-s",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/",
+         "pubDate" : "Thu, 01 Jul 2021 00:10:35 +0000",
+         "title" : "Understanding Maroczy Structures"
+      },
+      {
          "description" : "GM Vidit Gujrathi won Titled Tuesday on June 29 with 9.5 points out of 11. He held the tiebreaker advantage over second-place GM Oleksandr Bortnyk and third-place GM Baadur Jobava. GM Hikaru Nakamura finished with 9/11 for fourth place after tiebr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1360,14 +1424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/made-it-abhi-youngest-gm-in-history",
          "pubDate" : "Wed, 30 Jun 2021 20:35:13 +0100",
          "title" : "Made it! Abhi youngest GM in history!"
-      },
-      {
-         "description" : "US chess prodigy Abhimanyu Mishra has become the youngest grandmaster in history at the age of 12 years, 4 months and 25 days, shattering Sergey Karjakin's record of 12 years and 7 months that had stood for 19 years. Abhimanyu, from New Jersey, clinched the title when he scored his 3rd and final grandmaster norm by beating fellow prodigy Leon Mendonca in a nail-biting 9th round of the Vezerkepzo GM Mix tournament in Budapest, Hungary.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/abhimanyu-mishra-beats-karjakin-s-record-youngest-ever-grandmaster",
-         "pubDate" : "Wed, 30 Jun 2021 18:45:04 +0000",
-         "title" : "Abhimanyu Mishra beats Karjakin's record as youngest ever grandmaster"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83997101.cms\" /> The youngest Grandmaster in chess a feat held by Russian Sergey Karjakin for almost 19 years was broken by Abhimanyu Mishra on Wednesday night. The American boy, with Indian roots, rewrote that record at 12 years, 4 months and 25 days. \"The match against Leon was tough but a mistake from his end was all that I needed to cross the landmark. I feel just relieved and happy to be able to achieve this feat,\" Abhimanyu told TOI moments after his victory.",
@@ -1736,14 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1168",
          "pubDate" : "Sat, 26 Jun 2021 20:46:53 +0000",
          "title" : "Five-way split for the lead after Day 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83875997.cms\" />The Goldmoney Asian Rapid got off to a quick start on Saturday. However, World Champion Magnus Carlsen suffered a disappointing first-game loss as he lost to teen star Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-carlsen-in-five-way-lead-after-day-1/articleshow/83875997.cms",
-         "pubDate" : "Sat, 26 Jun 2021 22:03:20 +0530",
-         "title" : "Goldmoney Asian Rapid: Carlsen in five-way lead after Day 1"
       },
       {
          "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
@@ -2242,14 +2290,6 @@ news_feed (
          "title" : "Hou Yifan sails into the quarterfinals"
       },
       {
-         "description" : "A comment in the previous column prompted Jon Speelman to share with the readers which players he considers to be the best to have ever lived. He starts with Bobby Fischer, whom he characterizes as having \"precise power\"; and with Anatoly Karpov - \"deft control\". Chime in your thoughts in the comments section and, if you like, characterize your favourite players' styles in a couple of words! | Artwork: Unknown (via Quora)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-148",
-         "pubDate" : "Sun, 20 Jun 2021 18:10:00 +0100",
-         "title" : "Mirror mirror on the wall..."
-      },
-      {
          "description" : "European Women Individual Chess Championship 2021 will take place from 8-21 August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2296,14 +2336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1154",
          "pubDate" : "Sat, 19 Jun 2021 20:15:18 +0000",
          "title" : "Lei Tingjie and Anna Muzychuk advance into quarterfinals"
-      },
-      {
-         "description" : " There are two reasons why I am showing the following game. 1) It has a nice mate and 2) I am testing how this blog handles newer pgn file formats (** Update: It did not work as expected, which is a bit of shame as I had annotated this one) <br /> <br /> <b>Steinkuehler, Guenter - Blackburne, Joseph Henry [C54]</b><br />London, 1863 <script>new PgnViewer( { boardName: \"game1253\", movesFormat: \"default\", pgnString:'1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nfxd2 Nxd4 9. O-O d6 10. Nb3 Nxb3 11. Qxb3 O-O 12. Re1 Nh5 13. e5 Qg5 14.exd6 Nf4 15. Bxf7+ Kh8 16. g3 cxd6 17. Nc3 Nh3+ 18. Kg2 Qf6 19. Bd5 Qxf2+ 20.Kh1 Qg1+ 21. Rxg1 Nf2+ 22. Kg2 Bh3# 0-1', pauseBetw",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/classical-hack.html",
-         "pubDate" : "Sat, 19 Jun 2021 14:14:00 +0000",
-         "title" : "Classical hack"
       }
    ]
 }
