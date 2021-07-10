@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-4-kasparov",
+         "pubDate" : "Sat, 10 Jul 2021 13:10:00 -0700",
+         "title" : "Croatia Rapid & Blitz: Kasparov Scores 0.5/9"
+      },
+      {
          "description" : "On Sunday 18th July the charity \"Chess in Schools and Communities\" is staging the UK's biggest-ever outdoor chess festival, ChessFest, in Trafalgar Square, London's most famous public space. It is to commemorate the 150th anniversary of the children's classic \"Through the Looking Glass.\" Tim Wall looks at what visitors can expect to see, and examines our lasting fascination with Lewis Carroll's epic fantasy tale. Big pictorial preview.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1514,14 +1522,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2021"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Vladislav Artemiev won their first quarterfinal matches in the Goldmoney Asian Rapid knockout. Carlsen defeated GM Wesley So with two wins vs. one loss, while Artemiev won three straight games vs. GM Anish Giri. The othe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-carlsen-artemiev",
-         "pubDate" : "Wed, 30 Jun 2021 02:27:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Artemiev, Carlsen Lead In Quarterfinals"
-      },
-      {
          "description" : "After eight of nine rounds the young Indian Grandmaster Nihal Sarin leads at the Silver Lake Open Veliko Gradiste with 7.0/8 and is half a point ahead of his countryman Raunak Sadhwani and the Serbian GM Branko Damljanovic, against whom Sarin has to play with Black in round nine. | Photos: Rupali Mullick",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2336,14 +2336,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/20/paris-rapid-day-2-three-leaders.html",
          "pubDate" : "Sun, 20 Jun 2021 06:26:26 +0000",
          "title" : "Paris Rapid, Day 2: Three Leaders"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1154",
-         "pubDate" : "Sat, 19 Jun 2021 20:15:18 +0000",
-         "title" : "Lei Tingjie and Anna Muzychuk advance into quarterfinals"
       }
    ]
 }
