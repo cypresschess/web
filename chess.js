@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday 18th July the charity \"Chess in Schools and Communities\" is staging the UK's biggest-ever outdoor chess festival, ChessFest, in Trafalgar Square, London's most famous public space. It is to commemorate the 150th anniversary of the children's classic \"Through the Looking Glass.\" Tim Wall looks at what visitors can expect to see, and examines our lasting fascination with Lewis Carroll's epic fantasy tale. Big pictorial preview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessfest-with-alice",
+         "pubDate" : "Sat, 10 Jul 2021 19:00:00 +0100",
+         "title" : "ChessFest with Alice"
+      },
+      {
          "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Sat, 10 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Live!"
+         "pubDate" : "Sat, 10 Jul 2021 18:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Games and results"
+      },
+      {
+         "description" : "While Garry Kasparov plays over-the-board blitz chess in Zagreb, Magnus Carlsen is in Pamplona promoting chess and playing a two-day knockout tournament. The rest of the participants are playing online. Besides the world champion, Wesley So, Ding Liren and Levon Aronian were seeded directly into the quarterfinals, where they face four winners of previous qualifying tournaments. Each match consists of 8 blitz games, played on the chess24 platform.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/san-fermin-masters-2021-carlsen",
+         "pubDate" : "Sat, 10 Jul 2021 18:45:00 +0100",
+         "title" : "Carlsen playing online from Pamplona"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King looks at two games from the Goldmoney Asian Rapid tournament. Daniel did an excellent job commentating the games live, and uses two examples from the event to show how important it is to develop a good understanding of rook and pawn positions. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-crucial-rook-and-pawn-technique",
+         "pubDate" : "Sat, 10 Jul 2021 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Crucial rook and pawn technique"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84298534.cms\" />Indian Grandmaster Viswanathan Anand trumped former world champion Garry Kasparov in the much-awaited contest of the Croatia Grand Chess Tour here on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-garry-kasparov-in-croatia-grand-chess-tour/articleshow/84298534.cms",
+         "pubDate" : "Sat, 10 Jul 2021 21:27:12 +0530",
+         "title" : "Viswanathan Anand beats Garry Kasparov in Croatia Grand Chess Tour"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -1770,14 +1802,6 @@ news_feed (
          "title" : "Kshatriya Vekhande Under-12 Open Champion"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83887545.cms\" /> India's best teenage Grandmasters (GM) Raunak Sadhwani and Nihal Sarin recorded yet another victory in their respective fourth rounds contests to share the top position in the Silver Lake Open classical chess tournament at Veliko Gradiste, Serbia, on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-best-teenage-gms-raunak-nihal-in-lead-to-face-off-in-round-5/articleshow/83887545.cms",
-         "pubDate" : "Sun, 27 Jun 2021 10:03:03 +0530",
-         "title" : "India's best teenage GMs Raunak, Nihal in lead; to face off in round 5"
-      },
-      {
          "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2250,28 +2274,12 @@ news_feed (
          "title" : "Tie-breaks"
       },
       {
-         "description" : "Wesley So is leading the Paris Rapid & Blitz Tournament after getting an undefeated 11/18 score in the rapid section. On Sunday, the Filipino-born grandmaster won two out of his three games to go into the blitz phase of the event a full point ahead of Ian Nepomniachtchi. Eighteen rounds of blitz games will be played on Monday and Tuesday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-3",
-         "pubDate" : "Mon, 21 Jun 2021 07:00:00 +0100",
-         "title" : "Paris Rapid & Blitz: So grabs the lead"
-      },
-      {
          "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/everyone-can-improve/",
          "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
          "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
-      },
-      {
-         "description" : "Sam Shankland reached the final round of the Prague Masters Tournament with a half-point lead over Radoslaw Wojtaszek and Jan-Krzysztof Duda. The American grandmaster was still busy with his game against Jorden van Foreest when Duda had already overtaken him in the standings thanks to a win over Wojtaszek. Shankland only needed a draw, but his opponent was desperate to win. The curse turned into a blessing when Van Foreest blundered: Shankland won and thus became the undisputed tournament winner. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shankland-wins-prague-masters-2021",
-         "pubDate" : "Sun, 20 Jun 2021 23:05:00 +0100",
-         "title" : "Shankland wins Prague Masters after dramatic final round"
       },
       {
          "description" : "",
