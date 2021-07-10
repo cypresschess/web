@@ -2312,22 +2312,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-and-the-mathematics-of-heaven/",
          "pubDate" : "Sat, 19 Jun 2021 08:00:51 +0000",
          "title" : "Chess and the mathematics of Heaven"
-      },
-      {
-         "description" : " Day 1 of the Rapid portion of <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">this Grand Chess Tour event</a> started today. In the first round Peter Svidler won a very long game against Maxime Vachier-Lagrave on the white side of a <em>very</em> closed French, and Etienne Bacrot - who played three decisive games out of three - defeated Richard Rapport's eccentric hybrid of a Caro-Kann and the North Sea Defense. In round 2 Rapport lost again, again with Black, but this time playing a conventional opening. Wesley So won a nice game against him on the white side of a Nimzo-Indian, finishing with some nice tactics. Bacrot switched colors and results, losing wi",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/18/paris-rapid-blitz-kicks-off.html",
-         "pubDate" : "Sat, 19 Jun 2021 01:23:54 +0000",
-         "title" : "Paris Rapid & Blitz Kicks Off"
-      },
-      {
-         "description" : " &#8220;GM Pentala Harikrishna is an established elite player who has been in India's Olympiad team for over two decades. Since November 2016 Harikrishna has often entered the top 10 of the world rankings, and has consistently stayed in the top 20. His peak rating is 2770 and he is well known for his exceptional endgame <a href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the French Defense with 3.Nc3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/\">Beat the French Defense wi",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/06/19/beating-the-french-defense-with-3-nc3/",
-         "pubDate" : "Sat, 19 Jun 2021 00:10:12 +0000",
-         "title" : "Beat the French Defense with 3.Nc3"
       }
    ]
 }
