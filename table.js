@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target=' blank'>05212021KOFC</a>",
+"SPRING","2021-07-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202107096062 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2021-07-02","6","<a href=http://www.uschess.org/msa/XtblMain.php?202107024862 target=' blank'>FLEXIBLEFRIDAYSJULYRD1</a>",
 "CYPRESS","2021-07-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202107024702 target=' blank'>05212021KOFC</a>",
 "SUGAR LAND","2021-07-02","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107023992 target=' blank'>FBCC 2021 JULY HOLIDAY OPEN</a>",
 "SPRING","2021-07-02","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107023972 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2020-03-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202003018982 target=' blank'>THE CHESS REFINERY: SCHOLASTIC SUNDAY</a>",
 "KINGWOOD","2020-02-29","230","<a href=http://www.uschess.org/msa/XtblMain.php?202002298462 target=' blank'>KINGWOOD HIGH SCHOOL SCHOLASTIC</a>",
 "HOUSTON","2020-02-29","40","<a href=http://www.uschess.org/msa/XtblMain.php?202002298402 target=' blank'>THE CHESS REFINERY: SAT SWISS 75</a>",
-"HOUSTON","2020-02-29","26","<a href=http://www.uschess.org/msa/XtblMain.php?202002298372 target=' blank'>CHESSPANDA02292020SATURDAY</a>",
-"KATY","2020-02-29","12","<a href=http://www.uschess.org/msa/XtblMain.php?202002298022 target=' blank'>SR 02292020</a>",
-"CYPRESS","2020-02-28","22","<a href=http://www.uschess.org/msa/XtblMain.php?202002287542 target=' blank'>KNIGHTS OF CYPRESS</a>",
 ]);
