@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
+         "pubDate" : "Sun, 11 Jul 2021 14:50:00 +0100",
+         "title" : "Croatia Grand Chess Tour - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-5",
+         "pubDate" : "Sun, 11 Jul 2021 13:41:04 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Day 5"
+      },
+      {
+         "description" : " Share! Philadelphia was back in full force as a city that has made &#8220;Independence Day&#8221; an iconic holiday. It is also the home of the largest open chess tournament, the World Open. Last weekend the Continental Chess Association hosted the 49th edition at the Sheraton on 201 North 17th St. This tournament is where the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/\">Niemann wins 2021 World Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/",
+         "pubDate" : "Sun, 11 Jul 2021 12:53:09 +0000",
+         "title" : "Niemann wins 2021 World Open"
+      },
+      {
          "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-35-development-advantage-1",
          "pubDate" : "Sun, 11 Jul 2021 13:00:00 +0100",
          "title" : "Understanding before Moving 35: Development advantage (1)"
+      },
+      {
+         "description" : "After just arriving in Sochi, Russia, for the FIDE World Cup, GM Nihal Sarin beat GM Nicholas Checa in the 2021 Junior Speed Chess Championship presented by ChessKid. Playing from his hotel, the Indian prodigy won in all three time controls. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-nihal-checa",
+         "pubDate" : "Sun, 11 Jul 2021 04:57:00 -0700",
+         "title" : "Junior Speed Chess Championship: Nihal Beats Checa On Eve Of FIDE World Cup"
+      },
+      {
+         "description" : "Magnus Carlsen left Norway for the first time since the Tata Steel Masters not to head straight to Sochi, Russia, but for Pamplona, Spain, where a city famous for its Running of the Bulls is this year celebrating the San Fermin Festival with a €50,000 chess festival. Magnus played from a room where Ernest Hemingway stayed as he set up a showdown with Wesley So, while Levon Aronian will take on Ding Liren after his match against 16-year-old Nodirbek Abdusattorov went all the way to Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-so-aronian-ding-in-san-fermin-masters-battle",
+         "pubDate" : "Sun, 11 Jul 2021 11:51:12 +0000",
+         "title" : "Carlsen, So, Aronian & Ding in San Fermin Masters battle"
       },
       {
          "description" : " Garry Kasparov had a pretty rough time of it at the Croatia Rapid and Blitz, scoring a disastrous 0.5/9. The obvious explanation is simply lack of practice, and this seemed to contribute to both poor opening play, and a shortage of time when he did get some decent positions. The other possible reason (connected to opening choices) is that theory has moved on over the last 20 years, some positions that Kasparov thought were playable may no longer be so. When I mentioned the result to my daughter she replied \"That's the same score that I got in my most recent chess tournament!\" (She stopped playing around the age of 8) <br /> ",
@@ -1202,7 +1242,7 @@ news_feed (
          "title" : "Women's Speed Chess Championship: Hou Qualifies For Saturday Final With Harika"
       },
       {
-         "description" : " Share!121 Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master (9 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
@@ -1314,14 +1354,6 @@ news_feed (
          "title" : "For wonder kid Abhimanyu Mishra, becoming the youngest GM is just the beginning"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Alireza Firouzja&#039;s win over world champion Magnus Carlsen at the 2021 Goldmoney Asian Rapid. This is the first chess class at the Saint Louis Chess Club since March 2020. Welcome back, live audience. Welcome to the old normal. We did it. 2021.07.01<br /> Alireza Firouzja vs Magnus Carlsen, Goldmoney Asian Rapid (2021): C26 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054817\">https://www.chessgames.com/perl/chessgame?gid=2054817</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-nam",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-gives-carlsen-bad-day-dorsas-choice",
-         "pubDate" : "Fri, 02 Jul 2021 01:32:02 +0000",
-         "title" : "Firouzja Gives Carlsen a Bad Day! | Dorsa's Choice"
-      },
-      {
          "description" : "World Chess Champion Magnus Carlsen has now been the world no. 1 on every rating list for the past decade since July 2011, an unbeaten streak that will now eclipse Garry Kasparov's two decade-long streaks as world no. 1 from 1986 to 1996 and 1996 until he dropped off the list after his retirement in 2005. Although Magnus has suffered scares - for instance any loss to Fabiano Caruana in the 2018 World Championship match would have taken Fabi top - he's remarkably been unbroken world no. 1 for a decade on the live rating list as well.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1400,14 +1432,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/oldest-and-youngest.html",
          "pubDate" : "Thu, 01 Jul 2021 14:15:00 +0000",
          "title" : "Oldest and youngest"
-      },
-      {
-         "description" : "The youngest grandmaster in chess history Abhimanyu Mishra reveals two of the secrets to his success.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/what-it-takes-to-be-the-world-s-youngest-grandmaster",
-         "pubDate" : "Thu, 01 Jul 2021 14:00:46 +0000",
-         "title" : "What it takes to be the world's youngest Grandmaster: Abhi Mishra"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84037694.cms\" />Chess legend Viswanathan Anand has congratulated Indian-origin Abhimanyu Mishra on becoming the youngest ever Grandmaster (GM) of the sport.",
@@ -1568,14 +1592,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-online-championship-participation-of-fair-play-defaulters/",
          "pubDate" : "Wed, 30 Jun 2021 14:13:19 +0000",
          "title" : "National School Online Championship : Participation of Fair Play defaulters"
-      },
-      {
-         "description" : "The Main Event of the 2021 Junior Speed Chess Championship presented by ChessKid starts on Thursday, July 1. The first match in the round of 16 will see GM Raunak Sadhwani of India vs. GM Paulius Pultinevicius of Lithuania at 10 a.m. Pacific / 19:...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-main-event-announcement",
-         "pubDate" : "Wed, 30 Jun 2021 06:29:55 -0700",
-         "title" : "Junior Speed Chess Championship Main Event Starts Thursday"
       },
       {
          "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
@@ -2306,14 +2322,6 @@ news_feed (
          "title" : "Sam Shankland wins Prague Chess Festival Masters 2021"
       },
       {
-         "description" : "Hundreds of different Fritztrainers have been teaching us chess on ChessBase for more than a decade. Maybe you sometimes wonder what else the authors of these Fritztrainers do? \"Meet the Fritztrainer\" takes a look behind the scenes, telling us more about the private life of your favourite chess trainer. Grandmaster Jan Werle recently made the Fritztrainer: \"The Saemisch Variation against the King's Indian and Benoni\". In our interview, he tells us why his signature glasses are missing, and what his puppy \"Molly\" has to do with this, and that he also created something else than Fritztrainers, and books, during the last year. | Photos: Jan Werle",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-jan-werle",
-         "pubDate" : "Mon, 21 Jun 2021 18:00:00 +0100",
-         "title" : "Meet The Fritztrainer - Jan Werle"
-      },
-      {
          "description" : "The 2021 Arzum Turkish Women's Championship took place from 13-19 June in Corum Turkey. The event was played in 7 rounds, Swiss system, with participation of 32 players and time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. After 7 played rounds, IM Ekaterina Atalik convincingly won []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2360,14 +2368,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-women-chess-championship-2021/",
          "pubDate" : "Sun, 20 Jun 2021 16:58:17 +0000",
          "title" : "European Women Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1155",
-         "pubDate" : "Sun, 20 Jun 2021 12:51:24 +0000",
-         "title" : "Three-way tie on the top after Day 2"
       }
    ]
 }
