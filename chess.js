@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-4",
+         "pubDate" : "Sun, 11 Jul 2021 13:05:00 +0100",
+         "title" : "GCT Croatia: Nepo leads as Kasparov struggles"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 35th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-35-development-advantage-1",
+         "pubDate" : "Sun, 11 Jul 2021 13:00:00 +0100",
+         "title" : "Understanding before Moving 35: Development advantage (1)"
+      },
+      {
+         "description" : " Garry Kasparov had a pretty rough time of it at the Croatia Rapid and Blitz, scoring a disastrous 0.5/9. The obvious explanation is simply lack of practice, and this seemed to contribute to both poor opening play, and a shortage of time when he did get some decent positions. The other possible reason (connected to opening choices) is that theory has moved on over the last 20 years, some positions that Kasparov thought were playable may no longer be so. When I mentioned the result to my daughter she replied \"That's the same score that I got in my most recent chess tournament!\" (She stopped playing around the age of 8) <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/a-pretty-vicious-burn.html",
+         "pubDate" : "Sun, 11 Jul 2021 09:52:00 +0000",
+         "title" : "A pretty vicious burn"
+      },
+      {
+         "description" : "Everything that could go wrong on a chessboard did go wrong for Garry Kasparov, who was a shadow of himself as he scored just 0.5 points out of 9 on the first day of blitz in Zagreb. The 13th World Champion got crushed three times in a row in his beloved Najdorf and resigned in 7 moves against Shakhriyar Mamedyarov, as each round seemed to bring a new humiliation. Elsewhere the race remained tight, with Ian Nepomniachtchi losing the sole lead only to regain it in the final round of the day, while MVL top scored in blitz to move within half a point.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/croatia-gct-4-kasparov-s-darkest-day",
+         "pubDate" : "Sun, 11 Jul 2021 09:44:50 +0000",
+         "title" : "Croatia GCT 4: Kasparov's darkest day"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1199",
+         "pubDate" : "Sun, 11 Jul 2021 09:42:01 +0000",
+         "title" : "Bachar Kouatly appointed as Reverse Delegate for Morocco"
+      },
+      {
+         "description" : " Nigel posted an interesting thought on social media the other day. &#8220;I sense that a chess &#8216;kulturkampf' is brewing with digital Bongcloudistas vs cantankerous traditionalists. Battle lines are currently being drawn with just an occasional skirmish at present&#8221; In my new career as a chess book reviewer in another place, it's very noticeable that there's <a href=\"https://chessimprover.com/culture-wars-11-07-21/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Culture Wars (11-07-21)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/culture-wars-11-07-21/\">Culture Wars (11-07-21)</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/culture-wars-11-07-21/",
+         "pubDate" : "Sun, 11 Jul 2021 09:00:01 +0000",
+         "title" : "Culture Wars (11-07-21)"
+      },
+      {
+         "description" : "Anand took down Kasparov in 30 moves in a Sicillian Najdorf variation game in the fourth round of the Blitz event.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/31798568/viswanathan-anand-beats-garry-kasparov-croatia-grand-chess-tour?device=featurephone",
+         "pubDate" : "Sun, 11 Jul 2021 02:43:02 -0500",
+         "title" : "Anand beats Kasparov in Grand Chess Tour"
+      },
+      {
+         "description" : "The FIDE World Cup 2021 and FIDE Women's World Cup 2021 open today in Sochi, Russia. The events will be simultaneously played in a knockout system. 206 players will participate in the Open event and 103 participants in Women's World Cup. Not only that this year the list of participants is extended, but FIDE World Cup 2021 features&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-cup-2021-opens-today/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-cup-2021-opens-today/",
+         "pubDate" : "Sun, 11 Jul 2021 07:42:24 +0000",
+         "title" : "FIDE WORLD CUP 2021 OPENS TODAY"
+      },
+      {
+         "description" : "Anadkat Kartavya of Gujarat and Bristy Mukherjee of West Bengal won the National Under-17 School Open and Girls title respectively with 8.5 points on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/anadkat-bristy-clinch-under-17-school-title/",
+         "pubDate" : "Sun, 11 Jul 2021 07:39:50 +0000",
+         "title" : "Anadkat & Bristy Clinch Under-17 School Titles"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1198",
          "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
          "title" : "Day 4 Recap"
+      },
+      {
+         "description" : " The FIDE World Cup takes place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics and is high in the mountains. The field is very strong headed by World Champion Magnus Carlsen, but also including Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Shakhriyar Mamedyarov, Maxime Vachier Lagrave, Alireza Firouzja, Leinier Dominguez, Sergey Karjakin, Pentala Harikrishna, Jan-Krzysztof Duda, Vidit Santosh Gujrathi, Dmitry Andreikin, Nikita Vitiugov etc. The event has two innovations, it's 8 rounds rather than 7 with the first round being a sort of preliminary. Secondly there is a women's event alongside ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
+         "pubDate" : "Sun, 11 Jul 2021 10:26:00 +0400",
+         "title" : "FIDE World Cup 2021 - Games and Results"
       },
       {
          "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
@@ -24,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessfest-with-alice",
          "pubDate" : "Sat, 10 Jul 2021 19:00:00 +0100",
          "title" : "ChessFest with Alice"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Sat, 10 Jul 2021 18:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Games and results"
       },
       {
          "description" : "While Garry Kasparov plays over-the-board blitz chess in Zagreb, Magnus Carlsen is in Pamplona promoting chess and playing a two-day knockout tournament. The rest of the participants are playing online. Besides the world champion, Wesley So, Ding Liren and Levon Aronian were seeded directly into the quarterfinals, where they face four winners of previous qualifying tournaments. Each match consists of 8 blitz games, played on the chess24 platform.",
@@ -1362,14 +1434,6 @@ news_feed (
          "title" : "AICF nominates Koneru Humpy for Khel Ratna award"
       },
       {
-         "description" : "For two games Magnus Carlsen dared to dream of an easy win over Wesley So, only for the US Champion to hit back with two brilliant wins on demand to force a playoff. Magnus finally took over in blitz, and will now play Levon Aronian, who only overcame 17-year-old Arjun Erigaisi by the narrowest of margins. In the other half of the draw it's an Artemiev-Ding semi-final after Vladislav Artemiev cruised home against Anish Giri, while Ding Liren hit back from losing the first game to Jan-Krzysztof Duda to win the final three.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-5-carlsen-aronian-scrape-into-semis-after-playoffs",
-         "pubDate" : "Thu, 01 Jul 2021 10:10:32 +0000",
-         "title" : "Goldmoney Asian Rapid 5: Carlsen & Aronian scrape into semis after playoffs"
-      },
-      {
          "description" : "This week Merijn van Delft takes a look how Magnus Carlsen surprised Peter Svidler - and chess fans around the world - with an unusual move in the starting position of the Najdorf Sicilian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1866,14 +1930,6 @@ news_feed (
          "title" : "The Martial menagerie of King Alfonso the Wise"
       },
       {
-         "description" : "Considering the change in Fair Play Regulations, the prospectus &#38; schedule of National Under-10 Open &#38; Girls Online Chess Championship has been revised.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/updated-regulations-schedule-national-under-10-open-girls/",
-         "pubDate" : "Sat, 26 Jun 2021 04:46:31 +0000",
-         "title" : "UPDATED REGULATIONS & SCHEDULE : NATIONAL UNDER-10 OPEN & GIRLS"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-new-chessbase-chessbase-account-video-section-2021",
          "pubDate" : "Wed, 23 Jun 2021 09:38:45 +0100",
          "title" : "The new ChessBase video portal: 5,000 videos online!"
-      },
-      {
-         "description" : " Hopefully the Covid crisis is gradually coming to an end and things will now return to some version of new normal. It has been a tough year for many people whose normal lifestyles have been curtailed and anyone who has lived through this time will never forget it. What will this new normal look like? <a href=\"https://chessimprover.com/fifty-shades-of-ray/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fifty Shades of Ray\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fifty-shades-of-ray/\">Fifty Shades of Ray</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/fifty-shades-of-ray/",
-         "pubDate" : "Wed, 23 Jun 2021 08:00:28 +0000",
-         "title" : "Fifty Shades of Ray"
       },
       {
          "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
@@ -2320,22 +2368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1155",
          "pubDate" : "Sun, 20 Jun 2021 12:51:24 +0000",
          "title" : "Three-way tie on the top after Day 2"
-      },
-      {
-         "description" : " The 3rd Prague International Chess Festival took place Sunday 13th Jun to Sun 20th Jun 2021. The tournament is slightly curtailed with 8 player Masters, 8 player Futures and 9 round open events. Masters players: Sam Shankland won the masters with 5.5/7 half a point clear of Jan Krzysztof Duda.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-prague-international-chess-festival-2021",
-         "pubDate" : "Sun, 20 Jun 2021 12:57:00 +0400",
-         "title" : "3rd Prague International Chess Festival 2021 - Games and Results"
-      },
-      {
-         "description" : "Mediterranean Chess Championship 2021&#160;and&#160;European School Chess Individual Cup 2021 kicked off yesterday in Petrovac, Montenegro. The events are simultaneously played in Hotel Palas, with participation of 128 players from 20 countries in the Mediterranean Chess Championship. The events were officially opened by ECU President, Mr. Zurab Azmaiparashvili who addressed all the players during the Opening ceremony which took&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mediterranean-chess-championship-kicked-off/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mediterranean-chess-championship-kicked-off/",
-         "pubDate" : "Sun, 20 Jun 2021 07:52:55 +0000",
-         "title" : "Mediterranean Chess Championship kicked off"
       }
    ]
 }
