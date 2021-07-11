@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1198",
+         "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
+         "title" : "Day 4 Recap"
+      },
+      {
          "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
