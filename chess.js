@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Against the Bogo-Indian, White usually builds up with 5.g3. However, a practical disadvantage of this move is the fact that Black is usually very familiar with the variations that arise. Following an example of Sam Shankland, Lars Schandorff got interested in the new idea 5.e3, \"that quickly leads to much less explored positions full of new possibilities for both sides\". In the new ChessBase Magazine #202, the Danish GM takes a closer look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-new-way-against-the-bogo-indian",
+         "pubDate" : "Sun, 11 Jul 2021 19:00:00 +0100",
+         "title" : "A new way against the Bogo-Indian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The GCT is proud to announce five events for the 2022 tour, including a new event in Warsaw, Poland. Players will compete throughout the season for $1.275 million in prizes. \"When we created the Grand Chess Tour, we promised it would be unlike anything else, that we would continue to grow and expand, and to show chess in the way it's meant to be played,\" said legendary 13th World Chess Champion Garry Kasparov, the driving force behind the Grand Chess Tour. \"2022 promises to be another great year on the tour for players and fans alike.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-chess-tour-returns-2022-1275m-prizes-and-new-event-warsaw-poland",
+         "pubDate" : "Sun, 11 Jul 2021 16:41:12 +0000",
+         "title" : "The Grand Chess Tour Returns In 2022 With $1.275M In Prizes And A New Event In Warsaw, Poland"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84321921.cms\" /> Former world champion Viswanathan Anand defeated long-time rival Garry Kasparov for the second consecutive time, in the 13th round of the Croatia Grand Chess Tour's Blitz event on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-finishes-second-in-croatia-grand-chess-tour-beats-kasparov-again/articleshow/84321921.cms",
+         "pubDate" : "Sun, 11 Jul 2021 21:43:46 +0530",
+         "title" : "Anand finishes second in Croatia Grand Chess Tour, beats Kasparov again"
+      },
+      {
          "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
          "pubDate" : "Sun, 11 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - Live!"
+         "title" : "Croatia Grand Chess Tour - MVL wins!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "Niemann wins 2021 World Open"
       },
       {
-         "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-4",
-         "pubDate" : "Sun, 11 Jul 2021 13:05:00 +0100",
-         "title" : "GCT Croatia: Nepo leads as Kasparov struggles"
+         "description" : " The San Fermin Masters Final is a Chess24 blitz event taking place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they've been joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen and Levon Aronian meet in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
+         "pubDate" : "Sun, 11 Jul 2021 16:34:00 +0400",
+         "title" : "San Fermin Masters Final 2021 - Games and Results"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 35th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-so-aronian-ding-in-san-fermin-masters-battle",
          "pubDate" : "Sun, 11 Jul 2021 11:51:12 +0000",
          "title" : "Carlsen, So, Aronian & Ding in San Fermin Masters battle"
+      },
+      {
+         "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-4",
+         "pubDate" : "Sun, 11 Jul 2021 11:05:00 +0100",
+         "title" : "GCT Croatia: Nepo leads as Kasparov struggles"
       },
       {
          "description" : " Garry Kasparov had a pretty rough time of it at the Croatia Rapid and Blitz, scoring a disastrous 0.5/9. The obvious explanation is simply lack of practice, and this seemed to contribute to both poor opening play, and a shortage of time when he did get some decent positions. The other possible reason (connected to opening choices) is that theory has moved on over the last 20 years, some positions that Kasparov thought were playable may no longer be so. When I mentioned the result to my daughter she replied \"That's the same score that I got in my most recent chess tournament!\" (She stopped playing around the age of 8) <br /> ",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1197",
          "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
          "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
-      },
-      {
-         "description" : " The San Fermin Masters Final is a Chess24 blitz event taking place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they've been joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
-         "pubDate" : "Sat, 10 Jul 2021 15:59:00 +0400",
-         "title" : "San Fermin Masters Final 2021 - Games and Results"
       },
       {
          "description" : "World no. 12 Alireza Firouzja is now officially a French player. The 18-year-old Iranian-born chess prodigy had been living in Chartres, France since 2019 and was recently granted French citizenship. At the time he was still playing under the FIDE flag, but his transfer to the French Chess Federation is now complete, meaning that Firouzja will go into a World Cup match against Andrew Tang or Javokhir Sindarov next Thursday 15th July as the French no. 1.",
@@ -1338,14 +1362,6 @@ news_feed (
          "title" : "The Best Chess Training Website"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani reviews Alireza Firouzja&#039;s loss to Levon Aronian at the 2021 Goldmoney Asian Rapid via a devastating combination. 2021.07.01<br /> Alireza Firouzja vs Levon Aronian, Goldmoney Asian Rapid (2021): C27 Vienna game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2054890\">https://www.chessgames.com/perl/chessgame?gid=2054890</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-gets-whooped-aronian-games-we",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alireza-gets-whooped-aronian-games-week-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 02 Jul 2021 04:32:10 +0000",
-         "title" : "Alireza Gets Whooped by Aronian! | Games of the Week - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84055389.cms\" />Abhimanyu Mishra landed in Budapest on April 12 with one goal --- becoming the youngest-ever Grandmaster. Seventy-nine days down the line, the 12-year-old Indian-origin American managed to secure close to 100 points to cross the 2500 ELO points barrier which helped him bag three GM norms and break Russian Sergey Karjakin's record (of becoming a GM at 12 years and 7 months) set in August 2002.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "Ding and Aronian take the lead"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83899509.cms\" />Levon Aronian and Ding Liren shared the lead after the second day of the Goldmoney Asian Rapid on Sunday. Aronian began the second day in good form and led right until the end having gone five unbeaten on day one.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-ding-and-aronian-share-the-lead-after-day-2/articleshow/83899509.cms",
-         "pubDate" : "Sun, 27 Jun 2021 22:27:06 +0530",
-         "title" : "Goldmoney Asian Rapid: Ding and Aronian share the lead after Day 2"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 33nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks again whether \"to trade or not to trade\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2266,14 +2274,6 @@ news_feed (
          "title" : "A versatile knight"
       },
       {
-         "description" : "The man behind the Komodo Dragon 2, Larry Kaufman, was a successful broker in the mid-80s. He earned enough money to retire for the rest of his life and lie in a hammock, reading books. But instead, he won the senior chess championship in 2008 to become a chess Grandmaster at the age of over 60 years, worked on several chess engines, like Machack, Rybka, and of course, the Komodo series, steadily played on the highest \"Shogi\" level for decades, and wrote plenty of books - his newest one \"Chess Board Options\" just came out a week ago. In the interview with Kaufman, there is even more to discover about his fascinating life. | Photos: Larry Kaufman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/larry-kaufman-interview-the-dragon-s-tale",
-         "pubDate" : "Tue, 22 Jun 2021 09:01:37 +0100",
-         "title" : "Larry Kaufman Interview - The Dragon's tale"
-      },
-      {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2360,14 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1156",
          "pubDate" : "Sun, 20 Jun 2021 20:08:08 +0000",
          "title" : "Hou Yifan sails into the quarterfinals"
-      },
-      {
-         "description" : "European Women Individual Chess Championship 2021 will take place from 8-21 August 2021, in Iasi, Romania, The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-championship-2021/",
-         "pubDate" : "Sun, 20 Jun 2021 16:58:17 +0000",
-         "title" : "European Women Chess Championship 2021"
       }
    ]
 }
