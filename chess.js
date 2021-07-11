@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The GCT is proud to announce five events for the 2022 tour, including a new event in Warsaw, Poland. Players will compete throughout the season for $1.275 million in prizes. \"When we created the Grand Chess Tour, we promised it would be unlike anything else, that we would continue to grow and expand, and to show chess in the way it's meant to be played,\" said legendary 13th World Chess Champion Garry Kasparov, the driving force behind the Grand Chess Tour. \"2022 promises to be another great year on the tour for players and fans alike.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-2022-announcement",
+         "pubDate" : "Sun, 11 Jul 2021 22:41:28 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: 2022 Announcement"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave was the clear winner of the 2021 Grand Chess Tour's third leg, played in Zagreb. The Frenchman had an undefeated 6&frac12;/9 performance on Sunday, and managed to secure first place with a round to spare. Vishy Anand had a great day as well, as he also scored 6&frac12; points in the second half of the blitz section to get sole second place. Anish Giri finished third, while Garry Kasparov continued to struggle against his younger opponents. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-5",
+         "pubDate" : "Sun, 11 Jul 2021 23:10:00 +0100",
+         "title" : "MVL wins Croatia GCT with a round to spare, Anand shines"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1200",
+         "pubDate" : "Sun, 11 Jul 2021 19:57:09 +0000",
+         "title" : "FIDE World Cup opens in Sochi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-1-0",
+         "pubDate" : "Sun, 11 Jul 2021 19:41:24 +0000",
+         "title" : "2021 Croatia Grand Chess Tour: Day 1"
+      },
+      {
+         "description" : " The San Fermin Masters Final was a Chess24 blitz event that took place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they were joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen beat Levon Aronian 5-3 in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
+         "pubDate" : "Sun, 11 Jul 2021 22:18:00 +0400",
+         "title" : "San Fermin Masters Final 2021 - Games and Results"
+      },
+      {
          "description" : "Against the Bogo-Indian, White usually builds up with 5.g3. However, a practical disadvantage of this move is the fact that Black is usually very familiar with the variations that arise. Following an example of Sam Shankland, Lars Schandorff got interested in the new idea 5.e3, \"that quickly leads to much less explored positions full of new possibilities for both sides\". In the new ChessBase Magazine #202, the Danish GM takes a closer look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "Croatia Grand Chess Tour - MVL wins!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/20",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-5",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/",
          "pubDate" : "Sun, 11 Jul 2021 12:53:09 +0000",
          "title" : "Niemann wins 2021 World Open"
-      },
-      {
-         "description" : " The San Fermin Masters Final is a Chess24 blitz event taking place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they've been joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen and Levon Aronian meet in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
-         "pubDate" : "Sun, 11 Jul 2021 16:34:00 +0400",
-         "title" : "San Fermin Masters Final 2021 - Games and Results"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 35th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
@@ -114,12 +146,12 @@ news_feed (
          "title" : "Bachar Kouatly appointed as Reverse Delegate for Morocco"
       },
       {
-         "description" : " Nigel posted an interesting thought on social media the other day. &#8220;I sense that a chess &#8216;kulturkampf' is brewing with digital Bongcloudistas vs cantankerous traditionalists. Battle lines are currently being drawn with just an occasional skirmish at present&#8221; In my new career as a chess book reviewer in another place, it's very noticeable that there's <a href=\"https://chessimprover.com/culture-wars-11-07-21/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Culture Wars (11-07-21)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/culture-wars-11-07-21/\">Culture Wars (11-07-21)</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
+         "description" : " Nigel posted an interesting thought on social media the other day. &#8220;I sense that a chess &#8216;kulturkampf' is brewing with digital Bongcloudistas vs cantankerous traditionalists. Battle lines are currently being drawn with just an occasional skirmish at present&#8221; In my new career as a chess book reviewer in another place, it's very noticeable that there's <a href=\"https://chessimprover.com/culture-wars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Culture Wars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/culture-wars/\">Culture Wars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/culture-wars-11-07-21/",
+         "link" : "https://chessimprover.com/culture-wars/",
          "pubDate" : "Sun, 11 Jul 2021 09:00:01 +0000",
-         "title" : "Culture Wars (11-07-21)"
+         "title" : "Culture Wars"
       },
       {
          "description" : "Anand took down Kasparov in 30 moves in a Sicillian Najdorf variation game in the fourth round of the Blitz event.",
@@ -202,7 +234,7 @@ news_feed (
          "title" : "Viswanathan Anand beats Garry Kasparov in Croatia Grand Chess Tour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/20",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-4",
@@ -346,7 +378,7 @@ news_feed (
          "title" : "Harika focused on World Cup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-2-0",
@@ -354,7 +386,7 @@ news_feed (
          "title" : "2021 Croatia Grand Chess Tour: Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
+         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-3",
@@ -1216,22 +1248,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/2/closing-gambit-a-quick-comment-or-two.html",
          "pubDate" : "Sat, 03 Jul 2021 01:01:49 +0000",
          "title" : "\"Closing Gambit\" - A Quick Comment or Two"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani concludes her June chess series on Magnus Carlsen. See Carlsen lose to Levon Aronian at Norway Chess 2020. Watch the previous Carlsen videos!<br /> <a href=\"https://youtu.be/IAIs7QcDjQ4\">https://youtu.be/IAIs7QcDjQ4</a><br /> <a href=\"https://youtu.be/YxQA1IXpad4\">https://youtu.be/YxQA1IXpad4</a><br /> <a href=\"https://youtu.be/LsfL3Qm7y2o\">https://youtu.be/LsfL3Qm7y2o</a><br /> <a href=\"https://youtu.be/D-RJ_A-VtsA\">https://youtu.be/D-RJ_A-VtsA</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-stumbles-aronian-norway-2020-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 02 Jul 2021 22:32:33 +0000",
-         "title" : "Magnus Stumbles with Aronian at Norway 2020 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows one of Garry Kasparov&#039;s quickest victories, 12 moves against Australian Champion Guy West. 2021.04.28<br /> Garry Kasparov vs Guy West, telex (1977)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069675\">https://www.chessgames.com/perl/chessgame?gid=1069675</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gday-mate-kasparovs-quickest-victory-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/file",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gday-mate-kasparovs-quickest-victory-shorts",
-         "pubDate" : "Fri, 02 Jul 2021 22:32:33 +0000",
-         "title" : "G'Day Mate! Kasparov's Quickest Victory! | #Shorts"
       },
       {
          "description" : "",
@@ -2266,14 +2282,6 @@ news_feed (
          "title" : "Arthur Guo wins National Open in Las Vegas"
       },
       {
-         "description" : "Knights that fight against pawns in the endgame can be versatile or very clumsy. In the diagram position the black knight turned out to be very versatile. How did it help Black to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-versatile-knight",
-         "pubDate" : "Tue, 22 Jun 2021 09:31:54 +0100",
-         "title" : "A versatile knight"
-      },
-      {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2344,22 +2352,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/everyone-can-improve/",
          "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
          "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1157",
-         "pubDate" : "Sun, 20 Jun 2021 20:49:58 +0000",
-         "title" : "Wesley So grabs the lead after rapid portion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1156",
-         "pubDate" : "Sun, 20 Jun 2021 20:08:08 +0000",
-         "title" : "Hou Yifan sails into the quarterfinals"
       }
    ]
 }
