@@ -2328,14 +2328,6 @@ news_feed (
          "link" : "https://www.europechess.org/mediterranean-chess-championship-kicked-off/",
          "pubDate" : "Sun, 20 Jun 2021 07:52:55 +0000",
          "title" : "Mediterranean Chess Championship kicked off"
-      },
-      {
-         "description" : " After two days of the Rapid portion of the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-paris-rapid-blitz\">Paris</a> leg of the Grand Chess Tour, there are three leaders: Fabiano Caruana, Ian Nepomniachtchi, and Wesley So, each with 3.5/6 - or rather, with 7/12. (The rapid games count double, while the blitz games coming after the rapid finishes tomorrow will count in the usual 1-.5-0 way.) So's sole win came on day 1. Caruana's came today, against Peter Svidler, but he was worse much of the way. The win only came into view when Svidler made big errors on moves 36 and 37. And Nepo won yesterday and then again today in round 5 in good style against Levon Aronian. That game ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/20/paris-rapid-day-2-three-leaders.html",
-         "pubDate" : "Sun, 20 Jun 2021 06:26:26 +0000",
-         "title" : "Paris Rapid, Day 2: Three Leaders"
       }
    ]
 }
