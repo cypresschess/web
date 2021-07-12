@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> The GCT is proud to announce five events for the 2022 tour, including a new event in Warsaw, Poland. Players will compete throughout the season for $1.275 million in prizes. \"When we created the Grand Chess Tour, we promised it would be unlike anything else, that we would continue to grow and expand, and to show chess in the way it's meant to be played,\" said legendary 13th World Chess Champion Garry Kasparov, the driving force behind the Grand Chess Tour. \"2022 promises to be another great year on the tour for players and fans alike.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
+         "description" : " You may remember the recent Grand Chess Tour event in Paris, where Etienne Bacrot and Vladimir Kramnik split the rapid &amp; blitz duties. Bacrot, a ratings underdog and no longer a member of the elite, scored surprisingly well in the rapid, but Kramnik had a very poor result in the blitz. Apparently Garry Kasparov was concerned about that, but as it turned out he wasn't concerned enough. Ivan Saric did a great job in the rapid, leaving Kasparov only a point out of first going into the blitz, but Kasparov's performance was absolutely disastrous. How bad? Well, his TPR on the first day was lower than *my* rating. He lost in round one to to Jorden Van Foreest and drew with Alexander Grischuk ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/11/mvl-wins-croatian-grand-chess-tour-event-kasparov-bombs.html",
+         "pubDate" : "Mon, 12 Jul 2021 02:47:11 +0000",
+         "title" : "MVL Wins Croatian Grand Chess Tour Event; Kasparov Bombs"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has <a href=\"https://www.schachbund.de/news/yuri-yakovich-wird-bundestrainer-der-frauen.html\">appointed</a> <strong>Yuri Yakovich</strong> as coach of their women team. The 58-year-old Russian GM has worked with many talents and the Kazakh and Russian federations. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/yakovich-to-coach-germanys-women/",
+         "pubDate" : "Mon, 12 Jul 2021 03:28:26 +0100",
+         "title" : "Yakovich to coach Germany's women team"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before going to the World Cup in Sochi, <strong>Magnus Carlsen</strong> stopped in Pamplona as star guest of a <strong>San Fermines</strong> without bulls. From a hotel room once used by Earnest Hemmingway whose writing made the Basque festival internationally known, the world champion played online blitz against rivals who competed from their homes in the <strong>chess24</strong>-hosted event. <a href=\"https://chess24.com/en/watch/live-tournaments/san-fermin-masters-final-2021/3/1/11\">On his way to victory</a> Carlsen beat Wesley So and Levon Aronian. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-does-the-job-in-pamplona/",
+         "pubDate" : "Mon, 12 Jul 2021 03:15:08 +0100",
+         "title" : "Carlsen does the job in Pamplona"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A strong run in the blitz secured <strong>Maxime Vachier-Lagrave</strong> a clear first place at the <strong>Grand Chess Tour Croatia</strong> <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-grand-chess-tour/recap\">tournament in Zagreb</a>. After the rapid and still after the first day of blitz <strong>Ian Nepomniachtchi</strong> led the field, but the challenger had a poor last day and was also overtaken by Giri and <strong>Vishy Anand</strong> who did very well at 51, while for the seven years older <strong>Garry Kasparov</strong> the age and lack of preparation showed with a meagre 2,5 out of 18 in the blitz. The tour concl",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mvl-wins-gct-croatia/",
+         "pubDate" : "Mon, 12 Jul 2021 03:03:57 +0100",
+         "title" : "MVL wins GCT Croatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Grand Chess Tour Spokesman Michael Khodarkovsky to reveal the schedule for the 2022 Tour season. 2021.07.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-2022-announcement\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wqHRnvgQs7A.jpg?itok=Ra6LAru4\" alt=\"\" /></a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-2022-announcement",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Simen Agdestein leads Norwegian chess"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Andr&eacute; V&ouml;gtlin, a <a href=\"https://www.linkedin.com/in/andr%C3%A9-v%C3%B6gtlin-4232b7/\">career and executive search consultant</a> (\"headhunting\"), <a href=\"http://www.swisschess.ch/news-112/andre-voegtlin-neuer-ssb-zentralpraesident-zimmerbergs-sgm-antrag-klar-abgelehnt.html\">follows Peter Wyss</a> at the helm of the <strong>Swiss Chess Federation</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/voegtlin-is-president-of-swiss/",
-         "pubDate" : "Wed, 07 Jul 2021 06:36:39 +0100",
-         "title" : "V&ouml;gtlin is President of Swiss Federation"
-      },
-      {
          "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -792,22 +816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1191",
          "pubDate" : "Tue, 06 Jul 2021 17:32:15 +0000",
          "title" : "Intercontinental Online Chess Championship for Prisoners announced"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Following the twitter debate over the legitimacy of the most recent youngest GM record, <strong>FIDE</strong> <a href=\"https://fide.com/news/1188\">invites suggestions</a> on ratings and titles in two open Zoom sessions on 19 resp. 21 July. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-discusses-ratings-and-titles/",
-         "pubDate" : "Tue, 06 Jul 2021 18:20:14 +0100",
-         "title" : "FIDE discusses ratings and titles"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French league aka <strong>Top12</strong>, held in Chalons-en-Champagne, was <a href=\"https://chess24.com/fr/read/news/les-combinaisons-du-top-12\">won for the third consecutive time</a> by the team of the Alsatian town <strong>Bischwiller</strong> that is sponsored by <strong>GRENKE</strong> as well as the German team champion from Baden-Baden which lies a mere 30 km across the Rhine to the East. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/grenke-sponsored-bischwiller-wins/",
-         "pubDate" : "Tue, 06 Jul 2021 18:16:21 +0100",
-         "title" : "Grenke sponsored Bischwiller wins Top12"
       },
       {
          "description" : "Let us assume you are a chess amateur, who in pandemic times have become obsessed with improving your game. Wouldn't it be nice to have one of the top ten players in the world coach you? If that is what you want it is of advantage to be a leading stand-up comedian. But even if you are not, you can still profit from this charming little lesson Anish Giri, rated 2776, gave Biswa Kalyan Rath, 1600, on how to best use a bishop pair to win a game. Learn and enjoy.",
@@ -2344,14 +2352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
          "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
          "title" : "Tie-breaks"
-      },
-      {
-         "description" : " While there is no one-fits-all approach to chess improvement, there is one thing everyone has in common: EVERYONE CAN IMPROVE THEIR CHESS And it does not have to be that hard. The Story Of A Former Student If you look at the rating curve above, you will probably think of some junior improving over time. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/everyone-can-improve/\">Everyone Can Improve Their Chess How A 70-Year-Old Won 100+ Rating</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/everyone-can-improve/",
-         "pubDate" : "Mon, 21 Jun 2021 03:17:00 +0000",
-         "title" : "Everyone Can Improve Their Chess - How A 70-Year-Old Won 100+ Rating"
       }
    ]
 }
