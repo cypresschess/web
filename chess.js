@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1204",
+         "pubDate" : "Mon, 12 Jul 2021 22:00:50 +0000",
+         "title" : "Shri Ram College of Commerce clinches the title"
+      },
+      {
+         "description" : "Plenty of exciting games were seen on the first day of action at the World Cup in Sochi. Here we present a list of upsets from both the open and women's events. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Mon, 12 Jul 2021 22:25:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1203",
+         "pubDate" : "Mon, 12 Jul 2021 20:33:51 +0000",
+         "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani previews a chapter from her book &quot;Your Jungle Guide to Unbalance Your Opponent,&quot; co-authored with her brother Borna. 2021.07.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turn-water-wine-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AjoQ6hsVXYo.jpg?itok=mnbNMvlB\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/turn-water-wine-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Mon, 12 Jul 2021 19:43:00 +0000",
+         "title" : "Turn Water into Wine! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1xC_P9JKhhY.jpg?itok=PFD6YdRk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Mon, 12 Jul 2021 19:43:00 +0000",
+         "title" : "How to Use Tactics Puzzles to Improve | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -63,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-live",
          "pubDate" : "Mon, 12 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
+         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "Maxime Vachier-Lagrave credited defence as he lost just one of 18 blitz games on the way to winning the Croatia Grand Chess Tour by a full two points. After a last-day collapse for Ian Nepomniachtchi, Maxime's greatest challenge came from 51-year-old Vishy Anand, who beat Garry Kasparov at the start of a 4-game winning streak that ultimately gave him sole 2nd place. Garry called himself an \"amateur\", and despite landing a win he scored 2/9 and deprived us of any last-round drama by losing on time to MVL in a drawn position.",
@@ -738,14 +778,6 @@ news_feed (
          "title" : "Nihal maintains lead, Arjun loses, Raunak withdraws in Serbia Open"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year's 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. Read more about the tournament here: <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz\">https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-rapid-blitz</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/croatia-grand-chess-tour-day-1",
-         "pubDate" : "Thu, 08 Jul 2021 01:36:52 +0000",
-         "title" : "Croatia Grand Chess Tour: Day 1"
-      },
-      {
          "description" : "Two wins and a draw gave Ian Nepomniachtchi a commanding lead after day 1 at the Croatian leg of the Grand Chess Tour. Not only was the World Championship challenger the only player to end the day with a plus score, but he also showed excellent form in the first three games of the rapid section. Plenty of exciting chess was seen in Zagreb, with living legend Viswanathan Anand showing that he still has what it takes to fight on an equal footing with the world's elite. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mixed-fortunes-for-anand-in-croatia-grand-chess-tour-event/articleshow/84211758.cms",
          "pubDate" : "Wed, 07 Jul 2021 22:14:38 +0530",
          "title" : "Mixed fortunes for Anand in Croatia Grand Chess tour event"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-1",
-         "pubDate" : "Wed, 07 Jul 2021 16:36:43 +0000",
-         "title" : "2021 Croatia Grand Chess Tour (Day 1)"
       },
       {
          "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
@@ -2330,14 +2354,6 @@ news_feed (
          "title" : "Paris Rapid & Blitz 2021 - Games and Results"
       },
       {
-         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Full report to follow shortly. | Pictured: So next to Gilles Betthaeuser, founder of AOS in 1997 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-live",
-         "pubDate" : "Tue, 22 Jun 2021 14:30:00 +0100",
-         "title" : "Paris Rapid & Blitz - Wesley So wins!"
-      },
-      {
          "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2368,22 +2384,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/",
          "pubDate" : "Tue, 22 Jun 2021 00:10:27 +0000",
          "title" : "The Queen's Gambit - Accepted!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1160",
-         "pubDate" : "Mon, 21 Jun 2021 22:57:41 +0000",
-         "title" : "Final lists of FIDE World Cups participants published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1159",
-         "pubDate" : "Mon, 21 Jun 2021 20:59:49 +0000",
-         "title" : "Day 04 Recap"
       }
    ]
 }
