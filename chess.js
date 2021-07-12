@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine June 2021 is out! In this edition of the ECU E-Magazine you may read about: Mediterranean Chess Championship 2021 Communique of the ECU Board Meeting Preview and information about 6 announced ECU events Queen's Chess Festival FIDE ECU International Organisers Seminar ECU EDU Activities Arbiters Corner Fun Zone The June 2021 edition of the ECU E-Magazine&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-june-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-magazine-june-2021/",
+         "pubDate" : "Mon, 12 Jul 2021 07:23:39 +0000",
+         "title" : "ECU MAGAZINE JUNE 2021"
+      },
+      {
+         "description" : " It's a busy time on the chess calendar, as if the chess world is trying to make up for last year (though last year was also packed with top-level events, albeit online rapid and/or blitz events), and in addition to the Goldmoney event that finished last week (won by Levon Aronian, who defeated Magnus Carlsen in the semi-finals and Vladislav Artemiev in the final) and the Croatia Grand Chess Tour Rapid &amp; Blitz (won by Maxime Vachier-Lagrave) there are several other important events that have either finished or are about to start. First, in the rear-view mirror, there's the <a href=\"http://www.advancedchessleon.com/\">34th Leon Chess tournament</a> that finished over the 4th of July weeken",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/11/other-events-leon-san-fermin-masters-world-cup.html",
+         "pubDate" : "Mon, 12 Jul 2021 03:07:47 +0000",
+         "title" : "Other Events: Leon, San Fermin Masters, World Cup"
+      },
+      {
          "description" : " You may remember the recent Grand Chess Tour event in Paris, where Etienne Bacrot and Vladimir Kramnik split the rapid &amp; blitz duties. Bacrot, a ratings underdog and no longer a member of the elite, scored surprisingly well in the rapid, but Kramnik had a very poor result in the blitz. Apparently Garry Kasparov was concerned about that, but as it turned out he wasn't concerned enough. Ivan Saric did a great job in the rapid, leaving Kasparov only a point out of first going into the blitz, but Kasparov's performance was absolutely disastrous. How bad? Well, his TPR on the first day was lower than *my* rating. He lost in round one to to Jorden Van Foreest and drew with Alexander Grischuk ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
