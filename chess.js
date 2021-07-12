@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Asian School Online Championship scheduled to be held from 23-25 July 2021 for Girls and 29-31 July 2021 for Open. In each age category",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-asian-school-chess-championship-2021/",
+         "pubDate" : "Mon, 12 Jul 2021 09:46:44 +0000",
+         "title" : "REGISTRATION FOR ASIAN SCHOOL CHESS CHAMPIONSHIP 2021"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave won the Croatia Rapid &#38;amp; Blitz. The French grandmaster secured the $37,500 first prize with a round to spare when GM Garry Kasparov, who was also struggling on Sunday, lost on time in a drawn position. Thanks to an exc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-croatia-rapid-blitz",
+         "pubDate" : "Mon, 12 Jul 2021 01:35:00 -0700",
+         "title" : "Vachier-Lagrave Wins Croatia Rapid & Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1201",
+         "pubDate" : "Mon, 12 Jul 2021 07:50:08 +0000",
+         "title" : "Maxime Vachier-Lagrave wins Croatia GCT"
+      },
+      {
          "description" : "ECU E-Magazine June 2021 is out! In this edition of the ECU E-Magazine you may read about: Mediterranean Chess Championship 2021 Communique of the ECU Board Meeting Preview and information about 6 announced ECU events Queen's Chess Festival FIDE ECU International Organisers Seminar ECU EDU Activities Arbiters Corner Fun Zone The June 2021 edition of the ECU E-Magazine&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-june-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/mvl-wins-gct-croatia/",
          "pubDate" : "Mon, 12 Jul 2021 03:03:57 +0100",
          "title" : "MVL wins GCT Croatia"
+      },
+      {
+         "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/",
+         "pubDate" : "Mon, 12 Jul 2021 00:10:32 +0000",
+         "title" : "Beyond Material - Ignore the Face Value of Your Pieces"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Grand Chess Tour Spokesman Michael Khodarkovsky to reveal the schedule for the 2022 Tour season. 2021.07.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-2022-announcement\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wqHRnvgQs7A.jpg?itok=Ra6LAru4\" alt=\"\" /></a",
@@ -1626,14 +1658,6 @@ news_feed (
          "title" : "Abhimanyu Mishra becomes youngest Grandmaster in chess history"
       },
       {
-         "description" : "IM Abhimanyu Mishra became the youngest chess grandmaster in history today. The 12-year-old player from New Jersey scored his third GM norm in Budapest, having already crossed the required 2500 Elo rating barrier. Mishra (often called &#34;Abhi&#34;) br...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abhimanyu-mishra-youngest-grandmaster-in-chess-history",
-         "pubDate" : "Wed, 30 Jun 2021 09:52:00 -0700",
-         "title" : "Abhimanyu Mishra Becomes Youngest Grandmaster In Chess History"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83993708.cms\" />Two thrilling blitz chess playoffs decided the Goldmoney Asian Rapid semifinal line-up as Magnus Carlsen survived a fierce comeback. The World Champion finally overcame two-time US champ Wesley So after the man dubbed the \"Comeback King\" launched a nerveless rearguard action to level the match.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1928,14 +1952,6 @@ news_feed (
          "link" : "https://chessimprover.com/knowledge-and-skill-2/",
          "pubDate" : "Sun, 27 Jun 2021 09:47:29 +0000",
          "title" : "Knowledge and Skill"
-      },
-      {
-         "description" : "Maharashtra youngster Kshatriya Nitin Vekhande becomes champion in the Under-12 Open Category of the National Age Group Chess Championship which concluded on Thursady. Kshatriya tied",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kshatriya-vekhande-under-12-open-champion/",
-         "pubDate" : "Sun, 27 Jun 2021 09:02:54 +0000",
-         "title" : "Kshatriya Vekhande Under-12 Open Champion"
       },
       {
          "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
