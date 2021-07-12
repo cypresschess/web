@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/adhiban-iniyan-start-with-wins-in-world-cup/articleshow/84354874.cms",
+         "pubDate" : "Mon, 12 Jul 2021 22:48:52 +0530",
+         "title" : "Adhiban, Iniyan start with wins in World Cup"
+      },
+      {
+         "description" : "July&#39;s Winner Stays event occurred on July 9. For the second straight month, streamer Ludwig and Youtuber NM Kurt Hugo Schneider won their matchups, as ChessBrah Aman Hambleton was joined this time on commentary by NM James Canty III. In the Maste...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/winner-stays-martinez-schneider-ludwig",
+         "pubDate" : "Mon, 12 Jul 2021 09:59:11 -0700",
+         "title" : "Martinez, Schneider, Ludwig Victorious in Winner Stays"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1202",
+         "pubDate" : "Mon, 12 Jul 2021 15:13:47 +0000",
+         "title" : "Riga Technical University Open is back for a special 10th edition"
+      },
+      {
          "description" : "At the turn of August and September this year, the European Senior Team Chess Championship 2021 will take place at the Don Giovanni Hotel in Prague, known for hosting the prestigious Prague International Chess Festival. The event was announced relatively recently, as the original organizer from Poland had to back out. We have extensive experience with senior events&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/xiong-beats-lazavik-in-junior-speed-chess-championship",
          "pubDate" : "Mon, 12 Jul 2021 06:59:06 -0700",
          "title" : "Xiong Beats Lazavik In Junior Speed Chess Championship"
+      },
+      {
+         "description" : " Share! Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/",
+         "pubDate" : "Mon, 12 Jul 2021 13:26:33 +0000",
+         "title" : "2021 World Chess Cup (Sochi, Russia)"
       },
       {
          "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
@@ -210,7 +242,7 @@ news_feed (
          "title" : "2021 Croatia Grand Chess Tour: Day 5"
       },
       {
-         "description" : " Share! Philadelphia was back in full force as a city that has made &#8220;Independence Day&#8221; an iconic holiday. It is also the home of the largest open chess tournament, the World Open. Last weekend the Continental Chess Association hosted the 49th edition at the Sheraton on 201 North 17th St. This tournament is where the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/\">Niemann wins 2021 World Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Philadelphia was back in full force as a city that has made &#8220;Independence Day&#8221; an iconic holiday. It is also the home of the largest open chess tournament, the World Open. Last weekend the Continental Chess Association hosted the 49th edition at the Sheraton on 201 North 17th St. This tournament is where the magic [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/\">Niemann wins 2021 World Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/",
@@ -1602,14 +1634,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Series Announced"
       },
       {
-         "description" : "The Goldmoney Asian Rapid tournament will see GM Magnus Carlsen vs. GM Levon Aronian and GM Vladislav Artemiev vs. GM Ding Liren in the semifinals that start on Thursday. Aronian and Carlsen both won their matches in the tiebreak, against GM Arj...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-quarterfinals-day-2",
-         "pubDate" : "Thu, 01 Jul 2021 00:44:00 -0700",
-         "title" : "Goldmoney Asian Rapid Semis: Aronian-Carlsen, Artemiev-Ding"
-      },
-      {
          "description" : "Two of the four quarterfinal matches at the Goldmoney Asian Rapid tournament were decided on tiebreaks. After winning the first set and the first game of the second set, it seemed like Magnus Carlsen was going to have an easy day at the office, but back-to-back wins by Wesley So meant it would all be decided in blitz. The world champion finally moved on to the semis thanks to a win and a draw in the 5-minute games. Levon Aronian also had a tough time against Arjun Erigaisi, but managed to advance, while Vladislav Artemiev and Ding Liren won their matches in the rapid section of the second set. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1816,14 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-7",
          "pubDate" : "Tue, 29 Jun 2021 17:12:22 +0100",
          "title" : "Svitlana's Smart Moves - Episode 7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83958723.cms\" />The opening day of the quarterfinal clash of the Goldmoney Asian Rapid event saw the seasoned Levon Aronian and the event's 17-year-old surprise package Arjun Erigaisi battle it out in each game. Arjun, the lowest rated player in the tournament, had escaped with a draw in the first game against the unbeaten Aronian who dominated the prelims.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-arjun-holds-levon/articleshow/83958723.cms",
-         "pubDate" : "Tue, 29 Jun 2021 21:12:55 +0530",
-         "title" : "Goldmoney Asian Rapid: Arjun holds Levon"
       },
       {
          "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch It takes time to convince yourself to try new things. Depending what they are, you might jump at the opportunity right away or dismiss in outright. More often than not you find first a reason why you should not do it. I guess <a href=\"https://chessimprover.com/three-check-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess/\">Three Check Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2368,22 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1159",
          "pubDate" : "Mon, 21 Jun 2021 20:59:49 +0000",
          "title" : "Day 04 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1158",
-         "pubDate" : "Mon, 21 Jun 2021 19:13:55 +0000",
-         "title" : "Sam Shankland wins Prague Chess Festival Masters"
-      },
-      {
-         "description" : "Prague International Chess Festival 2021 took place from 14-20 June in Hotel Don Giovanni in Prague, Czech Republic. The historically third winner of the Masters tournament is the American grandmaster Sam Shankland. Shankland scored 5.5/7 points to be the sole winner of the event, followed by GM Duda Jan-Krzysztof with 5 points, and GM Wojtaszek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shankland-wins-prague-chess-festival-masters-2021/",
-         "pubDate" : "Mon, 21 Jun 2021 17:56:58 +0000",
-         "title" : "Sam Shankland wins Prague Chess Festival Masters 2021"
       }
    ]
 }
