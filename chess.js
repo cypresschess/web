@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the turn of August and September this year, the European Senior Team Chess Championship 2021 will take place at the Don Giovanni Hotel in Prague, known for hosting the prestigious Prague International Chess Festival. The event was announced relatively recently, as the original organizer from Poland had to back out. We have extensive experience with senior events&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/",
+         "pubDate" : "Mon, 12 Jul 2021 14:51:36 +0000",
+         "title" : "European Senior Team Chess Championship 2021 - Press release"
+      },
+      {
+         "description" : "Magnus Carlsen seems to be well prepared for the World Cup. Before this big knockout event thats starts today, 12 July, the World Champion travelled to Pamplona in Spain to play a two-day knockout 3+2 blitz online tournament from there - with some of the world's best players. Carlsen, Wesley So, Ding Liren and Levon Aronian were seeded for the quarter-finals were they faced four qualifiers. Carlsen first won against Eduardo Iturrizaga Bonelli, then scored a surprisingly clear win against So and then went on to defeat Aronian in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-san-fermin-masters",
+         "pubDate" : "Mon, 12 Jul 2021 15:33:28 +0100",
+         "title" : "Magnus Carlsen wins San Fermin Masters"
+      },
+      {
+         "description" : "GM Jeffery Xiong beat IM Denis Lazavik 15.5-10.5 on Sunday in the last match in the round of 16 of the 2021 Junior Speed Chess Championship presented by ChessKid. Lazavik put up an excellent fight and actually managed to beat Xiong in the bullet s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-beats-lazavik-in-junior-speed-chess-championship",
+         "pubDate" : "Mon, 12 Jul 2021 06:59:06 -0700",
+         "title" : "Xiong Beats Lazavik In Junior Speed Chess Championship"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Mon, 12 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave credited defence as he lost just one of 18 blitz games on the way to winning the Croatia Grand Chess Tour by a full two points. After a last-day collapse for Ian Nepomniachtchi, Maxime's greatest challenge came from 51-year-old Vishy Anand, who beat Garry Kasparov at the start of a 4-game winning streak that ultimately gave him sole 2nd place. Garry called himself an \"amateur\", and despite landing a win he scored 2/9 and deprived us of any last-round drama by losing on time to MVL in a drawn position.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mvl-resists-anand-surge-to-win-croatia-grand-chess-tour",
+         "pubDate" : "Mon, 12 Jul 2021 12:33:58 +0000",
+         "title" : "MVL resists Anand surge to win Croatia Grand Chess Tour"
+      },
+      {
+         "description" : " The 2021 World Cup is underway, using the new format that was introduced after the 2019 event. The first round sees 78 matches, while the top 50 players get a bye into the second round. I did not manage to make this year (as either a player or official), so I am following it online. There are a number of places where you can watch the games, including chess24.com (which has the benefit of including analysis), and on youtube (which is the official FIDE stream). Elmer Prudente from Guam is the Oceania representative (which was my job last time), and will have a tough time playing the 51st seed on tonight's round. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup.html",
+         "pubDate" : "Mon, 12 Jul 2021 12:12:00 +0000",
+         "title" : "2021 World Cup"
+      },
+      {
          "description" : "The Asian School Online Championship scheduled to be held from 23-25 July 2021 for Girls and 29-31 July 2021 for Open. In each age category",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,7 +58,7 @@ news_feed (
          "title" : "REGISTRATION FOR ASIAN SCHOOL CHESS CHAMPIONSHIP 2021"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won the Croatia Rapid &#38;amp; Blitz. The French grandmaster secured the $37,500 first prize with a round to spare when GM Garry Kasparov, who was also struggling on Sunday, lost on time in a drawn position. Thanks to an exc...",
+         "description" : "GM Maxime Vachier-Lagrave has won the Croatia Rapid &#38;amp; Blitz. The French grandmaster secured the $37,500 first prize with a round to spare when GM Garry Kasparov, who struggled again on Sunday, lost on time in a drawn position. Thanks to an exc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-croatia-rapid-blitz",
@@ -1442,14 +1490,6 @@ news_feed (
          "title" : "For wonder kid Abhimanyu Mishra, becoming the youngest GM is just the beginning"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen has now been the world no. 1 on every rating list for the past decade since July 2011, an unbeaten streak that will now eclipse Garry Kasparov's two decade-long streaks as world no. 1 from 1986 to 1996 and 1996 until he dropped off the list after his retirement in 2005. Although Magnus has suffered scares - for instance any loss to Fabiano Caruana in the 2018 World Championship match would have taken Fabi top - he's remarkably been unbroken world no. 1 for a decade on the live rating list as well.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-celebrates-10-years-unbroken-as-world-no-1",
-         "pubDate" : "Thu, 01 Jul 2021 23:48:00 +0000",
-         "title" : "Magnus Carlsen celebrates 10 years unbroken as world no. 1"
-      },
-      {
          "description" : " Perhaps in the context of my recent post about grandmasters on TV, reader Pedro E. wrote in to mention a 2018 documentary about the circus that was the 1978 World Championship match between Anatoly Karpov and Viktor Korchnoi. Somehow I had missed this, but it seems to widely and inexpensively available at various sites. More about the film, <a href=\"https://en.chessbase.com/post/closing-gambit-new-feature-documentary\">here</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1600,14 +1640,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/",
          "pubDate" : "Thu, 01 Jul 2021 00:10:35 +0000",
          "title" : "Understanding Maroczy Structures"
-      },
-      {
-         "description" : "GM Vidit Gujrathi won Titled Tuesday on June 29 with 9.5 points out of 11. He held the tiebreaker advantage over second-place GM Oleksandr Bortnyk and third-place GM Baadur Jobava. GM Hikaru Nakamura finished with 9/11 for fourth place after tiebr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vidit-wins-june-29-titled-tuesday",
-         "pubDate" : "Wed, 30 Jun 2021 16:45:53 -0700",
-         "title" : "Vidit Wins June 29 Titled Tuesday"
       },
       {
          "description" : "",
@@ -2298,28 +2330,12 @@ news_feed (
          "title" : "Coaching for grown ups"
       },
       {
-         "description" : "After three days of rapid chess, the blitz section of the Paris Rapid & Blitz Tournament kicked off on Monday. Alireza Firouja was the strongest in the first half of the blitz phase, while Vladimir Kramnik had a rough time facing his younger opponents. Wesley So still leads the overall standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-4",
-         "pubDate" : "Tue, 22 Jun 2021 13:20:00 +0100",
-         "title" : "Paris Rapid & Blitz: Firouzja strong in the blitz"
-      },
-      {
          "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
          "pubDate" : "Tue, 22 Jun 2021 10:59:01 +0000",
          "title" : "Queens' Festival winners - Europe"
-      },
-      {
-         "description" : "In the National Open in Las Vegas five players shared first with 7.0/9. The 15-year-old Arthur Guo had the best tiebreak and won the tournament. | Photos: Tournament page National Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arthur-guo-wins-national-open-in-las-vegas",
-         "pubDate" : "Tue, 22 Jun 2021 11:15:22 +0100",
-         "title" : "Arthur Guo wins National Open in Las Vegas"
       },
       {
          "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
@@ -2368,22 +2384,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sam-shankland-wins-prague-chess-festival-masters-2021/",
          "pubDate" : "Mon, 21 Jun 2021 17:56:58 +0000",
          "title" : "Sam Shankland wins Prague Chess Festival Masters 2021"
-      },
-      {
-         "description" : "The 2021 Arzum Turkish Women's Championship took place from 13-19 June in Corum Turkey. The event was played in 7 rounds, Swiss system, with participation of 32 players and time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. After 7 played rounds, IM Ekaterina Atalik convincingly won []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ekaterina-atalik-wins-turkish-womens-chess-championship-2021/",
-         "pubDate" : "Mon, 21 Jun 2021 14:41:46 +0000",
-         "title" : "Ekaterina Atalik wins Turkish Women's Chess Championship 2021"
-      },
-      {
-         "description" : " I've been looking into the topic of tie-break systems again, and one of the challenges is how to define the difficulty of the field. Opinions on this seemed to be split pretty evenly, so I am interested in what other people think or prefer. Here are the general choices A) The more points my opponents score, the harder the field is for me (eg Buccholz) B) The higher my opponents ratings are, the harder the field (eg Average of Opponents Ratings) C) The earlier I hit the lead, the stronger my opponents will be (eg Sum of Progressive Scores) D) If I have more games with Black, then the tougher it is to win (eg Most games with Black) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/tie-breaks.html",
-         "pubDate" : "Mon, 21 Jun 2021 13:20:00 +0000",
-         "title" : "Tie-breaks"
       }
    ]
 }
