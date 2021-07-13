@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-official-regulations/",
          "pubDate" : "Tue, 22 Jun 2021 05:24:59 +0000",
          "title" : "EUROPEAN TEAM CHESS CHAMPIONSHIP 2021 - Official Regulations"
-      },
-      {
-         "description" : " The Queen's Gambit - Accepted!: Jonathan Arnott &#38; Rosie Irwin From the publisher: The game of chess has hundreds of child-friendly books, but what about the adult beginner inspired by The Queen's Gambit Netflix series? Rosie Irwin is the perfect example: just like the title character, she's had her own struggles with mental health and <a href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Queen's Gambit - Accepted!</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/\">The Queen's Gambit - Accepted!</",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/06/22/the-queens-gambit-accepted/",
-         "pubDate" : "Tue, 22 Jun 2021 00:10:27 +0000",
-         "title" : "The Queen's Gambit - Accepted!"
       }
    ]
 }
