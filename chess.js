@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again - like last year - took place on Chess.com rather than in Leon over the board. There was a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event. Following the flagship event ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
+         "pubDate" : "Tue, 13 Jul 2021 19:49:00 +0400",
+         "title" : "34th Leon Chess 2021 - Games and Results"
+      },
+      {
+         "description" : "Pia Cramling had the best start at the Swedish Championships in Helsingborg, but she could not keep up the pace. This allowed the young (born in 2002) IM Jung Min Seo to catch up and to become Swedish Champion 2021. | Photo: Swedish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jung-min-seo-wins-swedish-championships",
+         "pubDate" : "Tue, 13 Jul 2021 13:03:59 +0100",
+         "title" : "Jung Min Seo wins Swedish Championships"
+      },
+      {
+         "description" : "The 2021 FIDE World Cup began on Monday in Krasnaya Polyana, Sochi (Russia) with 156 players in the open section and 78 players in the women&#39;s section. The Chilean grandmaster Pablo Salinas Herrera played the Game of the Day (and possibly the year...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-salinas-andersen",
+         "pubDate" : "Tue, 13 Jul 2021 02:29:00 -0700",
+         "title" : "FIDE World Cup Takes Off With Chilean Brilliance"
+      },
+      {
+         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov Last week we looked at games 2, 3 and 4 played by my U10 student at the online CYCC 2021. The first game had nothing to look at. With 3 points out of 4 games and a bad game behind him, he needed to rebound in <a href=\"https://chessimprover.com/tales-from-cycc-2021-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-2/\">Tales from CYCC 2021 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tales-from-cycc-2021-2/",
+         "pubDate" : "Tue, 13 Jul 2021 09:00:40 +0000",
+         "title" : "Tales from CYCC 2021 (2)"
+      },
+      {
+         "description" : "Magnus Carlsen, Fabiano Caruana and other top seeds begin the World Cup from Thursday's Round 2, but before that the event will already be over for 117 players. Nine players failed to make it to Round 1, but over 200 were in action on Monday, including the youngest ever grandmaster, Abhimanyu Mishra, who put up a great fight before losing to Baadur Jobava. The favourites dominated, but English IM Ravi Haria beat Russian GM Vadim Zvjaginsev, while ex-Women's World Champion Anna Ushenina fell to Egypt's Ayah Moaataz. We also saw one game for the ages.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-1-the-battle-begins",
+         "pubDate" : "Tue, 13 Jul 2021 08:30:02 +0000",
+         "title" : "FIDE World Cup 1.1: The battle begins"
+      },
+      {
          "description" : "Pawn endings must be calculated precisely and the activity of the king is very important. In the diagram position White has a protected passed pawn on b6 but it is not immediately apparent whether this is enough to win. Do you have an idea how White can overcome Black's defensive set-up?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/breaking-the-wall",
          "pubDate" : "Tue, 13 Jul 2021 09:00:00 +0100",
          "title" : "Breaking the wall"
+      },
+      {
+         "description" : "Top seeds Pranesh M of Tamilnadu in Open and Renganayaki of Karantaka in Girls won the National School Under-15 titles on Thursday. Pranesh scored 8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/pranesh-renganayaki-national-school-under-15-champions/",
+         "pubDate" : "Tue, 13 Jul 2021 07:43:32 +0000",
+         "title" : "Pranesh & Renganayaki National School Under-15 Champions"
       },
       {
          "description" : "Shri Ram College of Commerce (SRCC) Delhi consists of WIM Vantika Agrawal, FM Ankit Gajwa, WFM Tarini Goyal, FM Jeet Jain, Arijith M and IM",
@@ -1202,14 +1250,6 @@ news_feed (
          "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
       },
       {
-         "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again takes place online on Chess.com rather than in Leon over the board. There is a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
-         "pubDate" : "Sun, 4 Jul 2021 19:49:00 +0400",
-         "title" : "34th Leon Chess 2021 - Games and Results"
-      },
-      {
          "description" : "On a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing just two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and 25 minutes of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1530,14 +1570,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid SF: Carlsen and Ding win first sets"
       },
       {
-         "description" : "Magnus Carlsen began his second decade of being top on every published rating list with a loss to Levon Aronian, but he hit back immediately to grind out an endgame win in the next game. He took the lead in their semi-final by winning the last game of the day, though not without a scare at the end. In the other semi-final Ding Liren credited playing basketball with an improvement in form that saw him power to victory with a game to spare. Vladislav Artemiev, like Levon Aronian, will have to win on demand on Saturday to force a playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-6-carlsen-ding-strike",
-         "pubDate" : "Fri, 02 Jul 2021 10:53:36 +0000",
-         "title" : "Goldmoney Asian Rapid 6: Carlsen & Ding strike"
-      },
-      {
          "description" : "At just 12 years of age, Abhimanyu Mishra has become the youngest grandmaster in chess history. He broke the record of Sergey Karjakin who held the title of the youngest GM in the chess world. Mishra's quest for the youngest GM holder position had extra merit, having in mind the ongoing Covid19 pandemic and postponement of many []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1552,14 +1584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/women-speed-chess-championship-harika-lagno",
          "pubDate" : "Fri, 02 Jul 2021 02:26:00 -0700",
          "title" : "Women's Speed Chess Championship: Harika Stuns Lagno In Semifinal Thriller"
-      },
-      {
-         "description" : "GM Magnus Carlsen and GM Ding Liren won their first matches in the semifinals of the Goldmoney Asian Rapid tournament. Carlsen lost his first game to GM Levon Aronian but then scored 2.5/3 in the remainder, while Ding drew one and won two games vs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-1",
-         "pubDate" : "Fri, 02 Jul 2021 01:15:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Carlsen, Ding Win 1st Set"
       },
       {
          "description" : " I have the feeling that nearly every day somebody starts a new Chess Training Website. Everybody wants a piece of the ever-growing chess online-business cake. But as most of these people seem to be after the big fast money in the first place, the quality of the content is mediocre at best. Luckily there are [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/the-best-chess-training-website/\">The Best Chess Training Website</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1696,14 +1720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-6",
          "pubDate" : "Thu, 01 Jul 2021 07:45:00 +0100",
          "title" : "Goldmoney Asian Rapid: Carlsen knocks out So in tiebreaks"
-      },
-      {
-         "description" : "National School Online Chess Championship-2021 will be held from 5th July to 16th July 2021 and serves as selection event for the Asian School Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-chess-championship-2021-updated-schedule-circular/",
-         "pubDate" : "Thu, 01 Jul 2021 06:05:29 +0000",
-         "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021 : UPDATED SCHEDULE & CIRCULAR"
       },
       {
          "description" : " From the publisher: &#8220;Using carefully selected examples, the authors want to make you familiar with the strategic ideas behind the famous Maroczy bind. These plans arising from both colours, are a must for your arsenal of chess knowledge and understanding.&#8221; &#8220;Adrian Bohdanovych Mikhalchishin was born in Lvov, Ukraine in 1954 and became a Grandmaster in <a href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Maroczy Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-s",
@@ -2226,14 +2242,6 @@ news_feed (
          "title" : "International top players take part in French Team Championship"
       },
       {
-         "description" : " In Russia the so-called Pirc Defence (1.e4 d6 2.d4 Nf6 3.Nc3 g6 or 1.e4 d6 2.d4 g6 followed by Nf6) is usually called the Ufimtsev Defence or the Ufimtsev-Pirc. It is so named after the Soviet and Kazakh master Anatoly Ufimtsev, who was already pioneering this line in the 1930s. Black's idea in the Ufimtsev-Pirc <a href=\"https://chessimprover.com/undermine-em-with-the-ufimtsev/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Undermine 'em with the Ufimtsev\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/undermine-em-with-the-ufimtsev/\">Undermine 'em with the Ufimtsev</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/undermine-em-with-the-ufimtsev/",
-         "pubDate" : "Thu, 24 Jun 2021 08:00:22 +0000",
-         "title" : "Undermine 'em with the Ufimtsev"
-      },
-      {
          "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2338,14 +2346,6 @@ news_feed (
          "title" : "Chicago Open excites&hellip; OTB in full swing!"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the National Open in Las Vegas, focusing on the game Levy Rozman vs Christopher Yoo in round 5, a superb attacking display by the \"internet's chess teacher\". And Lawrence will talk about the Paris Rapid & Blitz tournament and the Prague Masters. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-chess-in-las-vegas",
-         "pubDate" : "Tue, 22 Jun 2021 18:27:52 +0100",
-         "title" : "The Weekly Show: Chess in Las Vegas"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg?format=1000w\" /> </figure> <p class=\"\">While Perpetual Chess catches its breath, I invite you all to check out my new podcast/YouTube show. <p class=\"\"><em>How to Chess ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2368,14 +2368,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/coaching-for-grown-ups.html",
          "pubDate" : "Tue, 22 Jun 2021 13:15:00 +0000",
          "title" : "Coaching for grown ups"
-      },
-      {
-         "description" : "Here is the list of players who qualified for the Queens' Festival Online Individual final tournament on June 26th Category A (2100 and over)...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
-         "pubDate" : "Tue, 22 Jun 2021 10:59:01 +0000",
-         "title" : "Queens' Festival winners - Europe"
       }
    ]
 }
