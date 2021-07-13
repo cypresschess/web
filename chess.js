@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
+         "pubDate" : "Tue, 13 Jul 2021 22:44:11 +0000",
+         "title" : "So Many Different Kinds of Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
+      },
+      {
+         "description" : " Share!Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/",
+         "pubDate" : "Tue, 13 Jul 2021 22:21:17 +0000",
+         "title" : "2021 World Cup: Round #1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1207",
+         "pubDate" : "Tue, 13 Jul 2021 21:23:03 +0000",
+         "title" : "Fast and furious action on Day 2 in FIDE World Cup"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84385216.cms\" />India's young stars R Praggnanandhaa, Nihal Sarin and P Iniyan advanced to the second round of the men's event in the FIDE World Cup chess tournament on Tuesday. Birthday boy Nihal Sarin drew the second game against IM Arthur Ssegwanyi of Uganda to secure a 1.5-0.5 win in round one. The Indian will now take on Sanan Sjugirov of Russia in round two.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -242,7 +266,7 @@ news_feed (
          "title" : "Xiong Beats Lazavik In Junior Speed Chess Championship"
       },
       {
-         "description" : " Share! Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the globe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-l-aronian",
          "pubDate" : "Thu, 08 Jul 2021 15:20:00 +0100",
          "title" : "Game of the Week: L. Aronian vs V. Artemiev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The 2021 Croatia Grand Chess Tour Rapid and Blitz tournament will be the second Rapid and Blitz event and the third stop on the 2021 Grand Chess Tour. In 2019, Croatia Grand Chess Tour featured all 12 tour participants competing in classical format while this year&#039;s 2021 event will feature ten elite grandmasters competing over 9 rounds of rapid chess and 18 rounds of blitz chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-day",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-2",
-         "pubDate" : "Thu, 08 Jul 2021 13:37:04 +0000",
-         "title" : "2021 Croatia Grand Chess Tour (Day 2)"
       },
       {
          "description" : " The ACT Chess Association is holding the ACT Winter Open on the 23rd (Friday), 24th and 25th of July this year. This event is in place of the ANU Open, which is unable to be held at the ANU this year. Instead it will be held at Campbell High School, which is where the ACT Junior Chess League run their events. With the Covid situation still be in flux (especially in Sydney), the event is being restricted to 64 players (across the Open and Minor tournaments), and obviously will only be open to players who are allowed to enter the ACT. If this changes (eg restrictions are eased or lifted) the numbers for this event may be increased. The full details are <p dir=\"ltr\" style=\"background-color: wh",
@@ -2344,14 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1163",
          "pubDate" : "Tue, 22 Jun 2021 23:44:15 +0000",
          "title" : "Wesley So wins 2021 Paris Grand Chess Tour"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1162",
-         "pubDate" : "Tue, 22 Jun 2021 20:59:49 +0000",
-         "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
       }
    ]
 }
