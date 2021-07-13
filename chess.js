@@ -10,6 +10,54 @@ news_feed (
          "title" : "34th Leon Chess 2021 - Games and Results"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1206",
+         "pubDate" : "Tue, 13 Jul 2021 14:57:47 +0000",
+         "title" : "FIDE announces Online Olympiad 2021"
+      },
+      {
+         "description" : "The World Cup kicked off on Monday with a crowd of chess players even larger than usual - the main tournament has now 206 participants, while the Women's World Cup is taking place concurrently for the first time. Not surprisingly, a number of exciting games were seen in Sochi. We take a look at a very good-looking win by Chilean GM Pablo Salinas, and we share instructive endgame analyses by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d1",
+         "pubDate" : "Tue, 13 Jul 2021 15:10:00 +0100",
+         "title" : "World Cup: Salinas' astounding win and endgame analyses"
+      },
+      {
+         "description" : "All India Chess Federation Secretary Shri Bharat Singh Chauhan presented the AICF Pin to FIDE President Mr. Arkady Dvorkovich in presence of FIDE Vice President",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-pin-presented-to-fide-president/",
+         "pubDate" : "Tue, 13 Jul 2021 14:02:43 +0000",
+         "title" : "AICF Pin presented to FIDE President"
+      },
+      {
+         "description" : " Due to the time zone differences, most of the action in the 2021 World Cup is happening past my bedtime. I can tell you the GM Elshan Moridiabadi has made it through to the 2nd round, although it appears that his opponent did not turn up. This also happened in a few other games, with some players having travel difficulties, either covid related or not. Oceania representative CM Elmer Prudente lost is first game yesterday, and is in a bit of trouble today. Australian representative GM Bobby Cheng drew against his almost identically rated opponent yesterday, and todays game is still even as I type this. This match might be headed to tie-breaks. However Round 2 is when the real actions starts ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup-day-2.html",
+         "pubDate" : "Tue, 13 Jul 2021 13:24:00 +0000",
+         "title" : "2021 World Cup Day 2"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626181275675-YA4D8Y1S15PEHYYJZT35/kasparovjon1.JPG\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of GM Levitt and and his old boss, GM Garry Kasparov, courtesy of Jonathan Levitt\" data-load=\"false\" data-image-id=\"60ed8e9af67381323ef92f88\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626181275675-YA4D8Y1S15PEHYYJZT35/kasparovjon1.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Levitt and and his old boss, GM Garr",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/13/mdlvls44g924oxyqh37dea4d2vbje8",
+         "pubDate" : "Tue, 13 Jul 2021 13:05:33 +0000",
+         "title" : "Episode 234- GM Jonathan Levitt "
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Tue, 13 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
          "description" : "Pia Cramling had the best start at the Swedish Championships in Helsingborg, but she could not keep up the pace. This allowed the young (born in 2002) IM Jung Min Seo to catch up and to become Swedish Champion 2021. | Photo: Swedish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-salinas-andersen",
          "pubDate" : "Tue, 13 Jul 2021 02:29:00 -0700",
-         "title" : "FIDE World Cup Takes Off With Chilean Brilliance"
+         "title" : "FIDE World Cup Begins With Chilean Brilliance"
       },
       {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov Last week we looked at games 2, 3 and 4 played by my U10 student at the online CYCC 2021. The first game had nothing to look at. With 3 points out of 4 games and a bad game behind him, he needed to rebound in <a href=\"https://chessimprover.com/tales-from-cycc-2021-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-2/\">Tales from CYCC 2021 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -176,14 +224,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/",
          "pubDate" : "Mon, 12 Jul 2021 13:26:33 +0000",
          "title" : "2021 World Chess Cup (Sochi, Russia)"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Mon, 12 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "Maxime Vachier-Lagrave credited defence as he lost just one of 18 blitz games on the way to winning the Croatia Grand Chess Tour by a full two points. After a last-day collapse for Ian Nepomniachtchi, Maxime's greatest challenge came from 51-year-old Vishy Anand, who beat Garry Kasparov at the start of a 4-game winning streak that ultimately gave him sole 2nd place. Garry called himself an \"amateur\", and despite landing a win he scored 2/9 and deprived us of any last-round drama by losing on time to MVL in a drawn position.",
@@ -1354,14 +1394,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid Finals: Aronian, Carlsen Lead"
       },
       {
-         "description" : "It is intimated that the following vacancies are available for participation in the World Youth &#38; Cadet Online World Cup 2021 due to non-registration of players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-online-chess-championship-entry-vacancy/",
-         "pubDate" : "Sun, 04 Jul 2021 05:12:35 +0000",
-         "title" : "WORLD YOUTH ONLINE CHESS CHAMPIONSHIP : ENTRY VACANCY"
-      },
-      {
          "description" : "The chess world mourns the passing of Yury Dohkoian. The successful coach and long-time second of Garry Kasparov died on July 1 in Moscow due to a Covid-19 infection. | Photo: Eteri Kublashvili / Russian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2306,14 +2338,6 @@ news_feed (
          "title" : "The new ChessBase video portal: 5,000 videos online!"
       },
       {
-         "description" : "Thanks to a remarkable performance in the second half of the blitz section, Wesley So won the Paris Rapid & Blitz Tournament with one round to spare. The Filipino-born grandmaster finished the tournament three points clear of second-placed Ian Nepomniachtchi, after losing only one out of the 27 games played in the French capital. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-paris-2021-day-5",
-         "pubDate" : "Wed, 23 Jun 2021 01:35:00 +0100",
-         "title" : "Wesley So triumphs at the Paris Rapid & Blitz Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2344,30 +2368,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/",
          "pubDate" : "Tue, 22 Jun 2021 17:37:54 +0000",
          "title" : "Chicago Open excites&hellip; OTB in full swing!"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg\" data-image-dimensions=\"680x680\" data-image-focal-point=\"0.5,0.5\" alt=\"how.to.chess.artwork.jpg\" data-load=\"false\" data-image-id=\"60d1eff7b73fe45e2e22e571\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624371191593-9N8QPZ2OE54BZSKCDIB7/how.to.chess.artwork.jpg?format=1000w\" /> </figure> <p class=\"\">While Perpetual Chess catches its breath, I invite you all to check out my new podcast/YouTube show. <p class=\"\"><em>How to Chess ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/22/bonus-introducing-the-how-to-chess-podcast",
-         "pubDate" : "Tue, 22 Jun 2021 13:46:19 +0000",
-         "title" : "Bonus- Introducing The How to Chess Podcast! "
-      },
-      {
-         "description" : " The Paris Rapid & Blitz was part of the Grand Chess Tour and took place 18th to 22nd June 2021. 9 rounds of rapid was followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9 and then won the blitz with 12.5/18 with just one defeat. The next event on the tour is the Rapid and Blitz in Croatia Mon 5th Jul to \tMon 12th Jul 2021. In between now and then (Sat 26th Jun to Sun 4th Jul 2021\t) is the online Goldmoney A",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/paris-rapid-blitz-2021",
-         "pubDate" : "Tue, 22 Jun 2021 17:30:00 +0400",
-         "title" : "Paris Rapid & Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : " While there is a lot of coaching activities for junior players, there is a lot less for older players. Partly this is because there is less desire and time in the adult community for such things, but it is fair to say, junior coaching is where the money is. I do a mixture of both (adult and junior coaching), but I rarely charge for adult coaching. In part because there isn't enough adult coaching on offer, but also because I'm happy to talk chess for an hour in return for coffee and cake (or a fabulous Moroccan Chicken and Rice lunch one of my students cooked for me) GM Alex Baburin is also dipping into this pool, offering coaching and webinars for older players. His website even has a dedi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/coaching-for-grown-ups.html",
-         "pubDate" : "Tue, 22 Jun 2021 13:15:00 +0000",
-         "title" : "Coaching for grown ups"
       }
    ]
 }
