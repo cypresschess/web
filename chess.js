@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn endings must be calculated precisely and the activity of the king is very important. In the diagram position White has a protected passed pawn on b6 but it is not immediately apparent whether this is enough to win. Do you have an idea how White can overcome Black's defensive set-up?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-the-wall",
+         "pubDate" : "Tue, 13 Jul 2021 09:00:00 +0100",
+         "title" : "Breaking the wall"
+      },
+      {
+         "description" : "Shri Ram College of Commerce (SRCC) Delhi consists of WIM Vantika Agrawal, FM Ankit Gajwa, WFM Tarini Goyal, FM Jeet Jain, Arijith M and IM",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shri-ram-college-of-commerce-delhi-won-fide-binance-business-schools-super-cup-2021/",
+         "pubDate" : "Tue, 13 Jul 2021 06:54:44 +0000",
+         "title" : "Shri Ram College of Commerce Delhi won FIDE Binance Business Schools Super Cup 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1205",
+         "pubDate" : "Tue, 13 Jul 2021 06:52:04 +0000",
+         "title" : "2021 Koltanowski Conference on Chess in Education to be at the end of July"
+      },
+      {
+         "description" : "World Cup 2021 got off to a rousing start on Monday at Sochi, Russia and Indian players shined on Day one. Erode based P Iniyan",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-begins-good-day-for-india/",
+         "pubDate" : "Tue, 13 Jul 2021 06:14:43 +0000",
+         "title" : "WORLD CUP BEGINS; GOOD DAY FOR INDIA"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1674,14 +1706,6 @@ news_feed (
          "title" : "NATIONAL SCHOOL ONLINE CHESS CHAMPIONSHIP-2021 : UPDATED SCHEDULE & CIRCULAR"
       },
       {
-         "description" : "Delhi Girl Sachi Jain becomes the National Under-12 Girls Online Chess Champion with 10 points out of possible 11. Yashvi Jain of Telangana and Sarvani",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sachi-jain-under-12-girls-champion/",
-         "pubDate" : "Thu, 01 Jul 2021 04:10:01 +0000",
-         "title" : "Sachi Jain Under-12 Girls Champion"
-      },
-      {
          "description" : " From the publisher: &#8220;Using carefully selected examples, the authors want to make you familiar with the strategic ideas behind the famous Maroczy bind. These plans arising from both colours, are a must for your arsenal of chess knowledge and understanding.&#8221; &#8220;Adrian Bohdanovych Mikhalchishin was born in Lvov, Ukraine in 1954 and became a Grandmaster in <a href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Maroczy Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-s",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1744,14 +1768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-carlsen-prevails-over-wesley-so/articleshow/83993708.cms",
          "pubDate" : "Wed, 30 Jun 2021 21:48:07 +0530",
          "title" : "Goldmoney Asian Rapid: Carlsen prevails over Wesley So"
-      },
-      {
-         "description" : "It is intimated that players removed on the grounds of Fair Play violations during National Age Group Online Chess Championship 2021 are not eligible to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-online-championship-participation-of-fair-play-defaulters/",
-         "pubDate" : "Wed, 30 Jun 2021 14:13:19 +0000",
-         "title" : "National School Online Championship : Participation of Fair Play defaulters"
       },
       {
          "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
@@ -2338,14 +2354,6 @@ news_feed (
          "title" : "Bonus- Introducing The How to Chess Podcast! "
       },
       {
-         "description" : "170 years ago, on 21 June 1851, Adolf Anderssen and Lionel Kieseritzky played one of the most famous games of all time: the so-called \"Immortal Game\", in which Anderssen sacrificed a large part of his army to mate the enemy king. Since then this game has been included in countless anthologies, it continues to be a popular choice for live exhibition games, it has been quoted in films, and the decisive position has been printed on T-shirts. It also played a role in the novel \"Writers & Lovers\" by American author Lily King.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-literature-writers-lovers-and-the-immortal-game",
-         "pubDate" : "Tue, 22 Jun 2021 14:42:55 +0100",
-         "title" : "Chess in Literature: \"Writers & Lovers\" and the Immortal Game"
-      },
-      {
          "description" : " The Paris Rapid & Blitz was part of the Grand Chess Tour and took place 18th to 22nd June 2021. 9 rounds of rapid was followed by 18 rounds of blitz. Players: Fabiano Caruana, Levon Aronian, Wesley So, Maxime Vachier-Lagrave, Teimour Radjabov, Richard Rapport, Ian Nepomniachtchi, Alireza Firouzja and Peter Svidler play both events Etienne Bacrot plays the rapid and Vladimir Kramnik the blitz. Wesley So won the Rapid section with an undefeated score of 6/9 and then won the blitz with 12.5/18 with just one defeat. The next event on the tour is the Rapid and Blitz in Croatia Mon 5th Jul to \tMon 12th Jul 2021. In between now and then (Sat 26th Jun to Sun 4th Jul 2021\t) is the online Goldmoney A",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2368,14 +2376,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/queens-festival-winners-europe/",
          "pubDate" : "Tue, 22 Jun 2021 10:59:01 +0000",
          "title" : "Queens' Festival winners - Europe"
-      },
-      {
-         "description" : "European Team Chess Championship 2021 and European Women's Team Chess Championship 2021 will take place from 11th-22nd November in Catez, Slovenia. The events will be played according to the Swiss System in 9 rounds, with time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-official-regulations/",
-         "pubDate" : "Tue, 22 Jun 2021 05:24:59 +0000",
-         "title" : "EUROPEAN TEAM CHESS CHAMPIONSHIP 2021 - Official Regulations"
       }
    ]
 }
