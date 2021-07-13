@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84385216.cms\" />India's young stars R Praggnanandhaa, Nihal Sarin and P Iniyan advanced to the second round of the men's event in the FIDE World Cup chess tournament on Tuesday. Birthday boy Nihal Sarin drew the second game against IM Arthur Ssegwanyi of Uganda to secure a 1.5-0.5 win in round one. The Indian will now take on Sanan Sjugirov of Russia in round two.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-nihal-sarin-iniyan-enter-2nd-round/articleshow/84385216.cms",
+         "pubDate" : "Tue, 13 Jul 2021 22:30:06 +0530",
+         "title" : "World Cup: Praggnanandhaa, Nihal Sarin, Iniyan enter 2nd round"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the World Cup and the and the glorious game the Chilean GM Pablo Salinas won with Black against GM Mads Andersen from Sweden. Lawrence will also do a roundup of what happened at the Swedish Championships, the San Fermin Masters and the Grand Chess Tour tournament in Croatia. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-brilliancies-at-the-world-cup",
+         "pubDate" : "Tue, 13 Jul 2021 18:00:00 +0100",
+         "title" : "The Weekly Show: Brilliancies at the World Cup"
+      },
+      {
          "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again - like last year - took place on Chess.com rather than in Leon over the board. There was a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event. Following the flagship event ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
          "pubDate" : "Tue, 13 Jul 2021 19:49:00 +0400",
          "title" : "34th Leon Chess 2021 - Games and Results"
+      },
+      {
+         "description" : "Chess.com is excited to announce the 2021 FIDE Online Chess Olympiad, a incredible online chess event open to chess federations from all over the world. Federations are invited to send their best players and top juniors to compete in rapid chess m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-announces-2021-fide-online-olympiad",
+         "pubDate" : "Tue, 13 Jul 2021 08:43:53 -0700",
+         "title" : "Chess.com Announces The 2021 FIDE Online Chess Olympiad"
       },
       {
          "description" : "",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "12-year-old Abhimanyu Mishra becomes the youngest GM in chess history"
       },
       {
-         "description" : "GM Harika Dronavalli on Thursday eliminated GM Kateryna Lagno from the FIDE Chess.com Women&#39;s Speed Chess Championship. In a thriller of a match, everything was decided in the third bullet game of the tiebreak. Lagno, the top seed in the event, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-harika-lagno",
-         "pubDate" : "Fri, 02 Jul 2021 02:26:00 -0700",
-         "title" : "Women's Speed Chess Championship: Harika Stuns Lagno In Semifinal Thriller"
-      },
-      {
          "description" : " I have the feeling that nearly every day somebody starts a new Chess Training Website. Everybody wants a piece of the ever-growing chess online-business cake. But as most of these people seem to be after the big fast money in the first place, the quality of the content is mediocre at best. Luckily there are [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/the-best-chess-training-website/\">The Best Chess Training Website</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/6/30/no-posts-for-a-while.html",
          "pubDate" : "Wed, 30 Jun 2021 05:42:43 +0000",
          "title" : "No Posts for a While"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83976229.cms\" />India's best teenage Grandmaster Nihal Sarin stretched his lead further to one clear point and Maharashtra's youngest GM Raunak Sadhwani forced the top seed in the tournament to sign a truce, while Abhimanyu Puranik and Harshit Raja followed the leader at the joint second position.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-nihal-sarin-inches-closer-to-silver-lake-title-raunak-sadhwani-holds-top-seed-to-remain-joint-second/articleshow/83976229.cms",
-         "pubDate" : "Wed, 30 Jun 2021 10:03:05 +0530",
-         "title" : "Nihal inches closer to Silver Lake title, Raunak holds top seed to remain joint 2nd"
       },
       {
          "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
@@ -2330,14 +2338,6 @@ news_feed (
          "title" : "Guildford Chess Club is 125 years old!"
       },
       {
-         "description" : "We have renovated: the ChessBase video portal presents itself in a new look. But the most important thing: you will now find what you are looking for much faster! Over 5,000 training videos are ready for you! All of them are fully indexed, so that you can use the search board to search all the videos for positions. Content has also been cleaned up: while we now offer \"chess entertainment\" on our YouTube channels, the focus on the video portal is now on chess training. High-quality training material on openings, middlegames, endgames. We regularly publish new training lessons from top trainers such as Daniel King, Karsten M&uuml;ller, Herman Grooten, Robert Ris or Lawrence Trent. Real premium",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-chessbase-chessbase-account-video-section-2021",
-         "pubDate" : "Wed, 23 Jun 2021 09:38:45 +0100",
-         "title" : "The new ChessBase video portal: 5,000 videos online!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2352,22 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1162",
          "pubDate" : "Tue, 22 Jun 2021 20:59:49 +0000",
          "title" : "Turkish Women's Championship: Atalik clinches her fifth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1161",
-         "pubDate" : "Tue, 22 Jun 2021 18:01:01 +0000",
-         "title" : "Amadou Lamine Ciss&eacute; wins Senegal National Championship"
-      },
-      {
-         "description" : " The anticipation was high and many eagerly awaited the moment when over-the-board (OTB) chess would return. The Continental Chess Association (CCA) announced that they were be hosting a full slate of tournaments for 2021 year, but for the Chicago Open, there would be restrictions. David Hater mentioned in his report on uschess.org that were varied [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/\">Chicago Open excites OTB in full swing!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/22/chicago-open-excites-otb-in-full-swing/",
-         "pubDate" : "Tue, 22 Jun 2021 17:37:54 +0000",
-         "title" : "Chicago Open excites&hellip; OTB in full swing!"
       }
    ]
 }
