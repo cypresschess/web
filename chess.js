@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grandmaster Tournament in Dortmund has a long tradition but in 2021 the organisers come up with fresh ideas. In the Grand Prix Tournament five young German players compete with five strong International players, and in the NC (No Castling) Masters Vladimir Kramnik and Vishy will play a match. Today, Wednesday, 14 July, round two of the Grand Prix starts at 10:00 CEST (4 am ET, 8:00 UTC), round three will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will also start their first No Castling game at 16:00 CEST. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Wed, 14 Jul 2021 13:24:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy live"
+      },
+      {
+         "description" : "The 12 player Indian contingent comprising 8 men and 4 women had a smooth sailing, with 11 out of 12 Indians sailing to the round",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/smooth-sailing-for-indians/",
+         "pubDate" : "Wed, 14 Jul 2021 10:50:53 +0000",
+         "title" : "Smooth sailing for Indians"
+      },
+      {
+         "description" : "The brutal logic of the FIDE World Cup on Tuesday saw 80 players who made it to Sochi already able to pack to leave, after they lost their Round 1 matches. There are 19 tiebreaks in the Open Section and 9 in the Women's on Wednesday, with just 11 players who lost on Day 1 managing to come back on Day 2, including favourites Vadim Zvjaginsev, Anna Ushenina and Pauline Guichard. 12-year-old Abhimanyu Mishra is out, with his conqueror Baadur Jobava's match against Sam Shankland one of the highlights to come in Round 2.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-2-80-players-out-28-tiebreaks",
+         "pubDate" : "Wed, 14 Jul 2021 10:20:52 +0000",
+         "title" : "FIDE World Cup 1.2: 80 players out, 28 tiebreaks"
+      },
+      {
+         "description" : "19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup will be decided in tiebreaks on Wednesday. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-game-2",
+         "pubDate" : "Wed, 14 Jul 2021 02:44:00 -0700",
+         "title" : "FIDE World Cup: 28 Matches Go To Tiebreaks"
+      },
+      {
+         "description" : "Chidvilash Sai Surapaneni of Telangana and Pournami S of Kerala becomes champions in the National School Under-13 Open &#38; Girls Categories respectively which concluded on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chidvilash-pournami-champions/",
+         "pubDate" : "Wed, 14 Jul 2021 09:34:44 +0000",
+         "title" : "Chidvilash & Pournami Champions"
+      },
+      {
          "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "World Cup: Praggnanandhaa, Nihal Sarin, Iniyan enter 2nd round"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the World Cup and the and the glorious game the Chilean GM Pablo Salinas won with Black against GM Mads Andersen from Sweden. Lawrence will also do a roundup of what happened at the Swedish Championships, the San Fermin Masters and the Grand Chess Tour tournament in Croatia. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the World Cup and the glorious game the Chilean GM Pablo Salinas won with Black against GM Mads Andersen from Sweden. Lawrence will also do a roundup of what happened at the Swedish Championships, the San Fermin Masters and the Grand Chess Tour tournament in Croatia. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-brilliancies-at-the-world-cup",
@@ -1218,14 +1258,6 @@ news_feed (
          "title" : "A magic knight"
       },
       {
-         "description" : "Reyan Md of Bihar and Alana Meenakshi Kolagatla of Andhra Pradesh becomes champions in the Open and Girls Categories respectively in the National Under-10 Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/reyan-and-alana-under-10-champions/",
-         "pubDate" : "Tue, 06 Jul 2021 04:17:00 +0000",
-         "title" : "Reyan and Alana Under-10 Champions"
-      },
-      {
          "description" : "Renowned Russian chess coach Yury Dokhoian was buried today in the Nikolo-Khovanskoye cemetery near Moscow after dying from COVID-19 on July 1st at the age of just 56. Sergey Karjakin, who was coached by Dokhoian from 2009-2020, and 18-year-old Andrey Esipenko, his latest prot&eacute;g&eacute;, attended the funeral. Yury was a strong chess player, but was best known as Garry Kasparov's second for the last decade of his career, before going on to coach the Kosintseva sisters and head the Russian women's and men's teams.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1328,14 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1187",
          "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
          "title" : "Aronian wins his first Meltwater Chess Masters title"
-      },
-      {
-         "description" : "The FIDE Online Cadets &#38; Youth Rapid World Cup-2021 scheduled to be held from 1st to 30th August 2021. In each age category India can",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-fide-online-cadets-youth-rapid-world-cup-2021/",
-         "pubDate" : "Sun, 04 Jul 2021 18:16:00 +0000",
-         "title" : "Registration for FIDE Online Cadets & Youth Rapid World Cup 2021"
       },
       {
          "description" : "On a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing just two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and 25 minutes of...",
@@ -1530,14 +1554,6 @@ news_feed (
          "title" : "French Team Championship \"Top 12\" - Bischwiller leads"
       },
       {
-         "description" : "Levon Aronian and Vladislav Artemiev will contest the final of the Goldmoney Asian Rapid after pulling off spectacular comebacks on the second day of the semi-finals. Levon took full advantage of an out-of-sorts Magnus Carlsen and put his victory down to fighting spirit rather than sparkling chess. Artemiev also said he wanted to give Ding Liren \"a real fight\" and that's just what he did, dominating almost from start to finish. Ding and Carlsen will play for 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-7-aronian-artemiev-stun-carlsen-ding",
-         "pubDate" : "Sat, 03 Jul 2021 07:12:34 +0000",
-         "title" : "Goldmoney Asian Rapid 7: Aronian & Artemiev stun Carlsen & Ding"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1624,14 +1640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-comments",
          "pubDate" : "Fri, 02 Jul 2021 16:00:00 +0100",
          "title" : "Ian Nepomniachtchi comments"
-      },
-      {
-         "description" : "GM Raunak Sadhwani on Thursday defeated GM Paulius Pultinevicius in the opening match of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sadhwani-beats-pultinevicius-junior-speed-chess-championship",
-         "pubDate" : "Fri, 02 Jul 2021 06:53:00 -0700",
-         "title" : "Sadhwani Beats Pultinevicius As Junior Speed Chess Championship Gets Underway"
       },
       {
          "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
@@ -2336,22 +2344,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2021/",
          "pubDate" : "Wed, 23 Jun 2021 14:54:44 +0000",
          "title" : "European Union Youth Chess Championship 2021"
-      },
-      {
-         "description" : "The seventh leg of the Meltwater Champions Chess Tour will be played from June 26 until July 4. Dubbed the Goldmoney Asian Rapid, the event will feature a $100,000 prize fund. Remarkably, the highest-rated woman player in the world, Hou Yifan, will take part in the tournament. Magnus Carlsen and Wesley So, currently placed first and second respectively in the tour standings, will also participate.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-preview",
-         "pubDate" : "Wed, 23 Jun 2021 13:00:00 +0100",
-         "title" : "Asian players to face Carlsen & Co. at Goldmoney Asian Rapid"
-      },
-      {
-         "description" : "Guildford Chess Club is celebrating its 125th anniversary, and is running a special event in Guildford High Street on Saturday 11th September from 10.30 -...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/guildford-chess-club-is-125-years-old/",
-         "pubDate" : "Wed, 23 Jun 2021 10:49:17 +0000",
-         "title" : "Guildford Chess Club is 125 years old!"
       }
    ]
 }
