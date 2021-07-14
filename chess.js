@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/14/yury-dokhoian-1964-2021.html",
+         "pubDate" : "Wed, 14 Jul 2021 05:03:54 +0000",
+         "title" : "Yury Dokhoian, 1964-2021"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -119,7 +127,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-live",
          "pubDate" : "Tue, 13 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
+         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "Pia Cramling had the best start at the Swedish Championships in Helsingborg, but she could not keep up the pace. This allowed the young (born in 2002) IM Jung Min Seo to catch up and to become Swedish Champion 2021. | Photo: Swedish Chess Federation",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
          "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
          "title" : "European Senior Chess Championship 2021 - Official regulations"
-      },
-      {
-         "description" : " Another apologies post, as once again family health issues have taken over for the last couple of weeks. I intend to resume blogging when the situation resolves itself one way or another, but until then, with apologies, I'm going to take a hiatus. Hope to be back in touch with everyone soon, with good news and the psychological energy to resume. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/30/no-posts-for-a-while.html",
-         "pubDate" : "Wed, 30 Jun 2021 05:42:43 +0000",
-         "title" : "No Posts for a While"
       },
       {
          "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
