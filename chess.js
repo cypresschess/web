@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Netflix&#39;s 2020 megahit miniseries The Queen&#39;s Gambit has garnered 18 Emmy nominations, including best Limited Series and best Lead Actress in a Limited Series or Movie for Anya Taylor-Joy&#39;s widely acclaimed performance as Beth Harmon. Thomas Brodi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/queens-gambit-nets-18-emmy-nominations",
+         "pubDate" : "Wed, 14 Jul 2021 14:47:41 -0700",
+         "title" : "Queen's Gambit Nets 18 Emmy Nominations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1208",
+         "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
+         "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
+      },
+      {
+         "description" : "Playing in time trouble is tough! What are the dos and don'ts when you are low on time?",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/how-to-handle-time-trouble-in-chess",
+         "pubDate" : "Wed, 14 Jul 2021 20:12:06 +0000",
+         "title" : "How to handle time trouble in chess"
+      },
+      {
          "description" : "Two matches - out of the 28 that needed playoffs in round 1 - reached the third set of tiebreaker games at the World Cups in Sochi: in the open, Neuris Delgado knocked out Niaz Murshed, while in the women's section, Gulnar Mammadova [pictured] eliminated Mai Narva. Now that the first round is over, the top seeds are set to join the competition on Thursday. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +194,7 @@ news_feed (
          "title" : "Yury Dokhoian, 1964-2021"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n challenges students with difficult practical endgame positions. Calculate for a win or a draw. GM Bruz&oacute;n gives time to think, but you may need more! 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "So Many Practical Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. recognizing patterns 2021.07.13<br /> Mikola1000 vs. dorhinj1, ???<br /> Aakaash Meduri vs. Caleb Denby, 2021<br /> Chessbolt.com<br /> Listudy.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how to study tactics puzzles effectively. Recognize and break down patterns. Study like Caleb at Chessbolt.com and listudy.org. 2021.07.13<br /> Mikola1000 vs. dorhinj1, ???<br /> Aakaash Meduri vs. Caleb Denby, 2021 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby",
@@ -1536,22 +1560,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/an-insider-look-at-how-the-world-chess-sets-are-made/",
          "pubDate" : "Sun, 04 Jul 2021 08:11:52 +0000",
          "title" : "An Insider Look At How the World Chess Sets Are Made"
-      },
-      {
-         "description" : "Levon Aronian admitted it was \"kind of a miracle\" that he survived the 2nd game of the day against Vladislav Artemiev before he won the 3rd to clinch the first set of the Goldmoney Asian Rapid final. It means Vladislav now has to win on demand on Sunday to force a playoff for the $30,000 top prize. Magnus Carlsen said a 3rd place match is \"not where I want to be\", but a flawed attack by Ding Liren in the first game of the day gave the World Champion a lead that he didn't let slip despite a shaky final game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goldmoney-asian-rapid-8-aronian-leads-final",
-         "pubDate" : "Sun, 04 Jul 2021 07:58:32 +0000",
-         "title" : "Goldmoney Asian Rapid 8: Aronian leads final"
-      },
-      {
-         "description" : "GM Levon Aronian took the lead in the Goldmoney Asian Rapid final and needs only two game points vs. GM Vladislav Artemiev on Sunday to win the tournament. Aronian drew three times and won one game on Saturday, just like GM Magnus Carlsen vs. GM D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-finals-aronian-carlsen",
-         "pubDate" : "Sat, 03 Jul 2021 23:33:00 -0700",
-         "title" : "Goldmoney Asian Rapid Finals: Aronian, Carlsen Lead"
       },
       {
          "description" : "The chess world mourns the passing of Yury Dohkoian. The successful coach and long-time second of Garry Kasparov died on July 1 in Moscow due to a Covid-19 infection. | Photo: Eteri Kublashvili / Russian Chess Federation",
