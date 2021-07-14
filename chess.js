@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two matches - out of the 28 that needed playoffs in round 1 - reached the third set of tiebreaker games at the World Cups in Sochi: in the open, Neuris Delgado knocked out Niaz Murshed, while in the women's section, Gulnar Mammadova [pictured] eliminated Mai Narva. Now that the first round is over, the top seeds are set to join the competition on Thursday. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Wed, 14 Jul 2021 21:05:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won Titled Tuesday for the second consecutive week, scoring 9.5/11 and finishing ahead of GM Giga Quparadze on tiebreakers. There was a tie for third as both GM Sergei Zhigalko and GM Tamir Nabaty finished with 9/11 and the same...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-july-13-titled-tuesday",
+         "pubDate" : "Wed, 14 Jul 2021 10:49:01 -0700",
+         "title" : "Nakamura Wins July 13 Titled Tuesday"
+      },
+      {
+         "description" : "PALO ALTO, CA (July 14, 2021) Chess.com is the first official broadcast partner of the Women&#38;rsquo;s World Chess Championship cycle and the 2022 Women&#38;rsquo;s World Chess Championship as part of a historic multi-year agreement with the Internation...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-broadcast-rights-fide-events-2023",
+         "pubDate" : "Wed, 14 Jul 2021 10:23:59 -0700",
+         "title" : "Chess.com Acquires Broadcast Rights For Major FIDE Events Thru 2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1194\">announced a partnership</a> dedicated to the global development of youth chess with the mining company <strong>Nornickel</strong>, formerly known as Nickel Norilsk, whose main shareholder <a href=\"https://en.wikipedia.org/wiki/Vladimir_Potanin\"><strong>Vladimir Potanin</strong></a> is a chess lover, was Russia's richest man until recently and has excellent relations with President Putin. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/russias-richest-sponsors-fide/",
+         "pubDate" : "Wed, 14 Jul 2021 18:20:37 +0100",
+         "title" : "Russia's richest sponsors FIDE"
+      },
+      {
+         "description" : " Covering &#8216;X' was always going to be a challenge so I cheated with some spellings. Several different Exchange Variations are possible, for example in the French (1.e4 e6 2.d4 d5 3.exd5) and Slav (1.d4 d5 2.c4 c6 3.cxd5) Defences. The one I have in mind is the Exchange Variation of the Ruy Lopez with 1.e4 <a href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"X-terminate 'em with the X-change Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\">X-terminate 'em with the X-change Variation</a> appeared first on <a rel=\"nofol",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/x-terminate-em-with-the-x-change-variation/",
+         "pubDate" : "Wed, 14 Jul 2021 16:44:18 +0000",
+         "title" : "X-terminate 'em with the X-change Variation"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Arian Gonzalez</strong>, a Spanish GM and lawyer of Cuban origin, has been <a href=\"https://sandeajedrez.com/2021/07/13/gm-arian-gonzalez-detenido-en-cuba/\">detained by Cuban police</a> during the mass protests on Sunday. The <strong>Spanish Chess Federation</strong> <a href=\"https://feda.org/feda2k16/comunicado-feda-sobre-gm-arian-gonzalez-perez/\">has demanded his immediate release</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/arian-gonzalez-detained-in-cuba/",
+         "pubDate" : "Wed, 14 Jul 2021 17:35:25 +0100",
+         "title" : "Arian Gonzalez detained in Cuba"
+      },
+      {
+         "description" : " <h2>Ian Nepomniachtchi is a Russian GM, World #No4, and the next challenger against Magnus Carlsen!</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_--min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <h2>Today Ian turns 31 🎉🎉</h2> What should you absolutely know about the next challenger? <ol start=\"1\"> <li>His nickname is Nepo (short for Nepomniachtchi)</li> <li>He was born in Bryansk, Russia</li> <li>In 2002 he won the World Junior Championship U12, barely edging out Carlsen, whom he outrated at that point.</li> <li>He became a Grandmaster at the age of 17 in 2007</li> <li>In 2010, Nepomniachtchi won his first Russian Championship, defe",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/who-is-the-next-challenger-happy-birthday-nepo/",
+         "pubDate" : "Wed, 14 Jul 2021 16:20:32 +0000",
+         "title" : "Who is the next challenger? Happy Birthday Nepo"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84413690.cms\" /> Indian Grandmaster D Gukesh defeated Poland's Pawel Teclaf in the tiebreak on Wednesday to enter the second round of the Men's event in the FIDE World Cup chess tournament here. The two-game mini match had ended in a 1-1 draw on Tuesday. In the tie-break, Gukesh won the first game and settled for a draw in the second to book a spot in the next round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-grandmaster-d-gukesh-enters-second-round/articleshow/84413690.cms",
+         "pubDate" : "Wed, 14 Jul 2021 21:22:19 +0530",
+         "title" : "Chess World Cup: Grandmaster D Gukesh enters second round"
+      },
+      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Omilia, Slovenia on Sunday 14th November 2021. The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ban-lifted-in-alleged-polish-cheating-case",
          "pubDate" : "Wed, 14 Jul 2021 07:27:59 -0700",
          "title" : "Ban Lifted In Alleged Polish Cheating Case"
+      },
+      {
+         "description" : " Since I started to play Chess, it was my dream to become a Chess Grandmaster. This title has wide recognition, even outside the Chess World. Nearly wherever you go, people will have heard of &#8220;Chess Grandmaster&#8221; as an elite and prestigious title. While most people know the Grandmaster title is prestigious, many do not know [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/\">How To Become A Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/",
+         "pubDate" : "Wed, 14 Jul 2021 14:00:00 +0000",
+         "title" : "How To Become A Grandmaster In Chess"
       },
       {
          "description" : "Yesterday, 13 July 2021, the 48th Schachtage Dortmund began in Dortmund's Westfalenhalle. In the opening round of the Deutschland Grand Prix the young German Dmitrij Kollars (pictured) defeated the even younger German Vincent Keymer. Pavel Eljanov (against Andreas Heimann) and Daniel Fridman (against Mateusz Bartel) also won their games. | Photos and video: The Organiser",
@@ -42,20 +114,12 @@ news_feed (
          "title" : "World Cup: Twelve players bounce back"
       },
       {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Wed, 14 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
-      },
-      {
          "description" : "The Grandmaster Tournament in Dortmund has a long tradition but in 2021 the organisers come up with fresh ideas. In the Grand Prix Tournament five young German players compete with five strong International players, and in the NC (No Castling) Masters Vladimir Kramnik and Vishy will play a match. Today, Wednesday, 14 July, round two of the Grand Prix starts at 10:00 CEST (4 am ET, 8:00 UTC), round three will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will also start their first No Castling game at 16:00 CEST. Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
          "pubDate" : "Wed, 14 Jul 2021 13:24:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy live"
+         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84408343.cms\" />The FIDE Online Chess Olympiad 2021 will be held between August 13 to September 15, the International Chess Federation (FIDE) announced. Each national federation intending to take part in the Online Olympiad shall confirm its participation by July 31, it said. The first FIDE Online Olympiad held last year was jointly won by India and Russia.",
@@ -296,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1204",
          "pubDate" : "Mon, 12 Jul 2021 22:00:50 +0000",
          "title" : "Shri Ram College of Commerce clinches the title"
-      },
-      {
-         "description" : "Plenty of exciting games were seen on the first day of action at the World Cup in Sochi. Here we present a list of upsets from both the open and women's events. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Mon, 12 Jul 2021 22:25:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "",
@@ -906,14 +962,6 @@ news_feed (
          "title" : "No-Castling Chess Between Kramnik and Anand, Starting July 14"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1194\">announced a partnership</a> dedicated to the global development of youth chess with the mining company <strong>Nornickel</strong>, formerly known as Nickel Norilsk, whose main shareholder <a href=\"https://en.wikipedia.org/wiki/Vladimir_Potanin\"><strong>Vladimir Potanin</strong></a> is a chess lover, Russia's richest man and has excellent relations with President Putin. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/russias-richest-sponsors-fide/",
-         "pubDate" : "Fri, 09 Jul 2021 07:28:43 +0100",
-         "title" : "Russia's richest sponsors FIDE"
-      },
-      {
          "description" : " Last week, we started looking at the fork, another tactic the beginner should have in his or her chess player's tool box. A fork occurs when one pawn or piece attacks two or more pawns or pieces simultaneously (at the same time). Any member of your army can employ a fork, even the pawn and <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\">A Foundation for Beginners Twenty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1168,14 +1216,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/combinations-from-the-french-top-12",
          "pubDate" : "Wed, 07 Jul 2021 08:17:31 +0000",
          "title" : "Combinations from the French Top 12"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Simen Agdestein</strong> is the <a href=\"https://www.sjakk.no/2021/07/04/simen-agdestein-ny-sjakkpresident/\">new President</a> of the <strong>Norwegian Chess Federation</strong> after beating incumbent <strong>Morten Madsen</strong> with 66:49 votes. Agdestein, who is a chess and football coach, played football professionally until an injury stopped him at 24. He was a top 30 player in the 1990s and later on coached world champion Magnus Carlsen, whose manager Espen is his brother. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/simen-agdestein-leads-norwegian/",
-         "pubDate" : "Wed, 07 Jul 2021 08:42:00 +0100",
-         "title" : "Simen Agdestein leads Norwegian chess"
       },
       {
          "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
@@ -1538,14 +1578,6 @@ news_feed (
          "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
       },
       {
-         "description" : "GM Hou Yifan won the FIDE Chess.com Women&#39;s Speed Chess Championship after beating GM Harika Dronavalli 15-13 in the final on Saturday. Hou clinched the $20,000 first prize in a tight match where she won the final two bullet games. Harika won $12,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hou-yifan-wins-2021-fide-chess-com-womens-speed-chess-championship",
-         "pubDate" : "Sat, 03 Jul 2021 10:24:00 -0700",
-         "title" : "Hou Yifan Wins 2021 FIDE Chess.com Women's Speed Chess Championship"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave has had a roller coaster 2021. A faltering start after resumption in the Candidates Tournament meant Maxime could never catch up with the eventual winner Ian Nepomniachtchi. The disappointment of the Candidates was compounded by a drop in rating points. In an exclusive interview, the French Grandmaster touched upon these topics and much more. | Photo: Nadja Wittmann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1632,14 +1664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1184",
          "pubDate" : "Fri, 02 Jul 2021 20:49:11 +0000",
          "title" : "Carlsen OUT as Aronian hits overtime winner to face Artemiev in final"
-      },
-      {
-         "description" : "The final of the Goldmoney Asian Rapid tournament will be played between GM Levon Aronian and GM Vladislav Artemiev. Both managed to come back from yesterday&#39;s losses as they won their matches today and then also the tiebreaks. As a result, GM Mag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/goldmoney-asian-rapid-semifinals-day-2",
-         "pubDate" : "Fri, 02 Jul 2021 13:45:00 -0700",
-         "title" : "Goldmoney Asian Rapid: Winning Comebacks For Aronian, Artemiev"
       },
       {
          "description" : "",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/made-it-abhi-youngest-gm-in-history",
          "pubDate" : "Wed, 30 Jun 2021 20:35:13 +0100",
          "title" : "Made it! Abhi youngest GM in history!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83997101.cms\" /> The youngest Grandmaster in chess a feat held by Russian Sergey Karjakin for almost 19 years was broken by Abhimanyu Mishra on Wednesday night. The American boy, with Indian roots, rewrote that record at 12 years, 4 months and 25 days. \"The match against Leon was tough but a mistake from his end was all that I needed to cross the landmark. I feel just relieved and happy to be able to achieve this feat,\" Abhimanyu told TOI moments after his victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-mishra-becomes-youngest-grandmaster-in-chess-history/articleshow/83997101.cms",
-         "pubDate" : "Wed, 30 Jun 2021 22:59:40 +0530",
-         "title" : "Abhimanyu Mishra becomes youngest Grandmaster in chess history"
       },
       {
          "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-speed-chess-championship-2021-quarterfinals",
          "pubDate" : "Fri, 25 Jun 2021 09:00:00 +0100",
          "title" : "Top female players battle at the Women's Speed Chess Championship"
-      },
-      {
-         "description" : " Last week, we finished our examination of the pin, a great tactic that can change the course of a game. This week, we'll delve into the wonderful world of the fork, another tactic that can be decisive in your play. We will continue our examination of the fork next week in greater detail. This week, <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-four/\">A Foundation for Beginners Twenty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-four/",
-         "pubDate" : "Fri, 25 Jun 2021 07:52:19 +0000",
-         "title" : "A Foundation for Beginners Twenty Four"
       },
       {
          "description" : " Ian Nepomniachtchi's Berlin Wall novelty makes Garry Kasparov want to turn the clock back to 2000 Starting at midday on Saturday, Magnus Carlsen will take on in succession: first, the 18-year-old widely tipped as a future world champion; second, the world No 1 woman; and third, the reigning US champion who has become Carlsen's main rival for first place in the online Meltwater Champions Tour. All three games can be viewed online, free and live with grandmaster and computer commentaries on the <a href=\"https://chess24.com/en\" title=\"\">Chess24.com playzone</a>. The event, the Goldmoney Asian Rapid, is the seventh of nine qualifiers before the Tour final in September-October. The prize pool is",
