@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
+         "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
+         "title" : "So Many Practical Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. recognizing patterns 2021.07.13<br /> Mikola1000 vs. dorhinj1, ???<br /> Aakaash Meduri vs. Caleb Denby, 2021<br /> Chessbolt.com<br /> Listudy.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
+         "title" : "How to Use Tactics Puzzles to Improve | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,22 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-focused-on-world-cup/articleshow/84269963.cms",
          "pubDate" : "Fri, 09 Jul 2021 20:09:04 +0530",
          "title" : "Harika focused on World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-2-0",
-         "pubDate" : "Fri, 09 Jul 2021 13:39:11 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-3",
-         "pubDate" : "Fri, 09 Jul 2021 13:39:11 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Day 3"
       },
       {
          "description" : "After five rounds at the Croatian leg of the Grand Chess Tour, Ian Nepomniachtchi had a 2-point lead in the standings table (a win is worth 2 points in this phase of the event). But then local representative Ivan Saric defeated the leader in a beautiful game. Nepomniachtchi remains in first place, nevertheless. | Photo: Lennart Ootes",
@@ -2352,14 +2352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/guildford-chess-club-is-125-years-old/",
          "pubDate" : "Wed, 23 Jun 2021 10:49:17 +0000",
          "title" : "Guildford Chess Club is 125 years old!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1163",
-         "pubDate" : "Tue, 22 Jun 2021 23:44:15 +0000",
-         "title" : "Wesley So wins 2021 Paris Grand Chess Tour"
       }
    ]
 }
