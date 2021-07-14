@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Omilia, Slovenia on Sunday 14th November 2021. The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2021/",
+         "pubDate" : "Wed, 14 Jul 2021 14:44:35 +0000",
+         "title" : "ECU General Assembly 2021"
+      },
+      {
+         "description" : "The Arbitration Tribunal for Sport of the Polish Olympic Committee has overturned WFM Patrycja Waszczuk&#39;s two-year ban from chess for alleged cheating. According to her lawyer, the now 18-year-old Waszczuk was deprived of the right of defense and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ban-lifted-in-alleged-polish-cheating-case",
+         "pubDate" : "Wed, 14 Jul 2021 07:27:59 -0700",
+         "title" : "Ban Lifted In Alleged Polish Cheating Case"
+      },
+      {
+         "description" : "Yesterday, 13 July 2021, the 48th Schachtage Dortmund began in Dortmund's Westfalenhalle. In the opening round of the Deutschland Grand Prix the young German Dmitrij Kollars (pictured) defeated the even younger German Vincent Keymer. Pavel Eljanov (against Andreas Heimann) and Daniel Fridman (against Mateusz Bartel) also won their games. | Photos and video: The Organiser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-an-entertaining-start",
+         "pubDate" : "Wed, 14 Jul 2021 14:58:56 +0100",
+         "title" : "Dortmund: An entertaining start"
+      },
+      {
+         "description" : " After last years Online Olympiad proved quite popular, FIDE are organising another Online Olympiad this year. Even with this year not being an Olympiad 'year' it does make sense to organise such an event, as this may become the norm post-covid anyway. It will run from the 13th August to the 15th September and will use the same format as last year. Each division will be a mix of seeded teams plus teams that qualified from the lower division. The top 8 teams from Division 1 will then play a KO final to determine a winner (or winners!). The tournament will be hosted on chess.com. Further details can be found at https://www.fide.com/news/1206 (** I will be a paid official at this event **) <br ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-online-olympiad.html",
+         "pubDate" : "Wed, 14 Jul 2021 13:43:00 +0000",
+         "title" : "2021 Online Olympiad"
+      },
+      {
+         "description" : "Day 2 of the first round at the World Cup and Women's World Cup in Sochi saw 12 players winning on demand to take their matches to tiebreakers. Those are not the only confrontations that are to be decided in rapid and blitz chess, though, as 16 other matches finished with both games drawn. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d2",
+         "pubDate" : "Wed, 14 Jul 2021 14:20:00 +0100",
+         "title" : "World Cup: Twelve players bounce back"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Wed, 14 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
          "description" : "The Grandmaster Tournament in Dortmund has a long tradition but in 2021 the organisers come up with fresh ideas. In the Grand Prix Tournament five young German players compete with five strong International players, and in the NC (No Castling) Masters Vladimir Kramnik and Vishy will play a match. Today, Wednesday, 14 July, round two of the Grand Prix starts at 10:00 CEST (4 am ET, 8:00 UTC), round three will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will also start their first No Castling game at 16:00 CEST. Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
          "pubDate" : "Wed, 14 Jul 2021 13:24:20 +0100",
          "title" : "Dortmund Sparkassen Chess Trophy live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84408343.cms\" />The FIDE Online Chess Olympiad 2021 will be held between August 13 to September 15, the International Chess Federation (FIDE) announced. Each national federation intending to take part in the Online Olympiad shall confirm its participation by July 31, it said. The first FIDE Online Olympiad held last year was jointly won by India and Russia.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/second-online-chess-olympiad-from-august-13-says-fide/articleshow/84408343.cms",
+         "pubDate" : "Wed, 14 Jul 2021 17:25:55 +0530",
+         "title" : "Second Online Chess Olympiad from August 13, says FIDE"
       },
       {
          "description" : "The 12 player Indian contingent comprising 8 men and 4 women had a smooth sailing, with 11 out of 12 Indians sailing to the round",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "FIDE World Cup 1.2: 80 players out, 28 tiebreaks"
       },
       {
-         "description" : "19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup will be decided in tiebreaks on Wednesday. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup ...",
+         "description" : "Tiebreaks on Wednesday will decide 19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup can be ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-game-2",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/13/mdlvls44g924oxyqh37dea4d2vbje8",
          "pubDate" : "Tue, 13 Jul 2021 13:05:33 +0000",
          "title" : "Episode 234- GM Jonathan Levitt "
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Tue, 13 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "Pia Cramling had the best start at the Swedish Championships in Helsingborg, but she could not keep up the pace. This allowed the young (born in 2002) IM Jung Min Seo to catch up and to become Swedish Champion 2021. | Photo: Swedish Chess Federation",
@@ -1602,14 +1650,6 @@ news_feed (
          "title" : "Hou Yifan reaches the final"
       },
       {
-         "description" : "The final of the FIDE Chess.com Women&#39;s Speed Chess Championship will be played between GM Hou Yifan&#38;nbsp;and&#38;nbsp;GM Harika Dronavalli. In the second semifinal on Friday, Hou defeated her compatriot GM Lei Tingjie 11.5-9.5. The final will take ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-speed-chess-championship-hou-yifan-lei-tingjie",
-         "pubDate" : "Fri, 02 Jul 2021 13:08:00 -0700",
-         "title" : "Women's Speed Chess Championship: Hou Qualifies For Saturday Final With Harika"
-      },
-      {
          "description" : " Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master (9 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1856,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/abhimanyu-mishra-becomes-youngest-grandmaster-in-chess-history/articleshow/83997101.cms",
          "pubDate" : "Wed, 30 Jun 2021 22:59:40 +0530",
          "title" : "Abhimanyu Mishra becomes youngest Grandmaster in chess history"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/83993708.cms\" />Two thrilling blitz chess playoffs decided the Goldmoney Asian Rapid semifinal line-up as Magnus Carlsen survived a fierce comeback. The World Champion finally overcame two-time US champ Wesley So after the man dubbed the \"Comeback King\" launched a nerveless rearguard action to level the match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-carlsen-prevails-over-wesley-so/articleshow/83993708.cms",
-         "pubDate" : "Wed, 30 Jun 2021 21:48:07 +0530",
-         "title" : "Goldmoney Asian Rapid: Carlsen prevails over Wesley So"
       },
       {
          "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
@@ -2312,38 +2344,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
          "pubDate" : "Thu, 24 Jun 2021 08:00:07 +0000",
          "title" : "ChessFest in Trafalgar Square 18th July"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look how Maxime Vachier-Lagrave won a fine positional and attacking game in a popular opening line against Teimour Radjabov at the Grand Chess Tournament in Paris. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-vachier-lagrave-vs-radjabov",
-         "pubDate" : "Wed, 23 Jun 2021 18:00:00 +0100",
-         "title" : "Game of the Week: Vachier-Lagrave vs Radjabov"
-      },
-      {
-         "description" : "The new edition of one of our favourite books, by problemist Werner Keym, now contains 400 famous examples of brilliant games, remarkable, sometimes outrageous studies, and preposterous chess problems. The book includes a lot of subsidiary diagrams that makes it particularly easy to read. We bring you a number of entertaining examples: for instance, can you find a forced mate in two in this position? There is only one key move that will do it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anything-but-average",
-         "pubDate" : "Wed, 23 Jun 2021 17:00:00 +0100",
-         "title" : "Anything But Average"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1164",
-         "pubDate" : "Wed, 23 Jun 2021 15:24:19 +0000",
-         "title" : "Budapest Chess Olympiad 2024: The contract is signed"
-      },
-      {
-         "description" : "European Union Youth Chess Championship 2021 will take place from 13th-22nd August 2021, in Kouty nad Desnou, Czech Republic. The event will be played in 4 age categories: U8, U10, U12 and U14, according to a Swiss system in 9 rounds, with time control of 90 min for the whole game + 30 sec increase for each move&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-union-youth-chess-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2021/",
-         "pubDate" : "Wed, 23 Jun 2021 14:54:44 +0000",
-         "title" : "European Union Youth Chess Championship 2021"
       }
    ]
 }
