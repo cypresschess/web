@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-painful-losses-for-kasparov-in-the-najdorf",
+         "pubDate" : "Thu, 15 Jul 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Painful losses for Kasparov in the Najdorf"
+      },
+      {
+         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on three days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Thu, 15 Jul 2021 15:55:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
+      },
+      {
+         "description" : " Smothered mates in the opening usually occur when a knight makes it to d6 or d3. It certainly happened in this game, but in a small twist, all 32 pieces were still on the board when it did. <br /> <b>chesspatzer46 - brojangled</b><br />chess.com <script>new PgnViewer( { boardName: \"game1258\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 Nce7 5. O-O a6 6. Be2 Nf6 7. e5 Nfd5 8. Ne4 b6 9. Nd6# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1258-container\"></div><div id=\"game1258-moves\"></div><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/a-familiar-theme-with-twist.html",
+         "pubDate" : "Thu, 15 Jul 2021 13:31:00 +0000",
+         "title" : "A familiar theme - with a twist"
+      },
+      {
+         "description" : "Two matches - out of the 28 that went to playoffs in round 1 - reached the third set of tiebreaker games at the World Cups in Sochi: in the open, Neuris Delgado knocked out Niaz Murshed, while in the women's section, Gulnar Mammadova eliminated Mai Narva in the longest matches of the inaugural round. Youngsters Volodar Murzin (14 y.o., pictured), Gukesh (15), Nurgyul Salimova (18) and Jennifer Yu (18) also made it through to round 2 on Wednesday. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d3",
+         "pubDate" : "Thu, 15 Jul 2021 14:00:00 +0100",
+         "title" : "World Cup: The big guns are coming"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). Read the full report on Day 3 of the first round. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Thu, 15 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1210",
+         "pubDate" : "Thu, 15 Jul 2021 12:42:22 +0000",
+         "title" : "International Children and Youth Chess Festival \"Rudaga - Kaissa 2021 Online\" kicks off on July 23"
+      },
+      {
+         "description" : "The FIDE World Cup 2021 kicked off in Sochi, Russia. The event takes place from 10 July 8 August 2021 at the Galaxy Entertainment And Leisure Complex. Of the 309 qualified players in the Open and Women's groups, there were only 8 justified nonappearances, essentially due to travel-related problems. The event opened with an []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2021-top-players-join-the-fights/",
+         "pubDate" : "Thu, 15 Jul 2021 12:00:56 +0000",
+         "title" : "FIDE WORLD CUP 2021 - Top seeds join the fights"
+      },
+      {
+         "description" : "World No.5 Levon Aronian forfeited the first game of the FIDE World Cup. Aronian should have debuted in the 2021 FIDE World Cup, starting the competition from the round 2. However, it has been decided that Levon will not come to game 1 as he had symptoms of fever. &#8220;Even though Aronian feels well now, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-forfeits-the-1st-game-at-the-fide-world-cup-tweetoftheday/",
+         "pubDate" : "Thu, 15 Jul 2021 11:53:00 +0000",
+         "title" : "Aronian forfeits the 1st game at the FIDE World Cup #TweetOftheDay"
+      },
+      {
          "description" : "Wednesday afternoon \"No Castling\" chess premiered at the highest level in Dortmund's Westfalenhalle. In the first game of their \"No Castling\" match Vishy Anand and Vladimir Kramnik engaged in an uncompromising fight in which Anand eventually had the better of it. In the Deutschland Grand Prix Dmitrij Kollars and Pavel Eljanov share the lead with 2.5/3 each, but the big news of the day was the torrential rain that currently is causing havoc in large parts of Germany and also affected the players in the Westfalenhalle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +112,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fide-world-cup-1-3-14-year-old-volodar-murzin-scores-upset-win",
          "pubDate" : "Thu, 15 Jul 2021 09:26:14 +0000",
          "title" : "FIDE World Cup 1.3: 14-year-old Volodar Murzin in upset win"
-      },
-      {
-         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on three days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Thu, 15 Jul 2021 09:55:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
       },
       {
          "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
@@ -2338,14 +2394,6 @@ news_feed (
          "title" : "Lagno beats Dzagnidze to advance into semis"
       },
       {
-         "description" : "This week, the well-known Dutch trainer Robert Ris takes a look how Maxime Vachier-Lagrave won a spectacular game against Ian Nepomniachtchi and the French Defense. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-mvl-beats-the-french",
-         "pubDate" : "Thu, 24 Jun 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: MVL beats the French"
-      },
-      {
          "description" : " The final of the 2nd Katara International Bullet Tournament took place on Lichess on 23rd June. Vladislav Artemiev survived a strong comeback from Andrew Tang to win the final 7.5-6.5. Tang had earlier defeated defending champion Magnus Carlsen in the Semifinals, Artemiev saw off Alexander Grischuk convincingly. The event was a 16 player knockout.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2360,30 +2408,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/french-team-championship-top-12-2021",
          "pubDate" : "Thu, 24 Jun 2021 20:52:00 +0400",
          "title" : "French Team Championship Top 12 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1165",
-         "pubDate" : "Thu, 24 Jun 2021 14:57:29 +0000",
-         "title" : "Latvia to stage the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
-      },
-      {
-         "description" : " GM Pontus Carlsson GM Pontus Carlsson has told The Chess Drum that he was at a tournament in Spain where the others did not believe he was a chess player. After not taking him seriously, he promptly won all of the games. He overheard one of the players saying &#8220;The Black guy is playing good!&#8221; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/\">Pontus Carlsson wins 2021 Prague Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/24/pontus-carlsson-wins-2021-prague-blitz/",
-         "pubDate" : "Thu, 24 Jun 2021 13:05:52 +0000",
-         "title" : "Pontus Carlsson wins 2021 Prague Blitz!"
-      },
-      {
-         "description" : " The draw for the 2021 World Cup has been published, although the new format leaves it looking a little weird. The top 50 players now get seeded into round 2, but they are included in the first round (all paired against Bye). After that it becomes a normal 128 player knockout. Possibly the changes have encouraged Magnus Carlsen to play this year, although a number of players in the top 20 are missing, although the cause is likely to be connected to travel difficulties. Such difficulties resulted in the top 3 qualifiers from the Oceania Zonal pulling out, and our spot now goes to CM Elmer Prudente from Guam. The short notice has not done him any favours, and he is running a gofundme campaign ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/2021-world-cup-draw-announced.html",
-         "pubDate" : "Thu, 24 Jun 2021 12:21:00 +0000",
-         "title" : "2021 World Cup draw announced"
       }
    ]
 }
