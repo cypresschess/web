@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84434304.cms\" />Playing with white pieces, Anand took 66 moves to beat Kramnik in what is the first official game of 'No-Castling' Chess devised by the Russian Grandmaster himself.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-defeats-vladimir-kramnik-in-no-castling-chess/articleshow/84434304.cms",
+         "pubDate" : "Thu, 15 Jul 2021 12:34:57 +0530",
+         "title" : "Viswanathan Anand defeats Vladimir Kramnik in No-Castling Chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Alireza Firouzja&#039;s game as Black against Aryan Tari from Norway Chess 2020. This is a preview of a chapter from her book &quot;Your Jungle Guide to Unbalance Your Opponent,&quot; co-authored with her brother Borna. 2021.07.14<br /> Aryan Tari vs Alireza Firouzja, Norway Chess (2020): B13 Caro-Kann, exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2010705\">https://www.chessgames.com/perl/chessgame?gid=2010705</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nihal-sarin-wins-silver-lake-open",
          "pubDate" : "Thu, 01 Jul 2021 12:05:17 +0100",
          "title" : "Nihal Sarin wins Silver Lake Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84016729.cms\" />Reigning women's world rapid chess champion Koneru Humpy has been nominated for the prestigious Rajiv Gandhi Khel Ratna award by the All India Chess Federation (AICF).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-nominates-koneru-humpy-for-khel-ratna-award/articleshow/84016729.cms",
-         "pubDate" : "Thu, 01 Jul 2021 15:42:41 +0530",
-         "title" : "AICF nominates Koneru Humpy for Khel Ratna award"
       },
       {
          "description" : "This week Merijn van Delft takes a look how Magnus Carlsen surprised Peter Svidler - and chess fans around the world - with an unusual move in the starting position of the Najdorf Sicilian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
