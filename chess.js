@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1212",
+         "pubDate" : "Thu, 15 Jul 2021 21:46:11 +0000",
+         "title" : "Severino and Mendoza win Asian Chess Championship for Players with Disabilities"
+      },
+      {
+         "description" : "Chess.com is excited to announce this year&#39;s second annual ChessKid Youth Speed Chess Championship, kicking off on July 17 and 18! Eight of the best young chess prodigies in the world (age 10 or under as of January 1, 2021) will go toe-to-toe in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesskid-2021-youth-speed-chess-championship",
+         "pubDate" : "Thu, 15 Jul 2021 13:37:32 -0700",
+         "title" : "Announcing The Second Annual ChessKid Youth Speed Chess Championship Starting July 17"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1211",
+         "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
+         "title" : "Day 04: Magnus Carlsen debuts with a technical win"
+      },
+      {
          "description" : " That is the subtitle of <a href=\"https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html\">this NY Times article</a>, which is something less than a heartwarming tale of hard work and talent resulting in amazing records. Was Sergei Karjakin's last GM norm tainted by bribery? The authors present plenty of allegations to that effect, though they stop short of making an outright claim. The authors do not allege any chicanery in the case of Abhimany Mishra's recently earned grandmaster title, but certainly suggest that the Budapest chess scene in which he earned his norms is something of a title factory, with largely unmotivated, over-the-hill players making norm aspira",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1570,14 +1594,6 @@ news_feed (
          "title" : "Proposals to change FIDE's rating and title regulations"
       },
       {
-         "description" : "GM Arjun Erigaisi beat GM Kirill Shevchenko on Sunday in the second match in the round of 16 in the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-erigaisi-beats-shevchenko",
-         "pubDate" : "Mon, 05 Jul 2021 02:34:00 -0700",
-         "title" : "Junior Speed Chess Championship: Erigaisi Beats Shevchenko"
-      },
-      {
          "description" : " From the publisher: &#8220;After his first two most successful volumes of Chess Middlegame Strategies, Ivan Solokov explores in his final volume ideas related to the symbiosis of the strategic and dynamic elements of chess. He combined the most exceptional ideas, strategies and positional play essentials. These three volumes will give you a serious head start <a href=\"http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Middlegame Strategies Strategy Meets Dynamics, Volume 3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://british",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2384,14 +2400,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jun/25/chess-carlsen-takes-on-no-1-junior-no-1-woman-and-no-1-rival-on-same-afternoon",
          "pubDate" : "Fri, 25 Jun 2021 07:00:19 +0000",
          "title" : "Chess: Carlsen takes on No 1 junior, No 1 woman and No 1 rival on same afternoon"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1166",
-         "pubDate" : "Thu, 24 Jun 2021 21:09:46 +0000",
-         "title" : "Lagno beats Dzagnidze to advance into semis"
       }
    ]
 }
