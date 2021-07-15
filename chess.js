@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84434304.cms\" />Playing with white pieces, Anand took 66 moves to beat Kramnik in what is the first official game of 'No-Castling' Chess devised by the Russian Grandmaster himself.",
+         "description" : "14-year-old IM Volodar Murzin looked shocked, then thrilled, then determined as he checkmated 44-year-old Viorel Iordachescu to qualify for a Round 2 clash with fellow Russian Vladislav Artemiev. The FIDE World Cup Round 1 tiebreaks largely saw the favourites win, but English IM Ravi Haria convincingly outplayed Russian GM Vadim Zvjaginsev, while Egyptian no. 9 Abdelrahman Hesham beat Egyptian no. 2 Ahmed Adly. Magnus Carlsen, Fabiano Caruana, Aleksandra Goryachkina and all the other top seeds now join the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-3-14-year-old-volodar-murzin-scores-upset-win",
+         "pubDate" : "Thu, 15 Jul 2021 09:26:14 +0000",
+         "title" : "FIDE World Cup 1.3: 14-year-old Volodar Murzin scores upset win"
+      },
+      {
+         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on several days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Thu, 15 Jul 2021 09:55:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
+      },
+      {
+         "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-1-tiebreak-murzin",
+         "pubDate" : "Thu, 15 Jul 2021 01:22:00 -0700",
+         "title" : "14-Year-Old Murzin Reaches Round 2 FIDE World Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1209",
+         "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
+         "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84434304.cms\" />Former world champion Viswanathan Anand defeated Russian Grandmaster Vladimir Kramnik in the first game of their four-game match for the Sparkassen Trophy here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-defeats-vladimir-kramnik-in-no-castling-chess/articleshow/84434304.cms",
@@ -62,8 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-broadcast-rights-fide-events-2023",
-         "pubDate" : "Wed, 14 Jul 2021 10:23:59 -0700",
-         "title" : "Chess.com Acquires Broadcast Rights For Major FIDE Events Thru 2023"
+         "pubDate" : "Wed, 14 Jul 2021 10:23:00 -0700",
+         "title" : "Chess.com Acquires Broadcast Rights For Major FIDE Events Through 2023"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1194\">announced a partnership</a> dedicated to the global development of youth chess with the mining company <strong>Nornickel</strong>, formerly known as Nickel Norilsk, whose main shareholder <a href=\"https://en.wikipedia.org/wiki/Vladimir_Potanin\"><strong>Vladimir Potanin</strong></a> is a chess lover, was Russia's richest man until recently and has excellent relations with President Putin. </div> ",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d2",
          "pubDate" : "Wed, 14 Jul 2021 14:20:00 +0100",
          "title" : "World Cup: Twelve players bounce back"
-      },
-      {
-         "description" : "The Grandmaster Tournament in Dortmund has a long tradition but in 2021 the organisers come up with fresh ideas. In the Grand Prix Tournament five young German players compete with five strong International players, and in the NC (No Castling) Masters Vladimir Kramnik and Vishy will play a match. Today, Wednesday, 14 July, round two of the Grand Prix starts at 10:00 CEST (4 am ET, 8:00 UTC), round three will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will also start their first No Castling game at 16:00 CEST. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Wed, 14 Jul 2021 13:24:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84408343.cms\" />The FIDE Online Chess Olympiad 2021 will be held between August 13 to September 15, the International Chess Federation (FIDE) announced. Each national federation intending to take part in the Online Olympiad shall confirm its participation by July 31, it said. The first FIDE Online Olympiad held last year was jointly won by India and Russia.",
@@ -1466,28 +1490,12 @@ news_feed (
          "title" : "A few reflections more (and a cocktail of Caissists)"
       },
       {
-         "description" : "Levon Aronian needed just two games and under an hour and a half of play to clinch victory over Vladislav Artemiev and take the $30,000 top prize in the Goldmoney Asian Rapid. Levon's spectacular final win was a fitting end to an event where he'd also won the Preliminary stage, to take home the maximum number of tour points. The fight for 3rd place was also one-sided, but with a twist. Ding Liren hit back to win the second day's rapid chess 3:0 before Magnus Carlsen took over in blitz to clinch the match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/levon-aronian-cruises-to-goldmoney-asian-rapid-victory",
-         "pubDate" : "Sun, 04 Jul 2021 21:34:00 +0000",
-         "title" : "Levon Aronian cruises to Goldmoney Asian Rapid victory"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1187",
          "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
          "title" : "Aronian wins his first Meltwater Chess Masters title"
-      },
-      {
-         "description" : "On a somewhat anticlimactic last day, GM Levon Aronian won the Goldmoney Asian Rapid final rather quickly. Needing just two game points, Aronian defeated GM Vladislav Artemiev twice to clinch the $30,000 first prize after an hour and 25 minutes of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-wins-goldmoney-asian-rapid",
-         "pubDate" : "Sun, 04 Jul 2021 08:44:00 -0700",
-         "title" : "Aronian Wins Goldmoney Asian Rapid"
       },
       {
          "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand beat Dominguez in the final match. A 2-2 tie in the rapid games meant it would all come down to the blitz tiebreakers. After a draw in the first 5-minute game, Gelfand managed to convert a rook vs bishop endgame to get tournament victory. | Replay the games with computer analysis.",
@@ -2352,14 +2360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/international-top-players-take-part-in-french-team-championship",
          "pubDate" : "Thu, 24 Jun 2021 11:33:57 +0100",
          "title" : "International top players take part in French Team Championship"
-      },
-      {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Thu, 24 Jun 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
       }
    ]
 }
