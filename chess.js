@@ -2,15 +2,55 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wednesday afternoon \"No Castling\" chess premiered at the highest level in Dortmund's Westfalenhalle. In the first game of their \"No Castling\" match Vishy Anand and Vladimir Kramnik engaged in an uncompromising fight in which Anand eventually had the better of it. In the Deutschland Grand Prix Dmitrij Kollars and Pavel Eljanov share the lead with 2.5/3 each, but the big news of the day was the torrential rain that currently is causing havoc in large parts of Germany and also affected the players in the Westfalenhalle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nc-masters-in-dortmund-anand-starts-with-a-win",
+         "pubDate" : "Thu, 15 Jul 2021 11:36:28 +0100",
+         "title" : "NC Masters in Dortmund: Anand starts with a win"
+      },
+      {
+         "description" : "Gukesh advanced to round 2 with a very convincing victory over IM Teclaf,Pawel from Poland in the tie-breaks. In a complex middlegame, Gukesh ensured that",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gukesh-advances-to-round-2-of-world-cup/",
+         "pubDate" : "Thu, 15 Jul 2021 10:03:36 +0000",
+         "title" : "Gukesh advances to Round 2 of World Cup"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen is the recipient of the 2020 Fair Play Svetozar Gligoric award. The Norwegian will receive his trophy today, minutes before his debut game at the 2021 FIDE World Cup in Sochi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-s-act-of-sportsmanship-vs-ding-wins-fide-award",
+         "pubDate" : "Thu, 15 Jul 2021 09:58:27 +0000",
+         "title" : "Carlsen's act of sportsmanship vs Ding wins FIDE award"
+      },
+      {
+         "description" : "The ECF was due to organise a live board workshop on 11th April, 2020. Finally we have been able to rearrange this, this time for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/live-board-setup-workshop/",
+         "pubDate" : "Thu, 15 Jul 2021 09:41:04 +0000",
+         "title" : "Live Board Setup workshop"
+      },
+      {
+         "description" : "As they emerge from pandemic restrictions and start over-the-board chess again, Peterborough Chess Club would like to see as many chess players as possible at...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/peterborough-chess-club-silver-queen/",
+         "pubDate" : "Thu, 15 Jul 2021 09:33:04 +0000",
+         "title" : "Peterborough Chess Club Silver Queen"
+      },
+      {
          "description" : "14-year-old IM Volodar Murzin looked shocked, then thrilled, then determined as he checkmated 44-year-old Viorel Iordachescu to qualify for a Round 2 clash with fellow Russian Vladislav Artemiev. The FIDE World Cup Round 1 tiebreaks largely saw the favourites win, but English IM Ravi Haria convincingly outplayed Russian GM Vadim Zvjaginsev, while Egyptian no. 9 Abdelrahman Hesham beat Egyptian no. 2 Ahmed Adly. Magnus Carlsen, Fabiano Caruana, Aleksandra Goryachkina and all the other top seeds now join the event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/fide-world-cup-1-3-14-year-old-volodar-murzin-scores-upset-win",
          "pubDate" : "Thu, 15 Jul 2021 09:26:14 +0000",
-         "title" : "FIDE World Cup 1.3: 14-year-old Volodar Murzin scores upset win"
+         "title" : "FIDE World Cup 1.3: 14-year-old Volodar Murzin in upset win"
       },
       {
-         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on several days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
+         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on three days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
@@ -1210,14 +1250,6 @@ news_feed (
          "title" : "Serbia Open: Kovalenko and Nihal in the lead"
       },
       {
-         "description" : "The list of players registered for World Youth &#38; Cadet Championship (all categories) is appended below:- In case any player who registered and his/her name",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attention-world-youth-cadet-online-championship-list-of-all-categories/",
-         "pubDate" : "Wed, 07 Jul 2021 13:59:22 +0000",
-         "title" : "KIND ATTENTION : WORLD YOUTH & CADET ONLINE CHAMPIONSHIP LIST OF ALL CATEGORIES"
-      },
-      {
          "description" : "Aleksandra Goryachkina has qualified to play in the \"men's\" Russian Championship Superfinal after finishing 3rd in the Higher League with a brilliant 6.5/9. 22-year-old Aleksandra, the reigning Russian Women's Champion, scored a perfect 5/5 with the white pieces as she climbed to 2610.5 on the live rating list, the 4th highest female rating of all time. Russian Women's Championship runner-up Polina Shuvalova also starred as she finished 14th, picking up 18 rating points to storm into the 2500 club.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1400,14 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-magic-knight",
          "pubDate" : "Tue, 06 Jul 2021 09:00:00 +0100",
          "title" : "A magic knight"
-      },
-      {
-         "description" : "Renowned Russian chess coach Yury Dokhoian was buried today in the Nikolo-Khovanskoye cemetery near Moscow after dying from COVID-19 on July 1st at the age of just 56. Sergey Karjakin, who was coached by Dokhoian from 2009-2020, and 18-year-old Andrey Esipenko, his latest prot&eacute;g&eacute;, attended the funeral. Yury was a strong chess player, but was best known as Garry Kasparov's second for the last decade of his career, before going on to coach the Kosintseva sisters and head the Russian women's and men's teams.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/karjakin-and-esipenko-pay-tribute-to-their-coach-yury-dokhoian-1964-2021",
-         "pubDate" : "Mon, 05 Jul 2021 21:43:48 +0000",
-         "title" : "Karjakin and Esipenko pay tribute to their coach Yury Dokhoian (1964-2021)"
       },
       {
          "description" : "Bischwiller claimed their third consecutive French club championship title by winning the 2021 edition of 'Top 12' in Chalons en Champagne. Led by French Grandmaster Etienne Bacrot, the club scored an impressive 10 wins and a draw in the 11-round event to claim 32 points, three ahead of the runners-up Asnieres. | Pictured: Marie Sebag (left) of Bischwiller defeated Pauline Guichard of Asnieres in their round-5 match",
@@ -1872,6 +1896,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
          "pubDate" : "Thu, 01 Jul 2021 09:56:00 +0000",
          "title" : "2022 FIDE Grand Prix Series Announced"
+      },
+      {
+         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
+         "pubDate" : "Thu, 01 Jul 2021 08:00:07 +0000",
+         "title" : "ChessFest in Trafalgar Square 18th July"
       },
       {
          "description" : "Two of the four quarterfinal matches at the Goldmoney Asian Rapid tournament were decided on tiebreaks. After winning the first set and the first game of the second set, it seemed like Magnus Carlsen was going to have an easy day at the office, but back-to-back wins by Wesley So meant it would all be decided in blitz. The world champion finally moved on to the semis thanks to a win and a draw in the 5-minute games. Levon Aronian also had a tough time against Arjun Erigaisi, but managed to advance, while Vladislav Artemiev and Ding Liren won their matches in the rapid section of the second set. | Photo: Lennart Ootes",
@@ -2352,14 +2384,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/06/2021-world-cup-draw-announced.html",
          "pubDate" : "Thu, 24 Jun 2021 12:21:00 +0000",
          "title" : "2021 World Cup draw announced"
-      },
-      {
-         "description" : "The crème de la crème of French and international chess currently meet in Châlons-en-Champagne in France, where the French Team Championship will be played from 24 June to 4 July. Top Grandmasters such as Fabiano Caruana, Anish Giri, Veselin Topalov, Shakhriyar Mamdyarov, Pentala Harikrishna, Alireza Firozja, Bassem Amin or Jorden van Foreest to name just a few will support their French teams. This afternoon the 1st round will be played.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-top-players-take-part-in-french-team-championship",
-         "pubDate" : "Thu, 24 Jun 2021 11:33:57 +0100",
-         "title" : "International top players take part in French Team Championship"
       }
    ]
 }
