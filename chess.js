@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Alireza Firouzja&#039;s game as Black against Aryan Tari from Norway Chess 2020. This is a preview of a chapter from her book &quot;Your Jungle Guide to Unbalance Your Opponent,&quot; co-authored with her brother Borna. 2021.07.14<br /> Aryan Tari vs Alireza Firouzja, Norway Chess (2020): B13 Caro-Kann, exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2010705\">https://www.chessgames.com/perl/chessgame?gid=2010705</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-turns-water-wine-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 15 Jul 2021 01:45:17 +0000",
+         "title" : "Firouzja Turns Water into Wine! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Netflix&#39;s 2020 megahit miniseries The Queen&#39;s Gambit has garnered 18 Emmy nominations, including best Limited Series and best Lead Actress in a Limited Series or Movie for Anya Taylor-Joy&#39;s widely acclaimed performance as Beth Harmon. Thomas Brodi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/queens-gambit-nets-18-emmy-nominations",
-         "pubDate" : "Wed, 14 Jul 2021 14:47:41 -0700",
+         "pubDate" : "Wed, 14 Jul 2021 14:47:00 -0700",
          "title" : "Queen's Gambit Nets 18 Emmy Nominations"
       },
       {
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-garry-kasparov-in-croatia-grand-chess-tour/articleshow/84298534.cms",
          "pubDate" : "Sat, 10 Jul 2021 21:27:12 +0530",
          "title" : "Viswanathan Anand beats Garry Kasparov in Croatia Grand Chess Tour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/20",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-4",
-         "pubDate" : "Sat, 10 Jul 2021 13:39:50 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Day 4"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84295965.cms\" />In a fresh twist to their internal wrangling, All India Chess Federation joint-secretary Atanu Lahiri on Saturday sent a letter to Prime Minister Narendra Modi alleging \"data theft, corruption and misuse of funds\" by secretary Bharat Singh Chauhan.",
