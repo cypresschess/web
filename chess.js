@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " That is the subtitle of <a href=\"https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html\">this NY Times article</a>, which is something less than a heartwarming tale of hard work and talent resulting in amazing records. Was Sergei Karjakin's last GM norm tainted by bribery? The authors present plenty of allegations to that effect, though they stop short of making an outright claim. The authors do not allege any chicanery in the case of Abhimany Mishra's recently earned grandmaster title, but certainly suggest that the Budapest chess scene in which he earned his norms is something of a title factory, with largely unmotivated, over-the-hill players making norm aspira",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/15/when-is-a-grandmasters-title-less-than-grand.html",
+         "pubDate" : "Thu, 15 Jul 2021 17:49:55 +0000",
+         "title" : "When is a grandmaster's title less than grand?"
+      },
+      {
+         "description" : " The match between Viswanathan Anand and Vladimir Kramnik is at the halfway point, and Anand won a very entertaining <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/1\">game 1</a> with White and comfortably held <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/2\">game 2</a> with Black. (Note that 39...Ke5?? was not actually played; it was a DGT \"move\" executed to indicate the drawn result.) ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/15/anand-leads-15-5-in-no-castling-match.html",
+         "pubDate" : "Thu, 15 Jul 2021 17:37:27 +0000",
+         "title" : "Anand Leads 1.5-.5 in No-Castling Match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84450931.cms\" />Indian Grandmasters R Praggnanandhaa and B Adhiban registered wins in the first game of the two-game mini match in the second round of the FIDE chess World Cup here on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-adhiban-win-harikrishna-sarin-held-to-draws/articleshow/84450931.cms",
+         "pubDate" : "Thu, 15 Jul 2021 22:46:59 +0530",
+         "title" : "Chess World Cup: Praggnanandhaa, Adhiban win; Harikrishna, Sarin held to draws"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1882,6 @@ news_feed (
          "title" : "\"Closing Gambit\""
       },
       {
-         "description" : " Another two-stage rapid event is underway, the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a>, which is part of Magnus Carlsen's \"Champions Chess Tour\". It started a few days ago and I'm not going to cover the games this time around, but for those of you who are casual enough in your following of top-level events that you might only now be finding out about it, here's the scoop: The eight (of sixteen) players who made it to the knockout stage were, in order, Levon Aronian, Vladislav Artemiev, Ding Liren, Magnus Carlsen, Wesley So, Jan-Krzysztof Duda, Anish Giri, and Arjun Erigaisi. Pairing order for the k.o. stage has 1 play 8, 2 play 7, etc. In the quarters, Aronian an",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/1/goldmoney-asian-rapid.html",
-         "pubDate" : "Thu, 01 Jul 2021 21:55:43 +0000",
-         "title" : "Goldmoney Asian Rapid"
-      },
-      {
          "description" : "You read it yesterday: the 12-year-ole New Jersey lad Abhimanyu Mishra gained his final GM norm, to become the youngest grandmaster in history. Sagar Shah of ChessBase India spoke to Abhi about the key game, and how he turned tables against his GM opponent; but also about his motivation and his future plans in chess. It is quite revealing to hear this boy speak about his remarkable accomplishments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/oldest-and-youngest.html",
          "pubDate" : "Thu, 01 Jul 2021 14:15:00 +0000",
          "title" : "Oldest and youngest"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84037694.cms\" />Chess legend Viswanathan Anand has congratulated Indian-origin Abhimanyu Mishra on becoming the youngest ever Grandmaster (GM) of the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-congratulates-the-worlds-youngest-chess-gm/articleshow/84037694.cms",
-         "pubDate" : "Thu, 01 Jul 2021 19:08:55 +0530",
-         "title" : "Anand congratulates the world's youngest chess GM"
       },
       {
          "description" : "Nihal Sarin was the dominant player at the Silver Lake Open: the young Indian and reigning U18 World Champion won the tournament with 8.0/9 and a rating performance of 2809. His compatriots Raunak Sadhwani and Abhimanyu Puranik won silver and bronze. | Photo: Rupali Mulick",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
          "pubDate" : "Wed, 30 Jun 2021 15:47:20 -0500",
          "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
-      },
-      {
-         "description" : " Yes, of course, this is always how these things work: I say \"no more blogging for a while\", and then I blog. I hadn't intended to, but this bit of good news came in my email, so here goes: American prodigy Abhimanyu Mishra has broken Sergey Karjakin's surprisingly durable record for the youngest grandmaster ever. Karjakin acquired the record back in 2002 at the age of 12 years and 7 months, shattering Bu Xiangzhi's record of 13 years, 10 months, and 13 days. Since then, many have come close (and eight others players had bested Bu's mark), but only now has the record been broken. Mishra got his third norm and broke the 2500 barrier to earn the grandmaster title, and did so at the ripe old ag",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/6/30/abhimanyu-mishra-grandmaster.html",
-         "pubDate" : "Wed, 30 Jun 2021 20:36:47 +0000",
-         "title" : "Abhimanyu Mishra: Grandmaster!"
       },
       {
          "description" : "",
@@ -2392,22 +2392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1166",
          "pubDate" : "Thu, 24 Jun 2021 21:09:46 +0000",
          "title" : "Lagno beats Dzagnidze to advance into semis"
-      },
-      {
-         "description" : " The final of the 2nd Katara International Bullet Tournament took place on Lichess on 23rd June. Vladislav Artemiev survived a strong comeback from Andrew Tang to win the final 7.5-6.5. Tang had earlier defeated defending champion Magnus Carlsen in the Semifinals, Artemiev saw off Alexander Grischuk convincingly. The event was a 16 player knockout.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/2nd-katara-international-bullet-tournament-2021",
-         "pubDate" : "Thu, 24 Jun 2021 20:57:00 +0400",
-         "title" : "2nd Katara International Bullet Tournament 2021 - Games and Results"
-      },
-      {
-         "description" : " The French Team Championship Top 12 takes place in Chalons en Champagne Thu 24th Jun to Sat 17th Jul 2021. Mamedyarov, Navara, Bacrot, Giri, Grischuk, Wang Hao, Topalov, Adams, Korobov, Jones, Firouzja, Ivanchuk, MVL, Harikrishna, etc are in the team rosters although there are no guarantees as to who of these may actually play. 12 teams 11 rounds,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/french-team-championship-top-12-2021",
-         "pubDate" : "Thu, 24 Jun 2021 20:52:00 +0400",
-         "title" : "French Team Championship Top 12 2021 - Games and Results"
       }
    ]
 }
