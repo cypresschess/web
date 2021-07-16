@@ -87,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-live",
          "pubDate" : "Thu, 15 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
+         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "",
