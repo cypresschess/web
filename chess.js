@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the World Cups kicked off on Thursday, with the top seeds in both sections starting their campaigns after getting byes in the first round. A couple of health-related issues arose on Thursday, as Levon Aronian showed symptoms of fever and withdrew from his game against Bobby Cheng, while later on, with the games already in play, FIDE announced that another player had tested positive for Covid-19. | Pictured: Irine Sukandar | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d1",
+         "pubDate" : "Fri, 16 Jul 2021 13:20:00 +0100",
+         "title" : "World Cup: Health-related issues"
+      },
+      {
+         "description" : "Magnus Carlsen looked sharp as he got off to a winning start against birthday boy Sasa Martinovic on Thursday when the big guns joined the FIDE World Cup, but the chess was overshadowed by turmoil caused by COVID-19. Levon Aronian was forced to forfeit against Bobby Cheng, while Fabiano Caruana's game against Indonesian GM Susanto Megaranto was suddenly stopped midway when test results came back showing Susanto was infected. Fabiano got a win by default, but faces more tests himself.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-1-aronian-forfeits-caruana-in-doubt",
+         "pubDate" : "Fri, 16 Jul 2021 09:41:53 +0000",
+         "title" : "FIDE World Cup 2.1: Aronian forfeits, Caruana in doubt"
+      },
+      {
+         "description" : "After five rounds Pavel Eljanov leads the Deutschland Grand Prix in Dortmund with 4.0/5. On Thursday he won his morning game against Mateusz Bartel and in the afternoon he drew against Daniel Fridman. Vincent Keymer won a fine endgame against Gata Kamsky and Vishy Anand and Vladimir Kramnik drew the second game of their \"No Castling\" match. Chess legend Artur Jussupov made the ceremonial first move. | Photo: Christian L&uuml;nig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy",
+         "pubDate" : "Fri, 16 Jul 2021 10:37:13 +0100",
+         "title" : "Dortmund: Eljanov takes the lead, Kramnik and Anand draw second \"No Castling\" game"
+      },
+      {
+         "description" : " Over the last few weeks, we have examined the fork, specifically how to employ this tactic. This week we will look at the fork from a defensive position. In other words, how do you deal with a fork if you are on the receiving side of this tactic. Defending against a fork can be difficult <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-six/\">A Foundation for Beginners Twenty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ch",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-six/",
+         "pubDate" : "Fri, 16 Jul 2021 09:31:44 +0000",
+         "title" : "A Foundation for Beginners Twenty Six"
+      },
+      {
+         "description" : "Round 6 of the Sparkassen Chess Trophy in Dortmund starts early again, at 10:00 CEST (4 am ET, 8:00 UTC). After five rounds Pavel Eljanov leads the Deutschland Grand Prix with 4.0/5, followed by Dmitrij Kollars with 3.5/5. In round 6 Eljanov plays with White against Ruslan Ponomariov while Kollars has Black against Gata Kamsky. After playing two games of their four-game \"No Castling\" match, Anand and Kramnik take a break today, and will finish the match on Saturday and Sunday. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Fri, 16 Jul 2021 09:40:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy live"
+      },
+      {
+         "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-senior-women-junior-open-junior-girls-online-chess-championships-2021/",
+         "pubDate" : "Fri, 16 Jul 2021 07:59:35 +0000",
+         "title" : "NATIONAL SENIOR, WOMEN, JUNIOR OPEN & JUNIOR GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong>Moroccan Chess Federation</strong> failed to function properly since years, <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1199\">has appointed</a> its Deputy President <strong>Bachar Kouatly</strong> as a Reverse Delegate of the Morrocan Federation to assist in the reconstitution. Arabic is the mother tongue of the former President of the French Chess Federation who has a big network in the Mahgreb. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kouatly-takes-care-of-morrocan-mess/",
+         "pubDate" : "Fri, 16 Jul 2021 08:50:52 +0100",
+         "title" : "Kouatly takes care of Morrocan mess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1213",
+         "pubDate" : "Fri, 16 Jul 2021 07:46:19 +0000",
+         "title" : "Chess.com acquires broadcast for major FIDE events through 2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1206\">announced</a> another <strong>Online Chess Olympiad</strong> for national teams mixed of men and women, adults and juniors and hosted by <strong>Chess.com</strong>. The preliminaries start on 13 August and the final stage will be 13 to 15 September. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/a-second-online-olympiad/",
+         "pubDate" : "Fri, 16 Jul 2021 08:41:09 +0100",
+         "title" : "A second Online Olympiad"
+      },
+      {
          "description" : " The 58-year-0ld former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -64,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-painful-losses-for-kasparov-in-the-najdorf",
          "pubDate" : "Thu, 15 Jul 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Painful losses for Kasparov in the Najdorf"
-      },
-      {
-         "description" : "The Grandmasters who play in the Deutschland Grand Prix in Dortmund have a tough schedule - on three days they have to play two rounds per day. On Thursday, 15 July, round 4 starts at 10:00 CEST (4 am ET, 8:00 UTC), and round five will start at 16:00 CEST (10 am ET, 14:00 UTC). Anand and Kramnik will start their second No Castling game at 16:00 CEST. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Thu, 15 Jul 2021 15:55:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy and NC Masters live"
       },
       {
          "description" : " Smothered mates in the opening usually occur when a knight makes it to d6 or d3. It certainly happened in this game, but in a small twist, all 32 pieces were still on the board when it did. <br /> <b>chesspatzer46 - brojangled</b><br />chess.com <script>new PgnViewer( { boardName: \"game1258\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 Nce7 5. O-O a6 6. Be2 Nf6 7. e5 Nfd5 8. Ne4 b6 9. Nd6# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1258-container\"></div><div id=\"game1258-moves\"></div><br />",
@@ -248,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-broadcast-rights-fide-events-2023",
          "pubDate" : "Wed, 14 Jul 2021 10:23:00 -0700",
          "title" : "Chess.com Acquires Broadcast Rights For Major FIDE Events Through 2023"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1194\">announced a partnership</a> dedicated to the global development of youth chess with the mining company <strong>Nornickel</strong>, formerly known as Nickel Norilsk, whose main shareholder <a href=\"https://en.wikipedia.org/wiki/Vladimir_Potanin\"><strong>Vladimir Potanin</strong></a> is a chess lover, was Russia's richest man until recently and has excellent relations with President Putin. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/russias-richest-sponsors-fide/",
-         "pubDate" : "Wed, 14 Jul 2021 18:20:37 +0100",
-         "title" : "Russia's richest sponsors FIDE"
       },
       {
          "description" : " Covering &#8216;X' was always going to be a challenge so I cheated with some spellings. Several different Exchange Variations are possible, for example in the French (1.e4 e6 2.d4 d5 3.exd5) and Slav (1.d4 d5 2.c4 c6 3.cxd5) Defences. The one I have in mind is the Exchange Variation of the Ruy Lopez with 1.e4 <a href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"X-terminate 'em with the X-change Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\">X-terminate 'em with the X-change Variation</a> appeared first on <a rel=\"nofol",
@@ -738,14 +794,6 @@ news_feed (
          "title" : "Carlsen does the job in Pamplona"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A strong run in the blitz secured <strong>Maxime Vachier-Lagrave</strong> a clear first place at the <strong>Grand Chess Tour Croatia</strong> <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-croatia-grand-chess-tour/recap\">tournament in Zagreb</a>. After the rapid and still after the first day of blitz <strong>Ian Nepomniachtchi</strong> led the field, but the challenger had a poor last day and was also overtaken by Giri and <strong>Vishy Anand</strong> who did very well at 51, while for the seven years older <strong>Garry Kasparov</strong> the age and lack of preparation showed with a meagre 2,5 out of 18 in the blitz. The tour concl",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mvl-wins-gct-croatia/",
-         "pubDate" : "Mon, 12 Jul 2021 03:03:57 +0100",
-         "title" : "MVL wins GCT Croatia"
-      },
-      {
          "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1048,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1196",
          "pubDate" : "Sat, 10 Jul 2021 07:27:29 +0000",
          "title" : "Nepomniachtchi in front after rapid"
-      },
-      {
-         "description" : "All India Chess Federation President Dr Sanjay Kapoor and Secretary Shri Bharat Singh Chauhan along with Chairman of AICF's Chess in School Commission Shri AK",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-shri-anurag-thakur/",
-         "pubDate" : "Sat, 10 Jul 2021 05:44:01 +0000",
-         "title" : "Congratulations Shri Anurag Thakur"
       },
       {
          "description" : " How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level: FM Alex Dunne From the publisher: Surprise yourself and reach higher! This book is based on real amateur games and shows you how an average club player can proceed through the ranks and reach Candidate Master level. Its <a href=\"http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
@@ -1410,14 +1450,6 @@ news_feed (
          "title" : "Goryachkina 1st Woman To Qualify For Russian Championship Superfinal"
       },
       {
-         "description" : "‌The French Top 12, organised by the Châlons-en-Champagne Club under the leadership of Diego Salazar, came to a conclusion on Sunday: Bischwiller won their 3rd title in a row, finishing above Asnières. Clichy completed the podium thanks to a fine match against the Champions of France. We've put together a selection of the best combinations from the French Club Championship!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/combinations-from-the-french-top-12",
-         "pubDate" : "Wed, 07 Jul 2021 08:17:31 +0000",
-         "title" : "Combinations from the French Top 12"
-      },
-      {
          "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1568,14 +1600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/good-news-for-french-players",
          "pubDate" : "Mon, 05 Jul 2021 17:00:00 +0100",
          "title" : "\"Good news for French players!\""
-      },
-      {
-         "description" : "GM Boris Gelfand won the 34th edition of the Leon Masters, held on Chess.com for the second year in a row due to the pandemic. Gelfand beat GM Leinier Dominguez in the blitz tiebreak of the final to win his second Leon title. How to watch?The ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gelfand-wins-34th-leon-masters",
-         "pubDate" : "Mon, 05 Jul 2021 08:05:00 -0700",
-         "title" : "Gelfand Wins 34th Leon Masters"
       },
       {
          "description" : " The credit for the development of the Queen's Gambit as a serious opening is usually (and rightly) given to Harry Pillsbury (at the 1895 Hastings Tournament). As late as the mid 19th century is was regarded as somewhat offbeat, and only merited 13 pages in 'The Chess-Players Handbook\" by Staunton (of which 6 pages were example games). By contrast the King's Gambit ran to 105 pages in the same book, which shows the level of interest analysts had at the time. Nonetheless, in the period between 1847 and 1895 it did get used occasionally, most memorably in the following game between Steinitz and Anderssen. What is strange about this game (which has quite a modern look about it), is that it took",
@@ -2290,14 +2314,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid: Five leaders after five rounds"
       },
       {
-         "description" : " Success at any skill-based activity requires three things: generic attributes and skills (the difference is that you can train skills but not attributes), domain-specific knowledge and domain-specific skills. For example, you might know it's possible to force mate with a bishop and knight against a lone king: that's knowledge. Knowing the mate positions, and that <a href=\"https://chessimprover.com/knowledge-and-skill-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knowledge and Skill\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knowledge-and-skill-2/\">Knowledge and Skill</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/knowledge-and-skill-2/",
-         "pubDate" : "Sun, 27 Jun 2021 09:47:29 +0000",
-         "title" : "Knowledge and Skill"
-      },
-      {
          "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2376,30 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/players-lists-and-full-pairings-of-fide-world-cups-published",
          "pubDate" : "Fri, 25 Jun 2021 13:00:00 +0100",
          "title" : "Players lists and full pairings of FIDE World Cups published"
-      },
-      {
-         "description" : " Since starting my blog I got tons of requests for private Chess Coaching. It makes me very happy to hear that some of you see me as a good fit as your Chess Coach. Sadly, I have to decline all those requests. In this article I want to explain why. Do not get me wrong. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/no-to-coaching/\">The Power Of Focus Or Why I Don't Do Chess Coaching</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/no-to-coaching/",
-         "pubDate" : "Fri, 25 Jun 2021 11:00:00 +0000",
-         "title" : "The Power Of Focus - Or Why I Don't Do Chess Coaching"
-      },
-      {
-         "description" : "The Foreign Desk is a current affairs podcast, and this week's episode is centred around chess and politics. Sometimes art imitates life; some games do...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-foreign-desk-radio-broadcast-26-6-21/",
-         "pubDate" : "Fri, 25 Jun 2021 08:18:58 +0000",
-         "title" : "The Foreign Desk - radio broadcast 26/6/21"
-      },
-      {
-         "description" : "The 2021 Women's Speed Chess Championship has reached its final stages. While Kateryna Lagno already made it into the semis after beating Nana Dzagnidze, six more players, including the likes of Hou Yifan and Anna Muzychuk, are set to play their quarterfinal matches on Friday and Monday. The semifinals are scheduled to take place on July 1-2 while the final match will be played on Saturday, July 3.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-speed-chess-championship-2021-quarterfinals",
-         "pubDate" : "Fri, 25 Jun 2021 09:00:00 +0100",
-         "title" : "Top female players battle at the Women's Speed Chess Championship"
       }
    ]
 }
