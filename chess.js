@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This was an exciting week of chess upsets, and not only because of some lower rated players winning their games in the World Cup. First, chess is being played in Dortmund, with the two veterans Anand, and Kramnik, battling it out, without castling. Second, in the same city, the German Grand Prix takes place, with Pavel Eljanov in top form. Third, the World Cup in Sochi has unfortunate covid cases to deal with. Lawrence Trent also has an anecdote, why he had a hard time to play against a smelly chess opponent, and how he dealt with it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-smelly-chess-opponents-corona-world-cup-and-other-upsets",
+         "pubDate" : "Fri, 16 Jul 2021 17:00:00 +0100",
+         "title" : "News Review - Smelly chess opponents, Corona World Cup, and other upsets"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Padmini Rout | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Fri, 16 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
          "description" : "The second round of the World Cups kicked off on Thursday, with the top seeds in both sections starting their campaigns after getting byes in the first round. A couple of health-related issues arose on Thursday, as Levon Aronian showed symptoms of fever and withdrew from his game against Bobby Cheng, while later on, with the games already in play, FIDE announced that another player had tested positive for Covid-19. | Pictured: Irine Sukandar | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d1",
          "pubDate" : "Fri, 16 Jul 2021 13:20:00 +0100",
          "title" : "World Cup: Health-related issues"
+      },
+      {
+         "description" : "Adhiban scored a resounding victory in just 22 moves over the Cuban GM Neuris Delgado Ramirez to go 1-0 up in the second round of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/adhiban-harika-and-pragg-star/",
+         "pubDate" : "Fri, 16 Jul 2021 11:49:20 +0000",
+         "title" : "Adhiban, Harika and Pragg star"
       },
       {
          "description" : "Magnus Carlsen looked sharp as he got off to a winning start against birthday boy Sasa Martinovic on Thursday when the big guns joined the FIDE World Cup, but the chess was overshadowed by turmoil caused by COVID-19. Levon Aronian was forced to forfeit against Bobby Cheng, while Fabiano Caruana's game against Indonesian GM Susanto Megaranto was suddenly stopped midway when test results came back showing Susanto was infected. Fabiano got a win by default, but faces more tests himself.",
@@ -94,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesskid-2021-youth-speed-chess-championship",
-         "pubDate" : "Thu, 15 Jul 2021 13:37:32 -0700",
+         "pubDate" : "Thu, 15 Jul 2021 13:37:00 -0700",
          "title" : "Announcing The Second Annual ChessKid Youth Speed Chess Championship Starting July 17"
       },
       {
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d3",
          "pubDate" : "Thu, 15 Jul 2021 14:00:00 +0100",
          "title" : "World Cup: The big guns are coming"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). Read the full report on Day 3 of the first round. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Thu, 15 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Games and commentary"
       },
       {
          "description" : "",
@@ -346,7 +362,7 @@ news_feed (
          "title" : "Chess World Cup: Grandmaster D Gukesh enters second round"
       },
       {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Omilia, Slovenia on Sunday 14th November 2021. The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Catez, Slovenia on Sunday 14th November 2021. The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-2021/",
@@ -358,7 +374,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ban-lifted-in-alleged-polish-cheating-case",
-         "pubDate" : "Wed, 14 Jul 2021 07:27:59 -0700",
+         "pubDate" : "Wed, 14 Jul 2021 07:27:00 -0700",
          "title" : "Ban Lifted In Alleged Polish Cheating Case"
       },
       {
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-cup-2021-opens-today/",
          "pubDate" : "Sun, 11 Jul 2021 07:42:24 +0000",
          "title" : "FIDE WORLD CUP 2021 OPENS TODAY"
-      },
-      {
-         "description" : "Anadkat Kartavya of Gujarat and Bristy Mukherjee of West Bengal won the National Under-17 School Open and Girls title respectively with 8.5 points on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/anadkat-bristy-clinch-under-17-school-title/",
-         "pubDate" : "Sun, 11 Jul 2021 07:39:50 +0000",
-         "title" : "Anadkat & Bristy Clinch Under-17 School Titles"
       },
       {
          "description" : "",
@@ -2384,14 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-play-like-bobby-fischer",
          "pubDate" : "Fri, 25 Jun 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Play like Bobby Fischer"
-      },
-      {
-         "description" : "The final lists of the FIDE World Cup and the FIDE Women's World Cup's participants have been published. The knock-out events will be held from July 10 to August 8 2021 in the Gazprom Mountain Resort in Sochi. The two finalists of the open event will qualify for the 2022 FIDE Candidates Tournament, whilst the three best players of the women's competition will get spots in the FIDE Women's Candidates Tournament. Top seed in the open section is World Champion Magnus Carlsen, top seed in the women's tournament is Aleksandra Goryachkina.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/players-lists-and-full-pairings-of-fide-world-cups-published",
-         "pubDate" : "Fri, 25 Jun 2021 13:00:00 +0100",
-         "title" : "Players lists and full pairings of FIDE World Cups published"
       }
    ]
 }
