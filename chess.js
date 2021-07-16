@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84482870.cms\" />After three members of the Indonesian delegation tested positive for Covid, both the women players from Indonesia, Medina Warda Aulia and Irene Sukandar, withdrew from the Fide Women's Chess World Cup currently in progress at Sochi on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-makes-third-round-after-indonesian-opponent-withdraws-in-womens-chess-world-cup/articleshow/84482870.cms",
+         "pubDate" : "Fri, 16 Jul 2021 22:44:14 +0530",
+         "title" : "Harika makes third round after Indonesian opponent withdraws in women's Chess World Cup"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at highlights from the World Cup in Sochi and presents two interesting endgames and a brilliancy with echoes of a famous Fischer victory. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-from-the-world-cup",
+         "pubDate" : "Fri, 16 Jul 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
+      },
+      {
+         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is two players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
+         "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
+         "title" : "2021 World Cup: Round #2"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two Indonesian players and their delegation leader tested positive for Covid-19 at the <strong>World Cup</strong> in Sochi, their opponents, including <strong>Fabiano Caruana</strong>, were confined to their hotel rooms. If negatively tested and symptom free, the American will probably be allowed to play the third round on Sunday. However, two female players from Indonesia were preventively banned from the tournament, while <strong>Levon Aronian</strong> who developed a fever due to a Tonsillitis agreed to withdraw, all in spite of negative tests. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/caruana-quarantined-aronian-banned/",
+         "pubDate" : "Fri, 16 Jul 2021 17:27:04 +0100",
+         "title" : "Caruana quarantined, Aronian asked to withdraw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84480884.cms\" />On a day when the world's top 50 masters (including Magnus Carlsen) joined the 78 winners of the first round at the Fide World Cup in Sochi, the deadly coronavirus hit the month-long event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/virus-hits-chess-world-cup-aronian-forfeits-caruana-in-doubt-after-opponent-tests-positive-indian-masters-safe-so-far/articleshow/84480884.cms",
+         "pubDate" : "Fri, 16 Jul 2021 21:56:35 +0530",
+         "title" : "Virus hits chess World Cup: Indian masters safe so far"
+      },
+      {
          "description" : "This was an exciting week of chess upsets, and not only because of some lower rated players winning their games in the World Cup. First, chess is being played in Dortmund, with the two veterans Anand, and Kramnik, battling it out, without castling. Second, in the same city, the German Grand Prix takes place, with Pavel Eljanov in top form. Third, the World Cup in Sochi has unfortunate covid cases to deal with. Lawrence Trent also has an anecdote, why he had a hard time to play against a smelly chess opponent, and how he dealt with it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +138,7 @@ news_feed (
          "title" : "A second Online Olympiad"
       },
       {
-         "description" : " The 58-year-0ld former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
+         "description" : " The 58-year-old former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster",
@@ -298,20 +338,20 @@ news_feed (
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
       },
       {
+         "description" : "Dau 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with no fewer than x players winning on demand to take their matches to tiebreaks. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Wed, 14 Jul 2021 21:25:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
          "description" : "Playing in time trouble is tough! What are the dos and don'ts when you are low on time?",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/how-to-handle-time-trouble-in-chess",
          "pubDate" : "Wed, 14 Jul 2021 20:12:06 +0000",
          "title" : "How to handle time trouble in chess"
-      },
-      {
-         "description" : "Two matches - out of the 28 that needed playoffs in round 1 - reached the third set of tiebreaker games at the World Cups in Sochi: in the open, Neuris Delgado knocked out Niaz Murshed, while in the women's section, Gulnar Mammadova [pictured] eliminated Mai Narva. Now that the first round is over, the top seeds are set to join the competition on Thursday. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Wed, 14 Jul 2021 21:05:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "GM Hikaru Nakamura won Titled Tuesday for the second consecutive week, scoring 9.5/11 and finishing ahead of GM Giga Quparadze on tiebreakers. There was a tie for third as both GM Sergei Zhigalko and GM Tamir Nabaty finished with 9/11 and the same...",
@@ -482,7 +522,7 @@ news_feed (
          "title" : "So Many Different Kinds of Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
       },
       {
-         "description" : " Share!Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/",
@@ -800,14 +840,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/yakovich-to-coach-germanys-women/",
          "pubDate" : "Mon, 12 Jul 2021 03:28:26 +0100",
          "title" : "Yakovich to coach Germany's women team"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before going to the World Cup in Sochi, <strong>Magnus Carlsen</strong> stopped in Pamplona as star guest of a <strong>San Fermines</strong> without bulls. From a hotel room once used by Earnest Hemmingway whose writing made the Basque festival internationally known, the world champion played online blitz against rivals who competed from their homes in the <strong>chess24</strong>-hosted event. <a href=\"https://chess24.com/en/watch/live-tournaments/san-fermin-masters-final-2021/3/1/11\">On his way to victory</a> Carlsen beat Wesley So and Levon Aronian. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-does-the-job-in-pamplona/",
-         "pubDate" : "Mon, 12 Jul 2021 03:15:08 +0100",
-         "title" : "Carlsen does the job in Pamplona"
       },
       {
          "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Double Trouble"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84112580.cms\" />Abhimanyu Mishra, who recently became the youngest chess grandmaster in history, said that his ultimate goal is to be the World Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-world-champion-youngest-grandmaster-abhimanyu-mishra/articleshow/84112580.cms",
-         "pubDate" : "Sun, 04 Jul 2021 14:07:49 +0530",
-         "title" : "My ultimate goal is to become world champion: Youngest Grandmaster Abhimanyu Mishra"
-      },
-      {
          "description" : " Business Insider took a trip to India and looked at how the exquisite <a href=\"https://shop.worldchess.com/\">World Chess Championship sets</a> are made. First of all, it's all about the Knight. And second, it takes years of experience to get the sets just right. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-Tg9xiJ6D6k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84055389.cms\" />Abhimanyu Mishra landed in Budapest on April 12 with one goal --- becoming the youngest-ever Grandmaster. Seventy-nine days down the line, the 12-year-old Indian-origin American managed to secure close to 100 points to cross the 2500 ELO points barrier which helped him bag three GM norms and break Russian Sergey Karjakin's record (of becoming a GM at 12 years and 7 months) set in August 2002.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/for-wonder-kid-abhimanyu-mishra-becoming-the-youngest-gm-is-just-the-beginning/articleshow/84055389.cms",
-         "pubDate" : "Fri, 02 Jul 2021 08:25:08 +0530",
-         "title" : "For wonder kid Abhimanyu Mishra, becoming the youngest GM is just the beginning"
       },
       {
          "description" : " Perhaps in the context of my recent post about grandmasters on TV, reader Pedro E. wrote in to mention a 2018 documentary about the circus that was the 1978 World Championship match between Anatoly Karpov and Viktor Korchnoi. Somehow I had missed this, but it seems to widely and inexpensively available at various sites. More about the film, <a href=\"https://en.chessbase.com/post/closing-gambit-new-feature-documentary\">here</a>. ",
@@ -2384,14 +2400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1167",
          "pubDate" : "Fri, 25 Jun 2021 20:24:04 +0000",
          "title" : "Hou Yifan and Harika Dronavalli progress into semis"
-      },
-      {
-         "description" : "In this Power Play Show GM Daniel King looks at the game Fischer-Gheorghiu - a beautiful and typical strategic squeeze from the American World Champion, played in his golden period in 1970. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-play-like-bobby-fischer",
-         "pubDate" : "Fri, 25 Jun 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Play like Bobby Fischer"
       }
    ]
 }
