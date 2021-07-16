@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 58-year-0ld former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster",
+         "pubDate" : "Fri, 16 Jul 2021 07:00:04 +0000",
+         "title" : "Chess: Garry Kasparov loses in seven moves as comeback proves a disaster"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2392,14 +2400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-speed-chess-championship-2021-quarterfinals",
          "pubDate" : "Fri, 25 Jun 2021 09:00:00 +0100",
          "title" : "Top female players battle at the Women's Speed Chess Championship"
-      },
-      {
-         "description" : " Ian Nepomniachtchi's Berlin Wall novelty makes Garry Kasparov want to turn the clock back to 2000 Starting at midday on Saturday, Magnus Carlsen will take on in succession: first, the 18-year-old widely tipped as a future world champion; second, the world No 1 woman; and third, the reigning US champion who has become Carlsen's main rival for first place in the online Meltwater Champions Tour. All three games can be viewed online, free and live with grandmaster and computer commentaries on the <a href=\"https://chess24.com/en\" title=\"\">Chess24.com playzone</a>. The event, the Goldmoney Asian Rapid, is the seventh of nine qualifiers before the Tour final in September-October. The prize pool is",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jun/25/chess-carlsen-takes-on-no-1-junior-no-1-woman-and-no-1-rival-on-same-afternoon",
-         "pubDate" : "Fri, 25 Jun 2021 07:00:19 +0000",
-         "title" : "Chess: Carlsen takes on No 1 junior, No 1 woman and No 1 rival on same afternoon"
       }
    ]
 }
