@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-1-lichessorg",
+         "pubDate" : "Fri, 16 Jul 2021 22:47:09 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 1 | lichess.org"
+      },
+      {
+         "description" : "Netflix hit series 'The Queen's Gambit' smashed records last fall and sparked a global boost for chess not seen since Bobby Fischer faced Boris Spassky in the 1972 World Championship match. This week the widely acclaimed drama series was nominated for 18 Emmy awards, including one for the star herself, Anya \"Beth Harmon\" Taylor-Joy.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-queen-s-gambit-wins-18-emmy-nominations",
+         "pubDate" : "Fri, 16 Jul 2021 21:02:13 +0000",
+         "title" : "The Queen's Gambit wins 18 Emmy nominations"
+      },
+      {
+         "description" : "Day 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with eight players winning on demand to take their matches to tiebreaks. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Fri, 16 Jul 2021 21:25:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1215",
+         "pubDate" : "Fri, 16 Jul 2021 20:02:26 +0000",
+         "title" : "Day 05: Fighting chess at the World Cup"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84482870.cms\" />After three members of the Indonesian delegation tested positive for Covid, both the women players from Indonesia, Medina Warda Aulia and Irene Sukandar, withdrew from the Fide Women's Chess World Cup currently in progress at Sochi on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
       },
       {
-         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is two players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-smelly-chess-opponents-corona-world-cup-and-other-upsets",
          "pubDate" : "Fri, 16 Jul 2021 17:00:00 +0100",
          "title" : "News Review - Smelly chess opponents, Corona World Cup, and other upsets"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Padmini Rout | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Fri, 16 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "The second round of the World Cups kicked off on Thursday, with the top seeds in both sections starting their campaigns after getting byes in the first round. A couple of health-related issues arose on Thursday, as Levon Aronian showed symptoms of fever and withdrew from his game against Bobby Cheng, while later on, with the games already in play, FIDE announced that another player had tested positive for Covid-19. | Pictured: Irine Sukandar | Photo: Eric Rosen",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1208",
          "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
-      },
-      {
-         "description" : "Dau 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with no fewer than x players winning on demand to take their matches to tiebreaks. | Replay the most remarkable games of the day and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Wed, 14 Jul 2021 21:25:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "Playing in time trouble is tough! What are the dos and don'ts when you are low on time?",
@@ -922,14 +938,6 @@ news_feed (
          "title" : "Croatia Grand Chess Tour - MVL wins!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has nine blitz rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/20",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-5",
-         "pubDate" : "Sun, 11 Jul 2021 13:41:04 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Day 5"
-      },
-      {
          "description" : " Philadelphia was back in full force as a city that has made &#8220;Independence Day&#8221; an iconic holiday. It is also the home of the largest open chess tournament, the World Open. Last weekend the Continental Chess Association hosted the 49th edition at the Sheraton on 201 North 17th St. This tournament is where the magic [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/\">Niemann wins 2021 World Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kovalenko-and-nihal-lead-serbia-open",
          "pubDate" : "Wed, 07 Jul 2021 17:20:00 +0100",
          "title" : "Serbia Open: Kovalenko and Nihal in the lead"
-      },
-      {
-         "description" : "Aleksandra Goryachkina has qualified to play in the \"men's\" Russian Championship Superfinal after finishing 3rd in the Higher League with a brilliant 6.5/9. 22-year-old Aleksandra, the reigning Russian Women's Champion, scored a perfect 5/5 with the white pieces as she climbed to 2610.5 on the live rating list, the 4th highest female rating of all time. Russian Women's Championship runner-up Polina Shuvalova also starred as she finished 14th, picking up 18 rating points to storm into the 2500 club.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goryachkina-6th-woman-ever-to-cross-2600",
-         "pubDate" : "Wed, 07 Jul 2021 13:01:31 +0000",
-         "title" : "Goryachkina 6th woman ever to cross 2600"
       },
       {
          "description" : " An opening that I've had a long standing affection for is the Wing Gambit against the Sicilian Defence (1.e5 c5 2.b4!?). I recommended it for White in my 2007 book, Gambiteer I, something that drew a mixed reception. Club players who tried it in their games reported having a lot of fun with it, several <a href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Whack 'em with the Wing Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\">Whack 'em with the Wing Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
@@ -2392,14 +2392,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-martial-menagerie-of-king-alfonso-the-wise/",
          "pubDate" : "Sat, 26 Jun 2021 08:00:52 +0000",
          "title" : "The Martial menagerie of King Alfonso the Wise"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1167",
-         "pubDate" : "Fri, 25 Jun 2021 20:24:04 +0000",
-         "title" : "Hou Yifan and Harika Dronavalli progress into semis"
       }
    ]
 }
