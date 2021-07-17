@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In the diagram position Black just played 21...Rxd4!, capturing an important pawn. However, this move looks dangerous because White has 22.Qc3, pinning the rook on the long diagonal and threatening 23.e3. But Black knew exactly what he was doing. Can you follow his thoughts?",
+         "description" : "Polish grandmaster Mateusz Bartel had a difficult time in the first rounds of the Deutschland Grand Prix, but he could land a nice attacking win with Black against Andreas Heimann. The remaining four games ended drawn, but had a lot to offer, with leader Pavel Eljanov sacrificing a queen against Ruslan Ponomariov. | Pictured: Bartel facing Eljanov in round 4",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-trophy-bartel-wins",
+         "pubDate" : "Sat, 17 Jul 2021 12:05:00 +0100",
+         "title" : "Dortmund: Bartel wins, Eljanov sacrifices a queen"
+      },
+      {
+         "description" : "Day 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with eight players winning on demand to take their matches to tiebreaks. | Pictured: An (extremely young) Indian contingent: Nihal, Aravindh and Praggnanandhaa. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d2",
+         "pubDate" : "Sat, 17 Jul 2021 11:40:00 +0100",
+         "title" : "World Cup: Withdrawals, comebacks"
+      },
+      {
+         "description" : "The young Indian grandmasters Nihal Sarin and Praggnanandhaa R. are among the players who reached the third round of the FIDE World Cup without needing a tiebreak. GMs Magnus Carlsen, Anish Giri, and Sergey Karjakin scored 2-0 in the second round,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-day-2",
+         "pubDate" : "Sat, 17 Jul 2021 03:18:00 -0700",
+         "title" : "FIDE World Cup R2: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
+      },
+      {
+         "description" : "Round 7 of the Sparkassen Chess Trophy in Dortmund starts early again, at 10:00 CEST (4 am ET, 8:00 UTC). After six rounds Pavel Eljanov leads the Deutschland Grand Prix with 4.5/6, followed by Dmitrij Kollars with 4.0/6. In round 7 the two leaders, Kollars and Eljanov, will play against each other. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Sat, 17 Jul 2021 09:40:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy live"
+      },
+      {
+         "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tennis-and-chess-time-to-retire-for-federer-and-kasparov/",
+         "pubDate" : "Sat, 17 Jul 2021 08:20:25 +0000",
+         "title" : "Tennis and chess: time to retire for Federer and Kasparov?"
+      },
+      {
+         "description" : "In the diagram position Black just played 21...Rxd4!, capturing a knight. However, this move looks dangerous because White has 22.Qc3, pinning the rook on the long diagonal and threatening 23.e3. But Black knew exactly what he was doing. Can you follow his thoughts?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mighty-knights-2",
@@ -58,14 +98,6 @@ news_feed (
          "title" : "The Queen's Gambit wins 18 Emmy nominations"
       },
       {
-         "description" : "Day 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with eight players winning on demand to take their matches to tiebreaks. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Fri, 16 Jul 2021 21:25:00 +0100",
-         "title" : "World Cup - Express report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
       },
       {
-         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian withdraws due to tonsilitis, fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the arbiters [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-six/",
          "pubDate" : "Fri, 16 Jul 2021 09:31:44 +0000",
          "title" : "A Foundation for Beginners Twenty Six"
-      },
-      {
-         "description" : "Round 6 of the Sparkassen Chess Trophy in Dortmund starts early again, at 10:00 CEST (4 am ET, 8:00 UTC). After five rounds Pavel Eljanov leads the Deutschland Grand Prix with 4.0/5, followed by Dmitrij Kollars with 3.5/5. In round 6 Eljanov plays with White against Ruslan Ponomariov while Kollars has Black against Gata Kamsky. After playing two games of their four-game \"No Castling\" match, Anand and Kramnik take a break today, and will finish the match on Saturday and Sunday. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Fri, 16 Jul 2021 09:40:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy live"
       },
       {
          "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "Tales from CYCC 2021"
       },
       {
-         "description" : "Overcoming both a 1-7 deficit and internet disconnections, GM Parham Maghsoodloo defeated GM Praggnanandhaa R. on Monday in their round-of-16 match of the Junior Speed Chess Championship presented by ChessKid. The next match in the championship ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-maghsoodloo-praggnanandhaa",
-         "pubDate" : "Tue, 06 Jul 2021 02:00:00 -0700",
-         "title" : "Junior Speed Chess: Record Comeback Maghsoodloo vs. Praggnanandhaa"
-      },
-      {
          "description" : "Knights that fight against pawns can be clumsy but sometimes they can also work magic. In the diagram position, Black's a-pawn wants to queen but the white knight can still stop him. On the other hand it is hard to see how Black can stop White's e-pawn from queening. But Black can help her knight to do some magic and win. Do you have an idea how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2376,30 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cold-blooded-defence",
          "pubDate" : "Sat, 26 Jun 2021 14:15:00 +0100",
          "title" : "Cold blooded defence"
-      },
-      {
-         "description" : "The French Team Championship, also known as Top 12, is taking place in Châlons-en-Champagne. Only two teams have managed to score victories in the first two rounds: Bischwiller, with Markus Ragger and Etienne Bacrot on top boards, and the team from Clichy, led by Jorden van Foreest. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-12-2021-r2",
-         "pubDate" : "Sat, 26 Jun 2021 13:10:00 +0100",
-         "title" : "Top 12: Bischwiller and Clichy still perfect"
-      },
-      {
-         "description" : "All you need to know about the latest pitstop in the Carlsen-motored big-money online tournament enterprise.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31711508/magnus-carlsen-champions-tour-asian-rapid?device=featurephone",
-         "pubDate" : "Sat, 26 Jun 2021 05:11:57 -0500",
-         "title" : "Magnus Carlsen's Champions Tour -- Asian Rapid"
-      },
-      {
-         "description" : "On Sunday July 18 2021, Trafalgar Square will be taken over by numerous chess manifestations designed to introduce the general public to the game. There will be opportunities to challenge Grandmasters, as well as receive tuition, but the highlight of the day will be a display of living chess, with actors taking on the characters []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-martial-menagerie-of-king-alfonso-the-wise/",
-         "pubDate" : "Sat, 26 Jun 2021 08:00:52 +0000",
-         "title" : "The Martial menagerie of King Alfonso the Wise"
       }
    ]
 }
