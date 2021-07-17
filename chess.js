@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka scored wins with white in the first Armageddon encounters seen in the event. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-4-lichessorg",
+         "pubDate" : "Sat, 17 Jul 2021 22:48:00 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-5-lichessorg",
+         "pubDate" : "Sat, 17 Jul 2021 22:48:00 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 5 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1216",
+         "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
+         "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
+      },
+      {
+         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
          "pubDate" : "Sat, 17 Jul 2021 21:25:00 +0100",
          "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3-lichessorg",
+         "pubDate" : "Sat, 17 Jul 2021 19:47:47 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3 | lichess.org"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84506697.cms\" />Indian Grandmaster Vidit Santosh Gujrathi defeated Brazil's Alexandr Fier in the tie-break on Saturday to secure a spot in the third round of the men's event in the FIDE chess World Cup.",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/caruana-quarantined-aronian/",
          "pubDate" : "Sat, 17 Jul 2021 17:20:54 +0100",
          "title" : "Caruana quarantined, Aronian \"withdrew\""
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sat, 17 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "57-year-old Michal Krasenkow executed a brilliant attack to take down Kirill Alekseenko on Friday and reach a Round 3 match against 15-year-old Praggnanandhaa, who whitewashed Gabriel Sargissian 2:0. Sargissian and Alekseenko are among 7 players given a bye to Round 2 who are out of the Open Section (Vallejo, Anton, Kryvoruchko, Ragger and Levon Aronian, who couldn't play, are the others) while in the Women's Section only Olga Girya was knocked out, by 16-year-old Leya Garifullina. 30 matches have gone to tiebreaks, after Alireza Firouzja and Gukesh survived scares.",
@@ -810,22 +834,6 @@ news_feed (
          "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani previews a chapter from her book &quot;Your Jungle Guide to Unbalance Your Opponent,&quot; co-authored with her brother Borna. 2021.07.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turn-water-wine-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AjoQ6hsVXYo.jpg?itok=mnbNMvlB\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/turn-water-wine-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Mon, 12 Jul 2021 19:43:00 +0000",
-         "title" : "Turn Water into Wine! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1xC_P9JKhhY.jpg?itok=PFD6YdRk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Mon, 12 Jul 2021 19:43:00 +0000",
-         "title" : "How to Use Tactics Puzzles to Improve | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/",
          "pubDate" : "Mon, 12 Jul 2021 00:10:32 +0000",
          "title" : "Beyond Material - Ignore the Face Value of Your Pieces"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Grand Chess Tour Spokesman Michael Khodarkovsky to reveal the schedule for the 2022 Tour season. 2021.07.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-croatia-grand-chess-tour-2022-announcement\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wqHRnvgQs7A.jpg?itok=Ra6LAru4\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-2022-announcement",
-         "pubDate" : "Sun, 11 Jul 2021 22:41:28 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: 2022 Announcement"
       },
       {
          "description" : "Maxime Vachier-Lagrave was the clear winner of the 2021 Grand Chess Tour's third leg, played in Zagreb. The Frenchman had an undefeated 6&frac12;/9 performance on Sunday, and managed to secure first place with a round to spare. Vishy Anand had a great day as well, as he also scored 6&frac12; points in the second half of the blitz section to get sole second place. Anish Giri finished third, while Garry Kasparov continued to struggle against his younger opponents. | Photo: Lennart Ootes",
@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-1",
          "pubDate" : "Sun, 27 Jun 2021 12:25:00 +0100",
          "title" : "Goldmoney Asian Rapid: Five leaders after five rounds"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1168",
-         "pubDate" : "Sat, 26 Jun 2021 20:46:53 +0000",
-         "title" : "Five-way split for the lead after Day 1"
       }
    ]
 }
