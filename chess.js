@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black just played 21...Rxd4!, capturing an important pawn. However, this move looks dangerous because White has 22.Qc3, pinning the rook on the long diagonal and threatening 23.e3. But Black knew exactly what he was doing. Can you follow his thoughts?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mighty-knights-2",
+         "pubDate" : "Sat, 17 Jul 2021 09:00:00 +0100",
+         "title" : "Make it work!"
+      },
+      {
+         "description" : " I'm a big fan of endgame studies - not to be confused with problems. Some folks love mate-in-X problems, or helpmates or selfmates or other still crazier tasks. God bless 'em; it's not my thing. But studies? They're great. They are compositions, but the vast majority of the time the positions are realistic. They are great for practicing one's calculation skills and developing one's imagination, and good studies will almost always have surprising or beautiful moves and ideas, and generally both. There are a few good books with studies, but not too many, and at most they might have a 2,000-3,000 entries. With the latest (sixth) version of study composer and judge Harold Van Der Heijden's data",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/16/heijdens-study-database-now-with-almost-94000-entries.html",
+         "pubDate" : "Sat, 17 Jul 2021 03:46:38 +0000",
+         "title" : "Heijden's Study Database, Now With (Almost) 94,000 Entries"
+      },
+      {
+         "description" : " For American readers who might be interested, the three main under-championships are underway. Recap article available <a href=\"https://www.uschesschamps.com/2021-us-senior-junior-championships-2021-us-girls-junior-championship-2021-us-junior-championship/us\">here</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/16/us-senior-junior-and-girls-championships-underway.html",
+         "pubDate" : "Sat, 17 Jul 2021 03:40:43 +0000",
+         "title" : "U.S. Senior, Junior, and Girls' Championships Underway"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,12 +90,12 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
       },
       {
-         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian forfeits 1st game due to fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
          "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
-         "title" : "2021 World Cup: Round #2"
+         "title" : "2021 FIDE World Cup: Round #2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two Indonesian players and their delegation leader tested positive for Covid-19 at the <strong>World Cup</strong> in Sochi, their opponents, including <strong>Fabiano Caruana</strong>, were confined to their hotel rooms. If negatively tested and symptom free, the American will probably be allowed to play the third round on Sunday. However, two female players from Indonesia were preventively banned from the tournament, while <strong>Levon Aronian</strong> who developed a fever due to a Tonsillitis agreed to withdraw, all in spite of negative tests. </div> ",
@@ -554,12 +578,12 @@ news_feed (
          "title" : "So Many Different Kinds of Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
       },
       {
-         "description" : " Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 FIDE World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/",
          "pubDate" : "Tue, 13 Jul 2021 22:21:17 +0000",
-         "title" : "2021 World Cup: Round #1"
+         "title" : "2021 FIDE World Cup: Round #1"
       },
       {
          "description" : "",
@@ -794,12 +818,12 @@ news_feed (
          "title" : "Xiong Beats Lazavik In Junior Speed Chess Championship"
       },
       {
-         "description" : " Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the globe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the globe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 FIDE World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/",
          "pubDate" : "Mon, 12 Jul 2021 13:26:33 +0000",
-         "title" : "2021 World Chess Cup (Sochi, Russia)"
+         "title" : "2021 FIDE World Chess Cup (Sochi, Russia)"
       },
       {
          "description" : "Maxime Vachier-Lagrave credited defence as he lost just one of 18 blitz games on the way to winning the Croatia Grand Chess Tour by a full two points. After a last-day collapse for Ian Nepomniachtchi, Maxime's greatest challenge came from 51-year-old Vishy Anand, who beat Garry Kasparov at the start of a 4-game winning streak that ultimately gave him sole 2nd place. Garry called himself an \"amateur\", and despite landing a win he scored 2/9 and deprived us of any last-round drama by losing on time to MVL in a drawn position.",
@@ -1858,14 +1882,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid: Reversals of Fortune in the Semi-Finals"
       },
       {
-         "description" : " In the preceding post I mentioned the 2018 chess documentary, \"Closing Gambit: 1978 Korchnoi vs. Karpov and the Kremlin\". It's short, so I took a short vacation from normal life to watch. As a comment to the aforementioned post suspects, the narrative is, unsurprisingly, slanted in Korchnoi's favor - and why wouldn't it be? But it's not portrayed as saint vs. devil. Viktor Korchnoi's prickliness is acknowledged by all, and it does not ignore the fact that he abandoned his family. And while Anatoly Karpov is portrayed as opportunistically accepting every advantage that his Soviet supporters could bestow on him, he is presented with humanity, and he is one of the major participants in the doc",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/2/closing-gambit-a-quick-comment-or-two.html",
-         "pubDate" : "Sat, 03 Jul 2021 01:01:49 +0000",
-         "title" : "\"Closing Gambit\" - A Quick Comment or Two"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
-      },
-      {
-         "description" : " Perhaps in the context of my recent post about grandmasters on TV, reader Pedro E. wrote in to mention a 2018 documentary about the circus that was the 1978 World Championship match between Anatoly Karpov and Viktor Korchnoi. Somehow I had missed this, but it seems to widely and inexpensively available at various sites. More about the film, <a href=\"https://en.chessbase.com/post/closing-gambit-new-feature-documentary\">here</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/1/closing-gambit.html",
-         "pubDate" : "Thu, 01 Jul 2021 22:44:46 +0000",
-         "title" : "\"Closing Gambit\""
       },
       {
          "description" : "You read it yesterday: the 12-year-ole New Jersey lad Abhimanyu Mishra gained his final GM norm, to become the youngest grandmaster in history. Sagar Shah of ChessBase India spoke to Abhi about the key game, and how he turned tables against his GM opponent; but also about his motivation and his future plans in chess. It is quite revealing to hear this boy speak about his remarkable accomplishments.",
@@ -2306,12 +2314,12 @@ news_feed (
          "title" : "How To Win A Winning Position In Chess"
       },
       {
-         "description" : " Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national chess champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
          "pubDate" : "Sun, 27 Jun 2021 19:04:33 +0000",
-         "title" : "Senegal crowns national champion!"
+         "title" : "Senegal crowns national chess champion!"
       },
       {
          "description" : "",
