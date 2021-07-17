@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sat, 17 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "57-year-old Michal Krasenkow executed a brilliant attack to take down Kirill Alekseenko on Friday and reach a Round 3 match against 15-year-old Praggnanandhaa, who whitewashed Gabriel Sargissian 2:0. Sargissian and Alekseenko are among 7 players given a bye to Round 2 who are out of the Open Section (Vallejo, Anton, Kryvoruchko, Ragger and Levon Aronian, who couldn't play, are the others) while in the Women's Section only Olga Girya was knocked out, by 16-year-old Leya Garifullina. 30 matches have gone to tiebreaks, after Alireza Firouzja and Gukesh survived scares.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-2-krasenkow-shocks-alekseenko",
+         "pubDate" : "Sat, 17 Jul 2021 12:30:06 +0000",
+         "title" : "FIDE World Cup 2.2: Krasenkow shocks Alekseenko"
+      },
+      {
          "description" : "Polish grandmaster Mateusz Bartel had a difficult time in the first rounds of the Deutschland Grand Prix, but he could land a nice attacking win with Black against Andreas Heimann. The remaining four games ended drawn, but had a lot to offer, with leader Pavel Eljanov sacrificing a queen against Ruslan Ponomariov. | Pictured: Bartel facing Eljanov in round 4",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "World Cup: Withdrawals, comebacks"
       },
       {
-         "description" : "The young Indian grandmasters Nihal Sarin and Praggnanandhaa R. are among the players who reached the third round of the FIDE World Cup without needing a tiebreak. GMs Magnus Carlsen, Anish Giri, and Sergey Karjakin scored 2-0 in the second round,...",
+         "description" : "The young Indian grandmasters Nihal Sarin and Praggnanandhaa R. are among the players who have reached the third round of the FIDE World Cup without needing a tiebreak. GMs Magnus Carlsen, Anish Giri, and Sergey Karjakin scored 2-0 in the second r...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-day-2",
          "pubDate" : "Sat, 17 Jul 2021 03:18:00 -0700",
-         "title" : "FIDE World Cup R2: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
+         "title" : "FIDE World Cup: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
       },
       {
          "description" : "Round 7 of the Sparkassen Chess Trophy in Dortmund starts early again, at 10:00 CEST (4 am ET, 8:00 UTC). After six rounds Pavel Eljanov leads the Deutschland Grand Prix with 4.5/6, followed by Dmitrij Kollars with 4.0/6. In round 7 the two leaders, Kollars and Eljanov, will play against each other. Follow the games live.",
@@ -1402,14 +1418,6 @@ news_feed (
          "title" : "2021 ACT Winter Open - 23-25 July 2021"
       },
       {
-         "description" : "World Championship Challenger Ian Nepomniachtchi justified his position as top seed in the Croatia Grand Chess Tour by beating Anton Korobov and Shakhriyar Mamedyarov to leave the rest of the field trailing in his wake. He was held to a draw by Vishy Anand, with the former World Champion having an eventful return to the board as he won an dramatic first game against Jorden van Foreest before losing the next to MVL. No less than 7 players join Vishy on 50%, with only the Dutch duo of Anish Giri and Jorden on a minus score.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/croatia-gct-1-nepo-storms-into-lead",
-         "pubDate" : "Thu, 08 Jul 2021 10:20:44 +0000",
-         "title" : "Croatia GCT 1: Nepo storms into lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84232470.cms\" />14-year-old Aditya Mittal on Thursday earned his first Grandmaster title. He achieved the feat in the ongoing Serbian Open. Mittal scored 7/9 including three consecutive wins against GMs to win his first Grandmaster title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2376,22 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1168",
          "pubDate" : "Sat, 26 Jun 2021 20:46:53 +0000",
          "title" : "Five-way split for the lead after Day 1"
-      },
-      {
-         "description" : " Most people regard chess as a game of three phases. Opening, middlegame and endgame. This is taught in instructional books, and is often used in chess programming. However, the transition between the phases isn't always clear. In the following game, it contains elements of both the middlegame (significant material on the board, not safe to bring the king out) and the ending (pawn promotion is the goal). John Nunn might consider this a 'tactical ending', while Mihail Marin refers to it as the 'Fourth Phase'. It turned out that the win depended on both features being present, with the lack of king safety allowing tactics that assisted pawn promotion. <br /> <b>Press,Shaun - Brown,Jordan [E11]",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/the-heavy-piece-middlegame-ending.html",
-         "pubDate" : "Sat, 26 Jun 2021 13:19:00 +0000",
-         "title" : "The heavy piece middlegame -> ending"
-      },
-      {
-         "description" : "In the diagram position Black has a strong attack and threatens 30...Qxg2#. But with careful play White can defend and win the game. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cold-blooded-defence",
-         "pubDate" : "Sat, 26 Jun 2021 14:15:00 +0100",
-         "title" : "Cold blooded defence"
       }
    ]
 }
