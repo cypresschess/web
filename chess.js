@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka scored wins with white in the first Armageddon encounters seen in the event. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Sat, 17 Jul 2021 21:25:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84506697.cms\" />Indian Grandmaster Vidit Santosh Gujrathi defeated Brazil's Alexandr Fier in the tie-break on Saturday to secure a spot in the third round of the men's event in the FIDE chess World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-enters-3rd-round-gukesh-padmini-rout-ousted/articleshow/84506697.cms",
+         "pubDate" : "Sat, 17 Jul 2021 22:16:42 +0530",
+         "title" : "Chess WC: Vidit Gujrathi enters 3rd round, Gukesh, Padmini Rout ousted"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two Indonesian players and their delegation leader tested positive for Covid-19 at the <strong>FIDE World Cup</strong> in Sochi, their opponents, including Fabiano Caruana, were confined to their hotel rooms. If negatively tested and symptom free, the American will probably be allowed to play the third round on Sunday. However, two female players from Indonesia were preventively banned from the tournament. Levon Aronian who developed a fever due to a Tonsillitis, agreed to withdraw, all in spite of negative tests. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/caruana-quarantined-aronian/",
+         "pubDate" : "Sat, 17 Jul 2021 17:20:54 +0100",
+         "title" : "Caruana quarantined, Aronian \"withdrew\""
+      },
+      {
          "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
          "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
          "title" : "2021 FIDE World Cup: Round #2"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two Indonesian players and their delegation leader tested positive for Covid-19 at the <strong>World Cup</strong> in Sochi, their opponents, including <strong>Fabiano Caruana</strong>, were confined to their hotel rooms. If negatively tested and symptom free, the American will probably be allowed to play the third round on Sunday. However, two female players from Indonesia were preventively banned from the tournament, while <strong>Levon Aronian</strong> who developed a fever due to a Tonsillitis agreed to withdraw, all in spite of negative tests. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/caruana-quarantined-aronian-banned/",
-         "pubDate" : "Fri, 16 Jul 2021 17:27:04 +0100",
-         "title" : "Caruana quarantined, Aronian asked to withdraw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84480884.cms\" />On a day when the world's top 50 masters (including Magnus Carlsen) joined the 78 winners of the first round at the Fide World Cup in Sochi, the deadly coronavirus hit the month-long event.",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "Understanding before Moving 34: The priniciples of Dick Van Geet"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84116356.cms\" />Levon Aronian was in supreme form as he won the Goldmoney Asian Rapid event on Sunday. The 38-year-old breezed through the second match of the final to put to bed the challenge of Vladislav Artemiev. Russia's young speed demon, who made the final on his Tour debut, needed a swift comeback to stand any chance of beating the vastly experienced Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/goldmoney-asian-rapid-aronian-clinches-crown/articleshow/84116356.cms",
-         "pubDate" : "Sun, 04 Jul 2021 19:23:47 +0530",
-         "title" : "Goldmoney Asian Rapid: Aronian clinches crown"
-      },
-      {
          "description" : " If you are looking for a fairly lightweight Chess Database then <a href=\"https://chessx.sourceforge.io/\">ChessX</a> might fit your needs. It is designed to work with PGN files and is particularly suited to entering games from tournaments (at least that is what I use it for). As with most software I recommend, it is open source and cross platform, so it will run under Windows, MacOs and Linux. It has integrated support for Stockfish, or you can add your own UCI or Xboard compatible engines. The other selling point is that is currently being maintained, which means that new features are still be added (or you can add them yourself!) <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2368,14 +2376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-1",
          "pubDate" : "Sun, 27 Jun 2021 12:25:00 +0100",
          "title" : "Goldmoney Asian Rapid: Five leaders after five rounds"
-      },
-      {
-         "description" : "In a fascinating look at the possibilities granted by knight moves in endgame studies, practical games and mathematical problems - exploring, among others, underpromotions, stalemates and magic squares - columnist Siegfried Hornecker demonstrates the width of potential finesses that can be created with one of the two types of minor pieces appearing on a chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-06",
-         "pubDate" : "Sat, 26 Jun 2021 22:20:00 +0100",
-         "title" : "Summer knight city"
       },
       {
          "description" : "",
