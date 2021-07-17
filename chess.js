@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-2-lichessorg",
+         "pubDate" : "Sat, 17 Jul 2021 01:47:06 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-1",
+         "pubDate" : "Sat, 17 Jul 2021 01:47:06 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "FIDE World Cup opens in Sochi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The second Croatia Grand Chess Tour is a rapid and blitz tournament and the third stop on the 2021 Tour. Eleven players compete in nine rounds of rapid chess and 18 rounds of blitz chess, live from the National and University Library in Zagreb. Today has three rapid rounds. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.07.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-croatia-grand-chess-tour-day-1-0",
-         "pubDate" : "Sun, 11 Jul 2021 19:41:24 +0000",
-         "title" : "2021 Croatia Grand Chess Tour: Day 1"
-      },
-      {
          "description" : " The San Fermin Masters Final was a Chess24 blitz event that took place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they were joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen beat Levon Aronian 5-3 in the final.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-new-way-against-the-bogo-indian",
          "pubDate" : "Sun, 11 Jul 2021 19:00:00 +0100",
          "title" : "A new way against the Bogo-Indian"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The GCT is proud to announce five events for the 2022 tour, including a new event in Warsaw, Poland. Players will compete throughout the season for $1.275 million in prizes. \"When we created the Grand Chess Tour, we promised it would be unlike anything else, that we would continue to grow and expand, and to show chess in the way it's meant to be played,\" said legendary 13th World Chess Champion Garry Kasparov, the driving force behind the Grand Chess Tour. \"2022 promises to be another great year on the tour for players and fans alike.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-chess-tour-returns-2022-1275m-prizes-and-new-event-warsaw-poland",
-         "pubDate" : "Sun, 11 Jul 2021 16:41:12 +0000",
-         "title" : "The Grand Chess Tour Returns In 2022 With $1.275M In Prizes And A New Event In Warsaw, Poland"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84321921.cms\" /> Former world champion Viswanathan Anand defeated long-time rival Garry Kasparov for the second consecutive time, in the 13th round of the Croatia Grand Chess Tour's Blitz event on Sunday.",
