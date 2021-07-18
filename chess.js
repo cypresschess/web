@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-describes-his-trip-to-sochi-after-withdrawal-tweetoftheday/",
+         "pubDate" : "Sun, 18 Jul 2021 14:02:33 +0000",
+         "title" : "Aronian describes his trip to Sochi after withdrawal #TweetOftheDay"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 36th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-36-development-advantage-2",
+         "pubDate" : "Sun, 18 Jul 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 36: Development advantage (2)"
+      },
+      {
+         "description" : "The 2nd round of the FIDE World Chess Cup 2021 brought several upsets and surprising results. 29 matches, in both Opean and Women's sections, were decided in tiebreaks. Shortly before the start of the Round 2, Levon Aronian announced that he will definitely withdraw from the event due to a high fever. Read more: Aronian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2021-round-3-underway/",
+         "pubDate" : "Sun, 18 Jul 2021 13:53:16 +0000",
+         "title" : "FIDE WORLD CUP 2021 - Round 3 underway"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sun, 18 Jul 2021 13:50:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : " The Auckland Chess Club has just hosted the traditional George Trundle Masters, which is a series of RR events for top NZ and overseas players. Of course this year was missing the overseas players part, but the event still attracted a strong field. The top section was won by IM Anthony Garbett with 7/9, while CM Richard Meng won the qualifiers with 7.5. Full results can be found at <a href=\"https://www.vegaresult.com/vega-trn/index.php?id=590 \">https://www.vegaresult.com/vega-trn/index.php?id=590 </a> While I wasn't really following the action while the tournament was taking place, I did have a look at a few games after the event was over. One that struck me as particularly interesting was ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-george-trundle-masters.html",
+         "pubDate" : "Sun, 18 Jul 2021 12:11:00 +0000",
+         "title" : "2021 George Trundle Masters"
+      },
+      {
          "description" : "The final round of the Deutschland Grand Prix is taking place concurrently with the fourth and last game of the Vishy Anand vs Vladimir Kramnik match in No Castling chess. In the Grand Prix, three players - Pavel Eljanov, Dmitrij Kollars and Daniel Fridman - are sharing first place on 5/8. Vincent Keymer stands a half point back. | Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
          "pubDate" : "Sun, 18 Jul 2021 12:55:20 +0100",
          "title" : "Dortmund Sparkassen Chess Trophy - Final round"
+      },
+      {
+         "description" : "Adhiban continued his fine run to blank the Cuban GM Neuris Delgado Ramirez 2-0 and march into round 3 royally. Adhiban has 4 wins out",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-six-indians-advance-to-round-3/",
+         "pubDate" : "Sun, 18 Jul 2021 11:53:21 +0000",
+         "title" : "World Cup - Six Indians advance to round 3"
+      },
+      {
+         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka (pictured, right) scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. Alireza Firouzja and Leinier Dominguez were knocked out by two Uzbek players, Javokhir Sindarov and Jakhongir Vakhidov respectively. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d3",
+         "pubDate" : "Sun, 18 Jul 2021 12:40:00 +0100",
+         "title" : "World Cup: Firouzja and Dominguez knocked out"
       },
       {
          "description" : "15-year-old Javokhir Sindarov pulled off the biggest upset of the FIDE World Cup so far when he took down one of the dark horses to win the whole event, Alireza Firouzja, after a stylish win in the second 10-minute tiebreak game. Another Uzbek player, Jakhongir Vakhidov, beat world no. 13 Leinier Dominguez, while it was also the end of the road for the likes of Gukesh, Parham Maghsoodloo, Dmitry Jakovenko and fan favourite IMs Ravi Haria and Volodar Murzin. We got two Armageddons, with the pieces flying as Olga Badelka beat Ana Matnadze on time.",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "Setback for newly-formed chess body in Bengal"
       },
       {
-         "description" : "GM Leinier Dominguez and GM Alireza Firouzja did not survive the FIDE World Cup&#39;s second-round tiebreaks as they lost to Uzbek GMs Jakhongir Vakhidov and GM Javokhir Sindarov, respectively. Two matches were decided in wild armageddon games. Ho...",
+         "description" : "GM Leinier Dominguez and GM Alireza Firouzja did not survive the FIDE World Cup&#39;s second-round tiebreaks as they lost to Uzbek GMs Jakhongir Vakhidov and Javokhir Sindarov, respectively. Two matches were decided in wild armageddon games. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-tiebreaks-armageddon-firouzja-sindarov",
@@ -58,6 +114,14 @@ news_feed (
          "title" : "World Cup, Post-Round 2 Update"
       },
       {
+         "description" : " From the publisher: &#8220;For too long, Anti-Sicilian rhetoric has centred on the logic of simplicity, geared towards reaching playable positions with easy plans while simultaneously avoiding depths of theory. The danger of this logic is the ease with which we can fall into the trap of inactivity; of mindlessly playing an opening without striving to <a href=\"http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.c",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/",
+         "pubDate" : "Sun, 18 Jul 2021 00:10:06 +0000",
+         "title" : "The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1216",
          "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
          "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
-      },
-      {
-         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Sat, 17 Jul 2021 21:25:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -968,14 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup.html",
          "pubDate" : "Mon, 12 Jul 2021 12:12:00 +0000",
          "title" : "2021 World Cup"
-      },
-      {
-         "description" : "The Asian School Online Championship scheduled to be held from 23-25 July 2021 for Girls and 29-31 July 2021 for Open. In each age category",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-asian-school-chess-championship-2021/",
-         "pubDate" : "Mon, 12 Jul 2021 09:46:44 +0000",
-         "title" : "REGISTRATION FOR ASIAN SCHOOL CHESS CHAMPIONSHIP 2021"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave has won the Croatia Rapid &#38;amp; Blitz. The French grandmaster secured the $37,500 first prize with a round to spare when GM Garry Kasparov, who struggled again on Sunday, lost on time in a drawn position. Thanks to an exc...",
@@ -2384,14 +2432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1169",
          "pubDate" : "Sun, 27 Jun 2021 17:47:54 +0000",
          "title" : "Ding and Aronian take the lead"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 33nd instalment of his ChessBase show \"Understanding before Moving\", Herman asks again whether \"to trade or not to trade\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-33-to-trade-or-not-to-trade-2",
-         "pubDate" : "Sun, 27 Jun 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 33: To trade or not to trade (2)"
       }
    ]
 }
