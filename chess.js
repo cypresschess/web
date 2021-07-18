@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " \"Only\" 64 players are left in the <a href=\"https://worldcup.fide.com/\">2021 FIDE World Cup</a>, a massive knockout event in Sochi, Russia. While Magnus Carlsen is participating and plenty of money is at stake, its primary function is to find two qualifiers for the 2022 Candidates, with the next six qualifying for the FIDE Grand Prix next year (unless the player in question is the world champion or qualified for the Candidates through another path). We'll worry about all of that later; for the time being, let's see how the tournament is going. The top two seeds are alive and kicking - Carlsen had a bye in round 1, and won in round 2 2-0 over Sasa Martinovic. Fabiano Caruana had a bye in roun",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/17/world-cup-post-round-2-update.html",
+         "pubDate" : "Sun, 18 Jul 2021 00:51:27 +0000",
+         "title" : "World Cup, Post-Round 2 Update"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/",
          "pubDate" : "Sat, 03 Jul 2021 05:53:27 +0000",
          "title" : "European Senior Team Chess Championship 2021 - Official regulations"
-      },
-      {
-         "description" : " That was surprising! Magnus Carlsen and Ding Liren won their first mini-matches in the <a href=\"https://championschesstour.com/\">Goldmoney Asian Rapid</a> against Levon Aronian and Vladislav Artemiev, respectively, as noted a few posts back. But both lost today, both in the second mini-match and in their subsequent tiebreaks. The latter match was more competitive, but for Carlsen it was as if he left his mind asleep in bed. Aronian won games 1 and 4 of the second mini-match (the other games were drawn), and then won both of the blitz games in the tiebreak to advance. (How many times has Carlsen scored just 1 out of 6 in professional competition?) The final between the \"Ar\"s starts tomorrow.",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/2/goldmoney-asian-rapid-reversals-of-fortune-in-the-semi-final.html",
-         "pubDate" : "Sat, 03 Jul 2021 01:22:31 +0000",
-         "title" : "Goldmoney Asian Rapid: Reversals of Fortune in the Semi-Finals"
       },
       {
          "description" : "",
