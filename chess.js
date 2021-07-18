@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan beat Shakhriyar Mamedyarov. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Sun, 18 Jul 2021 21:40:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-2",
+         "pubDate" : "Sun, 18 Jul 2021 19:48:55 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-anand-holds-kramnik-wins-sparkassen-trophy/articleshow/84525668.cms",
          "pubDate" : "Sun, 18 Jul 2021 20:43:22 +0530",
          "title" : "No-Castling Chess: Anand holds Kramnik, wins Sparkassen Trophy"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sun, 18 Jul 2021 15:10:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/",
          "pubDate" : "Wed, 14 Jul 2021 00:10:52 +0000",
          "title" : "Beat the Najdorf & Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
-         "pubDate" : "Tue, 13 Jul 2021 22:44:11 +0000",
-         "title" : "So Many Different Kinds of Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
       },
       {
          "description" : " Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 FIDE World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
