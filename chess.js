@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final round of the Deutschland Grand Prix is taking place concurrently with the fourth and last game of the Vishy Anand vs Vladimir Kramnik match in No Castling chess. In the Grand Prix, three players - Pavel Eljanov, Dmitrij Kollars and Daniel Fridman - are sharing first place on 5/8. Vincent Keymer stands a half point back. | Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
+         "pubDate" : "Sun, 18 Jul 2021 12:55:20 +0100",
+         "title" : "Dortmund Sparkassen Chess Trophy - Final round"
+      },
+      {
+         "description" : "15-year-old Javokhir Sindarov pulled off the biggest upset of the FIDE World Cup so far when he took down one of the dark horses to win the whole event, Alireza Firouzja, after a stylish win in the second 10-minute tiebreak game. Another Uzbek player, Jakhongir Vakhidov, beat world no. 13 Leinier Dominguez, while it was also the end of the road for the likes of Gukesh, Parham Maghsoodloo, Dmitry Jakovenko and fan favourite IMs Ravi Haria and Volodar Murzin. We got two Armageddons, with the pieces flying as Olga Badelka beat Ana Matnadze on time.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-3-sindarov-knocks-out-firouzja",
+         "pubDate" : "Sun, 18 Jul 2021 10:37:28 +0000",
+         "title" : "FIDE World Cup 2.3: Sindarov knocks out Firouzja"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84521338.cms\" />In a major setback for the Sara Bangla Daba Sangstha (SBDS), the court of Ld Fourth Civil Judge (senior division) at Alipore has restrained the newly-formed state chess body from taking control of the power of Bengal Chess Association (BCA).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/setback-for-newly-formed-chess-body-in-bengal/articleshow/84521338.cms",
+         "pubDate" : "Sun, 18 Jul 2021 15:43:42 +0530",
+         "title" : "Setback for newly-formed chess body in Bengal"
+      },
+      {
+         "description" : "GM Leinier Dominguez and GM Alireza Firouzja did not survive the FIDE World Cup&#39;s second-round tiebreaks as they lost to Uzbek GMs Jakhongir Vakhidov and GM Javokhir Sindarov, respectively. Two matches were decided in wild armageddon games. Ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-tiebreaks-armageddon-firouzja-sindarov",
+         "pubDate" : "Sun, 18 Jul 2021 02:43:00 -0700",
+         "title" : "FIDE World Cup: Dominguez, Firouzja Out On Wild Armageddon Day"
+      },
+      {
+         "description" : "Vishy Anand is still leading the No Castling chess match against Vladimir Kramnik. The Indian took the lead in game 1 and could have secured match victory in game 3, as he had a much better position with the white pieces. However, Kramnik managed to hold the draw in the end. The last game is set to take place today at 13.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-no-castling-chess-anand-kramnik-game-3",
+         "pubDate" : "Sun, 18 Jul 2021 09:35:00 +0100",
+         "title" : "No Castling Chess: Anand misses his chance"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84517420.cms\" />Former world chess champion Viswanathan Anand was held to a draw by a fighting Vladimir Kramnik in the third game of their four-game No-Castling match for the Sparkassen Chess Trophy here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-viswanathan-anand-held-to-draw-by-vladimir-kramnik-all-to-play-for-in-decider/articleshow/84517420.cms",
+         "pubDate" : "Sun, 18 Jul 2021 10:28:40 +0530",
+         "title" : "Anand held to draw by Kramnik, all to play for in decider"
+      },
+      {
          "description" : " \"Only\" 64 players are left in the <a href=\"https://worldcup.fide.com/\">2021 FIDE World Cup</a>, a massive knockout event in Sochi, Russia. While Magnus Carlsen is participating and plenty of money is at stake, its primary function is to find two qualifiers for the 2022 Candidates, with the next six qualifying for the FIDE Grand Prix next year (unless the player in question is the world champion or qualified for the Candidates through another path). We'll worry about all of that later; for the time being, let's see how the tournament is going. The top two seeds are alive and kicking - Carlsen had a bye in round 1, and won in round 2 2-0 over Sasa Martinovic. Fabiano Caruana had a bye in roun",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "FIDE World Cup: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
       },
       {
-         "description" : "Round 7 of the Sparkassen Chess Trophy in Dortmund starts early again, at 10:00 CEST (4 am ET, 8:00 UTC). After six rounds Pavel Eljanov leads the Deutschland Grand Prix with 4.5/6, followed by Dmitrij Kollars with 4.0/6. In round 7 the two leaders, Kollars and Eljanov, will play against each other. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Sat, 17 Jul 2021 09:40:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy live"
-      },
-      {
          "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -152,6 +192,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-1",
          "pubDate" : "Sat, 17 Jul 2021 01:47:06 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 1"
+      },
+      {
+         "description" : " &#8220;French Grandmaster Christian Bauer is one of his country's leading players. He is a former national champion and has represented France in numerous international team events. He has written many articles and books for several publishing houses: 'Play 1&hellip;b6' and 'The Philidor Files' for Everyman Chess and 'Play the Scandinavian' for Quality Chess. Many of <a href=\"http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/",
+         "pubDate" : "Sat, 17 Jul 2021 00:10:13 +0000",
+         "title" : "The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -656,6 +704,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
          "title" : "How to Use Tactics Puzzles to Improve | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/",
+         "pubDate" : "Wed, 14 Jul 2021 00:10:52 +0000",
+         "title" : "Beat the Najdorf & Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n teaches a chess endgame class. 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-different-kinds-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQY.jpg?itok=hkEDwFsS\" alt=\"\" /></a></div>",
@@ -1402,14 +1458,6 @@ news_feed (
          "title" : "Nihal Sarin Wins Back-To-Back Tournaments, Enters World's Top 100"
       },
       {
-         "description" : "After a year of boom in chess, the UK is hosting its biggest-ever outdoor chess event - ChessFest - in London's famous Trafalgar Square. It is just a few hundred metres away from the old-time chess mecca, Simpson's in the Strand, and the theme is inspired by Lewis Carroll's Alice Through the Looking Glass. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/is-chess-coming-home-england-looks-forward-to-its-big-day-chessfest",
-         "pubDate" : "Thu, 08 Jul 2021 16:41:29 +0000",
-         "title" : "Is chess coming \"home\"? England looks forward to its big day: ChessFest"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84243969.cms\" />Former world champion Viswanathan Anand was held to a draw by Russian Alexander Grischuk in the sixth round of the Croatia Grand Chess Tour tournament here on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1514,14 +1562,6 @@ news_feed (
          "title" : "Nakamura Wins July 6 Titled Tuesday"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84211758.cms\" />Former world champion Viswanathan Anand started with a fluent win over Dutch Grandmaster Jorden van Foreest before faltering against Maxime Vachier-Lagrave in the second round of the rapid event in the Croatia Grand Chess Tour tournament which began here Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mixed-fortunes-for-anand-in-croatia-grand-chess-tour-event/articleshow/84211758.cms",
-         "pubDate" : "Wed, 07 Jul 2021 22:14:38 +0530",
-         "title" : "Mixed fortunes for Anand in Croatia Grand Chess tour event"
-      },
-      {
          "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1586,14 +1626,6 @@ news_feed (
          "title" : "Mihail Marin: My most memorable game"
       },
       {
-         "description" : "GM Amin Tabatabaei narrowly defeated GM Anton Smirnov in an exciting match on Tuesday in the Junior Speed Chess Championship presented by ChessKid. Tabatabaei is the second Iranian player to move on to the quarterfinals after GM Parham Maghsoodloo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-tabatabaei-knocks-out-smirnov",
-         "pubDate" : "Tue, 06 Jul 2021 16:11:00 -0700",
-         "title" : "Junior Speed Chess Championship: Tabatabaei Knocks Out Smirnov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
          "pubDate" : "Tue, 06 Jul 2021 14:40:18 +0000",
          "title" : "Direct Members' Representatives - elections"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84175565.cms\" />Five-time world champion Viswanathan Anand will resume his storied rivalry with Russian legend Garry Kasparov in the Croatia Grand Chess Tour Rapid and Blitz tournament beginning on Wednesday, returning to over-the-board action after more than a year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-returns-to-over-the-board-action-after-a-year-in-croatia/articleshow/84175565.cms",
-         "pubDate" : "Tue, 06 Jul 2021 20:05:10 +0530",
-         "title" : "Anand returns to over-the-board action after a year in Croatia"
       },
       {
          "description" : " Another game in the ongoing Press v Hosking matchup. This time it wasn't drawn! <br /> <b>Press,Shaun - Hosking,Ian [A50]</b><br />Belconnen Rapid, 06.07.2021 <script>new PgnViewer( { boardName: \"game1257\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.g3 g6 5.Bg2 Bg7 6.Nc3 O-O 7.O-O d6 8.Qc2 Nbd7 9.e4 e5 10.Rd1 Re8 11.dxe5 dxe5 12.Bg5 h6 13.Bxf6 Bxf6 14.Qd2 Nc5 15.Qxh6 Qe7 16.Qe3 Rad8 17.Nd5 Bxd5 18.cxd5 Qd7 19.Rdc1 Qg4 20.b4 Na6 21.a3 Re7 22.Rc6 Kg7 23.Rac1 Rdd7 24.h3 Qh5 25.g4 Qh8 26.g5 Bxg5 27.Qxg5 Kf8 28.Bf1 Nb8 29.Rxc7 Rxc7 30.Rxc7 Rxc7 31.Qd8+ Kg7 32.Qxc7 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1257-container\"></div><div i",
@@ -2368,14 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-33-to-trade-or-not-to-trade-2",
          "pubDate" : "Sun, 27 Jun 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 33: To trade or not to trade (2)"
-      },
-      {
-         "description" : "The first five rounds of the Goldmoney Asian Rapid tournament were played on Saturday. Five players are currently sharing the lead on 3&frac12;/5 points: Vladislav Artemiev [pictured], Daniil Dubov, Levon Aronian, Ding Liren and Mangus Carlsen. The 16 participants are fighting to finish the preliminaries in the top half of the standings table, as 8 of them will move on to the knockout stage of the online event. | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-1",
-         "pubDate" : "Sun, 27 Jun 2021 12:25:00 +0100",
-         "title" : "Goldmoney Asian Rapid: Five leaders after five rounds"
       }
    ]
 }
