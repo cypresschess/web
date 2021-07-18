@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1217",
+         "pubDate" : "Sun, 18 Jul 2021 18:47:08 +0000",
+         "title" : "Magnus Carlsen on track to win"
+      },
+      {
+         "description" : "In his third column examining who is the best chess player in history - and his 150th overall - Jon Speelman fast forwards to the present champion, Magnus Carlsen. Speelman considers that Carlsen's greatest strength is in the endgame, and dares to call him the best ever for this stage of the game. | Photo: Anastasiia Korolkova / FIDE World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-150",
+         "pubDate" : "Sun, 18 Jul 2021 19:00:00 +0100",
+         "title" : "The Norwegian Bishops' new wood"
+      },
+      {
+         "description" : " It's an interesting question for all sportspeople. When should you retire? Should you quit when you're at the top, or keep going as long as you're able to do so. And, once you've retired, should you consider making a comeback? It's very much a personal choice, isn't it, especially if you're a world class practitioner <a href=\"https://chessimprover.com/comeback-kid/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/comeback-kid/",
+         "pubDate" : "Sun, 18 Jul 2021 16:55:10 +0000",
+         "title" : "Comeback Kid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84529965.cms\" />Indian Grandmasters Vidit Santosh Gujrathi, P Harikrishna and teen prodigy R Praggnanandhaa took a big step towards a spot in the fourth round of FIDE Chess World Cup here on Sunday by posting wins in the first game of the two-game mini-match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-harikrishna-praggnanandhaa-post-victories/articleshow/84529965.cms",
+         "pubDate" : "Sun, 18 Jul 2021 22:25:06 +0530",
+         "title" : "Chess World Cup: Vidit Gujrathi, Harikrishna, Praggnanandhaa post victories"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84525668.cms\" /> India's GM Viswanathan Anand won the Sparkassen Trophy after playing out a draw in his fourth and final round 'No Castling' game' against longtime rival Vladimir Kramnik of Russia on Sunday. Playing white in a Tarrasch variation, Anand, a former world champion, settled for a draw in 40 moves, to win the match 2.5-1.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-anand-holds-kramnik-wins-sparkassen-trophy/articleshow/84525668.cms",
+         "pubDate" : "Sun, 18 Jul 2021 20:43:22 +0530",
+         "title" : "No-Castling Chess: Anand holds Kramnik, wins Sparkassen Trophy"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sun, 18 Jul 2021 15:10:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-round-3-underway/",
          "pubDate" : "Sun, 18 Jul 2021 13:53:16 +0000",
          "title" : "FIDE WORLD CUP 2021 - Round 3 underway"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sun, 18 Jul 2021 13:50:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : " The Auckland Chess Club has just hosted the traditional George Trundle Masters, which is a series of RR events for top NZ and overseas players. Of course this year was missing the overseas players part, but the event still attracted a strong field. The top section was won by IM Anthony Garbett with 7/9, while CM Richard Meng won the qualifiers with 7.5. Full results can be found at <a href=\"https://www.vegaresult.com/vega-trn/index.php?id=590 \">https://www.vegaresult.com/vega-trn/index.php?id=590 </a> While I wasn't really following the action while the tournament was taking place, I did have a look at a few games after the event was over. One that struck me as particularly interesting was ",
@@ -1538,22 +1578,6 @@ news_feed (
          "title" : "2021 ACT Winter Open - 23-25 July 2021"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84232470.cms\" />14-year-old Aditya Mittal on Thursday earned his first Grandmaster title. He achieved the feat in the ongoing Serbian Open. Mittal scored 7/9 including three consecutive wins against GMs to win his first Grandmaster title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/14-year-old-aditya-mittal-earns-first-grandmaster-title/articleshow/84232470.cms",
-         "pubDate" : "Thu, 08 Jul 2021 15:47:56 +0530",
-         "title" : "14-year-old Aditya Mittal earns first Grandmaster title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84226901.cms\" />India's best bet and country's top teenage Grandmaster (GM) Nihal Sarin continued his impressive run by sharing the lead in the Masters group of Serbia Open international rating chess tournament at Belgrade.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihal-maintains-lead-arjun-loses-raunak-withdraws-in-serbia-open/articleshow/84226901.cms",
-         "pubDate" : "Thu, 08 Jul 2021 11:19:03 +0530",
-         "title" : "Nihal maintains lead, Arjun loses, Raunak withdraws in Serbia Open"
-      },
-      {
          "description" : "Two wins and a draw gave Ian Nepomniachtchi a commanding lead after day 1 at the Croatian leg of the Grand Chess Tour. Not only was the World Championship challenger the only player to end the day with a plus score, but he also showed excellent form in the first three games of the rapid section. Plenty of exciting chess was seen in Zagreb, with living legend Viswanathan Anand showing that he still has what it takes to fight on an equal footing with the world's elite. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2298,14 +2322,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 7"
       },
       {
-         "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch It takes time to convince yourself to try new things. Depending what they are, you might jump at the opportunity right away or dismiss in outright. More often than not you find first a reason why you should not do it. I guess <a href=\"https://chessimprover.com/three-check-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess/\">Three Check Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/three-check-chess/",
-         "pubDate" : "Tue, 29 Jun 2021 14:58:54 +0000",
-         "title" : "Three Check Chess"
-      },
-      {
          "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2416,22 +2432,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/winning-won-position/",
          "pubDate" : "Mon, 28 Jun 2021 04:14:00 +0000",
          "title" : "How To Win A Winning Position In Chess"
-      },
-      {
-         "description" : " Back in December, when the world was grappling with the COVID-19 pandemic, Senegal was hosting its National Open qualifier to determine who would compete in the National Championships. The seven-round Open Swiss tournament attracted 44 participants and had a time control of 60 minutes. The event took place at the Cours Sainte Marie De Hann [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/\">Senegal crowns national chess champion!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/06/27/senegal-crowns-national-champion/",
-         "pubDate" : "Sun, 27 Jun 2021 19:04:33 +0000",
-         "title" : "Senegal crowns national chess champion!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1169",
-         "pubDate" : "Sun, 27 Jun 2021 17:47:54 +0000",
-         "title" : "Ding and Aronian take the lead"
       }
    ]
 }
