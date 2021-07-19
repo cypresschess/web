@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Mon, 19 Jul 2021 21:10:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-harikrishna-wins-sarin-crashes-out-praggnanandhaa-faces-tie-break-against-krasenkow/articleshow/84561133.cms",
+         "pubDate" : "Mon, 19 Jul 2021 22:36:26 +0530",
+         "title" : "World Cup: Harikrishna wins, Sarin crashes out"
+      },
+      {
+         "description" : " Share!Round 3, Game 1 Sunday, 18 July 2021 Shakhriyar Mamedyarov goes down Carissa Yip scores big win! GM Bassem Amin (Egypt)Photo by IM Eric Rosen There were some FIDE World Cup viewers who were clamoring for Bassem Amin's game. While it may go unnoticed to most, Amin is an iconic figure in African and Egyptian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/\">2021 FIDE World Cup: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/",
+         "pubDate" : "Mon, 19 Jul 2021 16:38:49 +0000",
+         "title" : "2021 FIDE World Cup: Round #3"
+      },
+      {
+         "description" : "GM Viswanathan Anand defeated GM Vladimir Kramnik 2.5-1.5 in a four-game No Castling chess match in Dortmund, Germany. Anand&#39;s win in the first game was decisive in this event where the players were not allowed to castle. The idea for this match...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anand-beats-kramnik-in-no-castling-match",
+         "pubDate" : "Mon, 19 Jul 2021 09:34:00 -0700",
+         "title" : "Anand Beats Kramnik In No Castling Match"
+      },
+      {
          "description" : "It was a mixed day for Indians in the game 1 of round 3 of the World Cup. While Harikrishna, Vidit and Praggnanandhaa posted convincing",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-chess-day-20th-july/",
          "pubDate" : "Mon, 19 Jul 2021 13:22:38 +0000",
          "title" : "International Chess Day 20th July"
-      },
-      {
-         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Mon, 19 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup, Round 3.2 - Live!"
       },
       {
          "description" : "Online chess helped a lot of players to cope with the corona lockdown. But some players simply do not like to play online and they particularly enjoy the return to over-the-board chess. The German top player Liviu-Dieter Nisipeanu is such a player, and he recently won the Benasque Open with the sensational result of 9 points from 10 games. Jesper Sondergaard Thybo (Denmark) and Gergely Kandor (Hungary) finished with one point less and shared places two and three. | Photo: Raluca Scircea (Tournament page)",
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3",
          "pubDate" : "Mon, 19 Jul 2021 04:49:20 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3"
+      },
+      {
+         "description" : " &#8220;Justin Tan is an International Grandmaster who has represented Australia in numerous international events. He is currently based in the UK and was previously British under-21 champion, British blitz champion and joint second runner-up at the British Championship. Justin has been a 1.e4 specialist throughout his playing career and is recognised for his deep opening <a href=\"http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.e4! The Chess Bible: The Chess Bible Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/202",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/",
+         "pubDate" : "Mon, 19 Jul 2021 00:10:29 +0000",
+         "title" : "1.e4! The Chess Bible: The Chess Bible - Volume 1"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -466,7 +498,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
       },
       {
-         "description" : " Share!Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian withdraws due to tonsilitis, fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the arbiters [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian withdraws due to tonsilitis, fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the arbiters [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
@@ -1610,14 +1642,6 @@ news_feed (
          "title" : "Croatia Rapid & Blitz: Nepomniachtchi Loses To Saric, Still Leads"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84245692.cms\" />As dreaded as it may sound, 'second wave' has been a memorable one for Nihal Sarin this week. After a blistering win in the Silver Lake open, the Masters Group of Serbia Open saw Nihal sweep away his opponents to emerge champion for the second time in a week in as many over-the-board appearances after the unlock.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nihals-second-wave-sweeps-away-opponents-seals-serbia-open-chess-crown/articleshow/84245692.cms",
-         "pubDate" : "Thu, 08 Jul 2021 22:49:26 +0530",
-         "title" : "Nihal sweeps away opponents, seals Serbia Open chess crown"
-      },
-      {
          "description" : "16-year-old GM Nihal Sarin has a fantastic month of chess behind him. The Indian prodigy won two strong tournaments in a row in Serbia and gained 35 Elo points, reaching a virtual rating of 2655. How to watch?The games of the Silver Lake Open ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-martirosyan-keymer",
          "pubDate" : "Wed, 07 Jul 2021 10:40:30 -0700",
          "title" : "Junior Speed Chess Championship: Martirosyan Too Strong For Keymer"
-      },
-      {
-         "description" : "GM Hikaru Nakamura returned to the top of Titled Tuesday this week, winning outright with a score of 10/11. GM Parham Maghsoodloo, coming off a win in the Round of 16 in the Junior Speed Chess Championship, scored 9.5/11 for second place. Five pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-july-6-titled-tuesday",
-         "pubDate" : "Wed, 07 Jul 2021 10:17:37 -0700",
-         "title" : "Nakamura Wins July 6 Titled Tuesday"
       },
       {
          "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1172",
          "pubDate" : "Mon, 28 Jun 2021 20:51:02 +0000",
          "title" : "Levon Aronian wins prelim stage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1171",
-         "pubDate" : "Mon, 28 Jun 2021 18:23:37 +0000",
-         "title" : "Lei Tingjie reaches semifinals"
       }
    ]
 }
