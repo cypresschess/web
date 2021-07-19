@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a mixed day for Indians in the game 1 of round 3 of the World Cup. While Harikrishna, Vidit and Praggnanandhaa posted convincing",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-mixed-day-for-indians/",
+         "pubDate" : "Mon, 19 Jul 2021 15:21:37 +0000",
+         "title" : "World Cup - Mixed day for Indians"
+      },
+      {
+         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan (pictured) beat Shakhriyar Mamedyarov. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d1",
+         "pubDate" : "Mon, 19 Jul 2021 15:00:00 +0100",
+         "title" : "World Cup: Plenty of decisive results"
+      },
+      {
+         "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-chess-day-20th-july/",
+         "pubDate" : "Mon, 19 Jul 2021 13:22:38 +0000",
+         "title" : "International Chess Day 20th July"
+      },
+      {
+         "description" : "For the first time, a Women's World Cup will be played concurrently with the already traditional massive, biennial World Cup. The open event includes no fewer than 206 players, while the women's tournament includes half that amount: 103 participants. The knockout events are held from July 10 to August 8 at the Gazprom Mountain Resort in Sochi. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Mon, 19 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup, Round 3.2 - Live!"
+      },
+      {
          "description" : "Online chess helped a lot of players to cope with the corona lockdown. But some players simply do not like to play online and they particularly enjoy the return to over-the-board chess. The German top player Liviu-Dieter Nisipeanu is such a player, and he recently won the Benasque Open with the sensational result of 9 points from 10 games. Jesper Sondergaard Thybo (Denmark) and Gergely Kandor (Hungary) finished with one point less and shared places two and three. | Photo: Raluca Scircea (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-joys-of-otb-chess-nisipeanu-wins-the-benasque-open",
          "pubDate" : "Mon, 19 Jul 2021 12:59:16 +0100",
          "title" : "The joys of OTB chess: Nisipeanu wins the Benasque Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1219",
+         "pubDate" : "Mon, 19 Jul 2021 11:25:22 +0000",
+         "title" : "International Chess Day celebrated on July 20"
       },
       {
          "description" : "There were an amazing 28 decisive games and just 20 draws as Round 3 of the FIDE World Cup began, with Magnus Carlsen among the winners after tricking Aryan Tari in time trouble. Major upsets saw world no. 6 Shakhriyar Mamedyarov lose the fastest decisive game of the day, to Haik Martirosyan, while Yu Yangyi (vs. Tabatabaei), Jorden van Foreest (Piorun), Salem Saleh (Brkic) and Matthias Bluebaum (Ivic) must all win on Monday to stay in the World Cup. 17-year-old Carissa Yip scored the standout win of the women's section, beating Nana Dzagnidze with Black.",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3",
          "pubDate" : "Mon, 19 Jul 2021 04:49:20 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3"
-      },
-      {
-         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan beat Shakhriyar Mamedyarov. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Sun, 18 Jul 2021 21:40:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -224,6 +256,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-no-castling-chess-anand-kramnik-game-3",
          "pubDate" : "Sun, 18 Jul 2021 09:35:00 +0100",
          "title" : "No Castling Chess: Anand misses his chance"
+      },
+      {
+         "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-senior-women-junior-open-junior-girls-online-chess-championships-2021/",
+         "pubDate" : "Sun, 18 Jul 2021 07:59:00 +0000",
+         "title" : "NATIONAL SENIOR, WOMEN, JUNIOR OPEN & JUNIOR GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84517420.cms\" />Former world chess champion Viswanathan Anand was held to a draw by a fighting Vladimir Kramnik in the third game of their four-game No-Castling match for the Sparkassen Chess Trophy here.",
@@ -488,14 +528,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-six/",
          "pubDate" : "Fri, 16 Jul 2021 09:31:44 +0000",
          "title" : "A Foundation for Beginners Twenty Six"
-      },
-      {
-         "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-senior-women-junior-open-junior-girls-online-chess-championships-2021/",
-         "pubDate" : "Fri, 16 Jul 2021 07:59:35 +0000",
-         "title" : "NATIONAL SENIOR, WOMEN, JUNIOR OPEN & JUNIOR GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong>Moroccan Chess Federation</strong> failed to function properly since years, <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1199\">has appointed</a> its Deputy President <strong>Bachar Kouatly</strong> as a Reverse Delegate of the Morrocan Federation to assist in the reconstitution. Arabic is the mother tongue of the former President of the French Chess Federation who has a big network in the Mahgreb. </div> ",
@@ -1040,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1205",
          "pubDate" : "Tue, 13 Jul 2021 06:52:04 +0000",
          "title" : "2021 Koltanowski Conference on Chess in Education to be at the end of July"
-      },
-      {
-         "description" : "World Cup 2021 got off to a rousing start on Monday at Sochi, Russia and Indian players shined on Day one. Erode based P Iniyan",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-begins-good-day-for-india/",
-         "pubDate" : "Tue, 13 Jul 2021 06:14:43 +0000",
-         "title" : "WORLD CUP BEGINS; GOOD DAY FOR INDIA"
       },
       {
          "description" : "",
@@ -2394,14 +2418,6 @@ news_feed (
          "title" : "New: ChessBase Magazine 202"
       },
       {
-         "description" : "It was Steinitz who claimed that the king is strong, even in the opening and the middlegame. However, the more enemy pieces on the board, the greater the danger for His Majesty. But in the endgame the king can often show its power. In the diagram position Black is a pawn down but is still able to draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-king-is-a-strong-piece",
-         "pubDate" : "Tue, 29 Jun 2021 09:54:32 +0100",
-         "title" : "The king is a strong piece"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2424,22 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1171",
          "pubDate" : "Mon, 28 Jun 2021 18:23:37 +0000",
          "title" : "Lei Tingjie reaches semifinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1170",
-         "pubDate" : "Mon, 28 Jun 2021 13:28:02 +0000",
-         "title" : "Qatar Chess Association and Northwestern University in Qatar gain recognition for their joint course \"Chess and Strategic Thinking\""
-      },
-      {
-         "description" : " This post was originally going to be another one about very short losses by people who should know better. I downloaded the latest set of games from TWIC and sorted them by length, to find likely candidates. I quickly discovered that almost all the miniatures I was looking at occurred in online events. I'm assuming with the games played at a fast time limit (3m+1s) that mistakes will happen, but these were pretty horrible. Clearly the online chess boom has made chess more popular, but at least in this format, there is a price to be paid. Here is one example of what I am talking about! <br /> <b>Zhukov,Anton (2174) - Boyer,Mahel (2412) [A01]</b><br />Titled Tuesday 15th June chess.com INT (5",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/one-reason-i-dont-play-online.html",
-         "pubDate" : "Mon, 28 Jun 2021 12:56:00 +0000",
-         "title" : "One reason I don't play online"
       }
    ]
 }
