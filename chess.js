@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Online chess helped a lot of players to cope with the corona lockdown. But some players simply do not like to play online and they particularly enjoy the return to over-the-board chess. The German top player Liviu-Dieter Nisipeanu is such a player, and he recently won the Benasque Open with the sensational result of 9 points from 10 games. Jesper Sondergaard Thybo (Denmark) and Gergely Kandor (Hungary) finished with one point less and shared places two and three. | Photo: Raluca Scircea (Tournament page)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-joys-of-otb-chess-nisipeanu-wins-the-benasque-open",
+         "pubDate" : "Mon, 19 Jul 2021 12:59:16 +0100",
+         "title" : "The joys of OTB chess: Nisipeanu wins the Benasque Open"
+      },
+      {
+         "description" : "There were an amazing 28 decisive games and just 20 draws as Round 3 of the FIDE World Cup began, with Magnus Carlsen among the winners after tricking Aryan Tari in time trouble. Major upsets saw world no. 6 Shakhriyar Mamedyarov lose the fastest decisive game of the day, to Haik Martirosyan, while Yu Yangyi (vs. Tabatabaei), Jorden van Foreest (Piorun), Salem Saleh (Brkic) and Matthias Bluebaum (Ivic) must all win on Monday to stay in the World Cup. 17-year-old Carissa Yip scored the standout win of the women's section, beating Nana Dzagnidze with Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-1-mamedyarov-yu-among-28-in-danger",
+         "pubDate" : "Mon, 19 Jul 2021 11:24:04 +0000",
+         "title" : "FIDE World Cup 3.1: Mamedyarov & Yu among 28 in danger"
+      },
+      {
+         "description" : "Solving tactical exercises regularly keeps you in shape, helps you to play better and helps you to score more points but it can also make you happy. After all, solving a puzzle usually leads to a little dopamine rush. Mattis Traetmar is a great fan of solving tactical exercises and has selected eight nice examples for you - some of them well-known, some of them rather simple and some of them more difficult.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tactics-for-fun-and-to-improve",
+         "pubDate" : "Mon, 19 Jul 2021 11:57:00 +0100",
+         "title" : "Tactics - for fun and to improve"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1218",
+         "pubDate" : "Mon, 19 Jul 2021 10:37:42 +0000",
+         "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov needs to win on-demand in the third round&#39;s second game at the FIDE World Cup. The recent winner of the Superbet Chess Classic stumbled on Sunday vs. GM Haik Martirosyan. Other rating favorites who started with a loss incl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-1-martirosyan",
+         "pubDate" : "Mon, 19 Jul 2021 03:05:00 -0700",
+         "title" : "FIDE World Cup R3: Dzagnidze, Mamedyarov, Yu In Trouble"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at the Grand Chess Tour Croatia rapid and blitz tournament. He wonders about Kasparov's collapse and analyses the instructive and interesting rapid game between Ian Nepomniachtchi and Anton Korobov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-472-i-nepomniachtchi-a-korobov",
+         "pubDate" : "Mon, 19 Jul 2021 11:00:00 +0100",
+         "title" : "Game of the Week 472: I. Nepomniachtchi - A. Korobov"
+      },
+      {
+         "description" : "Thanks to a final-round win over Rustam Kasimdzhanov, Pavel Eljanov took clear first place at the Deutschland Grand Prix in Dortmund. The Ukrainian grandmaster had been in the sole lead until round 7, when he was beaten by Dmitrij Kollars. Kollars, who lost his penultimate game against Kasimdzhanov, finished in shared second place, together with Daniel Fridman.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pavel-eljanov-wins-deutschland-grand-prix-2021",
+         "pubDate" : "Mon, 19 Jul 2021 09:50:00 +0100",
+         "title" : "Pavel Eljanov wins Deutschland Grand Prix"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After a new world's youngest grandmaster record has been set, the cottage industry of title norm tournaments has come under scrutiny, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/qiyu-zhou.1920.jpeg\" title=\"Fantastic results against Eastern European title holders got streaming and E-sport star Zhou Qiyu the WGM and FM titles. Zhou Qiyu Instagram\" data-title=\"Fantastic results against Eastern European title holders got streaming and E-sport star Zhou Qiyu the WGM and FM titles. (Zhou Qiyu Instagram)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/beyond-the-norm/",
+         "pubDate" : "Mon, 19 Jul 2021 08:44:02 +0100",
+         "title" : "Beyond the norm"
+      },
+      {
          "description" : "We are pleased to announce that the English Junior Coaches and Organisers Association, with the support of the English Chess Federation, has teamed up with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1114,14 +1178,6 @@ news_feed (
          "title" : "MVL Wins Croatian Grand Chess Tour Event; Kasparov Bombs"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has <a href=\"https://www.schachbund.de/news/yuri-yakovich-wird-bundestrainer-der-frauen.html\">appointed</a> <strong>Yuri Yakovich</strong> as coach of their women team. The 58-year-old Russian GM has worked with many talents and the Kazakh and Russian federations. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/yakovich-to-coach-germanys-women/",
-         "pubDate" : "Mon, 12 Jul 2021 03:28:26 +0100",
-         "title" : "Yakovich to coach Germany's women team"
-      },
-      {
          "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1466,14 +1522,6 @@ news_feed (
          "title" : "10th Riga Technical University Open 2021"
       },
       {
-         "description" : "Croatian no. 1 Ivan Saric beat World Champion Magnus Carlsen in the 2014 Olympiad, and on Day 2 of the Croatian Grand Chess Tour in Zagreb he got to celebrate defeating World Championship Challenger Ian Nepomniachtchi as well. That win with the black pieces allowed Ivan to join Vishy Anand and Maxime Vachier-Lagrave in moving to within just a point of the leader on a day when no-one managed to win more than a single game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/croatia-gct-2-saric-shocks-nepo",
-         "pubDate" : "Fri, 09 Jul 2021 07:13:19 +0000",
-         "title" : "Croatia GCT 2: Saric shocks Nepo"
-      },
-      {
          "description" : " Garry Kasparov to take on world title challenger, Ian Nepomniachtchi, this weekend Magnus Carlsen suffered a rare double setback last weekend when the world champion twice lost three games in a row at the $100,000 Goldmoney Asian Rapid. The defeats occurred in his losing semi-final against the world No 5, Levon Aronian, then in his third place play-off against Ding Liren, though he still managed to defeat China's world No 3. The 30-year-old Norwegian had an off day, missing several tactical chances. The No 1 has already qualified for the Meltwater Champions Tour final after winning the two previous events, so diminished motivation explains it. Next week he bids to try and put to rest a long",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1680,14 +1728,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alpha-zero-to-analyse-no-castling-match-dortmund",
          "pubDate" : "Wed, 07 Jul 2021 10:40:00 +0100",
          "title" : "AlphaZero to analyse \"no-castling\" match of the champions"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina is the first woman ever to qualify for the open section of the Russian Championship Superfinal. The 22-year-old grandmaster from Orsk, Russia, finished in shared second place at the Higher League tournament in Cheboksary,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aleksandra-goryachkina-russian-championship-higher-league-superfinal-2600",
-         "pubDate" : "Wed, 07 Jul 2021 02:24:00 -0700",
-         "title" : "Goryachkina 1st Woman To Qualify For Russian Championship Superfinal"
       },
       {
          "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
@@ -2362,14 +2402,6 @@ news_feed (
          "title" : "The king is a strong piece"
       },
       {
-         "description" : "Levon Aronian won the preliminaries of the Goldmoney Asian Rapid tournament after scoring two wins and three draws on Monday to get a 10&frac12;/15 score. Eight out of the sixteen participants made it into the knockout stage, with 17-year-old Arjun Erigaisi surprisingly qualifying, while Alireza Firouzja, Peter Svidler and Daniil Dubov were left out of contention. | Don't miss the instructive analyses by GM Karsten M&uuml;ller! | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-3",
-         "pubDate" : "Tue, 29 Jun 2021 01:35:00 +0100",
-         "title" : "Goldmoney Asian Rapid: Firouzja, Svidler and Dubov miss the cut"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2394,14 +2426,6 @@ news_feed (
          "title" : "Lei Tingjie reaches semifinals"
       },
       {
-         "description" : "Ulf Andersson is the best Swedish chess player of all time and at his peak he was the world's number four. Andersson is also a correspondence chess grandmaster and one of the best correspondence chess players in the world. Yesterday, 27 June, he celebrated his 70th birthday. | Photo: Bert Verhoeff / Anefo / CCO",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swedish-chess-legend-ulf-andersson-celebrates-his-70th-birthday",
-         "pubDate" : "Mon, 28 Jun 2021 16:53:45 +0100",
-         "title" : "Swedish chess legend Ulf Andersson celebrates his 70th birthday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2410,28 +2434,12 @@ news_feed (
          "title" : "Qatar Chess Association and Northwestern University in Qatar gain recognition for their joint course \"Chess and Strategic Thinking\""
       },
       {
-         "description" : "Planning in chess is a fine and important art. On his DVD \"Strategy Training: How to Make a Plan\" Robert Ris shows how to master this art. Jana Schneider, one of Germany's top women players, had a look at the DVD and liked what she saw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-how-to-make-a-plan-a-review",
-         "pubDate" : "Mon, 28 Jun 2021 14:05:00 +0100",
-         "title" : "Robert Ris: \"How to Make a Plan\" - A review"
-      },
-      {
          "description" : " This post was originally going to be another one about very short losses by people who should know better. I downloaded the latest set of games from TWIC and sorted them by length, to find likely candidates. I quickly discovered that almost all the miniatures I was looking at occurred in online events. I'm assuming with the games played at a fast time limit (3m+1s) that mistakes will happen, but these were pretty horrible. Clearly the online chess boom has made chess more popular, but at least in this format, there is a price to be paid. Here is one example of what I am talking about! <br /> <b>Zhukov,Anton (2174) - Boyer,Mahel (2412) [A01]</b><br />Titled Tuesday 15th June chess.com INT (5",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/06/one-reason-i-dont-play-online.html",
          "pubDate" : "Mon, 28 Jun 2021 12:56:00 +0000",
          "title" : "One reason I don't play online"
-      },
-      {
-         "description" : "Two thirds of the Goldmoney Asian Rapid preliminary stage have been completed. With five rounds to go, Ding Liren and Levon Aronian are sharing the lead on 7/10. Some strong players, such as Daniil Dubov, Alireza Firouzja and Peter Svidler are currently in the bottom half of the standings table. They will have to fight hard on Monday if they want to move on to the knockout stage of the tournament. | Pictured: Arjun Erigaisi | Photo: Lennart Ootes / Sunway Sitges",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-2",
-         "pubDate" : "Mon, 28 Jun 2021 10:00:00 +0100",
-         "title" : "Goldmoney Asian Rapid: A tough field"
       }
    ]
 }
