@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Mon, 19 Jul 2021 21:10:00 +0100",
-         "title" : "World Cup - Express report"
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d2",
+         "pubDate" : "Tue, 20 Jul 2021 01:00:00 +0100",
+         "title" : "World Cup: Jumabayev stuns Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1214",
+         "pubDate" : "Mon, 19 Jul 2021 22:46:24 +0000",
+         "title" : "FIDE and NBC Sports announce chess partnership for the World Championship Match 2021"
+      },
+      {
+         "description" : "Today, 20th of July, the World celebrates the #InternationalChessDay. The&#160;International Chess Federation&#160;(FIDE) was founded 97 years ago, on 20th July 1924 in Paris. The idea to celebrate this day as the International Chess Day was proposed by&#160;UNESCO, and it has been celebrated as such since 1966. On December 12, 2019, the&#160;UN General Assembly&#160;unanimously approved a resolution recognising the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/happy-international-chess-day/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/happy-international-chess-day/",
+         "pubDate" : "Mon, 19 Jul 2021 21:26:24 +0000",
+         "title" : "Happy International Chess Day!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1220",
+         "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
+         "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-harikrishna-wins-sarin-crashes-out-praggnanandhaa-faces-tie-break-against-krasenkow/articleshow/84561133.cms",
          "pubDate" : "Mon, 19 Jul 2021 22:36:26 +0530",
          "title" : "World Cup: Harikrishna wins, Sarin crashes out"
+      },
+      {
+         "description" : " The FIDE World Cup takes place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics and is high in the mountains. The field is very strong headed by World Champion Magnus Carlsen, but also including Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Shakhriyar Mamedyarov, Maxime Vachier Lagrave, Alireza Firouzja, Leinier Dominguez, Sergey Karjakin, Pentala Harikrishna, Jan-Krzysztof Duda, Vidit Santosh Gujrathi, Dmitry Andreikin, Nikita Vitiugov etc. The event has two innovations, it's 8 rounds rather than 7 with the first round being a sort of preliminary. Secondly there is a women's event alongside ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
+         "pubDate" : "Mon, 19 Jul 2021 20:54:00 +0400",
+         "title" : "FIDE World Cup 2021 - Games and Results"
       },
       {
          "description" : " Share!Round 3, Game 1 Sunday, 18 July 2021 Shakhriyar Mamedyarov goes down Carissa Yip scores big win! GM Bassem Amin (Egypt)Photo by IM Eric Rosen There were some FIDE World Cup viewers who were clamoring for Bassem Amin's game. While it may go unnoticed to most, Amin is an iconic figure in African and Egyptian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/\">2021 FIDE World Cup: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://aicf.in/world-cup-mixed-day-for-indians/",
          "pubDate" : "Mon, 19 Jul 2021 15:21:37 +0000",
          "title" : "World Cup - Mixed day for Indians"
-      },
-      {
-         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan (pictured) beat Shakhriyar Mamedyarov. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d1",
-         "pubDate" : "Mon, 19 Jul 2021 15:00:00 +0100",
-         "title" : "World Cup: Plenty of decisive results"
       },
       {
          "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tactics-for-fun-and-to-improve",
          "pubDate" : "Mon, 19 Jul 2021 11:57:00 +0100",
          "title" : "Tactics - for fun and to improve"
+      },
+      {
+         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan (pictured) beat Shakhriyar Mamedyarov. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d1",
+         "pubDate" : "Mon, 19 Jul 2021 11:40:00 +0100",
+         "title" : "World Cup: Plenty of decisive results"
       },
       {
          "description" : "",
@@ -842,7 +874,7 @@ news_feed (
          "title" : "Chess World Cup: Grandmaster D Gukesh enters second round"
       },
       {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Catez, Slovenia on Sunday 14th November 2021. The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Catez, Slovenia on Sunday 14th November 2021.&#160; The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-2021/",
@@ -998,7 +1030,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-announces-2021-fide-online-olympiad",
-         "pubDate" : "Tue, 13 Jul 2021 08:43:53 -0700",
+         "pubDate" : "Tue, 13 Jul 2021 08:43:00 -0700",
          "title" : "Chess.com Announces The 2021 FIDE Online Chess Olympiad"
       },
       {
@@ -1384,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1198",
          "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
          "title" : "Day 4 Recap"
-      },
-      {
-         "description" : " The FIDE World Cup takes place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics and is high in the mountains. The field is very strong headed by World Champion Magnus Carlsen, but also including Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Shakhriyar Mamedyarov, Maxime Vachier Lagrave, Alireza Firouzja, Leinier Dominguez, Sergey Karjakin, Pentala Harikrishna, Jan-Krzysztof Duda, Vidit Santosh Gujrathi, Dmitry Andreikin, Nikita Vitiugov etc. The event has two innovations, it's 8 rounds rather than 7 with the first round being a sort of preliminary. Secondly there is a women's event alongside ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
-         "pubDate" : "Sun, 11 Jul 2021 10:26:00 +0400",
-         "title" : "FIDE World Cup 2021 - Games and Results"
       },
       {
          "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
@@ -2432,22 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-cbm-202",
          "pubDate" : "Tue, 29 Jun 2021 11:00:00 +0100",
          "title" : "New: ChessBase Magazine 202"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1173",
-         "pubDate" : "Mon, 28 Jun 2021 22:02:07 +0000",
-         "title" : "Queens' Festival goes big"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1172",
-         "pubDate" : "Mon, 28 Jun 2021 20:51:02 +0000",
-         "title" : "Levon Aronian wins prelim stage"
       }
    ]
 }
