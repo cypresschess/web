@@ -1,5 +1,7 @@
 jtable([
+"HOUSTON","2021-07-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107189492 target=' blank'>SUNSWISSJULY18</a>",
 "SPRING","2021-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107179032 target=' blank'>DER SPRINGERS</a>",
+"CYPRESS","2021-07-16","15","<a href=http://www.uschess.org/msa/XtblMain.php?202107169132 target=' blank'>05212021KOFC</a>",
 "SPRING","2021-07-16","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107168592 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-07-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107096112 target=' blank'>FRIDAYFLEX79</a>",
 "CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target=' blank'>05212021KOFC</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2020-03-07","18","<a href=http://www.uschess.org/msa/XtblMain.php?202003072312 target=' blank'>THE CHESS REFINERY: 360+MINUTES</a>",
 "HOUSTON","2020-03-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202003062472 target=' blank'>CHESSPANDA03062020FRIDAY</a>",
 "CYPRESS","2020-03-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202003061862 target=' blank'>KOFC06MAR20</a>",
-"TOMBALL","2020-03-06","6","<a href=http://www.uschess.org/msa/XtblMain.php?202003061742 target=' blank'>THE FRIDAY KNIGHTS ADVANCED</a>",
-"TOMBALL","2020-03-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202003061652 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
 ]);
