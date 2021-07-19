@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are pleased to announce that the English Junior Coaches and Organisers Association, with the support of the English Chess Federation, has teamed up with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-trainers-seminar-3/",
+         "pubDate" : "Mon, 19 Jul 2021 07:25:40 +0000",
+         "title" : "FIDE Trainers Seminar"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3",
+         "pubDate" : "Mon, 19 Jul 2021 04:49:20 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3"
+      },
+      {
          "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan beat Shakhriyar Mamedyarov. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "FIDE WORLD CUP 2021 - Round 3 underway"
       },
       {
-         "description" : " The Auckland Chess Club has just hosted the traditional George Trundle Masters, which is a series of RR events for top NZ and overseas players. Of course this year was missing the overseas players part, but the event still attracted a strong field. The top section was won by IM Anthony Garbett with 7/9, while CM Richard Meng won the qualifiers with 7.5. Full results can be found at <a href=\"https://www.vegaresult.com/vega-trn/index.php?id=590 \">https://www.vegaresult.com/vega-trn/index.php?id=590 </a> While I wasn't really following the action while the tournament was taking place, I did have a look at a few games after the event was over. One that struck me as particularly interesting was ",
+         "description" : " The Auckland Chess Club has just hosted the traditional George Trundle Masters, which is a series of RR events for top NZ and overseas players. Of course this year was missing the overseas players part, but the event still attracted a strong field. The top section was won by IM <s>Anthony</s> Paul Garbett with 7/9, while CM Richard Meng won the qualifiers with 7.5. Full results can be found at <a href=\"https://www.vegaresult.com/vega-trn/index.php?id=590 \">https://www.vegaresult.com/vega-trn/index.php?id=590 </a> While I wasn't really following the action while the tournament was taking place, I did have a look at a few games after the event was over. One that struck me as particularly inte",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-george-trundle-masters.html",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
          "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
          "title" : "So Many Practical Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how to study tactics puzzles effectively. Recognize and break down patterns. Study like Caleb at Chessbolt.com and listudy.org. 2021.07.13<br /> Mikola1000 vs. dorhinj1, ???<br /> Aakaash Meduri vs. Caleb Denby, 2021 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-use-tactics-puzzles-improve-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
-         "title" : "How to Use Tactics Puzzles to Improve | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
@@ -2424,14 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-2",
          "pubDate" : "Mon, 28 Jun 2021 10:00:00 +0100",
          "title" : "Goldmoney Asian Rapid: A tough field"
-      },
-      {
-         "description" : " We all know that feeling of fucking up a winning position. It truly hurts and it seems to be a never ending experience. After reading this article you will convert more of your winning positions! Getting a winning position is only half the work. Converting the winning advantage is the real test. It is no [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/winning-won-position/\">How To Win A Winning Position In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/winning-won-position/",
-         "pubDate" : "Mon, 28 Jun 2021 04:14:00 +0000",
-         "title" : "How To Win A Winning Position In Chess"
       }
    ]
 }
