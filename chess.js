@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg\" data-image-dimensions=\"1080x861\" data-image-focal-point=\"0.5,0.5\" alt=\"Joepos2.jpg\" data-load=\"false\" data-image-id=\"60f6d9bac1b5864344158083\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg?format=1000w\" /> </figure> <p class=\"\">This week, Perpetual Chess features a different kind of guest, Joe Posnanski was twice- named the best sportswriter in America by the Associated Press. He is also a pop",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/20/episode-235-joe-posnanski",
+         "pubDate" : "Tue, 20 Jul 2021 14:14:44 +0000",
+         "title" : "Episode 235- Joe Posnanski "
+      },
+      {
+         "description" : "The 2021 world championship match between GM Magnus Carlsen and GM Ian Nepomniachtchi will not only be covered closely by Chess.com and other platforms. It&#39;s also going to be on broadcast network television each day. The International Chess Fede...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nbc-sports-world-chess-championship-ashley",
+         "pubDate" : "Tue, 20 Jul 2021 06:43:00 -0700",
+         "title" : "NBC Sports To Cover World Chess Championship"
+      },
+      {
+         "description" : " Today (20th July) is International Chess Day. I'm not really sure what this entails, although teaching people how to play chess is surely part of it. If it is, I at least did my bit, doing some school and private coaching, and then donating some rating points to the more deserving at my local club! ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/international-chess-day.html",
+         "pubDate" : "Tue, 20 Jul 2021 13:38:00 +0000",
+         "title" : "International Chess Day"
+      },
+      {
+         "description" : "A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs at the FIDE World Cups in Sochi. Players as strong as Anish Giri, Maxime Vachier-Lagrave and Peter Svidler are in danger of being knocked out by lower-rated opponents. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Bela Khotenashvili | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Tue, 20 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "Fabiano Caruana is out of the FIDE World Cup after a shock loss to Kazakhstan's Rinat Jumabayev. Fabi has dropped below Ding Liren on the live rating list, with Magnus Carlsen, who has now won all four games in Sochi, the only remaining member of the 2800 club. Yu Yangyi and Jorden van Foreest failed to mount comebacks, but Shakhriyar Mamedyarov, Adhiban, Jeffery Xiong and Michal Krasenkow succeeded, with the 57-year-old winning a stunning game against 15-year-old Praggnanandhaa. Valentina Gunina knocking out Harika Dronavalli is the only upset so far in Round 3 of the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-2-caruana-is-out",
+         "pubDate" : "Tue, 20 Jul 2021 12:03:33 +0000",
+         "title" : "FIDE World Cup 3.2: Caruana is out!"
+      },
+      {
          "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#8220;Gens una Sumus&#8221; (Latin for &#8220;We are one Family&#8221;). Today, FIDE celebrates the 97th birthday anniversary and the whole World celebrates the International Chess Day! Two years ago, on 12 December 2019, the General Assembly of United Nations&#160;proclaimed&#160;20 July []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
       },
       {
-         "description" : "Day two of the FIDE World Cup&#39;s third round saw a huge upset as the second seed GM Fabiano Caruana was knocked out by the Kazakhstani GM Rinat Jumabayev. The tournament also said goodbye to rating favorites GM Jorge Cori, GM Jorden van Foreest, ...",
+         "description" : "Day two of the FIDE World Cup&#39;s third round saw a huge upset as the second seed, GM Fabiano Caruana, was knocked out by Kazakhstani GM Rinat Jumabayev. The tournament also said goodbye to rating favorites GM Jorge Cori, GM Jorden van Foreest, GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-2-caruana-jumabayev",
@@ -1546,14 +1586,6 @@ news_feed (
          "title" : "Croatia Rapid & Blitz: Slim Lead For Nepomniachtchi Before Kasparov Joins"
       },
       {
-         "description" : "Ian Nepomniachtchi finished top after the rapid section of the Croatia Grand Chess Tour, but it was an underwhelming day of chess, with the World Championship Challenger drawing all three games. In fact the first 10 games of the day were drawn, with some near misses, before the dam burst in the final round of rapid chess. Jan-Krzysztof Duda and Anish Giri moved into a 4-player pack a point behind Nepo after defeating Anton Korobov and Vishy Anand. Garry Kasparov will join for the blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/croatia-gct-3-nepo-wins-rapid-kasparov-awaits",
-         "pubDate" : "Sat, 10 Jul 2021 08:51:12 +0000",
-         "title" : "Croatia GCT 3: Nepo wins rapid | Kasparov awaits"
-      },
-      {
          "description" : "As previously announced in my column The Martial menagerie of King Alfonso the Wise, a charitable chess spectacular in London is happening this coming week, culminating in a living game in Trafalgar Square, organised by the Stakhanovite Malcolm Pein. I have on several occasions been involved in playing live chess games, with schoolchildren, actors or, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1792,14 +1824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-hearty-chess-gesture-from-the-czech-republic-to-the-indian-state-of-kerala",
          "pubDate" : "Wed, 07 Jul 2021 22:20:00 +0100",
          "title" : "A hearty chess gesture from the Czech Republic to the Indian state of Kerala"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi, the challenger of GM&#38;nbsp;Magnus Carlsen in the world championship in November, made his mark on the first day of the Zagreb Rapid &#38;amp; Blitz. The third leg of the Grand Chess Tour will have GM Garry Kasparov playing in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-1",
-         "pubDate" : "Wed, 07 Jul 2021 12:10:00 -0700",
-         "title" : "Dazzling Chess By Nepomniachtchi As Zagreb Rapid & Blitz Gets Underway"
       },
       {
          "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
@@ -2426,14 +2450,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2021 - Official regulations"
       },
       {
-         "description" : "The first sets of the quarterfinal matches at the Goldmoney Asian Rapid Tournament were played on Tuesday. Magnus Carlsen and Vladislav Artemiev got off to a good start, with the former obtaining a 2&frac12;-1&frac12; victory over Wesley So and the latter defeating Anish Giri by a convincing 3-0 score. The remaining two mini-matches finished drawn. | Photo: Alina l'Ami / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-4",
-         "pubDate" : "Wed, 30 Jun 2021 02:25:00 +0100",
-         "title" : "Goldmoney Asian Rapid QF: Artemiev stuns Giri, Carlsen beats So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2456,22 +2472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1174",
          "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
          "title" : "Carlsen takes first blood as Artemiev runs riot"
-      },
-      {
-         "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/06/who-was-that-masked-chessplayer.html",
-         "pubDate" : "Tue, 29 Jun 2021 13:11:00 +0000",
-         "title" : "Who was that masked chessplayer?"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg\" data-image-dimensions=\"410x363\" data-image-focal-point=\"0.5,0.5\" alt=\"James.chess.jpg\" data-load=\"false\" data-image-id=\"60db0fd687d8bc3e4e223fb7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1624969174814-1KM0UFH8ZLOANOJJSJMQ/James.chess.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://jamesaltucher.com\">courtesy of James Altucher </a> <p class=\"\">James Altucher is a best-selling author, popular business podcast host,",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/29/james-altucher-returns",
-         "pubDate" : "Tue, 29 Jun 2021 12:25:28 +0000",
-         "title" : "Episode 232- James Altucher returns"
       }
    ]
 }
