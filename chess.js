@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-4",
+         "pubDate" : "Tue, 20 Jul 2021 01:50:43 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Vishy Anand</strong> won the world championship 2008 against <strong>Vladimir Kramnik</strong>, the Indian didn't castle in any of his three winning games. Unsurprisingly Anand now also won an exhibition match in <a href=\"https://www.chesstech.org/2021/the-king-on-centre-stage/\">No-castling chess</a> against Kramnik that headlined the 48th edition of the <strong>Dortmund Chess Days</strong> with 2,5:1,5 (one win and three draws). Analyses by the players can be seen on the <a href=\"https://www.youtube.com/channel/UCxV0ITPKLXwqLTLAVA026zw\">Dortmund Chess channel</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/anand-remains-king-of-no-castling/",
+         "pubDate" : "Tue, 20 Jul 2021 01:05:26 +0100",
+         "title" : "Anand remains king of no-castling"
+      },
+      {
          "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d2",
          "pubDate" : "Tue, 20 Jul 2021 01:00:00 +0100",
          "title" : "World Cup: Jumabayev stuns Caruana"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1214\">announced an agreement</a> with the <strong>NBC Sports Network</strong>, the second most watched sports cable network in the US, to broadcast the world championship from 27 November. 30 minute-programmes on all games will be presented by <strong>Maurice Ashley</strong>. NBCSN <a href=\"https://edition.cnn.com/2021/01/22/media/nbc-sports-network-shut-down/index.html\">will cease business</a> at the end of the year. It remains to be seen if chess will be among the sport contents picked up by the <strong>USA Network</strong> on cable or the streaming platform <strong>Peacock</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nbcsn-to-cover-world-championship/",
+         "pubDate" : "Tue, 20 Jul 2021 00:47:37 +0100",
+         "title" : "NBCSN to cover world championship"
       },
       {
          "description" : "",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "Chess.com acquires broadcast for major FIDE events through 2023"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/1206\">announced</a> another <strong>Online Chess Olympiad</strong> for national teams mixed of men and women, adults and juniors and hosted by <strong>Chess.com</strong>. The preliminaries start on 13 August and the final stage will be 13 to 15 September. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/a-second-online-olympiad/",
-         "pubDate" : "Fri, 16 Jul 2021 08:41:09 +0100",
-         "title" : "A second Online Olympiad"
-      },
-      {
          "description" : " The 58-year-old former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "X-terminate 'em with the X-change Variation"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Arian Gonzalez</strong>, a Spanish GM and lawyer of Cuban origin, has been <a href=\"https://sandeajedrez.com/2021/07/13/gm-arian-gonzalez-detenido-en-cuba/\">detained by Cuban police</a> during the mass protests on Sunday. The <strong>Spanish Chess Federation</strong> <a href=\"https://feda.org/feda2k16/comunicado-feda-sobre-gm-arian-gonzalez-perez/\">has demanded his immediate release</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/arian-gonzalez-detained-in-cuba/",
-         "pubDate" : "Wed, 14 Jul 2021 17:35:25 +0100",
-         "title" : "Arian Gonzalez detained in Cuba"
-      },
-      {
          "description" : " <h2>Ian Nepomniachtchi is a Russian GM, World #No4, and the next challenger against Magnus Carlsen!</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_--min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <h2>Today Ian turns 31 🎉🎉</h2> What should you absolutely know about the next challenger? <ol start=\"1\"> <li>His nickname is Nepo (short for Nepomniachtchi)</li> <li>He was born in Bryansk, Russia</li> <li>In 2002 he won the World Junior Championship U12, barely edging out Carlsen, whom he outrated at that point.</li> <li>He became a Grandmaster at the age of 17 in 2007</li> <li>In 2010, Nepomniachtchi won his first Russian Championship, defe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/14/yury-dokhoian-1964-2021.html",
          "pubDate" : "Wed, 14 Jul 2021 05:03:54 +0000",
          "title" : "Yury Dokhoian, 1964-2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster L&aacute;zaro Bruz&oacute;n challenges students with difficult practical endgame positions. Calculate for a win or a draw. GM Bruz&oacute;n gives time to think, but you may need more! 2021.07.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDpADeX8UQ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-many-practical-endgames-insane-endgame-gm-l%C3%A1zaro-bruz%C3%B3n",
-         "pubDate" : "Wed, 14 Jul 2021 01:44:15 +0000",
-         "title" : "So Many Practical Endgames! | Insane in the Endgame - GM L&aacute;zaro Bruz&oacute;n"
       },
       {
          "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
