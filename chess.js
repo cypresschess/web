@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-r4-preview-caruana-and-giri-are-out/",
+         "pubDate" : "Tue, 20 Jul 2021 22:51:03 +0000",
+         "title" : "FIDE WORLD CUP R4 preview - Caruana and Giri are out!"
+      },
+      {
+         "description" : "Dutch top chess player and World No.8, Anish Giri, got expelled from the FIDE World Cup in the round 3, when he suffered a loss from 16 years old Jumabayev Rinat (Kazakhstan 2634). However, this did not affect Giri's famous sense of humor. Anish tweeted to prove that he manages to always find glitter in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-takes-0-6-rating-at-the-fide-world-cup-tweetoftheday/",
+         "pubDate" : "Tue, 20 Jul 2021 22:33:14 +0000",
+         "title" : "Anish Giri takes home 0.6 rating from the FIDE World Cup #TweetOftheDay"
+      },
+      {
+         "description" : "Upsets continue at the FIDE World Cups as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi (pictured) and Mariya Muzychuk won lengthy, exciting matches. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Tue, 20 Jul 2021 21:30:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1221",
+         "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
+         "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-6-lichessorg",
+         "pubDate" : "Tue, 20 Jul 2021 19:51:36 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-7-lichessorg",
+         "pubDate" : "Tue, 20 Jul 2021 19:51:36 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 7 | lichess.org"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will continue recapping the World Cup and the focus game will be Jumabaev's surprising win with Black against world number two, Fabiano Caruana, which eliminated Caruana from the tournament! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/international-chess-day.html",
          "pubDate" : "Tue, 20 Jul 2021 13:38:00 +0000",
          "title" : "International Chess Day"
-      },
-      {
-         "description" : "A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs at the FIDE World Cups in Sochi. Players as strong as Anish Giri, Maxime Vachier-Lagrave and Peter Svidler are in danger of being knocked out by lower-rated opponents. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Bela Khotenashvili | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Tue, 20 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "Fabiano Caruana is out of the FIDE World Cup after a shock loss to Kazakhstan's Rinat Jumabayev. Fabi has dropped below Ding Liren on the live rating list, with Magnus Carlsen, who has now won all four games in Sochi, the only remaining member of the 2800 club. Yu Yangyi and Jorden van Foreest failed to mount comebacks, but Shakhriyar Mamedyarov, Adhiban, Jeffery Xiong and Michal Krasenkow succeeded, with the 57-year-old winning a stunning game against 15-year-old Praggnanandhaa. Valentina Gunina knocking out Harika Dronavalli is the only upset so far in Round 3 of the women's event.",
@@ -634,14 +674,6 @@ news_feed (
          "title" : "The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-1-lichessorg",
-         "pubDate" : "Fri, 16 Jul 2021 22:47:09 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 1 | lichess.org"
-      },
-      {
          "description" : "Netflix hit series 'The Queen's Gambit' smashed records last fall and sparked a global boost for chess not seen since Bobby Fischer faced Boris Spassky in the 1972 World Championship match. This week the widely acclaimed drama series was nominated for 18 Emmy awards, including one for the star herself, Anya \"Beth Harmon\" Taylor-Joy.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -928,14 +960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-defeats-vladimir-kramnik-in-no-castling-chess/articleshow/84434304.cms",
          "pubDate" : "Thu, 15 Jul 2021 12:34:57 +0530",
          "title" : "Viswanathan Anand defeats Vladimir Kramnik in No-Castling Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Alireza Firouzja&#039;s game as Black against Aryan Tari from Norway Chess 2020. This is a preview of a chapter from her book &quot;Your Jungle Guide to Unbalance Your Opponent,&quot; co-authored with her brother Borna. 2021.07.14<br /> Aryan Tari vs Alireza Firouzja, Norway Chess (2020): B13 Caro-Kann, exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2010705\">https://www.chessgames.com/perl/chessgame?gid=2010705</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-turns-water-wine-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 15 Jul 2021 01:45:17 +0000",
-         "title" : "Firouzja Turns Water into Wine! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Netflix&#39;s 2020 megahit miniseries The Queen&#39;s Gambit has garnered 18 Emmy nominations, including best Limited Series and best Lead Actress in a Limited Series or Movie for Anya Taylor-Joy&#39;s widely acclaimed performance as Beth Harmon. Thomas Brodi...",
@@ -2448,22 +2472,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
          "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
          "title" : "European Senior Chess Championship 2021 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1175",
-         "pubDate" : "Tue, 29 Jun 2021 21:49:02 +0000",
-         "title" : "FIDE Chessable Academy kicks off on Chessable Classroom"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1177",
-         "pubDate" : "Tue, 29 Jun 2021 21:42:13 +0000",
-         "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
       }
    ]
 }
