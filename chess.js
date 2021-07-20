@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#8220;Gens una Sumus&#8221; (Latin for &#8220;We are one Family&#8221;). Today, FIDE celebrates the 97th birthday anniversary and the whole World celebrates the International Chess Day! Two years ago, on 12 December 2019, the General Assembly of United Nations&#160;proclaimed&#160;20 July []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-international-chess-day/",
+         "pubDate" : "Tue, 20 Jul 2021 11:20:38 +0000",
+         "title" : "Happy International Chess Day!"
+      },
+      {
+         "description" : "Vasily Smyslov defeated Mikhail Botvinnik at the second attempt in 1957 and thus became the 7th world champion in chess history, but had to relinquish the title in a rematch the following year. After that Smyslov belonged to the absolute world elite for many years. His performance in the 1982-1985 World Championship cycle was sensational, when he defeated Robert H&uuml;bner and Zoltan Ribli one after the other in the candidate matches and only lost in the final to the young Garry Kasparov - Smyslov himself was 62 years old at that time!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-master-class-band-14-vasily-smyslov",
+         "pubDate" : "Tue, 20 Jul 2021 12:00:00 +0100",
+         "title" : "New: Master Class Band 14 - Vasily Smyslov"
+      },
+      {
+         "description" : "Day two of the FIDE World Cup&#39;s third round saw a huge upset as the second seed GM Fabiano Caruana was knocked out by the Kazakhstani GM Rinat Jumabayev. The tournament also said goodbye to rating favorites GM Jorge Cori, GM Jorden van Foreest, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-2-caruana-jumabayev",
+         "pubDate" : "Tue, 20 Jul 2021 02:21:00 -0700",
+         "title" : "FIDE World Cup: Caruana Knocked Out"
+      },
+      {
+         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov A score of 4 out of 5 with two rounds to go normally pairs you against a strong opponent. The game did not look like that. It was more of an exchange of errors in the middle game. My student's opponent was rated 400 points lower <a href=\"https://chessimprover.com/tales-from-cycc-2021-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-3/\">Tales from CYCC 2021 (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tales-from-cycc-2021-3/",
+         "pubDate" : "Tue, 20 Jul 2021 08:01:11 +0000",
+         "title" : "Tales from CYCC 2021 (3)"
+      },
+      {
          "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-4",
          "pubDate" : "Tue, 20 Jul 2021 01:50:43 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4"
+      },
+      {
+         "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/",
+         "pubDate" : "Tue, 20 Jul 2021 00:10:13 +0000",
+         "title" : "The Tactics Bible - Magnum Opus"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Vishy Anand</strong> won the world championship 2008 against <strong>Vladimir Kramnik</strong>, the Indian didn't castle in any of his three winning games. Unsurprisingly Anand now also won an exhibition match in <a href=\"https://www.chesstech.org/2021/the-king-on-centre-stage/\">No-castling chess</a> against Kramnik that headlined the 48th edition of the <strong>Dortmund Chess Days</strong> with 2,5:1,5 (one win and three draws). Analyses by the players can be seen on the <a href=\"https://www.youtube.com/channel/UCxV0ITPKLXwqLTLAVA026zw\">Dortmund Chess channel</a>. </div> ",
@@ -1762,14 +1802,6 @@ news_feed (
          "title" : "Dazzling Chess By Nepomniachtchi As Zagreb Rapid & Blitz Gets Underway"
       },
       {
-         "description" : "GM Haik Martirosyan defeated GM Vincent Keymer convincingly in their round of 16 match in the&#38;nbsp;Junior Speed Chess Championship presented by ChessKid. The Armenian grandmaster won in all three time controls. The next match in the championship...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-martirosyan-keymer",
-         "pubDate" : "Wed, 07 Jul 2021 10:40:30 -0700",
-         "title" : "Junior Speed Chess Championship: Martirosyan Too Strong For Keymer"
-      },
-      {
          "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2250,14 +2282,6 @@ news_feed (
          "title" : "Harika Dronavalli squeezes into final"
       },
       {
-         "description" : " The Vienna Game (1 e4 e5 2 Nc3) is one of the most venerable answers to 1e5. White develops a piece and at the same time keeps the option of the f2-f4 pawn lever, which 1. e4 e5 2.Nf3 does not. In a sense it is related to the King's Gambit (1.e4 e5 2.f4) but <a href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Vanquish 'em with the Vienna\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/vanquish-em-with-the-vienna/\">Vanquish 'em with the Vienna</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/vanquish-em-with-the-vienna/",
-         "pubDate" : "Thu, 01 Jul 2021 16:42:39 +0000",
-         "title" : "Vanquish 'em with the Vienna"
-      },
-      {
          "description" : "The \"Top 12\" competition sees some of the world's best players battle it out to claim the French club championship. This year players such as Maxime Vachier-Lagrave, Veselin Topalov and Jorden Van Foreest show their class in this 11-round event. However, this competition also serves as an excellent platform for amateurs who seldom get to play against such strong opponents. Dhananjay Khadilkar asked Mathieu Ternault (pictured), a wine maker by profession, and Mickael Hutois, a professor for mathematics, how it feels to play in such an event. | Photo: Dhananjay Khadilkar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2432,14 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1174",
          "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
          "title" : "Carlsen takes first blood as Artemiev runs riot"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Asian Goldmoney Rapid tournament (part of Meltwater Chess Tour). He will particularly focus on the performance of another new young star - the Indian GM Arjun Erigaisi who qualified for the knockout stage and defeated Hou Yifan in round 10 in crushing style. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-arjun-erigaisi-surprises-at-goldmoney-asian-rapid-tournament",
-         "pubDate" : "Tue, 29 Jun 2021 19:00:00 +0100",
-         "title" : "The Weekly Show: Arjun Erigaisi surprises at Goldmoney Asian Rapid tournament"
       },
       {
          "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
