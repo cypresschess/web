@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will continue recapping the World Cup and the focus game will be Jumabaev's surprising win with Black against world number two, Fabiano Caruana, which eliminated Caruana from the tournament! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-surprises-at-the-world-cup",
+         "pubDate" : "Tue, 20 Jul 2021 20:00:00 +0100",
+         "title" : "The Weekly Show: Surprises at the World Cup"
+      },
+      {
+         "description" : "The 2021 U.S. Senior, U.S. Junior, and U.S. Girls' Junior Championships kicked off on Friday, July 16, at the Saint Louis Chess Club. After four rounds, Gregory Kaidanov is leading the seniors' event, Hans Niemann tops the standings in the juniors' tournament, while three players are sharing first place in the girls' championship. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-junior-and-senior-championships-2021-r4",
+         "pubDate" : "Tue, 20 Jul 2021 19:00:00 +0100",
+         "title" : "U.S. Junior and Senior Championships taking place in Saint Louis"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84592829.cms\" />Young Indian Grandmaster R Praggnanandhaa defeated veteran Michal Krasenkow 2-0 in the rapid tie-break in the third round of the FIDE chess World Cup on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-enters-fourth-round/articleshow/84592829.cms",
+         "pubDate" : "Tue, 20 Jul 2021 22:33:55 +0530",
+         "title" : "Chess World Cup: Praggnanandhaa enters fourth round"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg\" data-image-dimensions=\"1080x861\" data-image-focal-point=\"0.5,0.5\" alt=\"Joepos2.jpg\" data-load=\"false\" data-image-id=\"60f6d9bac1b5864344158083\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg?format=1000w\" /> </figure> <p class=\"\">This week, Perpetual Chess features a different kind of guest, Joe Posnanski was twice- named the best sportswriter in America by the Associated Press. He is also a pop",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1762,14 +1786,6 @@ news_feed (
          "title" : "Nihal Sarin Wins Back-To-Back Tournaments, Enters World's Top 100"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84243969.cms\" />Former world champion Viswanathan Anand was held to a draw by Russian Alexander Grischuk in the sixth round of the Croatia Grand Chess Tour tournament here on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-anton-korobov-in-croatia-grand-chess-tour-event/articleshow/84243969.cms",
-         "pubDate" : "Thu, 08 Jul 2021 22:10:00 +0530",
-         "title" : "Anand beats Korobov in Croatia Grand Chess Tour event"
-      },
-      {
          "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2418,28 +2434,12 @@ news_feed (
          "title" : "European Senior Chess Championship 2021"
       },
       {
-         "description" : "After eight of nine rounds the young Indian Grandmaster Nihal Sarin leads at the Silver Lake Open Veliko Gradiste with 7.0/8 and is half a point ahead of his countryman Raunak Sadhwani and the Serbian GM Branko Damljanovic, against whom Sarin has to play with Black in round nine. | Photos: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nihal-sarin-leads-at-silver-lake-open",
-         "pubDate" : "Wed, 30 Jun 2021 09:52:39 +0100",
-         "title" : "Nihal Sarin leads at the Silver Lake Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1176",
          "pubDate" : "Wed, 30 Jun 2021 08:51:37 +0000",
          "title" : "Issues concerning the Member Chess Federation of Morocco"
-      },
-      {
-         "description" : "Over 460 female players from 82 countries participated in the individual and team tournaments within the Queens' festival global chess tournaments run from June 11 to June 27. The ambitious global project aiming at connecting women chess players from around the world of all ages and all rating groups was organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission and with the support of the International Olympic Committee (IOC), as well as Asian Chess Federation, African Chess Confederation, European Chess Union, and Confederation of Chess for Americas. | Pictures: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-reports-the-queens-festival-goes-big",
-         "pubDate" : "Wed, 30 Jun 2021 09:07:12 +0100",
-         "title" : "FIDE reports: \"The Queens' Festival goes big\""
       },
       {
          "description" : "European Senior Chess Championship 2021 will take place from 25th September 5th October in Budoni, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women sections separately. The events will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves + 30 minutes till the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
@@ -2464,14 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1177",
          "pubDate" : "Tue, 29 Jun 2021 21:42:13 +0000",
          "title" : "Asia Chess Academy, ACF and FIDE hold World Refugee Day Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1174",
-         "pubDate" : "Tue, 29 Jun 2021 19:01:08 +0000",
-         "title" : "Carlsen takes first blood as Artemiev runs riot"
       }
    ]
 }
