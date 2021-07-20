@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-through",
+         "pubDate" : "Tue, 20 Jul 2021 09:00:00 +0100",
+         "title" : "Breaking through"
+      },
+      {
+         "description" : "On 20 July 1924 the FIDE was founded in Paris, and in 1966 the UNESCO proposed to celebrate this date as \"International Chess Day\". Of course, you can celebrate chess every day but FIDE President Arkady Dvorkovich and David Llada, the FIDE Chief Marketing and Communications Officer, still have some ideas how chess players all over the world can help to make today a very special day for chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/20-july-is-international-chess-day",
+         "pubDate" : "Tue, 20 Jul 2021 08:20:25 +0100",
+         "title" : "20 July is International Chess Day!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2426,14 +2442,6 @@ news_feed (
          "title" : "The Weekly Show: Arjun Erigaisi surprises at Goldmoney Asian Rapid tournament"
       },
       {
-         "description" : "Svitlana Demchenko is a 17-year-old, Canadian WIM, and chess coach. Here and now, she will teach us plenty of smart moves on the board, ranging from tactics, strategies, openings, and anything else chess related. In the process, I'm happy to be available as a student at club player level, and pester the female international master with questions. Anyone who wants to strengthen their chess skills is welcome to watch, and actively replay the positions from the video, on our chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-7",
-         "pubDate" : "Tue, 29 Jun 2021 17:12:22 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 7"
-      },
-      {
          "description" : " The local chess clubs in Canberra normally play at licensed clubs (eg Eastlakes Gungahlin or Tuggeranong Vikings). Due to the new Covid restrictions in place in the ACT, playing chess while masked up is now mandatory. At least at Gungahlin this evening, this seemed to be a minor inconvenience, and even some of the younger players (Under 12 years are exempt) still wore masks, either for safety, or simply to appear more grown up. However you can remove your mask if you are eating or drinking, so at least one enterprising player parked a drink next to him soon after the game started, and played without his mask for the rest of the game. For those collecting data in whether this helps or hinder",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2448,14 +2456,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/6/29/james-altucher-returns",
          "pubDate" : "Tue, 29 Jun 2021 12:25:28 +0000",
          "title" : "Episode 232- James Altucher returns"
-      },
-      {
-         "description" : "ChessBase Magazine is the most comprehensive and most sophisticated chess magazine there is. World class players analyze their brilliancies and explain the ideas behind the moves to you, opening specialists present the latest trends in opening theory and offer exciting ideas for your repertoire. Master trainers in the fields of tactics, strategy, and the endgame show you the tricks and techniques a successful tournament player needs! DVD with several hours of video + booklet. Also available for download including the booklet in pdf!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-202",
-         "pubDate" : "Tue, 29 Jun 2021 11:00:00 +0100",
-         "title" : "New: ChessBase Magazine 202"
       }
    ]
 }
