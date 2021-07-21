@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On International Chess Day, Vietnam&#39;s IM Minh Le took first place in Titled Tuesday with a score of 10/11. GM Hikaru Nakamura grabbed second with 9.5/11. The top four was rounded out by GM Giga Quparadze and GM Oleksandr Bortnyk. 472 titled play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-wins-july-20-titled-tuesday",
+         "pubDate" : "Wed, 21 Jul 2021 11:00:42 -0700",
+         "title" : "Le Wins July 20 Titled Tuesday"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look a close look at a stunning game with a brutal rook sacrifice from the World Cup: Michal Krasenkow's fine attacking win against Kirill Alekseenko. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-473-a-tari-m-carlsen",
+         "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0100",
+         "title" : "Game of the Week 473: M. Krasenkow - K. Alekseenko"
+      },
+      {
+         "description" : "Whilst clubs and leagues look to re-establishing themselves ahead of the new season, County Associations have the opportunity to reconnect with their members and players...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/county-entry-open-for-the-ecfs-pre-season-regional-county-challenge/",
+         "pubDate" : "Wed, 21 Jul 2021 15:34:58 +0000",
+         "title" : "County entry open for the ECF's Pre-Season Regional County Challenge"
+      },
+      {
          "description" : "50 years ago, on 20 July 1971, Bobby Fischer (pictured) and Bent Larsen played the sixth and final game of their semi-final match of the Candidates. Fischer had won the first five games and he also won the sixth. It was Fischer's 19th win in a row against some of the world's best players, a sensational and unrivalled winning streak. In his new book \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" Dutch Grandmaster Jan Timman takes a close look at this winning streak and Fischer's dominance in the years 1970 to 1971. Confident, entertaining, and with new insights about Fischer's strengths and weaknesses.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Sicilian Taimanov (6.Be3 a6 7.g4)"
       },
       {
-         "description" : "GM Ian Nepomniachtchi still leads the Croatia Rapid &#38;amp; Blitz despite a loss in round six to the local wildcard participant GM Ivan Saric.&#38;nbsp;GM Vishy Anand and&#38;nbsp;GM Maxime Vachier-Lagrave, who both scored plus one on Thursday, are tied for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-2",
-         "pubDate" : "Thu, 08 Jul 2021 12:06:00 -0700",
-         "title" : "Croatia Rapid & Blitz: Nepomniachtchi Loses To Saric, Still Leads"
-      },
-      {
          "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2424,14 +2440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
          "pubDate" : "Thu, 01 Jul 2021 08:00:07 +0000",
          "title" : "ChessFest in Trafalgar Square 18th July"
-      },
-      {
-         "description" : "Two of the four quarterfinal matches at the Goldmoney Asian Rapid tournament were decided on tiebreaks. After winning the first set and the first game of the second set, it seemed like Magnus Carlsen was going to have an easy day at the office, but back-to-back wins by Wesley So meant it would all be decided in blitz. The world champion finally moved on to the semis thanks to a win and a draw in the 5-minute games. Levon Aronian also had a tough time against Arjun Erigaisi, but managed to advance, while Vladislav Artemiev and Ding Liren won their matches in the rapid section of the second set. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-6",
-         "pubDate" : "Thu, 01 Jul 2021 07:45:00 +0100",
-         "title" : "Goldmoney Asian Rapid: Carlsen knocks out So in tiebreaks"
       },
       {
          "description" : " From the publisher: &#8220;Using carefully selected examples, the authors want to make you familiar with the strategic ideas behind the famous Maroczy bind. These plans arising from both colours, are a must for your arsenal of chess knowledge and understanding.&#8221; &#8220;Adrian Bohdanovych Mikhalchishin was born in Lvov, Ukraine in 1954 and became a Grandmaster in <a href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Maroczy Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-s",
