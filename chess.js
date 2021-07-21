@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">Aronian had to withdraw</a>, three <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">more top favourites stumbled</a> at the <strong>World Cup</strong> in Sochi: <strong>Caruana</strong> was eliminated by Jumabayev, <strong>Giri</strong> by Abdusattorov and <strong>Mamedyarov</strong> by Martirosyan. To qualify for the next Candidates Tournament they will have to try the Grand Swiss in October and the Grandprix in spring 2022. Caruana also lost his second spot in the <a href=\"https://2700chess.com/\">live rating list</a> to Ding Liren, and Carlsen is right",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/favourites-keep-falling-at-world-cup/",
+         "pubDate" : "Wed, 21 Jul 2021 04:52:24 +0100",
+         "title" : "Favourites keep falling at World Cup"
+      },
+      {
          "description" : "Upsets continue at the FIDE World Cups in Sochi, as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov (pictured) and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi and Mariya Muzychuk won lengthy, exciting matches. The players will have a rest day on Wednesday. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-six/",
          "pubDate" : "Fri, 16 Jul 2021 09:31:44 +0000",
          "title" : "A Foundation for Beginners Twenty Six"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong>Moroccan Chess Federation</strong> failed to function properly since years, <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1199\">has appointed</a> its Deputy President <strong>Bachar Kouatly</strong> as a Reverse Delegate of the Morrocan Federation to assist in the reconstitution. Arabic is the mother tongue of the former President of the French Chess Federation who has a big network in the Mahgreb. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kouatly-takes-care-of-morrocan-mess/",
-         "pubDate" : "Fri, 16 Jul 2021 08:50:52 +0100",
-         "title" : "Kouatly takes care of Morrocan mess"
       },
       {
          "description" : "",
@@ -2464,14 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1176",
          "pubDate" : "Wed, 30 Jun 2021 08:51:37 +0000",
          "title" : "Issues concerning the Member Chess Federation of Morocco"
-      },
-      {
-         "description" : "European Senior Chess Championship 2021 will take place from 25th September 5th October in Budoni, Italy. The event will be played in two age categories: 50+ and 65+, Open and Women sections separately. The events will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves + 30 minutes till the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-official-regulations/",
-         "pubDate" : "Wed, 30 Jun 2021 06:55:52 +0000",
-         "title" : "European Senior Chess Championship 2021 - Official regulations"
       }
    ]
 }
