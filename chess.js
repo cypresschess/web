@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "50 years ago, on 20 July 1971, Bobby Fischer (pictured) and Bent Larsen played the sixth and final game of their semi-final match of the Candidates. Fischer had won the first five games and he also won the sixth. It was Fischer's 19th win in a row against some of the world's best players, a sensational and unrivalled winning streak. In his new book \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" Dutch Grandmaster Jan Timman takes a close look at this winning streak and Fischer's dominance in the years 1970 to 1971. Confident, entertaining, and with new insights about Fischer's strengths and weaknesses.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-timman-the-unstoppable-american-bobby-fischer-s-road-to-reykjavik-a-review",
+         "pubDate" : "Wed, 21 Jul 2021 15:44:06 +0100",
+         "title" : "Jan Timman: \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" - a review"
+      },
+      {
+         "description" : " Before anyone asks, yerk is a real word and its meaning can be found here. As for Yugoslav I already covered the Yugoslav Attack against the Dragon under its other name, the Rauzer Attack, so this time I will look at the Yugoslav System against the fianchetto King's Indian in which Black plays c7-c5 instead <a href=\"https://chessimprover.com/yerk-em-with-the-yugoslav/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yerk 'em with the Yugoslav\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yerk-em-with-the-yugoslav/\">Yerk 'em with the Yugoslav</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/yerk-em-with-the-yugoslav/",
+         "pubDate" : "Wed, 21 Jul 2021 14:30:58 +0000",
+         "title" : "Yerk 'em with the Yugoslav"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84615737.cms\" />Three Indian Grandmasters remain in contention for the honours in the men's section of the FIDE chess World Cup with focus on teen prodigy R Praggnanandhaa in the fourth-round matches on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-set-for-vachier-lagrave-challenge-in-round-4/articleshow/84615737.cms",
+         "pubDate" : "Wed, 21 Jul 2021 18:21:10 +0530",
+         "title" : "World Cup: Praggnanandhaa set for Vachier-Lagrave challenge in Round 4"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess is making chess beautiful one chess club at a time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Poster-1909-2021-07-21.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> A month ago we invited the chess clubs of the world to apply for a free design facelift by our design team (submit <a href=\"https://x25ugr4ie62.typeform.com/to/yPyN0Idl\">your chess club or federation!</a>). It was an attempt to save the sport from a faceless, boring, and humorless design that has been tormenting chess for decades. After rummaging through the submissions, we found lots of exceptional chess clubs and institutions (many of which, may we add, have excel",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rebranding-hyenas-an-african-club-you-will-actually-want-to-join/",
+         "pubDate" : "Wed, 21 Jul 2021 11:32:07 +0000",
+         "title" : "Rebranding Hyenas - An African Club You Will Actually Want to Join"
+      },
+      {
          "description" : "GM Anish Giri and GM Shakhriyar Mamedyarov did not survive the tiebreaks of the&#38;nbsp;FIDE World Cup&#39;s third round. The two top grandmasters lost to GM Nodirbek Abdusattorov and Haik Martirosyan, respectively. Other big names that were sent home ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1738,14 +1770,6 @@ news_feed (
          "title" : "Alireza Firouzja to play for France"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84269963.cms\" />After her runner-up finish in the Women's online speed chess tournament to Chinese top ranked player GM Hou Yifan, Grand Master Dronavalli Harika is ready for the World Cup starting in Sochi, Russia, on July 12.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-focused-on-world-cup/articleshow/84269963.cms",
-         "pubDate" : "Fri, 09 Jul 2021 20:09:04 +0530",
-         "title" : "Harika focused on World Cup"
-      },
-      {
          "description" : "After five rounds at the Croatian leg of the Grand Chess Tour, Ian Nepomniachtchi had a 2-point lead in the standings table (a win is worth 2 points in this phase of the event). But then local representative Ivan Saric defeated the leader in a beautiful game. Nepomniachtchi remains in first place, nevertheless. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2146,14 +2170,6 @@ news_feed (
          "title" : "Goldmoney Asian Rapid 2021 - "
       },
       {
-         "description" : " Here's another of my pawn ending questions for you. It's Black's move. What would you play here? In one of my club's recent lockdown arena sessions I miscalculated two pawn endings in consecutive games. In the position above I was facing a slightly stronger opponent and failed to find the correct move. You'll find the <a href=\"https://chessimprover.com/double-trouble/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Double Trouble\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/double-trouble/\">Double Trouble</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/double-trouble/",
-         "pubDate" : "Sun, 04 Jul 2021 09:21:37 +0000",
-         "title" : "Double Trouble"
-      },
-      {
          "description" : " Business Insider took a trip to India and looked at how the exquisite <a href=\"https://shop.worldchess.com/\">World Chess Championship sets</a> are made. First of all, it's all about the Knight. And second, it takes years of experience to get the sets just right. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-Tg9xiJ6D6k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2448,22 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1179",
          "pubDate" : "Wed, 30 Jun 2021 19:57:21 +0000",
          "title" : "Abhimanyu Mishra is the youngest Grandmaster in history"
-      },
-      {
-         "description" : "This remarkable lad from Englishtown, New Jersey, playing with great determination under Covid restrictions in Hungary, has scored his third and final GM norm. He has earned the title at the age of 12 years, 4 months, and 25 days, which is 66 days sooner than Sergey Karjakin in 2002. This comes after he had broken the record of youngest US master (at nine years and two months), and youngest International Master ever (at 10 years, nine months, and three days). Congratulations, Abhi!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/made-it-abhi-youngest-gm-in-history",
-         "pubDate" : "Wed, 30 Jun 2021 20:35:13 +0100",
-         "title" : "Made it! Abhi youngest GM in history!"
-      },
-      {
-         "description" : "From 25th September - 5th October in Budoni, Italy. The event will be played in two age categories [50+ and 65+] with Open and Women's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
-         "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
-         "title" : "European Senior Chess Championship 2021"
       }
    ]
 }
