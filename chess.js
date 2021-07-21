@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games from the 2021 World Cup. 2021.07.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok=JPicFZax\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 21 Jul 2021 22:53:09 +0000",
+         "title" : "2021 World Cup | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-5",
+         "pubDate" : "Wed, 21 Jul 2021 19:52:58 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 5"
+      },
+      {
          "description" : "On International Chess Day, Vietnam&#39;s IM Minh Le took first place in Titled Tuesday with a score of 10/11. GM Hikaru Nakamura grabbed second with 9.5/11. The top four was rounded out by GM Giga Quparadze and GM Oleksandr Bortnyk. 472 titled play...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -658,28 +674,12 @@ news_feed (
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-5-lichessorg",
-         "pubDate" : "Sat, 17 Jul 2021 22:48:00 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 5 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1216",
          "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
          "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3-lichessorg",
-         "pubDate" : "Sat, 17 Jul 2021 19:47:47 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3 | lichess.org"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84506697.cms\" />Indian Grandmaster Vidit Santosh Gujrathi defeated Brazil's Alexandr Fier in the tie-break on Saturday to secure a spot in the third round of the men's event in the FIDE chess World Cup.",
@@ -2448,30 +2448,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/",
          "pubDate" : "Thu, 01 Jul 2021 00:10:35 +0000",
          "title" : "Understanding Maroczy Structures"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1180",
-         "pubDate" : "Wed, 30 Jun 2021 21:09:29 +0000",
-         "title" : "Carlsen, Aronian, Artemiev and Ding through to semis"
-      },
-      {
-         "description" : "At 12 years, 4 months and 25 days, American chess player Abhimanyu Mishra is the youngest GM in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31738870/american-abhimanyu-mishra-becomes-youngest-grandmaster-chess-history?device=featurephone",
-         "pubDate" : "Wed, 30 Jun 2021 15:47:20 -0500",
-         "title" : "Abhimanyu Mishra becomes youngest GM in chess history"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1179",
-         "pubDate" : "Wed, 30 Jun 2021 19:57:21 +0000",
-         "title" : "Abhimanyu Mishra is the youngest Grandmaster in history"
       }
    ]
 }
