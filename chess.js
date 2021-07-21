@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Upsets continue at the FIDE World Cups in Sochi, as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov (pictured) and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi and Mariya Muzychuk won lengthy, exciting matches. The players will have a rest day on Wednesday. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d3",
+         "pubDate" : "Wed, 21 Jul 2021 03:20:00 +0100",
+         "title" : "World Cup: More upsets as Giri and Mamedyarov are knocked out"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-8-lichessorg",
+         "pubDate" : "Tue, 20 Jul 2021 22:51:45 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-9-lichessorg",
+         "pubDate" : "Tue, 20 Jul 2021 22:51:45 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 9 | lichess.org"
+      },
+      {
          "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-takes-0-6-rating-at-the-fide-world-cup-tweetoftheday/",
          "pubDate" : "Tue, 20 Jul 2021 22:33:14 +0000",
          "title" : "Anish Giri takes home 0.6 rating from the FIDE World Cup #TweetOftheDay"
-      },
-      {
-         "description" : "Upsets continue at the FIDE World Cups as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi (pictured) and Mariya Muzychuk won lengthy, exciting matches. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Tue, 20 Jul 2021 21:30:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "",
@@ -648,22 +664,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/16/us-senior-junior-and-girls-championships-underway.html",
          "pubDate" : "Sat, 17 Jul 2021 03:40:43 +0000",
          "title" : "U.S. Senior, Junior, and Girls' Championships Underway"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-2-lichessorg",
-         "pubDate" : "Sat, 17 Jul 2021 01:47:06 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 2 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-1",
-         "pubDate" : "Sat, 17 Jul 2021 01:47:06 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
          "description" : " &#8220;French Grandmaster Christian Bauer is one of his country's leading players. He is a former national champion and has represented France in numerous international team events. He has written many articles and books for several publishing houses: 'Play 1&hellip;b6' and 'The Philidor Files' for Everyman Chess and 'Play the Scandinavian' for Quality Chess. Many of <a href=\"http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a ",
