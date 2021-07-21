@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Anish Giri and GM Shakhriyar Mamedyarov did not survive the tiebreaks of the&#38;nbsp;FIDE World Cup&#39;s third round. The two top grandmasters lost to GM Nodirbek Abdusattorov and Haik Martirosyan, respectively. Other big names that were sent home ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-tiebreaks",
+         "pubDate" : "Wed, 21 Jul 2021 04:07:00 -0700",
+         "title" : "FIDE World Cup: Giri, Mamedyarov Out; MVL Survives In Armageddon"
+      },
+      {
+         "description" : "16-year-old Nodirbek Abdussatorov dumped Anish Giri out of the FIDE World Cup as the star names continued to fall in Round 3 tiebreaks. Shakhriyar Mamedyarov lost to 20-year-old Haik Martirosyan, which, with the loss of Fabiano Caruana the day before, means only Magnus Carlsen, Alexander Grischuk, Sergey Karjakin and Maxime Vachier-Lagrave remain from the Top 10 seeds. Maxime survived a huge scare to beat David Paravyan in Armageddon. The top seeds are dominating the women's event, but 17-year-old Bibisara Assaubayeva knocked out Bela Khotenashvili.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-3-giri-mamedyarov-join-mass-exodus",
+         "pubDate" : "Wed, 21 Jul 2021 11:06:09 +0000",
+         "title" : "FIDE World Cup 3.3: Giri & Mamedyarov join mass exodus"
+      },
+      {
+         "description" : "An inexpensive chess set can sell for $20, but a handcrafted wooden set certified for the World Chess Championship costs $500. Much of the set's value lies in just one piece: the knight. Making this one piece takes two hours, and there are fewer than ten people trained to carve knights for the championship chess sets. It is fascinating to watch the high-end pieces being made.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-championship-chess-pieces-are-made",
+         "pubDate" : "Wed, 21 Jul 2021 11:00:00 +0100",
+         "title" : "How championship chess pieces are made"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1222",
+         "pubDate" : "Wed, 21 Jul 2021 09:07:24 +0000",
+         "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">Aronian had to withdraw</a>, three <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">more top favourites stumbled</a> at the <strong>World Cup</strong> in Sochi: <strong>Caruana</strong> was eliminated by Jumabayev, <strong>Giri</strong> by Abdusattorov and <strong>Mamedyarov</strong> by Martirosyan. To qualify for the next Candidates Tournament they will have to try the Grand Swiss in October and the Grandprix in spring 2022. Caruana also lost his second spot in the <a href=\"https://2700chess.com/\">live rating list</a> to Ding Liren, and Carlsen is right",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1618,14 +1650,6 @@ news_feed (
          "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
       },
       {
-         "description" : "World no. 12 Alireza Firouzja is now officially a French player. The 18-year-old Iranian-born chess prodigy had been living in Chartres, France since 2019 and was recently granted French citizenship. At the time he was still playing under the FIDE flag, but his transfer to the French Chess Federation is now complete, meaning that Firouzja will go into a World Cup match against Andrew Tang or Javokhir Sindarov next Thursday 15th July as the French no. 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/alireza-firouzja-is-now-the-french-no-1",
-         "pubDate" : "Sat, 10 Jul 2021 11:31:02 +0000",
-         "title" : "Alireza Firouzja is now the French no. 1"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi came in first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over fro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1800,14 +1824,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-2",
          "pubDate" : "Thu, 08 Jul 2021 12:06:00 -0700",
          "title" : "Croatia Rapid & Blitz: Nepomniachtchi Loses To Saric, Still Leads"
-      },
-      {
-         "description" : "16-year-old GM Nihal Sarin has a fantastic month of chess behind him. The Indian prodigy won two strong tournaments in a row in Serbia and gained 35 Elo points, reaching a virtual rating of 2655. How to watch?The games of the Silver Lake Open ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-tournaments-serbia-enters-world-top-100",
-         "pubDate" : "Thu, 08 Jul 2021 10:13:39 -0700",
-         "title" : "Nihal Sarin Wins Back-To-Back Tournaments, Enters World's Top 100"
       },
       {
          "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
@@ -2442,28 +2458,12 @@ news_feed (
          "title" : "Made it! Abhi youngest GM in history!"
       },
       {
-         "description" : "The traditional Chess Masters Tournament of the city of Leon goes online again. The four participants are Leinier Dominguez, Boris Gelfand, Women's World Champion Ju Wenjun and Jaime Santos, who represents the host. The tournament starts today at 15:30 CEST (9:30 ET, 13:30 UTC) and will end on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/torneo-magistral-ajedrez-ciudad-de-leon",
-         "pubDate" : "Wed, 30 Jun 2021 14:29:16 +0100",
-         "title" : "34. Torneo Magistral Ajedrez Ciudad de Leon"
-      },
-      {
          "description" : "From 25th September - 5th October in Budoni, Italy. The event will be played in two age categories [50+ and 65+] with Open and Women's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/european-senior-chess-championship-2021/",
          "pubDate" : "Wed, 30 Jun 2021 11:55:55 +0000",
          "title" : "European Senior Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1176",
-         "pubDate" : "Wed, 30 Jun 2021 08:51:37 +0000",
-         "title" : "Issues concerning the Member Chess Federation of Morocco"
       }
    ]
 }
