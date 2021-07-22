@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at several games from the 2021 Chess World Cup and Women's Chess World Cup, including Fabiano Caruana's early loss to underdog Rinat Jumabayev. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 22 Jul 2021 01:53:10 +0000",
+         "title" : "2021 World Cup: Caruana Knocked Out! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games from the 2021 World Cup. 2021.07.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok=JPicFZax\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/",
          "pubDate" : "Sun, 18 Jul 2021 00:10:06 +0000",
          "title" : "The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-4-lichessorg",
-         "pubDate" : "Sat, 17 Jul 2021 22:48:00 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4 | lichess.org"
       },
       {
          "description" : "",
@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
          "pubDate" : "Thu, 01 Jul 2021 08:00:07 +0000",
          "title" : "ChessFest in Trafalgar Square 18th July"
-      },
-      {
-         "description" : " From the publisher: &#8220;Using carefully selected examples, the authors want to make you familiar with the strategic ideas behind the famous Maroczy bind. These plans arising from both colours, are a must for your arsenal of chess knowledge and understanding.&#8221; &#8220;Adrian Bohdanovych Mikhalchishin was born in Lvov, Ukraine in 1954 and became a Grandmaster in <a href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Maroczy Structures</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/01/understanding-maroczy-s",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/01/understanding-maroczy-structures/",
-         "pubDate" : "Thu, 01 Jul 2021 00:10:35 +0000",
-         "title" : "Understanding Maroczy Structures"
       }
    ]
 }
