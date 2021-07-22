@@ -450,6 +450,14 @@ news_feed (
          "title" : "Anand Beats Kramnik In No Castling Match"
       },
       {
+         "description" : "It was a mixed day for Indians in the game 1 of round 3 of the World Cup. While Harikrishna, Vidit and Praggnanandhaa posted convincing",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-mixed-day-for-indians/",
+         "pubDate" : "Mon, 19 Jul 2021 15:21:37 +0000",
+         "title" : "World Cup - Mixed day for Indians"
+      },
+      {
          "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -626,6 +634,14 @@ news_feed (
          "title" : "Dortmund Sparkassen Chess Trophy - Final round"
       },
       {
+         "description" : "Adhiban continued his fine run to blank the Cuban GM Neuris Delgado Ramirez 2-0 and march into round 3 royally. Adhiban has 4 wins out",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-six-indians-advance-to-round-3/",
+         "pubDate" : "Sun, 18 Jul 2021 11:53:21 +0000",
+         "title" : "World Cup - Six Indians advance to round 3"
+      },
+      {
          "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka (pictured, right) scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. Alireza Firouzja and Leinier Dominguez were knocked out by two Uzbek players, Javokhir Sindarov and Jakhongir Vakhidov respectively. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,6 +680,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-no-castling-chess-anand-kramnik-game-3",
          "pubDate" : "Sun, 18 Jul 2021 09:35:00 +0100",
          "title" : "No Castling Chess: Anand misses his chance"
+      },
+      {
+         "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-senior-women-junior-open-junior-girls-online-chess-championships-2021/",
+         "pubDate" : "Sun, 18 Jul 2021 07:59:00 +0000",
+         "title" : "NATIONAL SENIOR, WOMEN, JUNIOR OPEN & JUNIOR GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84517420.cms\" />Former world chess champion Viswanathan Anand was held to a draw by a fighting Vladimir Kramnik in the third game of their four-game No-Castling match for the Sparkassen Chess Trophy here.",
@@ -842,6 +866,14 @@ news_feed (
          "title" : "How to Study Chess on Your Own"
       },
       {
+         "description" : "Adhiban scored a resounding victory in just 22 moves over the Cuban GM Neuris Delgado Ramirez to go 1-0 up in the second round of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/adhiban-harika-and-pragg-star/",
+         "pubDate" : "Fri, 16 Jul 2021 11:49:20 +0000",
+         "title" : "Adhiban, Harika and Pragg star"
+      },
+      {
          "description" : "Magnus Carlsen looked sharp as he got off to a winning start against birthday boy Sasa Martinovic on Thursday when the big guns joined the FIDE World Cup, but the chess was overshadowed by turmoil caused by COVID-19. Levon Aronian was forced to forfeit against Bobby Cheng, while Fabiano Caruana's game against Indonesian GM Susanto Megaranto was suddenly stopped midway when test results came back showing Susanto was infected. Fabiano got a win by default, but faces more tests himself.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -952,6 +984,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nc-masters-in-dortmund-anand-starts-with-a-win",
          "pubDate" : "Thu, 15 Jul 2021 11:36:28 +0100",
          "title" : "NC Masters in Dortmund: Anand starts with a win"
+      },
+      {
+         "description" : "Gukesh advanced to round 2 with a very convincing victory over IM Teclaf,Pawel from Poland in the tie-breaks. In a complex middlegame, Gukesh ensured that",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gukesh-advances-to-round-2-of-world-cup/",
+         "pubDate" : "Thu, 15 Jul 2021 10:03:36 +0000",
+         "title" : "Gukesh advances to Round 2 of World Cup"
       },
       {
          "description" : "World Champion Magnus Carlsen is the recipient of the 2020 Fair Play Svetozar Gligoric award. The Norwegian will receive his trophy today, minutes before his debut game at the 2021 FIDE World Cup in Sochi.",
@@ -1114,6 +1154,14 @@ news_feed (
          "title" : "Second Online Chess Olympiad from August 13, says FIDE"
       },
       {
+         "description" : "The 12 player Indian contingent comprising 8 men and 4 women had a smooth sailing, with 11 out of 12 Indians sailing to the round",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/smooth-sailing-for-indians/",
+         "pubDate" : "Wed, 14 Jul 2021 10:50:53 +0000",
+         "title" : "Smooth sailing for Indians"
+      },
+      {
          "description" : "The brutal logic of the FIDE World Cup on Tuesday saw 80 players who made it to Sochi already able to pack to leave, after they lost their Round 1 matches. There are 19 tiebreaks in the Open Section and 9 in the Women's on Wednesday, with just 11 players who lost on Day 1 managing to come back on Day 2, including favourites Vadim Zvjaginsev, Anna Ushenina and Pauline Guichard. 12-year-old Abhimanyu Mishra is out, with his conqueror Baadur Jobava's match against Sam Shankland one of the highlights to come in Round 2.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1128,6 +1176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-game-2",
          "pubDate" : "Wed, 14 Jul 2021 02:44:00 -0700",
          "title" : "FIDE World Cup: 28 Matches Go To Tiebreaks"
+      },
+      {
+         "description" : "Chidvilash Sai Surapaneni of Telangana and Pournami S of Kerala becomes champions in the National School Under-13 Open &#38; Girls Categories respectively which concluded on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chidvilash-pournami-champions/",
+         "pubDate" : "Wed, 14 Jul 2021 09:34:44 +0000",
+         "title" : "Chidvilash & Pournami Champions"
       },
       {
          "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
@@ -1194,6 +1250,14 @@ news_feed (
          "title" : "World Cup: Salinas' astounding win and endgame analyses"
       },
       {
+         "description" : "All India Chess Federation Secretary Shri Bharat Singh Chauhan presented the AICF Pin to FIDE President Mr. Arkady Dvorkovich in presence of FIDE Vice President",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-pin-presented-to-fide-president/",
+         "pubDate" : "Tue, 13 Jul 2021 14:02:43 +0000",
+         "title" : "AICF Pin presented to FIDE President"
+      },
+      {
          "description" : " Due to the time zone differences, most of the action in the 2021 World Cup is happening past my bedtime. I can tell you the GM Elshan Moridiabadi has made it through to the 2nd round, although it appears that his opponent did not turn up. This also happened in a few other games, with some players having travel difficulties, either covid related or not. Oceania representative CM Elmer Prudente lost is first game yesterday, and is in a bit of trouble today. Australian representative GM Bobby Cheng drew against his almost identically rated opponent yesterday, and todays game is still even as I type this. This match might be headed to tie-breaks. However Round 2 is when the real actions starts ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1248,6 +1312,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/breaking-the-wall",
          "pubDate" : "Tue, 13 Jul 2021 09:00:00 +0100",
          "title" : "Breaking the wall"
+      },
+      {
+         "description" : "Top seeds Pranesh M of Tamilnadu in Open and Renganayaki of Karantaka in Girls won the National School Under-15 titles on Thursday. Pranesh scored 8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/pranesh-renganayaki-national-school-under-15-champions/",
+         "pubDate" : "Tue, 13 Jul 2021 07:43:32 +0000",
+         "title" : "Pranesh & Renganayaki National School Under-15 Champions"
+      },
+      {
+         "description" : "Shri Ram College of Commerce (SRCC) Delhi consists of WIM Vantika Agrawal, FM Ankit Gajwa, WFM Tarini Goyal, FM Jeet Jain, Arijith M and IM",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shri-ram-college-of-commerce-delhi-won-fide-binance-business-schools-super-cup-2021/",
+         "pubDate" : "Tue, 13 Jul 2021 06:54:44 +0000",
+         "title" : "Shri Ram College of Commerce Delhi won FIDE Binance Business Schools Super Cup 2021"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
