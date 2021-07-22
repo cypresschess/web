@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the the Nimzo-Indian with 4.f3, a sharp system that has helped White in many games to mate the opponent quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nimzo-indian-with-4-f3",
+         "pubDate" : "Thu, 22 Jul 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Nimzo-Indian with 4.f3"
+      },
+      {
          "description" : "Cuba&#39;s top grandmasters GM Lazaro Bruzon and GM Leinier Dominguez as well as GM Garry Kasparov have spoken out in support of Cuban-Spanish GM Arian Gonzalez, who is on a hunger strike after being detained by Cuban authorities for participating in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
          "pubDate" : "Thu, 22 Jul 2021 08:00:18 +0000",
          "title" : "Direct Members' Representatives - elections"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1223",
+         "pubDate" : "Thu, 22 Jul 2021 07:55:52 +0000",
+         "title" : "Liaocheng China celebrates International Chess Day with Grand Chess Cultural Festival"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at several games from the 2021 Chess World Cup and Women's Chess World Cup, including Fabiano Caruana's early loss to underdog Rinat Jumabayev. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok",
@@ -202,6 +218,14 @@ news_feed (
          "title" : "How championship chess pieces are made"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1222",
+         "pubDate" : "Wed, 21 Jul 2021 09:07:24 +0000",
+         "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">Aronian had to withdraw</a>, three <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">more top favourites stumbled</a> at the <strong>World Cup</strong> in Sochi: <strong>Caruana</strong> was eliminated by Jumabayev, <strong>Giri</strong> by Abdusattorov and <strong>Mamedyarov</strong> by Martirosyan. To qualify for the next Candidates Tournament they will have to try the Grand Swiss in October and the Grandprix in spring 2022. Caruana also lost his second spot in the <a href=\"https://2700chess.com/\">live rating list</a> to Ding Liren, and Carlsen is right",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -248,6 +272,14 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-takes-0-6-rating-at-the-fide-world-cup-tweetoftheday/",
          "pubDate" : "Tue, 20 Jul 2021 22:33:14 +0000",
          "title" : "Anish Giri takes home 0.6 rating from the FIDE World Cup #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1221",
+         "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
+         "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -410,12 +442,28 @@ news_feed (
          "title" : "NBCSN to cover world championship"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1214",
+         "pubDate" : "Mon, 19 Jul 2021 22:46:24 +0000",
+         "title" : "FIDE and NBC Sports announce chess partnership for the World Championship Match 2021"
+      },
+      {
          "description" : "Today, 20th of July, the World celebrates the #InternationalChessDay. The&#160;International Chess Federation&#160;(FIDE) was founded 97 years ago, on 20th July 1924 in Paris. The idea to celebrate this day as the International Chess Day was proposed by&#160;UNESCO, and it has been celebrated as such since 1966. On December 12, 2019, the&#160;UN General Assembly&#160;unanimously approved a resolution recognising the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/happy-international-chess-day/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/happy-international-chess-day/",
          "pubDate" : "Mon, 19 Jul 2021 21:26:24 +0000",
          "title" : "Happy International Chess Day!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1220",
+         "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
+         "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
@@ -474,6 +522,14 @@ news_feed (
          "title" : "The joys of OTB chess: Nisipeanu wins the Benasque Open"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1219",
+         "pubDate" : "Mon, 19 Jul 2021 11:25:22 +0000",
+         "title" : "International Chess Day celebrated on July 20"
+      },
+      {
          "description" : "There were an amazing 28 decisive games and just 20 draws as Round 3 of the FIDE World Cup began, with Magnus Carlsen among the winners after tricking Aryan Tari in time trouble. Major upsets saw world no. 6 Shakhriyar Mamedyarov lose the fastest decisive game of the day, to Haik Martirosyan, while Yu Yangyi (vs. Tabatabaei), Jorden van Foreest (Piorun), Salem Saleh (Brkic) and Matthias Bluebaum (Ivic) must all win on Monday to stay in the World Cup. 17-year-old Carissa Yip scored the standout win of the women's section, beating Nana Dzagnidze with Black.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -496,6 +552,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d1",
          "pubDate" : "Mon, 19 Jul 2021 11:40:00 +0100",
          "title" : "World Cup: Plenty of decisive results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1218",
+         "pubDate" : "Mon, 19 Jul 2021 10:37:42 +0000",
+         "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov needs to win on-demand in the third round&#39;s second game at the FIDE World Cup. The recent winner of the Superbet Chess Classic stumbled on Sunday vs. GM Haik Martirosyan. Other rating favorites who started with a loss incl...",
@@ -560,6 +624,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-2",
          "pubDate" : "Sun, 18 Jul 2021 19:48:55 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1217",
+         "pubDate" : "Sun, 18 Jul 2021 18:47:08 +0000",
+         "title" : "Magnus Carlsen on track to win"
       },
       {
          "description" : "In his third column examining who is the best chess player in history - and his 150th overall - Jon Speelman fast forwards to the present champion, Magnus Carlsen. Speelman considers that Carlsen's greatest strength is in the endgame, and dares to call him the best ever for this stage of the game. | Photo: Anastasiia Korolkova / FIDE World Cup",
@@ -714,6 +786,14 @@ news_feed (
          "title" : "The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1216",
+         "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
+         "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84506697.cms\" />Indian Grandmaster Vidit Santosh Gujrathi defeated Brazil's Alexandr Fier in the tie-break on Saturday to secure a spot in the third round of the men's event in the FIDE chess World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -810,6 +890,14 @@ news_feed (
          "title" : "The Queen's Gambit wins 18 Emmy nominations"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1215",
+         "pubDate" : "Fri, 16 Jul 2021 20:02:26 +0000",
+         "title" : "Day 05: Fighting chess at the World Cup"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84482870.cms\" />After three members of the Indonesian delegation tested positive for Covid, both the women players from Indonesia, Medina Warda Aulia and Irene Sukandar, withdrew from the Fide Women's Chess World Cup currently in progress at Sochi on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -898,6 +986,14 @@ news_feed (
          "title" : "A Foundation for Beginners Twenty Six"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1213",
+         "pubDate" : "Fri, 16 Jul 2021 07:46:19 +0000",
+         "title" : "Chess.com acquires broadcast for major FIDE events through 2023"
+      },
+      {
          "description" : " The 58-year-old former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -906,12 +1002,28 @@ news_feed (
          "title" : "Chess: Garry Kasparov loses in seven moves as comeback proves a disaster"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1212",
+         "pubDate" : "Thu, 15 Jul 2021 21:46:11 +0000",
+         "title" : "Severino and Mendoza win Asian Chess Championship for Players with Disabilities"
+      },
+      {
          "description" : "Chess.com is excited to announce this year&#39;s second annual ChessKid Youth Speed Chess Championship, kicking off on July 17 and 18! Eight of the best young chess prodigies in the world (age 10 or under as of January 1, 2021) will go toe-to-toe in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesskid-2021-youth-speed-chess-championship",
          "pubDate" : "Thu, 15 Jul 2021 13:37:00 -0700",
          "title" : "Announcing The Second Annual ChessKid Youth Speed Chess Championship Starting July 17"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1211",
+         "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
+         "title" : "Day 04: Magnus Carlsen debuts with a technical win"
       },
       {
          "description" : " That is the subtitle of <a href=\"https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html\">this NY Times article</a>, which is something less than a heartwarming tale of hard work and talent resulting in amazing records. Was Sergei Karjakin's last GM norm tainted by bribery? The authors present plenty of allegations to that effect, though they stop short of making an outright claim. The authors do not allege any chicanery in the case of Abhimany Mishra's recently earned grandmaster title, but certainly suggest that the Budapest chess scene in which he earned his norms is something of a title factory, with largely unmotivated, over-the-hill players making norm aspira",
@@ -960,6 +1072,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d3",
          "pubDate" : "Thu, 15 Jul 2021 14:00:00 +0100",
          "title" : "World Cup: The big guns are coming"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1210",
+         "pubDate" : "Thu, 15 Jul 2021 12:42:22 +0000",
+         "title" : "International Children and Youth Chess Festival \"Rudaga - Kaissa 2021 Online\" kicks off on July 23"
       },
       {
          "description" : "The FIDE World Cup 2021 kicked off in Sochi, Russia. The event takes place from 10 July 8 August 2021 at the Galaxy Entertainment And Leisure Complex. Of the 309 qualified players in the Open and Women's groups, there were only 8 justified nonappearances, essentially due to travel-related problems. The event opened with an []",
@@ -1034,6 +1154,14 @@ news_feed (
          "title" : "14-Year-Old Murzin Reaches Round 2 FIDE World Cup"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1209",
+         "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
+         "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84434304.cms\" />Former world champion Viswanathan Anand defeated Russian Grandmaster Vladimir Kramnik in the first game of their four-game match for the Sparkassen Trophy here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1048,6 +1176,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/queens-gambit-nets-18-emmy-nominations",
          "pubDate" : "Wed, 14 Jul 2021 14:47:00 -0700",
          "title" : "Queen's Gambit Nets 18 Emmy Nominations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1208",
+         "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
+         "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
       },
       {
          "description" : "Playing in time trouble is tough! What are the dos and don'ts when you are low on time?",
@@ -1210,6 +1346,14 @@ news_feed (
          "title" : "2021 FIDE World Cup: Round #1"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1207",
+         "pubDate" : "Tue, 13 Jul 2021 21:23:03 +0000",
+         "title" : "Fast and furious action on Day 2 in FIDE World Cup"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84385216.cms\" />India's young stars R Praggnanandhaa, Nihal Sarin and P Iniyan advanced to the second round of the men's event in the FIDE World Cup chess tournament on Tuesday. Birthday boy Nihal Sarin drew the second game against IM Arthur Ssegwanyi of Uganda to secure a 1.5-0.5 win in round one. The Indian will now take on Sanan Sjugirov of Russia in round two.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1240,6 +1384,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-announces-2021-fide-online-olympiad",
          "pubDate" : "Tue, 13 Jul 2021 08:43:00 -0700",
          "title" : "Chess.com Announces The 2021 FIDE Online Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1206",
+         "pubDate" : "Tue, 13 Jul 2021 14:57:47 +0000",
+         "title" : "FIDE announces Online Olympiad 2021"
       },
       {
          "description" : "The World Cup kicked off on Monday with a crowd of chess players even larger than usual - the main tournament has now 206 participants, while the Women's World Cup is taking place concurrently for the first time. Not surprisingly, a number of exciting games were seen in Sochi. We take a look at a very good-looking win by Chilean GM Pablo Salinas, and we share instructive endgame analyses by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
@@ -1330,6 +1482,30 @@ news_feed (
          "title" : "Shri Ram College of Commerce Delhi won FIDE Binance Business Schools Super Cup 2021"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1205",
+         "pubDate" : "Tue, 13 Jul 2021 06:52:04 +0000",
+         "title" : "2021 Koltanowski Conference on Chess in Education to be at the end of July"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1204",
+         "pubDate" : "Mon, 12 Jul 2021 22:00:50 +0000",
+         "title" : "Shri Ram College of Commerce clinches the title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1203",
+         "pubDate" : "Mon, 12 Jul 2021 20:33:51 +0000",
+         "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1344,6 +1520,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/winner-stays-martinez-schneider-ludwig",
          "pubDate" : "Mon, 12 Jul 2021 09:59:00 -0700",
          "title" : "Martinez, Schneider, Ludwig Victorious in Winner Stays"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1202",
+         "pubDate" : "Mon, 12 Jul 2021 15:13:47 +0000",
+         "title" : "Riga Technical University Open is back for a special 10th edition"
       },
       {
          "description" : "At the turn of August and September this year, the European Senior Team Chess Championship 2021 will take place at the Don Giovanni Hotel in Prague, known for hosting the prestigious Prague International Chess Festival. The event was announced relatively recently, as the original organizer from Poland had to back out. We have extensive experience with senior events&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/\">Read More &#187;</a></span>",
@@ -1402,6 +1586,14 @@ news_feed (
          "title" : "Vachier-Lagrave Wins Croatia Rapid & Blitz"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1201",
+         "pubDate" : "Mon, 12 Jul 2021 07:50:08 +0000",
+         "title" : "Maxime Vachier-Lagrave wins Croatia GCT"
+      },
+      {
          "description" : "ECU E-Magazine June 2021 is out! In this edition of the ECU E-Magazine you may read about: Mediterranean Chess Championship 2021 Communique of the ECU Board Meeting Preview and information about 6 announced ECU events Queen's Chess Festival FIDE ECU International Organisers Seminar ECU EDU Activities Arbiters Corner Fun Zone The June 2021 edition of the ECU E-Magazine&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-june-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1440,6 +1632,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-5",
          "pubDate" : "Sun, 11 Jul 2021 23:10:00 +0100",
          "title" : "MVL wins Croatia GCT with a round to spare, Anand shines"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1200",
+         "pubDate" : "Sun, 11 Jul 2021 19:57:09 +0000",
+         "title" : "FIDE World Cup opens in Sochi"
       },
       {
          "description" : " The San Fermin Masters Final was a Chess24 blitz event that took place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they were joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen beat Levon Aronian 5-3 in the final.",
@@ -1522,6 +1722,14 @@ news_feed (
          "title" : "A pretty vicious burn"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1199",
+         "pubDate" : "Sun, 11 Jul 2021 09:42:01 +0000",
+         "title" : "Bachar Kouatly appointed as Reverse Delegate for Morocco"
+      },
+      {
          "description" : " Nigel posted an interesting thought on social media the other day. &#8220;I sense that a chess &#8216;kulturkampf' is brewing with digital Bongcloudistas vs cantankerous traditionalists. Battle lines are currently being drawn with just an occasional skirmish at present&#8221; In my new career as a chess book reviewer in another place, it's very noticeable that there's <a href=\"https://chessimprover.com/culture-wars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Culture Wars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/culture-wars/\">Culture Wars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1544,6 +1752,14 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-cup-2021-opens-today/",
          "pubDate" : "Sun, 11 Jul 2021 07:42:24 +0000",
          "title" : "FIDE WORLD CUP 2021 OPENS TODAY"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1198",
+         "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
+         "title" : "Day 4 Recap"
       },
       {
          "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
@@ -1594,6 +1810,14 @@ news_feed (
          "title" : "AICF joint secretary Lahiri writes to PM, alleges corruption against 'boss' Chauhan"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1197",
+         "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
+         "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi came in first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over fro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1616,6 +1840,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mighty-knights",
          "pubDate" : "Sat, 10 Jul 2021 09:00:00 +0100",
          "title" : "Mighty knights"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1196",
+         "pubDate" : "Sat, 10 Jul 2021 07:27:29 +0000",
+         "title" : "Nepomniachtchi in front after rapid"
       },
       {
          "description" : " How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level: FM Alex Dunne From the publisher: Surprise yourself and reach higher! This book is based on real amateur games and shows you how an average club player can proceed through the ranks and reach Candidate Master level. Its <a href=\"http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
@@ -1698,6 +1930,14 @@ news_feed (
          "title" : "Chess: Carlsen loses three in a row twice as champion heads for World Cup"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1195",
+         "pubDate" : "Fri, 09 Jul 2021 07:00:18 +0000",
+         "title" : "Nepomniachtchi keeps the lead"
+      },
+      {
          "description" : " Once upon a time, when chess was slowly making its way west from India to Europe, the rules were somewhat different. One of the differences was that castling was not permitted--or rather, it's better to say that no one had yet dreamt up the idea of castling. That innovation was one of many ways the game was changed to speed up the action. But what if we got rid of it? Vladimir Kramnik has been proposing various chess variants over the last few years, and he'll put it to the test against the greatest player from the land where chess (probably) started (India) - his great rival Viswanathan Anand. They'll play a four-game match in Dortmund starting July 14; let's hope it's a good one. More <a ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1760,6 +2000,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-1",
          "pubDate" : "Thu, 08 Jul 2021 01:40:00 +0100",
          "title" : "GCT Croatia: Nepo starts strong"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1194",
+         "pubDate" : "Wed, 07 Jul 2021 23:32:15 +0000",
+         "title" : "Nornickel becomes FIDE's youth and children global chess development partner"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1193",
+         "pubDate" : "Wed, 07 Jul 2021 21:42:30 +0000",
+         "title" : "Asian Chess Championship for Players with Disabilities starts on Tornelo"
       },
       {
          "description" : "The state of Kerala, India found a pleasant gesture from a land faraway, the Czech Republic, when 'Chess Train' organiser Pavel Matocha organised a charity chess simultaneous display at Prague to help in its vaccination drive, with the raised money going to the Chief Minister's Distress Relief Fund of the Kerala Government. The motive behind this hearty gesture was no more than the attachment felt with the state of Kerala and its people, when Matocha participated in the 'Chess Houseboat' event held during early 2020. The event received support from the top echelons of the Czech Government, as well as the Ambassador of India to the Czech Republic. | Photo: Prague Chess Society",
@@ -1826,12 +2082,28 @@ news_feed (
          "title" : "Mihail Marin: My most memorable game"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1192",
+         "pubDate" : "Tue, 06 Jul 2021 20:17:33 +0000",
+         "title" : "Ponkratov and Guseva win Higher League of Russian Championship"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Higher League. He analyses a highly entertaining victory by Maksim Chigaev, one that included a spectacular finish. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-russian-higher-league-2021",
          "pubDate" : "Tue, 06 Jul 2021 18:45:00 +0100",
          "title" : "The Weekly Show: A spectacular finish from the Russian Higher League"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1191",
+         "pubDate" : "Tue, 06 Jul 2021 17:32:15 +0000",
+         "title" : "Intercontinental Online Chess Championship for Prisoners announced"
       },
       {
          "description" : "Let us assume you are a chess amateur, who in pandemic times have become obsessed with improving your game. Wouldn't it be nice to have one of the top ten players in the world coach you? If that is what you want it is of advantage to be a leading stand-up comedian. But even if you are not, you can still profit from this charming little lesson Anish Giri, rated 2776, gave Biswa Kalyan Rath, 1600, on how to best use a bishop pair to win a game. Learn and enjoy.",
@@ -1930,6 +2202,14 @@ news_feed (
          "title" : "Remembering Yury"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1188",
+         "pubDate" : "Mon, 05 Jul 2021 10:24:30 +0000",
+         "title" : "Proposals to change FIDE's rating and title regulations"
+      },
+      {
          "description" : " From the publisher: &#8220;After his first two most successful volumes of Chess Middlegame Strategies, Ivan Solokov explores in his final volume ideas related to the symbiosis of the strategic and dynamic elements of chess. He combined the most exceptional ideas, strategies and positional play essentials. These three volumes will give you a serious head start <a href=\"http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Middlegame Strategies Strategy Meets Dynamics, Volume 3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://british",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1944,6 +2224,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-149",
          "pubDate" : "Sun, 04 Jul 2021 23:15:00 +0100",
          "title" : "A few reflections more (and a cocktail of Caissists)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1187",
+         "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
+         "title" : "Aronian wins his first Meltwater Chess Masters title"
       },
       {
          "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand beat Dominguez in the final match. A 2-2 tie in the rapid games meant it would all come down to the blitz tiebreakers. After a draw in the first 5-minute game, Gelfand managed to convert a rook vs bishop endgame to get tournament victory. | Replay the games with computer analysis.",
@@ -2010,6 +2298,14 @@ news_feed (
          "title" : "Yury Dokhoian (1964-2021)"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1186",
+         "pubDate" : "Sat, 03 Jul 2021 20:28:56 +0000",
+         "title" : "Aronian on brink of first Meltwater Champions Chess Tour title"
+      },
+      {
          "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship took place 12th June to 3rd July 2021. The final stage had 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. Former Women's World Chess Champion Hou Yifan beat Dronavalli Harika 15-13 in the final.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2024,6 +2320,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mvl-interview-2021-chalons-en-champagne",
          "pubDate" : "Sat, 03 Jul 2021 18:00:00 +0100",
          "title" : "MVL: I aim to get back into the top 10 very soon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1185",
+         "pubDate" : "Sat, 03 Jul 2021 16:47:43 +0000",
+         "title" : "Hou Yifan wins Women's Speed Chess Championship"
       },
       {
          "description" : " Earlier in the year I tweeted about how well the Doeberl Cup went, showing some pictures of the 335 player field. A few people (from OS) commented about the lack of mask wearing, which then provoked a reply from someone who asked if wearing a mask affected the ability to play chess well. Based in a single (non scientific) sample, it probably doesn't, or if it does, everyone is equally handicapped. Today's Street Chess event was played indoors, which due to current ACT health regulations, meant that everyone over the age of 12 was required to wear a mask. In the end the top seeds finished at the top, and even a few players who expressed annoyance at having to put a mask on, found themselves ",
@@ -2074,12 +2378,36 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2021 - Official regulations"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1184",
+         "pubDate" : "Fri, 02 Jul 2021 20:49:11 +0000",
+         "title" : "Carlsen OUT as Aronian hits overtime winner to face Artemiev in final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1183",
+         "pubDate" : "Fri, 02 Jul 2021 20:28:52 +0000",
+         "title" : "Hou Yifan reaches the final"
+      },
+      {
          "description" : " Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master (9 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
          "pubDate" : "Fri, 02 Jul 2021 18:06:32 +0000",
          "title" : "Abhimanyu Mishra, youngest chess GM in history!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1178",
+         "pubDate" : "Fri, 02 Jul 2021 17:44:11 +0000",
+         "title" : "FIDE Binance Business Schools Super Cup announced"
       },
       {
          "description" : "Lawrence Trent is English, Arne Kaehler is German - time to analyse the recent Euro 2020 football game clash of both nations, which, funnily enough, had a couple of similarities to a grandmaster chess game. Furthermore, the \"Wunderkinder\" from India are breaking world records, winning tournaments, and are on top of the tables these last weeks. Lawrence Trent gives an analysis of the youngest chess Grandmaster Abhimanyu vs. Mendonca. We also take a look at the Goldmoney and Silver Lake tournaments, and talk about Larry Kaufman's interesting life.",
@@ -2098,14 +2426,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi comments"
       },
       {
-         "description" : "The \"Torneo Magistral de Ajedrez\" is a four player online knock-out rapid tournament, organised by the Spanish city of Leon. In the first semifinal Leinier Dominguez won against Women's World Champion Ju Wenjun. In the second semifinal Boris Gelfand will play against local grandmaster Jaime Santos. | Photo: Justin Kellar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/torneo-magistral-de-ajedrez-leinier-dominguez-wins-first-semifinal",
-         "pubDate" : "Fri, 02 Jul 2021 14:30:00 +0100",
-         "title" : "Torneo Magistral de Ajedrez: Leinier Dominguez wins first semifinal"
-      },
-      {
          "description" : "At just 12 years of age, Abhimanyu Mishra has become the youngest grandmaster in chess history. He broke the record of Sergey Karjakin who held the title of the youngest GM in the chess world. Mishra's quest for the youngest GM holder position had extra merit, having in mind the ongoing Covid19 pandemic and postponement of many []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2120,6 +2440,22 @@ news_feed (
          "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1181",
+         "pubDate" : "Thu, 01 Jul 2021 18:27:39 +0000",
+         "title" : "Yuri Dokhoian passes away"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1182",
+         "pubDate" : "Thu, 01 Jul 2021 16:56:35 +0000",
+         "title" : "Harika Dronavalli squeezes into final"
       }
    ]
 }
