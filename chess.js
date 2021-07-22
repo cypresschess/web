@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
+         "pubDate" : "Thu, 22 Jul 2021 09:13:14 +0100",
+         "title" : "Freddy has beaten a grandmaster"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at several games from the 2021 Chess World Cup and Women's Chess World Cup, including Fabiano Caruana's early loss to underdog Rinat Jumabayev. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/le-wins-july-20-titled-tuesday",
          "pubDate" : "Wed, 21 Jul 2021 11:00:42 -0700",
          "title" : "Le Wins July 20 Titled Tuesday"
+      },
+      {
+         "description" : " Reaching the Grandmaster (GM) title was a long-standing dream for me. After scoring my first GM-Norm in 2014, I had to wait 3 more years until April 2017 to achieve the Grandmaster title. While the progress until the International Master (IM) title was pretty smooth, the road to the Grandmaster title was really hard. Be [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/from-im-to-gm/\">From International Master to Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/from-im-to-gm/",
+         "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0000",
+         "title" : "From International Master to Grandmaster In Chess"
       },
       {
          "description" : "This week, Merijn van Delft takes a look a close look at a stunning game with a brutal rook sacrifice from the World Cup: Michal Krasenkow's fine attacking win against Kirill Alekseenko. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2416,14 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nihal-sarin-wins-silver-lake-open",
          "pubDate" : "Thu, 01 Jul 2021 12:05:17 +0100",
          "title" : "Nihal Sarin wins Silver Lake Open"
-      },
-      {
-         "description" : "This week Merijn van Delft takes a look how Magnus Carlsen surprised Peter Svidler - and chess fans around the world - with an unusual move in the starting position of the Najdorf Sicilian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-m-carlsen-vs-p-svidler",
-         "pubDate" : "Thu, 01 Jul 2021 11:05:27 +0100",
-         "title" : "Game of the Week: M. Carlsen vs P. Svidler"
       },
       {
          "description" : " <p class=\"lead\">Two tickets to the FIDE Candidates Tournament will be decided in a tightly-packed series organized by World Chess <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F862BDE-27CE-4BF9-87BD-1DD6482C35AA.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Opening ceremony of the 2019 FIDE Grand Prix organized by World Chess in Moscow</div> </div> FIDE and World Chess are pleased to announce <b>the 2022 Grand Prix Series</b> that will take place in February - April of 2022 and will consist of three tournaments. The events will take place in one city - a deviation from the typical system where Grand Prix events are hosted in different",
