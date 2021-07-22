@@ -10,6 +10,14 @@ news_feed (
          "title" : "Freddy has beaten a grandmaster"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1223",
+         "pubDate" : "Thu, 22 Jul 2021 07:55:52 +0000",
+         "title" : "Liaocheng China celebrates International Chess Day with Grand Chess Cultural Festival"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at several games from the 2021 Chess World Cup and Women's Chess World Cup, including Fabiano Caruana's early loss to underdog Rinat Jumabayev. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
          "pubDate" : "Thu, 01 Jul 2021 09:56:00 +0000",
          "title" : "2022 FIDE Grand Prix Series Announced"
-      },
-      {
-         "description" : "ChessFest flyer here &#124;&#160;ChessFest rapidplay entry form here &#124; Guardian article here Chess in Schools and Communities (CSC) invites everyone to ChessFest at Trafalgar Square...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-in-londons-trafalgar-square/",
-         "pubDate" : "Thu, 01 Jul 2021 08:00:07 +0000",
-         "title" : "ChessFest in Trafalgar Square 18th July"
       }
    ]
 }
