@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1224",
+         "pubDate" : "Thu, 22 Jul 2021 22:18:27 +0000",
+         "title" : "Round 04 Game 01: Wojtaszek holds Carlsen to a draw"
+      },
+      {
+         "description" : "Half the matches in the open section of the FIDE World Cup finished decisively on Thursday, with Kacper Piorun (pictured), Vidit, Vasif Durarbayli and Sam Shankland scoring crucial wins with the black pieces. In the women's section, Antoaneta Stefanova and Polina Shuvalova won their first games in the round-of-16. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Thu, 22 Jul 2021 22:15:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
+         "pubDate" : "Thu, 22 Jul 2021 21:50:00 +0100",
+         "title" : "U.S. Junior and Senior Championships live"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84653691.cms\" />Young Indian Grandmaster R Praggnanandhaa held highly-rated Frenchman Maxime Vachier-Lagrave in the first game of the two-game mini-match in the men's fourth round of the FIDE chess World Cup here on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arian-gonzalez-perez-cuba-hunger-strike",
-         "pubDate" : "Thu, 22 Jul 2021 08:49:24 -0700",
+         "pubDate" : "Thu, 22 Jul 2021 08:49:00 -0700",
          "title" : "Kasparov, Dominguez Speak Out As Arrested Cuban GM Starts Hunger Strike"
       },
       {
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-recap-rest-day-1",
          "pubDate" : "Thu, 22 Jul 2021 14:45:00 +0100",
          "title" : "World Cup: A recap after the first rest day"
-      },
-      {
-         "description" : "After half the players returned home and the other half had a rest day before continuing the fight to reach the Candidates Tournament, the World Cup resumes with 32 players still going in the open section and 16 players battling it out in the women's category. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Thu, 22 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : " The 2021 ACT Winter Open starts tomorrow event, as an almost entirely local event. Nonetheless all 64 places have been filled, with a couple of extra players on the waiting list. One pleasing thing is that it has attracted a strong field of local players in the Open section. A couple of players who missed the ACT Championship have also joined in, including FM Michael Kethro, Harry Press and Willis Lo. The Minor (Under 1600) tournament has a field of 44 players, and should provide an interesting clash between promising juniors and experienced tournament players. You can follow the tournament at http://tournaments.streetchess.net/actwinteropen2021/ The top 4 boards should be broadcast live, s",
@@ -2416,14 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
          "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
          "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
-      },
-      {
-         "description" : "In the new ChessBase Magazine # 202, Ian Nepomniachtchi, the winner of the Candidates Tournament 2020/20201 and World Championship challenger, takes a close look at his crucial win against Wang Hao in the Candidates. Nepomniachtchi provides deep but also entertaining commentary. Here's a shortened version of his analysis. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ian-nepomniachtchi-comments",
-         "pubDate" : "Fri, 02 Jul 2021 16:00:00 +0100",
-         "title" : "Ian Nepomniachtchi comments"
       },
       {
          "description" : "At just 12 years of age, Abhimanyu Mishra has become the youngest grandmaster in chess history. He broke the record of Sergey Karjakin who held the title of the youngest GM in the chess world. Mishra's quest for the youngest GM holder position had extra merit, having in mind the ongoing Covid19 pandemic and postponement of many []",
