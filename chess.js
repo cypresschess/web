@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Dortmund Vishy Anand and Vladimir Kramnik tried a new variant of chess: they played a four-game match, in which castling was not allowed. After four interesting games Anand won the match 2.5-1.5, and both players, the organizers in Dortmund and the public agreed that the experiment was a success.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-successful-experiment-the-anand-vs-kramnik-no-castling-match-in-dortmund",
+         "pubDate" : "Thu, 22 Jul 2021 12:39:28 +0100",
+         "title" : "A successful experiment: The Anand vs Kramnik \"No Castling\" match in Dortmund"
+      },
+      {
+         "description" : "20 July was International Chess Day and it was celebrated all over the world. With \"Chess Unlimited\" Kineke Mulder (pictured, on the left) celebrates chess in Vienna throughout the year and brings the game to the streets and to the people. During the lockdown this was impossible, and Mulder was happy to share her chess enthusiasm on International Chess Day - with a lot of amateurs and German Grandmaster Sebastian Siebrecht (pictured, on the right). | Photos: Sebastian Siebrecht/ Kineke Mulder/ Erste Bank",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-chess-day-in-vienna",
+         "pubDate" : "Thu, 22 Jul 2021 10:34:35 +0100",
+         "title" : "International Chess Day in Vienna"
+      },
+      {
+         "description" : "Women's World Champion Ju Wenjun and 12-year-old youngest ever grandmaster Abhimanyu Mishra from July 31st play the Chessable Masters, the 8th event on the $1.6 million Meltwater Champions Chess Tour. The top seeds are Shakhriyar Mamedyarov, Wesley So, Alireza Firouzja and Hikaru Nakamura, with three places still to be determined. The Chessable Masters starts on the final rest day of the FIDE World Cup, and is the penultimate regular tour qualifying event before September's Grand Final.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-features-ju-wenjun-and-abhimanyu-mishra",
+         "pubDate" : "Thu, 22 Jul 2021 09:00:01 +0000",
+         "title" : "Chessable Masters features Ju Wenjun and Abhimanyu Mishra"
+      },
+      {
          "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
          "pubDate" : "Thu, 22 Jul 2021 09:13:14 +0100",
          "title" : "Freddy has beaten a grandmaster"
+      },
+      {
+         "description" : "Please note voting for Silver members' representatives closes on 25th July Following the recent request for candidates for the posts of Direct Members'...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
+         "pubDate" : "Thu, 22 Jul 2021 08:00:18 +0000",
+         "title" : "Direct Members' Representatives - elections"
       },
       {
          "description" : "",
@@ -858,6 +890,14 @@ news_feed (
          "title" : "World Cup: Health-related issues"
       },
       {
+         "description" : " From the publisher: &#8220;Every chess player wants to improve, but many, if not most, lack the tools or the discipline to study in a structured and effective way. With so much material on offer, the eternal question is: &#8220;&#8221;How can I study chess without wasting my time and energy?&#8221;&#8221; Davorin Kuljasevic provides the full and <a href=\"http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Study Chess on Your Own</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/\">How to Study Ches",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/",
+         "pubDate" : "Fri, 16 Jul 2021 12:15:54 +0000",
+         "title" : "How to Study Chess on Your Own"
+      },
+      {
          "description" : "Adhiban scored a resounding victory in just 22 moves over the Cuban GM Neuris Delgado Ramirez to go 1-0 up in the second round of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1626,14 +1666,6 @@ news_feed (
          "title" : "A pretty vicious burn"
       },
       {
-         "description" : "Everything that could go wrong on a chessboard did go wrong for Garry Kasparov, who was a shadow of himself as he scored just 0.5 points out of 9 on the first day of blitz in Zagreb. The 13th World Champion got crushed three times in a row in his beloved Najdorf and resigned in 7 moves against Shakhriyar Mamedyarov, as each round seemed to bring a new humiliation. Elsewhere the race remained tight, with Ian Nepomniachtchi losing the sole lead only to regain it in the final round of the day, while MVL top scored in blitz to move within half a point.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/croatia-gct-4-kasparov-s-darkest-day",
-         "pubDate" : "Sun, 11 Jul 2021 09:44:50 +0000",
-         "title" : "Croatia GCT 4: Kasparov's darkest day"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2042,14 +2074,6 @@ news_feed (
          "title" : "Episode 233- IM Levy Rozman returns "
       },
       {
-         "description" : "Following the recent request for candidates for the posts of Direct Members' Representatives to Council, the following have been returned unopposed and will take up...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
-         "pubDate" : "Tue, 06 Jul 2021 14:40:18 +0000",
-         "title" : "Direct Members' Representatives - elections"
-      },
-      {
          "description" : " Another game in the ongoing Press v Hosking matchup. This time it wasn't drawn! <br /> <b>Press,Shaun - Hosking,Ian [A50]</b><br />Belconnen Rapid, 06.07.2021 <script>new PgnViewer( { boardName: \"game1257\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.g3 g6 5.Bg2 Bg7 6.Nc3 O-O 7.O-O d6 8.Qc2 Nbd7 9.e4 e5 10.Rd1 Re8 11.dxe5 dxe5 12.Bg5 h6 13.Bxf6 Bxf6 14.Qd2 Nc5 15.Qxh6 Qe7 16.Qe3 Rad8 17.Nd5 Bxd5 18.cxd5 Qd7 19.Rdc1 Qg4 20.b4 Na6 21.a3 Re7 22.Rc6 Kg7 23.Rac1 Rdd7 24.h3 Qh5 25.g4 Qh8 26.g5 Bxg5 27.Qxg5 Kf8 28.Bf1 Nb8 29.Rxc7 Rxc7 30.Rxc7 Rxc7 31.Qd8+ Kg7 32.Qxc7 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1257-container\"></div><div i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2418,36 +2442,12 @@ news_feed (
          "title" : "Harika Dronavalli squeezes into final"
       },
       {
-         "description" : "The \"Top 12\" competition sees some of the world's best players battle it out to claim the French club championship. This year players such as Maxime Vachier-Lagrave, Veselin Topalov and Jorden Van Foreest show their class in this 11-round event. However, this competition also serves as an excellent platform for amateurs who seldom get to play against such strong opponents. Dhananjay Khadilkar asked Mathieu Ternault (pictured), a wine maker by profession, and Mickael Hutois, a professor for mathematics, how it feels to play in such an event. | Photo: Dhananjay Khadilkar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-12-a-wine-maker-and-a-mathematics-professor-battle-it-out-against-international-stars",
-         "pubDate" : "Thu, 01 Jul 2021 15:54:49 +0100",
-         "title" : "Top 12: A wine maker and a mathematics professor battle it out against international stars"
-      },
-      {
          "description" : " While the chess world is taking notice of Abhimanyu Mishra, who is about to become the worlds youngest GM at the age of 12 (when the title is confirmed) I am also impressed by Salvador Dias Carias, who has been awarded the FM title at the age of 88. In the case of Carias, the title was awarded for his achievements in the 1960's and 1970's, when he achieved a published rating of 2300. Both achievements are newsworthy, and should give some hope to both younger and more senior players. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/oldest-and-youngest.html",
          "pubDate" : "Thu, 01 Jul 2021 14:15:00 +0000",
          "title" : "Oldest and youngest"
-      },
-      {
-         "description" : "Nihal Sarin was the dominant player at the Silver Lake Open: the young Indian and reigning U18 World Champion won the tournament with 8.0/9 and a rating performance of 2809. His compatriots Raunak Sadhwani and Abhimanyu Puranik won silver and bronze. | Photo: Rupali Mulick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nihal-sarin-wins-silver-lake-open",
-         "pubDate" : "Thu, 01 Jul 2021 12:05:17 +0100",
-         "title" : "Nihal Sarin wins Silver Lake Open"
-      },
-      {
-         "description" : " <p class=\"lead\">Two tickets to the FIDE Candidates Tournament will be decided in a tightly-packed series organized by World Chess <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F862BDE-27CE-4BF9-87BD-1DD6482C35AA.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Opening ceremony of the 2019 FIDE Grand Prix organized by World Chess in Moscow</div> </div> FIDE and World Chess are pleased to announce <b>the 2022 Grand Prix Series</b> that will take place in February - April of 2022 and will consist of three tournaments. The events will take place in one city - a deviation from the typical system where Grand Prix events are hosted in different",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2022-fide-grand-prix-series-announced/",
-         "pubDate" : "Thu, 01 Jul 2021 09:56:00 +0000",
-         "title" : "2022 FIDE Grand Prix Series Announced"
       }
    ]
 }
