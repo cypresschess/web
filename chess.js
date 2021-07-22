@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84653691.cms\" />Young Indian Grandmaster R Praggnanandhaa held highly-rated Frenchman Maxime Vachier-Lagrave in the first game of the two-game mini-match in the men's fourth round of the FIDE chess World Cup here on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-r-praggnanandhaa-holds-maxime-vachier-lagrave-to-draw-in-game-one-vidit-gujrathi-wins/articleshow/84653691.cms",
+         "pubDate" : "Thu, 22 Jul 2021 22:34:59 +0530",
+         "title" : "World Cup: Praggnanandhaa holds Vachier-Lagrave to draw in game one"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the the Nimzo-Indian with 4.f3, a sharp system that has helped White in many games to mate the opponent quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-masters-features-ju-wenjun-and-abhimanyu-mishra",
          "pubDate" : "Thu, 22 Jul 2021 09:00:01 +0000",
          "title" : "Chessable Masters features Ju Wenjun and Abhimanyu Mishra"
+      },
+      {
+         "description" : "Figures released today reveal 6,000 casual and serious chess players turned up to London's iconic Trafalgar Square for ChessFest - making it one of the UK's biggest ever chess events.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest",
+         "pubDate" : "Thu, 22 Jul 2021 08:50:00 +0000",
+         "title" : "Trafalgar Squares: 6,000 people turn out for London's ChessFest"
       },
       {
          "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
@@ -464,6 +480,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1220",
          "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
          "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
+      },
+      {
+         "description" : "Akash G of Tamilnadu, Shubhi Gupta of Uttar Pradesh, Adhiraj Mitra of Jharkhand, Anshika Dogre of Madhya Pradesh, Avirat Chauhan of Maharashtra and Charvi A",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/akash-shubhi-adhiraj-anshika-avirat-charvi-national-school-champions/",
+         "pubDate" : "Mon, 19 Jul 2021 17:17:00 +0000",
+         "title" : "Akash, Shubhi, Adhiraj, Anshika, Avirat & Charvi National School Champions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "Pranesh & Renganayaki National School Under-15 Champions"
       },
       {
-         "description" : "Shri Ram College of Commerce (SRCC) Delhi consists of WIM Vantika Agrawal, FM Ankit Gajwa, WFM Tarini Goyal, FM Jeet Jain, Arijith M and IM",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/shri-ram-college-of-commerce-delhi-won-fide-binance-business-schools-super-cup-2021/",
-         "pubDate" : "Tue, 13 Jul 2021 06:54:44 +0000",
-         "title" : "Shri Ram College of Commerce Delhi won FIDE Binance Business Schools Super Cup 2021"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "Junior Speed Chess Championship: Nihal Beats Checa On Eve Of FIDE World Cup"
       },
       {
-         "description" : "Magnus Carlsen left Norway for the first time since the Tata Steel Masters not to head straight to Sochi, Russia, but for Pamplona, Spain, where a city famous for its Running of the Bulls is this year celebrating the San Fermin Festival with a €50,000 chess festival. Magnus played from a room where Ernest Hemingway stayed as he set up a showdown with Wesley So, while Levon Aronian will take on Ding Liren after his match against 16-year-old Nodirbek Abdusattorov went all the way to Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-so-aronian-ding-in-san-fermin-masters-battle",
-         "pubDate" : "Sun, 11 Jul 2021 11:51:12 +0000",
-         "title" : "Carlsen, So, Aronian & Ding in San Fermin Masters battle"
-      },
-      {
          "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-202-special-jan-timman",
          "pubDate" : "Fri, 09 Jul 2021 18:30:00 +0100",
          "title" : "CBM #202 Special: Jan Timman"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84274042.cms\" />Indian Grandmaster Viswanathan Anand went down to Dutch GM Anish Giri in the ninth round of the Rapid event of Croatia Grand Chess Tour here on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-goes-down-to-anish-giri-in-croatia-grand-chess-tour/articleshow/84274042.cms",
-         "pubDate" : "Fri, 09 Jul 2021 22:10:39 +0530",
-         "title" : "Anand goes down to Anish Giri in Croatia Grand Chess Tour"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.zurich-cc.com/en/zurich-1953/photos#!4\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg\" data-image-dimensions=\"480x334\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Zurich 1953 Attendees, via the Zurich Chess Club\" data-load=\"false\" data-image-id=\"60e8741b7727436ecd344805\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg?format=1000w\" /> </a> <figcaption class=\"image-caption-wrapper\"> <p cl",
@@ -2440,22 +2440,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
          "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
          "title" : "The Best Chess Training Website"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1181",
-         "pubDate" : "Thu, 01 Jul 2021 18:27:39 +0000",
-         "title" : "Yuri Dokhoian passes away"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1182",
-         "pubDate" : "Thu, 01 Jul 2021 16:56:35 +0000",
-         "title" : "Harika Dronavalli squeezes into final"
       }
    ]
 }
