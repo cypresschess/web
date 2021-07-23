@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Hans Niemann explains how he knew his opponent For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. Originally streamed on YouTube and Twitch: <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-hans-niemanns-secret-success-i-had-read-him-2021-us-juniors-round-6-interview",
+         "pubDate" : "Fri, 23 Jul 2021 01:54:14 +0000",
+         "title" : "GM Hans Niemann's Secret to Success: \"I had a read on him\" (2021 U.S. Juniors Round 6 Interview)"
+      },
+      {
+         "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/22/other-items-of-interest-nbc-x-2-nobody-castles-nbc-sports.html",
+         "pubDate" : "Fri, 23 Jul 2021 01:39:06 +0000",
+         "title" : "Other Items of Interest: NBC x 2 (NoBody Castles, NBC Sports)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Since the <strong>Chessable Masters</strong> from 31 July to 8 August will clash with the semifinals and final of the World Cup, three of its participants are not yet announced. The <a href=\"https://championschesstour.com/chessable-masters-to-celebrate-worlds-top-chess-educators/\">line-up revealed so far</a> includes <strong>Mamedyarov</strong> and <strong>Firouzja</strong>, who were eliminated early in Sochi, two female players, <strong>Humpy Koneru</strong> and <strong>Ju Wenjun</strong>, the youngest grandmaster <strong>Abhimanyu Mishra</strong>, and <strong>Eduardo Iturrizaga</strong> as one of the first Latin Americans. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-faces-at-chessable-masters/",
+         "pubDate" : "Fri, 23 Jul 2021 01:55:22 +0100",
+         "title" : "New faces at Chessable Masters"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After infringements of its open-source license, the <strong>Stockfish</strong> team hired the Berlin law firm <strong>JBB</strong> to reach a recall of <a href=\"https://www.chesstech.org/2021/stockfish-team-shocked/\">Fat Fritz 2</a> and termination of Houdini 6 sales. Even though Stockfish withdrew the General Public License from <strong>Chessbase</strong>, the German software house keeps selling Stockfish-based products. Stockfish has now <a href=\"https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/\">announced a lawsuit</a> against Chessbase in a German court. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessbase-sued-by-stockfish/",
+         "pubDate" : "Fri, 23 Jul 2021 01:32:46 +0100",
+         "title" : "Chessbase sued by Stockfish"
+      },
+      {
+         "description" : " Oof, what a round. The most dramatic result - and the most painful one for most U.S. fans - was the elimination of Fabiano Caruana against Rinat Jumabayev. Caruana drew the first classical game with Black without any difficulties, but went nuts in his white game with 27.g5? Bxf1? 28.Rxf1?, leaving him with no real compensation for the sacrificed material. Happily for Team America, Jumabayev erred with 32...Nf6, and Caruana made it to the time control with equality. Alas, Caruana's 41st move was a blunder (or if you think that only obvious errors can be blunders, it was a big mistake). Jumabayev took his time, figured it out, and took advantage. This was not the only upset, however. Anish Gi",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/22/world-cup-post-round-3-update.html",
+         "pubDate" : "Fri, 23 Jul 2021 00:11:13 +0000",
+         "title" : "World Cup, Post-Round 3 Update"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -626,14 +666,6 @@ news_feed (
          "title" : "Pavel Eljanov wins Deutschland Grand Prix"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After a new world's youngest grandmaster record has been set, the cottage industry of title norm tournaments has come under scrutiny, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/qiyu-zhou.1920.jpeg\" title=\"Fantastic results against Eastern European title holders got streaming and E-sport star Zhou Qiyu the WGM and FM titles. Zhou Qiyu Instagram\" data-title=\"Fantastic results against Eastern European title holders got streaming and E-sport star Zhou Qiyu the WGM and FM titles. (Zhou Qiyu Instagram)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/beyond-the-norm/",
-         "pubDate" : "Mon, 19 Jul 2021 08:44:02 +0100",
-         "title" : "Beyond the norm"
-      },
-      {
          "description" : "We are pleased to announce that the English Junior Coaches and Organisers Association, with the support of the English Chess Federation, has teamed up with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/",
          "pubDate" : "Mon, 19 Jul 2021 00:10:29 +0000",
          "title" : "1.e4! The Chess Bible: The Chess Bible - Volume 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-2",
-         "pubDate" : "Sun, 18 Jul 2021 19:48:55 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 2"
       },
       {
          "description" : "",
@@ -840,14 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-enters-3rd-round-gukesh-padmini-rout-ousted/articleshow/84506697.cms",
          "pubDate" : "Sat, 17 Jul 2021 22:16:42 +0530",
          "title" : "Chess WC: Vidit Gujrathi enters 3rd round, Gukesh, Padmini Rout ousted"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two Indonesian players and their delegation leader tested positive for Covid-19 at the <strong>FIDE World Cup</strong> in Sochi, their opponents, including Fabiano Caruana, were confined to their hotel rooms. If negatively tested and symptom free, the American will probably be allowed to play the third round on Sunday. However, two female players from Indonesia were preventively banned from the tournament. Levon Aronian who developed a fever due to a Tonsillitis, agreed to withdraw, all in spite of negative tests. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/caruana-quarantined-aronian/",
-         "pubDate" : "Sat, 17 Jul 2021 17:20:54 +0100",
-         "title" : "Caruana quarantined, Aronian \"withdrew\""
       },
       {
          "description" : "57-year-old Michal Krasenkow executed a brilliant attack to take down Kirill Alekseenko on Friday and reach a Round 3 match against 15-year-old Praggnanandhaa, who whitewashed Gabriel Sargissian 2:0. Sargissian and Alekseenko are among 7 players given a bye to Round 2 who are out of the Open Section (Vallejo, Anton, Kryvoruchko, Ragger and Levon Aronian, who couldn't play, are the others) while in the Women's Section only Olga Girya was knocked out, by 16-year-old Leya Garifullina. 30 matches have gone to tiebreaks, after Alireza Firouzja and Gukesh survived scares.",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "Other Events: Leon, San Fermin Masters, World Cup"
       },
       {
-         "description" : " You may remember the recent Grand Chess Tour event in Paris, where Etienne Bacrot and Vladimir Kramnik split the rapid &amp; blitz duties. Bacrot, a ratings underdog and no longer a member of the elite, scored surprisingly well in the rapid, but Kramnik had a very poor result in the blitz. Apparently Garry Kasparov was concerned about that, but as it turned out he wasn't concerned enough. Ivan Saric did a great job in the rapid, leaving Kasparov only a point out of first going into the blitz, but Kasparov's performance was absolutely disastrous. How bad? Well, his TPR on the first day was lower than *my* rating. He lost in round one to to Jorden Van Foreest and drew with Alexander Grischuk ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/11/mvl-wins-croatian-grand-chess-tour-event-kasparov-bombs.html",
-         "pubDate" : "Mon, 12 Jul 2021 02:47:11 +0000",
-         "title" : "MVL Wins Croatian Grand Chess Tour Event; Kasparov Bombs"
-      },
-      {
          "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1195",
          "pubDate" : "Fri, 09 Jul 2021 07:00:18 +0000",
          "title" : "Nepomniachtchi keeps the lead"
-      },
-      {
-         "description" : " Once upon a time, when chess was slowly making its way west from India to Europe, the rules were somewhat different. One of the differences was that castling was not permitted--or rather, it's better to say that no one had yet dreamt up the idea of castling. That innovation was one of many ways the game was changed to speed up the action. But what if we got rid of it? Vladimir Kramnik has been proposing various chess variants over the last few years, and he'll put it to the test against the greatest player from the land where chess (probably) started (India) - his great rival Viswanathan Anand. They'll play a four-game match in Dortmund starting July 14; let's hope it's a good one. More <a ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/9/no-castling-chess-between-kramnik-and-anand-starting-july-14.html",
-         "pubDate" : "Fri, 09 Jul 2021 06:42:39 +0000",
-         "title" : "No-Castling Chess Between Kramnik and Anand, Starting July 14"
       },
       {
          "description" : " Last week, we started looking at the fork, another tactic the beginner should have in his or her chess player's tool box. A fork occurs when one pawn or piece attacks two or more pawns or pieces simultaneously (at the same time). Any member of your army can employ a fork, even the pawn and <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\">A Foundation for Beginners Twenty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">",
