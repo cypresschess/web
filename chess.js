@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-1.html",
+         "pubDate" : "Fri, 23 Jul 2021 22:50:00 +0000",
+         "title" : "2021 ACT Winter Open - Day 1"
+      },
+      {
+         "description" : "Exactly half the matches in both sections were decided in Friday's round at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Pictured: Dinara Saduakassova and Alina Kashlinskaya | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Fri, 23 Jul 2021 22:15:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
+         "pubDate" : "Fri, 23 Jul 2021 21:50:00 +0100",
+         "title" : "U.S. Junior and Senior Championships, Round 7 live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1225",
+         "pubDate" : "Fri, 23 Jul 2021 20:23:14 +0000",
+         "title" : "Round 04 Game 02: Wojtaszek forces the tiebreak with Carlsen"
+      },
+      {
          "description" : " Only eight of the 16 matches have finished with a winner after the two classical games, so there will be plenty of tiebreak action to enjoy tomorrow. The headliner will be Magnus Carlsen, who failed to convert a winning advantage in a very sharp position against Radoslaw Wojtaszek. Had he done so, it would have been an attacking masterpiece, but even world champions slip from time to time. The winner of that match will face the winner of the all-Russian clash between Daniil Dubov vs. Andrey Esipenko, which is also headed for tiebreaks after a second, much less eventful draw. Another Russian headed for tiebreaks is Pavel Ponkratov, who avenged his loss yesterday to Etienne Bacrot with a (mos",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://aicf.in/national-amateur-online-chess-championships-2021/",
          "pubDate" : "Fri, 23 Jul 2021 13:28:10 +0000",
          "title" : "NATIONAL AMATEUR ONLINE CHESS CHAMPIONSHIPS 2021"
-      },
-      {
-         "description" : "A total of 10 players, in both sections, go into the second day of round 4 needing a win to remain in contention at the FIDE World Cups in Sochi. World champion Magnus Carlsen drew his first game against Radoslaw Wojtaszek and will have the white pieces in game 2. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Sarasadat Khademalsharieh | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Fri, 23 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "Round 4.1 of the FIDE Women's World Cup 2021 brought only two decisive results and 6 draws. One of them happened on the first board in the match between former World Champion Antoaneta Stefanova (Bulgaria 2463) and last World Championship challenger Aleksandra Goryachkina (Russia 2596). Stefanova won the game after Goryachkina fell into a trap []",
@@ -2410,36 +2434,12 @@ news_feed (
          "title" : "Tobacco, witchcraft and chess: a study in Jacobean cancel culture"
       },
       {
-         "description" : "In the diagram position Black seems to be able to win a pawn with 20...Rxa4?? 21.Rxa4 Rxa4. But taking this pawn leaves Black's back rank unprotected which White can exploit. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-decisive-detail",
-         "pubDate" : "Sat, 03 Jul 2021 09:00:00 +0100",
-         "title" : "The decisive detail"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/",
          "pubDate" : "Sat, 03 Jul 2021 05:53:27 +0000",
          "title" : "European Senior Team Chess Championship 2021 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1184",
-         "pubDate" : "Fri, 02 Jul 2021 20:49:11 +0000",
-         "title" : "Carlsen OUT as Aronian hits overtime winner to face Artemiev in final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1183",
-         "pubDate" : "Fri, 02 Jul 2021 20:28:52 +0000",
-         "title" : "Hou Yifan reaches the final"
       }
    ]
 }
