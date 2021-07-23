@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at tactics from the World Cup with the main feature a brilliant attack by Adhiban 'The Beast' Baskaran. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-beast-attacks",
+         "pubDate" : "Fri, 23 Jul 2021 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Beast attacks"
+      },
+      {
+         "description" : "The Stockfish team has filed a lawsuit against Chessbase, claiming that the German chess software company is selling their software without having the license to do so. The lawsuit, filed in a German court, was announced last Tuesday in a blog on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/stockfish-developers-sue-chessbase-claiming-copyright-violation",
+         "pubDate" : "Fri, 23 Jul 2021 07:17:00 -0700",
+         "title" : "Stockfish Developers Sue Chessbase Claiming Copyright Violation"
+      },
+      {
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper CHN 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/",
+         "pubDate" : "Fri, 23 Jul 2021 14:10:14 +0000",
+         "title" : "2021 FIDE World Cup: Round #4"
+      },
+      {
+         "description" : "The National Amateur Online Chess Championship will be held from 06 Aug to 08 Aug 2021. The last date of entry is 03 Aug 21.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-online-chess-championships-2021/",
+         "pubDate" : "Fri, 23 Jul 2021 13:28:10 +0000",
+         "title" : "NATIONAL AMATEUR ONLINE CHESS CHAMPIONSHIPS 2021"
+      },
+      {
+         "description" : "A total of 10 players, in both sections, go into the second day of round 4 needing a win to remain in contention at the FIDE World Cups in Sochi. World champion Magnus Carlsen drew his first game against Radoslaw Wojtaszek and will have the white pieces in game 2. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Sarasadat Khademalsharieh | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Fri, 23 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "Round 4.1 of the FIDE Women's World Cup 2021 brought only two decisive results and 6 draws. One of them happened on the first board in the match between former World Champion Antoaneta Stefanova (Bulgaria 2463) and last World Championship challenger Aleksandra Goryachkina (Russia 2596). Stefanova won the game after Goryachkina fell into a trap []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stefanova-nobody-wants-to-resign-goryachkina-in-a-must-win-situation/",
+         "pubDate" : "Fri, 23 Jul 2021 12:40:05 +0000",
+         "title" : "Stefanova: \"Nobody wants to resign!\"- Goryachkina in a must win situation!"
+      },
+      {
          "description" : " We'll wrap up our look at tactics over the next three weeks and move onto a set of middle-game principles that will greatly help you during this game phase. As with the opening principles, each remaining phase of the game - the middle-game and endgame - have their own set of principles to guide your <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\">A Foundation for Beginners Twenty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -602,7 +650,7 @@ news_feed (
          "title" : "FIDE World Cup 2021 - Games and Results"
       },
       {
-         "description" : " Share!Round 3, Game 1 Sunday, 18 July 2021 Shakhriyar Mamedyarov goes down Carissa Yip scores big win! GM Bassem Amin (Egypt)Photo by IM Eric Rosen There were some FIDE World Cup viewers who were clamoring for Bassem Amin's game. While it may go unnoticed to most, Amin is an iconic figure in African and Egyptian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/\">2021 FIDE World Cup: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Round 3, Game 1 Sunday, 18 July 2021 Shakhriyar Mamedyarov goes down Carissa Yip scores big win! GM Bassem Amin (Egypt)Photo by IM Eric Rosen There were some FIDE World Cup viewers who were clamoring for Bassem Amin's game. While it may go unnoticed to most, Amin is an iconic figure in African and Egyptian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/\">2021 FIDE World Cup: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/",
@@ -1554,14 +1602,6 @@ news_feed (
          "title" : "Breaking the wall"
       },
       {
-         "description" : "Top seeds Pranesh M of Tamilnadu in Open and Renganayaki of Karantaka in Girls won the National School Under-15 titles on Thursday. Pranesh scored 8",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/pranesh-renganayaki-national-school-under-15-champions/",
-         "pubDate" : "Tue, 13 Jul 2021 07:43:32 +0000",
-         "title" : "Pranesh & Renganayaki National School Under-15 Champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1816,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1198",
          "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
          "title" : "Day 4 Recap"
-      },
-      {
-         "description" : "It was a painful day of chess for GM Garry Kasparov and his many fans. The 13th world champion, who joined the field at the Croatia Rapid &#38;amp; Blitz today, scored a disastrous 0.5/9.&#38;nbsp;GM Ian Nepomniachtchi still leads but GM Maxime Vachier-La...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-4-kasparov",
-         "pubDate" : "Sat, 10 Jul 2021 13:10:00 -0700",
-         "title" : "Croatia Rapid & Blitz: Kasparov Scores 0.5/9"
       },
       {
          "description" : "On Sunday 18th July the charity \"Chess in Schools and Communities\" is staging the UK's biggest-ever outdoor chess festival, ChessFest, in Trafalgar Square, London's most famous public space. It is to commemorate the 150th anniversary of the children's classic \"Through the Looking Glass.\" Tim Wall looks at what visitors can expect to see, and examines our lasting fascination with Lewis Carroll's epic fantasy tale. Big pictorial preview.",
@@ -2386,14 +2418,6 @@ news_feed (
          "title" : "The decisive detail"
       },
       {
-         "description" : "The French Team Championship is a 12 team round robin event in which some of the world's best players support their French clubs. After 9 rounds, Bischwiller is leading the standings table, with Clichy and Asnieres in shared second place. Round 10 starts at 14:15 CEST (8:15 ET, 12:15 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-team-championship-top-12-live",
-         "pubDate" : "Sat, 03 Jul 2021 08:45:00 +0100",
-         "title" : "French Team Championship \"Top 12\" - Bischwiller leads"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2432,14 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1178",
          "pubDate" : "Fri, 02 Jul 2021 17:44:11 +0000",
          "title" : "FIDE Binance Business Schools Super Cup announced"
-      },
-      {
-         "description" : "Lawrence Trent is English, Arne Kaehler is German - time to analyse the recent Euro 2020 football game clash of both nations, which, funnily enough, had a couple of similarities to a grandmaster chess game. Furthermore, the \"Wunderkinder\" from India are breaking world records, winning tournaments, and are on top of the tables these last weeks. Lawrence Trent gives an analysis of the youngest chess Grandmaster Abhimanyu vs. Mendonca. We also take a look at the Goldmoney and Silver Lake tournaments, and talk about Larry Kaufman's interesting life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
-         "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
-         "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
       }
    ]
 }
