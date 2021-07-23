@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " We'll wrap up our look at tactics over the next three weeks and move onto a set of middle-game principles that will greatly help you during this game phase. As with the opening principles, each remaining phase of the game - the middle-game and endgame - have their own set of principles to guide your <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\">A Foundation for Beginners Twenty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-seven/",
+         "pubDate" : "Fri, 23 Jul 2021 11:23:09 +0000",
+         "title" : "A Foundation for Beginners Twenty Seven"
+      },
+      {
+         "description" : "Half the matches in the open section of the FIDE World Cup finished decisively on Thursday, with Kacper Piorun, Vidit Gujrathi, Vasif Durarbayli and Sam Shankland scoring crucial wins with the black pieces. The biggest upset rating-wise was Amin Tabatabaei (pictured) beating Harikrishna with the white pieces. In the women's section, Antoaneta Stefanova and Polina Shuvalova won their first games in the round-of-16. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d1",
+         "pubDate" : "Fri, 23 Jul 2021 11:45:00 +0100",
+         "title" : "World Cup: No punches pulled"
+      },
+      {
+         "description" : "The Biel International Chess Festival takes place from 24 July until 04 August and offers a large variety of tournaments, and the prestigious Grandmaster Tournament impresses with an interesting format and an interesting line-up. Young players like Nihal Sarin and Vincent Keymer will meet veterans like Boris Gelfand and Gata Kamsky, and others, in a triathlon (Fischer Chess, Rapid, Classical). The tournament will begin on Saturday, 24 July, with the Fischerrandom event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interesting-line-up-at-the-biel-chess-festival",
+         "pubDate" : "Fri, 23 Jul 2021 11:00:00 +0100",
+         "title" : "Interesting line-up at the Biel Chess Festival"
+      },
+      {
+         "description" : "Magnus Carlsen was seriously tested for the first time in Sochi as Radek Wojtaszek decided his best chance against the World Champion was aggression. It could have backfired, but in the end he achieved the moral victory of Magnus offering a draw in an unclear position. Elsewhere half the games in the Open section were decisive, with late twists on most of the boards leaving Harikrishna and Uzbek prodigies Nodirbek Abdusattorov and Javokhir Sindarov needing to win on demand. Women's top seed Aleksandra Goryachkina is in the same boat after blundering against Antoaneta Stefanova.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-1-carlsen-slowed-goryachkina-beaten",
+         "pubDate" : "Fri, 23 Jul 2021 09:50:27 +0000",
+         "title" : "FIDE World Cup 4.1: Carlsen slowed, Goryachkina beaten "
+      },
+      {
+         "description" : "The top seed of&#38;nbsp;the Women&#39;s FIDE World Cup GM Aleksandra Goryachkina is in a must-win situation vs. GM Antoaneta Stefanova after blundering in the first game of round four. GM Nana Dzadnidze also started with a loss against IM Polina Shuvalov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-1",
+         "pubDate" : "Fri, 23 Jul 2021 01:42:00 -0700",
+         "title" : "FIDE World Cup: Goryachkina, Harikrishna Among 10 Players In Danger Zone"
+      },
+      {
          "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,22 +106,6 @@ news_feed (
          "title" : "Round 04 Game 01: Wojtaszek holds Carlsen to a draw"
       },
       {
-         "description" : "Half the matches in the open section of the FIDE World Cup finished decisively on Thursday, with Kacper Piorun (pictured), Vidit, Vasif Durarbayli and Sam Shankland scoring crucial wins with the black pieces. In the women's section, Antoaneta Stefanova and Polina Shuvalova won their first games in the round-of-16. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Thu, 22 Jul 2021 22:15:00 +0100",
-         "title" : "World Cup - Express report"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
-         "pubDate" : "Thu, 22 Jul 2021 21:50:00 +0100",
-         "title" : "U.S. Junior and Senior Championships live"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84653691.cms\" />Young Indian Grandmaster R Praggnanandhaa held highly-rated Frenchman Maxime Vachier-Lagrave in the first game of the two-game mini-match in the men's fourth round of the FIDE chess World Cup here on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,7 +114,7 @@ news_feed (
          "title" : "World Cup: Praggnanandhaa holds Vachier-Lagrave to draw in game one"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the the Nimzo-Indian with 4.f3, a sharp system that has helped White in many games to mate the opponent quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Nimzo-Indian with 4.f3, a sharp system that has helped White in many games to mate the opponent quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nimzo-indian-with-4-f3",
@@ -192,6 +216,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 22 Jul 2021 01:53:10 +0000",
          "title" : "2021 World Cup: Caruana Knocked Out! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : " From the publisher: &#8220;Every chess player wants to improve, but many, if not most, lack the tools or the discipline to study in a structured and effective way. With so much material on offer, the eternal question is: &#8220;&#8221;How can I study chess without wasting my time and energy?&#8221;&#8221; Davorin Kuljasevic provides the full and <a href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Study Chess on Your Own</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\">How to Study Ches",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/",
+         "pubDate" : "Thu, 22 Jul 2021 00:10:54 +0000",
+         "title" : "How to Study Chess on Your Own"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games from the 2021 World Cup. 2021.07.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok=JPicFZax\" alt=\"\" /></a></div>",
@@ -1010,14 +1042,6 @@ news_feed (
          "title" : "World Cup: Health-related issues"
       },
       {
-         "description" : " From the publisher: &#8220;Every chess player wants to improve, but many, if not most, lack the tools or the discipline to study in a structured and effective way. With so much material on offer, the eternal question is: &#8220;&#8221;How can I study chess without wasting my time and energy?&#8221;&#8221; Davorin Kuljasevic provides the full and <a href=\"http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Study Chess on Your Own</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/\">How to Study Ches",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/16/how-to-study-chess-on-your-own/",
-         "pubDate" : "Fri, 16 Jul 2021 12:15:54 +0000",
-         "title" : "How to Study Chess on Your Own"
-      },
-      {
          "description" : "Adhiban scored a resounding victory in just 22 moves over the Cuban GM Neuris Delgado Ramirez to go 1-0 up in the second round of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "2021 FIDE World Chess Cup (Sochi, Russia)"
       },
       {
-         "description" : "Maxime Vachier-Lagrave credited defence as he lost just one of 18 blitz games on the way to winning the Croatia Grand Chess Tour by a full two points. After a last-day collapse for Ian Nepomniachtchi, Maxime's greatest challenge came from 51-year-old Vishy Anand, who beat Garry Kasparov at the start of a 4-game winning streak that ultimately gave him sole 2nd place. Garry called himself an \"amateur\", and despite landing a win he scored 2/9 and deprived us of any last-round drama by losing on time to MVL in a drawn position.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mvl-resists-anand-surge-to-win-croatia-grand-chess-tour",
-         "pubDate" : "Mon, 12 Jul 2021 12:33:58 +0000",
-         "title" : "MVL resists Anand surge to win Croatia Grand Chess Tour"
-      },
-      {
          "description" : " The 2021 World Cup is underway, using the new format that was introduced after the 2019 event. The first round sees 78 matches, while the top 50 players get a bye into the second round. I did not manage to make this year (as either a player or official), so I am following it online. There are a number of places where you can watch the games, including chess24.com (which has the benefit of including analysis), and on youtube (which is the official FIDE stream). Elmer Prudente from Guam is the Oceania representative (which was my job last time), and will have a tough time playing the 51st seed on tonight's round. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1197",
          "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
          "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi came in first in the rapid part of the Croatia Rapid &#38;amp; Blitz. The Russian grandmaster finished a point ahead of the pack, with 18 rounds of blitz to go on Saturday and Sunday. GM Garry Kasparov will now be taking over fro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-zagreb-rapid-blitz-day-3",
-         "pubDate" : "Sat, 10 Jul 2021 01:54:00 -0700",
-         "title" : "Croatia Rapid & Blitz: Slim Lead For Nepomniachtchi Before Kasparov Joins"
       },
       {
          "description" : "As previously announced in my column The Martial menagerie of King Alfonso the Wise, a charitable chess spectacular in London is happening this coming week, culminating in a living game in Trafalgar Square, organised by the Stakhanovite Malcolm Pein. I have on several occasions been involved in playing live chess games, with schoolchildren, actors or, []",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "Boris Gelfand prevails in Leon"
       },
       {
-         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov This year's edition of Canadian Youth Chess Championship (CYCC) took place online at Lichess. The format was unusual and consisted of 7 rapid games (15 minutes + 10 seconds increment), all played on Saturday, July 3rd. While the format attracted a higher than usual number of <a href=\"https://chessimprover.com/tales-from-cycc-2021/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021/\">Tales from CYCC 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tales-from-cycc-2021/",
-         "pubDate" : "Tue, 06 Jul 2021 09:30:58 +0000",
-         "title" : "Tales from CYCC 2021"
-      },
-      {
          "description" : "Knights that fight against pawns can be clumsy but sometimes they can also work magic. In the diagram position, Black's a-pawn wants to queen but the white knight can still stop him. On the other hand it is hard to see how Black can stop White's e-pawn from queening. But Black can help her knight to do some magic and win. Do you have an idea how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2440,22 +2440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-england-vs-germany-was-like-a-chess-game-indian-superpower-and-gold-silver",
          "pubDate" : "Fri, 02 Jul 2021 17:00:02 +0100",
          "title" : "News Review - England vs. Germany was like a chess game, Indian Superpower, and Gold & Silver"
-      },
-      {
-         "description" : "At just 12 years of age, Abhimanyu Mishra has become the youngest grandmaster in chess history. He broke the record of Sergey Karjakin who held the title of the youngest GM in the chess world. Mishra's quest for the youngest GM holder position had extra merit, having in mind the ongoing Covid19 pandemic and postponement of many []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/12-year-old-abhimanyu-mishra-becomes-the-youngest-gm-in-chess-history/",
-         "pubDate" : "Fri, 02 Jul 2021 10:21:05 +0000",
-         "title" : "12-year-old Abhimanyu Mishra becomes the youngest GM in chess history"
-      },
-      {
-         "description" : " I have the feeling that nearly every day somebody starts a new Chess Training Website. Everybody wants a piece of the ever-growing chess online-business cake. But as most of these people seem to be after the big fast money in the first place, the quality of the content is mediocre at best. Luckily there are [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/the-best-chess-training-website/\">The Best Chess Training Website</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/the-best-chess-training-website/",
-         "pubDate" : "Fri, 02 Jul 2021 08:00:00 +0000",
-         "title" : "The Best Chess Training Website"
       }
    ]
 }
