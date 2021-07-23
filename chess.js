@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
+         "pubDate" : "Fri, 23 Jul 2021 08:13:14 +0100",
+         "title" : "Freddy has beaten a grandmaster"
+      },
+      {
+         "description" : " The world No 1 was the sole survivor from the top four seeds in Sochi as emerging teenage players demonstrated their skills The $1.9m (&pound;1.38m), 206-player World Cup at Sochi has so far proved a graveyard for the top 10 grandmasters, while a bevy of teenage talents have seized the opportunity to enhance their growing reputations. After three rounds and with the original hopefuls whittled down to 32, the global elite's representation has been culled and decimated. Round four started on Thursday, with five teenagers still in the hunt and a quarter of the field aged under 22, but only one of the top four seeds still going. However, the established order still has a serious chance. Ten of ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jul/23/magnus-carlsen-advances-at-chess-world-cup-but-seeds-fall-to-new-talents",
+         "pubDate" : "Fri, 23 Jul 2021 07:00:47 +0000",
+         "title" : "Magnus Carlsen advances at chess World Cup but seeds fall to new talents"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Hans Niemann explains how he knew his opponent For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. Originally streamed on YouTube and Twitch: <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest",
          "pubDate" : "Thu, 22 Jul 2021 08:50:00 +0000",
          "title" : "Trafalgar Squares: 6,000 people turn out for London's ChessFest"
-      },
-      {
-         "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
-         "pubDate" : "Thu, 22 Jul 2021 09:13:14 +0100",
-         "title" : "Freddy has beaten a grandmaster"
       },
       {
          "description" : "Please note voting for Silver members' representatives closes on 25th July Following the recent request for candidates for the posts of Direct Members'...",
