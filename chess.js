@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Only eight of the 16 matches have finished with a winner after the two classical games, so there will be plenty of tiebreak action to enjoy tomorrow. The headliner will be Magnus Carlsen, who failed to convert a winning advantage in a very sharp position against Radoslaw Wojtaszek. Had he done so, it would have been an attacking masterpiece, but even world champions slip from time to time. The winner of that match will face the winner of the all-Russian clash between Daniil Dubov vs. Andrey Esipenko, which is also headed for tiebreaks after a second, much less eventful draw. Another Russian headed for tiebreaks is Pavel Ponkratov, who avenged his loss yesterday to Etienne Bacrot with a (mos",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/23/world-cup-round-4-update-lots-of-tiebreaks-tomorrow.html",
+         "pubDate" : "Fri, 23 Jul 2021 17:53:43 +0000",
+         "title" : "World Cup, Round 4 Update: Lots of Tiebreaks Tomorrow"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84685248.cms\" />India No. 3 Vidit Santosh Gujrathi registered a 2-0 win over Jeffrey Xiong on Friday to advance to the fifth round in the FIDE chess World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-advances-praggnanandhaa-bows-out/articleshow/84685248.cms",
+         "pubDate" : "Fri, 23 Jul 2021 22:09:43 +0530",
+         "title" : "Chess World Cup: Vidit advances; Praggnanandhaa bows out"
+      },
+      {
          "description" : "In this Power Play Show, GM Daniel King takes a look at tactics from the World Cup with the main feature a brilliant attack by Adhiban 'The Beast' Baskaran. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-beast-attacks",
          "pubDate" : "Fri, 23 Jul 2021 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The Beast attacks"
+      },
+      {
+         "description" : " Several top seeds were eliminated while a 10-man Russian phalanx plus five teenagers reached the last 32 in Sochi Magnus Carlsen's serene progress through the early rounds of the $1.9m (&pound;1.38m), 206-player World Cup at Sochi hit a rock in Friday's fourth round, the last 32, when the world champion botched a simple win. After drawing his first game with Radoslaw Wojtaszek on Thursday, Carlsen built up a decisive attack against the Polish No 2's Sicilian Defence only to miss the decisive rook move 25 Rxh7! instead <a href=\"https://www.chessbomb.com/arena/2021-fide-world-cup/04-02-Carlsen_Magnus-Wojtaszek_Radoslaw\">allowing a draw by repeated position</a>. The match now heads at 1-1 for ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jul/23/magnus-carlsen-advances-at-chess-world-cup-but-seeds-fall-to-new-talents",
+         "pubDate" : "Fri, 23 Jul 2021 15:56:56 +0000",
+         "title" : "Magnus Carlsen botches win and heads for tiebreaks at chess World Cup"
       },
       {
          "description" : "The Stockfish team has filed a lawsuit against Chessbase, claiming that the German chess software company is selling their software without having the license to do so. The lawsuit, filed in a German court, was announced last Tuesday in a blog on ...",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
          "pubDate" : "Fri, 23 Jul 2021 08:13:14 +0100",
          "title" : "Freddy has beaten a grandmaster"
-      },
-      {
-         "description" : " The world No 1 was the sole survivor from the top four seeds in Sochi as emerging teenage players demonstrated their skills The $1.9m (&pound;1.38m), 206-player World Cup at Sochi has so far proved a graveyard for the top 10 grandmasters, while a bevy of teenage talents have seized the opportunity to enhance their growing reputations. After three rounds and with the original hopefuls whittled down to 32, the global elite's representation has been culled and decimated. Round four started on Thursday, with five teenagers still in the hunt and a quarter of the field aged under 22, but only one of the top four seeds still going. However, the established order still has a serious chance. Ten of ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jul/23/magnus-carlsen-advances-at-chess-world-cup-but-seeds-fall-to-new-talents",
-         "pubDate" : "Fri, 23 Jul 2021 07:00:47 +0000",
-         "title" : "Magnus Carlsen advances at chess World Cup but seeds fall to new talents"
       },
       {
          "description" : "<div class=\"body text-secondary\"> GM Hans Niemann explains how he knew his opponent For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. Originally streamed on YouTube and Twitch: <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "ECU MAGAZINE JUNE 2021"
       },
       {
-         "description" : " It's a busy time on the chess calendar, as if the chess world is trying to make up for last year (though last year was also packed with top-level events, albeit online rapid and/or blitz events), and in addition to the Goldmoney event that finished last week (won by Levon Aronian, who defeated Magnus Carlsen in the semi-finals and Vladislav Artemiev in the final) and the Croatia Grand Chess Tour Rapid &amp; Blitz (won by Maxime Vachier-Lagrave) there are several other important events that have either finished or are about to start. First, in the rear-view mirror, there's the <a href=\"http://www.advancedchessleon.com/\">34th Leon Chess tournament</a> that finished over the 4th of July weeken",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/11/other-events-leon-san-fermin-masters-world-cup.html",
-         "pubDate" : "Mon, 12 Jul 2021 03:07:47 +0000",
-         "title" : "Other Events: Leon, San Fermin Masters, World Cup"
-      },
-      {
          "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-garry-kasparov-in-croatia-grand-chess-tour/articleshow/84298534.cms",
          "pubDate" : "Sat, 10 Jul 2021 21:27:12 +0530",
          "title" : "Viswanathan Anand beats Garry Kasparov in Croatia Grand Chess Tour"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84295965.cms\" />In a fresh twist to their internal wrangling, All India Chess Federation joint-secretary Atanu Lahiri on Saturday sent a letter to Prime Minister Narendra Modi alleging \"data theft, corruption and misuse of funds\" by secretary Bharat Singh Chauhan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-joint-secretary-lahiri-writes-to-pm-alleges-corruption-against-boss-chauhan/articleshow/84295965.cms",
-         "pubDate" : "Sat, 10 Jul 2021 18:59:15 +0530",
-         "title" : "AICF joint secretary Lahiri writes to PM, alleges corruption against 'boss' Chauhan"
       },
       {
          "description" : "",
@@ -2440,22 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1183",
          "pubDate" : "Fri, 02 Jul 2021 20:28:52 +0000",
          "title" : "Hou Yifan reaches the final"
-      },
-      {
-         "description" : " Abhimanyu Mishra was born on February 5th, 2009, and in an interview with FM Jim Eade, stated that he started playing chess at just 2-1/2 years old. After that, he began making history by setting several records in U.S. chess. He became the youngest 2000-rated player (7 years, 6 months), the youngest National Master (9 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/\">Abhimanyu Mishra, youngest chess GM in history!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/02/abhimanyu-mishra-youngest-gm-in-history/",
-         "pubDate" : "Fri, 02 Jul 2021 18:06:32 +0000",
-         "title" : "Abhimanyu Mishra, youngest chess GM in history!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1178",
-         "pubDate" : "Fri, 02 Jul 2021 17:44:11 +0000",
-         "title" : "FIDE Binance Business Schools Super Cup announced"
       }
    ]
 }
