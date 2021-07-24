@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The main event of the 2021 Biel Chess Festival kicked off on Saturday, as the 8 participants of the Grandmaster Triathlon battled it out at the ACCENTUS Chess960 tournament. While the event did not grant points for the final standings, it decided who will get an extra white in the classical section of the triathlon, and might end up serving as the tiebreaker in case two or more players finish equal in points in the overall standings. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2021-chess-960",
+         "pubDate" : "Sat, 24 Jul 2021 23:10:00 +0100",
+         "title" : "Alekseenko wins Chess960 event in Biel"
+      },
+      {
+         "description" : "Two sets of tiebreaker rounds were enough to find a winner in all 12 matches that were played on Saturday at the World Cups in Sochi. The top seeds in both sections moved on to the next round, as Magnus Carlsen and Aleksandra Goryachkina (pictured) got the better of Radoslaw Wojtaszek and Antoaneta Stefanova respectively. A big upset was seen in the open, as Serbian GM Velimir Ivic knocked out Dmitry Andreikin. | Replay the games played today and find links to all relevant information. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Sat, 24 Jul 2021 22:30:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1227",
+         "pubDate" : "Sat, 24 Jul 2021 20:57:50 +0000",
+         "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
+      },
+      {
+         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
+         "pubDate" : "Sat, 24 Jul 2021 21:50:00 +0100",
+         "title" : "U.S. Junior and Senior Championships - Live! (Round 8)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1226",
+         "pubDate" : "Sat, 24 Jul 2021 20:07:49 +0000",
+         "title" : "Round 04 tiebreaks: Carlsen advances to 1/8 finals"
+      },
+      {
          "description" : " Andrey Esipenko, a 19 year old Grandmaster from Russia has beaten his compatriot Danil Dubov in the fourth round of <a href=\"https://worldcup.fide.com/\">FIDE World Cup</a> and will face the World Champion in Round 5. All eyes will be on this duel because Esipenko has beaten Carlsen earlier this year at Tata Steel Tournament. Watch the interview where Esipenko goes over his match against Dubov which he won on tiebreaks. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/0XE9DeoTKZo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/education-conference-on-thursday-and/",
          "pubDate" : "Sat, 24 Jul 2021 15:44:55 +0100",
          "title" : "Education conference on Thursday and Friday"
-      },
-      {
-         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Antoaneta Stefanova | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sat, 24 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>English Chess Federation</strong> has resolved one of its long-term worries: Its library, packed up in nearly 200 boxes, <a href=\"https://library.dmu.ac.uk/archivesblog/home/New-Chess-Arrival\">found a new home</a> at the <strong>De Montfort University</strong> in centrally located Leicester where it is currently being catalogued and can be browsed at regular library hours. </div> ",
@@ -2376,22 +2408,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/an-insider-look-at-how-the-world-chess-sets-are-made/",
          "pubDate" : "Sun, 04 Jul 2021 08:11:52 +0000",
          "title" : "An Insider Look At How the World Chess Sets Are Made"
-      },
-      {
-         "description" : "The chess world mourns the passing of Yury Dohkoian. The successful coach and long-time second of Garry Kasparov died on July 1 in Moscow due to a Covid-19 infection. | Photo: Eteri Kublashvili / Russian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yury-dokhoian-1964-2021",
-         "pubDate" : "Sat, 03 Jul 2021 22:20:00 +0100",
-         "title" : "Yury Dokhoian (1964-2021)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1186",
-         "pubDate" : "Sat, 03 Jul 2021 20:28:56 +0000",
-         "title" : "Aronian on brink of first Meltwater Champions Chess Tour title"
       }
    ]
 }
