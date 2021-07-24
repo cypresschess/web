@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Andrey Esipenko, a 19 year old Grandmaster from Russia has beaten his compatriot Danil Dubov in the fourth round of <a href=\"https://worldcup.fide.com/\">FIDE World Cup</a> and will face the World Champion in Round 5. All eyes will be on this duel because Esipenko has beaten Carlsen earlier this year at Tata Steel Tournament. Watch the interview where Esipenko goes over his match against Dubov which he won on tiebreaks. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/0XE9DeoTKZo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/upcoming-russian-star-matched-against-carlsen-in-world-cup/",
+         "pubDate" : "Sat, 24 Jul 2021 18:16:00 +0000",
+         "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
+      },
+      {
+         "description" : "At the end of round 4, Vidit turned out to be the only Indian to advance to the Pre Quarterfinals. Vidit scored a resounding 2-0",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-vidit-enters-pre-quarterfinal/",
+         "pubDate" : "Sat, 24 Jul 2021 17:47:51 +0000",
+         "title" : "World Cup, Vidit enters Pre-Quarterfinal"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Chess Trust</strong> sponsors the <strong>Third International Koltanowski on Chess in Education</strong> ahead of the US Open Chess Championship in Cherry Hill, New Jersey, on 29 and 30 July. The <a href=\"http://www.uschesstrust.org/wp-content/uploads/2021/07/3rd-International-Koltanowski-Conference-on-Chess-in-Education-BOOKLET-ONLINE.pdf\">conferenc</a>e is dedicated to the former US Chess President and Professor Emeritus of Literary Studies Tim Redman. To follow the livestream, a <a href=\"http://www.uschesstrust.org/3rd-international-koltanowski-%20conference-on-chess-in-education-registration/\">free registration</a> is required. </",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/education-conference-on-thursday-and/",
+         "pubDate" : "Sat, 24 Jul 2021 15:44:55 +0100",
+         "title" : "Education conference on Thursday and Friday"
+      },
+      {
          "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Antoaneta Stefanova | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/new-faces-at-chessable-masters/",
          "pubDate" : "Fri, 23 Jul 2021 01:55:22 +0100",
          "title" : "New faces at Chessable Masters"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After infringements of its open-source license, the <strong>Stockfish</strong> team hired the Berlin law firm <strong>JBB</strong> to reach a recall of <a href=\"https://www.chesstech.org/2021/stockfish-team-shocked/\">Fat Fritz 2</a> and termination of Houdini 6 sales. Even though Stockfish withdrew the General Public License from <strong>Chessbase</strong>, the German software house keeps selling Stockfish-based products. Stockfish has now <a href=\"https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/\">announced a lawsuit</a> against Chessbase in a German court. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessbase-sued-by-stockfish/",
-         "pubDate" : "Fri, 23 Jul 2021 01:32:46 +0100",
-         "title" : "Chessbase sued by Stockfish"
       },
       {
          "description" : " Oof, what a round. The most dramatic result - and the most painful one for most U.S. fans - was the elimination of Fabiano Caruana against Rinat Jumabayev. Caruana drew the first classical game with Black without any difficulties, but went nuts in his white game with 27.g5? Bxf1? 28.Rxf1?, leaving him with no real compensation for the sacrificed material. Happily for Team America, Jumabayev erred with 32...Nf6, and Caruana made it to the time control with equality. Alas, Caruana's 41st move was a blunder (or if you think that only obvious errors can be blunders, it was a big mistake). Jumabayev took his time, figured it out, and took advantage. This was not the only upset, however. Anish Gi",
@@ -1594,14 +1610,6 @@ news_feed (
          "title" : "World Cup: Salinas' astounding win and endgame analyses"
       },
       {
-         "description" : "All India Chess Federation Secretary Shri Bharat Singh Chauhan presented the AICF Pin to FIDE President Mr. Arkady Dvorkovich in presence of FIDE Vice President",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-pin-presented-to-fide-president/",
-         "pubDate" : "Tue, 13 Jul 2021 14:02:43 +0000",
-         "title" : "AICF Pin presented to FIDE President"
-      },
-      {
          "description" : " Due to the time zone differences, most of the action in the 2021 World Cup is happening past my bedtime. I can tell you the GM Elshan Moridiabadi has made it through to the 2nd round, although it appears that his opponent did not turn up. This also happened in a few other games, with some players having travel difficulties, either covid related or not. Oceania representative CM Elmer Prudente lost is first game yesterday, and is in a bit of trouble today. Australian representative GM Bobby Cheng drew against his almost identically rated opponent yesterday, and todays game is still even as I type this. This match might be headed to tie-breaks. However Round 2 is when the real actions starts ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2384,30 +2392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1186",
          "pubDate" : "Sat, 03 Jul 2021 20:28:56 +0000",
          "title" : "Aronian on brink of first Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : " The finals of the FIDE Chess.com 2021 Women's Speed Chess Championship took place 12th June to 3rd July 2021. The final stage had 8 invitees and 8 qualifiers established in events that took place 28th May to June 6th. Players: Humpy Koneru, Bibisara Assaubayeva, Kateryna Lagno, Valentina Gunina, Alexandra Kosteniuk, Harika Dronavalli, Antoaneta Stefanova, Deysi Cori, Irina Krush, Nana Dzagnidze, Lei Tingjie, Vaishali R, Anna Muzychuk, Iulija Osmak, Hou Yifan and Gulnar Mammadova. Former Women's World Chess Champion Hou Yifan beat Dronavalli Harika 15-13 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-chess.com-2021-womens-speed-chess-championship-2021",
-         "pubDate" : "Sat, 3 Jul 2021 22:36:00 +0400",
-         "title" : "FIDE Chess.com 2021 Women's Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave has had a roller coaster 2021. A faltering start after resumption in the Candidates Tournament meant Maxime could never catch up with the eventual winner Ian Nepomniachtchi. The disappointment of the Candidates was compounded by a drop in rating points. In an exclusive interview, the French Grandmaster touched upon these topics and much more. | Photo: Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mvl-interview-2021-chalons-en-champagne",
-         "pubDate" : "Sat, 03 Jul 2021 18:00:00 +0100",
-         "title" : "MVL: I aim to get back into the top 10 very soon"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1185",
-         "pubDate" : "Sat, 03 Jul 2021 16:47:43 +0000",
-         "title" : "Hou Yifan wins Women's Speed Chess Championship"
       }
    ]
 }
