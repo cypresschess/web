@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Pentala Harikrishna was the highest-rated player to leave the FIDE World Cup on Friday after failing to level the score vs. GM Amin Tabatabaei.&#38;nbsp;GM Magnus Carlsen and GM Radoslaw Wojtaszek played another tense draw and will go to tiebreaks ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-2",
+         "pubDate" : "Sat, 24 Jul 2021 02:17:00 -0700",
+         "title" : "FIDE World Cup: Dzagnidze, Goryachkina Force Tiebreaks; Harikrishna Out"
+      },
+      {
          "description" : "In the diagram position, decentralizing White's queen with 20.Qa5? Rxd4 21.Qxa7 looks unhealthy - and runs into a direct refutation. Full score only if you can see it already in this position!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1834,14 +1842,6 @@ news_feed (
          "title" : "Understanding before Moving 35: Development advantage (1)"
       },
       {
-         "description" : "After just arriving in Sochi, Russia, for the FIDE World Cup, GM Nihal Sarin beat GM Nicholas Checa in the 2021 Junior Speed Chess Championship presented by ChessKid. Playing from his hotel, the Indian prodigy won in all three time controls. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-nihal-checa",
-         "pubDate" : "Sun, 11 Jul 2021 04:57:00 -0700",
-         "title" : "Junior Speed Chess Championship: Nihal Beats Checa On Eve Of FIDE World Cup"
-      },
-      {
          "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/things-that-are-possible.html",
          "pubDate" : "Sat, 03 Jul 2021 14:14:00 +0000",
          "title" : "Things that are possible"
-      },
-      {
-         "description" : "King James I of England, simultaneously King James VI of Scotland, had three things he badly wanted to cancel. The first was tobacco, against which he issued the first government health warning, in the sternest possible terms, in order to discourage smoking. The second was witchcraft, which attracted Draconian penalties from the monarch. The third was chess. In []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tobacco-witchcraft-and-chess-a-study-in-jacobean-cancel-culture/",
-         "pubDate" : "Sat, 03 Jul 2021 08:00:18 +0000",
-         "title" : "Tobacco, witchcraft and chess: a study in Jacobean cancel culture"
       }
    ]
 }
