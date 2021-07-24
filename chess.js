@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, decentralizing White's queen with 20.Qa5? Rxd4 21.Qxa7 looks unhealthy - and runs into a direct refutation. Full score only if you can see it already in this position!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-straying-queen",
+         "pubDate" : "Sat, 24 Jul 2021 09:00:00 +0100",
+         "title" : "The straying queen"
+      },
+      {
          "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2418,28 +2426,12 @@ news_feed (
          "title" : "Things that are possible"
       },
       {
-         "description" : "Magnus Carlsen and Ding Liren were leading in their matches against Levon Aronian and Vladislav Artemiev before Friday's second day of play in the semifinals of the Goldmoney Asian Rapid. But in both matches, Thursday's winners lost the second set and were eliminated in the tiebreaks. | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-8",
-         "pubDate" : "Sat, 03 Jul 2021 12:20:00 +0100",
-         "title" : "Goldmoney Asian Rapid: Artemiev and Aronian mount incredible comebacks"
-      },
-      {
          "description" : "King James I of England, simultaneously King James VI of Scotland, had three things he badly wanted to cancel. The first was tobacco, against which he issued the first government health warning, in the sternest possible terms, in order to discourage smoking. The second was witchcraft, which attracted Draconian penalties from the monarch. The third was chess. In []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/tobacco-witchcraft-and-chess-a-study-in-jacobean-cancel-culture/",
          "pubDate" : "Sat, 03 Jul 2021 08:00:18 +0000",
          "title" : "Tobacco, witchcraft and chess: a study in Jacobean cancel culture"
-      },
-      {
-         "description" : "European Senior Team Chess Championship 2021 will take place from 29th August -8th September in Prague, Czech Republic. The event will be played in 2 age categories: 50+ and 65+, and open and women sections will be awarded separately. Both sections will be played in 9 rounds, Swiss system, with time control of 90 minutes for 40 moves+&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-senior-chess-championship-2021-official-regulations/",
-         "pubDate" : "Sat, 03 Jul 2021 05:53:27 +0000",
-         "title" : "European Senior Team Chess Championship 2021 - Official regulations"
       }
    ]
 }
