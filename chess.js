@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Antoaneta Stefanova | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sat, 24 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>English Chess Federation</strong> has resolved one of its long-term worries: Its library, packed up in nearly 200 boxes, <a href=\"https://library.dmu.ac.uk/archivesblog/home/New-Chess-Arrival\">found a new home</a> at the <strong>De Montfort University</strong> in centrally located Leicester where it is currently being catalogued and can be browsed at regular library hours. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/de-montfort-university-hosts-english/",
+         "pubDate" : "Sat, 24 Jul 2021 12:52:27 +0100",
+         "title" : "De Montfort University hosts English chess library"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess in Schools and Communities</strong> ran a chess festival on Trafalgar Square that <a href=\"https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest\">attracted 6,000 participants</a> and included three eminent art institutions, the <strong>Royal Gallery</strong>, the <strong>V &amp; A</strong>, and the <strong>Wallace Collection</strong>, as noted in the <a href=\"https://www.chessinschools.co.uk/dcms-congratulates-chessfest\">gratulations by Britain's Minister of Culture, Digital, Media and Sport</a> <strong>Oliver Dowden</strong>. <strong>ChessFest</strong> was sponsored by the trading company <str",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/6000-at-chessfest-in-london/",
+         "pubDate" : "Sat, 24 Jul 2021 12:35:27 +0100",
+         "title" : "6,000 at ChessFest in London"
+      },
+      {
+         "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-2-hari-xiong-pragg-knocked-out",
+         "pubDate" : "Sat, 24 Jul 2021 11:33:09 +0000",
+         "title" : "FIDE World Cup 4.2: Hari, Xiong & Pragg knocked out"
+      },
+      {
          "description" : "GM Pentala Harikrishna was the highest-rated player to leave the FIDE World Cup on Friday after failing to level the score vs. GM Amin Tabatabaei.&#38;nbsp;GM Magnus Carlsen and GM Radoslaw Wojtaszek played another tense draw and will go to tiebreaks ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,28 +50,20 @@ news_feed (
          "title" : "The straying queen"
       },
       {
+         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Pictured: Andrey Esipenko | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d2",
+         "pubDate" : "Sat, 24 Jul 2021 08:55:00 +0100",
+         "title" : "World Cup: Half and half"
+      },
+      {
          "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-1.html",
          "pubDate" : "Fri, 23 Jul 2021 22:50:00 +0000",
          "title" : "2021 ACT Winter Open - Day 1"
-      },
-      {
-         "description" : "Exactly half the matches in both sections were decided in Friday's round at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Replay the games played today and find links to all relevant information. Full report to follow shortly. | Pictured: Dinara Saduakassova and Alina Kashlinskaya | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Fri, 23 Jul 2021 22:15:00 +0100",
-         "title" : "World Cup - Express report"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
-         "pubDate" : "Fri, 23 Jul 2021 21:50:00 +0100",
-         "title" : "U.S. Junior and Senior Championships, Round 7 live"
       },
       {
          "description" : "",
@@ -442,14 +466,6 @@ news_feed (
          "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">Aronian had to withdraw</a>, three <a href=\"https://www.chesstech.org/2021/caruana-quarantined-aronian/\">more top favourites stumbled</a> at the <strong>World Cup</strong> in Sochi: <strong>Caruana</strong> was eliminated by Jumabayev, <strong>Giri</strong> by Abdusattorov and <strong>Mamedyarov</strong> by Martirosyan. To qualify for the next Candidates Tournament they will have to try the Grand Swiss in October and the Grandprix in spring 2022. Caruana also lost his second spot in the <a href=\"https://2700chess.com/\">live rating list</a> to Ding Liren, and Carlsen is right",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/favourites-keep-falling-at-world-cup/",
-         "pubDate" : "Wed, 21 Jul 2021 04:52:24 +0100",
-         "title" : "Favourites keep falling at World Cup"
-      },
-      {
          "description" : "Upsets continue at the FIDE World Cups in Sochi, as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov (pictured) and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi and Mariya Muzychuk won lengthy, exciting matches. The players will have a rest day on Wednesday. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,28 +650,12 @@ news_feed (
          "title" : "The Tactics Bible - Magnum Opus"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Vishy Anand</strong> won the world championship 2008 against <strong>Vladimir Kramnik</strong>, the Indian didn't castle in any of his three winning games. Unsurprisingly Anand now also won an exhibition match in <a href=\"https://www.chesstech.org/2021/the-king-on-centre-stage/\">No-castling chess</a> against Kramnik that headlined the 48th edition of the <strong>Dortmund Chess Days</strong> with 2,5:1,5 (one win and three draws). Analyses by the players can be seen on the <a href=\"https://www.youtube.com/channel/UCxV0ITPKLXwqLTLAVA026zw\">Dortmund Chess channel</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/anand-remains-king-of-no-castling/",
-         "pubDate" : "Tue, 20 Jul 2021 01:05:26 +0100",
-         "title" : "Anand remains king of no-castling"
-      },
-      {
          "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d2",
          "pubDate" : "Tue, 20 Jul 2021 01:00:00 +0100",
          "title" : "World Cup: Jumabayev stuns Caruana"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1214\">announced an agreement</a> with the <strong>NBC Sports Network</strong>, the second most watched sports cable network in the US, to broadcast the world championship from 27 November. 30 minute-programmes on all games will be presented by <strong>Maurice Ashley</strong>. NBCSN <a href=\"https://edition.cnn.com/2021/01/22/media/nbc-sports-network-shut-down/index.html\">will cease business</a> at the end of the year. It remains to be seen if chess will be among the sport contents picked up by the <strong>USA Network</strong> on cable or the streaming platform <strong>Peacock</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nbcsn-to-cover-world-championship/",
-         "pubDate" : "Tue, 20 Jul 2021 00:47:37 +0100",
-         "title" : "NBCSN to cover world championship"
       },
       {
          "description" : "",
@@ -1642,14 +1642,6 @@ news_feed (
          "title" : "Tales from CYCC 2021 (2)"
       },
       {
-         "description" : "Magnus Carlsen, Fabiano Caruana and other top seeds begin the World Cup from Thursday's Round 2, but before that the event will already be over for 117 players. Nine players failed to make it to Round 1, but over 200 were in action on Monday, including the youngest ever grandmaster, Abhimanyu Mishra, who put up a great fight before losing to Baadur Jobava. The favourites dominated, but English IM Ravi Haria beat Russian GM Vadim Zvjaginsev, while ex-Women's World Champion Anna Ushenina fell to Egypt's Ayah Moaataz. We also saw one game for the ages.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-1-the-battle-begins",
-         "pubDate" : "Tue, 13 Jul 2021 08:30:02 +0000",
-         "title" : "FIDE World Cup 1.1: The battle begins"
-      },
-      {
          "description" : "Pawn endings must be calculated precisely and the activity of the king is very important. In the diagram position White has a protected passed pawn on b6 but it is not immediately apparent whether this is enough to win. Do you have an idea how White can overcome Black's defensive set-up?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2416,14 +2408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1185",
          "pubDate" : "Sat, 03 Jul 2021 16:47:43 +0000",
          "title" : "Hou Yifan wins Women's Speed Chess Championship"
-      },
-      {
-         "description" : " Earlier in the year I tweeted about how well the Doeberl Cup went, showing some pictures of the 335 player field. A few people (from OS) commented about the lack of mask wearing, which then provoked a reply from someone who asked if wearing a mask affected the ability to play chess well. Based in a single (non scientific) sample, it probably doesn't, or if it does, everyone is equally handicapped. Today's Street Chess event was played indoors, which due to current ACT health regulations, meant that everyone over the age of 12 was required to wear a mask. In the end the top seeds finished at the top, and even a few players who expressed annoyance at having to put a mask on, found themselves ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/things-that-are-possible.html",
-         "pubDate" : "Sat, 03 Jul 2021 14:14:00 +0000",
-         "title" : "Things that are possible"
       }
    ]
 }
