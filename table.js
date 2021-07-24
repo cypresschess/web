@@ -1,8 +1,11 @@
 jtable([
+"CYPRESS","2021-07-23","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107231442 target=' blank'>07232021KOFC</a>",
+"SPRING","2021-07-23","17","<a href=http://www.uschess.org/msa/XtblMain.php?202107231432 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-07-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107189492 target=' blank'>SUNSWISSJULY18</a>",
 "SPRING","2021-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107179032 target=' blank'>DER SPRINGERS</a>",
 "CYPRESS","2021-07-16","15","<a href=http://www.uschess.org/msa/XtblMain.php?202107169132 target=' blank'>05212021KOFC</a>",
 "SPRING","2021-07-16","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107168592 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2021-07-16","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107161302 target=' blank'>FRIDAYFLEXJULIII</a>",
 
 "HOUSTON","2021-07-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107096112 target=' blank'>FRIDAYFLEX79</a>",
 "CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target=' blank'>05212021KOFC</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2020-03-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202003135022 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2020-03-04  - 03-11","17","<a href=http://www.uschess.org/msa/XtblMain.php?202003115962 target=' blank'>THE CHESS REFINERY: WEDNESDAY SWISS</a>",
 "LEAGUE CITY","2020-03-02  - 03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202003095082 target=' blank'>CLCC MARCH MONDAYS</a>",
-"HOUSTON","2020-03-07","18","<a href=http://www.uschess.org/msa/XtblMain.php?202003072512 target=' blank'>CHESSPANDA03072020SATURDAY</a>",
-"HOUSTON","2020-03-07","18","<a href=http://www.uschess.org/msa/XtblMain.php?202003072312 target=' blank'>THE CHESS REFINERY: 360+MINUTES</a>",
-"HOUSTON","2020-03-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202003062472 target=' blank'>CHESSPANDA03062020FRIDAY</a>",
 ]);
