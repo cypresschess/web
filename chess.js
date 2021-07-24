@@ -74,7 +74,7 @@ news_feed (
          "title" : "Stockfish Developers Sue Chessbase Claiming Copyright Violation"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper CHN 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper POL 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/",
