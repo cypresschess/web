@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Many of the ChessBase products have been around for more than 30 years, and we now have ChessBase 16, Fritz 17, over 200 ChessBase magazines, as well as more than 500 training programmes from chess masters. With so much choice, it is easy to lose the overview, and sometimes you ask yourself: what is which software good for, what can I do with it, and what are the main functions? With the newly made shopping assistant, we have created a guide for you in a short description + videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-shop-assistant",
+         "pubDate" : "Sun, 25 Jul 2021 17:00:00 +0100",
+         "title" : "The ChessBase Shop Assistant"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-37-advantage-in-development-3",
          "pubDate" : "Sun, 25 Jul 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 37: Advantage in Development (3)"
+      },
+      {
+         "description" : "Two sets of tiebreaker rounds were enough to find a winner in all 12 matches that were played on Saturday at the World Cups in Sochi. The top seeds in both sections moved on to the next round, as Magnus Carlsen and Aleksandra Goryachkina got the better of Radoslaw Wojtaszek and Antoaneta Stefanova, respectively. A big upset was seen in the open, as Serbian GM Velimir Ivic knocked out Dmitry Andreikin. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d3",
+         "pubDate" : "Sun, 25 Jul 2021 14:50:00 +0100",
+         "title" : "World Cup: Ivic stuns Andreikin, Carlsen advances"
       },
       {
          "description" : "The round-of-16 in the open section and the quarterfinals in the women's tournament kick off today at the World Cups in Sochi. World champion Magnus Carlsen plays Andrey Esipenko while Aleksandra Goryachkina, the top seed among the women, faces Dinara Saduakassova (pictured). Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "FIDE World Cup 4.3: 18-year-old Ivic knocks out Andreikin"
       },
       {
-         "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Qe5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Be5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/missed-opportunity/",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2021-chess-960",
          "pubDate" : "Sat, 24 Jul 2021 23:10:00 +0100",
          "title" : "Alekseenko wins Chess960 event in Biel"
-      },
-      {
-         "description" : "Two sets of tiebreaker rounds were enough to find a winner in all 12 matches that were played on Saturday at the World Cups in Sochi. The top seeds in both sections moved on to the next round, as Magnus Carlsen and Aleksandra Goryachkina (pictured) got the better of Radoslaw Wojtaszek and Antoaneta Stefanova respectively. A big upset was seen in the open, as Serbian GM Velimir Ivic knocked out Dmitry Andreikin. | Replay the games played today and find links to all relevant information. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Sat, 24 Jul 2021 22:30:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "",
@@ -2376,38 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1187",
          "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
          "title" : "Aronian wins his first Meltwater Chess Masters title"
-      },
-      {
-         "description" : "Boris Gelfand defeated Jaime Santos and is facing Leinier Dom&iacute;nguez in the final of the \"Magistral de Le&oacute;n\". Gelfand beat Dominguez in the final match. A 2-2 tie in the rapid games meant it would all come down to the blitz tiebreakers. After a draw in the first 5-minute game, Gelfand managed to convert a rook vs bishop endgame to get tournament victory. | Replay the games with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-dominguez-final-magistral-leon-2021",
-         "pubDate" : "Sun, 04 Jul 2021 16:00:00 +0100",
-         "title" : "Leon Masters Final: Gelfand vs Dom&iacute;nguez - Games and results"
-      },
-      {
-         "description" : "It was a rather quick victory by Levon Aronian in the finals of the Goldmoney Asian Rapid tournament. The Armenian won the first set on Saturday and scored back-to-back wins in the second mini-match to make it impossible for Vladislav Artemiev to equalize the score and take the match to tiebreaks. Karsten M&uuml;ller analyzes two endgames in which Aronian showed his excellent technique with the black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aronian-triumphs-karsten-muller-analyzes",
-         "pubDate" : "Sun, 04 Jul 2021 15:10:00 +0100",
-         "title" : "Aronian triumphs, Karsten M&uuml;ller analyzes"
-      },
-      {
-         "description" : "Levon Aronian had a short day at the office, as he scored back-to-back wins against Vladislav Artemiev to secure first place at the Goldmoney Asian Rapid tournament. Meanwhile, Ding Liren bounced back from his loss in the first set by remarkably beating Magnus Carlsen 3-0 in the second mini-match. However, it was the world champion who prevailed in the blitz tiebreakers to take third place. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-live",
-         "pubDate" : "Sun, 04 Jul 2021 15:05:00 +0100",
-         "title" : "Goldmoney Asian Rapid Finals - Aronian first, Carlsen third"
-      },
-      {
-         "description" : " If you are looking for a fairly lightweight Chess Database then <a href=\"https://chessx.sourceforge.io/\">ChessX</a> might fit your needs. It is designed to work with PGN files and is particularly suited to entering games from tournaments (at least that is what I use it for). As with most software I recommend, it is open source and cross platform, so it will run under Windows, MacOs and Linux. It has integrated support for Stockfish, or you can add your own UCI or Xboard compatible engines. The other selling point is that is currently being maintained, which means that new features are still be added (or you can add them yourself!) <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/chessx.html",
-         "pubDate" : "Sun, 04 Jul 2021 13:37:00 +0000",
-         "title" : "ChessX"
       }
    ]
 }
