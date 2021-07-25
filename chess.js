@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1228",
+         "pubDate" : "Sun, 25 Jul 2021 19:20:05 +0000",
+         "title" : "Round 05 Game 01: Magnus Carlsen skates on thin ice"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84737778.cms\" /> India No.3 Vidit Santosh Gujrathi and his opponent Vasif Durarbayli of Azerbaijan played out a draw in the first game of the two-game mini match in the fifth round of the FIDE chess World Cup on Sunday. Grandmaster Gujrathi, ranked 22 in the world, and enjoying a higher FIDE rating than his rival, settled for a draw in 56 moves in a Slav variation game which stretched for over four hours.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-holds-vasif-durarbayli-in-game-1/articleshow/84737778.cms",
+         "pubDate" : "Sun, 25 Jul 2021 22:38:36 +0530",
+         "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
+      },
+      {
          "description" : "Many of the ChessBase products have been around for more than 30 years, and we now have ChessBase 16, Fritz 17, over 200 ChessBase magazines, as well as more than 500 training programmes from chess masters. With so much choice, it is easy to lose the overview, and sometimes you ask yourself: what is which software good for, what can I do with it, and what are the main functions? With the newly made shopping assistant, we have created a guide for you in a short description + videos.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-chessbase-shop-assistant",
          "pubDate" : "Sun, 25 Jul 2021 17:00:00 +0100",
          "title" : "The ChessBase Shop Assistant"
+      },
+      {
+         "description" : "The round-of-16 in the open section and the quarterfinals in the women's tournament kick off today at the World Cups in Sochi. World champion Magnus Carlsen plays Andrey Esipenko while Aleksandra Goryachkina, the top seed among the women, faces Dinara Saduakassova (pictured). Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sun, 25 Jul 2021 16:55:00 +0100",
+         "title" : "World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d3",
          "pubDate" : "Sun, 25 Jul 2021 14:50:00 +0100",
          "title" : "World Cup: Ivic stuns Andreikin, Carlsen advances"
-      },
-      {
-         "description" : "The round-of-16 in the open section and the quarterfinals in the women's tournament kick off today at the World Cups in Sochi. World champion Magnus Carlsen plays Andrey Esipenko while Aleksandra Goryachkina, the top seed among the women, faces Dinara Saduakassova (pictured). Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sun, 25 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
@@ -1992,14 +2008,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-crucial-rook-and-pawn-technique",
          "pubDate" : "Sat, 10 Jul 2021 18:30:00 +0100",
          "title" : "Daniel King's Power Play Show: Crucial rook and pawn technique"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84298534.cms\" />Indian Grandmaster Viswanathan Anand trumped former world champion Garry Kasparov in the much-awaited contest of the Croatia Grand Chess Tour here on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-garry-kasparov-in-croatia-grand-chess-tour/articleshow/84298534.cms",
-         "pubDate" : "Sat, 10 Jul 2021 21:27:12 +0530",
-         "title" : "Viswanathan Anand beats Garry Kasparov in Croatia Grand Chess Tour"
       },
       {
          "description" : "",
