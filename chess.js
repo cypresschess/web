@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan (pictured) and Alexandra Kosteniuk getting off to winning starts, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Sun, 25 Jul 2021 23:30:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
+         "pubDate" : "Sun, 25 Jul 2021 21:50:00 +0100",
+         "title" : "U.S. Junior and Senior Championships - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chessbase-shop-assistant",
          "pubDate" : "Sun, 25 Jul 2021 17:00:00 +0100",
          "title" : "The ChessBase Shop Assistant"
-      },
-      {
-         "description" : "The round-of-16 in the open section and the quarterfinals in the women's tournament kick off today at the World Cups in Sochi. World champion Magnus Carlsen plays Andrey Esipenko while Aleksandra Goryachkina, the top seed among the women, faces Dinara Saduakassova (pictured). Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sun, 25 Jul 2021 16:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
@@ -2376,22 +2384,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/",
          "pubDate" : "Mon, 05 Jul 2021 00:10:10 +0000",
          "title" : "Chess Middlegame Strategies - Strategy Meets Dynamics, Volume 3"
-      },
-      {
-         "description" : "Star columnist Jon Speelman reactivates his \"mirror\", a potent if imaginary artefact intended to reflect the best chess players ever. This week, a couple of games by Garry Kasparov, \"an (un)caged tiger who revels in violent conflict\". | Pictured: Kasparov with ChessBase's Matthias W&uuml;llenweber",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-149",
-         "pubDate" : "Sun, 04 Jul 2021 23:15:00 +0100",
-         "title" : "A few reflections more (and a cocktail of Caissists)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1187",
-         "pubDate" : "Sun, 04 Jul 2021 20:16:10 +0000",
-         "title" : "Aronian wins his first Meltwater Chess Masters title"
       }
    ]
 }
