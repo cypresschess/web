@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-37-advantage-in-development-3",
+         "pubDate" : "Sun, 25 Jul 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 37: Advantage in Development (3)"
+      },
+      {
+         "description" : "The round-of-16 in the open section and the quarterfinals in the women's tournament kick off today at the World Cups in Sochi. World champion Magnus Carlsen plays Andrey Esipenko while Aleksandra Goryachkina, the top seed among the women, faces Dinara Saduakassova (pictured). Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sun, 25 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-win-for-press.html",
+         "pubDate" : "Sun, 25 Jul 2021 12:47:00 +0000",
+         "title" : "2021 ACT Winter Open - Win for Press "
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"http://www.swisschess.ch/news-112/smm-2021-mit-318-mannschaften.html\">318 teams have registered</a> for the <strong>Swiss Team Championship</strong>, which is 26 more teams than in 2019 participated in the last season before the pandemic. The season (which is played within the calendar year) has been shortened, team sizes and entry fees have been reduced by the <strong>Swiss Chess Federation</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/9-more-teams-in-switzerland/",
+         "pubDate" : "Sun, 25 Jul 2021 13:18:07 +0100",
+         "title" : "9% more teams in Switzerland"
+      },
+      {
+         "description" : "We're down to the Last 16 of the FIDE World Cup, with just three matches as seeded: Carlsen-Esipenko, Grischuk-Duda and MVL-Karjakin. Vidit is the other player seeded to the Last 16 to make it and will face Vasif Durarbayli, who overcame Nodirbek Abdusattorov. The one major surprise of the tiebreaks was 18-year-old Velimir Ivic knocking out Dmitry Andreikin, while Magnus Carlsen, Sergey Karjakin and Peter Svidler put on impressive shows. In the women's section three of the four quarterfinals starting Sunday are exactly as seeded, while Kosteniuk-Gunina is a surprise only on paper.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-3-18-year-old-ivic-knocks-out-andreikin",
+         "pubDate" : "Sun, 25 Jul 2021 12:15:39 +0000",
+         "title" : "FIDE World Cup 4.3: 18-year-old Ivic knocks out Andreikin"
+      },
+      {
          "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Qe5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1227",
          "pubDate" : "Sat, 24 Jul 2021 20:57:50 +0000",
          "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
-         "pubDate" : "Sat, 24 Jul 2021 21:50:00 +0100",
-         "title" : "U.S. Junior and Senior Championships - Live! (Round 8)"
       },
       {
          "description" : "",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/22/other-items-of-interest-nbc-x-2-nobody-castles-nbc-sports.html",
          "pubDate" : "Fri, 23 Jul 2021 01:39:06 +0000",
          "title" : "Other Items of Interest: NBC x 2 (NoBody Castles, NBC Sports)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Since the <strong>Chessable Masters</strong> from 31 July to 8 August will clash with the semifinals and final of the World Cup, three of its participants are not yet announced. The <a href=\"https://championschesstour.com/chessable-masters-to-celebrate-worlds-top-chess-educators/\">line-up revealed so far</a> includes <strong>Mamedyarov</strong> and <strong>Firouzja</strong>, who were eliminated early in Sochi, two female players, <strong>Humpy Koneru</strong> and <strong>Ju Wenjun</strong>, the youngest grandmaster <strong>Abhimanyu Mishra</strong>, and <strong>Eduardo Iturrizaga</strong> as one of the first Latin Americans. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-faces-at-chessable-masters/",
-         "pubDate" : "Fri, 23 Jul 2021 01:55:22 +0100",
-         "title" : "New faces at Chessable Masters"
       },
       {
          "description" : " Oof, what a round. The most dramatic result - and the most painful one for most U.S. fans - was the elimination of Fabiano Caruana against Rinat Jumabayev. Caruana drew the first classical game with Black without any difficulties, but went nuts in his white game with 27.g5? Bxf1? 28.Rxf1?, leaving him with no real compensation for the sacrificed material. Happily for Team America, Jumabayev erred with 32...Nf6, and Caruana made it to the time control with equality. Alas, Caruana's 41st move was a blunder (or if you think that only obvious errors can be blunders, it was a big mistake). Jumabayev took his time, figured it out, and took advantage. This was not the only upset, however. Anish Gi",
@@ -1562,14 +1586,6 @@ news_feed (
          "title" : "Smooth sailing for Indians"
       },
       {
-         "description" : "The brutal logic of the FIDE World Cup on Tuesday saw 80 players who made it to Sochi already able to pack to leave, after they lost their Round 1 matches. There are 19 tiebreaks in the Open Section and 9 in the Women's on Wednesday, with just 11 players who lost on Day 1 managing to come back on Day 2, including favourites Vadim Zvjaginsev, Anna Ushenina and Pauline Guichard. 12-year-old Abhimanyu Mishra is out, with his conqueror Baadur Jobava's match against Sam Shankland one of the highlights to come in Round 2.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-2-80-players-out-28-tiebreaks",
-         "pubDate" : "Wed, 14 Jul 2021 10:20:52 +0000",
-         "title" : "FIDE World Cup 1.2: 80 players out, 28 tiebreaks"
-      },
-      {
          "description" : "Tiebreaks on Wednesday will decide 19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup can be ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2386,28 +2402,12 @@ news_feed (
          "title" : "Goldmoney Asian Rapid Finals - Aronian first, Carlsen third"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 34th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the chess principles Dutch International Master and chess thinker Dick Van Geet, advocate of 1.Nc3. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-34-the-priniciples-of-dick-van-geet",
-         "pubDate" : "Sun, 04 Jul 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 34: The priniciples of Dick Van Geet"
-      },
-      {
          "description" : " If you are looking for a fairly lightweight Chess Database then <a href=\"https://chessx.sourceforge.io/\">ChessX</a> might fit your needs. It is designed to work with PGN files and is particularly suited to entering games from tournaments (at least that is what I use it for). As with most software I recommend, it is open source and cross platform, so it will run under Windows, MacOs and Linux. It has integrated support for Stockfish, or you can add your own UCI or Xboard compatible engines. The other selling point is that is currently being maintained, which means that new features are still be added (or you can add them yourself!) <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/chessx.html",
          "pubDate" : "Sun, 04 Jul 2021 13:37:00 +0000",
          "title" : "ChessX"
-      },
-      {
-         "description" : " The Goldmoney Asian Rapid took place Sat 26th Jun to Sun 4th Jul 2021. This Champions Chess Tour event featured a number of Asian qualifiers and invitees. Goldmoney is an online company that facilitates the purchase of precious metals. Players: Magnus Carlsen, Wesley So, Anish Giri, Levon Aronian, Alireza Firouzja, Vidit Gujrathi, Ding Liren, Jan-Krzysztof Duda, Vladimir Artemiev, Saleh Salem, Hou Yifan, Arjun Erigaisi, Adhiban Baskaran, Gukesh D, Daniil Dubov and Peter Svidler. Levon Aronian defeated Magnus Carlsen in the semifinals and went on to dominate Vladislav Artemiev in the final. Artemiev hasn't had a lot of chances on the tour in spite of being one of the better speed chess playe",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
-         "pubDate" : "Sun, 4 Jul 2021 16:18:00 +0400",
-         "title" : "Goldmoney Asian Rapid 2021 - "
       }
    ]
 }
