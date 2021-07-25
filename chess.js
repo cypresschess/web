@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-2.html",
+         "pubDate" : "Sun, 25 Jul 2021 00:16:00 +0000",
+         "title" : "2021 ACT Winter Open - Day 2"
+      },
+      {
          "description" : "The main event of the 2021 Biel Chess Festival kicked off on Saturday, as the 8 participants of the Grandmaster Triathlon battled it out at the ACCENTUS Chess960 tournament. While the event did not grant points for the final standings, it decided who will get an extra white in the classical section of the triathlon, and might end up serving as the tiebreaker in case two or more players finish equal in points in the overall standings. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
