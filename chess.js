@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Qe5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/missed-opportunity/",
+         "pubDate" : "Sun, 25 Jul 2021 09:02:35 +0000",
+         "title" : "Missed Opportunity"
+      },
+      {
          "description" : "World Champion Magnus Carlsen made it to the fifth round of the FIDE World Cup on Saturday as he defeated GM Radoslaw Wojtaszek in the second game of the round-four tiebreak. A surprising name among the final 16 is 18-year-old GM Velimir Ivic, who...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "Serbia Open: Kovalenko and Nihal in the lead"
       },
       {
-         "description" : " An opening that I've had a long standing affection for is the Wing Gambit against the Sicilian Defence (1.e5 c5 2.b4!?). I recommended it for White in my 2007 book, Gambiteer I, something that drew a mixed reception. Club players who tried it in their games reported having a lot of fun with it, several <a href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Whack 'em with the Wing Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/whack-em-with-the-wing-gambit/\">Whack 'em with the Wing Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/whack-em-with-the-wing-gambit/",
-         "pubDate" : "Wed, 07 Jul 2021 13:00:57 +0000",
-         "title" : "Whack 'em with the Wing Gambit"
-      },
-      {
          "description" : " Everybody wants to be in good form at a tournament. But just by wanting something you don't automatically get it. To be in good form at a tournament, you need good preparation before the tournament. By failing to prepare, you are preparing to fail Benjamin Franklin Sadly most Chess Players leave it to luck or [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/tournament-preparation/\">Grandmaster Tournament Preparation How To Be In Good Form</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2408,14 +2408,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/goldmoney-asian-rapid-2021",
          "pubDate" : "Sun, 4 Jul 2021 16:18:00 +0400",
          "title" : "Goldmoney Asian Rapid 2021 - "
-      },
-      {
-         "description" : " Business Insider took a trip to India and looked at how the exquisite <a href=\"https://shop.worldchess.com/\">World Chess Championship sets</a> are made. First of all, it's all about the Knight. And second, it takes years of experience to get the sets just right. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-Tg9xiJ6D6k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/an-insider-look-at-how-the-world-chess-sets-are-made/",
-         "pubDate" : "Sun, 04 Jul 2021 08:11:52 +0000",
-         "title" : "An Insider Look At How the World Chess Sets Are Made"
       }
    ]
 }
