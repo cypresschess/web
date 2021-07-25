@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Magnus Carlsen made it to the fifth round of the FIDE World Cup on Saturday as he defeated GM Radoslaw Wojtaszek in the second game of the round-four tiebreak. A surprising name among the final 16 is 18-year-old GM Velimir Ivic, who...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-tiebreaks",
+         "pubDate" : "Sun, 25 Jul 2021 00:02:00 -0700",
+         "title" : "FIDE World Cup: Carlsen, Ivic Among Final 16"
+      },
+      {
          "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup.html",
          "pubDate" : "Mon, 12 Jul 2021 12:12:00 +0000",
          "title" : "2021 World Cup"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave has won the Croatia Rapid &#38;amp; Blitz. The French grandmaster secured the $37,500 first prize with a round to spare when GM Garry Kasparov, who struggled again on Sunday, lost on time in a drawn position. Thanks to an exc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-croatia-rapid-blitz",
-         "pubDate" : "Mon, 12 Jul 2021 01:35:00 -0700",
-         "title" : "Vachier-Lagrave Wins Croatia Rapid & Blitz"
       },
       {
          "description" : "",
