@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Amin Tabatabaei and Valentina Gunina need wins to take their matches to rapid and blitz playoffs on the second day of round 5 at the World Cups in Sochi. Meanwhile, world champion Magnus Carlsen plays black against Andrey Esipenko after having drawn their first encounter. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Nana Dzagnidze | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Mon, 26 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
          "description" : "The game one between Vidit Gujrathi and GM Durarbayli of Azerbaijan in the pre-quarterfinal of FIDE World Cup 2021 was a tense encounter which ended",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "World Cup - Vidit's first Pre-Quarter final game end in a peace treaty"
       },
       {
-         "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the 5th round ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
+         "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the Round 5 ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
          "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
-         "title" : "FIDE WORLD CUP - Calm before the storm"
+         "title" : "FIDE WORLD CUP R5- Calm before the storm"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Vantika Women Champion, Raahul clinch title in Junior"
       },
       {
-         "description" : "GM Haik Martirosyan defeated GM Amin Tabatabaei in what was the only decisive game in the open section of the FIDE World Cup on Sunday. The women&#39;s section had just one winner as well: GM Alexandra Kosteniuk survived a lost position and ended up b...",
+         "description" : "GM Haik Martirosyan defeated GM Amin Tabatabaei in the only decisive game in the open section of the FIDE World Cup on Sunday. The women&#39;s section had just one winner as well: GM Alexandra Kosteniuk survived a lost position and beat GM Valentina G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-1-martirosyan",
@@ -2376,14 +2384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/good-news-for-french-players",
          "pubDate" : "Mon, 05 Jul 2021 17:00:00 +0100",
          "title" : "\"Good news for French players!\""
-      },
-      {
-         "description" : " The credit for the development of the Queen's Gambit as a serious opening is usually (and rightly) given to Harry Pillsbury (at the 1895 Hastings Tournament). As late as the mid 19th century is was regarded as somewhat offbeat, and only merited 13 pages in 'The Chess-Players Handbook\" by Staunton (of which 6 pages were example games). By contrast the King's Gambit ran to 105 pages in the same book, which shows the level of interest analysts had at the time. Nonetheless, in the period between 1847 and 1895 it did get used occasionally, most memorably in the following game between Steinitz and Anderssen. What is strange about this game (which has quite a modern look about it), is that it took",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/the-model-queens-gambit.html",
-         "pubDate" : "Mon, 05 Jul 2021 13:27:00 +0000",
-         "title" : "'The' model Queen's Gambit"
       }
    ]
 }
