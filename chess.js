@@ -2,7 +2,63 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Sabrina Vega is the best women player in the history of Spanish chess. She won the national women's championship six times and represented her country in five Chess Olympiads. In an interview with Tatiana Flores, Sabrina Vega talks about her chess career and how chess can help you to grow and to enrich your personality.",
+         "description" : "It&#39;s back!&#38;nbsp;PogChamps 4 presented by Coinbase begins on August 29, 2021. The latest edition of the breakout series returns for what will surely be the biggest, best, and brightest PogChamps yet! $100,000 is up for grabs in the prize fund and C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-pogchamps-4",
+         "pubDate" : "Mon, 26 Jul 2021 15:36:00 -0700",
+         "title" : "Announcing PogChamps 4 Presented By Coinbase"
+      },
+      {
+         "description" : "In the open section of the World Cup, 2 players secured a spot in the quarterfinals on Monday, as Sam Shankland and Vidit Gujrathi knocked out Peter Svidler and Vasif Durarbayli. Meanwhile, in the women's tournament, Aleksandra Goryachkina, Alexandra Kosteniuk and Tan Zhongyi are already in semis. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Mon, 26 Jul 2021 23:20:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "Tournament Arc 2 reached its epic conclusion, with Gigguk successfully defending the title after defeating Esam. The two-time champion proved to be the best among a field of superstars from the Anime community and Fighting Games players. Li...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tournament-arc-2-gigguk-wins",
+         "pubDate" : "Mon, 26 Jul 2021 15:15:37 -0700",
+         "title" : "Gigguk Crowned Tournament Arc 2 Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1230",
+         "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
+         "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
+      },
+      {
+         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
+         "pubDate" : "Mon, 26 Jul 2021 21:50:00 +0100",
+         "title" : "U.S. Seniors Playoff: Kaidanov wins!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Hans Niemann talks to the team after Round 6 of the 2021 U.S. Junior Championship. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senior-championships-hans-niemann-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D6vHc-lGQBI.jpg?itok=nImpghfv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-hans-niemann-interview-round-6",
+         "pubDate" : "Mon, 26 Jul 2021 19:58:34 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Hans Niemann Interview | Round 6"
+      },
+      {
+         "description" : "GM Hans Niemann won the U.S. Junior Championship on Sunday in St. Louis. The 18-year-old grandmaster and chess streamer finished on 6/9, half a point more than a group of five players. IM Annie Wang won the girls&#39; section. The Saint Louis Chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-us-junior-championship-annie-wang",
+         "pubDate" : "Mon, 26 Jul 2021 12:55:00 -0700",
+         "title" : "Niemann Clinches U.S. Junior Championship; Wang Wins Girls' Title"
+      },
+      {
+         "description" : "Sabrina Vega is the best woman player in the history of Spanish chess. She won the national women's championship six times and represented her country in five Chess Olympiads. In an interview with Tatiana Flores, Sabrina Vega talks about her chess career and how chess can help you to grow and to enrich your personality.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-teaches-you-so-much-an-interview-with-im-sabrina-vega",
@@ -72,14 +128,6 @@ news_feed (
          "link" : "https://aicf.in/world-cup-vidit-advanced-to-the-quarter-final/",
          "pubDate" : "Mon, 26 Jul 2021 15:53:53 +0000",
          "title" : "World Cup - Vidit advanced to the Quarter Final"
-      },
-      {
-         "description" : "Amin Tabatabaei and Valentina Gunina need wins to take their matches to rapid and blitz playoffs on the second day of round 5 at the World Cups in Sochi. Meanwhile, world champion Magnus Carlsen plays black against Andrey Esipenko after having drawn their first encounter. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Nana Dzagnidze | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Mon, 26 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "The game one between Vidit Gujrathi and GM Durarbayli of Azerbaijan in the pre-quarterfinal of FIDE World Cup 2021 was a tense encounter which ended",
@@ -744,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d3",
          "pubDate" : "Wed, 21 Jul 2021 03:20:00 +0100",
          "title" : "World Cup: More upsets as Giri and Mamedyarov are knocked out"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-8-lichessorg",
-         "pubDate" : "Tue, 20 Jul 2021 22:51:45 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8 | lichess.org"
       },
       {
          "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
@@ -1762,14 +1802,6 @@ news_feed (
          "title" : "34th Leon Chess 2021 - Games and Results"
       },
       {
-         "description" : "Chess.com is excited to announce the 2021 FIDE Online Chess Olympiad, a incredible online chess event open to chess federations from all over the world. Federations are invited to send their best players and top juniors to compete in rapid chess m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-announces-2021-fide-online-olympiad",
-         "pubDate" : "Tue, 13 Jul 2021 08:43:00 -0700",
-         "title" : "Chess.com Announces The 2021 FIDE Online Chess Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1808,14 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jung-min-seo-wins-swedish-championships",
          "pubDate" : "Tue, 13 Jul 2021 13:03:59 +0100",
          "title" : "Jung Min Seo wins Swedish Championships"
-      },
-      {
-         "description" : "The 2021 FIDE World Cup began on Monday in Krasnaya Polyana, Sochi (Russia) with 156 players in the open section and 78 players in the women&#39;s section. The Chilean grandmaster Pablo Salinas Herrera played the Game of the Day (and possibly the year...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-salinas-andersen",
-         "pubDate" : "Tue, 13 Jul 2021 02:29:00 -0700",
-         "title" : "FIDE World Cup Begins With Chilean Brilliance"
       },
       {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov Last week we looked at games 2, 3 and 4 played by my U10 student at the online CYCC 2021. The first game had nothing to look at. With 3 points out of 4 games and a bad game behind him, he needed to rebound in <a href=\"https://chessimprover.com/tales-from-cycc-2021-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-2/\">Tales from CYCC 2021 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1864,14 +1888,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/adhiban-iniyan-start-with-wins-in-world-cup/articleshow/84354874.cms",
          "pubDate" : "Mon, 12 Jul 2021 22:48:52 +0530",
          "title" : "Adhiban, Iniyan start with wins in World Cup"
-      },
-      {
-         "description" : "July&#39;s Winner Stays event occurred on July 9. For the second straight month, streamer Ludwig and Youtuber NM Kurt Hugo Schneider won their matchups, as ChessBrah Aman Hambleton was joined this time on commentary by NM James Canty III. In the Maste...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/winner-stays-martinez-schneider-ludwig",
-         "pubDate" : "Mon, 12 Jul 2021 09:59:00 -0700",
-         "title" : "Martinez, Schneider, Ludwig Victorious in Winner Stays"
       },
       {
          "description" : "",
@@ -2384,14 +2400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-magic-knight",
          "pubDate" : "Tue, 06 Jul 2021 09:00:00 +0100",
          "title" : "A magic knight"
-      },
-      {
-         "description" : "Bischwiller claimed their third consecutive French club championship title by winning the 2021 edition of 'Top 12' in Chalons en Champagne. Led by French Grandmaster Etienne Bacrot, the club scored an impressive 10 wins and a draw in the 11-round event to claim 32 points, three ahead of the runners-up Asnieres. | Pictured: Marie Sebag (left) of Bischwiller defeated Pauline Guichard of Asnieres in their round-5 match",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bischwiller-wins-french-club-championship-2021",
-         "pubDate" : "Mon, 05 Jul 2021 22:20:00 +0100",
-         "title" : "Bischwiller claim hat-trick of French club championship titles"
       }
    ]
 }
