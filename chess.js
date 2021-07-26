@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan (pictured) and Alexandra Kosteniuk getting off to winning starts, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan and Alexandra Kosteniuk (pictured) getting off to winning starts in their matches, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Sun, 25 Jul 2021 23:30:00 +0100",
-         "title" : "World Cup - Express report"
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d1",
+         "pubDate" : "Mon, 26 Jul 2021 01:35:00 +0100",
+         "title" : "World Cup: Wins for Kosteniuk and Martirosyan"
       },
       {
          "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1188",
          "pubDate" : "Mon, 05 Jul 2021 10:24:30 +0000",
          "title" : "Proposals to change FIDE's rating and title regulations"
-      },
-      {
-         "description" : " From the publisher: &#8220;After his first two most successful volumes of Chess Middlegame Strategies, Ivan Solokov explores in his final volume ideas related to the symbiosis of the strategic and dynamic elements of chess. He combined the most exceptional ideas, strategies and positional play essentials. These three volumes will give you a serious head start <a href=\"http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Middlegame Strategies Strategy Meets Dynamics, Volume 3</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://british",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/05/chess-middlegame-strategies-strategy-meets-dynamics-volume-3/",
-         "pubDate" : "Mon, 05 Jul 2021 00:10:10 +0000",
-         "title" : "Chess Middlegame Strategies - Strategy Meets Dynamics, Volume 3"
       }
    ]
 }
