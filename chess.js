@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two national champions were crowned on Sunday, 25 July, as both GM Hans Niemann (pictured) and IM Annie Wang clinched victories in the 2021 U.S. Junior Championships, both winning $10,000 scholarships in addition to the first place prize. Meanwhile, GM Larry Christiansen won a critical last round game in the U.S. Senior, forcing a playoff tiebreak on Monday against GM Gregory Kaidanov. With their victories, Hans and Annie qualified for the 2022 U.S. Championship and U.S. Women's Championship. | Photo: Courtesy of Saint Louis Chess Club, Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-championships-niemann-and-wang-win-christiansen-and-kaidanov-have-to-play-tiebreak",
+         "pubDate" : "Mon, 26 Jul 2021 09:12:40 +0100",
+         "title" : "U.S. Championships: Niemann and Wang win, Christiansen and Kaidanov have to play tiebreak"
+      },
+      {
+         "description" : "The main event at this year's edition of the Biel Chess Festival is the Grandmaster Triathlon, in which eight participants play a mix of classical, rapid and blitz chess. The rapid section was played on Sunday, and saw Gata Kamsky getting clear first place with a 5&frac12;/7 performance. Nihal Sarin and Maxime Lagarde finished second and third respectively. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2021-gata-kamsky-wins-rapid",
+         "pubDate" : "Mon, 26 Jul 2021 09:10:00 +0100",
+         "title" : "Gata Kamsky wins rapid section of the triathlon in Biel"
+      },
+      {
          "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan and Alexandra Kosteniuk (pictured) getting off to winning starts in their matches, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d1",
          "pubDate" : "Mon, 26 Jul 2021 01:35:00 +0100",
          "title" : "World Cup: Wins for Kosteniuk and Martirosyan"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
-         "pubDate" : "Sun, 25 Jul 2021 21:50:00 +0100",
-         "title" : "U.S. Junior and Senior Championships - Live!"
       },
       {
          "description" : "",
