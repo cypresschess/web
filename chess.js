@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The game one between Vidit Gujrathi and GM Durarbayli of Azerbaijan in the pre-quarterfinal of FIDE World Cup 2021 was a tense encounter which ended",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-vidits-first-game-end-in-a-peace-treaty/",
+         "pubDate" : "Mon, 26 Jul 2021 11:10:11 +0000",
+         "title" : "World Cup - Vidit's first Pre-Quarter final game end in a peace treaty"
+      },
+      {
+         "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the 5th round ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
+         "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
+         "title" : "FIDE WORLD CUP - Calm before the storm"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-playoff-lichessorg",
+         "pubDate" : "Mon, 26 Jul 2021 10:57:57 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Playoff | lichess.org"
+      },
+      {
+         "description" : "Delhi youngster Vantika Agrawal crowned as Online National Women Champion after scoring 9.5 points of out possible in the National Online Championship concluded on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/vantika-women-champion-raahul-clinch-title-in-junior/",
+         "pubDate" : "Mon, 26 Jul 2021 09:53:06 +0000",
+         "title" : "Vantika Women Champion, Raahul clinch title in Junior"
+      },
+      {
+         "description" : "GM Haik Martirosyan defeated GM Amin Tabatabaei in what was the only decisive game in the open section of the FIDE World Cup on Sunday. The women&#39;s section had just one winner as well: GM Alexandra Kosteniuk survived a lost position and ended up b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-1-martirosyan",
+         "pubDate" : "Mon, 26 Jul 2021 02:36:00 -0700",
+         "title" : "Kosteniuk, Martirosyan Only Winners On Peaceful Day At FIDE World Cup"
+      },
+      {
          "description" : "Two national champions were crowned on Sunday, 25 July, as both GM Hans Niemann (pictured) and IM Annie Wang clinched victories in the 2021 U.S. Junior Championships, both winning $10,000 scholarships in addition to the first place prize. Meanwhile, GM Larry Christiansen won a critical last round game in the U.S. Senior, forcing a playoff tiebreak on Monday against GM Gregory Kaidanov. With their victories, Hans and Annie qualified for the 2022 U.S. Championship and U.S. Women's Championship. | Photo: Courtesy of Saint Louis Chess Club, Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +56,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2021-gata-kamsky-wins-rapid",
          "pubDate" : "Mon, 26 Jul 2021 09:10:00 +0100",
          "title" : "Gata Kamsky wins rapid section of the triathlon in Biel"
+      },
+      {
+         "description" : "The National Chess Library has arrived safely at its new home in De Montfort University in Leicester. Here is a link to a light-hearted blog...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/national-chess-library-news/",
+         "pubDate" : "Mon, 26 Jul 2021 08:03:56 +0000",
+         "title" : "National Chess Library news"
+      },
+      {
+         "description" : "Haik Martirosyan beat Amin Tabatabaei while Alexandra Kosteniuk took down Valentina Gunina in the only decisive games in a quiet start to Round 5 of the FIDE World Cup. Magnus Carlsen found himself under pressure despite having the white pieces against 19-year-old Andrey Esipenko, but the most dramatic game of the round was Vidit-Durarbayli, where Vidit missed a fleeting chance in a wild position before Vasif Durarbayli seized complete control only to allow his opponent a great escape.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-1-martirosyan-kosteniuk-strike",
+         "pubDate" : "Mon, 26 Jul 2021 08:00:49 +0000",
+         "title" : "FIDE World Cup 5.1: Martirosyan & Kosteniuk strike"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1229",
+         "pubDate" : "Mon, 26 Jul 2021 07:54:15 +0000",
+         "title" : "Hans Niemann and Annie Wang win 2021 U.S. Junior Championships"
       },
       {
          "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan and Alexandra Kosteniuk (pictured) getting off to winning starts in their matches, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Photo: Anastasiia Korolkova",
@@ -946,14 +1010,6 @@ news_feed (
          "title" : "FIDE Trainers Seminar"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-3",
-         "pubDate" : "Mon, 19 Jul 2021 04:49:20 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 3"
-      },
-      {
          "description" : " &#8220;Justin Tan is an International Grandmaster who has represented Australia in numerous international events. He is currently based in the UK and was previously British under-21 champion, British blitz champion and joint second runner-up at the British Championship. Justin has been a 1.e4 specialist throughout his playing career and is recognised for his deep opening <a href=\"http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.e4! The Chess Bible: The Chess Bible Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/202",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1506,14 +1562,6 @@ news_feed (
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
       },
       {
-         "description" : "Playing in time trouble is tough! What are the dos and don'ts when you are low on time?",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/how-to-handle-time-trouble-in-chess",
-         "pubDate" : "Wed, 14 Jul 2021 20:12:06 +0000",
-         "title" : "How to handle time trouble in chess"
-      },
-      {
          "description" : "GM Hikaru Nakamura won Titled Tuesday for the second consecutive week, scoring 9.5/11 and finishing ahead of GM Giga Quparadze on tiebreakers. There was a tie for third as both GM Sergei Zhigalko and GM Tamir Nabaty finished with 9/11 and the same...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1610,28 +1658,12 @@ news_feed (
          "title" : "Second Online Chess Olympiad from August 13, says FIDE"
       },
       {
-         "description" : "The 12 player Indian contingent comprising 8 men and 4 women had a smooth sailing, with 11 out of 12 Indians sailing to the round",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/smooth-sailing-for-indians/",
-         "pubDate" : "Wed, 14 Jul 2021 10:50:53 +0000",
-         "title" : "Smooth sailing for Indians"
-      },
-      {
          "description" : "Tiebreaks on Wednesday will decide 19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup can be ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-game-2",
          "pubDate" : "Wed, 14 Jul 2021 02:44:00 -0700",
          "title" : "FIDE World Cup: 28 Matches Go To Tiebreaks"
-      },
-      {
-         "description" : "Chidvilash Sai Surapaneni of Telangana and Pournami S of Kerala becomes champions in the National School Under-13 Open &#38; Girls Categories respectively which concluded on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chidvilash-pournami-champions/",
-         "pubDate" : "Wed, 14 Jul 2021 09:34:44 +0000",
-         "title" : "Chidvilash & Pournami Champions"
       },
       {
          "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
@@ -1824,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-san-fermin-masters",
          "pubDate" : "Mon, 12 Jul 2021 15:33:28 +0100",
          "title" : "Magnus Carlsen wins San Fermin Masters"
-      },
-      {
-         "description" : "GM Jeffery Xiong beat IM Denis Lazavik 15.5-10.5 on Sunday in the last match in the round of 16 of the 2021 Junior Speed Chess Championship presented by ChessKid. Lazavik put up an excellent fight and actually managed to beat Xiong in the bullet s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-beats-lazavik-in-junior-speed-chess-championship",
-         "pubDate" : "Mon, 12 Jul 2021 06:59:06 -0700",
-         "title" : "Xiong Beats Lazavik In Junior Speed Chess Championship"
       },
       {
          "description" : " Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the globe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 FIDE World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2360,22 +2384,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/the-model-queens-gambit.html",
          "pubDate" : "Mon, 05 Jul 2021 13:27:00 +0000",
          "title" : "'The' model Queen's Gambit"
-      },
-      {
-         "description" : "It was a great shock to wake up and learn that Yury Dokhoian had died, at the age of just 56, struck down by the accursed virus that has immobilized the world. Yet another reminder that we are not over it, yet. It is still going to take friends and loved ones. Frederic Friedel shares some memories of his friend Yury, with whom he spent a great deal of time. | Photo: Wiki, Porto Carras, 2011",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-yury",
-         "pubDate" : "Mon, 05 Jul 2021 12:00:00 +0100",
-         "title" : "Remembering Yury"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1188",
-         "pubDate" : "Mon, 05 Jul 2021 10:24:30 +0000",
-         "title" : "Proposals to change FIDE's rating and title regulations"
       }
    ]
 }
