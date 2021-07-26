@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sabrina Vega is the best women player in the history of Spanish chess. She won the national women's championship six times and represented her country in five Chess Olympiads. In an interview with Tatiana Flores, Sabrina Vega talks about her chess career and how chess can help you to grow and to enrich your personality.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-teaches-you-so-much-an-interview-with-im-sabrina-vega",
+         "pubDate" : "Mon, 26 Jul 2021 19:00:00 +0100",
+         "title" : "\"Chess teaches you so much!\": An interview with IM Sabrina Vega"
+      },
+      {
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/",
+         "pubDate" : "Mon, 26 Jul 2021 16:59:40 +0000",
+         "title" : "2021 FIDE World Cup: Round #5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-6",
+         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-7",
+         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-8",
+         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-9",
+         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 9"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84766596.cms\" />India No.3 Vidit Gujrathi defeated Vasif Durarbayli 1.5-0.5 to reach the quarterfinals of the FIDE chess World Cup on Monday. The 26-year old Grandmaster came up with an impressive display to tame his lower-rated Azerbaijan opponent, winning in 38 moves in his fifth round encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-indias-vidit-gujrathi-enters-quarter-finals/articleshow/84766596.cms",
+         "pubDate" : "Mon, 26 Jul 2021 22:06:38 +0530",
+         "title" : "Chess World Cup: India's Vidit Gujrathi enters quarter-finals"
+      },
+      {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Facebook-post---example1.png\" width=\"2560\" height=\"1339.7333333333\" alt=\"\" /> </div> World Chess, a media and gaming company that organizes the 2022 FIDE Grand Prix Series in collaboration with the International Chess Federation, announced its search for the best city to host the series. For the city which ends up hosting the events, it means 45 days of top-level chess over the course of three months and public programs that celebrate the sport that usually accompanies top-level chess tournaments. World Chess organized the World Championship matches and other events in New York, London, Hamburg, Sharjah, Sochi, and",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-and-fide-ask-the-chess-community-to-suggest-a-city-t/",
+         "pubDate" : "Mon, 26 Jul 2021 16:04:25 +0000",
+         "title" : "World Chess and FIDE Ask The Chess Community to Suggest a City to Host the Grand Prix Series"
+      },
+      {
+         "description" : "Vidit advanced to the Quarter Final with a smooth victory over the Azerbaijan GM Vasif Durarbayli. Vidit outprepared his opponent with the Black pieces in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-vidit-advanced-to-the-quarter-final/",
+         "pubDate" : "Mon, 26 Jul 2021 15:53:53 +0000",
+         "title" : "World Cup - Vidit advanced to the Quarter Final"
+      },
+      {
          "description" : "Amin Tabatabaei and Valentina Gunina need wins to take their matches to rapid and blitz playoffs on the second day of round 5 at the World Cups in Sochi. Meanwhile, world champion Magnus Carlsen plays black against Andrey Esipenko after having drawn their first encounter. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Nana Dzagnidze | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,7 +402,7 @@ news_feed (
          "title" : "Stockfish Developers Sue Chessbase Claiming Copyright Violation"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper POL 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper POL 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton UKR [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/",
@@ -682,14 +754,6 @@ news_feed (
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-9-lichessorg",
-         "pubDate" : "Tue, 20 Jul 2021 22:51:45 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 9 | lichess.org"
-      },
-      {
          "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -712,22 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1221",
          "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
          "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-6-lichessorg",
-         "pubDate" : "Tue, 20 Jul 2021 19:51:36 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 6 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-7-lichessorg",
-         "pubDate" : "Tue, 20 Jul 2021 19:51:36 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 7 | lichess.org"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will continue recapping the World Cup and the focus game will be Jumabaev's surprising win with Black against world number two, Fabiano Caruana, which eliminated Caruana from the tournament! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -832,14 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/20-july-is-international-chess-day",
          "pubDate" : "Tue, 20 Jul 2021 08:20:25 +0100",
          "title" : "20 July is International Chess Day!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-4",
-         "pubDate" : "Tue, 20 Jul 2021 01:50:43 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 4"
       },
       {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "NC Masters in Dortmund: Anand starts with a win"
       },
       {
-         "description" : "Gukesh advanced to round 2 with a very convincing victory over IM Teclaf,Pawel from Poland in the tie-breaks. In a complex middlegame, Gukesh ensured that",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gukesh-advances-to-round-2-of-world-cup/",
-         "pubDate" : "Thu, 15 Jul 2021 10:03:36 +0000",
-         "title" : "Gukesh advances to Round 2 of World Cup"
-      },
-      {
          "description" : "World Champion Magnus Carlsen is the recipient of the 2020 Fair Play Svetozar Gligoric award. The Norwegian will receive his trophy today, minutes before his debut game at the 2021 FIDE World Cup in Sochi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1938,14 +1970,6 @@ news_feed (
          "title" : "A new way against the Bogo-Indian"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84321921.cms\" /> Former world champion Viswanathan Anand defeated long-time rival Garry Kasparov for the second consecutive time, in the 13th round of the Croatia Grand Chess Tour's Blitz event on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-finishes-second-in-croatia-grand-chess-tour-beats-kasparov-again/articleshow/84321921.cms",
-         "pubDate" : "Sun, 11 Jul 2021 21:43:46 +0530",
-         "title" : "Anand finishes second in Croatia Grand Chess Tour, beats Kasparov again"
-      },
-      {
          "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2368,22 +2392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bischwiller-wins-french-club-championship-2021",
          "pubDate" : "Mon, 05 Jul 2021 22:20:00 +0100",
          "title" : "Bischwiller claim hat-trick of French club championship titles"
-      },
-      {
-         "description" : "Levon Aronian had a short day at the office on Sunday, as he scored back-to-back wins against Vladislav Artemiev to secure first place at the Goldmoney Asian Rapid tournament. Meanwhile, Ding Liren bounced back from his loss in the first set by remarkably beating Magnus Carlsen 3-0 in their second mini-match. However, it was the world champion who prevailed in the blitz tiebreakers to take third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/goldmoney-asian-rapid-2021-day-10",
-         "pubDate" : "Mon, 05 Jul 2021 17:15:00 +0100",
-         "title" : "Levon Aronian convincingly wins the Goldmoney Asian Rapid tournament"
-      },
-      {
-         "description" : "For a long time, the Classical Variation in the French Defence (1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6) has been considered as slightly dubious for Black. But recently Black found new possibilities and the line became attractive again. In the new ChessBase Magazine #202, opening expert Rustam Kasimdzhanov shows the latest developments of this variation. The French expert uses the game Alekseenko-Grischuk from the Candidates Tournament 2020/2021 as a starting point. Take a look at an excerpt of his video analysis!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/good-news-for-french-players",
-         "pubDate" : "Mon, 05 Jul 2021 17:00:00 +0100",
-         "title" : "\"Good news for French players!\""
       }
    ]
 }
