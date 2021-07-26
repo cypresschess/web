@@ -34,14 +34,6 @@ news_feed (
          "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
       },
       {
-         "description" : "Many of the ChessBase products have been around for more than 30 years, and we now have ChessBase 16, Fritz 17, over 200 ChessBase magazines, as well as more than 500 training programmes from chess masters. With so much choice, it is easy to lose the overview, and sometimes you ask yourself: what is which software good for, what can I do with it, and what are the main functions? With the newly made shopping assistant, we have created a guide for you in a short description + videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-shop-assistant",
-         "pubDate" : "Sun, 25 Jul 2021 17:00:00 +0100",
-         "title" : "The ChessBase Shop Assistant"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
