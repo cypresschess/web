@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Andrey Esipenko, a 19 year old Grandmaster from Russia, almost managed to knock-out the World Chess Champion out of the FIDE World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">An arbiter at the World Cup discusses the game with the World Champion while Esipenko watches - Photo: FIDE</div> </div> Winning on demand and finally losing two nerve-racking blitz games, Esipenko finished the day by apparently becoming everyone's favorite chess player. After eight games, the World Champion was visibly relieved when he finally won the match. I",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/esipenko-loses-to-carlsen-becomes-everyones-favorite-chess-playe/",
+         "pubDate" : "Tue, 27 Jul 2021 19:16:20 +0000",
+         "title" : "Esipenko Loses to Carlsen; Becomes Everyone's Favorite Chess Player"
+      },
+      {
          "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
