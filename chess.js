@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Recently I have bee using a 'script' metaphor to describe how chess games usually go. The idea is to remove some of the mystery of the game for new players, showing how most experienced players think about general planning. Of course it doesn't cover every type of game, but it does seem useful for players in the sub 1500 range. Act I - The Opening <ul style=\"text-align: left;\"><li>Move 2 or 3 pawns at the start, to help develop your pieces</li><li>Bring out Knights and Bishops (either NNBB or NBNB)</li><li>Castle</li><li>Move the queen a little bit, to help connect the rooks</li></ul>Act II - The Queen attacks <ul style=\"text-align: left;\"><li>Look at the position of your opponents king</li",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/the-script.html",
+         "pubDate" : "Tue, 27 Jul 2021 13:40:00 +0000",
+         "title" : "The Script"
+      },
+      {
+         "description" : "Round-5's rapid and blitz tiebreakers include 6 matches in the open section and 1 match in the women's tournament. World champion Magnus Carlsen fights to reach the quarterfinals with Andrey Esipenko, while Nana Dzagnidze and Anna Muzychuk battle for a spot in the next Women's Candidates Tournament. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Vladimir Fedoseev | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Tue, 27 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg\" data-image-dimensions=\"540x405\" data-image-focal-point=\"0.5,0.5\" alt=\"courtney3.jpg\" data-load=\"false\" data-image-id=\"60fff2e2ee50e73637911161\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br> <p class=\"\">Welcome to another \"Adult improver\" edition of Perpetual Chess. Our guest this time is Dr. Courtney Frey. Courtney is a 35 year old doctor (ra",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/27/episode-236-dr-courtney-frey-adult-improver-series",
+         "pubDate" : "Tue, 27 Jul 2021 11:56:10 +0000",
+         "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
+      },
+      {
          "description" : "The week long Festival de Fontainebleau chess tournament which started on 18 July doesn't feature any Grandmasters or International Masters. While the Open section comprises players with under elo ratings under 2000, competitors in the three closed tournaments - each of which has eight players - have Elo ratings ranging from around 1800 to 2200. But what makes this tournament unique is its unique location and the Covid-19 related health controls that have been put in place here. | Photos: Club d'&eacute;checs de Fontainebleau-Avon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -375,7 +399,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-tiebreaks",
          "pubDate" : "Sun, 25 Jul 2021 00:02:00 -0700",
-         "title" : "FIDE World Cup R5.3: Carlsen, Ivic Among Final 16"
+         "title" : "FIDE World Cup R4.3: Carlsen, Ivic Among Final 16"
       },
       {
          "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
@@ -2424,14 +2448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/not-always-drawn.html",
          "pubDate" : "Tue, 06 Jul 2021 14:03:00 +0000",
          "title" : "Not always drawn"
-      },
-      {
-         "description" : "The English is becoming increasingly popular as White players avoid the heavy theory of 1.e4 or 1.d4 and hope to achieve a small advantage in a safe position. A lot of club players tend to focus on openings against 1.e4 and 1.d4 but neglect to study a response to the English. 1...e5 is a theoretically sound response with good chances of equality or better in all variations, and in this video series, Grandmaster Nicholas Pert provides a complete Black repertoire based on this move.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-nicholas-pert-a-complete-black-repertoire-versus-the-english-1-e5",
-         "pubDate" : "Tue, 06 Jul 2021 15:00:00 +0100",
-         "title" : "New: Nicholas Pert: A Complete Black Repertoire versus the English, 1...e5"
       }
    ]
 }
