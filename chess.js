@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1232",
+         "pubDate" : "Tue, 27 Jul 2021 21:20:12 +0000",
+         "title" : "Rond 05 tiebreaks: A close scrape for Carlsen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess endgame class. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xy55Jnmmy8I.jpg?itok=2Etu6LcM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-robert-hungaski",
+         "pubDate" : "Tue, 27 Jul 2021 19:59:30 +0000",
+         "title" : "Insane in the Endgame - GM Robert Hungaski"
+      },
+      {
          "description" : " <p class=\"lead\">Andrey Esipenko, a 19 year old Grandmaster from Russia, almost managed to knock-out the World Chess Champion out of the FIDE World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">An arbiter at the World Cup discusses the game with the World Champion while Esipenko watches - Photo: FIDE</div> </div> Winning on demand and finally losing two nerve-racking blitz games, Esipenko finished the day by apparently becoming everyone's favorite chess player. After eight games, the World Champion was visibly relieved when he finally won the match. I",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/",
          "pubDate" : "Thu, 22 Jul 2021 00:10:54 +0000",
          "title" : "How to Study Chess on Your Own"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games from the 2021 World Cup. 2021.07.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok=JPicFZax\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 21 Jul 2021 22:53:09 +0000",
-         "title" : "2021 World Cup | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "On International Chess Day, Vietnam&#39;s IM Minh Le took first place in Titled Tuesday with a score of 10/11. GM Hikaru Nakamura grabbed second with 9.5/11. The top four was rounded out by GM Giga Quparadze and GM Oleksandr Bortnyk. 472 titled play...",
@@ -2424,14 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/my-most-memorable-game-marin",
          "pubDate" : "Wed, 07 Jul 2021 01:00:00 +0100",
          "title" : "Mihail Marin: My most memorable game"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1192",
-         "pubDate" : "Tue, 06 Jul 2021 20:17:33 +0000",
-         "title" : "Ponkratov and Guseva win Higher League of Russian Championship"
       }
    ]
 }
