@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Gregory Kaidanov won the 2021 U.S. Senior Championship title after defeating GM Larry Christiansen in an exciting playoff tiebreak, scoring 1.5 - 0.5 in the two-game rapid match. After a draw in game one, Kaidanov seized his chance in game two, finding a brilliant resource to win an exchange and convert his advantage in the ensuing complications. It was the first national title victory for Kaidanov. | Photo: Courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gregory-kaidanov-is-u-s-senior-champion-2021",
+         "pubDate" : "Tue, 27 Jul 2021 09:22:54 +0100",
+         "title" : "Gregory Kaidanov is U.S. Senior Champion 2021!"
+      },
+      {
+         "description" : "Endgames with opposite coloured bishops have drawish tendencies but are also full of surprising tactics. In the diagram position White is a pawn up but Black's bishop seems to have the pawns on the kingside under control. However, White has a way to make his pawns really powerful. What can he do, how can he win?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/powerful-pawns-2",
+         "pubDate" : "Tue, 27 Jul 2021 09:00:00 +0100",
+         "title" : "Powerful pawns"
+      },
+      {
+         "description" : "GM Sam Shankland knocked out GM Peter Svidler from the FIDE World Cup on Monday. The American grandmaster won his white game to qualify for the quarterfinals. GM Vidit Gujrathi is the only other player who reached the next round without needing a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-2",
+         "pubDate" : "Mon, 26 Jul 2021 23:50:00 -0700",
+         "title" : "FIDE World Cup R5.2: Shankland, Vidit Through"
+      },
+      {
+         "description" : "The European Chess Union and US-based Chess in Schools Announce a Cooperative Agreement to Develop Chess in Education in the United States Download the Press Release [Tuscaloosa, Alabama] - Chess in Schools (CIS) is pleased to announce a cooperative agreement with the European Chess Union (ECU) supporting Chess in Education (CIE) in the United States. Under the agreement,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-cis-us-press-release/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-cis-us-press-release/",
+         "pubDate" : "Tue, 27 Jul 2021 06:30:07 +0000",
+         "title" : "ECU - CIS.US - Press release"
+      },
+      {
          "description" : "In the open section of the World Cup, 2 players secured a spot in the quarterfinals on Monday, as Sam Shankland (pictured) and Vidit Gujrathi knocked out Peter Svidler and Vasif Durarbayli. Meanwhile, in the women's tournament, Aleksandra Goryachkina, Tan Zhongyi and Alexandra Kosteniuk made it to the semifinals. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1230",
          "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
          "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is currently hosting the U.S. Junior, Girls' and Senior Championships. The center is broadcasting live and the commentary team led by Yasser Seirawan is commenting on the action. Live from 22:00 CEST (16:00 ET, 20:00 UTC). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-junior-and-senior-championships-live",
-         "pubDate" : "Mon, 26 Jul 2021 21:50:00 +0100",
-         "title" : "U.S. Seniors Playoff: Kaidanov wins!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Hans Niemann talks to the team after Round 6 of the 2021 U.S. Junior Championship. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senior-championships-hans-niemann-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D6vHc-lGQBI.jpg?itok=nImpghfv\" alt=\"\" /></a></div>",
@@ -175,7 +199,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-1-martirosyan",
          "pubDate" : "Mon, 26 Jul 2021 02:36:00 -0700",
-         "title" : "Kosteniuk, Martirosyan Only Winners On Peaceful Day At FIDE World Cup"
+         "title" : "FIDE World Cup R5.1: Kosteniuk, Martirosyan Only Winners"
       },
       {
          "description" : "Two national champions were crowned on Sunday, 25 July, as both GM Hans Niemann (pictured) and IM Annie Wang clinched victories in the 2021 U.S. Junior Championships, both winning $10,000 scholarships in addition to the first place prize. Meanwhile, GM Larry Christiansen won a critical last round game in the U.S. Senior, forcing a playoff tiebreak on Monday against GM Gregory Kaidanov. With their victories, Hans and Annie qualified for the 2022 U.S. Championship and U.S. Women's Championship. | Photo: Courtesy of Saint Louis Chess Club, Crystal Fuller",
@@ -295,7 +319,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-tiebreaks",
          "pubDate" : "Sun, 25 Jul 2021 00:02:00 -0700",
-         "title" : "FIDE World Cup: Carlsen, Ivic Among Final 16"
+         "title" : "FIDE World Cup R5.3: Carlsen, Ivic Among Final 16"
       },
       {
          "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
@@ -383,7 +407,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-2",
          "pubDate" : "Sat, 24 Jul 2021 02:17:00 -0700",
-         "title" : "FIDE World Cup: Dzagnidze, Goryachkina Force Tiebreaks; Harikrishna Out"
+         "title" : "FIDE World Cup R4.2: Dzagnidze, Goryachkina Force Tiebreaks; Harikrishna Out"
       },
       {
          "description" : "In the diagram position, decentralizing White's queen with 20.Qa5? Rxd4 21.Qxa7 looks unhealthy - and runs into a direct refutation. Full score only if you can see it already in this position!",
@@ -519,7 +543,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-1",
          "pubDate" : "Fri, 23 Jul 2021 01:42:00 -0700",
-         "title" : "FIDE World Cup: Goryachkina, Harikrishna Among 10 Players In Danger Zone"
+         "title" : "FIDE World Cup R4.1: Goryachkina, Harikrishna Among 10 Players In Danger Zone"
       },
       {
          "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
@@ -759,7 +783,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-tiebreaks",
          "pubDate" : "Wed, 21 Jul 2021 04:07:00 -0700",
-         "title" : "FIDE World Cup: Giri, Mamedyarov Out; MVL Survives In Armageddon"
+         "title" : "FIDE World Cup R3.3: Giri, Mamedyarov Out; MVL Survives In Armageddon"
       },
       {
          "description" : "16-year-old Nodirbek Abdussatorov dumped Anish Giri out of the FIDE World Cup as the star names continued to fall in Round 3 tiebreaks. Shakhriyar Mamedyarov lost to 20-year-old Haik Martirosyan, which, with the loss of Fabiano Caruana the day before, means only Magnus Carlsen, Alexander Grischuk, Sergey Karjakin and Maxime Vachier-Lagrave remain from the Top 10 seeds. Maxime survived a huge scare to beat David Paravyan in Armageddon. The top seeds are dominating the women's event, but 17-year-old Bibisara Assaubayeva knocked out Bela Khotenashvili.",
@@ -895,7 +919,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-2-caruana-jumabayev",
          "pubDate" : "Tue, 20 Jul 2021 02:21:00 -0700",
-         "title" : "FIDE World Cup: Caruana Knocked Out"
+         "title" : "FIDE World Cup R3.2: Caruana Knocked Out"
       },
       {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov A score of 4 out of 5 with two rounds to go normally pairs you against a strong opponent. The game did not look like that. It was more of an exchange of errors in the middle game. My student's opponent was rated 400 points lower <a href=\"https://chessimprover.com/tales-from-cycc-2021-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-3/\">Tales from CYCC 2021 (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1071,7 +1095,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-1-martirosyan",
          "pubDate" : "Mon, 19 Jul 2021 03:05:00 -0700",
-         "title" : "FIDE World Cup R3: Dzagnidze, Mamedyarov, Yu In Trouble"
+         "title" : "FIDE World Cup R3.1: Dzagnidze, Mamedyarov, Yu In Trouble"
       },
       {
          "description" : "This week, Merijn van Delft takes a look at the Grand Chess Tour Croatia rapid and blitz tournament. He wonders about Kasparov's collapse and analyses the instructive and interesting rapid game between Ian Nepomniachtchi and Anton Korobov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1223,7 +1247,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-tiebreaks-armageddon-firouzja-sindarov",
          "pubDate" : "Sun, 18 Jul 2021 02:43:00 -0700",
-         "title" : "FIDE World Cup: Dominguez, Firouzja Out On Wild Armageddon Day"
+         "title" : "FIDE World Cup R2.3: Dominguez, Firouzja Out On Wild Armageddon Day"
       },
       {
          "description" : "Vishy Anand is still leading the No Castling chess match against Vladimir Kramnik. The Indian took the lead in game 1 and could have secured match victory in game 3, as he had a much better position with the white pieces. However, Kramnik managed to hold the draw in the end. The last game is set to take place today at 13.00 CEST.",
@@ -1311,7 +1335,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-day-2",
          "pubDate" : "Sat, 17 Jul 2021 03:18:00 -0700",
-         "title" : "FIDE World Cup: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
+         "title" : "FIDE World Cup R2.2: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
       },
       {
          "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
@@ -1607,7 +1631,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-1-tiebreak-murzin",
          "pubDate" : "Thu, 15 Jul 2021 01:22:00 -0700",
-         "title" : "14-Year-Old Murzin Reaches Round 2 FIDE World Cup"
+         "title" : "FIDE World Cup R1.3: 14-Year-Old Murzin Through"
       },
       {
          "description" : "",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/second-online-chess-olympiad-from-august-13-says-fide/articleshow/84408343.cms",
          "pubDate" : "Wed, 14 Jul 2021 17:25:55 +0530",
          "title" : "Second Online Chess Olympiad from August 13, says FIDE"
-      },
-      {
-         "description" : "Tiebreaks on Wednesday will decide 19 matches in the 2021 FIDE World Cup and nine matches in the Women&#39;s World Cup. A total of 97 players reached the second round without needing a tiebreak. How to watch?The games of the FIDE World Cup can be ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2021-round-1-game-2",
-         "pubDate" : "Wed, 14 Jul 2021 02:44:00 -0700",
-         "title" : "FIDE World Cup: 28 Matches Go To Tiebreaks"
       },
       {
          "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
