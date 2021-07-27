@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the open section of the World Cup, 2 players secured a spot in the quarterfinals on Monday, as Sam Shankland (pictured) and Vidit Gujrathi knocked out Peter Svidler and Vasif Durarbayli. Meanwhile, in the women's tournament, Aleksandra Goryachkina, Tan Zhongyi and Alexandra Kosteniuk made it to the semifinals. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d2",
+         "pubDate" : "Tue, 27 Jul 2021 03:50:00 +0100",
+         "title" : "World Cup: Shankland and Vidit go through"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-playoff",
+         "pubDate" : "Tue, 27 Jul 2021 01:58:43 +0000",
+         "title" : "2021 U.S. Junior & U.S. Senior Championships: Playoff"
+      },
+      {
          "description" : "It&#39;s back!&#38;nbsp;PogChamps 4 presented by Coinbase begins on August 29, 2021. The latest edition of the breakout series returns for what will surely be the biggest, best, and brightest PogChamps yet! $100,000 is up for grabs in the prize fund and C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-pogchamps-4",
          "pubDate" : "Mon, 26 Jul 2021 15:36:00 -0700",
          "title" : "Announcing PogChamps 4 Presented By Coinbase"
-      },
-      {
-         "description" : "In the open section of the World Cup, 2 players secured a spot in the quarterfinals on Monday, as Sam Shankland and Vidit Gujrathi knocked out Peter Svidler and Vasif Durarbayli. Meanwhile, in the women's tournament, Aleksandra Goryachkina, Alexandra Kosteniuk and Tan Zhongyi are already in semis. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Mon, 26 Jul 2021 23:20:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "Tournament Arc 2 reached its epic conclusion, with Gigguk successfully defending the title after defeating Esam. The two-time champion proved to be the best among a field of superstars from the Anime community and Fighting Games players. Li...",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Hans Niemann Interview | Round 6"
       },
       {
-         "description" : "GM Hans Niemann won the U.S. Junior Championship on Sunday in St. Louis. The 18-year-old grandmaster and chess streamer finished on 6/9, half a point more than a group of five players. IM Annie Wang won the girls&#39; section. The Saint Louis Chess ...",
+         "description" : "GM Hans Niemann won the U.S. Junior Championship on Sunday in St. Louis. The 18-year-old grandmaster and chess streamer finished on 6/9, half a point more than a group of five players. IM Annie Wang won the girls&#39; section. GM Gregory Kaidanov de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hans-niemann-us-junior-championship-annie-wang",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-world-cup-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Wed, 21 Jul 2021 22:53:09 +0000",
          "title" : "2021 World Cup | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-5",
-         "pubDate" : "Wed, 21 Jul 2021 19:52:58 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 5"
       },
       {
          "description" : "On International Chess Day, Vietnam&#39;s IM Minh Le took first place in Titled Tuesday with a score of 10/11. GM Hikaru Nakamura grabbed second with 9.5/11. The top four was rounded out by GM Giga Quparadze and GM Oleksandr Bortnyk. 472 titled play...",
