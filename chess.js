@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Tue, 27 Jul 2021 20:05:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "Svitlana Demchenko is back to present us her smart moves, especially after playing chess constantly in the last couple of weeks. The 17-year-old WIM left Canada, to travel to Serbia, Sochi, Moscow, and finally to Mykolayiv, Ukraine. She competed in the Serbian Open, and fought hard in the World Cup in Sochi, against a more than 300 rating points stronger opponent. Finally, she is playing a tournament in the Ukraine. Nonetheless, she made some time for a new episode, in which we take a look at her whole travel experience, her World Cup game, and play three blitz games against each other. | Photos: Svitlana Demchenko",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-8",
+         "pubDate" : "Tue, 27 Jul 2021 20:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Special World Cup Episode 8"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will of course continue to talk about the World Cup but will also take a short look at the other big tournaments that are currently taking place. The game of the day is Vidit's smooth win vs Durarbayli as Black, in which the Indian Grandmaster used a lovely little opening novelty. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-cup",
+         "pubDate" : "Tue, 27 Jul 2021 19:00:00 +0100",
+         "title" : "The Weekly Show: The World Cup"
+      },
+      {
          "description" : " Recently I have bee using a 'script' metaphor to describe how chess games usually go. The idea is to remove some of the mystery of the game for new players, showing how most experienced players think about general planning. Of course it doesn't cover every type of game, but it does seem useful for players in the sub 1500 range. Act I - The Opening <ul style=\"text-align: left;\"><li>Move 2 or 3 pawns at the start, to help develop your pieces</li><li>Bring out Knights and Bishops (either NNBB or NBNB)</li><li>Castle</li><li>Move the queen a little bit, to help connect the rooks</li></ul>Act II - The Queen attacks <ul style=\"text-align: left;\"><li>Look at the position of your opponents king</li",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/the-script.html",
          "pubDate" : "Tue, 27 Jul 2021 13:40:00 +0000",
          "title" : "The Script"
-      },
-      {
-         "description" : "Round-5's rapid and blitz tiebreakers include 6 matches in the open section and 1 match in the women's tournament. World champion Magnus Carlsen fights to reach the quarterfinals with Andrey Esipenko, while Nana Dzagnidze and Anna Muzychuk battle for a spot in the next Women's Candidates Tournament. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Pictured: Vladimir Fedoseev | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Tue, 27 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg\" data-image-dimensions=\"540x405\" data-image-focal-point=\"0.5,0.5\" alt=\"courtney3.jpg\" data-load=\"false\" data-image-id=\"60fff2e2ee50e73637911161\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br> <p class=\"\">Welcome to another \"Adult improver\" edition of Perpetual Chess. Our guest this time is Dr. Courtney Frey. Courtney is a 35 year old doctor (ra",
@@ -2408,30 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1192",
          "pubDate" : "Tue, 06 Jul 2021 20:17:33 +0000",
          "title" : "Ponkratov and Guseva win Higher League of Russian Championship"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Russian Higher League. He analyses a highly entertaining victory by Maksim Chigaev, one that included a spectacular finish. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-russian-higher-league-2021",
-         "pubDate" : "Tue, 06 Jul 2021 18:45:00 +0100",
-         "title" : "The Weekly Show: A spectacular finish from the Russian Higher League"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1191",
-         "pubDate" : "Tue, 06 Jul 2021 17:32:15 +0000",
-         "title" : "Intercontinental Online Chess Championship for Prisoners announced"
-      },
-      {
-         "description" : "Let us assume you are a chess amateur, who in pandemic times have become obsessed with improving your game. Wouldn't it be nice to have one of the top ten players in the world coach you? If that is what you want it is of advantage to be a leading stand-up comedian. But even if you are not, you can still profit from this charming little lesson Anish Giri, rated 2776, gave Biswa Kalyan Rath, 1600, on how to best use a bishop pair to win a game. Learn and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/coaching-from-a-top-ten-player",
-         "pubDate" : "Tue, 06 Jul 2021 18:00:00 +0100",
-         "title" : "Coaching from a top ten player"
       }
    ]
 }
