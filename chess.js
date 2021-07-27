@@ -2432,22 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/coaching-from-a-top-ten-player",
          "pubDate" : "Tue, 06 Jul 2021 18:00:00 +0100",
          "title" : "Coaching from a top ten player"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG\" data-image-dimensions=\"431x244\" data-image-focal-point=\"0.5,0.5\" alt=\"Gotham.JPG\" data-load=\"false\" data-image-id=\"60e46f3a9d9258644a4c3c29\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625583418661-020YYHBNNEI2WNFIKFXF/Gotham.JPG?format=1000w\" /> </figure> <p class=\"\">IM Levy Rozman a/k/a \"GothamChess\" is a chess commentator, Twitch streamer, and, of course, creator of one of the most popular Chess YouTube channels in the World. His chan",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/6/episode-233-im-levy-rozman-returns",
-         "pubDate" : "Tue, 06 Jul 2021 15:00:02 +0000",
-         "title" : "Episode 233- IM Levy Rozman returns "
-      },
-      {
-         "description" : " Another game in the ongoing Press v Hosking matchup. This time it wasn't drawn! <br /> <b>Press,Shaun - Hosking,Ian [A50]</b><br />Belconnen Rapid, 06.07.2021 <script>new PgnViewer( { boardName: \"game1257\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.g3 g6 5.Bg2 Bg7 6.Nc3 O-O 7.O-O d6 8.Qc2 Nbd7 9.e4 e5 10.Rd1 Re8 11.dxe5 dxe5 12.Bg5 h6 13.Bxf6 Bxf6 14.Qd2 Nc5 15.Qxh6 Qe7 16.Qe3 Rad8 17.Nd5 Bxd5 18.cxd5 Qd7 19.Rdc1 Qg4 20.b4 Na6 21.a3 Re7 22.Rc6 Kg7 23.Rac1 Rdd7 24.h3 Qh5 25.g4 Qh8 26.g5 Bxg5 27.Qxg5 Kf8 28.Bf1 Nb8 29.Rxc7 Rxc7 30.Rxc7 Rxc7 31.Qd8+ Kg7 32.Qxc7 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1257-container\"></div><div i",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/not-always-drawn.html",
-         "pubDate" : "Tue, 06 Jul 2021 14:03:00 +0000",
-         "title" : "Not always drawn"
       }
    ]
 }
