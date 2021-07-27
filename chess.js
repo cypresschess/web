@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The week long Festival de Fontainebleau chess tournament which started on 18 July doesn't feature any Grandmasters or International Masters. While the Open section comprises players with under elo ratings under 2000, competitors in the three closed tournaments - each of which has eight players - have Elo ratings ranging from around 1800 to 2200. But what makes this tournament unique is its unique location and the Covid-19 related health controls that have been put in place here. | Photos: Club d'&eacute;checs de Fontainebleau-Avon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-first-fontainebleau-chess-festival",
+         "pubDate" : "Tue, 27 Jul 2021 12:28:52 +0100",
+         "title" : "The first Fontainebleau chess festival"
+      },
+      {
+         "description" : "While the participants in the Grandmaster Tournament are enjoying a day of rest, the open tournaments at the Biel Chess Festival have started. The Master Tournament has an extremely strong field of participants: 27 Grandmasters are taking part, twelve (!) of them with an Elo rating of over 2600, furthermore 13 IM (International Masters) are present. The first round of the Amateur Tournament was also played today, which is completely booked up with 120 participants. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/start-of-the-open-tournaments-at-the-biel-chess-festival",
+         "pubDate" : "Tue, 27 Jul 2021 11:02:14 +0100",
+         "title" : "Start of the open tournaments at the Biel Chess Festival"
+      },
+      {
+         "description" : "Sam Shankland knocked out Peter Svidler to become the first player to reach the quarterfinals of the 2021 FIDE World Cup, while also securing a spot in the 2022 FIDE Grand Prix. Vidit was the second, after overcoming Vasif Durarbayli, but the remaining six matches will all be decided in tiebreaks today, after Haik Martirosyan cracked at the end of a game he needed only to draw, allowing Amin Tabatabaei a comeback win. In the women's section Tan Zhongyi shocked no. 2 seed Kateryna Lagno to reach the semi-finals, with only Muzychuk-Dzagnidze going to tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-2-shankland-vidit-in-quarterfinals",
+         "pubDate" : "Tue, 27 Jul 2021 09:48:52 +0000",
+         "title" : "FIDE World Cup 5.2: Shankland & Vidit in Quarterfinals"
+      },
+      {
+         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov I am going to end the foray into the Canadian Youth Chess Championship 2021 with two games that reinforce what I have been talking about in this blog. We learn and practice new things throughout the year. This is done properly when we build on past <a href=\"https://chessimprover.com/tales-from-cycc-2021-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-4/\">Tales from CYCC 2021 (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tales-from-cycc-2021-4/",
+         "pubDate" : "Tue, 27 Jul 2021 09:30:34 +0000",
+         "title" : "Tales from CYCC 2021 (4)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1231",
+         "pubDate" : "Tue, 27 Jul 2021 08:23:55 +0000",
+         "title" : "Gregory Kaidanov wins 2021 U.S. Senior Championship"
+      },
+      {
          "description" : "GM Gregory Kaidanov won the 2021 U.S. Senior Championship title after defeating GM Larry Christiansen in an exciting playoff tiebreak, scoring 1.5 - 0.5 in the two-game rapid match. After a draw in game one, Kaidanov seized his chance in game two, finding a brilliant resource to win an exchange and convert his advantage in the ensuing complications. It was the first national title victory for Kaidanov. | Photo: Courtesy of Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gregory-kaidanov-is-u-s-senior-champion-2021",
          "pubDate" : "Tue, 27 Jul 2021 09:22:54 +0100",
          "title" : "Gregory Kaidanov is U.S. Senior Champion 2021!"
+      },
+      {
+         "description" : "Karsten Mueller again enjoys some Endgame Magic and together with his guest Thomas Stark he presents endgame highlights from the Goldmoney Asian Online Rapid Tournament that ended in the beginning of July, and that was won by Levon Aronian - who showed his endgame skills in a very crucial game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-153",
+         "pubDate" : "Tue, 27 Jul 2021 09:15:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #153"
+      },
+      {
+         "description" : "The successful candidates for Silver Direct Members' Representatives 2021 were John Reyes and Tim Wall Voting was as follows &#8212; Jonathan-Miller 31 votes John...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
+         "pubDate" : "Tue, 27 Jul 2021 08:00:18 +0000",
+         "title" : "DMR election results!"
       },
       {
          "description" : "Endgames with opposite coloured bishops have drawish tendencies but are also full of surprising tactics. In the diagram position White is a pawn up but Black's bishop seems to have the pawns on the kingside under control. However, White has a way to make his pawns really powerful. What can he do, how can he win?",
@@ -672,14 +728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest",
          "pubDate" : "Thu, 22 Jul 2021 08:50:00 +0000",
          "title" : "Trafalgar Squares: 6,000 people turn out for London's ChessFest"
-      },
-      {
-         "description" : "Please note voting for Silver members' representatives closes on 25th July Following the recent request for candidates for the posts of Direct Members'...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
-         "pubDate" : "Thu, 22 Jul 2021 08:00:18 +0000",
-         "title" : "Direct Members' Representatives - elections"
       },
       {
          "description" : "",
@@ -1618,14 +1666,6 @@ news_feed (
          "title" : "Peterborough Chess Club Silver Queen"
       },
       {
-         "description" : "14-year-old IM Volodar Murzin looked shocked, then thrilled, then determined as he checkmated 44-year-old Viorel Iordachescu to qualify for a Round 2 clash with fellow Russian Vladislav Artemiev. The FIDE World Cup Round 1 tiebreaks largely saw the favourites win, but English IM Ravi Haria convincingly outplayed Russian GM Vadim Zvjaginsev, while Egyptian no. 9 Abdelrahman Hesham beat Egyptian no. 2 Ahmed Adly. Magnus Carlsen, Fabiano Caruana, Aleksandra Goryachkina and all the other top seeds now join the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-1-3-14-year-old-volodar-murzin-scores-upset-win",
-         "pubDate" : "Thu, 15 Jul 2021 09:26:14 +0000",
-         "title" : "FIDE World Cup 1.3: 14-year-old Volodar Murzin in upset win"
-      },
-      {
          "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2218,14 +2258,6 @@ news_feed (
          "title" : "Nepomniachtchi keeps the lead"
       },
       {
-         "description" : " Last week, we started looking at the fork, another tactic the beginner should have in his or her chess player's tool box. A fork occurs when one pawn or piece attacks two or more pawns or pieces simultaneously (at the same time). Any member of your army can employ a fork, even the pawn and <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-five/\">A Foundation for Beginners Twenty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-five/",
-         "pubDate" : "Fri, 09 Jul 2021 06:19:34 +0000",
-         "title" : "A Foundation for Beginners Twenty Five"
-      },
-      {
          "description" : "After beating former co-leader Igor Kovalenko in round 8, Nihal Sarin only needed a draw in the last round to win the Serbia Open in Belgrade. The 16-year-old Indian prodigy scored 7&frac12;/9 points. A group of 9 players finished a half point behind. | Pictured: Vladimir Fedoseev (3rd), Nihal Sarin (1st) and Manuel Petrosyan (2nd) | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2400,22 +2432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-nicholas-pert-a-complete-black-repertoire-versus-the-english-1-e5",
          "pubDate" : "Tue, 06 Jul 2021 15:00:00 +0100",
          "title" : "New: Nicholas Pert: A Complete Black Repertoire versus the English, 1...e5"
-      },
-      {
-         "description" : "The 34th edition of the \"Magistral Ciudad de Le&oacute;n\" took place online from June 30 until July 4. A 4-player knockout, the event saw Boris Gelfand beating Leinier Dominguez in the final match played on Sunday. Dominguez had defeated women's world champion Ju Wenjun while Gelfand had knocked out Jaime Santos in the semifinals. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boris-gelfand-wins-leon-masters-2021",
-         "pubDate" : "Tue, 06 Jul 2021 12:20:00 +0100",
-         "title" : "Boris Gelfand prevails in Leon"
-      },
-      {
-         "description" : "Knights that fight against pawns can be clumsy but sometimes they can also work magic. In the diagram position, Black's a-pawn wants to queen but the white knight can still stop him. On the other hand it is hard to see how Black can stop White's e-pawn from queening. But Black can help her knight to do some magic and win. Do you have an idea how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-magic-knight",
-         "pubDate" : "Tue, 06 Jul 2021 09:00:00 +0100",
-         "title" : "A magic knight"
       }
    ]
 }
