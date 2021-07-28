@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the third time in four weeks, GM Hikaru Nakamura has taken first place in Titled Tuesday. His 9.5 points out of 11 were enough to finish ahead of GM Giga Quparadze on tiebreaks. GM Raunak Sadhwani and GM Aleksey Sarana rounded out the top four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-july-27-titled-tuesday",
+         "pubDate" : "Wed, 28 Jul 2021 11:11:50 -0700",
+         "title" : "Nakamura Wins July 27 Titled Tuesday"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look a close look at the encounter between Magnus Carlsen and Radoslaw Wojtaszek at the FIDE World Cup 2021 - a game full of tactical blows and surprises. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-474-m-carlsen-r-wojtaszek",
+         "pubDate" : "Wed, 28 Jul 2021 18:00:00 +0100",
+         "title" : "Game of the Week 474: M. Carlsen - R. Wojtaszek"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84834838.cms\" />Indian Grandmaster Nihal Sarin held veteran GM Boris Gelfand to a draw in the second round of the classical section of the Biel International Chess Festival on Wednesday. Sarin recovered after losing a seven-hour marathon to No.1 seed Kiril Alekseenko (Russia) late on Tuesday to hold Gelfand in 33 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-holds-boris-gelfand-to-draw/articleshow/84834838.cms",
+         "pubDate" : "Wed, 28 Jul 2021 22:29:11 +0530",
+         "title" : "Biel Chess festival: Nihal Sarin holds Boris Gelfand to draw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84834554.cms\" />Indian Grandmaster Vidit Santosh Gujrathi played out a draw against Jan-Krzystof Duda in the first game of the quarterfinals of the FIDE chess World Cup on Wednesday. The 26-year old India No.3 played the Catalan closed variation against the Polish opponent and signed peace in 33 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-draws-first-game-against-duda/articleshow/84834554.cms",
+         "pubDate" : "Wed, 28 Jul 2021 22:23:55 +0530",
+         "title" : "Chess World Cup: Vidit Gujrathi draws first game against Duda"
+      },
+      {
          "description" : " This is (obviously) the last in the series and covers the Zukertort version of the Colle Opening. White plays a Colle set-up with 1.d4 followed by 2.Nf3 and 3.e3 but then follows up with a fianchetto of his queen's bishop with b2-b3. This is a nice opening to play at club level because of the <a href=\"https://chessimprover.com/zap-em-with-the-zukertort/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Zap 'em with the Zukertort\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/zap-em-with-the-zukertort/\">Zap 'em with the Zukertort</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -88,6 +120,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-think-endgame-insane-endgame-gm-robert-hungaski",
          "pubDate" : "Wed, 28 Jul 2021 04:59:53 +0000",
          "title" : "How to THINK in the Endgame | Insane in the Endgame - GM Robert Hungaski"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814338.cms\" />A day after becoming the second Indian men's player after legendary Viswanathan Anand, to qualify for the quarterfinals of the chess World Cup in Sochi Grandmaster (GM) Vidit Gujrathi attained his career best Elo rating of 2731.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-best-chess-world-cup-performance-so-far-says-india-no-2-vidit/articleshow/84814338.cms",
+         "pubDate" : "Wed, 28 Jul 2021 10:05:08 +0530",
+         "title" : "My best Chess World Cup performance so far, says India No 2 Vidit"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> 2022 won't be as strong as the 2016 and 2018 editions and may not reach the level of 2020/21 after Radjabov has been promised a place and all participating top ten players except the world champion have been eliminated at the <strong>World Cup</strong> in Sochi, where two will qualify for the Candidates. It's better news for the <strong>Grand Swiss</strong> in October and the <strong>Grand Prix</strong> in spring 2022, which will likely attract contenders like Caruana, Ding, Giri and Vachier-Lagrave and be stronger than ever. </div> ",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "Nakamura Wins July 13 Titled Tuesday"
       },
       {
-         "description" : "PALO ALTO, CA (July 14, 2021) Chess.com is the first official broadcast partner of the Women&#38;rsquo;s World Chess Championship cycle and the 2022 Women&#38;rsquo;s World Chess Championship as part of a historic multi-year agreement with the Internation...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-broadcast-rights-fide-events-2023",
-         "pubDate" : "Wed, 14 Jul 2021 10:23:00 -0700",
-         "title" : "Chess.com Acquires Broadcast Rights For Major FIDE Events Through 2023"
-      },
-      {
          "description" : " Covering &#8216;X' was always going to be a challenge so I cheated with some spellings. Several different Exchange Variations are possible, for example in the French (1.e4 e6 2.d4 d5 3.exd5) and Slav (1.d4 d5 2.c4 c6 3.cxd5) Defences. The one I have in mind is the Exchange Variation of the Ruy Lopez with 1.e4 <a href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"X-terminate 'em with the X-change Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\">X-terminate 'em with the X-change Variation</a> appeared first on <a rel=\"nofol",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1856,14 +1888,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/who-is-the-next-challenger-happy-birthday-nepo/",
          "pubDate" : "Wed, 14 Jul 2021 16:20:32 +0000",
          "title" : "Who is the next challenger? Happy Birthday Nepo"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84413690.cms\" /> Indian Grandmaster D Gukesh defeated Poland's Pawel Teclaf in the tiebreak on Wednesday to enter the second round of the Men's event in the FIDE World Cup chess tournament here. The two-game mini match had ended in a 1-1 draw on Tuesday. In the tie-break, Gukesh won the first game and settled for a draw in the second to book a spot in the next round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-grandmaster-d-gukesh-enters-second-round/articleshow/84413690.cms",
-         "pubDate" : "Wed, 14 Jul 2021 21:22:19 +0530",
-         "title" : "Chess World Cup: Grandmaster D Gukesh enters second round"
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Catez, Slovenia on Sunday 14th November 2021.&#160; The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "World Cup: Twelve players bounce back"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84408343.cms\" />The FIDE Online Chess Olympiad 2021 will be held between August 13 to September 15, the International Chess Federation (FIDE) announced. Each national federation intending to take part in the Online Olympiad shall confirm its participation by July 31, it said. The first FIDE Online Olympiad held last year was jointly won by India and Russia.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/second-online-chess-olympiad-from-august-13-says-fide/articleshow/84408343.cms",
-         "pubDate" : "Wed, 14 Jul 2021 17:25:55 +0530",
-         "title" : "Second Online Chess Olympiad from August 13, says FIDE"
-      },
-      {
          "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1207",
          "pubDate" : "Tue, 13 Jul 2021 21:23:03 +0000",
          "title" : "Fast and furious action on Day 2 in FIDE World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84385216.cms\" />India's young stars R Praggnanandhaa, Nihal Sarin and P Iniyan advanced to the second round of the men's event in the FIDE World Cup chess tournament on Tuesday. Birthday boy Nihal Sarin drew the second game against IM Arthur Ssegwanyi of Uganda to secure a 1.5-0.5 win in round one. The Indian will now take on Sanan Sjugirov of Russia in round two.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-nihal-sarin-iniyan-enter-2nd-round/articleshow/84385216.cms",
-         "pubDate" : "Tue, 13 Jul 2021 22:30:06 +0530",
-         "title" : "World Cup: Praggnanandhaa, Nihal Sarin, Iniyan enter 2nd round"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the World Cup and the glorious game the Chilean GM Pablo Salinas won with Black against GM Mads Andersen from Sweden. Lawrence will also do a roundup of what happened at the Swedish Championships, the San Fermin Masters and the Grand Chess Tour tournament in Croatia. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1193",
          "pubDate" : "Wed, 07 Jul 2021 21:42:30 +0000",
          "title" : "Asian Chess Championship for Players with Disabilities starts on Tornelo"
-      },
-      {
-         "description" : "The state of Kerala, India found a pleasant gesture from a land faraway, the Czech Republic, when 'Chess Train' organiser Pavel Matocha organised a charity chess simultaneous display at Prague to help in its vaccination drive, with the raised money going to the Chief Minister's Distress Relief Fund of the Kerala Government. The motive behind this hearty gesture was no more than the attachment felt with the state of Kerala and its people, when Matocha participated in the 'Chess Houseboat' event held during early 2020. The event received support from the top echelons of the Czech Government, as well as the Ambassador of India to the Czech Republic. | Photo: Prague Chess Society",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-hearty-chess-gesture-from-the-czech-republic-to-the-indian-state-of-kerala",
-         "pubDate" : "Wed, 07 Jul 2021 22:20:00 +0100",
-         "title" : "A hearty chess gesture from the Czech Republic to the Indian state of Kerala"
       }
    ]
 }
