@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will play Etienne Bacrot in the FIDE World Cup quarterfinals today after surviving an incredibly tense tiebreaker against 19-year-old Andrey Esipenko, who inflicted a first loss of the event on Magnus to take their match all the way to blitz. The only other remaining Top 10 seed is Sergey Karjakin, who showed his class to knock out Maxime Vachier-Lagrave, while Jan-Krzysztof Duda defeated Alexander Grischuk. The women's semi-finals are set, with Anna Muzychuk playing top seed Aleksandra Goryachkina after winning both tiebreak games against Nana Dzagnidze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-3-carlsen-through-after-esipenko-thriller",
+         "pubDate" : "Wed, 28 Jul 2021 11:26:31 +0000",
+         "title" : "FIDE World Cup 5.3: Carlsen through after Esipenko thriller "
+      },
+      {
+         "description" : "The 2021 FIDE World Cup in Sochi, Russia has narrowed down the 206 starting participants to just 8 remaining players. Canadian FM Joshua Doknjas analyzes some of the most interesting games from the first half of the event. | Photos: Anastasiia Korolka (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-highlights-part-1",
+         "pubDate" : "Wed, 28 Jul 2021 11:04:38 +0100",
+         "title" : "World Cup Highlights - Part 1"
+      },
+      {
+         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday in what was an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the round-five tiebre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-tiebreaks-carlsen-esipenko",
+         "pubDate" : "Wed, 28 Jul 2021 02:08:00 -0700",
+         "title" : "FIDE World Cup R5.3: Carlsen Beats Esipenko In Epic Tiebreak"
+      },
+      {
+         "description" : "In round 1 of the classical part of the GM Tournament at the Biel Chess Festival three games ended with a decision. Alan Pichot won against Boris Gelfand, Kirill Alekseenko defeated Nihal Sarin and Gata Kamsky won against Noel Studer. Vincent Keymer and Maxime Lagarde drew. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-lively-start-of-the-classical-tournament",
+         "pubDate" : "Wed, 28 Jul 2021 09:34:11 +0100",
+         "title" : "Biel: Lively start of the classical tournament"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows the Philidor position in a rook and bishop vs. rook endgame and how to dominate, or slowly win, the position. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-think-endgame-insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -413,6 +445,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1227",
+         "pubDate" : "Sun, 25 Jul 2021 20:57:50 +0000",
+         "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1228",
          "pubDate" : "Sun, 25 Jul 2021 19:20:05 +0000",
          "title" : "Round 05 Game 01: Magnus Carlsen skates on thin ice"
@@ -496,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2021-chess-960",
          "pubDate" : "Sat, 24 Jul 2021 23:10:00 +0100",
          "title" : "Alekseenko wins Chess960 event in Biel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1227",
-         "pubDate" : "Sat, 24 Jul 2021 20:57:50 +0000",
-         "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
       },
       {
          "description" : "",
@@ -1714,14 +1746,6 @@ news_feed (
          "title" : "NC Masters in Dortmund: Anand starts with a win"
       },
       {
-         "description" : "World Champion Magnus Carlsen is the recipient of the 2020 Fair Play Svetozar Gligoric award. The Norwegian will receive his trophy today, minutes before his debut game at the 2021 FIDE World Cup in Sochi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-s-act-of-sportsmanship-vs-ding-wins-fide-award",
-         "pubDate" : "Thu, 15 Jul 2021 09:58:27 +0000",
-         "title" : "Carlsen's act of sportsmanship vs Ding wins FIDE award"
-      },
-      {
          "description" : "The ECF was due to organise a live board workshop on 11th April, 2020. Finally we have been able to rearrange this, this time for...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1824,14 +1848,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2021/",
          "pubDate" : "Wed, 14 Jul 2021 14:44:35 +0000",
          "title" : "ECU General Assembly 2021"
-      },
-      {
-         "description" : "The Arbitration Tribunal for Sport of the Polish Olympic Committee has overturned WFM Patrycja Waszczuk&#39;s two-year ban from chess for alleged cheating. According to her lawyer, the now 18-year-old Waszczuk was deprived of the right of defense and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ban-lifted-in-alleged-polish-cheating-case",
-         "pubDate" : "Wed, 14 Jul 2021 07:27:00 -0700",
-         "title" : "Ban Lifted In Alleged Polish Cheating Case"
       },
       {
          "description" : " Since I started to play Chess, it was my dream to become a Chess Grandmaster. This title has wide recognition, even outside the Chess World. Nearly wherever you go, people will have heard of &#8220;Chess Grandmaster&#8221; as an elite and prestigious title. While most people know the Grandmaster title is prestigious, many do not know [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/\">How To Become A Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2408,22 +2424,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/tournament-preparation/",
          "pubDate" : "Wed, 07 Jul 2021 11:34:00 +0000",
          "title" : "Grandmaster Tournament Preparation - How To Be In Good Form"
-      },
-      {
-         "description" : "If you are a true chess aficionado, you will want to stay updated with the latest games from tournaments all over the world! ChessBase 16 lets you do that with a single click. You can see all currently running tournament games, with machine analysis, the important novelties that were played, and even the most interesting tactical shots that occurred in the latest games. IM Sagar Shah explains it all to you in this tutorial video. It is just five minutes long, but will save you hours of tedious searching and copying.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-stay-updated-with-the-latest-games-with-one-click",
-         "pubDate" : "Wed, 07 Jul 2021 12:30:00 +0100",
-         "title" : "How to stay updated with the latest games with one click"
-      },
-      {
-         "description" : "Vladimir Kramnik and Viswanathan Anand will play a special 4-game match in Dortmund starting on July 14, as castling will not be allowed. The event will be supported by world-leading AI company DeepMind. Online audiences will get to experience novel AlphaZero insights first hand in the post-match commentary of the no castling tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alpha-zero-to-analyse-no-castling-match-dortmund",
-         "pubDate" : "Wed, 07 Jul 2021 10:40:00 +0100",
-         "title" : "AlphaZero to analyse \"no-castling\" match of the champions"
       }
    ]
 }
