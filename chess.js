@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows the Philidor position in a rook and bishop vs. rook endgame and how to dominate, or slowly win, the position. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-think-endgame-insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-think-endgame-insane-endgame-gm-robert-hungaski",
+         "pubDate" : "Wed, 28 Jul 2021 04:59:53 +0000",
+         "title" : "How to THINK in the Endgame | Insane in the Endgame - GM Robert Hungaski"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> 2022 won't be as strong as the 2016 and 2018 editions and may not reach the level of 2020/21 after Radjabov has been promised a place and all participating top ten players except the world champion have been eliminated at the <strong>World Cup</strong> in Sochi, where two will qualify for the Candidates. It's better news for the <strong>Grand Swiss</strong> in October and the <strong>Grand Prix</strong> in spring 2022, which will likely attract contenders like Caruana, Ding, Giri and Vachier-Lagrave and be stronger than ever. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/the-only-top-10-player-left-is/",
+         "pubDate" : "Wed, 28 Jul 2021 05:02:54 +0100",
+         "title" : "The only top 10 player left is Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814247.cms\" />City's lone Grandmaster (GM) Raunak Sadhwani continues his impressive run in Europe. After pocketing a gold medal in an over-the-board (OTB) international rating chess tournament in Austria, the 15-year-old made his mark in the Portuguese League.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-raunak-nets-silver-in-otb-portuguese-chess-league/articleshow/84814247.cms",
+         "pubDate" : "Wed, 28 Jul 2021 09:31:12 +0530",
+         "title" : "Unbeaten Raunak nets silver in OTB Portuguese Chess League"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Smerdon</strong>, an economist at the University of Queensland, leads a <a href=\"https://www.chess.com/blog/smurfo/marriage-children-and-chess-ratings\">study that investigates the impact of life events</a> like marriage or childbirth on the performance of players. The <a href=\"https://uqbel.az1.qualtrics.com/jfe/form/SV_bsCcQRUC3fCxCtM\">survey</a> asks personal data in order to analyze the participants' rating development and quality of their games. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/life-events-and-chess-performance/",
+         "pubDate" : "Wed, 28 Jul 2021 04:39:58 +0100",
+         "title" : "Life events and chess performance"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the upsets in the ongoing 2021 Chess World Cup. The mysterious masked Caleb shows how 2018 U.S. Champion Sam Shankland beat Peter Svidler in the biggest knockout tournament in chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wild-world-cup-upsets-and-surprises-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eAWak",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -514,14 +546,6 @@ news_feed (
          "title" : "De Montfort University hosts English chess library"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess in Schools and Communities</strong> ran a chess festival on Trafalgar Square that <a href=\"https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest\">attracted 6,000 participants</a> and included three eminent art institutions, the <strong>Royal Gallery</strong>, the <strong>V &amp; A</strong>, and the <strong>Wallace Collection</strong>, as noted in the <a href=\"https://www.chessinschools.co.uk/dcms-congratulates-chessfest\">gratulations by Britain's Minister of Culture, Digital, Media and Sport</a> <strong>Oliver Dowden</strong>. <strong>ChessFest</strong> was sponsored by the trading company <str",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/6000-at-chessfest-in-london/",
-         "pubDate" : "Sat, 24 Jul 2021 12:35:27 +0100",
-         "title" : "6,000 at ChessFest in London"
-      },
-      {
          "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
          "pubDate" : "Fri, 23 Jul 2021 08:13:14 +0100",
          "title" : "Freddy has beaten a grandmaster"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Hans Niemann explains how he knew his opponent For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. Originally streamed on YouTube and Twitch: <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-hans-niemanns-secret-success-i-had-read-him-2021-us-juniors-round-6-interview",
-         "pubDate" : "Fri, 23 Jul 2021 01:54:14 +0000",
-         "title" : "GM Hans Niemann's Secret to Success: \"I had a read on him\" (2021 U.S. Juniors Round 6 Interview)"
       },
       {
          "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
@@ -1994,14 +2010,6 @@ news_feed (
          "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84354874.cms\" />Indian players B Adhiban and P Iniyan posted wins in the first of the two-game mini match at the FIDE World Cup on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/adhiban-iniyan-start-with-wins-in-world-cup/articleshow/84354874.cms",
-         "pubDate" : "Mon, 12 Jul 2021 22:48:52 +0530",
-         "title" : "Adhiban, Iniyan start with wins in World Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alpha-zero-to-analyse-no-castling-match-dortmund",
          "pubDate" : "Wed, 07 Jul 2021 10:40:00 +0100",
          "title" : "AlphaZero to analyse \"no-castling\" match of the champions"
-      },
-      {
-         "description" : " The Grand Chess Tour Rapid and Blitz in Croatia takes place 5th to 12th July 2021. Wild card Ivan Saris plays the rapid and Garry Kasparov, the blitz. Viswanthan Anand also plays the tour for the first time this year. Play starts on July 7th with the rapid. Players: Maxime Vachier-Lagrave, Ian Nepomniachtchi, Alexander Grischuk, Shakhriyar Mamedyarov, Anish Giri, Garry Kasparov, Jorden Van Foreest, Viswanathan Anand, Ivan Saric, Anton Korobov, Jan-Krzysztof Duda.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/croatia-grand-chess-tour-rapid-and-blitz-2021",
-         "pubDate" : "Wed, 7 Jul 2021 09:33:00 +0400",
-         "title" : "Croatia Grand Chess Tour Rapid and Blitz 2021 - Games and Results"
       }
    ]
 }
