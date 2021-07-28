@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the upsets in the ongoing 2021 Chess World Cup. The mysterious masked Caleb shows how 2018 U.S. Champion Sam Shankland beat Peter Svidler in the biggest knockout tournament in chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wild-world-cup-upsets-and-surprises-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eAWak",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wild-world-cup-upsets-and-surprises-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 28 Jul 2021 01:59:40 +0000",
+         "title" : "The Wild World Cup (Upsets and Surprises) | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1223",
          "pubDate" : "Thu, 22 Jul 2021 07:55:52 +0000",
          "title" : "Liaocheng China celebrates International Chess Day with Grand Chess Cultural Festival"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at several games from the 2021 Chess World Cup and Women's Chess World Cup, including Fabiano Caruana's early loss to underdog Rinat Jumabayev. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2bNrTJ5_7co.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-caruana-knocked-out-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 22 Jul 2021 01:53:10 +0000",
-         "title" : "2021 World Cup: Caruana Knocked Out! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : " From the publisher: &#8220;Every chess player wants to improve, but many, if not most, lack the tools or the discipline to study in a structured and effective way. With so much material on offer, the eternal question is: &#8220;&#8221;How can I study chess without wasting my time and energy?&#8221;&#8221; Davorin Kuljasevic provides the full and <a href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Study Chess on Your Own</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\">How to Study Ches",
@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/croatia-grand-chess-tour-rapid-and-blitz-2021",
          "pubDate" : "Wed, 7 Jul 2021 09:33:00 +0400",
          "title" : "Croatia Grand Chess Tour Rapid and Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : "A multiple Romanian champion, Mihail Marin's first major international success was achieved in 1987, when he qualified to the Interzonal Tournament played in Szir&aacute;k. A famed author, he was described by Jeremy Silman as \"one of the world's finest chess writers\". Marin shares with us his most memorable game, a fantastic win with the white pieces played at the 1996 Chess Olympiad in Yerevan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-most-memorable-game-marin",
-         "pubDate" : "Wed, 07 Jul 2021 01:00:00 +0100",
-         "title" : "Mihail Marin: My most memorable game"
       }
    ]
 }
