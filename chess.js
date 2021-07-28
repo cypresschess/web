@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This is (obviously) the last in the series and covers the Zukertort version of the Colle Opening. White plays a Colle set-up with 1.d4 followed by 2.Nf3 and 3.e3 but then follows up with a fianchetto of his queen's bishop with b2-b3. This is a nice opening to play at club level because of the <a href=\"https://chessimprover.com/zap-em-with-the-zukertort/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Zap 'em with the Zukertort\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/zap-em-with-the-zukertort/\">Zap 'em with the Zukertort</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/zap-em-with-the-zukertort/",
+         "pubDate" : "Wed, 28 Jul 2021 15:00:00 +0000",
+         "title" : "Zap 'em with the Zukertort"
+      },
+      {
+         "description" : "The 2021 FIDE World Cup reached Quarterfinals in Men's event, while the Women's World Cup got to the stage of Semifinals. 6 tie-break matches of Round 5 were played yesterday in Open section, bringing exciting games and great fights. Read more: FIDE WORLD CUP R5- Calm before the storm Reigning World Chess Champion, Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2021-start-of-the-quarterfinals/",
+         "pubDate" : "Wed, 28 Jul 2021 13:41:58 +0000",
+         "title" : "FIDE WORLD CUP 2021 - Start of the Quarterfinals"
+      },
+      {
+         "description" : "While the semifinalists in the women's section get a rest day, the quarterfinals of the open kick off in Sochi. Magnus Carlsen starts with black against Etienne Bacrot. The remaining pairings: Vidit vs Jan-Krzysztof Duda (pictured), Amin Tabatabaei vs Vladimir Fedoseev and Sam Shankland vs Sergey Karjakin. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Wed, 28 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "The first round of the Grandmaster Tournament Biel brought three decisions and one draw. Round 2 also promises exciting chess: Kirill Alekseenko plays against Vincent Keymer, Noel Studer faces Alan Pichot, Nihal Sarin fights against Boris Gelfand and Gata Kamsky agaist Maxime Lagarde. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Wed, 28 Jul 2021 13:50:00 +0100",
+         "title" : "Biel: Round 2 live!"
+      },
+      {
+         "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d3",
+         "pubDate" : "Wed, 28 Jul 2021 13:45:00 +0100",
+         "title" : "World Cup: Carlsen's close call"
+      },
+      {
+         "description" : "Mritticka Mallick and Samhita Pungavanam won the Individual Gold medals at Asian School Online Championship organized by National Chess Federation of the Philippines at Tornelo",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mritticka-rich-medal-haul-by-indian-girls-at-asian-school-online-championship/",
+         "pubDate" : "Wed, 28 Jul 2021 11:49:27 +0000",
+         "title" : "Mritticka & Samhita clinches Gold; Rich medal haul by Indian girls at Asian School Online Championship"
+      },
+      {
          "description" : "Magnus Carlsen will play Etienne Bacrot in the FIDE World Cup quarterfinals today after surviving an incredibly tense tiebreaker against 19-year-old Andrey Esipenko, who inflicted a first loss of the event on Magnus to take their match all the way to blitz. The only other remaining Top 10 seed is Sergey Karjakin, who showed his class to knock out Maxime Vachier-Lagrave, while Jan-Krzysztof Duda defeated Alexander Grischuk. The women's semi-finals are set, with Anna Muzychuk playing top seed Aleksandra Goryachkina after winning both tiebreak games against Nana Dzagnidze.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -18,7 +66,7 @@ news_feed (
          "title" : "World Cup Highlights - Part 1"
       },
       {
-         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday in what was an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the round-five tiebre...",
+         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday in an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the round-five tiebreaks were ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-tiebreaks-carlsen-esipenko",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "Esipenko Loses to Carlsen; Becomes Everyone's Favorite Chess Player"
       },
       {
-         "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Tue, 27 Jul 2021 20:05:00 +0100",
-         "title" : "World Cup - Express report"
-      },
-      {
          "description" : "Svitlana Demchenko is back to present us her smart moves, especially after playing chess constantly in the last couple of weeks. The 17-year-old WIM left Canada, to travel to Serbia, Sochi, Moscow, and finally to Mykolayiv, Ukraine. She competed in the Serbian Open, and fought hard in the World Cup in Sochi, against a more than 300 rating points stronger opponent. Finally, she is playing a tournament in the Ukraine. Nonetheless, she made some time for a new episode, in which we take a look at her whole travel experience, her World Cup game, and play three blitz games against each other. | Photos: Svitlana Demchenko",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,7 +178,7 @@ news_feed (
          "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
       },
       {
-         "description" : "The week long Festival de Fontainebleau chess tournament which started on 18 July doesn't feature any Grandmasters or International Masters. While the Open section comprises players with under elo ratings under 2000, competitors in the three closed tournaments - each of which has eight players - have Elo ratings ranging from around 1800 to 2200. But what makes this tournament unique is its unique location and the Covid-19 related health controls that have been put in place here. | Photos: Club d'&eacute;checs de Fontainebleau-Avon",
+         "description" : "The week long Festival de Fontainebleau chess tournament which started on 18 July doesn't feature any Grandmasters or International Masters. While the Open section comprises players with ratings under 2000, competitors in the three closed tournaments - each of which has eight players - have Elo ratings ranging from around 1800 to 2200. But what makes this tournament unique is its location and the Covid-19 related health controls that have been put in place here. | Photos: Club d'&eacute;checs de Fontainebleau-Avon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-first-fontainebleau-chess-festival",
@@ -1594,14 +1634,6 @@ news_feed (
          "title" : "World Cup: Health-related issues"
       },
       {
-         "description" : "Adhiban scored a resounding victory in just 22 moves over the Cuban GM Neuris Delgado Ramirez to go 1-0 up in the second round of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/adhiban-harika-and-pragg-star/",
-         "pubDate" : "Fri, 16 Jul 2021 11:49:20 +0000",
-         "title" : "Adhiban, Harika and Pragg star"
-      },
-      {
          "description" : "Magnus Carlsen looked sharp as he got off to a winning start against birthday boy Sasa Martinovic on Thursday when the big guns joined the FIDE World Cup, but the chess was overshadowed by turmoil caused by COVID-19. Levon Aronian was forced to forfeit against Bobby Cheng, while Fabiano Caruana's game against Indonesian GM Susanto Megaranto was suddenly stopped midway when test results came back showing Susanto was infected. Fabiano got a win by default, but faces more tests himself.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1728,14 +1760,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-top-players-join-the-fights/",
          "pubDate" : "Thu, 15 Jul 2021 12:00:56 +0000",
          "title" : "FIDE WORLD CUP 2021 - Top seeds join the fights"
-      },
-      {
-         "description" : "World No.5 Levon Aronian forfeited the first game of the FIDE World Cup. Aronian should have debuted in the 2021 FIDE World Cup, starting the competition from the round 2. However, it has been decided that Levon will not come to game 1 as he had symptoms of fever. &#8220;Even though Aronian feels well now, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-forfeits-the-1st-game-at-the-fide-world-cup-tweetoftheday/",
-         "pubDate" : "Thu, 15 Jul 2021 11:53:00 +0000",
-         "title" : "Aronian forfeits the 1st game at the FIDE World Cup #TweetOftheDay"
       },
       {
          "description" : "Wednesday afternoon \"No Castling\" chess premiered at the highest level in Dortmund's Westfalenhalle. In the first game of their \"No Castling\" match Vishy Anand and Vladimir Kramnik engaged in an uncompromising fight in which Anand eventually had the better of it. In the Deutschland Grand Prix Dmitrij Kollars and Pavel Eljanov share the lead with 2.5/3 each, but the big news of the day was the torrential rain that currently is causing havoc in large parts of Germany and also affected the players in the Westfalenhalle.",
@@ -2170,14 +2194,6 @@ news_feed (
          "title" : "Bachar Kouatly appointed as Reverse Delegate for Morocco"
       },
       {
-         "description" : " Nigel posted an interesting thought on social media the other day. &#8220;I sense that a chess &#8216;kulturkampf' is brewing with digital Bongcloudistas vs cantankerous traditionalists. Battle lines are currently being drawn with just an occasional skirmish at present&#8221; In my new career as a chess book reviewer in another place, it's very noticeable that there's <a href=\"https://chessimprover.com/culture-wars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Culture Wars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/culture-wars/\">Culture Wars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/culture-wars/",
-         "pubDate" : "Sun, 11 Jul 2021 09:00:01 +0000",
-         "title" : "Culture Wars"
-      },
-      {
          "description" : "Anand took down Kasparov in 30 moves in a Sicillian Najdorf variation game in the fourth round of the Blitz event.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2408,22 +2424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-hearty-chess-gesture-from-the-czech-republic-to-the-indian-state-of-kerala",
          "pubDate" : "Wed, 07 Jul 2021 22:20:00 +0100",
          "title" : "A hearty chess gesture from the Czech Republic to the Indian state of Kerala"
-      },
-      {
-         "description" : "A very strong open is currently being held in Belgrade. Over 280 players are taking part in the Masters event, including over 30 grandmasters. One of the favourites to win the tournament is Nihal Sarin, who travelled from the Silver Lake Open to Belgrade with a group of Indian players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kovalenko-and-nihal-lead-serbia-open",
-         "pubDate" : "Wed, 07 Jul 2021 17:20:00 +0100",
-         "title" : "Serbia Open: Kovalenko and Nihal in the lead"
-      },
-      {
-         "description" : " Everybody wants to be in good form at a tournament. But just by wanting something you don't automatically get it. To be in good form at a tournament, you need good preparation before the tournament. By failing to prepare, you are preparing to fail Benjamin Franklin Sadly most Chess Players leave it to luck or [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/tournament-preparation/\">Grandmaster Tournament Preparation How To Be In Good Form</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/tournament-preparation/",
-         "pubDate" : "Wed, 07 Jul 2021 11:34:00 +0000",
-         "title" : "Grandmaster Tournament Preparation - How To Be In Good Form"
       }
    ]
 }
