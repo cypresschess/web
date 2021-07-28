@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave gets whooped. 2021.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-asP_ZuELmE.jpg?itok=--FJXcyq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 28 Jul 2021 23:00:41 +0000",
+         "title" : "Don't Chase Pawns! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "Magnus Carlsen and Sam Shankland made a big step towards reaching the semifinals of the 2021 FIDE World Cup in Sochi, as they kicked off their matches against Etienne Bacrot and Sergey Karjakin with victories. While Carlsen displayed excellent dynamic feel for the position to win with the black pieces, it was Shankland's endgame technique which allowed him to make the most of an unlikely blunder by his opponent. | Expert analysis by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d1",
+         "pubDate" : "Wed, 28 Jul 2021 22:35:00 +0100",
+         "title" : "World Cup: Carlsen and Shankland strike"
+      },
+      {
+         "description" : "World no. 5 and Goldmoney Asian Rapid winner Levon Aronian is now the top seed for the Chessable Masters, the 8th event on the $1.6 million Meltwater Champions Chess Tour. Levon is joined by the runner-up in the previous event, Vladislav Artemiev, and Indian star Harikrishna, who complete the 16-player line-up for the tournament starting Saturday July 31st at 17:00 CEST. The pairings are also now out, including Firouzja-So in Round 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/levon-aronian-tops-chessable-masters-field",
+         "pubDate" : "Wed, 28 Jul 2021 21:34:45 +0000",
+         "title" : "Levon Aronian tops Chessable Masters field"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1233",
+         "pubDate" : "Wed, 28 Jul 2021 19:49:04 +0000",
+         "title" : "Round 06 Game 01: One foot in the semi-finals for Carlsen"
+      },
+      {
          "description" : "For the third time in four weeks, GM Hikaru Nakamura has taken first place in Titled Tuesday. His 9.5 points out of 11 were enough to finish ahead of GM Giga Quparadze on tiebreaks. GM Raunak Sadhwani and GM Aleksey Sarana rounded out the top four...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -50,14 +82,6 @@ news_feed (
          "title" : "FIDE WORLD CUP 2021 - Start of the Quarterfinals"
       },
       {
-         "description" : "While the semifinalists in the women's section get a rest day, the quarterfinals of the open kick off in Sochi. Magnus Carlsen starts with black against Etienne Bacrot. The remaining pairings: Vidit vs Jan-Krzysztof Duda (pictured), Amin Tabatabaei vs Vladimir Fedoseev and Sam Shankland vs Sergey Karjakin. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Wed, 28 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
-      },
-      {
          "description" : "The first round of the Grandmaster Tournament Biel brought three decisions and one draw. Round 2 also promises exciting chess: Kirill Alekseenko plays against Vincent Keymer, Noel Studer faces Alan Pichot, Nihal Sarin fights against Boris Gelfand and Gata Kamsky agaist Maxime Lagarde. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "World Cup Highlights - Part 1"
       },
       {
-         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday in an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the round-five tiebreaks were ...",
+         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday from the FIDE World Cup in an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-tiebreaks-carlsen-esipenko",
@@ -167,7 +191,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1232",
          "pubDate" : "Tue, 27 Jul 2021 21:20:12 +0000",
-         "title" : "Rond 05 tiebreaks: A close scrape for Carlsen"
+         "title" : "Round 05 tiebreaks: A close scrape for Carlsen"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess endgame class. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xy55Jnmmy8I.jpg?itok=2Etu6LcM\" alt=\"\" /></a></div>",
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
          "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
          "title" : "FIDE WORLD CUP R5- Calm before the storm"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-playoff-lichessorg",
-         "pubDate" : "Mon, 26 Jul 2021 10:57:57 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Playoff | lichess.org"
       },
       {
          "description" : "Delhi youngster Vantika Agrawal crowned as Online National Women Champion after scoring 9.5 points of out possible in the National Online Championship concluded on Saturday.",
@@ -1674,14 +1690,6 @@ news_feed (
          "title" : "World Cup: Health-related issues"
       },
       {
-         "description" : "Magnus Carlsen looked sharp as he got off to a winning start against birthday boy Sasa Martinovic on Thursday when the big guns joined the FIDE World Cup, but the chess was overshadowed by turmoil caused by COVID-19. Levon Aronian was forced to forfeit against Bobby Cheng, while Fabiano Caruana's game against Indonesian GM Susanto Megaranto was suddenly stopped midway when test results came back showing Susanto was infected. Fabiano got a win by default, but faces more tests himself.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-1-aronian-forfeits-caruana-in-doubt",
-         "pubDate" : "Fri, 16 Jul 2021 09:41:53 +0000",
-         "title" : "FIDE World Cup 2.1: Aronian forfeits, Caruana in doubt"
-      },
-      {
          "description" : "After five rounds Pavel Eljanov leads the Deutschland Grand Prix in Dortmund with 4.0/5. On Thursday he won his morning game against Mateusz Bartel and in the afternoon he drew against Daniel Fridman. Vincent Keymer won a fine endgame against Gata Kamsky and Vishy Anand and Vladimir Kramnik drew the second game of their \"No Castling\" match. Chess legend Artur Jussupov made the ceremonial first move. | Photo: Christian L&uuml;nig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1194",
          "pubDate" : "Wed, 07 Jul 2021 23:32:15 +0000",
          "title" : "Nornickel becomes FIDE's youth and children global chess development partner"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1193",
-         "pubDate" : "Wed, 07 Jul 2021 21:42:30 +0000",
-         "title" : "Asian Chess Championship for Players with Disabilities starts on Tornelo"
       }
    ]
 }
