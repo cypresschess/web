@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Of (possible) interest to U.S. chess fans: three restricted or sub-championship events were recently contested and completed in St. Louis (where else?): the U.S. Junior, the U.S. Senior, and the U.S. Girls' Junior Championships. The winners were GM Hans Niemann, GM Gregory Kaidanov (after a playoff against GM Larry Christiansen), and IM Annie Wang, respectively. More info via <a href=\"https://www.uschesschamps.com/\">this page</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/29/us-undercard-champions-niemann-kaidanov-and-wang.html",
+         "pubDate" : "Thu, 29 Jul 2021 20:06:50 +0000",
+         "title" : "U.S. \"Undercard\" Champions: Niemann, Kaidanov, and Wang"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess class on a topic of his choice. 2021.07.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iItvLDvZkqc.jpg?itok=Pz_Gx7lH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Thu, 29 Jul 2021 20:01:33 +0000",
+         "title" : "Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski analyzes important games from the ongoing 2021 Chess World Cup. 2021.07.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-games-week-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5d8OIACng4w.jpg?itok=BnTNpSEP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-games-week-gm-robert-hungaski",
+         "pubDate" : "Thu, 29 Jul 2021 20:01:33 +0000",
+         "title" : "2021 World Cup | Games of the Week - GM Robert Hungaski"
+      },
+      {
+         "description" : " <h2>Polish Grandmaster Jan-Krzysztof Duda knocked out the last Indian chess player out of the FIDE World Cup.</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51343164326_913ca8c0d1_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Eric Rosen/FIDE</div> </div> Duda managed to dominate in the game and ended up playing an edgy, but definitely comfortable endgame with a knight for three pawns, which granted him a spot to the Semifinals against Magnus Calrsen. His win makes him the first Polish player in chess history to reach the semifinals of a FIDE World Cup and fans are already debating on his chances against the World Cha",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/india-is-out-of-the-world-cup-after-vidits-loss/",
+         "pubDate" : "Thu, 29 Jul 2021 19:40:55 +0000",
+         "title" : "India is out of the World Cup after Vidit's Loss"
+      },
+      {
+         "description" : " Does anyone know what's happening with the TCEC Superfinal? For about the 85th time in 21 seasons, the final match is between a version of Stockfish and a version of Leela Chess Zero, and as usual Stockfish is ahead - 25.5-22.5 right now, with <a href=\"https://chess24.com/en/watch/live-tournaments/tcec-season-21-superfinal-2021/1/1/49\">game 49</a> underway and...frozen. According to <a href=\"https://en.wikipedia.org/wiki/TCEC_Season_21\">Wikipedia</a> (see the third paragraph on the Superfinal), a typhoon struck the coast of Shanghai during game 29, affecting the CPU[s?] and crashing the system. Maybe something like this has happened again? At any rate, it's good to see that the free, open-s",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/7/29/tcec-season-21-superfinal-underway-but-stuck.html",
+         "pubDate" : "Thu, 29 Jul 2021 19:39:19 +0000",
+         "title" : "TCEC Season 21 Superfinal Underway, but Stuck?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1235",
+         "pubDate" : "Thu, 29 Jul 2021 19:17:01 +0000",
+         "title" : "World Cup semis: Carlsen vs Duda"
+      },
+      {
          "description" : " World Chess and <a href=\"https://www.algorand.com/\">Algorand</a>, a Boston-based blockchain company founded by Turing award winner Silvio Micali, will produce a <a href=\"https://shop.worldchess.com/algorand-limited-edition-set\">limited edition</a> of the official World Chess Championship sets. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/249341BD-250F-4807-9B14-6CF240D540A7.gif\" width=\"1400\" height=\"864\" alt=\"\" /> </div> The sets with the same design will be exclusively used in the FIDE World Championship Match that takes place in <a href=\"https://fide.com/calendar/51207\">Dubai</a> in November of 2021. Each limited edition World Chess Championship set has a c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -544,22 +592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-6",
          "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-7",
-         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-8",
-         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84766596.cms\" />India No.3 Vidit Gujrathi defeated Vasif Durarbayli 1.5-0.5 to reach the quarterfinals of the FIDE chess World Cup on Monday. The 26-year old Grandmaster came up with an impressive display to tame his lower-rated Azerbaijan opponent, winning in 38 moves in his fifth round encounter.",
@@ -1866,14 +1898,6 @@ news_feed (
          "title" : "When is a grandmaster's title less than grand?"
       },
       {
-         "description" : " The match between Viswanathan Anand and Vladimir Kramnik is at the halfway point, and Anand won a very entertaining <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/1\">game 1</a> with White and comfortably held <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/2\">game 2</a> with Black. (Note that 39...Ke5?? was not actually played; it was a DGT \"move\" executed to indicate the drawn result.) ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/15/anand-leads-15-5-in-no-castling-match.html",
-         "pubDate" : "Thu, 15 Jul 2021 17:37:27 +0000",
-         "title" : "Anand Leads 1.5-.5 in No-Castling Match"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,14 +2048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d2",
          "pubDate" : "Wed, 14 Jul 2021 14:20:00 +0100",
          "title" : "World Cup: Twelve players bounce back"
-      },
-      {
-         "description" : " The <a href=\"https://www.nytimes.com/2021/07/09/world/europe/yury-dokhoian-dead.html\">sad news</a> is a couple of weeks old, and some of you may have heard about it during the recent rapid &amp; blitz event in Zagreb, Croatia. Grandmaster Yury Dokhoian, for many years Garry Kasparov's primary second and later the trainer of Sergey Karjakin, passed away July 1 at the relatively young age of 56 due to COVID-19. He was a strong GM in his youth, though not of the super-elite level, but found his niche when he started working with Kasparov. He was strong enough to be helpful, and had must have had great strength as a person to be able to push against a personality as powerful of Kasparov's. Whil",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/14/yury-dokhoian-1964-2021.html",
-         "pubDate" : "Wed, 14 Jul 2021 05:03:54 +0000",
-         "title" : "Yury Dokhoian, 1964-2021"
       },
       {
          "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
@@ -2456,14 +2472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1195",
          "pubDate" : "Fri, 09 Jul 2021 07:00:18 +0000",
          "title" : "Nepomniachtchi keeps the lead"
-      },
-      {
-         "description" : "After beating former co-leader Igor Kovalenko in round 8, Nihal Sarin only needed a draw in the last round to win the Serbia Open in Belgrade. The 16-year-old Indian prodigy scored 7&frac12;/9 points. A group of 9 players finished a half point behind. | Pictured: Vladimir Fedoseev (3rd), Nihal Sarin (1st) and Manuel Petrosyan (2nd) | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nihal-sarin-wins-the-serbia-open",
-         "pubDate" : "Thu, 08 Jul 2021 23:05:00 +0100",
-         "title" : "Nihal Sarin wins the Serbia Chess Open"
       }
    ]
 }
