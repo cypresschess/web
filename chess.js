@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World Chess and <a href=\"https://www.algorand.com/\">Algorand</a>, a Boston-based blockchain company founded by Turing award winner Silvio Micali, will produce a <a href=\"https://shop.worldchess.com/algorand-limited-edition-set\">limited edition</a> of the official World Chess Championship sets. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/249341BD-250F-4807-9B14-6CF240D540A7.gif\" width=\"1400\" height=\"864\" alt=\"\" /> </div> The sets with the same design will be exclusively used in the FIDE World Championship Match that takes place in <a href=\"https://fide.com/calendar/51207\">Dubai</a> in November of 2021. Each limited edition World Chess Championship set has a c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-official-world-chess-championship-sets-to-be-certified-as-nf/",
+         "pubDate" : "Thu, 29 Jul 2021 18:23:18 +0000",
+         "title" : "The Official World Chess Championship Sets to be Certified as NFT on Algorand"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84868280.cms\" />Young Indian Grandmaster Nihal Sarin played out a draw with Argentina's Alan Pichot in the third round of the classical section of the Biel International Chess Festival on Thursday. Sarin's 42-move draw against the Argentine player took him to 13 points after three rounds of classical and the rapid event in which he finished second.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2456,14 +2464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nihal-sarin-wins-the-serbia-open",
          "pubDate" : "Thu, 08 Jul 2021 23:05:00 +0100",
          "title" : "Nihal Sarin wins the Serbia Chess Open"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a fascinating game from the Croatia Grand Chess Tour. He delves into the intricacies of a trendy line of the Sicilian Taimanov (with an early 7.g4), discussing the thematic attacking ideas for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-taimanov-7-g4",
-         "pubDate" : "Thu, 08 Jul 2021 20:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Sicilian Taimanov (6.Be3 a6 7.g4)"
       }
    ]
 }
