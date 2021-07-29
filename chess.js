@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All four games of the Grandmaster Tournament in Biel ended with a draw, but Noel Studer and Alan Pichot played for almost eight hours and made 138 moves before they agreed to share the point. The young German Grandmaster Vincent Keymer had no easy task against Kirill Alekseenko, but solved it. In the Open, Salem Saleh and Surya Ganguly share the lead with 3.0/3 each. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-four-draws-long-games-lots-of-fight",
+         "pubDate" : "Thu, 29 Jul 2021 12:29:37 +0100",
+         "title" : "Biel, Round 2: Four draws, long games, lots of fight"
+      },
+      {
+         "description" : "Magnus Carlsen needs only a draw with the white pieces to reach the World Cup semi-finals after his queen sacrifice proved too tough for Etienne Bacrot in the run-up to the time control. Sergey Karjakin also stumbled just before move 40, allowing Sam Shankland to demonstrate his endgame prowess and pick up one of the biggest wins of his career. The other two games were drawn, with Vidit himself describing Vidit-Duda as \"a boring Catalan\", while Tabatabaei-Fedoseev looked set to be the game of the day before fizzling out on move 31.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-1-carlsen-and-shankland-take-the-lead",
+         "pubDate" : "Thu, 29 Jul 2021 11:19:59 +0000",
+         "title" : "FIDE World Cup 6.1: Carlsen & Shankland take lead"
+      },
+      {
+         "description" : "The International Koltanowski Conference on Chess in Education is being held July 29 - 30, 2021 at the Crowne Plaza Philadelphia Cherry Hill. Audience will attend in person and online. The Conference will be streamed and available for later viewing. With panelists and speakers active in their specialties, the conference emphasizes praxis. | Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-education-3rd-international-koltanowski-conference",
+         "pubDate" : "Thu, 29 Jul 2021 10:00:00 +0100",
+         "title" : "Chess in Education: 3rd International Koltanowski Conference"
+      },
+      {
+         "description" : "Using a positional queen sacrifice, an inspired GM Magnus Carlsen started his FIDE World Cup quarterfinal with a win against GM Etienne Bacrot. GM Sam Shankland might eliminate another former World Cup winner as the American GM defeated GM Sergey ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-6-day-1-carlsen-shankland",
+         "pubDate" : "Thu, 29 Jul 2021 01:24:00 -0700",
+         "title" : "FIDE World Cup R6.1: Carlsen, Shankland Strike"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave gets whooped. 2021.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-asP_ZuELmE.jpg?itok=--FJXcyq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 29 Jul 2021 08:01:07 +0000",
+         "title" : "Don't Chase Pawns! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Vidit drew the first game of his Quarterfinal matchup against Polish No:1, and World No:18 Jan-Krzysztof Duda with the White pieces. Vidit couldn't get much",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-start-of-the-quarterfinals/",
          "pubDate" : "Wed, 28 Jul 2021 13:41:58 +0000",
          "title" : "FIDE WORLD CUP 2021 - Start of the Quarterfinals"
-      },
-      {
-         "description" : "The first round of the Grandmaster Tournament Biel brought three decisions and one draw. Round 2 also promises exciting chess: Kirill Alekseenko plays against Vincent Keymer, Noel Studer faces Alan Pichot, Nihal Sarin fights against Boris Gelfand and Gata Kamsky agaist Maxime Lagarde. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Wed, 28 Jul 2021 13:50:00 +0100",
-         "title" : "Biel: Round 2 live!"
       },
       {
          "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Photo: Eric Rosen",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-8",
          "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-9",
-         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84766596.cms\" />India No.3 Vidit Gujrathi defeated Vasif Durarbayli 1.5-0.5 to reach the quarterfinals of the FIDE chess World Cup on Monday. The 26-year old Grandmaster came up with an impressive display to tame his lower-rated Azerbaijan opponent, winning in 38 moves in his fifth round encounter.",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black"
       },
       {
-         "description" : "Netflix hit series 'The Queen's Gambit' smashed records last fall and sparked a global boost for chess not seen since Bobby Fischer faced Boris Spassky in the 1972 World Championship match. This week the widely acclaimed drama series was nominated for 18 Emmy awards, including one for the star herself, Anya \"Beth Harmon\" Taylor-Joy.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-queen-s-gambit-wins-18-emmy-nominations",
-         "pubDate" : "Fri, 16 Jul 2021 21:02:13 +0000",
-         "title" : "The Queen's Gambit wins 18 Emmy nominations"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,14 +1912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1208",
          "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won Titled Tuesday for the second consecutive week, scoring 9.5/11 and finishing ahead of GM Giga Quparadze on tiebreakers. There was a tie for third as both GM Sergei Zhigalko and GM Tamir Nabaty finished with 9/11 and the same...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-july-13-titled-tuesday",
-         "pubDate" : "Wed, 14 Jul 2021 10:49:01 -0700",
-         "title" : "Nakamura Wins July 13 Titled Tuesday"
       },
       {
          "description" : " Covering &#8216;X' was always going to be a challenge so I cheated with some spellings. Several different Exchange Variations are possible, for example in the French (1.e4 e6 2.d4 d5 3.exd5) and Slav (1.d4 d5 2.c4 c6 3.cxd5) Defences. The one I have in mind is the Exchange Variation of the Ruy Lopez with 1.e4 <a href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"X-terminate 'em with the X-change Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\">X-terminate 'em with the X-change Variation</a> appeared first on <a rel=\"nofol",
