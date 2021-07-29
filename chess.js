@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 'Does every chess opening have a name?\" asked one of my students recently. \"I'm pretty sure they do, and if they don't, feel free to make one up\" I replied, semi-seriously. Now I have no idea if there is such a thing as the Anti-anti Marshall line, or if the following game qualifies, but after Bacrot chose an Anti-Marshall line against Carlsen, Carlsen sacrificed his e pawn any way. He also sacrificed a few other things after that, and now is 1-0 up in quater finals of the World Cup. <br /> <br /> <b>Bacrot Etienne (FRA) (2678) - Carlsen Magnus (NOR) (2847) [C88]</b><br />World Cup 2021 Sochi (41.1), 28.07.2021 <script>new PgnViewer( { boardName: \"game1261\", movesFormat: \"default\", pgnStrin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/the-anti-anti-marshall.html",
+         "pubDate" : "Thu, 29 Jul 2021 13:34:00 +0000",
+         "title" : "The Anti-Anti Marshall"
+      },
+      {
+         "description" : "Etienne Bacrot and Sergey Karjakin (pictured) need to win their rematches against Magnus Carlsen and Sam Shankland to remain in contention at the FIDE World Cup in Sochi, as they lost their first quarterfinal encounters on Wednesday. Meanwhile, after a rest day, the women's tournament resumes with the semifinals. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Thu, 29 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "In round 3 of the Grandmaster Tournament at the Biel Chess Festival Boris Gelfand plays Vincent Keymer, Kirill Alekseenko faces Gata Kamsky while Maxime Lagarde plays Noel Studer and Alan Pichot Nihal Sarin. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Thu, 29 Jul 2021 13:50:00 +0100",
+         "title" : "Biel: Round 3 live!"
+      },
+      {
+         "description" : "Following a series of arbiter courses and examinations through April, May, June and July 2021, the following have been admitted to the latest Arbiter list,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-arbiters/",
+         "pubDate" : "Thu, 29 Jul 2021 12:05:59 +0000",
+         "title" : "New Arbiters"
+      },
+      {
          "description" : "All four games of the Grandmaster Tournament in Biel ended with a draw, but Noel Studer and Alan Pichot played for almost eight hours and made 138 moves before they agreed to share the point. The young German Grandmaster Vincent Keymer had no easy task against Kirill Alekseenko, but solved it. In the Open, Salem Saleh and Surya Ganguly share the lead with 3.0/3 each. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,10 +490,10 @@ news_feed (
          "title" : "\"Chess teaches you so much!\": An interview with IM Sabrina Vega"
       },
       {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS &frac12;-&frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS &frac12;-&frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>.",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/",
          "pubDate" : "Mon, 26 Jul 2021 16:59:40 +0000",
          "title" : "2021 FIDE World Cup: Round #5"
       },
@@ -2424,22 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pia-cramling-leads-the-swedish-championship",
          "pubDate" : "Thu, 08 Jul 2021 15:30:00 +0100",
          "title" : "Pia Cramling leads the Swedish Championship"
-      },
-      {
-         "description" : "This week, Merijn van Delft analyses a game from the finals of the Goldmoney Asian Rapid tournament. Levon Aronian showcased excellent strategic understanding and a keen tactical eye to score a great victory over Vladislav Artemiev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-l-aronian",
-         "pubDate" : "Thu, 08 Jul 2021 15:20:00 +0100",
-         "title" : "Game of the Week: L. Aronian vs V. Artemiev"
-      },
-      {
-         "description" : " The ACT Chess Association is holding the ACT Winter Open on the 23rd (Friday), 24th and 25th of July this year. This event is in place of the ANU Open, which is unable to be held at the ANU this year. Instead it will be held at Campbell High School, which is where the ACT Junior Chess League run their events. With the Covid situation still be in flux (especially in Sydney), the event is being restricted to 64 players (across the Open and Minor tournaments), and obviously will only be open to players who are allowed to enter the ACT. If this changes (eg restrictions are eased or lifted) the numbers for this event may be increased. The full details are <p dir=\"ltr\" style=\"background-color: wh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-23-25-july-2021.html",
-         "pubDate" : "Thu, 08 Jul 2021 12:38:00 +0000",
-         "title" : "2021 ACT Winter Open - 23-25 July 2021"
       }
    ]
 }
