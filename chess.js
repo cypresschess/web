@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vidit drew the first game of his Quarterfinal matchup against Polish No:1, and World No:18 Jan-Krzysztof Duda with the White pieces. Vidit couldn't get much",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-quarter-final-vidit-and-duda-first-match-end-in-deadlock/",
+         "pubDate" : "Thu, 29 Jul 2021 06:31:19 +0000",
+         "title" : "World Cup Quarter Final - Vidit and Duda first match end in deadlock"
+      },
+      {
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 3 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 5 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 7 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
+         "pubDate" : "Thu, 29 Jul 2021 04:53:40 +0000",
+         "title" : "2021 FIDE World Cup: Round #6"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave gets whooped. 2021.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-asP_ZuELmE.jpg?itok=--FJXcyq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d3",
          "pubDate" : "Wed, 28 Jul 2021 13:45:00 +0100",
          "title" : "World Cup: Carlsen's close call"
+      },
+      {
+         "description" : " The pairings of the next round are out. You have around 18 hours to prepare against your now-known opponent. What do you do at this time? And what would a Grandmaster do in this time? That is what I am going to answer in this article. The short version is: Gather information on the opponent [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/\">How To Prepare Against An Opponent In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/",
+         "pubDate" : "Wed, 28 Jul 2021 12:00:00 +0000",
+         "title" : "How To Prepare Against An Opponent In Chess"
       },
       {
          "description" : "Mritticka Mallick and Samhita Pungavanam won the Individual Gold medals at Asian School Online Championship organized by National Chess Federation of the Philippines at Tornelo",
@@ -346,6 +370,14 @@ news_feed (
          "title" : "2021 U.S. Junior & U.S. Senior Championships: Playoff"
       },
       {
+         "description" : " From the publisher: &#8220;Goethe once wrote, &#8220;Everything is both simpler than we can imagine, and more complicated than we can conceive.&#8221; He could well have had chess endgames in mind. Endgames have fewer pieces on the board than middlegames but this does not necessarily make them &#8220;easier&#8221; to play or understand. Tactical expertise is, understandably, <a href=\"http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tactical Training In The Endgame</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/27/tactical-trainin",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/",
+         "pubDate" : "Tue, 27 Jul 2021 00:10:40 +0000",
+         "title" : "Tactical Training In The Endgame"
+      },
+      {
          "description" : "It&#39;s back!&#38;nbsp;PogChamps 4 presented by Coinbase begins on August 29, 2021. The latest edition of the breakout series returns for what will surely be the biggest, best, and brightest PogChamps yet! $100,000 is up for grabs in the prize fund and C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -394,7 +426,7 @@ news_feed (
          "title" : "\"Chess teaches you so much!\": An interview with IM Sabrina Vega"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS &frac12;-&frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-world-cup-round-5/",
@@ -1504,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-no-castling-chess-anand-kramnik-game-3",
          "pubDate" : "Sun, 18 Jul 2021 09:35:00 +0100",
          "title" : "No Castling Chess: Anand misses his chance"
-      },
-      {
-         "description" : "The Senior National Online Chess Championship, Senior National Women Online Chess Championship, National Junior Open Online Chess Championship and National Junior Girls Online Chess Championship",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-senior-women-junior-open-junior-girls-online-chess-championships-2021/",
-         "pubDate" : "Sun, 18 Jul 2021 07:59:00 +0000",
-         "title" : "NATIONAL SENIOR, WOMEN, JUNIOR OPEN & JUNIOR GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84517420.cms\" />Former world chess champion Viswanathan Anand was held to a draw by a fighting Vladimir Kramnik in the third game of their four-game No-Castling match for the Sparkassen Chess Trophy here.",
