@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at Sam Shankland's spectacular victory against Peter Svidler at the World Cup. After 1.d4 Nf6 2.c4 g6 Shankland played 3.h4!?, a move that discourages Black from playing the Grunfeld. Svidler tried a King's Indian setup instead but without much success. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fighting-the-king-s-indian-with-3-h4",
+         "pubDate" : "Thu, 29 Jul 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Fighting the King's Indian with 3.h4!?"
+      },
+      {
          "description" : " 'Does every chess opening have a name?\" asked one of my students recently. \"I'm pretty sure they do, and if they don't, feel free to make one up\" I replied, semi-seriously. Now I have no idea if there is such a thing as the Anti-anti Marshall line, or if the following game qualifies, but after Bacrot chose an Anti-Marshall line against Carlsen, Carlsen sacrificed his e pawn any way. He also sacrificed a few other things after that, and now is 1-0 up in quater finals of the World Cup. <br /> <br /> <b>Bacrot Etienne (FRA) (2678) - Carlsen Magnus (NOR) (2847) [C88]</b><br />World Cup 2021 Sochi (41.1), 28.07.2021 <script>new PgnViewer( { boardName: \"game1261\", movesFormat: \"default\", pgnStrin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2448,14 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-taimanov-7-g4",
          "pubDate" : "Thu, 08 Jul 2021 20:30:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Sicilian Taimanov (6.Be3 a6 7.g4)"
-      },
-      {
-         "description" : "For more than 40 years, Pia Cramling has regularly played in the Swedish Championships, but has never been able to win the title. In April, the best woman player in the country celebrated her 58th birthday. There is no sign of age fatigue. Cramling obtained an impressive win in round 4 and is now the sole leader in Helsingborg. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pia-cramling-leads-the-swedish-championship",
-         "pubDate" : "Thu, 08 Jul 2021 15:30:00 +0100",
-         "title" : "Pia Cramling leads the Swedish Championship"
       }
    ]
 }
