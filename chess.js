@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84868280.cms\" />Young Indian Grandmaster Nihal Sarin played out a draw with Argentina's Alan Pichot in the third round of the classical section of the Biel International Chess Festival on Thursday. Sarin's 42-move draw against the Argentine player took him to 13 points after three rounds of classical and the rapid event in which he finished second.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-alan-pichot-settle-for-a-draw/articleshow/84868280.cms",
+         "pubDate" : "Thu, 29 Jul 2021 22:39:12 +0530",
+         "title" : "Biel Chess festival: Nihal Sarin, Alan Pichot settle for a draw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84867544.cms\" /> The Indian challenge in the FIDE chess World Cup ended on Thursday when Grandmaster Vidit Santosh Gujrathi lost the second game of the men's quarterfinals to Jan-Krzystof Duda. The 26-year old India No.3 faltered against his Polish opponent in a 50-move encounter after having drawn the first game of the two-game mini-match on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-loses-to-duda-indian-challenge-ends/articleshow/84867544.cms",
+         "pubDate" : "Thu, 29 Jul 2021 22:27:34 +0530",
+         "title" : "Chess World Cup: Vidit Gujrathi loses to Duda, Indian challenge ends"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1234",
+         "pubDate" : "Thu, 29 Jul 2021 16:09:00 +0000",
+         "title" : "FIDE Online Olympiad 2021: Registration deadline approaching"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at Sam Shankland's spectacular victory against Peter Svidler at the World Cup. After 1.d4 Nf6 2.c4 g6 Shankland played 3.h4!?, a move that discourages Black from playing the Grunfeld. Svidler tried a King's Indian setup instead but without much success. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +114,7 @@ news_feed (
          "title" : "World Cup Quarter Final - Vidit and Duda first match end in deadlock"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 3 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 5 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 7 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Anand Leads 1.5-.5 in No-Castling Match"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84450931.cms\" />Indian Grandmasters R Praggnanandhaa and B Adhiban registered wins in the first game of the two-game mini match in the second round of the FIDE chess World Cup here on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-adhiban-win-harikrishna-sarin-held-to-draws/articleshow/84450931.cms",
-         "pubDate" : "Thu, 15 Jul 2021 22:46:59 +0530",
-         "title" : "Chess World Cup: Praggnanandhaa, Adhiban win; Harikrishna, Sarin held to draws"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1928,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1209",
          "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
          "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84434304.cms\" />Former world champion Viswanathan Anand defeated Russian Grandmaster Vladimir Kramnik in the first game of their four-game match for the Sparkassen Trophy here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-defeats-vladimir-kramnik-in-no-castling-chess/articleshow/84434304.cms",
-         "pubDate" : "Thu, 15 Jul 2021 12:34:57 +0530",
-         "title" : "Viswanathan Anand defeats Vladimir Kramnik in No-Castling Chess"
       },
       {
          "description" : "Netflix&#39;s 2020 megahit miniseries The Queen&#39;s Gambit has garnered 18 Emmy nominations, including best Limited Series and best Lead Actress in a Limited Series or Movie for Anya Taylor-Joy&#39;s widely acclaimed performance as Beth Harmon. Thomas Brodi...",
