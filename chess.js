@@ -2408,22 +2408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-23-25-july-2021.html",
          "pubDate" : "Thu, 08 Jul 2021 12:38:00 +0000",
          "title" : "2021 ACT Winter Open - 23-25 July 2021"
-      },
-      {
-         "description" : "Two wins and a draw gave Ian Nepomniachtchi a commanding lead after day 1 at the Croatian leg of the Grand Chess Tour. Not only was the World Championship challenger the only player to end the day with a plus score, but he also showed excellent form in the first three games of the rapid section. Plenty of exciting chess was seen in Zagreb, with living legend Viswanathan Anand showing that he still has what it takes to fight on an equal footing with the world's elite. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-1",
-         "pubDate" : "Thu, 08 Jul 2021 01:40:00 +0100",
-         "title" : "GCT Croatia: Nepo starts strong"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1194",
-         "pubDate" : "Wed, 07 Jul 2021 23:32:15 +0000",
-         "title" : "Nornickel becomes FIDE's youth and children global chess development partner"
       }
    ]
 }
