@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave got whooped at Tata Steel 2021 against Nils Grandelius. 2021.07.28<br /> Nils Grandelius vs Maxime Vachier-Lagrave, Tata Steel Masters (2021): B97 Sicilian, Najdorf, Poisoned pawn variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020828\">https://www.chessgames.com/perl/chessgame?gid=2020828</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-mvl-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-mvl-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 29 Jul 2021 23:01:27 +0000",
+         "title" : "Don't Chase Pawns, MVL! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : " Of (possible) interest to U.S. chess fans: three restricted or sub-championship events were recently contested and completed in St. Louis (where else?): the U.S. Junior, the U.S. Senior, and the U.S. Girls' Junior Championships. The winners were GM Hans Niemann, GM Gregory Kaidanov (after a playoff against GM Larry Christiansen), and IM Annie Wang, respectively. More info via <a href=\"https://www.uschesschamps.com/\">this page</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/",
          "pubDate" : "Mon, 26 Jul 2021 16:59:40 +0000",
          "title" : "2021 FIDE World Cup: Round #5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-round-6",
-         "pubDate" : "Mon, 26 Jul 2021 16:58:40 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Round 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84766596.cms\" />India No.3 Vidit Gujrathi defeated Vasif Durarbayli 1.5-0.5 to reach the quarterfinals of the FIDE chess World Cup on Monday. The 26-year old Grandmaster came up with an impressive display to tame his lower-rated Azerbaijan opponent, winning in 38 moves in his fifth round encounter.",
