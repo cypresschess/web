@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Fri, 30 Jul 2021 19:55:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at games from the World Cup, including a a decent answer to the London System, and offers tactics and endgames. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-world-cup-endgames-and-tactics",
+         "pubDate" : "Fri, 30 Jul 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: World Cup action and an answer to the London System"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84898941.cms\" /> Indian Grandmaster Nihal Sarin played out a draw against Switzerland's Noel Studer in the fourth round of the classical section of the Biel International Chess Festival on Friday. The 17-year-old Sarin and Studer signed peace in 36 moves in an Austrian defence opening game.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-draws-with-noel-studer/articleshow/84898941.cms",
+         "pubDate" : "Fri, 30 Jul 2021 21:54:43 +0530",
+         "title" : "Biel Chess festival: Nihal Sarin draws with Noel Studer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1236",
+         "pubDate" : "Fri, 30 Jul 2021 16:09:33 +0000",
+         "title" : "Istvan Csom (1940-2021)"
+      },
+      {
          "description" : "Alongside the U.S. Open are five tournaments of state chess champions, for different age and grade categories. Each state affiliate may nominate one player for each tournament. Participants in the five tournaments compete together in blitz. Woman International Master Alexey Root previews the state champions tournaments from a Texas perspective. | Photos: Niki Riga / Texas Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +42,12 @@ news_feed (
          "title" : "Texas Chess Champions at National Invitationals"
       },
       {
-         "description" : " <h3>July 30, 2021, New York - World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise.</h3> The shop will open at Showfields in New York City on August 24, with online sales set to kick off on 3 August. <b>The most exciting chess shop in the ",
+         "description" : " <p class=\"lead\">World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise. The shop will open at Showfields in New York City on August 24, with online sales set to kick off on 3 August. <b>The most exciting chess shop in the world </b> The Worl",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-most-exciting-chess-shop-in-the-world-to-open-in-new-york-to/",
          "pubDate" : "Fri, 30 Jul 2021 13:17:27 +0000",
          "title" : "The Most Exciting Chess Shop in the World to Open in New York To Celebrate the FIDE World Championship Match"
-      },
-      {
-         "description" : "The quarterfinal match between Sergey Karjakin and Sam Shankland (pictured) is being decided in rapid and blitz tiebreakers. The winner will face Vladimir Fedoseev in the semifinals starting Sunday. Meanwhile, the semifinalists in the women's tournament play the second classical games of their matches. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Fri, 30 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
@@ -1898,14 +1922,6 @@ news_feed (
          "title" : "2021 FIDE World Cup: Round #2"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84480884.cms\" />On a day when the world's top 50 masters (including Magnus Carlsen) joined the 78 winners of the first round at the Fide World Cup in Sochi, the deadly coronavirus hit the month-long event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/virus-hits-chess-world-cup-aronian-forfeits-caruana-in-doubt-after-opponent-tests-positive-indian-masters-safe-so-far/articleshow/84480884.cms",
-         "pubDate" : "Fri, 16 Jul 2021 21:56:35 +0530",
-         "title" : "Virus hits chess World Cup: Indian masters safe so far"
-      },
-      {
          "description" : "This was an exciting week of chess upsets, and not only because of some lower rated players winning their games in the World Cup. First, chess is being played in Dortmund, with the two veterans Anand, and Kramnik, battling it out, without castling. Second, in the same city, the German Grand Prix takes place, with Pavel Eljanov in top form. Third, the World Cup in Sochi has unfortunate covid cases to deal with. Lawrence Trent also has an anecdote, why he had a hard time to play against a smelly chess opponent, and how he dealt with it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2464,30 +2480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-3",
          "pubDate" : "Sat, 10 Jul 2021 00:40:00 +0100",
          "title" : "GCT Croatia: Ready for Garry"
-      },
-      {
-         "description" : "The \"Special\" of the new ChessBase Magazine #202 is dedicated to Jan Timman, the Dutch legend who will celebrate his 70th birthday this year. \"My favourite Timman game\" features an exquisite selection of a total of 25 victories annotated by our authors, containing some very personal notes: \"... Timman appeared to incorporate a mixture of the hippie, the free spirit and the chess artist, and despite that was world class over the board\" (Martin Breutigam). David Navara, Adhiban Baskaran, Yannick Pelletier, Krishnan Sasikiran and many others have contributed to the \"Special\" of this issue. Today, we present you Igor Stohl's analysis of the game Nigel Short - Jan Timman from Linares 1992. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-202-special-jan-timman",
-         "pubDate" : "Fri, 09 Jul 2021 18:30:00 +0100",
-         "title" : "CBM #202 Special: Jan Timman"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.zurich-cc.com/en/zurich-1953/photos#!4\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg\" data-image-dimensions=\"480x334\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Zurich 1953 Attendees, via the Zurich Chess Club\" data-load=\"false\" data-image-id=\"60e8741b7727436ecd344805\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1625846811937-VKMPUYXR1SAB2D45X0L3/Zurich.jpg?format=1000w\" /> </a> <figcaption class=\"image-caption-wrapper\"> <p cl",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/9/book-recap-17-discussing-zurich-1953-with-fm-nate-solon-featuring-gm-andy-soltis",
-         "pubDate" : "Fri, 09 Jul 2021 16:15:33 +0000",
-         "title" : "Book Recap #17- Discussing \"Zurich 1953\" with FM Nate Solon, featuring GM Andy Soltis "
-      },
-      {
-         "description" : "Lawrence Trent is looking forward to Sunday, when Italy will face England in the Euro 2020 final. But there is more to come, like the no-castling chess event in Dortmund and, of course, the World Cup in Sochi. Trent and Arne Kaehler talk about Nihal Sarin, who keeps on winning tournaments; Pia Cramling, who is not far away from winning the Swedish Championship, and Ian Nepomniachtchi, who is dominating in Croatia. Furthermore, we talk about the English opening 1.c4, and dive into the \"Chess Train\" events. Will we ever be able to play chess on Mars?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-giuoco-piano-vs-1-c4-nihal-sarin-unstoppable-and-chess-on-mars",
-         "pubDate" : "Fri, 09 Jul 2021 17:00:00 +0100",
-         "title" : "News Review - Giuoco Piano vs. 1.c4, Nihal unstoppable, and chess on Mars!"
       }
    ]
 }
