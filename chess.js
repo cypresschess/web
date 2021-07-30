@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alongside the U.S. Open are five tournaments of state chess champions, for different age and grade categories. Each state affiliate may nominate one player for each tournament. Participants in the five tournaments compete together in blitz. Woman International Master Alexey Root previews the state champions tournaments from a Texas perspective. | Photos: Niki Riga / Texas Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/texas-chess-champions-at-national-invitationals",
+         "pubDate" : "Fri, 30 Jul 2021 15:00:00 +0100",
+         "title" : "Texas Chess Champions at National Invitationals"
+      },
+      {
+         "description" : " <h3>July 30, 2021, New York - World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise.</h3> The shop will open at Showfields in New York City on August 24, with online sales set to kick off on 3 August. <b>The most exciting chess shop in the ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-most-exciting-chess-shop-in-the-world-to-open-in-new-york-to/",
+         "pubDate" : "Fri, 30 Jul 2021 13:17:27 +0000",
+         "title" : "The Most Exciting Chess Shop in the World to Open in New York To Celebrate the FIDE World Championship Match"
+      },
+      {
+         "description" : "The quarterfinal match between Sergey Karjakin and Sam Shankland (pictured) is being decided in rapid and blitz tiebreakers. The winner will face Vladimir Fedoseev in the semifinals starting Sunday. Meanwhile, the semifinalists in the women's tournament play the second classical games of their matches. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Fri, 30 Jul 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship-entries-open/",
+         "pubDate" : "Fri, 30 Jul 2021 12:53:54 +0000",
+         "title" : "British Junior Rapid & Blitz Championship - entries open"
+      },
+      {
+         "description" : "In round 4 of the Grandmaster Tournament at the Biel Chess Festival Gata Kamsky tests Boris Gelfand, Vincent Keymer plays against Alan Pichot, Maxime Lagarde has to fight against Kirill Alekseenko and Noel Studer plays Nihal Sarin. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Fri, 30 Jul 2021 13:50:00 +0100",
+         "title" : "Biel: Round 4 live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Announcement - European Youth Chess 2021"
       },
       {
-         "description" : "GM Magnus Carlsen reached the semifinals of the FIDE World Cup after beating&#38;nbsp;GM Etienne Bacrot twice. He will play GM Jan-Krzysztof Duda next, who defeated GM Vidit Gujrathi on Thursday. GM Vladimir Fedoseev also qualified as he won against...",
+         "description" : "GM Magnus Carlsen has reached the semifinals of the FIDE World Cup after beating GM Etienne Bacrot twice. He will next play GM Jan-Krzysztof Duda, who defeated GM Vidit Gujrathi on Thursday. GM Vladimir Fedoseev has also qualified as he won agai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-6-day-2",
@@ -1994,14 +2034,6 @@ news_feed (
          "title" : "NC Masters in Dortmund: Anand starts with a win"
       },
       {
-         "description" : "The ECF was due to organise a live board workshop on 11th April, 2020. Finally we have been able to rearrange this, this time for...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/live-board-setup-workshop/",
-         "pubDate" : "Thu, 15 Jul 2021 09:41:04 +0000",
-         "title" : "Live Board Setup workshop"
-      },
-      {
          "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2456,22 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-giuoco-piano-vs-1-c4-nihal-sarin-unstoppable-and-chess-on-mars",
          "pubDate" : "Fri, 09 Jul 2021 17:00:00 +0100",
          "title" : "News Review - Giuoco Piano vs. 1.c4, Nihal unstoppable, and chess on Mars!"
-      },
-      {
-         "description" : "The French Chess Federation has announced that Alireza Firouzja will be naturalized in France. The current number 1 player in the junior rating list will represent the French Federation in the future. It will take some time for the change of federation to be completed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alireza-firouzja-to-play-for-france",
-         "pubDate" : "Fri, 09 Jul 2021 16:20:00 +0100",
-         "title" : "Alireza Firouzja to play for France"
-      },
-      {
-         "description" : "After five rounds at the Croatian leg of the Grand Chess Tour, Ian Nepomniachtchi had a 2-point lead in the standings table (a win is worth 2 points in this phase of the event). But then local representative Ivan Saric defeated the leader in a beautiful game. Nepomniachtchi remains in first place, nevertheless. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-2",
-         "pubDate" : "Fri, 09 Jul 2021 14:25:00 +0100",
-         "title" : "GCT Croatia: Saric stops Nepo"
       }
    ]
 }
