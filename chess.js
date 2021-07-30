@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we politicians? Are we competitors? For Justus Williams, he happens to be in another category activist. Chess players have various roles in chess and Williams is building a chess movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
+         "pubDate" : "Fri, 30 Jul 2021 23:07:21 +0000",
+         "title" : "Justus Williams reaches chess heights on Black Squares"
+      },
+      {
+         "description" : "In the summer, \"ChessBase News Review\" with Lawrence Trent will have a couple of breaks here and there. One of them was last week. Back on time, IM Trent takes a more profound look at the Arkhangelsk Ruy Lopez game between Vidit and Duda. Furthermore, Lawrence and Arne talk about The beautiful Fontainebleau chess festival, and the tournament in Biel. They also mention the \"winning fist gesture\" of Fedoseev, the New York Post article about Karjakin's GM title, and the behaviour of Niemann as a GM.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-winning-gesture-karjakin-s-gm-title-and-niemann-s-gm-privilege",
+         "pubDate" : "Fri, 30 Jul 2021 22:34:25 +0100",
+         "title" : "News Review - Fedoseev's winning gesture, Karjakin's GM title and Niemann's GM privilege"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1237",
+         "pubDate" : "Fri, 30 Jul 2021 19:11:48 +0000",
+         "title" : "Round 6 tiebreaks: Sergei Karjakin \"The Comeback Minister\" advances to semi-finals"
+      },
+      {
          "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,7 +330,7 @@ news_feed (
          "title" : "World Cup Quarter Final - Vidit and Duda first match end in deadlock"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 Shankland's [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
