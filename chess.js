@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-online-chess-championships-2021/#BOCClive",
+         "pubDate" : "Fri, 30 Jul 2021 11:03:53 +0000",
+         "title" : "British Online - follow the action live"
+      },
+      {
+         "description" : "The new ChessBase Magazine Extra #202 again contains a wealth of material, e.g. opening videos presenting new ideas in the Sicilian Four Knights and in the English Opening (almost an hour total playing time), plus 29 extensive analyses by Peter Heine Nielsen, Praggnanandhaa, Mariya Muzychuk, Elisabeth P&auml;htz, Michal Krasenkow, Igor Stohl and others. ChessBase Magazine Extra is available on DVD or for download - as a single issue or as an annual subscription (6 issues per year).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-202",
+         "pubDate" : "Fri, 30 Jul 2021 12:00:00 +0100",
+         "title" : "New: CBM Extra #202"
+      },
+      {
+         "description" : "European Chess Union and Turkish Chess Federation have decided to postpone European Youth Chess Championship in Antalya, Turkey, until 2022, taking into account the following parameters.&#160; 1. European Youth Chess Championship is a mass competition (with 2000 participants, players, coaches and accompanying persons).2. The situation with Covid19 in Europe is still unstable. 3. The youth event involves U18 players,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/announcement-european-youth-chess-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/announcement-european-youth-chess-2021/",
+         "pubDate" : "Fri, 30 Jul 2021 10:57:18 +0000",
+         "title" : "Announcement - European Youth Chess 2021"
+      },
+      {
+         "description" : "GM Magnus Carlsen reached the semifinals of the FIDE World Cup after beating&#38;nbsp;GM Etienne Bacrot twice. He will play GM Jan-Krzysztof Duda next, who defeated GM Vidit Gujrathi on Thursday. GM Vladimir Fedoseev also qualified as he won against...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-6-day-2",
+         "pubDate" : "Fri, 30 Jul 2021 03:31:00 -0700",
+         "title" : "FIDE World Cup R6.2: Carlsen, Duda, Fedoseev Through; Karjakin Strikes Back"
+      },
+      {
+         "description" : "Three years ago Vincent Keymer defeated Boris Gelfand at the Isle of Man Open in a sensational game. In round 3 of the Grandmaster Tournament in Biel Gelfand, Vice World Champion 2012, now took a form of revenge and outplayed the young German Grandmaster. In the second decisive game of the round Noel Studer won against Maxime Lagarde. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-3-keymer-loses-against-gelfand",
+         "pubDate" : "Fri, 30 Jul 2021 11:27:43 +0100",
+         "title" : "Biel, Round 3: Keymer loses against Gelfand"
+      },
+      {
+         "description" : "Magnus Carlsen will play Jan-Krzysztof Duda in the FIDE World Cup semifinals after the Polish no. 1 said he played \"probably the game of my lifetime\" to beat Vidit while Magnus eased past Etienne Bacrot, who offered a draw too late. Sergey Karjakin won a sparkling attacking game to come back on demand yet again, this time against Sam Shankland. It seemed we'd have another tiebreak until Amin Tabatabaei blundered on move 77, with Vladimir Fedoseev fist-pumping at the blunder before executing the winning moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-2-it-s-carlsen-duda-in-the-semis",
+         "pubDate" : "Fri, 30 Jul 2021 09:03:11 +0000",
+         "title" : "FIDE World Cup 6.2: It's Carlsen-Duda in the semis!"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda will face Magnus Carlsen in the semifinals of the FIDE World Cup. The Polish grandmaster knocked out Vidit after the latter erred in a sharp endgame. Russian GMs Vladimir Fedoseev and Sergey Karjakin also won on Thursday - the former moved on to the semis, while the latter levelled the score in his match against Sam Shankland. In the women's section, both semifinal encounters finished drawn. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d2",
+         "pubDate" : "Fri, 30 Jul 2021 09:20:00 +0100",
+         "title" : "World Cup: Duda knocks out Vidit"
+      },
+      {
          "description" : "Mitrabha Guha (Photo by Shahid Ahmed) International Master Mitrabha Guha of West Bengal crowned as Online National Champion after scoring 10 points of out possible",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -130,22 +186,6 @@ news_feed (
          "title" : "The Anti-Anti Marshall"
       },
       {
-         "description" : "Etienne Bacrot and Sergey Karjakin (pictured) need to win their rematches against Magnus Carlsen and Sam Shankland to remain in contention at the FIDE World Cup in Sochi, as they lost their first quarterfinal encounters on Wednesday. Meanwhile, after a rest day, the women's tournament resumes with the semifinals. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Thu, 29 Jul 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
-      },
-      {
-         "description" : "In round 3 of the Grandmaster Tournament at the Biel Chess Festival Boris Gelfand plays Vincent Keymer, Kirill Alekseenko faces Gata Kamsky while Maxime Lagarde plays Noel Studer and Alan Pichot Nihal Sarin. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Thu, 29 Jul 2021 13:50:00 +0100",
-         "title" : "Biel: Round 3 live!"
-      },
-      {
          "description" : "Following a series of arbiter courses and examinations through April, May, June and July 2021, the following have been admitted to the latest Arbiter list,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -250,7 +290,7 @@ news_feed (
          "title" : "Nakamura Wins July 27 Titled Tuesday"
       },
       {
-         "description" : "This week, Merijn van Delft takes a look a close look at the encounter between Magnus Carlsen and Radoslaw Wojtaszek at the FIDE World Cup 2021 - a game full of tactical blows and surprises. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "This week, Merijn van Delft takes a close look at the encounter between Magnus Carlsen and Radoslaw Wojtaszek at the FIDE World Cup 2021 - a game full of tactical blows and surprises. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-474-m-carlsen-r-wojtaszek",
@@ -1722,14 +1762,6 @@ news_feed (
          "title" : "Chess WC: Vidit Gujrathi enters 3rd round, Gukesh, Padmini Rout ousted"
       },
       {
-         "description" : "57-year-old Michal Krasenkow executed a brilliant attack to take down Kirill Alekseenko on Friday and reach a Round 3 match against 15-year-old Praggnanandhaa, who whitewashed Gabriel Sargissian 2:0. Sargissian and Alekseenko are among 7 players given a bye to Round 2 who are out of the Open Section (Vallejo, Anton, Kryvoruchko, Ragger and Levon Aronian, who couldn't play, are the others) while in the Women's Section only Olga Girya was knocked out, by 16-year-old Leya Garifullina. 30 matches have gone to tiebreaks, after Alireza Firouzja and Gukesh survived scares.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-2-krasenkow-shocks-alekseenko",
-         "pubDate" : "Sat, 17 Jul 2021 12:30:06 +0000",
-         "title" : "FIDE World Cup 2.2: Krasenkow shocks Alekseenko"
-      },
-      {
          "description" : "Polish grandmaster Mateusz Bartel had a difficult time in the first rounds of the Deutschland Grand Prix, but he could land a nice attacking win with Black against Andreas Heimann. The remaining four games ended drawn, but had a lot to offer, with leader Pavel Eljanov sacrificing a queen against Ruslan Ponomariov. | Pictured: Bartel facing Eljanov in round 4",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1970,14 +2002,6 @@ news_feed (
          "title" : "Live Board Setup workshop"
       },
       {
-         "description" : "As they emerge from pandemic restrictions and start over-the-board chess again, Peterborough Chess Club would like to see as many chess players as possible at...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/peterborough-chess-club-silver-queen/",
-         "pubDate" : "Thu, 15 Jul 2021 09:33:04 +0000",
-         "title" : "Peterborough Chess Club Silver Queen"
-      },
-      {
          "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1992,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1209",
          "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
          "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
-      },
-      {
-         "description" : "Netflix&#39;s 2020 megahit miniseries The Queen&#39;s Gambit has garnered 18 Emmy nominations, including best Limited Series and best Lead Actress in a Limited Series or Movie for Anya Taylor-Joy&#39;s widely acclaimed performance as Beth Harmon. Thomas Brodi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/queens-gambit-nets-18-emmy-nominations",
-         "pubDate" : "Wed, 14 Jul 2021 14:47:00 -0700",
-         "title" : "Queen's Gambit Nets 18 Emmy Nominations"
       },
       {
          "description" : "",
@@ -2456,14 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-2",
          "pubDate" : "Fri, 09 Jul 2021 14:25:00 +0100",
          "title" : "GCT Croatia: Saric stops Nepo"
-      },
-      {
-         "description" : "Press release: Riga Technical University Open comes back for a special 10th edition In these uncertain times we are pleased to announce some good news the 10th edition of Riga Technical University Open has just been confirmed for 7th till 15th August! That means one of the biggest chess Festivals in Europe is back after a one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/10th-riga-technical-university-open-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/10th-riga-technical-university-open-2021/",
-         "pubDate" : "Fri, 09 Jul 2021 08:16:11 +0000",
-         "title" : "10th Riga Technical University Open 2021"
       }
    ]
 }
