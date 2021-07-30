@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mitrabha Guha (Photo by Shahid Ahmed) International Master Mitrabha Guha of West Bengal crowned as Online National Champion after scoring 10 points of out possible",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mitrabha-crowned-as-national-online-champion-savitha-shri-wins-girls-junior-title/",
+         "pubDate" : "Fri, 30 Jul 2021 07:10:40 +0000",
+         "title" : "Mitrabha crowned as National Online Champion; Savitha Shri wins Girls Junior title"
+      },
+      {
+         "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/jul/30/chess-carlsen-eases-into-world-cup-semi-but-esipenko-is-emerging-star",
+         "pubDate" : "Fri, 30 Jul 2021 07:00:01 +0000",
+         "title" : "Chess: Carlsen eases into World Cup semi, but Esipenko is emerging star"
+      },
+      {
+         "description" : " This week, we are going to look at discovered attacks. There are actually four types of discovered attacks to examine; the discovered attack, the double discovered attack, the discovered check and the double discovered check. Before you say to yourself, \"this guy wants us to learn four different tactics in a single lesson,\" let me <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-eight/\">A Foundation for Beginners Twenty Eight</a> appeared first on <a re",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-eight/",
+         "pubDate" : "Fri, 30 Jul 2021 06:46:38 +0000",
+         "title" : "A Foundation for Beginners Twenty Eight"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave got whooped at Tata Steel 2021 against Nils Grandelius. 2021.07.28<br /> Nils Grandelius vs Maxime Vachier-Lagrave, Tata Steel Masters (2021): B97 Sicilian, Najdorf, Poisoned pawn variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020828\">https://www.chessgames.com/perl/chessgame?gid=2020828</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-mvl-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "Dortmund Sparkassen Chess Trophy - Final round"
       },
       {
-         "description" : "Adhiban continued his fine run to blank the Cuban GM Neuris Delgado Ramirez 2-0 and march into round 3 royally. Adhiban has 4 wins out",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-six-indians-advance-to-round-3/",
-         "pubDate" : "Sun, 18 Jul 2021 11:53:21 +0000",
-         "title" : "World Cup - Six Indians advance to round 3"
-      },
-      {
          "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka (pictured, right) scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. Alireza Firouzja and Leinier Dominguez were knocked out by two Uzbek players, Javokhir Sindarov and Jakhongir Vakhidov respectively. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2130,14 +2146,6 @@ news_feed (
          "title" : "Jung Min Seo wins Swedish Championships"
       },
       {
-         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov Last week we looked at games 2, 3 and 4 played by my U10 student at the online CYCC 2021. The first game had nothing to look at. With 3 points out of 4 games and a bad game behind him, he needed to rebound in <a href=\"https://chessimprover.com/tales-from-cycc-2021-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-2/\">Tales from CYCC 2021 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tales-from-cycc-2021-2/",
-         "pubDate" : "Tue, 13 Jul 2021 09:00:40 +0000",
-         "title" : "Tales from CYCC 2021 (2)"
-      },
-      {
          "description" : "Pawn endings must be calculated precisely and the activity of the king is very important. In the diagram position White has a protected passed pawn on b6 but it is not immediately apparent whether this is enough to win. Do you have an idea how White can overcome Black's defensive set-up?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2456,22 +2464,6 @@ news_feed (
          "link" : "https://www.europechess.org/10th-riga-technical-university-open-2021/",
          "pubDate" : "Fri, 09 Jul 2021 08:16:11 +0000",
          "title" : "10th Riga Technical University Open 2021"
-      },
-      {
-         "description" : " Garry Kasparov to take on world title challenger, Ian Nepomniachtchi, this weekend Magnus Carlsen suffered a rare double setback last weekend when the world champion twice lost three games in a row at the $100,000 Goldmoney Asian Rapid. The defeats occurred in his losing semi-final against the world No 5, Levon Aronian, then in his third place play-off against Ding Liren, though he still managed to defeat China's world No 3. The 30-year-old Norwegian had an off day, missing several tactical chances. The No 1 has already qualified for the Meltwater Champions Tour final after winning the two previous events, so diminished motivation explains it. Next week he bids to try and put to rest a long",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jul/09/chess-carlsen-loses-three-in-a-row-twice-as-champion-heads-for-world-cup",
-         "pubDate" : "Fri, 09 Jul 2021 07:00:41 +0000",
-         "title" : "Chess: Carlsen loses three in a row twice as champion heads for World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1195",
-         "pubDate" : "Fri, 09 Jul 2021 07:00:18 +0000",
-         "title" : "Nepomniachtchi keeps the lead"
       }
    ]
 }
