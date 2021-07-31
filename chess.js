@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Again coming back from a one-point deficit in the rapid, GM Sergey Karjakin eventually knocked GM Sam Shankland out of the FIDE World Cup on Friday. Karjakin will now play GM Vladimir Fedoseev, which means a Russian player is guaranteed for the fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreaks-karjakin-shankland",
+         "pubDate" : "Sat, 31 Jul 2021 03:26:00 -0700",
+         "title" : "FIDE World Cup R6.3: Karjakin, Goryachkina, Kosteniuk Through"
+      },
+      {
+         "description" : "Emanuel Lasker, World Chess Champion from 1894-1921, once asserted that lies and hypocrisy do not survive long on the chessboard. Maybe not on, but I fear they are increasingly patrolling the perimeters. In a previous column, I demonstrated the familiarity with chess of the German genius, Johann Wolfgang von Goethe (1749-1832). He is the author of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/lies-hypocrisy-and-genius-the-wizardry-of-chess/",
+         "pubDate" : "Sat, 31 Jul 2021 09:00:20 +0000",
+         "title" : "Lies, hypocrisy and genius: the wizardry of chess"
+      },
+      {
          "description" : "Rarely was a headline more appropriate - this is a crucial position of one of the most exciting games I have seen recently. In the diagram position White continued with 25.Rxe6 Rxe6 26.exd5 which gave Black a chance to win. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +95,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-most-exciting-chess-shop-in-the-world-to-open-in-new-york-to/",
          "pubDate" : "Fri, 30 Jul 2021 13:17:27 +0000",
-         "title" : "The Most Exciting Chess Shop in the World to Open in New York To Celebrate the FIDE World Championship Match"
+         "title" : "The Most Exciting Chess Shop in the World to Open in New York"
       },
       {
          "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship-entries-open/",
          "pubDate" : "Fri, 30 Jul 2021 12:53:54 +0000",
          "title" : "British Junior Rapid & Blitz Championship - entries open"
-      },
-      {
-         "description" : "In round 4 of the Grandmaster Tournament at the Biel Chess Festival Gata Kamsky tests Boris Gelfand, Vincent Keymer plays against Alan Pichot, Maxime Lagarde has to fight against Kirill Alekseenko and Noel Studer plays Nihal Sarin. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Fri, 30 Jul 2021 13:50:00 +0100",
-         "title" : "Biel: Round 4 live!"
       },
       {
          "description" : "",
@@ -2082,14 +2090,6 @@ news_feed (
          "title" : "NC Masters in Dortmund: Anand starts with a win"
       },
       {
-         "description" : "Four days before turning 15, IM Volodar Murzin reached the second round of the 2021 FIDE World Cup. The Russian teenager is among the 128 players to start round two on Thursday, which includes the top 50 seeds, such as GM Magnus Carlsen and Fabian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-1-tiebreak-murzin",
-         "pubDate" : "Thu, 15 Jul 2021 01:22:00 -0700",
-         "title" : "FIDE World Cup R1.3: 14-Year-Old Murzin Through"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2472,22 +2472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1197",
          "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
          "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
-      },
-      {
-         "description" : "As previously announced in my column The Martial menagerie of King Alfonso the Wise, a charitable chess spectacular in London is happening this coming week, culminating in a living game in Trafalgar Square, organised by the Stakhanovite Malcolm Pein. I have on several occasions been involved in playing live chess games, with schoolchildren, actors or, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/living-chess-in-rabelais-and-trafalgar-square/",
-         "pubDate" : "Sat, 10 Jul 2021 08:00:09 +0000",
-         "title" : "Living chess in Rabelais and Trafalgar Square"
-      },
-      {
-         "description" : "In the diagram position White has brought almost all of his pieces in position to attack the black king. However, in order to exploit this menacing show of force White needs to play all over the board. But he will be rewarded with checkmating the opponent or a decisive material plus - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mighty-knights",
-         "pubDate" : "Sat, 10 Jul 2021 09:00:00 +0100",
-         "title" : "Mighty knights"
       }
    ]
 }
