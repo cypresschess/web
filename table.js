@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-07-06  - 07-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107274352 target=' blank'>JULY TUES NIGHT SWISS SPECIAL</a>",
 "HOUSTON","2021-07-25","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107252492 target=' blank'>SUNSWISSJULY25</a>",
 "HOUSTON","2021-07-23  - 07-25","371","<a href=http://www.uschess.org/msa/XtblMain.php?202107252332 target=' blank'>U.S. CLASS CHESS CHAMPIONSHIPS</a>",
 "HOUSTON","2021-07-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107232932 target=' blank'>JULYFRIDAYFLEX723</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-04-11","9","<a href=http://www.uschess.org/msa/XtblMain.php?202004118932 target=' blank'>STRATEGEM ORCAS RAPID 04-11-20- STR</a>",
 "KATY","2020-04-03","17","<a href=http://www.uschess.org/msa/XtblMain.php?202004038112 target=' blank'>STRATEGEM BARRACUDAS BLITZ APRIL 20</a>",
 "HOUSTON","2020-03-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202003145402 target=' blank'>THE CHESS REFINERY: SAT SWISS 75</a>",
-"TOMBALL","2020-03-13","6","<a href=http://www.uschess.org/msa/XtblMain.php?202003135062 target=' blank'>THE FRIDAY KNIGHTS U1200</a>",
 ]);
