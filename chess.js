@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Sat, 31 Jul 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84925272.cms\" /> Five-time world champion Viswanathan Anand will be leading the Indian team in the second online chess Olympiad which is scheduled to be held from 8-15 September. The Indian team had jointly won the gold medal alongside main competitors Russia in the inaugural edition last year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-lead-india-in-online-chess-olympiad/articleshow/84925272.cms",
+         "pubDate" : "Sat, 31 Jul 2021 20:29:03 +0530",
+         "title" : "Anand to lead India in online chess Olympiad"
+      },
+      {
+         "description" : "Five times world Champion Viswanathan Anand will lead the team of India in the second online chess Olympiad scheduled to be held from 8-15 September.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/anand-to-lead-strongest-team-india-in-online-chess-olympiad/",
+         "pubDate" : "Sat, 31 Jul 2021 14:26:28 +0000",
+         "title" : "Anand to lead strongest team India in online Chess Olympiad"
+      },
+      {
          "description" : " After a break of a few years, the ACTJCL is organising the 2021 ACT Women's and Girls Championships. It will on the weekend of the 11th and 12th of September, and will be a 6 round swiss (3 rounds on each day). There is quite a good prize pool ($500 1st prize) and is open to all female players (not just ACT residents). Entries open tomorrow, and details can be found at <a href=\"https://www.trybooking.com/BSXDI\">https://www.trybooking.com/BSXDI</a> Previous tournaments attracted good fields of between 25 and 40 players, and there has already been a lot of interest in this years event. A number of strong junior players are expected to take part, along with strong active and semi active adult ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -50,6 +74,14 @@ news_feed (
          "title" : "FIDE World Cup 6.3: Karjakin ousts Shankland"
       },
       {
+         "description" : " The 54th Biel Chess Festival takes place 24th July to 4th August 2021. The main event is what they call a Triathalon with a Rapid, Standard and Blitz element.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/54th-biel-chess-festival-2021",
+         "pubDate" : "Sat, 31 Jul 2021 15:36:00 +0400",
+         "title" : "54th Biel Chess Festival 2021 - Games and Results"
+      },
+      {
          "description" : "Again coming back from a one-point deficit in the rapid, GM Sergey Karjakin eventually knocked GM Sam Shankland out of the FIDE World Cup on Friday. Karjakin will now play GM Vladimir Fedoseev, which means a Russian player is guaranteed for the fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "Rollercoaster"
       },
       {
-         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we arbiters? Are we politicians? Are we journalists? Are we competitors? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Organizers? Arbiters? Politicians? Journalists? Authors? Commentators? Are we those who only want to compete? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players have [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
@@ -1650,14 +1682,6 @@ news_feed (
          "title" : "Anand Beats Kramnik In No Castling Match"
       },
       {
-         "description" : "It was a mixed day for Indians in the game 1 of round 3 of the World Cup. While Harikrishna, Vidit and Praggnanandhaa posted convincing",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-mixed-day-for-indians/",
-         "pubDate" : "Mon, 19 Jul 2021 15:21:37 +0000",
-         "title" : "World Cup - Mixed day for Indians"
-      },
-      {
          "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1976,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1215",
          "pubDate" : "Fri, 16 Jul 2021 20:02:26 +0000",
          "title" : "Day 05: Fighting chess at the World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84482870.cms\" />After three members of the Indonesian delegation tested positive for Covid, both the women players from Indonesia, Medina Warda Aulia and Irene Sukandar, withdrew from the Fide Women's Chess World Cup currently in progress at Sochi on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-makes-third-round-after-indonesian-opponent-withdraws-in-womens-chess-world-cup/articleshow/84482870.cms",
-         "pubDate" : "Fri, 16 Jul 2021 22:44:14 +0530",
-         "title" : "Harika makes third round after Indonesian opponent withdraws in women's Chess World Cup"
       },
       {
          "description" : "In this Power Play Show, GM Daniel King takes a look at highlights from the World Cup in Sochi and presents two interesting endgames and a brilliancy with echoes of a famous Fischer victory. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2496,14 +2512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/san-fermin-masters-2021-carlsen",
          "pubDate" : "Sat, 10 Jul 2021 18:45:00 +0100",
          "title" : "Carlsen playing online from Pamplona"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King looks at two games from the Goldmoney Asian Rapid tournament. Daniel did an excellent job commentating the games live, and uses two examples from the event to show how important it is to develop a good understanding of rook and pawn positions. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-crucial-rook-and-pawn-technique",
-         "pubDate" : "Sat, 10 Jul 2021 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Crucial rook and pawn technique"
       }
    ]
 }
