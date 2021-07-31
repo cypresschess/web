@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a break of a few years, the ACTJCL is organising the 2021 ACT Women's and Girls Championships. It will on the weekend of the 11th and 12th of September, and will be a 6 round swiss (3 rounds on each day). There is quite a good prize pool ($500 1st prize) and is open to all female players (not just ACT residents). Entries open tomorrow, and details can be found at <a href=\"https://www.trybooking.com/BSXDI\">https://www.trybooking.com/BSXDI</a> Previous tournaments attracted good fields of between 25 and 40 players, and there has already been a lot of interest in this years event. A number of strong junior players are expected to take part, along with strong active and semi active adult ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/07/act-womens-and-girls-championship.html",
+         "pubDate" : "Sat, 31 Jul 2021 13:25:00 +0000",
+         "title" : "ACT Women's and Girls Championship"
+      },
+      {
+         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina (pictured) advanced to the final in the women's section after knocking out Tan Zhongyi and Anna Muzychuk respectively. Saturday is a rest day for both categories. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d3",
+         "pubDate" : "Sat, 31 Jul 2021 14:00:00 +0100",
+         "title" : "World Cup: Russians prevail"
+      },
+      {
+         "description" : "Gata Kamsky is leading the GM Triathlon at the Biel Chess Festival, with Maxime Lagarde and Kirill Alekseenko as his closest chasers. The blitz section of the tournament is taking place on Saturday, a double round robin with a time control of 3 minutes plus 2-second increments. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live with expert commentary by Arturs Neiksans and Dina Belenkaya.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Sat, 31 Jul 2021 13:50:00 +0100",
+         "title" : "Biel: Blitz tournament - Live!"
+      },
+      {
+         "description" : "Two legends met yesterday at the Biel Chess Festival: Gata Kamsky and Boris Gelfand, both former World Championship runners-up and World Cup winners. With a draw, Kamsky defended his lead in the overall standings. Frenchman Maxime Lagarde is the new runner-up, as the Frenchman defeated Kirill Alekseenko in round 4. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-4-kamsky-and-gelfand-draw",
+         "pubDate" : "Sat, 31 Jul 2021 13:30:00 +0100",
+         "title" : "Biel, Round 4: Kamsky and Gelfand draw"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1238",
+         "pubDate" : "Sat, 31 Jul 2021 12:15:49 +0000",
+         "title" : "Chess for Protection: FIDE and UNHCR introduce a chess project for refugees"
+      },
+      {
+         "description" : "Sergey Karjakin has reached a record 4th World Cup semi-final after coming back yet again to beat Sam Shankland despite suffering a thumping defeat in the first tiebreak game. Sergey, who said there's no special secret to his comebacks, will play Vladimir Fedoseev for a place in the final and a spot in the 2022 Candidates Tournaments. The Women's World Cup will be an all-Russian battle between Aleksandra Goryachkina and Alexandra Kosteniuk after they both won with white, against Anna Muzychuk and Tan Zhongyi, who now play the 3rd place match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-3-karjakin-ousts-shankland",
+         "pubDate" : "Sat, 31 Jul 2021 11:53:01 +0000",
+         "title" : "FIDE World Cup 6.3: Karjakin ousts Shankland"
+      },
+      {
          "description" : "Again coming back from a one-point deficit in the rapid, GM Sergey Karjakin eventually knocked GM Sam Shankland out of the FIDE World Cup on Friday. Karjakin will now play GM Vladimir Fedoseev, which means a Russian player is guaranteed for the fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreaks-karjakin-shankland",
          "pubDate" : "Sat, 31 Jul 2021 03:26:00 -0700",
          "title" : "FIDE World Cup R6.3: Karjakin, Goryachkina, Kosteniuk Through"
+      },
+      {
+         "description" : " The Chessable Masters takes place Sat 31st Jul to Sun 8th Aug 2021. The online rapid Meltwater Champions chess tour event takes place on Chess24. Magnus Carlsen will be missing as he remains in the FIDE World Cup. Players: Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Alireza Firouzja, Hikaru Nakamura, Pentala Harikrishna, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, David Anton Guijarro, Baskaran Adhiban, Aryan Tari, Eduardo Iturrizaga Bonelli, Humpy Koneru, Wenjun Ju and Abhimanyu Mishra. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2021",
+         "pubDate" : "Sat, 31 Jul 2021 13:42:00 +0400",
+         "title" : "Chessable Masters 2021 - Games and Results"
       },
       {
          "description" : "Emanuel Lasker, World Chess Champion from 1894-1921, once asserted that lies and hypocrisy do not survive long on the chessboard. Maybe not on, but I fear they are increasingly patrolling the perimeters. In a previous column, I demonstrated the familiarity with chess of the German genius, Johann Wolfgang von Goethe (1749-1832). He is the author of []",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "Rollercoaster"
       },
       {
-         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we politicians? Are we competitors? For Justus Williams, he happens to be in another category activist. Chess players have various roles in chess and Williams is building a chess movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we arbiters? Are we politicians? Are we journalists? Are we competitors? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
@@ -48,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1237",
          "pubDate" : "Fri, 30 Jul 2021 19:11:48 +0000",
          "title" : "Round 6 tiebreaks: Sergei Karjakin \"The Comeback Minister\" advances to semi-finals"
-      },
-      {
-         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Fri, 30 Jul 2021 19:55:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "In this Power Play Show, GM Daniel King takes a look at games from the World Cup, including a a decent answer to the London System, and offers tactics and endgames. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1794,14 +1842,6 @@ news_feed (
          "title" : "World Cup: Firouzja and Dominguez knocked out"
       },
       {
-         "description" : "15-year-old Javokhir Sindarov pulled off the biggest upset of the FIDE World Cup so far when he took down one of the dark horses to win the whole event, Alireza Firouzja, after a stylish win in the second 10-minute tiebreak game. Another Uzbek player, Jakhongir Vakhidov, beat world no. 13 Leinier Dominguez, while it was also the end of the road for the likes of Gukesh, Parham Maghsoodloo, Dmitry Jakovenko and fan favourite IMs Ravi Haria and Volodar Murzin. We got two Armageddons, with the pieces flying as Olga Badelka beat Ana Matnadze on time.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-2-3-sindarov-knocks-out-firouzja",
-         "pubDate" : "Sun, 18 Jul 2021 10:37:28 +0000",
-         "title" : "FIDE World Cup 2.3: Sindarov knocks out Firouzja"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84521338.cms\" />In a major setback for the Sara Bangla Daba Sangstha (SBDS), the court of Ld Fourth Civil Judge (senior division) at Alipore has restrained the newly-formed state chess body from taking control of the power of Bengal Chess Association (BCA).",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2464,14 +2504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-crucial-rook-and-pawn-technique",
          "pubDate" : "Sat, 10 Jul 2021 18:30:00 +0100",
          "title" : "Daniel King's Power Play Show: Crucial rook and pawn technique"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1197",
-         "pubDate" : "Sat, 10 Jul 2021 12:39:48 +0000",
-         "title" : "FIDE Binance Business Schools Super Cup 2021 gets underway"
       }
    ]
 }
