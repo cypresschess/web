@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a multifaceted column, Siegfried Hornecker looks at a young Austrian chess player who went missing in the Alps and never returned, how geometry on the chessboard is vastly different from a Euclidean two-dimensional plane, a curious episode from the 1951 World Championship match between Botvinnik and Bronstein, and a couple of endgame studies created by women composers. | Pictured: Julius Perlis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-07",
+         "pubDate" : "Sat, 31 Jul 2021 20:00:00 +0100",
+         "title" : "Kaleidoscope II"
+      },
+      {
+         "description" : "The supremacy of Indian youngsters in Age Group events proved once again as Pranesh M, Aapar Saxena and Avirat Chauhan won Gold in the Under-15,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/pranesh-aapar-and-avirat-wins-gold-india-shines-at-asian-school/",
+         "pubDate" : "Sat, 31 Jul 2021 17:27:55 +0000",
+         "title" : "Pranesh, Aapar and Avirat wins Gold; India shines at Asian School"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84928969.cms\" />Indian Grandmaster Nihal Sarin notched up eight wins to go with three draws and as many defeats to be placed joint second after the rapid, blitz and four rounds of Classical section at the Biel Grandmaster Triathlon on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-nihal-sarin-shines-in-blitz-event-wins-eight-games/articleshow/84928969.cms",
+         "pubDate" : "Sat, 31 Jul 2021 22:30:08 +0530",
+         "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event, wins eight games"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1666,6 @@ news_feed (
          "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
       },
       {
-         "description" : "Akash G of Tamilnadu, Shubhi Gupta of Uttar Pradesh, Adhiraj Mitra of Jharkhand, Anshika Dogre of Madhya Pradesh, Avirat Chauhan of Maharashtra and Charvi A",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/akash-shubhi-adhiraj-anshika-avirat-charvi-national-school-champions/",
-         "pubDate" : "Mon, 19 Jul 2021 17:17:00 +0000",
-         "title" : "Akash, Shubhi, Adhiraj, Anshika, Avirat & Charvi National School Champions"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1864,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d3",
          "pubDate" : "Sun, 18 Jul 2021 12:40:00 +0100",
          "title" : "World Cup: Firouzja and Dominguez knocked out"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84521338.cms\" />In a major setback for the Sara Bangla Daba Sangstha (SBDS), the court of Ld Fourth Civil Judge (senior division) at Alipore has restrained the newly-formed state chess body from taking control of the power of Bengal Chess Association (BCA).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/setback-for-newly-formed-chess-body-in-bengal/articleshow/84521338.cms",
-         "pubDate" : "Sun, 18 Jul 2021 15:43:42 +0530",
-         "title" : "Setback for newly-formed chess body in Bengal"
       },
       {
          "description" : "GM Leinier Dominguez and GM Alireza Firouzja did not survive the FIDE World Cup&#39;s second-round tiebreaks as they lost to Uzbek GMs Jakhongir Vakhidov and Javokhir Sindarov, respectively. Two matches were decided in wild armageddon games. How t...",
@@ -2496,22 +2504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1198",
          "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
          "title" : "Day 4 Recap"
-      },
-      {
-         "description" : "On Sunday 18th July the charity \"Chess in Schools and Communities\" is staging the UK's biggest-ever outdoor chess festival, ChessFest, in Trafalgar Square, London's most famous public space. It is to commemorate the 150th anniversary of the children's classic \"Through the Looking Glass.\" Tim Wall looks at what visitors can expect to see, and examines our lasting fascination with Lewis Carroll's epic fantasy tale. Big pictorial preview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessfest-with-alice",
-         "pubDate" : "Sat, 10 Jul 2021 19:00:00 +0100",
-         "title" : "ChessFest with Alice"
-      },
-      {
-         "description" : "While Garry Kasparov plays over-the-board blitz chess in Zagreb, Magnus Carlsen is in Pamplona promoting chess and playing a two-day knockout tournament. The rest of the participants are playing online. Besides the world champion, Wesley So, Ding Liren and Levon Aronian were seeded directly into the quarterfinals, where they face four winners of previous qualifying tournaments. Each match consists of 8 blitz games, played on the chess24 platform.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/san-fermin-masters-2021-carlsen",
-         "pubDate" : "Sat, 10 Jul 2021 18:45:00 +0100",
-         "title" : "Carlsen playing online from Pamplona"
       }
    ]
 }
