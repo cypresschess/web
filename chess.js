@@ -2488,22 +2488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1196",
          "pubDate" : "Sat, 10 Jul 2021 07:27:29 +0000",
          "title" : "Nepomniachtchi in front after rapid"
-      },
-      {
-         "description" : " How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level: FM Alex Dunne From the publisher: Surprise yourself and reach higher! This book is based on real amateur games and shows you how an average club player can proceed through the ranks and reach Candidate Master level. Its <a href=\"http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/10/how-to-become-a-candidate-master-a-practical-guide-to-take-your-chess-to-the-next-level/",
-         "pubDate" : "Sat, 10 Jul 2021 00:10:11 +0000",
-         "title" : "How to Become a Candidate Master: A Practical Guide to Take Your Chess to the Next Level"
-      },
-      {
-         "description" : "After starting the rapid section of the Croatia GCT with back-to-back wins, Ian Nepomniachtchi never let go of the lead - the Russian goes into the final two days of action a full point ahead of a 4-player chasing pack. In the blitz section, Garry Kasparov will replace Croatian GM Ivan Saric. Saric had a great performance, scoring two wins, six draws and a single loss against his higher-rated colleagues. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-3",
-         "pubDate" : "Sat, 10 Jul 2021 00:40:00 +0100",
-         "title" : "GCT Croatia: Ready for Garry"
       }
    ]
 }
