@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we politicians? Are we competitors? For Justus Williams, he happens to be in another category activist. Chess players have various roles in chess and Williams is building a chess movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "Rarely was a headline more appropriate - this is a crucial position of one of the most exciting games I have seen recently. In the diagram position White continued with 25.Rxe6 Rxe6 26.exd5 which gave Black a chance to win. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rollercoaster",
+         "pubDate" : "Sat, 31 Jul 2021 09:00:00 +0100",
+         "title" : "Rollercoaster"
+      },
+      {
+         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Are we organizers? Are we politicians? Are we competitors? For Justus Williams, he happens to be in another category activist. Chess players have various roles in chess and Williams is building a chess movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Texas Chess Champions at National Invitationals"
       },
       {
-         "description" : " <p class=\"lead\">World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise. The shop will open at Showfields in New York City on August 24, with online sales set to kick off on 3 August. <b>The most exciting chess shop in the world </b> The Worl",
+         "description" : " <p class=\"lead\">World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6_CShading_LightMix-min.jpg\" width=\"1700\" height=\"903\" alt=\"\" /> </div> The shop will open a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-most-exciting-chess-shop-in-the-world-to-open-in-new-york-to/",
@@ -2480,14 +2488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mighty-knights",
          "pubDate" : "Sat, 10 Jul 2021 09:00:00 +0100",
          "title" : "Mighty knights"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1196",
-         "pubDate" : "Sat, 10 Jul 2021 07:27:29 +0000",
-         "title" : "Nepomniachtchi in front after rapid"
       }
    ]
 }
