@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While players and enthusiasts took a day off from the highly tense World Cups in Sochi, the online Chessable Masters kicked off with an eye-catching lineup, as 12-year-old GM Abhimanyu Mishra, women's world champion Ju Wenjun and Indian star Humpy Koneru join the likes of Wesley So and Levon Aronian in the 9-day event. After five rounds, So is the sole leader on 4 points, with a 3-player chasing pack a half point behind. | Pictured: Wesley So and Pentala Harikrishna at the 2019 Riga Grand Prix",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-1",
+         "pubDate" : "Sun, 01 Aug 2021 01:00:00 +0100",
+         "title" : "Chessable Masters: So leads, newcomers struggle"
+      },
+      {
          "description" : "In a multifaceted column, Siegfried Hornecker looks at a young Austrian chess player who went missing in the Alps and never returned, how geometry on the chessboard is vastly different from a Euclidean two-dimensional plane, a curious episode from the 1951 World Championship match between Botvinnik and Bronstein, and a couple of endgame studies created by women composers. | Pictured: Julius Perlis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-nihal-sarin-shines-in-blitz-event-wins-eight-games/articleshow/84928969.cms",
          "pubDate" : "Sat, 31 Jul 2021 22:30:08 +0530",
          "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event, wins eight games"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Sat, 31 Jul 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84925272.cms\" /> Five-time world champion Viswanathan Anand will be leading the Indian team in the second online chess Olympiad which is scheduled to be held from 8-15 September. The Indian team had jointly won the gold medal alongside main competitors Russia in the inaugural edition last year.",
