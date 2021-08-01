@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nihal Sarin and Kirill Alekseenko had the strongest performances at the blitz tournament, one of three events that make up the Grandmaster Triathlon at the Biel Chess Festival. Gata Kamsky is still leading the overall standings, but is now only 1&frac12; points ahead of Nihal and Alekseenko. | Photos and report: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-blitz-tournament-nihal-and-alekseenko-the-strongest",
+         "pubDate" : "Sun, 01 Aug 2021 01:35:00 +0100",
+         "title" : "Biel: Nihal and Alekseenko the strongest in blitz"
+      },
+      {
          "description" : "While players and enthusiasts took a day off from the highly tense World Cups in Sochi, the online Chessable Masters kicked off with an eye-catching lineup, as 12-year-old GM Abhimanyu Mishra, women's world champion Ju Wenjun and Indian star Humpy Koneru join the likes of Wesley So and Levon Aronian in the 9-day event. After five rounds, So is the sole leader on 4 points, with a 3-player chasing pack a half point behind. | Pictured: Wesley So and Pentala Harikrishna at the 2019 Riga Grand Prix",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d3",
          "pubDate" : "Sat, 31 Jul 2021 14:00:00 +0100",
          "title" : "World Cup: Russians prevail"
-      },
-      {
-         "description" : "Gata Kamsky is leading the GM Triathlon at the Biel Chess Festival, with Maxime Lagarde and Kirill Alekseenko as his closest chasers. The blitz section of the tournament is taking place on Saturday, a double round robin with a time control of 3 minutes plus 2-second increments. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live with expert commentary by Arturs Neiksans and Dina Belenkaya.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Sat, 31 Jul 2021 13:50:00 +0100",
-         "title" : "Biel: Blitz tournament - Live!"
       },
       {
          "description" : "Two legends met yesterday at the Biel Chess Festival: Gata Kamsky and Boris Gelfand, both former World Championship runners-up and World Cup winners. With a draw, Kamsky defended his lead in the overall standings. Frenchman Maxime Lagarde is the new runner-up, as the Frenchman defeated Kirill Alekseenko in round 4. | Photos: Official site",
