@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2021 Online Chess Olympiad is starting soon, and the tournament website has gone up at <a href=\"https://onlineolympiad.fide.com/\">https://onlineolympiad.fide.com/</a> The deadline for entries closed yesterday, and the allocation of teams should take place shortly. As with all these large scale activities, not every federation was organised, and late entries are still being taken from some countries. This years event will follow the same format as last years, with pools of 10 teams playing a round robin over the weekend (Fri, Sat, Sun). Each division has 5 pools (to account for differing time zones), with 3 teams from each pool being promoted to the next division. 35 teams are seeded int",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad.html",
+         "pubDate" : "Sun, 01 Aug 2021 23:03:00 +0000",
+         "title" : "2021 Online Chess Olympiad"
+      },
+      {
+         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Sun, 01 Aug 2021 23:55:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
          "description" : "GM Raunak Sadhwani on Saturday defeated IM Christopher Yoo in the first quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. T...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2464,22 +2480,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/",
          "pubDate" : "Mon, 12 Jul 2021 00:10:32 +0000",
          "title" : "Beyond Material - Ignore the Face Value of Your Pieces"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave was the clear winner of the 2021 Grand Chess Tour's third leg, played in Zagreb. The Frenchman had an undefeated 6&frac12;/9 performance on Sunday, and managed to secure first place with a round to spare. Vishy Anand had a great day as well, as he also scored 6&frac12; points in the second half of the blitz section to get sole second place. Anish Giri finished third, while Garry Kasparov continued to struggle against his younger opponents. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-5",
-         "pubDate" : "Sun, 11 Jul 2021 23:10:00 +0100",
-         "title" : "MVL wins Croatia GCT with a round to spare, Anand shines"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1200",
-         "pubDate" : "Sun, 11 Jul 2021 19:57:09 +0000",
-         "title" : "FIDE World Cup opens in Sochi"
       }
    ]
 }
