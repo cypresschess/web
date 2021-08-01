@@ -26,14 +26,6 @@ news_feed (
          "title" : "Biel Chess festival: India's Karthikeyan Murali stays in front"
       },
       {
-         "description" : "Cherry Hill, New Jersey is the temporary gathering place of U.S. chess players. Already completed are the Third International Koltanowski Conference on Chess in Education, the Second Annual FM Sunil Weeramantry National Blitz Tournament of State Champions, and the first round of the tournaments of state champions and the traditional schedule of the U.S. Open. | Pictured: The playing hall during the Weeramantry National Blitz Tournament of State Champions",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-open-chess-events-masked-and-spirited",
-         "pubDate" : "Sun, 01 Aug 2021 17:30:00 +0100",
-         "title" : "U.S. Open Chess Events: Masked and Spirited"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
