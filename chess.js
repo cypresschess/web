@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Wesley So leads the Chessable Masters&#39; preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and GM Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. H...",
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Sun, 01 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 38th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at critical moves. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-38-the-critical-move-1",
+         "pubDate" : "Sun, 01 Aug 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 38: The Critical Move (1)"
+      },
+      {
+         "description" : "Wesley So ended day 1 of the Chessable Masters in clear first place on 4/5, with the chasing pack of Vladislav Artemiev, Hikaru Nakamura and Alireza Firouzja half a point back. One of Wesley's wins was from a position where 12-year-old Abhimanyu Mishra looked in complete control, with the world's youngest ever grandmaster impressing a watching Magnus Carlsen despite having only a draw against Humpy Koneru to show for his first day. Levon Aronian and Harikrishna are among the stars who would be knocked out if the prelims ended now.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-day-1-wesley-so-top-mishra-s-baptism-of-fire",
+         "pubDate" : "Sun, 01 Aug 2021 12:55:24 +0000",
+         "title" : "Chessable Masters 1: Wesley So top, Mishra's baptism of fire"
+      },
+      {
+         "description" : "After a rest day, the action continues at the World Cups in Sochi. The open section sees Magnus Carlsen facing Jan-Krzysztof Duda and Sergey Karjakin facing Vladimir Fedoseev in the semifinals, while the final in the women's section, between Aleksandra Goryachkina and Alexandra Kosteniuk (pictured), is played concurrently with the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Sun, 01 Aug 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "GM Wesley So leads the Chessable Masters&#38;nbsp;preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-day-1-so-mishra",
@@ -1754,14 +1786,6 @@ news_feed (
          "title" : "International Chess Day celebrated on July 20"
       },
       {
-         "description" : "There were an amazing 28 decisive games and just 20 draws as Round 3 of the FIDE World Cup began, with Magnus Carlsen among the winners after tricking Aryan Tari in time trouble. Major upsets saw world no. 6 Shakhriyar Mamedyarov lose the fastest decisive game of the day, to Haik Martirosyan, while Yu Yangyi (vs. Tabatabaei), Jorden van Foreest (Piorun), Salem Saleh (Brkic) and Matthias Bluebaum (Ivic) must all win on Monday to stay in the World Cup. 17-year-old Carissa Yip scored the standout win of the women's section, beating Nana Dzagnidze with Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-1-mamedyarov-yu-among-28-in-danger",
-         "pubDate" : "Mon, 19 Jul 2021 11:24:04 +0000",
-         "title" : "FIDE World Cup 3.1: Mamedyarov & Yu among 28 in danger"
-      },
-      {
          "description" : "Solving tactical exercises regularly keeps you in shape, helps you to play better and helps you to score more points but it can also make you happy. After all, solving a puzzle usually leads to a little dopamine rush. Mattis Traetmar is a great fan of solving tactical exercises and has selected eight nice examples for you - some of them well-known, some of them rather simple and some of them more difficult.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2448,30 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-new-way-against-the-bogo-indian",
          "pubDate" : "Sun, 11 Jul 2021 19:00:00 +0100",
          "title" : "A new way against the Bogo-Indian"
-      },
-      {
-         "description" : "The Croatian leg of the Grand Chess Tour is taking place on July 7-11 at the Kongresni Centar in Zagreb. A rapid and blitz event, it features 9 rounds of rapid chess and 18 rounds of blitz. Remarkably, both Vishy Anand and Garry Kasparov are participating, with the latter only playing the blitz section, on Saturday and Sunday. | Follow the action live starting at 15.00 CEST (13.00 UT, 09.00 ET) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-live",
-         "pubDate" : "Sun, 11 Jul 2021 14:50:00 +0100",
-         "title" : "Croatia Grand Chess Tour - MVL wins!"
-      },
-      {
-         "description" : " Philadelphia was back in full force as a city that has made &#8220;Independence Day&#8221; an iconic holiday. It is also the home of the largest open chess tournament, the World Open. Last weekend the Continental Chess Association hosted the 49th edition at the Sheraton on 201 North 17th St. This tournament is where the magic [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/\">Niemann wins 2021 World Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/11/niemann-wins-49th-world-open/",
-         "pubDate" : "Sun, 11 Jul 2021 12:53:09 +0000",
-         "title" : "Niemann wins 2021 World Open"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 35th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-35-development-advantage-1",
-         "pubDate" : "Sun, 11 Jul 2021 13:00:00 +0100",
-         "title" : "Understanding before Moving 35: Development advantage (1)"
       }
    ]
 }
