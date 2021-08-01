@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Two positions taken from Ray Cannon's excellent new book of endgame stratagems. It's White to play in each case. White has to move his king to the f-file, but should you choose f1 or f2? The answer is that you have to move your king to the same colour square as that occupied by the <a href=\"https://chessimprover.com/battle-of-endgames-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Battle of Endgames: 2\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/battle-of-endgames-2/\">Battle of Endgames: 2</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/battle-of-endgames-2/",
+         "pubDate" : "Sun, 01 Aug 2021 06:15:50 +0000",
+         "title" : "Battle of Endgames: 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> July 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/july-2021-chess-puzzle-answer-key",
+         "pubDate" : "Sun, 01 Aug 2021 05:00:00 +0000",
+         "title" : "July 2021 Chess Puzzle Answer Key "
+      },
+      {
          "description" : "Nihal Sarin and Kirill Alekseenko had the strongest performances at the blitz tournament, one of three events that make up the Grandmaster Triathlon at the Biel Chess Festival. Gata Kamsky is still leading the overall standings, but is now only 1&frac12; points ahead of Nihal and Alekseenko. | Photos and report: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1230",
          "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
          "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Hans Niemann talks to the team after Round 6 of the 2021 U.S. Junior Championship. 2021.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senior-championships-hans-niemann-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D6vHc-lGQBI.jpg?itok=nImpghfv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-hans-niemann-interview-round-6",
-         "pubDate" : "Mon, 26 Jul 2021 19:58:34 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Hans Niemann Interview | Round 6"
       },
       {
          "description" : "GM Hans Niemann won the U.S. Junior Championship on Sunday in St. Louis. The 18-year-old grandmaster and chess streamer finished on 6/9, half a point more than a group of five players. IM Annie Wang won the girls&#39; section. GM Gregory Kaidanov de...",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
       },
       {
-         "description" : " Covering &#8216;X' was always going to be a challenge so I cheated with some spellings. Several different Exchange Variations are possible, for example in the French (1.e4 e6 2.d4 d5 3.exd5) and Slav (1.d4 d5 2.c4 c6 3.cxd5) Defences. The one I have in mind is the Exchange Variation of the Ruy Lopez with 1.e4 <a href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"X-terminate 'em with the X-change Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/x-terminate-em-with-the-x-change-variation/\">X-terminate 'em with the X-change Variation</a> appeared first on <a rel=\"nofol",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/x-terminate-em-with-the-x-change-variation/",
-         "pubDate" : "Wed, 14 Jul 2021 16:44:18 +0000",
-         "title" : "X-terminate 'em with the X-change Variation"
-      },
-      {
          "description" : " <h2>Ian Nepomniachtchi is a Russian GM, World #No4, and the next challenger against Magnus Carlsen!</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_--min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <h2>Today Ian turns 31 🎉🎉</h2> What should you absolutely know about the next challenger? <ol start=\"1\"> <li>His nickname is Nepo (short for Nepomniachtchi)</li> <li>He was born in Bryansk, Russia</li> <li>In 2002 he won the World Junior Championship U12, barely edging out Carlsen, whom he outrated at that point.</li> <li>He became a Grandmaster at the age of 17 in 2007</li> <li>In 2010, Nepomniachtchi won his first Russian Championship, defe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2496,14 +2496,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-cup-2021-opens-today/",
          "pubDate" : "Sun, 11 Jul 2021 07:42:24 +0000",
          "title" : "FIDE WORLD CUP 2021 OPENS TODAY"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1198",
-         "pubDate" : "Sun, 11 Jul 2021 06:45:56 +0000",
-         "title" : "Day 4 Recap"
       }
    ]
 }
