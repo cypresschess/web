@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Raunak Sadhwani on Saturday defeated IM Christopher Yoo in the first quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-qf-sadhwani-beats-yoo",
+         "pubDate" : "Sun, 01 Aug 2021 12:10:09 -0700",
+         "title" : "Junior Speed Chess Championship QF: Sadhwani Beats Yoo"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1242",
+         "pubDate" : "Sun, 01 Aug 2021 18:09:35 +0000",
+         "title" : "Round 7 Game 01: Kosteniuk pulls ahead in the Women's final"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84953384.cms\" />Indian Grandmaster Karthikeyan Murali defeated higher-rated compatriot S P Sethuraman in the sixth round here on Sunday to grab the lead in the Master Tournament being held as part of the Biel Chess Festival. The 37-move win for Karthikeyan (Elo 2606 as against his opponent's 2644) took him to 5.5 points from six rounds and gave him a clear lead in the 73-player field.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indias-karthikeyan-murali-stays-in-front/articleshow/84953384.cms",
+         "pubDate" : "Sun, 01 Aug 2021 22:45:48 +0530",
+         "title" : "Biel Chess festival: India's Karthikeyan Murali stays in front"
+      },
+      {
+         "description" : "Cherry Hill, New Jersey is the temporary gathering place of U.S. chess players. Already completed are the Third International Koltanowski Conference on Chess in Education, the Second Annual FM Sunil Weeramantry National Blitz Tournament of State Champions, and the first round of the tournaments of state champions and the traditional schedule of the U.S. Open. | Pictured: The playing hall during the Weeramantry National Blitz Tournament of State Champions",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-open-chess-events-masked-and-spirited",
+         "pubDate" : "Sun, 01 Aug 2021 17:30:00 +0100",
+         "title" : "U.S. Open Chess Events: Masked and Spirited"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1241",
+         "pubDate" : "Sun, 01 Aug 2021 16:16:41 +0000",
+         "title" : "Online Cadets and Youth World Cup 2021 kicks off on Tornelo"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -111,7 +151,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-nihal-sarin-shines-in-blitz-event-wins-eight-games/articleshow/84928969.cms",
          "pubDate" : "Sat, 31 Jul 2021 22:30:08 +0530",
-         "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event, wins eight games"
+         "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84925272.cms\" /> Five-time world champion Viswanathan Anand will be leading the Indian team in the second online chess Olympiad which is scheduled to be held from 8-15 September. The Indian team had jointly won the gold medal alongside main competitors Russia in the inaugural edition last year.",
@@ -152,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-round-4-kamsky-and-gelfand-draw",
          "pubDate" : "Sat, 31 Jul 2021 13:30:00 +0100",
          "title" : "Biel, Round 4: Kamsky and Gelfand draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1238",
-         "pubDate" : "Sat, 31 Jul 2021 12:15:49 +0000",
-         "title" : "Chess for Protection: FIDE and UNHCR introduce a chess project for refugees"
       },
       {
          "description" : "Sergey Karjakin has reached a record 4th World Cup semi-final after coming back yet again to beat Sam Shankland despite suffering a thumping defeat in the first tiebreak game. Sergey, who said there's no special secret to his comebacks, will play Vladimir Fedoseev for a place in the final and a spot in the 2022 Candidates Tournaments. The Women's World Cup will be an all-Russian battle between Aleksandra Goryachkina and Alexandra Kosteniuk after they both won with white, against Anna Muzychuk and Tan Zhongyi, who now play the 3rd place match.",
@@ -280,6 +312,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship-entries-open/",
          "pubDate" : "Fri, 30 Jul 2021 12:53:54 +0000",
          "title" : "British Junior Rapid & Blitz Championship - entries open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1238",
+         "pubDate" : "Fri, 30 Jul 2021 12:15:49 +0000",
+         "title" : "Chess for Protection: FIDE and UNHCR introduce a chess project for refugees"
       },
       {
          "description" : "",
@@ -1986,14 +2026,6 @@ news_feed (
          "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84506697.cms\" />Indian Grandmaster Vidit Santosh Gujrathi defeated Brazil's Alexandr Fier in the tie-break on Saturday to secure a spot in the third round of the men's event in the FIDE chess World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-enters-3rd-round-gukesh-padmini-rout-ousted/articleshow/84506697.cms",
-         "pubDate" : "Sat, 17 Jul 2021 22:16:42 +0530",
-         "title" : "Chess WC: Vidit Gujrathi enters 3rd round, Gukesh, Padmini Rout ousted"
-      },
-      {
          "description" : "Polish grandmaster Mateusz Bartel had a difficult time in the first rounds of the Deutschland Grand Prix, but he could land a nice attacking win with Black against Andreas Heimann. The remaining four games ended drawn, but had a lot to offer, with leader Pavel Eljanov sacrificing a queen against Ruslan Ponomariov. | Pictured: Bartel facing Eljanov in round 4",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2456,22 +2488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1200",
          "pubDate" : "Sun, 11 Jul 2021 19:57:09 +0000",
          "title" : "FIDE World Cup opens in Sochi"
-      },
-      {
-         "description" : " The San Fermin Masters Final was a Chess24 blitz event that took place 10th to 11th July 2021. Four players (Eduardo Iturrizaga Bonelli, Le Quang Liem, Jaime Santos Latasa and Nodirbek Abdusattorov) qualified in events broadcast on Chess24's Spanish service and they were joined by World Champion Magnus Carlsen, Wesley So, Ding Liren and Levon Aronian. 8-player knockout tournament, each match consists of eight 3+2 blitz games plus tie-breaks if tied 4-4. Magnus Carlsen beat Levon Aronian 5-3 in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/san-fermin-masters-final-2021",
-         "pubDate" : "Sun, 11 Jul 2021 22:18:00 +0400",
-         "title" : "San Fermin Masters Final 2021 - Games and Results"
-      },
-      {
-         "description" : "Against the Bogo-Indian, White usually builds up with 5.g3. However, a practical disadvantage of this move is the fact that Black is usually very familiar with the variations that arise. Following an example of Sam Shankland, Lars Schandorff got interested in the new idea 5.e3, \"that quickly leads to much less explored positions full of new possibilities for both sides\". In the new ChessBase Magazine #202, the Danish GM takes a closer look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-way-against-the-bogo-indian",
-         "pubDate" : "Sun, 11 Jul 2021 19:00:00 +0100",
-         "title" : "A new way against the Bogo-Indian"
       }
    ]
 }
