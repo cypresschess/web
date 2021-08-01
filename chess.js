@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So leads the Chessable Masters&#39; preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and GM Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. H...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chessable-masters-day-1-so-mishra",
+         "pubDate" : "Sun, 01 Aug 2021 03:15:00 -0700",
+         "title" : "Chessable Masters Day 1: So Leads; Tough Start For Mishra"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1240",
+         "pubDate" : "Sun, 01 Aug 2021 08:47:15 +0000",
+         "title" : "FIDE distributes an additional €35,000 among chess seniors"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1239",
+         "pubDate" : "Sun, 01 Aug 2021 08:30:48 +0000",
+         "title" : "$100,000 Chessable Masters gets underway"
+      },
+      {
          "description" : " Two positions taken from Ray Cannon's excellent new book of endgame stratagems. It's White to play in each case. White has to move his king to the f-file, but should you choose f1 or f2? The answer is that you have to move your king to the same colour square as that occupied by the <a href=\"https://chessimprover.com/battle-of-endgames-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Battle of Endgames: 2\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/battle-of-endgames-2/\">Battle of Endgames: 2</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2090,14 +2114,6 @@ news_feed (
          "title" : "Severino and Mendoza win Asian Chess Championship for Players with Disabilities"
       },
       {
-         "description" : "Chess.com is excited to announce this year&#39;s second annual ChessKid Youth Speed Chess Championship, kicking off on July 17 and 18! Eight of the best young chess prodigies in the world (age 10 or under as of January 1, 2021) will go toe-to-toe in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesskid-2021-youth-speed-chess-championship",
-         "pubDate" : "Thu, 15 Jul 2021 13:37:00 -0700",
-         "title" : "Announcing The Second Annual ChessKid Youth Speed Chess Championship Starting July 17"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2456,46 +2472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-35-development-advantage-1",
          "pubDate" : "Sun, 11 Jul 2021 13:00:00 +0100",
          "title" : "Understanding before Moving 35: Development advantage (1)"
-      },
-      {
-         "description" : "It was a tough day at the office for Garry Kasparov in Zagreb. The former world champion scored &frac12; point in the 9 rounds of blitz played at the Croatia Grand Chess Tour. The strongest performer in the first half of the blitz section was Maxime Vachier-Lagrave, who collected 6&frac12; points and goes into the last day of action a half point behind sole leader Ian Nepomniachtchi. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/croatia-grand-chess-tour-2021-day-4",
-         "pubDate" : "Sun, 11 Jul 2021 11:05:00 +0100",
-         "title" : "GCT Croatia: Nepo leads as Kasparov struggles"
-      },
-      {
-         "description" : " Garry Kasparov had a pretty rough time of it at the Croatia Rapid and Blitz, scoring a disastrous 0.5/9. The obvious explanation is simply lack of practice, and this seemed to contribute to both poor opening play, and a shortage of time when he did get some decent positions. The other possible reason (connected to opening choices) is that theory has moved on over the last 20 years, some positions that Kasparov thought were playable may no longer be so. When I mentioned the result to my daughter she replied \"That's the same score that I got in my most recent chess tournament!\" (She stopped playing around the age of 8) <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/a-pretty-vicious-burn.html",
-         "pubDate" : "Sun, 11 Jul 2021 09:52:00 +0000",
-         "title" : "A pretty vicious burn"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1199",
-         "pubDate" : "Sun, 11 Jul 2021 09:42:01 +0000",
-         "title" : "Bachar Kouatly appointed as Reverse Delegate for Morocco"
-      },
-      {
-         "description" : "Anand took down Kasparov in 30 moves in a Sicillian Najdorf variation game in the fourth round of the Blitz event.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/31798568/viswanathan-anand-beats-garry-kasparov-croatia-grand-chess-tour?device=featurephone",
-         "pubDate" : "Sun, 11 Jul 2021 02:43:02 -0500",
-         "title" : "Anand beats Kasparov in Grand Chess Tour"
-      },
-      {
-         "description" : "The FIDE World Cup 2021 and FIDE Women's World Cup 2021 open today in Sochi, Russia. The events will be simultaneously played in a knockout system. 206 players will participate in the Open event and 103 participants in Women's World Cup. Not only that this year the list of participants is extended, but FIDE World Cup 2021 features&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-cup-2021-opens-today/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-cup-2021-opens-today/",
-         "pubDate" : "Sun, 11 Jul 2021 07:42:24 +0000",
-         "title" : "FIDE WORLD CUP 2021 OPENS TODAY"
       }
    ]
 }
