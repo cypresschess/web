@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1245",
+         "pubDate" : "Mon, 02 Aug 2021 18:35:49 +0000",
+         "title" : "Alexandra Kosteniuk, Women's World Cup Champion!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84983690.cms\" />India's Nihal Sarin drew his game against Vincent Keymer of Germany in the fifth round of the classical event in the Grandmaster Triathlon being played as part of the Biel Chess Festival on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-sarin-settles-for-draw-with-keymer/articleshow/84983690.cms",
+         "pubDate" : "Mon, 02 Aug 2021 22:47:52 +0530",
+         "title" : "Biel Chess festival: Indian GM Sarin settles for draw with Keymer"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski analyzes important games from the ongoing 2021 Chess World Cup. 2021.08.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/games-week-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5d8OIACng4w.jpg?itok=BnTNpSEP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/games-week-gm-robert-hungaski-lichessorg",
+         "pubDate" : "Mon, 02 Aug 2021 17:05:05 +0000",
+         "title" : "Games of the Week - GM Robert Hungaski | lichess.org"
+      },
+      {
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Che",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/",
+         "pubDate" : "Mon, 02 Aug 2021 16:05:14 +0000",
+         "title" : "2021 FIDE World Cup: Semis (Open), Finals (Women)"
+      },
+      {
          "description" : "In the \"Endgame Magic Show #154\" Karsten Mueller and his guest Arne Kaehler take another look at endgame highlights from the Goldmoney Asian Online Rapid Tournament that ended early July and was won by Levon Aronian. Karsten and Arne were particularly fascinated by a tactically complicated endgame position in which Nihal Sarin missed a win against Anish Giri. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Mon, 02 Aug 2021 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1244",
+         "pubDate" : "Mon, 02 Aug 2021 15:46:07 +0000",
+         "title" : "FIDE launches Chess for Protection project for refugees"
       },
       {
          "description" : "Happy Birthday to President Dr Sanjay Kapoor! The entire AICF fraternity wishes you the very best and we are sure that you will lead the",
@@ -38,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-joins-world-chess-championship-commentary",
-         "pubDate" : "Mon, 02 Aug 2021 07:56:22 -0700",
+         "pubDate" : "Mon, 02 Aug 2021 07:56:00 -0700",
          "title" : "GM Fabiano Caruana Joins Chess.com World Championship Commentary Team"
       },
       {
@@ -362,7 +402,7 @@ news_feed (
          "title" : "Rollercoaster"
       },
       {
-         "description" : " Share!300 Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Organizers? Arbiters? Politicians? Journalists? Authors? Commentators? Are we those who only want to compete? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players have [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Organizers? Arbiters? Politicians? Journalists? Authors? Commentators? Are we those who only want to compete? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players have various [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
@@ -538,7 +578,7 @@ news_feed (
          "title" : "U.S. \"Undercard\" Champions: Niemann, Kaidanov, and Wang"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess class on a topic of his choice. 2021.07.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iItvLDvZkqc.jpg?itok=Pz_Gx7lH\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess class on a topic of his choice. 2021.08.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iItvLDvZkqc.jpg?itok=Pz_Gx7lH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-robert-hungaski",
@@ -1032,14 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d2",
          "pubDate" : "Tue, 27 Jul 2021 03:50:00 +0100",
          "title" : "World Cup: Shankland and Vidit go through"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the 11th time in 12 years at the Saint Louis Chess Club, the U.S. Junior Championship determines the best player in the nation under 21. Alongside the U.S. Senior and U.S. Girls' Championships, these three round robin events each feature ten players. Join GMs Cristian Chirila, Yasser Seirawan, and broadcast journalist Sharon Carpenter for the move-by-move. 2021.07.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-junior-us-senio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-junior-us-senior-championships-playoff",
-         "pubDate" : "Tue, 27 Jul 2021 01:58:43 +0000",
-         "title" : "2021 U.S. Junior & U.S. Senior Championships: Playoff"
       },
       {
          "description" : " From the publisher: &#8220;Goethe once wrote, &#8220;Everything is both simpler than we can imagine, and more complicated than we can conceive.&#8221; He could well have had chess endgames in mind. Endgames have fewer pieces on the board than middlegames but this does not necessarily make them &#8220;easier&#8221; to play or understand. Tactical expertise is, understandably, <a href=\"http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tactical Training In The Endgame</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/27/tactical-trainin",
@@ -2008,14 +2040,6 @@ news_feed (
          "link" : "https://chessimprover.com/comeback-kid/",
          "pubDate" : "Sun, 18 Jul 2021 16:55:10 +0000",
          "title" : "Comeback Kid"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84529965.cms\" />Indian Grandmasters Vidit Santosh Gujrathi, P Harikrishna and teen prodigy R Praggnanandhaa took a big step towards a spot in the fourth round of FIDE Chess World Cup here on Sunday by posting wins in the first game of the two-game mini-match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-harikrishna-praggnanandhaa-post-victories/articleshow/84529965.cms",
-         "pubDate" : "Sun, 18 Jul 2021 22:25:06 +0530",
-         "title" : "Chess World Cup: Vidit Gujrathi, Harikrishna, Praggnanandhaa post victories"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84525668.cms\" /> India's GM Viswanathan Anand won the Sparkassen Trophy after playing out a draw in his fourth and final round 'No Castling' game' against longtime rival Vladimir Kramnik of Russia on Sunday. Playing white in a Tarrasch variation, Anand, a former world champion, settled for a draw in 40 moves, to win the match 2.5-1.5.",
