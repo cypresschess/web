@@ -666,7 +666,7 @@ news_feed (
          "title" : "World Cup: Carlsen's close call"
       },
       {
-         "description" : " The pairings of the next round are out. You have around 18 hours to prepare against your now-known opponent. What do you do at this time? And what would a Grandmaster do in this time? That is what I am going to answer in this article. The short version is: Gather information on the opponent [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/\">How To Prepare Against An Opponent In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " The pairings of the next round are out. You have around 18 hours to prepare against your upcoming opponent. What do you do at this time? And what would a Grandmaster do in this time? That is what I am going to answer in this article. The short version is: Gather information on the opponent [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/\">How To Prepare Against An Opponent In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/",
@@ -2472,14 +2472,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-magazine-june-2021/",
          "pubDate" : "Mon, 12 Jul 2021 07:23:39 +0000",
          "title" : "ECU MAGAZINE JUNE 2021"
-      },
-      {
-         "description" : " From the publisher: &#8220;Improve your ability to take calculated risks! In order to win a game of chess you very often have to sacrifice material. Gathering the courage to do so while accurately assessing the potential benefits is a real challenge. The big question is always: what's my compensation? Generations of chess players grew up <a href=\"http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beyond Material Ignore the Face Value of Your Pieces</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/12/beyond-materia",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/12/beyond-material-ignore-the-face-value-of-your-pieces/",
-         "pubDate" : "Mon, 12 Jul 2021 00:10:32 +0000",
-         "title" : "Beyond Material - Ignore the Face Value of Your Pieces"
       }
    ]
 }
