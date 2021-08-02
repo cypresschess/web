@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you look at games by very strong positional players, you may get the impression that they don't like tactics and are perhaps not corruscatingly good at them. But this is almost always a mirage. Star columnist Jon Speelman looks at three excellent attacking wins by world champion Magnus Carlsen. | Photo: Anastasiia Korolkova / FIDE World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-151",
+         "pubDate" : "Mon, 02 Aug 2021 07:00:00 +0100",
+         "title" : "Blood pudding"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84964657.cms\" />Wesley So's unbeaten streak stretched to 10 games on Sunday as the US Champ held onto a slim lead in the $100,000 Chessable Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-wesley-so-stays-ahead-of-the-pack/articleshow/84964657.cms",
+         "pubDate" : "Mon, 02 Aug 2021 09:57:30 +0530",
+         "title" : "Chessable Masters: Wesley So stays ahead of the pack"
+      },
+      {
          "description" : " The 2021 Online Chess Olympiad is starting soon, and the tournament website has gone up at <a href=\"https://onlineolympiad.fide.com/\">https://onlineolympiad.fide.com/</a> The deadline for entries closed yesterday, and the allocation of teams should take place shortly. As with all these large scale activities, not every federation was organised, and late entries are still being taken from some countries. This years event will follow the same format as last years, with pools of 10 teams playing a round robin over the weekend (Fri, Sat, Sun). Each division has 5 pools (to account for differing time zones), with 3 teams from each pool being promoted to the next division. 35 teams are seeded int",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad.html",
          "pubDate" : "Sun, 01 Aug 2021 23:03:00 +0000",
          "title" : "2021 Online Chess Olympiad"
-      },
-      {
-         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Sun, 01 Aug 2021 23:55:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "GM Raunak Sadhwani on Saturday defeated IM Christopher Yoo in the first quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. T...",
@@ -2002,14 +2010,6 @@ news_feed (
          "title" : "No Castling Chess: Anand misses his chance"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84517420.cms\" />Former world chess champion Viswanathan Anand was held to a draw by a fighting Vladimir Kramnik in the third game of their four-game No-Castling match for the Sparkassen Chess Trophy here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-viswanathan-anand-held-to-draw-by-vladimir-kramnik-all-to-play-for-in-decider/articleshow/84517420.cms",
-         "pubDate" : "Sun, 18 Jul 2021 10:28:40 +0530",
-         "title" : "Anand held to draw by Kramnik, all to play for in decider"
-      },
-      {
          "description" : " \"Only\" 64 players are left in the <a href=\"https://worldcup.fide.com/\">2021 FIDE World Cup</a>, a massive knockout event in Sochi, Russia. While Magnus Carlsen is participating and plenty of money is at stake, its primary function is to find two qualifiers for the 2022 Candidates, with the next six qualifying for the FIDE Grand Prix next year (unless the player in question is the world champion or qualified for the Candidates through another path). We'll worry about all of that later; for the time being, let's see how the tournament is going. The top two seeds are alive and kicking - Carlsen had a bye in round 1, and won in round 2 2-0 over Sasa Martinovic. Fabiano Caruana had a bye in roun",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2464,14 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1201",
          "pubDate" : "Mon, 12 Jul 2021 07:50:08 +0000",
          "title" : "Maxime Vachier-Lagrave wins Croatia GCT"
-      },
-      {
-         "description" : "ECU E-Magazine June 2021 is out! In this edition of the ECU E-Magazine you may read about: Mediterranean Chess Championship 2021 Communique of the ECU Board Meeting Preview and information about 6 announced ECU events Queen's Chess Festival FIDE ECU International Organisers Seminar ECU EDU Activities Arbiters Corner Fun Zone The June 2021 edition of the ECU E-Magazine&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-june-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-magazine-june-2021/",
-         "pubDate" : "Mon, 12 Jul 2021 07:23:39 +0000",
-         "title" : "ECU MAGAZINE JUNE 2021"
       }
    ]
 }
