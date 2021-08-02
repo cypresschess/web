@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the \"Endgame Magic Show #154\" Karsten Mueller and his guest Arne Kaehler take another look at endgame highlights from the Goldmoney Asian Online Rapid Tournament that ended early July and was won by Levon Aronian. Karsten and Arne were particularly fascinated by a tactically complicated endgame position in which Nihal Sarin missed a win against Anish Giri. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-2",
+         "pubDate" : "Mon, 02 Aug 2021 17:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #154"
+      },
+      {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Mon, 02 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Happy Birthday to President Dr Sanjay Kapoor! The entire AICF fraternity wishes you the very best and we are sure that you will lead the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birhtday-mr-president/",
+         "pubDate" : "Mon, 02 Aug 2021 15:28:37 +0000",
+         "title" : "HAPPY BIRHTDAY MR. PRESIDENT"
+      },
+      {
+         "description" : "Wesley So continues to top the standings of the preliminaries at the Chessable Masters after 10 rounds. Levon Aronian and Le Quang Liem had a great second day and climbed to shared second place, a half point behind So. The last 5 rounds of the preliminary stage will be played on Monday, with half the field set to advance to the quarterfinals. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-2",
+         "pubDate" : "Mon, 02 Aug 2021 16:20:00 +0100",
+         "title" : "Chessable Masters: Aronian and Le climb to shared second place"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce that GM Fabiano Caruana, the 2018 world championship challenger, #1 rated American chess player, and longtime #2 player in the world, will be a Chess.com commentator for the 2021 World Chess Championship! The lege...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-joins-world-chess-championship-commentary",
+         "pubDate" : "Mon, 02 Aug 2021 07:56:22 -0700",
+         "title" : "GM Fabiano Caruana Joins Chess.com World Championship Commentary Team"
+      },
+      {
+         "description" : "Wesley So still leads the Chessable Masters after Day 2, but he's now followed just half a point behind by Levon Aronian, who stormed up from 10th place to 2nd after scoring 4.5/5. Liem Quang Le is level with Levon after scoring the day's second best score of 4/5, while Shakhriyar Mamedyarov played some spectacular chess on the way to scoring 3.5/5 and climbing from 9th to 5th. Of course for some to climb others must fall, and David Anton plunged from 6th to 13th after failing to score any points on Day 2.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-2-levon-s-perfect-day",
+         "pubDate" : "Mon, 02 Aug 2021 14:15:15 +0000",
+         "title" : "Chessable Masters 2: Levon's perfect day"
+      },
+      {
+         "description" : " <p class=\"lead\">New features and updates for the <a href=\"https://arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Number of people waiting to get paired</h2> Arena is a new but growing platform, and the number of users is increasing every day, and the wait to be paired has gone down dramatically, to less than 5 seconds in most cases. We've added a very useful indicator on the front page - number of people who are waiting for an opponent. To start a new game, you can choose a time control and type of rating (unrated, or FIDE-rated), or click on the list of players who are wai",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-july-2021/",
+         "pubDate" : "Mon, 02 Aug 2021 14:01:31 +0000",
+         "title" : "What's New on FIDE Online Arena - July 2021"
+      },
+      {
+         "description" : "The open section of the FIDE World Cup sees Magnus Carlsen facing Jan-Krzysztof Duda and Sergey Karjakin facing Vladimir Fedoseev in the semifinals, while the final in the women's section, between Aleksandra Goryachkina and Alexandra Kosteniuk, is played concurrently with the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Mon, 02 Aug 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "On Sunday, 1 August, the players in the Grandmaster Tournament at the Biel Chess Festival had a rest day, on Monday, 2 August, they play again. In round 5 Nihal Sarin and Vincent Keymer, two of the world's most talented juniors, test their skills, Alan Pichot plays against Gata Kamsky, Boris Lagarde faces Maxime Lagarde and Kirill Alekseenko meets Noel Studer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Mon, 02 Aug 2021 13:50:00 +0100",
+         "title" : "Biel: Round 5 - Live!"
+      },
+      {
+         "description" : " In the 1970's English player Jonathan Mestel revived a very old line of the Philidor. Taking his inspiration from Philidor himself, Mestel played an early f5, inviting his opponent to overestimate his chances. After a win in the 1975 World Junior against Paul van der Sterren, Mestel was chided by another competitor, Peter Nurmi, for playing 'such rubbish'. Then the following happened <br /> <br /> <b>Nurmi,Peter - Mestel,A Jonathan [C41]</b><br />Wch U20 Tjentiste (13), 08.1975 <script>new PgnViewer( { boardName: \"game1262\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 f5 4.Bc4 exd4 5.Ng5 Nh6 6.Nxh7 Ng4 7.Nxf8 Kxf8 8.exf5 Qe7+ 9.Kf1 Bxf5 10.Qxd4 Nxh2+ 11.Rxh2 Rxh2 12.Be3 Qe4 13.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/be-careful-what-you-ask-for.html",
+         "pubDate" : "Mon, 02 Aug 2021 12:40:00 +0000",
+         "title" : "Be careful what you ask for"
+      },
+      {
          "description" : "After the long lockdown, the chess world is slowly returning to over-the-board FIDE-rated games. However, there are still only a few changes in the current world rankings list. Magnus Carlsen is still clear number one, a position he has been holding for more than ten years now, since July 2011. Number one on the women's list is Hou Yifan, who is 47 points ahead of Aleksandra Goryachkina. The two best juniors are Alireza Firouzja and Andrey Esipenko, number one on the \"Girls\"-list is Polina Shuvalova, number two Zhu Jiner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1241",
          "pubDate" : "Sun, 01 Aug 2021 16:16:41 +0000",
          "title" : "Online Cadets and Youth World Cup 2021 kicks off on Tornelo"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Sun, 01 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 38th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at critical moves. | Photo: Tommy Grooten",
@@ -1362,14 +1434,6 @@ news_feed (
          "title" : "2021 FIDE World Cup: Round #4"
       },
       {
-         "description" : "The National Amateur Online Chess Championship will be held from 06 Aug to 08 Aug 2021. The last date of entry is 03 Aug 21.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-online-chess-championships-2021/",
-         "pubDate" : "Fri, 23 Jul 2021 13:28:10 +0000",
-         "title" : "NATIONAL AMATEUR ONLINE CHESS CHAMPIONSHIPS 2021"
-      },
-      {
          "description" : "Round 4.1 of the FIDE Women's World Cup 2021 brought only two decisive results and 6 draws. One of them happened on the first board in the match between former World Champion Antoaneta Stefanova (Bulgaria 2463) and last World Championship challenger Aleksandra Goryachkina (Russia 2596). Stefanova won the game after Goryachkina fell into a trap []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1624,14 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-tiebreaks",
          "pubDate" : "Wed, 21 Jul 2021 04:07:00 -0700",
          "title" : "FIDE World Cup R3.3: Giri, Mamedyarov Out; MVL Survives In Armageddon"
-      },
-      {
-         "description" : "16-year-old Nodirbek Abdussatorov dumped Anish Giri out of the FIDE World Cup as the star names continued to fall in Round 3 tiebreaks. Shakhriyar Mamedyarov lost to 20-year-old Haik Martirosyan, which, with the loss of Fabiano Caruana the day before, means only Magnus Carlsen, Alexander Grischuk, Sergey Karjakin and Maxime Vachier-Lagrave remain from the Top 10 seeds. Maxime survived a huge scare to beat David Paravyan in Armageddon. The top seeds are dominating the women's event, but 17-year-old Bibisara Assaubayeva knocked out Bela Khotenashvili.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-3-giri-mamedyarov-join-mass-exodus",
-         "pubDate" : "Wed, 21 Jul 2021 11:06:09 +0000",
-         "title" : "FIDE World Cup 3.3: Giri & Mamedyarov join mass exodus"
       },
       {
          "description" : "An inexpensive chess set can sell for $20, but a handcrafted wooden set certified for the World Chess Championship costs $500. Much of the set's value lies in just one piece: the knight. Making this one piece takes two hours, and there are fewer than ten people trained to carve knights for the championship chess sets. It is fascinating to watch the high-end pieces being made.",
@@ -1962,6 +2018,14 @@ news_feed (
          "title" : "Chess World Cup: Vidit Gujrathi, Harikrishna, Praggnanandhaa post victories"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84525668.cms\" /> India's GM Viswanathan Anand won the Sparkassen Trophy after playing out a draw in his fourth and final round 'No Castling' game' against longtime rival Vladimir Kramnik of Russia on Sunday. Playing white in a Tarrasch variation, Anand, a former world champion, settled for a draw in 40 moves, to win the match 2.5-1.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-anand-holds-kramnik-wins-sparkassen-trophy/articleshow/84525668.cms",
+         "pubDate" : "Sun, 18 Jul 2021 20:43:22 +0530",
+         "title" : "No-Castling Chess: Anand holds Kramnik, wins Sparkassen Trophy"
+      },
+      {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2008,14 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d3",
          "pubDate" : "Sun, 18 Jul 2021 12:40:00 +0100",
          "title" : "World Cup: Firouzja and Dominguez knocked out"
-      },
-      {
-         "description" : "GM Leinier Dominguez and GM Alireza Firouzja did not survive the FIDE World Cup&#39;s second-round tiebreaks as they lost to Uzbek GMs Jakhongir Vakhidov and Javokhir Sindarov, respectively. Two matches were decided in wild armageddon games. How t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-tiebreaks-armageddon-firouzja-sindarov",
-         "pubDate" : "Sun, 18 Jul 2021 02:43:00 -0700",
-         "title" : "FIDE World Cup R2.3: Dominguez, Firouzja Out On Wild Armageddon Day"
       },
       {
          "description" : "Vishy Anand is still leading the No Castling chess match against Vladimir Kramnik. The Indian took the lead in game 1 and could have secured match victory in game 3, as he had a much better position with the white pieces. However, Kramnik managed to hold the draw in the end. The last game is set to take place today at 13.00 CEST.",
@@ -2362,14 +2418,6 @@ news_feed (
          "title" : "FIDE announces Online Olympiad 2021"
       },
       {
-         "description" : "The World Cup kicked off on Monday with a crowd of chess players even larger than usual - the main tournament has now 206 participants, while the Women's World Cup is taking place concurrently for the first time. Not surprisingly, a number of exciting games were seen in Sochi. We take a look at a very good-looking win by Chilean GM Pablo Salinas, and we share instructive endgame analyses by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d1",
-         "pubDate" : "Tue, 13 Jul 2021 15:10:00 +0100",
-         "title" : "World Cup: Salinas' astounding win and endgame analyses"
-      },
-      {
          "description" : " Due to the time zone differences, most of the action in the 2021 World Cup is happening past my bedtime. I can tell you the GM Elshan Moridiabadi has made it through to the 2nd round, although it appears that his opponent did not turn up. This also happened in a few other games, with some players having travel difficulties, either covid related or not. Oceania representative CM Elmer Prudente lost is first game yesterday, and is in a bit of trouble today. Australian representative GM Bobby Cheng drew against his almost identically rated opponent yesterday, and todays game is still even as I type this. This match might be headed to tie-breaks. However Round 2 is when the real actions starts ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2384,22 +2432,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/13/mdlvls44g924oxyqh37dea4d2vbje8",
          "pubDate" : "Tue, 13 Jul 2021 13:05:33 +0000",
          "title" : "Episode 234- GM Jonathan Levitt "
-      },
-      {
-         "description" : "Pia Cramling had the best start at the Swedish Championships in Helsingborg, but she could not keep up the pace. This allowed the young (born in 2002) IM Jung Min Seo to catch up and to become Swedish Champion 2021. | Photo: Swedish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jung-min-seo-wins-swedish-championships",
-         "pubDate" : "Tue, 13 Jul 2021 13:03:59 +0100",
-         "title" : "Jung Min Seo wins Swedish Championships"
-      },
-      {
-         "description" : "Pawn endings must be calculated precisely and the activity of the king is very important. In the diagram position White has a protected passed pawn on b6 but it is not immediately apparent whether this is enough to win. Do you have an idea how White can overcome Black's defensive set-up?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-the-wall",
-         "pubDate" : "Tue, 13 Jul 2021 09:00:00 +0100",
-         "title" : "Breaking the wall"
       },
       {
          "description" : "",
@@ -2424,46 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1203",
          "pubDate" : "Mon, 12 Jul 2021 20:33:51 +0000",
          "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1202",
-         "pubDate" : "Mon, 12 Jul 2021 15:13:47 +0000",
-         "title" : "Riga Technical University Open is back for a special 10th edition"
-      },
-      {
-         "description" : "At the turn of August and September this year, the European Senior Team Chess Championship 2021 will take place at the Don Giovanni Hotel in Prague, known for hosting the prestigious Prague International Chess Festival. The event was announced relatively recently, as the original organizer from Poland had to back out. We have extensive experience with senior events&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-press-release/",
-         "pubDate" : "Mon, 12 Jul 2021 14:51:36 +0000",
-         "title" : "European Senior Team Chess Championship 2021 - Press release"
-      },
-      {
-         "description" : "Magnus Carlsen seems to be well prepared for the World Cup. Before this big knockout event thats starts today, 12 July, the World Champion travelled to Pamplona in Spain to play a two-day knockout 3+2 blitz online tournament from there - with some of the world's best players. Carlsen, Wesley So, Ding Liren and Levon Aronian were seeded for the quarter-finals were they faced four qualifiers. Carlsen first won against Eduardo Iturrizaga Bonelli, then scored a surprisingly clear win against So and then went on to defeat Aronian in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-san-fermin-masters",
-         "pubDate" : "Mon, 12 Jul 2021 15:33:28 +0100",
-         "title" : "Magnus Carlsen wins San Fermin Masters"
-      },
-      {
-         "description" : " Arkady Dvorkovich, FIDE President Photo by Eric Rosen Today is a big day for the chess world as 309 players (206 open, 103 women) from 93 federations have assembled in Sochi, Russia to compete in the World Cup tournament. This will be the first event involving all federations since the COVID scourge swept the globe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/\">2021 FIDE World Chess Cup (Sochi, Russia)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/12/2021-world-chess-cup-sochi-russia/",
-         "pubDate" : "Mon, 12 Jul 2021 13:26:33 +0000",
-         "title" : "2021 FIDE World Chess Cup (Sochi, Russia)"
-      },
-      {
-         "description" : " The 2021 World Cup is underway, using the new format that was introduced after the 2019 event. The first round sees 78 matches, while the top 50 players get a bye into the second round. I did not manage to make this year (as either a player or official), so I am following it online. There are a number of places where you can watch the games, including chess24.com (which has the benefit of including analysis), and on youtube (which is the official FIDE stream). Elmer Prudente from Guam is the Oceania representative (which was my job last time), and will have a tough time playing the 51st seed on tonight's round. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup.html",
-         "pubDate" : "Mon, 12 Jul 2021 12:12:00 +0000",
-         "title" : "2021 World Cup"
       }
    ]
 }
