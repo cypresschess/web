@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the long lockdown, the chess world is slowly returning to over-the-board FIDE-rated games. However, there are still only a few changes in the current world rankings list. Magnus Carlsen is still clear number one, a position he has been holding for more than ten years now, since July 2011. Number one on the women's list is Hou Yifan, who is 47 points ahead of Aleksandra Goryachkina. The two best juniors are Alireza Firouzja and Andrey Esipenko, number one on the \"Girls\"-list is Polina Shuvalova, number two Zhu Jiner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/die-eloliste-vom-1-august",
+         "pubDate" : "Mon, 02 Aug 2021 11:58:04 +0100",
+         "title" : "FIDE ratings August 2021"
+      },
+      {
+         "description" : "Alexandra Kosteniuk took a huge step towards winning the Women's World Cup, as she defeated Aleksandra Goryachkina with the black pieces on Sunday. The remaining three games played in Sochi - both semifinals in the open and the women's match for third place - finished drawn. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d1",
+         "pubDate" : "Mon, 02 Aug 2021 10:16:00 +0100",
+         "title" : "World Cup: Kosteniuk wins rollercoaster game"
+      },
+      {
+         "description" : "Alexandra Kosteniuk won a rollercoaster game against Aleksandra Goryachkina to put her a draw with the white pieces away from winning the 2021 FIDE Women's World Cup. The first games of both semi-finals in the overall World Cup were drawn, with Jan-Krzysztof Duda finding some nice ideas to hold Magnus Carlsen to a draw with the black pieces. A curiosity of the day was that Fedoseev-Karjakin and the women's 3rd place match Tan Zhongyi-Muzychuk were identical for the first 12 moves, though the balance was never seriously upset in either game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-1-kosteniuk-close-duda-holds-carlsen",
+         "pubDate" : "Mon, 02 Aug 2021 09:07:39 +0000",
+         "title" : "FIDE World Cup 7.1: Kosteniuk close | Duda holds Carlsen"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk grabbed the lead in the Women&#39;s FIDE World Cup final on Sunday by winning a dramatic game vs. GM Aleksandra Goryachkina. GM Tan Zhongyi and GM Anna Muzychuk started their match for third place with a draw. Both games in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-finals-goryachkina-kosteniuk",
+         "pubDate" : "Mon, 02 Aug 2021 01:14:00 -0700",
+         "title" : "FIDE World Cup R7.1: Kosteniuk Dodges Bullet, Takes Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1243",
+         "pubDate" : "Mon, 02 Aug 2021 08:12:52 +0000",
+         "title" : "Winners crowned at Rudaga-Kaissa 2021 Festival"
+      },
+      {
          "description" : "When you look at games by very strong positional players, you may get the impression that they don't like tactics and are perhaps not corruscatingly good at them. But this is almost always a mirage. Star columnist Jon Speelman looks at three excellent attacking wins by world champion Magnus Carlsen. | Photo: Anastasiia Korolkova / FIDE World Cup",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-masters-day-1-wesley-so-top-mishra-s-baptism-of-fire",
          "pubDate" : "Sun, 01 Aug 2021 12:55:24 +0000",
          "title" : "Chessable Masters 1: Wesley So top, Mishra's baptism of fire"
-      },
-      {
-         "description" : "After a rest day, the action continues at the World Cups in Sochi. The open section sees Magnus Carlsen facing Jan-Krzysztof Duda and Sergey Karjakin facing Vladimir Fedoseev in the semifinals, while the final in the women's section, between Aleksandra Goryachkina and Alexandra Kosteniuk (pictured), is played concurrently with the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Sun, 01 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "GM Wesley So leads the Chessable Masters&#38;nbsp;preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. ...",
@@ -720,6 +752,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-lively-start-of-the-classical-tournament",
          "pubDate" : "Wed, 28 Jul 2021 09:34:11 +0100",
          "title" : "Biel: Lively start of the classical tournament"
+      },
+      {
+         "description" : "For the 2021/22 Fantasy Premier League why don't you join &#8216;Premier Chess', the number one League for chess players? Joining the league couldn't be easier....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2021/",
+         "pubDate" : "Wed, 28 Jul 2021 08:00:25 +0000",
+         "title" : "Premier League Fantasy Football 2021"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows the Philidor position in a rook and bishop vs. rook endgame and how to dominate, or slowly win, the position. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-think-endgame-insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
@@ -1690,14 +1730,6 @@ news_feed (
          "title" : "International Chess Day"
       },
       {
-         "description" : "Fabiano Caruana is out of the FIDE World Cup after a shock loss to Kazakhstan's Rinat Jumabayev. Fabi has dropped below Ding Liren on the live rating list, with Magnus Carlsen, who has now won all four games in Sochi, the only remaining member of the 2800 club. Yu Yangyi and Jorden van Foreest failed to mount comebacks, but Shakhriyar Mamedyarov, Adhiban, Jeffery Xiong and Michal Krasenkow succeeded, with the 57-year-old winning a stunning game against 15-year-old Praggnanandhaa. Valentina Gunina knocking out Harika Dronavalli is the only upset so far in Round 3 of the women's event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-3-2-caruana-is-out",
-         "pubDate" : "Tue, 20 Jul 2021 12:03:33 +0000",
-         "title" : "FIDE World Cup 3.2: Caruana is out!"
-      },
-      {
          "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#8220;Gens una Sumus&#8221; (Latin for &#8220;We are one Family&#8221;). Today, FIDE celebrates the 97th birthday anniversary and the whole World celebrates the International Chess Day! Two years ago, on 12 December 2019, the General Assembly of United Nations&#160;proclaimed&#160;20 July []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Pavel Eljanov wins Deutschland Grand Prix"
       },
       {
-         "description" : "We are pleased to announce that the English Junior Coaches and Organisers Association, with the support of the English Chess Federation, has teamed up with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-trainers-seminar-3/",
-         "pubDate" : "Mon, 19 Jul 2021 07:25:40 +0000",
-         "title" : "FIDE Trainers Seminar"
-      },
-      {
          "description" : " &#8220;Justin Tan is an International Grandmaster who has represented Australia in numerous international events. He is currently based in the UK and was previously British under-21 champion, British blitz champion and joint second runner-up at the British Championship. Justin has been a 1.e4 specialist throughout his playing career and is recognised for his deep opening <a href=\"http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.e4! The Chess Bible: The Chess Bible Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/202",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1936,14 +1960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-harikrishna-praggnanandhaa-post-victories/articleshow/84529965.cms",
          "pubDate" : "Sun, 18 Jul 2021 22:25:06 +0530",
          "title" : "Chess World Cup: Vidit Gujrathi, Harikrishna, Praggnanandhaa post victories"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84525668.cms\" /> India's GM Viswanathan Anand won the Sparkassen Trophy after playing out a draw in his fourth and final round 'No Castling' game' against longtime rival Vladimir Kramnik of Russia on Sunday. Playing white in a Tarrasch variation, Anand, a former world champion, settled for a draw in 40 moves, to win the match 2.5-1.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-anand-holds-kramnik-wins-sparkassen-trophy/articleshow/84525668.cms",
-         "pubDate" : "Sun, 18 Jul 2021 20:43:22 +0530",
-         "title" : "No-Castling Chess: Anand holds Kramnik, wins Sparkassen Trophy"
       },
       {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
@@ -2048,14 +2064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d2",
          "pubDate" : "Sat, 17 Jul 2021 11:40:00 +0100",
          "title" : "World Cup: Withdrawals, comebacks"
-      },
-      {
-         "description" : "The young Indian grandmasters Nihal Sarin and Praggnanandhaa R. are among the players who have reached the third round of the FIDE World Cup without needing a tiebreak. GMs Magnus Carlsen, Anish Giri, and Sergey Karjakin scored 2-0 in the second r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-2-day-2",
-         "pubDate" : "Sat, 17 Jul 2021 03:18:00 -0700",
-         "title" : "FIDE World Cup R2.2: Nihal, Praggnanandhaa Among Qualifiers For Round 3"
       },
       {
          "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
@@ -2456,14 +2464,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup.html",
          "pubDate" : "Mon, 12 Jul 2021 12:12:00 +0000",
          "title" : "2021 World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1201",
-         "pubDate" : "Mon, 12 Jul 2021 07:50:08 +0000",
-         "title" : "Maxime Vachier-Lagrave wins Croatia GCT"
       }
    ]
 }
