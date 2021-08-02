@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d2",
+         "pubDate" : "Mon, 02 Aug 2021 22:45:00 +0100",
+         "title" : "Alexandra Kosteniuk triumphs in Women's World Cup"
+      },
+      {
+         "description" : "Chess.com is happy to announce the release of tablebases inside of our Analysis page, a new tool that will help you get even better in the endgame! Combined with our recently released Endgame page, this new feature is everything you need to domina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-new-tablebase-feature",
+         "pubDate" : "Mon, 02 Aug 2021 13:40:00 -0700",
+         "title" : "Chess.com Announces New Tablebase Feature"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 13 years after conquering the women's world championship title in a k.o.-competition, <strong>Alexandra Kosteniuk</strong> won the <strong>Women's World Cup</strong> in Sochi. In an all-Russian final, she beat the rating favourite <strong>Alexandra Goryachkina</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kosteniuk-wins-world-cup/",
+         "pubDate" : "Mon, 02 Aug 2021 20:12:42 +0100",
+         "title" : "Kosteniuk wins World Cup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Mon, 02 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
+         "title" : "Chessable Masters - Games and results"
       },
       {
          "description" : "",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-july-2021/",
          "pubDate" : "Mon, 02 Aug 2021 14:01:31 +0000",
          "title" : "What's New on FIDE Online Arena - July 2021"
-      },
-      {
-         "description" : "The open section of the FIDE World Cup sees Magnus Carlsen facing Jan-Krzysztof Duda and Sergey Karjakin facing Vladimir Fedoseev in the semifinals, while the final in the women's section, between Aleksandra Goryachkina and Alexandra Kosteniuk, is played concurrently with the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Mon, 02 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "On Sunday, 1 August, the players in the Grandmaster Tournament at the Biel Chess Festival had a rest day, on Monday, 2 August, they play again. In round 5 Nihal Sarin and Vincent Keymer, two of the world's most talented juniors, test their skills, Alan Pichot plays against Gata Kamsky, Boris Lagarde faces Maxime Lagarde and Kirill Alekseenko meets Noel Studer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "Education conference on Thursday and Friday"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>English Chess Federation</strong> has resolved one of its long-term worries: Its library, packed up in nearly 200 boxes, <a href=\"https://library.dmu.ac.uk/archivesblog/home/New-Chess-Arrival\">found a new home</a> at the <strong>De Montfort University</strong> in centrally located Leicester where it is currently being catalogued and can be browsed at regular library hours. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/de-montfort-university-hosts-english/",
-         "pubDate" : "Sat, 24 Jul 2021 12:52:27 +0100",
-         "title" : "De Montfort University hosts English chess library"
-      },
-      {
          "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
       },
       {
-         "description" : "GM Shakhriyar Mamedyarov needs to win on-demand in the third round&#39;s second game at the FIDE World Cup. The recent winner of the Superbet Chess Classic stumbled on Sunday vs. GM Haik Martirosyan. Other rating favorites who started with a loss incl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-1-martirosyan",
-         "pubDate" : "Mon, 19 Jul 2021 03:05:00 -0700",
-         "title" : "FIDE World Cup R3.1: Dzagnidze, Mamedyarov, Yu In Trouble"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at the Grand Chess Tour Croatia rapid and blitz tournament. He wonders about Kasparov's collapse and analyses the instructive and interesting rapid game between Ian Nepomniachtchi and Anton Korobov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2464,22 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1205",
          "pubDate" : "Tue, 13 Jul 2021 06:52:04 +0000",
          "title" : "2021 Koltanowski Conference on Chess in Education to be at the end of July"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1204",
-         "pubDate" : "Mon, 12 Jul 2021 22:00:50 +0000",
-         "title" : "Shri Ram College of Commerce clinches the title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1203",
-         "pubDate" : "Mon, 12 Jul 2021 20:33:51 +0000",
-         "title" : "FIDE World Cup Day 01: \"Galactic\" chess games in Sochi"
       }
    ]
 }
