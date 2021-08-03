@@ -218,6 +218,14 @@ news_feed (
          "title" : "Round 7 Game 01: Kosteniuk pulls ahead in the Women's final"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1240",
+         "pubDate" : "Sun, 01 Aug 2021 17:47:15 +0000",
+         "title" : "FIDE distributes an additional €35,000 among chess seniors"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84953384.cms\" />Indian Grandmaster Karthikeyan Murali defeated higher-rated compatriot S P Sethuraman in the sixth round here on Sunday to grab the lead in the Master Tournament being held as part of the Biel Chess Festival. The 37-move win for Karthikeyan (Elo 2606 as against his opponent's 2644) took him to 5.5 points from six rounds and gave him a clear lead in the 73-player field.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-day-1-so-mishra",
          "pubDate" : "Sun, 01 Aug 2021 03:15:00 -0700",
          "title" : "Chessable Masters Day 1: So Leads; Tough Start For Mishra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1240",
-         "pubDate" : "Sun, 01 Aug 2021 08:47:15 +0000",
-         "title" : "FIDE distributes an additional €35,000 among chess seniors"
       },
       {
          "description" : "",
