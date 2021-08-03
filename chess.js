@@ -2,11 +2,99 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Wesley So finished in sole first place in the Chessable Masters preliminaries, just ahead of GM&#38;nbsp;Alireza Firouzja, Hikaru Nakamura, and GM Levon Aronian. GM Le Quang Liem and GM Jorden van Foreest just made the cut and qualified for the kno...",
+         "description" : "After analysing her first game of the World Cup in the last episode, today Svitlana Demchenko takes a more in-depth look at the second game. The game starts with the Petroff, which is considered one of the most drawish opening choices out there. After most of the pieces have been exchanged, a couple of pawns, two knights and two kings remain on the board. Now the endgame is very difficult for Svitlana. But luckily, we all know, she has some smart moves in her repertoire.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-9",
+         "pubDate" : "Tue, 03 Aug 2021 17:01:12 +0100",
+         "title" : "Svitlana's Smart Moves - Episode 9"
+      },
+      {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Tue, 03 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">The 23-year old Polish GM, Jan-Krzysztof Duda, faced Magnus Carlsen today at the FIDE World Cup, and knocked out the World Champion in a second rapid game. Duda has reached the final against Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/78EA604A-BC44-4CF4-AACF-D0BE0BA58D3A.gif\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> Duda was the one who broke Carlsen's 125-game unbeaten streak in Round 5 of Norway Chess, becoming the first player to defeat the World Chess Champion in a classical game since Shakhriyar Mamedyarov shocked Magnus in Biel. Karjakin had already secured a spot in the ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/duda-knocks-out-the-world-champion-from-the-world-cup-and-qualif/",
+         "pubDate" : "Tue, 03 Aug 2021 15:25:17 +0000",
+         "title" : "Duda knocks out the Champion from the World Cup; Qualifies for the Candidates"
+      },
+      {
+         "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda reached the final of the FIDE World Cup on Tuesday. The Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qualifi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-duda-beats-carlsen",
+         "pubDate" : "Tue, 03 Aug 2021 07:55:00 -0700",
+         "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=1000w\" /> <figcaption class=\"image-capt",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
+         "pubDate" : "Tue, 03 Aug 2021 14:31:19 +0000",
+         "title" : "Episode 237- GM Vladimir Kramnik"
+      },
+      {
+         "description" : "\"Magnus is not here so the tournament is very open\", said Wesley So, after another smooth day at the office saw him win the preliminary stage of the Chessable Masters. Most of the other top players also cruised, with the main drama surrounding Jorden van Foreest and Adhiban. When the Indian won their individual game he was leading the chase to qualify with three rounds to go, but Adhiban lost all three games as Jorden set up a match with Wesley. Meanwhile 12-year-old Abhimanyu Mishra took down his sometime coach and world no. 21 Harikrishna!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-3-wesley-wins-the-prelims",
+         "pubDate" : "Tue, 03 Aug 2021 14:11:03 +0000",
+         "title" : "Chessable Masters 3: Wesley wins the Prelims"
+      },
+      {
+         "description" : "Wesley So continued his excellent run at the Chessable Masters and was the clear winner of the preliminary stage with an 11/15 score. There was not much of a fight to make it into the quarterfinals, as all but one favourite had almost fully secured their spots in the knockout with two rounds to go. | Pictured: Hikaru Nakamura | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-3",
+         "pubDate" : "Tue, 03 Aug 2021 14:30:00 +0100",
+         "title" : "Chessable Masters: Favourites go through"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo narrowly defeated GM Jeffery Xiong in Monday&#39;s quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The Iranian GM came back from a three-point deficit and decided the match in the final bullet games. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-maghsoodloo-beats-xiong",
+         "pubDate" : "Tue, 03 Aug 2021 06:05:25 -0700",
+         "title" : "Junior Speed Chess Championship QF: Maghsoodloo Beats Xiong In Bullet"
+      },
+      {
+         "description" : "Two matches will be decided in Tuesday's tiebreaks at the World Cups in Sochi, one in each section. In the open, Magnus Carlsen and Jan-Krzysztof Duda battle for a place in the final, while in the women's event, Anna Muzychuk and Tan Zhongyi fight to see who finishes in third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Tue, 03 Aug 2021 13:55:00 +0100",
+         "title" : "World Cup - Live!"
+      },
+      {
+         "description" : "Gata Kamsky leads the Grandmaster Tournament in Biel, but in round 6 of the classical tournament he has to play with White against Nihal Sarin, one of his closest rivals. Should Sarin win this game, he would catch up to Kamsky. Kamsky's other rival is Kirill Alekseenko, who will try to beat Boris Gelfand with White to catch up to Kamsky. The two other encounters in round 6 are Maxime Lagarde vs Alan Pichot and Noel Studer vs Vincent Keymer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Tue, 03 Aug 2021 13:50:00 +0100",
+         "title" : "Biel: Round 6 - Live!"
+      },
+      {
+         "description" : " I'm not sure why I did not highlight this at the time (ie 3 years ago), but the embedded video shows a match between Google Home Mini, and Amazon Alexa. If you don't wish to watch the entire game (which is of dubious quality), skip to the end, which is at least somewhat amusing. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"333\" src=\"https://www.youtube.com/embed/E-rUciTRYaw\" width=\"448\" youtube-src-id=\"E-rUciTRYaw\"></iframe></div><br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/amazon-v-google.html",
+         "pubDate" : "Tue, 03 Aug 2021 12:41:00 +0000",
+         "title" : "Amazon v Google"
+      },
+      {
+         "description" : "GM Wesley So has finished in sole first place in the Chessable Masters preliminaries, just ahead of GM&#38;nbsp;Alireza Firouzja, Hikaru Nakamura, and GM Levon Aronian. GM Le Quang Liem and GM Jorden van Foreest just made the cut and have qualified fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-days-preliminaries",
-         "pubDate" : "Tue, 03 Aug 2021 03:11:43 -0700",
+         "pubDate" : "Tue, 03 Aug 2021 03:11:00 -0700",
          "title" : "Chessable Masters Days 2-3: So Tops Preliminaries"
       },
       {
@@ -168,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-2",
          "pubDate" : "Mon, 02 Aug 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #154"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Mon, 02 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Games and results"
       },
       {
          "description" : "",
@@ -1714,14 +1794,6 @@ news_feed (
          "title" : "International Chess Day in Vienna"
       },
       {
-         "description" : "Women's World Champion Ju Wenjun and 12-year-old youngest ever grandmaster Abhimanyu Mishra from July 31st play the Chessable Masters, the 8th event on the $1.6 million Meltwater Champions Chess Tour. The top seeds are Shakhriyar Mamedyarov, Wesley So, Alireza Firouzja and Hikaru Nakamura, with three places still to be determined. The Chessable Masters starts on the final rest day of the FIDE World Cup, and is the penultimate regular tour qualifying event before September's Grand Final.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-features-ju-wenjun-and-abhimanyu-mishra",
-         "pubDate" : "Thu, 22 Jul 2021 09:00:01 +0000",
-         "title" : "Chessable Masters features Ju Wenjun and Abhimanyu Mishra"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1802,14 +1874,6 @@ news_feed (
          "title" : "Rebranding Hyenas - An African Club You Will Actually Want to Join"
       },
       {
-         "description" : "GM Anish Giri and GM Shakhriyar Mamedyarov did not survive the tiebreaks of the&#38;nbsp;FIDE World Cup&#39;s third round. The two top grandmasters lost to GM Nodirbek Abdusattorov and Haik Martirosyan, respectively. Other big names that were sent home ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-tiebreaks",
-         "pubDate" : "Wed, 21 Jul 2021 04:07:00 -0700",
-         "title" : "FIDE World Cup R3.3: Giri, Mamedyarov Out; MVL Survives In Armageddon"
-      },
-      {
          "description" : "An inexpensive chess set can sell for $20, but a handcrafted wooden set certified for the World Chess Championship costs $500. Much of the set's value lies in just one piece: the knight. Making this one piece takes two hours, and there are fewer than ten people trained to carve knights for the championship chess sets. It is fascinating to watch the high-end pieces being made.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1952,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/20/episode-235-joe-posnanski",
          "pubDate" : "Tue, 20 Jul 2021 14:14:44 +0000",
          "title" : "Episode 235- Joe Posnanski "
-      },
-      {
-         "description" : "The 2021 world championship match between GM Magnus Carlsen and GM Ian Nepomniachtchi will not only be covered closely by Chess.com and other platforms. It&#39;s also going to be on broadcast network television each day. The International Chess Fede...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nbc-sports-world-chess-championship-ashley",
-         "pubDate" : "Tue, 20 Jul 2021 06:43:00 -0700",
-         "title" : "NBC Sports To Cover World Chess Championship"
       },
       {
          "description" : " Today (20th July) is International Chess Day. I'm not really sure what this entails, although teaching people how to play chess is surely part of it. If it is, I at least did my bit, doing some school and private coaching, and then donating some rating points to the more deserving at my local club! ",
@@ -2322,14 +2378,6 @@ news_feed (
          "title" : "A familiar theme - with a twist"
       },
       {
-         "description" : "Two matches - out of the 28 that went to playoffs in round 1 - reached the third set of tiebreaker games at the World Cups in Sochi: in the open, Neuris Delgado knocked out Niaz Murshed, while in the women's section, Gulnar Mammadova eliminated Mai Narva in the longest matches of the inaugural round. Youngsters Volodar Murzin (14 y.o., pictured), Gukesh (15), Nurgyul Salimova (18) and Jennifer Yu (18) also made it through to round 2 on Wednesday. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d3",
-         "pubDate" : "Thu, 15 Jul 2021 14:00:00 +0100",
-         "title" : "World Cup: The big guns are coming"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2344,14 +2392,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-top-players-join-the-fights/",
          "pubDate" : "Thu, 15 Jul 2021 12:00:56 +0000",
          "title" : "FIDE WORLD CUP 2021 - Top seeds join the fights"
-      },
-      {
-         "description" : "Wednesday afternoon \"No Castling\" chess premiered at the highest level in Dortmund's Westfalenhalle. In the first game of their \"No Castling\" match Vishy Anand and Vladimir Kramnik engaged in an uncompromising fight in which Anand eventually had the better of it. In the Deutschland Grand Prix Dmitrij Kollars and Pavel Eljanov share the lead with 2.5/3 each, but the big news of the day was the torrential rain that currently is causing havoc in large parts of Germany and also affected the players in the Westfalenhalle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nc-masters-in-dortmund-anand-starts-with-a-win",
-         "pubDate" : "Thu, 15 Jul 2021 11:36:28 +0100",
-         "title" : "NC Masters in Dortmund: Anand starts with a win"
       },
       {
          "description" : "",
@@ -2394,28 +2434,12 @@ news_feed (
          "title" : "How To Become A Grandmaster In Chess"
       },
       {
-         "description" : "Yesterday, 13 July 2021, the 48th Schachtage Dortmund began in Dortmund's Westfalenhalle. In the opening round of the Deutschland Grand Prix the young German Dmitrij Kollars (pictured) defeated the even younger German Vincent Keymer. Pavel Eljanov (against Andreas Heimann) and Daniel Fridman (against Mateusz Bartel) also won their games. | Photos and video: The Organiser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-an-entertaining-start",
-         "pubDate" : "Wed, 14 Jul 2021 14:58:56 +0100",
-         "title" : "Dortmund: An entertaining start"
-      },
-      {
          "description" : " After last years Online Olympiad proved quite popular, FIDE are organising another Online Olympiad this year. Even with this year not being an Olympiad 'year' it does make sense to organise such an event, as this may become the norm post-covid anyway. It will run from the 13th August to the 15th September and will use the same format as last year. Each division will be a mix of seeded teams plus teams that qualified from the lower division. The top 8 teams from Division 1 will then play a KO final to determine a winner (or winners!). The tournament will be hosted on chess.com. Further details can be found at https://www.fide.com/news/1206 (** I will be a paid official at this event **) <br ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-online-olympiad.html",
          "pubDate" : "Wed, 14 Jul 2021 13:43:00 +0000",
          "title" : "2021 Online Olympiad"
-      },
-      {
-         "description" : "Day 2 of the first round at the World Cup and Women's World Cup in Sochi saw 12 players winning on demand to take their matches to tiebreakers. Those are not the only confrontations that are to be decided in rapid and blitz chess, though, as 16 other matches finished with both games drawn. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r1-d2",
-         "pubDate" : "Wed, 14 Jul 2021 14:20:00 +0100",
-         "title" : "World Cup: Twelve players bounce back"
       },
       {
          "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
@@ -2448,30 +2472,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
          "pubDate" : "Tue, 13 Jul 2021 19:49:00 +0400",
          "title" : "34th Leon Chess 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1206",
-         "pubDate" : "Tue, 13 Jul 2021 14:57:47 +0000",
-         "title" : "FIDE announces Online Olympiad 2021"
-      },
-      {
-         "description" : " Due to the time zone differences, most of the action in the 2021 World Cup is happening past my bedtime. I can tell you the GM Elshan Moridiabadi has made it through to the 2nd round, although it appears that his opponent did not turn up. This also happened in a few other games, with some players having travel difficulties, either covid related or not. Oceania representative CM Elmer Prudente lost is first game yesterday, and is in a bit of trouble today. Australian representative GM Bobby Cheng drew against his almost identically rated opponent yesterday, and todays game is still even as I type this. This match might be headed to tie-breaks. However Round 2 is when the real actions starts ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-world-cup-day-2.html",
-         "pubDate" : "Tue, 13 Jul 2021 13:24:00 +0000",
-         "title" : "2021 World Cup Day 2"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626181275675-YA4D8Y1S15PEHYYJZT35/kasparovjon1.JPG\" data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of GM Levitt and and his old boss, GM Garry Kasparov, courtesy of Jonathan Levitt\" data-load=\"false\" data-image-id=\"60ed8e9af67381323ef92f88\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626181275675-YA4D8Y1S15PEHYYJZT35/kasparovjon1.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Levitt and and his old boss, GM Garr",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/13/mdlvls44g924oxyqh37dea4d2vbje8",
-         "pubDate" : "Tue, 13 Jul 2021 13:05:33 +0000",
-         "title" : "Episode 234- GM Jonathan Levitt "
       }
    ]
 }
