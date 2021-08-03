@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So finished in sole first place in the Chessable Masters preliminaries, just ahead of GM&#38;nbsp;Alireza Firouzja, Hikaru Nakamura, and GM Levon Aronian. GM Le Quang Liem and GM Jorden van Foreest just made the cut and qualified for the kno...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chessable-masters-days-preliminaries",
+         "pubDate" : "Tue, 03 Aug 2021 03:11:43 -0700",
+         "title" : "Chessable Masters Days 2-3: So Tops Preliminaries"
+      },
+      {
+         "description" : "In round 5 of the Grandmaster Tournament at the Biel Chess Festival, Gata Kamsky won with Black against Alan Pichot and extended his lead as his closest rivals Kirill Alekseenko and Nihal Sarin both drew: Alekseenko against Noel Studer, Sarin against Vincent Keymer. In the MTO Master Open the Indian Grandmaster Murali Karthikeyan defended his lead. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-kamsky-extends-lead",
+         "pubDate" : "Tue, 03 Aug 2021 10:59:26 +0100",
+         "title" : "Biel: Kamsky extends lead"
+      },
+      {
+         "description" : " IM Kostya Kavutskiy The inspiration for the title of this post came from an identical tweet of Kostya I came across about two weeks ago. It was like an &#8220;Eureka!&#8221; moment. All of a sudden all made perfect sense to me. You can smile if you want and think that I am irreversibly attracted by <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221;\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/\">&#8220;Tactics are temporary, endgames are permanent&#8221;</a> appear",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/",
+         "pubDate" : "Tue, 03 Aug 2021 09:30:18 +0000",
+         "title" : "\"Tactics are temporary, endgames are permanent\""
+      },
+      {
+         "description" : "Alexandra Kosteniuk is the 2021 FIDE Women's World Cup Champion after offering a draw in a winning position to clinch victory against Aleksandra Goryachkina. Her feat of winning the title without needing tiebreaks once was a repeat of how she won the Women's World Championship in 2008, while the 43 rating points she picked up took her back into the women's Top 10. Elsewhere Sergey Karjakin reached the final and booked a spot in the Candidates after an opening disaster for Vladimir Fedoseev, while Magnus Carlsen and Jan-Krzysztof Duda will play tiebreaks on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-2-kosteniuk-is-world-cup-champion",
+         "pubDate" : "Tue, 03 Aug 2021 08:29:20 +0000",
+         "title" : "FIDE World Cup 7.2: Kosteniuk is World Cup Champion"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk won the Women&#39;s FIDE World Cup final on Monday after drawing her second game vs. GM Aleksandra Goryachkina. GM Sergey Karjakin defeated GM Vladimir Fedoseev to qualify for both the World Cup final and the 2022 FIDE Candidate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kosteniuk-wins-2021-fide-women-world-cup",
+         "pubDate" : "Tue, 03 Aug 2021 01:09:00 -0700",
+         "title" : "FIDE World Cup R7.2: Kosteniuk Wins Women's Cup, Karjakin Reaches Final"
+      },
+      {
          "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move and he faces a choice: should he try to stop the white pawns with his king or should he push his g-pawn ahead? What would you do - and why?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/powerful-pawns-3",
          "pubDate" : "Tue, 03 Aug 2021 09:00:00 +0100",
          "title" : "Pushing the pawns or retreating the king?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1246",
+         "pubDate" : "Tue, 03 Aug 2021 07:47:24 +0000",
+         "title" : "Historic win for Mishra as So smashes score record"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> is taking place online again. Between 13 August and 5 September there will be more than 80 different board game competitions including several chess competitions on MSO's new server. <a href=\"https://mindsportsolympiad.com/\">Registration is free</a>, donations are welcome. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mind-sports-olympiad-registration/",
+         "pubDate" : "Tue, 03 Aug 2021 08:13:34 +0100",
+         "title" : "Mind Sports Olympiad registration opened"
       },
       {
          "description" : " This <a href=\"https://www.newyorker.com/magazine/2021/08/02/hou-yifan-and-the-wait-for-chess-first-woman-world-champion\">New Yorker piece</a> is in part a profile of the second strongest female player in chess history, Hou Yifan, and in part a discussion of the ever-popular question, \"What explains the disparity between men and women in chess?\" Have a look at the various evidence-free assertions offered in the article, and then feel free to weigh in here. Supported claims would be nice, regardless of which side of the argument you prefer. ",
@@ -168,14 +224,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-july-2021/",
          "pubDate" : "Mon, 02 Aug 2021 14:01:31 +0000",
          "title" : "What's New on FIDE Online Arena - July 2021"
-      },
-      {
-         "description" : "On Sunday, 1 August, the players in the Grandmaster Tournament at the Biel Chess Festival had a rest day, on Monday, 2 August, they play again. In round 5 Nihal Sarin and Vincent Keymer, two of the world's most talented juniors, test their skills, Alan Pichot plays against Gata Kamsky, Boris Lagarde faces Maxime Lagarde and Kirill Alekseenko meets Noel Studer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Mon, 02 Aug 2021 13:50:00 +0100",
-         "title" : "Biel: Round 5 - Live!"
       },
       {
          "description" : " In the 1970's English player Jonathan Mestel revived a very old line of the Philidor. Taking his inspiration from Philidor himself, Mestel played an early f5, inviting his opponent to overestimate his chances. After a win in the 1975 World Junior against Paul van der Sterren, Mestel was chided by another competitor, Peter Nurmi, for playing 'such rubbish'. Then the following happened <br /> <br /> <b>Nurmi,Peter - Mestel,A Jonathan [C41]</b><br />Wch U20 Tjentiste (13), 08.1975 <script>new PgnViewer( { boardName: \"game1262\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 f5 4.Bc4 exd4 5.Ng5 Nh6 6.Nxh7 Ng4 7.Nxf8 Kxf8 8.exf5 Qe7+ 9.Kf1 Bxf5 10.Qxd4 Nxh2+ 11.Rxh2 Rxh2 12.Be3 Qe4 13.",
@@ -1418,14 +1466,6 @@ news_feed (
          "title" : "World Cup, Vidit enters Pre-Quarterfinal"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Chess Trust</strong> sponsors the <strong>Third International Koltanowski on Chess in Education</strong> ahead of the US Open Chess Championship in Cherry Hill, New Jersey, on 29 and 30 July. The <a href=\"http://www.uschesstrust.org/wp-content/uploads/2021/07/3rd-International-Koltanowski-Conference-on-Chess-in-Education-BOOKLET-ONLINE.pdf\">conferenc</a>e is dedicated to the former US Chess President and Professor Emeritus of Literary Studies Tim Redman. To follow the livestream, a <a href=\"http://www.uschesstrust.org/3rd-international-koltanowski-%20conference-on-chess-in-education-registration/\">free registration</a> is required. </",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/education-conference-on-thursday-and/",
-         "pubDate" : "Sat, 24 Jul 2021 15:44:55 +0100",
-         "title" : "Education conference on Thursday and Friday"
-      },
-      {
          "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1682,14 +1722,6 @@ news_feed (
          "title" : "Chessable Masters features Ju Wenjun and Abhimanyu Mishra"
       },
       {
-         "description" : "Figures released today reveal 6,000 casual and serious chess players turned up to London's iconic Trafalgar Square for ChessFest - making it one of the UK's biggest ever chess events.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/trafalgar-squares-6-000-people-turn-out-for-london-s-chessfest",
-         "pubDate" : "Thu, 22 Jul 2021 08:50:00 +0000",
-         "title" : "Trafalgar Squares: 6,000 people turn out for London's ChessFest"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
       },
       {
-         "description" : "Day two of the FIDE World Cup&#39;s third round saw a huge upset as the second seed, GM Fabiano Caruana, was knocked out by Kazakhstani GM Rinat Jumabayev. The tournament also said goodbye to rating favorites GM Jorge Cori, GM Jorden van Foreest, GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-3-day-2-caruana-jumabayev",
-         "pubDate" : "Tue, 20 Jul 2021 02:21:00 -0700",
-         "title" : "FIDE World Cup R3.2: Caruana Knocked Out"
-      },
-      {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov A score of 4 out of 5 with two rounds to go normally pairs you against a strong opponent. The game did not look like that. It was more of an exchange of errors in the middle game. My student's opponent was rated 400 points lower <a href=\"https://chessimprover.com/tales-from-cycc-2021-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-3/\">Tales from CYCC 2021 (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1984,14 +2008,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/",
          "pubDate" : "Mon, 19 Jul 2021 16:38:49 +0000",
          "title" : "2021 FIDE World Cup: Round #3"
-      },
-      {
-         "description" : "GM Viswanathan Anand defeated GM Vladimir Kramnik 2.5-1.5 in a four-game No Castling chess match in Dortmund, Germany. Anand&#39;s win in the first game was decisive in this event where the players were not allowed to castle. The idea for this match...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anand-beats-kramnik-in-no-castling-match",
-         "pubDate" : "Mon, 19 Jul 2021 09:34:00 -0700",
-         "title" : "Anand Beats Kramnik In No Castling Match"
       },
       {
          "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy",
          "pubDate" : "Fri, 16 Jul 2021 10:37:13 +0100",
          "title" : "Dortmund: Eljanov takes the lead, Kramnik and Anand draw second \"No Castling\" game"
-      },
-      {
-         "description" : " Over the last few weeks, we have examined the fork, specifically how to employ this tactic. This week we will look at the fork from a defensive position. In other words, how do you deal with a fork if you are on the receiving side of this tactic. Defending against a fork can be difficult <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-six/\">A Foundation for Beginners Twenty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ch",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-six/",
-         "pubDate" : "Fri, 16 Jul 2021 09:31:44 +0000",
-         "title" : "A Foundation for Beginners Twenty Six"
       },
       {
          "description" : "",
