@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Haik Martirosyan defeated GM Arjun Erigaisi&#38;nbsp;in the Tuesday quarterfinal of the Junior Speed Chess Championship presented by ChessKid with a 15.5-13.5 score. Martirosyan consistently held early leads in each section and held off several str...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-martirosyan-erigaisi",
+         "pubDate" : "Tue, 03 Aug 2021 15:45:00 -0700",
+         "title" : "Junior Speed Chess Championship QF: Martirosyan Pulls Away To Defeat Erigaisi"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda advanced to the final of the FIDE World Cup and secured a spot in the next edition of the Candidates Tournament by knocking out Magnus Carlsen in the rapid tiebreakers of their semifinal match. Meanwhile, Tan Zhongyi got third place in the women's event, thanks to a 1&frac12;-&frac12; playoff victory over Anna Muzychuk. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d3",
+         "pubDate" : "Tue, 03 Aug 2021 23:30:00 +0100",
+         "title" : "World Cup: Duda knocks out Carlsen, qualifies to Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1248",
+         "pubDate" : "Tue, 03 Aug 2021 20:50:32 +0000",
+         "title" : "Luis Engel Hanna Marie Klek win German Masters 2021"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the entertaining draw that meant that Alexandra Kosteniuk became winner of the Women's World Cup. He will also look at other events e.g. the Chessable masters and the Grandmaster Tournament in Biel. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.Does White have everything under control or can Black break his opponennt's defences?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -63,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Tue, 03 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
+         "title" : "Chessable Masters - Games and results"
       },
       {
          "description" : " <p class=\"lead\">The 23-year old Polish GM, Jan-Krzysztof Duda, faced Magnus Carlsen today at the FIDE World Cup, and knocked out the World Champion in a second rapid game. Duda has reached the final against Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/78EA604A-BC44-4CF4-AACF-D0BE0BA58D3A.gif\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> Duda was the one who broke Carlsen's 125-game unbeaten streak in Round 5 of Norway Chess, becoming the first player to defeat the World Chess Champion in a classical game since Shakhriyar Mamedyarov shocked Magnus in Biel. Karjakin had already secured a spot in the ",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-maghsoodloo-beats-xiong",
          "pubDate" : "Tue, 03 Aug 2021 06:05:25 -0700",
          "title" : "Junior Speed Chess Championship QF: Maghsoodloo Beats Xiong In Bullet"
-      },
-      {
-         "description" : "Two matches will be decided in Tuesday's tiebreaks at the World Cups in Sochi, one in each section. In the open, Magnus Carlsen and Jan-Krzysztof Duda battle for a place in the final, while in the women's event, Anna Muzychuk and Tan Zhongyi fight to see who finishes in third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Tue, 03 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup - Live!"
       },
       {
          "description" : "Gata Kamsky leads the Grandmaster Tournament in Biel, but in round 6 of the classical tournament he has to play with White against Nihal Sarin, one of his closest rivals. Should Sarin win this game, he would catch up to Kamsky. Kamsky's other rival is Kirill Alekseenko, who will try to beat Boris Gelfand with White to catch up to Kamsky. The two other encounters in round 6 are Maxime Lagarde vs Alan Pichot and Noel Studer vs Vincent Keymer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
@@ -1842,14 +1858,6 @@ news_feed (
          "title" : "How to Study Chess on Your Own"
       },
       {
-         "description" : "On International Chess Day, Vietnam&#39;s IM Minh Le took first place in Titled Tuesday with a score of 10/11. GM Hikaru Nakamura grabbed second with 9.5/11. The top four was rounded out by GM Giga Quparadze and GM Oleksandr Bortnyk. 472 titled play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-wins-july-20-titled-tuesday",
-         "pubDate" : "Wed, 21 Jul 2021 11:00:42 -0700",
-         "title" : "Le Wins July 20 Titled Tuesday"
-      },
-      {
          "description" : " Reaching the Grandmaster (GM) title was a long-standing dream for me. After scoring my first GM-Norm in 2014, I had to wait 3 more years until April 2017 to achieve the Grandmaster title. While the progress until the International Master (IM) title was pretty smooth, the road to the Grandmaster title was really hard. Be [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/from-im-to-gm/\">From International Master to Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2456,22 +2464,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/",
          "pubDate" : "Wed, 14 Jul 2021 00:10:52 +0000",
          "title" : "Beat the Najdorf & Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians"
-      },
-      {
-         "description" : " Round 1, Game 1Monday, 12 July 2021 Sizzling start at the 2021 World Cup in Sochi! Chile's Salinas uncorks brilliancy Egypt's Moaataz upsets Ushenina 25Qg1+! 26.Nxg1 Nxh2# wrapped up a beautiful game! https://t.co/m7GDW4MQKE #c24live #FIDEWorldCup pic.twitter.com/HtILsWQjxr &#8212; chess24.com (@chess24com) July 12, 2021 With 78 games today in the open, there were massive expectations as players [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/\">2021 FIDE World Cup: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/13/2021-world-cup-round-1/",
-         "pubDate" : "Tue, 13 Jul 2021 22:21:17 +0000",
-         "title" : "2021 FIDE World Cup: Round #1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1207",
-         "pubDate" : "Tue, 13 Jul 2021 21:23:03 +0000",
-         "title" : "Fast and furious action on Day 2 in FIDE World Cup"
       }
    ]
 }
