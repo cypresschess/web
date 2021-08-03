@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the entertaining draw that meant that Alexandra Kosteniuk became winner of the Women's World Cup. He will also look at other events e.g. the Chessable masters and the Grandmaster Tournament in Biel. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.Does White have everything under control or can Black break his opponennt's defences?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-alexandra-kosteniuk-wins-the-women-s-world-cup",
+         "pubDate" : "Tue, 03 Aug 2021 20:00:00 +0100",
+         "title" : "The Weekly Show: Alexandra Kosteniuk wins the Women's World Cup!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows a rook and pawn vs. bishop endgame. 2021.08.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YJ1tE5xMZe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski-lichessorg",
+         "pubDate" : "Tue, 03 Aug 2021 17:06:03 +0000",
+         "title" : "THINK in the Endgame 2: Now It's Personal | Insane in the Endgame - GM Robert Hungaski | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, Grandmaster Maurice Ashley hosts the opening ceremony and drawing of lots for the 2021 Saint Louis Rapid &amp; Blitz. Play begins Wednesday, August 11, 2021 at 2:50 P.M. CDT. 2021.08.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-opening-ceremony",
+         "pubDate" : "Tue, 03 Aug 2021 17:06:03 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Opening Ceremony"
+      },
+      {
+         "description" : "In October 2010, on the initiative and with financial support of London-based French pianist, composer, singer-songwriter, and chess fan Jason Kouchak, a large chess set was installed in Holland Park in London. Recently, and with a long Corona-related delay, Kouchak celebrated the ten-year anniversary of this event with a few friends. It was not the only public celebration of chess in London this summer: In July, Trafalgar Square saw a big chess festival with references to Lewis Carroll, the author of Alice in Wonderland who was also a big chess fan. | Photos: Julian Paix (if not otherwise indicated)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eleven-years-of-chess-in-holland-park-in-london",
+         "pubDate" : "Tue, 03 Aug 2021 18:00:00 +0100",
+         "title" : "Eleven years of chess in Holland Park in London"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1247",
+         "pubDate" : "Tue, 03 Aug 2021 16:36:21 +0000",
+         "title" : "Jan-Krzysztof Duda defeats WC Magnus Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85011970.cms\" />Young Indian Grandmaster Nihal Sarin held tournament leader Gata Kamsky to a draw in the sixth and penultimate round of the classical event in the Grandmaster Triathlon being played as part of the Biel Chess Festival on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-sarin-kamsky-play-out-draw-in-penultimate-round/articleshow/85011970.cms",
+         "pubDate" : "Tue, 03 Aug 2021 21:51:05 +0530",
+         "title" : "Biel Chess festival: Sarin, Kamsky play out draw in penultimate round"
+      },
+      {
          "description" : "After analysing her first game of the World Cup in the last episode, today Svitlana Demchenko takes a more in-depth look at the second game. The game starts with the Petroff, which is considered one of the most drawish opening choices out there. After most of the pieces have been exchanged, a couple of pawns, two knights and two kings remain on the board. Now the endgame is very difficult for Svitlana. But luckily, we all know, she has some smart moves in her repertoire.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +74,14 @@ news_feed (
          "title" : "Duda knocks out the Champion from the World Cup; Qualifies for the Candidates"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Cup</strong> remains the top event that <strong>Magnus Carlsen</strong> never won. In the <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021#live\">semifinal's tie-break</a> in Sochi he was eliminated by <strong>Jan-Krzysztof Duda</strong>, who already broke the world champion's 125 unbeaten classical games streak last year. The 23-year old Pole faces <strong>Sergey Karjakin</strong> in the final, both having secured their ticket for the <strong>Candidates Tournament 2022</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/duda-and-karjakin-qualify/",
+         "pubDate" : "Tue, 03 Aug 2021 15:55:13 +0100",
+         "title" : "Duda and Karjakin qualify"
+      },
+      {
          "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda reached the final of the FIDE World Cup on Tuesday. The Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qualifi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,7 +90,15 @@ news_feed (
          "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=1000w\" /> <figcaption class=\"image-capt",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> is taking place online again. Between 13 August and 5 September there will be more than 80 different board game competitions including several chess competitions on <a href=\"https://playstrategy.org/\">MSO's new server</a> that is based on the open source code of <strong>Lichess</strong>. <a href=\"https://mindsportsolympiad.com/\">Registration is free</a>, donations are welcome. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mind-sports-olympiad-registration/",
+         "pubDate" : "Tue, 03 Aug 2021 15:44:56 +0100",
+         "title" : "Mind Sports Olympiad registration opened"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru ( and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=1",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
@@ -144,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1246",
          "pubDate" : "Tue, 03 Aug 2021 07:47:24 +0000",
          "title" : "Historic win for Mishra as So smashes score record"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> is taking place online again. Between 13 August and 5 September there will be more than 80 different board game competitions including several chess competitions on MSO's new server. <a href=\"https://mindsportsolympiad.com/\">Registration is free</a>, donations are welcome. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mind-sports-olympiad-registration/",
-         "pubDate" : "Tue, 03 Aug 2021 08:13:34 +0100",
-         "title" : "Mind Sports Olympiad registration opened"
       },
       {
          "description" : " This <a href=\"https://www.newyorker.com/magazine/2021/08/02/hou-yifan-and-the-wait-for-chess-first-woman-world-champion\">New Yorker piece</a> is in part a profile of the second strongest female player in chess history, Hou Yifan, and in part a discussion of the ever-popular question, \"What explains the disparity between men and women in chess?\" Have a look at the various evidence-free assertions offered in the article, and then feel free to weigh in here. Supported claims would be nice, regardless of which side of the argument you prefer. ",
@@ -1106,28 +1162,12 @@ news_feed (
          "title" : "Life events and chess performance"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the upsets in the ongoing 2021 Chess World Cup. The mysterious masked Caleb shows how 2018 U.S. Champion Sam Shankland beat Peter Svidler in the biggest knockout tournament in chess. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wild-world-cup-upsets-and-surprises-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eAWak",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wild-world-cup-upsets-and-surprises-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 28 Jul 2021 01:59:40 +0000",
-         "title" : "The Wild World Cup (Upsets and Surprises) | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1232",
          "pubDate" : "Tue, 27 Jul 2021 21:20:12 +0000",
          "title" : "Round 05 tiebreaks: A close scrape for Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess endgame class. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xy55Jnmmy8I.jpg?itok=2Etu6LcM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-robert-hungaski",
-         "pubDate" : "Tue, 27 Jul 2021 19:59:30 +0000",
-         "title" : "Insane in the Endgame - GM Robert Hungaski"
       },
       {
          "description" : " <p class=\"lead\">Andrey Esipenko, a 19 year old Grandmaster from Russia, almost managed to knock-out the World Chess Champion out of the FIDE World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">An arbiter at the World Cup discusses the game with the World Champion while Esipenko watches - Photo: FIDE</div> </div> Winning on demand and finally losing two nerve-racking blitz games, Esipenko finished the day by apparently becoming everyone's favorite chess player. After eight games, the World Champion was visibly relieved when he finally won the match. I",
@@ -1472,14 +1512,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-win-for-press.html",
          "pubDate" : "Sun, 25 Jul 2021 12:47:00 +0000",
          "title" : "2021 ACT Winter Open - Win for Press "
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"http://www.swisschess.ch/news-112/smm-2021-mit-318-mannschaften.html\">318 teams have registered</a> for the <strong>Swiss Team Championship</strong>, which is 26 more teams than in 2019 participated in the last season before the pandemic. The season (which is played within the calendar year) has been shortened, team sizes and entry fees have been reduced by the <strong>Swiss Chess Federation</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/9-more-teams-in-switzerland/",
-         "pubDate" : "Sun, 25 Jul 2021 13:18:07 +0100",
-         "title" : "9% more teams in Switzerland"
       },
       {
          "description" : "We're down to the Last 16 of the FIDE World Cup, with just three matches as seeded: Carlsen-Esipenko, Grischuk-Duda and MVL-Karjakin. Vidit is the other player seeded to the Last 16 to make it and will face Vasif Durarbayli, who overcame Nodirbek Abdusattorov. The one major surprise of the tiebreaks was 18-year-old Velimir Ivic knocking out Dmitry Andreikin, while Magnus Carlsen, Sergey Karjakin and Peter Svidler put on impressive shows. In the women's section three of the four quarterfinals starting Sunday are exactly as seeded, while Kosteniuk-Gunina is a surprise only on paper.",
@@ -2162,14 +2194,6 @@ news_feed (
          "title" : "Comeback Kid"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84525668.cms\" /> India's GM Viswanathan Anand won the Sparkassen Trophy after playing out a draw in his fourth and final round 'No Castling' game' against longtime rival Vladimir Kramnik of Russia on Sunday. Playing white in a Tarrasch variation, Anand, a former world champion, settled for a draw in 40 moves, to win the match 2.5-1.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/no-castling-chess-anand-holds-kramnik-wins-sparkassen-trophy/articleshow/84525668.cms",
-         "pubDate" : "Sun, 18 Jul 2021 20:43:22 +0530",
-         "title" : "No-Castling Chess: Anand holds Kramnik, wins Sparkassen Trophy"
-      },
-      {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2322,14 +2346,6 @@ news_feed (
          "title" : "World Cup: Health-related issues"
       },
       {
-         "description" : "After five rounds Pavel Eljanov leads the Deutschland Grand Prix in Dortmund with 4.0/5. On Thursday he won his morning game against Mateusz Bartel and in the afternoon he drew against Daniel Fridman. Vincent Keymer won a fine endgame against Gata Kamsky and Vishy Anand and Vladimir Kramnik drew the second game of their \"No Castling\" match. Chess legend Artur Jussupov made the ceremonial first move. | Photo: Christian L&uuml;nig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy",
-         "pubDate" : "Fri, 16 Jul 2021 10:37:13 +0100",
-         "title" : "Dortmund: Eljanov takes the lead, Kramnik and Anand draw second \"No Castling\" game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2360,14 +2376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1211",
          "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
          "title" : "Day 04: Magnus Carlsen debuts with a technical win"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-painful-losses-for-kasparov-in-the-najdorf",
-         "pubDate" : "Thu, 15 Jul 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Painful losses for Kasparov in the Najdorf"
       },
       {
          "description" : " Smothered mates in the opening usually occur when a knight makes it to d6 or d3. It certainly happened in this game, but in a small twist, all 32 pieces were still on the board when it did. <br /> <b>chesspatzer46 - brojangled</b><br />chess.com <script>new PgnViewer( { boardName: \"game1258\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 Nce7 5. O-O a6 6. Be2 Nf6 7. e5 Nfd5 8. Ne4 b6 9. Nd6# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1258-container\"></div><div id=\"game1258-moves\"></div><br />",
@@ -2464,14 +2472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1207",
          "pubDate" : "Tue, 13 Jul 2021 21:23:03 +0000",
          "title" : "Fast and furious action on Day 2 in FIDE World Cup"
-      },
-      {
-         "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again - like last year - took place on Chess.com rather than in Leon over the board. There was a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event. Following the flagship event ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/34th-leon-chess-2021",
-         "pubDate" : "Tue, 13 Jul 2021 19:49:00 +0400",
-         "title" : "34th Leon Chess 2021 - Games and Results"
       }
    ]
 }
