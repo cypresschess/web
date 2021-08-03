@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move and he faces a choice: should he try to stop the white pawns with his king or should he push his g-pawn ahead? What would you do - and why?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/powerful-pawns-3",
+         "pubDate" : "Tue, 03 Aug 2021 09:00:00 +0100",
+         "title" : "Pushing the pawns or retreating the king?"
+      },
+      {
+         "description" : " This <a href=\"https://www.newyorker.com/magazine/2021/08/02/hou-yifan-and-the-wait-for-chess-first-woman-world-champion\">New Yorker piece</a> is in part a profile of the second strongest female player in chess history, Hou Yifan, and in part a discussion of the ever-popular question, \"What explains the disparity between men and women in chess?\" Have a look at the various evidence-free assertions offered in the article, and then feel free to weigh in here. Supported claims would be nice, regardless of which side of the argument you prefer. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/3/hou-yifan-womens-chess-and-gender-equality.html",
+         "pubDate" : "Tue, 03 Aug 2021 06:31:44 +0000",
+         "title" : "Hou Yifan, Women's Chess, and Gender Equality?"
+      },
+      {
+         "description" : " Have a look <a href=\"https://marginalrevolution.com/marginalrevolution/2021/08/a-new-chess-variant.html\">here</a>. I think Tyler Cowen's idea is better than the one he refers to, but I still think it's a solution waiting for a problem. Who gives a rat's behind about AlphaZero drawing 98% of its games with itself, when it will win 100% of its games with Magnus Carlsen? (Or at least 95% of them.) We humans make plenty of errors, even at the super-GM level, and in the quick games that dominate contemporary play decisive results are a commonplace. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/3/a-new-chess-variant-or-two.html",
+         "pubDate" : "Tue, 03 Aug 2021 06:23:50 +0000",
+         "title" : "A New Chess Variant (or Two)?"
+      },
+      {
+         "description" : " Sorry not to have covered the event as it deserved, but...life. Anyway, the parodying event I feared would come to pass is very close to happening. The 2021 FIDE World Cup is on the verge of its final match; Sergey Karjakin is one finalist (he defeated Vladimir Fedoseev 1.5-.5 in the regular, classical games) and the winner of today's tiebreaker between Magnus Carlsen and Jan-Krzysztof Duda will be the other. As the main point of the event is to qualify two players for the 2022 Candidates, Carlsen's participation is, frankly, rather stupid, as no matter what happens in his match with Ian Nepomniachtchi he's guaranteed of being either the world champion or qualified for the Candidates. Karja",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/3/fide-world-cup-karjakin-guarantees-himself-a-candidates-spot.html",
+         "pubDate" : "Tue, 03 Aug 2021 06:11:55 +0000",
+         "title" : "FIDE World Cup: Karjakin Guarantees Himself a Candidates Spot; Duda Hoping for the Second Spot"
+      },
+      {
+         "description" : " The prelims in the latest Meltwater Chess Tour event, the Chessable Masters, are over. The format is familiar: a 16-player round-robin that knocks out half the field for the knockout stage. Here are the results of the prelims: <p style=\"padding-left: 30px;\">1. Wesley So 11 (of 15)<br />2-4. Levon Aronian, Alireza Firouzja, Hikaru Nakamura (in tiebreak order) 10.5<br />5. Vladislav Artemiev 9.5<br />6-7. Lie Quang Liem, Shakhriyar Mamedyarov 9<br />8. Jorden Van Foreest 8.5 (the foregoing qualified for the knockout, the remaining eight were eliminated)<br />9-10. Baskaran Adhiban, Eduardo Bonelli Iturrizaga 7<br />11. Aryan Tari 6.5<br />12. Pentala Harikrishna 6<br />13. David Anton Guijarr",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/3/chessable-masters-ko-phase-starts-today-tuesday.html",
+         "pubDate" : "Tue, 03 Aug 2021 06:04:23 +0000",
+         "title" : "Chessable Masters: K.O. Phase Starts Today (Tuesday)"
+      },
+      {
+         "description" : " The real world championship (even if there isn't anyone playing, strictly speaking) is rolling along once again. After 76 of 100 games, Stockfish has a healthy 41.5-34.5 lead over LCZero. Game 77 is underway, visible <a href=\"https://chess24.com/en/watch/live-tournaments/tcec-season-21-superfinal-2021/1/1/77\">here</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/3/tcec-season-21-superfinal-update.html",
+         "pubDate" : "Tue, 03 Aug 2021 06:01:23 +0000",
+         "title" : "TCEC Season 21 Superfinal Update"
+      },
+      {
          "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2106,14 +2154,6 @@ news_feed (
          "title" : "No Castling Chess: Anand misses his chance"
       },
       {
-         "description" : " \"Only\" 64 players are left in the <a href=\"https://worldcup.fide.com/\">2021 FIDE World Cup</a>, a massive knockout event in Sochi, Russia. While Magnus Carlsen is participating and plenty of money is at stake, its primary function is to find two qualifiers for the 2022 Candidates, with the next six qualifying for the FIDE Grand Prix next year (unless the player in question is the world champion or qualified for the Candidates through another path). We'll worry about all of that later; for the time being, let's see how the tournament is going. The top two seeds are alive and kicking - Carlsen had a bye in round 1, and won in round 2 2-0 over Sasa Martinovic. Fabiano Caruana had a bye in roun",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/17/world-cup-post-round-2-update.html",
-         "pubDate" : "Sun, 18 Jul 2021 00:51:27 +0000",
-         "title" : "World Cup, Post-Round 2 Update"
-      },
-      {
          "description" : " From the publisher: &#8220;For too long, Anti-Sicilian rhetoric has centred on the logic of simplicity, geared towards reaching playable positions with easy plans while simultaneously avoiding depths of theory. The danger of this logic is the ease with which we can fall into the trap of inactivity; of mindlessly playing an opening without striving to <a href=\"http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.c",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2160,22 +2200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mighty-knights-2",
          "pubDate" : "Sat, 17 Jul 2021 09:00:00 +0100",
          "title" : "Make it work!"
-      },
-      {
-         "description" : " I'm a big fan of endgame studies - not to be confused with problems. Some folks love mate-in-X problems, or helpmates or selfmates or other still crazier tasks. God bless 'em; it's not my thing. But studies? They're great. They are compositions, but the vast majority of the time the positions are realistic. They are great for practicing one's calculation skills and developing one's imagination, and good studies will almost always have surprising or beautiful moves and ideas, and generally both. There are a few good books with studies, but not too many, and at most they might have a 2,000-3,000 entries. With the latest (sixth) version of study composer and judge Harold Van Der Heijden's data",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/16/heijdens-study-database-now-with-almost-94000-entries.html",
-         "pubDate" : "Sat, 17 Jul 2021 03:46:38 +0000",
-         "title" : "Heijden's Study Database, Now With (Almost) 94,000 Entries"
-      },
-      {
-         "description" : " For American readers who might be interested, the three main under-championships are underway. Recap article available <a href=\"https://www.uschesschamps.com/2021-us-senior-junior-championships-2021-us-girls-junior-championship-2021-us-junior-championship/us\">here</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/16/us-senior-junior-and-girls-championships-underway.html",
-         "pubDate" : "Sat, 17 Jul 2021 03:40:43 +0000",
-         "title" : "U.S. Senior, Junior, and Girls' Championships Underway"
       },
       {
          "description" : " &#8220;French Grandmaster Christian Bauer is one of his country's leading players. He is a former national champion and has represented France in numerous international team events. He has written many articles and books for several publishing houses: 'Play 1&hellip;b6' and 'The Philidor Files' for Everyman Chess and 'Play the Scandinavian' for Quality Chess. Many of <a href=\"http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a ",
@@ -2272,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1211",
          "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
          "title" : "Day 04: Magnus Carlsen debuts with a technical win"
-      },
-      {
-         "description" : " That is the subtitle of <a href=\"https://www.nytimes.com/2021/07/13/sports/chess-karjakin-mishra-grandmasters.html\">this NY Times article</a>, which is something less than a heartwarming tale of hard work and talent resulting in amazing records. Was Sergei Karjakin's last GM norm tainted by bribery? The authors present plenty of allegations to that effect, though they stop short of making an outright claim. The authors do not allege any chicanery in the case of Abhimany Mishra's recently earned grandmaster title, but certainly suggest that the Budapest chess scene in which he earned his norms is something of a title factory, with largely unmotivated, over-the-hill players making norm aspira",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/15/when-is-a-grandmasters-title-less-than-grand.html",
-         "pubDate" : "Thu, 15 Jul 2021 17:49:55 +0000",
-         "title" : "When is a grandmaster's title less than grand?"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the problems Garry Kasparov faced in the Najdorf, when he tried it in his blitz games of the Croatia Grand Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2418,14 +2434,6 @@ news_feed (
          "title" : "Fast and furious action on Day 2 in FIDE World Cup"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the World Cup and the glorious game the Chilean GM Pablo Salinas won with Black against GM Mads Andersen from Sweden. Lawrence will also do a roundup of what happened at the Swedish Championships, the San Fermin Masters and the Grand Chess Tour tournament in Croatia. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-brilliancies-at-the-world-cup",
-         "pubDate" : "Tue, 13 Jul 2021 18:00:00 +0100",
-         "title" : "The Weekly Show: Brilliancies at the World Cup"
-      },
-      {
          "description" : " The 34th Leon Chess tournament took place Wed 30th Jun to Sun 4th Jul 2021.This was a four player rapid knockout with Leinier Dominguez Perez, Boris Gelfand, Ju Wenjun and Jaime Santos Latasa. The event again - like last year - took place on Chess.com rather than in Leon over the board. There was a slightly unusual schedule with the first semi-final match taking place a little early on Wednesday 30th, the second semi-final match took place on 3rd of July and the final on Sunday 4th. The two favourites met in the final where after trading wins in the four game rapid match Boris Gelfand won a second tie-break game against Leinier Dominguez Perez to win the event. Following the flagship event ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2456,14 +2464,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/13/mdlvls44g924oxyqh37dea4d2vbje8",
          "pubDate" : "Tue, 13 Jul 2021 13:05:33 +0000",
          "title" : "Episode 234- GM Jonathan Levitt "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1205",
-         "pubDate" : "Tue, 13 Jul 2021 06:52:04 +0000",
-         "title" : "2021 Koltanowski Conference on Chess in Education to be at the end of July"
       }
    ]
 }
