@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1251",
+         "pubDate" : "Wed, 04 Aug 2021 21:48:20 +0000",
+         "title" : "Big guns storm into semis"
+      },
+      {
+         "description" : "A brilliant victory with the black pieces gave Magnus Carlsen the lead in the match for third place against Vladimir Fedoseev at the FIDE World Cup in Sochi. Meanwhile, Sergey Karjakin was surprised in the opening by Jan-Krzysztof Duda, which prompted him to agree to a quick draw in his game with the white pieces. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r8-d1",
+         "pubDate" : "Wed, 04 Aug 2021 22:20:00 +0100",
+         "title" : "World Cup: Carlsen's brilliance on display"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu won his first Titled Tuesday on August 3, with a score of 9.5/11. He won on tiebreaks over GM Oleksandr Bortnyk and GM Dmitry Andreikin, who also scored 9.5/11. In fourth place was GM Samvel Ter-Sahakyan with the best ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -55,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Wed, 04 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
+         "title" : "Chessable Masters - Games and results"
       },
       {
          "description" : "GM Magnus Carlsen bounced back strongly from his lost FIDE World Cup semifinal. The world champion played a masterpiece with the black pieces on Wednesday and defeated GM Vladimir Fedoseev in the first game of the match for third place. The final ...",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://chessimprover.com/tiger-chess-webinars/",
          "pubDate" : "Wed, 04 Aug 2021 13:00:02 +0000",
          "title" : "Tiger Chess Webinars"
-      },
-      {
-         "description" : "Sergey Karjakin and Jan-Krzysztof Duda are the finalists of the FIDE World Cup. The players they knocked out in the semis, Vladimir Fedoseev and Magnus Carlsen respectively, are fighting in the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Wed, 04 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup Final - Live!"
       },
       {
          "description" : "GM Alireza Firouzja and GM Shakhriyar Mamedyarov need to win on demand on Wednesday after losing their first quarterfinal matches of the Chessable Masters vs. GM Le Quang Liem and GM Levon Aronian respectively. GM Jorden van Foreest had a good f...",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1209",
          "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
          "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1208",
-         "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
-         "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
       }
    ]
 }
