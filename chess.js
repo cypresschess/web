@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the penultimate round of the Grandmaster Tournament in Biel Kirill Alekseenko (pictured) and Vincent Keymer came to victories, while Gata Kamsky defended his lead with a draw against Nihal Sarin. In the Masters Open, the Indian Grandmaster Murali Karthikeyan remains sole first. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-kamsky-defends-lead-alekseenko-and-keymer-score",
+         "pubDate" : "Wed, 04 Aug 2021 09:10:38 +0100",
+         "title" : "Biel: Kamsky defends lead, Alekseenko and Keymer score"
+      },
+      {
+         "description" : "Pune based Harshit Raja completed all the requirements to become the latest Grandmaster of the country after securing his third and final norm at Biel",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-harshit-raja-69th-grandmaster-of-the-country/",
+         "pubDate" : "Wed, 04 Aug 2021 04:04:10 +0000",
+         "title" : "Congratulations Harshit Raja - 69th Grandmaster of the country"
+      },
+      {
          "description" : "The Asian Women's Online Chess Championship scheduled to be held from 27th to 29th&#160;August 2021. All female players who having rating 2100+ in the August",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -141,7 +157,7 @@ news_feed (
          "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda reached the final of the FIDE World Cup on Tuesday. The Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qualifi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-duda-beats-carlsen",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreak-duda-carlsen",
          "pubDate" : "Tue, 03 Aug 2021 07:55:00 -0700",
          "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
       },
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-maghsoodloo-beats-xiong",
          "pubDate" : "Tue, 03 Aug 2021 06:05:25 -0700",
          "title" : "Junior Speed Chess Championship QF: Maghsoodloo Beats Xiong In Bullet"
-      },
-      {
-         "description" : "Gata Kamsky leads the Grandmaster Tournament in Biel, but in round 6 of the classical tournament he has to play with White against Nihal Sarin, one of his closest rivals. Should Sarin win this game, he would catch up to Kamsky. Kamsky's other rival is Kirill Alekseenko, who will try to beat Boris Gelfand with White to catch up to Kamsky. The two other encounters in round 6 are Maxime Lagarde vs Alan Pichot and Noel Studer vs Vincent Keymer. | The action starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Tue, 03 Aug 2021 13:50:00 +0100",
-         "title" : "Biel: Round 6 - Live!"
       },
       {
          "description" : " I'm not sure why I did not highlight this at the time (ie 3 years ago), but the embedded video shows a match between Google Home Mini, and Amazon Alexa. If you don't wish to watch the entire game (which is of dubious quality), skip to the end, which is at least somewhat amusing. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"333\" src=\"https://www.youtube.com/embed/E-rUciTRYaw\" width=\"448\" youtube-src-id=\"E-rUciTRYaw\"></iframe></div><br /> <br /> ",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
          "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
          "title" : "FIDE WORLD CUP R5- Calm before the storm"
-      },
-      {
-         "description" : "Delhi youngster Vantika Agrawal crowned as Online National Women Champion after scoring 9.5 points of out possible in the National Online Championship concluded on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/vantika-women-champion-raahul-clinch-title-in-junior/",
-         "pubDate" : "Mon, 26 Jul 2021 09:53:06 +0000",
-         "title" : "Vantika Women Champion, Raahul clinch title in Junior"
       },
       {
          "description" : "GM Haik Martirosyan defeated GM Amin Tabatabaei in the only decisive game in the open section of the FIDE World Cup on Sunday. The women&#39;s section had just one winner as well: GM Alexandra Kosteniuk survived a lost position and beat GM Valentina G...",
