@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the Peniche peninsula, a center of fish processing and surfing, the Portuguese team champion was determined. Two Spanish Grandmasters put in a special effort for the winning team A.XAT Montemor O Velho, reports Stefan L&ouml;ffler. | Photos: The Portuguese Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-xat-montemor-o-velho-wins-portuguese-team-championships",
+         "pubDate" : "Wed, 04 Aug 2021 11:16:05 +0100",
+         "title" : "A.XAT Montemor O Velho wins Portuguese Team Championships"
+      },
+      {
+         "description" : "The final round in Biel begins at 11:00 CEST and promises to be exciting. Boris Gelfand plays against Noel Studer and Nihal Sarin faces Maxime Lagarde, but the tournament will be decided in the games Alan Pichot vs Kirill Alekseenko and Vincent Keymer vs Gata Kamsky. At the moment Kamsky leads the overall standings, but if he draws against Keymer, Alekseenko will be first if he wins against Pichot. | The action starts at 11:00 CEST (05:00 ET, 09:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-round-2-live",
+         "pubDate" : "Wed, 04 Aug 2021 10:50:00 +0100",
+         "title" : "Biel: Round 7 - Live!"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda has qualified for the 2022 Candidates Tournament in spectacular style by beating Magnus Carlsen to reach the final of the FIDE World Cup. The victory was utterly deserved, with Duda yet to lose a game at the World Cup and never in real danger against Magnus, while the World Champion could have escaped but found himself under immense pressure in the second rapid game. Duda now plays fellow Candidate Sergey Karjakin, while Magnus faces a 3rd place match against Vladimir Fedoseev. Tan Zhongyi took 3rd in the women's event after easily overcoming Anna Muzychuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-3-duda-takes-down-carlsen",
+         "pubDate" : "Wed, 04 Aug 2021 09:13:37 +0000",
+         "title" : "FIDE World Cup 7.3: Duda takes down Carlsen"
+      },
+      {
          "description" : "In the penultimate round of the Grandmaster Tournament in Biel Kirill Alekseenko (pictured) and Vincent Keymer came to victories, while Gata Kamsky defended his lead with a draw against Nihal Sarin. In the Masters Open, the Indian Grandmaster Murali Karthikeyan remains sole first. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-kamsky-defends-lead-alekseenko-and-keymer-score",
          "pubDate" : "Wed, 04 Aug 2021 09:10:38 +0100",
          "title" : "Biel: Kamsky defends lead, Alekseenko and Keymer score"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1249",
+         "pubDate" : "Wed, 04 Aug 2021 08:06:01 +0000",
+         "title" : "Van Foreest shocks So but American hits back"
       },
       {
          "description" : "Pune based Harshit Raja completed all the requirements to become the latest Grandmaster of the country after securing his third and final norm at Biel",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Interesting line-up at the Biel Chess Festival"
       },
       {
-         "description" : "Magnus Carlsen was seriously tested for the first time in Sochi as Radek Wojtaszek decided his best chance against the World Champion was aggression. It could have backfired, but in the end he achieved the moral victory of Magnus offering a draw in an unclear position. Elsewhere half the games in the Open section were decisive, with late twists on most of the boards leaving Harikrishna and Uzbek prodigies Nodirbek Abdusattorov and Javokhir Sindarov needing to win on demand. Women's top seed Aleksandra Goryachkina is in the same boat after blundering against Antoaneta Stefanova.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-1-carlsen-slowed-goryachkina-beaten",
-         "pubDate" : "Fri, 23 Jul 2021 09:50:27 +0000",
-         "title" : "FIDE World Cup 4.1: Carlsen slowed, Goryachkina beaten "
-      },
-      {
          "description" : "The top seed of&#38;nbsp;the Women&#39;s FIDE World Cup GM Aleksandra Goryachkina is in a must-win situation vs. GM Antoaneta Stefanova after blundering in the first game of round four. GM Nana Dzadnidze also started with a loss against IM Polina Shuvalov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2336,22 +2360,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
          "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
          "title" : "2021 FIDE World Cup: Round #2"
-      },
-      {
-         "description" : "This was an exciting week of chess upsets, and not only because of some lower rated players winning their games in the World Cup. First, chess is being played in Dortmund, with the two veterans Anand, and Kramnik, battling it out, without castling. Second, in the same city, the German Grand Prix takes place, with Pavel Eljanov in top form. Third, the World Cup in Sochi has unfortunate covid cases to deal with. Lawrence Trent also has an anecdote, why he had a hard time to play against a smelly chess opponent, and how he dealt with it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-smelly-chess-opponents-corona-world-cup-and-other-upsets",
-         "pubDate" : "Fri, 16 Jul 2021 17:00:00 +0100",
-         "title" : "News Review - Smelly chess opponents, Corona World Cup, and other upsets"
-      },
-      {
-         "description" : "The second round of the World Cups kicked off on Thursday, with the top seeds in both sections starting their campaigns after getting byes in the first round. A couple of health-related issues arose on Thursday, as Levon Aronian showed symptoms of fever and withdrew from his game against Bobby Cheng, while later on, with the games already in play, FIDE announced that another player had tested positive for Covid-19. | Pictured: Irine Sukandar | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d1",
-         "pubDate" : "Fri, 16 Jul 2021 13:20:00 +0100",
-         "title" : "World Cup: Health-related issues"
       },
       {
          "description" : "",
