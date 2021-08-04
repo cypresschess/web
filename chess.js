@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Praggnanandhaa Rameshbabu won his first Titled Tuesday on August 3, with a score of 9.5/11. He won on tiebreaks over GM Oleksandr Bortnyk and GM Dmitry Andreikin, who also scored 9.5/11. In fourth place was GM Samvel Ter-Sahakyan with the best ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-august-3-titled-tuesday",
+         "pubDate" : "Wed, 04 Aug 2021 11:02:47 -0700",
+         "title" : "Praggnanandhaa Wins August 3 Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1250",
+         "pubDate" : "Wed, 04 Aug 2021 17:50:32 +0000",
+         "title" : "Carlsen in sacrifice mode crushes Fedoseev"
+      },
+      {
+         "description" : "TOG Amsterdam on behalf of the KNDSB (Netherlands) and International Chess Committee of the Deaf (ICCD) organise a. 3rd ICCD European Individual Deaf Chess Championships b the 25th ICCD Europa Cup Open Deaf Club Team Championship and c. the 9th ICCD Open Individual Deaf Chess Tournament. All the events will simultaneously take place from 18th-22rd October 2021, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/iccd-european-deaf-chess-championships/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/iccd-european-deaf-chess-championships/",
+         "pubDate" : "Wed, 04 Aug 2021 17:47:31 +0000",
+         "title" : "ICCD European Deaf Chess Championships"
+      },
+      {
+         "description" : "All India Chess Federation congratulate R Vaishali for completing her third &#38; final IM norm and crossing 2400 in Biel open to become India's latest",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-r-vaishali/",
+         "pubDate" : "Wed, 04 Aug 2021 17:22:39 +0000",
+         "title" : "Congratulations R Vaishali"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85046726.cms\" />India's teenaged Grandmaster Nihal Sarin drew against French GM Maxime Lagarde in the seventh and final round of the Classical section of the Grandmaster Triathlon at the Biel Chess Festival here on Wednesday to finish third in the overall standings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-draws-final-round-game-finishes-in-overall-third-place/articleshow/85046726.cms",
+         "pubDate" : "Wed, 04 Aug 2021 22:32:52 +0530",
+         "title" : "Biel Chess festival: Nihal Sarin draws final round game; finishes in overall third place"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a close look at the game Luis Engel against Rasmus Svane, which was played at the German Masters and in which the young German Grandmaster Engel shows his attacking and his tactical skills. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-475-l-engel-r-svane",
+         "pubDate" : "Wed, 04 Aug 2021 18:00:00 +0100",
+         "title" : "Game of the Week 475: L. Engel - R. Svane"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Wed, 04 Aug 2021 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen bounced back strongly from his lost FIDE World Cup semifinal. The world champion played a masterpiece with the black pieces on Wednesday and defeated GM Vladimir Fedoseev in the first game of the match for third place. The final ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-finals-fedoseev-carlsen",
+         "pubDate" : "Wed, 04 Aug 2021 08:44:24 -0700",
+         "title" : "FIDE World Cup Finals: Carlsen Wins Masterpiece"
       },
       {
          "description" : "The first sets of the quarterfinals at the Chessable Masters were played on Tuesday. Le Quang Liem and Levon Aronian took the lead in their matches against Alireza Firouzja and Shakhriyar Mamedyarov respectively, while Wesley So vs Jorden van Foreest and Hikaru Nakamura vs Vladislav Artemiev finished drawn. | Photo: Austin Fuller / Saint Louis Chess Club",
@@ -24,6 +80,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-masters-4-aronian-and-le-lead",
          "pubDate" : "Wed, 04 Aug 2021 14:52:43 +0000",
          "title" : "Chessable Masters 4: Aronian and Le lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85040549.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-69th-gm-harshit-raja-keen-on-striking-balance-between-studies-and-chess/articleshow/85040549.cms",
+         "pubDate" : "Wed, 04 Aug 2021 20:22:31 +0530",
+         "title" : "India's 69th GM Harshit keen on striking balance between studies and chess"
       },
       {
          "description" : " Starting tomorrow evening I will be running webinars for Tiger Chess Premium members. The first four have already been scheduled for August 5th, 12th, 19th and 26th and recorded versions will be available for a few weeks should somebody miss one. The first major topic is that of Crafting Your Own Opening Repertoire. I think <a href=\"https://chessimprover.com/tiger-chess-webinars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Webinars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-webinars/\">Tiger Chess Webinars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -738,7 +802,7 @@ news_feed (
          "title" : "FIDE World Cup 6.3: Karjakin ousts Shankland"
       },
       {
-         "description" : " The 54th Biel Chess Festival takes place 24th July to 4th August 2021. The main event is what they call a Triathalon with a Rapid, Standard and Blitz element.",
+         "description" : " The 54th Biel Chess Festival took place 24th July to 4th August 2021. The main event was what they called a Triathalon with a Rapid, Standard and Blitz element. Gata Kamsky was the clear winner with 36 points in the combined standings 5 points clear of Kiril Alekseenko. Full final standings below.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/54th-biel-chess-festival-2021",
@@ -1490,14 +1554,6 @@ news_feed (
          "title" : "World Cup - Vidit advanced to the Quarter Final"
       },
       {
-         "description" : "The game one between Vidit Gujrathi and GM Durarbayli of Azerbaijan in the pre-quarterfinal of FIDE World Cup 2021 was a tense encounter which ended",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-vidits-first-game-end-in-a-peace-treaty/",
-         "pubDate" : "Mon, 26 Jul 2021 11:10:11 +0000",
-         "title" : "World Cup - Vidit's first Pre-Quarter final game end in a peace treaty"
-      },
-      {
          "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the Round 5 ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1738,14 +1794,6 @@ news_feed (
          "title" : "Magnus Carlsen botches win and heads for tiebreaks at chess World Cup"
       },
       {
-         "description" : "The Stockfish team has filed a lawsuit against Chessbase, claiming that the German chess software company is selling their software without having the license to do so. The lawsuit, filed in a German court, was announced last Tuesday in a blog on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stockfish-developers-sue-chessbase-claiming-copyright-violation",
-         "pubDate" : "Fri, 23 Jul 2021 07:17:00 -0700",
-         "title" : "Stockfish Developers Sue Chessbase Claiming Copyright Violation"
-      },
-      {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper POL 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton UKR [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1784,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interesting-line-up-at-the-biel-chess-festival",
          "pubDate" : "Fri, 23 Jul 2021 11:00:00 +0100",
          "title" : "Interesting line-up at the Biel Chess Festival"
-      },
-      {
-         "description" : "The top seed of&#38;nbsp;the Women&#39;s FIDE World Cup GM Aleksandra Goryachkina is in a must-win situation vs. GM Antoaneta Stefanova after blundering in the first game of round four. GM Nana Dzadnidze also started with a loss against IM Polina Shuvalov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-1",
-         "pubDate" : "Fri, 23 Jul 2021 01:42:00 -0700",
-         "title" : "FIDE World Cup R4.1: Goryachkina, Harikrishna Among 10 Players In Danger Zone"
       },
       {
          "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
@@ -2026,14 +2066,6 @@ news_feed (
          "title" : "U.S. Junior and Senior Championships taking place in Saint Louis"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84592829.cms\" />Young Indian Grandmaster R Praggnanandhaa defeated veteran Michal Krasenkow 2-0 in the rapid tie-break in the third round of the FIDE chess World Cup on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-enters-fourth-round/articleshow/84592829.cms",
-         "pubDate" : "Tue, 20 Jul 2021 22:33:55 +0530",
-         "title" : "Chess World Cup: Praggnanandhaa enters fourth round"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg\" data-image-dimensions=\"1080x861\" data-image-focal-point=\"0.5,0.5\" alt=\"Joepos2.jpg\" data-load=\"false\" data-image-id=\"60f6d9bac1b5864344158083\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg?format=1000w\" /> </figure> <p class=\"\">This week, Perpetual Chess features a different kind of guest, Joe Posnanski was twice- named the best sportswriter in America by the Associated Press. He is also a pop",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2128,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1220",
          "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
          "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84561133.cms\" />Young Indian Grandmaster R Praggnanandhaa let veteran Michal Krasenkow off the hook to lose the second game of the two-game mini-match in the third round of FIDE Chess World Cup on Monday. The experienced P Harikrishna, on the other hand, accepted a draw against lower-rated Constantin Lupulescu of Romania to advance to round four with a 1.5-0.5 margin.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-harikrishna-wins-sarin-crashes-out-praggnanandhaa-faces-tie-break-against-krasenkow/articleshow/84561133.cms",
-         "pubDate" : "Mon, 19 Jul 2021 22:36:26 +0530",
-         "title" : "World Cup: Harikrishna wins, Sarin crashes out"
       },
       {
          "description" : " The FIDE World Cup takes place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics and is high in the mountains. The field is very strong headed by World Champion Magnus Carlsen, but also including Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Shakhriyar Mamedyarov, Maxime Vachier Lagrave, Alireza Firouzja, Leinier Dominguez, Sergey Karjakin, Pentala Harikrishna, Jan-Krzysztof Duda, Vidit Santosh Gujrathi, Dmitry Andreikin, Nikita Vitiugov etc. The event has two innovations, it's 8 rounds rather than 7 with the first round being a sort of preliminary. Secondly there is a women's event alongside ",
@@ -2322,14 +2346,6 @@ news_feed (
          "title" : "Dortmund: Bartel wins, Eljanov sacrifices a queen"
       },
       {
-         "description" : "Day 5 of the World Cups in Sochi saw four players withdrawing from the competition due to health-related issues - including third seed Levon Aronian. Plenty of exciting chess was also seen, with eight players winning on demand to take their matches to tiebreaks. | Pictured: An (extremely young) Indian contingent: Nihal, Aravindh and Praggnanandhaa. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d2",
-         "pubDate" : "Sat, 17 Jul 2021 11:40:00 +0100",
-         "title" : "World Cup: Withdrawals, comebacks"
-      },
-      {
          "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1208",
          "pubDate" : "Wed, 14 Jul 2021 21:22:20 +0000",
          "title" : "Day 03: Great entertainment at the Galaxy Centre for the tie-breaks"
-      },
-      {
-         "description" : " <h2>Ian Nepomniachtchi is a Russian GM, World #No4, and the next challenger against Magnus Carlsen!</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_--min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <h2>Today Ian turns 31 🎉🎉</h2> What should you absolutely know about the next challenger? <ol start=\"1\"> <li>His nickname is Nepo (short for Nepomniachtchi)</li> <li>He was born in Bryansk, Russia</li> <li>In 2002 he won the World Junior Championship U12, barely edging out Carlsen, whom he outrated at that point.</li> <li>He became a Grandmaster at the age of 17 in 2007</li> <li>In 2010, Nepomniachtchi won his first Russian Championship, defe",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/who-is-the-next-challenger-happy-birthday-nepo/",
-         "pubDate" : "Wed, 14 Jul 2021 16:20:32 +0000",
-         "title" : "Who is the next challenger? Happy Birthday Nepo"
       }
    ]
 }
