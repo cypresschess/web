@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Asian Women's Online Chess Championship scheduled to be held from 27th to 29th&#160;August 2021. All female players who having rating 2100+ in the August",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-asian-womens-online-chess-championship-2021/",
+         "pubDate" : "Wed, 04 Aug 2021 03:27:08 +0000",
+         "title" : "Registration for Asian Women's Online Chess Championship 2021"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby profiles Magnus Carlsen at the 2021 Chess World Cup, specifically Magnus \"breaking\" against up-and-coming stars Esipenko and Duda. The mysterious masked Caleb analyzes two of Magnus Carlsen's losses from the huge knockout tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 04 Aug 2021 02:06:44 +0000",
+         "title" : "Carlsen's Chaotic World Cup | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a rook and pawn vs. bishop endgame. The mysterious masked Robert shows how to train your endgames to refine your strategic understanding. 2021.08.03<br /> Jose Fernandez Garcia vs. Sam Shankland, 2012<br /> <a href=\"https://www.365chess.com/game.php?gid=3822281\">https://www.365chess.com/game.php?gid=3822281</a><br /> Ricardo Lopez vs. Robert Hungaski, 2016<br /> <a href=\"http://overchess.com/chessplayers/chessgames-of-ricardo-lopez-101940\">http://overchess.com/chessplayers/chessgames-of-ricardo-lopez-101940</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski",
+         "pubDate" : "Wed, 04 Aug 2021 02:06:44 +0000",
+         "title" : "THINK in the Endgame 2: Now It's Personal | Insane in the Endgame - GM Robert Hungaski"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.08.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ScPUGfNmaIA.jpg?itok=um9H6Eev\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 03 Aug 2021 23:06:41 +0000",
+         "title" : "Carlsen's Chaotic World Cup | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "GM Haik Martirosyan defeated GM Arjun Erigaisi&#38;nbsp;in the Tuesday quarterfinal of the Junior Speed Chess Championship presented by ChessKid with a 15.5-13.5 score. Martirosyan consistently held early leads in each section and held off several str...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -970,14 +1002,6 @@ news_feed (
          "title" : "FIDE World Cup R6.1: Carlsen, Shankland Strike"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave gets whooped. 2021.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-asP_ZuELmE.jpg?itok=--FJXcyq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 29 Jul 2021 08:01:07 +0000",
-         "title" : "Don't Chase Pawns! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "Vidit drew the first game of his Quarterfinal matchup against Polish No:1, and World No:18 Jan-Krzysztof Duda with the White pieces. Vidit couldn't get much",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -992,14 +1016,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
          "pubDate" : "Thu, 29 Jul 2021 04:53:40 +0000",
          "title" : "2021 FIDE World Cup: Round #6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave gets whooped. 2021.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-asP_ZuELmE.jpg?itok=--FJXcyq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 28 Jul 2021 23:00:41 +0000",
-         "title" : "Don't Chase Pawns! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "Magnus Carlsen and Sam Shankland made a big step towards reaching the semifinals of the 2021 FIDE World Cup in Sochi, as they kicked off their matches against Etienne Bacrot and Sergey Karjakin with victories. While Carlsen displayed excellent dynamic feel for the position to win with the black pieces, it was Shankland's endgame technique which allowed him to make the most of an unlikely blunder by his opponent. | Expert analysis by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2021/",
          "pubDate" : "Wed, 28 Jul 2021 08:00:25 +0000",
          "title" : "Premier League Fantasy Football 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows the Philidor position in a rook and bishop vs. rook endgame and how to dominate, or slowly win, the position. 2021.07.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-think-endgame-insane-endgame-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-think-endgame-insane-endgame-gm-robert-hungaski",
-         "pubDate" : "Wed, 28 Jul 2021 04:59:53 +0000",
-         "title" : "How to THINK in the Endgame | Insane in the Endgame - GM Robert Hungaski"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814338.cms\" />A day after becoming the second Indian men's player after legendary Viswanathan Anand, to qualify for the quarterfinals of the chess World Cup in Sochi Grandmaster (GM) Vidit Gujrathi attained his career best Elo rating of 2731.",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/upcoming-russian-star-matched-against-carlsen-in-world-cup/",
          "pubDate" : "Sat, 24 Jul 2021 18:16:00 +0000",
          "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
-      },
-      {
-         "description" : "At the end of round 4, Vidit turned out to be the only Indian to advance to the Pre Quarterfinals. Vidit scored a resounding 2-0",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-vidit-enters-pre-quarterfinal/",
-         "pubDate" : "Sat, 24 Jul 2021 17:47:51 +0000",
-         "title" : "World Cup, Vidit enters Pre-Quarterfinal"
       },
       {
          "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
@@ -2456,14 +2456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-online-olympiad.html",
          "pubDate" : "Wed, 14 Jul 2021 13:43:00 +0000",
          "title" : "2021 Online Olympiad"
-      },
-      {
-         "description" : " &#8220;Sethuraman Panayappan Sethuraman is an Indian born chess grandmaster. Among his many successes we remember him winning the national championship in 2014 and becoming Asian champion in 2016. For his country, he played in several team competitions achieving countless successes: Bronze Medal Chess Olympiad 2014, Gold Medal Asian Teams 2016, Gold Medal Asian Teams 2016 <a href=\"http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Najdorf &#038; Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians</span> <span class=\"meta",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/14/beat-the-najdorf-taimanov-sicilians-a-fighters-repertoire-against-the-famous-sicilians/",
-         "pubDate" : "Wed, 14 Jul 2021 00:10:52 +0000",
-         "title" : "Beat the Najdorf & Taimanov Sicilians: A Fighters Repertoire Against the Famous Sicilians"
       }
    ]
 }
