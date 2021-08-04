@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first sets of the quarterfinals at the Chessable Masters were played on Tuesday. Le Quang Liem and Levon Aronian took the lead in their matches against Alireza Firouzja and Shakhriyar Mamedyarov respectively, while Wesley So vs Jorden van Foreest and Hikaru Nakamura vs Vladislav Artemiev finished drawn. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-4",
+         "pubDate" : "Wed, 04 Aug 2021 16:00:00 +0100",
+         "title" : "Chessable Masters: Le takes the lead against Firouzja"
+      },
+      {
+         "description" : " Starting tomorrow evening I will be running webinars for Tiger Chess Premium members. The first four have already been scheduled for August 5th, 12th, 19th and 26th and recorded versions will be available for a few weeks should somebody miss one. The first major topic is that of Crafting Your Own Opening Repertoire. I think <a href=\"https://chessimprover.com/tiger-chess-webinars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Webinars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-webinars/\">Tiger Chess Webinars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tiger-chess-webinars/",
+         "pubDate" : "Wed, 04 Aug 2021 13:00:02 +0000",
+         "title" : "Tiger Chess Webinars"
+      },
+      {
+         "description" : "Sergey Karjakin and Jan-Krzysztof Duda are the finalists of the FIDE World Cup. The players they knocked out in the semis, Vladimir Fedoseev and Magnus Carlsen respectively, are fighting in the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Wed, 04 Aug 2021 13:55:00 +0100",
+         "title" : "World Cup Final - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja and GM Shakhriyar Mamedyarov need to win on demand on Wednesday after losing their first quarterfinal matches of the Chessable Masters vs. GM Le Quang Liem and GM Levon Aronian respectively. GM Jorden van Foreest had a good f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chessable-masters-quarterfinals-day-1",
+         "pubDate" : "Wed, 04 Aug 2021 05:31:33 -0700",
+         "title" : "Chessable Masters QF: Must-Win For Firouzja, Mamedyarov"
+      },
+      {
          "description" : "On the Peniche peninsula, a center of fish processing and surfing, the Portuguese team champion was determined. Two Spanish Grandmasters put in a special effort for the winning team A.XAT Montemor O Velho, reports Stefan L&ouml;ffler. | Photos: The Portuguese Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,14 +194,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Episode 9"
       },
       {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Tue, 03 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Games and results"
-      },
-      {
          "description" : " <p class=\"lead\">The 23-year old Polish GM, Jan-Krzysztof Duda, faced Magnus Carlsen today at the FIDE World Cup, and knocked out the World Champion in a second rapid game. Duda has reached the final against Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/78EA604A-BC44-4CF4-AACF-D0BE0BA58D3A.gif\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> Duda was the one who broke Carlsen's 125-game unbeaten streak in Round 5 of Norway Chess, becoming the first player to defeat the World Chess Champion in a classical game since Shakhriyar Mamedyarov shocked Magnus in Biel. Karjakin had already secured a spot in the ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -186,7 +210,7 @@ news_feed (
          "title" : "Duda and Karjakin qualify"
       },
       {
-         "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda reached the final of the FIDE World Cup on Tuesday. The Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qualifi...",
+         "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda has reached the final of the FIDE World Cup. On Tuesday, the Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreak-duda-carlsen",
@@ -1810,14 +1834,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Nimzo-Indian with 4.f3"
       },
       {
-         "description" : "Cuba&#39;s top grandmasters GM Lazaro Bruzon and GM Leinier Dominguez as well as GM Garry Kasparov have spoken out in support of Cuban-Spanish GM Arian Gonzalez, who is on a hunger strike after being detained by Cuban authorities for participating in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arian-gonzalez-perez-cuba-hunger-strike",
-         "pubDate" : "Thu, 22 Jul 2021 08:49:00 -0700",
-         "title" : "Kasparov, Dominguez Speak Out As Arrested Cuban GM Starts Hunger Strike"
-      },
-      {
          "description" : "The UK's biggest-ever outdoor chess festival, ChessFest, attracted a total of 6,000 visitors over seven hours for a day of sun, chess and fun at...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2218,14 +2234,6 @@ news_feed (
          "title" : "The Norwegian Bishops' new wood"
       },
       {
-         "description" : " It's an interesting question for all sportspeople. When should you retire? Should you quit when you're at the top, or keep going as long as you're able to do so. And, once you've retired, should you consider making a comeback? It's very much a personal choice, isn't it, especially if you're a world class practitioner <a href=\"https://chessimprover.com/comeback-kid/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/comeback-kid/",
-         "pubDate" : "Sun, 18 Jul 2021 16:55:10 +0000",
-         "title" : "Comeback Kid"
-      },
-      {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2346,14 +2354,6 @@ news_feed (
          "title" : "Day 05: Fighting chess at the World Cup"
       },
       {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at highlights from the World Cup in Sochi and presents two interesting endgames and a brilliancy with echoes of a famous Fischer victory. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-from-the-world-cup",
-         "pubDate" : "Fri, 16 Jul 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Highlights from the World Cup"
-      },
-      {
          "description" : " Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian withdraws due to tonsilitis, fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the arbiters [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2440,30 +2440,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/who-is-the-next-challenger-happy-birthday-nepo/",
          "pubDate" : "Wed, 14 Jul 2021 16:20:32 +0000",
          "title" : "Who is the next challenger? Happy Birthday Nepo"
-      },
-      {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2021 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2021 to be held in Terme Catez, Slovenia on Sunday 14th November 2021.&#160; The official venue of the ECU GA will be in Hotel Terme Conference Hall. Proposals from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2021/",
-         "pubDate" : "Wed, 14 Jul 2021 14:44:35 +0000",
-         "title" : "ECU General Assembly 2021"
-      },
-      {
-         "description" : " Since I started to play Chess, it was my dream to become a Chess Grandmaster. This title has wide recognition, even outside the Chess World. Nearly wherever you go, people will have heard of &#8220;Chess Grandmaster&#8221; as an elite and prestigious title. While most people know the Grandmaster title is prestigious, many do not know [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/\">How To Become A Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-to-become-a-grandmaster-in-chess/",
-         "pubDate" : "Wed, 14 Jul 2021 14:00:00 +0000",
-         "title" : "How To Become A Grandmaster In Chess"
-      },
-      {
-         "description" : " After last years Online Olympiad proved quite popular, FIDE are organising another Online Olympiad this year. Even with this year not being an Olympiad 'year' it does make sense to organise such an event, as this may become the norm post-covid anyway. It will run from the 13th August to the 15th September and will use the same format as last year. Each division will be a mix of seeded teams plus teams that qualified from the lower division. The top 8 teams from Division 1 will then play a KO final to determine a winner (or winners!). The tournament will be hosted on chess.com. Further details can be found at https://www.fide.com/news/1206 (** I will be a paid official at this event **) <br ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-online-olympiad.html",
-         "pubDate" : "Wed, 14 Jul 2021 13:43:00 +0000",
-         "title" : "2021 Online Olympiad"
       }
    ]
 }
