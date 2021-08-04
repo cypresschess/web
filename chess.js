@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Wed, 04 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
          "description" : "The first sets of the quarterfinals at the Chessable Masters were played on Tuesday. Le Quang Liem and Levon Aronian took the lead in their matches against Alireza Firouzja and Shakhriyar Mamedyarov respectively, while Wesley So vs Jorden van Foreest and Hikaru Nakamura vs Vladislav Artemiev finished drawn. | Photo: Austin Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-4",
          "pubDate" : "Wed, 04 Aug 2021 16:00:00 +0100",
          "title" : "Chessable Masters: Le takes the lead against Firouzja"
+      },
+      {
+         "description" : "Levon Aronian needed just three games to beat Shakhriyar Mamedyarov while Liem Quang Le took down Alireza Firouzja on Day 1 of the Chessable Masters quarterfinals. Nakamura-Artemiev saw a relatively quiet 2:2, but the other tied match was sensational, with Jorden van Foreest defeating Wesley So in 19 moves and close to winning two of the other games. Wesley admitted he was \"very lucky to get two points\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-4-aronian-and-le-lead",
+         "pubDate" : "Wed, 04 Aug 2021 14:52:43 +0000",
+         "title" : "Chessable Masters 4: Aronian and Le lead"
       },
       {
          "description" : " Starting tomorrow evening I will be running webinars for Tiger Chess Premium members. The first four have already been scheduled for August 5th, 12th, 19th and 26th and recorded versions will be available for a few weeks should somebody miss one. The first major topic is that of Crafting Your Own Opening Repertoire. I think <a href=\"https://chessimprover.com/tiger-chess-webinars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Webinars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-webinars/\">Tiger Chess Webinars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
       },
       {
-         "description" : "Harikrishna fought for 115 moves but couldn't find a way back on Friday against Iran's Amin Tabatabaei, whose clash with fellow giant killer Haik Martirosyan is the only Last 16 match already determined. Jeffery Xiong was beaten 2:0 by Vidit, while Praggnanandhaa lost a spectacular game to Maxime Vachier-Lagrave. There are no less than eight tiebreaks in the open section, including Carlsen-Wojtaszek, after Magnus failed to wrap up what should have been a crushing win. Top seed Aleksandra Goryachkina hit back on demand to force one of four tiebreaks in the women's event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-2-hari-xiong-pragg-knocked-out",
-         "pubDate" : "Sat, 24 Jul 2021 11:33:09 +0000",
-         "title" : "FIDE World Cup 4.2: Hari, Xiong & Pragg knocked out"
-      },
-      {
          "description" : "GM Pentala Harikrishna was the highest-rated player to leave the FIDE World Cup on Friday after failing to level the score vs. GM Amin Tabatabaei.&#38;nbsp;GM Magnus Carlsen and GM Radoslaw Wojtaszek played another tense draw and will go to tiebreaks ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2328,14 +2336,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tennis-and-chess-time-to-retire-for-federer-and-kasparov/",
          "pubDate" : "Sat, 17 Jul 2021 08:20:25 +0000",
          "title" : "Tennis and chess: time to retire for Federer and Kasparov?"
-      },
-      {
-         "description" : "In the diagram position Black just played 21...Rxd4!, capturing a knight. However, this move looks dangerous because White has 22.Qc3, pinning the rook on the long diagonal and threatening 23.e3. But Black knew exactly what he was doing. Can you follow his thoughts?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mighty-knights-2",
-         "pubDate" : "Sat, 17 Jul 2021 09:00:00 +0100",
-         "title" : "Make it work!"
       },
       {
          "description" : " &#8220;French Grandmaster Christian Bauer is one of his country's leading players. He is a former national champion and has represented France in numerous international team events. He has written many articles and books for several publishing houses: 'Play 1&hellip;b6' and 'The Philidor Files' for Everyman Chess and 'Play the Scandinavian' for Quality Chess. Many of <a href=\"http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a ",
