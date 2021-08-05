@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, on 28 July 2021, the Hungarian Grandmaster Istvan Csom died at the age of 81. In the 1970s he was one of Hungary's best players and he was part of the Hungarian team that sensationally won gold ahead of the heavily favoured Soviet team at the Chess Olympiad 1978 in Buenos Aires. | Photo: Obuda Media",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/istvan-csom-1940-2021",
+         "pubDate" : "Thu, 05 Aug 2021 13:07:48 +0100",
+         "title" : "Istvan Csom (2 June 1940 - 28 July 2021)"
+      },
+      {
+         "description" : "Gata Kamsky, the leader of the Grandmaster Triathlon in Biel, finished the tournament in style. In the last round he won with Black against Vincent Keymer to win the classical tournament and the triathlon. Kirill Alekseenko and Nihal Sarin finished second and third in the triathlon, Boris Gelfand was third in the classical tournament. Salem Saleh won the Master Open on tiebreak. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-kamsky-beats-keymer-and-wins-grandmaster-triathlon",
+         "pubDate" : "Thu, 05 Aug 2021 11:43:33 +0100",
+         "title" : "Biel: Kamsky beats Keymer and wins Grandmaster Triathlon"
+      },
+      {
+         "description" : "The Chessable Masters semifinals will see the matchups GM Vladislav Artemiev vs. GM Wesley So and GM Levon Aronian vs. GM Le Quang Liem. Favorites in their quarterfinal matches GM Alireza Firouzja and GM Hikaru Nakamura were knocked out, the latte...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chessable-masters-quarterfinals-day-2",
+         "pubDate" : "Thu, 05 Aug 2021 03:06:57 -0700",
+         "title" : "Chessable Masters QF: Aronian, Artemiev, Le, So Through To Semis"
+      },
+      {
+         "description" : "The Karjakin-Duda FIDE World Cup final got off to a false start when Sergey seemed to mix something up in the opening and could only force a draw in under 30 minutes with the white pieces. That left the stage clear for World Champion Magnus Carlsen to start getting over his loss to Duda with a beautiful game where his positional exchange sacrifice ultimately left Vladimir Fedoseev completely helpless as Magnus brought home the full point. Fedoseev now has to win on Thursday to prolong the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-world-cup-8-1-a-carlsen-masterpiece",
+         "pubDate" : "Thu, 05 Aug 2021 09:03:11 +0000",
+         "title" : "FIDE World Cup 8.1: A Carlsen masterpiece"
+      },
+      {
+         "description" : "Presidents Awards for Services to Chess Joe Conlon &#124; Andy Howie Contribution to Accessible Chess The UK Braille Chess Association Contribution to Women's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2021-and-citations/",
+         "pubDate" : "Thu, 05 Aug 2021 08:19:30 +0000",
+         "title" : "ECF Awards 2021 and citations"
+      },
+      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/98B7D4EE-1657-47C7-902C-41496E6E4439.png\" width=\"1600\" height=\"1050\" alt=\"\" /> </div> Dubai, the most populous city in the UAE, billed itself as a tourist destination for decades, and '<b>Time to Say Dubai</b>' slogan was used by the <a href=\"https://brand-history.com/austrian-airlines-osterreichische-luftverkehrs-ag/austrian-airlines/austrian-airlines-time-to-say-dubai-taglich-und-direkt-nach-dubai-austrian-we-fly-for-your-smile\">tourism industry</a> to promote the palmy hub with the world's tallest building, the Burj Khalifa. When Magnus Carlsen, the World Chess Champion, learned that he will be playing Ian Nepo ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -102,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-finals-fedoseev-carlsen",
-         "pubDate" : "Wed, 04 Aug 2021 08:44:24 -0700",
+         "pubDate" : "Wed, 04 Aug 2021 08:44:00 -0700",
          "title" : "FIDE World Cup Finals: Carlsen Wins Masterpiece"
       },
       {
@@ -1682,14 +1722,6 @@ news_feed (
          "title" : "2021 ACT Winter Open - Win for Press "
       },
       {
-         "description" : "We're down to the Last 16 of the FIDE World Cup, with just three matches as seeded: Carlsen-Esipenko, Grischuk-Duda and MVL-Karjakin. Vidit is the other player seeded to the Last 16 to make it and will face Vasif Durarbayli, who overcame Nodirbek Abdusattorov. The one major surprise of the tiebreaks was 18-year-old Velimir Ivic knocking out Dmitry Andreikin, while Magnus Carlsen, Sergey Karjakin and Peter Svidler put on impressive shows. In the women's section three of the four quarterfinals starting Sunday are exactly as seeded, while Kosteniuk-Gunina is a surprise only on paper.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-4-3-18-year-old-ivic-knocks-out-andreikin",
-         "pubDate" : "Sun, 25 Jul 2021 12:15:39 +0000",
-         "title" : "FIDE World Cup 4.3: 18-year-old Ivic knocks out Andreikin"
-      },
-      {
          "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Be5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1736,14 +1768,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/upcoming-russian-star-matched-against-carlsen-in-world-cup/",
          "pubDate" : "Sat, 24 Jul 2021 18:16:00 +0000",
          "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
-      },
-      {
-         "description" : "GM Pentala Harikrishna was the highest-rated player to leave the FIDE World Cup on Friday after failing to level the score vs. GM Amin Tabatabaei.&#38;nbsp;GM Magnus Carlsen and GM Radoslaw Wojtaszek played another tense draw and will go to tiebreaks ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-day-2",
-         "pubDate" : "Sat, 24 Jul 2021 02:17:00 -0700",
-         "title" : "FIDE World Cup R4.2: Dzagnidze, Goryachkina Force Tiebreaks; Harikrishna Out"
       },
       {
          "description" : "In the diagram position, decentralizing White's queen with 20.Qa5? Rxd4 21.Qxa7 looks unhealthy - and runs into a direct refutation. Full score only if you can see it already in this position!",
@@ -2194,14 +2218,6 @@ news_feed (
          "title" : "2021 FIDE World Cup: Round #3"
       },
       {
-         "description" : "Tuesday 20th July is International Chess Day. This marks the anniversary of the day that the International Chess Federation (FIDE) was founded in 1924. The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-chess-day-20th-july/",
-         "pubDate" : "Mon, 19 Jul 2021 13:22:38 +0000",
-         "title" : "International Chess Day 20th July"
-      },
-      {
          "description" : "Online chess helped a lot of players to cope with the corona lockdown. But some players simply do not like to play online and they particularly enjoy the return to over-the-board chess. The German top player Liviu-Dieter Nisipeanu is such a player, and he recently won the Benasque Open with the sensational result of 9 points from 10 games. Jesper Sondergaard Thybo (Denmark) and Gergely Kandor (Hungary) finished with one point less and shared places two and three. | Photo: Raluca Scircea (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2330,14 +2346,6 @@ news_feed (
          "title" : "World Cup: Firouzja and Dominguez knocked out"
       },
       {
-         "description" : "Vishy Anand is still leading the No Castling chess match against Vladimir Kramnik. The Indian took the lead in game 1 and could have secured match victory in game 3, as he had a much better position with the white pieces. However, Kramnik managed to hold the draw in the end. The last game is set to take place today at 13.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-no-castling-chess-anand-kramnik-game-3",
-         "pubDate" : "Sun, 18 Jul 2021 09:35:00 +0100",
-         "title" : "No Castling Chess: Anand misses his chance"
-      },
-      {
          "description" : " From the publisher: &#8220;For too long, Anti-Sicilian rhetoric has centred on the logic of simplicity, geared towards reaching playable positions with easy plans while simultaneously avoiding depths of theory. The danger of this logic is the ease with which we can fall into the trap of inactivity; of mindlessly playing an opening without striving to <a href=\"http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.c",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2352,14 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1216",
          "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
          "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
-      },
-      {
-         "description" : "Polish grandmaster Mateusz Bartel had a difficult time in the first rounds of the Deutschland Grand Prix, but he could land a nice attacking win with Black against Andreas Heimann. The remaining four games ended drawn, but had a lot to offer, with leader Pavel Eljanov sacrificing a queen against Ruslan Ponomariov. | Pictured: Bartel facing Eljanov in round 4",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-trophy-bartel-wins",
-         "pubDate" : "Sat, 17 Jul 2021 12:05:00 +0100",
-         "title" : "Dortmund: Bartel wins, Eljanov sacrifices a queen"
       },
       {
          "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
@@ -2448,14 +2448,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-top-players-join-the-fights/",
          "pubDate" : "Thu, 15 Jul 2021 12:00:56 +0000",
          "title" : "FIDE WORLD CUP 2021 - Top seeds join the fights"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1209",
-         "pubDate" : "Thu, 15 Jul 2021 08:12:59 +0000",
-         "title" : "Magnus Carlsen, awarded Svetozar Gligoric Trophy 2020"
       }
    ]
 }
