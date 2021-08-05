@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/98B7D4EE-1657-47C7-902C-41496E6E4439.png\" width=\"1600\" height=\"1050\" alt=\"\" /> </div> Dubai, the most populous city in the UAE, billed itself as a tourist destination for decades, and '<b>Time to Say Dubai</b>' slogan was used by the <a href=\"https://brand-history.com/austrian-airlines-osterreichische-luftverkehrs-ag/austrian-airlines/austrian-airlines-time-to-say-dubai-taglich-und-direkt-nach-dubai-austrian-we-fly-for-your-smile\">tourism industry</a> to promote the palmy hub with the world's tallest building, the Burj Khalifa. When Magnus Carlsen, the World Chess Champion, learned that he will be playing Ian Nepo ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-carlsens-tweet-turns-into-a-towel-and-a-slogan/",
+         "pubDate" : "Thu, 05 Aug 2021 06:07:47 +0000",
+         "title" : "Time to Say Dubai: a Slogan, a Tweet, a Towel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
