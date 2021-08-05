@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Thu, 05 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Hikaru Nakamura, Alireza Firouzja, Shakhriyar Mamedyarov and Jorden van Foreest were all knocked out of the Chessable Masters on Wednesday in a brutal day of quarterfinal action. Liem Quang Le needed just two games to oust Alireza, while Wesley So also started with two wins against Jorden before getting the draw he needed when both players overlooked a blunder in Game 3. Levon Aronian won after a heavyweight exchange of blows against Shakhriyar, while Vladislav Artemiev finally defeated Hikaru in Armageddon!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-5-nakamura-firouzja-mamedyarov-knocked-out",
+         "pubDate" : "Thu, 05 Aug 2021 14:18:40 +0000",
+         "title" : "Chessable Masters 5: Nakamura, Firouzja & Mamedyarov knocked out"
+      },
+      {
+         "description" : "GM Gata Kamsky clinched the Biel Chess Festival Chess Triathlon on Wednesday. The American grandmaster won both the classical and rapid segments while GM Nihal Sarin won the blitz. Sarin came in third in the overall standings. GM Kirill Alekseenko...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gata-kamsky-wins-biel-2021",
+         "pubDate" : "Thu, 05 Aug 2021 06:28:02 -0700",
+         "title" : "Gata Kamsky Victorious In Biel Triathlon"
+      },
+      {
+         "description" : " Improving your game by beating up chess programs is a lot harder these days than when I used to do it in the 1980's. Most engines these days are used for analysis, which means they are usually set for the hardest level, rather than the easiest when up and running. While I still recommended using an engine to improve your play, I did wonder if finding such an engine (with playable strength levels) was becoming impossible. It turns out that there still a few around, and as a bonus, they are accessible online. lichess.org has a version of Stockfish which can be set to play at specific levels. The easiest level is estimated to be rated around 800, and each new level adds 300 rating points to th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/beating-up-on-stockfish.html",
+         "pubDate" : "Thu, 05 Aug 2021 13:15:00 +0000",
+         "title" : "Beating up on Stockfish"
+      },
+      {
+         "description" : "The ECF is keen to understand how we can help clubs to rebuild membership and re-restablish a programme of chess activities as we come out...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-clubs-support-survey/",
+         "pubDate" : "Thu, 05 Aug 2021 12:56:18 +0000",
+         "title" : "ECF Clubs Support Survey"
+      },
+      {
+         "description" : "Sergey Karjakin and Jan-Krzysztof Duda drew their first game of the final at the FIDE World Cup in Sochi - Duda has the white pieces in game 2. Meanwhile, Vladimir Fedoseev (pictured) needs to win with black to level the score against Magnus Carlsen in the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
+         "pubDate" : "Thu, 05 Aug 2021 13:55:00 +0100",
+         "title" : "World Cup Final - Live!"
+      },
+      {
+         "description" : "Day 2 of the Chessable Masters quarterfinals saw Wesley So, Vladislav Artemiev, Le Quang Liem and Levon Aronian securing a spot in the semifinals. In the most exciting match of the day, Artemiev and Hikaru Nakamura went all the way down to Armageddon after trading wins with the white pieces both in rapid and blitz - fittingly, the Russian grandmaster won with white in the sudden-death decider to move on to the semis. | Photo: Eric Rosen / FIDE World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-5",
+         "pubDate" : "Thu, 05 Aug 2021 13:20:00 +0100",
+         "title" : "Chessable Masters: Artemiev beats Nakamura in Armageddon"
+      },
+      {
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krystof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
+         "pubDate" : "Thu, 05 Aug 2021 12:18:34 +0000",
+         "title" : "2021 FIDE World Cup: FINALS"
+      },
+      {
          "description" : "Last week, on 28 July 2021, the Hungarian Grandmaster Istvan Csom died at the age of 81. In the 1970s he was one of Hungary's best players and he was part of the Hungarian team that sensationally won gold ahead of the heavily favoured Soviet team at the Chess Olympiad 1978 in Buenos Aires. | Photo: Obuda Media",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +82,11 @@ news_feed (
          "title" : "Biel: Kamsky beats Keymer and wins Grandmaster Triathlon"
       },
       {
-         "description" : "The Chessable Masters semifinals will see the matchups GM Vladislav Artemiev vs. GM Wesley So and GM Levon Aronian vs. GM Le Quang Liem. Favorites in their quarterfinal matches GM Alireza Firouzja and GM Hikaru Nakamura were knocked out, the latte...",
+         "description" : "The Chessable Masters semifinals will see the matchups GM Vladislav Artemiev vs. GM Wesley So and GM Levon Aronian vs. GM Le Quang Liem. Favorites in their quarterfinal matches, GM Alireza Firouzja and GM Hikaru Nakamura were knocked out, the latt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-quarterfinals-day-2",
-         "pubDate" : "Thu, 05 Aug 2021 03:06:57 -0700",
+         "pubDate" : "Thu, 05 Aug 2021 03:06:00 -0700",
          "title" : "Chessable Masters QF: Aronian, Artemiev, Le, So Through To Semis"
       },
       {
@@ -82,6 +146,14 @@ news_feed (
          "title" : "World Cup: Carlsen's brilliance on display"
       },
       {
+         "description" : " At the end of this year, I will retire from competitive Chess. I'm not only stopping to earn money by playing chess. I am also stopping to compete in chess tournaments. This means I will not be part of the Swiss National Team anymore. I'm not planning to compete in any tournament from 2022 onwards. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/retire-from-competitive-chess/\">Why I Retire From Competitive Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/retire-from-competitive-chess/",
+         "pubDate" : "Wed, 04 Aug 2021 18:30:00 +0000",
+         "title" : "Why I Retire From Competitive Chess"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu won his first Titled Tuesday on August 3, with a score of 9.5/11. He won on tiebreaks over GM Oleksandr Bortnyk and GM Dmitry Andreikin, who also scored 9.5/11. In fourth place was GM Samvel Ter-Sahakyan with the best ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,15 +202,7 @@ news_feed (
          "title" : "Game of the Week 475: L. Engel - R. Svane"
       },
       {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Wed, 04 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Games and results"
-      },
-      {
-         "description" : "GM Magnus Carlsen bounced back strongly from his lost FIDE World Cup semifinal. The world champion played a masterpiece with the black pieces on Wednesday and defeated GM Vladimir Fedoseev in the first game of the match for third place. The final ...",
+         "description" : "GM Magnus Carlsen bounced back forcefully from his lost FIDE World Cup semifinal. The world champion played a masterpiece with the black pieces on Wednesday and defeated GM Vladimir Fedoseev in the first game of the match for third place. The fina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-cup-finals-fedoseev-carlsen",
@@ -562,7 +626,7 @@ news_feed (
          "title" : "Games of the Week - GM Robert Hungaski | lichess.org"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Che",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/",
@@ -1650,14 +1714,6 @@ news_feed (
          "title" : "National Chess Library news"
       },
       {
-         "description" : "Haik Martirosyan beat Amin Tabatabaei while Alexandra Kosteniuk took down Valentina Gunina in the only decisive games in a quiet start to Round 5 of the FIDE World Cup. Magnus Carlsen found himself under pressure despite having the white pieces against 19-year-old Andrey Esipenko, but the most dramatic game of the round was Vidit-Durarbayli, where Vidit missed a fleeting chance in a wild position before Vasif Durarbayli seized complete control only to allow his opponent a great escape.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-1-martirosyan-kosteniuk-strike",
-         "pubDate" : "Mon, 26 Jul 2021 08:00:49 +0000",
-         "title" : "FIDE World Cup 5.1: Martirosyan & Kosteniuk strike"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1728,14 +1784,6 @@ news_feed (
          "link" : "https://chessimprover.com/missed-opportunity/",
          "pubDate" : "Sun, 25 Jul 2021 09:02:35 +0000",
          "title" : "Missed Opportunity"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen made it to the fifth round of the FIDE World Cup on Saturday as he defeated GM Radoslaw Wojtaszek in the second game of the round-four tiebreak. A surprising name among the final 16 is 18-year-old GM Velimir Ivic, who...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-4-tiebreaks",
-         "pubDate" : "Sun, 25 Jul 2021 00:02:00 -0700",
-         "title" : "FIDE World Cup R4.3: Carlsen, Ivic Among Final 16"
       },
       {
          "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
@@ -2330,22 +2378,6 @@ news_feed (
          "title" : "2021 George Trundle Masters"
       },
       {
-         "description" : "The final round of the Deutschland Grand Prix is taking place concurrently with the fourth and last game of the Vishy Anand vs Vladimir Kramnik match in No Castling chess. In the Grand Prix, three players - Pavel Eljanov, Dmitrij Kollars and Daniel Fridman - are sharing first place on 5/8. Vincent Keymer stands a half point back. | Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-sparkassen-chess-trophy-live",
-         "pubDate" : "Sun, 18 Jul 2021 12:55:20 +0100",
-         "title" : "Dortmund Sparkassen Chess Trophy - Final round"
-      },
-      {
-         "description" : "Two matches, one in each section, went the distance in the playoffs of round 2 in Sochi: Ivan Cheparinov and Olga Badelka (pictured, right) scored wins with white in Armageddon to advance to round 3 in the longest matches of the event so far. Alireza Firouzja and Leinier Dominguez were knocked out by two Uzbek players, Javokhir Sindarov and Jakhongir Vakhidov respectively. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r2-d3",
-         "pubDate" : "Sun, 18 Jul 2021 12:40:00 +0100",
-         "title" : "World Cup: Firouzja and Dominguez knocked out"
-      },
-      {
          "description" : " From the publisher: &#8220;For too long, Anti-Sicilian rhetoric has centred on the logic of simplicity, geared towards reaching playable positions with easy plans while simultaneously avoiding depths of theory. The danger of this logic is the ease with which we can fall into the trap of inactivity; of mindlessly playing an opening without striving to <a href=\"http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.c",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2424,30 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1211",
          "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
          "title" : "Day 04: Magnus Carlsen debuts with a technical win"
-      },
-      {
-         "description" : " Smothered mates in the opening usually occur when a knight makes it to d6 or d3. It certainly happened in this game, but in a small twist, all 32 pieces were still on the board when it did. <br /> <b>chesspatzer46 - brojangled</b><br />chess.com <script>new PgnViewer( { boardName: \"game1258\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bb5 Nce7 5. O-O a6 6. Be2 Nf6 7. e5 Nfd5 8. Ne4 b6 9. Nd6# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1258-container\"></div><div id=\"game1258-moves\"></div><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/a-familiar-theme-with-twist.html",
-         "pubDate" : "Thu, 15 Jul 2021 13:31:00 +0000",
-         "title" : "A familiar theme - with a twist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1210",
-         "pubDate" : "Thu, 15 Jul 2021 12:42:22 +0000",
-         "title" : "International Children and Youth Chess Festival \"Rudaga - Kaissa 2021 Online\" kicks off on July 23"
-      },
-      {
-         "description" : "The FIDE World Cup 2021 kicked off in Sochi, Russia. The event takes place from 10 July 8 August 2021 at the Galaxy Entertainment And Leisure Complex. Of the 309 qualified players in the Open and Women's groups, there were only 8 justified nonappearances, essentially due to travel-related problems. The event opened with an []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2021-top-players-join-the-fights/",
-         "pubDate" : "Thu, 15 Jul 2021 12:00:56 +0000",
-         "title" : "FIDE WORLD CUP 2021 - Top seeds join the fights"
       }
    ]
 }
