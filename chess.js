@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to a 30-move victory over Sergey Karjakin, Jan-Krzysztof Duda was crowned champion at the 2021 FIDE World Cup in Sochi. The Polish grandmaster had an undefeated performance in the 24-day event and knocked out none other than world champion Magnus Carlsen in the semifinals. Carlsen, who had high praise for Duda, beat Vladimir Fedoseev for a second day in a row to claim third place. | Photos: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r8-d2",
+         "pubDate" : "Fri, 06 Aug 2021 00:10:00 +0100",
+         "title" : "Jan-Krzysztof Duda wins the 2021 FIDE World Cup"
+      },
+      {
+         "description" : "Arena Kings Season 7 concluded on Wednesday, August 4, with GM Jose Martinez (@Jospem) emerging victorious, earning the $4,000 prize for first place. Martinez won an additional $725 during the season for a total earnings of $4,725. 👏 Congratul...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arena-kings-season-7-recap",
+         "pubDate" : "Thu, 05 Aug 2021 15:17:00 -0700",
+         "title" : "Arena Kings Season 7 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1253",
+         "pubDate" : "Thu, 05 Aug 2021 21:35:46 +0000",
+         "title" : "155 Teams Registered for Online Olympiad 2021"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look how Sergey Karjakin won a must-win game in spectacular fashion against Sam Shankland at the FIDE World Cup - with the King's Indian Attack as a surprise weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +90,14 @@ news_feed (
          "title" : "Beating up on Stockfish"
       },
       {
+         "description" : "Last week, on 28 July 2021, the Hungarian Grandmaster Istvan Csom died at the age of 81. In the 1970s he was one of Hungary's best players and he was part of the Hungarian team that sensationally won gold ahead of the heavily favoured Soviet team at the Chess Olympiad 1978 in Buenos Aires. | Photo: Obuda Media",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/istvan-csom-1940-2021",
+         "pubDate" : "Thu, 05 Aug 2021 14:07:48 +0100",
+         "title" : "Istvan Csom (2 June 1940 - 28 July 2021)"
+      },
+      {
          "description" : "The ECF is keen to understand how we can help clubs to rebuild membership and re-restablish a programme of chess activities as we come out...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -79,7 +111,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2021-live",
          "pubDate" : "Thu, 05 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup Final - Live!"
+         "title" : "World Cup Final - Duda wins"
       },
       {
          "description" : "Day 2 of the Chessable Masters quarterfinals saw Wesley So, Vladislav Artemiev, Le Quang Liem and Levon Aronian securing a spot in the semifinals. In the most exciting match of the day, Artemiev and Hikaru Nakamura went all the way down to Armageddon after trading wins with the white pieces both in rapid and blitz - fittingly, the Russian grandmaster won with white in the sudden-death decider to move on to the semis. | Photo: Eric Rosen / FIDE World Cup",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
          "pubDate" : "Thu, 05 Aug 2021 12:18:34 +0000",
          "title" : "2021 FIDE World Cup: FINALS"
-      },
-      {
-         "description" : "Last week, on 28 July 2021, the Hungarian Grandmaster Istvan Csom died at the age of 81. In the 1970s he was one of Hungary's best players and he was part of the Hungarian team that sensationally won gold ahead of the heavily favoured Soviet team at the Chess Olympiad 1978 in Buenos Aires. | Photo: Obuda Media",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/istvan-csom-1940-2021",
-         "pubDate" : "Thu, 05 Aug 2021 13:07:48 +0100",
-         "title" : "Istvan Csom (2 June 1940 - 28 July 2021)"
       },
       {
          "description" : "Gata Kamsky, the leader of the Grandmaster Triathlon in Biel, finished the tournament in style. In the last round he won with Black against Vincent Keymer to win the classical tournament and the triathlon. Kirill Alekseenko and Nihal Sarin finished second and third in the triathlon, Boris Gelfand was third in the classical tournament. Salem Saleh won the Master Open on tiebreak. | Photos: Biel Chess Festival",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
       },
       {
-         "description" : "GM Hans Niemann won the U.S. Junior Championship on Sunday in St. Louis. The 18-year-old grandmaster and chess streamer finished on 6/9, half a point more than a group of five players. IM Annie Wang won the girls&#39; section. GM Gregory Kaidanov de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-us-junior-championship-annie-wang",
-         "pubDate" : "Mon, 26 Jul 2021 12:55:00 -0700",
-         "title" : "Niemann Clinches U.S. Junior Championship; Wang Wins Girls' Title"
-      },
-      {
          "description" : "Sabrina Vega is the best woman player in the history of Spanish chess. She won the national women's championship six times and represented her country in five Chess Olympiads. In an interview with Tatiana Flores, Sabrina Vega talks about her chess career and how chess can help you to grow and to enrich your personality.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2362,14 +2378,6 @@ news_feed (
          "title" : "Magnus Carlsen on track to win"
       },
       {
-         "description" : "In his third column examining who is the best chess player in history - and his 150th overall - Jon Speelman fast forwards to the present champion, Magnus Carlsen. Speelman considers that Carlsen's greatest strength is in the endgame, and dares to call him the best ever for this stage of the game. | Photo: Anastasiia Korolkova / FIDE World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-150",
-         "pubDate" : "Sun, 18 Jul 2021 19:00:00 +0100",
-         "title" : "The Norwegian Bishops' new wood"
-      },
-      {
          "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2456,14 +2464,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster",
          "pubDate" : "Fri, 16 Jul 2021 07:00:04 +0000",
          "title" : "Chess: Garry Kasparov loses in seven moves as comeback proves a disaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1212",
-         "pubDate" : "Thu, 15 Jul 2021 21:46:11 +0000",
-         "title" : "Severino and Mendoza win Asian Chess Championship for Players with Disabilities"
       }
    ]
 }
