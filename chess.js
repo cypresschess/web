@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look how Sergey Karjakin won a must-win game in spectacular fashion against Sam Shankland at the FIDE World Cup - with the King's Indian Attack as a surprise weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-winnning-on-demand-with-the-king-s-indian-attack",
+         "pubDate" : "Thu, 05 Aug 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Winnning on demand - with the King's Indian Attack"
+      },
+      {
+         "description" : " 23-year-old Grandmaster, Jan-Krzysztof Duda, climbed to the top of the FIDE World Cup with a decisive win against Sergey Karjakin in the final. Duda had an incredible run defeating GMs Sevian, Idani, Grischuk, Vidit, Carlsen, and Karjakin, becoming the first Pole to win the World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51359010783_afa6512e64_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> </div> The ceremonial first move of Day 2 Final was made by Sergey Tolchinsky, Russian professional ice hockey, and both finalists seemed to enjoy the fact that he attempted to start Duda's game with the b-pawn! Duda had a confident start of the game, showing excel",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/jan-krzysztof-duda-wins-fide-world-cup-2021/",
+         "pubDate" : "Thu, 05 Aug 2021 16:56:00 +0000",
+         "title" : "Jan-Krzysztof Duda wins FIDE World Cup 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1252",
+         "pubDate" : "Thu, 05 Aug 2021 16:17:49 +0000",
+         "title" : "Jan-Krzysztof Duda wins 2021 World Cup"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda won the 2021 FIDE World Cup on Thursday, beating GM Sergey Karjakin convincingly in his white game, thereby avoiding a tiebreak. The 23-year-old Polish grandmaster finished the tournament undefeated and takes home $88,000. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-wins-2021-fide-world-cup",
+         "pubDate" : "Thu, 05 Aug 2021 08:55:00 -0700",
+         "title" : "BREAKING: Duda Wins FIDE World Cup, Carlsen Third"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Chessable Masters: Artemiev beats Nakamura in Armageddon"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krystof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krystof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
@@ -626,7 +658,7 @@ news_feed (
          "title" : "Games of the Week - GM Robert Hungaski | lichess.org"
       },
       {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "FIDE WORLD CUP R5- Calm before the storm"
       },
       {
-         "description" : "GM Haik Martirosyan defeated GM Amin Tabatabaei in the only decisive game in the open section of the FIDE World Cup on Sunday. The women&#39;s section had just one winner as well: GM Alexandra Kosteniuk survived a lost position and beat GM Valentina G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-1-martirosyan",
-         "pubDate" : "Mon, 26 Jul 2021 02:36:00 -0700",
-         "title" : "FIDE World Cup R5.1: Kosteniuk, Martirosyan Only Winners"
-      },
-      {
          "description" : "Two national champions were crowned on Sunday, 25 July, as both GM Hans Niemann (pictured) and IM Annie Wang clinched victories in the 2021 U.S. Junior Championships, both winning $10,000 scholarships in addition to the first place prize. Meanwhile, GM Larry Christiansen won a critical last round game in the U.S. Senior, forcing a playoff tiebreak on Monday against GM Gregory Kaidanov. With their victories, Hans and Annie qualified for the 2022 U.S. Championship and U.S. Women's Championship. | Photo: Courtesy of Saint Louis Chess Club, Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2354,14 +2378,6 @@ news_feed (
          "title" : "Aronian describes his trip to Sochi after withdrawal #TweetOftheDay"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 36th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-36-development-advantage-2",
-         "pubDate" : "Sun, 18 Jul 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 36: Development advantage (2)"
-      },
-      {
          "description" : "The 2nd round of the FIDE World Chess Cup 2021 brought several upsets and surprising results. 29 matches, in both Opean and Women's sections, were decided in tiebreaks. Shortly before the start of the Round 2, Levon Aronian announced that he will definitely withdraw from the event due to a high fever. Read more: Aronian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2448,14 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1212",
          "pubDate" : "Thu, 15 Jul 2021 21:46:11 +0000",
          "title" : "Severino and Mendoza win Asian Chess Championship for Players with Disabilities"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1211",
-         "pubDate" : "Thu, 15 Jul 2021 18:47:14 +0000",
-         "title" : "Day 04: Magnus Carlsen debuts with a technical win"
       }
    ]
 }
