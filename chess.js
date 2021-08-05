@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 05 Aug 2021 02:08:47 +0000",
+         "title" : "McShane Slays Aronian, 2012 Tal Memorial | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.08.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/09JqE4jUAvU.jpg?itok=R_9IBKVA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 04 Aug 2021 23:08:40 +0000",
+         "title" : "Aronian! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1024,22 +1040,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/29/us-undercard-champions-niemann-kaidanov-and-wang.html",
          "pubDate" : "Thu, 29 Jul 2021 20:06:50 +0000",
          "title" : "U.S. \"Undercard\" Champions: Niemann, Kaidanov, and Wang"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski teaches a chess class on a topic of his choice. 2021.08.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iItvLDvZkqc.jpg?itok=Pz_Gx7lH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Thu, 29 Jul 2021 20:01:33 +0000",
-         "title" : "Grandmaster's Choice - GM Robert Hungaski"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski analyzes important games from the ongoing 2021 Chess World Cup. 2021.07.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-world-cup-games-week-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5d8OIACng4w.jpg?itok=BnTNpSEP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-world-cup-games-week-gm-robert-hungaski",
-         "pubDate" : "Thu, 29 Jul 2021 20:01:33 +0000",
-         "title" : "2021 World Cup | Games of the Week - GM Robert Hungaski"
       },
       {
          "description" : " <h2>Polish Grandmaster Jan-Krzysztof Duda knocked out the last Indian chess player out of the FIDE World Cup.</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51343164326_913ca8c0d1_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Eric Rosen/FIDE</div> </div> Duda managed to dominate in the game and ended up playing an edgy, but definitely comfortable endgame with a knight for three pawns, which granted him a spot to the Semifinals against Magnus Calrsen. His win makes him the first Polish player in chess history to reach the semifinals of a FIDE World Cup and fans are already debating on his chances against the World Cha",
