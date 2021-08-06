@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
+         "pubDate" : "Fri, 06 Aug 2021 23:55:00 +0100",
+         "title" : "World Cup - Express report"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows the 1912 classic Ed Lasker vs. George Alan Thomas as part of &quot;Chess for Rookies,&quot; the 1 o&#039;clock kids&#039; class for new players who know how the pieces move. See how Thomas&#039;s king was forced to the wrong side of the board. 2021.06.13<br /> Edward Lasker vs George Alan Thomas, Casual game (1912): A40 Queen&#039;s pawn<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1259009\">https://www.chessgames.com/perl/chessgame?gid=1259009</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fatal-attraction-ed-lasker-vs-thomas-beginner-kids-class-gm-varuzhan-akobian",
+         "pubDate" : "Fri, 06 Aug 2021 20:10:32 +0000",
+         "title" : "Fatal Attraction: Ed Lasker vs. Thomas | Beginner Kids' Class - GM Varuzhan Akobian"
+      },
+      {
          "description" : "By a score of 23-22, Northern California triumphed over Texas at the national tournaments of state chess champions held July 31-August 3. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Cherry Hill, New Jersey site, which also hosts the U.S. Open. | Photos: Alexey Root",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Biel Chess Festival 2021: All winners"
       },
       {
-         "description" : " World Chess hosts an Endgames Masterclass Series with the former FIDE World Champion Rustam Kasimdzhanov and on August 22, he will have his <a href=\"https://masterclass.worldchess.com/kasimdzhanov-aug\">second Masterclass</a>. But why did he choose endgames? Why does he think the World Champion, Magnus Carlsen, is dominating chess the past decade? Find out at his short interview below. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Chirila-Kasimdzhanov-Caruana.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> <b>Why did you choose \"the endgames\" as your masterclass series?</b> Every game starts in the opening, but most games are decided in the endgames. And yet ",
+         "description" : " <p class=\"lead\">World Chess is holding the 'Endgames Masterclass Series' with the former FIDE World Champion Rustam Kasimdzhanov. On August 22, Rustam will hold his <a href=\"https://masterclass.worldchess.com/kasimdzhanov-aug\">second Masterclass</a>. But why did he decide to zoom in on the endgames? And how, in his opinion, the current World Champion, Magnus Carlsen, managed to dominate chess for the a decade? Find out from his short interview below. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Chirila-Kasimdzhanov-Caruana.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> <div class=\"e2-text-caption\">Kasimdzhanov was Fabiano Caruana's second during the 2018 World Ch",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/what-does-rustam-kasimdzhanov-say-about-endgames/",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "What does Rustam Kasimdzhanov say about endgames?"
       },
       {
-         "description" : " <h3>Rustam Kasimdzhanov is an Uzbek GM, former FIDE World Champion (2004-05) and former Asian champion (1998). Besides his professional career as a chess player, Rustam is also known as one of the best seconds - he was a second for former World Champion Viswanathan Anand and Caruana's second during the 2018 World Chess Championship match against Magnus Carlsen -, and trainers, having worked with both Sergey Karjakin in the Candidates Tournament of 2014, and Fabiano Caruana in the Candidates Tournament 2016.</h3> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nikolai-Dunaevsky-Agon.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> We had the opportunity to talk ",
+         "description" : " <p class=\"lead\">Rustam Kasimdzhanov is an Uzbek GM, former FIDE World Champion (2004-05) and former Asian champion (1998). Besides his professional career as a chess player, Rustam is also known as one of the best seconds - he was a second for former World Champion Viswanathan Anand and Caruana's second during the 2018 World Chess Championship match against Magnus Carlsen. Rustam is also a trainer - he worked with both Sergey Karjakin in the Candidates Tournament of 2014, and Fabiano Caruana in the Candidates Tournament 2016. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nikolai-Dunaevsky-Agon.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> We had the opport",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-a-small-talk-with-a-former-fide-world-cham-2/",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski-lichessorg",
          "pubDate" : "Tue, 03 Aug 2021 17:06:03 +0000",
          "title" : "THINK in the Endgame 2: Now It's Personal | Insane in the Endgame - GM Robert Hungaski | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, Grandmaster Maurice Ashley hosts the opening ceremony and drawing of lots for the 2021 Saint Louis Rapid &amp; Blitz. Play begins Wednesday, August 11, 2021 at 2:50 P.M. CDT. 2021.08.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-opening-ceremony",
-         "pubDate" : "Tue, 03 Aug 2021 17:06:03 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Opening Ceremony"
       },
       {
          "description" : "In October 2010, on the initiative and with financial support of London-based French pianist, composer, singer-songwriter, and chess fan Jason Kouchak, a large chess set was installed in Holland Park in London. Recently, and with a long Corona-related delay, Kouchak celebrated the ten-year anniversary of this event with a few friends. It was not the only public celebration of chess in London this summer: In July, Trafalgar Square saw a big chess festival with references to Lewis Carroll, the author of Alice in Wonderland who was also a big chess fan. | Photos: Julian Paix (if not otherwise indicated)",
@@ -2346,14 +2354,6 @@ news_feed (
          "title" : "Breaking through"
       },
       {
-         "description" : "On 20 July 1924 the FIDE was founded in Paris, and in 1966 the UNESCO proposed to celebrate this date as \"International Chess Day\". Of course, you can celebrate chess every day but FIDE President Arkady Dvorkovich and David Llada, the FIDE Chief Marketing and Communications Officer, still have some ideas how chess players all over the world can help to make today a very special day for chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/20-july-is-international-chess-day",
-         "pubDate" : "Tue, 20 Jul 2021 08:20:25 +0100",
-         "title" : "20 July is International Chess Day!"
-      },
-      {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/",
          "pubDate" : "Sat, 17 Jul 2021 00:10:13 +0000",
          "title" : "The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1215",
-         "pubDate" : "Fri, 16 Jul 2021 20:02:26 +0000",
-         "title" : "Day 05: Fighting chess at the World Cup"
       }
    ]
 }
