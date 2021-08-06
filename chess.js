@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Luke McShane&#039;s win over Levon Aronian from the 2012 Tal Memorial. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 06 Aug 2021 02:09:49 +0000",
+         "title" : "McShane Slays Aronian, 2012 Tal Memorial | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games where Jan-Krzysztof Duda played world champion Magnus Carlsen, including a draw from the 2021 Chess World Cup semifinal that knocked Carlsen out and preceded Duda's eventual Cup victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Fri, 06 Aug 2021 02:09:49 +0000",
+         "title" : "Duda Whooping Carlsen: A History | Grandmaster's Choice - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "Thanks to a 30-move victory over Sergey Karjakin, Jan-Krzysztof Duda was crowned champion at the 2021 FIDE World Cup in Sochi. The Polish grandmaster had an undefeated performance in the 24-day event and knocked out none other than world champion Magnus Carlsen in the semifinals. Carlsen, who had high praise for Duda, beat Vladimir Fedoseev for a second day in a row to claim third place. | Photos: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "Battle of Endgames: 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> July 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/july-2021-chess-puzzle-answer-key",
-         "pubDate" : "Sun, 01 Aug 2021 05:00:00 +0000",
-         "title" : "July 2021 Chess Puzzle Answer Key "
-      },
-      {
          "description" : "Nihal Sarin and Kirill Alekseenko had the strongest performances at the blitz tournament, one of three events that make up the Grandmaster Triathlon at the Biel Chess Festival. Gata Kamsky is still leading the overall standings, but is now only 1&frac12; points ahead of Nihal and Alekseenko. | Photos and report: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-eight/",
          "pubDate" : "Fri, 30 Jul 2021 06:46:38 +0000",
          "title" : "A Foundation for Beginners Twenty Eight"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a game where Maxime Vachier-Lagrave got whooped at Tata Steel 2021 against Nils Grandelius. 2021.07.28<br /> Nils Grandelius vs Maxime Vachier-Lagrave, Tata Steel Masters (2021): B97 Sicilian, Najdorf, Poisoned pawn variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020828\">https://www.chessgames.com/perl/chessgame?gid=2020828</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-mvl-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-mvl-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 29 Jul 2021 23:01:27 +0000",
-         "title" : "Don't Chase Pawns, MVL! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : " Of (possible) interest to U.S. chess fans: three restricted or sub-championship events were recently contested and completed in St. Louis (where else?): the U.S. Junior, the U.S. Senior, and the U.S. Girls' Junior Championships. The winners were GM Hans Niemann, GM Gregory Kaidanov (after a playoff against GM Larry Christiansen), and IM Annie Wang, respectively. More info via <a href=\"https://www.uschesschamps.com/\">this page</a>. ",
