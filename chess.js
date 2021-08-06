@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By a score of 23-22, Northern California triumphed over Texas at the national tournaments of state chess champions held July 31-August 3. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Cherry Hill, New Jersey site, which also hosts the U.S. Open. | Photos: Alexey Root",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/northern-california-bests-texas",
+         "pubDate" : "Fri, 06 Aug 2021 20:00:00 +0100",
+         "title" : "Northern California beats Texas"
+      },
+      {
          "description" : "Messi left Barcelona, Grealish is going to Manchester City for 100 million pounds, but how is a \"transfer\" working for chess players, and does playing in a chess league grant you a enough income? Lawrence Trent states, the coronavirus was troublesome for many chess players, relying on playing league games. What about Duda, winning the World Cup and receiving 110000 dollars? Besides the money business, Trent takes a close look at the two last World Cup games, and obviously Carlsen's game against Fedoseev, shouldn't be missed by anyone.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Fri, 06 Aug 2021 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1255",
+         "pubDate" : "Fri, 06 Aug 2021 15:27:24 +0000",
+         "title" : "Duda dominates in Sochi World Cup"
       },
       {
          "description" : "In the first set of the Chessable Masters semifinals, Le Quang Liem and Wesley So took the lead in their matches against Levon Aronian and Vladislav Artemiev respectively. Le won twice with the white pieces, while So scored a single victory against his Russian opponent. Expert analysis by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
@@ -2346,14 +2362,6 @@ news_feed (
          "title" : "The Tactics Bible - Magnum Opus"
       },
       {
-         "description" : "Fabiano Caruana was surprisingly knocked out of the FIDE World Cup in round 3, as Kazakhstani GM Rinat Jumabayev beat him with the black pieces in a hard-fought game. Other upsets from the third round include Vasif Durarbayli knocking out David Navara and Amin Tabatabaei leaving Yu Yangyi out of contention. A total of 17 matches (in both sections) will be decided in Tuesday's rapid and blitz playoffs. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d2",
-         "pubDate" : "Tue, 20 Jul 2021 01:00:00 +0100",
-         "title" : "World Cup: Jumabayev stuns Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2488,14 +2496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1215",
          "pubDate" : "Fri, 16 Jul 2021 20:02:26 +0000",
          "title" : "Day 05: Fighting chess at the World Cup"
-      },
-      {
-         "description" : " Round 2, Game 1 Thursday, 15 July 2021 COVID strikes Indonesia Susanto Megaranto retires match with Caruana Aronian withdraws due to tonsilitis, fever The lead story of the FIDE Grand Prix is players having to submit to COVID protocols. Indonesia Grandmaster Susanto Megaranto was on move 15 against an unmasked Fabiano Caruana when the arbiters [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/\">2021 FIDE World Cup: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
-         "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
-         "title" : "2021 FIDE World Cup: Round #2"
       }
    ]
 }
