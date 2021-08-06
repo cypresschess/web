@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games where Jan-Krzysztof Duda played world champion Magnus Carlsen, including a draw from the 2021 Chess World Cup semifinal that knocked Carlsen out and preceded Duda's eventual Cup victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 06 Aug 2021 05:10:02 +0000",
+         "title" : "Duda Whooping Carlsen: A History | Grandmaster's Choice - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Luke McShane&#039;s win over Levon Aronian from the 2012 Tal Memorial. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -71,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-wins-2021-fide-world-cup",
          "pubDate" : "Thu, 05 Aug 2021 08:55:00 -0700",
-         "title" : "BREAKING: Duda Wins FIDE World Cup, Carlsen Third"
+         "title" : "Duda Wins FIDE World Cup, Carlsen Third"
       },
       {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-sarin-settles-for-draw-with-keymer/articleshow/84983690.cms",
          "pubDate" : "Mon, 02 Aug 2021 22:47:52 +0530",
          "title" : "Biel Chess festival: Indian GM Sarin settles for draw with Keymer"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski analyzes important games from the ongoing 2021 Chess World Cup. 2021.08.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/games-week-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5d8OIACng4w.jpg?itok=BnTNpSEP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/games-week-gm-robert-hungaski-lichessorg",
-         "pubDate" : "Mon, 02 Aug 2021 17:05:05 +0000",
-         "title" : "Games of the Week - GM Robert Hungaski | lichess.org"
       },
       {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
@@ -2456,14 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1213",
          "pubDate" : "Fri, 16 Jul 2021 07:46:19 +0000",
          "title" : "Chess.com acquires broadcast for major FIDE events through 2023"
-      },
-      {
-         "description" : " The 58-year-old former world champion wins only one game in 18 due to outdated openings and poor time management Garry Kasparov, still the all-time No 1 in the eyes of many chess fans, suffered one of the worst moments of his career at the weekend when the former world champion, now aged 58, attempted a cameo comeback at the Zagreb stage of the St Louis-organised Grand Chess Tour. Kasparov won only one game, with three draws and 14 losses. As a down day for the legend, whose prime was from the early 1980s to the early 2000s, it compares to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070917\" title=\"\">19-move defeat</a> by IBM Deep Blue in 1997, the first time a computer progr",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster",
-         "pubDate" : "Fri, 16 Jul 2021 07:00:04 +0000",
-         "title" : "Chess: Garry Kasparov loses in seven moves as comeback proves a disaster"
       }
    ]
 }
