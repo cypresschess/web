@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gata Kamsky won the Grandmaster Triathlon of the Biel Chess Festival. But there were many more winners: the Master Open was won by Salem Saleh in a photo finish. The best woman player was Vaishali. In the Amateur Open, the juniors dominated and the youngest on the podium was eleven-year-old Neeraj Harish from the USA. On the rest day, the players got insights into parts of life in Switzerland. | Photos: Schachfestival Biel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2021-all-winners",
+         "pubDate" : "Fri, 06 Aug 2021 13:23:44 +0100",
+         "title" : "Biel Chess Festival 2021: All winners"
+      },
+      {
+         "description" : " World Chess hosts an Endgames Masterclass Series with the former FIDE World Champion Rustam Kasimdzhanov and on August 22, he will have his <a href=\"https://masterclass.worldchess.com/kasimdzhanov-aug\">second Masterclass</a>. But why did he choose endgames? Why does he think the World Champion, Magnus Carlsen, is dominating chess the past decade? Find out at his short interview below. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Chirila-Kasimdzhanov-Caruana.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> <b>Why did you choose \"the endgames\" as your masterclass series?</b> Every game starts in the opening, but most games are decided in the endgames. And yet ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-does-rustam-kasimdzhanov-say-about-endgames/",
+         "pubDate" : "Fri, 06 Aug 2021 11:11:46 +0000",
+         "title" : "What does Rustam Kasimdzhanov say about endgames?"
+      },
+      {
+         "description" : " <h3>Rustam Kasimdzhanov is an Uzbek GM, former FIDE World Champion (2004-05) and former Asian champion (1998). Besides his professional career as a chess player, Rustam is also known as one of the best seconds - he was a second for former World Champion Viswanathan Anand and Caruana's second during the 2018 World Chess Championship match against Magnus Carlsen -, and trainers, having worked with both Sergey Karjakin in the Candidates Tournament of 2014, and Fabiano Caruana in the Candidates Tournament 2016.</h3> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nikolai-Dunaevsky-Agon.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> We had the opportunity to talk ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-a-small-talk-with-a-former-fide-world-cham-2/",
+         "pubDate" : "Fri, 06 Aug 2021 11:08:04 +0000",
+         "title" : "Rustam Kasimdzhanov: A small talk with a former FIDE World Champion"
+      },
+      {
+         "description" : " Jan-Krzysztof Duda, the 23-year-old who last year ended the world champion's 125-game unbeaten sequence, went on to win Thursday's final against Russia's Sergey Karjakin Magnus Carlsen has never won the biennial World Cup knockout, and the No 1 was eliminated in Tuesday's semi-finals of its $190,000 2021 renewal in Sochi. Poland's Jan-Krzysztof Duda, 23, again proved himself a nemesis on big occasions for Norway's world champion, and went on to win the tournament. Last autumn, Duda ended Carlsen's record 125-game unbeaten run and was congratulated by his namesake Andrzej Duda, president of Poland. This week, the chess-playing Duda did still better as he defeated Sergey Karjakin, the 2016 ti",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/aug/06/chess-carlsen-knocked-out-of-world-cup-semi-as-polands-duda-emerges",
+         "pubDate" : "Fri, 06 Aug 2021 10:58:26 +0000",
+         "title" : "Chess: Carlsen knocked out of World Cup semi as Poland's Duda emerges"
+      },
+      {
+         "description" : "In ChessBase Magazine #201 (May/June 2021) IM Robert Ris presented an interesting line in the Sicilian Four Knights Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 and now 9...Rb8. The rook move is an interesting alternative to the deeply analysed main line 9...Qb6. Meanwhile, Shakhriyar Mamedyarov in particular has tried 9...Rb8 in a number of games, and Levon Aronian recently came up with an entirely new move: 9...Bb7. In the current issue of ChessBase Magazine Extra #202 Robert Ris analyses these new developments on a video. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
+         "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
+         "title" : "Update in the Sicilian Four Knights Variation"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 24-year-old Swiss grandmaster <strong>Noël Studer</strong> cites health issues and unspecified issues with chess organisations as motives <a href=\"https://nextlevelchess.blog/retire-from-competitive-chess/\">for stopping to play competitively</a> after the European Championship and the Swiss League at the end of 2021. He is planning to focus on writing and coaching. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/noel-studer-announces-end-of-career/",
+         "pubDate" : "Fri, 06 Aug 2021 11:02:45 +0100",
+         "title" : "Noël Studer announces end of career"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda has won the 2021 FIDE World Cup after a brilliant win over Sergey Karjakin in the final classical game. The 23-year-old Polish star didn't lose a single game all tournament, with World Champion Magnus Carlsen describing the player who beat him in the semi-finals as a \"richly deserved winner\". Magnus himself wrapped things up in style to take 3rd place by beautifully crushing Vladimir Fedoseev for a second day in a row. He was happy to have won eight classical games and lost none during the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-krzysztof-duda-wins-the-fide-world-cup",
+         "pubDate" : "Fri, 06 Aug 2021 09:34:02 +0000",
+         "title" : "Jan-Krzysztof Duda wins the FIDE World Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 21st <strong>TCEC</strong> season final is the fourth in a row won by Stockfish against LeelaChess and the eleventh title overall for the leading open-source engine. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/stockfish-increases-the-margin/",
+         "pubDate" : "Fri, 06 Aug 2021 09:20:15 +0100",
+         "title" : "Stockfish increases the margin"
+      },
+      {
+         "description" : "The 2021 FIDE World Cup 2021 concluded yesterday in Sochi, while FIDE Women's World Cup ended on the 3rd of August. 23 years old Duda Jan-Krzysztof (POL) became the Winner of the event after defeating Sergey Karjakin (RUS) in the final match with a convincing 1.5-0.5 result. The first game of the match ended in a draw, but&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/",
+         "pubDate" : "Fri, 06 Aug 2021 08:02:00 +0000",
+         "title" : "Duda Jan-Krzysztof and Kosteniuk Alexandra win FIDE World Cup 2021"
+      },
+      {
+         "description" : "An online slow play event for players rated 1400 (ECF OL standard) or below played on Chess.com by individual matchcard challenges at 6:30pm on Saturdays...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-national-1400-g60-15-returns/",
+         "pubDate" : "Fri, 06 Aug 2021 07:57:12 +0000",
+         "title" : "Online National 1400 (G60/15) returns"
+      },
+      {
+         "description" : " Last week, I mentioned that we would be examining defending against discovered and double discovered attacks/checks as well as looking at how to employ a double discovered check. I am going to present that to you next week because I want to address creating combinations, which are a sequence of moves that create tactical opportunities. <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-nine/\">A Foundation for Beginners Twenty Nine</a> appeared first on <a r",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-nine/",
+         "pubDate" : "Fri, 06 Aug 2021 07:56:15 +0000",
+         "title" : "A Foundation for Beginners Twenty Nine"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1254",
+         "pubDate" : "Fri, 06 Aug 2021 07:45:52 +0000",
+         "title" : "Liem Quang Le stuns Aronian to put himself on brink of final"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games where Jan-Krzysztof Duda played world champion Magnus Carlsen, including a draw from the 2021 Chess World Cup semifinal that knocked Carlsen out and preceded Duda's eventual Cup victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1482,28 +1578,12 @@ news_feed (
          "title" : "My best Chess World Cup performance so far, says India No 2 Vidit"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> 2022 won't be as strong as the 2016 and 2018 editions and may not reach the level of 2020/21 after Radjabov has been promised a place and all participating top ten players except the world champion have been eliminated at the <strong>World Cup</strong> in Sochi, where two will qualify for the Candidates. It's better news for the <strong>Grand Swiss</strong> in October and the <strong>Grand Prix</strong> in spring 2022, which will likely attract contenders like Caruana, Ding, Giri and Vachier-Lagrave and be stronger than ever. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/the-only-top-10-player-left-is/",
-         "pubDate" : "Wed, 28 Jul 2021 05:02:54 +0100",
-         "title" : "The only top 10 player left is Carlsen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814247.cms\" />City's lone Grandmaster (GM) Raunak Sadhwani continues his impressive run in Europe. After pocketing a gold medal in an over-the-board (OTB) international rating chess tournament in Austria, the 15-year-old made his mark in the Portuguese League.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-raunak-nets-silver-in-otb-portuguese-chess-league/articleshow/84814247.cms",
          "pubDate" : "Wed, 28 Jul 2021 09:31:12 +0530",
          "title" : "Unbeaten Raunak nets silver in OTB Portuguese Chess League"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Smerdon</strong>, an economist at the University of Queensland, leads a <a href=\"https://www.chess.com/blog/smurfo/marriage-children-and-chess-ratings\">study that investigates the impact of life events</a> like marriage or childbirth on the performance of players. The <a href=\"https://uqbel.az1.qualtrics.com/jfe/form/SV_bsCcQRUC3fCxCtM\">survey</a> asks personal data in order to analyze the participants' rating development and quality of their games. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/life-events-and-chess-performance/",
-         "pubDate" : "Wed, 28 Jul 2021 04:39:58 +0100",
-         "title" : "Life events and chess performance"
       },
       {
          "description" : "",
@@ -1568,14 +1648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/start-of-the-open-tournaments-at-the-biel-chess-festival",
          "pubDate" : "Tue, 27 Jul 2021 11:02:14 +0100",
          "title" : "Start of the open tournaments at the Biel Chess Festival"
-      },
-      {
-         "description" : "Sam Shankland knocked out Peter Svidler to become the first player to reach the quarterfinals of the 2021 FIDE World Cup, while also securing a spot in the 2022 FIDE Grand Prix. Vidit was the second, after overcoming Vasif Durarbayli, but the remaining six matches will all be decided in tiebreaks today, after Haik Martirosyan cracked at the end of a game he needed only to draw, allowing Amin Tabatabaei a comeback win. In the women's section Tan Zhongyi shocked no. 2 seed Kateryna Lagno to reach the semi-finals, with only Muzychuk-Dzagnidze going to tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-2-shankland-vidit-in-quarterfinals",
-         "pubDate" : "Tue, 27 Jul 2021 09:48:52 +0000",
-         "title" : "FIDE World Cup 5.2: Shankland & Vidit in Quarterfinals"
       },
       {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov I am going to end the foray into the Canadian Youth Chess Championship 2021 with two games that reinforce what I have been talking about in this blog. We learn and practice new things throughout the year. This is done properly when we build on past <a href=\"https://chessimprover.com/tales-from-cycc-2021-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-4/\">Tales from CYCC 2021 (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2090,14 +2162,6 @@ news_feed (
          "title" : "Game of the Week 473: M. Krasenkow - K. Alekseenko"
       },
       {
-         "description" : "Whilst clubs and leagues look to re-establishing themselves ahead of the new season, County Associations have the opportunity to reconnect with their members and players...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/county-entry-open-for-the-ecfs-pre-season-regional-county-challenge/",
-         "pubDate" : "Wed, 21 Jul 2021 15:34:58 +0000",
-         "title" : "County entry open for the ECF's Pre-Season Regional County Challenge"
-      },
-      {
          "description" : "50 years ago, on 20 July 1971, Bobby Fischer (pictured) and Bent Larsen played the sixth and final game of their semi-final match of the Candidates. Fischer had won the first five games and he also won the sixth. It was Fischer's 19th win in a row against some of the world's best players, a sensational and unrivalled winning streak. In his new book \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" Dutch Grandmaster Jan Timman takes a close look at this winning streak and Fischer's dominance in the years 1970 to 1971. Confident, entertaining, and with new insights about Fischer's strengths and weaknesses.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2226,14 +2290,6 @@ news_feed (
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
       },
       {
-         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov A score of 4 out of 5 with two rounds to go normally pairs you against a strong opponent. The game did not look like that. It was more of an exchange of errors in the middle game. My student's opponent was rated 400 points lower <a href=\"https://chessimprover.com/tales-from-cycc-2021-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-3/\">Tales from CYCC 2021 (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tales-from-cycc-2021-3/",
-         "pubDate" : "Tue, 20 Jul 2021 08:01:11 +0000",
-         "title" : "Tales from CYCC 2021 (3)"
-      },
-      {
          "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2346,22 +2402,6 @@ news_feed (
          "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
       },
       {
-         "description" : "This week, Merijn van Delft takes a look at the Grand Chess Tour Croatia rapid and blitz tournament. He wonders about Kasparov's collapse and analyses the instructive and interesting rapid game between Ian Nepomniachtchi and Anton Korobov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-472-i-nepomniachtchi-a-korobov",
-         "pubDate" : "Mon, 19 Jul 2021 11:00:00 +0100",
-         "title" : "Game of the Week 472: I. Nepomniachtchi - A. Korobov"
-      },
-      {
-         "description" : "Thanks to a final-round win over Rustam Kasimdzhanov, Pavel Eljanov took clear first place at the Deutschland Grand Prix in Dortmund. The Ukrainian grandmaster had been in the sole lead until round 7, when he was beaten by Dmitrij Kollars. Kollars, who lost his penultimate game against Kasimdzhanov, finished in shared second place, together with Daniel Fridman.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pavel-eljanov-wins-deutschland-grand-prix-2021",
-         "pubDate" : "Mon, 19 Jul 2021 09:50:00 +0100",
-         "title" : "Pavel Eljanov wins Deutschland Grand Prix"
-      },
-      {
          "description" : " &#8220;Justin Tan is an International Grandmaster who has represented Australia in numerous international events. He is currently based in the UK and was previously British under-21 champion, British blitz champion and joint second runner-up at the British Championship. Justin has been a 1.e4 specialist throughout his playing career and is recognised for his deep opening <a href=\"http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.e4! The Chess Bible: The Chess Bible Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/202",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2448,14 +2488,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/16/2021-world-cup-round-2/",
          "pubDate" : "Fri, 16 Jul 2021 16:49:19 +0000",
          "title" : "2021 FIDE World Cup: Round #2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1213",
-         "pubDate" : "Fri, 16 Jul 2021 07:46:19 +0000",
-         "title" : "Chess.com acquires broadcast for major FIDE events through 2023"
       }
    ]
 }
