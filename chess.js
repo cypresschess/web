@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Messi left Barcelona, Grealish is going to Manchester City for 100 million pounds, but how is a \"transfer\" working for chess players, and does playing in a chess league grant you a enough income? Lawrence Trent states, the coronavirus was troublesome for many chess players, relying on playing league games. What about Duda, winning the World Cup and receiving 110000 dollars? Besides the money business, Trent takes a close look at the two last World Cup games, and obviously Carlsen's game against Fedoseev, shouldn't be missed by anyone.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-karma-how-important-are-chess-leagues-and-carlsen-s-masterpiece",
+         "pubDate" : "Fri, 06 Aug 2021 17:00:00 +0100",
+         "title" : "News Review - Fedoseev's Karma, the importance of chess leagues, and Carlsen's masterpiece"
+      },
+      {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Fri, 06 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "In the first set of the Chessable Masters semifinals, Le Quang Liem and Wesley So took the lead in their matches against Levon Aronian and Vladislav Artemiev respectively. Le won twice with the white pieces, while So scored a single victory against his Russian opponent. Expert analysis by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-6",
+         "pubDate" : "Fri, 06 Aug 2021 16:05:00 +0100",
+         "title" : "Chessable Masters: Le wins first set against Aronian"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at games from the Chessable Masters Tournament and enjoys and admires the genius of Magnus Carlsen. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tactics-from-the-chessable-masters-and-magnus-carlsen-cuts-loose",
+         "pubDate" : "Fri, 06 Aug 2021 16:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Tactics from the Chessable Masters and the genius of Magnus Carlsen"
+      },
+      {
+         "description" : "Levon Aronian and Vladislav Artemiev played the final of the Goldmoney Asian Rapid, but if they're going to get to the final of the Chessable Masters they first need to win their matches on demand on Friday to force playoffs. Wesley So was in supreme form as he overcame huge resistance from Artemiev, while Liem Quang Le said it was his \"best result ever against Levon\" as he took full advantage of some blunders to take the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-6-so-and-le-strike-first",
+         "pubDate" : "Fri, 06 Aug 2021 14:46:00 +0000",
+         "title" : "Chessable Masters 6: So and Le strike first"
+      },
+      {
+         "description" : " When on a losing streak it is tempting to do something outrageous or the direct opposite of what you are currently doing. I see this a lot with young chess players, who play sound chess but lose, so decide unsound chess is the way to go. I even fell into this trap when I was starting out, but it turned out my losses were quicker, and more horrible. It also explains why 'suicide' chess is so popular, as kids who get all their pieces captured think that losing them by accident is the equivalent to losing them on purpose (Narrator: No it isn't). Of course the blame does not with the choice of strategy, but in not understanding the strategy. The \"what have I got to lose\" approach may work in po",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/the-opposite-strategy-does-not-work.html",
+         "pubDate" : "Fri, 06 Aug 2021 13:20:00 +0000",
+         "title" : "The \"opposite\" strategy does not work"
+      },
+      {
+         "description" : "GM Le Quang Liem continues to surprise at the Chessable Masters. The Vietnamese grandmaster beat GM Levon Aronian 3-1 in the first semifinal match and played a spectacular game that included a queen sacrifice to force checkmate. In the other sem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chessable-masters-le-quang-liem-aronian",
+         "pubDate" : "Fri, 06 Aug 2021 05:42:32 -0700",
+         "title" : "Chessable Masters QF: Le Shocks Aronian With Queen Sac Checkmate"
+      },
+      {
          "description" : "Gata Kamsky won the Grandmaster Triathlon of the Biel Chess Festival. But there were many more winners: the Master Open was won by Salem Saleh in a photo finish. The best woman player was Vaishali. In the Amateur Open, the juniors dominated and the youngest on the podium was eleven-year-old Neeraj Harish from the USA. On the rest day, the players got insights into parts of life in Switzerland. | Photos: Schachfestival Biel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-wins-2021-fide-world-cup",
          "pubDate" : "Thu, 05 Aug 2021 08:55:00 -0700",
          "title" : "Duda Wins FIDE World Cup, Carlsen Third"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Thu, 05 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "Hikaru Nakamura, Alireza Firouzja, Shakhriyar Mamedyarov and Jorden van Foreest were all knocked out of the Chessable Masters on Wednesday in a brutal day of quarterfinal action. Liem Quang Le needed just two games to oust Alireza, while Wesley So also started with two wins against Jorden before getting the draw he needed when both players overlooked a blunder in Game 3. Levon Aronian won after a heavyweight exchange of blows against Shakhriyar, while Vladislav Artemiev finally defeated Hikaru in Armageddon!",
@@ -1530,14 +1578,6 @@ news_feed (
          "title" : "Mritticka & Samhita clinches Gold; Rich medal haul by Indian girls at Asian School Online Championship"
       },
       {
-         "description" : "Magnus Carlsen will play Etienne Bacrot in the FIDE World Cup quarterfinals today after surviving an incredibly tense tiebreaker against 19-year-old Andrey Esipenko, who inflicted a first loss of the event on Magnus to take their match all the way to blitz. The only other remaining Top 10 seed is Sergey Karjakin, who showed his class to knock out Maxime Vachier-Lagrave, while Jan-Krzysztof Duda defeated Alexander Grischuk. The women's semi-finals are set, with Anna Muzychuk playing top seed Aleksandra Goryachkina after winning both tiebreak games against Nana Dzagnidze.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-5-3-carlsen-through-after-esipenko-thriller",
-         "pubDate" : "Wed, 28 Jul 2021 11:26:31 +0000",
-         "title" : "FIDE World Cup 5.3: Carlsen through after Esipenko thriller "
-      },
-      {
          "description" : "The 2021 FIDE World Cup in Sochi, Russia has narrowed down the 206 starting participants to just 8 remaining players. Canadian FM Joshua Doknjas analyzes some of the most interesting games from the first half of the event. | Photos: Anastasiia Korolka (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1736,14 +1776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-pogchamps-4",
          "pubDate" : "Mon, 26 Jul 2021 15:36:00 -0700",
          "title" : "Announcing PogChamps 4 Presented By Coinbase"
-      },
-      {
-         "description" : "Tournament Arc 2 reached its epic conclusion, with Gigguk successfully defending the title after defeating Esam. The two-time champion proved to be the best among a field of superstars from the Anime community and Fighting Games players. Li...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tournament-arc-2-gigguk-wins",
-         "pubDate" : "Mon, 26 Jul 2021 15:15:37 -0700",
-         "title" : "Gigguk Crowned Tournament Arc 2 Champion"
       },
       {
          "description" : "",
@@ -2362,36 +2394,12 @@ news_feed (
          "title" : "2021 FIDE World Cup: Round #3"
       },
       {
-         "description" : "Online chess helped a lot of players to cope with the corona lockdown. But some players simply do not like to play online and they particularly enjoy the return to over-the-board chess. The German top player Liviu-Dieter Nisipeanu is such a player, and he recently won the Benasque Open with the sensational result of 9 points from 10 games. Jesper Sondergaard Thybo (Denmark) and Gergely Kandor (Hungary) finished with one point less and shared places two and three. | Photo: Raluca Scircea (Tournament page)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-joys-of-otb-chess-nisipeanu-wins-the-benasque-open",
-         "pubDate" : "Mon, 19 Jul 2021 12:59:16 +0100",
-         "title" : "The joys of OTB chess: Nisipeanu wins the Benasque Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1219",
          "pubDate" : "Mon, 19 Jul 2021 11:25:22 +0000",
          "title" : "International Chess Day celebrated on July 20"
-      },
-      {
-         "description" : "Solving tactical exercises regularly keeps you in shape, helps you to play better and helps you to score more points but it can also make you happy. After all, solving a puzzle usually leads to a little dopamine rush. Mattis Traetmar is a great fan of solving tactical exercises and has selected eight nice examples for you - some of them well-known, some of them rather simple and some of them more difficult.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tactics-for-fun-and-to-improve",
-         "pubDate" : "Mon, 19 Jul 2021 11:57:00 +0100",
-         "title" : "Tactics - for fun and to improve"
-      },
-      {
-         "description" : "More than half the games in both sections of the World Cup finished decisively on Sunday, which means plenty of players need a win in the second classical encounter of round 3 to remain in contention. In the biggest upset of the day, Haik Martirosyan (pictured) beat Shakhriyar Mamedyarov. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d1",
-         "pubDate" : "Mon, 19 Jul 2021 11:40:00 +0100",
-         "title" : "World Cup: Plenty of decisive results"
       },
       {
          "description" : "",
