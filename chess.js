@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-7",
+         "pubDate" : "Sat, 07 Aug 2021 17:45:00 +0100",
+         "title" : "Chessable Masters: Le and So in the final"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2376,14 +2384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-master-class-band-14-vasily-smyslov",
          "pubDate" : "Tue, 20 Jul 2021 12:00:00 +0100",
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
-      },
-      {
-         "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-through",
-         "pubDate" : "Tue, 20 Jul 2021 09:00:00 +0100",
-         "title" : "Breaking through"
       },
       {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
