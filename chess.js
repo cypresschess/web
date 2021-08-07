@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position 23.Nxf6! gxf6 leads to a winning advantage for White. Knowing this, can you remove possible obstacles on the way?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/make-it-work",
+         "pubDate" : "Sat, 07 Aug 2021 09:00:00 +0100",
+         "title" : "Make it work!"
+      },
+      {
+         "description" : "Liem Quang Le survived a dramatic comeback from Levon Aronian to reach the final of the 2021 Chessable Masters after two wins on demand from Levon took their semi-final all the way to Armageddon. Liem's opponent in the final is US Champion Wesley So, who lost the first game of the day to Vladislav Artemiev but hit straight back and then confidently held the draws he needed to clinch the match. Aronian-Artemiev for 3rd place will be a repeat of the previous tour event's final.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-7-liem-quang-le-survives-aronian-comeback",
+         "pubDate" : "Sat, 07 Aug 2021 06:29:25 +0000",
+         "title" : "Chessable Masters 7: Le survives Aronian comeback"
+      },
+      {
+         "description" : "European Women's Chess Championship 2021 starts on Monday, 9th of August in Iasi, Romania. 117 players from 29 European federations registered for the event, with Georgian trio top seeding the starting list: Batsiashvili Nino (GEO, 2491), Javakhishvili Lela (GEO, 2473), Khotenashvili Bela (GEO, 2463). The battlefield is completed with Girya Olga (RUS, 2448), Bodnaruk Anastasia (RUS, 2446), Mammadzada&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-starts/",
+         "pubDate" : "Sat, 07 Aug 2021 05:49:45 +0000",
+         "title" : "European Women's Chess Championship 2021 starts"
+      },
+      {
          "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1514,14 +1538,6 @@ news_feed (
          "title" : "World Cup: Carlsen and Shankland strike"
       },
       {
-         "description" : "World no. 5 and Goldmoney Asian Rapid winner Levon Aronian is now the top seed for the Chessable Masters, the 8th event on the $1.6 million Meltwater Champions Chess Tour. Levon is joined by the runner-up in the previous event, Vladislav Artemiev, and Indian star Harikrishna, who complete the 16-player line-up for the tournament starting Saturday July 31st at 17:00 CEST. The pairings are also now out, including Firouzja-So in Round 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/levon-aronian-tops-chessable-masters-field",
-         "pubDate" : "Wed, 28 Jul 2021 21:34:45 +0000",
-         "title" : "Levon Aronian tops Chessable Masters field"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2344,14 +2360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-master-class-band-14-vasily-smyslov",
          "pubDate" : "Tue, 20 Jul 2021 12:00:00 +0100",
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
-      },
-      {
-         "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-through",
-         "pubDate" : "Tue, 20 Jul 2021 09:00:00 +0100",
-         "title" : "Breaking through"
       },
       {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
