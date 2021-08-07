@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target=' blank'>FBCC HOT AUGUST NIGHT 2021</a>",
+"CYPRESS","2021-08-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108066882 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108015962 target=' blank'>AUGSS81</a>",
 "SPRING","2021-07-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107304502 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-07-30","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107304472 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2020-05-16","11","<a href=http://www.uschess.org/msa/XtblMain.php?202005163192 target=' blank'>GREAT WHITES MAY 2020- ONLINE-1</a>",
 "KATY","2020-05-02","22","<a href=http://www.uschess.org/msa/XtblMain.php?202005023102 target=' blank'>SR CHESSKNIGHTS 05022020</a>",
 "KATY","2020-05-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202005021672 target=' blank'>STRATEGEM-ORCAS-MAY-2020- ONLINE-1</a>",
-"KATY","2020-04-25","23","<a href=http://www.uschess.org/msa/XtblMain.php?202004251552 target=' blank'>SR CHESSKNIGHTS 04252020</a>",
-"KATY","2020-04-24","18","<a href=http://www.uschess.org/msa/XtblMain.php?202004240732 target=' blank'>STRATEGE-BARRACUDAS-II-APRIL-2020-</a>",
 ]);
