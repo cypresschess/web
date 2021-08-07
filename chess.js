@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
+         "description" : "Chess.com and the Botez sisters are excited to announce BlockBattles, the second edition of the highly successful BlockChamps event! On August 8 at 11 a.m. PT/20:00 CEST, the best Minecraft and Variety streamers in the world will gather to compete...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blockbattles-august-8",
+         "pubDate" : "Sat, 07 Aug 2021 15:56:49 -0700",
+         "title" : "BotezLive Presents BlockBattles On August 8"
+      },
+      {
+         "description" : "The 2021 FIDE World Cup concluded on August 5 with Jan-Krzysztof Duda defeating Sergey Karjakin by a score of 1&frac12;-&frac12; in the finals. Joshua Doknjas takes a look at five interesting games from the second half of the event, focussing on the performances of the two finalists. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-7",
-         "pubDate" : "Sat, 07 Aug 2021 17:45:00 +0100",
-         "title" : "Chessable Masters: Le and So in the final"
+         "link" : "https://en.chessbase.com/post/world-cup-highlights-part-2",
+         "pubDate" : "Sat, 07 Aug 2021 21:15:00 +0100",
+         "title" : "World Cup Highlights - Part 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows his game from 2000 against Nikolai Kabanov, where Akobian bested the King&#039;s Indian Defense in &quot;Chess for Knights,&quot; the traditional kids&#039; chess class for scholastic players under a 1000 rating. 2021.06.13<br /> Varuzhan Akobian vs Nikolai Kabanov, Wch U20 (2000): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1628959\">https://www.chessgames.com/perl/chessgame?gid=1628959</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/akobian-smashes-kabanovs-kings-indian-defense-intermediate-kids-class-gm-varuzhan-akobian",
+         "pubDate" : "Sat, 07 Aug 2021 20:11:07 +0000",
+         "title" : "Akobian Smashes Kabanov's King's Indian Defense! | Intermediate Kids' Class - GM Varuzhan Akobian"
       },
       {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Sat, 07 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters Finals - Live!"
+         "pubDate" : "Sat, 07 Aug 2021 19:50:00 +0100",
+         "title" : "Chessable Masters Finals - Games and results"
+      },
+      {
+         "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-7",
+         "pubDate" : "Sat, 07 Aug 2021 17:45:00 +0100",
+         "title" : "Chessable Masters: Le and So in the final"
       },
       {
          "description" : "",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-alexandra-kosteniuk-wins-the-women-s-world-cup",
          "pubDate" : "Tue, 03 Aug 2021 20:00:00 +0100",
          "title" : "The Weekly Show: Alexandra Kosteniuk wins the Women's World Cup!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a few endgames. Train your endgames to refine your strategic understanding. The mysterious masked Robert shows a rook and pawn vs. bishop endgame. 2021.08.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YJ1tE5xMZe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski-lichessorg",
-         "pubDate" : "Tue, 03 Aug 2021 17:06:03 +0000",
-         "title" : "THINK in the Endgame 2: Now It's Personal | Insane in the Endgame - GM Robert Hungaski | lichess.org"
       },
       {
          "description" : "In October 2010, on the initiative and with financial support of London-based French pianist, composer, singer-songwriter, and chess fan Jason Kouchak, a large chess set was installed in Holland Park in London. Recently, and with a long Corona-related delay, Kouchak celebrated the ten-year anniversary of this event with a few friends. It was not the only public celebration of chess in London this summer: In July, Trafalgar Square saw a big chess festival with references to Lewis Carroll, the author of Alice in Wonderland who was also a big chess fan. | Photos: Julian Paix (if not otherwise indicated)",
@@ -1834,14 +1850,6 @@ news_feed (
          "title" : "Tactical Training In The Endgame"
       },
       {
-         "description" : "It&#39;s back!&#38;nbsp;PogChamps 4 presented by Coinbase begins on August 29, 2021. The latest edition of the breakout series returns for what will surely be the biggest, best, and brightest PogChamps yet! $100,000 is up for grabs in the prize fund and C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-pogchamps-4",
-         "pubDate" : "Mon, 26 Jul 2021 15:36:00 -0700",
-         "title" : "Announcing PogChamps 4 Presented By Coinbase"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2378,14 +2386,6 @@ news_feed (
          "title" : "Happy International Chess Day!"
       },
       {
-         "description" : "Vasily Smyslov defeated Mikhail Botvinnik at the second attempt in 1957 and thus became the 7th world champion in chess history, but had to relinquish the title in a rematch the following year. After that Smyslov belonged to the absolute world elite for many years. His performance in the 1982-1985 World Championship cycle was sensational, when he defeated Robert H&uuml;bner and Zoltan Ribli one after the other in the candidate matches and only lost in the final to the young Garry Kasparov - Smyslov himself was 62 years old at that time!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-master-class-band-14-vasily-smyslov",
-         "pubDate" : "Tue, 20 Jul 2021 12:00:00 +0100",
-         "title" : "New: Master Class Band 14 - Vasily Smyslov"
-      },
-      {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2496,14 +2496,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/",
          "pubDate" : "Sun, 18 Jul 2021 00:10:06 +0000",
          "title" : "The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1216",
-         "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
-         "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
       }
    ]
 }
