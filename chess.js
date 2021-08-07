@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1256",
+         "pubDate" : "Sat, 07 Aug 2021 11:00:00 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss - Important Announcement"
+      },
+      {
+         "description" : "He was the greatest player that the Caribbean Islands have ever produced. He was born in Havana in 1888 and learnt chess at the age of four, amazingly with no formal tuition. Instead, the infant Jos&eacute; Ra&uacute;l Capablanca (1888-1942) picked up the moves by watching his father play with friends. This was just about the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/fountain-of-youth-chess-prodigies-from-capablanca-to-mishra/",
+         "pubDate" : "Sat, 07 Aug 2021 08:00:14 +0000",
+         "title" : "Fountain of youth: chess prodigies from Capablanca to Mishra "
+      },
+      {
          "description" : "In the diagram position 23.Nxf6! gxf6 leads to a winning advantage for White. Knowing this, can you remove possible obstacles on the way?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/make-it-work",
          "pubDate" : "Sat, 07 Aug 2021 09:00:00 +0100",
          "title" : "Make it work!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1257",
+         "pubDate" : "Sat, 07 Aug 2021 07:46:34 +0000",
+         "title" : "Liem clinches final place against So"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"http://chess-results.com/tnr572970.aspx?lan=11&amp;art=2\">round robin of ten Russian grandmasters</a> starts this Saturday at the <strong>Botvinnik Central Chess Club</strong> in Moscow to commemorate the 100th birthday of the seventh world champion <strong>Vasily Smyslov</strong> (1921-2011). The event is run by the litte-known <strong><a href=\"http://acfed.ru/\">Association of Chess Federations</a></strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/a-smyslov-memorial/",
+         "pubDate" : "Sat, 07 Aug 2021 08:18:40 +0100",
+         "title" : "A Smyslov Memorial"
       },
       {
          "description" : "Liem Quang Le survived a dramatic comeback from Levon Aronian to reach the final of the 2021 Chessable Masters after two wins on demand from Levon took their semi-final all the way to Armageddon. Liem's opponent in the final is US Champion Wesley So, who lost the first game of the day to Vladislav Artemiev but hit straight back and then confidently held the draws he needed to clinch the match. Aronian-Artemiev for 3rd place will be a repeat of the previous tour event's final.",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2021-starts/",
          "pubDate" : "Sat, 07 Aug 2021 05:49:45 +0000",
          "title" : "European Women's Chess Championship 2021 starts"
-      },
-      {
-         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina advanced to the final in the women's section. Saturday will be a rest day for both categories. | Replay the games played today and find links to all relevant information. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-express-report",
-         "pubDate" : "Fri, 06 Aug 2021 23:55:00 +0100",
-         "title" : "World Cup - Express report"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows the 1912 classic Ed Lasker vs. George Alan Thomas as part of &quot;Chess for Rookies,&quot; the 1 o&#039;clock kids&#039; class for new players who know how the pieces move. See how Thomas&#039;s king was forced to the wrong side of the board. 2021.06.13<br /> Edward Lasker vs George Alan Thomas, Casual game (1912): A40 Queen&#039;s pawn<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1259009\">https://www.chessgames.com/perl/chessgame?gid=1259009</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-new-tablebase-feature",
          "pubDate" : "Mon, 02 Aug 2021 13:40:00 -0700",
          "title" : "Chess.com Announces New Tablebase Feature"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 13 years after conquering the women's world championship title in a k.o.-competition, <strong>Alexandra Kosteniuk</strong> won the <strong>Women's World Cup</strong> in Sochi. In an all-Russian final, she beat the rating favourite <strong>Alexandra Goryachkina</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kosteniuk-wins-world-cup/",
-         "pubDate" : "Mon, 02 Aug 2021 20:12:42 +0100",
-         "title" : "Kosteniuk wins World Cup"
       },
       {
          "description" : "",
@@ -2362,6 +2378,14 @@ news_feed (
          "title" : "New: Master Class Band 14 - Vasily Smyslov"
       },
       {
+         "description" : "In the diagram position White is a pawn up but can she win? And how? Should White push her h-pawn to break through with her pawns? Or her f-pawn? Or should White wait and bring the king into a better position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-through",
+         "pubDate" : "Tue, 20 Jul 2021 09:00:00 +0100",
+         "title" : "Breaking through"
+      },
+      {
          "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2480,14 +2504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1216",
          "pubDate" : "Sat, 17 Jul 2021 22:21:55 +0000",
          "title" : "Round 02 tiebreaks: Chess Armageddon in Sochi "
-      },
-      {
-         "description" : "A recent column for TheArticle by Katrina Allen, querying whether the hitherto seemingly indestructible Roger Federer (pictured below), should retire, after his humiliating Wimbledon debacle last week, also impinges on the question of whether it is high time for that great former World Chess Champion, Garry Kasparov, to hang up his pawns. At a strong blitz tournament in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tennis-and-chess-time-to-retire-for-federer-and-kasparov/",
-         "pubDate" : "Sat, 17 Jul 2021 08:20:25 +0000",
-         "title" : "Tennis and chess: time to retire for Federer and Kasparov?"
       }
    ]
 }
