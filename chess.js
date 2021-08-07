@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Sat, 07 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters Finals - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-karma-how-important-are-chess-leagues-and-carlsen-s-masterpiece",
          "pubDate" : "Fri, 06 Aug 2021 17:00:00 +0100",
          "title" : "News Review - Fedoseev's Karma, the importance of chess leagues, and Carlsen's masterpiece"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Fri, 06 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "",
