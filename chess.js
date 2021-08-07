@@ -2480,14 +2480,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tennis-and-chess-time-to-retire-for-federer-and-kasparov/",
          "pubDate" : "Sat, 17 Jul 2021 08:20:25 +0000",
          "title" : "Tennis and chess: time to retire for Federer and Kasparov?"
-      },
-      {
-         "description" : " &#8220;French Grandmaster Christian Bauer is one of his country's leading players. He is a former national champion and has represented France in numerous international team events. He has written many articles and books for several publishing houses: 'Play 1&hellip;b6' and 'The Philidor Files' for Everyman Chess and 'Play the Scandinavian' for Quality Chess. Many of <a href=\"http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/17/the-modernized-nimzovich-defense-1-e4-nc6-a-complete-repertoire-for-black/",
-         "pubDate" : "Sat, 17 Jul 2021 00:10:13 +0000",
-         "title" : "The Modernized Nimzovich Defense 1.e4 Nc6!: A Complete Repertoire for Black"
       }
    ]
 }
