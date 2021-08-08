@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
+         "pubDate" : "Sun, 08 Aug 2021 16:50:00 +0100",
+         "title" : "Chessable Masters Finals - Live!"
+      },
+      {
+         "description" : " I have a question for you. You're playing black against a legendary former world champion. What move would you play here? While you're considering your answer, I'd like to consider a typical opening tactic. At beginner level, very many games see a pawn fork in the centre of the board. This might be, from White's <a href=\"https://chessimprover.com/istvan-csom-rip/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Istvan Csom RIP\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/istvan-csom-rip/\">Istvan Csom RIP</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/istvan-csom-rip/",
+         "pubDate" : "Sun, 08 Aug 2021 15:15:16 +0000",
+         "title" : "Istvan Csom RIP"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 39th instalment of his ChessBase show \"Understanding before Moving\", Herman takes another look at critical moves, this time with the help of a fine game by the young Garry Kasparov. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-38-the-critical-move-2",
+         "pubDate" : "Sun, 08 Aug 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 38: The Critical Move (2)"
+      },
+      {
+         "description" : "Wesley So convincingly won the first of the finals at the Chessable Masters by twice beating Le Quang Liem after launching successful sacrificial attacks. Meanwhile, Levon Aronian and Vladislav Artemiev drew the first set in the match for third place. | Photo: Meltwater Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-8",
+         "pubDate" : "Sun, 08 Aug 2021 13:15:00 +0100",
+         "title" : "Chessable Masters: So on the attack"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 21st <strong>TCEC</strong> season final is the fourth in a row won by <strong>Stockfish</strong> against <strong>LeelaChess</strong> by 56:44, the biggest margin so far, and the eleventh title overall for the leading open-source engine. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/stockfish-increases-the-margin/",
+         "pubDate" : "Sun, 08 Aug 2021 12:12:49 +0100",
+         "title" : "Stockfish increases the margin"
+      },
+      {
          "description" : "Wesley So took a huge step towards winning his 3rd event on the Meltwater Champions Chess Tour on Saturday as he defeated Liem Quang Le with a game to spare. Liem fell to eerily similar attacks in both games with the black pieces, while also failing to play on in a promising position with White. The match for 3rd place is all square after Levon Aronian won the first game but Vladislav Artemiev hit back to win on demand in the final game of the day.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/akobian-smashes-kabanovs-kings-indian-defense-intermediate-kids-class-gm-varuzhan-akobian",
          "pubDate" : "Sat, 07 Aug 2021 20:11:07 +0000",
          "title" : "Akobian Smashes Kabanov's King's Indian Defense! | Intermediate Kids' Class - GM Varuzhan Akobian"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Sat, 07 Aug 2021 19:50:00 +0100",
-         "title" : "Chessable Masters Finals - Games and results"
       },
       {
          "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Jan-Krzysztof Duda wins the FIDE World Cup"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 21st <strong>TCEC</strong> season final is the fourth in a row won by Stockfish against LeelaChess and the eleventh title overall for the leading open-source engine. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/stockfish-increases-the-margin/",
-         "pubDate" : "Fri, 06 Aug 2021 09:20:15 +0100",
-         "title" : "Stockfish increases the margin"
-      },
-      {
          "description" : "The 2021 FIDE World Cup 2021 concluded yesterday in Sochi, while FIDE Women's World Cup ended on the 3rd of August. 23 years old Duda Jan-Krzysztof (POL) became the Winner of the event after defeating Sergey Karjakin (RUS) in the final match with a convincing 1.5-0.5 result. The first game of the match ended in a draw, but&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -434,7 +458,7 @@ news_feed (
          "title" : "Chessable Masters: Artemiev beats Nakamura in Armageddon"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krystof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krzysztof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
@@ -2306,14 +2330,6 @@ news_feed (
          "title" : "Jan Timman: \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" - a review"
       },
       {
-         "description" : " Before anyone asks, yerk is a real word and its meaning can be found here. As for Yugoslav I already covered the Yugoslav Attack against the Dragon under its other name, the Rauzer Attack, so this time I will look at the Yugoslav System against the fianchetto King's Indian in which Black plays c7-c5 instead <a href=\"https://chessimprover.com/yerk-em-with-the-yugoslav/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yerk 'em with the Yugoslav\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yerk-em-with-the-yugoslav/\">Yerk 'em with the Yugoslav</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/yerk-em-with-the-yugoslav/",
-         "pubDate" : "Wed, 21 Jul 2021 14:30:58 +0000",
-         "title" : "Yerk 'em with the Yugoslav"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84615737.cms\" />Three Indian Grandmasters remain in contention for the honours in the men's section of the FIDE chess World Cup with focus on teen prodigy R Praggnanandhaa in the fourth-round matches on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2376,22 +2392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1221",
          "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
          "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will continue recapping the World Cup and the focus game will be Jumabaev's surprising win with Black against world number two, Fabiano Caruana, which eliminated Caruana from the tournament! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-surprises-at-the-world-cup",
-         "pubDate" : "Tue, 20 Jul 2021 20:00:00 +0100",
-         "title" : "The Weekly Show: Surprises at the World Cup"
-      },
-      {
-         "description" : "The 2021 U.S. Senior, U.S. Junior, and U.S. Girls' Junior Championships kicked off on Friday, July 16, at the Saint Louis Chess Club. After four rounds, Gregory Kaidanov is leading the seniors' event, Hans Niemann tops the standings in the juniors' tournament, while three players are sharing first place in the girls' championship. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-junior-and-senior-championships-2021-r4",
-         "pubDate" : "Tue, 20 Jul 2021 19:00:00 +0100",
-         "title" : "U.S. Junior and Senior Championships taking place in Saint Louis"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg\" data-image-dimensions=\"1080x861\" data-image-focal-point=\"0.5,0.5\" alt=\"Joepos2.jpg\" data-load=\"false\" data-image-id=\"60f6d9bac1b5864344158083\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg?format=1000w\" /> </figure> <p class=\"\">This week, Perpetual Chess features a different kind of guest, Joe Posnanski was twice- named the best sportswriter in America by the Associated Press. He is also a pop",
@@ -2496,30 +2496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1217",
          "pubDate" : "Sun, 18 Jul 2021 18:47:08 +0000",
          "title" : "Magnus Carlsen on track to win"
-      },
-      {
-         "description" : "After withdrawal from the FIDE World Cup 2021 due to a fever and Covid19 symptoms, Levon Aronian made a joke with his fans describing his trip to Sochi. Read more: Aronian forfeits the 1st game at the FIDE World Cup We hope that a good sense of humor comes with good health. Fast recovery Levon, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-describes-his-trip-to-sochi-after-withdrawal-tweetoftheday/",
-         "pubDate" : "Sun, 18 Jul 2021 14:02:33 +0000",
-         "title" : "Aronian describes his trip to Sochi after withdrawal #TweetOftheDay"
-      },
-      {
-         "description" : "The 2nd round of the FIDE World Chess Cup 2021 brought several upsets and surprising results. 29 matches, in both Opean and Women's sections, were decided in tiebreaks. Shortly before the start of the Round 2, Levon Aronian announced that he will definitely withdraw from the event due to a high fever. Read more: Aronian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2021-round-3-underway/",
-         "pubDate" : "Sun, 18 Jul 2021 13:53:16 +0000",
-         "title" : "FIDE WORLD CUP 2021 - Round 3 underway"
-      },
-      {
-         "description" : " The Auckland Chess Club has just hosted the traditional George Trundle Masters, which is a series of RR events for top NZ and overseas players. Of course this year was missing the overseas players part, but the event still attracted a strong field. The top section was won by IM <s>Anthony</s> Paul Garbett with 7/9, while CM Richard Meng won the qualifiers with 7.5. Full results can be found at <a href=\"https://www.vegaresult.com/vega-trn/index.php?id=590 \">https://www.vegaresult.com/vega-trn/index.php?id=590 </a> While I wasn't really following the action while the tournament was taking place, I did have a look at a few games after the event was over. One that struck me as particularly inte",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-george-trundle-masters.html",
-         "pubDate" : "Sun, 18 Jul 2021 12:11:00 +0000",
-         "title" : "2021 George Trundle Masters"
       }
    ]
 }
