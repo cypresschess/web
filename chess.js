@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian bounced back in a must-win situation and forced the tiebreak. After two hard-fought games, GM Le Quang Liem won the armageddon on time and has gained the berth to the finals. In the other semifinal, GM Wesley So and GM Vladisla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessable-masters-le-quang-liem-so-wesley",
+         "pubDate" : "Sat, 07 Aug 2021 17:39:00 -0700",
+         "title" : "Chessable Masters SF: Le, So Through To Finals"
+      },
+      {
          "description" : "Chess.com and the Botez sisters are excited to announce BlockBattles, the second edition of the highly successful BlockChamps event! On August 8 at 11 a.m. PT/20:00 CEST, the best Minecraft and Variety streamers in the world will gather to compete...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -166,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-le-quang-liem-aronian",
-         "pubDate" : "Fri, 06 Aug 2021 05:42:32 -0700",
+         "pubDate" : "Fri, 06 Aug 2021 05:42:00 -0700",
          "title" : "Chessable Masters QF: Le Shocks Aronian With Queen Sac Checkmate"
       },
       {
@@ -582,7 +590,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chessable-masters-quarterfinals-day-1",
-         "pubDate" : "Wed, 04 Aug 2021 05:31:33 -0700",
+         "pubDate" : "Wed, 04 Aug 2021 05:31:00 -0700",
          "title" : "Chessable Masters QF: Must-Win For Firouzja, Mamedyarov"
       },
       {
@@ -1818,14 +1826,6 @@ news_feed (
          "title" : "Powerful pawns"
       },
       {
-         "description" : "GM Sam Shankland knocked out GM Peter Svidler from the FIDE World Cup on Monday. The American grandmaster won his white game to qualify for the quarterfinals. GM Vidit Gujrathi is the only other player who reached the next round without needing a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-day-2",
-         "pubDate" : "Mon, 26 Jul 2021 23:50:00 -0700",
-         "title" : "FIDE World Cup R5.2: Shankland, Vidit Through"
-      },
-      {
          "description" : "The European Chess Union and US-based Chess in Schools Announce a Cooperative Agreement to Develop Chess in Education in the United States Download the Press Release [Tuscaloosa, Alabama] - Chess in Schools (CIS) is pleased to announce a cooperative agreement with the European Chess Union (ECU) supporting Chess in Education (CIE) in the United States. Under the agreement,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-cis-us-press-release/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-george-trundle-masters.html",
          "pubDate" : "Sun, 18 Jul 2021 12:11:00 +0000",
          "title" : "2021 George Trundle Masters"
-      },
-      {
-         "description" : " From the publisher: &#8220;For too long, Anti-Sicilian rhetoric has centred on the logic of simplicity, geared towards reaching playable positions with easy plans while simultaneously avoiding depths of theory. The danger of this logic is the ease with which we can fall into the trap of inactivity; of mindlessly playing an opening without striving to <a href=\"http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.c",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/18/the-modernized-anti-sicilians-volume-1-rossolimo-variation/",
-         "pubDate" : "Sun, 18 Jul 2021 00:10:06 +0000",
-         "title" : "The Modernized Anti-Sicilians : Volume 1, Rossolimo Variation"
       }
    ]
 }
