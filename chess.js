@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/",
          "pubDate" : "Mon, 19 Jul 2021 00:10:29 +0000",
          "title" : "1.e4! The Chess Bible: The Chess Bible - Volume 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1217",
-         "pubDate" : "Sun, 18 Jul 2021 18:47:08 +0000",
-         "title" : "Magnus Carlsen on track to win"
       }
    ]
 }
