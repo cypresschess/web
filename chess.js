@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala also serves as the African Chess Confederation Vice President discussed the current state of chess given the COVID protocols. There was a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
+         "pubDate" : "Sun, 08 Aug 2021 21:53:13 +0000",
+         "title" : "Inside Look at Kenyan Chess"
+      },
+      {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,7 +466,7 @@ news_feed (
          "title" : "Chessable Masters: Artemiev beats Nakamura in Armageddon"
       },
       {
-         "description" : " Share! 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krzysztof Duda [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krzysztof Duda seem [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
