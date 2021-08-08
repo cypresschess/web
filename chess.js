@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So took a huge step towards winning his 3rd event on the Meltwater Champions Chess Tour on Saturday as he defeated Liem Quang Le with a game to spare. Liem fell to eerily similar attacks in both games with the black pieces, while also failing to play on in a promising position with White. The match for 3rd place is all square after Levon Aronian won the first game but Vladislav Artemiev hit back to win on demand in the final game of the day.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-8-wesley-blows-liem-away",
+         "pubDate" : "Sun, 08 Aug 2021 09:14:43 +0000",
+         "title" : "Сhessable Masters 8: Wesley blows Liem away"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1258",
+         "pubDate" : "Sun, 08 Aug 2021 08:20:19 +0000",
+         "title" : "Wesley So blows away Liem Quang Le in first leg of final"
+      },
+      {
          "description" : "GM Levon Aronian bounced back in a must-win situation and forced the tiebreak. After two hard-fought games, GM Le Quang Liem won the armageddon on time and has gained the berth to the finals. In the other semifinal, GM Wesley So and GM Vladisla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -352,6 +368,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-wins-2021-fide-world-cup",
          "pubDate" : "Thu, 05 Aug 2021 08:55:00 -0700",
          "title" : "Duda Wins FIDE World Cup, Carlsen Third"
+      },
+      {
+         "description" : " Gawain Jones is an English grandmaster, twice British Champion and winner of the 2020 European Blitz Championship. From the publisher: &#8220;Coffeehouse Repertoire is a 1.e4 player's dream: an arsenal of ideas from a world-class grandmaster to surprise and confound your opponents, combining coffeehouse trickery with complete theoretical soundness. In Volume 1, GM Gawain Jones shows <a href=\"http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Coffeehouse Repertoire 1.e4 Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/05/",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/",
+         "pubDate" : "Thu, 05 Aug 2021 15:31:27 +0000",
+         "title" : "Coffeehouse Repertoire 1.e4 Volume 1"
       },
       {
          "description" : "Hikaru Nakamura, Alireza Firouzja, Shakhriyar Mamedyarov and Jorden van Foreest were all knocked out of the Chessable Masters on Wednesday in a brutal day of quarterfinal action. Liem Quang Le needed just two games to oust Alireza, while Wesley So also started with two wins against Jorden before getting the draw he needed when both players overlooked a blunder in Game 3. Levon Aronian won after a heavyweight exchange of blows against Shakhriyar, while Vladislav Artemiev finally defeated Hikaru in Armageddon!",
@@ -1162,6 +1186,14 @@ news_feed (
          "title" : "Biel: Nihal and Alekseenko the strongest in blitz"
       },
       {
+         "description" : " Blurb from the publisher: &#8220;If you want to improve your middlegame play, you will have to develop a FEEL for positions. That's what Boris Zlotnik has been stressing during his long and rich trainers career. Clicking through concrete variations (a popular pastime in the computer era) is not enough. To guide your thinking during a <a href=\"http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Zlotnik's Middlegame Manual Typical Structures And Strategic Manoeuvres</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessn",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/",
+         "pubDate" : "Sun, 01 Aug 2021 00:10:49 +0000",
+         "title" : "Zlotnik's Middlegame Manual - Typical Structures And Strategic Manoeuvres"
+      },
+      {
          "description" : "While players and enthusiasts took a day off from the highly tense World Cups in Sochi, the online Chessable Masters kicked off with an eye-catching lineup, as 12-year-old GM Abhimanyu Mishra, women's world champion Ju Wenjun and Indian star Humpy Koneru join the likes of Wesley So and Levon Aronian in the 9-day event. After five rounds, So is the sole leader on 4 points, with a 3-player chasing pack a half point behind. | Pictured: Wesley So and Pentala Harikrishna at the 2019 Riga Grand Prix",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1538,14 +1570,6 @@ news_feed (
          "title" : "Biel, Round 2: Four draws, long games, lots of fight"
       },
       {
-         "description" : "Magnus Carlsen needs only a draw with the white pieces to reach the World Cup semi-finals after his queen sacrifice proved too tough for Etienne Bacrot in the run-up to the time control. Sergey Karjakin also stumbled just before move 40, allowing Sam Shankland to demonstrate his endgame prowess and pick up one of the biggest wins of his career. The other two games were drawn, with Vidit himself describing Vidit-Duda as \"a boring Catalan\", while Tabatabaei-Fedoseev looked set to be the game of the day before fizzling out on move 31.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-1-carlsen-and-shankland-take-the-lead",
-         "pubDate" : "Thu, 29 Jul 2021 11:19:59 +0000",
-         "title" : "FIDE World Cup 6.1: Carlsen & Shankland take lead"
-      },
-      {
          "description" : "The International Koltanowski Conference on Chess in Education is being held July 29 - 30, 2021 at the Crowne Plaza Philadelphia Cherry Hill. Audience will attend in person and online. The Conference will be streamed and available for later viewing. With panelists and speakers active in their specialties, the conference emphasizes praxis. | Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1576,6 +1600,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
          "pubDate" : "Thu, 29 Jul 2021 04:53:40 +0000",
          "title" : "2021 FIDE World Cup: Round #6"
+      },
+      {
+         "description" : " &#8220;Robert Ris (1988) is an International Master from Amsterdam. He has represented The Netherlands in various international youth events, but lately his playing activities are limited to league games. Nowadays he is a full-time chess professional, focusing on teaching in primary schools, coaching talented youngsters and giving online lessons to students all around the world. <a href=\"http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Sveshnikov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/",
+         "pubDate" : "Thu, 29 Jul 2021 00:10:32 +0000",
+         "title" : "The Modernized Sveshnikov"
       },
       {
          "description" : "Magnus Carlsen and Sam Shankland made a big step towards reaching the semifinals of the 2021 FIDE World Cup in Sochi, as they kicked off their matches against Etienne Bacrot and Sergey Karjakin with victories. While Carlsen displayed excellent dynamic feel for the position to win with the black pieces, it was Shankland's endgame technique which allowed him to make the most of an unlikely blunder by his opponent. | Expert analysis by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
