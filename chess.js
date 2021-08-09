@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A draw in the second set of the finals was enough for Wesley So to secure first place at the second edition of the Chessable Masters. The Filipino-born grandmaster thus obtained his third title in this year's Champions Chess Tour. Le Quang Liem finished in a remarkable second place, while Vladislav Artemiev got the bronze after beating Levon Aronian in the match for third place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-9",
+         "pubDate" : "Mon, 09 Aug 2021 12:15:00 +0100",
+         "title" : "Wesley So wins Chessable Masters 2021"
+      },
+      {
+         "description" : "The game Adolf Anderssen against Lionel Kieseritzky, the \"Immortal Game\", played in London 1851, is arguably the most famous game in the history of chess. Anderssen won with a brilliant mating combination after sacrificing huge parts of his army. But his opponent Lionel Kieseritzky also played an \"Immortal Game\". Stephan Oliver Platz discovered this game and uses it as a starting point to take a close look at Kieseritzky's contribution to the King's Gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kieseritzky-s-immortal-game",
+         "pubDate" : "Mon, 09 Aug 2021 11:06:13 +0100",
+         "title" : "Kieseritzky's Immortal Game"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1260",
+         "pubDate" : "Mon, 09 Aug 2021 08:11:43 +0000",
+         "title" : "So wins Chessable Masters final to clinch third Tour title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo.1920.jpeg\" title=\"The CSA logo was created by Roger Gloor. \" data-title=\"The CSA logo was created by [Roger Gloor][1]. [1]: https://www.linkedin.com/in/roger-gloor-62978718a/?originalSubdomain=ch\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo.480.jpeg\" alt=\"The CSA logo was created ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
+         "pubDate" : "Mon, 09 Aug 2021 08:51:27 +0100",
+         "title" : "Activists gather in new association"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1259",
+         "pubDate" : "Mon, 09 Aug 2021 07:34:04 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss to be held in Riga"
+      },
+      {
+         "description" : "US Chess Champion Wesley So came from behind on the final day of the Chessable Masters to defeat Liem Quang Le and claim a record 3rd title on the Meltwater Champions Chess Tour. \"My goal is just to force Magnus to show up!\" he said of his hopes of overhauling Magnus Carlsen in the overall tour standings during the next event. Meanwhile Vladislav Artemiev got revenge for his Goldmoney Asian Rapid final loss to Levon Aronian by snatching 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-triumphs-in-the-chessable-masters",
+         "pubDate" : "Mon, 09 Aug 2021 07:32:32 +0000",
+         "title" : "Wesley So triumphs in the Chessable Masters"
+      },
+      {
          "description" : " GM Wesley So dominated the first day of the finals of the Chessable Masters&#38;nbsp;by defeating GM Le Quang Liem twice. On the second day, he scored 2-2 to clinch the tournament. In the match for third place, GM Artemiev Vladislav and GM Levon ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
          "pubDate" : "Sun, 08 Aug 2021 21:53:13 +0000",
          "title" : "Inside Look at Kenyan Chess"
+      },
+      {
+         "description" : " The Chessable Masters took place Sat 31st Jul to Sun 8th Aug 2021. The online rapid Meltwater Champions chess tour event was held on Chess24. Magnus Carlsen was missing as he remained in the FIDE World Cup. Wesley So beat Le Quang Liem in the final. Players: Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Alireza Firouzja, Hikaru Nakamura, Pentala Harikrishna, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, David Anton Guijarro, Baskaran Adhiban, Aryan Tari, Eduardo Iturrizaga Bonelli, Humpy Koneru, Wenjun Ju and Abhimanyu Mishra. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2021",
+         "pubDate" : "Sun, 8 Aug 2021 20:42:00 +0400",
+         "title" : "Chessable Masters 2021 - Games and Results"
       },
       {
          "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
@@ -826,14 +882,6 @@ news_feed (
          "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> is taking place online again. Between 13 August and 5 September there will be more than 80 different board game competitions including several chess competitions on <a href=\"https://playstrategy.org/\">MSO's new server</a> that is based on the open source code of <strong>Lichess</strong>. <a href=\"https://mindsportsolympiad.com/\">Registration is free</a>, donations are welcome. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mind-sports-olympiad-registration/",
-         "pubDate" : "Tue, 03 Aug 2021 15:44:56 +0100",
-         "title" : "Mind Sports Olympiad registration opened"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru ( and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=1",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1330,14 +1378,6 @@ news_feed (
          "title" : "FIDE World Cup R6.3: Karjakin, Goryachkina, Kosteniuk Through"
       },
       {
-         "description" : " The Chessable Masters takes place Sat 31st Jul to Sun 8th Aug 2021. The online rapid Meltwater Champions chess tour event takes place on Chess24. Magnus Carlsen will be missing as he remains in the FIDE World Cup. Players: Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Alireza Firouzja, Hikaru Nakamura, Pentala Harikrishna, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, David Anton Guijarro, Baskaran Adhiban, Aryan Tari, Eduardo Iturrizaga Bonelli, Humpy Koneru, Wenjun Ju and Abhimanyu Mishra. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2021",
-         "pubDate" : "Sat, 31 Jul 2021 13:42:00 +0400",
-         "title" : "Chessable Masters 2021 - Games and Results"
-      },
-      {
          "description" : "Emanuel Lasker, World Chess Champion from 1894-1921, once asserted that lies and hypocrisy do not survive long on the chessboard. Maybe not on, but I fear they are increasingly patrolling the perimeters. In a previous column, I demonstrated the familiarity with chess of the German genius, Johann Wolfgang von Goethe (1749-1832). He is the author of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1472,14 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-round-3-keymer-loses-against-gelfand",
          "pubDate" : "Fri, 30 Jul 2021 11:27:43 +0100",
          "title" : "Biel, Round 3: Keymer loses against Gelfand"
-      },
-      {
-         "description" : "Magnus Carlsen will play Jan-Krzysztof Duda in the FIDE World Cup semifinals after the Polish no. 1 said he played \"probably the game of my lifetime\" to beat Vidit while Magnus eased past Etienne Bacrot, who offered a draw too late. Sergey Karjakin won a sparkling attacking game to come back on demand yet again, this time against Sam Shankland. It seemed we'd have another tiebreak until Amin Tabatabaei blundered on move 77, with Vladimir Fedoseev fist-pumping at the blunder before executing the winning moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-2-it-s-carlsen-duda-in-the-semis",
-         "pubDate" : "Fri, 30 Jul 2021 09:03:11 +0000",
-         "title" : "FIDE World Cup 6.2: It's Carlsen-Duda in the semis!"
       },
       {
          "description" : "Jan-Krzysztof Duda will face Magnus Carlsen in the semifinals of the FIDE World Cup. The Polish grandmaster knocked out Vidit after the latter erred in a sharp endgame. Russian GMs Vladimir Fedoseev and Sergey Karjakin also won on Thursday - the former moved on to the semis, while the latter levelled the score in his match against Sam Shankland. In the women's section, both semifinal encounters finished drawn. | Photo: Eric Rosen",
@@ -2354,28 +2386,12 @@ news_feed (
          "title" : "Rebranding Hyenas - An African Club You Will Actually Want to Join"
       },
       {
-         "description" : "An inexpensive chess set can sell for $20, but a handcrafted wooden set certified for the World Chess Championship costs $500. Much of the set's value lies in just one piece: the knight. Making this one piece takes two hours, and there are fewer than ten people trained to carve knights for the championship chess sets. It is fascinating to watch the high-end pieces being made.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-championship-chess-pieces-are-made",
-         "pubDate" : "Wed, 21 Jul 2021 11:00:00 +0100",
-         "title" : "How championship chess pieces are made"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1222",
          "pubDate" : "Wed, 21 Jul 2021 09:07:24 +0000",
          "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
-      },
-      {
-         "description" : "Upsets continue at the FIDE World Cups in Sochi, as Anish Giri and Shakhriyar Mamedyarov were knocked out by Nodirbek Abdusattorov (pictured) and Haik Martirosyan in the rapid and blitz playoffs of round 3. Meanwhile, Maxime Vachier-Lagrave, Vidit Gujrathi and Mariya Muzychuk won lengthy, exciting matches. The players will have a rest day on Wednesday. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r3-d3",
-         "pubDate" : "Wed, 21 Jul 2021 03:20:00 +0100",
-         "title" : "World Cup: More upsets as Giri and Mamedyarov are knocked out"
       },
       {
          "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
