@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1261",
+         "pubDate" : "Mon, 09 Aug 2021 22:03:28 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021: lists of qualified players"
+      },
+      {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted 6,000 visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. The organisers, Chess in Schools and Communities, say they would like to make ChessFest an annual event. Tim Wall reports. | Photo John Beardsworth",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2472,30 +2480,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/",
          "pubDate" : "Tue, 20 Jul 2021 00:10:13 +0000",
          "title" : "The Tactics Bible - Magnum Opus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1214",
-         "pubDate" : "Mon, 19 Jul 2021 22:46:24 +0000",
-         "title" : "FIDE and NBC Sports announce chess partnership for the World Championship Match 2021"
-      },
-      {
-         "description" : "Today, 20th of July, the World celebrates the #InternationalChessDay. The&#160;International Chess Federation&#160;(FIDE) was founded 97 years ago, on 20th July 1924 in Paris. The idea to celebrate this day as the International Chess Day was proposed by&#160;UNESCO, and it has been celebrated as such since 1966. On December 12, 2019, the&#160;UN General Assembly&#160;unanimously approved a resolution recognising the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/happy-international-chess-day/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/happy-international-chess-day/",
-         "pubDate" : "Mon, 19 Jul 2021 21:26:24 +0000",
-         "title" : "Happy International Chess Day!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1220",
-         "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
-         "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
       }
    ]
 }
