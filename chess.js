@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted 6,000 visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. The organisers, Chess in Schools and Communities, say they would like to make ChessFest an annual event. Tim Wall reports. | Photo John Beardsworth",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sun-chess-fun-at-trafalgar-square",
+         "pubDate" : "Mon, 09 Aug 2021 18:00:00 +0100",
+         "title" : "Sun, chess & fun at Trafalgar Square"
+      },
+      {
          "description" : "In the \"Endgame Magic Show #155\" Karsten Mueller talks with Abhimanyu Mishra about the endgame. In the old days people said that one should just go into the endgame against a young player which then would win itself. But Abhimanyu Mishra, the world's youngest Grandmaster ever, proves this to be wrong. He knows a lot about endgames, has watched all 154 previous \"Endgame Magic\" shows, and stuns Karsten again and again with insights and questions. In the current show the young Grandmaster proves his defensive skills in rook endings, but in some examples Abhimanyu is also attacking, when he is no less resourceful. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Prem",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-155-with-abhimanyu-mishra-the-world-s-youngest-grandmaster-of-all-time",
          "pubDate" : "Mon, 09 Aug 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the only player in the <strong>Meltwater Champions Chess Tour</strong> who made it past the preliminary in all events and with real chances to steal the overall tour win from leader <strong>Magnus Carlsen</strong>. The American who declined a start at the World Cup won the <strong>chess24</strong>-hosted <strong>Chessable Masters</strong> in the absence of the World Champion who went to Sochi to gather practice before his title match later this year. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/wesley-so-wins-chessable-masters/",
+         "pubDate" : "Mon, 09 Aug 2021 16:11:36 +0100",
+         "title" : "Wesley So wins Chessable Masters"
       },
       {
          "description" : "Today, 9 August, a strong open tournament starts in Riga, the capital of Latvia - the \"Riga Technical University (RTU) Open\". Top seed is German Grandmaster Alexander Donchenko, but he will have to fight against a number of Indian youngsters such as Nihal Sarin, Praggnanandhaa and D. Gukesh. Round 1 starts at 16:00 CEST (10:00 ET, 14:00 UTC). Follow the games live.",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "RTU Open in Riga, Round 1: Live"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo.1920.jpeg\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by [Albert Waaijenberg][1]. [1]: https://www.linkedin.com/in/roger-gloor-62978718a/?originalSubdomain=ch\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo.480.jpeg\" alt=\"The CSA log",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo-mit-schrift.1920.jpeg\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by Albert Waaijenberg.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo-mit-schrift.480.jpeg\" alt=\"The CSA logo was created by Albert Waaijenberg.\" srcset=\"https://www.",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/duda-knocks-out-the-world-champion-from-the-world-cup-and-qualif/",
          "pubDate" : "Tue, 03 Aug 2021 15:25:17 +0000",
          "title" : "Duda knocks out the Champion from the World Cup; Qualifies for the Candidates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Cup</strong> remains the top event that <strong>Magnus Carlsen</strong> never won. In the <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021#live\">semifinal's tie-break</a> in Sochi he was eliminated by <strong>Jan-Krzysztof Duda</strong>, who already broke the world champion's 125 unbeaten classical games streak last year. The 23-year old Pole faces <strong>Sergey Karjakin</strong> in the final, both having secured their ticket for the <strong>Candidates Tournament 2022</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/duda-and-karjakin-qualify/",
-         "pubDate" : "Tue, 03 Aug 2021 15:55:13 +0100",
-         "title" : "Duda and Karjakin qualify"
       },
       {
          "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda has reached the final of the FIDE World Cup. On Tuesday, the Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qu...",
@@ -2354,14 +2362,6 @@ news_feed (
          "title" : "2021 ACT Winter Cup"
       },
       {
-         "description" : "In Dortmund Vishy Anand and Vladimir Kramnik tried a new variant of chess: they played a four-game match, in which castling was not allowed. After four interesting games Anand won the match 2.5-1.5, and both players, the organizers in Dortmund and the public agreed that the experiment was a success.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-successful-experiment-the-anand-vs-kramnik-no-castling-match-in-dortmund",
-         "pubDate" : "Thu, 22 Jul 2021 12:39:28 +0100",
-         "title" : "A successful experiment: The Anand vs Kramnik \"No Castling\" match in Dortmund"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2488,22 +2488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1220",
          "pubDate" : "Mon, 19 Jul 2021 21:22:41 +0000",
          "title" : "Round 03 Game 02: Fabiano Caruana eliminated from the World Cup"
-      },
-      {
-         "description" : " The FIDE World Cup takes place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics and is high in the mountains. The field is very strong headed by World Champion Magnus Carlsen, but also including Fabiano Caruana, Levon Aronian, Anish Giri, Alexander Grischuk, Shakhriyar Mamedyarov, Maxime Vachier Lagrave, Alireza Firouzja, Leinier Dominguez, Sergey Karjakin, Pentala Harikrishna, Jan-Krzysztof Duda, Vidit Santosh Gujrathi, Dmitry Andreikin, Nikita Vitiugov etc. The event has two innovations, it's 8 rounds rather than 7 with the first round being a sort of preliminary. Secondly there is a women's event alongside ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
-         "pubDate" : "Mon, 19 Jul 2021 20:54:00 +0400",
-         "title" : "FIDE World Cup 2021 - Games and Results"
-      },
-      {
-         "description" : " Round 3, Game 1 Sunday, 18 July 2021 Shakhriyar Mamedyarov goes down Carissa Yip scores big win! GM Bassem Amin (Egypt)Photo by IM Eric Rosen There were some FIDE World Cup viewers who were clamoring for Bassem Amin's game. While it may go unnoticed to most, Amin is an iconic figure in African and Egyptian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/\">2021 FIDE World Cup: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/",
-         "pubDate" : "Mon, 19 Jul 2021 16:38:49 +0000",
-         "title" : "2021 FIDE World Cup: Round #3"
       }
    ]
 }
