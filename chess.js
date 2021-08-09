@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the \"Endgame Magic Show #155\" Karsten Mueller talks with Abhimanyu Mishra about the endgame. In the old days people said that one should just go into the endgame against a young player which then would win itself. But Abhimanyu Mishra, the world's youngest Grandmaster ever, proves this to be wrong. He knows a lot about endgames, has watched all 154 previous \"Endgame Magic\" shows, and stuns Karsten again and again with insights and questions. In the current show the young Grandmaster proves his defensive skills in rook endings, but in some examples Abhimanyu is also attacking, when he is no less resourceful. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Prem",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-155-with-abhimanyu-mishra-the-world-s-youngest-grandmaster-of-all-time",
+         "pubDate" : "Mon, 09 Aug 2021 17:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
+      },
+      {
+         "description" : "Today, 9 August, a strong open tournament starts in Riga, the capital of Latvia - the \"Riga Technical University (RTU) Open\". Top seed is German Grandmaster Alexander Donchenko, but he will have to fight against a number of Indian youngsters such as Nihal Sarin, Praggnanandhaa and D. Gukesh. Round 1 starts at 16:00 CEST (10:00 ET, 14:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Mon, 09 Aug 2021 15:45:00 +0100",
+         "title" : "RTU Open in Riga, Round 1: Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo.1920.jpeg\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by [Albert Waaijenberg][1]. [1]: https://www.linkedin.com/in/roger-gloor-62978718a/?originalSubdomain=ch\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo.480.jpeg\" alt=\"The CSA log",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
+         "pubDate" : "Mon, 09 Aug 2021 15:25:29 +0100",
+         "title" : "Activists gather in new association"
+      },
+      {
+         "description" : "European Women's Individual Chess Championship 2021 has started in Iasi, Romania. All 117 registered participants, coming from 29 different European federations safely arrived to Romania and have been paired for the first round. Starting rank list and pairings Romanian Chess Federation, the Mayor of Iasi Municipality, Mr. Mihai Chirica, and the ECU President, Mr. Zurab Azmaiparashvili hold an&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/",
+         "pubDate" : "Mon, 09 Aug 2021 14:21:58 +0000",
+         "title" : "European Women's Individual Chess Championship started in Iasi"
+      },
+      {
+         "description" : " While I am mainly a chess player, I do occasionally play a bit of backgammon. However I am not that good at it, unlike my father, who has won the ACT Backgammon Championship at least twice. One thing that backgammon has in common with chess, is that you can get plenty of instructional videos on youtube. One series has been produced by someone I regularly play backgammon with, and is designed for the newcomer in mind. I've embedded a clip below, but if you want to check out the whole series, click on this link <a href=\"https://www.youtube.com/channel/UCe1QwuqY7LG-6JcSApTAeIA\">Backgammon Mechanics</a> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/backgammon.html",
+         "pubDate" : "Mon, 09 Aug 2021 12:56:00 +0000",
+         "title" : "Backgammon"
+      },
+      {
+         "description" : "The European Individual Women's Chess Championship starts today in Iasi/Romania. Top seeds are three players from Georgia: Nino Batsiashvili, Bela Khotenashvili and Lela Javakhishvili. The round begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Mon, 09 Aug 2021 13:45:00 +0100",
+         "title" : "Live: European Individual Women's Chess Championship"
+      },
+      {
          "description" : "A draw in the second set of the finals was enough for Wesley So to secure first place at the second edition of the Chessable Masters. The Filipino-born grandmaster thus obtained his third title in this year's Champions Chess Tour. Le Quang Liem finished in a remarkable second place, while Vladislav Artemiev got the bronze after beating Levon Aronian in the match for third place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1260",
          "pubDate" : "Mon, 09 Aug 2021 08:11:43 +0000",
          "title" : "So wins Chessable Masters final to clinch third Tour title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo.1920.jpeg\" title=\"The CSA logo was created by Roger Gloor. \" data-title=\"The CSA logo was created by [Roger Gloor][1]. [1]: https://www.linkedin.com/in/roger-gloor-62978718a/?originalSubdomain=ch\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo.480.jpeg\" alt=\"The CSA logo was created ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
-         "pubDate" : "Mon, 09 Aug 2021 08:51:27 +0100",
-         "title" : "Activists gather in new association"
       },
       {
          "description" : "",
@@ -2322,14 +2362,6 @@ news_feed (
          "title" : "A successful experiment: The Anand vs Kramnik \"No Castling\" match in Dortmund"
       },
       {
-         "description" : "20 July was International Chess Day and it was celebrated all over the world. With \"Chess Unlimited\" Kineke Mulder (pictured, on the left) celebrates chess in Vienna throughout the year and brings the game to the streets and to the people. During the lockdown this was impossible, and Mulder was happy to share her chess enthusiasm on International Chess Day - with a lot of amateurs and German Grandmaster Sebastian Siebrecht (pictured, on the right). | Photos: Sebastian Siebrecht/ Kineke Mulder/ Erste Bank",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-chess-day-in-vienna",
-         "pubDate" : "Thu, 22 Jul 2021 10:34:35 +0100",
-         "title" : "International Chess Day in Vienna"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2352,22 +2384,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/from-im-to-gm/",
          "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0000",
          "title" : "From International Master to Grandmaster In Chess"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look a close look at a stunning game with a brutal rook sacrifice from the World Cup: Michal Krasenkow's fine attacking win against Kirill Alekseenko. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-473-a-tari-m-carlsen",
-         "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0100",
-         "title" : "Game of the Week 473: M. Krasenkow - K. Alekseenko"
-      },
-      {
-         "description" : "50 years ago, on 20 July 1971, Bobby Fischer (pictured) and Bent Larsen played the sixth and final game of their semi-final match of the Candidates. Fischer had won the first five games and he also won the sixth. It was Fischer's 19th win in a row against some of the world's best players, a sensational and unrivalled winning streak. In his new book \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" Dutch Grandmaster Jan Timman takes a close look at this winning streak and Fischer's dominance in the years 1970 to 1971. Confident, entertaining, and with new insights about Fischer's strengths and weaknesses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-timman-the-unstoppable-american-bobby-fischer-s-road-to-reykjavik-a-review",
-         "pubDate" : "Wed, 21 Jul 2021 15:44:06 +0100",
-         "title" : "Jan Timman: \"The Unstoppable American: Bobby Fischer's Road to Reykjavik\" - a review"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84615737.cms\" />Three Indian Grandmasters remain in contention for the honours in the men's section of the FIDE chess World Cup with focus on teen prodigy R Praggnanandhaa in the fourth-round matches on Thursday.",
