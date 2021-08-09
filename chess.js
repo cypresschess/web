@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Wesley So dominated the first day of the finals of the Chessable Masters&#38;nbsp;by defeating GM Le Quang Liem twice. On the second day, he scored 2-2 to clinch the tournament. In the match for third place, GM Artemiev Vladislav and GM Levon ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-chessable-masters-2021",
+         "pubDate" : "Sun, 08 Aug 2021 19:10:00 -0700",
+         "title" : "Wesley So Clinches Chessable Masters 2021"
+      },
+      {
          "description" : " Share! 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala also serves as the African Chess Confederation Vice President discussed the current state of chess given the COVID protocols. There was a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1738,14 +1746,6 @@ news_feed (
          "title" : "World Cup Highlights - Part 1"
       },
       {
-         "description" : "GM Magnus Carlsen eliminated GM Andrey Esipenko on Tuesday from the FIDE World Cup in an epic tiebreak match that was decided in the blitz games. Carlsen will now play GM Etienne Bacrot, who defeated GM Kacper Piorun. The other winners of the ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-5-tiebreaks-carlsen-esipenko",
-         "pubDate" : "Wed, 28 Jul 2021 02:08:00 -0700",
-         "title" : "FIDE World Cup R5.3: Carlsen Beats Esipenko In Epic Tiebreak"
-      },
-      {
          "description" : "In round 1 of the classical part of the GM Tournament at the Biel Chess Festival three games ended with a decision. Alan Pichot won against Boris Gelfand, Kirill Alekseenko defeated Nihal Sarin and Gata Kamsky won against Noel Studer. Vincent Keymer and Maxime Lagarde drew. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2488,14 +2488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1218",
          "pubDate" : "Mon, 19 Jul 2021 10:37:42 +0000",
          "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
-      },
-      {
-         "description" : " &#8220;Justin Tan is an International Grandmaster who has represented Australia in numerous international events. He is currently based in the UK and was previously British under-21 champion, British blitz champion and joint second runner-up at the British Championship. Justin has been a 1.e4 specialist throughout his playing career and is recognised for his deep opening <a href=\"http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1.e4! The Chess Bible: The Chess Bible Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/202",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/19/1-e4-the-chess-bible-the-chess-bible-volume-1/",
-         "pubDate" : "Mon, 19 Jul 2021 00:10:29 +0000",
-         "title" : "1.e4! The Chess Bible: The Chess Bible - Volume 1"
       }
    ]
 }
