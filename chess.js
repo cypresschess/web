@@ -23,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Sun, 08 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters Finals - Live!"
+         "title" : "Chessable Masters Finals - Wesley So prevails"
       },
       {
          "description" : " I have a question for you. You're playing black against a legendary former world champion. What move would you play here? While you're considering your answer, I'd like to consider a typical opening tactic. At beginner level, very many games see a pawn fork in the centre of the board. This might be, from White's <a href=\"https://chessimprover.com/istvan-csom-rip/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Istvan Csom RIP\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/istvan-csom-rip/\">Istvan Csom RIP</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
