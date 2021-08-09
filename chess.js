@@ -2488,22 +2488,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/19/2021-fide-world-cup-round-3/",
          "pubDate" : "Mon, 19 Jul 2021 16:38:49 +0000",
          "title" : "2021 FIDE World Cup: Round #3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1219",
-         "pubDate" : "Mon, 19 Jul 2021 11:25:22 +0000",
-         "title" : "International Chess Day celebrated on July 20"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1218",
-         "pubDate" : "Mon, 19 Jul 2021 10:37:42 +0000",
-         "title" : "The Life & Games of Vasily Smyslov by Terekhov wins the Yuri Averbakh/Isaac Boleslavsky Award"
       }
    ]
 }
