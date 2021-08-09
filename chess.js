@@ -10,6 +10,14 @@ news_feed (
          "title" : "Sun, chess & fun at Trafalgar Square"
       },
       {
+         "description" : " The FIDE World Cup took place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics is high in the mountains. Jan-Krzysztof Duda beat Magnus Carlsen in the Semi-finals and Sergey Karjakin in the final to take the title and win a Candidates place. Carlsen beat Fedoseev in the 3rd - 4th tie-break. The finalists will both play in the Candidates tournament. Alexandra Kosteniuk beat Aleksandra Goryachkina in the final to win the women's event. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
+         "pubDate" : "Mon, 9 Aug 2021 20:54:00 +0400",
+         "title" : "FIDE World Cup 2021 - Games and Results"
+      },
+      {
          "description" : "In the \"Endgame Magic Show #155\" Karsten Mueller talks with Abhimanyu Mishra about the endgame. In the old days people said that one should just go into the endgame against a young player which then would win itself. But Abhimanyu Mishra, the world's youngest Grandmaster ever, proves this to be wrong. He knows a lot about endgames, has watched all 154 previous \"Endgame Magic\" shows, and stuns Karsten again and again with insights and questions. In the current show the young Grandmaster proves his defensive skills in rook endings, but in some examples Abhimanyu is also attacking, when he is no less resourceful. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Prem",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
