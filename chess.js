@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Aleksandr Lenderman won the U.S. Open with 8&frac12; points out of 9 rounds. Mike Walder annotates Lenderman's wins over Grandmasters Hans Niemann and John Michael Burke. Alexey Root reports on the awards presentations, book signings, and meetings held at the U.S. Open's Cherry Hill, New Jersey site. | Photos: Alexey Root",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-open-chess-games-awards-signings-meetings",
+         "pubDate" : "Tue, 10 Aug 2021 22:00:00 +0100",
+         "title" : "U.S. Open: Chess games, awards, signings, meetings"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour will be played on August 11-15. The Saint Louis Rapid & Blitz will host 10 of the top players from around the world including world number 2, Fabiano Caruana (pictured), and 2021 Paris Rapid and Blitz winner, Wesley So. The tournament will showcase four GCT full tour players and six wildcards, including American favorites Hikaru Nakamura, Leinier Dominguez and first time participants, Sam Shankland and Jeffery Xiong. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2338,14 +2346,6 @@ news_feed (
          "title" : "Stefanova: \"Nobody wants to resign!\"- Goryachkina in a must win situation!"
       },
       {
-         "description" : "Half the matches in the open section of the FIDE World Cup finished decisively on Thursday, with Kacper Piorun, Vidit Gujrathi, Vasif Durarbayli and Sam Shankland scoring crucial wins with the black pieces. The biggest upset rating-wise was Amin Tabatabaei (pictured) beating Harikrishna with the white pieces. In the women's section, Antoaneta Stefanova and Polina Shuvalova won their first games in the round-of-16. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d1",
-         "pubDate" : "Fri, 23 Jul 2021 11:45:00 +0100",
-         "title" : "World Cup: No punches pulled"
-      },
-      {
          "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2440,30 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1222",
          "pubDate" : "Wed, 21 Jul 2021 09:07:24 +0000",
          "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival «Rudaga - Kaissa 2021 »"
-      },
-      {
-         "description" : "The third round of the FIDE World Chess Cup cut the battlefield to only 32 players in Open section and 16 players in Women's section! As the stakes started to be high, the games became sharper, bringing more surprising results! That everything is possible in the FIDE World Cup, we could have seen already after []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-r4-preview-caruana-and-giri-are-out/",
-         "pubDate" : "Tue, 20 Jul 2021 22:51:03 +0000",
-         "title" : "FIDE WORLD CUP R4 preview - Caruana and Giri are out!"
-      },
-      {
-         "description" : "Dutch top chess player and World No.8, Anish Giri, got expelled from the FIDE World Cup in the round 3, when he suffered a loss from 16 years old Jumabayev Rinat (Kazakhstan 2634). However, this did not affect Giri's famous sense of humor. Anish tweeted to prove that he manages to always find glitter in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-takes-0-6-rating-at-the-fide-world-cup-tweetoftheday/",
-         "pubDate" : "Tue, 20 Jul 2021 22:33:14 +0000",
-         "title" : "Anish Giri takes home 0.6 rating from the FIDE World Cup #TweetOftheDay"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1221",
-         "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
-         "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
       }
    ]
 }
