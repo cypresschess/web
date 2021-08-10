@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana sets up a classic position between Nigel Short and Jan Timman. But before we start with the famous position, we derail a bit to the Alekhine Opening. It turns out, Svitlana Demchenko has a genuinely good score when playing the Alekhine Defense as Black. After the popular example, Svitlana shows us a similar technic from one of her own games, which she played in her chess club in Ottawa.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-10",
+         "pubDate" : "Tue, 10 Aug 2021 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Short's immortal king walk"
+      },
+      {
+         "description" : "23 players started the strong \"Riga Technical University (RTU) Open\" with two wins and now share the lead with 2.0/2. One of them is the number two seed, Nihal Sarin (pictured). Top seed Alexander Donchenko from Germany drew in round two and now has 1.5/2. Round 3 begins at 16:00 local time (10:00 ET, 14:00 UTC). Follow the games live. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Tue, 10 Aug 2021 15:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 3: Live"
+      },
+      {
+         "description" : " Things I did not write on my census form <ul style=\"text-align: left;\"><li>Religion: I worship Caissa</li><li>Job: World Champion</li><li>Hours worked last week: 0</li><li>Type of dwelling: A giant rook</li><li>Number of bedrooms: 64</li><li>How did you travel to work: On horseback</li><li>Where were you born: In a hospital</li><li>Highest level of educational qualification: GM</li></ul> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/census-knight.html",
+         "pubDate" : "Tue, 10 Aug 2021 13:44:00 +0000",
+         "title" : "Census Knight"
+      },
+      {
          "description" : "The European Individual Women's Chess Championship, an 11-round Swiss, started yesterday in Iasi/Romania. Top seeds are three players from Georgia: Nino Batsiashvili (2487), who won her first game, Bela Khotenashvili (2471), who drew against Beloslava Krasteva (2243), and Lela Javakhishvili (2470), who also won in round 1. Round 2 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
          "pubDate" : "Tue, 10 Aug 2021 13:45:00 +0100",
          "title" : "European Individual Women's Chess Championship, Round 2 - live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/public-notice/",
+         "pubDate" : "Tue, 10 Aug 2021 12:30:34 +0000",
+         "title" : "PUBLIC NOTICE"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg\" data-image-dimensions=\"500x375\" data-image-focal-point=\"0.5,0.5\" alt=\"Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times.\" data-load=\"false\" data-image-id=\"61126de61faeb13e9539679c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times. </",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/10/episode-238-jerald-times",
+         "pubDate" : "Tue, 10 Aug 2021 12:23:20 +0000",
+         "title" : "Episode 238- Jerald Times"
       },
       {
          "description" : "Chess tournaments in Dortmund, Germany, have a long and illustrious tradition. In 2021, the Sparkassen Chess Trophy continued this tradition. Vishy Anand won a \"No Castling\" match against Vladimir Kramnik, Pavel Eljanov won the \"Deutschland Cup\". Now, the organizers released a video that reviews highlights of this year's tournament. In a personal statement during the award ceremony, Carsten Hensel, former manager of Kramnik, and driving force behind the organisation of the tournament, had already explained why Dortmund 2021 was a real highlight for him.",
@@ -34,14 +74,6 @@ news_feed (
          "title" : "The Olympic Games"
       },
       {
-         "description" : "Today, 10 August, the second round of the \"Riga Technical University (RTU) Open\" starts already at 10:00 local time (4:00 ET, 8:00 UTC). Top seed in the strong open is German Grandmaster Alexander Donchenko, who will have to fight against a number of Indian youngsters such as Nihal Sarin, Praggnanandhaa and D. Gukesh. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Tue, 10 Aug 2021 09:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 2: Live"
-      },
-      {
          "description" : "The FIDE Chess.com Grand Swiss and Women's Grand Swiss will be held in Riga in the format and dates originally scheduled: from 25 October to 8 November 2021. The difficult decision to relocate the tournament from Douglas, its original planned location, was forced due to the strict COVID-19 restrictions still in place in the Isle of Man. | Photo: Diego Delso",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
          "pubDate" : "Tue, 10 Aug 2021 07:56:36 +0100",
          "title" : "Activists gather in new association"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1261",
+         "pubDate" : "Mon, 09 Aug 2021 22:03:28 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021: lists of qualified players"
       },
       {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted 6,000 visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. The organisers, Chess in Schools and Communities, say they would like to make ChessFest an annual event. Tim Wall reports. | Photo John Beardsworth",
@@ -2066,14 +2106,6 @@ news_feed (
          "title" : "World Chess and FIDE Ask The Chess Community to Suggest a City to Host the Grand Prix Series"
       },
       {
-         "description" : "Vidit advanced to the Quarter Final with a smooth victory over the Azerbaijan GM Vasif Durarbayli. Vidit outprepared his opponent with the Black pieces in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-vidit-advanced-to-the-quarter-final/",
-         "pubDate" : "Mon, 26 Jul 2021 15:53:53 +0000",
-         "title" : "World Cup - Vidit advanced to the Quarter Final"
-      },
-      {
          "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the Round 5 ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2306,14 +2338,6 @@ news_feed (
          "title" : "Interesting line-up at the Biel Chess Festival"
       },
       {
-         "description" : "Frederick Gordon learnt chess at the age of six. After a week he started beating his parents, both PhDs in mathematics. Now, at the age of ten, Freddy has defeated a full-blown grandmaster, Bogdon Lalic, in a rapid chess game. But, the BBC reports, \"the talented young Scottish player did not share his excitement with his school friends because he thought it would be boasting.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freddy-has-beaten-a-grandmaster",
-         "pubDate" : "Fri, 23 Jul 2021 08:13:14 +0100",
-         "title" : "Freddy has beaten a grandmaster"
-      },
-      {
          "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -2432,22 +2456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1221",
          "pubDate" : "Tue, 20 Jul 2021 20:23:47 +0000",
          "title" : "Round 03 tiebreaks: Giri and Mamedyarov eliminated!"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg\" data-image-dimensions=\"1080x861\" data-image-focal-point=\"0.5,0.5\" alt=\"Joepos2.jpg\" data-load=\"false\" data-image-id=\"60f6d9bac1b5864344158083\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1626790331050-FR10W6N1FYOO488557ET/Joepos2.jpg?format=1000w\" /> </figure> <p class=\"\">This week, Perpetual Chess features a different kind of guest, Joe Posnanski was twice- named the best sportswriter in America by the Associated Press. He is also a pop",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/20/episode-235-joe-posnanski",
-         "pubDate" : "Tue, 20 Jul 2021 14:14:44 +0000",
-         "title" : "Episode 235- Joe Posnanski "
-      },
-      {
-         "description" : " Today (20th July) is International Chess Day. I'm not really sure what this entails, although teaching people how to play chess is surely part of it. If it is, I at least did my bit, doing some school and private coaching, and then donating some rating points to the more deserving at my local club! ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/international-chess-day.html",
-         "pubDate" : "Tue, 20 Jul 2021 13:38:00 +0000",
-         "title" : "International Chess Day"
       }
    ]
 }
