@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour will be played on August 11-15. The Saint Louis Rapid & Blitz will host 10 of the top players from around the world including world number 2, Fabiano Caruana (pictured), and 2021 Paris Rapid and Blitz winner, Wesley So. The tournament will showcase four GCT full tour players and six wildcards, including American favorites Hikaru Nakamura, Leinier Dominguez and first time participants, Sam Shankland and Jeffery Xiong. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-preview",
+         "pubDate" : "Tue, 10 Aug 2021 20:00:00 +0100",
+         "title" : "Starting Wednesday: St. Louis Rapid & Blitz"
+      },
+      {
+         "description" : "FIDE has recently announced that the 2021 FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss, initially planned to take place at Isle of Man, will move to Riga. The two events are part of the qualification cycle for the World Chess Championship, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-chesscom-grand-swiss-womens-grand-swiss-riga",
+         "pubDate" : "Tue, 10 Aug 2021 10:30:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss And Women's Grand Swiss Move To Riga"
+      },
+      {
          "description" : "Svitlana sets up a classic position between Nigel Short and Jan Timman. But before we start with the famous position, we derail a bit to the Alekhine Opening. It turns out, Svitlana Demchenko has a genuinely good score when playing the Alekhine Defense as Black. After the popular example, Svitlana shows us a similar technic from one of her own games, which she played in her chess club in Ottawa.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Short's immortal king walk"
       },
       {
+         "description" : "NM Ryo Chen (USA) won the 2021 ChessKid Youth Speed Chess Championship after defeating CM Lev Zverev (Russia) on Saturday, July 31! This annual event is the most prestigious on the ChessKid calendar, featuring only the top 10-and-under chess super...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ryo-chen-wins-2021-chesskid-youth-speed-chess-championship",
+         "pubDate" : "Tue, 10 Aug 2021 08:41:03 -0700",
+         "title" : "NM Ryo Chen Wins 2021 ChessKid Youth Speed Chess Championship"
+      },
+      {
          "description" : "23 players started the strong \"Riga Technical University (RTU) Open\" with two wins and now share the lead with 2.0/2. One of them is the number two seed, Nihal Sarin (pictured). Top seed Alexander Donchenko from Germany drew in round two and now has 1.5/2. Round 3 begins at 16:00 local time (10:00 ET, 14:00 UTC). Follow the games live. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
          "pubDate" : "Tue, 10 Aug 2021 15:55:00 +0100",
          "title" : "RTU Open in Riga, Round 3: Live"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz takes place 11th to 15th August 2021. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez, Quang Liem Le, Jeffery Xiong, Hikaru Nakamura, Sam Shankland and Peter Svidler. Play starts at 9pm UK time and the final round of the rapid starts at midnight each day. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2021",
+         "pubDate" : "Tue, 10 Aug 2021 18:03:00 +0400",
+         "title" : "Saint Louis Rapid & Blitz 2021 - Games and Results"
       },
       {
          "description" : " Things I did not write on my census form <ul style=\"text-align: left;\"><li>Religion: I worship Caissa</li><li>Job: World Champion</li><li>Hours worked last week: 0</li><li>Type of dwelling: A giant rook</li><li>Number of bedrooms: 64</li><li>How did you travel to work: On horseback</li><li>Where were you born: In a hospital</li><li>Highest level of educational qualification: GM</li></ul> ",
@@ -1770,14 +1802,6 @@ news_feed (
          "title" : "Chess in Education: 3rd International Koltanowski Conference"
       },
       {
-         "description" : "Using a positional queen sacrifice, an inspired GM Magnus Carlsen started his FIDE World Cup quarterfinal with a win against GM Etienne Bacrot. GM Sam Shankland might eliminate another former World Cup winner as the American GM defeated GM Sergey ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-6-day-1-carlsen-shankland",
-         "pubDate" : "Thu, 29 Jul 2021 01:24:00 -0700",
-         "title" : "FIDE World Cup R6.1: Carlsen, Shankland Strike"
-      },
-      {
          "description" : "Vidit drew the first game of his Quarterfinal matchup against Polish No:1, and World No:18 Jan-Krzysztof Duda with the White pieces. Vidit couldn't get much",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1816,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1233",
          "pubDate" : "Wed, 28 Jul 2021 19:49:04 +0000",
          "title" : "Round 06 Game 01: One foot in the semi-finals for Carlsen"
-      },
-      {
-         "description" : "For the third time in four weeks, GM Hikaru Nakamura has taken first place in Titled Tuesday. His 9.5 points out of 11 were enough to finish ahead of GM Giga Quparadze on tiebreaks. GM Raunak Sadhwani and GM Aleksey Sarana rounded out the top four...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-july-27-titled-tuesday",
-         "pubDate" : "Wed, 28 Jul 2021 11:11:50 -0700",
-         "title" : "Nakamura Wins July 27 Titled Tuesday"
       },
       {
          "description" : "This week, Merijn van Delft takes a close look at the encounter between Magnus Carlsen and Radoslaw Wojtaszek at the FIDE World Cup 2021 - a game full of tactical blows and surprises. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2328,14 +2344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d1",
          "pubDate" : "Fri, 23 Jul 2021 11:45:00 +0100",
          "title" : "World Cup: No punches pulled"
-      },
-      {
-         "description" : "The Biel International Chess Festival takes place from 24 July until 04 August and offers a large variety of tournaments, and the prestigious Grandmaster Tournament impresses with an interesting format and an interesting line-up. Young players like Nihal Sarin and Vincent Keymer will meet veterans like Boris Gelfand and Gata Kamsky, and others, in a triathlon (Fischer Chess, Rapid, Classical). The tournament will begin on Saturday, 24 July, with the Fischerrandom event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interesting-line-up-at-the-biel-chess-festival",
-         "pubDate" : "Fri, 23 Jul 2021 11:00:00 +0100",
-         "title" : "Interesting line-up at the Biel Chess Festival"
       },
       {
          "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
