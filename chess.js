@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Women's Chess Championship, an 11-round Swiss, started yesterday in Iasi/Romania. Top seeds are three players from Georgia: Nino Batsiashvili (2487), who won her first game, Bela Khotenashvili (2471), who drew against Beloslava Krasteva (2243), and Lela Javakhishvili (2470), who also won in round 1. Round 2 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Tue, 10 Aug 2021 13:45:00 +0100",
+         "title" : "European Individual Women's Chess Championship, Round 2 - live!"
+      },
+      {
+         "description" : "Chess tournaments in Dortmund, Germany, have a long and illustrious tradition. In 2021, the Sparkassen Chess Trophy continued this tradition. Vishy Anand won a \"No Castling\" match against Vladimir Kramnik, Pavel Eljanov won the \"Deutschland Cup\". Now, the organizers released a video that reviews highlights of this year's tournament. In a personal statement during the award ceremony, Carsten Hensel, former manager of Kramnik, and driving force behind the organisation of the tournament, had already explained why Dortmund 2021 was a real highlight for him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/highlights-from-dortmund-2021",
+         "pubDate" : "Tue, 10 Aug 2021 11:53:46 +0100",
+         "title" : "Highlights from Dortmund 2021"
+      },
+      {
+         "description" : "The duel bishop against knight is often tricky. When defending, the side with the knight often tries to build a fortress to exploit the color blindness of the bishop. In the diagram position Black is a pawn up but built a fortress. However, will it hold? And, if so, how does Black make it last forever?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/long-may-it-last",
+         "pubDate" : "Tue, 10 Aug 2021 10:59:21 +0100",
+         "title" : "Long may it last"
+      },
+      {
+         "description" : " &#8220;Citius, Altius, Fortius&#8221; Charles Pierre de Fr&eacute;dy, Baron de Coubertin I don't know how you feel but for me there is something magic about the Olympics. It is big business these days for both the summer and winter games. Still to organize them (with all the financial burden) and participate at any edition (with all <a href=\"https://chessimprover.com/the-olympic-games/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Olympic Games\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-olympic-games/\">The Olympic Games</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-olympic-games/",
+         "pubDate" : "Tue, 10 Aug 2021 09:00:24 +0000",
+         "title" : "The Olympic Games"
+      },
+      {
+         "description" : "Today, 10 August, the second round of the \"Riga Technical University (RTU) Open\" starts already at 10:00 local time (4:00 ET, 8:00 UTC). Top seed in the strong open is German Grandmaster Alexander Donchenko, who will have to fight against a number of Indian youngsters such as Nihal Sarin, Praggnanandhaa and D. Gukesh. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Tue, 10 Aug 2021 09:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 2: Live"
+      },
+      {
+         "description" : "The FIDE Chess.com Grand Swiss and Women's Grand Swiss will be held in Riga in the format and dates originally scheduled: from 25 October to 8 November 2021. The difficult decision to relocate the tournament from Douglas, its original planned location, was forced due to the strict COVID-19 restrictions still in place in the Isle of Man. | Photo: Diego Delso",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-to-be-held-in-Riga",
+         "pubDate" : "Tue, 10 Aug 2021 09:40:00 +0100",
+         "title" : "Grand Swiss tournaments to be held in Riga"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo-mit-schrift.1920.png\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by Albert Waaijenberg.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo-mit-schrift.480.png\" alt=\"The CSA logo was created by Albert Waaijenberg.\" srcset=\"https://www.ch",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
-         "pubDate" : "Tue, 10 Aug 2021 04:37:36 +0100",
+         "pubDate" : "Tue, 10 Aug 2021 07:56:36 +0100",
          "title" : "Activists gather in new association"
       },
       {
@@ -42,14 +90,6 @@ news_feed (
          "title" : "Wesley So wins Chessable Masters"
       },
       {
-         "description" : "Today, 9 August, a strong open tournament starts in Riga, the capital of Latvia - the \"Riga Technical University (RTU) Open\". Top seed is German Grandmaster Alexander Donchenko, but he will have to fight against a number of Indian youngsters such as Nihal Sarin, Praggnanandhaa and D. Gukesh. Round 1 starts at 16:00 CEST (10:00 ET, 14:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Mon, 09 Aug 2021 15:45:00 +0100",
-         "title" : "RTU Open in Riga, Round 1: Live"
-      },
-      {
          "description" : "European Women's Individual Chess Championship 2021 has started in Iasi, Romania. All 117 registered participants, coming from 29 different European federations safely arrived to Romania and have been paired for the first round. Starting rank list and pairings Romanian Chess Federation, the Mayor of Iasi Municipality, Mr. Mihai Chirica, and the ECU President, Mr. Zurab Azmaiparashvili hold an&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/backgammon.html",
          "pubDate" : "Mon, 09 Aug 2021 12:56:00 +0000",
          "title" : "Backgammon"
-      },
-      {
-         "description" : "The European Individual Women's Chess Championship starts today in Iasi/Romania. Top seeds are three players from Georgia: Nino Batsiashvili, Bela Khotenashvili and Lela Javakhishvili. The round begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Mon, 09 Aug 2021 13:45:00 +0100",
-         "title" : "Live: European Individual Women's Chess Championship"
       },
       {
          "description" : "A draw in the second set of the finals was enough for Wesley So to secure first place at the second edition of the Chessable Masters. The Filipino-born grandmaster thus obtained his third title in this year's Champions Chess Tour. Le Quang Liem finished in a remarkable second place, while Vladislav Artemiev got the bronze after beating Levon Aronian in the match for third place.",
@@ -1410,14 +1442,6 @@ news_feed (
          "title" : "Biel, Round 4: Kamsky and Gelfand draw"
       },
       {
-         "description" : "Sergey Karjakin has reached a record 4th World Cup semi-final after coming back yet again to beat Sam Shankland despite suffering a thumping defeat in the first tiebreak game. Sergey, who said there's no special secret to his comebacks, will play Vladimir Fedoseev for a place in the final and a spot in the 2022 Candidates Tournaments. The Women's World Cup will be an all-Russian battle between Aleksandra Goryachkina and Alexandra Kosteniuk after they both won with white, against Anna Muzychuk and Tan Zhongyi, who now play the 3rd place match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-6-3-karjakin-ousts-shankland",
-         "pubDate" : "Sat, 31 Jul 2021 11:53:01 +0000",
-         "title" : "FIDE World Cup 6.3: Karjakin ousts Shankland"
-      },
-      {
          "description" : " The 54th Biel Chess Festival took place 24th July to 4th August 2021. The main event was what they called a Triathalon with a Rapid, Standard and Blitz element. Gata Kamsky was the clear winner with 36 points in the combined standings 5 points clear of Kiril Alekseenko. Full final standings below.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2266,14 +2290,6 @@ news_feed (
          "title" : "Stefanova: \"Nobody wants to resign!\"- Goryachkina in a must win situation!"
       },
       {
-         "description" : " We'll wrap up our look at tactics over the next three weeks and move onto a set of middle-game principles that will greatly help you during this game phase. As with the opening principles, each remaining phase of the game - the middle-game and endgame - have their own set of principles to guide your <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-seven/\">A Foundation for Beginners Twenty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-seven/",
-         "pubDate" : "Fri, 23 Jul 2021 11:23:09 +0000",
-         "title" : "A Foundation for Beginners Twenty Seven"
-      },
-      {
          "description" : "Half the matches in the open section of the FIDE World Cup finished decisively on Thursday, with Kacper Piorun, Vidit Gujrathi, Vasif Durarbayli and Sam Shankland scoring crucial wins with the black pieces. The biggest upset rating-wise was Amin Tabatabaei (pictured) beating Harikrishna with the white pieces. In the women's section, Antoaneta Stefanova and Polina Shuvalova won their first games in the round-of-16. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2330,36 +2346,12 @@ news_feed (
          "title" : "World Cup: Praggnanandhaa holds Vachier-Lagrave to draw in game one"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Nimzo-Indian with 4.f3, a sharp system that has helped White in many games to mate the opponent quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nimzo-indian-with-4-f3",
-         "pubDate" : "Thu, 22 Jul 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Nimzo-Indian with 4.f3"
-      },
-      {
          "description" : "The UK's biggest-ever outdoor chess festival, ChessFest, attracted a total of 6,000 visitors over seven hours for a day of sun, chess and fun at...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chessfest-6000-chess-fans-on-trafalgar-square/",
          "pubDate" : "Thu, 22 Jul 2021 15:43:26 +0000",
          "title" : "ChessFest - 6,000 chess fans on Trafalgar Square"
-      },
-      {
-         "description" : "The International Chess Federation recently announced the FIDE Online Olympiad 2021, to be held between August 13 and September 15. The event will follow a format similar to one used last year, with member Federations being represented by their best players and top juniors. The national teams will compete in rapid chess matches played on six boards.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-announces-online-olympiad-2021",
-         "pubDate" : "Thu, 22 Jul 2021 16:00:00 +0100",
-         "title" : "FIDE announces Online Olympiad 2021"
-      },
-      {
-         "description" : "After half the players returned home and the other half had a rest day before continuing the fight to reach the Candidates Tournament, the World Cup has resumed today with 32 players still going in the open section and 16 players battling it out in the women's category. This seems to be a good time to take stock of what might happen in the next two weeks or so. | Pictured: Bibisara Assaubayeva | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-recap-rest-day-1",
-         "pubDate" : "Thu, 22 Jul 2021 14:45:00 +0100",
-         "title" : "World Cup: A recap after the first rest day"
       },
       {
          "description" : " The 2021 ACT Winter Open starts tomorrow event, as an almost entirely local event. Nonetheless all 64 places have been filled, with a couple of extra players on the waiting list. One pleasing thing is that it has attracted a strong field of local players in the Open section. A couple of players who missed the ACT Championship have also joined in, including FM Michael Kethro, Harry Press and Willis Lo. The Minor (Under 1600) tournament has a field of 44 players, and should provide an interesting clash between promising juniors and experienced tournament players. You can follow the tournament at http://tournaments.streetchess.net/actwinteropen2021/ The top 4 boards should be broadcast live, s",
@@ -2456,14 +2448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/international-chess-day.html",
          "pubDate" : "Tue, 20 Jul 2021 13:38:00 +0000",
          "title" : "International Chess Day"
-      },
-      {
-         "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#8220;Gens una Sumus&#8221; (Latin for &#8220;We are one Family&#8221;). Today, FIDE celebrates the 97th birthday anniversary and the whole World celebrates the International Chess Day! Two years ago, on 12 December 2019, the General Assembly of United Nations&#160;proclaimed&#160;20 July []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-international-chess-day/",
-         "pubDate" : "Tue, 20 Jul 2021 11:20:38 +0000",
-         "title" : "Happy International Chess Day!"
       }
    ]
 }
