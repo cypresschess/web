@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1261",
-         "pubDate" : "Mon, 09 Aug 2021 22:03:28 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021: lists of qualified players"
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo-mit-schrift.1920.png\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by Albert Waaijenberg.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo-mit-schrift.480.png\" alt=\"The CSA logo was created by Albert Waaijenberg.\" srcset=\"https://www.ch",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
+         "pubDate" : "Tue, 10 Aug 2021 04:37:36 +0100",
+         "title" : "Activists gather in new association"
       },
       {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted 6,000 visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. The organisers, Chess in Schools and Communities, say they would like to make ChessFest an annual event. Tim Wall reports. | Photo John Beardsworth",
@@ -48,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
          "pubDate" : "Mon, 09 Aug 2021 15:45:00 +0100",
          "title" : "RTU Open in Riga, Round 1: Live"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo-mit-schrift.1920.jpeg\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by Albert Waaijenberg.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo-mit-schrift.480.jpeg\" alt=\"The CSA logo was created by Albert Waaijenberg.\" srcset=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
-         "pubDate" : "Mon, 09 Aug 2021 15:25:29 +0100",
-         "title" : "Activists gather in new association"
       },
       {
          "description" : "European Women's Individual Chess Championship 2021 has started in Iasi, Romania. All 117 registered participants, coming from 29 different European federations safely arrived to Romania and have been paired for the first round. Starting rank list and pairings Romanian Chess Federation, the Mayor of Iasi Municipality, Mr. Mihai Chirica, and the ECU President, Mr. Zurab Azmaiparashvili hold an&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/\">Read More &#187;</a></span>",
