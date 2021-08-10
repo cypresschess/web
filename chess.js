@@ -127,10 +127,10 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-wins-chessable-masters-2021",
          "pubDate" : "Sun, 08 Aug 2021 19:10:00 -0700",
-         "title" : "Wesley So Clinches Chessable Masters 2021"
+         "title" : "Wesley So Wins Chessable Masters 2021"
       },
       {
-         "description" : " Share! 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala also serves as the African Chess Confederation Vice President discussed the current state of chess given the COVID protocols. There was a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
@@ -2472,14 +2472,6 @@ news_feed (
          "link" : "https://www.chessdom.com/happy-international-chess-day/",
          "pubDate" : "Tue, 20 Jul 2021 11:20:38 +0000",
          "title" : "Happy International Chess Day!"
-      },
-      {
-         "description" : " From the publisher: &#8220;Grandmaster Grivas presents the reader an unique and massive amount of amazing puzzles including their historical background. All the most famous and rare tactical themes are covered, promising the read of the year!&#8221; &#8220;Efstratios Grivas (30.03.1966) is a highly experienced chess trainer and chess author. He has been awarded by the International <a href=\"http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Tactics Bible Magnum Opus</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/20/the-tactics-bib",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/20/the-tactics-bible-magnum-opus/",
-         "pubDate" : "Tue, 20 Jul 2021 00:10:13 +0000",
-         "title" : "The Tactics Bible - Magnum Opus"
       }
    ]
 }
