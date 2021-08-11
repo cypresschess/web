@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "9 players still have a 100% 3.0/3 score at the strong \"Riga Technical University (RTU) Open\". One of them is the number two seed, Nihal Sarin (pictured), who will play with Black against his countryman Arjun Erigasi in round 4. The round begins at 14:00 local time (8:00 ET, 12:00 UTC). Follow the games live. Report after round 3. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Wed, 11 Aug 2021 13:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 4: Live"
+      },
+      {
+         "description" : "After two rounds 16 players share the lead with 2.0/2 at the European Individual Women's Chess Championship, an 11-round Swiss, that takes place in Iasi/Romania. Round 3 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Wed, 11 Aug 2021 13:45:00 +0100",
+         "title" : "European Individual Women's Chess Championship, Round 3 - live!"
+      },
+      {
          "description" : "ECU E-Magazine July 2021 is out! In the July 2021 edition of the ECU E-Magazine you may read about: FIDE World Cup 2021 European Women's Individual Chess Championship 2021 Face-to-face Erasmus+ meeting ECU ChessInSchools ECU General Assembly 2021 European Individual Chess Championship 2021 European Youth Chess Championship 2021 Arbiters corner Legends Questions Fun Zone The ECU Magazine July&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-july-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2290,22 +2306,6 @@ news_feed (
          "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
       },
       {
-         "description" : "In the diagram position, decentralizing White's queen with 20.Qa5? Rxd4 21.Qxa7 looks unhealthy - and runs into a direct refutation. Full score only if you can see it already in this position!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-straying-queen",
-         "pubDate" : "Sat, 24 Jul 2021 09:00:00 +0100",
-         "title" : "The straying queen"
-      },
-      {
-         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Pictured: Andrey Esipenko | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d2",
-         "pubDate" : "Sat, 24 Jul 2021 08:55:00 +0100",
-         "title" : "World Cup: Half and half"
-      },
-      {
          "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2432,22 +2432,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/from-im-to-gm/",
          "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0000",
          "title" : "From International Master to Grandmaster In Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84615737.cms\" />Three Indian Grandmasters remain in contention for the honours in the men's section of the FIDE chess World Cup with focus on teen prodigy R Praggnanandhaa in the fourth-round matches on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-set-for-vachier-lagrave-challenge-in-round-4/articleshow/84615737.cms",
-         "pubDate" : "Wed, 21 Jul 2021 18:21:10 +0530",
-         "title" : "World Cup: Praggnanandhaa set for Vachier-Lagrave challenge in Round 4"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess is making chess beautiful one chess club at a time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Poster-1909-2021-07-21.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> A month ago we invited the chess clubs of the world to apply for a free design facelift by our design team (submit <a href=\"https://x25ugr4ie62.typeform.com/to/yPyN0Idl\">your chess club or federation!</a>). It was an attempt to save the sport from a faceless, boring, and humorless design that has been tormenting chess for decades. After rummaging through the submissions, we found lots of exceptional chess clubs and institutions (many of which, may we add, have excel",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rebranding-hyenas-an-african-club-you-will-actually-want-to-join/",
-         "pubDate" : "Wed, 21 Jul 2021 11:32:07 +0000",
-         "title" : "Rebranding Hyenas - An African Club You Will Actually Want to Join"
       }
    ]
 }
