@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's \"Weekly Show\" IM Lawrence Trent is doing something a little different: he will analyse the first \"Over-the-Board\" game he has played for about 18 months! It is his victory vs Torben Schulenburg from a match between the SK Norderstedt and the Chess Friends Hamburg in the \"Oberliga\", Germany's third league. Lawrence will also talk about the big news such as the Chessable Masters, World Cup winner etc. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-one-of-my-own",
+         "pubDate" : "Wed, 11 Aug 2021 09:28:19 +0100",
+         "title" : "The Weekly Show: One of my own!"
+      },
+      {
+         "description" : "The 66th edition of the Mexican Open took place on August 4-8 in Villahermosa, Tabasco. Seven concurrent tournaments were held, including an International Open and events reserved for women, seniors and amateurs. In the main event, top seed Jorge Cori from Peru was the clear winner. Sandro Mareco (Argentina) and Juan Carlos Obreg&oacute;n (Cuba) finished second and third respectively. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jorge-cori-wins-mexican-open-2021",
+         "pubDate" : "Wed, 11 Aug 2021 08:00:00 +0100",
+         "title" : "Jorge Cori wins Mexican Open"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>US Chess</strong> had its first big meeting since the beginning of the pandemic in Cherry Hill, New Jersey, where Alex Lenderman won the <strong>US Open</strong>, <a href=\"https://en.chessbase.com/post/u-s-open-chess-games-awards-signings-meetings\">many awards were handed out</a>, and the 2021/22 board members were announced. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mike-hoffpauir-leads-us-chess/",
+         "pubDate" : "Wed, 11 Aug 2021 05:13:25 +0100",
+         "title" : "Successful meeting in New Jersey"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While <strong>Schachbundesliga</strong> has yet to complete the season started in 2019 with seven centrally played rounds on 13-17 October in Berlin, the second leagues have wrapped it up during the last week-end with each of the four groups holding two centrally played rounds. The <a href=\"https://www.schachbund.de/spielbetrieb-news/tegel-muenchen-heusenstamm-und-duesseldorf-in-der-1-bundesliga.html\">group winners</a> <strong>D&uuml;sseldorfer SK</strong>, <strong>SC Heusenstamm</strong>, <strong>M&uuml;nchener SC 1836</strong> and <strong>K&ouml;nig Tegel</strong> advance to Bundesliga. The level of the advancing teams and the announcement of <a h",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/germany-completes-the-2019-21/",
+         "pubDate" : "Wed, 11 Aug 2021 04:40:15 +0100",
+         "title" : "Germany completes the 2019-21 season"
+      },
+      {
          "description" : "Grandmaster Aleksandr Lenderman won the U.S. Open with 8&frac12; points out of 9 rounds. Mike Walder annotates Lenderman's wins over Grandmasters Hans Niemann and John Michael Burke. Alexey Root reports on the awards presentations, book signings, and meetings held at the U.S. Open's Cherry Hill, New Jersey site. | Photos: Alexey Root",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "Highlights from Dortmund 2021"
       },
       {
-         "description" : "The duel bishop against knight is often tricky. When defending, the side with the knight often tries to build a fortress to exploit the color blindness of the bishop. In the diagram position Black is a pawn up but built a fortress. However, will it hold? And, if so, how does Black make it last forever?",
+         "description" : "The duel bishop against knight is often tricky. When defending, the side with the knight often tries to build a fortress to exploit the color blindness of the bishop. In the diagram position Black is two pawns down but built a fortress. However, will it hold? And, if so, how does Black make it last forever?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/long-may-it-last",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-8",
          "pubDate" : "Sun, 08 Aug 2021 13:15:00 +0100",
          "title" : "Chessable Masters: So on the attack"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 21st <strong>TCEC</strong> season final is the fourth in a row won by <strong>Stockfish</strong> against <strong>LeelaChess</strong> by 56:44, the biggest margin so far, and the eleventh title overall for the leading open-source engine. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/stockfish-increases-the-margin/",
-         "pubDate" : "Sun, 08 Aug 2021 12:12:49 +0100",
-         "title" : "Stockfish increases the margin"
       },
       {
          "description" : "Wesley So took a huge step towards winning his 3rd event on the Meltwater Champions Chess Tour on Saturday as he defeated Liem Quang Le with a game to spare. Liem fell to eerily similar attacks in both games with the black pieces, while also failing to play on in a promising position with White. The match for 3rd place is all square after Levon Aronian won the first game but Vladislav Artemiev hit back to win on demand in the final game of the day.",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
          "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
          "title" : "Update in the Sicilian Four Knights Variation"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 24-year-old Swiss grandmaster <strong>Noël Studer</strong> cites health issues and unspecified issues with chess organisations as motives <a href=\"https://nextlevelchess.blog/retire-from-competitive-chess/\">for stopping to play competitively</a> after the European Championship and the Swiss League at the end of 2021. He is planning to focus on writing and coaching. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/noel-studer-announces-end-of-career/",
-         "pubDate" : "Fri, 06 Aug 2021 11:02:45 +0100",
-         "title" : "Noël Studer announces end of career"
       },
       {
          "description" : "Jan-Krzysztof Duda has won the 2021 FIDE World Cup after a brilliant win over Sergey Karjakin in the final classical game. The 23-year-old Polish star didn't lose a single game all tournament, with World Champion Magnus Carlsen describing the player who beat him in the semi-finals as a \"richly deserved winner\". Magnus himself wrapped things up in style to take 3rd place by beautifully crushing Vladimir Fedoseev for a second day in a row. He was happy to have won eight classical games and lost none during the event.",
@@ -2274,14 +2290,6 @@ news_feed (
          "title" : "The straying queen"
       },
       {
-         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Pictured: Andrey Esipenko | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d2",
-         "pubDate" : "Sat, 24 Jul 2021 08:55:00 +0100",
-         "title" : "World Cup: Half and half"
-      },
-      {
          "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2312,14 +2320,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-advances-praggnanandhaa-bows-out/articleshow/84685248.cms",
          "pubDate" : "Fri, 23 Jul 2021 22:09:43 +0530",
          "title" : "Chess World Cup: Vidit advances; Praggnanandhaa bows out"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at tactics from the World Cup with the main feature a brilliant attack by Adhiban 'The Beast' Baskaran. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-beast-attacks",
-         "pubDate" : "Fri, 23 Jul 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Beast attacks"
       },
       {
          "description" : " Several top seeds were eliminated while a 10-man Russian phalanx plus five teenagers reached the last 32 in Sochi Magnus Carlsen's serene progress through the early rounds of the $1.9m (&pound;1.38m), 206-player World Cup at Sochi hit a rock in Friday's fourth round, the last 32, when the world champion botched a simple win. After drawing his first game with Radoslaw Wojtaszek on Thursday, Carlsen built up a decisive attack against the Polish No 2's Sicilian Defence only to miss the decisive rook move 25 Rxh7! instead <a href=\"https://www.chessbomb.com/arena/2021-fide-world-cup/04-02-Carlsen_Magnus-Wojtaszek_Radoslaw\">allowing a draw by repeated position</a>. The match now heads at 1-1 for ",
