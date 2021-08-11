@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes a look at a fine attacking game between Wesley So and Le Quang Liem from the finals of the Chessable Masters Online Rapid Tournament, which was won by So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-476-wesley-so-le-quang-liem",
+         "pubDate" : "Wed, 11 Aug 2021 22:48:30 +0100",
+         "title" : "Game of the Week 476: Wesley So - Le Quang Liem"
+      },
+      {
+         "description" : "Do you want to impress your friends with a feat worthy of Beth Harmon from the Netflix series The Queen's Gambit? Then learn how to play chess blindfolded!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/can-you-play-blindfold-chess",
+         "pubDate" : "Wed, 11 Aug 2021 21:27:52 +0000",
+         "title" : "Can you play blindfold chess?"
+      },
+      {
+         "description" : "The Saint Louis Rapid & Blitz is the fourth leg of this year's Grand Chess Tour. Taking place on August 11-15, the event hosts 10 strong players from around the world, including the likes of Fabiano Caruana, Wesley So and Shakhriyar Mamedyarov. Follow the games live starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Wed, 11 Aug 2021 21:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1262",
+         "pubDate" : "Wed, 11 Aug 2021 20:24:27 +0000",
+         "title" : "Rhodes to host World Amateur Championships 2021"
+      },
+      {
          "description" : "GM Sam Sevian won Titled Tuesday on August 10 by a full point with 10/11, ahead of eight players tied for second on 9/11. The tiebreakers worked out in some strong players&#39; favor, as all of the top-four finishers were among the eight highest-rated...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1458,14 +1490,6 @@ news_feed (
          "title" : "Understanding before Moving 38: The Critical Move (1)"
       },
       {
-         "description" : "Wesley So ended day 1 of the Chessable Masters in clear first place on 4/5, with the chasing pack of Vladislav Artemiev, Hikaru Nakamura and Alireza Firouzja half a point back. One of Wesley's wins was from a position where 12-year-old Abhimanyu Mishra looked in complete control, with the world's youngest ever grandmaster impressing a watching Magnus Carlsen despite having only a draw against Humpy Koneru to show for his first day. Levon Aronian and Harikrishna are among the stars who would be knocked out if the prelims ended now.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-day-1-wesley-so-top-mishra-s-baptism-of-fire",
-         "pubDate" : "Sun, 01 Aug 2021 12:55:24 +0000",
-         "title" : "Chessable Masters 1: Wesley So top, Mishra's baptism of fire"
-      },
-      {
          "description" : "GM Wesley So leads the Chessable Masters&#38;nbsp;preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2240,22 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-holds-vasif-durarbayli-in-game-1/articleshow/84737778.cms",
          "pubDate" : "Sun, 25 Jul 2021 22:38:36 +0530",
          "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-37-advantage-in-development-3",
-         "pubDate" : "Sun, 25 Jul 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 37: Advantage in Development (3)"
-      },
-      {
-         "description" : "Two sets of tiebreaker rounds were enough to find a winner in all 12 matches that were played on Saturday at the World Cups in Sochi. The top seeds in both sections moved on to the next round, as Magnus Carlsen and Aleksandra Goryachkina got the better of Radoslaw Wojtaszek and Antoaneta Stefanova, respectively. A big upset was seen in the open, as Serbian GM Velimir Ivic knocked out Dmitry Andreikin. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d3",
-         "pubDate" : "Sun, 25 Jul 2021 14:50:00 +0100",
-         "title" : "World Cup: Ivic stuns Andreikin, Carlsen advances"
       },
       {
          "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
