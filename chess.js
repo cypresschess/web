@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine July 2021 is out! In the July 2021 edition of the ECU E-Magazine you may read about: FIDE World Cup 2021 European Women's Individual Chess Championship 2021 Face-to-face Erasmus+ meeting ECU ChessInSchools ECU General Assembly 2021 European Individual Chess Championship 2021 European Youth Chess Championship 2021 Arbiters corner Legends Questions Fun Zone The ECU Magazine July&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-july-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-magazine-july-2021/",
+         "pubDate" : "Wed, 11 Aug 2021 10:04:08 +0000",
+         "title" : "ECU MAGAZINE JULY 2021"
+      },
+      {
+         "description" : "The Riga Technical University Open is taking place on August 9-15 at the international exhibition centre Kipsala in the Latvian capital. The tournament sees 176 players fighting for a €17,100 prize fund. German GM Alexander Donchenko is the top seed, and is followed closely by nine other 2600+ rated players, including six grandmasters hailing from India. After three rounds, nine players still have a perfect score.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-2021-r3",
+         "pubDate" : "Wed, 11 Aug 2021 10:30:00 +0100",
+         "title" : "RTU Open: A massive turnout"
+      },
+      {
          "description" : "In this week's \"Weekly Show\" IM Lawrence Trent is doing something a little different: he will analyse the first \"Over-the-Board\" game he has played for about 18 months! It is his victory vs Torben Schulenburg from a match between the SK Norderstedt and the Chess Friends Hamburg in the \"Oberliga\", Germany's third league. Lawrence will also talk about the big news such as the Chessable Masters, World Cup winner etc. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-one-of-my-own",
          "pubDate" : "Wed, 11 Aug 2021 09:28:19 +0100",
          "title" : "The Weekly Show: One of my own!"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">FIDE Grand Swiss Tournament 2021</strong> <strong>Individual tournament, <time datetime='2021-10-25' itemprop=\"startDate\">Mon-Mon 25 Oct - 08 Nov 2021</time><br> <span itemprop='location'>Riga</span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a> </div> <strong>News</strong> <ul> <li>28 Jul 2021: <a href=\"https://www.chesstech.org/2021/the-only-top-10-player-left-is/\">The only top 10 player left is Carlsen</a></li> </ul> <div class=\"noprint\"> <hr> <a href=\"https://www.chesstech.org/ics/2021/fide-grand",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "",
+         "pubDate" : "Wed, 11 Aug 2021 08:23:05 +0100",
+         "title" : "FIDE Grand Swiss Tournament 2021"
       },
       {
          "description" : "The 66th edition of the Mexican Open took place on August 4-8 in Villahermosa, Tabasco. Seven concurrent tournaments were held, including an International Open and events reserved for women, seniors and amateurs. In the main event, top seed Jorge Cori from Peru was the clear winner. Sandro Mareco (Argentina) and Juan Carlos Obreg&oacute;n (Cuba) finished second and third respectively. | Photo: Official site",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "NM Ryo Chen Wins 2021 ChessKid Youth Speed Chess Championship"
       },
       {
-         "description" : "23 players started the strong \"Riga Technical University (RTU) Open\" with two wins and now share the lead with 2.0/2. One of them is the number two seed, Nihal Sarin (pictured). Top seed Alexander Donchenko from Germany drew in round two and now has 1.5/2. Round 3 begins at 16:00 local time (10:00 ET, 14:00 UTC). Follow the games live. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Tue, 10 Aug 2021 15:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 3: Live"
-      },
-      {
          "description" : " The Saint Louis Rapid & Blitz takes place 11th to 15th August 2021. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez, Quang Liem Le, Jeffery Xiong, Hikaru Nakamura, Sam Shankland and Peter Svidler. Play starts at 9pm UK time and the final round of the rapid starts at midnight each day. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/census-knight.html",
          "pubDate" : "Tue, 10 Aug 2021 13:44:00 +0000",
          "title" : "Census Knight"
-      },
-      {
-         "description" : "The European Individual Women's Chess Championship, an 11-round Swiss, started yesterday in Iasi/Romania. Top seeds are three players from Georgia: Nino Batsiashvili (2487), who won her first game, Bela Khotenashvili (2471), who drew against Beloslava Krasteva (2243), and Lela Javakhishvili (2470), who also won in round 1. Round 2 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Tue, 10 Aug 2021 13:45:00 +0100",
-         "title" : "European Individual Women's Chess Championship, Round 2 - live!"
       },
       {
          "description" : "",
@@ -194,7 +202,7 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the only player in the <strong>Meltwater Champions Chess Tour</strong> who made it past the preliminary in all events and with real chances to steal the overall tour win from leader <strong>Magnus Carlsen</strong>. The American who declined a start at the World Cup won the <strong>chess24</strong>-hosted <strong>Chessable Masters</strong> in the absence of the World Champion who went to Sochi to gather practice before his title match later this year. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the only player in the <strong>Meltwater Champions Chess Tour</strong> who made it past the preliminary in all events and with real chances to steal the overall tour win from leader <strong>Magnus Carlsen</strong>. The American who declined a start at the World Cup won the <strong>chess24</strong>-hosted <strong>Chessable Masters</strong> in the absence of the World Champion who went to Sochi to gather practice before his title match later this year. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">31 Jul - 08 Aug 2021</span>: <a href=\"https://www.chesstech.org/events/2021/champions-",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/wesley-so-wins-chessable-masters/",
@@ -2290,6 +2298,14 @@ news_feed (
          "title" : "The straying queen"
       },
       {
+         "description" : "Exactly half the matches in both sections were decided on Friday at the World Cups in Sochi. Among those needing to return to the playing hall for Saturday's tiebreaks is world champion Magnus Carlsen, who got a winning position but could not break through against Radoslaw Wojtaszek. | Pictured: Andrey Esipenko | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2021-r4-d2",
+         "pubDate" : "Sat, 24 Jul 2021 08:55:00 +0100",
+         "title" : "World Cup: Half and half"
+      },
+      {
          "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rebranding-hyenas-an-african-club-you-will-actually-want-to-join/",
          "pubDate" : "Wed, 21 Jul 2021 11:32:07 +0000",
          "title" : "Rebranding Hyenas - An African Club You Will Actually Want to Join"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1222",
-         "pubDate" : "Wed, 21 Jul 2021 09:07:24 +0000",
-         "title" : "Players from 40 countries to take part in the International Children and Youth Chess Festival �Rudaga - Kaissa 2021 �"
       }
    ]
 }
