@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Sam Sevian won Titled Tuesday on August 10 by a full point with 10/11, ahead of eight players tied for second on 9/11. The tiebreakers worked out in some strong players&#39; favor, as all of the top-four finishers were among the eight highest-rated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sevian-wins-august-10-titled-tuesday",
+         "pubDate" : "Wed, 11 Aug 2021 10:33:20 -0700",
+         "title" : "Sevian Wins August 10 Titled Tuesday"
+      },
+      {
+         "description" : "Ram S Krishnan of Tamilnadu becomes the Online National Champion after finishing at the pole position with 10 points in the Online National Amateur Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/ram-s-krishnan-nimmy-online-national-amateur-champions/",
+         "pubDate" : "Wed, 11 Aug 2021 16:24:00 +0000",
+         "title" : "Ram S Krishnan & Nimmy online national amateur champions"
+      },
+      {
          "description" : "9 players still have a 100% 3.0/3 score at the strong \"Riga Technical University (RTU) Open\". One of them is the number two seed, Nihal Sarin (pictured), who will play with Black against his countryman Arjun Erigasi in round 4. The round begins at 14:00 local time (8:00 ET, 12:00 UTC). Follow the games live. Report after round 3. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "Announcement - European Youth Chess 2021"
       },
       {
-         "description" : "GM Magnus Carlsen has reached the semifinals of the FIDE World Cup after beating GM Etienne Bacrot twice. He will next play GM Jan-Krzysztof Duda, who defeated GM Vidit Gujrathi on Thursday. GM Vladimir Fedoseev has also qualified as he won agai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-round-6-day-2",
-         "pubDate" : "Fri, 30 Jul 2021 03:31:00 -0700",
-         "title" : "FIDE World Cup R6.2: Carlsen, Duda, Fedoseev Through; Karjakin Strikes Back"
-      },
-      {
          "description" : "Three years ago Vincent Keymer defeated Boris Gelfand at the Isle of Man Open in a sensational game. In round 3 of the Grandmaster Tournament in Biel Gelfand, Vice World Champion 2012, now took a form of revenge and outplayed the young German Grandmaster. In the second decisive game of the round Noel Studer won against Maxime Lagarde. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/",
          "pubDate" : "Wed, 28 Jul 2021 12:00:00 +0000",
          "title" : "How To Prepare Against An Opponent In Chess"
-      },
-      {
-         "description" : "Mritticka Mallick and Samhita Pungavanam won the Individual Gold medals at Asian School Online Championship organized by National Chess Federation of the Philippines at Tornelo",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mritticka-rich-medal-haul-by-indian-girls-at-asian-school-online-championship/",
-         "pubDate" : "Wed, 28 Jul 2021 11:49:27 +0000",
-         "title" : "Mritticka & Samhita clinches Gold; Rich medal haul by Indian girls at Asian School Online Championship"
       },
       {
          "description" : "The 2021 FIDE World Cup in Sochi, Russia has narrowed down the 206 starting participants to just 8 remaining players. Canadian FM Joshua Doknjas analyzes some of the most interesting games from the first half of the event. | Photos: Anastasiia Korolka (FIDE)",
@@ -2282,14 +2282,6 @@ news_feed (
          "title" : "2021 ACT Winter Open - Day 2"
       },
       {
-         "description" : "The main event of the 2021 Biel Chess Festival kicked off on Saturday, as the 8 participants of the Grandmaster Triathlon battled it out at the ACCENTUS Chess960 tournament. While the event did not grant points for the final standings, it decided who will get an extra white in the classical section of the triathlon, and might end up serving as the tiebreaker in case two or more players finish equal in points in the overall standings. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2021-chess-960",
-         "pubDate" : "Sat, 24 Jul 2021 23:10:00 +0100",
-         "title" : "Alekseenko wins Chess960 event in Biel"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2424,14 +2416,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/",
          "pubDate" : "Thu, 22 Jul 2021 00:10:54 +0000",
          "title" : "How to Study Chess on Your Own"
-      },
-      {
-         "description" : " Reaching the Grandmaster (GM) title was a long-standing dream for me. After scoring my first GM-Norm in 2014, I had to wait 3 more years until April 2017 to achieve the Grandmaster title. While the progress until the International Master (IM) title was pretty smooth, the road to the Grandmaster title was really hard. Be [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/from-im-to-gm/\">From International Master to Grandmaster In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/from-im-to-gm/",
-         "pubDate" : "Wed, 21 Jul 2021 18:00:00 +0000",
-         "title" : "From International Master to Grandmaster In Chess"
       }
    ]
 }
