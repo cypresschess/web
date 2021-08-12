@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Date : 03 05 September 2021 Playing Platform : Tornelo Eligibility : Only for players from North-Eastern States Entry Fee : 200/- Online Entry",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/north-eastern-states-online-chess-championship-2021/",
+         "pubDate" : "Thu, 12 Aug 2021 10:18:14 +0000",
+         "title" : "NORTH - EASTERN STATES ONLINE CHESS CHAMPIONSHIP 2021"
+      },
+      {
+         "description" : "All India Chess Federation wishes a very happy birthday to the Chairman of AICF Trainers' Committee evergreen Praveen Thipsay, the multiple time national champion with",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-gm-praveen-thipsay/",
+         "pubDate" : "Thu, 12 Aug 2021 10:05:01 +0000",
+         "title" : "Happy Birthday GM Praveen Thipsay"
+      },
+      {
+         "description" : "Fabiano Caruana and Leinier Dominguez lead the St. Louis Rapid and Blitz after scoring two wins and a draw each on the first day. A pandemic ravaged field for the penultimate event of the 2021 Grand Chess Tour features just three players not based in the USA - Shakhriyar Mamedyarov, Richard Rapport and Peter Svidler - with Peter originally travelling to Saint Louis to work as a commentator.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-1-caruana-and-dominguez-lead",
+         "pubDate" : "Thu, 12 Aug 2021 09:01:45 +0000",
+         "title" : "STL Rapid & Blitz 1: Caruana and Dominguez lead"
+      },
+      {
+         "description" : "Armenian grandmaster Aram Hakobyan (b. 2001) is the only player who has won all his games thus far at the Riga Technical University Open in Latvia. The young Armenian has the black pieces against Indian prodigy Nihal Sarin in round 5. The action begins at 10:00 local time (4:00 ET, 8:00 UTC). Follow the games live. | Photo: World Junior Championship 2018",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Thu, 12 Aug 2021 09:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 5: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1263",
+         "pubDate" : "Thu, 12 Aug 2021 08:36:18 +0000",
+         "title" : "2021 STL Rapid & Blitz: Day 1 Recap"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1259\">has moved</a> the <strong>Grand Swiss</strong> and <strong>Women's Grand Swiss</strong> from the Isle of Man, where UK travel restrictions could have withheld many players from participating, to Riga, where currently <a href=\"https://rtuopen.lv/live-coverage/?lang=en\">a strong open is underway</a>. The dates 25 October - 8 November remain the same as does sponsor <strong>Mark Scheinberg</strong>, who made his fortune in online gambling. The <a href=\"https://www.fide.com/news/1261\">lists of qualified players are published</a>. The top two of each event will qualify for the Candidates Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/grand-swiss-moved-to-riga-due-to-uk/",
+         "pubDate" : "Thu, 12 Aug 2021 08:41:19 +0100",
+         "title" : "Grand Swiss moved to Riga due to UK restrictions"
+      },
+      {
+         "description" : "Please be informed that due to Independence Day , the AICF Delhi office shall remain closed from today i.e 12.08.2021 ,1500 hrs to 15.08.2021.&#160; Office",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-office-closed-till-15-08-2021/",
+         "pubDate" : "Thu, 12 Aug 2021 07:39:01 +0000",
+         "title" : "AICF office closed till 15.08.2021"
+      },
+      {
          "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez (pictured) finished the day sharing the lead on 5/6 points (wins are worth 2 points in the rapid section of the event). Wesley So and Hikaru Nakamura stand a point behind. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/ram-s-krishnan-nimmy-online-national-amateur-champions/",
          "pubDate" : "Wed, 11 Aug 2021 16:24:00 +0000",
          "title" : "Ram S Krishnan & Nimmy online national amateur champions"
-      },
-      {
-         "description" : "After two rounds 16 players share the lead with 2.0/2 at the European Individual Women's Chess Championship, an 11-round Swiss, that takes place in Iasi/Romania. Round 3 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Wed, 11 Aug 2021 13:45:00 +0100",
-         "title" : "European Individual Women's Chess Championship, Round 3 - live!"
       },
       {
          "description" : "ECU E-Magazine July 2021 is out! In the July 2021 edition of the ECU E-Magazine you may read about: FIDE World Cup 2021 European Women's Individual Chess Championship 2021 Face-to-face Erasmus+ meeting ECU ChessInSchools ECU General Assembly 2021 European Individual Chess Championship 2021 European Youth Chess Championship 2021 Arbiters corner Legends Questions Fun Zone The ECU Magazine July&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-july-2021/\">Read More &#187;</a></span>",
@@ -378,7 +426,7 @@ news_feed (
          "title" : "Wesley So Wins Chessable Masters 2021"
       },
       {
-         "description" : " Share! 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!80 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
@@ -512,14 +560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1257",
          "pubDate" : "Sat, 07 Aug 2021 07:46:34 +0000",
          "title" : "Liem clinches final place against So"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"http://chess-results.com/tnr572970.aspx?lan=11&amp;art=2\">round robin of ten Russian grandmasters</a> starts this Saturday at the <strong>Botvinnik Central Chess Club</strong> in Moscow to commemorate the 100th birthday of the seventh world champion <strong>Vasily Smyslov</strong> (1921-2011). The event is run by the litte-known <strong><a href=\"http://acfed.ru/\">Association of Chess Federations</a></strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/a-smyslov-memorial/",
-         "pubDate" : "Sat, 07 Aug 2021 08:18:40 +0100",
-         "title" : "A Smyslov Memorial"
       },
       {
          "description" : "Liem Quang Le survived a dramatic comeback from Levon Aronian to reach the final of the 2021 Chessable Masters after two wins on demand from Levon took their semi-final all the way to Armageddon. Liem's opponent in the final is US Champion Wesley So, who lost the first game of the day to Vladislav Artemiev but hit straight back and then confidently held the draws he needed to clinch the match. Aronian-Artemiev for 3rd place will be a repeat of the previous tour event's final.",
@@ -1394,14 +1434,6 @@ news_feed (
          "title" : "World Cup: Kosteniuk wins rollercoaster game"
       },
       {
-         "description" : "Alexandra Kosteniuk won a rollercoaster game against Aleksandra Goryachkina to put her a draw with the white pieces away from winning the 2021 FIDE Women's World Cup. The first games of both semi-finals in the overall World Cup were drawn, with Jan-Krzysztof Duda finding some nice ideas to hold Magnus Carlsen to a draw with the black pieces. A curiosity of the day was that Fedoseev-Karjakin and the women's 3rd place match Tan Zhongyi-Muzychuk were identical for the first 12 moves, though the balance was never seriously upset in either game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-1-kosteniuk-close-duda-holds-carlsen",
-         "pubDate" : "Mon, 02 Aug 2021 09:07:39 +0000",
-         "title" : "FIDE World Cup 7.1: Kosteniuk close | Duda holds Carlsen"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk grabbed the lead in the Women&#39;s FIDE World Cup final on Sunday by winning a dramatic game vs. GM Aleksandra Goryachkina. GM Tan Zhongyi and GM Anna Muzychuk started their match for third place with a draw. Both games in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1568,14 +1600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-lead-india-in-online-chess-olympiad/articleshow/84925272.cms",
          "pubDate" : "Sat, 31 Jul 2021 20:29:03 +0530",
          "title" : "Anand to lead India in online chess Olympiad"
-      },
-      {
-         "description" : "Five times world Champion Viswanathan Anand will lead the team of India in the second online chess Olympiad scheduled to be held from 8-15 September.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/anand-to-lead-strongest-team-india-in-online-chess-olympiad/",
-         "pubDate" : "Sat, 31 Jul 2021 14:26:28 +0000",
-         "title" : "Anand to lead strongest team India in online Chess Olympiad"
       },
       {
          "description" : " After a break of a few years, the ACTJCL is organising the 2021 ACT Women's and Girls Championships. It will on the weekend of the 11th and 12th of September, and will be a 6 round swiss (3 rounds on each day). There is quite a good prize pool ($500 1st prize) and is open to all female players (not just ACT residents). Entries open tomorrow, and details can be found at <a href=\"https://www.trybooking.com/BSXDI\">https://www.trybooking.com/BSXDI</a> Previous tournaments attracted good fields of between 25 and 40 players, and there has already been a lot of interest in this years event. A number of strong junior players are expected to take part, along with strong active and semi active adult ",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "World Cup: Duda knocks out Vidit"
       },
       {
-         "description" : "Mitrabha Guha (Photo by Shahid Ahmed) International Master Mitrabha Guha of West Bengal crowned as Online National Champion after scoring 10 points of out possible",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mitrabha-crowned-as-national-online-champion-savitha-shri-wins-girls-junior-title/",
-         "pubDate" : "Fri, 30 Jul 2021 07:10:40 +0000",
-         "title" : "Mitrabha crowned as National Online Champion; Savitha Shri wins Girls Junior title"
-      },
-      {
          "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-education-3rd-international-koltanowski-conference",
          "pubDate" : "Thu, 29 Jul 2021 10:00:00 +0100",
          "title" : "Chess in Education: 3rd International Koltanowski Conference"
-      },
-      {
-         "description" : "Vidit drew the first game of his Quarterfinal matchup against Polish No:1, and World No:18 Jan-Krzysztof Duda with the White pieces. Vidit couldn't get much",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-quarter-final-vidit-and-duda-first-match-end-in-deadlock/",
-         "pubDate" : "Thu, 29 Jul 2021 06:31:19 +0000",
-         "title" : "World Cup Quarter Final - Vidit and Duda first match end in deadlock"
       },
       {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 Shankland's [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2408,14 +2416,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-cup.html",
          "pubDate" : "Thu, 22 Jul 2021 12:41:00 +0000",
          "title" : "2021 ACT Winter Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1223",
-         "pubDate" : "Thu, 22 Jul 2021 07:55:52 +0000",
-         "title" : "Liaocheng China celebrates International Chess Day with Grand Chess Cultural Festival"
       }
    ]
 }
