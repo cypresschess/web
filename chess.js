@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez finished the day sharing the lead on 5/6 points. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Thu, 12 Aug 2021 21:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/berlin-2022-chess-grand-prix-host",
+         "pubDate" : "Thu, 12 Aug 2021 13:18:00 -0700",
+         "title" : "Berlin Selected By Chess Community To Host 2022 Grand Prix And Other Events"
+      },
+      {
          "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Understanding before Moving 38: The Critical Move (1)"
       },
       {
-         "description" : "GM Wesley So leads the Chessable Masters&#38;nbsp;preliminaries after the first day of play. GMs Vladislav Artemiev, Alireza Firouzja, and Hikaru Nakamura are trailing by half a point. The eighth leg of the Champions Chess Tour runs until August 8. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chessable-masters-day-1-so-mishra",
-         "pubDate" : "Sun, 01 Aug 2021 03:15:00 -0700",
-         "title" : "Chessable Masters Day 1: So Leads; Tough Start For Mishra"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2258,14 +2266,6 @@ news_feed (
          "title" : "U.S. Championships: Niemann and Wang win, Christiansen and Kaidanov have to play tiebreak"
       },
       {
-         "description" : "The main event at this year's edition of the Biel Chess Festival is the Grandmaster Triathlon, in which eight participants play a mix of classical, rapid and blitz chess. The rapid section was played on Sunday, and saw Gata Kamsky getting clear first place with a 5&frac12;/7 performance. Nihal Sarin and Maxime Lagarde finished second and third respectively. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2021-gata-kamsky-wins-rapid",
-         "pubDate" : "Mon, 26 Jul 2021 09:10:00 +0100",
-         "title" : "Gata Kamsky wins rapid section of the triathlon in Biel"
-      },
-      {
          "description" : "The National Chess Library has arrived safely at its new home in De Montfort University in Leicester. Here is a link to a light-hearted blog...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2416,14 +2416,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/22/world-cup-post-round-3-update.html",
          "pubDate" : "Fri, 23 Jul 2021 00:11:13 +0000",
          "title" : "World Cup, Post-Round 3 Update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1224",
-         "pubDate" : "Thu, 22 Jul 2021 22:18:27 +0000",
-         "title" : "Round 04 Game 01: Wojtaszek holds Carlsen to a draw"
       }
    ]
 }
