@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez (pictured) finished the day sharing the lead on 5/6 points (wins are worth 2 points in the rapid section of the event). Wesley So and Hikaru Nakamura stand a point behind. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 06:30:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Excitement galore"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 1 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.11<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FzJgbVvEsL4.jpg?itok=i_-LWxVj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Can you play blindfold chess?"
       },
       {
-         "description" : "The Saint Louis Rapid & Blitz is the fourth leg of this year's Grand Chess Tour. Taking place on August 11-15, the event hosts 10 strong players from around the world, including the likes of Fabiano Caruana, Wesley So and Shakhriyar Mamedyarov. Follow the games live starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Wed, 11 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://aicf.in/ram-s-krishnan-nimmy-online-national-amateur-champions/",
          "pubDate" : "Wed, 11 Aug 2021 16:24:00 +0000",
          "title" : "Ram S Krishnan & Nimmy online national amateur champions"
-      },
-      {
-         "description" : "9 players still have a 100% 3.0/3 score at the strong \"Riga Technical University (RTU) Open\". One of them is the number two seed, Nihal Sarin (pictured), who will play with Black against his countryman Arjun Erigasi in round 4. The round begins at 14:00 local time (8:00 ET, 12:00 UTC). Follow the games live. Report after round 3. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Wed, 11 Aug 2021 13:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 4: Live"
       },
       {
          "description" : "After two rounds 16 players share the lead with 2.0/2 at the European Individual Women's Chess Championship, an 11-round Swiss, that takes place in Iasi/Romania. Round 3 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
@@ -2264,6 +2256,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-holds-vasif-durarbayli-in-game-1/articleshow/84737778.cms",
          "pubDate" : "Sun, 25 Jul 2021 22:38:36 +0530",
          "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-37-advantage-in-development-3",
+         "pubDate" : "Sun, 25 Jul 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 37: Advantage in Development (3)"
       },
       {
          "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
