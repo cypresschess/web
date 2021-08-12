@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 1 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.11<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FzJgbVvEsL4.jpg?itok=i_-LWxVj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Hikaru Nakamura Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 1 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.11<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WryOyNNlLbc.jpg?itok=5xPg4prw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So after Day 1 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.11<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-wesley-so-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UWc80B88Sg8.jpg?itok=Csd80acq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-wesley-so-interview-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Wesley So Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez after Day 1 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.11<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-leinier-dominguez-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ke2S2uGANU0.jpg?itok=0KchzgBJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-leinier-dominguez-interview-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Leinier Dominguez Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-1",
+         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Day 1"
+      },
+      {
+         "description" : "The Saint Louis Rapid and Blitz leg of the 2021 Grand Chess Tour produced many surprises even before the first move was played. Four of the regular participants of the tour, GMs Anish Giri, Levon Aronian, Teimour Radjabov, and Alexander Grischuk d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-1",
+         "pubDate" : "Wed, 11 Aug 2021 19:06:00 -0700",
+         "title" : "Saint Louis Rapid & Blitz Day 1: Caruana And Dominguez Take Lead"
+      },
+      {
          "description" : "This week, Merijn van Delft takes a look at a fine attacking game between Wesley So and Le Quang Liem from the finals of the Chessable Masters Online Rapid Tournament, which was won by So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -842,22 +890,6 @@ news_feed (
          "title" : "Time to Say Dubai: a Slogan, a Tweet, a Towel"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 05 Aug 2021 02:08:47 +0000",
-         "title" : "McShane Slays Aronian, 2012 Tal Memorial | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.08.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/09JqE4jUAvU.jpg?itok=R_9IBKVA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 04 Aug 2021 23:08:40 +0000",
-         "title" : "Aronian! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,30 +1064,6 @@ news_feed (
          "link" : "https://aicf.in/registration-for-asian-womens-online-chess-championship-2021/",
          "pubDate" : "Wed, 04 Aug 2021 03:27:08 +0000",
          "title" : "Registration for Asian Women's Online Chess Championship 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby profiles Magnus Carlsen at the 2021 Chess World Cup, specifically Magnus \"breaking\" against up-and-coming stars Esipenko and Duda. The mysterious masked Caleb analyzes two of Magnus Carlsen's losses from the huge knockout tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 04 Aug 2021 02:06:44 +0000",
-         "title" : "Carlsen's Chaotic World Cup | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski grinds down a rook and pawn vs. bishop endgame. The mysterious masked Robert shows how to train your endgames to refine your strategic understanding. 2021.08.03<br /> Jose Fernandez Garcia vs. Sam Shankland, 2012<br /> <a href=\"https://www.365chess.com/game.php?gid=3822281\">https://www.365chess.com/game.php?gid=3822281</a><br /> Ricardo Lopez vs. Robert Hungaski, 2016<br /> <a href=\"http://overchess.com/chessplayers/chessgames-of-ricardo-lopez-101940\">http://overchess.com/chessplayers/chessgames-of-ricardo-lopez-101940</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/think-endgame-2-now-its-personal-insane-endgame-gm-robert-hungaski",
-         "pubDate" : "Wed, 04 Aug 2021 02:06:44 +0000",
-         "title" : "THINK in the Endgame 2: Now It's Personal | Insane in the Endgame - GM Robert Hungaski"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.08.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ScPUGfNmaIA.jpg?itok=um9H6Eev\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-chaotic-world-cup-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 03 Aug 2021 23:06:41 +0000",
-         "title" : "Carlsen's Chaotic World Cup | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "GM Haik Martirosyan defeated GM Arjun Erigaisi&#38;nbsp;in the Tuesday quarterfinal of the Junior Speed Chess Championship presented by ChessKid with a 15.5-13.5 score. Martirosyan consistently held early leads in each section and held off several str...",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/54th-biel-chess-festival-2021",
          "pubDate" : "Sat, 31 Jul 2021 15:36:00 +0400",
          "title" : "54th Biel Chess Festival 2021 - Games and Results"
-      },
-      {
-         "description" : "Again coming back from a one-point deficit in the rapid, GM Sergey Karjakin eventually knocked GM Sam Shankland out of the FIDE World Cup on Friday. Karjakin will now play GM Vladimir Fedoseev, which means a Russian player is guaranteed for the fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreaks-karjakin-shankland",
-         "pubDate" : "Sat, 31 Jul 2021 03:26:00 -0700",
-         "title" : "FIDE World Cup R6.3: Karjakin, Goryachkina, Kosteniuk Through"
       },
       {
          "description" : "Emanuel Lasker, World Chess Champion from 1894-1921, once asserted that lies and hypocrisy do not survive long on the chessboard. Maybe not on, but I fear they are increasingly patrolling the perimeters. In a previous column, I demonstrated the familiarity with chess of the German genius, Johann Wolfgang von Goethe (1749-1832). He is the author of []",
@@ -2416,14 +2416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1223",
          "pubDate" : "Thu, 22 Jul 2021 07:55:52 +0000",
          "title" : "Liaocheng China celebrates International Chess Day with Grand Chess Cultural Festival"
-      },
-      {
-         "description" : " From the publisher: &#8220;Every chess player wants to improve, but many, if not most, lack the tools or the discipline to study in a structured and effective way. With so much material on offer, the eternal question is: &#8220;&#8221;How can I study chess without wasting my time and energy?&#8221;&#8221; Davorin Kuljasevic provides the full and <a href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">How to Study Chess on Your Own</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/\">How to Study Ches",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/22/how-to-study-chess-on-your-own/",
-         "pubDate" : "Thu, 22 Jul 2021 00:10:54 +0000",
-         "title" : "How to Study Chess on Your Own"
       }
    ]
 }
