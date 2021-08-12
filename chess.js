@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/youth-chess-composing-challenge",
+         "pubDate" : "Thu, 12 Aug 2021 20:27:19 +0100",
+         "title" : "Youth Chess Composing Challenge"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a fascinating game in which Black tried new ways in the Queen's Gambit Declined - which led to a little brilliancy. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-direction-in-the-queen-s-gambit-declined",
+         "pubDate" : "Thu, 12 Aug 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A new direction in the Queen's Gambit Declined"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three <strong>Grand Prix</strong> tournaments, that will decide the last two participants of the Candidates Tournament, are to be held in Berlin in February to April 2022. The German capital drew 16% of the popular vote, outnumbering Sao Paolo and London. The <a href=\"https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/\">series is organised</a> by <strong>World Chess</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/berlin-elected-by-popular-vote-to/",
+         "pubDate" : "Thu, 12 Aug 2021 17:23:30 +0100",
+         "title" : "Berlin elected by popular vote to host Grand Prix"
+      },
+      {
          "description" : "After five of nine rounds five players with 4.5/5 each share the lead at the strong Riga Technical University Open in Latvia. Round 6 begins at 16:00 CEST (10:00 ET, 12:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,14 +368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-to-be-held-in-Riga",
          "pubDate" : "Tue, 10 Aug 2021 09:40:00 +0100",
          "title" : "Grand Swiss tournaments to be held in Riga"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Independent activists from Austria, Germany and Switzerland have launched the <strong>Chess Sports Association</strong> to promote and develop chess in connection with other sports, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/csa-logo-mit-schrift.1920.png\" title=\"The CSA logo was created by Albert Waaijenberg. \" data-title=\"The CSA logo was created by Albert Waaijenberg.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/csa-logo-mit-schrift.480.png\" alt=\"The CSA logo was created by Albert Waaijenberg.\" srcset=\"https://www.ch",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-association-links-activists/",
-         "pubDate" : "Tue, 10 Aug 2021 07:56:36 +0100",
-         "title" : "Activists gather in new association"
       },
       {
          "description" : "",
@@ -2266,14 +2282,6 @@ news_feed (
          "title" : "Hans Niemann and Annie Wang win 2021 U.S. Junior Championships"
       },
       {
-         "description" : "Day 1 of the fifth round at the World Cups in Sochi saw Haik Martirosyan and Alexandra Kosteniuk (pictured) getting off to winning starts in their matches, as they beat Amin Tabatabaei and Valentina Gunina respectively. The remaining 7 matches in the open section and 3 matches in the women's category finished drawn. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d1",
-         "pubDate" : "Mon, 26 Jul 2021 01:35:00 +0100",
-         "title" : "World Cup: Wins for Kosteniuk and Martirosyan"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2416,22 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1224",
          "pubDate" : "Thu, 22 Jul 2021 22:18:27 +0000",
          "title" : "Round 04 Game 01: Wojtaszek holds Carlsen to a draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84653691.cms\" />Young Indian Grandmaster R Praggnanandhaa held highly-rated Frenchman Maxime Vachier-Lagrave in the first game of the two-game mini-match in the men's fourth round of the FIDE chess World Cup here on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-r-praggnanandhaa-holds-maxime-vachier-lagrave-to-draw-in-game-one-vidit-gujrathi-wins/articleshow/84653691.cms",
-         "pubDate" : "Thu, 22 Jul 2021 22:34:59 +0530",
-         "title" : "World Cup: Praggnanandhaa holds Vachier-Lagrave to draw in game one"
-      },
-      {
-         "description" : "The UK's biggest-ever outdoor chess festival, ChessFest, attracted a total of 6,000 visitors over seven hours for a day of sun, chess and fun at...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-6000-chess-fans-on-trafalgar-square/",
-         "pubDate" : "Thu, 22 Jul 2021 15:43:26 +0000",
-         "title" : "ChessFest - 6,000 chess fans on Trafalgar Square"
       }
    ]
 }
