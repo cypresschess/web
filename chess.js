@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five of nine rounds five players with 4.5/5 each share the lead at the strong Riga Technical University Open in Latvia. Round 6 begins at 16:00 CEST (10:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Thu, 12 Aug 2021 15:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 6: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1264",
+         "pubDate" : "Thu, 12 Aug 2021 14:23:12 +0000",
+         "title" : "Berlin Wins Popular Vote; Will Host the Next Grand Prix Series and Other Events in 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">Berlin, the capital of Germany, will be the main host of the 2022 Grand Prix Series. The Series, a part of the World Chess Championship circuit, will run from February to April in a bespoke-designed chess arena. The city was chosen by World Chess, the gaming company that organizes the Series in partnership with FIDE, as well as by chess fans from around the world. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> In a survey conducted over two weeks, chess players, organizers, and federations were asked to suggest a city to host the prestigious series, and Berlin emerged as a clear favorite with ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/",
+         "pubDate" : "Thu, 12 Aug 2021 14:14:32 +0000",
+         "title" : "Berlin Wins Popular Vote; Will Host the Next Grand Prix Series and Other Events in 2022"
+      },
+      {
+         "description" : "After three rounds five players with 3.0/3 each share the lead at the European Individual Chess Championship, an 11-round Swiss that takes place in Iasi/Romania: Nino Batsiashvili (Georgia), Gunay Mammadzada (Azerbaijan), Elina Danielian (Armenia), Jolanta Zawadzka (Poland) and Irina Bulmaga (Romania). Round 4 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Thu, 12 Aug 2021 13:45:00 +0100",
+         "title" : "European Individual Women's Chess Championship, Round 4 - live!"
+      },
+      {
+         "description" : " Despite the many pointed barbs directed at the Socialist Republic of Canberra, we (both the government and community) have done very well at handling the Covid pandemic. However this good run has come to an end, with a Covid case being confirmed today. As a consequence the ACT is in lockdown for the next 7 days, which means a number of chess events have been cancelled or postponed. A non comprehensive list includes <ul style=\"text-align: left;\"><li>Tuggeranong, Canberra and Gungahlin Chess clubs will not meet next week</li><li>Street Chess will not run on Saturday 14 August 2021.</li><li>School coaching programs will not run for 7 days (due to schools being closed)</li><li>The 2021 ACT Seco",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/canberra-in-lockdown-12-august-2021.html",
+         "pubDate" : "Thu, 12 Aug 2021 11:37:00 +0000",
+         "title" : "Canberra in lockdown - 12 August 2021"
+      },
+      {
          "description" : "Date : 03 05 September 2021 Playing Platform : Tornelo Eligibility : Only for players from North-Eastern States Entry Fee : 200/- Online Entry",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-1-caruana-and-dominguez-lead",
          "pubDate" : "Thu, 12 Aug 2021 09:01:45 +0000",
          "title" : "STL Rapid & Blitz 1: Caruana and Dominguez lead"
-      },
-      {
-         "description" : "Armenian grandmaster Aram Hakobyan (b. 2001) is the only player who has won all his games thus far at the Riga Technical University Open in Latvia. The young Armenian has the black pieces against Indian prodigy Nihal Sarin in round 5. The action begins at 10:00 local time (4:00 ET, 8:00 UTC). Follow the games live. | Photo: World Junior Championship 2018",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Thu, 12 Aug 2021 09:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 5: Live"
       },
       {
          "description" : "",
@@ -106,12 +138,12 @@ news_feed (
          "title" : "2021 Saint Louis Rapid & Blitz: Day 1"
       },
       {
-         "description" : "The Saint Louis Rapid and Blitz leg of the 2021 Grand Chess Tour produced many surprises even before the first move was played. Four of the regular participants of the tour, GMs Anish Giri, Levon Aronian, Teimour Radjabov, and Alexander Grischuk d...",
+         "description" : "The Saint Louis Rapid and Blitz leg of the 2021 Grand Chess Tour produced many surprises even before the first move was played. Four of the regular participants of the tour, GMs Anish Giri, Levon Aronian, Teimour Radjabov, and Alexander Grischuk, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-1",
          "pubDate" : "Wed, 11 Aug 2021 19:06:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 1: Caruana And Dominguez Take Lead"
+         "title" : "Saint Louis Rapid & Blitz Day 1: Caruana, Dominguez Take Lead"
       },
       {
          "description" : "This week, Merijn van Delft takes a look at a fine attacking game between Wesley So and Le Quang Liem from the finals of the Chessable Masters Online Rapid Tournament, which was won by So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2266,14 +2298,6 @@ news_feed (
          "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 37th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is so important to develop one's pieces as soon as possible. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-37-advantage-in-development-3",
-         "pubDate" : "Sun, 25 Jul 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 37: Advantage in Development (3)"
-      },
-      {
          "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2408,14 +2432,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-6000-chess-fans-on-trafalgar-square/",
          "pubDate" : "Thu, 22 Jul 2021 15:43:26 +0000",
          "title" : "ChessFest - 6,000 chess fans on Trafalgar Square"
-      },
-      {
-         "description" : " The 2021 ACT Winter Open starts tomorrow event, as an almost entirely local event. Nonetheless all 64 places have been filled, with a couple of extra players on the waiting list. One pleasing thing is that it has attracted a strong field of local players in the Open section. A couple of players who missed the ACT Championship have also joined in, including FM Michael Kethro, Harry Press and Willis Lo. The Minor (Under 1600) tournament has a field of 44 players, and should provide an interesting clash between promising juniors and experienced tournament players. You can follow the tournament at http://tournaments.streetchess.net/actwinteropen2021/ The top 4 boards should be broadcast live, s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-cup.html",
-         "pubDate" : "Thu, 22 Jul 2021 12:41:00 +0000",
-         "title" : "2021 ACT Winter Cup"
       }
    ]
 }
