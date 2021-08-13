@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Popular 60-year-old grandmaster's eighth-round defeat is overturned while England's No 1, Michael Adams, halves with 10-year-old from Scotland Keith Arkell became online British champion at age 60 in controversial circumstances last weekend when the popular grandmaster from Paignton, Devon, scored 7.5/9 in the nine-day contest to finish a full point clear of GMs Michael Adams and Bogdan Lalic, with the England No 1 and defending champion taking second place on tie-break. Mohammed Ismail, the under-16 champion, was fourth. Victory had seemed remote a day before the finish when Arkell, the 2008 English champion and author of Arkell's Odyssey and Arkell's Endings, was defeated in round eight. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/aug/13/chess-keith-arkell-captures-online-british-title-after-rival-is-disqualified",
+         "pubDate" : "Fri, 13 Aug 2021 07:00:23 +0000",
+         "title" : "Chess: Keith Arkell captures online British title after rival is disqualified"
+      },
+      {
+         "description" : "16-year-old Vincent Keymer leads on 3.5/4 after Day 1 of the Kramnik Challenge, half a point ahead of Christopher Yoo, Awonder Liang and Nodirbek Abdusattorov. Vincent's only draw was in fact a great escape from a seemingly hopeless position against Polina Shuvalova, and a good day for the female participants saw Sarasadat Khademalsharieh, Lei Tingjie and Dinara Saduakassova all finish on a plus score, just a point behind Keymer.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-challenge-1-keymer-grabs-the-early-lead",
+         "pubDate" : "Fri, 13 Aug 2021 06:50:35 +0000",
+         "title" : "Kramnik Challenge 1: Keymer grabs the early lead"
+      },
+      {
+         "description" : " Last week, we looked at creating simple combinations, and examining some basic ideas that help you set your tactics up. I highly recommend that you invest in some tactics oriented computer apps/software programs, especially those that have two and three move combination problems or puzzles yo solve. You will greatly improve your tactical skills by <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\">A Foundation for Beginners Thirty</a> appeared first on <a rel=\"nofo",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty/",
+         "pubDate" : "Fri, 13 Aug 2021 06:20:17 +0000",
+         "title" : "A Foundation for Beginners Thirty"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three <strong>Grand Prix</strong> tournaments, that will decide the last two participants of the Candidates Tournament, are to be held in Berlin in February to April 2022. The German capital drew 16% of the popular vote, outnumbering São Paulo and London. The <a href=\"https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/\">series is organised</a> by <strong>World Chess</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/berlin-elected-by-popular-vote-to/",
+         "pubDate" : "Fri, 13 Aug 2021 06:44:06 +0100",
+         "title" : "Berlin elected by popular vote to host Grand Prix"
+      },
+      {
          "description" : "GM Fabiano Caruana grabbed sole first place after a topsy-turvy day, after answering a round four loss with two consecutive wins. GM Hikaru Nakamura showed his defensive skills to stay within striking distance in second place, while GM Sam Shankla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-direction-in-the-queen-s-gambit-declined",
          "pubDate" : "Thu, 12 Aug 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A new direction in the Queen's Gambit Declined"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three <strong>Grand Prix</strong> tournaments, that will decide the last two participants of the Candidates Tournament, are to be held in Berlin in February to April 2022. The German capital drew 16% of the popular vote, outnumbering Sao Paolo and London. The <a href=\"https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/\">series is organised</a> by <strong>World Chess</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/berlin-elected-by-popular-vote-to/",
-         "pubDate" : "Thu, 12 Aug 2021 17:23:30 +0100",
-         "title" : "Berlin elected by popular vote to host Grand Prix"
       },
       {
          "description" : "After five of nine rounds five players with 4.5/5 each share the lead at the strong Riga Technical University Open in Latvia. Round 6 begins at 16:00 CEST (10:00 ET, 12:00 UTC). Follow the games live.",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "GM Fabiano Caruana Joins Chess.com World Championship Commentary Team"
       },
       {
-         "description" : "Wesley So still leads the Chessable Masters after Day 2, but he's now followed just half a point behind by Levon Aronian, who stormed up from 10th place to 2nd after scoring 4.5/5. Liem Quang Le is level with Levon after scoring the day's second best score of 4/5, while Shakhriyar Mamedyarov played some spectacular chess on the way to scoring 3.5/5 and climbing from 9th to 5th. Of course for some to climb others must fall, and David Anton plunged from 6th to 13th after failing to score any points on Day 2.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-2-levon-s-perfect-day",
-         "pubDate" : "Mon, 02 Aug 2021 14:15:15 +0000",
-         "title" : "Chessable Masters 2: Levon's perfect day"
-      },
-      {
          "description" : " <p class=\"lead\">New features and updates for the <a href=\"https://arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Number of people waiting to get paired</h2> Arena is a new but growing platform, and the number of users is increasing every day, and the wait to be paired has gone down dramatically, to less than 5 seconds in most cases. We've added a very useful indicator on the front page - number of people who are waiting for an opponent. To start a new game, you can choose a time control and type of rating (unrated, or FIDE-rated), or click on the list of players who are wai",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2312,14 +2328,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-win-for-press.html",
          "pubDate" : "Sun, 25 Jul 2021 12:47:00 +0000",
          "title" : "2021 ACT Winter Open - Win for Press "
-      },
-      {
-         "description" : " I missed a tactical opportunity in a recent online training game against a pupil. I had black in this position. I played 21.. Rad8 without thinking too much, when I should have preferred 21.. Bh3!. The point is that the immediate Be5 would be met with g3, so Black wants to deflect the g-pawn first: <a href=\"https://chessimprover.com/missed-opportunity/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missed Opportunity\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missed-opportunity/\">Missed Opportunity</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/missed-opportunity/",
-         "pubDate" : "Sun, 25 Jul 2021 09:02:35 +0000",
-         "title" : "Missed Opportunity"
       },
       {
          "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
