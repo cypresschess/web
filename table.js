@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-08-12","2","<a href=http://www.uschess.org/msa/XtblMain.php?202108129062 target=' blank'>THURSQUADS2510</a>",
 "HOUSTON","2021-08-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108087812 target=' blank'>AUG SUNDAY SWISS  88</a>",
 "SPRING","2021-08-06","24","<a href=http://www.uschess.org/msa/XtblMain.php?202108066942 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target=' blank'>FBCC HOT AUGUST NIGHT 2021</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-05-23","22","<a href=http://www.uschess.org/msa/XtblMain.php?202005235162 target=' blank'>SR CHESSKNIGHTS 05232020</a>",
 "TOMBALL","2020-05-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202005224002 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-05-16","24","<a href=http://www.uschess.org/msa/XtblMain.php?202005165032 target=' blank'>SR CHESSKNIGHTS 05162020</a>",
-"KATY","2020-05-16","11","<a href=http://www.uschess.org/msa/XtblMain.php?202005163192 target=' blank'>GREAT WHITES MAY 2020- ONLINE-1</a>",
 ]);
