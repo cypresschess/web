@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence and Arne predict the winners of the Kramnik Challenge, RTU, St. Louis Rapid, and the EIWCC. While doing so, they start philosophizing about how many professional chess players actually love their job. While the elite players can mostly make a living, if they win many chess games in tournaments, thousands of GM's have to struggle their way through chess life. Or not? Is chess a sport so far away from golf or football, that they shouldn't even be compared with each other at all? This, and other interesting topics, are being discussed in the last episode of August. \"ChessBase News Review\" will continue in September.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess",
+         "pubDate" : "Fri, 13 Aug 2021 17:00:00 +0100",
+         "title" : "News Review - How many professional chess players enjoy playing chess?"
+      },
+      {
+         "description" : "In this Power Play Show, GM Daniel King takes a look at two wins by Wesley So featuring the same crushing sacrifice, in the same opening, against the same opponent. Apparently lightning does strike twice. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-lightning-strikes-twice-a-deadly-sac-you-need-to-see",
+         "pubDate" : "Fri, 13 Aug 2021 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Lightning strikes twice - a deadly sac you need to see"
+      },
+      {
+         "description" : "Fabiano Caruana climbed to sole first place at the Saint Louis Rapid and Blitz Tournament after bouncing back from a loss against Sam Shankland with back-to-back victories over Leinier Dominguez and Wesley So on Thursday. Hikaru Nakamura is in sole second place after drawing all three of his games on day 2. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-2",
+         "pubDate" : "Fri, 13 Aug 2021 16:35:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Caruana beats Dominguez and So, leads"
+      },
+      {
+         "description" : "Fabiano Caruana ended Day 2 of the St. Louis Rapid and Blitz as the sole leader, despite beginning the day by suffering a heavy loss to an inspired Sam Shankland, who then went on to crush Shakhriyar Mamedyarov. Fabiano beat and leapfrogged leader Leinier Dominguez in the second round of the day, before becoming the beneficiary of a huge blunder by Wesley So in Round 6. It was a strange day when even relative outsiders such as Jeffery Xiong and Liem Quang Le missed great chances to pick up wins.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-caruana-recovers-from-shankland-blow",
+         "pubDate" : "Fri, 13 Aug 2021 15:15:58 +0000",
+         "title" : "STL Rapid & Blitz 2: Caruana recovers from Shankland blow"
+      },
+      {
+         "description" : "After six of nine rounds seven players with 5.0/6 each share the lead at the strong Riga Technical University Open in Latvia - five of them are U20, four of them come from India! Round 7 begins at 14:00 CEST (8:00 ET, 14:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Fri, 13 Aug 2021 13:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 7: Live"
+      },
+      {
+         "description" : "After winning in round four against against Nino Batsiashvili from Georgia, the Romanian IM Irina Bulmaga is the only player at the European Women's Individual Championship who still has a 4.0/4 100% score. Round 5 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Fri, 13 Aug 2021 13:45:00 +0100",
+         "title" : "European Individual Women's Chess Championship, Round 5 - live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85301520.cms\" />Indian Grandmaster Vidit Gujrathi has qualified for the FIDE Grand Swiss league which will be held in Riga, Latvia from October 25 to November 8. The Nashik-based player has also qualified for the FIDE Grand Prix 2022 after reaching the top eight at the recently-concluded Chess World Cup 2021.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-vidit-gujrathi-qualifies-for-fide-grand-swiss-league/articleshow/85301520.cms",
+         "pubDate" : "Fri, 13 Aug 2021 17:36:39 +0530",
+         "title" : "Indian GM Vidit Gujrathi qualifies for FIDE Grand Swiss League"
+      },
+      {
          "description" : "Berlin, the capital of Germany, will be the main host of the 2022 Grand Prix Series. The Series, a part of the World Chess Championship circuit, will run from February to April in a bespoke-designed chess arena. The city was chosen by World Chess, the gaming company that organizes the Series in partnership with FIDE, as well as by chess fans from around the world. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-2-lichessorg",
          "pubDate" : "Thu, 12 Aug 2021 23:16:42 +0000",
          "title" : "2021 Saint Louis Rapid & Blitz: Day 2 | lichess.org"
-      },
-      {
-         "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez finished the day sharing the lead on 5/6 points. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Thu, 12 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Day 2"
       },
       {
          "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
@@ -354,7 +402,7 @@ news_feed (
          "title" : "The Weekly Show: One of my own!"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">FIDE Grand Swiss Tournament 2021</strong> <strong>Individual tournament, <time datetime='2021-10-25' itemprop=\"startDate\">Mon-Mon 25 Oct - 08 Nov 2021</time><br> <span itemprop='location'>Riga</span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a> </div> <strong>News</strong> <ul> <li>28 Jul 2021: <a href=\"https://www.chesstech.org/2021/the-only-top-10-player-left-is/\">The only top 10 player left is Carlsen</a></li> </ul> <div class=\"noprint\"> <hr> <a href=\"https://www.chesstech.org/ics/2021/fide-grand",
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">FIDE Grand Swiss Tournament 2021</strong> <strong>Individual tournament, <time datetime='2021-10-25' itemprop=\"startDate\">Mon-Mon 25 Oct - 08 Nov 2021</time><br> <span itemprop='location'>Riga</span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a> </div> <strong>News</strong> <ul> <li>12 Aug 2021: <a href=\"https://www.chesstech.org/2021/grand-swiss-moved-to-riga-due-to-uk/\">Grand Swiss moved to Riga due to UK restrictions</a></li> <li>28 Jul 2021: <a href=\"https://www.chesstech.org/2021/the-only-top-10",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "",
@@ -1111,7 +1159,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-draws-final-round-game-finishes-in-overall-third-place/articleshow/85046726.cms",
          "pubDate" : "Wed, 04 Aug 2021 22:32:52 +0530",
-         "title" : "Biel Chess festival: Nihal Sarin draws final round game; finishes in overall third place"
+         "title" : "Biel festival: Nihal draws final round game; finishes in overall third place"
       },
       {
          "description" : "This week, Merijn van Delft takes a close look at the game Luis Engel against Rasmus Svane, which was played at the German Masters and in which the young German Grandmaster Engel shows his attacking and his tactical skills. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1368,14 +1416,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/",
          "pubDate" : "Tue, 03 Aug 2021 09:30:18 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\""
-      },
-      {
-         "description" : "Alexandra Kosteniuk is the 2021 FIDE Women's World Cup Champion after offering a draw in a winning position to clinch victory against Aleksandra Goryachkina. Her feat of winning the title without needing tiebreaks once was a repeat of how she won the Women's World Championship in 2008, while the 43 rating points she picked up took her back into the women's Top 10. Elsewhere Sergey Karjakin reached the final and booked a spot in the Candidates after an opening disaster for Vladimir Fedoseev, while Magnus Carlsen and Jan-Krzysztof Duda will play tiebreaks on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-2-kosteniuk-is-world-cup-champion",
-         "pubDate" : "Tue, 03 Aug 2021 08:29:20 +0000",
-         "title" : "FIDE World Cup 7.2: Kosteniuk is World Cup Champion"
       },
       {
          "description" : "GM Alexandra Kosteniuk won the Women&#39;s FIDE World Cup final on Monday after drawing her second game vs. GM Aleksandra Goryachkina. GM Sergey Karjakin defeated GM Vladimir Fedoseev to qualify for both the World Cup final and the 2022 FIDE Candidate...",
@@ -2226,28 +2266,12 @@ news_feed (
          "title" : "DMR election results!"
       },
       {
-         "description" : "Endgames with opposite coloured bishops have drawish tendencies but are also full of surprising tactics. In the diagram position White is a pawn up but Black's bishop seems to have the pawns on the kingside under control. However, White has a way to make his pawns really powerful. What can he do, how can he win?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/powerful-pawns-2",
-         "pubDate" : "Tue, 27 Jul 2021 09:00:00 +0100",
-         "title" : "Powerful pawns"
-      },
-      {
          "description" : "The European Chess Union and US-based Chess in Schools Announce a Cooperative Agreement to Develop Chess in Education in the United States Download the Press Release [Tuscaloosa, Alabama] - Chess in Schools (CIS) is pleased to announce a cooperative agreement with the European Chess Union (ECU) supporting Chess in Education (CIE) in the United States. Under the agreement,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-cis-us-press-release/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-cis-us-press-release/",
          "pubDate" : "Tue, 27 Jul 2021 06:30:07 +0000",
          "title" : "ECU - CIS.US - Press release"
-      },
-      {
-         "description" : "In the open section of the World Cup, 2 players secured a spot in the quarterfinals on Monday, as Sam Shankland (pictured) and Vidit Gujrathi knocked out Peter Svidler and Vasif Durarbayli. Meanwhile, in the women's tournament, Aleksandra Goryachkina, Tan Zhongyi and Alexandra Kosteniuk made it to the semifinals. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d2",
-         "pubDate" : "Tue, 27 Jul 2021 03:50:00 +0100",
-         "title" : "World Cup: Shankland and Vidit go through"
       },
       {
          "description" : " From the publisher: &#8220;Goethe once wrote, &#8220;Everything is both simpler than we can imagine, and more complicated than we can conceive.&#8221; He could well have had chess endgames in mind. Endgames have fewer pieces on the board than middlegames but this does not necessarily make them &#8220;easier&#8221; to play or understand. Tactical expertise is, understandably, <a href=\"http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tactical Training In The Endgame</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/27/tactical-trainin",
@@ -2264,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1230",
          "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
          "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
-      },
-      {
-         "description" : "Sabrina Vega is the best woman player in the history of Spanish chess. She won the national women's championship six times and represented her country in five Chess Olympiads. In an interview with Tatiana Flores, Sabrina Vega talks about her chess career and how chess can help you to grow and to enrich your personality.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-teaches-you-so-much-an-interview-with-im-sabrina-vega",
-         "pubDate" : "Mon, 26 Jul 2021 19:00:00 +0100",
-         "title" : "\"Chess teaches you so much!\": An interview with IM Sabrina Vega"
       },
       {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS &frac12;-&frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>.",
@@ -2304,14 +2320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
          "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
          "title" : "FIDE WORLD CUP R5- Calm before the storm"
-      },
-      {
-         "description" : "Two national champions were crowned on Sunday, 25 July, as both GM Hans Niemann (pictured) and IM Annie Wang clinched victories in the 2021 U.S. Junior Championships, both winning $10,000 scholarships in addition to the first place prize. Meanwhile, GM Larry Christiansen won a critical last round game in the U.S. Senior, forcing a playoff tiebreak on Monday against GM Gregory Kaidanov. With their victories, Hans and Annie qualified for the 2022 U.S. Championship and U.S. Women's Championship. | Photo: Courtesy of Saint Louis Chess Club, Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-championships-niemann-and-wang-win-christiansen-and-kaidanov-have-to-play-tiebreak",
-         "pubDate" : "Mon, 26 Jul 2021 09:12:40 +0100",
-         "title" : "U.S. Championships: Niemann and Wang win, Christiansen and Kaidanov have to play tiebreak"
       },
       {
          "description" : "The National Chess Library has arrived safely at its new home in De Montfort University in Leicester. Here is a link to a light-hearted blog...",
@@ -2424,22 +2432,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jul/23/magnus-carlsen-advances-at-chess-world-cup-but-seeds-fall-to-new-talents",
          "pubDate" : "Fri, 23 Jul 2021 15:56:56 +0000",
          "title" : "Magnus Carlsen botches win and heads for tiebreaks at chess World Cup"
-      },
-      {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 4) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Wojtaszek, Radoslaw POL 2 Dubov, Daniil RUS &frac12;-&frac12; Esipenko, Andrey RUS 3 Ponkratov, Pavel RUS 0-1 Bacrot, Etienne FRA 4 Piorun, Kacper POL 1-0 Sindarov, Javokhir USA Bracket 2 5 Grischuk, Alexander RUS &frac12;-&frac12; Korobov, Anton UKR [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/\">2021 FIDE World Cup: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/23/2021-fide-world-cup-round-4/",
-         "pubDate" : "Fri, 23 Jul 2021 14:10:14 +0000",
-         "title" : "2021 FIDE World Cup: Round #4"
-      },
-      {
-         "description" : "Round 4.1 of the FIDE Women's World Cup 2021 brought only two decisive results and 6 draws. One of them happened on the first board in the match between former World Champion Antoaneta Stefanova (Bulgaria 2463) and last World Championship challenger Aleksandra Goryachkina (Russia 2596). Stefanova won the game after Goryachkina fell into a trap []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stefanova-nobody-wants-to-resign-goryachkina-in-a-must-win-situation/",
-         "pubDate" : "Fri, 23 Jul 2021 12:40:05 +0000",
-         "title" : "Stefanova: \"Nobody wants to resign!\"- Goryachkina in a must win situation!"
       }
    ]
 }
