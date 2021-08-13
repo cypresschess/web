@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana climbed to sole first place at the Saint Louis Rapid and Blitz Tournament after bouncing back from a loss against Sam Shankland with back-to-back victories over Leinier Dominguez and Wesley So on Thursday. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Fri, 13 Aug 2021 21:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-3",
+         "pubDate" : "Fri, 13 Aug 2021 20:17:54 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Day 3"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>King of Games</strong>, the company of Slovenian GMs <strong>Dusko Pavasovic</strong> and <strong>Luka Lenic</strong>, whose lead product <a href=\"https://www.chesstech.org/2020/commercial-vibe/\">Chess Universe</a> has been downloaded a million times, <a href=\"https://venturebeat.com/2021/08/13/the-grand-masters-at-kings-of-games-raise-money-for-chess-universe/\">raised an undisclosed sum</a> from <strong>Transcend Fund</strong>, a major investor in game startups. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/transcend-fund-invests-in-chess/",
+         "pubDate" : "Fri, 13 Aug 2021 18:35:08 +0100",
+         "title" : "Transcend Fund invests in Chess Universe"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1267",
+         "pubDate" : "Fri, 13 Aug 2021 16:03:48 +0000",
+         "title" : "ATTN: Participants of 2021 FIDE World Cup and FIDE Women's World Cup"
+      },
+      {
          "description" : "Lawrence and Arne predict the winners of the Kramnik Challenge, RTU, St. Louis Rapid, and the EIWCC. While doing so, they start philosophizing about how many professional chess players actually love their job. While the elite players can mostly make a living, if they win many chess games in tournaments, thousands of GM's have to struggle their way through chess life. Or not? Is chess a sport so far away from golf or football, that they shouldn't even be compared with each other at all? This, and other interesting topics, are being discussed in the last episode of August. \"ChessBase News Review\" will continue in September.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -322,14 +354,6 @@ news_feed (
          "title" : "2021 Saint Louis Rapid & Blitz: Leinier Dominguez Interview | Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.11<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-1",
-         "pubDate" : "Thu, 12 Aug 2021 02:15:25 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Day 1"
-      },
-      {
          "description" : "The Saint Louis Rapid and Blitz leg of the 2021 Grand Chess Tour produced many surprises even before the first move was played. Four of the regular participants of the tour, GMs Anish Giri, Levon Aronian, Teimour Radjabov, and Alexander Grischuk, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -568,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-155-with-abhimanyu-mishra-the-world-s-youngest-grandmaster-of-all-time",
          "pubDate" : "Mon, 09 Aug 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the only player in the <strong>Meltwater Champions Chess Tour</strong> who made it past the preliminary in all events and with real chances to steal the overall tour win from leader <strong>Magnus Carlsen</strong>. The American who declined a start at the World Cup won the <strong>chess24</strong>-hosted <strong>Chessable Masters</strong> in the absence of the World Champion who went to Sochi to gather practice before his title match later this year. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">31 Jul - 08 Aug 2021</span>: <a href=\"https://www.chesstech.org/events/2021/champions-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/wesley-so-wins-chessable-masters/",
-         "pubDate" : "Mon, 09 Aug 2021 16:11:36 +0100",
-         "title" : "Wesley So wins Chessable Masters"
       },
       {
          "description" : "European Women's Individual Chess Championship 2021 has started in Iasi, Romania. All 117 registered participants, coming from 29 different European federations safely arrived to Romania and have been paired for the first round. Starting rank list and pairings Romanian Chess Federation, the Mayor of Iasi Municipality, Mr. Mihai Chirica, and the ECU President, Mr. Zurab Azmaiparashvili hold an&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/\">Read More &#187;</a></span>",
@@ -2250,14 +2266,6 @@ news_feed (
          "title" : "Gregory Kaidanov is U.S. Senior Champion 2021!"
       },
       {
-         "description" : "Karsten Mueller again enjoys some Endgame Magic and together with his guest Thomas Stark he presents endgame highlights from the Goldmoney Asian Online Rapid Tournament that ended in the beginning of July, and that was won by Levon Aronian - who showed his endgame skills in a very crucial game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-153",
-         "pubDate" : "Tue, 27 Jul 2021 09:15:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #153"
-      },
-      {
          "description" : "The successful candidates for Silver Direct Members' Representatives 2021 were John Reyes and Tim Wall Voting was as follows &#8212; Jonathan-Miller 31 votes John...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2392,46 +2400,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/upcoming-russian-star-matched-against-carlsen-in-world-cup/",
          "pubDate" : "Sat, 24 Jul 2021 18:16:00 +0000",
          "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
-      },
-      {
-         "description" : " The 2021 ACT Winter Open got off to a cold start (in terms of weather), but a good one, in terms of participation. With a temperature of 5c outside, the players were grateful to be inside the Campbell High School Library, and out of the wind and freezing rain. For the first time the tournament had a Friday evening round, and apart from a few pre-planned byes, everyone else turned up to play. The Friday evening start is usual in weekenders in the UK, but hasn't really been tried/worked for Australian events. Given the good numbers for this tournament (maxed out at 64 for space reasons), it is something that should be continued next year. In terms of play there were no upsets in the 20 player",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-1.html",
-         "pubDate" : "Fri, 23 Jul 2021 22:50:00 +0000",
-         "title" : "2021 ACT Winter Open - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1225",
-         "pubDate" : "Fri, 23 Jul 2021 20:23:14 +0000",
-         "title" : "Round 04 Game 02: Wojtaszek forces the tiebreak with Carlsen"
-      },
-      {
-         "description" : " Only eight of the 16 matches have finished with a winner after the two classical games, so there will be plenty of tiebreak action to enjoy tomorrow. The headliner will be Magnus Carlsen, who failed to convert a winning advantage in a very sharp position against Radoslaw Wojtaszek. Had he done so, it would have been an attacking masterpiece, but even world champions slip from time to time. The winner of that match will face the winner of the all-Russian clash between Daniil Dubov vs. Andrey Esipenko, which is also headed for tiebreaks after a second, much less eventful draw. Another Russian headed for tiebreaks is Pavel Ponkratov, who avenged his loss yesterday to Etienne Bacrot with a (mos",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/23/world-cup-round-4-update-lots-of-tiebreaks-tomorrow.html",
-         "pubDate" : "Fri, 23 Jul 2021 17:53:43 +0000",
-         "title" : "World Cup, Round 4 Update: Lots of Tiebreaks Tomorrow"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84685248.cms\" />India No. 3 Vidit Santosh Gujrathi registered a 2-0 win over Jeffrey Xiong on Friday to advance to the fifth round in the FIDE chess World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-advances-praggnanandhaa-bows-out/articleshow/84685248.cms",
-         "pubDate" : "Fri, 23 Jul 2021 22:09:43 +0530",
-         "title" : "Chess World Cup: Vidit advances; Praggnanandhaa bows out"
-      },
-      {
-         "description" : " Several top seeds were eliminated while a 10-man Russian phalanx plus five teenagers reached the last 32 in Sochi Magnus Carlsen's serene progress through the early rounds of the $1.9m (&pound;1.38m), 206-player World Cup at Sochi hit a rock in Friday's fourth round, the last 32, when the world champion botched a simple win. After drawing his first game with Radoslaw Wojtaszek on Thursday, Carlsen built up a decisive attack against the Polish No 2's Sicilian Defence only to miss the decisive rook move 25 Rxh7! instead <a href=\"https://www.chessbomb.com/arena/2021-fide-world-cup/04-02-Carlsen_Magnus-Wojtaszek_Radoslaw\">allowing a draw by repeated position</a>. The match now heads at 1-1 for ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jul/23/magnus-carlsen-advances-at-chess-world-cup-but-seeds-fall-to-new-talents",
-         "pubDate" : "Fri, 23 Jul 2021 15:56:56 +0000",
-         "title" : "Magnus Carlsen botches win and heads for tiebreaks at chess World Cup"
       }
    ]
 }
