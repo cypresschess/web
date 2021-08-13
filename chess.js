@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Fabiano Caruana grabbed sole first place after a topsy-turvy day, after answering a round four loss with two consecutive wins. GM Hikaru Nakamura showed his defensive skills to stay within striking distance in second place, while GM Sam Shankla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-2",
+         "pubDate" : "Thu, 12 Aug 2021 19:21:00 -0700",
+         "title" : "Saint Louis Rapid & Blitz Day 2: Caruana Increases Lead, Shankland Surges"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 2 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.12<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SFnGL5lfiJc.jpg?itok=vxrovHGs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-2",
+         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-3-lichessorg",
+         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland after Day 2 of the 2021 Saint Louis Rapid &amp; Blitz. 2021.08.12<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-sam-shankland-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QjDuuWhdSiE.jpg?itok=EGr5AvsS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-sam-shankland-interview-day-2",
+         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Sam Shankland Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-2",
+         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-2-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-2-lichessorg",
+         "pubDate" : "Thu, 12 Aug 2021 23:16:42 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Day 2 | lichess.org"
+      },
+      {
          "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez finished the day sharing the lead on 5/6 points. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +626,6 @@ news_feed (
          "title" : "World Cup Highlights - Part 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows his game from 2000 against Nikolai Kabanov, where Akobian bested the King&#039;s Indian Defense in &quot;Chess for Knights,&quot; the traditional kids&#039; chess class for scholastic players under a 1000 rating. 2021.06.13<br /> Varuzhan Akobian vs Nikolai Kabanov, Wch U20 (2000): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1628959\">https://www.chessgames.com/perl/chessgame?gid=1628959</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akobian-smashes-kabanovs-kings-indian-defense-intermediate-kids-class-gm-varuzhan-akobian",
-         "pubDate" : "Sat, 07 Aug 2021 20:11:07 +0000",
-         "title" : "Akobian Smashes Kabanov's King's Indian Defense! | Intermediate Kids' Class - GM Varuzhan Akobian"
-      },
-      {
          "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +680,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2021-starts/",
          "pubDate" : "Sat, 07 Aug 2021 05:49:45 +0000",
          "title" : "European Women's Chess Championship 2021 starts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Varuzhan Akobian shows the 1912 classic Ed Lasker vs. George Alan Thomas as part of &quot;Chess for Rookies,&quot; the 1 o&#039;clock kids&#039; class for new players who know how the pieces move. See how Thomas&#039;s king was forced to the wrong side of the board. 2021.06.13<br /> Edward Lasker vs George Alan Thomas, Casual game (1912): A40 Queen&#039;s pawn<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1259009\">https://www.chessgames.com/perl/chessgame?gid=1259009</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fatal-attraction-ed-lasker-vs-thomas-beginner-kids-class-gm-varuzhan-akobian",
-         "pubDate" : "Fri, 06 Aug 2021 20:10:32 +0000",
-         "title" : "Fatal Attraction: Ed Lasker vs. Thomas | Beginner Kids' Class - GM Varuzhan Akobian"
       },
       {
          "description" : "By a score of 23-22, Northern California triumphed over Texas at the national tournaments of state chess champions held July 31-August 3. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Cherry Hill, New Jersey site, which also hosts the U.S. Open. | Photos: Alexey Root",
@@ -792,30 +824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1254",
          "pubDate" : "Fri, 06 Aug 2021 07:45:52 +0000",
          "title" : "Liem Quang Le stuns Aronian to put himself on brink of final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games where Jan-Krzysztof Duda played world champion Magnus Carlsen, including a draw from the 2021 Chess World Cup semifinal that knocked Carlsen out and preceded Duda's eventual Cup victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 06 Aug 2021 05:10:02 +0000",
-         "title" : "Duda Whooping Carlsen: A History | Grandmaster's Choice - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani analyzes Luke McShane&#039;s win over Levon Aronian from the 2012 Tal Memorial. 2021.08.04<br /> Levon Aronian vs Luke McShane, Tal Memorial (2012): D15 Queen&#039;s Gambit Declined Slav, 4.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1669470\">https://www.chessgames.com/perl/chessgame?gid=1669470</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mcshane-slays-aronian-2012-tal-memorial-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 06 Aug 2021 02:09:49 +0000",
-         "title" : "McShane Slays Aronian, 2012 Tal Memorial | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani looks at two games where Jan-Krzysztof Duda played world champion Magnus Carlsen, including a draw from the 2021 Chess World Cup semifinal that knocked Carlsen out and preceded Duda's eventual Cup victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-whooping-carlsen-history-grandmasters-choice-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Fri, 06 Aug 2021 02:09:49 +0000",
-         "title" : "Duda Whooping Carlsen: A History | Grandmaster's Choice - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "Thanks to a 30-move victory over Sergey Karjakin, Jan-Krzysztof Duda was crowned champion at the 2021 FIDE World Cup in Sochi. The Polish grandmaster had an undefeated performance in the 24-day event and knocked out none other than world champion Magnus Carlsen in the semifinals. Carlsen, who had high praise for Duda, beat Vladimir Fedoseev for a second day in a row to claim third place. | Photos: David Llada",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad.html",
          "pubDate" : "Sun, 01 Aug 2021 23:03:00 +0000",
          "title" : "2021 Online Chess Olympiad"
-      },
-      {
-         "description" : "GM Raunak Sadhwani on Saturday defeated IM Christopher Yoo in the first quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The tournament is a knockout competition for top junior chess players with a $35,000 prize fund. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-qf-sadhwani-beats-yoo",
-         "pubDate" : "Sun, 01 Aug 2021 12:10:09 -0700",
-         "title" : "Junior Speed Chess Championship QF: Sadhwani Beats Yoo"
       },
       {
          "description" : "",
@@ -2400,22 +2400,6 @@ news_feed (
          "link" : "https://www.chessdom.com/stefanova-nobody-wants-to-resign-goryachkina-in-a-must-win-situation/",
          "pubDate" : "Fri, 23 Jul 2021 12:40:05 +0000",
          "title" : "Stefanova: \"Nobody wants to resign!\"- Goryachkina in a must win situation!"
-      },
-      {
-         "description" : " A week ago I mentioned the no-castling match between Viswanathan Anand and Vladimir Kramnik. Where we left off at the halfway point, Anand led 1.5-.5; since then, Anand comfortably drew games <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/3\">three</a> (\"comfortable\" understates it; he was winning and then some) and <a href=\"https://chess24.com/en/watch/live-tournaments/nc-world-masters-anand-vs-kramnik-2021/1/1/4\">four</a> to win it, 2.5-1.5. The aforementioned match hasn't received much attention, but this will give chess a nice boost in the U.S. (at least it couldn't hurt, unless we get a replay of Elista 2006): <a href=\"https://www.chess",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/22/other-items-of-interest-nbc-x-2-nobody-castles-nbc-sports.html",
-         "pubDate" : "Fri, 23 Jul 2021 01:39:06 +0000",
-         "title" : "Other Items of Interest: NBC x 2 (NoBody Castles, NBC Sports)"
-      },
-      {
-         "description" : " Oof, what a round. The most dramatic result - and the most painful one for most U.S. fans - was the elimination of Fabiano Caruana against Rinat Jumabayev. Caruana drew the first classical game with Black without any difficulties, but went nuts in his white game with 27.g5? Bxf1? 28.Rxf1?, leaving him with no real compensation for the sacrificed material. Happily for Team America, Jumabayev erred with 32...Nf6, and Caruana made it to the time control with equality. Alas, Caruana's 41st move was a blunder (or if you think that only obvious errors can be blunders, it was a big mistake). Jumabayev took his time, figured it out, and took advantage. This was not the only upset, however. Anish Gi",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/22/world-cup-post-round-3-update.html",
-         "pubDate" : "Fri, 23 Jul 2021 00:11:13 +0000",
-         "title" : "World Cup, Post-Round 3 Update"
       }
    ]
 }
