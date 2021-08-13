@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Berlin, the capital of Germany, will be the main host of the 2022 Grand Prix Series. The Series, a part of the World Chess Championship circuit, will run from February to April in a bespoke-designed chess arena. The city was chosen by World Chess, the gaming company that organizes the Series in partnership with FIDE, as well as by chess fans from around the world. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/berlin-wins-popular-vote-will-host-the-grand-prix-series-and-other-events-in-2022",
+         "pubDate" : "Fri, 13 Aug 2021 11:55:50 +0100",
+         "title" : "Berlin wins popular vote; will host the Grand Prix Series and other events in 2022"
+      },
+      {
+         "description" : " <h3>Wolfgang Wee Uncut is a conversation-based in-depth podcast that hosted the World Champion, Magnus Carlsen a couple of days ago. Among numerous topics including chess in general, tennis, intuition, alcohol, and the Queen's Gambit, Magnus talked about the shame, the doubt, and the anxiety he experiences after losing chess games.</h3> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6T6LRnqHJfU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Sometimes we watch a player like Magnus play so brilliantly and charismatically, but we don't imagine how he must be feeling after a failure or during some very critical games. The World Champion ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-how-can-i-ever-show-up-at-a-chess-tournament-agai/",
+         "pubDate" : "Fri, 13 Aug 2021 09:22:37 +0000",
+         "title" : "Magnus Carlsen: \"How can I ever show up at a chess tournament again?\""
+      },
+      {
+         "description" : "Four rounds have been played at the 21st European Women's Individual Chess Championship in Iasi, Romania. IM Irina Bulmaga (ROU, 2413) emerged on the top to be the sole leader of the event as the only player to have a perfect 4/4 score. In the 4th round which brought encounters of top seeds, Bulmaga defeated the top seeded&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r4-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-r4-report/",
+         "pubDate" : "Fri, 13 Aug 2021 08:40:17 +0000",
+         "title" : "European Women's Chess Championship 2021 - R4 report"
+      },
+      {
+         "description" : "Vincent Keymer took an early lead at the Kramnik Challenge after scoring 3&frac12; points in the four rounds played on Thursday. The German star stands a half point ahead of a 3-player chasing pack, which includes Christopher Yoo, Awonder Liang and Nodirbek Abdusattorov. Expert analyses by GM Karsten M&uuml;ller. | Photo: Schach-Bundesliga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-1",
+         "pubDate" : "Fri, 13 Aug 2021 09:25:00 +0100",
+         "title" : "Kramnik Challenge: Keymer in the sole lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1265",
+         "pubDate" : "Fri, 13 Aug 2021 08:00:02 +0000",
+         "title" : "Vladimir Putin welcomes participants organizers of second FIDE Online Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1266",
+         "pubDate" : "Fri, 13 Aug 2021 07:18:32 +0000",
+         "title" : "2021 STL Rapid & Blitz Day 2: Caruana shoots ahead"
+      },
+      {
          "description" : " Popular 60-year-old grandmaster's eighth-round defeat is overturned while England's No 1, Michael Adams, halves with 10-year-old from Scotland Keith Arkell became online British champion at age 60 in controversial circumstances last weekend when the popular grandmaster from Paignton, Devon, scored 7.5/9 in the nine-day contest to finish a full point clear of GMs Michael Adams and Bogdan Lalic, with the England No 1 and defending champion taking second place on tie-break. Mohammed Ismail, the under-16 champion, was fourth. Victory had seemed remote a day before the finish when Arkell, the 2008 English champion and author of Arkell's Odyssey and Arkell's Endings, was defeated in round eight. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -87,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
          "pubDate" : "Thu, 12 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Live!"
+         "title" : "St. Louis Rapid & Blitz - Day 2"
       },
       {
          "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
@@ -114,14 +162,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A new direction in the Queen's Gambit Declined"
       },
       {
-         "description" : "After five of nine rounds five players with 4.5/5 each share the lead at the strong Riga Technical University Open in Latvia. Round 6 begins at 16:00 CEST (10:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Thu, 12 Aug 2021 15:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 6: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/",
          "pubDate" : "Thu, 12 Aug 2021 14:14:32 +0000",
          "title" : "Berlin Wins Popular Vote; Will Host the Next Grand Prix Series and Other Events in 2022"
-      },
-      {
-         "description" : "After three rounds five players with 3.0/3 each share the lead at the European Individual Chess Championship, an 11-round Swiss that takes place in Iasi/Romania: Nino Batsiashvili (Georgia), Gunay Mammadzada (Azerbaijan), Elina Danielian (Armenia), Jolanta Zawadzka (Poland) and Irina Bulmaga (Romania). Round 4 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Thu, 12 Aug 2021 13:45:00 +0100",
-         "title" : "European Individual Women's Chess Championship, Round 4 - live!"
       },
       {
          "description" : " Despite the many pointed barbs directed at the Socialist Republic of Canberra, we (both the government and community) have done very well at handling the Covid pandemic. However this good run has come to an end, with a Covid case being confirmed today. As a consequence the ACT is in lockdown for the next 7 days, which means a number of chess events have been cancelled or postponed. A non comprehensive list includes <ul style=\"text-align: left;\"><li>Tuggeranong, Canberra and Gungahlin Chess clubs will not meet next week</li><li>Street Chess will not run on Saturday 14 August 2021.</li><li>School coaching programs will not run for 7 days (due to schools being closed)</li><li>The 2021 ACT Seco",
@@ -599,7 +631,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-38-the-critical-move-2",
          "pubDate" : "Sun, 08 Aug 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 38: The Critical Move (2)"
+         "title" : "Understanding before Moving 39: The Critical Move (2)"
       },
       {
          "description" : "Wesley So convincingly won the first of the finals at the Chessable Masters by twice beating Le Quang Liem after launching successful sacrificial attacks. Meanwhile, Levon Aronian and Vladislav Artemiev drew the first set in the match for third place. | Photo: Meltwater Champions Chess Tour",
