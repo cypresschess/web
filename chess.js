@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yet another action-packed day at the Saint Louis Rapid and Blitz Tournament saw Hikaru Nakamura grabbing the sole lead before entering the blitz section of the event. Nakamura beat Fabiano Caruana in their all-important direct encounter to leapfrog him in the standings table. The top scorer on Friday was Richard Rapport, who is now sharing second place with Caruana. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-3",
+         "pubDate" : "Sat, 14 Aug 2021 16:15:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Nakamura grabs the lead"
+      },
+      {
+         "description" : " I was part of a FIDE Planning and Development meeting this morning for Oceania, and at some point the topic of online/hybrid chess came up. Part of this discussion revolved around how popular/worthwhile is Hybrid Chess. The general consensus (from the people who had been involved in hybrid events) was that it was a lot of extra work for little extra reward. The main reason given for this was that it didn't offer ratings and titles. Of course this is due to the fact that it doesn't exactly match the format for OTB events, but there is also an undercurrent concerning the risk of cheating. The slightly strange thing is that players seem a little happier to play low key events for online rating",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/why-we-play-serious-chess.html",
+         "pubDate" : "Sat, 14 Aug 2021 13:40:00 +0000",
+         "title" : "Why 'we' play serious chess"
+      },
+      {
+         "description" : "Top seed Nodirbek Abdusattorov is the only player still unbeaten after Day 2 of the Kramnik Challenge and is now co-leader with Awonder Liang, who won four games in a row before falling to Polina Shuvalova in the final game of the day. Previous leader Vincent Keymer had a frustrating day, failing to grind out wins against Sarasadat Khademalsharieh and Nodirbek before losing an innocuous-looking ending to Volodar Murzin.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-challenge-2-awonder-nodirbek-take-over",
+         "pubDate" : "Sat, 14 Aug 2021 13:18:44 +0000",
+         "title" : "Kramnik Challenge 2: Awonder & Nodirbek take over"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1269",
+         "pubDate" : "Sat, 14 Aug 2021 13:03:01 +0000",
+         "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
+      },
+      {
+         "description" : "Igor Kovalenko and Narayanan are sharing the lead at the Riga Technical University Open with two rounds to go. No fewer than ten players stand a half point behind. Round 8 begins at 14:00 CEST (8:00 ET, 14:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Sat, 14 Aug 2021 13:55:00 +0100",
+         "title" : "RTU Open in Riga, Round 8: Live"
+      },
+      {
+         "description" : "Gunay Mammadzada from Azerbaijan beat former sole leader Irina Bulmaga in round 5 to grab the shared lead on 4&frac12;/5 points. Iulija Osmak (Ukraine) and Aleksandra Maltevskaya (Russia) also have collected 4&frac12; points thus far. Round 6 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Sat, 14 Aug 2021 13:45:00 +0100",
+         "title" : "European Individual Women's Chess Championship, Round 6 - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "2021 Saint Louis Rapid & Blitz: Being Back in Saint Louis"
       },
       {
-         "description" : "Fabiano Caruana climbed to sole first place at the Saint Louis Rapid and Blitz Tournament after bouncing back from a loss against Sam Shankland with back-to-back victories over Leinier Dominguez and Wesley So on Thursday. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Fri, 13 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OL7",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -160,22 +200,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-caruana-recovers-from-shankland-blow",
          "pubDate" : "Fri, 13 Aug 2021 15:15:58 +0000",
          "title" : "STL Rapid & Blitz 2: Caruana recovers from Shankland blow"
-      },
-      {
-         "description" : "After six of nine rounds seven players with 5.0/6 each share the lead at the strong Riga Technical University Open in Latvia - five of them are U20, four of them come from India! Round 7 begins at 14:00 CEST (8:00 ET, 14:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Fri, 13 Aug 2021 13:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 7: Live"
-      },
-      {
-         "description" : "After winning in round four against against Nino Batsiashvili from Georgia, the Romanian IM Irina Bulmaga is the only player at the European Women's Individual Championship who still has a 4.0/4 100% score. Round 5 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Fri, 13 Aug 2021 13:45:00 +0100",
-         "title" : "European Individual Women's Chess Championship, Round 5 - live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85301520.cms\" />Indian Grandmaster Vidit Gujrathi has qualified for the FIDE Grand Swiss league which will be held in Riga, Latvia from October 25 to November 8. The Nashik-based player has also qualified for the FIDE Grand Prix 2022 after reaching the top eight at the recently-concluded Chess World Cup 2021.",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
          "pubDate" : "Tue, 03 Aug 2021 14:31:19 +0000",
          "title" : "Episode 237- GM Vladimir Kramnik"
-      },
-      {
-         "description" : "\"Magnus is not here so the tournament is very open\", said Wesley So, after another smooth day at the office saw him win the preliminary stage of the Chessable Masters. Most of the other top players also cruised, with the main drama surrounding Jorden van Foreest and Adhiban. When the Indian won their individual game he was leading the chase to qualify with three rounds to go, but Adhiban lost all three games as Jorden set up a match with Wesley. Meanwhile 12-year-old Abhimanyu Mishra took down his sometime coach and world no. 21 Harikrishna!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-3-wesley-wins-the-prelims",
-         "pubDate" : "Tue, 03 Aug 2021 14:11:03 +0000",
-         "title" : "Chessable Masters 3: Wesley wins the Prelims"
       },
       {
          "description" : "Wesley So continued his excellent run at the Chessable Masters and was the clear winner of the preliminary stage with an 11/15 score. There was not much of a fight to make it into the quarterfinals, as all but one favourite had almost fully secured their spots in the knockout with two rounds to go. | Pictured: Hikaru Nakamura | Photo: Amruta Mokal",
