@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, which is taken from a rapid game between Ian Nepomniachtchi and Levon Aronian, White used his three pieces to get access to Black's weakened king and to finally hunt it down. What did the World Championship Challenger 2021 play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work",
+         "pubDate" : "Sat, 14 Aug 2021 08:00:00 +0100",
+         "title" : "Nepomniachtchi at work"
+      },
+      {
+         "description" : "2021 Asian University Chess Championship from 02-13 September 2021 For more details : http://www.ausf.org/Detail.aspx?kind=4&#38;pk=437 Players/Universities interested to participate in the championship are requested to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2021-asian-university-chess-championship/",
+         "pubDate" : "Sat, 14 Aug 2021 04:20:25 +0000",
+         "title" : "2021 Asian University Chess Championship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xtF",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Kaleidoscope II"
       },
       {
-         "description" : "The supremacy of Indian youngsters in Age Group events proved once again as Pranesh M, Aapar Saxena and Avirat Chauhan won Gold in the Under-15,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/pranesh-aapar-and-avirat-wins-gold-india-shines-at-asian-school/",
-         "pubDate" : "Sat, 31 Jul 2021 17:27:55 +0000",
-         "title" : "Pranesh, Aapar and Avirat wins Gold; India shines at Asian School"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84928969.cms\" />Indian Grandmaster Nihal Sarin notched up eight wins to go with three draws and as many defeats to be placed joint second after the rapid, blitz and four rounds of Classical section at the Biel Grandmaster Triathlon on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1231",
          "pubDate" : "Tue, 27 Jul 2021 08:23:55 +0000",
          "title" : "Gregory Kaidanov wins 2021 U.S. Senior Championship"
-      },
-      {
-         "description" : "GM Gregory Kaidanov won the 2021 U.S. Senior Championship title after defeating GM Larry Christiansen in an exciting playoff tiebreak, scoring 1.5 - 0.5 in the two-game rapid match. After a draw in game one, Kaidanov seized his chance in game two, finding a brilliant resource to win an exchange and convert his advantage in the ensuing complications. It was the first national title victory for Kaidanov. | Photo: Courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gregory-kaidanov-is-u-s-senior-champion-2021",
-         "pubDate" : "Tue, 27 Jul 2021 09:22:54 +0100",
-         "title" : "Gregory Kaidanov is U.S. Senior Champion 2021!"
       },
       {
          "description" : "The successful candidates for Silver Direct Members' Representatives 2021 were John Reyes and Tim Wall Voting was as follows &#8212; Jonathan-Miller 31 votes John...",
