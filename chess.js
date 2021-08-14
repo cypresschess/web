@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura grabbed the sole lead at the Saint Louis Rapid and Blitz Tournament by beating Fabiano Caruana in their all-important round-9 direct encounter to leapfrog him in the standings table. The blitz section is taking place on Saturday and Sunday. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Sat, 14 Aug 2021 21:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "Blitz world no. 1 Hikaru Nakamura goes into the 18 rounds of blitz in Saint Louis in the sole lead after defeating Leinier Dominguez and Fabiano Caruana on the 3rd and final day of rapid chess. Hikaru is the only unbeaten player, but Fabi is still just a point behind despite also losing to the player with whom he shares 2nd place, Richard Rapport. There were dramatic blunders in many of the games, with few players managing to achieve consistency.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-3-nakamura-triumphs-in-rapid",
+         "pubDate" : "Sat, 14 Aug 2021 19:52:57 +0000",
+         "title" : "STL Rapid & Blitz 3: Nakamura triumphs in rapid"
+      },
+      {
          "description" : "Yet another action-packed day at the Saint Louis Rapid and Blitz Tournament saw Hikaru Nakamura grabbing the sole lead before entering the blitz section of the event. Nakamura beat Fabiano Caruana in their all-important direct encounter to leapfrog him in the standings table. The top scorer on Friday was Richard Rapport, who is now sharing second place with Caruana. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "Biel: Round 7 - Live!"
       },
       {
-         "description" : "Jan-Krzysztof Duda has qualified for the 2022 Candidates Tournament in spectacular style by beating Magnus Carlsen to reach the final of the FIDE World Cup. The victory was utterly deserved, with Duda yet to lose a game at the World Cup and never in real danger against Magnus, while the World Champion could have escaped but found himself under immense pressure in the second rapid game. Duda now plays fellow Candidate Sergey Karjakin, while Magnus faces a 3rd place match against Vladimir Fedoseev. Tan Zhongyi took 3rd in the women's event after easily overcoming Anna Muzychuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-7-3-duda-takes-down-carlsen",
-         "pubDate" : "Wed, 04 Aug 2021 09:13:37 +0000",
-         "title" : "FIDE World Cup 7.3: Duda takes down Carlsen"
-      },
-      {
          "description" : "In the penultimate round of the Grandmaster Tournament in Biel Kirill Alekseenko (pictured) and Vincent Keymer came to victories, while Gata Kamsky defended his lead with a draw against Nihal Sarin. In the Masters Open, the Indian Grandmaster Murali Karthikeyan remains sole first. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2274,14 +2282,6 @@ news_feed (
          "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
       },
       {
-         "description" : "The week long Festival de Fontainebleau chess tournament which started on 18 July doesn't feature any Grandmasters or International Masters. While the Open section comprises players with ratings under 2000, competitors in the three closed tournaments - each of which has eight players - have Elo ratings ranging from around 1800 to 2200. But what makes this tournament unique is its location and the Covid-19 related health controls that have been put in place here. | Photos: Club d'&eacute;checs de Fontainebleau-Avon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-first-fontainebleau-chess-festival",
-         "pubDate" : "Tue, 27 Jul 2021 12:28:52 +0100",
-         "title" : "The first Fontainebleau chess festival"
-      },
-      {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov I am going to end the foray into the Canadian Youth Chess Championship 2021 with two games that reinforce what I have been talking about in this blog. We learn and practice new things throughout the year. This is done properly when we build on past <a href=\"https://chessimprover.com/tales-from-cycc-2021-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-4/\">Tales from CYCC 2021 (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2416,14 +2416,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-2.html",
          "pubDate" : "Sun, 25 Jul 2021 00:16:00 +0000",
          "title" : "2021 ACT Winter Open - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1226",
-         "pubDate" : "Sat, 24 Jul 2021 20:07:49 +0000",
-         "title" : "Round 04 tiebreaks: Carlsen advances to 1/8 finals"
       }
    ]
 }
