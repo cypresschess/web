@@ -2424,14 +2424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1226",
          "pubDate" : "Sat, 24 Jul 2021 20:07:49 +0000",
          "title" : "Round 04 tiebreaks: Carlsen advances to 1/8 finals"
-      },
-      {
-         "description" : " Andrey Esipenko, a 19 year old Grandmaster from Russia has beaten his compatriot Danil Dubov in the fourth round of <a href=\"https://worldcup.fide.com/\">FIDE World Cup</a> and will face the World Champion in Round 5. All eyes will be on this duel because Esipenko has beaten Carlsen earlier this year at Tata Steel Tournament. Watch the interview where Esipenko goes over his match against Dubov which he won on tiebreaks. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/0XE9DeoTKZo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/upcoming-russian-star-matched-against-carlsen-in-world-cup/",
-         "pubDate" : "Sat, 24 Jul 2021 18:16:00 +0000",
-         "title" : "Upcoming Russian Star Matched Against Carlsen in World Cup"
       }
    ]
 }
