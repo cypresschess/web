@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1268",
+         "pubDate" : "Sat, 14 Aug 2021 10:08:52 +0000",
+         "title" : "2021 STL Rapid & Blitz: Nakamura in the lead after rapid"
+      },
+      {
+         "description" : "The 24th Congress of the Communist Party of the Union of Soviet Socialist Republics, held in Moscow in 1971, might be said to have condensed into the vapours of time past&hellip; all but for one thing, provided that you are interested in chess. For years I have been aware of a quick play game won []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/party-animal-the-lost-triumph-of-tigran-petrosian/",
+         "pubDate" : "Sat, 14 Aug 2021 09:49:45 +0000",
+         "title" : "Party Animal: the lost triumph of Tigran Petrosian"
+      },
+      {
+         "description" : "Awonder Liang and Nodirbek Abdusattorov leapfrogged Vincent Keymer on day 2 of the Kramnik Challenge to take the lead with seven rounds to go in the online tournament. Liang kicked off the day with three consecutive wins and temporarily grabbed the sole lead, but a loss against Polina Shuvalova in round 8 allowed Abdusattorov to catch up with him on a 6/8 score. | Photo: Eric Rosen / FIDE World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-2",
+         "pubDate" : "Sat, 14 Aug 2021 10:20:00 +0100",
+         "title" : "Kramnik Challenge: Liang and Abdusattorov top the standings"
+      },
+      {
          "description" : "In the diagram position, which is taken from a rapid game between Ian Nepomniachtchi and Levon Aronian, White used his three pieces to get access to Black's weakened king and to finally hunt it down. What did the World Championship Challenger 2021 play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +194,7 @@ news_feed (
          "title" : "Berlin wins popular vote; will host the Grand Prix Series and other events in 2022"
       },
       {
-         "description" : " <h3>Wolfgang Wee Uncut is a conversation-based in-depth podcast that hosted the World Champion, Magnus Carlsen a couple of days ago. Among numerous topics including chess in general, tennis, intuition, alcohol, and the Queen's Gambit, Magnus talked about the shame, the doubt, and the anxiety he experiences after losing chess games.</h3> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6T6LRnqHJfU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Sometimes we watch a player like Magnus play so brilliantly and charismatically, but we don't imagine how he must be feeling after a failure or during some very critical games. The World Champion ",
+         "description" : " <p class=\"lead\">Wolfgang Wee Uncut is a conversation-based in-depth podcast that hosted the World Champion, Magnus Carlsen a couple of days ago. In between the standard chess banter, Carlsen opened up about shame, doubt, and anxiety he experiences after losing chess games. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6T6LRnqHJfU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Sometimes we watch a player like Magnus play so brilliantly and charismatically, but we don't imagine how he must be feeling after a failure or during some very critical games. The World Champion admitted the overwhelming mental situation he gets in after a bad",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/magnus-carlsen-how-can-i-ever-show-up-at-a-chess-tournament-agai/",
@@ -199,7 +223,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1265",
          "pubDate" : "Fri, 13 Aug 2021 08:00:02 +0000",
-         "title" : "Vladimir Putin welcomes participants organizers of second FIDE Online Olympiad"
+         "title" : "President of Russia greets participants and organizers of Online Olympiad 2021"
       },
       {
          "description" : "",
@@ -2240,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-first-fontainebleau-chess-festival",
          "pubDate" : "Tue, 27 Jul 2021 12:28:52 +0100",
          "title" : "The first Fontainebleau chess festival"
-      },
-      {
-         "description" : "While the participants in the Grandmaster Tournament are enjoying a day of rest, the open tournaments at the Biel Chess Festival have started. The Master Tournament has an extremely strong field of participants: 27 Grandmasters are taking part, twelve (!) of them with an Elo rating of over 2600, furthermore 13 IM (International Masters) are present. The first round of the Amateur Tournament was also played today, which is completely booked up with 120 participants. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/start-of-the-open-tournaments-at-the-biel-chess-festival",
-         "pubDate" : "Tue, 27 Jul 2021 11:02:14 +0100",
-         "title" : "Start of the open tournaments at the Biel Chess Festival"
       },
       {
          "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov I am going to end the foray into the Canadian Youth Chess Championship 2021 with two games that reinforce what I have been talking about in this blog. We learn and practice new things throughout the year. This is done properly when we build on past <a href=\"https://chessimprover.com/tales-from-cycc-2021-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-4/\">Tales from CYCC 2021 (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
