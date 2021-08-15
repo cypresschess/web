@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Hikaru Nakamura grabbed the sole lead at the Saint Louis Rapid and Blitz Tournament by beating Fabiano Caruana in their all-important round-9 direct encounter to leapfrog him in the standings table. The blitz section is taking place on Saturday and Sunday. Follow the games live with computer analysis starting at 16.00 ET (22.00 CEST, 20.00 UT). | Photo: Lennart Ootes",
+         "description" : "18-year-old American grandmaster Awonder Liang collected 3&frac12; points in Saturday's four rounds to climb to sole first place at the Kramnik Challenge for young stars. Former co-leader Nodirbek Abdusattorov stumbled against Zhu Jhiner and now stands a full point behind, while Vincent Keymer kept up the pace and also scored 3&frac12; points on the third day action - the German grandmaster is in clear second place with three rounds to go. | Photo: Crystal Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-3",
+         "pubDate" : "Sun, 15 Aug 2021 03:00:00 +0100",
+         "title" : "Kramnik Challenge: Liang sole leader"
+      },
+      {
+         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion now has remained undefeated in the event, and now has a 2&frac12;-point lead over Fabiano Caruana. | Replay all the games with computer analysis. Full report to follow shortly. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
          "pubDate" : "Sat, 14 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Live!"
+         "title" : "St. Louis Rapid & Blitz - Games and results"
       },
       {
          "description" : "Blitz world no. 1 Hikaru Nakamura goes into the 18 rounds of blitz in Saint Louis in the sole lead after defeating Leinier Dominguez and Fabiano Caruana on the 3rd and final day of rapid chess. Hikaru is the only unbeaten player, but Fabi is still just a point behind despite also losing to the player with whom he shares 2nd place, Richard Rapport. There were dramatic blunders in many of the games, with few players managing to achieve consistency.",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-3-nakamura-triumphs-in-rapid",
          "pubDate" : "Sat, 14 Aug 2021 19:52:57 +0000",
          "title" : "STL Rapid & Blitz 3: Nakamura triumphs in rapid"
+      },
+      {
+         "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
+         "pubDate" : "Sat, 14 Aug 2021 16:55:00 +0100",
+         "title" : "RTU Open in Riga: Donchenko joins the leaders"
       },
       {
          "description" : "Yet another action-packed day at the Saint Louis Rapid and Blitz Tournament saw Hikaru Nakamura grabbing the sole lead before entering the blitz section of the event. Nakamura beat Fabiano Caruana in their all-important direct encounter to leapfrog him in the standings table. The top scorer on Friday was Richard Rapport, who is now sharing second place with Caruana. | Photo: Crystal Fuller",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1269",
          "pubDate" : "Sat, 14 Aug 2021 13:03:01 +0000",
          "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
-      },
-      {
-         "description" : "Igor Kovalenko and Narayanan are sharing the lead at the Riga Technical University Open with two rounds to go. No fewer than ten players stand a half point behind. Round 8 begins at 14:00 CEST (8:00 ET, 14:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Sat, 14 Aug 2021 13:55:00 +0100",
-         "title" : "RTU Open in Riga, Round 8: Live"
       },
       {
          "description" : "Gunay Mammadzada from Azerbaijan beat former sole leader Irina Bulmaga in round 5 to grab the shared lead on 4&frac12;/5 points. Iulija Osmak (Ukraine) and Aleksandra Maltevskaya (Russia) also have collected 4&frac12; points thus far. Round 6 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
@@ -2258,14 +2266,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Special World Cup Episode 8"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will of course continue to talk about the World Cup but will also take a short look at the other big tournaments that are currently taking place. The game of the day is Vidit's smooth win vs Durarbayli as Black, in which the Indian Grandmaster used a lovely little opening novelty. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-cup",
-         "pubDate" : "Tue, 27 Jul 2021 19:00:00 +0100",
-         "title" : "The Weekly Show: The World Cup"
-      },
-      {
          "description" : " Recently I have bee using a 'script' metaphor to describe how chess games usually go. The idea is to remove some of the mystery of the game for new players, showing how most experienced players think about general planning. Of course it doesn't cover every type of game, but it does seem useful for players in the sub 1500 range. Act I - The Opening <ul style=\"text-align: left;\"><li>Move 2 or 3 pawns at the start, to help develop your pieces</li><li>Bring out Knights and Bishops (either NNBB or NBNB)</li><li>Castle</li><li>Move the queen a little bit, to help connect the rooks</li></ul>Act II - The Queen attacks <ul style=\"text-align: left;\"><li>Look at the position of your opponents king</li",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2408,14 +2408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-win-for-press.html",
          "pubDate" : "Sun, 25 Jul 2021 12:47:00 +0000",
          "title" : "2021 ACT Winter Open - Win for Press "
-      },
-      {
-         "description" : " Harry Press and Fred Litchfield share the lead at the end of the 2nd day of the 2021 ACT Winter Open, on 3.5/4. In round 3 they both defeated higher rated opponents and then drew their round 4 game yesterday evening. In round 3, the top 4 seeds were aired together, with Press playing IM Junta Ikeda, and FM Michael Kethro against Litchfield. Both games went down to increments (30s added for each move), before Press and Litchfield scored wins. Both Kethro and Ikeda bounced back with wins in the 4th round to be on 3/4, where they were joined by WFM Alana Chibnall, who defeated Sankeertan Badrinarayan in round 4. With 2 rounds left to play, Press and Litchfield are in the box seat(s), but the s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-day-2.html",
-         "pubDate" : "Sun, 25 Jul 2021 00:16:00 +0000",
-         "title" : "2021 ACT Winter Open - Day 2"
       }
    ]
 }
