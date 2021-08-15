@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A couple of weeks ago I wrote about endings where a knight was trying to stop a rook's pawn. Coincidentally, the other day I reached this position with black (to move) in an online training game against a young pupil. He thought my knight was too far away to stop his a-pawn. I thought I <a href=\"https://chessimprover.com/knight-against-rooks-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn/\">Knight against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/knight-against-rooks-pawn/",
+         "pubDate" : "Sun, 15 Aug 2021 06:56:42 +0000",
+         "title" : "Knight against Rook's Pawn"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-4",
+         "pubDate" : "Sun, 15 Aug 2021 05:19:04 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 4"
+      },
+      {
+         "description" : "GM Hikaru Nakamura proves to be in a league of his own, as he has increased his lead after the first day of blitz to 2.5 points without suffering a single defeat. GM Fabiano Caruana is leading in the battle for second place, while GM Richard Rappo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-blitz-day-4",
+         "pubDate" : "Sat, 14 Aug 2021 20:28:00 -0700",
+         "title" : "Saint Louis Rapid & Blitz Day 4: Nakamura Extends Lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85342295.cms\" />Sareen, an International Master whose wards Tania Sachdev (in 2009), Parimarjan Negi (2010) and Abhijeet Gupta (2013) won the last three Arjuna awards given away in chess, said he has prepared a blueprint for the region and he believes children above five can benefit from picking up chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-coach-vishal-sareen-has-plans-for-kashmiri-kids/articleshow/85342295.cms",
+         "pubDate" : "Sun, 15 Aug 2021 08:49:35 +0530",
+         "title" : "Chess coach Vishal Sareen has plans for Kashmiri kids"
+      },
+      {
          "description" : "18-year-old American grandmaster Awonder Liang collected 3&frac12; points in Saturday's four rounds to climb to sole first place at the Kramnik Challenge for young stars. Former co-leader Nodirbek Abdusattorov stumbled against Zhu Jhiner and now stands a full point behind, while Vincent Keymer kept up the pace and also scored 3&frac12; points on the third day action - the German grandmaster is in clear second place with three rounds to go. | Photo: Crystal Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,14 +368,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-3-lichessorg",
          "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
          "title" : "2021 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland after Day 2 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-sam-shankland-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QjDuuWhdSiE.jpg?itok=EGr5AvsS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-sam-shankland-interview-day-2",
-         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Sam Shankland Interview | Day 2"
       },
       {
          "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "Chessable Masters: Aronian and Le climb to shared second place"
       },
       {
-         "description" : "Chess.com is thrilled to announce that GM Fabiano Caruana, the 2018 world championship challenger, #1 rated American chess player, and longtime #2 player in the world, will be a Chess.com commentator for the 2021 World Chess Championship! The lege...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-joins-world-chess-championship-commentary",
-         "pubDate" : "Mon, 02 Aug 2021 07:56:00 -0700",
-         "title" : "GM Fabiano Caruana Joins Chess.com World Championship Commentary Team"
-      },
-      {
          "description" : " <p class=\"lead\">New features and updates for the <a href=\"https://arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Number of people waiting to get paired</h2> Arena is a new but growing platform, and the number of users is increasing every day, and the wait to be paired has gone down dramatically, to less than 5 seconds in most cases. We've added a very useful indicator on the front page - number of people who are waiting for an opponent. To start a new game, you can choose a time control and type of rating (unrated, or FIDE-rated), or click on the list of players who are wai",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2280,14 +2296,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/27/episode-236-dr-courtney-frey-adult-improver-series",
          "pubDate" : "Tue, 27 Jul 2021 11:56:10 +0000",
          "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
-      },
-      {
-         "description" : " &#8220;He who analyses blitz is stupid&#8221; GM Rashid Nezhmetdinov I am going to end the foray into the Canadian Youth Chess Championship 2021 with two games that reinforce what I have been talking about in this blog. We learn and practice new things throughout the year. This is done properly when we build on past <a href=\"https://chessimprover.com/tales-from-cycc-2021-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tales from CYCC 2021 (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tales-from-cycc-2021-4/\">Tales from CYCC 2021 (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tales-from-cycc-2021-4/",
-         "pubDate" : "Tue, 27 Jul 2021 09:30:34 +0000",
-         "title" : "Tales from CYCC 2021 (4)"
       },
       {
          "description" : "",
