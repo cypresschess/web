@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 40th instalment of his ChessBase show \"Understanding before Moving\", Herman travels down memory lane and takes another look at critical moves. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-40-the-critical-move-3",
+         "pubDate" : "Sun, 15 Aug 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 40: The Critical Move (3)"
+      },
+      {
+         "description" : "Hikaru Nakamura scored an unbeaten +3 on the first day of blitz to move to what looks like an unassailable 2.5-point lead over 2nd place Fabiano Caruana, who bounced back to score 50% after suffering three losses. Hikaru's real challenge is to stay top of the blitz live rating list, as he's now tied on 2892 with Magnus Carlsen. The day's other top performer was Liem Quang Le, who won five games as he matched Nakamura's 6/9 to climb out of the last place in which he finished the rapid.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-4-nakamura-cruising-to-victory",
+         "pubDate" : "Sun, 15 Aug 2021 13:32:01 +0000",
+         "title" : "STL Rapid & Blitz 4: Nakamura cruising to victory"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1270",
+         "pubDate" : "Sun, 15 Aug 2021 12:00:36 +0000",
+         "title" : "2021 STL Rapid & Blitz: Nakamura extends his lead"
+      },
+      {
          "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC). Follow the games live. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,12 +154,12 @@ news_feed (
          "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
       },
       {
-         "description" : "Gunay Mammadzada from Azerbaijan beat former sole leader Irina Bulmaga in round 5 to grab the shared lead on 4&frac12;/5 points. Iulija Osmak (Ukraine) and Aleksandra Maltevskaya (Russia) also have collected 4&frac12; points thus far. Round 6 begins at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "description" : "Six players are sharing the lead on 5 points after 6 rounds at the European Women's Championship in Iasi, Romania. Elina Danielian, Meri Arabidze and Oliwia Kiolbasa joined the leaders with wins in Saturday's sixth round. After a rest day, Round 7 is set to start on Monday at 14:00 CEST (8:00 ET, 12:00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
          "pubDate" : "Sat, 14 Aug 2021 13:45:00 +0100",
-         "title" : "European Individual Women's Chess Championship, Round 6 - Live!"
+         "title" : "European Women's Championship - Games and standings"
       },
       {
          "description" : "",
@@ -1226,14 +1250,6 @@ news_feed (
          "title" : "Chessable Masters QF: Aronian, Artemiev, Le, So Through To Semis"
       },
       {
-         "description" : "The Karjakin-Duda FIDE World Cup final got off to a false start when Sergey seemed to mix something up in the opening and could only force a draw in under 30 minutes with the white pieces. That left the stage clear for World Champion Magnus Carlsen to start getting over his loss to Duda with a beautiful game where his positional exchange sacrifice ultimately left Vladimir Fedoseev completely helpless as Magnus brought home the full point. Fedoseev now has to win on Thursday to prolong the match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-world-cup-8-1-a-carlsen-masterpiece",
-         "pubDate" : "Thu, 05 Aug 2021 09:03:11 +0000",
-         "title" : "FIDE World Cup 8.1: A Carlsen masterpiece"
-      },
-      {
          "description" : "Presidents Awards for Services to Chess Joe Conlon &#124; Andy Howie Contribution to Accessible Chess The UK Braille Chess Association Contribution to Women's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2234,14 +2250,6 @@ news_feed (
          "title" : "World Cup Highlights - Part 1"
       },
       {
-         "description" : "In round 1 of the classical part of the GM Tournament at the Biel Chess Festival three games ended with a decision. Alan Pichot won against Boris Gelfand, Kirill Alekseenko defeated Nihal Sarin and Gata Kamsky won against Noel Studer. Vincent Keymer and Maxime Lagarde drew. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-lively-start-of-the-classical-tournament",
-         "pubDate" : "Wed, 28 Jul 2021 09:34:11 +0100",
-         "title" : "Biel: Lively start of the classical tournament"
-      },
-      {
          "description" : "For the 2021/22 Fantasy Premier League why don't you join &#8216;Premier Chess', the number one League for chess players? Joining the league couldn't be easier....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2408,14 +2416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-holds-vasif-durarbayli-in-game-1/articleshow/84737778.cms",
          "pubDate" : "Sun, 25 Jul 2021 22:38:36 +0530",
          "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
-      },
-      {
-         "description" : " Harry Press has won the 2021 ACT Winter Open, finishing with 5.5/6. After beating FM Michael Kethro in round 5, he recovered from a losing position against Willis Lo to score the full point. In part he was aided by the need for Lo to win the game, as Lo avoided a repetition at one point, and in time trouble missed a saving move with his queen. IM Junta Ikeda (5/6) finished in 2nd place after beating WFM Alana Chibnall in the final round, while Fred Litchfield took outright third on 4.5. With only twenty players in the top section, the competition was fierce throughout, with Press's 6 games all being against players who finished in the next 6 places. Donghoon Shin won the Minor (Under 1600) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/2021-act-winter-open-win-for-press.html",
-         "pubDate" : "Sun, 25 Jul 2021 12:47:00 +0000",
-         "title" : "2021 ACT Winter Open - Win for Press "
       }
    ]
 }
