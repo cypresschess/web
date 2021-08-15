@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old German chess prodigy Vincent Keymer has qualified to play on the Meltwater Champions Chess Tour after a nerve-wracking final day of the Kramnik Challenge, the 3rd event on the $100,000 Julius Baer Challengers Chess Tour. He won a brilliant game in the penultimate round to overtake his main rival Awonder Liang, and then got the draw he needed in the final round only after twice coming back from the dead against Dinara Saduakassova.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/keymer-wins-kramnik-challenge-in-last-day-thriller",
+         "pubDate" : "Sun, 15 Aug 2021 21:38:35 +0000",
+         "title" : "Keymer wins Kramnik Challenge in last-day thriller"
+      },
+      {
+         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion has remained undefeated in the event, and entered the fifth day of action with a 2&frac12;-point lead over Fabiano Caruana. | Follow the games live with expert commentary. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Sun, 15 Aug 2021 21:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Liem Le after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-liem-le-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EyRwdDRBs3Q.jpg?itok=ZwW7K62Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-liem-le-interview-day-4",
+         "pubDate" : "Sun, 15 Aug 2021 20:19:21 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Liem Le Interview | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players in the fourth event of the 2021 Grand Chess Tour talk about what they did during the stay-at-home era of the COVID-19 pandemic. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-staying-shape\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I1GPUWXhs0.jpg?itok=LI27dGJZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-staying-shape",
+         "pubDate" : "Sun, 15 Aug 2021 20:19:21 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Staying in Shape"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85352221.cms\" />Indian Grandmaster S L Narayanan logged seven points from nine rounds to finish second in the tournament 'A' of the 10th Riga Technical University Open here on Sunday. Donchenko notched up 7.5 points from nine rounds and sealed the title with a win over Igor Kovalenko of Latvia in the final round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -74,7 +106,7 @@ news_feed (
          "title" : "2021 Saint Louis Rapid & Blitz: Lê Quang Liêm Interview | Day 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TV_cJu5Fl5U.jpg?itok=i-w9_q7O\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-4",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "Knight against Rook's Pawn"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lkEj9e0A2yA.jpg?itok=ZlTh-HQU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-4",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-3",
          "pubDate" : "Sun, 15 Aug 2021 03:00:00 +0100",
          "title" : "Kramnik Challenge: Liang sole leader"
-      },
-      {
-         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion now has remained undefeated in the event, and now has a 2&frac12;-point lead over Fabiano Caruana. | Replay all the games with computer analysis. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Sat, 14 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Nakamura unstoppable"
       },
       {
          "description" : "Blitz world no. 1 Hikaru Nakamura goes into the 18 rounds of blitz in Saint Louis in the sole lead after defeating Leinier Dominguez and Fabiano Caruana on the 3rd and final day of rapid chess. Hikaru is the only unbeaten player, but Fabi is still just a point behind despite also losing to the player with whom he shares 2nd place, Richard Rapport. There were dramatic blunders in many of the games, with few players managing to achieve consistency.",
@@ -280,22 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-3",
          "pubDate" : "Fri, 13 Aug 2021 19:12:00 -0700",
          "title" : "Saint Louis Rapid & Blitz Day 3: Nakamura Moves Into First, Rapport Rises"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players in the fourth event of the 2021 Grand Chess Tour talk about their long-awaited return to Saint Louis, after a pandemic caused the cancellation of the 2020 season. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-being-back-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VTQO_dmaDLs.jpg?itok=KG66SVuH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-being-back-saint-louis",
-         "pubDate" : "Fri, 13 Aug 2021 23:17:52 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Being Back in Saint Louis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OL7",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-3",
-         "pubDate" : "Fri, 13 Aug 2021 20:17:54 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Day 3"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>King of Games</strong>, the company of Slovenian GMs <strong>Dusko Pavasovic</strong> and <strong>Luka Lenic</strong>, whose lead product <a href=\"https://www.chesstech.org/2020/commercial-vibe/\">Chess Universe</a> has been downloaded a million times, <a href=\"https://venturebeat.com/2021/08/13/the-grand-masters-at-kings-of-games-raise-money-for-chess-universe/\">raised an undisclosed sum</a> from <strong>Transcend Fund</strong>, a major investor in game startups. </div> ",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/",
          "pubDate" : "Thu, 05 Aug 2021 15:31:27 +0000",
          "title" : "Coffeehouse Repertoire 1.e4 Volume 1"
-      },
-      {
-         "description" : "Hikaru Nakamura, Alireza Firouzja, Shakhriyar Mamedyarov and Jorden van Foreest were all knocked out of the Chessable Masters on Wednesday in a brutal day of quarterfinal action. Liem Quang Le needed just two games to oust Alireza, while Wesley So also started with two wins against Jorden before getting the draw he needed when both players overlooked a blunder in Game 3. Levon Aronian won after a heavyweight exchange of blows against Shakhriyar, while Vladislav Artemiev finally defeated Hikaru in Armageddon!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-5-nakamura-firouzja-mamedyarov-knocked-out",
-         "pubDate" : "Thu, 05 Aug 2021 14:18:40 +0000",
-         "title" : "Chessable Masters 5: Nakamura, Firouzja & Mamedyarov knocked out"
       },
       {
          "description" : "GM Gata Kamsky clinched the Biel Chess Festival Chess Triathlon on Wednesday. The American grandmaster won both the classical and rapid segments while GM Nihal Sarin won the blitz. Sarin came in third in the overall standings. GM Kirill Alekseenko...",
@@ -2408,14 +2408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1229",
          "pubDate" : "Mon, 26 Jul 2021 07:54:15 +0000",
          "title" : "Hans Niemann and Annie Wang win 2021 U.S. Junior Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1227",
-         "pubDate" : "Sun, 25 Jul 2021 20:57:50 +0000",
-         "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
       }
    ]
 }
