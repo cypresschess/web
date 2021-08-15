@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85352221.cms\" />Indian Grandmaster S L Narayanan logged seven points from nine rounds to finish second in the tournament 'A' of the 10th Riga Technical University Open here on Sunday. Donchenko notched up 7.5 points from nine rounds and sealed the title with a win over Igor Kovalenko of Latvia in the final round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-s-l-narayanan-finishes-second-in-riga-open-chess-tourney/articleshow/85352221.cms",
+         "pubDate" : "Sun, 15 Aug 2021 22:01:11 +0530",
+         "title" : "Indian GM Narayanan finishes second in Riga Open tourney"
+      },
+      {
+         "description" : "In this week's column, Jon Speelman looks at the dichotomy between energy and matter in chess. While some players choose material, others go for dynamism. To illustrate his points, Speelman analyses two recent wins by Magnus Carlsen and an early game by Mikhail Tal, in which he was able to recover and win from a material disadvantage \"of a mere two knights\"! | Pictured: Tal at the 1964 Amsterdam Interzonal | Photo: Harry Pot / Anefo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-152",
+         "pubDate" : "Sun, 15 Aug 2021 17:20:00 +0100",
+         "title" : "Initiating fission"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85351737.cms\" />Young Indian Grandmaster Raunak Sadhwani on Sunday emerged winner in the 19th Spilimbergo Open chess tournament with seven points from nine rounds. The 15-year old Sadhwani (Elo 2579) remained undefeated in the tourney, notching up five wins and four draws. His wins came against Italian Joshuaede Cappelletto, Aron Pasti of Hungary, Lorezno Lodici of Italy and France's Loic Travadon.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-raunak-sadhwani-wins-spilimbergo-open-chess-tourney/articleshow/85351737.cms",
+         "pubDate" : "Sun, 15 Aug 2021 21:33:48 +0530",
+         "title" : "India's Raunak Sadhwani wins Spilimbergo Open tourney"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has separated the functions of Executive Director and Sport Director <a href=\"https://www.schachbund.de/news/kevin-hoegy-wird-neuer-dsb-sportdirektor.html\">and appointed</a> <strong>Kevin H&ouml;gy</strong>, an experienced coach and <a href=\"https://www.linkedin.com/in/kevin-h%C3%B6gy-6202ba117\">event specialist</a>, who joined the federation headquarters two years ago for the German Youth Chess Association. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kevin-hoegy-appointed-sport-director/",
+         "pubDate" : "Sun, 15 Aug 2021 15:33:25 +0100",
+         "title" : "Kevin H&ouml;gy appointed Sport Director in Germany"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 40th instalment of his ChessBase show \"Understanding before Moving\", Herman travels down memory lane and takes another look at critical moves. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rtu-open-final-round",
          "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
-         "title" : "RTU Open: Final round - LIve!"
+         "title" : "RTU Open: Final round - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
@@ -98,12 +130,12 @@ news_feed (
          "title" : "Kramnik Challenge: Liang sole leader"
       },
       {
-         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion now has remained undefeated in the event, and now has a 2&frac12;-point lead over Fabiano Caruana. | Replay all the games with computer analysis. Full report to follow shortly. | Photo: Crystal Fuller",
+         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion now has remained undefeated in the event, and now has a 2&frac12;-point lead over Fabiano Caruana. | Replay all the games with computer analysis. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
          "pubDate" : "Sat, 14 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Games and results"
+         "title" : "St. Louis Rapid & Blitz - Nakamura unstoppable"
       },
       {
          "description" : "Blitz world no. 1 Hikaru Nakamura goes into the 18 rounds of blitz in Saint Louis in the sole lead after defeating Leinier Dominguez and Fabiano Caruana on the 3rd and final day of rapid chess. Hikaru is the only unbeaten player, but Fabi is still just a point behind despite also losing to the player with whom he shares 2nd place, Richard Rapport. There were dramatic blunders in many of the games, with few players managing to achieve consistency.",
@@ -608,14 +640,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/mike-hoffpauir-leads-us-chess/",
          "pubDate" : "Wed, 11 Aug 2021 05:13:25 +0100",
          "title" : "Successful meeting in New Jersey"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While <strong>Schachbundesliga</strong> has yet to complete the season started in 2019 with seven centrally played rounds on 13-17 October in Berlin, the second leagues have wrapped it up during the last week-end with each of the four groups holding two centrally played rounds. The <a href=\"https://www.schachbund.de/spielbetrieb-news/tegel-muenchen-heusenstamm-und-duesseldorf-in-der-1-bundesliga.html\">group winners</a> <strong>D&uuml;sseldorfer SK</strong>, <strong>SC Heusenstamm</strong>, <strong>M&uuml;nchener SC 1836</strong> and <strong>K&ouml;nig Tegel</strong> advance to Bundesliga. The level of the advancing teams and the announcement of <a h",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/germany-completes-the-2019-21/",
-         "pubDate" : "Wed, 11 Aug 2021 04:40:15 +0100",
-         "title" : "Germany completes the 2019-21 season"
       },
       {
          "description" : "Grandmaster Aleksandr Lenderman won the U.S. Open with 8&frac12; points out of 9 rounds. Mike Walder annotates Lenderman's wins over Grandmasters Hans Niemann and John Michael Burke. Alexey Root reports on the awards presentations, book signings, and meetings held at the U.S. Open's Cherry Hill, New Jersey site. | Photos: Alexey Root",
@@ -2242,14 +2266,6 @@ news_feed (
          "title" : "How To Prepare Against An Opponent In Chess"
       },
       {
-         "description" : "The 2021 FIDE World Cup in Sochi, Russia has narrowed down the 206 starting participants to just 8 remaining players. Canadian FM Joshua Doknjas analyzes some of the most interesting games from the first half of the event. | Photos: Anastasiia Korolka (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-highlights-part-1",
-         "pubDate" : "Wed, 28 Jul 2021 11:04:38 +0100",
-         "title" : "World Cup Highlights - Part 1"
-      },
-      {
          "description" : "For the 2021/22 Fantasy Premier League why don't you join &#8216;Premier Chess', the number one League for chess players? Joining the league couldn't be easier....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2400,22 +2416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1227",
          "pubDate" : "Sun, 25 Jul 2021 20:57:50 +0000",
          "title" : "FIDE endorsed festival \"Rudaga-Kaissa 2021\" kicks off in Jurmala"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1228",
-         "pubDate" : "Sun, 25 Jul 2021 19:20:05 +0000",
-         "title" : "Round 05 Game 01: Magnus Carlsen skates on thin ice"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84737778.cms\" /> India No.3 Vidit Santosh Gujrathi and his opponent Vasif Durarbayli of Azerbaijan played out a draw in the first game of the two-game mini match in the fifth round of the FIDE chess World Cup on Sunday. Grandmaster Gujrathi, ranked 22 in the world, and enjoying a higher FIDE rating than his rival, settled for a draw in 56 moves in a Slav variation game which stretched for over four hours.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-holds-vasif-durarbayli-in-game-1/articleshow/84737778.cms",
-         "pubDate" : "Sun, 25 Jul 2021 22:38:36 +0530",
-         "title" : "Chess World Cup: Vidit Gujrathi holds Vasif Durarbayli in Game 1"
       }
    ]
 }
