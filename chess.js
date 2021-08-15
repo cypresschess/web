@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC). Follow the games live. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-final-round",
+         "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
+         "title" : "RTU Open: Final round - LIve!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-l%C3%AA-quang-li%C3%AAm-interview-day-4",
+         "pubDate" : "Sun, 15 Aug 2021 08:19:01 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Lê Quang Liêm Interview | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-4",
+         "pubDate" : "Sun, 15 Aug 2021 08:19:01 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Hikaru Nakamura Interview | Day 4"
+      },
+      {
+         "description" : "Awonder Liang scored 3.5/4 on Saturday to take the sole lead in the Kramnik Challenge before the final three rounds on Sunday. The US Star could have had a bigger lead - or we could have had a 3-way tie for first - since his 123-move draw in the final game of the day against top seed Nodirbek Abdusattorov could have gone either way. Vincent Keymer is half a point back but plays Awonder in the penultimate round, while Christopher Yoo is also in the mix.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-challenge-3-awonder-leads-before-final-sprint",
+         "pubDate" : "Sun, 15 Aug 2021 08:06:38 +0000",
+         "title" : "Kramnik Challenge 3: Awonder leads before final sprint"
+      },
+      {
          "description" : " A couple of weeks ago I wrote about endings where a knight was trying to stop a rook's pawn. Coincidentally, the other day I reached this position with black (to move) in an online training game against a young pupil. He thought my knight was too far away to stop his a-pawn. I thought I <a href=\"https://chessimprover.com/knight-against-rooks-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn/\">Knight against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -352,22 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-2",
          "pubDate" : "Thu, 12 Aug 2021 19:21:00 -0700",
          "title" : "Saint Louis Rapid & Blitz Day 2: Caruana Increases Lead, Shankland Surges"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 2 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SFnGL5lfiJc.jpg?itok=vxrovHGs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-2",
-         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.08.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-3-lichessorg",
-         "pubDate" : "Fri, 13 Aug 2021 02:16:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
       },
       {
          "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "Chessable Masters: Le takes the lead against Firouzja"
       },
       {
-         "description" : "Levon Aronian needed just three games to beat Shakhriyar Mamedyarov while Liem Quang Le took down Alireza Firouzja on Day 1 of the Chessable Masters quarterfinals. Nakamura-Artemiev saw a relatively quiet 2:2, but the other tied match was sensational, with Jorden van Foreest defeating Wesley So in 19 moves and close to winning two of the other games. Wesley admitted he was \"very lucky to get two points\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-4-aronian-and-le-lead",
-         "pubDate" : "Wed, 04 Aug 2021 14:52:43 +0000",
-         "title" : "Chessable Masters 4: Aronian and Le lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85040549.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/esipenko-loses-to-carlsen-becomes-everyones-favorite-chess-playe/",
          "pubDate" : "Tue, 27 Jul 2021 19:16:20 +0000",
          "title" : "Esipenko Loses to Carlsen; Becomes Everyone's Favorite Chess Player"
-      },
-      {
-         "description" : "Svitlana Demchenko is back to present us her smart moves, especially after playing chess constantly in the last couple of weeks. The 17-year-old WIM left Canada, to travel to Serbia, Sochi, Moscow, and finally to Mykolayiv, Ukraine. She competed in the Serbian Open, and fought hard in the World Cup in Sochi, against a more than 300 rating points stronger opponent. Finally, she is playing a tournament in the Ukraine. Nonetheless, she made some time for a new episode, in which we take a look at her whole travel experience, her World Cup game, and play three blitz games against each other. | Photos: Svitlana Demchenko",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-8",
-         "pubDate" : "Tue, 27 Jul 2021 20:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Special World Cup Episode 8"
       },
       {
          "description" : " Recently I have bee using a 'script' metaphor to describe how chess games usually go. The idea is to remove some of the mystery of the game for new players, showing how most experienced players think about general planning. Of course it doesn't cover every type of game, but it does seem useful for players in the sub 1500 range. Act I - The Opening <ul style=\"text-align: left;\"><li>Move 2 or 3 pawns at the start, to help develop your pieces</li><li>Bring out Knights and Bishops (either NNBB or NBNB)</li><li>Castle</li><li>Move the queen a little bit, to help connect the rooks</li></ul>Act II - The Queen attacks <ul style=\"text-align: left;\"><li>Look at the position of your opponents king</li",
