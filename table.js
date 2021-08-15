@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target=' blank'>DER SPRINGERS AUGUST 2021</a>",
+"HOUSTON","2021-08-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108139412 target=' blank'>FLEXIBLEFRIDAYG60D5813</a>",
 "SPRING","2021-08-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202108139352 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-08-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108139292 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-12","2","<a href=http://www.uschess.org/msa/XtblMain.php?202108129062 target=' blank'>THURSQUADS2510</a>",
@@ -7,6 +9,7 @@ jtable([
 "SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target=' blank'>FBCC HOT AUGUST NIGHT 2021</a>",
 "CYPRESS","2021-08-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108066882 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108015962 target=' blank'>AUGSS81</a>",
+"HOUSTON","2021-07-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107309272 target=' blank'>FLEXIBLE FRIDAY G60D5729</a>",
 "SPRING","2021-07-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107304502 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-07-30","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107304472 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-07-06  - 07-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107274352 target=' blank'>JULY TUES NIGHT SWISS SPECIAL</a>",
@@ -196,7 +199,4 @@ jtable([
 "TOMBALL","2020-06-12","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006127612 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-06-06","19","<a href=http://www.uschess.org/msa/XtblMain.php?202006067722 target=' blank'>SR CHESSKNIGHTS 06062020</a>",
 "TOMBALL","2020-06-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202006056082 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-05-30","23","<a href=http://www.uschess.org/msa/XtblMain.php?202005305202 target=' blank'>SR CHESSKNIGHTS 05302020</a>",
-"TOMBALL","2020-05-29","14","<a href=http://www.uschess.org/msa/XtblMain.php?202005294872 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-05-23","22","<a href=http://www.uschess.org/msa/XtblMain.php?202005235162 target=' blank'>SR CHESSKNIGHTS 05232020</a>",
 ]);
