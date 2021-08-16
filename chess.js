@@ -98,7 +98,7 @@ news_feed (
          "title" : "Hikaru Nakamura wins 2021 Saint Louis Rapid and Blitz"
       },
       {
-         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 12 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
+         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 14 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
@@ -2456,14 +2456,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/",
          "pubDate" : "Tue, 27 Jul 2021 00:10:40 +0000",
          "title" : "Tactical Training In The Endgame"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1230",
-         "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
-         "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
       }
    ]
 }
