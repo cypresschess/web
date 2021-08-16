@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Without suffering a single defeat in 27 games of rapid and blitz, GM Hikaru Nakamura won the Saint Louis Rapid &#38;amp; Blitz leg of the 2021 Grand Chess Tour. GM Fabiano Caruana played several stunning games and deservedly took second place, which k...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-blitz-day-5",
+         "pubDate" : "Sun, 15 Aug 2021 20:54:00 -0700",
+         "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
+      },
+      {
+         "description" : " Share! Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare digestive that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/",
+         "pubDate" : "Mon, 16 Aug 2021 03:40:14 +0000",
+         "title" : "Detroit's Joseph Gadson passes away on 36th birthday"
+      },
+      {
          "description" : "A win with black over Igor Kovalenko in round 9 gave Alexander Donchenko tournament victory at the RTU Open in Riga. In the end, Donchenko was the only player to score 7&frac12; points, so he did not even need to bother with tiebreak-criteria calculations. After losing in round 3 against a lower-rated opponent, Donchenko sensationally won six games in a row to win the event! | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -858,7 +874,7 @@ news_feed (
          "title" : "Wesley So Wins Chessable Masters 2021"
       },
       {
-         "description" : " Share!80 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
@@ -1664,14 +1680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d2",
          "pubDate" : "Mon, 02 Aug 2021 22:45:00 +0100",
          "title" : "Alexandra Kosteniuk triumphs in Women's World Cup"
-      },
-      {
-         "description" : "Chess.com is happy to announce the release of tablebases inside of our Analysis page, a new tool that will help you get even better in the endgame! Combined with our recently released Endgame page, this new feature is everything you need to domina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-new-tablebase-feature",
-         "pubDate" : "Mon, 02 Aug 2021 13:40:00 -0700",
-         "title" : "Chess.com Announces New Tablebase Feature"
       },
       {
          "description" : "",
