@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1275",
+         "pubDate" : "Mon, 16 Aug 2021 14:46:10 +0000",
+         "title" : "Bulgaria to stage Junior U21 Round Table Chess Championship"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2021 ahead of the Sinquefield Cup. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez, Quang Liem Le, Jeffery Xiong, Hikaru Nakamura, Sam Shankland and Peter Svidler. Hikaru Nakamura won the combined standings ahead of Fabiano Caruana and Richard Rapport. After a very poor last place in the Rapid Le Quang Liem finished third in the blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2021",
+         "pubDate" : "Mon, 16 Aug 2021 18:03:00 +0400",
+         "title" : "Saint Louis Rapid & Blitz 2021 - Games and Results"
+      },
+      {
+         "description" : " The ACT Government has extended the Covid lockdown for another 2 weeks, so there will be no face to face chess before the 3rd of September. The ACT Chess Association has decided to organise some online events in the meantime, to keep everyone happy and (chess) active. The events will be held on the lichess server and will probably operate in a similar way to last year. To sign up you need a Lichess account (always free) and then apply to join the <a href=\"https://lichess.org/team/actca-fast-chess-club\">https://lichess.org/team/actca-fast-chess-club</a> When you apply to join, please supply your real name, and which local chess club or activity you are connected to. The first event (a 5 roun",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/returning-to-online-chess.html",
+         "pubDate" : "Mon, 16 Aug 2021 13:03:00 +0000",
+         "title" : "Returning to online chess"
+      },
+      {
+         "description" : "After six rounds six players are sharing the lead with 5.0/6 each at the European Women's Championship in Iasi, Romania. After a rest day on Sunday, round 7 starts on Monday at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Mon, 16 Aug 2021 13:45:00 +0100",
+         "title" : "European Women's Championship, Round 7 - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1274",
+         "pubDate" : "Mon, 16 Aug 2021 11:56:58 +0000",
+         "title" : "Decisions of 2021 2nd FIDE Council Meeting"
+      },
+      {
          "description" : "Hikaru Nakamura has won the St. Louis Rapid &amp; Blitz with three rounds to spare, remaining unbeaten and winning both the rapid and blitz sections, but a perfect day was spoilt by losing the no. 1 spot on the blitz live rating list. Magnus Carlsen is now the world no. 1 in classical, rapid and blitz and lost no time in trolling Hikaru with what the US star called \"some ridiculous tweet\". Fabiano Caruana's hopes of first place died when he lost to Hikaru, but he took clear second place, with Richard Rapport sealing 3rd.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1271",
          "pubDate" : "Mon, 16 Aug 2021 09:24:25 +0000",
          "title" : "FIDE Women's Candidates Tournament 2022 - Call for bids"
+      },
+      {
+         "description" : " The Kramnik Challenge was the latest event in the Julius Baer Challengers Chess Tour. Vincent Keymer edged out Awonder Liang on tie-break (he beat him in their individual game) after both scored 11.5/15. Keymer qualifies for the next Champions Chess Tour online event.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/kramnik-challenge-2021",
+         "pubDate" : "Mon, 16 Aug 2021 13:13:00 +0400",
+         "title" : "Kramnik Challenge 2021 - "
       },
       {
          "description" : "In a remarkable exhibition of speed and control, Hikaru Nakamura won the Saint Louis Rapid and Blitz Tournament with three rounds to spare, going through 27 rounds undefeated against a field completely made up of 2700+ rated players. Fabiano Caruana and Richard Rapport finished second and third respectively. | Photo: Lennart Ootes",
@@ -98,7 +146,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share!3 Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare digestive that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website<",
+         "description" : " Share!3 Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/",
@@ -768,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ryo-chen-wins-2021-chesskid-youth-speed-chess-championship",
          "pubDate" : "Tue, 10 Aug 2021 08:41:03 -0700",
          "title" : "NM Ryo Chen Wins 2021 ChessKid Youth Speed Chess Championship"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz takes place 11th to 15th August 2021. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez, Quang Liem Le, Jeffery Xiong, Hikaru Nakamura, Sam Shankland and Peter Svidler. Play starts at 9pm UK time and the final round of the rapid starts at midnight each day. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2021",
-         "pubDate" : "Tue, 10 Aug 2021 18:03:00 +0400",
-         "title" : "Saint Louis Rapid & Blitz 2021 - Games and Results"
       },
       {
          "description" : " Things I did not write on my census form <ul style=\"text-align: left;\"><li>Religion: I worship Caissa</li><li>Job: World Champion</li><li>Hours worked last week: 0</li><li>Type of dwelling: A giant rook</li><li>Number of bedrooms: 64</li><li>How did you travel to work: On horseback</li><li>Where were you born: In a hospital</li><li>Highest level of educational qualification: GM</li></ul> ",
@@ -2272,14 +2312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1233",
          "pubDate" : "Wed, 28 Jul 2021 19:49:04 +0000",
          "title" : "Round 06 Game 01: One foot in the semi-finals for Carlsen"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a close look at the encounter between Magnus Carlsen and Radoslaw Wojtaszek at the FIDE World Cup 2021 - a game full of tactical blows and surprises. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-474-m-carlsen-r-wojtaszek",
-         "pubDate" : "Wed, 28 Jul 2021 18:00:00 +0100",
-         "title" : "Game of the Week 474: M. Carlsen - R. Wojtaszek"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84834838.cms\" />Indian Grandmaster Nihal Sarin held veteran GM Boris Gelfand to a draw in the second round of the classical section of the Biel International Chess Festival on Wednesday. Sarin recovered after losing a seven-hour marathon to No.1 seed Kiril Alekseenko (Russia) late on Tuesday to hold Gelfand in 33 moves.",
