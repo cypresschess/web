@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two wins and a draw on the fourth day of action granted Vincent Keymer tournament victory at the Kramnik Challenge for young stars. Most importantly, Keymer beat Awonder Liang in the penultimate round - Keymer and Liang would end the event tied in points, and the result in their direct encounter was the tiebreak decider that gave the German prodigy first place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-4",
+         "pubDate" : "Mon, 16 Aug 2021 18:30:00 +0100",
+         "title" : "Keymer edges out Liang to win Kramnik Challenge"
+      },
+      {
+         "description" : "Svitlana and Karsten discuss endgames and Svitlana's forthcoming ChessBase products. Svitlana also presents endgames from her own games and solves a study by Karsten. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-156-with-svitlana-demchenko",
+         "pubDate" : "Mon, 16 Aug 2021 18:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #156 - with Svitlana Demchenko"
+      },
+      {
+         "description" : "The 15-year old Sadhwani (Elo 2579) remained undefeated in the tourney, notching up five wins and four draws.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32033657/raunak-sadhwani-wins-spilimbergo-open-chess-tourney?device=featurephone",
+         "pubDate" : "Mon, 16 Aug 2021 11:59:01 -0500",
+         "title" : "Sadhwani wins Spilimbergo Open chess tourney"
+      },
+      {
+         "description" : "The 2nd Online Seminar on applying for and running an Erasmus+ project will be held on Friday, 17th September, 2021, from 15:00 till 17:00 CET. The European Union has increased its participation in the fund Erasmus+. ECU Education, and its' members, has been part of several successful applications and projects. In two seminars Jesper Bergmark Hall and Alessandro&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/erasmus-online-seminar/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/erasmus-online-seminar/",
+         "pubDate" : "Mon, 16 Aug 2021 16:10:16 +0000",
+         "title" : "Erasmus+ Online Seminar"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -146,7 +178,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share!3 Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a",
+         "description" : " Share!121 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/",
@@ -2274,14 +2306,6 @@ news_feed (
          "title" : "Biel, Round 2: Four draws, long games, lots of fight"
       },
       {
-         "description" : "The International Koltanowski Conference on Chess in Education is being held July 29 - 30, 2021 at the Crowne Plaza Philadelphia Cherry Hill. Audience will attend in person and online. The Conference will be streamed and available for later viewing. With panelists and speakers active in their specialties, the conference emphasizes praxis. | Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-education-3rd-international-koltanowski-conference",
-         "pubDate" : "Thu, 29 Jul 2021 10:00:00 +0100",
-         "title" : "Chess in Education: 3rd International Koltanowski Conference"
-      },
-      {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 Shankland's [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2296,14 +2320,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/",
          "pubDate" : "Thu, 29 Jul 2021 00:10:32 +0000",
          "title" : "The Modernized Sveshnikov"
-      },
-      {
-         "description" : "Magnus Carlsen and Sam Shankland made a big step towards reaching the semifinals of the 2021 FIDE World Cup in Sochi, as they kicked off their matches against Etienne Bacrot and Sergey Karjakin with victories. While Carlsen displayed excellent dynamic feel for the position to win with the black pieces, it was Shankland's endgame technique which allowed him to make the most of an unlikely blunder by his opponent. | Expert analysis by GM Karsten M&uuml;ller. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d1",
-         "pubDate" : "Wed, 28 Jul 2021 22:35:00 +0100",
-         "title" : "World Cup: Carlsen and Shankland strike"
       },
       {
          "description" : "",
@@ -2448,30 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1230",
          "pubDate" : "Mon, 26 Jul 2021 21:13:41 +0000",
          "title" : "Round 05 Game 02: Shankland and Vidit advance in the World Cup"
-      },
-      {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 5) Bracket 1 1 Carlsen, Magnus NOR &frac12;-&frac12; Esipenko, Andrey RUS 2 Bacrot, Etienne FRA &frac12;-&frac12; Piorun, Kacper POL Bracket 2 3 Grischuk, Alexander RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 4 Vidit, Santosh Gujrathi IND &frac12;-&frac12; Durarbayli, Vasif AZE Bracket 3 5 Fedoseev, Vladimir RUS &frac12;-&frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/\">2021 FIDE World Cup: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/26/2021-fide-world-cup-round-5/",
-         "pubDate" : "Mon, 26 Jul 2021 16:59:40 +0000",
-         "title" : "2021 FIDE World Cup: Round #5"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84766596.cms\" />India No.3 Vidit Gujrathi defeated Vasif Durarbayli 1.5-0.5 to reach the quarterfinals of the FIDE chess World Cup on Monday. The 26-year old Grandmaster came up with an impressive display to tame his lower-rated Azerbaijan opponent, winning in 38 moves in his fifth round encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-indias-vidit-gujrathi-enters-quarter-finals/articleshow/84766596.cms",
-         "pubDate" : "Mon, 26 Jul 2021 22:06:38 +0530",
-         "title" : "Chess World Cup: India's Vidit Gujrathi enters quarter-finals"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Facebook-post---example1.png\" width=\"2560\" height=\"1339.7333333333\" alt=\"\" /> </div> World Chess, a media and gaming company that organizes the 2022 FIDE Grand Prix Series in collaboration with the International Chess Federation, announced its search for the best city to host the series. For the city which ends up hosting the events, it means 45 days of top-level chess over the course of three months and public programs that celebrate the sport that usually accompanies top-level chess tournaments. World Chess organized the World Championship matches and other events in New York, London, Hamburg, Sharjah, Sochi, and",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-and-fide-ask-the-chess-community-to-suggest-a-city-t/",
-         "pubDate" : "Mon, 26 Jul 2021 16:04:25 +0000",
-         "title" : "World Chess and FIDE Ask The Chess Community to Suggest a City to Host the Grand Prix Series"
       }
    ]
 }
