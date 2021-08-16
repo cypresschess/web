@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target=' blank'>AUGSUNSWISSG60D5815</a>",
 "SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target=' blank'>DER SPRINGERS AUGUST 2021</a>",
 "HOUSTON","2021-08-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108139412 target=' blank'>FLEXIBLEFRIDAYG60D5813</a>",
 "SPRING","2021-08-13","22","<a href=http://www.uschess.org/msa/XtblMain.php?202108139352 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -15,6 +16,7 @@ jtable([
 "HOUSTON","2021-07-06  - 07-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107274352 target=' blank'>JULY TUES NIGHT SWISS SPECIAL</a>",
 "HOUSTON","2021-07-25","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107252492 target=' blank'>SUNSWISSJULY25</a>",
 "HOUSTON","2021-07-23  - 07-25","371","<a href=http://www.uschess.org/msa/XtblMain.php?202107252332 target=' blank'>U.S. CLASS CHESS CHAMPIONSHIPS</a>",
+"HOUSTON","2021-07-03  - 07-24","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107240682 target=' blank'>WEEKLYSATSWISSG90D30</a>",
 "PEARLAND","2021-07-22  - 07-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202107236092 target=' blank'>SCS CLUBHOUSE CAMP II</a>",
 "HOUSTON","2021-07-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107232932 target=' blank'>JULYFRIDAYFLEX723</a>",
 "CYPRESS","2021-07-23","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107231442 target=' blank'>07232021KOFC</a>",
@@ -197,6 +199,4 @@ jtable([
 "TOMBALL","2020-06-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006199262 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-06-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202006137742 target=' blank'>SR CHESSKNIGHTS 06132020</a>",
 "TOMBALL","2020-06-12","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006127612 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-06-06","19","<a href=http://www.uschess.org/msa/XtblMain.php?202006067722 target=' blank'>SR CHESSKNIGHTS 06062020</a>",
-"TOMBALL","2020-06-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202006056082 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
