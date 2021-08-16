@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A win with black over Igor Kovalenko in round 9 gave Alexander Donchenko tournament victory at the RTU Open in Riga. In the end, Donchenko was the only player to score 7&frac12; points, so he did not even need to bother with tiebreak-criteria calculations. After losing in round 3 against a lower-rated opponent, Donchenko sensationally won six games in a row to win the event! | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-2021-final-report",
+         "pubDate" : "Mon, 16 Aug 2021 03:40:00 +0100",
+         "title" : "Donchenko scores six wins in a row, gets clear first place at RTU Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, Grandmaster Maurice Ashley hosts the 2021 Saint Louis Rapid &amp; Blitz closing ceremony, in conjunction with the Sinquefield Cup opening ceremony. These events are the fourth and fifth legs of the 2021 Grand Chess Tour. Cup play begins Tuesday, August 17, 2021 at 2:50 P.M. CDT. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-sinquefield-cup-closing-opening-ceremonies\"><img src=\"https://saintlouis",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-sinquefield-cup-closing-opening-ceremonies",
+         "pubDate" : "Sun, 15 Aug 2021 23:19:20 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz | Sinquefield Cup: Closing & Opening Ceremonies"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-1",
+         "pubDate" : "Sun, 15 Aug 2021 23:19:20 +0000",
+         "title" : "2021 Sinquefield Cup: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmasters Alejandro Ramirez and Yasser Seirawan talk to Garry Kasparov during Day 5 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-garry-kasparov-interview-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a76iWy26GFA.jpg?itok=7Ckp3a1r\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-garry-kasparov-interview-day-5",
+         "pubDate" : "Sun, 15 Aug 2021 23:19:20 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Garry Kasparov Interview | Day 5"
+      },
+      {
          "description" : "16-year-old German chess prodigy Vincent Keymer has qualified to play on the Meltwater Champions Chess Tour after a nerve-wracking final day of the Kramnik Challenge, the 3rd event on the $100,000 Julius Baer Challengers Chess Tour. He won a brilliant game in the penultimate round to overtake his main rival Awonder Liang, and then got the draw he needed in the final round only after twice coming back from the dead against Dinara Saduakassova.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -272,30 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-5",
          "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
          "title" : "2021 Saint Louis Rapid & Blitz: Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Richard Rapport after Day 3 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-richard-rapport-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UbZ4OfPMZOQ.jpg?itok=lzFFDlZB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-richard-rapport-interview-day-3",
-         "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Richard Rapport Interview | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Jeffery Xiong after Day 3 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-jeffery-xiong-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jNVM0PxUMeA.jpg?itok=5kB3lhe-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-jeffery-xiong-interview-day-3",
-         "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Jeffery Xiong Interview | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 3 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PwvI9i-1nf0.jpg?itok=Oj5nupoA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-3",
-         "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Hikaru Nakamura Interview | Day 3"
       },
       {
          "description" : "GM Hikaru Nakamura won the rapid stage of the Saint Louis tournament on the strength of his two wins on the last day. Nakamura goes into the blitz portion of the event a point ahead of GMs Fabiano Caruana and Richard Rapport, as the latter matched...",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-cup-2021-start-of-the-quarterfinals/",
          "pubDate" : "Wed, 28 Jul 2021 13:41:58 +0000",
          "title" : "FIDE WORLD CUP 2021 - Start of the Quarterfinals"
-      },
-      {
-         "description" : "Only after an extremely tense struggle did Magnus Carlsen manage to knock out Andrey Esipenko to reach the quarterfinals of the FIDE World Cup in Sochi, where he will face Etienne Bacrot. Jan-Krzysztof Duda, Vladimir Fedoseev, Amin Tabatabaei and Sergey Karjakin also went through. In the women's section, Anna Muzychuk knocked out Nana Dzagnidze and qualified to the Candidates. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r5-d3",
-         "pubDate" : "Wed, 28 Jul 2021 13:45:00 +0100",
-         "title" : "World Cup: Carlsen's close call"
       },
       {
          "description" : " The pairings of the next round are out. You have around 18 hours to prepare against your upcoming opponent. What do you do at this time? And what would a Grandmaster do in this time? That is what I am going to answer in this article. The short version is: Gather information on the opponent [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/\">How To Prepare Against An Opponent In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
