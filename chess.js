@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura has won the St. Louis Rapid &amp; Blitz with three rounds to spare, remaining unbeaten and winning both the rapid and blitz sections, but a perfect day was spoilt by losing the no. 1 spot on the blitz live rating list. Magnus Carlsen is now the world no. 1 in classical, rapid and blitz and lost no time in trolling Hikaru with what the US star called \"some ridiculous tweet\". Fabiano Caruana's hopes of first place died when he lost to Hikaru, but he took clear second place, with Richard Rapport sealing 3rd.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-wins-st-louis-rapid-blitz-loses-no-1-spot",
+         "pubDate" : "Mon, 16 Aug 2021 11:28:14 +0000",
+         "title" : "Nakamura wins St. Louis Rapid & Blitz, loses no. 1 spot"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1273",
+         "pubDate" : "Mon, 16 Aug 2021 10:50:23 +0000",
+         "title" : "19th European Union Youth Championship 2021 kicks off in Kouty nad Desnou"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1272",
+         "pubDate" : "Mon, 16 Aug 2021 10:39:59 +0000",
+         "title" : "Hikaru Nakamura wins 2021 Saint Louis Rapid and Blitz"
+      },
+      {
+         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 12 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
+         "pubDate" : "Mon, 16 Aug 2021 10:26:41 +0000",
+         "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
+      },
+      {
+         "description" : "Greg was born in 1947 and as far as we're aware has always lived in Norfolk and went to school in the area. He was...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/greg-tebble-obituary/",
+         "pubDate" : "Mon, 16 Aug 2021 09:27:29 +0000",
+         "title" : "Greg Tebble obituary"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1271",
+         "pubDate" : "Mon, 16 Aug 2021 09:24:25 +0000",
+         "title" : "FIDE Women's Candidates Tournament 2022 - Call for bids"
+      },
+      {
+         "description" : "In a remarkable exhibition of speed and control, Hikaru Nakamura won the Saint Louis Rapid and Blitz Tournament with three rounds to spare, going through 27 rounds undefeated against a field completely made up of 2700+ rated players. Fabiano Caruana and Richard Rapport finished second and third respectively. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-5",
+         "pubDate" : "Mon, 16 Aug 2021 09:45:00 +0100",
+         "title" : "Dominant victory for Hikaru Nakamura in Saint Louis"
+      },
+      {
+         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 16th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/nominations-for-the-2021-elections-at-the-agm/",
+         "pubDate" : "Mon, 16 Aug 2021 08:27:13 +0000",
+         "title" : "Nominations for the 2021 elections at the AGM"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Richard Rapport after Day 5 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-richard-rapport-interview-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1M8E4b7JbPE.jpg?itok=qjfyEn2v\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-richard-rapport-interview-day-5",
+         "pubDate" : "Mon, 16 Aug 2021 08:19:42 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Richard Rapport Interview | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 5 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n2BVIddmHSk.jpg?itok=-juipsuU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-5",
+         "pubDate" : "Mon, 16 Aug 2021 08:19:42 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 5 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Tl_Sa0tb30c.jpg?itok=evQidRJr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-5",
+         "pubDate" : "Mon, 16 Aug 2021 08:19:42 +0000",
+         "title" : "2021 Saint Louis Rapid & Blitz: Hikaru Nakamura Interview | Day 5"
+      },
+      {
          "description" : "Without suffering a single defeat in 27 games of rapid and blitz, GM Hikaru Nakamura won the Saint Louis Rapid &#38;amp; Blitz leg of the 2021 Grand Chess Tour. GM Fabiano Caruana played several stunning games and deservedly took second place, which k...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,7 +98,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share! Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare digestive that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</",
+         "description" : " Share!3 Joseph Gadson (Detroit, USA)Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare digestive that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe stomach [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website<",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/",
@@ -56,14 +144,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/keymer-wins-kramnik-challenge-in-last-day-thriller",
          "pubDate" : "Sun, 15 Aug 2021 21:38:35 +0000",
          "title" : "Keymer wins Kramnik Challenge in last-day thriller"
-      },
-      {
-         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion has remained undefeated in the event, and entered the fifth day of action with a 2&frac12;-point lead over Fabiano Caruana. | Follow the games live with expert commentary. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Sun, 15 Aug 2021 21:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Liem Le after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-liem-le-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EyRwdDRBs3Q.jpg?itok=ZwW7K62Z\" alt=\"\" /></a></div>",
@@ -122,6 +202,14 @@ news_feed (
          "title" : "Understanding before Moving 40: The Critical Move (3)"
       },
       {
+         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion has remained undefeated in the event, and entered the fifth day of action with a 2&frac12;-point lead over Fabiano Caruana. | Follow the games live with expert commentary. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
+         "pubDate" : "Sun, 15 Aug 2021 14:55:00 +0100",
+         "title" : "St. Louis Rapid & Blitz - Nakamura wins"
+      },
+      {
          "description" : "Hikaru Nakamura scored an unbeaten +3 on the first day of blitz to move to what looks like an unassailable 2.5-point lead over 2nd place Fabiano Caruana, who bounced back to score 50% after suffering three losses. Hikaru's real challenge is to stay top of the blitz live rating list, as he's now tied on 2892 with Magnus Carlsen. The day's other top performer was Liem Quang Le, who won five games as he matched Nakamura's 6/9 to climb out of the last place in which he finished the rapid.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -176,14 +264,6 @@ news_feed (
          "link" : "https://chessimprover.com/knight-against-rooks-pawn/",
          "pubDate" : "Sun, 15 Aug 2021 06:56:42 +0000",
          "title" : "Knight against Rook's Pawn"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lkEj9e0A2yA.jpg?itok=ZlTh-HQU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-fabiano-caruana-interview-day-4",
-         "pubDate" : "Sun, 15 Aug 2021 05:19:04 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Fabiano Caruana Interview | Day 4"
       },
       {
          "description" : "GM Hikaru Nakamura proves to be in a league of his own, as he has increased his lead after the first day of blitz to 2.5 points without suffering a single defeat. GM Fabiano Caruana is leading in the battle for second place, while GM Richard Rappo...",
@@ -258,14 +338,6 @@ news_feed (
          "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
       },
       {
-         "description" : "Six players are sharing the lead on 5 points after 6 rounds at the European Women's Championship in Iasi, Romania. Elina Danielian, Meri Arabidze and Oliwia Kiolbasa joined the leaders with wins in Saturday's sixth round. After a rest day, Round 7 is set to start on Monday at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Sat, 14 Aug 2021 13:45:00 +0100",
-         "title" : "European Women's Championship - Games and standings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -304,22 +376,6 @@ news_feed (
          "link" : "https://aicf.in/2021-asian-university-chess-championship/",
          "pubDate" : "Sat, 14 Aug 2021 04:20:25 +0000",
          "title" : "2021 Asian University Chess Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xtF",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-4",
-         "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The fifth Saint Louis Rapid &amp; Blitz is the fourth leg of the 2021 Grand Chess Tour. Nine rapid rounds, 18 blitz rounds, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xca",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-day-5",
-         "pubDate" : "Sat, 14 Aug 2021 02:17:59 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Day 5"
       },
       {
          "description" : "GM Hikaru Nakamura won the rapid stage of the Saint Louis tournament on the strength of his two wins on the last day. Nakamura goes into the blitz portion of the event a point ahead of GMs Fabiano Caruana and Richard Rapport, as the latter matched...",
@@ -1120,14 +1176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
          "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
          "title" : "Update in the Sicilian Four Knights Variation"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda has won the 2021 FIDE World Cup after a brilliant win over Sergey Karjakin in the final classical game. The 23-year-old Polish star didn't lose a single game all tournament, with World Champion Magnus Carlsen describing the player who beat him in the semi-finals as a \"richly deserved winner\". Magnus himself wrapped things up in style to take 3rd place by beautifully crushing Vladimir Fedoseev for a second day in a row. He was happy to have won eight classical games and lost none during the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-krzysztof-duda-wins-the-fide-world-cup",
-         "pubDate" : "Fri, 06 Aug 2021 09:34:02 +0000",
-         "title" : "Jan-Krzysztof Duda wins the FIDE World Cup"
       },
       {
          "description" : "The 2021 FIDE World Cup 2021 concluded yesterday in Sochi, while FIDE Women's World Cup ended on the 3rd of August. 23 years old Duda Jan-Krzysztof (POL) became the Winner of the event after defeating Sergey Karjakin (RUS) in the final match with a convincing 1.5-0.5 result. The first game of the match ended in a draw, but&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/\">Read More &#187;</a></span>",
@@ -2392,30 +2440,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-and-fide-ask-the-chess-community-to-suggest-a-city-t/",
          "pubDate" : "Mon, 26 Jul 2021 16:04:25 +0000",
          "title" : "World Chess and FIDE Ask The Chess Community to Suggest a City to Host the Grand Prix Series"
-      },
-      {
-         "description" : "The 2021 FIDE World Chess Cup reached the 5th round. Only 16 players emerged in the Open event and 8 players in the Women's section. The first games of the Round 5 ended in a peaceful manner. Only one game in the Open section and one game in the Women's section ended with decisive results. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-calm-before-the-storm/",
-         "pubDate" : "Mon, 26 Jul 2021 10:58:14 +0000",
-         "title" : "FIDE WORLD CUP R5- Calm before the storm"
-      },
-      {
-         "description" : "The National Chess Library has arrived safely at its new home in De Montfort University in Leicester. Here is a link to a light-hearted blog...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/national-chess-library-news/",
-         "pubDate" : "Mon, 26 Jul 2021 08:03:56 +0000",
-         "title" : "National Chess Library news"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1229",
-         "pubDate" : "Mon, 26 Jul 2021 07:54:15 +0000",
-         "title" : "Hans Niemann and Annie Wang win 2021 U.S. Junior Championships"
       }
    ]
 }
