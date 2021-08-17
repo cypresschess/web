@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on August 17-26 at the Saint Louis Chess Club. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Amateurs enjoying the summer days outside the playing venue | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Tue, 17 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2274,14 +2282,6 @@ news_feed (
          "title" : "New: CBM Extra #202"
       },
       {
-         "description" : "Three years ago Vincent Keymer defeated Boris Gelfand at the Isle of Man Open in a sensational game. In round 3 of the Grandmaster Tournament in Biel Gelfand, Vice World Champion 2012, now took a form of revenge and outplayed the young German Grandmaster. In the second decisive game of the round Noel Studer won against Maxime Lagarde. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-3-keymer-loses-against-gelfand",
-         "pubDate" : "Fri, 30 Jul 2021 11:27:43 +0100",
-         "title" : "Biel, Round 3: Keymer loses against Gelfand"
-      },
-      {
          "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2456,14 +2456,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-raunak-nets-silver-in-otb-portuguese-chess-league/articleshow/84814247.cms",
          "pubDate" : "Wed, 28 Jul 2021 09:31:12 +0530",
          "title" : "Unbeaten Raunak nets silver in OTB Portuguese Chess League"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1232",
-         "pubDate" : "Tue, 27 Jul 2021 21:20:12 +0000",
-         "title" : "Round 05 tiebreaks: A close scrape for Carlsen"
       }
    ]
 }
