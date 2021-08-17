@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The return of online chess events in Canberra saw some exciting chess played. Fred Litchfield had a nice tactical win against the Dragon, while Mark Hummel wheeled out the Traxler to great effect. Playing Max Albert in the last round, both players seemed a little unsure of what theory was, and there were a few inexact moves. In an effort to free up some of his pieces, Hummel decided to take his king for a walk, and it was at this point Albert missed a crushing move (19. Nc3!). Instead he threatened mate in 1, but as in a lot of Traxler games, it was Black who mated first. <br /> <b>Albert,Max (2141) - Hummel,Mark (2085) [C57]</b><br />ACTCA Rapid - 17 August 2021 https://lichess.org/pnMu1nh",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/traxler-ftw.html",
+         "pubDate" : "Tue, 17 Aug 2021 13:03:00 +0000",
+         "title" : "Traxler FTW"
+      },
+      {
+         "description" : "After seven rounds Julija Osmak from Ukraine and the young Russian WGM Aleksandra Maltsevskaya share the lead in the European Women's Championship in Iasi/Romania with 6 out of 7 each. They will meet in the top match of Round 8, which starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Tue, 17 Aug 2021 13:45:00 +0100",
+         "title" : "European Women's Championship, Round 8 - Live"
+      },
+      {
          "description" : "The John G. White Collection of Chess and Checkers is the largest and most comprehensive collection of printed material on chess. While its physical location is Cleveland, Ohio, chess researchers and aficionados may also view parts of the collection online. On July 21, 2021, Woman International Master Alexey Root visited the Cleveland Public Library, which houses the collection. | Photos: Alexey Root",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/john-g-white-collection-of-chess-and-checkers",
          "pubDate" : "Tue, 17 Aug 2021 12:30:00 +0100",
          "title" : "John G. White Collection of Chess and Checkers"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1276",
+         "pubDate" : "Tue, 17 Aug 2021 11:22:29 +0000",
+         "title" : "Alexander Donchenko wins RTU Open 2021"
       },
       {
          "description" : " <p class=\"lead\">As Afghanistan falls to the Taliban, lives of many people will change dramatically, and that unfortunately includes those who play chess, because apparently the Taliban do not approve of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Cave.png\" width=\"1600\" height=\"1052\" alt=\"\" /> <div class=\"e2-text-caption\">One of several tunnel entrances in Afghanistan partially blocked by twisted metal supports. US Deputy Secretary of Defense Ashton B. Carter visited the tunnels and a nearby Taliban stronghold May 14, 2013. Photo: Wikimedia</div> </div> World Chess, the official FIDE gaming platform, has 64 subscribers from Afghanistan, and we reached ",
@@ -1738,7 +1762,7 @@ news_feed (
          "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru ( and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=1",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru (and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=10",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
@@ -2250,14 +2274,6 @@ news_feed (
          "title" : "Biel, Round 3: Keymer loses against Gelfand"
       },
       {
-         "description" : "Jan-Krzysztof Duda will face Magnus Carlsen in the semifinals of the FIDE World Cup. The Polish grandmaster knocked out Vidit after the latter erred in a sharp endgame. Russian GMs Vladimir Fedoseev and Sergey Karjakin also won on Thursday - the former moved on to the semis, while the latter levelled the score in his match against Sam Shankland. In the women's section, both semifinal encounters finished drawn. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d2",
-         "pubDate" : "Fri, 30 Jul 2021 09:20:00 +0100",
-         "title" : "World Cup: Duda knocks out Vidit"
-      },
-      {
          "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2448,22 +2464,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/esipenko-loses-to-carlsen-becomes-everyones-favorite-chess-playe/",
          "pubDate" : "Tue, 27 Jul 2021 19:16:20 +0000",
          "title" : "Esipenko Loses to Carlsen; Becomes Everyone's Favorite Chess Player"
-      },
-      {
-         "description" : " Recently I have bee using a 'script' metaphor to describe how chess games usually go. The idea is to remove some of the mystery of the game for new players, showing how most experienced players think about general planning. Of course it doesn't cover every type of game, but it does seem useful for players in the sub 1500 range. Act I - The Opening <ul style=\"text-align: left;\"><li>Move 2 or 3 pawns at the start, to help develop your pieces</li><li>Bring out Knights and Bishops (either NNBB or NBNB)</li><li>Castle</li><li>Move the queen a little bit, to help connect the rooks</li></ul>Act II - The Queen attacks <ul style=\"text-align: left;\"><li>Look at the position of your opponents king</li",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/the-script.html",
-         "pubDate" : "Tue, 27 Jul 2021 13:40:00 +0000",
-         "title" : "The Script"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg\" data-image-dimensions=\"540x405\" data-image-focal-point=\"0.5,0.5\" alt=\"courtney3.jpg\" data-load=\"false\" data-image-id=\"60fff2e2ee50e73637911161\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627386595027-LWPXHGTEUAF6R7G4EYMP/courtney3.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br> <p class=\"\">Welcome to another \"Adult improver\" edition of Perpetual Chess. Our guest this time is Dr. Courtney Frey. Courtney is a 35 year old doctor (ra",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/27/episode-236-dr-courtney-frey-adult-improver-series",
-         "pubDate" : "Tue, 27 Jul 2021 11:56:10 +0000",
-         "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
       }
    ]
 }
