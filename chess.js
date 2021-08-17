@@ -2448,14 +2448,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-cis-us-press-release/",
          "pubDate" : "Tue, 27 Jul 2021 06:30:07 +0000",
          "title" : "ECU - CIS.US - Press release"
-      },
-      {
-         "description" : " From the publisher: &#8220;Goethe once wrote, &#8220;Everything is both simpler than we can imagine, and more complicated than we can conceive.&#8221; He could well have had chess endgames in mind. Endgames have fewer pieces on the board than middlegames but this does not necessarily make them &#8220;easier&#8221; to play or understand. Tactical expertise is, understandably, <a href=\"http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tactical Training In The Endgame</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/27/tactical-trainin",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/27/tactical-training-in-the-endgame/",
-         "pubDate" : "Tue, 27 Jul 2021 00:10:40 +0000",
-         "title" : "Tactical Training In The Endgame"
       }
    ]
 }
