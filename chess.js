@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-r8-report/",
+         "pubDate" : "Tue, 17 Aug 2021 18:55:59 +0000",
+         "title" : "European Women's Chess Championship 2021- R8 report"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg\" data-image-dimensions=\"1726x1152\" data-image-focal-point=\"0.5,0.5\" alt=\"DSC_9746.jpg\" data-load=\"false\" data-image-id=\"611c00286f7e2316fb7a85bc\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg?format=1000w\" /> </figure> <p class=\"\">Photo Courtesy of GM Jan Markos <p class=\"\">Our guest today is the three-time champion of Slovakia, the highest rated player in his country and an award-winning aut",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/17/episode-239-gm-jan-markos",
+         "pubDate" : "Tue, 17 Aug 2021 18:33:17 +0000",
+         "title" : "Episode 239- GM Jan Markos "
+      },
+      {
          "description" : " The return of online chess events in Canberra saw some exciting chess played. Fred Litchfield had a nice tactical win against the Dragon, while Mark Hummel wheeled out the Traxler to great effect. Playing Max Albert in the last round, both players seemed a little unsure of what theory was, and there were a few inexact moves. In an effort to free up some of his pieces, Hummel decided to take his king for a walk, and it was at this point Albert missed a crushing move (19. Nc3!). Instead he threatened mate in 1, but as in a lot of Traxler games, it was Black who mated first. <br /> <b>Albert,Max (2141) - Hummel,Mark (2085) [C57]</b><br />ACTCA Rapid - 17 August 2021 https://lichess.org/pnMu1nh",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2258,14 +2274,6 @@ news_feed (
          "title" : "New: CBM Extra #202"
       },
       {
-         "description" : "European Chess Union and Turkish Chess Federation have decided to postpone European Youth Chess Championship in Antalya, Turkey, until 2022, taking into account the following parameters.&#160; 1. European Youth Chess Championship is a mass competition (with 2000 participants, players, coaches and accompanying persons).2. The situation with Covid19 in Europe is still unstable. 3. The youth event involves U18 players,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/announcement-european-youth-chess-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/announcement-european-youth-chess-2021/",
-         "pubDate" : "Fri, 30 Jul 2021 10:57:18 +0000",
-         "title" : "Announcement - European Youth Chess 2021"
-      },
-      {
          "description" : "Three years ago Vincent Keymer defeated Boris Gelfand at the Isle of Man Open in a sensational game. In round 3 of the Grandmaster Tournament in Biel Gelfand, Vice World Champion 2012, now took a form of revenge and outplayed the young German Grandmaster. In the second decisive game of the round Noel Studer won against Maxime Lagarde. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2456,14 +2464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1232",
          "pubDate" : "Tue, 27 Jul 2021 21:20:12 +0000",
          "title" : "Round 05 tiebreaks: A close scrape for Carlsen"
-      },
-      {
-         "description" : " <p class=\"lead\">Andrey Esipenko, a 19 year old Grandmaster from Russia, almost managed to knock-out the World Chess Champion out of the FIDE World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">An arbiter at the World Cup discusses the game with the World Champion while Esipenko watches - Photo: FIDE</div> </div> Winning on demand and finally losing two nerve-racking blitz games, Esipenko finished the day by apparently becoming everyone's favorite chess player. After eight games, the World Champion was visibly relieved when he finally won the match. I",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/esipenko-loses-to-carlsen-becomes-everyones-favorite-chess-playe/",
-         "pubDate" : "Tue, 27 Jul 2021 19:16:20 +0000",
-         "title" : "Esipenko Loses to Carlsen; Becomes Everyone's Favorite Chess Player"
       }
    ]
 }
