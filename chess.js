@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White is a pawn down and Black's king is threatening to enter White's position. However, White can hope to save a draw if he manages to build a solid fortress. In the diagram position it is White to move - what would you play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fortress-building",
+         "pubDate" : "Tue, 17 Aug 2021 09:00:00 +0100",
+         "title" : "Fortress building"
+      },
+      {
+         "description" : "The final event of the Grand Chess Tour's sixth edition, the Sinquefield Cup, will begin on August 17th, immediately following the conclusion of the 2021 Saint Louis Rapid & Blitz. The event will feature ten top-ranked international players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour, who will take home the additional $100,000 prize. | Pictured: Jeffery Xiong at the opening ceremony | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-preview",
+         "pubDate" : "Tue, 17 Aug 2021 07:30:00 +0100",
+         "title" : "The Sinquefield Cup, the final event of the GCT, begins today"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85392151.cms\" />Raunak Sadhwani made India's 75th Independence Day special in Italy. Maharashtra's youngest Grandmaster continued to impress in his two-month European tour by winning the 19th Spilimbergo Open Masters meet in Italy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/raunak-sadhwani-rules-in-italy-earns-praise-from-indias-chess-legend-viswanathan-anand/articleshow/85392151.cms",
+         "pubDate" : "Tue, 17 Aug 2021 10:50:03 +0530",
+         "title" : "Raunak Sadhwani rules in Italy, earns praise from legend Anand"
+      },
+      {
          "description" : "Two wins and a draw on the fourth day of action granted Vincent Keymer tournament victory at the Kramnik Challenge for young stars. Most importantly, Keymer beat Awonder Liang in the penultimate round - Keymer and Liang would end the event tied in points, and the result in their direct encounter was the tiebreak decider that gave the German prodigy first place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-152",
          "pubDate" : "Sun, 15 Aug 2021 17:20:00 +0100",
          "title" : "Initiating fission"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85351737.cms\" />Young Indian Grandmaster Raunak Sadhwani on Sunday emerged winner in the 19th Spilimbergo Open chess tournament with seven points from nine rounds. The 15-year old Sadhwani (Elo 2579) remained undefeated in the tourney, notching up five wins and four draws. His wins came against Italian Joshuaede Cappelletto, Aron Pasti of Hungary, Lorezno Lodici of Italy and France's Loic Travadon.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-raunak-sadhwani-wins-spilimbergo-open-chess-tourney/articleshow/85351737.cms",
-         "pubDate" : "Sun, 15 Aug 2021 21:33:48 +0530",
-         "title" : "India's Raunak Sadhwani wins Spilimbergo Open tourney"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has separated the functions of Executive Director and Sport Director <a href=\"https://www.schachbund.de/news/kevin-hoegy-wird-neuer-dsb-sportdirektor.html\">and appointed</a> <strong>Kevin H&ouml;gy</strong>, an experienced coach and <a href=\"https://www.linkedin.com/in/kevin-h%C3%B6gy-6202ba117\">event specialist</a>, who joined the federation headquarters two years ago for the German Youth Chess Association. </div> ",
@@ -2274,14 +2290,6 @@ news_feed (
          "title" : "FIDE Online Olympiad 2021: Registration deadline approaching"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at Sam Shankland's spectacular victory against Peter Svidler at the World Cup. After 1.d4 Nf6 2.c4 g6 Shankland played 3.h4!?, a move that discourages Black from playing the Grunfeld. Svidler tried a King's Indian setup instead but without much success. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fighting-the-king-s-indian-with-3-h4",
-         "pubDate" : "Thu, 29 Jul 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Fighting the King's Indian with 3.h4!?"
-      },
-      {
          "description" : " 'Does every chess opening have a name?\" asked one of my students recently. \"I'm pretty sure they do, and if they don't, feel free to make one up\" I replied, semi-seriously. Now I have no idea if there is such a thing as the Anti-anti Marshall line, or if the following game qualifies, but after Bacrot chose an Anti-Marshall line against Carlsen, Carlsen sacrificed his e pawn any way. He also sacrificed a few other things after that, and now is 1-0 up in quater finals of the World Cup. <br /> <br /> <b>Bacrot Etienne (FRA) (2678) - Carlsen Magnus (NOR) (2847) [C88]</b><br />World Cup 2021 Sochi (41.1), 28.07.2021 <script>new PgnViewer( { boardName: \"game1261\", movesFormat: \"default\", pgnStrin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-arbiters/",
          "pubDate" : "Thu, 29 Jul 2021 12:05:59 +0000",
          "title" : "New Arbiters"
-      },
-      {
-         "description" : "All four games of the Grandmaster Tournament in Biel ended with a draw, but Noel Studer and Alan Pichot played for almost eight hours and made 138 moves before they agreed to share the point. The young German Grandmaster Vincent Keymer had no easy task against Kirill Alekseenko, but solved it. In the Open, Salem Saleh and Surya Ganguly share the lead with 3.0/3 each. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-four-draws-long-games-lots-of-fight",
-         "pubDate" : "Thu, 29 Jul 2021 12:29:37 +0100",
-         "title" : "Biel, Round 2: Four draws, long games, lots of fight"
       },
       {
          "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 Shankland's [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
          "pubDate" : "Tue, 27 Jul 2021 08:00:18 +0000",
          "title" : "DMR election results!"
-      },
-      {
-         "description" : "The European Chess Union and US-based Chess in Schools Announce a Cooperative Agreement to Develop Chess in Education in the United States Download the Press Release [Tuscaloosa, Alabama] - Chess in Schools (CIS) is pleased to announce a cooperative agreement with the European Chess Union (ECU) supporting Chess in Education (CIE) in the United States. Under the agreement,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-cis-us-press-release/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-cis-us-press-release/",
-         "pubDate" : "Tue, 27 Jul 2021 06:30:07 +0000",
-         "title" : "ECU - CIS.US - Press release"
       }
    ]
 }
