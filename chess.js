@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The John G. White Collection of Chess and Checkers is the largest and most comprehensive collection of printed material on chess. While its physical location is Cleveland, Ohio, chess researchers and aficionados may also view parts of the collection online. On July 21, 2021, Woman International Master Alexey Root visited the Cleveland Public Library, which houses the collection. | Photos: Alexey Root",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/john-g-white-collection-of-chess-and-checkers",
+         "pubDate" : "Tue, 17 Aug 2021 12:30:00 +0100",
+         "title" : "John G. White Collection of Chess and Checkers"
+      },
+      {
+         "description" : " <p class=\"lead\">As Afghanistan falls to the Taliban, lives of many people will change dramatically, and that unfortunately includes those who play chess, because apparently the Taliban do not approve of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Cave.png\" width=\"1600\" height=\"1052\" alt=\"\" /> <div class=\"e2-text-caption\">One of several tunnel entrances in Afghanistan partially blocked by twisted metal supports. US Deputy Secretary of Defense Ashton B. Carter visited the tunnels and a nearby Taliban stronghold May 14, 2013. Photo: Wikimedia</div> </div> World Chess, the official FIDE gaming platform, has 64 subscribers from Afghanistan, and we reached ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-may-be-banned-in-afghanistan/",
+         "pubDate" : "Tue, 17 Aug 2021 10:58:16 +0000",
+         "title" : "Chess May be Banned in Afghanistan"
+      },
+      {
+         "description" : "On Saturday August 14th, in the Hotel Dlouhe Strane in Kouty nad Desnou in the Czech Republic, the 19th European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2021 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/19th-european-union-youth-chess-championship-started/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/19th-european-union-youth-chess-championship-started/",
+         "pubDate" : "Tue, 17 Aug 2021 10:20:51 +0000",
+         "title" : "19th European Union Youth Chess Championship started"
+      },
+      {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/pm5.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> <p class=\"lead\"> Is there a place for pre-move on the FIDE Online Arena, the official gaming platform where players can play for an online rating recognized by FIDE? (Spoiler - yes, and it's available now!) Quick background: pre-move is an option to make a move before your opponent makes theirs, and it's usually done in time trouble or if the opponent's next move is obvious. Your pre-move is then carried out automatically after your opponent has made their move. In some cases (for example, if your move is rendered illegal for any reason), the pre-move is canceled ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-online-arena-welcomes-pre-move/",
+         "pubDate" : "Tue, 17 Aug 2021 09:36:49 +0000",
+         "title" : "FIDE Online Arena Welcomes Pre-move"
+      },
+      {
+         "description" : " <p class=\"lead\">The American GM and streamer (1.1mln subscribers on <a href=\"https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng\">YouTube</a>) Hikaru Nakamura, dominated at the Saint Louis Rapid and Blitz Tournament without losing a single game. The Twitch superstar managed to go through all 27 rounds against 2700+ rated players, setting a record for the tournament! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru.png\" width=\"1280\" height=\"853\" alt=\"\" /> </div> With three rounds to spare, Nakamura won the event leaving Fabiano Caruana and Richard Rapport at the second and third place respectively. The 5-time US champion was heavily judged the past yea",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-from-twitch-superstar-to-27-on-board-rounds-unde/",
+         "pubDate" : "Tue, 17 Aug 2021 09:01:51 +0000",
+         "title" : "Hikaru Nakamura: from Twitch superstar to 27 on-board rounds undefeated"
+      },
+      {
          "description" : "In the diagram position White is a pawn down and Black's king is threatening to enter White's position. However, White can hope to save a draw if he manages to build a solid fortress. In the diagram position it is White to move - what would you play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fortress-building",
          "pubDate" : "Tue, 17 Aug 2021 09:00:00 +0100",
          "title" : "Fortress building"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-48/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (48)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-48/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (48)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-48/",
+         "pubDate" : "Tue, 17 Aug 2021 07:35:31 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (48)"
       },
       {
          "description" : "The final event of the Grand Chess Tour's sixth edition, the Sinquefield Cup, will begin on August 17th, immediately following the conclusion of the 2021 Saint Louis Rapid & Blitz. The event will feature ten top-ranked international players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour, who will take home the additional $100,000 prize. | Pictured: Jeffery Xiong at the opening ceremony | Photo: Austin Fuller",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/raunak-sadhwani-rules-in-italy-earns-praise-from-indias-chess-legend-viswanathan-anand/articleshow/85392151.cms",
          "pubDate" : "Tue, 17 Aug 2021 10:50:03 +0530",
          "title" : "Raunak Sadhwani rules in Italy, earns praise from legend Anand"
+      },
+      {
+         "description" : " The 8th Sinquefield Cup takes place 17th (Round 1) to 28th August 2021. This is the final event of the Grand Chess Tour. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Peter Svidler, Jeffery Xiong, Sam Shankland and Dariusz Swiercz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-sinquefield-cup-2021",
+         "pubDate" : "Tue, 17 Aug 2021 09:15:00 +0400",
+         "title" : "8th Sinquefield Cup 2021 - Games and Results"
       },
       {
          "description" : "Two wins and a draw on the fourth day of action granted Vincent Keymer tournament victory at the Kramnik Challenge for young stars. Most importantly, Keymer beat Awonder Liang in the penultimate round - Keymer and Liang would end the event tied in points, and the result in their direct encounter was the tiebreak decider that gave the German prodigy first place.",
@@ -80,14 +136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/returning-to-online-chess.html",
          "pubDate" : "Mon, 16 Aug 2021 13:03:00 +0000",
          "title" : "Returning to online chess"
-      },
-      {
-         "description" : "After six rounds six players are sharing the lead with 5.0/6 each at the European Women's Championship in Iasi, Romania. After a rest day on Sunday, round 7 starts on Monday at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Mon, 16 Aug 2021 13:45:00 +0100",
-         "title" : "European Women's Championship, Round 7 - Live"
       },
       {
          "description" : "",
@@ -2346,14 +2394,6 @@ news_feed (
          "title" : "Chess World Cup: Vidit Gujrathi draws first game against Duda"
       },
       {
-         "description" : " This is (obviously) the last in the series and covers the Zukertort version of the Colle Opening. White plays a Colle set-up with 1.d4 followed by 2.Nf3 and 3.e3 but then follows up with a fianchetto of his queen's bishop with b2-b3. This is a nice opening to play at club level because of the <a href=\"https://chessimprover.com/zap-em-with-the-zukertort/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Zap 'em with the Zukertort\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/zap-em-with-the-zukertort/\">Zap 'em with the Zukertort</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/zap-em-with-the-zukertort/",
-         "pubDate" : "Wed, 28 Jul 2021 15:00:00 +0000",
-         "title" : "Zap 'em with the Zukertort"
-      },
-      {
          "description" : "The 2021 FIDE World Cup reached Quarterfinals in Men's event, while the Women's World Cup got to the stage of Semifinals. 6 tie-break matches of Round 5 were played yesterday in Open section, bringing exciting games and great fights. Read more: FIDE WORLD CUP R5- Calm before the storm Reigning World Chess Champion, Magnus Carlsen, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2424,22 +2464,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/7/27/episode-236-dr-courtney-frey-adult-improver-series",
          "pubDate" : "Tue, 27 Jul 2021 11:56:10 +0000",
          "title" : "Episode 236 Dr. Courtney Frey (Adult Improver Series)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1231",
-         "pubDate" : "Tue, 27 Jul 2021 08:23:55 +0000",
-         "title" : "Gregory Kaidanov wins 2021 U.S. Senior Championship"
-      },
-      {
-         "description" : "The successful candidates for Silver Direct Members' Representatives 2021 were John Reyes and Tim Wall Voting was as follows &#8212; Jonathan-Miller 31 votes John...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-representatives-elections/",
-         "pubDate" : "Tue, 27 Jul 2021 08:00:18 +0000",
-         "title" : "DMR election results!"
       }
    ]
 }
