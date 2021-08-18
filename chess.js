@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana, Maxime Vachier Lagrave, and Leinier Dominguez started off with victories, while GM Wesley So missed his chances to do the same against GM Shakhriyar Mamedyarov. GMs Jeffery Xiong and Richard Rapport had a solid draw to start t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-1",
+         "pubDate" : "Tue, 17 Aug 2021 20:25:00 -0700",
+         "title" : "Sinquefield Cup Day 1: Caruana, Dominguez, MVL Win In First Round"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J5NvYGVT5Dk.jpg?itok=W9xW-Hxh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-1",
+         "pubDate" : "Wed, 18 Aug 2021 02:21:31 +0000",
+         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XoBhsMNf24o.jpg?itok=VUzN3eVC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-1",
+         "pubDate" : "Wed, 18 Aug 2021 02:21:31 +0000",
+         "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez after Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VaanG_u8EJA.jpg?itok=kCAcQA9N\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-1",
+         "pubDate" : "Wed, 18 Aug 2021 02:21:31 +0000",
+         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-2",
+         "pubDate" : "Wed, 18 Aug 2021 02:21:31 +0000",
+         "title" : "2021 Sinquefield Cup: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Jeffery Xiong visits the confessional booth during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-jeffery-xiong-confessional-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZqnLCLu5lZw.jpg?itok=Ps-82BGw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-jeffery-xiong-confessional-round-1",
+         "pubDate" : "Tue, 17 Aug 2021 23:21:17 +0000",
+         "title" : "2021 Sinquefield Cup: Jeffery Xiong Confessional | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Boston University student Peter Ha during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-ha-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CCAUeQHcvYQ.jpg?itok=0FKqrdgN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-ha-interview-round-1",
+         "pubDate" : "Tue, 17 Aug 2021 23:21:17 +0000",
+         "title" : "2021 Sinquefield Cup: Peter Ha Interview | Round 1"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on August 17-26 at the Saint Louis Chess Club. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Amateurs enjoying the summer days outside the playing venue | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,12 +354,12 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share!121 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He did today on his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 with severe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/\">Detroit's Joseph Gadson passes away on 36th birthday</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!121 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away-on-36th-birthday/",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/",
          "pubDate" : "Mon, 16 Aug 2021 03:40:14 +0000",
-         "title" : "Detroit's Joseph Gadson passes away on 36th birthday"
+         "title" : "Detroit's Joseph Gadson passes away"
       },
       {
          "description" : "A win with black over Igor Kovalenko in round 9 gave Alexander Donchenko tournament victory at the RTU Open in Riga. In the end, Donchenko was the only player to score 7&frac12; points, so he did not even need to bother with tiebreak-criteria calculations. After losing in round 3 against a lower-rated opponent, Donchenko sensationally won six games in a row to win the event! | Photo: Anna Shtourman",
@@ -322,44 +378,12 @@ news_feed (
          "title" : "2021 Saint Louis Rapid & Blitz | Sinquefield Cup: Closing & Opening Ceremonies"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-1",
-         "pubDate" : "Sun, 15 Aug 2021 23:19:20 +0000",
-         "title" : "2021 Sinquefield Cup: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Alejandro Ramirez and Yasser Seirawan talk to Garry Kasparov during Day 5 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-garry-kasparov-interview-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a76iWy26GFA.jpg?itok=7Ckp3a1r\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-garry-kasparov-interview-day-5",
-         "pubDate" : "Sun, 15 Aug 2021 23:19:20 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Garry Kasparov Interview | Day 5"
-      },
-      {
          "description" : "16-year-old German chess prodigy Vincent Keymer has qualified to play on the Meltwater Champions Chess Tour after a nerve-wracking final day of the Kramnik Challenge, the 3rd event on the $100,000 Julius Baer Challengers Chess Tour. He won a brilliant game in the penultimate round to overtake his main rival Awonder Liang, and then got the draw he needed in the final round only after twice coming back from the dead against Dinara Saduakassova.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/keymer-wins-kramnik-challenge-in-last-day-thriller",
          "pubDate" : "Sun, 15 Aug 2021 21:38:35 +0000",
          "title" : "Keymer wins Kramnik Challenge in last-day thriller"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Liem Le after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-liem-le-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EyRwdDRBs3Q.jpg?itok=ZwW7K62Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-liem-le-interview-day-4",
-         "pubDate" : "Sun, 15 Aug 2021 20:19:21 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Liem Le Interview | Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players in the fourth event of the 2021 Grand Chess Tour talk about what they did during the stay-at-home era of the COVID-19 pandemic. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-staying-shape\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I1GPUWXhs0.jpg?itok=LI27dGJZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-staying-shape",
-         "pubDate" : "Sun, 15 Aug 2021 20:19:21 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Staying in Shape"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85352221.cms\" />Indian Grandmaster S L Narayanan logged seven points from nine rounds to finish second in the tournament 'A' of the 10th Riga Technical University Open here on Sunday. Donchenko notched up 7.5 points from nine rounds and sealed the title with a win over Igor Kovalenko of Latvia in the final round.",
@@ -424,22 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-final-round",
          "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
          "title" : "RTU Open: Final round - Live!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess-tour\">https://KasparovChess.com/grand-chess-tour</a><br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-account\">https://KasparovChess.com/upgrade-account</a><br /> Coupon Code: GCTSTLOUIS 2021.08.14<br /> GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-l%C3%AA-quang-li%C3%AAm-interview-day-4",
-         "pubDate" : "Sun, 15 Aug 2021 08:19:01 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Lê Quang Liêm Interview | Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Hikaru Nakamura after Day 4 of the 2021 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TV_cJu5Fl5U.jpg?itok=i-w9_q7O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-rapid-blitz-hikaru-nakamura-interview-day-4",
-         "pubDate" : "Sun, 15 Aug 2021 08:19:01 +0000",
-         "title" : "2021 Saint Louis Rapid & Blitz: Hikaru Nakamura Interview | Day 4"
       },
       {
          "description" : "Awonder Liang scored 3.5/4 on Saturday to take the sole lead in the Kramnik Challenge before the final three rounds on Sunday. The US Star could have had a bigger lead - or we could have had a 3-way tie for first - since his 123-move draw in the final game of the day against top seed Nodirbek Abdusattorov could have gone either way. Vincent Keymer is half a point back but plays Awonder in the penultimate round, while Christopher Yoo is also in the mix.",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/",
          "pubDate" : "Tue, 03 Aug 2021 09:30:18 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\""
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk won the Women&#39;s FIDE World Cup final on Monday after drawing her second game vs. GM Aleksandra Goryachkina. GM Sergey Karjakin defeated GM Vladimir Fedoseev to qualify for both the World Cup final and the 2022 FIDE Candidate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kosteniuk-wins-2021-fide-women-world-cup",
-         "pubDate" : "Tue, 03 Aug 2021 01:09:00 -0700",
-         "title" : "FIDE World Cup R7.2: Kosteniuk Wins Women's Cup, Karjakin Reaches Final"
       },
       {
          "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move and he faces a choice: should he try to stop the white pawns with his king or should he push his g-pawn ahead? What would you do - and why?",
