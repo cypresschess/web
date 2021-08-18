@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Fabiano Caruana, Maxime Vachier Lagrave, and Leinier Dominguez started off with victories, while GM Wesley So missed his chances to do the same against GM Shakhriyar Mamedyarov. GMs Jeffery Xiong and Richard Rapport had a solid draw to start t...",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1278",
+         "pubDate" : "Wed, 18 Aug 2021 11:15:29 +0000",
+         "title" : "Evgeny Sveshnikov (1950-2021)"
+      },
+      {
+         "description" : "The Semi-Slav, the Chebanenko system and the Slav triangle are solid and flexible weapons for Black against 1.d4. On this DVD Mihail Marin offers players with White a repertoire that meets these systems in a provocative way that promises White the initiative and a lot of play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-mihai-marin-the-catalan-vs-the-semi-slav-chebanenko-and-triangle",
+         "pubDate" : "Wed, 18 Aug 2021 11:57:58 +0100",
+         "title" : "New - Mihail Marin: The Catalan vs. the Semi-Slav, Chebanenko and Triangle"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1277",
+         "pubDate" : "Wed, 18 Aug 2021 10:21:21 +0000",
+         "title" : "Caruana, Dominguez and Vachier-Lagrave take early lead"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the action from the St Louis Rapid and Blitz. The featured game will be Caruana-Svidler from round 19. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-rapid-and-blitz-in-saint-louis",
+         "pubDate" : "Wed, 18 Aug 2021 11:18:23 +0100",
+         "title" : "The Weekly Show: Rapid and Blitz in Saint Louis"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the U20 world championship is unlikely to be held otb this year and the other age groups are to played online, <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1275\">is endorsing</a> a <strong>Junior U21 championship</strong> organised by <strong>Chessbomb</strong> in Plovdiv, Bulgaria. U21 championships are held in several countries including Russia. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-endorses-u21-championship/",
+         "pubDate" : "Wed, 18 Aug 2021 10:04:59 +0100",
+         "title" : "FIDE endorses U21 championship"
+      },
+      {
+         "description" : "GMs Fabiano Caruana, Maxime Vachier Lagrave, and Leinier Dominguez started off with victories at the 2021 Sinquefield Cup, while GM Wesley So missed his chances to do the same against GM Shakhriyar Mamedyarov. GMs Jeffery Xiong and Richard Rapport...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-1",
          "pubDate" : "Tue, 17 Aug 2021 20:25:00 -0700",
-         "title" : "Sinquefield Cup Day 1: Caruana, Dominguez, MVL Win In First Round"
+         "title" : "Sinquefield Cup Day 1: Caruana, Dominguez, MVL Win In 1st Round"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J5NvYGVT5Dk.jpg?itok=W9xW-Hxh\" alt=\"\" /></a></div>",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/traxler-ftw.html",
          "pubDate" : "Tue, 17 Aug 2021 13:03:00 +0000",
          "title" : "Traxler FTW"
-      },
-      {
-         "description" : "After seven rounds Julija Osmak from Ukraine and the young Russian WGM Aleksandra Maltsevskaya share the lead in the European Women's Championship in Iasi/Romania with 6 out of 7 each. They will meet in the top match of Round 8, which starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Tue, 17 Aug 2021 13:45:00 +0100",
-         "title" : "European Women's Championship, Round 8 - Live"
       },
       {
          "description" : "The John G. White Collection of Chess and Checkers is the largest and most comprehensive collection of printed material on chess. While its physical location is Cleveland, Ohio, chess researchers and aficionados may also view parts of the collection online. On July 21, 2021, Woman International Master Alexey Root visited the Cleveland Public Library, which houses the collection. | Photos: Alexey Root",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jorge-cori-wins-mexican-open-2021",
          "pubDate" : "Wed, 11 Aug 2021 08:00:00 +0100",
          "title" : "Jorge Cori wins Mexican Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>US Chess</strong> had its first big meeting since the beginning of the pandemic in Cherry Hill, New Jersey, where Alex Lenderman won the <strong>US Open</strong>, <a href=\"https://en.chessbase.com/post/u-s-open-chess-games-awards-signings-meetings\">many awards were handed out</a>, and the 2021/22 board members were announced. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mike-hoffpauir-leads-us-chess/",
-         "pubDate" : "Wed, 11 Aug 2021 05:13:25 +0100",
-         "title" : "Successful meeting in New Jersey"
       },
       {
          "description" : "Grandmaster Aleksandr Lenderman won the U.S. Open with 8&frac12; points out of 9 rounds. Mike Walder annotates Lenderman's wins over Grandmasters Hans Niemann and John Michael Burke. Alexey Root reports on the awards presentations, book signings, and meetings held at the U.S. Open's Cherry Hill, New Jersey site. | Photos: Alexey Root",
@@ -2274,14 +2298,6 @@ news_feed (
          "title" : "British Online - follow the action live"
       },
       {
-         "description" : "The new ChessBase Magazine Extra #202 again contains a wealth of material, e.g. opening videos presenting new ideas in the Sicilian Four Knights and in the English Opening (almost an hour total playing time), plus 29 extensive analyses by Peter Heine Nielsen, Praggnanandhaa, Mariya Muzychuk, Elisabeth P&auml;htz, Michal Krasenkow, Igor Stohl and others. ChessBase Magazine Extra is available on DVD or for download - as a single issue or as an annual subscription (6 issues per year).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-202",
-         "pubDate" : "Fri, 30 Jul 2021 12:00:00 +0100",
-         "title" : "New: CBM Extra #202"
-      },
-      {
          "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/",
          "pubDate" : "Wed, 28 Jul 2021 12:00:00 +0000",
          "title" : "How To Prepare Against An Opponent In Chess"
-      },
-      {
-         "description" : "For the 2021/22 Fantasy Premier League why don't you join &#8216;Premier Chess', the number one League for chess players? Joining the league couldn't be easier....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2021/",
-         "pubDate" : "Wed, 28 Jul 2021 08:00:25 +0000",
-         "title" : "Premier League Fantasy Football 2021"
       }
    ]
 }
