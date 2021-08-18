@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exciting chess continues to be the norm in Saint Louis, as the Sinquefield Cup kicked off with a number of thrilling games on Tuesday. Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the event. Caruana's victory over Sam Shankland was particularly attractive. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r1",
+         "pubDate" : "Wed, 18 Aug 2021 14:10:00 +0100",
+         "title" : "Sinquefield Cup: Caruana's brilliant win"
+      },
+      {
+         "description" : "Based on the final announcement for the organisation of FIDE Grand Swiss in Riga, Latvia, from October 25 to November 8, 2021, the tournament rules and the recent information from FIDE, that the president of ECU shall nominate two players (one for the open tournament and one for the women's tournament) by September 5, ECU Board announces&#160;: The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-grand-swiss-ecu-nominees/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-grand-swiss-ecu-nominees/",
+         "pubDate" : "Wed, 18 Aug 2021 12:50:37 +0000",
+         "title" : "FIDE Grand Swiss - ECU nominees"
+      },
+      {
+         "description" : "After eight of eleven rounds Julija Osmak from Ukraine is the sole leader at the European Individual Women's Championship in Iasi/Romania. Osmak leads with 7.0/8 and is half a point ahead of Elina Danielian from Armenia. Another half point behind are seven players with 6.0/8 each. Round 9 starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Wed, 18 Aug 2021 13:45:00 +0100",
+         "title" : "European Women's Championship, Round 9 - Live"
+      },
+      {
+         "description" : " While the show is definitely not about chess, <a href=\"https://www.imdb.com/title/tt10986410/\">Ted Lasso</a> does have more than a few references to it, including using it as an important plot point in one of the episodes. It even includes a blindfold game, which does end badly for one of the main characters. But chess aside, it is a very funny series, and one that I am enjoying immensly. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/tv-shows-that-briefly-mention-chess.html",
+         "pubDate" : "Wed, 18 Aug 2021 12:17:00 +0000",
+         "title" : "TV shows that briefly mention chess"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen is back for the Aimchess US Rapid, the 9th and last event on the $1.6 million Meltwater Champions Chess Tour before September's Finals. Six players are already confirmed for the Finals, but Vladislav Artemiev, Liem Quang Le, Shakhriyar Mamedyarov and Alireza Firouzja can still book themselves a place at the expense of Maxime Vachier-Lagrave, who plays, and Hikaru Nakamura, who doesn't. The action starts at 11:00 ET/17:00 CEST/20:30 IST on Saturday, August 28th. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-returns-for-aimchess-us-rapid",
+         "pubDate" : "Wed, 18 Aug 2021 12:00:02 +0000",
+         "title" : "Magnus Carlsen returns for the Aimchess US Rapid"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-ha-interview-round-1",
          "pubDate" : "Tue, 17 Aug 2021 23:21:17 +0000",
          "title" : "2021 Sinquefield Cup: Peter Ha Interview | Round 1"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on August 17-26 at the Saint Louis Chess Club. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Amateurs enjoying the summer days outside the playing venue | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Tue, 17 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
@@ -1330,14 +1362,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Tactics from the Chessable Masters and the genius of Magnus Carlsen"
       },
       {
-         "description" : "Levon Aronian and Vladislav Artemiev played the final of the Goldmoney Asian Rapid, but if they're going to get to the final of the Chessable Masters they first need to win their matches on demand on Friday to force playoffs. Wesley So was in supreme form as he overcame huge resistance from Artemiev, while Liem Quang Le said it was his \"best result ever against Levon\" as he took full advantage of some blunders to take the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-6-so-and-le-strike-first",
-         "pubDate" : "Fri, 06 Aug 2021 14:46:00 +0000",
-         "title" : "Chessable Masters 6: So and Le strike first"
-      },
-      {
          "description" : " When on a losing streak it is tempting to do something outrageous or the direct opposite of what you are currently doing. I see this a lot with young chess players, who play sound chess but lose, so decide unsound chess is the way to go. I even fell into this trap when I was starting out, but it turned out my losses were quicker, and more horrible. It also explains why 'suicide' chess is so popular, as kids who get all their pieces captured think that losing them by accident is the equivalent to losing them on purpose (Narrator: No it isn't). Of course the blame does not with the choice of strategy, but in not understanding the strategy. The \"what have I got to lose\" approach may work in po",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1616,14 +1640,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1250",
          "pubDate" : "Wed, 04 Aug 2021 17:50:32 +0000",
          "title" : "Carlsen in sacrifice mode crushes Fedoseev"
-      },
-      {
-         "description" : "TOG Amsterdam on behalf of the KNDSB (Netherlands) and International Chess Committee of the Deaf (ICCD) organise a. 3rd ICCD European Individual Deaf Chess Championships b the 25th ICCD Europa Cup Open Deaf Club Team Championship and c. the 9th ICCD Open Individual Deaf Chess Tournament. All the events will simultaneously take place from 18th-22rd October 2021, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/iccd-european-deaf-chess-championships/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/iccd-european-deaf-chess-championships/",
-         "pubDate" : "Wed, 04 Aug 2021 17:47:31 +0000",
-         "title" : "ICCD European Deaf Chess Championships"
       },
       {
          "description" : "All India Chess Federation congratulate R Vaishali for completing her third &#38; final IM norm and crossing 2400 in Biel open to become India's latest",
@@ -2234,14 +2250,6 @@ news_feed (
          "title" : "Round 6 tiebreaks: Sergei Karjakin \"The Comeback Minister\" advances to semi-finals"
       },
       {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at games from the World Cup, including a a decent answer to the London System, and offers tactics and endgames. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-world-cup-endgames-and-tactics",
-         "pubDate" : "Fri, 30 Jul 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: World Cup action and an answer to the London System"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84898941.cms\" /> Indian Grandmaster Nihal Sarin played out a draw against Switzerland's Noel Studer in the fourth round of the classical section of the Biel International Chess Festival on Friday. The 17-year-old Sarin and Studer signed peace in 36 moves in an Austrian defence opening game.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1236",
          "pubDate" : "Fri, 30 Jul 2021 16:09:33 +0000",
          "title" : "Istvan Csom (1940-2021)"
-      },
-      {
-         "description" : "Alongside the U.S. Open are five tournaments of state chess champions, for different age and grade categories. Each state affiliate may nominate one player for each tournament. Participants in the five tournaments compete together in blitz. Woman International Master Alexey Root previews the state champions tournaments from a Texas perspective. | Photos: Niki Riga / Texas Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/texas-chess-champions-at-national-invitationals",
-         "pubDate" : "Fri, 30 Jul 2021 15:00:00 +0100",
-         "title" : "Texas Chess Champions at National Invitationals"
       },
       {
          "description" : " <p class=\"lead\">World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6_CShading_LightMix-min.jpg\" width=\"1700\" height=\"903\" alt=\"\" /> </div> The shop will open a",
@@ -2432,22 +2432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-draws-first-game-against-duda/articleshow/84834554.cms",
          "pubDate" : "Wed, 28 Jul 2021 22:23:55 +0530",
          "title" : "Chess World Cup: Vidit Gujrathi draws first game against Duda"
-      },
-      {
-         "description" : "The 2021 FIDE World Cup reached Quarterfinals in Men's event, while the Women's World Cup got to the stage of Semifinals. 6 tie-break matches of Round 5 were played yesterday in Open section, bringing exciting games and great fights. Read more: FIDE WORLD CUP R5- Calm before the storm Reigning World Chess Champion, Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2021-start-of-the-quarterfinals/",
-         "pubDate" : "Wed, 28 Jul 2021 13:41:58 +0000",
-         "title" : "FIDE WORLD CUP 2021 - Start of the Quarterfinals"
-      },
-      {
-         "description" : " The pairings of the next round are out. You have around 18 hours to prepare against your upcoming opponent. What do you do at this time? And what would a Grandmaster do in this time? That is what I am going to answer in this article. The short version is: Gather information on the opponent [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/\">How To Prepare Against An Opponent In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-to-prepare-against-an-opponent-in-chess/",
-         "pubDate" : "Wed, 28 Jul 2021 12:00:00 +0000",
-         "title" : "How To Prepare Against An Opponent In Chess"
       }
    ]
 }
