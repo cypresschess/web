@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Unbelievable news-Evgeny Sveshnikov died after seemed overcomed COVID 19. He was just 71, always full of ideas. His dream was to participate in Seniors Championships (he won a lot) and to meet old friends. He really fought for Seniors chess and for the intellectual rights of chess players. He was one of the members of the famous Cheliabinsk&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/",
+         "pubDate" : "Wed, 18 Aug 2021 18:40:44 +0000",
+         "title" : "EVGENY SVESHNIKOV - Cheliabimsk Warrior"
+      },
+      {
+         "description" : "GM Hikaru Nakamura set an unbreakable Titled Tuesday record on August 17, becoming the first player to score a perfect 11/11. Nakamura won first place by 1.5 points coming on the heels of a victory in the over-the-board Saint Louis Rapid &#38;amp; Bli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-august-17-titled-tuesday-first-perfect-11",
+         "pubDate" : "Wed, 18 Aug 2021 10:55:45 -0700",
+         "title" : "Hikaru Nakamura Scores First Perfect 11/11 In Titled Tuesday"
+      },
+      {
+         "description" : " I was saddened to learn of the passing of Evgeny Sveshnikov today at the age of 71, we played in a number of tournaments together and was always impressed by his interesting games and fighting qualities. He was the originator of many ideas in the openings out of which just the Sveshnikov Sicilian (1.e4 c5 <a href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Evgeny Sveshnikov: 1950-2021\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\">Evgeny Sveshnikov: 1950-2021</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/evgeny-sveshnikov-1950-2021/",
+         "pubDate" : "Wed, 18 Aug 2021 17:07:42 +0000",
+         "title" : "Evgeny Sveshnikov: 1950-2021"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at Fabiano Caruana's fine attacking win against Sam Shankland in the first round of the Sinquefied Cup 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-477-f-caruana-s-shankland-sinquefield-cup-2021",
+         "pubDate" : "Wed, 18 Aug 2021 18:00:00 +0100",
+         "title" : "Game of the Week 477: F. Caruana - S. Shankland, Sinquefield Cup 2021"
+      },
+      {
+         "description" : "The Russian-Latvian grandmaster, former world senior champion, chess opening revolutionary, writer, trainer, and outspoken GM Evgeny Sveshnikov has passed away at the age of 71. His death came only a few months after his mother had died at the age...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/evgeny-sveshnikov-1950-2021",
+         "pubDate" : "Wed, 18 Aug 2021 09:58:00 -0700",
+         "title" : "Evgeny Sveshnikov, 1950-2021"
+      },
+      {
+         "description" : "Fabiano Caruana got off to a perfect start in this year's Sinquefield Cup, getting the chance to play a nice, if relatively simple, queen sacrifice and take down Sam Shankland. The two new faces, compared to the recently concluded St. Louis Rapid &amp; Blitz, were involved in the first round's two other decisive games, though they had opposing fortunes: Maxime Vachier-Lagrave exploited a crucial error by Peter Svidler, but Dariusz Swiercz was ground down by Lenier Dominguez.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-caruana-storms-back-to-world-no-2",
+         "pubDate" : "Wed, 18 Aug 2021 15:47:36 +0000",
+         "title" : "Sinquefield Cup 1: Caruana storms back to world no. 2"
+      },
+      {
          "description" : "Exciting chess continues to be the norm in Saint Louis, as the Sinquefield Cup kicked off with a number of thrilling games on Tuesday. Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the event. Caruana's victory over Sam Shankland was particularly attractive. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1306,14 +1354,6 @@ news_feed (
          "title" : "Liem clinches final place against So"
       },
       {
-         "description" : "Liem Quang Le survived a dramatic comeback from Levon Aronian to reach the final of the 2021 Chessable Masters after two wins on demand from Levon took their semi-final all the way to Armageddon. Liem's opponent in the final is US Champion Wesley So, who lost the first game of the day to Vladislav Artemiev but hit straight back and then confidently held the draws he needed to clinch the match. Aronian-Artemiev for 3rd place will be a repeat of the previous tour event's final.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-7-liem-quang-le-survives-aronian-comeback",
-         "pubDate" : "Sat, 07 Aug 2021 06:29:25 +0000",
-         "title" : "Chessable Masters 7: Le survives Aronian comeback"
-      },
-      {
          "description" : "European Women's Chess Championship 2021 starts on Monday, 9th of August in Iasi, Romania. 117 players from 29 European federations registered for the event, with Georgian trio top seeding the starting list: Batsiashvili Nino (GEO, 2491), Javakhishvili Lela (GEO, 2473), Khotenashvili Bela (GEO, 2463). The battlefield is completed with Girya Olga (RUS, 2448), Bodnaruk Anastasia (RUS, 2446), Mammadzada&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1416,14 +1456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
          "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
          "title" : "Update in the Sicilian Four Knights Variation"
-      },
-      {
-         "description" : "The 2021 FIDE World Cup 2021 concluded yesterday in Sochi, while FIDE Women's World Cup ended on the 3rd of August. 23 years old Duda Jan-Krzysztof (POL) became the Winner of the event after defeating Sergey Karjakin (RUS) in the final match with a convincing 1.5-0.5 result. The first game of the match ended in a draw, but&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/duda-jan-krzysztof-and-kosteniuk-alexandra-win-fide-world-cup-2021/",
-         "pubDate" : "Fri, 06 Aug 2021 08:02:00 +0000",
-         "title" : "Duda Jan-Krzysztof and Kosteniuk Alexandra win FIDE World Cup 2021"
       },
       {
          "description" : "An online slow play event for players rated 1400 (ECF OL standard) or below played on Chess.com by individual matchcard challenges at 6:30pm on Saturdays...",
@@ -1850,28 +1882,12 @@ news_feed (
          "title" : "Chessable Masters: Favourites go through"
       },
       {
-         "description" : "GM Parham Maghsoodloo narrowly defeated GM Jeffery Xiong in Monday&#39;s quarterfinal of the Junior Speed Chess Championship presented by ChessKid. The Iranian GM came back from a three-point deficit and decided the match in the final bullet games. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-maghsoodloo-beats-xiong",
-         "pubDate" : "Tue, 03 Aug 2021 06:05:25 -0700",
-         "title" : "Junior Speed Chess Championship QF: Maghsoodloo Beats Xiong In Bullet"
-      },
-      {
          "description" : " I'm not sure why I did not highlight this at the time (ie 3 years ago), but the embedded video shows a match between Google Home Mini, and Amazon Alexa. If you don't wish to watch the entire game (which is of dubious quality), skip to the end, which is at least somewhat amusing. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"333\" src=\"https://www.youtube.com/embed/E-rUciTRYaw\" width=\"448\" youtube-src-id=\"E-rUciTRYaw\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/08/amazon-v-google.html",
          "pubDate" : "Tue, 03 Aug 2021 12:41:00 +0000",
          "title" : "Amazon v Google"
-      },
-      {
-         "description" : "GM Wesley So has finished in sole first place in the Chessable Masters preliminaries, just ahead of GM&#38;nbsp;Alireza Firouzja, Hikaru Nakamura, and GM Levon Aronian. GM Le Quang Liem and GM Jorden van Foreest just made the cut and have qualified fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chessable-masters-days-preliminaries",
-         "pubDate" : "Tue, 03 Aug 2021 03:11:00 -0700",
-         "title" : "Chessable Masters Days 2-3: So Tops Preliminaries"
       },
       {
          "description" : "In round 5 of the Grandmaster Tournament at the Biel Chess Festival, Gata Kamsky won with Black against Alan Pichot and extended his lead as his closest rivals Kirill Alekseenko and Nihal Sarin both drew: Alekseenko against Noel Studer, Sarin against Vincent Keymer. In the MTO Master Open the Indian Grandmaster Murali Karthikeyan defended his lead. | Photos: Biel Chess Festival",
@@ -2234,14 +2250,6 @@ news_feed (
          "title" : "Justus Williams reaches chess heights on Black Squares"
       },
       {
-         "description" : "In the summer, \"ChessBase News Review\" with Lawrence Trent will have a couple of breaks here and there. One of them was last week. Back on time, IM Trent takes a more profound look at the Arkhangelsk Ruy Lopez game between Vidit and Duda. Furthermore, Lawrence and Arne talk about The beautiful Fontainebleau chess festival, and the tournament in Biel. They also mention the \"winning fist gesture\" of Fedoseev, the New York Post article about Karjakin's GM title, and the behaviour of Niemann as a GM.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-winning-gesture-karjakin-s-gm-title-and-niemann-s-gm-privilege",
-         "pubDate" : "Fri, 30 Jul 2021 22:34:25 +0100",
-         "title" : "News Review - Fedoseev's winning gesture, Karjakin's GM title and Niemann's GM privilege"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2304,14 +2312,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jul/30/chess-carlsen-eases-into-world-cup-semi-but-esipenko-is-emerging-star",
          "pubDate" : "Fri, 30 Jul 2021 07:00:01 +0000",
          "title" : "Chess: Carlsen eases into World Cup semi, but Esipenko is emerging star"
-      },
-      {
-         "description" : " This week, we are going to look at discovered attacks. There are actually four types of discovered attacks to examine; the discovered attack, the double discovered attack, the discovered check and the double discovered check. Before you say to yourself, \"this guy wants us to learn four different tactics in a single lesson,\" let me <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-eight/\">A Foundation for Beginners Twenty Eight</a> appeared first on <a re",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-eight/",
-         "pubDate" : "Fri, 30 Jul 2021 06:46:38 +0000",
-         "title" : "A Foundation for Beginners Twenty Eight"
       },
       {
          "description" : " Of (possible) interest to U.S. chess fans: three restricted or sub-championship events were recently contested and completed in St. Louis (where else?): the U.S. Junior, the U.S. Senior, and the U.S. Girls' Junior Championships. The winners were GM Hans Niemann, GM Gregory Kaidanov (after a playoff against GM Larry Christiansen), and IM Annie Wang, respectively. More info via <a href=\"https://www.uschesschamps.com/\">this page</a>. ",
@@ -2416,22 +2416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1233",
          "pubDate" : "Wed, 28 Jul 2021 19:49:04 +0000",
          "title" : "Round 06 Game 01: One foot in the semi-finals for Carlsen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84834838.cms\" />Indian Grandmaster Nihal Sarin held veteran GM Boris Gelfand to a draw in the second round of the classical section of the Biel International Chess Festival on Wednesday. Sarin recovered after losing a seven-hour marathon to No.1 seed Kiril Alekseenko (Russia) late on Tuesday to hold Gelfand in 33 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-holds-boris-gelfand-to-draw/articleshow/84834838.cms",
-         "pubDate" : "Wed, 28 Jul 2021 22:29:11 +0530",
-         "title" : "Biel Chess festival: Nihal Sarin holds Boris Gelfand to draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84834554.cms\" />Indian Grandmaster Vidit Santosh Gujrathi played out a draw against Jan-Krzystof Duda in the first game of the quarterfinals of the FIDE chess World Cup on Wednesday. The 26-year old India No.3 played the Catalan closed variation against the Polish opponent and signed peace in 33 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-draws-first-game-against-duda/articleshow/84834554.cms",
-         "pubDate" : "Wed, 28 Jul 2021 22:23:55 +0530",
-         "title" : "Chess World Cup: Vidit Gujrathi draws first game against Duda"
       }
    ]
 }
