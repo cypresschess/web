@@ -2440,22 +2440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2021/",
          "pubDate" : "Wed, 28 Jul 2021 08:00:25 +0000",
          "title" : "Premier League Fantasy Football 2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814338.cms\" />A day after becoming the second Indian men's player after legendary Viswanathan Anand, to qualify for the quarterfinals of the chess World Cup in Sochi Grandmaster (GM) Vidit Gujrathi attained his career best Elo rating of 2731.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-best-chess-world-cup-performance-so-far-says-india-no-2-vidit/articleshow/84814338.cms",
-         "pubDate" : "Wed, 28 Jul 2021 10:05:08 +0530",
-         "title" : "My best Chess World Cup performance so far, says India No 2 Vidit"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84814247.cms\" />City's lone Grandmaster (GM) Raunak Sadhwani continues his impressive run in Europe. After pocketing a gold medal in an over-the-board (OTB) international rating chess tournament in Austria, the 15-year-old made his mark in the Portuguese League.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-raunak-nets-silver-in-otb-portuguese-chess-league/articleshow/84814247.cms",
-         "pubDate" : "Wed, 28 Jul 2021 09:31:12 +0530",
-         "title" : "Unbeaten Raunak nets silver in OTB Portuguese Chess League"
       }
    ]
 }
