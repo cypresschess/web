@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1280",
+         "pubDate" : "Thu, 19 Aug 2021 06:27:49 +0000",
+         "title" : "Wesley So joins leaders"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Schaak-Off</strong>, a nationwide competition that is also suitable for tournament novices, is run by the <strong>Dutch Chess Federation</strong> on 13-26 September. Clubs, mind sport centres and caf&eacute;s all over the Netherlands will host the games to celebrate the return to the boards. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nationwide-tournament-for-everyone/",
+         "pubDate" : "Thu, 19 Aug 2021 06:52:15 +0100",
+         "title" : "Nationwide tournament for everyone"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2Z9eCfrD-nM.jpg?itok=y2oA27tA\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-2",
          "pubDate" : "Wed, 18 Aug 2021 18:26:00 -0700",
          "title" : "Sinquefield Cup Day 2: So Wins, Joins Leaders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1279",
+         "pubDate" : "Wed, 18 Aug 2021 21:19:48 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
       },
       {
          "description" : "Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the Sinquefield Cup. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Leinier Dominguez | Photo: Bryan Adams",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1263",
          "pubDate" : "Thu, 12 Aug 2021 08:36:18 +0000",
          "title" : "2021 STL Rapid & Blitz: Day 1 Recap"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1259\">has moved</a> the <strong>Grand Swiss</strong> and <strong>Women's Grand Swiss</strong> from the Isle of Man, where UK travel restrictions could have withheld many players from participating, to Riga, where currently <a href=\"https://rtuopen.lv/live-coverage/?lang=en\">a strong open is underway</a>. The dates 25 October - 8 November remain the same as does sponsor <strong>Mark Scheinberg</strong>, who made his fortune in online gambling. The <a href=\"https://www.fide.com/news/1261\">lists of qualified players are published</a>. The top two of each event will qualify for the Candidates Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/grand-swiss-moved-to-riga-due-to-uk/",
-         "pubDate" : "Thu, 12 Aug 2021 08:41:19 +0100",
-         "title" : "Grand Swiss moved to Riga due to UK restrictions"
       },
       {
          "description" : "Please be informed that due to Independence Day , the AICF Delhi office shall remain closed from today i.e 12.08.2021 ,1500 hrs to 15.08.2021.&#160; Office",
@@ -2392,14 +2408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-arbiters/",
          "pubDate" : "Thu, 29 Jul 2021 12:05:59 +0000",
          "title" : "New Arbiters"
-      },
-      {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR 1-0 Bacrot, Etienne FRA 2 Duda, Jan-Krzysztof POL &frac12;-&frac12; Vidit, Santosh Gujrathi IND 3 Fedoseev, Vladimir RUS &frac12;-&frac12; Tabatabaei, Amin IRI 4 Karjakin, Sergey RUS 0-1 Shankland, Sam USA Official Brackets Round 6, Game 1 Wednesday, 28 July 2021 Shankland's [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/\">2021 FIDE World Cup: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
-         "pubDate" : "Thu, 29 Jul 2021 04:53:40 +0000",
-         "title" : "2021 FIDE World Cup: Round #6"
       }
    ]
 }
