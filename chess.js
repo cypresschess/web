@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2Z9eCfrD-nM.jpg?itok=y2oA27tA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-2",
+         "pubDate" : "Thu, 19 Aug 2021 02:22:33 +0000",
+         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pUR_AWN3jx8.jpg?itok=rlvaPjPp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-svidler-interview-round-2",
+         "pubDate" : "Thu, 19 Aug 2021 02:22:33 +0000",
+         "title" : "2021 Sinquefield Cup: Peter Svidler Interview | Round 2"
+      },
+      {
+         "description" : "GM Wesley So joined the leaders by handing GM Dariusz Swiercz his second loss with the white pieces. The rest of the games were drawn, as the contestants are gathering their strength. GMs Fabiano Caruana, Maxime Vachier-Lagrave, Leinier Dominguez,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-2",
+         "pubDate" : "Wed, 18 Aug 2021 18:26:00 -0700",
+         "title" : "Sinquefield Cup Day 2: So Wins, Joins Leaders"
+      },
+      {
          "description" : "Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the Sinquefield Cup. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Leinier Dominguez | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,22 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-2",
          "pubDate" : "Wed, 18 Aug 2021 02:21:31 +0000",
          "title" : "2021 Sinquefield Cup: Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Jeffery Xiong visits the confessional booth during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-jeffery-xiong-confessional-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZqnLCLu5lZw.jpg?itok=Ps-82BGw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-jeffery-xiong-confessional-round-1",
-         "pubDate" : "Tue, 17 Aug 2021 23:21:17 +0000",
-         "title" : "2021 Sinquefield Cup: Jeffery Xiong Confessional | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Boston University student Peter Ha during Round 1 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-ha-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CCAUeQHcvYQ.jpg?itok=0FKqrdgN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-ha-interview-round-1",
-         "pubDate" : "Tue, 17 Aug 2021 23:21:17 +0000",
-         "title" : "2021 Sinquefield Cup: Peter Ha Interview | Round 1"
       },
       {
          "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
@@ -1866,14 +1874,6 @@ news_feed (
          "title" : "Duda knocks out the Champion from the World Cup; Qualifies for the Candidates"
       },
       {
-         "description" : "Not GM Magnus Carlsen but GM Jan-Krzysztof Duda has reached the final of the FIDE World Cup. On Tuesday, the Polish grandmaster beat the world champion in the second rapid game to set up a clash with GM Sergey Karjakin. Both finalists have also qu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-tiebreak-duda-carlsen",
-         "pubDate" : "Tue, 03 Aug 2021 07:55:00 -0700",
-         "title" : "FIDE World Cup R7.3: Duda Beats Carlsen To Reach Final, Candidates"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru (and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=10",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2400,14 +2400,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/29/2021-fide-world-cup-round-6/",
          "pubDate" : "Thu, 29 Jul 2021 04:53:40 +0000",
          "title" : "2021 FIDE World Cup: Round #6"
-      },
-      {
-         "description" : " &#8220;Robert Ris (1988) is an International Master from Amsterdam. He has represented The Netherlands in various international youth events, but lately his playing activities are limited to league games. Nowadays he is a full-time chess professional, focusing on teaching in primary schools, coaching talented youngsters and giving online lessons to students all around the world. <a href=\"http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Sveshnikov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/07/29/the-modernized-sveshnikov/",
-         "pubDate" : "Thu, 29 Jul 2021 00:10:32 +0000",
-         "title" : "The Modernized Sveshnikov"
       }
    ]
 }
