@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So was the only winner that scored a full point in round 2, and thus joined Fabiano Caruana, Leiner Dominguez and Maxime Vachier-Lagrave in the lead of the event. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Thu, 19 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring 50 percent and beating both GM Sergey Karja...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2226,14 +2234,6 @@ news_feed (
          "title" : "Zlotnik's Middlegame Manual - Typical Structures And Strategic Manoeuvres"
       },
       {
-         "description" : "While players and enthusiasts took a day off from the highly tense World Cups in Sochi, the online Chessable Masters kicked off with an eye-catching lineup, as 12-year-old GM Abhimanyu Mishra, women's world champion Ju Wenjun and Indian star Humpy Koneru join the likes of Wesley So and Levon Aronian in the 9-day event. After five rounds, So is the sole leader on 4 points, with a 3-player chasing pack a half point behind. | Pictured: Wesley So and Pentala Harikrishna at the 2019 Riga Grand Prix",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-1",
-         "pubDate" : "Sun, 01 Aug 2021 01:00:00 +0100",
-         "title" : "Chessable Masters: So leads, newcomers struggle"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84928969.cms\" />Indian Grandmaster Nihal Sarin notched up eight wins to go with three draws and as many defeats to be placed joint second after the rapid, blitz and four rounds of Classical section at the Biel Grandmaster Triathlon on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2344,30 +2344,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/jul/30/chess-carlsen-eases-into-world-cup-semi-but-esipenko-is-emerging-star",
          "pubDate" : "Fri, 30 Jul 2021 07:00:01 +0000",
          "title" : "Chess: Carlsen eases into World Cup semi, but Esipenko is emerging star"
-      },
-      {
-         "description" : " Of (possible) interest to U.S. chess fans: three restricted or sub-championship events were recently contested and completed in St. Louis (where else?): the U.S. Junior, the U.S. Senior, and the U.S. Girls' Junior Championships. The winners were GM Hans Niemann, GM Gregory Kaidanov (after a playoff against GM Larry Christiansen), and IM Annie Wang, respectively. More info via <a href=\"https://www.uschesschamps.com/\">this page</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/29/us-undercard-champions-niemann-kaidanov-and-wang.html",
-         "pubDate" : "Thu, 29 Jul 2021 20:06:50 +0000",
-         "title" : "U.S. \"Undercard\" Champions: Niemann, Kaidanov, and Wang"
-      },
-      {
-         "description" : " <h2>Polish Grandmaster Jan-Krzysztof Duda knocked out the last Indian chess player out of the FIDE World Cup.</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51343164326_913ca8c0d1_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Eric Rosen/FIDE</div> </div> Duda managed to dominate in the game and ended up playing an edgy, but definitely comfortable endgame with a knight for three pawns, which granted him a spot to the Semifinals against Magnus Calrsen. His win makes him the first Polish player in chess history to reach the semifinals of a FIDE World Cup and fans are already debating on his chances against the World Cha",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/india-is-out-of-the-world-cup-after-vidits-loss/",
-         "pubDate" : "Thu, 29 Jul 2021 19:40:55 +0000",
-         "title" : "India is out of the World Cup after Vidit's Loss"
-      },
-      {
-         "description" : " Does anyone know what's happening with the TCEC Superfinal? For about the 85th time in 21 seasons, the final match is between a version of Stockfish and a version of Leela Chess Zero, and as usual Stockfish is ahead - 25.5-22.5 right now, with <a href=\"https://chess24.com/en/watch/live-tournaments/tcec-season-21-superfinal-2021/1/1/49\">game 49</a> underway and...frozen. According to <a href=\"https://en.wikipedia.org/wiki/TCEC_Season_21\">Wikipedia</a> (see the third paragraph on the Superfinal), a typhoon struck the coast of Shanghai during game 29, affecting the CPU[s?] and crashing the system. Maybe something like this has happened again? At any rate, it's good to see that the free, open-s",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/7/29/tcec-season-21-superfinal-underway-but-stuck.html",
-         "pubDate" : "Thu, 29 Jul 2021 19:39:19 +0000",
-         "title" : "TCEC Season 21 Superfinal Underway, but Stuck?"
       }
    ]
 }
