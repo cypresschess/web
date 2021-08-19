@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring 50 percent and beating both GM Sergey Karja...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/smyslov-memorial-blitz-region-nepomniachtchi-karpov",
+         "pubDate" : "Thu, 19 Aug 2021 09:09:00 -0700",
+         "title" : "Smyslov Memorial Blitz: Nepomniachtchi 1st; Karpov Beats Karjakin"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Cambridge Springs Variation in the Semi Slav 5.Bg5 Nbd7 6.e3 Qa5 and how White might be able to generate fast and furious play against this seemingly solid line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1866,14 +1874,6 @@ news_feed (
          "title" : "Registration for Asian Women's Online Chess Championship 2021"
       },
       {
-         "description" : "GM Haik Martirosyan defeated GM Arjun Erigaisi&#38;nbsp;in the Tuesday quarterfinal of the Junior Speed Chess Championship presented by ChessKid with a 15.5-13.5 score. Martirosyan consistently held early leads in each section and held off several str...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-martirosyan-erigaisi",
-         "pubDate" : "Tue, 03 Aug 2021 15:45:00 -0700",
-         "title" : "Junior Speed Chess Championship QF: Martirosyan Pulls Away To Defeat Erigaisi"
-      },
-      {
          "description" : "Jan-Krzysztof Duda advanced to the final of the FIDE World Cup and secured a spot in the next edition of the Candidates Tournament by knocking out Magnus Carlsen in the rapid tiebreakers of their semifinal match. Meanwhile, Tan Zhongyi got third place in the women's event, thanks to a 1&frac12;-&frac12; playoff victory over Anna Muzychuk. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2368,46 +2368,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/7/29/tcec-season-21-superfinal-underway-but-stuck.html",
          "pubDate" : "Thu, 29 Jul 2021 19:39:19 +0000",
          "title" : "TCEC Season 21 Superfinal Underway, but Stuck?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1235",
-         "pubDate" : "Thu, 29 Jul 2021 19:17:01 +0000",
-         "title" : "World Cup semis: Carlsen vs Duda"
-      },
-      {
-         "description" : " World Chess and <a href=\"https://www.algorand.com/\">Algorand</a>, a Boston-based blockchain company founded by Turing award winner Silvio Micali, will produce a <a href=\"https://shop.worldchess.com/algorand-limited-edition-set\">limited edition</a> of the official World Chess Championship sets. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/249341BD-250F-4807-9B14-6CF240D540A7.gif\" width=\"1400\" height=\"864\" alt=\"\" /> </div> The sets with the same design will be exclusively used in the FIDE World Championship Match that takes place in <a href=\"https://fide.com/calendar/51207\">Dubai</a> in November of 2021. Each limited edition World Chess Championship set has a c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-official-world-chess-championship-sets-to-be-certified-as-nf/",
-         "pubDate" : "Thu, 29 Jul 2021 18:23:18 +0000",
-         "title" : "The Official World Chess Championship Sets to be Certified as NFT on Algorand"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84868280.cms\" />Young Indian Grandmaster Nihal Sarin played out a draw with Argentina's Alan Pichot in the third round of the classical section of the Biel International Chess Festival on Thursday. Sarin's 42-move draw against the Argentine player took him to 13 points after three rounds of classical and the rapid event in which he finished second.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-alan-pichot-settle-for-a-draw/articleshow/84868280.cms",
-         "pubDate" : "Thu, 29 Jul 2021 22:39:12 +0530",
-         "title" : "Biel Chess festival: Nihal Sarin, Alan Pichot settle for a draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84867544.cms\" /> The Indian challenge in the FIDE chess World Cup ended on Thursday when Grandmaster Vidit Santosh Gujrathi lost the second game of the men's quarterfinals to Jan-Krzystof Duda. The 26-year old India No.3 faltered against his Polish opponent in a 50-move encounter after having drawn the first game of the two-game mini-match on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-vidit-gujrathi-loses-to-duda-indian-challenge-ends/articleshow/84867544.cms",
-         "pubDate" : "Thu, 29 Jul 2021 22:27:34 +0530",
-         "title" : "Chess World Cup: Vidit Gujrathi loses to Duda, Indian challenge ends"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1234",
-         "pubDate" : "Thu, 29 Jul 2021 16:09:00 +0000",
-         "title" : "FIDE Online Olympiad 2021: Registration deadline approaching"
       }
    ]
 }
