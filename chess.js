@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the Sveshnikov Variation 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5!? is one of the most popular lines of the Sicilian. It is named after the Russian Grandmaster Evgeny Sveshnikov, who discovered its potential in the 1960s and helped to make it popular. Yesterday, on 18 August 2021, Sveshnikov died at the age of 71. | Photo: Thorsten Cmiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-evgeny-sveshnikov-11-februar-1950-bis-18-august-2021",
+         "pubDate" : "Thu, 19 Aug 2021 13:22:50 +0100",
+         "title" : "Remembering Evgeny Sveshnikov (11. Februar 1950 bis 18. August 2021)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Schaak-Off</strong>, a <a href=\"https://schaakoff.nl/\">nationwide tournament</a> that is suitable for novices, is run by the <strong>Dutch Chess Federation</strong> on 13-26 September. Clubs, mind sport centres and caf&eacute;s all over the Netherlands will host the games to celebrate the return to the boards. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nationwide-tournament-for-everyone/",
+         "pubDate" : "Thu, 19 Aug 2021 10:41:54 +0100",
+         "title" : "Nationwide tournament for everyone"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1280",
          "pubDate" : "Thu, 19 Aug 2021 06:27:49 +0000",
          "title" : "Wesley So joins leaders"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Schaak-Off</strong>, a nationwide competition that is also suitable for tournament novices, is run by the <strong>Dutch Chess Federation</strong> on 13-26 September. Clubs, mind sport centres and caf&eacute;s all over the Netherlands will host the games to celebrate the return to the boards. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nationwide-tournament-for-everyone/",
-         "pubDate" : "Thu, 19 Aug 2021 06:52:15 +0100",
-         "title" : "Nationwide tournament for everyone"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2Z9eCfrD-nM.jpg?itok=y2oA27tA\" alt=\"\" /></a></div>",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
          "pubDate" : "Wed, 18 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
@@ -216,6 +224,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/fide-endorses-u21-championship/",
          "pubDate" : "Wed, 18 Aug 2021 10:04:59 +0100",
          "title" : "FIDE endorses U21 championship"
+      },
+      {
+         "description" : " This is a guest article from Grandmaster Avetik Grigoryan. He is a great friend of mine and an amazing Chess Coach. He is also the funder and CEO of ChessMood, an online chess learning website that I can wholeheartedly recommend. After coaching many amateur players, I noticed something quite interesting Nearly all of them were [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/amateur-mistakes/\">The 5 Costly Mistakes That the Amateurs Make</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/amateur-mistakes/",
+         "pubDate" : "Wed, 18 Aug 2021 08:37:40 +0000",
+         "title" : "The 5 Costly Mistakes That the Amateurs Make"
       },
       {
          "description" : "GMs Fabiano Caruana, Maxime Vachier Lagrave, and Leinier Dominguez started off with victories at the 2021 Sinquefield Cup, while GM Wesley So missed his chances to do the same against GM Shakhriyar Mamedyarov. GMs Jeffery Xiong and Richard Rapport...",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d3",
          "pubDate" : "Sat, 31 Jul 2021 14:00:00 +0100",
          "title" : "World Cup: Russians prevail"
-      },
-      {
-         "description" : "Two legends met yesterday at the Biel Chess Festival: Gata Kamsky and Boris Gelfand, both former World Championship runners-up and World Cup winners. With a draw, Kamsky defended his lead in the overall standings. Frenchman Maxime Lagarde is the new runner-up, as the Frenchman defeated Kirill Alekseenko in round 4. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-4-kamsky-and-gelfand-draw",
-         "pubDate" : "Sat, 31 Jul 2021 13:30:00 +0100",
-         "title" : "Biel, Round 4: Kamsky and Gelfand draw"
       },
       {
          "description" : " The 54th Biel Chess Festival took place 24th July to 4th August 2021. The main event was what they called a Triathalon with a Rapid, Standard and Blitz element. Gata Kamsky was the clear winner with 36 points in the combined standings 5 points clear of Kiril Alekseenko. Full final standings below.",
