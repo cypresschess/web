@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Cambridge Springs Variation in the Semi Slav 5.Bg5 Nbd7 6.e3 Qa5 and how White might be able to generate fast and furious play against this seemingly solid line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-attack-in-the-cambridge-springs",
+         "pubDate" : "Thu, 19 Aug 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A crushing attack in the Cambridge Springs"
+      },
+      {
+         "description" : "The Guildford Chess Club is one of the leading chess clubs in England, and it is also one of the oldest chess clubs in the country (and the world). On 11 September the club celebrates its 125th anniversary with a huge 125 board simul that is free for all. | Photo: The home of the Guildford Chess Club - since 1896",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-guildford-chess-club-celebrates-its-125th-anniversary",
+         "pubDate" : "Thu, 19 Aug 2021 16:30:05 +0100",
+         "title" : "The Guildford Chess Club celebrates its 125th anniversary!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The eminent theoretician, grandmaster and fighter for intellectual property rights in chess <strong>Evgeny Sveshnikov</strong> <a href=\"https://www.chess.com/news/view/evgeny-sveshnikov-1950-2021\">passed away</a>. Born in the Ural area of Russia, where he briefly worked as a research engineer, he moved to Latvia in the 1990s. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/evgeny-sveshnikov-1950-2021/",
+         "pubDate" : "Thu, 19 Aug 2021 14:41:55 +0100",
+         "title" : "Evgeny Sveshnikov (1950-2021)"
+      },
+      {
+         "description" : "The second round of the Sinquefield Cup in Saint Louis was played on Wednesday. Wesley So was the only winner of the day. The Filipino-born star inflicted Dariusz Swiercz's second loss in a row. So thus joined Fabiano Caruana, Maxime Vachier-Lagrave and Leinier Dominguez in the lead of the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r2",
+         "pubDate" : "Thu, 19 Aug 2021 14:25:00 +0100",
+         "title" : "Sinquefield Cup: So beats Swiercz"
+      },
+      {
+         "description" : "In round nine of the European Individual Women's Championship in Iasi/Romania table leader Julija Osmak drew against Elina Danielian but with two rounds to go Osmak is still sole first with 7.5/9. Danielian, Bela Khotenashvili and Nataliya Buksa follow half a point behind with 7.0/9. In round 10 Osmak plays with Black against Buksa, while Khotenashvili plays with White against Danielian. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Thu, 19 Aug 2021 13:45:00 +0100",
+         "title" : "European Women's Championship, Round 10 - Live"
+      },
+      {
+         "description" : "Chess Academy of Armenia and Armenian Chess Federation organize two Open Chess Tournaments in the period from 4-22 October 2021. The first tournament of the chess tour is &#8220;Chess Mood&#8221; International Open which will take place from 4th-12th October at a 5 stars Tsaghkadzor Mariott Hotel. The event will be held within two groups: A (for players rated&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-chess-tournaments-in-armenia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/open-chess-tournaments-in-armenia/",
+         "pubDate" : "Thu, 19 Aug 2021 12:29:49 +0000",
+         "title" : "Open Chess Tournaments in Armenia"
+      },
+      {
          "description" : "Today, the Sveshnikov Variation 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5!? is one of the most popular lines of the Sicilian. It is named after the Russian Grandmaster Evgeny Sveshnikov, who discovered its potential in the 1960s and helped to make it popular. Yesterday, on 18 August 2021, Sveshnikov died at the age of 71. | Photo: Thorsten Cmiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remembering-evgeny-sveshnikov-11-februar-1950-bis-18-august-2021",
          "pubDate" : "Thu, 19 Aug 2021 13:22:50 +0100",
-         "title" : "Remembering Evgeny Sveshnikov (11. Februar 1950 bis 18. August 2021)"
+         "title" : "Remembering Evgeny Sveshnikov (11 February 1950 to 18 August 2021)"
+      },
+      {
+         "description" : "The Western Asian Youth Chess Championships (Open &#38; Girls Under-8, 10,12,14,16 &#38; 18) scheduled to be held from 18th&#160;to 20th&#160;September 2021. All players who have",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-western-asian-online-chess-championship-2021/",
+         "pubDate" : "Thu, 19 Aug 2021 12:18:07 +0000",
+         "title" : "Registration for Western Asian Online Chess Championship 2021"
+      },
+      {
+         "description" : "Wesley So joined the lead of the Sinquefield Cup by inflicting a second defeat in two games on Dariusz Swiercz. It was the only decisive game of the second round, but there was no lack of fighting spirit or creativity in most of the other games, where both Shakhriyar Mamedyarov and Sam Shankland could lament some missed opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-2-wesley-so-joins-leaders",
+         "pubDate" : "Thu, 19 Aug 2021 12:05:37 +0000",
+         "title" : "Sinquefield Cup 2: Wesley So joins the leaders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1281",
+         "pubDate" : "Thu, 19 Aug 2021 11:56:31 +0000",
+         "title" : "FIDE Online Olympiad kicks off on August 20"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Schaak-Off</strong>, a <a href=\"https://schaakoff.nl/\">nationwide tournament</a> that is suitable for novices, is run by the <strong>Dutch Chess Federation</strong> on 13-26 September. Clubs, mind sport centres and caf&eacute;s all over the Netherlands will host the games to celebrate the return to the boards. </div> ",
@@ -56,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1279",
          "pubDate" : "Wed, 18 Aug 2021 21:19:48 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
-      },
-      {
-         "description" : "Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the Sinquefield Cup. The event features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Pictured: Leinier Dominguez | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Wed, 18 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
@@ -160,14 +224,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-grand-swiss-ecu-nominees/",
          "pubDate" : "Wed, 18 Aug 2021 12:50:37 +0000",
          "title" : "FIDE Grand Swiss - ECU nominees"
-      },
-      {
-         "description" : "After eight of eleven rounds Julija Osmak from Ukraine is the sole leader at the European Individual Women's Championship in Iasi/Romania. Osmak leads with 7.0/8 and is half a point ahead of Elina Danielian from Armenia. Another half point behind are seven players with 6.0/8 each. Round 9 starts at 14:00 CEST (8:00 ET, 12:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Wed, 18 Aug 2021 13:45:00 +0100",
-         "title" : "European Women's Championship, Round 9 - Live"
       },
       {
          "description" : " While the show is definitely not about chess, <a href=\"https://www.imdb.com/title/tt10986410/\">Ted Lasso</a> does have more than a few references to it, including using it as an important plot point in one of the episodes. It even includes a blindfold game, which does end badly for one of the main characters. But chess aside, it is a very funny series, and one that I am enjoying immensly. <br /> ",
@@ -882,14 +938,6 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three <strong>Grand Prix</strong> tournaments, that will decide the last two participants of the Candidates Tournament, are to be held in Berlin in February to April 2022. The German capital drew 16% of the popular vote, outnumbering São Paulo and London. The <a href=\"https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/\">series is organised</a> by <strong>World Chess</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/berlin-elected-by-popular-vote-to/",
-         "pubDate" : "Fri, 13 Aug 2021 06:44:06 +0100",
-         "title" : "Berlin elected by popular vote to host Grand Prix"
-      },
-      {
          "description" : "GM Fabiano Caruana grabbed sole first place after a topsy-turvy day, after answering a round four loss with two consecutive wins. GM Hikaru Nakamura showed his defensive skills to stay within striking distance in second place, while GM Sam Shankla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1322,14 +1370,6 @@ news_feed (
          "title" : "Chessable Masters: So on the attack"
       },
       {
-         "description" : "Wesley So took a huge step towards winning his 3rd event on the Meltwater Champions Chess Tour on Saturday as he defeated Liem Quang Le with a game to spare. Liem fell to eerily similar attacks in both games with the black pieces, while also failing to play on in a promising position with White. The match for 3rd place is all square after Levon Aronian won the first game but Vladislav Artemiev hit back to win on demand in the final game of the day.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-8-wesley-blows-liem-away",
-         "pubDate" : "Sun, 08 Aug 2021 09:14:43 +0000",
-         "title" : "Сhessable Masters 8: Wesley blows Liem away"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1400,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1257",
          "pubDate" : "Sat, 07 Aug 2021 07:46:34 +0000",
          "title" : "Liem clinches final place against So"
-      },
-      {
-         "description" : "European Women's Chess Championship 2021 starts on Monday, 9th of August in Iasi, Romania. 117 players from 29 European federations registered for the event, with Georgian trio top seeding the starting list: Batsiashvili Nino (GEO, 2491), Javakhishvili Lela (GEO, 2473), Khotenashvili Bela (GEO, 2463). The battlefield is completed with Girya Olga (RUS, 2448), Bodnaruk Anastasia (RUS, 2446), Mammadzada&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-starts/",
-         "pubDate" : "Sat, 07 Aug 2021 05:49:45 +0000",
-         "title" : "European Women's Chess Championship 2021 starts"
       },
       {
          "description" : "By a score of 23-22, Northern California triumphed over Texas at the national tournaments of state chess champions held July 31-August 3. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Cherry Hill, New Jersey site, which also hosts the U.S. Open. | Photos: Alexey Root",
@@ -2050,14 +2082,6 @@ news_feed (
          "title" : "FIDE launches Chess for Protection project for refugees"
       },
       {
-         "description" : "Happy Birthday to President Dr Sanjay Kapoor! The entire AICF fraternity wishes you the very best and we are sure that you will lead the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birhtday-mr-president/",
-         "pubDate" : "Mon, 02 Aug 2021 15:28:37 +0000",
-         "title" : "HAPPY BIRHTDAY MR. PRESIDENT"
-      },
-      {
          "description" : "Wesley So continues to top the standings of the preliminaries at the Chessable Masters after 10 rounds. Levon Aronian and Le Quang Liem had a great second day and climbed to shared second place, a half point behind So. The last 5 rounds of the preliminary stage will be played on Monday, with half the field set to advance to the quarterfinals. | Photo: Austin Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2210,14 +2234,6 @@ news_feed (
          "title" : "Chessable Masters: So leads, newcomers struggle"
       },
       {
-         "description" : "In a multifaceted column, Siegfried Hornecker looks at a young Austrian chess player who went missing in the Alps and never returned, how geometry on the chessboard is vastly different from a Euclidean two-dimensional plane, a curious episode from the 1951 World Championship match between Botvinnik and Bronstein, and a couple of endgame studies created by women composers. | Pictured: Julius Perlis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-07",
-         "pubDate" : "Sat, 31 Jul 2021 20:00:00 +0100",
-         "title" : "Kaleidoscope II"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84928969.cms\" />Indian Grandmaster Nihal Sarin notched up eight wins to go with three draws and as many defeats to be placed joint second after the rapid, blitz and four rounds of Classical section at the Biel Grandmaster Triathlon on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2240,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/07/act-womens-and-girls-championship.html",
          "pubDate" : "Sat, 31 Jul 2021 13:25:00 +0000",
          "title" : "ACT Women's and Girls Championship"
-      },
-      {
-         "description" : "Sergey Karjakin knocked out Sam Shankland in the only match of the quarterfinals that was decided in a rapid and blitz playoff at the open section of the FIDE World Cup in Sochi. Meanwhile, Alexandra Kosteniuk and Aleksandra Goryachkina (pictured) advanced to the final in the women's section after knocking out Tan Zhongyi and Anna Muzychuk respectively. Saturday is a rest day for both categories. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r6-d3",
-         "pubDate" : "Sat, 31 Jul 2021 14:00:00 +0100",
-         "title" : "World Cup: Russians prevail"
       },
       {
          "description" : " The 54th Biel Chess Festival took place 24th July to 4th August 2021. The main event was what they called a Triathalon with a Rapid, Standard and Blitz element. Gata Kamsky was the clear winner with 36 points in the combined standings 5 points clear of Kiril Alekseenko. Full final standings below.",
@@ -2400,22 +2408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1234",
          "pubDate" : "Thu, 29 Jul 2021 16:09:00 +0000",
          "title" : "FIDE Online Olympiad 2021: Registration deadline approaching"
-      },
-      {
-         "description" : " 'Does every chess opening have a name?\" asked one of my students recently. \"I'm pretty sure they do, and if they don't, feel free to make one up\" I replied, semi-seriously. Now I have no idea if there is such a thing as the Anti-anti Marshall line, or if the following game qualifies, but after Bacrot chose an Anti-Marshall line against Carlsen, Carlsen sacrificed his e pawn any way. He also sacrificed a few other things after that, and now is 1-0 up in quater finals of the World Cup. <br /> <br /> <b>Bacrot Etienne (FRA) (2678) - Carlsen Magnus (NOR) (2847) [C88]</b><br />World Cup 2021 Sochi (41.1), 28.07.2021 <script>new PgnViewer( { boardName: \"game1261\", movesFormat: \"default\", pgnStrin",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/the-anti-anti-marshall.html",
-         "pubDate" : "Thu, 29 Jul 2021 13:34:00 +0000",
-         "title" : "The Anti-Anti Marshall"
-      },
-      {
-         "description" : "Following a series of arbiter courses and examinations through April, May, June and July 2021, the following have been admitted to the latest Arbiter list,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-arbiters/",
-         "pubDate" : "Thu, 29 Jul 2021 12:05:59 +0000",
-         "title" : "New Arbiters"
       }
    ]
 }
