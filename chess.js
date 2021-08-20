@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " If you're not a correspondence chess player you probably won't have heard of the American correspondence star Kurt Stein, but Daniel Parmet was well-acquainted with the #5 correspondence chess player in the United States, and writes in to let us know of his passing. Here is <a href=\"http://danielparmet.com/article/kurt_stein\">his obituary</a> (with several games included), and here is the <a href=\"https://www.iccf.com/message?message=1473\">obituary by Ken Holroyd</a> (another correspondence chess star). ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/kurt-stein-1959-2021-rip.html",
+         "pubDate" : "Fri, 20 Aug 2021 23:13:40 +0000",
+         "title" : "Kurt Stein (1959-2021), R.I.P."
+      },
+      {
+         "description" : " When we left off with the Chessable Masters, part of the <a href=\"https://championschesstour.com/\">Meltwater Champions Chess Tour</a>, the preliminaries were over and the knockout stage has become. <a href=\"https://championschesstour.com/sensational-so-wins-chessable-masters-final-to-clinch-third-tour-title/\">The winner was Wesley So</a>, who defeated Le Quang Liem in the finals to win his third tour event and clinch a spot in the tour Finals. Here's how the knockout stage of the Chessable Masters worked out. In the quarters, So got in trouble on day 1 against Jorden Van Foreest, drawing game 1 and losing game 2 in just 19 moves. So is nothing if not resilient, and he fought back to win gam",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/more-ancient-history-so-wins-the-chessable-masters.html",
+         "pubDate" : "Fri, 20 Aug 2021 22:32:19 +0000",
+         "title" : "More Ancient History: So Wins the Chessable Masters"
+      },
+      {
+         "description" : " Again, just tidying up on ancient history: Jan Krzysztof Duda finished the tournament of his young life - thus far - in fantastic style, defeated World Champion Magnus Carlsen in the semi-finals of the World Cup to qualify for next year's Candidates, while Sergey Karjakin also qualified by meeting Duda there. Duda won that final match to win the event, garnering more money and more prestige, but both players succeeded in their primary aim. This means that half the eight Candidates' spots are settled. In addition to Duda and Karjakin, one spot will go to the loser of the world championship match between Carlsen and challenger Ian Nepomniachtchi in November, and another is going to Teimour Ra",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/world-cup-finale-duda-karjakin-qualify-for-the-2022-candidat.html",
+         "pubDate" : "Fri, 20 Aug 2021 22:04:21 +0000",
+         "title" : "World Cup Finale: Duda, Karjakin Qualify for the 2022 Candidates"
+      },
+      {
+         "description" : " We'll get to today's chess - literally <em>today's</em> chess - soon, but let's follow up on some (relatively) old-timey chess by noting that Stockfish won yet another TCEC event, defeating perennial rival (and research ally) Leela Chess Zero 56-44 in the Superfinal. An overview of the season can be found <a href=\"https://en.wikipedia.org/wiki/TCEC_Season_21\">here</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/ancient-history-stockfish-wins-tcec-season-22.html",
+         "pubDate" : "Fri, 20 Aug 2021 22:01:31 +0000",
+         "title" : "Ancient History: Stockfish Wins TCEC Season 22"
+      },
+      {
+         "description" : " <a href=\"https://www.theamericanconservative.com/articles/women-and-men-in-chess/\">Have a look</a>, and throw this into the mix with the <a href=\"http://www.thechessmind.net/blog/2021/8/3/hou-yifan-womens-chess-and-gender-equality.html\">previous post</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/another-view-on-women-in-chess.html",
+         "pubDate" : "Fri, 20 Aug 2021 21:59:35 +0000",
+         "title" : "Another View on Women in Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1284",
+         "pubDate" : "Fri, 20 Aug 2021 21:39:02 +0000",
+         "title" : "Elina Danielian wins European Women's Championship"
+      },
+      {
+         "description" : "Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are leading the standings table at the Sinquefield Cup on 2&frac12;/3 points, with Shakhriyar Mamedyarov and Leinier Dominguez currently a half point behind. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Fri, 20 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1283",
+         "pubDate" : "Fri, 20 Aug 2021 19:59:44 +0000",
+         "title" : "Huge participation at the FIDE Online Chess Olympiad"
+      },
+      {
          "description" : "After 11 played rounds at the 2021 European Women's Chess Championship in Iasi, Romania, GM Danielian Elina (ARM, 2407) triumphed the event. Danielian Elina won the last round against WIM Narva Mai (EST, 2276) to be the sole Winner and to take the crown of European Women's Chess Champion 2021 with final score of 9 points. After a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2258,14 +2322,6 @@ news_feed (
          "title" : "$100,000 Chessable Masters gets underway"
       },
       {
-         "description" : "Nihal Sarin and Kirill Alekseenko had the strongest performances at the blitz tournament, one of three events that make up the Grandmaster Triathlon at the Biel Chess Festival. Gata Kamsky is still leading the overall standings, but is now only 1&frac12; points ahead of Nihal and Alekseenko. | Photos and report: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-blitz-tournament-nihal-and-alekseenko-the-strongest",
-         "pubDate" : "Sun, 01 Aug 2021 01:35:00 +0100",
-         "title" : "Biel: Nihal and Alekseenko the strongest in blitz"
-      },
-      {
          "description" : " Blurb from the publisher: &#8220;If you want to improve your middlegame play, you will have to develop a FEEL for positions. That's what Boris Zlotnik has been stressing during his long and rich trainers career. Clicking through concrete variations (a popular pastime in the computer era) is not enough. To guide your thinking during a <a href=\"http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Zlotnik's Middlegame Manual Typical Structures And Strategic Manoeuvres</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessn",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2312,14 +2368,6 @@ news_feed (
          "link" : "https://www.thearticle.com/lies-hypocrisy-and-genius-the-wizardry-of-chess/",
          "pubDate" : "Sat, 31 Jul 2021 09:00:20 +0000",
          "title" : "Lies, hypocrisy and genius: the wizardry of chess"
-      },
-      {
-         "description" : " Many times we sometimes think about what role we want to play in the greater chess community. Are we teachers? Organizers? Arbiters? Politicians? Journalists? Authors? Commentators? Are we those who only want to compete? For Justus Williams, who is a USCF Senior Master, he happens to be in another category activist. Chess players have various [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/\">Justus Williams reaches chess heights on Black Squares</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
-         "pubDate" : "Fri, 30 Jul 2021 23:07:21 +0000",
-         "title" : "Justus Williams reaches chess heights on Black Squares"
       }
    ]
 }
