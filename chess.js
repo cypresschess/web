@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million subscribers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <span>Related: </span><a href=\"https://www.theguardian.com/sport/commentisfree/2021/jul/24",
+         "description" : "Today, 20 August 2021, the European Women's Championship in Iasi/Romania comes to an end, and with one round to go five players still have chances to win: Elina Danielian and Juliya Osmak lead with 8.0/10 each and three players with 7.5/10 each share places three to five: Olivia Kiolbasa, Mai Narva and Nataliya Buksa. In the eleventh and final round Danielian plays with White against Narva, Osmak has White against Bela Khotenashvili and Kiolbasan plays with White against Buksa. The round starts at 13:00 CEST (7:00 ET, 11:00 UTC). Follow the action live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
+         "pubDate" : "Fri, 20 Aug 2021 12:45:00 +0100",
+         "title" : "European Women's Championship, 11th and last round - Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While many school chess programmes have been on hold during the pandemic, <em>Helge Frowein</em> was busier than ever. Here is his appeal to mobilize fellow chess teachers and get better solutions for online and blended instruction. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/onlineschulschach.1920.jpeg\" title=\"There is now a generation of kids that is not used to set up the pieces, distinguish illegal moves, push the clock, or solve exercises in the book. photo: https://www.schulschach-mb.de/\" data-title=\"There is now a generation of kids that is not used to set up the pieces, distingui",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/this-is-the-time-for-change/",
+         "pubDate" : "Fri, 20 Aug 2021 11:29:18 +0100",
+         "title" : "This is the time for change"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1282",
+         "pubDate" : "Fri, 20 Aug 2021 10:23:16 +0000",
+         "title" : "Day 3: Caruana, So and Vachier-Lagrave forge ahead"
+      },
+      {
+         "description" : "The next Meltwater Champions Chess Tour will feature 9 tournaments, beginning on February 19th, 2022 and concluding with the final from November 11-20. The Tour, that helped launch and has benefited from the huge boom in online chess in the last couple of years, is now becoming an established feature of the chess calendar, with Norway's TV 2 signing an agreement to broadcast it live for an additional five years after this year's Tour concludes in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/2022-meltwater-champions-chess-tour-dates-announced",
+         "pubDate" : "Fri, 20 Aug 2021 09:30:50 +0000",
+         "title" : "2022 Meltwater Champions Chess Tour dates announced"
+      },
+      {
+         "description" : " The game of chess can be divided into three phases - the opening, middle and endgame. Each of these phases has a specific set of principles that are designed to help you play better chess. Many of these principles have been around for centuries and have stood the test of time. Are these principles a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\">A Foundation for Beginners Thirty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-one/",
+         "pubDate" : "Fri, 20 Aug 2021 09:27:58 +0000",
+         "title" : "A Foundation for Beginners Thirty One"
+      },
+      {
+         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million followers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <span>Related: </span><a href=\"https://www.theguardian.com/sport/commentisfree/2021/jul/24/l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carlsen-after-27-game-unbeaten-run",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r2",
          "pubDate" : "Thu, 19 Aug 2021 14:25:00 +0100",
          "title" : "Sinquefield Cup: So beats Swiercz"
-      },
-      {
-         "description" : "In round nine of the European Individual Women's Championship in Iasi/Romania table leader Julija Osmak drew against Elina Danielian but with two rounds to go Osmak is still sole first with 7.5/9. Danielian, Bela Khotenashvili and Nataliya Buksa follow half a point behind with 7.0/9. In round 10 Osmak plays with Black against Buksa, while Khotenashvili plays with White against Danielian. The round starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Thu, 19 Aug 2021 13:45:00 +0100",
-         "title" : "European Women's Championship, Round 10 - Live"
       },
       {
          "description" : "Chess Academy of Armenia and Armenian Chess Federation organize two Open Chess Tournaments in the period from 4-22 October 2021. The first tournament of the chess tour is &#8220;Chess Mood&#8221; International Open which will take place from 4th-12th October at a 5 stars Tsaghkadzor Mariott Hotel. The event will be held within two groups: A (for players rated&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-chess-tournaments-in-armenia/\">Read More &#187;</a></span>",
@@ -274,7 +306,7 @@ news_feed (
          "title" : "Evgeny Sveshnikov, 1950-2021"
       },
       {
-         "description" : "Fabiano Caruana got off to a perfect start in this year's Sinquefield Cup, getting the chance to play a nice, if relatively simple, queen sacrifice and take down Sam Shankland. The two new faces, compared to the recently concluded St. Louis Rapid &amp; Blitz, were involved in the first round's two other decisive games, though they had opposing fortunes: Maxime Vachier-Lagrave exploited a crucial error by Peter Svidler, but Dariusz Swiercz was ground down by Lenier Dominguez.",
+         "description" : "Fabiano Caruana got off to a perfect start in this year's Sinquefield Cup, getting the chance to play a nice, if relatively simple, queen sacrifice and take down Sam Shankland. The two new faces, compared to the recently concluded St. Louis Rapid &amp; Blitz, were involved in the first round's two other decisive games, though they had opposing fortunes: Maxime Vachier-Lagrave exploited a crucial error by Peter Svidler, but Dariusz Swiercz was ground down by Leinier Dominguez.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-caruana-storms-back-to-world-no-2",
@@ -850,14 +882,6 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 3: Nakamura Moves Into First, Rapport Rises"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>King of Games</strong>, the company of Slovenian GMs <strong>Dusko Pavasovic</strong> and <strong>Luka Lenic</strong>, whose lead product <a href=\"https://www.chesstech.org/2020/commercial-vibe/\">Chess Universe</a> has been downloaded a million times, <a href=\"https://venturebeat.com/2021/08/13/the-grand-masters-at-kings-of-games-raise-money-for-chess-universe/\">raised an undisclosed sum</a> from <strong>Transcend Fund</strong>, a major investor in game startups. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/transcend-fund-invests-in-chess/",
-         "pubDate" : "Fri, 13 Aug 2021 18:35:08 +0100",
-         "title" : "Transcend Fund invests in Chess Universe"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1344,14 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1259",
          "pubDate" : "Mon, 09 Aug 2021 07:34:04 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss to be held in Riga"
-      },
-      {
-         "description" : "US Chess Champion Wesley So came from behind on the final day of the Chessable Masters to defeat Liem Quang Le and claim a record 3rd title on the Meltwater Champions Chess Tour. \"My goal is just to force Magnus to show up!\" he said of his hopes of overhauling Magnus Carlsen in the overall tour standings during the next event. Meanwhile Vladislav Artemiev got revenge for his Goldmoney Asian Rapid final loss to Levon Aronian by snatching 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-triumphs-in-the-chessable-masters",
-         "pubDate" : "Mon, 09 Aug 2021 07:32:32 +0000",
-         "title" : "Wesley So triumphs in the Chessable Masters"
       },
       {
          "description" : " GM Wesley So dominated the first day of the finals of the Chessable Masters&#38;nbsp;by defeating GM Le Quang Liem twice. On the second day, he scored 2-2 to clinch the tournament. In the match for third place, GM Artemiev Vladislav and GM Levon ...",
@@ -2226,14 +2242,6 @@ news_feed (
          "title" : "$100,000 Chessable Masters gets underway"
       },
       {
-         "description" : " Two positions taken from Ray Cannon's excellent new book of endgame stratagems. It's White to play in each case. White has to move his king to the f-file, but should you choose f1 or f2? The answer is that you have to move your king to the same colour square as that occupied by the <a href=\"https://chessimprover.com/battle-of-endgames-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Battle of Endgames: 2\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/battle-of-endgames-2/\">Battle of Endgames: 2</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/battle-of-endgames-2/",
-         "pubDate" : "Sun, 01 Aug 2021 06:15:50 +0000",
-         "title" : "Battle of Endgames: 2"
-      },
-      {
          "description" : "Nihal Sarin and Kirill Alekseenko had the strongest performances at the blitz tournament, one of three events that make up the Grandmaster Triathlon at the Biel Chess Festival. Gata Kamsky is still leading the overall standings, but is now only 1&frac12; points ahead of Nihal and Alekseenko. | Photos and report: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2344,14 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1238",
          "pubDate" : "Fri, 30 Jul 2021 12:15:49 +0000",
          "title" : "Chess for Protection: FIDE and UNHCR introduce a chess project for refugees"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-online-chess-championships-2021/#BOCClive",
-         "pubDate" : "Fri, 30 Jul 2021 11:03:53 +0000",
-         "title" : "British Online - follow the action live"
       }
    ]
 }
