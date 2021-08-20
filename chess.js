@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million subscribers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <span>Related: </span><a href=\"https://www.theguardian.com/sport/commentisfree/2021/jul/24",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carlsen-after-27-game-unbeaten-run",
+         "pubDate" : "Fri, 20 Aug 2021 07:00:28 +0000",
+         "title" : "Chess: Nakamura swaps barbs with Carlsen after 27-game unbeaten run"
+      },
+      {
+         "description" : "A particularly exciting round saw four players winning with the white pieces at the Sinquefield Cup in Saint Louis. Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are leading the standings on 2&frac12;/3, with Shakhriyar Mamedyarov (pictured) and Leinier Dominguez currently a half point behind. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r3",
+         "pubDate" : "Fri, 20 Aug 2021 07:00:00 +0100",
+         "title" : "Sinquefield Cup: Sharp chess"
+      },
+      {
+         "description" : " The <a href=\"https://onlineolympiad.fide.com/\">2021 Online Chess Olympiad</a> starts in a few hours. Division 4 is the starting division this year, with Pool A the first pool to kick off. It consists of teams in Asia (including Oceania) including Fiji, Guam and Hong Kong. The top 3 teams from this pool (and each of the Division 4 pools) qualify for the next round (Division 3). Pool A begins at 6pm Canberra time, and there will be 3 rounds today with 4 rounds on Saturday and Sunday. Based on rating, Pakistan and Lebanon look like the favourites to qualify, but Fiji and Guam are in with a chance to take 3rd, along with a few other teams. There should be plenty of life coverage of the games, w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-onilne-chess-olympiad-starts-today.html",
+         "pubDate" : "Fri, 20 Aug 2021 05:18:00 +0000",
+         "title" : "2021 Onilne Chess Olympiad - Starts today"
+      },
+      {
          "description" : "Four of the five games in round three of the 2021 Sinquefield Cup were decisive. Wins by GMs Fabiano Caruana, Maxime Vachier-Lagrave, and Wesley So keep them in the lead of the pack with 2.5/3. GM Richard Rapport lost a heartbreaker to GM Shakhr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,15 +90,7 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 3"
       },
       {
-         "description" : "Wesley So was the only winner that scored a full point in round 2, and thus joined Fabiano Caruana, Leiner Dominguez and Maxime Vachier-Lagrave in the lead of the event. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Thu, 19 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
-         "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring 50 percent and beating both GM Sergey Karja...",
+         "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring plus-one and beating both GM Sergey Karjaki...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/smyslov-memorial-blitz-region-nepomniachtchi-karpov",
@@ -2336,14 +2352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-online-chess-championships-2021/#BOCClive",
          "pubDate" : "Fri, 30 Jul 2021 11:03:53 +0000",
          "title" : "British Online - follow the action live"
-      },
-      {
-         "description" : " The Russian 19-year-old held his own for six games against the world champion and rivals Alireza Firouzja as heir apparent to the Norwegian's crown Magnus Carlsen has never won the $1.9m World Cup, and his early exit at his last attempt in 2017 still rankles. Despite a few early hiccups, it was soon clear that the 2021 version of the 206-player knockout was made for the No 1 as he sailed through the majority of his matches comfortably while most of his seeded rivals fell by the wayside. In Saturday's semi-finals Carlsen, who <a href=\"https://chess24.com/en/watch/live-tournaments/sochi-fide-world-cup-2021/6/1/1\" title=\"\">beat Étienne Bacrot</a> (France) 2-0, meets Jan-Krysztof Duda (Poland)",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/jul/30/chess-carlsen-eases-into-world-cup-semi-but-esipenko-is-emerging-star",
-         "pubDate" : "Fri, 30 Jul 2021 07:00:01 +0000",
-         "title" : "Chess: Carlsen eases into World Cup semi, but Esipenko is emerging star"
       }
    ]
 }
