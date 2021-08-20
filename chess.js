@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 11 played rounds at the 2021 European Women's Chess Championship in Iasi, Romania, GM Danielian Elina (ARM, 2407) triumphed the event. Danielian Elina won the last round against WIM Narva Mai (EST, 2276) to be the sole Winner and to take the crown of European Women's Chess Champion 2021 with final score of 9 points. After a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/",
+         "pubDate" : "Fri, 20 Aug 2021 18:46:55 +0000",
+         "title" : "Danielian Elina wins European Women's Chess Championship 2021"
+      },
+      {
          "description" : "Please follow the link for an initial summary of responses to date from the ECF clubs survey https://www.englishchess.org.uk/wp-content/uploads/2021/08/Clubs-Survey-Summary-Findings-August.pdf",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -690,7 +698,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share!121 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!144 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-155-with-abhimanyu-mishra-the-world-s-youngest-grandmaster-of-all-time",
          "pubDate" : "Mon, 09 Aug 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
-      },
-      {
-         "description" : "European Women's Individual Chess Championship 2021 has started in Iasi, Romania. All 117 registered participants, coming from 29 different European federations safely arrived to Romania and have been paired for the first round. Starting rank list and pairings Romanian Chess Federation, the Mayor of Iasi Municipality, Mr. Mihai Chirica, and the ECU President, Mr. Zurab Azmaiparashvili hold an&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-started-in-iasi/",
-         "pubDate" : "Mon, 09 Aug 2021 14:21:58 +0000",
-         "title" : "European Women's Individual Chess Championship started in Iasi"
       },
       {
          "description" : " While I am mainly a chess player, I do occasionally play a bit of backgammon. However I am not that good at it, unlike my father, who has won the ACT Backgammon Championship at least twice. One thing that backgammon has in common with chess, is that you can get plenty of instructional videos on youtube. One series has been produced by someone I regularly play backgammon with, and is designed for the newcomer in mind. I've embedded a clip below, but if you want to check out the whole series, click on this link <a href=\"https://www.youtube.com/channel/UCe1QwuqY7LG-6JcSApTAeIA\">Backgammon Mechanics</a> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" c",
@@ -2320,30 +2320,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/07/30/justus-williams-reaches-chess-heights-on-black-squares/",
          "pubDate" : "Fri, 30 Jul 2021 23:07:21 +0000",
          "title" : "Justus Williams reaches chess heights on Black Squares"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1237",
-         "pubDate" : "Fri, 30 Jul 2021 19:11:48 +0000",
-         "title" : "Round 6 tiebreaks: Sergei Karjakin \"The Comeback Minister\" advances to semi-finals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84898941.cms\" /> Indian Grandmaster Nihal Sarin played out a draw against Switzerland's Noel Studer in the fourth round of the classical section of the Biel International Chess Festival on Friday. The 17-year-old Sarin and Studer signed peace in 36 moves in an Austrian defence opening game.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-draws-with-noel-studer/articleshow/84898941.cms",
-         "pubDate" : "Fri, 30 Jul 2021 21:54:43 +0530",
-         "title" : "Biel Chess festival: Nihal Sarin draws with Noel Studer"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1236",
-         "pubDate" : "Fri, 30 Jul 2021 16:09:33 +0000",
-         "title" : "Istvan Csom (1940-2021)"
       }
    ]
 }
