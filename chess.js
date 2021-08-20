@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please follow the link for an initial summary of responses to date from the ECF clubs survey https://www.englishchess.org.uk/wp-content/uploads/2021/08/Clubs-Survey-Summary-Findings-August.pdf",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-survey-interim-responses/",
+         "pubDate" : "Fri, 20 Aug 2021 15:10:12 +0000",
+         "title" : "Clubs Survey - interim responses"
+      },
+      {
+         "description" : "The Asian Youth Chess Championships (Open &#38; Girls Under-8, 10,12,14,16 &#38; 18) scheduled to be held from 21st October to 24th October 2021 (Girls Categories)",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-asian-youth-online-chess-championship-2021/",
+         "pubDate" : "Fri, 20 Aug 2021 14:50:34 +0000",
+         "title" : "Registration for Asian Youth Online Chess Championship 2021"
+      },
+      {
+         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG\" data-image-dimensions=\"1834x836\" data-image-focal-point=\"0.5,0.5\" alt=\"My.System.JPG\" data-load=\"false\" data-image-id=\"611fb0792523aa1e707d7c90\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466755809-RXHQBM5L2RQA3CMBODJ3/QC.MySystem.jpg\" data-image-dimensions=\"339x499\" data-image-focal-point=\"0.5,0.5\" alt=\"QC.",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/20/book-recap-18-discussing-aron-nimzowitschs-my-system-with-im-christof-sielecki",
+         "pubDate" : "Fri, 20 Aug 2021 13:43:14 +0000",
+         "title" : "Book Recap #18- Discussing Aron Nimzowitsch's My System with IM Christof Sielecki "
+      },
+      {
          "description" : "Today, 20 August 2021, the European Women's Championship in Iasi/Romania comes to an end, and with one round to go five players still have chances to win: Elina Danielian and Juliya Osmak lead with 8.0/10 each and three players with 7.5/10 each share places three to five: Olivia Kiolbasa, Mai Narva and Nataliya Buksa. In the eleventh and final round Danielian plays with White against Narva, Osmak has White against Bela Khotenashvili and Kiolbasan plays with White against Buksa. The round starts at 13:00 CEST (7:00 ET, 11:00 UTC). Follow the action live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
          "pubDate" : "Fri, 20 Aug 2021 12:45:00 +0100",
          "title" : "European Women's Championship, 11th and last round - Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The next <strong>Meltwater Champions Chess Tour</strong> will consist of <a href=\"https://championschesstour.com/2022-tour-dates/\">nine online tournaments</a> between 19 February and 20 November 2022. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/champions-tour-announces-2022-dates/",
+         "pubDate" : "Fri, 20 Aug 2021 12:36:18 +0100",
+         "title" : "Champions Tour announces 2022 dates"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While many school chess programmes have been on hold during the pandemic, <em>Helge Frowein</em> was busier than ever. Here is his appeal to mobilize fellow chess teachers and get better solutions for online and blended instruction. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/onlineschulschach.1920.jpeg\" title=\"There is now a generation of kids that is not used to set up the pieces, distinguish illegal moves, push the clock, or solve exercises in the book. photo: https://www.schulschach-mb.de/\" data-title=\"There is now a generation of kids that is not used to set up the pieces, distingui",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-152",
          "pubDate" : "Sun, 15 Aug 2021 17:20:00 +0100",
          "title" : "Initiating fission"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has separated the functions of Executive Director and Sport Director <a href=\"https://www.schachbund.de/news/kevin-hoegy-wird-neuer-dsb-sportdirektor.html\">and appointed</a> <strong>Kevin H&ouml;gy</strong>, an experienced coach and <a href=\"https://www.linkedin.com/in/kevin-h%C3%B6gy-6202ba117\">event specialist</a>, who joined the federation headquarters two years ago for the German Youth Chess Association. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kevin-hoegy-appointed-sport-director/",
-         "pubDate" : "Sun, 15 Aug 2021 15:33:25 +0100",
-         "title" : "Kevin H&ouml;gy appointed Sport Director in Germany"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 40th instalment of his ChessBase show \"Understanding before Moving\", Herman travels down memory lane and takes another look at critical moves. | Photo: Tommy Grooten",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "Congratulations Harshit Raja - 69th Grandmaster of the country"
       },
       {
-         "description" : "The Asian Women's Online Chess Championship scheduled to be held from 27th to 29th&#160;August 2021. All female players who having rating 2100+ in the August",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-asian-womens-online-chess-championship-2021/",
-         "pubDate" : "Wed, 04 Aug 2021 03:27:08 +0000",
-         "title" : "Registration for Asian Women's Online Chess Championship 2021"
-      },
-      {
          "description" : "Jan-Krzysztof Duda advanced to the final of the FIDE World Cup and secured a spot in the next edition of the Candidates Tournament by knocking out Magnus Carlsen in the rapid tiebreakers of their semifinal match. Meanwhile, Tan Zhongyi got third place in the women's event, thanks to a 1&frac12;-&frac12; playoff victory over Anna Muzychuk. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2328,30 +2344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1236",
          "pubDate" : "Fri, 30 Jul 2021 16:09:33 +0000",
          "title" : "Istvan Csom (1940-2021)"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess, FIDE commercial partner, together with Algorand, a leading blockchain accelerating the convergence of decentralized and traditional finance, are bringing the first-ever official World Chess shop to New York City. The shop comes to New York on the heels of 'The Queen's Gambit' and in anticipation of the 2021 FIDE World Championship Match that takes place in November 2021 in Dubai. The shop will feature the exclusive official sets for the Championship Match and other collectible chess merchandise. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6_CShading_LightMix-min.jpg\" width=\"1700\" height=\"903\" alt=\"\" /> </div> The shop will open a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-most-exciting-chess-shop-in-the-world-to-open-in-new-york-to/",
-         "pubDate" : "Fri, 30 Jul 2021 13:17:27 +0000",
-         "title" : "The Most Exciting Chess Shop in the World to Open in New York"
-      },
-      {
-         "description" : "The British Junior Rapid &#38; Blitz Championship will take place on 13th-14th November at Kents Hill Park, Milton Keynes. In addition to the titles of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-championship-entries-open/",
-         "pubDate" : "Fri, 30 Jul 2021 12:53:54 +0000",
-         "title" : "British Junior Rapid & Blitz Championship - entries open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1238",
-         "pubDate" : "Fri, 30 Jul 2021 12:15:49 +0000",
-         "title" : "Chess for Protection: FIDE and UNHCR introduce a chess project for refugees"
       }
    ]
 }
