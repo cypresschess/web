@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 4 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-discusses-brilliancy-prize-2021-sinquefield-cup-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/owUND1V8yE0.jpg?itok=-BhgwaL4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-discusses-brilliancy-prize-2021-sinquefield-cup-interview-round-4",
+         "pubDate" : "Sat, 21 Aug 2021 02:24:07 +0000",
+         "title" : "Leinier Dominguez Discusses Brilliancy Prize | 2021 Sinquefield Cup | Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Richard Rapport during Round 4 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-richard-rapport-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RF4EIQa-5Uc.jpg?itok=SMX5CL3d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-richard-rapport-interview-round-4",
+         "pubDate" : "Sat, 21 Aug 2021 02:24:07 +0000",
+         "title" : "2021 Sinquefield Cup: Richard Rapport Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 4 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-sam-shankland-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x58NB4jgvvI.jpg?itok=yZTCh33l\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-sam-shankland-interview-round-4",
+         "pubDate" : "Sat, 21 Aug 2021 02:24:07 +0000",
+         "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-dariusz-swiercz-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-dariusz-swiercz-interview-round-4",
+         "pubDate" : "Sat, 21 Aug 2021 02:24:07 +0000",
+         "title" : "2021 Sinquefield Cup: Dariusz Swiercz Interview | Round 4"
+      },
+      {
+         "description" : " Bit by bit, we creep our way back to the present. The most recently completed major tournament was the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-saint-louis-rapid-blitz\">2021 St. Louis Rapid &amp; Blitz</a>, the penultimate event of the 2021 Grand Chess Tour. (The ongoing Sinquefield Cup is the finale.) Now a streamer first (by his own admission) and a bit too low on the rating list to be a full-time member of the Grand Chess Tour, Hikaru Nakamura participated as a wildcard...and dominated. He went through all three round-robins undefeated, scoring 6/9 each time. His 6/9 - or rather, 12/18, as the rapid games counted double - in the rapid was good for a minimal lead ove",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/nakamura-wins-the-2021-st-louis-rapid-blitz.html",
+         "pubDate" : "Fri, 20 Aug 2021 23:58:59 +0000",
+         "title" : "Nakamura Wins the 2021 St. Louis Rapid & Blitz"
+      },
+      {
+         "description" : " <a href=\"https://www.youtube.com/watch?v=WVUNFu2TuGM\">At the start of Wednesday's play at the Sinquefield Cup</a>, it was announced that Latvian grandmaster Evgeny Sveshnikov had passed away on Wednesday at the age of 71. Sveshnikov was never close to becoming a world champion (though he was perhaps the equivalent of today's high-2600/borderline-2700 GM in his peak years), but when it comes to his influence on the game - in the opening in particular - he was one of the most important chessplayers of his time. His contributions to opening theory are legendary - most famously in the system that bears his name (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5, particularly 6.Ndb5 d6 7.Bg5 a6 8.",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/20/evgeny-sveshnikov-1950-2021-rip.html",
+         "pubDate" : "Fri, 20 Aug 2021 23:19:33 +0000",
+         "title" : "Evgeny Sveshnikov (1950-2021), R.I.P."
+      },
+      {
          "description" : " If you're not a correspondence chess player you probably won't have heard of the American correspondence star Kurt Stein, but Daniel Parmet was well-acquainted with the #5 correspondence chess player in the United States, and writes in to let us know of his passing. Here is <a href=\"http://danielparmet.com/article/kurt_stein\">his obituary</a> (with several games included), and here is the <a href=\"https://www.iccf.com/message?message=1473\">obituary by Ken Holroyd</a> (another correspondence chess star). ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -226,14 +274,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Old School vs. New School | Parkside Chat"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 3 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w9ZpnC_f2vc.jpg?itok=6VjWdPzd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-3",
-         "pubDate" : "Thu, 19 Aug 2021 23:23:06 +0000",
-         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 3"
-      },
-      {
          "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring plus-one and beating both GM Sergey Karjaki...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -330,22 +370,6 @@ news_feed (
          "title" : "Wesley So joins leaders"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2Z9eCfrD-nM.jpg?itok=y2oA27tA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-2",
-         "pubDate" : "Thu, 19 Aug 2021 02:22:33 +0000",
-         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 2 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pUR_AWN3jx8.jpg?itok=rlvaPjPp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-svidler-interview-round-2",
-         "pubDate" : "Thu, 19 Aug 2021 02:22:33 +0000",
-         "title" : "2021 Sinquefield Cup: Peter Svidler Interview | Round 2"
-      },
-      {
          "description" : "GM Wesley So joined the leaders by handing GM Dariusz Swiercz his second loss with the white pieces. The rest of the games were drawn, as the contestants are gathering their strength. GMs Fabiano Caruana, Maxime Vachier-Lagrave, Leinier Dominguez,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1279",
          "pubDate" : "Wed, 18 Aug 2021 21:19:48 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-3",
-         "pubDate" : "Wed, 18 Aug 2021 20:22:03 +0000",
-         "title" : "2021 Sinquefield Cup: Round 3"
       },
       {
          "description" : "Unbelievable news-Evgeny Sveshnikov died after seemed overcomed COVID 19. He was just 71, always full of ideas. His dream was to participate in Seniors Championships (he won a lot) and to meet old friends. He really fought for Seniors chess and for the intellectual rights of chess players. He was one of the members of the famous Cheliabinsk&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/\">Read More &#187;</a></span>",
@@ -2136,22 +2152,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/8/3/fide-world-cup-karjakin-guarantees-himself-a-candidates-spot.html",
          "pubDate" : "Tue, 03 Aug 2021 06:11:55 +0000",
          "title" : "FIDE World Cup: Karjakin Guarantees Himself a Candidates Spot; Duda Hoping for the Second Spot"
-      },
-      {
-         "description" : " The prelims in the latest Meltwater Chess Tour event, the Chessable Masters, are over. The format is familiar: a 16-player round-robin that knocks out half the field for the knockout stage. Here are the results of the prelims: <p style=\"padding-left: 30px;\">1. Wesley So 11 (of 15)<br />2-4. Levon Aronian, Alireza Firouzja, Hikaru Nakamura (in tiebreak order) 10.5<br />5. Vladislav Artemiev 9.5<br />6-7. Lie Quang Liem, Shakhriyar Mamedyarov 9<br />8. Jorden Van Foreest 8.5 (the foregoing qualified for the knockout, the remaining eight were eliminated)<br />9-10. Baskaran Adhiban, Eduardo Bonelli Iturrizaga 7<br />11. Aryan Tari 6.5<br />12. Pentala Harikrishna 6<br />13. David Anton Guijarr",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/3/chessable-masters-ko-phase-starts-today-tuesday.html",
-         "pubDate" : "Tue, 03 Aug 2021 06:04:23 +0000",
-         "title" : "Chessable Masters: K.O. Phase Starts Today (Tuesday)"
-      },
-      {
-         "description" : " The real world championship (even if there isn't anyone playing, strictly speaking) is rolling along once again. After 76 of 100 games, Stockfish has a healthy 41.5-34.5 lead over LCZero. Game 77 is underway, visible <a href=\"https://chess24.com/en/watch/live-tournaments/tcec-season-21-superfinal-2021/1/1/77\">here</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/3/tcec-season-21-superfinal-update.html",
-         "pubDate" : "Tue, 03 Aug 2021 06:01:23 +0000",
-         "title" : "TCEC Season 21 Superfinal Update"
       },
       {
          "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
