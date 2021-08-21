@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, GM Daniel King takes a look at a fashionable move out of an Anti-Gruenfeld, 3.h4. That pawn plays a decisive role in the game Vachier-Lagrave vs Svidler from the Sinquefield Cup. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-h-pawn-mating-net",
+         "pubDate" : "Sat, 21 Aug 2021 12:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The h-pawn mating net"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1285",
+         "pubDate" : "Sat, 21 Aug 2021 08:51:52 +0000",
+         "title" : "Day 4: Dominguez catches up with the leaders"
+      },
+      {
+         "description" : "Without a doubt, the towering genius of Polish chess was Akiba Rubinstein (1882-1961) born in Stawiski, Poland (then part of Russia). The youngest of 12 children, his father died shortly before his birth and he was raised by his grandparents, who gave him an orthodox Jewish religious education, in keeping with the family traditions of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/polish-riders-of-the-chessboard-rubinstein-tartakower-duda/",
+         "pubDate" : "Sat, 21 Aug 2021 08:00:35 +0000",
+         "title" : "Polish riders of the chessboard: Rubinstein, Tartakower, Duda"
+      },
+      {
          "description" : "In the diagram position it is Black to play - and the title says it all! Gather ideas, calculate lines and enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -135,7 +159,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
          "pubDate" : "Fri, 20 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "",
@@ -2368,14 +2392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/54th-biel-chess-festival-2021",
          "pubDate" : "Sat, 31 Jul 2021 15:36:00 +0400",
          "title" : "54th Biel Chess Festival 2021 - Games and Results"
-      },
-      {
-         "description" : "Emanuel Lasker, World Chess Champion from 1894-1921, once asserted that lies and hypocrisy do not survive long on the chessboard. Maybe not on, but I fear they are increasingly patrolling the perimeters. In a previous column, I demonstrated the familiarity with chess of the German genius, Johann Wolfgang von Goethe (1749-1832). He is the author of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/lies-hypocrisy-and-genius-the-wizardry-of-chess/",
-         "pubDate" : "Sat, 31 Jul 2021 09:00:20 +0000",
-         "title" : "Lies, hypocrisy and genius: the wizardry of chess"
       }
    ]
 }
