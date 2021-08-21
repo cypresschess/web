@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position it is Black to play - and the title says it all! Gather ideas, calculate lines and enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work-2",
+         "pubDate" : "Sat, 21 Aug 2021 09:00:00 +0100",
+         "title" : "Mate in 5!"
+      },
+      {
+         "description" : " I'll catch up with rounds 1-3 either tomorrow or on Sunday, the rest day. For now, round 4: The 2021 Sinquefield Cup has seen one exciting round after another. Not only has there been a shockingly high percentage of decisive results (12 out of 20!), but the games have been lively, tactical slugfests with brilliant turns that have even impressed the commentators and the players themselves. Round 4 was no exception, with four decisive games out of five. The only draw was in the marquee matchup between two of the co-leaders, Fabiano Caruana and Wesley So, and even this game could have finished with a winner. So was in serious trouble, but Caruana's 32.b4 turned out to be a mistake, allowing Bl",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/21/sinquefield-cup-round-4-four-winners-in-another-bloodthirsty.html",
+         "pubDate" : "Sat, 21 Aug 2021 06:09:47 +0000",
+         "title" : "Sinquefield Cup, Round 4: Four Winners In Another Bloodthirsty Round"
+      },
+      {
+         "description" : " The first day of the 2021 Online Chess Olympiad began with 60 teams in action. Due to the varying levels of infrastructure around the world, some teams were able to play with all players present, while others had to make do with whoever could maintain a stable internet connection. As a consequence not all teams were able to perform to pre-tournament expectations, which leaves the competition for promotion places wide open. I was a spectator for a couple of Pools (A and B), and was a pool arbiter for Pool C. This involved teams from Africa and Europe, and the results were either feast or famine. Five teams won all their matches to be on 6 match points, while 5 teams lost all of theirs to be ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-1.html",
+         "pubDate" : "Sat, 21 Aug 2021 04:03:00 +0000",
+         "title" : "2021 Online Chess Olympiad - Day 1"
+      },
+      {
+         "description" : "In round four of&#38;nbsp;the&#38;nbsp;2021 Sinquefield Cup, GM Leinier Dominguez Perez crushed GM Maxime Vachier-Lagrave in a decisive fashion in the latter&#39;s favorite Najdorf Sicilian to leapfrog into a first-place tie with fellow Americans GM Fabiano C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-4",
+         "pubDate" : "Fri, 20 Aug 2021 20:48:00 -0700",
+         "title" : "Sinquefield Cup Day 4: Dominguez Advances To Share Lead After Caruana, So Draw"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 4 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-discusses-brilliancy-prize-2021-sinquefield-cup-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/owUND1V8yE0.jpg?itok=-BhgwaL4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1938,14 +1970,6 @@ news_feed (
          "title" : "Game of the Week 475: L. Engel - R. Svane"
       },
       {
-         "description" : "GM Magnus Carlsen bounced back forcefully from his lost FIDE World Cup semifinal. The world champion played a masterpiece with the black pieces on Wednesday and defeated GM Vladimir Fedoseev in the first game of the match for third place. The fina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-cup-finals-fedoseev-carlsen",
-         "pubDate" : "Wed, 04 Aug 2021 08:44:00 -0700",
-         "title" : "FIDE World Cup Finals: Carlsen Wins Masterpiece"
-      },
-      {
          "description" : "The first sets of the quarterfinals at the Chessable Masters were played on Tuesday. Le Quang Liem and Levon Aronian took the lead in their matches against Alireza Firouzja and Shakhriyar Mamedyarov respectively, while Wesley So vs Jorden van Foreest and Hikaru Nakamura vs Vladislav Artemiev finished drawn. | Photo: Austin Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2146,14 +2170,6 @@ news_feed (
          "title" : "A New Chess Variant (or Two)?"
       },
       {
-         "description" : " Sorry not to have covered the event as it deserved, but...life. Anyway, the parodying event I feared would come to pass is very close to happening. The 2021 FIDE World Cup is on the verge of its final match; Sergey Karjakin is one finalist (he defeated Vladimir Fedoseev 1.5-.5 in the regular, classical games) and the winner of today's tiebreaker between Magnus Carlsen and Jan-Krzysztof Duda will be the other. As the main point of the event is to qualify two players for the 2022 Candidates, Carlsen's participation is, frankly, rather stupid, as no matter what happens in his match with Ian Nepomniachtchi he's guaranteed of being either the world champion or qualified for the Candidates. Karja",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/3/fide-world-cup-karjakin-guarantees-himself-a-candidates-spot.html",
-         "pubDate" : "Tue, 03 Aug 2021 06:11:55 +0000",
-         "title" : "FIDE World Cup: Karjakin Guarantees Himself a Candidates Spot; Duda Hoping for the Second Spot"
-      },
-      {
          "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2304,14 +2320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1241",
          "pubDate" : "Sun, 01 Aug 2021 16:16:41 +0000",
          "title" : "Online Cadets and Youth World Cup 2021 kicks off on Tornelo"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 38th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at critical moves. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-38-the-critical-move-1",
-         "pubDate" : "Sun, 01 Aug 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 38: The Critical Move (1)"
       },
       {
          "description" : "",
