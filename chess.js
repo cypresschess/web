@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to plan and manage chess competitions during a (hopefully fading) pandemic? Which apps and platforms help clubs to mobilize old members and gain new ones? These questions and more will be answered at our online conference <strong>Work4Chess</strong> on 18 September. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/work4chess-logo.1920.jpeg\" title=\"Work4Chess Logo Photo: Mario Gogh, Graphics: Gustaf Mossakowski\" data-title=\"Work4Chess Logo (Photo: Mario Gogh, Graphics: Gustaf Mossakowski)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/work4chess-logo.480.jpeg\" ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/work-4-chess/",
+         "pubDate" : "Sat, 21 Aug 2021 14:17:20 +0100",
+         "title" : "Work 4 Chess!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85514686.cms\" />Putting an end to internal fighting, the All-India Chess Federation and the breakaway Chess Association of India on Saturday announced that they have merged into one single entity to administer the sport in the country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ending-years-of-feud-aicf-and-chess-association-of-india-announce-merger/articleshow/85514686.cms",
+         "pubDate" : "Sat, 21 Aug 2021 18:18:53 +0530",
+         "title" : "Ending years of feud, AICF and Chess Association of India announce merger"
+      },
+      {
          "description" : "In this week's show, GM Daniel King takes a look at a fashionable move out of an Anti-Gruenfeld, 3.h4. That pawn plays a decisive role in the game Vachier-Lagrave vs Svidler from the Sinquefield Cup. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-h-pawn-mating-net",
          "pubDate" : "Sat, 21 Aug 2021 12:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The h-pawn mating net"
+      },
+      {
+         "description" : " The 21st European Women's Championship took place in Iasi, Romania Mon 9th Aug to Fri 20th Aug 2021. Elina Danielian was the clear winner with 9/11 half a point clear of Iulija Osmak. Oliwia Kiolbasa edged out Nataliya Buksa on tie-break after both scored 8 points. This is one of Danielian's best ever results - her previous best finish in this event was third place in 2011. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/21st-european-womens-championship-2021",
+         "pubDate" : "Sat, 21 Aug 2021 13:44:00 +0400",
+         "title" : "21st European Women's Championship 2021 - Games and Results"
+      },
+      {
+         "description" : " The FIDE Online Olympiad takes place Fri 20th Aug 2021 to Fri 10th Sep 2021. 153 teams are entered. The event has various qualification stages - as the event progresses stronger teams join the tournament running from Division 4 up to the final top division. The event is hosted by chess.com.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-online-olympiad-2021",
+         "pubDate" : "Sat, 21 Aug 2021 13:36:00 +0400",
+         "title" : "FIDE Online Olympiad 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "2021 Online Chess Olympiad - Day 1"
       },
       {
-         "description" : "In round four of&#38;nbsp;the&#38;nbsp;2021 Sinquefield Cup, GM Leinier Dominguez Perez crushed GM Maxime Vachier-Lagrave in a decisive fashion in the latter&#39;s favorite Najdorf Sicilian to leapfrog into a first-place tie with fellow Americans GM Fabiano C...",
+         "description" : "In round four of the 2021 Sinquefield Cup, GM Leinier Dominguez Perez crushed GM Maxime Vachier-Lagrave in a decisive fashion in the latter&#39;s favorite Najdorf Sicilian to leapfrog into a first-place tie with fellow Americans GM Fabiano Caruana and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-4",
@@ -552,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-rapid-and-blitz-in-saint-louis",
          "pubDate" : "Wed, 18 Aug 2021 11:18:23 +0100",
          "title" : "The Weekly Show: Rapid and Blitz in Saint Louis"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the U20 world championship is unlikely to be held otb this year and the other age groups are to played online, <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1275\">is endorsing</a> a <strong>Junior U21 championship</strong> organised by <strong>Chessbomb</strong> in Plovdiv, Bulgaria. U21 championships are held in several countries including Russia. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-endorses-u21-championship/",
-         "pubDate" : "Wed, 18 Aug 2021 10:04:59 +0100",
-         "title" : "FIDE endorses U21 championship"
       },
       {
          "description" : " This is a guest article from Grandmaster Avetik Grigoryan. He is a great friend of mine and an amazing Chess Coach. He is also the funder and CEO of ChessMood, an online chess learning website that I can wholeheartedly recommend. After coaching many amateur players, I noticed something quite interesting Nearly all of them were [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/amateur-mistakes/\">The 5 Costly Mistakes That the Amateurs Make</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2368,30 +2392,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-nihal-sarin-shines-in-blitz-event-wins-eight-games/articleshow/84928969.cms",
          "pubDate" : "Sat, 31 Jul 2021 22:30:08 +0530",
          "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84925272.cms\" /> Five-time world champion Viswanathan Anand will be leading the Indian team in the second online chess Olympiad which is scheduled to be held from 8-15 September. The Indian team had jointly won the gold medal alongside main competitors Russia in the inaugural edition last year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-to-lead-india-in-online-chess-olympiad/articleshow/84925272.cms",
-         "pubDate" : "Sat, 31 Jul 2021 20:29:03 +0530",
-         "title" : "Anand to lead India in online chess Olympiad"
-      },
-      {
-         "description" : " After a break of a few years, the ACTJCL is organising the 2021 ACT Women's and Girls Championships. It will on the weekend of the 11th and 12th of September, and will be a 6 round swiss (3 rounds on each day). There is quite a good prize pool ($500 1st prize) and is open to all female players (not just ACT residents). Entries open tomorrow, and details can be found at <a href=\"https://www.trybooking.com/BSXDI\">https://www.trybooking.com/BSXDI</a> Previous tournaments attracted good fields of between 25 and 40 players, and there has already been a lot of interest in this years event. A number of strong junior players are expected to take part, along with strong active and semi active adult ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/07/act-womens-and-girls-championship.html",
-         "pubDate" : "Sat, 31 Jul 2021 13:25:00 +0000",
-         "title" : "ACT Women's and Girls Championship"
-      },
-      {
-         "description" : " The 54th Biel Chess Festival took place 24th July to 4th August 2021. The main event was what they called a Triathalon with a Rapid, Standard and Blitz element. Gata Kamsky was the clear winner with 36 points in the combined standings 5 points clear of Kiril Alekseenko. Full final standings below.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/54th-biel-chess-festival-2021",
-         "pubDate" : "Sat, 31 Jul 2021 15:36:00 +0400",
-         "title" : "54th Biel Chess Festival 2021 - Games and Results"
       }
    ]
 }
