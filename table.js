@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target=' blank'>FBCC HOT DOG AUGUST 2021</a>",
 "HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target=' blank'>AUGSUNSWISSG60D5815</a>",
 "SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target=' blank'>DER SPRINGERS AUGUST 2021</a>",
 "HOUSTON","2021-08-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108139412 target=' blank'>FLEXIBLEFRIDAYG60D5813</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-06-20","17","<a href=http://www.uschess.org/msa/XtblMain.php?202006209422 target=' blank'>SR CHESSKNIGHTS 06202020</a>",
 "TOMBALL","2020-06-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006199262 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-06-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202006137742 target=' blank'>SR CHESSKNIGHTS 06132020</a>",
-"TOMBALL","2020-06-12","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006127612 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
