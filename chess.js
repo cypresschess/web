@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1286",
+         "pubDate" : "Sat, 21 Aug 2021 21:20:47 +0000",
+         "title" : "Everything on the line after Day 2"
+      },
+      {
+         "description" : "Leinier Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence in Friday's fourth round to join Fabiano Caruana and Wesley So in the lead of the standings table. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Sat, 21 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Leinier Dominguez was one of four winners in Friday's fourth round at the Sinquefield Cup in Saint Louis. Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence to join Fabiano Caruana and Wesley So in the lead of the standings. Meanwhile, Richard Rapport, Sam Shankland and Dariusz Swiercz all scored their first wins of the tournament. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2312,14 +2328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/die-eloliste-vom-1-august",
          "pubDate" : "Mon, 02 Aug 2021 11:58:04 +0100",
          "title" : "FIDE ratings August 2021"
-      },
-      {
-         "description" : "Alexandra Kosteniuk took a huge step towards winning the Women's World Cup, as she defeated Aleksandra Goryachkina with the black pieces on Sunday. The remaining three games played in Sochi - both semifinals in the open and the women's match for third place - finished drawn. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d1",
-         "pubDate" : "Mon, 02 Aug 2021 10:16:00 +0100",
-         "title" : "World Cup: Kosteniuk wins rollercoaster game"
       },
       {
          "description" : "",
