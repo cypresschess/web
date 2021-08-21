@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leinier Dominguez was one of four winners in Friday's fourth round at the Sinquefield Cup in Saint Louis. Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence to join Fabiano Caruana and Wesley So in the lead of the standings. Meanwhile, Richard Rapport, Sam Shankland and Dariusz Swiercz all scored their first wins of the tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r4",
+         "pubDate" : "Sat, 21 Aug 2021 21:00:00 +0100",
+         "title" : "Sinquefield Cup: Dominguez joins the lead"
+      },
+      {
+         "description" : "The European Women's Championship came to an end on Friday, with Armenia's Elina Danielian winning the title as the only player who collected 9/11 points in Iasi, Romania. In the final round, Danielian clinched clear first place by beating Estonian WIM Mai Narva on top board. Draws were seen on boards 2 to 6. Iulija Osmak (Ukraine), who had been at the top of the standings table for several rounds, had to settle for second place. | Photos: Official site / Eropean Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elina-danielian-wins-the-european-womens-championship-2021",
+         "pubDate" : "Sat, 21 Aug 2021 18:20:00 +0100",
+         "title" : "Elina Danielian wins the European Women's Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://onlineolympiad.fide.com/\">With hardly any changes</a>, FIDE has started its second <strong>Online Chess Olympiad</strong>. 153 national teams, each with three females and two juniors on the six boards, are seeded into four divisions and play matches at 15 minutes per player on <strong>Chess.com</strong>. The first three of a group of 12 or 10 teams will promote to the higher division. The top seeded 25 nations join on 8-10 September, with the best two teams from each of four Division 1 groups qualifiying for the final k.o.-matches on 13-15 September. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-olympiad-started/",
+         "pubDate" : "Sat, 21 Aug 2021 17:58:47 +0100",
+         "title" : "Online Olympiad started"
+      },
+      {
+         "description" : "An avalanche of white wins in Rounds 3 and 4 of the 2021 Sinquefield Cup meant that already, before the half-way mark, only three players are still undefeated, the three leaders - Leinier Dominguez, Fabiano Caruana and Wesley So. At the other end of the table, Darius Swiercz got on the scoreboard with his first win, leaving Peter Svidler as the tail-ender.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-4-caruana-so-dominguez-lead",
+         "pubDate" : "Sat, 21 Aug 2021 16:09:55 +0000",
+         "title" : "Sinquefield Cup 3-4: Caruana, So & Dominguez lead"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to plan and manage chess competitions during a (hopefully fading) pandemic? Which apps and platforms help clubs to mobilize old members and gain new ones? These questions and more will be answered at our online conference <strong>Work4Chess</strong> on 18 September. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/work4chess-logo.1920.jpeg\" title=\"Work4Chess Logo Photo: Mario Gogh, Graphics: Gustaf Mossakowski\" data-title=\"Work4Chess Logo (Photo: Mario Gogh, Graphics: Gustaf Mossakowski)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/work4chess-logo.480.jpeg\" ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1284",
          "pubDate" : "Fri, 20 Aug 2021 21:39:02 +0000",
          "title" : "Elina Danielian wins European Women's Championship"
-      },
-      {
-         "description" : "Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are leading the standings table at the Sinquefield Cup on 2&frac12;/3 points, with Shakhriyar Mamedyarov and Leinier Dominguez currently a half point behind. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Fri, 20 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1281",
          "pubDate" : "Thu, 19 Aug 2021 11:56:31 +0000",
          "title" : "FIDE Online Olympiad kicks off on August 20"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Schaak-Off</strong>, a <a href=\"https://schaakoff.nl/\">nationwide tournament</a> that is suitable for novices, is run by the <strong>Dutch Chess Federation</strong> on 13-26 September. Clubs, mind sport centres and caf&eacute;s all over the Netherlands will host the games to celebrate the return to the boards. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nationwide-tournament-for-everyone/",
-         "pubDate" : "Thu, 19 Aug 2021 10:41:54 +0100",
-         "title" : "Nationwide tournament for everyone"
       },
       {
          "description" : "",
@@ -2314,14 +2330,6 @@ news_feed (
          "title" : "Winners crowned at Rudaga-Kaissa 2021 Festival"
       },
       {
-         "description" : "When you look at games by very strong positional players, you may get the impression that they don't like tactics and are perhaps not corruscatingly good at them. But this is almost always a mirage. Star columnist Jon Speelman looks at three excellent attacking wins by world champion Magnus Carlsen. | Photo: Anastasiia Korolkova / FIDE World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-151",
-         "pubDate" : "Mon, 02 Aug 2021 07:00:00 +0100",
-         "title" : "Blood pudding"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84964657.cms\" />Wesley So's unbeaten streak stretched to 10 games on Sunday as the US Champ held onto a slim lead in the $100,000 Chessable Masters.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2384,14 +2392,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/",
          "pubDate" : "Sun, 01 Aug 2021 00:10:49 +0000",
          "title" : "Zlotnik's Middlegame Manual - Typical Structures And Strategic Manoeuvres"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84928969.cms\" />Indian Grandmaster Nihal Sarin notched up eight wins to go with three draws and as many defeats to be placed joint second after the rapid, blitz and four rounds of Classical section at the Biel Grandmaster Triathlon on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-nihal-sarin-shines-in-blitz-event-wins-eight-games/articleshow/84928969.cms",
-         "pubDate" : "Sat, 31 Jul 2021 22:30:08 +0530",
-         "title" : "Biel Chess festival: Indian GM Nihal Sarin shines in Blitz event"
       }
    ]
 }
