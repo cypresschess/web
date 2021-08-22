@@ -87,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
          "pubDate" : "Sat, 21 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "Leinier Dominguez was one of four winners in Friday's fourth round at the Sinquefield Cup in Saint Louis. Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence to join Fabiano Caruana and Wesley So in the lead of the standings. Meanwhile, Richard Rapport, Sam Shankland and Dariusz Swiercz all scored their first wins of the tournament. | Photo: Lennart Ootes",
@@ -2336,14 +2336,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/be-careful-what-you-ask-for.html",
          "pubDate" : "Mon, 02 Aug 2021 12:40:00 +0000",
          "title" : "Be careful what you ask for"
-      },
-      {
-         "description" : "After the long lockdown, the chess world is slowly returning to over-the-board FIDE-rated games. However, there are still only a few changes in the current world rankings list. Magnus Carlsen is still clear number one, a position he has been holding for more than ten years now, since July 2011. Number one on the women's list is Hou Yifan, who is 47 points ahead of Aleksandra Goryachkina. The two best juniors are Alireza Firouzja and Andrey Esipenko, number one on the \"Girls\"-list is Polina Shuvalova, number two Zhu Jiner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/die-eloliste-vom-1-august",
-         "pubDate" : "Mon, 02 Aug 2021 11:58:04 +0100",
-         "title" : "FIDE ratings August 2021"
       },
       {
          "description" : "",
