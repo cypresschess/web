@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 FIDE Online Olympiad is taking place from August 20th to September 15th. It is a national teams event in which all federations affiliated to FIDE have the right to participate. Teams consist of six players, with a minimum of three female players and two junior players. Played online on chess.com, the event features two main stages: the Divisions stage, and the Play-offs stage. All games are played with a 15 minutes + 5 seconds increment per move time control.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-has-started",
+         "pubDate" : "Sun, 22 Aug 2021 18:49:45 +0100",
+         "title" : "The FIDE Online Chess Olympiad has started"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2314,14 +2322,6 @@ news_feed (
          "title" : "FIDE launches Chess for Protection project for refugees"
       },
       {
-         "description" : "Wesley So continues to top the standings of the preliminaries at the Chessable Masters after 10 rounds. Levon Aronian and Le Quang Liem had a great second day and climbed to shared second place, a half point behind So. The last 5 rounds of the preliminary stage will be played on Monday, with half the field set to advance to the quarterfinals. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-2",
-         "pubDate" : "Mon, 02 Aug 2021 16:20:00 +0100",
-         "title" : "Chessable Masters: Aronian and Le climb to shared second place"
-      },
-      {
          "description" : " <p class=\"lead\">New features and updates for the <a href=\"https://arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Number of people waiting to get paired</h2> Arena is a new but growing platform, and the number of users is increasing every day, and the wait to be paired has gone down dramatically, to less than 5 seconds in most cases. We've added a very useful indicator on the front page - number of people who are waiting for an opponent. To start a new game, you can choose a time control and type of rating (unrated, or FIDE-rated), or click on the list of players who are wai",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2360,38 +2360,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad.html",
          "pubDate" : "Sun, 01 Aug 2021 23:03:00 +0000",
          "title" : "2021 Online Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1242",
-         "pubDate" : "Sun, 01 Aug 2021 18:09:35 +0000",
-         "title" : "Round 7 Game 01: Kosteniuk pulls ahead in the Women's final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1240",
-         "pubDate" : "Sun, 01 Aug 2021 17:47:15 +0000",
-         "title" : "FIDE distributes an additional €35,000 among chess seniors"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84953384.cms\" />Indian Grandmaster Karthikeyan Murali defeated higher-rated compatriot S P Sethuraman in the sixth round here on Sunday to grab the lead in the Master Tournament being held as part of the Biel Chess Festival. The 37-move win for Karthikeyan (Elo 2606 as against his opponent's 2644) took him to 5.5 points from six rounds and gave him a clear lead in the 73-player field.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indias-karthikeyan-murali-stays-in-front/articleshow/84953384.cms",
-         "pubDate" : "Sun, 01 Aug 2021 22:45:48 +0530",
-         "title" : "Biel Chess festival: India's Karthikeyan Murali stays in front"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1241",
-         "pubDate" : "Sun, 01 Aug 2021 16:16:41 +0000",
-         "title" : "Online Cadets and Youth World Cup 2021 kicks off on Tornelo"
       }
    ]
 }
