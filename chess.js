@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1288",
+         "pubDate" : "Sun, 22 Aug 2021 21:12:32 +0000",
+         "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> <a href=\"https://www.chess.com/article/view/pogchamps-4\">announced</a> another celebrity <strong>Twitch</strong> streamer tournament for 29 August - 12 September with $100,000 in prizes and fundraising for mental healthcare charity <strong>Rise Against the Disorder</strong>. The cryptocurrency trading platform <strong>Bitcoin</strong> is the presentation sponsor. One of the commentators will be <a href=\"https://www.chesstech.org/2021/beyond-the-norm/\">Zhou Qiyu</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/pogchamps-4-announced/",
+         "pubDate" : "Sun, 22 Aug 2021 21:30:11 +0100",
+         "title" : "Pogchamps 4 announced"
+      },
+      {
+         "description" : "After the mayhem of the previous two days, round 5, the last before the free day, was relatively calmer at the Sinquefield Cup - though not entirely bereft of excitement. Fabiano Caruana lost a game he didn't really need to, and this left him half a point behind the lead, now rejoined by Maxime Vachier-Lagrave.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-5-xiong-takes-down-caruana",
+         "pubDate" : "Sun, 22 Aug 2021 20:02:09 +0000",
+         "title" : "Sinquefield Cup 5: Xiong takes down Caruana"
+      },
+      {
+         "description" : " The crazy, super-aggressive play of rounds 3 and 4 wasn't seen in round 5. There were two short draws, and the third draw fizzled out pretty quickly as well, even if it took a while longer before the draw could be made official. But the other two games were decisive, interesting, and consequential - in one game the winner joined the tie for first, and in the other the loser left the tie. The first game to finish was Wesley So vs. Richard Rapport, ending in a draw by repetition that has been seen in many previous games. An apologetic So said afterward that he had slept very poorly the night before due to too much coffee too late in the day, so it was better safe than sorry. Peter Svidler and",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/22/sinquefield-cup-round-5-a-slightly-calmer-round.html",
+         "pubDate" : "Sun, 22 Aug 2021 19:57:31 +0000",
+         "title" : "Sinquefield Cup, Round 5: A Slightly Calmer Round"
+      },
+      {
          "description" : "The 2021 FIDE Online Olympiad is taking place from August 20th to September 15th. It is a national teams event in which all federations affiliated to FIDE have the right to participate. Teams consist of six players, with a minimum of three female players and two junior players. Played online on chess.com, the event features two main stages: the Divisions stage, and the Play-offs stage. All games are played with a 15 minutes + 5 seconds increment per move time control.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-guildford-chess-club-celebrates-its-125th-anniversary",
          "pubDate" : "Thu, 19 Aug 2021 16:30:05 +0100",
          "title" : "The Guildford Chess Club celebrates its 125th anniversary!"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The eminent theoretician, grandmaster and fighter for intellectual property rights in chess <strong>Evgeny Sveshnikov</strong> <a href=\"https://www.chess.com/news/view/evgeny-sveshnikov-1950-2021\">passed away</a>. Born in the Ural area of Russia, where he briefly worked as a research engineer, he moved to Latvia in the 1990s. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/evgeny-sveshnikov-1950-2021/",
-         "pubDate" : "Thu, 19 Aug 2021 14:41:55 +0100",
-         "title" : "Evgeny Sveshnikov (1950-2021)"
       },
       {
          "description" : "The second round of the Sinquefield Cup in Saint Louis was played on Wednesday. Wesley So was the only winner of the day. The Filipino-born star inflicted Dariusz Swiercz's second loss in a row. So thus joined Fabiano Caruana, Maxime Vachier-Lagrave and Leinier Dominguez in the lead of the event. | Photo: Lennart Ootes",
@@ -1386,14 +1410,6 @@ news_feed (
          "title" : "Game of the Week 476: Wesley So - Le Quang Liem"
       },
       {
-         "description" : "Do you want to impress your friends with a feat worthy of Beth Harmon from the Netflix series The Queen's Gambit? Then learn how to play chess blindfolded!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/can-you-play-blindfold-chess",
-         "pubDate" : "Wed, 11 Aug 2021 21:27:52 +0000",
-         "title" : "Can you play blindfold chess?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2266,14 +2282,6 @@ news_feed (
          "title" : "Hou Yifan, Women's Chess, and Gender Equality?"
       },
       {
-         "description" : " Have a look <a href=\"https://marginalrevolution.com/marginalrevolution/2021/08/a-new-chess-variant.html\">here</a>. I think Tyler Cowen's idea is better than the one he refers to, but I still think it's a solution waiting for a problem. Who gives a rat's behind about AlphaZero drawing 98% of its games with itself, when it will win 100% of its games with Magnus Carlsen? (Or at least 95% of them.) We humans make plenty of errors, even at the super-GM level, and in the quick games that dominate contemporary play decisive results are a commonplace. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/3/a-new-chess-variant-or-two.html",
-         "pubDate" : "Tue, 03 Aug 2021 06:23:50 +0000",
-         "title" : "A New Chess Variant (or Two)?"
-      },
-      {
          "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2352,14 +2360,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-wesley-so-stays-ahead-of-the-pack/articleshow/84964657.cms",
          "pubDate" : "Mon, 02 Aug 2021 09:57:30 +0530",
          "title" : "Chessable Masters: Wesley So stays ahead of the pack"
-      },
-      {
-         "description" : " The 2021 Online Chess Olympiad is starting soon, and the tournament website has gone up at <a href=\"https://onlineolympiad.fide.com/\">https://onlineolympiad.fide.com/</a> The deadline for entries closed yesterday, and the allocation of teams should take place shortly. As with all these large scale activities, not every federation was organised, and late entries are still being taken from some countries. This years event will follow the same format as last years, with pools of 10 teams playing a round robin over the weekend (Fri, Sat, Sun). Each division has 5 pools (to account for differing time zones), with 3 teams from each pool being promoted to the next division. 35 teams are seeded int",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad.html",
-         "pubDate" : "Sun, 01 Aug 2021 23:03:00 +0000",
-         "title" : "2021 Online Chess Olympiad"
       }
    ]
 }
