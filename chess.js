@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1287",
+         "pubDate" : "Sun, 22 Aug 2021 11:13:45 +0000",
+         "title" : "Day 5: Vachier-Lagrave bounces back, Caruana stumbles"
+      },
+      {
+         "description" : " Here's another in my series of misplayed pawn endings for you. I reached this position in a recent online game. I had the white pieces and it was Black's move here. The game continued: 42.. Kc6 43. b4 Kd6 44. b5 a5 45. g4 Ke6 46. Ke4 and, having taken the opposition, I won a <a href=\"https://chessimprover.com/g4-or-not-g4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"g4 or not g4\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/g4-or-not-g4/\">g4 or not g4</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/g4-or-not-g4/",
+         "pubDate" : "Sun, 22 Aug 2021 10:30:51 +0000",
+         "title" : "g4 or not g4"
+      },
+      {
          "description" : " The second day of the 2021 Online Chess Olympiad saw 4 games in each pool, and went a long way to determining who will get promoted to Division 3 next weekend. In Pool A Hong Kong and Nepal are out in front, on 13 and 12 points respectively. Lebanon and Maldives are in contention for the 3rd place, although Fiji has an outside chance if qualifying, having a fairly easy run home. Pool B is a lot closer, with Kenya, Malawi, Palestine and Namibia all still in the running. Pool C has Angola, Cyprus and Jersey well in front, but they all have to play each other on the final day, which may allow other teams to sneak through. Pool D is still to close to call, with teams in places 3 to 6 all within",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2218,14 +2234,6 @@ news_feed (
          "title" : "Biel: Kamsky extends lead"
       },
       {
-         "description" : " IM Kostya Kavutskiy The inspiration for the title of this post came from an identical tweet of Kostya I came across about two weeks ago. It was like an &#8220;Eureka!&#8221; moment. All of a sudden all made perfect sense to me. You can smile if you want and think that I am irreversibly attracted by <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221;\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/\">&#8220;Tactics are temporary, endgames are permanent&#8221;</a> appear",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent/",
-         "pubDate" : "Tue, 03 Aug 2021 09:30:18 +0000",
-         "title" : "\"Tactics are temporary, endgames are permanent\""
-      },
-      {
          "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move and he faces a choice: should he try to stop the white pawns with his king or should he push his g-pawn ahead? What would you do - and why?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2392,14 +2400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1241",
          "pubDate" : "Sun, 01 Aug 2021 16:16:41 +0000",
          "title" : "Online Cadets and Youth World Cup 2021 kicks off on Tornelo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1239",
-         "pubDate" : "Sun, 01 Aug 2021 08:30:48 +0000",
-         "title" : "$100,000 Chessable Masters gets underway"
       }
    ]
 }
