@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 5 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hh3DnMUxUsE.jpg?itok=fFdOwVTj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-5",
+         "pubDate" : "Sun, 22 Aug 2021 02:24:52 +0000",
+         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Jeffery Xiong during Round 5 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-jeffery-xiong-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JsjHyHcSNAo.jpg?itok=p1PzwGug\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-jeffery-xiong-interview-round-5",
+         "pubDate" : "Sun, 22 Aug 2021 02:24:52 +0000",
+         "title" : "2021 Sinquefield Cup: Jeffery Xiong Interview | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 5 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/P_n1NYicfpE.jpg?itok=wUH0AZaw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-5",
+         "pubDate" : "Sat, 21 Aug 2021 23:24:55 +0000",
+         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Watch individual games, players interviews, and much more on <a href=\"https://KasparovChess.com/grand-chess\">https://KasparovChess.com/grand-chess</a>...<br /> During this tournament, benefit from a 30% discount on KasparovChess subscriptions!<br /> To register: <a href=\"https://KasparovChess.com/register\">https://KasparovChess.com/register</a><br /> Upgrade your account: <a href=\"https://KasparovChess.com/upgrade-acc\">https://KasparovChess.com/upgrade-acc</a>...<br /> Coupon Code: GCTSTLOUIS GrandChessTour.org<br /> KasparovChess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-did-pandemic-affect-chess-community-parkside-chat-2021-sinquefield-cup",
+         "pubDate" : "Sat, 21 Aug 2021 23:24:55 +0000",
+         "title" : "How did the pandemic affect the chess community | Parkside Chat | 2021 Sinquefield Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 5 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sr4DYN0xRPU.jpg?itok=jwPskWp9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-svidler-interview-round-5",
+         "pubDate" : "Sat, 21 Aug 2021 23:24:55 +0000",
+         "title" : "2021 Sinquefield Cup: Peter Svidler Interview | Round 5"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -360,46 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-6",
          "pubDate" : "Fri, 20 Aug 2021 02:23:15 +0000",
          "title" : "2021 Sinquefield Cup: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 3 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O9tAEBrmr8U.jpg?itok=Dvh0LvOu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-3",
-         "pubDate" : "Fri, 20 Aug 2021 02:23:15 +0000",
-         "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 3 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xcYk_t_m6_Q.jpg?itok=HHnkbW7W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-3",
-         "pubDate" : "Fri, 20 Aug 2021 02:23:15 +0000",
-         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Shakhriyar Mamedyarov during Round 3 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-shakhriyar-mamedyarov-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oBSImxEOaOw.jpg?itok=D1DpQqTB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-shakhriyar-mamedyarov-interview-round-3",
-         "pubDate" : "Fri, 20 Aug 2021 02:23:15 +0000",
-         "title" : "2021 Sinquefield Cup: Shakhriyar Mamedyarov Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maxime Vachier-Lagrave visits the confessional booth during Round 3 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-confessional-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iZUzmr196w0.jpg?itok=2sSCskWw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-confessional-round-3",
-         "pubDate" : "Thu, 19 Aug 2021 23:23:06 +0000",
-         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Confessional | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Maurice Ashley and Yasser Seirawan discuss generational differences over a game at Chess Pocket Park in Old North Saint Louis, before the 2021 Sinquefield Cup. Books vs. databases, analog vs. digital clocks, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-old-school-vs-new-school-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-old-school-vs-new-school-parkside-chat",
-         "pubDate" : "Thu, 19 Aug 2021 23:23:06 +0000",
-         "title" : "2021 Sinquefield Cup: Old School vs. New School | Parkside Chat"
       },
       {
          "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring plus-one and beating both GM Sergey Karjaki...",
@@ -2392,14 +2392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1239",
          "pubDate" : "Sun, 01 Aug 2021 08:30:48 +0000",
          "title" : "$100,000 Chessable Masters gets underway"
-      },
-      {
-         "description" : " Blurb from the publisher: &#8220;If you want to improve your middlegame play, you will have to develop a FEEL for positions. That's what Boris Zlotnik has been stressing during his long and rich trainers career. Clicking through concrete variations (a popular pastime in the computer era) is not enough. To guide your thinking during a <a href=\"http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Zlotnik's Middlegame Manual Typical Structures And Strategic Manoeuvres</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessn",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/01/zlotniks-middlegame-manual-typical-structures-and-strategic-manoeuvres/",
-         "pubDate" : "Sun, 01 Aug 2021 00:10:49 +0000",
-         "title" : "Zlotnik's Middlegame Manual - Typical Structures And Strategic Manoeuvres"
       }
    ]
 }
