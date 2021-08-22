@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The second day of the 2021 Online Chess Olympiad saw 4 games in each pool, and went a long way to determining who will get promoted to Division 3 next weekend. In Pool A Hong Kong and Nepal are out in front, on 13 and 12 points respectively. Lebanon and Maldives are in contention for the 3rd place, although Fiji has an outside chance if qualifying, having a fairly easy run home. Pool B is a lot closer, with Kenya, Malawi, Palestine and Namibia all still in the running. Pool C has Angola, Cyprus and Jersey well in front, but they all have to play each other on the final day, which may allow other teams to sneak through. Pool D is still to close to call, with teams in places 3 to 6 all within",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-2.html",
+         "pubDate" : "Sun, 22 Aug 2021 06:11:00 +0000",
+         "title" : "2021 Online Chess Olympiad - Day 2"
+      },
+      {
+         "description" : "The first upset of the 2021 Sinquefield Tournament happened when GM Fabiano Caruana lost to GM Jeffery Xiong in round five. Fabiano&#39;s place in the three-way tie on top of the standings was taken by GM Maxime Vachier-Lagrave who defeated GM Darius ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-5",
+         "pubDate" : "Sat, 21 Aug 2021 20:50:00 -0700",
+         "title" : "Sinquefield Cup Day 5: Vachier-Lagrave Joins Leaders As Caruana Slips With Loss"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 5 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hh3DnMUxUsE.jpg?itok=fFdOwVTj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/retire-from-competitive-chess/",
          "pubDate" : "Wed, 04 Aug 2021 18:30:00 +0000",
          "title" : "Why I Retire From Competitive Chess"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu won his first Titled Tuesday on August 3, with a score of 9.5/11. He won on tiebreaks over GM Oleksandr Bortnyk and GM Dmitry Andreikin, who also scored 9.5/11. In fourth place was GM Samvel Ter-Sahakyan with the best ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-august-3-titled-tuesday",
-         "pubDate" : "Wed, 04 Aug 2021 11:02:47 -0700",
-         "title" : "Praggnanandhaa Wins August 3 Titled Tuesday"
       },
       {
          "description" : "",
