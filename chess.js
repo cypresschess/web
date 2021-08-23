@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 19th edition of the European Union Youth Chess Championship took place on August 14-22 at the Hotel Dlouhe Strane in Kouty nad Desnou, Czech Republic. Boys and girls in each category played in the same tournament. Once the event came to an end, girls were evaluated separately to find the winners in the girls' categories. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eu-youth-championships-2021-final-report",
+         "pubDate" : "Mon, 23 Aug 2021 15:35:00 +0100",
+         "title" : "EU Youth Chess Championships in Kouty nad Desnou"
+      },
+      {
+         "description" : "The 2021 FIDE Online Olympiad began over the weekend as the matches of Division 4 were played in five round-robin groups. Hong Kong, Nepal, Lebanon, Kenya, Namibia, Palestine, Angola, Cyprus, Ethiopia, Surinam, Aruba, Ghana, Puerto Rico, Trinidad ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-division-4",
+         "pubDate" : "Mon, 23 Aug 2021 05:49:00 -0700",
+         "title" : "FIDE Online Olympiad Playoff Gets Underway"
+      },
+      {
          "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Biel: Kamsky beats Keymer and wins Grandmaster Triathlon"
       },
       {
-         "description" : "The Chessable Masters semifinals will see the matchups GM Vladislav Artemiev vs. GM Wesley So and GM Levon Aronian vs. GM Le Quang Liem. Favorites in their quarterfinal matches, GM Alireza Firouzja and GM Hikaru Nakamura were knocked out, the latt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chessable-masters-quarterfinals-day-2",
-         "pubDate" : "Thu, 05 Aug 2021 03:06:00 -0700",
-         "title" : "Chessable Masters QF: Aronian, Artemiev, Le, So Through To Semis"
-      },
-      {
          "description" : "Presidents Awards for Services to Chess Joe Conlon &#124; Andy Howie Contribution to Accessible Chess The UK Braille Chess Association Contribution to Women's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2298,14 +2306,6 @@ news_feed (
          "title" : "Historic win for Mishra as So smashes score record"
       },
       {
-         "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d2",
-         "pubDate" : "Mon, 02 Aug 2021 22:45:00 +0100",
-         "title" : "Alexandra Kosteniuk triumphs in Women's World Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2336,22 +2336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1244",
          "pubDate" : "Mon, 02 Aug 2021 15:46:07 +0000",
          "title" : "FIDE launches Chess for Protection project for refugees"
-      },
-      {
-         "description" : " <p class=\"lead\">New features and updates for the <a href=\"https://arena.myfide.net/\">FIDE Online Arena</a>, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest: <h2>Number of people waiting to get paired</h2> Arena is a new but growing platform, and the number of users is increasing every day, and the wait to be paired has gone down dramatically, to less than 5 seconds in most cases. We've added a very useful indicator on the front page - number of people who are waiting for an opponent. To start a new game, you can choose a time control and type of rating (unrated, or FIDE-rated), or click on the list of players who are wai",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-july-2021/",
-         "pubDate" : "Mon, 02 Aug 2021 14:01:31 +0000",
-         "title" : "What's New on FIDE Online Arena - July 2021"
-      },
-      {
-         "description" : " In the 1970's English player Jonathan Mestel revived a very old line of the Philidor. Taking his inspiration from Philidor himself, Mestel played an early f5, inviting his opponent to overestimate his chances. After a win in the 1975 World Junior against Paul van der Sterren, Mestel was chided by another competitor, Peter Nurmi, for playing 'such rubbish'. Then the following happened <br /> <br /> <b>Nurmi,Peter - Mestel,A Jonathan [C41]</b><br />Wch U20 Tjentiste (13), 08.1975 <script>new PgnViewer( { boardName: \"game1262\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 f5 4.Bc4 exd4 5.Ng5 Nh6 6.Nxh7 Ng4 7.Nxf8 Kxf8 8.exf5 Qe7+ 9.Kf1 Bxf5 10.Qxd4 Nxh2+ 11.Rxh2 Rxh2 12.Be3 Qe4 13.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/be-careful-what-you-ask-for.html",
-         "pubDate" : "Mon, 02 Aug 2021 12:40:00 +0000",
-         "title" : "Be careful what you ask for"
       }
    ]
 }
