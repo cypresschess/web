@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " It took a little while, but this post has us caught up in the goings-on in the chess world, at least or especially with respect to the 2021 Sinquefield Cup. Round 6 will be later today, rounds 4 and 5 have already been covered, so what remains is to present the games from the first three rounds. They are <a href=\"https://share.chessbase.com/SharedGames/share/?p=abDIAU9jWLQL+aNZve5ec38ffbsnHusMncbwSuJMdHf0j2WzEJDmmifWLxpHewU8\">here</a>, with comments to all (and only) the decisive games. Enjoy. ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/23/sinquefield-cup-rounds-1-3-all-caught-up.html",
+         "pubDate" : "Mon, 23 Aug 2021 07:07:48 +0000",
+         "title" : "Sinquefield Cup, Rounds 1-3 (All Caught Up)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2274,14 +2282,6 @@ news_feed (
          "title" : "Historic win for Mishra as So smashes score record"
       },
       {
-         "description" : " This <a href=\"https://www.newyorker.com/magazine/2021/08/02/hou-yifan-and-the-wait-for-chess-first-woman-world-champion\">New Yorker piece</a> is in part a profile of the second strongest female player in chess history, Hou Yifan, and in part a discussion of the ever-popular question, \"What explains the disparity between men and women in chess?\" Have a look at the various evidence-free assertions offered in the article, and then feel free to weigh in here. Supported claims would be nice, regardless of which side of the argument you prefer. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/3/hou-yifan-womens-chess-and-gender-equality.html",
-         "pubDate" : "Tue, 03 Aug 2021 06:31:44 +0000",
-         "title" : "Hou Yifan, Women's Chess, and Gender Equality?"
-      },
-      {
          "description" : "A draw with white was enough for Alexandra Kosteniuk to claim victory at the first edition of the Women's World Cup in Sochi. Aleksandra Goryachkina could not create imbalances in her must-win game and ended up agreeing to a draw in a lost position. In the match for third place, Tan Zhongyi and Anna Muzychuk drew again and will decide their match in tiebreaks. Meanwhile, in the open section, Sergey Karjakin moved on to the final, where he will face either Magnus Carlsen or Jan-Krzysztof Duda, who will return to the playing hall on Tuesday to face off in rapid and blitz tiebreakers. | Photo: Anastasiia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2352,14 +2352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1243",
          "pubDate" : "Mon, 02 Aug 2021 08:12:52 +0000",
          "title" : "Winners crowned at Rudaga-Kaissa 2021 Festival"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84964657.cms\" />Wesley So's unbeaten streak stretched to 10 games on Sunday as the US Champ held onto a slim lead in the $100,000 Chessable Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-wesley-so-stays-ahead-of-the-pack/articleshow/84964657.cms",
-         "pubDate" : "Mon, 02 Aug 2021 09:57:30 +0530",
-         "title" : "Chessable Masters: Wesley So stays ahead of the pack"
       }
    ]
 }
