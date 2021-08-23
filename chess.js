@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/",
+         "pubDate" : "Mon, 23 Aug 2021 10:10:24 +0000",
+         "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
+      },
+      {
+         "description" : "Two years after visiting Hamburg to film his middlegame FritzTrainers, Ivan Sokolov visits the ChessBase office once again. The experienced grandmaster discusses instructive endgames with Dr. Karsten M&uuml;ller in the latest instalment of the Endgame Magic show. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-156-with-ivan-sokolov",
+         "pubDate" : "Mon, 23 Aug 2021 10:45:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #157 - with Ivan Sokolov"
+      },
+      {
+         "description" : " The third an final day of 2021 Chess Olympiad Division 4 saw an exciting finish to some of the pools. With the top 3 in each pool qualifying for the next stage, it sometimes came down to the last few games, especially when competing teams were playing each other. In Pool C (which I was working on), Jersey suffered at the hands of the pairing gods, playing their 3 closest challengers in the last 3 rounds. A narrow loss to Cyprus, and heavy losses to Ethiopia and Angola, saw them slip to 4th place behind these 3. In Pool A, Fiji hoped to do the opposite, finishing with some easier pairings, but a round 9 loss to Lebanon left them 1 win short of qualifying, despite finishing with 3 victories. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-3.html",
+         "pubDate" : "Mon, 23 Aug 2021 08:23:00 +0000",
+         "title" : "2021 Online Chess Olympiad - Day 3"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> streamed the first 30 minutes of <a href=\"https://lichess.org/blog/YSKlVRAAACMAejTv/titled-arena-won-by-penguins-and-hot-tubs\">a Titled Arena</a> on <strong>Lichess</strong> on his <a href=\"https://www.twitch.tv/maskenissen\">Twitch channel</a> while playing on a cell phone from a hot tub. Streaming in a bikini from an inflatable pool has been a trend set by female streamers on <strong>Twitch</strong> in recent months, yet the world champion refrained from wearing a bikini. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/hot-tub-stream/",
+         "pubDate" : "Mon, 23 Aug 2021 08:21:15 +0100",
+         "title" : "Hot tub stream"
+      },
+      {
          "description" : " It took a little while, but this post has us caught up in the goings-on in the chess world, at least or especially with respect to the 2021 Sinquefield Cup. Round 6 will be later today, rounds 4 and 5 have already been covered, so what remains is to present the games from the first three rounds. They are <a href=\"https://share.chessbase.com/SharedGames/share/?p=abDIAU9jWLQL+aNZve5ec38ffbsnHusMncbwSuJMdHf0j2WzEJDmmifWLxpHewU8\">here</a>, with comments to all (and only) the decisive games. Enjoy. ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -408,14 +440,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/champions-tour-announces-2022-dates/",
          "pubDate" : "Fri, 20 Aug 2021 12:36:18 +0100",
          "title" : "Champions Tour announces 2022 dates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While many school chess programmes have been on hold during the pandemic, <em>Helge Frowein</em> was busier than ever. Here is his appeal to mobilize fellow chess teachers and get better solutions for online and blended instruction. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/onlineschulschach.1920.jpeg\" title=\"There is now a generation of kids that is not used to set up the pieces, distinguish illegal moves, push the clock, or solve exercises in the book. photo: https://www.schulschach-mb.de/\" data-title=\"There is now a generation of kids that is not used to set up the pieces, distingui",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/this-is-the-time-for-change/",
-         "pubDate" : "Fri, 20 Aug 2021 11:29:18 +0100",
-         "title" : "This is the time for change"
       },
       {
          "description" : "",
@@ -1442,14 +1466,6 @@ news_feed (
          "title" : "Ram S Krishnan & Nimmy online national amateur champions"
       },
       {
-         "description" : "ECU E-Magazine July 2021 is out! In the July 2021 edition of the ECU E-Magazine you may read about: FIDE World Cup 2021 European Women's Individual Chess Championship 2021 Face-to-face Erasmus+ meeting ECU ChessInSchools ECU General Assembly 2021 European Individual Chess Championship 2021 European Youth Chess Championship 2021 Arbiters corner Legends Questions Fun Zone The ECU Magazine July&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-magazine-july-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-magazine-july-2021/",
-         "pubDate" : "Wed, 11 Aug 2021 10:04:08 +0000",
-         "title" : "ECU MAGAZINE JULY 2021"
-      },
-      {
          "description" : "The Riga Technical University Open is taking place on August 9-15 at the international exhibition centre Kipsala in the Latvian capital. The tournament sees 176 players fighting for a €17,100 prize fund. German GM Alexander Donchenko is the top seed, and is followed closely by nine other 2600+ rated players, including six grandmasters hailing from India. After three rounds, nine players still have a perfect score.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2314,14 +2330,6 @@ news_feed (
          "title" : "2021 FIDE World Cup: Semis (Open), Finals (Women)"
       },
       {
-         "description" : "In the \"Endgame Magic Show #154\" Karsten Mueller and his guest Arne Kaehler take another look at endgame highlights from the Goldmoney Asian Online Rapid Tournament that ended early July and was won by Levon Aronian. Karsten and Arne were particularly fascinated by a tactically complicated endgame position in which Nihal Sarin missed a win against Anish Giri. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-2",
-         "pubDate" : "Mon, 02 Aug 2021 17:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #154"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2344,14 +2352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/be-careful-what-you-ask-for.html",
          "pubDate" : "Mon, 02 Aug 2021 12:40:00 +0000",
          "title" : "Be careful what you ask for"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1243",
-         "pubDate" : "Mon, 02 Aug 2021 08:12:52 +0000",
-         "title" : "Winners crowned at Rudaga-Kaissa 2021 Festival"
       }
    ]
 }
