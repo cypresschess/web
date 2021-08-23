@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave is again sharing the lead at the Sinquefield Cup after beating Dariusz Swiercz in Saturday's fifth round. MVL tops the standings together with Wesley So and Leinier Dominguez. Fabiano Caruana, who went into round 5 as a co-leader, was defeated by Jeffery Xiong (pictured). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r5",
+         "pubDate" : "Mon, 23 Aug 2021 21:10:00 +0100",
+         "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
+      },
+      {
          "description" : "The 19th edition of the European Union Youth Chess Championship took place on August 14-22 at the Hotel Dlouhe Strane in Kouty nad Desnou, Czech Republic. Boys and girls in each category played in the same tournament. Once the event came to an end, girls were evaluated separately to find the winners in the girls' categories. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,12 +186,12 @@ news_feed (
          "title" : "Everything on the line after Day 2"
       },
       {
-         "description" : "Leinier Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence in Friday's fourth round to join Fabiano Caruana and Wesley So in the lead of the standings table. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Sat, 21 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Games and results"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1279",
+         "pubDate" : "Sat, 21 Aug 2021 21:19:48 +0000",
+         "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
       },
       {
          "description" : "Leinier Dominguez was one of four winners in Friday's fourth round at the Sinquefield Cup in Saint Louis. Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence to join Fabiano Caruana and Wesley So in the lead of the standings. Meanwhile, Richard Rapport, Sam Shankland and Dariusz Swiercz all scored their first wins of the tournament. | Photo: Lennart Ootes",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-2",
          "pubDate" : "Wed, 18 Aug 2021 18:26:00 -0700",
          "title" : "Sinquefield Cup Day 2: So Wins, Joins Leaders"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1279",
-         "pubDate" : "Wed, 18 Aug 2021 21:19:48 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
       },
       {
          "description" : "Unbelievable news-Evgeny Sveshnikov died after seemed overcomed COVID 19. He was just 71, always full of ideas. His dream was to participate in Seniors Championships (he won a lot) and to meet old friends. He really fought for Seniors chess and for the intellectual rights of chess players. He was one of the members of the famous Cheliabinsk&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/\">Read More &#187;</a></span>",
@@ -2304,38 +2304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1246",
          "pubDate" : "Tue, 03 Aug 2021 07:47:24 +0000",
          "title" : "Historic win for Mishra as So smashes score record"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1245",
-         "pubDate" : "Mon, 02 Aug 2021 18:35:49 +0000",
-         "title" : "Alexandra Kosteniuk, Women's World Cup Champion!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/84983690.cms\" />India's Nihal Sarin drew his game against Vincent Keymer of Germany in the fifth round of the classical event in the Grandmaster Triathlon being played as part of the Biel Chess Festival on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-sarin-settles-for-draw-with-keymer/articleshow/84983690.cms",
-         "pubDate" : "Mon, 02 Aug 2021 22:47:52 +0530",
-         "title" : "Biel Chess festival: Indian GM Sarin settles for draw with Keymer"
-      },
-      {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (ROUND 6) 1 Carlsen, Magnus NOR &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS &frac12;-&frac12; Karjakin, Sergey RUS Official Brackets Semifinals (Open), Finals (Women), Game 1 Sunday, 1 August 2021 Semifinal games drawn Kosteniuk breaks through in opener Magnus Carlsen is looking to get to the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/\">2021 FIDE World Cup: Semis (Open), Finals (Women)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/02/2021-fide-world-cup-semis-open-finals-women/",
-         "pubDate" : "Mon, 02 Aug 2021 16:05:14 +0000",
-         "title" : "2021 FIDE World Cup: Semis (Open), Finals (Women)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1244",
-         "pubDate" : "Mon, 02 Aug 2021 15:46:07 +0000",
-         "title" : "FIDE launches Chess for Protection project for refugees"
       }
    ]
 }
