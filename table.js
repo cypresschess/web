@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-08-21  - 08-22","195","<a href=http://www.uschess.org/msa/XtblMain.php?202108222962 target=' blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2021</a>",
 "SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target=' blank'>FBCC HOT DOG AUGUST 2021</a>",
 "HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target=' blank'>AUGSUNSWISSG60D5815</a>",
 "SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target=' blank'>DER SPRINGERS AUGUST 2021</a>",
@@ -7,6 +8,7 @@ jtable([
 "CYPRESS","2021-08-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108139292 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-12","2","<a href=http://www.uschess.org/msa/XtblMain.php?202108129062 target=' blank'>THURSQUADS2510</a>",
 "HOUSTON","2021-08-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108087812 target=' blank'>AUG SUNDAY SWISS  88</a>",
+
 "SPRING","2021-08-06","24","<a href=http://www.uschess.org/msa/XtblMain.php?202108066942 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target=' blank'>FBCC HOT AUGUST NIGHT 2021</a>",
 "CYPRESS","2021-08-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108066882 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2020-06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202006272512 target=' blank'>SR CHESSKNIGHTS 06272020</a>",
 "SPRING","2020-06-27","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006270902 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-06-20","17","<a href=http://www.uschess.org/msa/XtblMain.php?202006209422 target=' blank'>SR CHESSKNIGHTS 06202020</a>",
-"TOMBALL","2020-06-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006199262 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-06-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202006137742 target=' blank'>SR CHESSKNIGHTS 06132020</a>",
 ]);
