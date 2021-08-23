@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave bounced back from his round-4 loss by defeating Dariusz Swiercz and rejoining the shared lead on Saturday. The Frenchman is sharing first place with Wesley So and Leinier Dominguez. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Mon, 23 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1289",
+         "pubDate" : "Mon, 23 Aug 2021 20:33:09 +0000",
+         "title" : "Shant Sargsyan wins 14th Tashkent Open, Agzamov Memorial"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 4 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/owUND1V8yE0.jpg?itok=-BhgwaL4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-4",
+         "pubDate" : "Mon, 23 Aug 2021 20:26:23 +0000",
+         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks about the new life-size granite chess board to be installed at Adrian's Island in Jefferson City. The project was spearheaded by Dr. Jeanne Sinquefield. The board is the Eagle project of Life Scout Andrew Dowden. Life Scout Maya Thomas has made the nearby benches her project. Missouri celebrates its bicentennial in 2021. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-missouri-bicentennial-che",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-missouri-bicentennial-chessboard",
+         "pubDate" : "Mon, 23 Aug 2021 20:26:23 +0000",
+         "title" : "2021 Sinquefield Cup: Missouri Bicentennial Chessboard"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave is again sharing the lead at the Sinquefield Cup after beating Dariusz Swiercz in Saturday's fifth round. MVL tops the standings together with Wesley So and Leinier Dominguez. Fabiano Caruana, who went into round 5 as a co-leader, was defeated by Jeffery Xiong (pictured). | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -338,14 +370,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-dariusz-swiercz-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-dariusz-swiercz-interview-round-4",
-         "pubDate" : "Sat, 21 Aug 2021 02:24:07 +0000",
-         "title" : "2021 Sinquefield Cup: Dariusz Swiercz Interview | Round 4"
-      },
-      {
          "description" : " Bit by bit, we creep our way back to the present. The most recently completed major tournament was the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-saint-louis-rapid-blitz\">2021 St. Louis Rapid &amp; Blitz</a>, the penultimate event of the 2021 Grand Chess Tour. (The ongoing Sinquefield Cup is the finale.) Now a streamer first (by his own admission) and a bit too low on the rating list to be a full-time member of the Grand Chess Tour, Hikaru Nakamura participated as a wildcard...and dominated. He went through all three round-robins undefeated, scoring 6/9 each time. His 6/9 - or rather, 12/18, as the rapid games counted double - in the rapid was good for a minimal lead ove",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-3",
          "pubDate" : "Thu, 19 Aug 2021 20:02:00 -0700",
          "title" : "Sinquefield Cup Day 3: Caruana, So, MVL Lead With 2.5/3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The eighth Sinquefield Cup is the fifth and final leg of the 2021 Grand Chess Tour. Ten of the world's best compete in classical chess, live from the Saint Louis Chess Club. Join GMs Alejandro Ramirez, Yasser Seirawan, and Maurice Ashley for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-round-6",
-         "pubDate" : "Fri, 20 Aug 2021 02:23:15 +0000",
-         "title" : "2021 Sinquefield Cup: Round 6"
       },
       {
          "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring plus-one and beating both GM Sergey Karjaki...",
@@ -2288,14 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-kamsky-extends-lead",
          "pubDate" : "Tue, 03 Aug 2021 10:59:26 +0100",
          "title" : "Biel: Kamsky extends lead"
-      },
-      {
-         "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move and he faces a choice: should he try to stop the white pawns with his king or should he push his g-pawn ahead? What would you do - and why?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/powerful-pawns-3",
-         "pubDate" : "Tue, 03 Aug 2021 09:00:00 +0100",
-         "title" : "Pushing the pawns or retreating the king?"
       },
       {
          "description" : "",
