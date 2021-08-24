@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 57th Rubinstein Memorial was again held as a big chess festival in Polanica Zdroj, Poland. Kirill Shevchenko and David Navara finished the GM tournament tied on points (6 out of 9). Shevchenko was declared the tournament's winner since he had the better tiebreak score - direct encounter. Kacper Piorun and Pawel Teclaf finished a half point behind. | Photos: Rafał Siwik",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rubinstein-memorial-shevchenko-and-navara-tie-for-first",
+         "pubDate" : "Tue, 24 Aug 2021 12:10:00 +0100",
+         "title" : "Rubinstein Memorial: Shevchenko and Navara tie for first"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1290",
+         "pubDate" : "Tue, 24 Aug 2021 10:27:23 +0000",
+         "title" : "Three in the lead after Round 6"
+      },
+      {
+         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal GM Evgeny Sveshnikov (11 Feb 1950 18 Aug 2021) lives on through the games played using the Sicilian Sveshnikov by players from all over the World. I am one of those players. It started back in the early 90s when I felt the urge to <a href=\"https://chessimprover.com/the-great-ones-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-4/\">The Great Ones (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-great-ones-4/",
+         "pubDate" : "Tue, 24 Aug 2021 09:00:27 +0000",
+         "title" : "The Great Ones (4)"
+      },
+      {
          "description" : "When defending difficult positions you often have to decide whether to search active counterplay or to hope for the best with passive defense. Often, this is a difficult choice and even the very best can go wrong. In the diagram position, which is from a game A. Firouzja vs M. Carlsen, Black is in trouble but has a way to draw. What should Black play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +111,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
          "pubDate" : "Mon, 23 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
+         "title" : "Sinquefield Cup - Games and results"
       },
       {
          "description" : "",
@@ -2170,14 +2194,6 @@ news_feed (
          "title" : "India's 69th GM Harshit keen on striking balance between studies and chess"
       },
       {
-         "description" : " Starting tomorrow evening I will be running webinars for Tiger Chess Premium members. The first four have already been scheduled for August 5th, 12th, 19th and 26th and recorded versions will be available for a few weeks should somebody miss one. The first major topic is that of Crafting Your Own Opening Repertoire. I think <a href=\"https://chessimprover.com/tiger-chess-webinars/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Webinars\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-webinars/\">Tiger Chess Webinars</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tiger-chess-webinars/",
-         "pubDate" : "Wed, 04 Aug 2021 13:00:02 +0000",
-         "title" : "Tiger Chess Webinars"
-      },
-      {
          "description" : "On the Peniche peninsula, a center of fish processing and surfing, the Portuguese team champion was determined. Two Spanish Grandmasters put in a special effort for the winning team A.XAT Montemor O Velho, reports Stefan L&ouml;ffler. | Photos: The Portuguese Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2290,28 +2306,12 @@ news_feed (
          "title" : "Episode 237- GM Vladimir Kramnik"
       },
       {
-         "description" : "Wesley So continued his excellent run at the Chessable Masters and was the clear winner of the preliminary stage with an 11/15 score. There was not much of a fight to make it into the quarterfinals, as all but one favourite had almost fully secured their spots in the knockout with two rounds to go. | Pictured: Hikaru Nakamura | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-3",
-         "pubDate" : "Tue, 03 Aug 2021 14:30:00 +0100",
-         "title" : "Chessable Masters: Favourites go through"
-      },
-      {
          "description" : " I'm not sure why I did not highlight this at the time (ie 3 years ago), but the embedded video shows a match between Google Home Mini, and Amazon Alexa. If you don't wish to watch the entire game (which is of dubious quality), skip to the end, which is at least somewhat amusing. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"333\" src=\"https://www.youtube.com/embed/E-rUciTRYaw\" width=\"448\" youtube-src-id=\"E-rUciTRYaw\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/08/amazon-v-google.html",
          "pubDate" : "Tue, 03 Aug 2021 12:41:00 +0000",
          "title" : "Amazon v Google"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1246",
-         "pubDate" : "Tue, 03 Aug 2021 07:47:24 +0000",
-         "title" : "Historic win for Mishra as So smashes score record"
       }
    ]
 }
