@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1291",
+         "pubDate" : "Tue, 24 Aug 2021 18:16:50 +0000",
+         "title" : "Online Cadets and Youth World Cup Finals are all set"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is set to take place from August 26 to September 5 at the Hotel Natura (pictured) in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. Gawain Jones, Gabrial Sargissian and David Navara are the rating favourites.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-preview",
+         "pubDate" : "Tue, 24 Aug 2021 19:10:00 +0100",
+         "title" : "Starting Thursday: European Championship in Reykavik"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> French clubs and leagues have <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13492\">been awarded a record</a> €384,300 from the grants programme of the <strong>Agence Nationale du Sport</strong>. The <strong>French Chess Federation</strong> has for the first time published a <a href=\"http://www.echecs.asso.fr/Actus/13492/PubliFFE_SuiviActionsSimple_ANS_19072021.pdf\">list of all applications and granted projects</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/eur384300-for-french-chess-projects/",
+         "pubDate" : "Tue, 24 Aug 2021 17:05:44 +0100",
+         "title" : "€384,300 for French chess projects"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/s?i=stripbooks&amp;k=pawn%20book%20chess&amp;ref=nb_sb_noss\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg\" data-image-dimensions=\"762x281\" data-image-focal-point=\"0.5,0.5\" alt=\"Which \"pawn book\" should you read?\" data-load=\"false\" data-image-id=\"6125049e4ce1e97943592624\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg?format=1000w\" /> </a> <figcaption class=\"image-capt",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
          "pubDate" : "Fri, 20 Aug 2021 12:45:00 +0100",
          "title" : "European Women's Championship, 11th and last round - Live"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The next <strong>Meltwater Champions Chess Tour</strong> will consist of <a href=\"https://championschesstour.com/2022-tour-dates/\">nine online tournaments</a> between 19 February and 20 November 2022. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/champions-tour-announces-2022-dates/",
-         "pubDate" : "Fri, 20 Aug 2021 12:36:18 +0100",
-         "title" : "Champions Tour announces 2022 dates"
       },
       {
          "description" : "",
@@ -2264,46 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1248",
          "pubDate" : "Tue, 03 Aug 2021 20:50:32 +0000",
          "title" : "Luis Engel Hanna Marie Klek win German Masters 2021"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the entertaining draw that meant that Alexandra Kosteniuk became winner of the Women's World Cup. He will also look at other events e.g. the Chessable masters and the Grandmaster Tournament in Biel. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.Does White have everything under control or can Black break his opponennt's defences?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-alexandra-kosteniuk-wins-the-women-s-world-cup",
-         "pubDate" : "Tue, 03 Aug 2021 20:00:00 +0100",
-         "title" : "The Weekly Show: Alexandra Kosteniuk wins the Women's World Cup!"
-      },
-      {
-         "description" : "In October 2010, on the initiative and with financial support of London-based French pianist, composer, singer-songwriter, and chess fan Jason Kouchak, a large chess set was installed in Holland Park in London. Recently, and with a long Corona-related delay, Kouchak celebrated the ten-year anniversary of this event with a few friends. It was not the only public celebration of chess in London this summer: In July, Trafalgar Square saw a big chess festival with references to Lewis Carroll, the author of Alice in Wonderland who was also a big chess fan. | Photos: Julian Paix (if not otherwise indicated)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eleven-years-of-chess-in-holland-park-in-london",
-         "pubDate" : "Tue, 03 Aug 2021 18:00:00 +0100",
-         "title" : "Eleven years of chess in Holland Park in London"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1247",
-         "pubDate" : "Tue, 03 Aug 2021 16:36:21 +0000",
-         "title" : "Jan-Krzysztof Duda defeats WC Magnus Carlsen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85011970.cms\" />Young Indian Grandmaster Nihal Sarin held tournament leader Gata Kamsky to a draw in the sixth and penultimate round of the classical event in the Grandmaster Triathlon being played as part of the Biel Chess Festival on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-indian-gm-sarin-kamsky-play-out-draw-in-penultimate-round/articleshow/85011970.cms",
-         "pubDate" : "Tue, 03 Aug 2021 21:51:05 +0530",
-         "title" : "Biel Chess festival: Sarin, Kamsky play out draw in penultimate round"
-      },
-      {
-         "description" : "After analysing her first game of the World Cup in the last episode, today Svitlana Demchenko takes a more in-depth look at the second game. The game starts with the Petroff, which is considered one of the most drawish opening choices out there. After most of the pieces have been exchanged, a couple of pawns, two knights and two kings remain on the board. Now the endgame is very difficult for Svitlana. But luckily, we all know, she has some smart moves in her repertoire.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-9",
-         "pubDate" : "Tue, 03 Aug 2021 17:01:12 +0100",
-         "title" : "Svitlana's Smart Moves - Episode 9"
       }
    ]
 }
