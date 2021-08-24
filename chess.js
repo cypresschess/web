@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/",
+         "pubDate" : "Tue, 24 Aug 2021 22:14:11 +0000",
+         "title" : "Tani Adewumi wins North American Youth under-12"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1293",
+         "pubDate" : "Tue, 24 Aug 2021 21:51:25 +0000",
+         "title" : "Online Olympiad Division 3 Pools Out: action resumes on Friday"
+      },
+      {
+         "description" : "With three rounds to go, Wesley So, Leinier Dominguez and Maxime Vachier-Lagrave are sharing the lead at the 2021 Sinquefield Cup. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Tue, 24 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1292",
+         "pubDate" : "Tue, 24 Aug 2021 19:49:56 +0000",
+         "title" : "Winners crowned at EU Youth Chess Championship 2021"
+      },
+      {
+         "description" : "Chess.com is excited to announce the release of Club Arenas! This new feature is yet another exciting tool that will make chess much more fun and enjoyable for the community. Clubs can now compete in arenas against other clubs. As many clubs and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-club-arenas",
+         "pubDate" : "Tue, 24 Aug 2021 12:32:00 -0700",
+         "title" : "Club Arenas Are Now Available On Chess.com"
+      },
+      {
+         "description" : "Chess.com is happy to announce the return of the PRO Chess League. The PRO Chess League: Arena Royale&#38;nbsp;is a special, one-week event for the PCL that will run from September 16 through September 24 and will have a $100,000 prize fund. Elite che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-2021-pro-chess-league",
+         "pubDate" : "Tue, 24 Aug 2021 11:33:00 -0700",
+         "title" : "Chess.com Announces PRO Chess League: Arena Royale"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1098,7 +1146,7 @@ news_feed (
          "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
       },
       {
-         "description" : " Share!144 Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/",
@@ -2026,14 +2074,6 @@ news_feed (
          "title" : "Jan-Krzysztof Duda wins the 2021 FIDE World Cup"
       },
       {
-         "description" : "Arena Kings Season 7 concluded on Wednesday, August 4, with GM Jose Martinez (@Jospem) emerging victorious, earning the $4,000 prize for first place. Martinez won an additional $725 during the season for a total earnings of $4,725. 👏 Congratul...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-7-recap",
-         "pubDate" : "Thu, 05 Aug 2021 15:17:00 -0700",
-         "title" : "Arena Kings Season 7 Recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1252",
          "pubDate" : "Thu, 05 Aug 2021 16:17:49 +0000",
          "title" : "Jan-Krzysztof Duda wins 2021 World Cup"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda won the 2021 FIDE World Cup on Thursday, beating GM Sergey Karjakin convincingly in his white game, thereby avoiding a tiebreak. The 23-year-old Polish grandmaster finished the tournament undefeated and takes home $88,000. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jan-krzysztof-duda-wins-2021-fide-world-cup",
-         "pubDate" : "Thu, 05 Aug 2021 08:55:00 -0700",
-         "title" : "Duda Wins FIDE World Cup, Carlsen Third"
       },
       {
          "description" : " Gawain Jones is an English grandmaster, twice British Champion and winner of the 2020 European Blitz Championship. From the publisher: &#8220;Coffeehouse Repertoire is a 1.e4 player's dream: an arsenal of ideas from a world-class grandmaster to surprise and confound your opponents, combining coffeehouse trickery with complete theoretical soundness. In Volume 1, GM Gawain Jones shows <a href=\"http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Coffeehouse Repertoire 1.e4 Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/05/",
@@ -2264,22 +2296,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-harshit-raja-69th-grandmaster-of-the-country/",
          "pubDate" : "Wed, 04 Aug 2021 04:04:10 +0000",
          "title" : "Congratulations Harshit Raja - 69th Grandmaster of the country"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda advanced to the final of the FIDE World Cup and secured a spot in the next edition of the Candidates Tournament by knocking out Magnus Carlsen in the rapid tiebreakers of their semifinal match. Meanwhile, Tan Zhongyi got third place in the women's event, thanks to a 1&frac12;-&frac12; playoff victory over Anna Muzychuk. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r7-d3",
-         "pubDate" : "Tue, 03 Aug 2021 23:30:00 +0100",
-         "title" : "World Cup: Duda knocks out Carlsen, qualifies to Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1248",
-         "pubDate" : "Tue, 03 Aug 2021 20:50:32 +0000",
-         "title" : "Luis Engel Hanna Marie Klek win German Masters 2021"
       }
    ]
 }
