@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in this year's tournament, all the games in the Sinquefield Cup at the Saint Louis Chess Club ended drawn, with Peter Svidler missing a 'hidden' winning opportunity against Leinier Dominguez. With three rounds to go, Wesley So, Maxime Vachier-Lagrave and Leinier Dominguez are sharing the lead with 4 points each, while Fabiano Caruana remains half a point behind. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r6",
+         "pubDate" : "Tue, 24 Aug 2021 14:00:00 +0100",
+         "title" : "Sinquefield Cup: Fighting draws"
+      },
+      {
+         "description" : "Many congratulations to IM Ravi Haria who gained a GM norm (finishing first) and FM Marcus Harvey (finishing joint third) who gained a final IM...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-to-ravi-haria-and-marcus-harvey/",
+         "pubDate" : "Tue, 24 Aug 2021 12:03:25 +0000",
+         "title" : "Congratulations to Ravi Haria and Marcus Harvey"
+      },
+      {
          "description" : "The 57th Rubinstein Memorial was again held as a big chess festival in Polanica Zdroj, Poland. Kirill Shevchenko and David Navara finished the GM tournament tied on points (6 out of 9). Shevchenko was declared the tournament's winner since he had the better tiebreak score - direct encounter. Kacper Piorun and Pawel Teclaf finished a half point behind. | Photos: Rafał Siwik",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Closing Ceremony"
       },
       {
-         "description" : "Maxime Vachier-Lagrave bounced back from his round-4 loss by defeating Dariusz Swiercz and rejoining the shared lead on Saturday. The Frenchman is sharing first place with Wesley So and Leinier Dominguez. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Mon, 23 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Missouri Bicentennial Chessboard"
       },
       {
-         "description" : "Maxime Vachier-Lagrave is again sharing the lead at the Sinquefield Cup after beating Dariusz Swiercz in Saturday's fifth round. MVL tops the standings together with Wesley So and Leinier Dominguez. Fabiano Caruana, who went into round 5 as a co-leader, was defeated by Jeffery Xiong (pictured). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r5",
-         "pubDate" : "Mon, 23 Aug 2021 21:10:00 +0100",
-         "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
-      },
-      {
          "description" : "Round six of the 2021 Sinquefield Cup saw all five games drawn. GM Peter Svidler missed a big chance to score his first win of the tournament against GM Leinier Dominguez, who stays on top of the standings alongside GMs Wesley So and Maxime Vachie...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,7 +162,15 @@ news_feed (
          "title" : "EU Youth Chess Championships in Kouty nad Desnou"
       },
       {
-         "description" : "The 2021 FIDE Online Olympiad began over the weekend as the matches of Division 4 were played in five round-robin groups. Hong Kong, Nepal, Lebanon, Kenya, Namibia, Palestine, Angola, Cyprus, Ethiopia, Surinam, Aruba, Ghana, Puerto Rico, Trinidad ...",
+         "description" : "Maxime Vachier-Lagrave is again sharing the lead at the Sinquefield Cup after beating Dariusz Swiercz in Saturday's fifth round. MVL tops the standings together with Wesley So and Leinier Dominguez. Fabiano Caruana, who went into round 5 as a co-leader, was defeated by Jeffery Xiong (pictured). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r5",
+         "pubDate" : "Mon, 23 Aug 2021 15:30:00 +0100",
+         "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
+      },
+      {
+         "description" : "The 2021 FIDE Online Olympiad began over the weekend as the matches of Division 4 were played in five round-robin groups. Hong Kong, Nepal, Lebanon, Kenya, Namibia, Palestine, Angola, Cyprus, Ethiopia, Suriname, Aruba, Ghana, Puerto Rico, Trinidad...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-division-4",
@@ -2304,14 +2312,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
          "pubDate" : "Tue, 03 Aug 2021 14:31:19 +0000",
          "title" : "Episode 237- GM Vladimir Kramnik"
-      },
-      {
-         "description" : " I'm not sure why I did not highlight this at the time (ie 3 years ago), but the embedded video shows a match between Google Home Mini, and Amazon Alexa. If you don't wish to watch the entire game (which is of dubious quality), skip to the end, which is at least somewhat amusing. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"333\" src=\"https://www.youtube.com/embed/E-rUciTRYaw\" width=\"448\" youtube-src-id=\"E-rUciTRYaw\"></iframe></div><br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/amazon-v-google.html",
-         "pubDate" : "Tue, 03 Aug 2021 12:41:00 +0000",
-         "title" : "Amazon v Google"
       }
    ]
 }
