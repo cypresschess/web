@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When defending difficult positions you often have to decide whether to search active counterplay or to hope for the best with passive defense. Often, this is a difficult choice and even the very best can go wrong. In the diagram position, which is from a game A. Firouzja vs M. Carlsen, Black is in trouble but has a way to draw. What should Black play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hidden-resources",
+         "pubDate" : "Tue, 24 Aug 2021 09:00:00 +0100",
+         "title" : "Hidden resources"
+      },
+      {
+         "description" : "The EU Youth Chess Championship 2021 concluded in Kouty nad Desnou/Czech Republic on Sunday, August 22nd. The last rounds were full of fights and tension. Vladimir Sofronie (ROU) took the first place in Open U8 category, the second place came to Maksymilian Janeczek (POL) and Stepan Kroulik (CZE) was third. Aleksandra Pehlivanova (BUL) triumphed Girls U8 section, Emma&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/",
+         "pubDate" : "Tue, 24 Aug 2021 06:56:26 +0000",
+         "title" : "Winners of European Union Youth Chess 2021 announced"
+      },
+      {
+         "description" : " All the games were drawn today, but all five games had at least some fight. More: in all five games there was at least one moment where one of the players had a very real chance to play for a win. Even in the game between Dariusz Swiercz and Shakhriyar Mamedyarov, which was clearly heading for a draw well before the time control, there was a moment when Swiercz had an opportunity for an advantage. Richard Rapport had chances against Sam Shankland on multiple occasions, and Jeffery Xiong had his chances against Wesley So as well. The biggest opportunity belonged to Peter Svidler, but finding 33...b5!! and all the complex, beautiful variations that ensue would have been a real achievement. Ch",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/24/sinquefield-cup-round-6-five-draws.html",
+         "pubDate" : "Tue, 24 Aug 2021 04:41:11 +0000",
+         "title" : "Sinquefield Cup, Round 6: Five Draws"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 6 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ycWOE5tZA0U.jpg?itok=Lw1XFVa4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/8/20/ancient-history-stockfish-wins-tcec-season-22.html",
          "pubDate" : "Fri, 20 Aug 2021 22:01:31 +0000",
          "title" : "Ancient History: Stockfish Wins TCEC Season 22"
-      },
-      {
-         "description" : " <a href=\"https://www.theamericanconservative.com/articles/women-and-men-in-chess/\">Have a look</a>, and throw this into the mix with the <a href=\"http://www.thechessmind.net/blog/2021/8/3/hou-yifan-womens-chess-and-gender-equality.html\">previous post</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/another-view-on-women-in-chess.html",
-         "pubDate" : "Fri, 20 Aug 2021 21:59:35 +0000",
-         "title" : "Another View on Women in Chess"
       },
       {
          "description" : "",
@@ -1304,14 +1320,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-how-can-i-ever-show-up-at-a-chess-tournament-agai/",
          "pubDate" : "Fri, 13 Aug 2021 09:22:37 +0000",
          "title" : "Magnus Carlsen: \"How can I ever show up at a chess tournament again?\""
-      },
-      {
-         "description" : "Four rounds have been played at the 21st European Women's Individual Chess Championship in Iasi, Romania. IM Irina Bulmaga (ROU, 2413) emerged on the top to be the sole leader of the event as the only player to have a perfect 4/4 score. In the 4th round which brought encounters of top seeds, Bulmaga defeated the top seeded&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r4-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-r4-report/",
-         "pubDate" : "Fri, 13 Aug 2021 08:40:17 +0000",
-         "title" : "European Women's Chess Championship 2021 - R4 report"
       },
       {
          "description" : "Vincent Keymer took an early lead at the Kramnik Challenge after scoring 3&frac12; points in the four rounds played on Thursday. The German star stands a half point ahead of a 3-player chasing pack, which includes Christopher Yoo, Awonder Liang and Nodirbek Abdusattorov. Expert analyses by GM Karsten M&uuml;ller. | Photo: Schach-Bundesliga",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/amazon-v-google.html",
          "pubDate" : "Tue, 03 Aug 2021 12:41:00 +0000",
          "title" : "Amazon v Google"
-      },
-      {
-         "description" : "In round 5 of the Grandmaster Tournament at the Biel Chess Festival, Gata Kamsky won with Black against Alan Pichot and extended his lead as his closest rivals Kirill Alekseenko and Nihal Sarin both drew: Alekseenko against Noel Studer, Sarin against Vincent Keymer. In the MTO Master Open the Indian Grandmaster Murali Karthikeyan defended his lead. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-kamsky-extends-lead",
-         "pubDate" : "Tue, 03 Aug 2021 10:59:26 +0100",
-         "title" : "Biel: Kamsky extends lead"
       },
       {
          "description" : "",
