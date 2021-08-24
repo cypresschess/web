@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/s?i=stripbooks&amp;k=pawn%20book%20chess&amp;ref=nb_sb_noss\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg\" data-image-dimensions=\"762x281\" data-image-focal-point=\"0.5,0.5\" alt=\"Which \"pawn book\" should you read?\" data-load=\"false\" data-image-id=\"6125049e4ce1e97943592624\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg?format=1000w\" /> </a> <figcaption class=\"image-capt",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/24/episode-240-pawn-book-championship-special-episode-with-neal-bruce",
+         "pubDate" : "Tue, 24 Aug 2021 14:44:50 +0000",
+         "title" : "Episode 240- \"Pawn Book Championship\" Special Episode with Neal Bruce "
+      },
+      {
          "description" : "For the first time in this year's tournament, all the games in the Sinquefield Cup at the Saint Louis Chess Club ended drawn, with Peter Svidler missing a 'hidden' winning opportunity against Leinier Dominguez. With three rounds to go, Wesley So, Maxime Vachier-Lagrave and Leinier Dominguez are sharing the lead with 4 points each, while Fabiano Caruana remains half a point behind. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2296,22 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-9",
          "pubDate" : "Tue, 03 Aug 2021 17:01:12 +0100",
          "title" : "Svitlana's Smart Moves - Episode 9"
-      },
-      {
-         "description" : " <p class=\"lead\">The 23-year old Polish GM, Jan-Krzysztof Duda, faced Magnus Carlsen today at the FIDE World Cup, and knocked out the World Champion in a second rapid game. Duda has reached the final against Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/78EA604A-BC44-4CF4-AACF-D0BE0BA58D3A.gif\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> Duda was the one who broke Carlsen's 125-game unbeaten streak in Round 5 of Norway Chess, becoming the first player to defeat the World Chess Champion in a classical game since Shakhriyar Mamedyarov shocked Magnus in Biel. Karjakin had already secured a spot in the ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/duda-knocks-out-the-world-champion-from-the-world-cup-and-qualif/",
-         "pubDate" : "Tue, 03 Aug 2021 15:25:17 +0000",
-         "title" : "Duda knocks out the Champion from the World Cup; Qualifies for the Candidates"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg\" data-image-dimensions=\"408x230\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo credit unknown, via Sport Express.ru (and Douglas Griffin's Twitter Feed) GM Kramnik discusses his memorable first encounter with GM Anatoly Karpov (in Linares, 1993) in this interview\" data-load=\"false\" data-image-id=\"61094cb87eefd71809db921f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1627999416547-RYGBWNH1MBWDFTMDQ7AJ/Dql9JdRWsAAEWch.2.jpg?format=10",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/3/episode-237-gm-vladimir-kramnik",
-         "pubDate" : "Tue, 03 Aug 2021 14:31:19 +0000",
-         "title" : "Episode 237- GM Vladimir Kramnik"
       }
    ]
 }
