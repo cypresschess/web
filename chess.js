@@ -98,6 +98,14 @@ news_feed (
          "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
       },
       {
+         "description" : "Round six of the 2021 Sinquefield Cup saw all five games drawn. GM Peter Svidler missed a big chance to score his first win of the tournament against GM Leinier Dominguez, who stays on top of the standings alongside GMs Wesley So and Maxime Vachie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-6",
+         "pubDate" : "Mon, 23 Aug 2021 13:01:00 -0700",
+         "title" : "Sinquefield Cup Round 6: Dominguez, So, MVL Maintain Lead"
+      },
+      {
          "description" : "The 19th edition of the European Union Youth Chess Championship took place on August 14-22 at the Hotel Dlouhe Strane in Kouty nad Desnou, Czech Republic. Boys and girls in each category played in the same tournament. Once the event came to an end, girls were evaluated separately to find the winners in the girls' categories. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/",
          "pubDate" : "Thu, 05 Aug 2021 15:31:27 +0000",
          "title" : "Coffeehouse Repertoire 1.e4 Volume 1"
-      },
-      {
-         "description" : "GM Gata Kamsky clinched the Biel Chess Festival Chess Triathlon on Wednesday. The American grandmaster won both the classical and rapid segments while GM Nihal Sarin won the blitz. Sarin came in third in the overall standings. GM Kirill Alekseenko...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gata-kamsky-wins-biel-2021",
-         "pubDate" : "Thu, 05 Aug 2021 06:28:02 -0700",
-         "title" : "Gata Kamsky Victorious In Biel Triathlon"
       },
       {
          "description" : " Improving your game by beating up chess programs is a lot harder these days than when I used to do it in the 1980's. Most engines these days are used for analysis, which means they are usually set for the hardest level, rather than the easiest when up and running. While I still recommended using an engine to improve your play, I did wonder if finding such an engine (with playable strength levels) was becoming impossible. It turns out that there still a few around, and as a bonus, they are accessible online. lichess.org has a version of Stockfish which can be set to play at specific levels. The easiest level is estimated to be rated around 800, and each new level adds 300 rating points to th",
