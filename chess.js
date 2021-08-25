@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The legend, the 13th World Champion, and arguably the greatest chess player ever, Garry Kasparov, is coming to ChessBase India for the 18th episode of Grandmaster Chess. The livestream will take place on the 25th of August at 6.45 p.m. (3:15 p.m. European time, 9 a.m. New York). Dont't miss it - you can see Garry in relaxed banter with chess amateurs. And he is doing this for a second time! Take a look at how the first session went.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-live-in-chessbase-india",
+         "pubDate" : "Wed, 25 Aug 2021 09:00:00 +0100",
+         "title" : "Kasparov live in ChessBase India!"
+      },
+      {
+         "description" : " Entering the round, Maxime Vachier-Lagrave, Leinier Dominguez, and Wesley So were tied for first, with Fabiano Caruana half a point behind. By the end of the round, for the first time in the tournament, there was a single leader: Vachier-Lagrave. He defeated Jeffery Xiong, while Dominguez and So drew their games to fall into a second place tie with Caruana, who defeated Shakhriyar Mamedyarov. For MVL, it was his fourth win of the event, and he was somewhat fortunate. Xiong was doing fine on the black side of the Berlin endgame until he blundered with 18...hxg4??, blind to the danger on the h-file. Had he played 18...g6 he would have been better, especially against Vachier-Lagrave's intended",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/25/sinquefield-cup-round-7-mvl-leads-three-players-half-a-point.html",
+         "pubDate" : "Wed, 25 Aug 2021 06:13:16 +0000",
+         "title" : "Sinquefield Cup, Round 7: MVL Leads, Three Players Half a Point Behind"
+      },
+      {
+         "description" : "In yet another action-packed round in Saint Louis, Maxime Vachier-Lagrave grabbed the sole lead at the Sinquefield Cup by beating Jeffery Xiong from the white side of a Berlin Defence. Fabiano Caruana, who had lost against Xiong in the previous round, bounced back by defeating Shakhriyar Mamedyarov in a double-edged encounter. In the remaining decisive game of the day, Peter Svidler obtained his first win of the event as he got the better of Dariusz Swiercz. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r7",
+         "pubDate" : "Wed, 25 Aug 2021 06:40:00 +0100",
+         "title" : "Sinquefield Cup: Vachier-Lagrave grabs the sole lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 7 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dURUzKxYIcE.jpg?itok=bKoEV7LH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1293",
          "pubDate" : "Tue, 24 Aug 2021 21:51:25 +0000",
          "title" : "Online Olympiad Division 3 Pools Out: action resumes on Friday"
-      },
-      {
-         "description" : "With three rounds to go, Wesley So, Leinier Dominguez and Maxime Vachier-Lagrave are sharing the lead at the 2021 Sinquefield Cup. The tournament features 10 players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour. Follow the games live with expert commentary starting at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Tue, 24 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/8/20/world-cup-finale-duda-karjakin-qualify-for-the-2022-candidat.html",
          "pubDate" : "Fri, 20 Aug 2021 22:04:21 +0000",
          "title" : "World Cup Finale: Duda, Karjakin Qualify for the 2022 Candidates"
-      },
-      {
-         "description" : " We'll get to today's chess - literally <em>today's</em> chess - soon, but let's follow up on some (relatively) old-timey chess by noting that Stockfish won yet another TCEC event, defeating perennial rival (and research ally) Leela Chess Zero 56-44 in the Superfinal. An overview of the season can be found <a href=\"https://en.wikipedia.org/wiki/TCEC_Season_21\">here</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/ancient-history-stockfish-wins-tcec-season-22.html",
-         "pubDate" : "Fri, 20 Aug 2021 22:01:31 +0000",
-         "title" : "Ancient History: Stockfish Wins TCEC Season 22"
       },
       {
          "description" : "",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1249",
          "pubDate" : "Wed, 04 Aug 2021 08:06:01 +0000",
          "title" : "Van Foreest shocks So but American hits back"
-      },
-      {
-         "description" : "Pune based Harshit Raja completed all the requirements to become the latest Grandmaster of the country after securing his third and final norm at Biel",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-harshit-raja-69th-grandmaster-of-the-country/",
-         "pubDate" : "Wed, 04 Aug 2021 04:04:10 +0000",
-         "title" : "Congratulations Harshit Raja - 69th Grandmaster of the country"
       }
    ]
 }
