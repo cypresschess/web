@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-6-7-mvl-grabs-the-sole-lead",
+         "pubDate" : "Wed, 25 Aug 2021 19:21:41 +0000",
+         "title" : "Sinquefield Cup 6-7: MVL grabs the sole lead"
+      },
+      {
+         "description" : "Chess.com is happy to announce the launch of our new and improved Daily Puzzle experience! We&#39;ve updated the look and feel of the page to make your daily dose of tactic training even better. Solve Today&#39;s Daily Puzzle! Here are the main updates...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-new-daily-puzzle-page",
+         "pubDate" : "Wed, 25 Aug 2021 11:03:00 -0700",
+         "title" : "Chess.com Releases New Daily Puzzle Page"
+      },
+      {
+         "description" : " Share! Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/",
+         "pubDate" : "Wed, 25 Aug 2021 17:20:44 +0000",
+         "title" : "Burundi's Chess President, Wilfried Ntamatungiro"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo won Titled Tuesday this week with a 9.5/11 score, beating out second-place IM Minh Le and third-place GM Rustam Khusnutdinov on tiebreakers. GM Dmitry Andreikin finished fourth on 9/11. Maghsoodloo previously won Titled Tuesd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-august-25-titled-tuesday",
+         "pubDate" : "Wed, 25 Aug 2021 10:17:03 -0700",
+         "title" : "Maghsoodloo Wins August 25 Titled Tuesday"
+      },
+      {
+         "description" : "This week, Merijn van Delft analyses Jeffery Xiong's victory over Fabiano Caruana from the fifth round of the Sinquefield Cup. The game was fairly messy - an oft-seen feature in modern-day chess. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-478-xiong-caruana-sinquefield-cup-2021",
+         "pubDate" : "Wed, 25 Aug 2021 18:00:00 +0100",
+         "title" : "Game of the Week 478: Xiong stuns Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1296",
+         "pubDate" : "Wed, 25 Aug 2021 16:43:07 +0000",
+         "title" : "Iturrizaga and Vega win 2021 Spanish Championship"
+      },
+      {
          "description" : "As the new membership year approaches, we have noted an increase over the past few days in people registering with the ECF but not completing...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -130,7 +178,7 @@ news_feed (
          "title" : "Sinquefield Cup Round 7: Vachier-Lagrave Takes The Lead"
       },
       {
-         "description" : " Share! Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make progress [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/",
@@ -1602,14 +1650,6 @@ news_feed (
          "title" : "Happy Birthday GM Praveen Thipsay"
       },
       {
-         "description" : "Fabiano Caruana and Leinier Dominguez lead the St. Louis Rapid and Blitz after scoring two wins and a draw each on the first day. A pandemic ravaged field for the penultimate event of the 2021 Grand Chess Tour features just three players not based in the USA - Shakhriyar Mamedyarov, Richard Rapport and Peter Svidler - with Peter originally travelling to Saint Louis to work as a commentator.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-1-caruana-and-dominguez-lead",
-         "pubDate" : "Thu, 12 Aug 2021 09:01:45 +0000",
-         "title" : "STL Rapid & Blitz 1: Caruana and Dominguez lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1938,22 +1978,6 @@ news_feed (
          "title" : "Wesley So blows away Liem Quang Le in first leg of final"
       },
       {
-         "description" : "GM Levon Aronian bounced back in a must-win situation and forced the tiebreak. After two hard-fought games, GM Le Quang Liem won the armageddon on time and has gained the berth to the finals. In the other semifinal, GM Wesley So and GM Vladisla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessable-masters-le-quang-liem-so-wesley",
-         "pubDate" : "Sat, 07 Aug 2021 17:39:00 -0700",
-         "title" : "Chessable Masters SF: Le, So Through To Finals"
-      },
-      {
-         "description" : "Chess.com and the Botez sisters are excited to announce BlockBattles, the second edition of the highly successful BlockChamps event! On August 8 at 11 a.m. PT/20:00 CEST, the best Minecraft and Variety streamers in the world will gather to compete...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blockbattles-august-8",
-         "pubDate" : "Sat, 07 Aug 2021 15:56:49 -0700",
-         "title" : "BotezLive Presents BlockBattles On August 8"
-      },
-      {
          "description" : "The 2021 FIDE World Cup concluded on August 5 with Jan-Krzysztof Duda defeating Sergey Karjakin by a score of 1&frac12;-&frac12; in the finals. Joshua Doknjas takes a look at five interesting games from the second half of the event, focussing on the performances of the two finalists. | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2248,46 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2021-r8-d1",
          "pubDate" : "Wed, 04 Aug 2021 22:20:00 +0100",
          "title" : "World Cup: Carlsen's brilliance on display"
-      },
-      {
-         "description" : " At the end of this year, I will retire from competitive Chess. I'm not only stopping to earn money by playing chess. I am also stopping to compete in chess tournaments. This means I will not be part of the Swiss National Team anymore. I'm not planning to compete in any tournament from 2022 onwards. [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/retire-from-competitive-chess/\">Why I Retire From Competitive Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/retire-from-competitive-chess/",
-         "pubDate" : "Wed, 04 Aug 2021 18:30:00 +0000",
-         "title" : "Why I Retire From Competitive Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1250",
-         "pubDate" : "Wed, 04 Aug 2021 17:50:32 +0000",
-         "title" : "Carlsen in sacrifice mode crushes Fedoseev"
-      },
-      {
-         "description" : "All India Chess Federation congratulate R Vaishali for completing her third &#38; final IM norm and crossing 2400 in Biel open to become India's latest",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-r-vaishali/",
-         "pubDate" : "Wed, 04 Aug 2021 17:22:39 +0000",
-         "title" : "Congratulations R Vaishali"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85046726.cms\" />India's teenaged Grandmaster Nihal Sarin drew against French GM Maxime Lagarde in the seventh and final round of the Classical section of the Grandmaster Triathlon at the Biel Chess Festival here on Wednesday to finish third in the overall standings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/biel-chess-festival-nihal-sarin-draws-final-round-game-finishes-in-overall-third-place/articleshow/85046726.cms",
-         "pubDate" : "Wed, 04 Aug 2021 22:32:52 +0530",
-         "title" : "Biel festival: Nihal draws final round game; finishes in overall third place"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a close look at the game Luis Engel against Rasmus Svane, which was played at the German Masters and in which the young German Grandmaster Engel shows his attacking and his tactical skills. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-475-l-engel-r-svane",
-         "pubDate" : "Wed, 04 Aug 2021 18:00:00 +0100",
-         "title" : "Game of the Week 475: L. Engel - R. Svane"
       }
    ]
 }
