@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1294",
+         "pubDate" : "Wed, 25 Aug 2021 10:59:37 +0000",
+         "title" : "Day 7: Vachier-Lagrave grabs the lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to plan and manage chess competitions during a (hopefully fading) pandemic? Which apps and platforms help clubs to mobilize old members and gain new ones? These questions and more will be answered at our online conference <strong>Work4Chess</strong> on 18 September. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/work4chess-logo.1920.jpeg\" title=\"Work4Chess Logo Photo: Mario Gogh, Graphics: Gustaf Mossakowski\" data-title=\"Work4Chess Logo (Photo: Mario Gogh, Graphics: Gustaf Mossakowski)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/work4chess-logo.480.jpeg\" ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/work-4-chess/",
+         "pubDate" : "Wed, 25 Aug 2021 10:10:48 +0100",
+         "title" : "Work 4 Chess!"
+      },
+      {
          "description" : "The legend, the 13th World Champion, and arguably the greatest chess player ever, Garry Kasparov, is coming to ChessBase India for the 18th episode of Grandmaster Chess. The livestream will take place on the 25th of August at 6.45 p.m. (3:15 p.m. European time, 9 a.m. New York). Dont't miss it - you can see Garry in relaxed banter with chess amateurs. And he is doing this for a second time! Take a look at how the first session went.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +82,7 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 7"
       },
       {
-         "description" : "A quick win by GM Maxime Vachier-Lagrave over GM Jeffery Xiong in round seven of the 2021 Sinquefield Cup put him on top of the leaderboard with 5/7. This is the first time in the entire tournament that we have had a sole leader. GM Fabiano Caru...",
+         "description" : "A quick win by GM Maxime Vachier-Lagrave over GM Jeffery Xiong in round seven of the 2021 Sinquefield Cup put the French star on top of the leaderboard with 5/7. This is the first time in the entire tournament that we&#39;re having a sole leader. GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-7",
@@ -127,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-2021-preview",
          "pubDate" : "Tue, 24 Aug 2021 19:10:00 +0100",
-         "title" : "Starting Thursday: European Championship in Reykavik"
+         "title" : "Starting Thursday: European Championship in Reyjkavik"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> French clubs and leagues have <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13492\">been awarded a record</a> €384,300 from the grants programme of the <strong>Agence Nationale du Sport</strong>. The <strong>French Chess Federation</strong> has for the first time published a <a href=\"http://www.echecs.asso.fr/Actus/13492/PubliFFE_SuiviActionsSimple_ANS_19072021.pdf\">list of all applications and granted projects</a>. </div> ",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-4-caruana-so-dominguez-lead",
          "pubDate" : "Sat, 21 Aug 2021 16:09:55 +0000",
          "title" : "Sinquefield Cup 3-4: Caruana, So & Dominguez lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to plan and manage chess competitions during a (hopefully fading) pandemic? Which apps and platforms help clubs to mobilize old members and gain new ones? These questions and more will be answered at our online conference <strong>Work4Chess</strong> on 18 September. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/work4chess-logo.1920.jpeg\" title=\"Work4Chess Logo Photo: Mario Gogh, Graphics: Gustaf Mossakowski\" data-title=\"Work4Chess Logo (Photo: Mario Gogh, Graphics: Gustaf Mossakowski)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/work4chess-logo.480.jpeg\" ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/work-4-chess/",
-         "pubDate" : "Sat, 21 Aug 2021 14:17:20 +0100",
-         "title" : "Work 4 Chess!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85514686.cms\" />Putting an end to internal fighting, the All-India Chess Federation and the breakaway Chess Association of India on Saturday announced that they have merged into one single entity to administer the sport in the country.",
@@ -2264,38 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-69th-gm-harshit-raja-keen-on-striking-balance-between-studies-and-chess/articleshow/85040549.cms",
          "pubDate" : "Wed, 04 Aug 2021 20:22:31 +0530",
          "title" : "India's 69th GM Harshit keen on striking balance between studies and chess"
-      },
-      {
-         "description" : "On the Peniche peninsula, a center of fish processing and surfing, the Portuguese team champion was determined. Two Spanish Grandmasters put in a special effort for the winning team A.XAT Montemor O Velho, reports Stefan L&ouml;ffler. | Photos: The Portuguese Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-xat-montemor-o-velho-wins-portuguese-team-championships",
-         "pubDate" : "Wed, 04 Aug 2021 11:16:05 +0100",
-         "title" : "A.XAT Montemor O Velho wins Portuguese Team Championships"
-      },
-      {
-         "description" : "The final round in Biel begins at 11:00 CEST and promises to be exciting. Boris Gelfand plays against Noel Studer and Nihal Sarin faces Maxime Lagarde, but the tournament will be decided in the games Alan Pichot vs Kirill Alekseenko and Vincent Keymer vs Gata Kamsky. At the moment Kamsky leads the overall standings, but if he draws against Keymer, Alekseenko will be first if he wins against Pichot. | The action starts at 11:00 CEST (05:00 ET, 09:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-round-2-live",
-         "pubDate" : "Wed, 04 Aug 2021 10:50:00 +0100",
-         "title" : "Biel: Round 7 - Live!"
-      },
-      {
-         "description" : "In the penultimate round of the Grandmaster Tournament in Biel Kirill Alekseenko (pictured) and Vincent Keymer came to victories, while Gata Kamsky defended his lead with a draw against Nihal Sarin. In the Masters Open, the Indian Grandmaster Murali Karthikeyan remains sole first. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-kamsky-defends-lead-alekseenko-and-keymer-score",
-         "pubDate" : "Wed, 04 Aug 2021 09:10:38 +0100",
-         "title" : "Biel: Kamsky defends lead, Alekseenko and Keymer score"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1249",
-         "pubDate" : "Wed, 04 Aug 2021 08:06:01 +0000",
-         "title" : "Van Foreest shocks So but American hits back"
       }
    ]
 }
