@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the new membership year approaches, we have noted an increase over the past few days in people registering with the ECF but not completing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/incomplete-new-memberships/",
+         "pubDate" : "Wed, 25 Aug 2021 15:10:45 +0000",
+         "title" : "Incomplete new ECF memberships"
+      },
+      {
+         "description" : "The Spanish Individual Championship took place on August 16-24 in Linares. Eduardo Iturrizaga won the event in his first try, as he switched federations earlier this year. The 31-year-old star from Caracas also won the rapid tournament played before the classical event; Paco Vallejo won the blitz. Among the women, Sabrina Vega won her eighth title with a round to spare. Vega stunned by also winning the women's sections in both the rapid and blitz national tournaments. | Photo: Patricia Claros Aguilar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eduardo-iturrizaga-sabrina-vega-spanish-champions-2021",
+         "pubDate" : "Wed, 25 Aug 2021 15:45:00 +0100",
+         "title" : "Iturrizaga and Vega are the 2021 Spanish champions"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 16 players per age group and gender play out the first Online <strong>Youth Rapid World Cup</strong> held by FIDE on <strong>Tornelo</strong> and sponsored by the Azeri oil company <strong>SOCAR</strong>. This will be <a href=\"https://fide.com/news/1291\">followed up</a> by a Youth Grand Prix and a Super Final in December to replace the otb youth world championships canceled due to Covid-19. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-youth-world-cup/",
+         "pubDate" : "Wed, 25 Aug 2021 15:28:26 +0100",
+         "title" : "Online Youth World Cup"
+      },
+      {
+         "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Beginners Mind</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/beginners-mind/",
+         "pubDate" : "Wed, 25 Aug 2021 14:00:00 +0000",
+         "title" : "Beginners Mind"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Play Magnus Group</strong> <a href=\"https://drive.google.com/file/d/1qYg65PeMtXQPdeRAWBz1ttm0QiwbRPbE/view\">reports</a> stronger sales and bookings and increases its expected 2021 turnover by $2 million. Its newest acquisition is <strong>Silver Knights</strong>, a US chess training provider with a strong online business. The appointment of <a href=\"https://www.linkedin.com/in/scottcdodson/\"><strong>Scott Dodson</strong></a> as Chief Marketing Officer rounds up the management team. A few days ago, <strong>TV 2</strong> <a href=\"https://www.marketscreener.com/quote/stock/PLAY-MAGNUS-AS-113534507/news/Play-Magnus-PMG-Play-Magnus-Group-and-T",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/pmg-increases-sales-and-aquires/",
+         "pubDate" : "Wed, 25 Aug 2021 14:56:55 +0100",
+         "title" : "PMG increases sales and aquires Silver Knights"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1295",
+         "pubDate" : "Wed, 25 Aug 2021 12:20:04 +0000",
+         "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1294",
          "pubDate" : "Wed, 25 Aug 2021 10:59:37 +0000",
          "title" : "Day 7: Vachier-Lagrave grabs the lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to plan and manage chess competitions during a (hopefully fading) pandemic? Which apps and platforms help clubs to mobilize old members and gain new ones? These questions and more will be answered at our online conference <strong>Work4Chess</strong> on 18 September. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/work4chess-logo.1920.jpeg\" title=\"Work4Chess Logo Photo: Mario Gogh, Graphics: Gustaf Mossakowski\" data-title=\"Work4Chess Logo (Photo: Mario Gogh, Graphics: Gustaf Mossakowski)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/work4chess-logo.480.jpeg\" ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/work-4-chess/",
-         "pubDate" : "Wed, 25 Aug 2021 10:10:48 +0100",
-         "title" : "Work 4 Chess!"
       },
       {
          "description" : "The legend, the 13th World Champion, and arguably the greatest chess player ever, Garry Kasparov, is coming to ChessBase India for the 18th episode of Grandmaster Chess. The livestream will take place on the 25th of August at 6.45 p.m. (3:15 p.m. European time, 9 a.m. New York). Dont't miss it - you can see Garry in relaxed banter with chess amateurs. And he is doing this for a second time! Take a look at how the first session went.",
@@ -448,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elina-danielian-wins-the-european-womens-championship-2021",
          "pubDate" : "Sat, 21 Aug 2021 18:20:00 +0100",
          "title" : "Elina Danielian wins the European Women's Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://onlineolympiad.fide.com/\">With hardly any changes</a>, FIDE has started its second <strong>Online Chess Olympiad</strong>. 153 national teams, each with three females and two juniors on the six boards, are seeded into four divisions and play matches at 15 minutes per player on <strong>Chess.com</strong>. The first three of a group of 12 or 10 teams will promote to the higher division. The top seeded 25 nations join on 8-10 September, with the best two teams from each of four Division 1 groups qualifiying for the final k.o.-matches on 13-15 September. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-olympiad-started/",
-         "pubDate" : "Sat, 21 Aug 2021 17:58:47 +0100",
-         "title" : "Online Olympiad started"
       },
       {
          "description" : "An avalanche of white wins in Rounds 3 and 4 of the 2021 Sinquefield Cup meant that already, before the half-way mark, only three players are still undefeated, the three leaders - Leinier Dominguez, Fabiano Caruana and Wesley So. At the other end of the table, Darius Swiercz got on the scoreboard with his first win, leaving Peter Svidler as the tail-ender.",
@@ -2256,22 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-475-l-engel-r-svane",
          "pubDate" : "Wed, 04 Aug 2021 18:00:00 +0100",
          "title" : "Game of the Week 475: L. Engel - R. Svane"
-      },
-      {
-         "description" : "The first sets of the quarterfinals at the Chessable Masters were played on Tuesday. Le Quang Liem and Levon Aronian took the lead in their matches against Alireza Firouzja and Shakhriyar Mamedyarov respectively, while Wesley So vs Jorden van Foreest and Hikaru Nakamura vs Vladislav Artemiev finished drawn. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-4",
-         "pubDate" : "Wed, 04 Aug 2021 16:00:00 +0100",
-         "title" : "Chessable Masters: Le takes the lead against Firouzja"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85040549.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-69th-gm-harshit-raja-keen-on-striking-balance-between-studies-and-chess/articleshow/85040549.cms",
-         "pubDate" : "Wed, 04 Aug 2021 20:22:31 +0530",
-         "title" : "India's 69th GM Harshit keen on striking balance between studies and chess"
       }
    ]
 }
