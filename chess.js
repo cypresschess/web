@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3.html",
+         "pubDate" : "Wed, 25 Aug 2021 23:26:00 +0000",
+         "title" : "2021 Online Olympiad Div 3"
+      },
+      {
+         "description" : "A clear leader emerged on Tuesday as Maxime Vachier-Lagrave broke through the gridlock with a crucial win over Xiong, giving him a half-point lead over So and Dominguez, who could only draw their games. Meanwhile, Caruana scored an important victory as Black over Mamedyarov, propelling him into a tie for second place as well. With two rounds left to play, everything is still on the line both in terms of the tournament and the overall GCT standings. Round 8 starts at 15.00 local time (16.00 ET, 22.00 CEST) | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Wed, 25 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Chess.com Releases New Daily Puzzle Page"
       },
       {
-         "description" : " Share! Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!18 Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/",
@@ -29,9 +45,17 @@ news_feed (
          "description" : "GM Parham Maghsoodloo won Titled Tuesday this week with a 9.5/11 score, beating out second-place IM Minh Le and third-place GM Rustam Khusnutdinov on tiebreakers. GM Dmitry Andreikin finished fourth on 9/11. Maghsoodloo previously won Titled Tuesd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-august-25-titled-tuesday",
-         "pubDate" : "Wed, 25 Aug 2021 10:17:03 -0700",
-         "title" : "Maghsoodloo Wins August 25 Titled Tuesday"
+         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-august-24-titled-tuesday",
+         "pubDate" : "Wed, 25 Aug 2021 10:17:00 -0700",
+         "title" : "Maghsoodloo Wins August 24 Titled Tuesday"
+      },
+      {
+         "description" : " The European Individual Chess Championship takes place in Reykjavik 26th August to 5th September. Leading players: Gawain Jones, Gabriel Sargissian, David Navara, Matthias Bluebaum, Dieter Nisipeanu Liviu, Nils Grandelius, Constantin Lupulescu, Alexander Donchenko, Nijat Abasov etc ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
+         "pubDate" : "Wed, 25 Aug 2021 21:06:00 +0400",
+         "title" : "European Individual Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "This week, Merijn van Delft analyses Jeffery Xiong's victory over Fabiano Caruana from the fifth round of the Sinquefield Cup. The game was fairly messy - an oft-seen feature in modern-day chess. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2256,22 +2280,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-carlsens-tweet-turns-into-a-towel-and-a-slogan/",
          "pubDate" : "Thu, 05 Aug 2021 06:07:47 +0000",
          "title" : "Time to Say Dubai: a Slogan, a Tweet, a Towel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1251",
-         "pubDate" : "Wed, 04 Aug 2021 21:48:20 +0000",
-         "title" : "Big guns storm into semis"
-      },
-      {
-         "description" : "A brilliant victory with the black pieces gave Magnus Carlsen the lead in the match for third place against Vladimir Fedoseev at the FIDE World Cup in Sochi. Meanwhile, Sergey Karjakin was surprised in the opening by Jan-Krzysztof Duda, which prompted him to agree to a quick draw in his game with the white pieces. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r8-d1",
-         "pubDate" : "Wed, 04 Aug 2021 22:20:00 +0100",
-         "title" : "World Cup: Carlsen's brilliance on display"
       }
    ]
 }
