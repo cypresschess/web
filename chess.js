@@ -2224,22 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1254",
          "pubDate" : "Fri, 06 Aug 2021 07:45:52 +0000",
          "title" : "Liem Quang Le stuns Aronian to put himself on brink of final"
-      },
-      {
-         "description" : "Thanks to a 30-move victory over Sergey Karjakin, Jan-Krzysztof Duda was crowned champion at the 2021 FIDE World Cup in Sochi. The Polish grandmaster had an undefeated performance in the 24-day event and knocked out none other than world champion Magnus Carlsen in the semifinals. Carlsen, who had high praise for Duda, beat Vladimir Fedoseev for a second day in a row to claim third place. | Photos: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-r8-d2",
-         "pubDate" : "Fri, 06 Aug 2021 00:10:00 +0100",
-         "title" : "Jan-Krzysztof Duda wins the 2021 FIDE World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1253",
-         "pubDate" : "Thu, 05 Aug 2021 21:35:46 +0000",
-         "title" : "155 Teams Registered for Online Olympiad 2021"
       }
    ]
 }
