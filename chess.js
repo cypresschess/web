@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. Gawain Jones, Gabrial Sargissian and David Navara are the rating favourites. | The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Thu, 26 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The region of Saint Emilion near Bordeaux is renowned for producing some of the world's finest wines. Hundreds of hectares of vineyards belonging to different domains dominate the landscape. One of these enchanting wine estates was the venue of a rapid chess tournament held on August 22. The 77 participants played the nine-round event in the midst of giant metal tanks and hundreds of wine barrels at the Château Montaiguillon. | Pictured: Maxime Lagarde and Mathieu Cornette | Photo: Thibault Plaire",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-chess-in-a-bordeauz-wine-chateau",
+         "pubDate" : "Thu, 26 Aug 2021 15:10:00 +0100",
+         "title" : "Rapid chess in a Bordeaux wine chateau"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1297",
+         "pubDate" : "Thu, 26 Aug 2021 13:25:40 +0000",
+         "title" : "Chess for Prisons - registration continues"
+      },
+      {
+         "description" : "Appended below please find the Notification for Recruitment of meritorious sports persons at Income Tax Department.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/recruitment-of-meritorious-sports-persons-at-income-tax-department/",
+         "pubDate" : "Thu, 26 Aug 2021 13:15:35 +0000",
+         "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS AT INCOME TAX DEPARTMENT"
+      },
+      {
+         "description" : "The World Amateur Chess Championship will be held at Rhodes, Greece from 16-26 October 2021. The detailed regulations you can find at https://www.fide.com/calendar/51208 Players who",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-world-amateur-chess-championship-2021/",
+         "pubDate" : "Thu, 26 Aug 2021 12:55:01 +0000",
+         "title" : "REGISTRATION FOR WORLD AMATEUR CHESS CHAMPIONSHIP 2021"
+      },
+      {
+         "description" : "The National Under-8 Open &#38; Girls Online Chess Championship will be held from 10 Sep to 12 Sep 2021. The last date of entry is",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-8-open-girls-online-chess-championships-2021/",
+         "pubDate" : "Thu, 26 Aug 2021 12:25:08 +0000",
+         "title" : "NATIONAL UNDER-8 OPEN & GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
+      },
+      {
          "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r8",
          "pubDate" : "Thu, 26 Aug 2021 09:45:00 +0100",
          "title" : "Sinquefield Cup: MVL still leads, So wins Grand Chess Tour"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Wood Green Invitational, a 10-player single round robin played in Stafford, England. Ravi Haria impressed by winning the event with a phenomenal 7&frac12;/9 score. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-wood-green-invitational",
+         "pubDate" : "Thu, 26 Aug 2021 09:30:00 +0100",
+         "title" : "The Weekly Show: Wood Green Invitational"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fq5PYvD5R5o.jpg?itok=8hW-nSpO\" alt=\"\" /></a></div>",
@@ -130,14 +186,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2021 - Games and Results"
       },
       {
-         "description" : "This week, Merijn van Delft analyses Jeffery Xiong's victory over Fabiano Caruana from the fifth round of the Sinquefield Cup. The game was fairly messy - an oft-seen feature in modern-day chess. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-478-xiong-caruana-sinquefield-cup-2021",
-         "pubDate" : "Wed, 25 Aug 2021 18:00:00 +0100",
-         "title" : "Game of the Week 478: Xiong stuns Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eduardo-iturrizaga-sabrina-vega-spanish-champions-2021",
          "pubDate" : "Wed, 25 Aug 2021 15:45:00 +0100",
          "title" : "Iturrizaga and Vega are the 2021 Spanish champions"
+      },
+      {
+         "description" : "This week, Merijn van Delft analyses Jeffery Xiong's victory over Fabiano Caruana from the fifth round of the Sinquefield Cup. The game was fairly messy - an oft-seen feature in modern-day chess. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-478-xiong-caruana-sinquefield-cup-2021",
+         "pubDate" : "Wed, 25 Aug 2021 15:30:00 +0100",
+         "title" : "Game of the Week 478: Xiong stuns Caruana"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 16 players per age group and gender play out the first Online <strong>Youth Rapid World Cup</strong> held by FIDE on <strong>Tornelo</strong> and sponsored by the Azeri oil company <strong>SOCAR</strong>. This will be <a href=\"https://fide.com/news/1291\">followed up</a> by a Youth Grand Prix and a Super Final in December to replace the otb youth world championships canceled due to Covid-19. </div> ",
@@ -1826,14 +1882,6 @@ news_feed (
          "title" : "Census Knight"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/public-notice/",
-         "pubDate" : "Tue, 10 Aug 2021 12:30:34 +0000",
-         "title" : "PUBLIC NOTICE"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg\" data-image-dimensions=\"500x375\" data-image-focal-point=\"0.5,0.5\" alt=\"Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times.\" data-load=\"false\" data-image-id=\"61126de61faeb13e9539679c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times. </",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2208,54 +2256,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/",
          "pubDate" : "Thu, 05 Aug 2021 15:31:27 +0000",
          "title" : "Coffeehouse Repertoire 1.e4 Volume 1"
-      },
-      {
-         "description" : " Improving your game by beating up chess programs is a lot harder these days than when I used to do it in the 1980's. Most engines these days are used for analysis, which means they are usually set for the hardest level, rather than the easiest when up and running. While I still recommended using an engine to improve your play, I did wonder if finding such an engine (with playable strength levels) was becoming impossible. It turns out that there still a few around, and as a bonus, they are accessible online. lichess.org has a version of Stockfish which can be set to play at specific levels. The easiest level is estimated to be rated around 800, and each new level adds 300 rating points to th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/beating-up-on-stockfish.html",
-         "pubDate" : "Thu, 05 Aug 2021 13:15:00 +0000",
-         "title" : "Beating up on Stockfish"
-      },
-      {
-         "description" : "Last week, on 28 July 2021, the Hungarian Grandmaster Istvan Csom died at the age of 81. In the 1970s he was one of Hungary's best players and he was part of the Hungarian team that sensationally won gold ahead of the heavily favoured Soviet team at the Chess Olympiad 1978 in Buenos Aires. | Photo: Obuda Media",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/istvan-csom-1940-2021",
-         "pubDate" : "Thu, 05 Aug 2021 14:07:48 +0100",
-         "title" : "Istvan Csom (2 June 1940 - 28 July 2021)"
-      },
-      {
-         "description" : "The ECF is keen to understand how we can help clubs to rebuild membership and re-restablish a programme of chess activities as we come out...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-clubs-support-survey/",
-         "pubDate" : "Thu, 05 Aug 2021 12:56:18 +0000",
-         "title" : "ECF Clubs Support Survey"
-      },
-      {
-         "description" : "Sergey Karjakin and Jan-Krzysztof Duda drew their first game of the final at the FIDE World Cup in Sochi - Duda has the white pieces in game 2. Meanwhile, Vladimir Fedoseev (pictured) needs to win with black to level the score against Magnus Carlsen in the match for third place. Follow the action live with expert commentary starting at 14.00 CEST (12.00 UT, 08.00 ET). | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2021-live",
-         "pubDate" : "Thu, 05 Aug 2021 13:55:00 +0100",
-         "title" : "World Cup Final - Duda wins"
-      },
-      {
-         "description" : "Day 2 of the Chessable Masters quarterfinals saw Wesley So, Vladislav Artemiev, Le Quang Liem and Levon Aronian securing a spot in the semifinals. In the most exciting match of the day, Artemiev and Hikaru Nakamura went all the way down to Armageddon after trading wins with the white pieces both in rapid and blitz - fittingly, the Russian grandmaster won with white in the sudden-death decider to move on to the semis. | Photo: Eric Rosen / FIDE World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-5",
-         "pubDate" : "Thu, 05 Aug 2021 13:20:00 +0100",
-         "title" : "Chessable Masters: Artemiev beats Nakamura in Armageddon"
-      },
-      {
-         "description" : " 2021 World Chess CupJuly 12th-August 6th, 2021(Sochi, Russia)MATCH PAIRINGS (FINALS, 3rd Place) 1 Karjakin, Sergey RUS &frac12;-&frac12; Duda, Jan-Krzysztof POL 2 Fedoseev, Vladimir RUS 0-1 Carlsen, Magnus NOR Official Brackets Finals (Open, 3rd place), Game 1 Wednesday, 4 August 2021 Karjakin-Duda are &#8220;Quick Draw McGraw&#8221; Carlsen bashes Fedoseev Both Sergey Karjakin and Jan-Krzysztof Duda seem [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/\">2021 FIDE World Cup: FINALS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
-         "pubDate" : "Thu, 05 Aug 2021 12:18:34 +0000",
-         "title" : "2021 FIDE World Cup: FINALS"
       }
    ]
 }
