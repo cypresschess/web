@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r8",
+         "pubDate" : "Thu, 26 Aug 2021 09:45:00 +0100",
+         "title" : "Sinquefield Cup: MVL still leads, So wins Grand Chess Tour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fq5PYvD5R5o.jpg?itok=8hW-nSpO\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-8",
          "pubDate" : "Wed, 25 Aug 2021 15:31:00 -0700",
          "title" : "Sinquefield Cup Round 8: MVL Maintains Lead"
-      },
-      {
-         "description" : "With all five games drawn Vachier-Lagrave is leading the Sinquefield Cup with 5.5/8, half a point ahead of Caruana, So, and Dominguez heading into tomorrow's final round. At the same time American Grandmaster Wesley So has clinched 1st place in the 2021 Grand Chess Tour, securing a minimum of seven GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. Full report to follow. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Wed, 25 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Wesley So clinches"
       },
       {
          "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/05/2021-fide-world-cup-finals/",
          "pubDate" : "Thu, 05 Aug 2021 12:18:34 +0000",
          "title" : "2021 FIDE World Cup: FINALS"
-      },
-      {
-         "description" : "Gata Kamsky, the leader of the Grandmaster Triathlon in Biel, finished the tournament in style. In the last round he won with Black against Vincent Keymer to win the classical tournament and the triathlon. Kirill Alekseenko and Nihal Sarin finished second and third in the triathlon, Boris Gelfand was third in the classical tournament. Salem Saleh won the Master Open on tiebreak. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-kamsky-beats-keymer-and-wins-grandmaster-triathlon",
-         "pubDate" : "Thu, 05 Aug 2021 11:43:33 +0100",
-         "title" : "Biel: Kamsky beats Keymer and wins Grandmaster Triathlon"
-      },
-      {
-         "description" : "Presidents Awards for Services to Chess Joe Conlon &#124; Andy Howie Contribution to Accessible Chess The UK Braille Chess Association Contribution to Women's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2021-and-citations/",
-         "pubDate" : "Thu, 05 Aug 2021 08:19:30 +0000",
-         "title" : "ECF Awards 2021 and citations"
       }
    ]
 }
