@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-womens-championships-stats-and-records",
+         "pubDate" : "Thu, 26 Aug 2021 19:30:00 +0100",
+         "title" : "U.S. Women's Championships: Stats and records"
+      },
+      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. Gawain Jones, Gabrial Sargissian and David Navara are the rating favourites. | The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2224,38 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1253",
          "pubDate" : "Thu, 05 Aug 2021 21:35:46 +0000",
          "title" : "155 Teams Registered for Online Olympiad 2021"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look how Sergey Karjakin won a must-win game in spectacular fashion against Sam Shankland at the FIDE World Cup - with the King's Indian Attack as a surprise weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-winnning-on-demand-with-the-king-s-indian-attack",
-         "pubDate" : "Thu, 05 Aug 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Winnning on demand - with the King's Indian Attack"
-      },
-      {
-         "description" : " 23-year-old Grandmaster, Jan-Krzysztof Duda, climbed to the top of the FIDE World Cup with a decisive win against Sergey Karjakin in the final. Duda had an incredible run defeating GMs Sevian, Idani, Grischuk, Vidit, Carlsen, and Karjakin, becoming the first Pole to win the World Cup. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51359010783_afa6512e64_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> </div> The ceremonial first move of Day 2 Final was made by Sergey Tolchinsky, Russian professional ice hockey, and both finalists seemed to enjoy the fact that he attempted to start Duda's game with the b-pawn! Duda had a confident start of the game, showing excel",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/jan-krzysztof-duda-wins-fide-world-cup-2021/",
-         "pubDate" : "Thu, 05 Aug 2021 16:56:00 +0000",
-         "title" : "Jan-Krzysztof Duda wins FIDE World Cup 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1252",
-         "pubDate" : "Thu, 05 Aug 2021 16:17:49 +0000",
-         "title" : "Jan-Krzysztof Duda wins 2021 World Cup"
-      },
-      {
-         "description" : " Gawain Jones is an English grandmaster, twice British Champion and winner of the 2020 European Blitz Championship. From the publisher: &#8220;Coffeehouse Repertoire is a 1.e4 player's dream: an arsenal of ideas from a world-class grandmaster to surprise and confound your opponents, combining coffeehouse trickery with complete theoretical soundness. In Volume 1, GM Gawain Jones shows <a href=\"http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Coffeehouse Repertoire 1.e4 Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/05/",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/05/coffeehouse-repertoire-1-e4-volume-1/",
-         "pubDate" : "Thu, 05 Aug 2021 15:31:27 +0000",
-         "title" : "Coffeehouse Repertoire 1.e4 Volume 1"
       }
    ]
 }
