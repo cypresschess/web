@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going into the final round, Maxime Vachier-Lagrave is leading the Sinquefield Cup with 5&frac12;/8 points, half a point ahead of Fabiano Caruana, Wesley So and Leinier Dominguez. In the deciding round, MVL plays black against Shakhriyar Mamedyarov; Caruana has the black pieces against Richard Rapport; while So faces Dominguez with white. The action kicks off at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Thu, 26 Aug 2021 21:55:00 +0100",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
