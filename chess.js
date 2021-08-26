@@ -82,12 +82,12 @@ news_feed (
          "title" : "Sinquefield Cup Round 8: MVL Maintains Lead"
       },
       {
-         "description" : "Four players still have chances to win this year's Sinquefield Cup, as all the games in the penultimate round finished drawn, leaving Maxime Vachier-Lagrave in the sole lead with a 3-player chasing pack standing a half point behind. Wesley So, Fabiano Caruana and Leinier Dominguez make up the trio still with chances to catch the leader on Thursday. | The final round starts at 15.00 local time (16.00 ET, 22.00 CEST) | Photo: Bryan Adams",
+         "description" : "With all five games drawn Vachier-Lagrave is leading the Sinquefield Cup with 5.5/8, half a point ahead of Caruana, So, and Dominguez heading into tomorrow's final round. At the same time American Grandmaster Wesley So has clinched 1st place in the 2021 Grand Chess Tour, securing a minimum of seven GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. Full report to follow. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
          "pubDate" : "Wed, 25 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - MVL keeps the lead"
+         "title" : "Sinquefield Cup - Wesley So clinches"
       },
       {
          "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2021-and-citations/",
          "pubDate" : "Thu, 05 Aug 2021 08:19:30 +0000",
          "title" : "ECF Awards 2021 and citations"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/98B7D4EE-1657-47C7-902C-41496E6E4439.png\" width=\"1600\" height=\"1050\" alt=\"\" /> </div> Dubai, the most populous city in the UAE, billed itself as a tourist destination for decades, and '<b>Time to Say Dubai</b>' slogan was used by the <a href=\"https://brand-history.com/austrian-airlines-osterreichische-luftverkehrs-ag/austrian-airlines/austrian-airlines-time-to-say-dubai-taglich-und-direkt-nach-dubai-austrian-we-fly-for-your-smile\">tourism industry</a> to promote the palmy hub with the world's tallest building, the Burj Khalifa. When Magnus Carlsen, the World Chess Champion, learned that he will be playing Ian Nepo ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-carlsens-tweet-turns-into-a-towel-and-a-slogan/",
-         "pubDate" : "Thu, 05 Aug 2021 06:07:47 +0000",
-         "title" : "Time to Say Dubai: a Slogan, a Tweet, a Towel"
       }
    ]
 }
