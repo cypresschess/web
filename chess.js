@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in 5th place with an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mvl-wins-2021-sinquefield-cup",
-         "pubDate" : "Thu, 26 Aug 2021 20:29:50 -0700",
-         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup"
+         "description" : "Maxime Vachier-Lagrave got clear first place at the Sinquefield Cup after all five games finished drawn in round 9 - i.e. none of the chasers managed to catch up with him in the last hurdle. Thanks to his performance in Saint Louis, MVL returned to the top 10 in the world ranking and grabbed second place in this year's Grand Chess Tour. Wesley So, Fabiano Caruana and Leinier Dominguez finished a half point back. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r9",
+         "pubDate" : "Fri, 27 Aug 2021 08:10:00 +0100",
+         "title" : "Maxime Vachier-Lagrave wins the 2021 Sinquefield Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85680551.cms\" />Indian Grandmaster S P Sethuraman won the Barcelona Open chess tournament title here while compatriot Karthikeyan Murali finished third.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-sethuraman-wins-barcelona-open-k-murali-takes-3rd-spot/articleshow/85680551.cms",
+         "pubDate" : "Fri, 27 Aug 2021 12:15:31 +0530",
+         "title" : "Indian GM Sethuraman wins Barcelona Open, K Murali takes 3rd spot"
+      },
+      {
+         "description" : "European Individual Chess Championship 2021 kicked off yesterday in Reykjavik, Iceland. The event was opened shortly before the start of the first round. Prime Minister of Iceland Mrs. Katr&iacute;n Jakobsd&oacute;ttir and the ECU Deputy President and Chief Organiser Mr. Gunnar Bjornsson addressed the players and made the 1st inaugural move in the game between GM Jones Gawain C&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/",
+         "pubDate" : "Fri, 27 Aug 2021 06:13:31 +0000",
+         "title" : "European Chess Championship 2021 kicked off in Reykjavik"
+      },
+      {
+         "description" : " Maxime Vachier-Lagrave drew his game with Shakhriyar Mamedyarov, but it wasn't for a lack of effort on Mamedyarov's part! Just kidding: the game barely lasted five minutes and repeated a draw that has been used at least seven times since it first showed up last December. The draw guaranteed that MVL would at worst finish in a tie for first, while it also increased the likelihood that Mamedyarov would finish third in the overall Grand Chess Tour standings, thereby picking up a $25,000 bonus. If Fabiano Caruana had won his last game (which was also the last game to finish), with Black against Richard Rapport, he would have tied for first with Vachier-Lagrave and would have let him leapfrog Ma",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/26/sinquefield-cup-round-9-five-more-draws-means-mvl-wins-the-t.html",
+         "pubDate" : "Fri, 27 Aug 2021 03:14:38 +0000",
+         "title" : "Sinquefield Cup, Round 9: Five More Draws Means MVL Wins the Tournament"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_N6KEyNAs4.jpg?itok=VCUInISU\" alt=\"\" /></a></div>",
@@ -90,12 +114,12 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 9"
       },
       {
-         "description" : "Going into the final round, Maxime Vachier-Lagrave is leading the Sinquefield Cup with 5&frac12;/8 points, half a point ahead of Fabiano Caruana, Wesley So and Leinier Dominguez. In the deciding round, MVL plays black against Shakhriyar Mamedyarov; Caruana has the black pieces against Richard Rapport; while So faces Dominguez with white. The action kicks off at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Thu, 26 Aug 2021 21:55:00 +0100",
-         "title" : "Sinquefield Cup - Live!"
+         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in 5th place with an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mvl-wins-2021-sinquefield-cup",
+         "pubDate" : "Thu, 26 Aug 2021 15:29:00 -0700",
+         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
@@ -106,20 +130,20 @@ news_feed (
          "title" : "U.S. Women's Championships: Stats and records"
       },
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. Gawain Jones, Gabrial Sargissian and David Navara are the rating favourites. | The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Thu, 26 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
-      },
-      {
          "description" : "The region of Saint Emilion near Bordeaux is renowned for producing some of the world's finest wines. Hundreds of hectares of vineyards belonging to different domains dominate the landscape. One of these enchanting wine estates was the venue of a rapid chess tournament held on August 22. The 77 participants played the nine-round event in the midst of giant metal tanks and hundreds of wine barrels at the Château Montaiguillon. | Pictured: Maxime Lagarde and Mathieu Cornette | Photo: Thibault Plaire",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rapid-chess-in-a-bordeauz-wine-chateau",
          "pubDate" : "Thu, 26 Aug 2021 15:10:00 +0100",
          "title" : "Rapid chess in a Bordeaux wine chateau"
+      },
+      {
+         "description" : "After a quick draw against Mamedyarov, Maxime Vachier-Lagrave won the 2021 Sinquefield Cup, securing clear first place after his closest rivals were unable to catch him in the ninth and final round. MVL is the first two-time clear winner of the event, having also taken first place in the 2017 edition. For his efforts, Vachier-Lagrave earns $90,000 in prize money, as well as a bonus $50,000 for finishing second in the overall Grand Chess Tour. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
+         "pubDate" : "Thu, 26 Aug 2021 14:55:00 +0100",
+         "title" : "Sinquefield Cup - MVL wins"
       },
       {
          "description" : "",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "Kurt Stein (1959-2021), R.I.P."
       },
       {
-         "description" : " When we left off with the Chessable Masters, part of the <a href=\"https://championschesstour.com/\">Meltwater Champions Chess Tour</a>, the preliminaries were over and the knockout stage has become. <a href=\"https://championschesstour.com/sensational-so-wins-chessable-masters-final-to-clinch-third-tour-title/\">The winner was Wesley So</a>, who defeated Le Quang Liem in the finals to win his third tour event and clinch a spot in the tour Finals. Here's how the knockout stage of the Chessable Masters worked out. In the quarters, So got in trouble on day 1 against Jorden Van Foreest, drawing game 1 and losing game 2 in just 19 moves. So is nothing if not resilient, and he fought back to win gam",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/more-ancient-history-so-wins-the-chessable-masters.html",
-         "pubDate" : "Fri, 20 Aug 2021 22:32:19 +0000",
-         "title" : "More Ancient History: So Wins the Chessable Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1272",
          "pubDate" : "Mon, 16 Aug 2021 10:39:59 +0000",
          "title" : "Hikaru Nakamura wins 2021 Saint Louis Rapid and Blitz"
-      },
-      {
-         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 14 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
-         "pubDate" : "Mon, 16 Aug 2021 10:26:41 +0000",
-         "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
       },
       {
          "description" : "Greg was born in 1947 and as far as we're aware has always lived in Norfolk and went to school in the area. He was...",
