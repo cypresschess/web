@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess, and it also provides arsenal for the tournament player. This issue offers 456 games from 3 major events, Candidates' Tournament, New in Chess Classic and the Russian Team Championship. It also includes games annotated by Ian Nepomniachtchi, Boris Gelfand and Anish Giri, to mention a few. The icing on the cake is a tribute to Timman who turned 70 this year, with 25 annotated games. Prof. Nagesh Havanur takes a look. | Photo: Lennart Ootes / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-202-review-nagesh-havanur",
+         "pubDate" : "Fri, 27 Aug 2021 21:00:00 +0100",
+         "title" : "CBM 202: Nepo wins, Caruana shines and a Timman special"
+      },
+      {
+         "description" : " Last week, we took a closer look at the principle of attacking and defending as it applies to the middle-game. The basis of this principles was; if attacking, you want to have more attackers than your opponent has defenders, and when defending, you want to have more defenders than your opponent has attackers. However, there <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\">A Foundation for Beginners Thirty Two</a> appeared first on <a rel=\"nofollow\" hr",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-two/",
+         "pubDate" : "Fri, 27 Aug 2021 18:24:24 +0000",
+         "title" : "A Foundation for Beginners Thirty Two"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at an instructive game in the London System. German GM Alexander Donchenko sacrificed his pawn on b7 to develop a massive initiative. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2160,22 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1257",
          "pubDate" : "Sat, 07 Aug 2021 07:46:34 +0000",
          "title" : "Liem clinches final place against So"
-      },
-      {
-         "description" : "By a score of 23-22, Northern California triumphed over Texas at the national tournaments of state chess champions held July 31-August 3. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Cherry Hill, New Jersey site, which also hosts the U.S. Open. | Photos: Alexey Root",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/northern-california-bests-texas",
-         "pubDate" : "Fri, 06 Aug 2021 20:00:00 +0100",
-         "title" : "Northern California beats Texas"
-      },
-      {
-         "description" : "Messi left Barcelona, Grealish is going to Manchester City for 100 million pounds, but how is a \"transfer\" working for chess players, and does playing in a chess league grant you a enough income? Lawrence Trent states, the coronavirus was troublesome for many chess players, relying on playing league games. What about Duda, winning the World Cup and receiving 110000 dollars? Besides the money business, Trent takes a close look at the two last World Cup games, and obviously Carlsen's game against Fedoseev, shouldn't be missed by anyone.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-karma-how-important-are-chess-leagues-and-carlsen-s-masterpiece",
-         "pubDate" : "Fri, 06 Aug 2021 17:00:00 +0100",
-         "title" : "News Review - Fedoseev's Karma, the importance of chess leagues, and Carlsen's masterpiece"
       }
    ]
 }
