@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1298",
+         "pubDate" : "Fri, 27 Aug 2021 07:57:04 +0000",
+         "title" : "Maxime Vachier-Lagrave wins Sinquefield Cup 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the overall winner of the <strong>Grand Chess Tour</strong>, netting $242,500, while <strong>Maxime Vachier-Lagrave</strong>, who came first in the concluding <strong>Sinquefield Cup</strong>, walks away with $206,250. In the absence of Magnus Carlsen there was less attention than usual, and presenting partner <strong>Kasparovchess</strong> could not fully compensate this. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mvl-wins-sinquefield-so-wins-gct/",
+         "pubDate" : "Fri, 27 Aug 2021 08:23:58 +0100",
+         "title" : "MVL wins Sinquefield, So wins GCT"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave got clear first place at the Sinquefield Cup after all five games finished drawn in round 9 - i.e. none of the chasers managed to catch up with him in the last hurdle. Thanks to his performance in Saint Louis, MVL returned to the top 10 in the world ranking and grabbed second place in this year's Grand Chess Tour. Wesley So, Fabiano Caruana and Leinier Dominguez finished a half point back. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,12 +130,12 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 9"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in 5th place with an...",
+         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in fifth place with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mvl-wins-2021-sinquefield-cup",
          "pubDate" : "Thu, 26 Aug 2021 15:29:00 -0700",
-         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup"
+         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup; So Bags Tour"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1288",
          "pubDate" : "Sun, 22 Aug 2021 21:12:32 +0000",
          "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> <a href=\"https://www.chess.com/article/view/pogchamps-4\">announced</a> another celebrity <strong>Twitch</strong> streamer tournament for 29 August - 12 September with $100,000 in prizes and fundraising for mental healthcare charity <strong>Rise Against the Disorder</strong>. The cryptocurrency trading platform <strong>Bitcoin</strong> is the presentation sponsor. One of the commentators will be <a href=\"https://www.chesstech.org/2021/beyond-the-norm/\">Zhou Qiyu</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/pogchamps-4-announced/",
-         "pubDate" : "Sun, 22 Aug 2021 21:30:11 +0100",
-         "title" : "Pogchamps 4 announced"
       },
       {
          "description" : "After the mayhem of the previous two days, round 5, the last before the free day, was relatively calmer at the Sinquefield Cup - though not entirely bereft of excitement. Fabiano Caruana lost a game he didn't really need to, and this left him half a point behind the lead, now rejoined by Maxime Vachier-Lagrave.",
@@ -2208,30 +2216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
          "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
          "title" : "Update in the Sicilian Four Knights Variation"
-      },
-      {
-         "description" : "An online slow play event for players rated 1400 (ECF OL standard) or below played on Chess.com by individual matchcard challenges at 6:30pm on Saturdays...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-national-1400-g60-15-returns/",
-         "pubDate" : "Fri, 06 Aug 2021 07:57:12 +0000",
-         "title" : "Online National 1400 (G60/15) returns"
-      },
-      {
-         "description" : " Last week, I mentioned that we would be examining defending against discovered and double discovered attacks/checks as well as looking at how to employ a double discovered check. I am going to present that to you next week because I want to address creating combinations, which are a sequence of moves that create tactical opportunities. <a href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Twenty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-twenty-nine/\">A Foundation for Beginners Twenty Nine</a> appeared first on <a r",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-twenty-nine/",
-         "pubDate" : "Fri, 06 Aug 2021 07:56:15 +0000",
-         "title" : "A Foundation for Beginners Twenty Nine"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1254",
-         "pubDate" : "Fri, 06 Aug 2021 07:45:52 +0000",
-         "title" : "Liem Quang Le stuns Aronian to put himself on brink of final"
       }
    ]
 }
