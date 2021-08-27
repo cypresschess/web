@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in 5th place with an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mvl-wins-2021-sinquefield-cup",
+         "pubDate" : "Thu, 26 Aug 2021 20:29:50 -0700",
+         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_N6KEyNAs4.jpg?itok=VCUInISU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-svidler-interview-round-9",
+         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
+         "title" : "2021 Sinquefield Cup: Peter Svidler Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-eCwdnypBV0.jpg?itok=x9NwIleT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-9",
+         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
+         "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Richard Rapport after Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-richard-rapport-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/skhVopS_2qk.jpg?itok=z40OwfYd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-richard-rapport-interview-round-9",
+         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
+         "title" : "2021 Sinquefield Cup: Richard Rapport Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 9 of the 2021 Sinquefield Cup. Despite an early congratulations, the commentators misunderstood the tiebreak rules, and MVL had not actually clinched first place. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ponce Health Sciences University's Dr. David Lenihan &amp; his son Connor Lenihan during Round 9 of the 2021 Sinquefield Cup. Ponce plans to build a medical school at Pruitt-Igoe. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-dr-david-connor-lenihan-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m5deJ67",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-dr-david-connor-lenihan-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Dr. David & Connor Lenihan Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Garry Kasparov during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-garry-kasparov-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WRJ6In_U0lw.jpg?itok=MJfbA2Ay\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-garry-kasparov-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Garry Kasparov Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRduk4_Gkoo.jpg?itok=SBYLNqwL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lQK6zIiEsOA.jpg?itok=6Y6LurDs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Grand Chess Tour Spokesman Michael Khodarkovsky during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-michael-khodarkovsky-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_Mx9U1YvSUs.jpg?itok=sFUwagzd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-michael-khodarkovsky-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Michael Khodarkovsky Interview | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-sam-shankland-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W3EOzONCcO0.jpg?itok=Y_S3hPbj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-sam-shankland-interview-round-9",
+         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
+         "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 9"
+      },
+      {
          "description" : "Going into the final round, Maxime Vachier-Lagrave is leading the Sinquefield Cup with 5&frac12;/8 points, half a point ahead of Fabiano Caruana, Wesley So and Leinier Dominguez. In the deciding round, MVL plays black against Shakhriyar Mamedyarov; Caruana has the black pieces against Richard Rapport; while So faces Dominguez with white. The action kicks off at 16.00 ET (22.00 CEST, 20.00 UTC). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,68 +170,12 @@ news_feed (
          "title" : "The Weekly Show: Wood Green Invitational"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fq5PYvD5R5o.jpg?itok=8hW-nSpO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-8",
-         "pubDate" : "Thu, 26 Aug 2021 02:28:41 +0000",
-         "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-sam-shankland-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jx8GlgO-Da0.jpg?itok=SO7Zg97J\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-sam-shankland-interview-round-8",
-         "pubDate" : "Thu, 26 Aug 2021 02:28:41 +0000",
-         "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Jeffery Xiong during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-jeffery-xiong-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w8jatfyrnkI.jpg?itok=qwSSDqbr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-jeffery-xiong-interview-round-8",
-         "pubDate" : "Thu, 26 Aug 2021 02:28:41 +0000",
-         "title" : "2021 Sinquefield Cup: Jeffery Xiong Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LXtK_8HeKL8.jpg?itok=l_IjSVSr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-8",
-         "pubDate" : "Thu, 26 Aug 2021 02:28:41 +0000",
-         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 8"
-      },
-      {
          "description" : " There weren't any decisive games, but it wasn't for want of effort from the players - or from a lack of opportunities. Nevertheless, all five games were drawn, and as a result Wesley So has clinched overall victory in the Grand Chess Tour. Maxime Vachier-Lagrave can't catch him, but he is guaranteed second in the tour and continues to lead the Sinquefield Cup with a round to go, half a point of ahead of So, Fabiano Caruana, and Leinier Dominguez. The game of the round involved the two players who starred in the previous paragraph: MVL and So. Vachier-Lagrave tried an almost brand-new idea for White in the 5.Re1 Anti-Berlin - one chosen against him, interestingly enough, by David Paravyan in",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
          "link" : "http://www.thechessmind.net/blog/2021/8/25/sinquefield-cup-round-8-mvl-continues-to-lead-the-tournament.html",
          "pubDate" : "Wed, 25 Aug 2021 23:47:23 +0000",
          "title" : "Sinquefield Cup, Round 8: MVL Continues to Lead the Tournament; So Clinches GCT Title after Five Draws"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/El-I9SdgvyY.jpg?itok=CViIt0e1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-8",
-         "pubDate" : "Wed, 25 Aug 2021 23:28:31 +0000",
-         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Alejandro Ramirez and Maurice Ashley discuss public park chess trash-talkers and hustlers over a game at Strauss Park in Grand Center Arts District, St. Louis, before the 2021 Sinquefield Cup. Illegal swindles, picturesque outdoors, secretly strong players. and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-hustlers-park-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-hustlers-park-parkside-chat",
-         "pubDate" : "Wed, 25 Aug 2021 23:28:31 +0000",
-         "title" : "2021 Sinquefield Cup: Hustlers in the Park | Parkside Chat"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 8 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5dfu8OU6deE.jpg?itok=IEw0qDoq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-8",
-         "pubDate" : "Wed, 25 Aug 2021 23:28:31 +0000",
-         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 8"
       },
       {
          "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
@@ -296,30 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r7",
          "pubDate" : "Wed, 25 Aug 2021 06:40:00 +0100",
          "title" : "Sinquefield Cup: Vachier-Lagrave grabs the sole lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 7 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dURUzKxYIcE.jpg?itok=bKoEV7LH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-7",
-         "pubDate" : "Wed, 25 Aug 2021 02:27:53 +0000",
-         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 7 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qWiEQ8SSzXE.jpg?itok=8kQNyfLx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-7",
-         "pubDate" : "Wed, 25 Aug 2021 02:27:53 +0000",
-         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 7 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KQpYMUPvBWM.jpg?itok=j9jd57yO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-7",
-         "pubDate" : "Wed, 25 Aug 2021 02:27:53 +0000",
-         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 7"
       },
       {
          "description" : "A quick win by GM Maxime Vachier-Lagrave over GM Jeffery Xiong in round seven of the 2021 Sinquefield Cup put the French star on top of the leaderboard with 5/7. This is the first time in the entire tournament that we&#39;re having a sole leader. GM...",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-10",
          "pubDate" : "Tue, 10 Aug 2021 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Short's immortal king walk"
-      },
-      {
-         "description" : "NM Ryo Chen (USA) won the 2021 ChessKid Youth Speed Chess Championship after defeating CM Lev Zverev (Russia) on Saturday, July 31! This annual event is the most prestigious on the ChessKid calendar, featuring only the top 10-and-under chess super...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ryo-chen-wins-2021-chesskid-youth-speed-chess-championship",
-         "pubDate" : "Tue, 10 Aug 2021 08:41:03 -0700",
-         "title" : "NM Ryo Chen Wins 2021 ChessKid Youth Speed Chess Championship"
       },
       {
          "description" : " Things I did not write on my census form <ul style=\"text-align: left;\"><li>Religion: I worship Caissa</li><li>Job: World Champion</li><li>Hours worked last week: 0</li><li>Type of dwelling: A giant rook</li><li>Number of bedrooms: 64</li><li>How did you travel to work: On horseback</li><li>Where were you born: In a hospital</li><li>Highest level of educational qualification: GM</li></ul> ",
