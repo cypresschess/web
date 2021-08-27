@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at an instructive game in the London System. German GM Alexander Donchenko sacrificed his pawn on b7 to develop a massive initiative. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-the-london-system",
+         "pubDate" : "Fri, 27 Aug 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Beating the London System"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Liviu-Dieter Nisipeanu vs Tor Fredrik Kaasen from round 1 (&frac12;-&frac12;)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Fri, 27 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : " Frenchman's opening skills impress at prestigious Sinquefield Cup as all games drawn in three of the last four rounds Maxime Vachier-Lagrave, 30, France's top player and the world No 10, edged out three US rivals by half a point on Thursday night to capture the $90,000 first prize at America's most important international event, the annual Sinquefield Cup in St Louis. The Sinquefield had begun promisingly with a wave of attacking chess in the first three rounds, but then subsided as all five games in rounds six, eight and nine were drawn. <a href=\"https://www.chessbomb.com/arena/2021-grand-chess-tour-sinquefield-cup/09-Mamedyarov_Shakhriyar-Vachier_Lagrave_Maxime\">Vachier-Lagrave's halved f",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/aug/27/chess-maxime-vachier-lagrave-edges-us-rivals-st-louis-sinquefield-cup-amid-glut-draws",
+         "pubDate" : "Fri, 27 Aug 2021 14:34:23 +0000",
+         "title" : "Chess: Vachier-Lagrave edges US rivals in St Louis amid glut of draws"
+      },
+      {
+         "description" : "In an exclusive interview with Tatiana Flores, 6-time French women's champion Sophie Milliet talks about the benefits chess has brought her, some of her most important tournaments and games, her efforts to support female players in chess, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-im-sophie-milliet",
+         "pubDate" : "Fri, 27 Aug 2021 15:00:00 +0100",
+         "title" : "Interview with IM Sophie Milliet"
+      },
+      {
+         "description" : "Team Ludwig/Hess has won the 2021 edition of Twitch Rivals Chess: Hand &#38;amp; Brain. The duo defeated Team Sardoche/Blitzstream 2-0 in the final of the championship bracket to clinch the $5,000 first prize as well as a year&#39;s supply of Doritos. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ludwig-hess-win-2021-twitch-rivals-chess-hand-brain",
+         "pubDate" : "Fri, 27 Aug 2021 06:27:34 -0700",
+         "title" : "Team Ludwig/Hess Wins 2021 Twitch Rivals Chess Hand & Brain"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1890,14 +1930,6 @@ news_feed (
          "title" : "Starting Wednesday: St. Louis Rapid & Blitz"
       },
       {
-         "description" : "FIDE has recently announced that the 2021 FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss, initially planned to take place at Isle of Man, will move to Riga. The two events are part of the qualification cycle for the World Chess Championship, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-chesscom-grand-swiss-womens-grand-swiss-riga",
-         "pubDate" : "Tue, 10 Aug 2021 10:30:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss And Women's Grand Swiss Move To Riga"
-      },
-      {
          "description" : "Svitlana sets up a classic position between Nigel Short and Jan Timman. But before we start with the famous position, we derail a bit to the Alekhine Opening. It turns out, Svitlana Demchenko has a genuinely good score when playing the Alekhine Defense as Black. After the popular example, Svitlana shows us a similar technic from one of her own games, which she played in her chess club in Ottawa.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,46 +2176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-fedoseev-s-karma-how-important-are-chess-leagues-and-carlsen-s-masterpiece",
          "pubDate" : "Fri, 06 Aug 2021 17:00:00 +0100",
          "title" : "News Review - Fedoseev's Karma, the importance of chess leagues, and Carlsen's masterpiece"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1255",
-         "pubDate" : "Fri, 06 Aug 2021 15:27:24 +0000",
-         "title" : "Duda dominates in Sochi World Cup"
-      },
-      {
-         "description" : "In the first set of the Chessable Masters semifinals, Le Quang Liem and Wesley So took the lead in their matches against Levon Aronian and Vladislav Artemiev respectively. Le won twice with the white pieces, while So scored a single victory against his Russian opponent. Expert analysis by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-6",
-         "pubDate" : "Fri, 06 Aug 2021 16:05:00 +0100",
-         "title" : "Chessable Masters: Le wins first set against Aronian"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at games from the Chessable Masters Tournament and enjoys and admires the genius of Magnus Carlsen. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tactics-from-the-chessable-masters-and-magnus-carlsen-cuts-loose",
-         "pubDate" : "Fri, 06 Aug 2021 16:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Tactics from the Chessable Masters and the genius of Magnus Carlsen"
-      },
-      {
-         "description" : " When on a losing streak it is tempting to do something outrageous or the direct opposite of what you are currently doing. I see this a lot with young chess players, who play sound chess but lose, so decide unsound chess is the way to go. I even fell into this trap when I was starting out, but it turned out my losses were quicker, and more horrible. It also explains why 'suicide' chess is so popular, as kids who get all their pieces captured think that losing them by accident is the equivalent to losing them on purpose (Narrator: No it isn't). Of course the blame does not with the choice of strategy, but in not understanding the strategy. The \"what have I got to lose\" approach may work in po",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/the-opposite-strategy-does-not-work.html",
-         "pubDate" : "Fri, 06 Aug 2021 13:20:00 +0000",
-         "title" : "The \"opposite\" strategy does not work"
-      },
-      {
-         "description" : "Gata Kamsky won the Grandmaster Triathlon of the Biel Chess Festival. But there were many more winners: the Master Open was won by Salem Saleh in a photo finish. The best woman player was Vaishali. In the Amateur Open, the juniors dominated and the youngest on the podium was eleven-year-old Neeraj Harish from the USA. On the rest day, the players got insights into parts of life in Switzerland. | Photos: Schachfestival Biel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2021-all-winners",
-         "pubDate" : "Fri, 06 Aug 2021 13:23:44 +0100",
-         "title" : "Biel Chess Festival 2021: All winners"
       }
    ]
 }
