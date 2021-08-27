@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-08-03  - 08-24","21","<a href=http://www.uschess.org/msa/XtblMain.php?202108243802 target=' blank'>AUGTUESNIGHTSWISS G90;D5 1-ROUND PE</a>",
 "HOUSTON","2021-08-21  - 08-22","195","<a href=http://www.uschess.org/msa/XtblMain.php?202108222962 target=' blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2021</a>",
 "SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target=' blank'>FBCC HOT DOG AUGUST 2021</a>",
 "HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target=' blank'>AUGSUNSWISSG60D5815</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2020-07-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202007032572 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202006272512 target=' blank'>SR CHESSKNIGHTS 06272020</a>",
 "SPRING","2020-06-27","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006270902 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-06-20","17","<a href=http://www.uschess.org/msa/XtblMain.php?202006209422 target=' blank'>SR CHESSKNIGHTS 06202020</a>",
 ]);
