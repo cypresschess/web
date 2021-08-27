@@ -2184,38 +2184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-chess-festival-2021-all-winners",
          "pubDate" : "Fri, 06 Aug 2021 13:23:44 +0100",
          "title" : "Biel Chess Festival 2021: All winners"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess is holding the 'Endgames Masterclass Series' with the former FIDE World Champion Rustam Kasimdzhanov. On August 22, Rustam will hold his <a href=\"https://masterclass.worldchess.com/kasimdzhanov-aug\">second Masterclass</a>. But why did he decide to zoom in on the endgames? And how, in his opinion, the current World Champion, Magnus Carlsen, managed to dominate chess for the a decade? Find out from his short interview below. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Chirila-Kasimdzhanov-Caruana.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> <div class=\"e2-text-caption\">Kasimdzhanov was Fabiano Caruana's second during the 2018 World Ch",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/what-does-rustam-kasimdzhanov-say-about-endgames/",
-         "pubDate" : "Fri, 06 Aug 2021 11:11:46 +0000",
-         "title" : "What does Rustam Kasimdzhanov say about endgames?"
-      },
-      {
-         "description" : " <p class=\"lead\">Rustam Kasimdzhanov is an Uzbek GM, former FIDE World Champion (2004-05) and former Asian champion (1998). Besides his professional career as a chess player, Rustam is also known as one of the best seconds - he was a second for former World Champion Viswanathan Anand and Caruana's second during the 2018 World Chess Championship match against Magnus Carlsen. Rustam is also a trainer - he worked with both Sergey Karjakin in the Candidates Tournament of 2014, and Fabiano Caruana in the Candidates Tournament 2016. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nikolai-Dunaevsky-Agon.jpeg\" width=\"1600\" height=\"1066\" alt=\"\" /> </div> We had the opport",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rustam-kasimdzhanov-a-small-talk-with-a-former-fide-world-cham-2/",
-         "pubDate" : "Fri, 06 Aug 2021 11:08:04 +0000",
-         "title" : "Rustam Kasimdzhanov: A small talk with a former FIDE World Champion"
-      },
-      {
-         "description" : " Jan-Krzysztof Duda, the 23-year-old who last year ended the world champion's 125-game unbeaten sequence, went on to win Thursday's final against Russia's Sergey Karjakin Magnus Carlsen has never won the biennial World Cup knockout, and the No 1 was eliminated in Tuesday's semi-finals of its $190,000 2021 renewal in Sochi. Poland's Jan-Krzysztof Duda, 23, again proved himself a nemesis on big occasions for Norway's world champion, and went on to win the tournament. Last autumn, Duda ended Carlsen's record 125-game unbeaten run and was congratulated by his namesake Andrzej Duda, president of Poland. This week, the chess-playing Duda did still better as he defeated Sergey Karjakin, the 2016 ti",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/aug/06/chess-carlsen-knocked-out-of-world-cup-semi-as-polands-duda-emerges",
-         "pubDate" : "Fri, 06 Aug 2021 10:58:26 +0000",
-         "title" : "Chess: Carlsen knocked out of World Cup semi as Poland's Duda emerges"
-      },
-      {
-         "description" : "In ChessBase Magazine #201 (May/June 2021) IM Robert Ris presented an interesting line in the Sicilian Four Knights Variation: 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 and now 9...Rb8. The rook move is an interesting alternative to the deeply analysed main line 9...Qb6. Meanwhile, Shakhriyar Mamedyarov in particular has tried 9...Rb8 in a number of games, and Levon Aronian recently came up with an entirely new move: 9...Bb7. In the current issue of ChessBase Magazine Extra #202 Robert Ris analyses these new developments on a video. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/update-in-the-sicilian-four-knights-variation",
-         "pubDate" : "Fri, 06 Aug 2021 11:57:52 +0100",
-         "title" : "Update in the Sicilian Four Knights Variation"
       }
    ]
 }
