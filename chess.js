@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1299",
+         "pubDate" : "Fri, 27 Aug 2021 21:15:55 +0000",
+         "title" : "Online Olympiad: Division 3 starts smoothly"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess, and it also provides arsenal for the tournament player. This issue offers 456 games from 3 major events, Candidates' Tournament, New in Chess Classic and the Russian Team Championship. It also includes games annotated by Ian Nepomniachtchi, Boris Gelfand and Anish Giri, to mention a few. The icing on the cake is a tribute to Timman who turned 70 this year, with 25 annotated games. Prof. Nagesh Havanur takes a look. | Photo: Lennart Ootes / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
