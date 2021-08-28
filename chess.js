@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sat, 28 Aug 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Malcolm Pein playing white against Gunnar Erik Gudmundsson (1-0)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Sat, 28 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The Certificates for National Age Group, National Schools, Women &#38; Junior Girls are now available for download. You can download the certificate either by entering",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-championships/",
+         "pubDate" : "Sat, 28 Aug 2021 15:27:32 +0000",
+         "title" : "CERTIFICATES OF NATIONAL CHAMPIONSHIPS"
+      },
+      {
+         "description" : " Share!62 Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
+         "pubDate" : "Sat, 28 Aug 2021 12:05:57 +0000",
+         "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave was the winner of the 2021 Sinquefield Cup, after the last two rounds of the event failed to produce a decisive game, thus leaving the standings unaltered. But Maxime's failure to beat Wesley So in Round 8 meant that the latter was assured clear first place in the Grand Chess Tour overall standings, with Maxime finishing close behind in second place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mvl-wins-sinquefield-cup-so-claims-grand-chess-tour",
+         "pubDate" : "Sat, 28 Aug 2021 12:00:52 +0000",
+         "title" : "MVL wins Sinquefield Cup | So takes Grand Chess Tour"
+      },
+      {
+         "description" : "AICF Delhi Office S.No Date Holidays 1 January 26 Republic Day 2 March 11 Maha Shivrartri 3 March 29 Holi 4 April 21 Rama Navami",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/list-of-public-holidays-2021/",
+         "pubDate" : "Sat, 28 Aug 2021 11:45:45 +0000",
+         "title" : "List of Public Holidays 2021"
+      },
+      {
+         "description" : " The Aimchess US Rapid is the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid takes place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/aimchess-us-rapid-2021",
+         "pubDate" : "Sat, 28 Aug 2021 14:31:00 +0400",
+         "title" : "Aimchess US Rapid 2021 - Games and Results"
+      },
+      {
          "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -362,7 +418,7 @@ news_feed (
          "title" : "Chess.com Releases New Daily Puzzle Page"
       },
       {
-         "description" : " Share!18 Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/",
@@ -1802,14 +1858,6 @@ news_feed (
          "title" : "Chess: Keith Arkell captures online British title after rival is disqualified"
       },
       {
-         "description" : "16-year-old Vincent Keymer leads on 3.5/4 after Day 1 of the Kramnik Challenge, half a point ahead of Christopher Yoo, Awonder Liang and Nodirbek Abdusattorov. Vincent's only draw was in fact a great escape from a seemingly hopeless position against Polina Shuvalova, and a good day for the female participants saw Sarasadat Khademalsharieh, Lei Tingjie and Dinara Saduakassova all finish on a plus score, just a point behind Keymer.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kramnik-challenge-1-keymer-grabs-the-early-lead",
-         "pubDate" : "Fri, 13 Aug 2021 06:50:35 +0000",
-         "title" : "Kramnik Challenge 1: Keymer grabs the early lead"
-      },
-      {
          "description" : " Last week, we looked at creating simple combinations, and examining some basic ideas that help you set your tactics up. I highly recommend that you invest in some tactics oriented computer apps/software programs, especially those that have two and three move combination problems or puzzles yo solve. You will greatly improve your tactical skills by <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\">A Foundation for Beginners Thirty</a> appeared first on <a rel=\"nofo",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1898,14 +1946,6 @@ news_feed (
          "title" : "2021 STL Rapid & Blitz: Day 1 Recap"
       },
       {
-         "description" : "Please be informed that due to Independence Day , the AICF Delhi office shall remain closed from today i.e 12.08.2021 ,1500 hrs to 15.08.2021.&#160; Office",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-office-closed-till-15-08-2021/",
-         "pubDate" : "Thu, 12 Aug 2021 07:39:01 +0000",
-         "title" : "AICF office closed till 15.08.2021"
-      },
-      {
          "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez (pictured) finished the day sharing the lead on 5/6 points (wins are worth 2 points in the rapid section of the event). Wesley So and Hikaru Nakamura stand a point behind. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,14 +1984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sevian-wins-august-10-titled-tuesday",
          "pubDate" : "Wed, 11 Aug 2021 10:33:20 -0700",
          "title" : "Sevian Wins August 10 Titled Tuesday"
-      },
-      {
-         "description" : "Ram S Krishnan of Tamilnadu becomes the Online National Champion after finishing at the pole position with 10 points in the Online National Amateur Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/ram-s-krishnan-nimmy-online-national-amateur-champions/",
-         "pubDate" : "Wed, 11 Aug 2021 16:24:00 +0000",
-         "title" : "Ram S Krishnan & Nimmy online national amateur champions"
       },
       {
          "description" : "The Riga Technical University Open is taking place on August 9-15 at the international exhibition centre Kipsala in the Latvian capital. The tournament sees 176 players fighting for a €17,100 prize fund. German GM Alexander Donchenko is the top seed, and is followed closely by nine other 2600+ rated players, including six grandmasters hailing from India. After three rounds, nine players still have a perfect score.",
