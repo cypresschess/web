@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-highlights-part-2",
          "pubDate" : "Sat, 07 Aug 2021 21:15:00 +0100",
          "title" : "World Cup Highlights - Part 2"
-      },
-      {
-         "description" : "Le Quang Liem and Wesley So made it into the finals of the Chessable Masters after eliminating Levon Aronian and Vladislav Artemiev respectively. Le's match went to Armageddon, while So drew the second set after having won the first 4-game mini-match. Expert analyses by GM Karsten M&uuml;ller. | Photo: Champions Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-7",
-         "pubDate" : "Sat, 07 Aug 2021 17:45:00 +0100",
-         "title" : "Chessable Masters: Le and So in the final"
       }
    ]
 }
