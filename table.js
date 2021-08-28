@@ -1,6 +1,9 @@
 jtable([
+"CYPRESS","2021-08-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108274302 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2021-08-27","17","<a href=http://www.uschess.org/msa/XtblMain.php?202108274252 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-03  - 08-24","21","<a href=http://www.uschess.org/msa/XtblMain.php?202108243802 target=' blank'>AUGTUESNIGHTSWISS G90;D5 1-ROUND PE</a>",
 "HOUSTON","2021-08-21  - 08-22","195","<a href=http://www.uschess.org/msa/XtblMain.php?202108222962 target=' blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2021</a>",
+"CYPRESS","2021-08-20","28","<a href=http://www.uschess.org/msa/XtblMain.php?202108204012 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target=' blank'>FBCC HOT DOG AUGUST 2021</a>",
 "HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target=' blank'>AUGSUNSWISSG60D5815</a>",
 "SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target=' blank'>DER SPRINGERS AUGUST 2021</a>",
@@ -196,7 +199,4 @@ jtable([
 "SPRING","2020-07-10","15","<a href=http://www.uschess.org/msa/XtblMain.php?202007105592 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-07-04","19","<a href=http://www.uschess.org/msa/XtblMain.php?202007042872 target=' blank'>SR CHESSKNIGHTS 07042020</a>",
 "SPRING","2020-07-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202007042862 target=' blank'>INDEPENDENCE DAY</a>",
-"SPRING","2020-07-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202007032572 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202006272512 target=' blank'>SR CHESSKNIGHTS 06272020</a>",
-"SPRING","2020-06-27","16","<a href=http://www.uschess.org/msa/XtblMain.php?202006270902 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
