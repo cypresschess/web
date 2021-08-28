@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championship-2021/",
+         "pubDate" : "Sat, 28 Aug 2021 10:01:38 +0000",
+         "title" : "British Chess Championship 2021"
+      },
+      {
+         "description" : "\"One of my biggest wishes in recent years was to host a tournament and contribute to the development of chess in our region and our country (Ukraine),\" writes Anna Muzychuk. She and her younger sister Mariya, who was the 2015 Women's World Chess Champion, succeeded in holding the first Muzychuk Sisters' Cup. Pictorial report from Anna.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/first-muzychuk-sisters-cup",
+         "pubDate" : "Sat, 28 Aug 2021 11:00:00 +0100",
+         "title" : "First Muzychuk Sisters' Cup"
+      },
+      {
+         "description" : "The Dada Movement, which arose during the First World War, represented a complete break with conventional conceptions of aesthetics. A key member and link to chess was Marcel Duchamp. Dada was officially launched in 1916 at the Cafe Voltaire in Zurich by poets and artists, such as Tristan Tzara and Hans Arp, and was a direct reaction to the mass slaughter, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dada-surrealism-and-the-bongcloud-attack/",
+         "pubDate" : "Sat, 28 Aug 2021 08:00:13 +0000",
+         "title" : "Dada, Surrealism and the Bongcloud Attack"
+      },
+      {
          "description" : "In the diagram position, White has two aggressive knights on the e-file and a mobile queen behind them - a constellation that is just crying out for a combination. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2176,38 +2200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-7",
          "pubDate" : "Sat, 07 Aug 2021 17:45:00 +0100",
          "title" : "Chessable Masters: Le and So in the final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1256",
-         "pubDate" : "Sat, 07 Aug 2021 11:00:00 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss - Important Announcement"
-      },
-      {
-         "description" : "He was the greatest player that the Caribbean Islands have ever produced. He was born in Havana in 1888 and learnt chess at the age of four, amazingly with no formal tuition. Instead, the infant Jos&eacute; Ra&uacute;l Capablanca (1888-1942) picked up the moves by watching his father play with friends. This was just about the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/fountain-of-youth-chess-prodigies-from-capablanca-to-mishra/",
-         "pubDate" : "Sat, 07 Aug 2021 08:00:14 +0000",
-         "title" : "Fountain of youth: chess prodigies from Capablanca to Mishra "
-      },
-      {
-         "description" : "In the diagram position 23.Nxf6! gxf6 leads to a winning advantage for White. Knowing this, can you remove possible obstacles on the way?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/make-it-work",
-         "pubDate" : "Sat, 07 Aug 2021 09:00:00 +0100",
-         "title" : "Make it work!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1257",
-         "pubDate" : "Sat, 07 Aug 2021 07:46:34 +0000",
-         "title" : "Liem clinches final place against So"
       }
    ]
 }
