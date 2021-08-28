@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1301",
+         "pubDate" : "Sat, 28 Aug 2021 21:07:18 +0000",
+         "title" : "Venezuela dominates in Division 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1300",
+         "pubDate" : "Sat, 28 Aug 2021 19:28:32 +0000",
+         "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1258",
          "pubDate" : "Sun, 08 Aug 2021 08:20:19 +0000",
          "title" : "Wesley So blows away Liem Quang Le in first leg of final"
-      },
-      {
-         "description" : "The 2021 FIDE World Cup concluded on August 5 with Jan-Krzysztof Duda defeating Sergey Karjakin by a score of 1&frac12;-&frac12; in the finals. Joshua Doknjas takes a look at five interesting games from the second half of the event, focussing on the performances of the two finalists. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-highlights-part-2",
-         "pubDate" : "Sat, 07 Aug 2021 21:15:00 +0100",
-         "title" : "World Cup Highlights - Part 2"
       }
    ]
 }
