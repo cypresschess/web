@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has two aggressive knights on the e-file and a mobile queen behind them - a constellation that is just crying out for a combination. Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/poised-to-strike",
+         "pubDate" : "Sat, 28 Aug 2021 09:00:00 +0100",
+         "title" : "Poised to strike"
+      },
+      {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, begins on Saturday. This is the final qualifying tournament to the grand finale, which is scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-preview",
+         "pubDate" : "Sat, 28 Aug 2021 08:00:00 +0100",
+         "title" : "Carlsen heads impressive lineup at Aimchess US Rapid"
+      },
+      {
+         "description" : " With the ACT currently under Covid restrictions, the ACT Junior Chess League is organising the Under 16 Championship as an online, Zoom supervised event. Borrowing heavily from the Online Olympiad (and similar international tournaments), 32 players are taking part in the tournament. It is a 7 round swiss with a time limit of 30m+30s. As one of the arbiters, I can say it has gone pretty well. The two main issues are essentially the same as in any normal junior event, with the players taking too little time over their moves, and parents not understanding the tournament process. The quality of play is a little mixed (mainly do to the rushed moves), but when they slow down, the games can be qui",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/act-under-16s.html",
+         "pubDate" : "Sat, 28 Aug 2021 05:26:00 +0000",
+         "title" : "ACT Under 16's"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
