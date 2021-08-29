@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sun, 29 Aug 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Levan Pantsulaia playing white against Hilmir Freyr Heimisson (1-0)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Sun, 29 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-vantika-agrawal/",
+         "pubDate" : "Sun, 29 Aug 2021 15:12:27 +0000",
+         "title" : "Congratulations Vantika Agrawal"
+      },
+      {
+         "description" : "The Indian players are making the mark after over the board events are kick started at Europe. Grandmaster S P Sethuraman won the prestigious Barcelona",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-sethuraman-iniyan/",
+         "pubDate" : "Sun, 29 Aug 2021 15:00:34 +0000",
+         "title" : "Congratulations Sethuraman & Iniyan"
+      },
+      {
+         "description" : "A special kind of magic trick is to turn one thing into another - a.k.a. a switcheroo. In endgame studies, one such transformation is turning a stalemate into a checkmate. Columnist Siegfried Hornecker shows phenomenal examples which made use of this fantastic 'magic trick'. | Pictured: Ernest Pogosyants",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-08",
+         "pubDate" : "Sun, 29 Aug 2021 16:00:00 +0100",
+         "title" : "Stalemate? Checkmate!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85739307.cms\" />Levon Aronian kicked off his Aimchess US Rapid campaign in style on Saturday. The Armenian star took the lead in the three-day prelim stage with a superb unbeaten 4/5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-us-rapid-aronian-takes-lead-on-day-1/articleshow/85739307.cms",
+         "pubDate" : "Sun, 29 Aug 2021 19:34:43 +0530",
+         "title" : "Aimchess US Rapid: Aronian takes lead on Day 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85738182.cms\" /> Grandmaster P Iniyan won the Noisiel International Open tournament in Noisiel, Paris on Saturday. The event, held from August 23 to 28, saw Iniyan score 8 points out of 9 rounds. GM Solodovnichenko Yuri of Ukraine finished second with 7.5 points while French IM Kambrath Yannick was third.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pleased-with-my-performance-at-noisiel-chess-meet-iniyan/articleshow/85738182.cms",
+         "pubDate" : "Sun, 29 Aug 2021 18:30:08 +0530",
+         "title" : "Pleased with my performance at Noisiel chess meet: Iniyan"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85738116.cms\" /> Indian Grandmaster P Iniyan won the Noisiel International Open 2021 Chess Tournament here, scoring eight points from nine rounds in the Classical event after securing the top prize in the Blitz section. He finished the event with a win over Sebastian Pucher in the ninth round late on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-noisiel-international-open-chess-tournament/articleshow/85738116.cms",
+         "pubDate" : "Sun, 29 Aug 2021 18:25:21 +0530",
+         "title" : "Indian GM Iniyan wins Noisiel International Open tournament"
+      },
+      {
+         "description" : "Levon Aronian lived dangerously as he beat Liem Quang Le, Eric Hansen and Maxime Vachier-Lagrave to take the sole lead with 4/5 after Day 1 of the Aimchess US Rapid, the penultimate event on the Meltwater Champions Chess Tour. Magnus Carlsen got off to a dream start by beating Wesley So, but ended half a point behind Levon after getting mated by Alireza Firouzja. MVL has work to do to qualify, as does World Cup winner Jan-Krzysztof Duda, who lost his first two games and remains winless at the bottom of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-1-aronian-leads-after-firouzja-mates-carlsen",
+         "pubDate" : "Sun, 29 Aug 2021 12:16:26 +0000",
+         "title" : "Aimchess US Rapid 1: Aronian leads after Firouzja mates Carlsen"
+      },
+      {
          "description" : "The Sinquefield Cup concluded on August 26 with Maxime Vachier-Lagrave scoring 6/9 points and winning clear first ahead of three Americans: Fabiano Caruana, Leinier Dominguez, and Wesley So. So scored 2&frac12;/3 in the early rounds and played a very solid tournament, which brought him the 2021 Grand Chess Tour title. Joshua Doknjas takes a look at 4 interesting games from the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,14 +1898,6 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz: Caruana beats Dominguez and So, leads"
       },
       {
-         "description" : "Fabiano Caruana ended Day 2 of the St. Louis Rapid and Blitz as the sole leader, despite beginning the day by suffering a heavy loss to an inspired Sam Shankland, who then went on to crush Shakhriyar Mamedyarov. Fabiano beat and leapfrogged leader Leinier Dominguez in the second round of the day, before becoming the beneficiary of a huge blunder by Wesley So in Round 6. It was a strange day when even relative outsiders such as Jeffery Xiong and Liem Quang Le missed great chances to pick up wins.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-caruana-recovers-from-shankland-blow",
-         "pubDate" : "Fri, 13 Aug 2021 15:15:58 +0000",
-         "title" : "STL Rapid & Blitz 2: Caruana recovers from Shankland blow"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85301520.cms\" />Indian Grandmaster Vidit Gujrathi has qualified for the FIDE Grand Swiss league which will be held in Riga, Latvia from October 25 to November 8. The Nashik-based player has also qualified for the FIDE Grand Prix 2022 after reaching the top eight at the recently-concluded Chess World Cup 2021.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1952,22 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/canberra-in-lockdown-12-august-2021.html",
          "pubDate" : "Thu, 12 Aug 2021 11:37:00 +0000",
          "title" : "Canberra in lockdown - 12 August 2021"
-      },
-      {
-         "description" : "Date : 03 05 September 2021 Playing Platform : Tornelo Eligibility : Only for players from North-Eastern States Entry Fee : 200/- Online Entry",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/north-eastern-states-online-chess-championship-2021/",
-         "pubDate" : "Thu, 12 Aug 2021 10:18:14 +0000",
-         "title" : "NORTH - EASTERN STATES ONLINE CHESS CHAMPIONSHIP 2021"
-      },
-      {
-         "description" : "All India Chess Federation wishes a very happy birthday to the Chairman of AICF Trainers' Committee evergreen Praveen Thipsay, the multiple time national champion with",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-gm-praveen-thipsay/",
-         "pubDate" : "Thu, 12 Aug 2021 10:05:01 +0000",
-         "title" : "Happy Birthday GM Praveen Thipsay"
       },
       {
          "description" : "",
@@ -2216,22 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
          "pubDate" : "Sun, 08 Aug 2021 16:50:00 +0100",
          "title" : "Chessable Masters Finals - Wesley So prevails"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 39th instalment of his ChessBase show \"Understanding before Moving\", Herman takes another look at critical moves, this time with the help of a fine game by the young Garry Kasparov. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-38-the-critical-move-2",
-         "pubDate" : "Sun, 08 Aug 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 39: The Critical Move (2)"
-      },
-      {
-         "description" : "Wesley So convincingly won the first of the finals at the Chessable Masters by twice beating Le Quang Liem after launching successful sacrificial attacks. Meanwhile, Levon Aronian and Vladislav Artemiev drew the first set in the match for third place. | Photo: Meltwater Champions Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-8",
-         "pubDate" : "Sun, 08 Aug 2021 13:15:00 +0100",
-         "title" : "Chessable Masters: So on the attack"
       }
    ]
 }
