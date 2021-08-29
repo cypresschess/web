@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After three rounds, seven players still have a perfect score, including 18-year-old Serbian grandmaster Velimir Ivic, who last month had a remarkable performance at the World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
+         "pubDate" : "Sun, 29 Aug 2021 06:50:00 +0100",
+         "title" : "European Championship (R3): Games and results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,20 +26,12 @@ news_feed (
          "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST).",
+         "description" : "Levon Aronian's super summer got even hotter today as he kicked off his Aimchess US Rapid campaign in style. The Armenian star took the lead in the three-day prelim stage with a superb unbeaten 4/5. Aronian has already all-but secured his place in next month's Meltwater Champions Chess Tour Final, but the 38-year-old is still gunning for victory in the ninth and last leg. | Full report to follow shortly",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Sat, 28 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Malcolm Pein playing white against Gunnar Erik Gudmundsson (1-0)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Sat, 28 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
+         "title" : "Aimchess US Rapid - Aronian leads"
       },
       {
          "description" : "The Certificates for National Age Group, National Schools, Women &#38; Junior Girls are now available for download. You can download the certificate either by entering",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-im-sophie-milliet",
          "pubDate" : "Fri, 27 Aug 2021 15:00:00 +0100",
          "title" : "Interview with IM Sophie Milliet"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After two rounds, 21 players still have a perfect score. The competition is about to become fiercer, as the players fight to get one of the 23 spots at the FIDE World Cup that are in offer. | Pictured: Gawain Jones playing black against Aydin Suleymanli (the game ended in a draw)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Fri, 27 Aug 2021 14:50:00 +0100",
-         "title" : "European Championship (R2): Games and results"
       },
       {
          "description" : "Team Ludwig/Hess has won the 2021 edition of Twitch Rivals Chess: Hand &#38;amp; Brain. The duo defeated Team Sardoche/Blitzstream 2-0 in the final of the championship bracket to clinch the $5,000 first prize as well as a year&#39;s supply of Doritos. ...",
