@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup concluded on August 26 with Maxime Vachier-Lagrave scoring 6/9 points and winning clear first ahead of three Americans: Fabiano Caruana, Leinier Dominguez, and Wesley So. So scored 2&frac12;/3 in the early rounds and played a very solid tournament, which brought him the 2021 Grand Chess Tour title. Joshua Doknjas takes a look at 4 interesting games from the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-highlights",
+         "pubDate" : "Sun, 29 Aug 2021 11:00:00 +0100",
+         "title" : "Sinquefield Cup Highlights"
+      },
+      {
+         "description" : " Division 3 of the 2021 FIDE Online Olympiad is well underway, with the final Pool matches being played today. As mentioned in my earlier preview, a number of teams are string to field GM's, although in the Scotland v Zambia match, it was an IM that triumphed. <br /> <br /> <b>Jere,Daniel (2397) - Aagaard,Jacob (2502) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (3.4), 27.08.2021 <script>new PgnViewer( { boardName: \"game1266\", movesFormat: \"default\", pgnString:'1.c4 e6 2.g3 d5 3.Bg2 c6 4.Nf3 Nf6 5.b3 a5 6.Nc3 d4 7.Na4 c5 8.O-O Nc6 9.e3 e5 10.exd4 e4 11.Ng5 Bg4 12.Qe1 Nxd4 13.Nxe4 Ne2+ 14.Kh1 Nxe4 15.Bxe4 Qd4 16.f3 Qxa1 17.Qxe2 Be6 18.Nc3 Rd8 19.Bd5 1-0', pauseBetweenMoves: 500, pieceSi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3_29.html",
+         "pubDate" : "Sun, 29 Aug 2021 09:10:00 +0000",
+         "title" : "2021 Online Olympiad - Div 3"
+      },
+      {
+         "description" : "The first five rounds of the Aimchess US Rapid preliminary stage were played on Saturday. Levon Aronian ended the day as sole leader after scoring 4 points, with wins over Le Quang Liem, Eric Hansen and Maxime Vachier-Lagrave. Magnus Carlsen and Vladislav Artemiev are sharing second place a half point back. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-1",
+         "pubDate" : "Sun, 29 Aug 2021 09:30:00 +0100",
+         "title" : "Aimchess US Rapid: Aronian sole leader"
+      },
+      {
+         "description" : " I reached this position (with black, to move) in an online rapid game against a much stronger opponent. Basic endgame theory is so important these days. Everyone should be aware that there's a fortress here: I can just move my rook between f6 and h6, when White can't make progress. The game continued: 67.. Kg8 <a href=\"https://chessimprover.com/fortress/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fortress\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fortress/\">Fortress</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/fortress/",
+         "pubDate" : "Sun, 29 Aug 2021 08:18:10 +0000",
+         "title" : "Fortress"
+      },
+      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After three rounds, seven players still have a perfect score, including 18-year-old Serbian grandmaster Velimir Ivic, who last month had a remarkable performance at the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1300",
          "pubDate" : "Sat, 28 Aug 2021 19:28:32 +0000",
          "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
-      },
-      {
-         "description" : "Levon Aronian's super summer got even hotter today as he kicked off his Aimchess US Rapid campaign in style. The Armenian star took the lead in the three-day prelim stage with a superb unbeaten 4/5. Aronian has already all-but secured his place in next month's Meltwater Champions Chess Tour Final, but the 38-year-old is still gunning for victory in the ninth and last leg. | Full report to follow shortly",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sat, 28 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Aronian leads"
       },
       {
          "description" : "The Certificates for National Age Group, National Schools, Women &#38; Junior Girls are now available for download. You can download the certificate either by entering",
@@ -2194,14 +2218,6 @@ news_feed (
          "title" : "Chessable Masters Finals - Wesley So prevails"
       },
       {
-         "description" : " I have a question for you. You're playing black against a legendary former world champion. What move would you play here? While you're considering your answer, I'd like to consider a typical opening tactic. At beginner level, very many games see a pawn fork in the centre of the board. This might be, from White's <a href=\"https://chessimprover.com/istvan-csom-rip/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Istvan Csom RIP\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/istvan-csom-rip/\">Istvan Csom RIP</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/istvan-csom-rip/",
-         "pubDate" : "Sun, 08 Aug 2021 15:15:16 +0000",
-         "title" : "Istvan Csom RIP"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 39th instalment of his ChessBase show \"Understanding before Moving\", Herman takes another look at critical moves, this time with the help of a fine game by the young Garry Kasparov. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-8",
          "pubDate" : "Sun, 08 Aug 2021 13:15:00 +0100",
          "title" : "Chessable Masters: So on the attack"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1258",
-         "pubDate" : "Sun, 08 Aug 2021 08:20:19 +0000",
-         "title" : "Wesley So blows away Liem Quang Le in first leg of final"
       }
    ]
 }
