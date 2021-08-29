@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is thrilled to announce a special one-day only Arena Kings: Club Edition tournament with $10,000 in prizes. Arena Kings has long been the premiere online chess tournament for chess streamers, awarding over $150,000 in prizes across seven...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-announces-special-arena-kings-club-edition-on-sept-3",
+         "pubDate" : "Sun, 29 Aug 2021 10:56:19 -0700",
+         "title" : "Chess.com Announces Special Arena Kings: Club Edition On Sept. 3"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Haichess</strong> has evolved from a <strong>Lichess</strong> clone into a Chinese-language chess training platform that is not <a href=\"https://www.chesstech.org/2020/lichess-pirated-in-china/\">any more violating</a> the <a href=\"https://github.com/ornicar/haichess.com\">open source licenses</a>. It is free for clubs and coaches and connects them with a few thousand individual members who want to improve their chess. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/haichess-complies-with-lichess-rules/",
+         "pubDate" : "Sun, 29 Aug 2021 17:04:15 +0100",
+         "title" : "Haichess complies with Lichess rules"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-3.html",
          "pubDate" : "Mon, 23 Aug 2021 08:23:00 +0000",
          "title" : "2021 Online Chess Olympiad - Day 3"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> streamed the first 30 minutes of <a href=\"https://lichess.org/blog/YSKlVRAAACMAejTv/titled-arena-won-by-penguins-and-hot-tubs\">a Titled Arena</a> on <strong>Lichess</strong> on his <a href=\"https://www.twitch.tv/maskenissen\">Twitch channel</a> while playing on a cell phone from a hot tub. Streaming in a bikini from an inflatable pool has been a trend set by female streamers on <strong>Twitch</strong> in recent months, yet the world champion refrained from wearing a bikini. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/hot-tub-stream/",
-         "pubDate" : "Mon, 23 Aug 2021 08:21:15 +0100",
-         "title" : "Hot tub stream"
       },
       {
          "description" : " It took a little while, but this post has us caught up in the goings-on in the chess world, at least or especially with respect to the 2021 Sinquefield Cup. Round 6 will be later today, rounds 4 and 5 have already been covered, so what remains is to present the games from the first three rounds. They are <a href=\"https://share.chessbase.com/SharedGames/share/?p=abDIAU9jWLQL+aNZve5ec38ffbsnHusMncbwSuJMdHf0j2WzEJDmmifWLxpHewU8\">here</a>, with comments to all (and only) the decisive games. Enjoy. ",
@@ -2058,14 +2066,6 @@ news_feed (
          "title" : "Rhodes to host World Amateur Championships 2021"
       },
       {
-         "description" : "GM Sam Sevian won Titled Tuesday on August 10 by a full point with 10/11, ahead of eight players tied for second on 9/11. The tiebreakers worked out in some strong players&#39; favor, as all of the top-four finishers were among the eight highest-rated...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sevian-wins-august-10-titled-tuesday",
-         "pubDate" : "Wed, 11 Aug 2021 10:33:20 -0700",
-         "title" : "Sevian Wins August 10 Titled Tuesday"
-      },
-      {
          "description" : "The Riga Technical University Open is taking place on August 9-15 at the international exhibition centre Kipsala in the Latvian capital. The tournament sees 176 players fighting for a €17,100 prize fund. German GM Alexander Donchenko is the top seed, and is followed closely by nine other 2600+ rated players, including six grandmasters hailing from India. After three rounds, nine players still have a perfect score.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2248,22 +2248,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
          "pubDate" : "Sun, 08 Aug 2021 21:53:13 +0000",
          "title" : "Inside Look at Kenyan Chess"
-      },
-      {
-         "description" : " The Chessable Masters took place Sat 31st Jul to Sun 8th Aug 2021. The online rapid Meltwater Champions chess tour event was held on Chess24. Magnus Carlsen was missing as he remained in the FIDE World Cup. Wesley So beat Le Quang Liem in the final. Players: Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Alireza Firouzja, Hikaru Nakamura, Pentala Harikrishna, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, David Anton Guijarro, Baskaran Adhiban, Aryan Tari, Eduardo Iturrizaga Bonelli, Humpy Koneru, Wenjun Ju and Abhimanyu Mishra. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2021",
-         "pubDate" : "Sun, 8 Aug 2021 20:42:00 +0400",
-         "title" : "Chessable Masters 2021 - Games and Results"
-      },
-      {
-         "description" : "The Chessable Masters is the eighth event of the Meltwater Champions Chess Tour. Sixteen strong grandmasters are set to play a preliminary stage lasting three days to find out who moves on to the quarterfinals. In the knockout stage, each encounter is decided over two days. The action kicks off at 17.00 CET (11.00 ET, 15.00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-live",
-         "pubDate" : "Sun, 08 Aug 2021 16:50:00 +0100",
-         "title" : "Chessable Masters Finals - Wesley So prevails"
       }
    ]
 }
