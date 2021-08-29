@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-day-1-harry-mack-rap",
+         "pubDate" : "Sun, 29 Aug 2021 16:08:00 -0700",
+         "title" : "PogChamps 4 Day 1: Harry Mack Raps Chess Game Analysis"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Armenian GM Robert Hovhannisyan is the only player to have won all four of his games from Thursday to Sunday. Twelve players are sharing second place on 3&frac12;/4 points. | Pictured: Velimir Ivic playing white against David Navara (0-1)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
+         "pubDate" : "Sun, 29 Aug 2021 23:50:00 +0100",
+         "title" : "European Championship (R4): Games and results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1302",
+         "pubDate" : "Sun, 29 Aug 2021 20:54:45 +0000",
+         "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
+      },
+      {
          "description" : "Chess.com is thrilled to announce a special one-day only Arena Kings: Club Edition tournament with $10,000 in prizes. Arena Kings has long been the premiere online chess tournament for chess streamers, awarding over $150,000 in prizes across seven...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,20 +42,12 @@ news_feed (
          "title" : "Haichess complies with Lichess rules"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "description" : "Russia's newest chess star Vladislav Artemiev scored three wins to secure a narrow half-point lead in the Aimchess US Rapid today. Artemiev made the knockouts of both his first two Tour appearances. He looks odds-on to make the last eight again after stretching yesterday's unbeaten run to 10 games today. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Sun, 29 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Levan Pantsulaia playing white against Hilmir Freyr Heimisson (1-0)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Sun, 29 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
+         "title" : "Aimchess US Rapid - Artemiev leapfrogs Aronian"
       },
       {
          "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://chessimprover.com/fortress/",
          "pubDate" : "Sun, 29 Aug 2021 08:18:10 +0000",
          "title" : "Fortress"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After three rounds, seven players still have a perfect score, including 18-year-old Serbian grandmaster Velimir Ivic, who last month had a remarkable performance at the World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Sun, 29 Aug 2021 06:50:00 +0100",
-         "title" : "European Championship (R3): Games and results"
       },
       {
          "description" : "",
@@ -2042,14 +2050,6 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz: Excitement galore"
       },
       {
-         "description" : "The Saint Louis Rapid and Blitz leg of the 2021 Grand Chess Tour produced many surprises even before the first move was played. Four of the regular participants of the tour, GMs Anish Giri, Levon Aronian, Teimour Radjabov, and Alexander Grischuk, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-1",
-         "pubDate" : "Wed, 11 Aug 2021 19:06:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 1: Caruana, Dominguez Take Lead"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at a fine attacking game between Wesley So and Le Quang Liem from the finals of the Chessable Masters Online Rapid Tournament, which was won by So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2240,14 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1259",
          "pubDate" : "Mon, 09 Aug 2021 07:34:04 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss to be held in Riga"
-      },
-      {
-         "description" : " 64 Chess Squares TV hosted a short interview with Kenya Chess Federation President Benard Wanjala. He discusses the current events including the highest participation in the African Chess Championships in Malawi. Wanjala, who also serves as the African Chess Confederation Vice President, discussed the current state of chess given the COVID protocols. There was a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/\">Inside Look at Kenyan Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/08/inside-look-at-kenyan-chess/",
-         "pubDate" : "Sun, 08 Aug 2021 21:53:13 +0000",
-         "title" : "Inside Look at Kenyan Chess"
       }
    ]
 }
