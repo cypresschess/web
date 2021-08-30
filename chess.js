@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Mircea-Emilian Parligras playing white against Ivan Saric in round 4 (0-1)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-158-with-Herman-Grooten",
+         "pubDate" : "Mon, 30 Aug 2021 15:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #158 - with Herman Grooten"
+      },
+      {
+         "description" : "The Division 3 stage of the 2021 FIDE Online Olympiad finished on Sunday. After nine rounds in each of the 10-team round robin pools, 15 countries have qualified for the next stage of the tournament. These 15 qualifiers will join 35 new seeded teams in Division 2 - including powerhouses such as Cuba, Italy, Israel, Shenzhen, Slovenia and Sweden, all rated +2300 - which will run next weekend, September 2-4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-division-3",
+         "pubDate" : "Mon, 30 Aug 2021 14:55:00 +0100",
+         "title" : "Peaceful end to Division 3 of the FIDE Online Olympiad"
+      },
+      {
+         "description" : "The 2021 FIDE Online Olympiad resumed over the weekend as the matches of Division 3 were played in five round-robin groups. Malaysia, Chinese Taipei, Sri Lanka, Ireland, Lebanon, Iraq, Scotland, Angola, Wales, Bolivia, Uruguay, Paraguay, Venezuela...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-3",
+         "pubDate" : "Mon, 30 Aug 2021 06:17:29 -0700",
+         "title" : "FIDE Online Olympiad: Division 3 In The Books"
+      },
+      {
+         "description" : "Vladislav Artemiev beat previous leader Levon Aronian on the way to scoring 4/5 on Day 2 of the Aimchess US Rapid to take the sole lead, half a point ahead of Levon and Magnus Carlsen. The only player to match his score was World Cup winner Jan-Krzysztof Duda, who climbed from last to 7th place. Maxime Vachier-Lagrave is the biggest star name outside the knockout qualifying spots with one day to go, while Daniel Naroditsky continues to impress after beating Wesley So and Liem Quang Le.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-2-artemiev-leads-as-duda-naroditsky-shine",
+         "pubDate" : "Mon, 30 Aug 2021 13:06:48 +0000",
+         "title" : "Aimchess US Rapid 2: Artemiev leads as Duda & Naroditsky shine"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1303",
+         "pubDate" : "Mon, 30 Aug 2021 13:06:13 +0000",
+         "title" : "Ena Cvitan wins Croatian Women's Championship 2021"
+      },
+      {
+         "description" : "The United Arab Emirates have the world's tallest building (Burj Khalifa), the world's biggest mall - and the world's biggest chess club. It covers an area of 34,000 cubic feet, including the main hall, which can accommodate up to 500 players. Now the Sharjah Cultural & Chess Club (SCCC) is inviting you to play in the 4th Sharjah Masters 2021, from September 16 to 26. All event's participants must present a Covid vaccination certificate.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/like-to-play-in-the-sharjah-masters",
+         "pubDate" : "Mon, 30 Aug 2021 14:00:00 +0100",
+         "title" : "Like to play in the Sharjah Masters?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The postponed <strong>British Chess Championships</strong> will <a href=\"https://www.britishchesschampionships.co.uk/\">be held</a> in the first half of October. Men and women compete at the <strong>University of Hull</strong>, juniors and seniors in Milton Keynes. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/british-championship-in-october/",
+         "pubDate" : "Mon, 30 Aug 2021 13:55:50 +0100",
+         "title" : "British championship in October"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour will expand in 2022 with a $100,000 Indian chess circuit, from which players will qualify for the overall tour. The move into the booming Indian chess arena is a collaboration between the Play Magnus Group and Mobile Premier League, Asia's biggest esports and skill gaming platform, with over 80 million users across India, Indonesia and the United States of America.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -26,12 +98,12 @@ news_feed (
          "title" : "Champions Tour gets Indian subsidiary"
       },
       {
-         "description" : "GM Vladislav Artemiev leads the preliminary stage of the Aimchess U.S. Rapid after two days. The 23-year-old Russian grandmaster scored 7.5/10, half a point more than GMs Levon Aronian and GM Magnus Carlsen, who is back in the field for what is th...",
+         "description" : "GM Vladislav Artemiev leads the preliminary stage of the Aimchess U.S. Rapid after two days. The 23-year-old Russian grandmaster scored 7.5/10, half a point more than GM Magnus Carlsen, who is back in the field for this final leg of the Champions ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aimchess-us-rapid-day-2-artemiev",
          "pubDate" : "Mon, 30 Aug 2021 00:58:00 -0700",
-         "title" : "Aimchess U.S. Rapid Day 1-2: Artemiev Leads As Carlsen Returns For Final Leg"
+         "title" : "Aimchess U.S. Rapid Days 1-2: Artemiev Leads As Carlsen Returns For Final Leg"
       },
       {
          "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
@@ -672,14 +744,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/beginners-mind/",
          "pubDate" : "Wed, 25 Aug 2021 14:00:00 +0000",
          "title" : "Beginners Mind"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Play Magnus Group</strong> <a href=\"https://drive.google.com/file/d/1qYg65PeMtXQPdeRAWBz1ttm0QiwbRPbE/view\">reports</a> stronger sales and bookings and increases its expected 2021 turnover by $2 million. Its newest acquisition is <strong>Silver Knights</strong>, a US chess training provider with a strong online business. The appointment of <a href=\"https://www.linkedin.com/in/scottcdodson/\"><strong>Scott Dodson</strong></a> as Chief Marketing Officer rounds up the management team. A few days ago, <strong>TV 2</strong> <a href=\"https://www.marketscreener.com/quote/stock/PLAY-MAGNUS-AS-113534507/news/Play-Magnus-PMG-Play-Magnus-Group-and-T",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/pmg-increases-sales-and-aquires/",
-         "pubDate" : "Wed, 25 Aug 2021 14:56:55 +0100",
-         "title" : "PMG increases sales and aquires Silver Knights"
       },
       {
          "description" : "",
@@ -1810,14 +1874,6 @@ news_feed (
          "title" : "Kramnik Challenge: Liang sole leader"
       },
       {
-         "description" : "Blitz world no. 1 Hikaru Nakamura goes into the 18 rounds of blitz in Saint Louis in the sole lead after defeating Leinier Dominguez and Fabiano Caruana on the 3rd and final day of rapid chess. Hikaru is the only unbeaten player, but Fabi is still just a point behind despite also losing to the player with whom he shares 2nd place, Richard Rapport. There were dramatic blunders in many of the games, with few players managing to achieve consistency.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-3-nakamura-triumphs-in-rapid",
-         "pubDate" : "Sat, 14 Aug 2021 19:52:57 +0000",
-         "title" : "STL Rapid & Blitz 3: Nakamura triumphs in rapid"
-      },
-      {
          "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1992,14 +2048,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty/",
          "pubDate" : "Fri, 13 Aug 2021 06:20:17 +0000",
          "title" : "A Foundation for Beginners Thirty"
-      },
-      {
-         "description" : "GM Fabiano Caruana grabbed sole first place after a topsy-turvy day, after answering a round four loss with two consecutive wins. GM Hikaru Nakamura showed his defensive skills to stay within striking distance in second place, while GM Sam Shankla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-2",
-         "pubDate" : "Thu, 12 Aug 2021 19:21:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 2: Caruana Increases Lead, Shankland Surges"
       },
       {
          "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
@@ -2200,22 +2248,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
          "pubDate" : "Mon, 9 Aug 2021 20:54:00 +0400",
          "title" : "FIDE World Cup 2021 - Games and Results"
-      },
-      {
-         "description" : "In the \"Endgame Magic Show #155\" Karsten Mueller talks with Abhimanyu Mishra about the endgame. In the old days people said that one should just go into the endgame against a young player which then would win itself. But Abhimanyu Mishra, the world's youngest Grandmaster ever, proves this to be wrong. He knows a lot about endgames, has watched all 154 previous \"Endgame Magic\" shows, and stuns Karsten again and again with insights and questions. In the current show the young Grandmaster proves his defensive skills in rook endings, but in some examples Abhimanyu is also attacking, when he is no less resourceful. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Prem",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-155-with-abhimanyu-mishra-the-world-s-youngest-grandmaster-of-all-time",
-         "pubDate" : "Mon, 09 Aug 2021 17:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #155 - with Abhimanyu Mishra, the world's youngest Grandmaster of all time"
-      },
-      {
-         "description" : " While I am mainly a chess player, I do occasionally play a bit of backgammon. However I am not that good at it, unlike my father, who has won the ACT Backgammon Championship at least twice. One thing that backgammon has in common with chess, is that you can get plenty of instructional videos on youtube. One series has been produced by someone I regularly play backgammon with, and is designed for the newcomer in mind. I've embedded a clip below, but if you want to check out the whole series, click on this link <a href=\"https://www.youtube.com/channel/UCe1QwuqY7LG-6JcSApTAeIA\">Backgammon Mechanics</a> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" c",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/backgammon.html",
-         "pubDate" : "Mon, 09 Aug 2021 12:56:00 +0000",
-         "title" : "Backgammon"
       }
    ]
 }
