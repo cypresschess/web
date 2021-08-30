@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-starts/",
+         "pubDate" : "Mon, 30 Aug 2021 07:24:06 +0000",
+         "title" : "European Senior Team Chess Championship 2021 starts"
+      },
+      {
          "description" : " That's apparently the claim of a recent paper (linked <a href=\"https://marginalrevolution.com/marginalrevolution/2021/08/against-family-and-entourage.html\">here</a>), at least at the level of playing in one's home country. Worse, it may even be detrimental. I haven't played in rated events outside of the U.S., but my experience of playing in, say, cross-country events (playing on the east coast when I've lived on the west coast or vice-versa) does <em>not</em> square with the idea that \"away\" is better; my results in events in my state of residence or an adjacent state is FAR better than my performance in more distant states. Your experiences, readers? ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32033657/raunak-sadhwani-wins-spilimbergo-open-chess-tourney?device=featurephone",
          "pubDate" : "Mon, 16 Aug 2021 11:59:01 -0500",
          "title" : "Sadhwani wins Spilimbergo Open chess tourney"
-      },
-      {
-         "description" : "The 2nd Online Seminar on applying for and running an Erasmus+ project will be held on Friday, 17th September, 2021, from 15:00 till 17:00 CET. The European Union has increased its participation in the fund Erasmus+. ECU Education, and its' members, has been part of several successful applications and projects. In two seminars Jesper Bergmark Hall and Alessandro&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/erasmus-online-seminar/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/erasmus-online-seminar/",
-         "pubDate" : "Mon, 16 Aug 2021 16:10:16 +0000",
-         "title" : "Erasmus+ Online Seminar"
       },
       {
          "description" : "",
