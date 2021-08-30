@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " That's apparently the claim of a recent paper (linked <a href=\"https://marginalrevolution.com/marginalrevolution/2021/08/against-family-and-entourage.html\">here</a>), at least at the level of playing in one's home country. Worse, it may even be detrimental. I haven't played in rated events outside of the U.S., but my experience of playing in, say, cross-country events (playing on the east coast when I've lived on the west coast or vice-versa) does <em>not</em> square with the idea that \"away\" is better; my results in events in my state of residence or an adjacent state is FAR better than my performance in more distant states. Your experiences, readers? ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/29/no-home-field-advantage-in-chess.html",
+         "pubDate" : "Mon, 30 Aug 2021 03:11:46 +0000",
+         "title" : "No \"Home Field\" Advantage in Chess?"
+      },
+      {
+         "description" : " In fact, it started on Saturday. It's the last event of the year's Meltwater Tour (or the last \"regular\" event; the final will start September 25), a rapid tournament with a format that's very familiar at this point. First up, a 16-player round-robin that will cut the field to a final eight, who will engage in knockout matches made up of two mini-matches (with a blitz playoff and then Armageddon if necessary). At this point, the preliminary stage is 2/3 finished - 10 rounds out of 15 are in the books. Vladislav Artemiev is in the lead with an undefeated 7.5/10, half a point ahead of Magnus Carlsen and Levon Aronian. As the scores don't carry over into the knockout stage, what matters most i",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/29/the-tournaments-never-stop-the-aimchess-us-rapid-is-underway.html",
+         "pubDate" : "Mon, 30 Aug 2021 02:57:50 +0000",
+         "title" : "The Tournaments Never Stop: The Aimchess US Rapid is Underway"
+      },
+      {
+         "description" : "Day 2 of the Aimchess US Rapid prelims saw Vladislav Artemiev climbing to sole first place after drawing two games and winning the remaining three to go into the last day of the round robin a half point ahead of Levon Aronian and Magnus Carlsen. The likes of Maxime Vachier-Lagrave and Leinier Dominguez are in real danger of being eliminated before the knockout. | Photo: Eric Rosen / FIDE World Cup",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-2",
+         "pubDate" : "Mon, 30 Aug 2021 02:00:00 +0100",
+         "title" : "Aimchess US Rapid: Artemiev shines, Naroditsky keeps it sharp"
+      },
+      {
          "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/haichess-complies-with-lichess-rules/",
          "pubDate" : "Sun, 29 Aug 2021 17:04:15 +0100",
          "title" : "Haichess complies with Lichess rules"
-      },
-      {
-         "description" : "Russia's newest chess star Vladislav Artemiev scored three wins to secure a narrow half-point lead in the Aimchess US Rapid today. Artemiev made the knockouts of both his first two Tour appearances. He looks odds-on to make the last eight again after stretching yesterday's unbeaten run to 10 games today. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sun, 29 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Artemiev leapfrogs Aronian"
       },
       {
          "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
@@ -1072,22 +1088,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/8/20/nakamura-wins-the-2021-st-louis-rapid-blitz.html",
          "pubDate" : "Fri, 20 Aug 2021 23:58:59 +0000",
          "title" : "Nakamura Wins the 2021 St. Louis Rapid & Blitz"
-      },
-      {
-         "description" : " <a href=\"https://www.youtube.com/watch?v=WVUNFu2TuGM\">At the start of Wednesday's play at the Sinquefield Cup</a>, it was announced that Latvian grandmaster Evgeny Sveshnikov had passed away on Wednesday at the age of 71. Sveshnikov was never close to becoming a world champion (though he was perhaps the equivalent of today's high-2600/borderline-2700 GM in his peak years), but when it comes to his influence on the game - in the opening in particular - he was one of the most important chessplayers of his time. His contributions to opening theory are legendary - most famously in the system that bears his name (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5, particularly 6.Ndb5 d6 7.Bg5 a6 8.",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/evgeny-sveshnikov-1950-2021-rip.html",
-         "pubDate" : "Fri, 20 Aug 2021 23:19:33 +0000",
-         "title" : "Evgeny Sveshnikov (1950-2021), R.I.P."
-      },
-      {
-         "description" : " If you're not a correspondence chess player you probably won't have heard of the American correspondence star Kurt Stein, but Daniel Parmet was well-acquainted with the #5 correspondence chess player in the United States, and writes in to let us know of his passing. Here is <a href=\"http://danielparmet.com/article/kurt_stein\">his obituary</a> (with several games included), and here is the <a href=\"https://www.iccf.com/message?message=1473\">obituary by Ken Holroyd</a> (another correspondence chess star). ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/kurt-stein-1959-2021-rip.html",
-         "pubDate" : "Fri, 20 Aug 2021 23:13:40 +0000",
-         "title" : "Kurt Stein (1959-2021), R.I.P."
       },
       {
          "description" : "",
