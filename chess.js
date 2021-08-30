@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour will expand in 2022 with a $100,000 Indian chess circuit, from which players will qualify for the overall tour. The move into the booming Indian chess arena is a collaboration between the Play Magnus Group and Mobile Premier League, Asia's biggest esports and skill gaming platform, with over 80 million users across India, Indonesia and the United States of America.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mobile-premier-league-indian-chess-tour-launched",
+         "pubDate" : "Mon, 30 Aug 2021 10:00:03 +0000",
+         "title" : "Mobile Premier League Indian Chess Tour launched"
+      },
+      {
+         "description" : "Here's another opportunity to sharpen your tactical skills: twelve positions taken from recent tournaments, selected by the British magazine CHESS. The diagrams on our news page allow you to move the pieces around to analyse. There is also an embedded engine that will actually play out the position against you! Which means you can work things out directly on the diagrams in the browser. How neat is that?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-london-find-the-winning-move",
+         "pubDate" : "Mon, 30 Aug 2021 11:00:00 +0100",
+         "title" : "Chess London: Find the winning move"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Play Magnus Group Asia-Pacific</strong> <a href=\"https://championschesstour.com/tour-joins-forces-with-esports-giant-to-launch-first-regional-expansion/\">is partnering</a> with <strong>Mobile Premier League</strong>, India's biggest E-sport provider, to run the <strong>MPL Indian Chess Tour</strong> with $100,000 in prizes and qualification spots for Indian players in the next <strong>Meltwater Champions Chess Tour</strong>, creating the tour's first regional subsidiary. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/champions-tour-gets-indian/",
+         "pubDate" : "Mon, 30 Aug 2021 09:34:19 +0100",
+         "title" : "Champions Tour gets Indian subsidiary"
+      },
+      {
+         "description" : "GM Vladislav Artemiev leads the preliminary stage of the Aimchess U.S. Rapid after two days. The 23-year-old Russian grandmaster scored 7.5/10, half a point more than GMs Levon Aronian and GM Magnus Carlsen, who is back in the field for what is th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-day-2-artemiev",
+         "pubDate" : "Mon, 30 Aug 2021 00:58:00 -0700",
+         "title" : "Aimchess U.S. Rapid Day 1-2: Artemiev Leads As Carlsen Returns For Final Leg"
+      },
+      {
          "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -752,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-2021-preview",
          "pubDate" : "Tue, 24 Aug 2021 19:10:00 +0100",
          "title" : "Starting Thursday: European Championship in Reyjkavik"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> French clubs and leagues have <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13492\">been awarded a record</a> €384,300 from the grants programme of the <strong>Agence Nationale du Sport</strong>. The <strong>French Chess Federation</strong> has for the first time published a <a href=\"http://www.echecs.asso.fr/Actus/13492/PubliFFE_SuiviActionsSimple_ANS_19072021.pdf\">list of all applications and granted projects</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/eur384300-for-french-chess-projects/",
-         "pubDate" : "Tue, 24 Aug 2021 17:05:44 +0100",
-         "title" : "€384,300 for French chess projects"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/s?i=stripbooks&amp;k=pawn%20book%20chess&amp;ref=nb_sb_noss\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg\" data-image-dimensions=\"762x281\" data-image-focal-point=\"0.5,0.5\" alt=\"Which \"pawn book\" should you read?\" data-load=\"false\" data-image-id=\"6125049e4ce1e97943592624\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg?format=1000w\" /> </a> <figcaption class=\"image-capt",
@@ -1818,14 +1842,6 @@ news_feed (
          "title" : "Why 'we' play serious chess"
       },
       {
-         "description" : "Top seed Nodirbek Abdusattorov is the only player still unbeaten after Day 2 of the Kramnik Challenge and is now co-leader with Awonder Liang, who won four games in a row before falling to Polina Shuvalova in the final game of the day. Previous leader Vincent Keymer had a frustrating day, failing to grind out wins against Sarasadat Khademalsharieh and Nodirbek before losing an innocuous-looking ending to Volodar Murzin.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kramnik-challenge-2-awonder-nodirbek-take-over",
-         "pubDate" : "Sat, 14 Aug 2021 13:18:44 +0000",
-         "title" : "Kramnik Challenge 2: Awonder & Nodirbek take over"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-2",
          "pubDate" : "Thu, 12 Aug 2021 19:21:00 -0700",
          "title" : "Saint Louis Rapid & Blitz Day 2: Caruana Increases Lead, Shankland Surges"
-      },
-      {
-         "description" : "For the first time in history, the chess community has helped decide which city should be the chess capital for the following year. After more than 4,000 people cast their votes, Berlin emerged as the 2022 host for the Grand Prix Series and other ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/berlin-2022-chess-grand-prix-host",
-         "pubDate" : "Thu, 12 Aug 2021 13:18:00 -0700",
-         "title" : "Berlin Selected By Chess Community To Host 2022 Grand Prix And Other Events"
       },
       {
          "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
@@ -2208,38 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/backgammon.html",
          "pubDate" : "Mon, 09 Aug 2021 12:56:00 +0000",
          "title" : "Backgammon"
-      },
-      {
-         "description" : "A draw in the second set of the finals was enough for Wesley So to secure first place at the second edition of the Chessable Masters. The Filipino-born grandmaster thus obtained his third title in this year's Champions Chess Tour. Le Quang Liem finished in a remarkable second place, while Vladislav Artemiev got the bronze after beating Levon Aronian in the match for third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2021-day-9",
-         "pubDate" : "Mon, 09 Aug 2021 12:15:00 +0100",
-         "title" : "Wesley So wins Chessable Masters 2021"
-      },
-      {
-         "description" : "The game Adolf Anderssen against Lionel Kieseritzky, the \"Immortal Game\", played in London 1851, is arguably the most famous game in the history of chess. Anderssen won with a brilliant mating combination after sacrificing huge parts of his army. But his opponent Lionel Kieseritzky also played an \"Immortal Game\". Stephan Oliver Platz discovered this game and uses it as a starting point to take a close look at Kieseritzky's contribution to the King's Gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kieseritzky-s-immortal-game",
-         "pubDate" : "Mon, 09 Aug 2021 11:06:13 +0100",
-         "title" : "Kieseritzky's Immortal Game"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1260",
-         "pubDate" : "Mon, 09 Aug 2021 08:11:43 +0000",
-         "title" : "So wins Chessable Masters final to clinch third Tour title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1259",
-         "pubDate" : "Mon, 09 Aug 2021 07:34:04 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss to be held in Riga"
       }
    ]
 }
