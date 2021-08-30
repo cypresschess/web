@@ -58,7 +58,7 @@ news_feed (
          "title" : "Ena Cvitan wins Croatian Women's Championship 2021"
       },
       {
-         "description" : "The United Arab Emirates have the world's tallest building (Burj Khalifa), the world's biggest mall - and the world's biggest chess club. It covers an area of 34,000 cubic feet, including the main hall, which can accommodate up to 500 players. Now the Sharjah Cultural & Chess Club (SCCC) is inviting you to play in the 4th Sharjah Masters 2021, from September 16 to 26. All event's participants must present a Covid vaccination certificate.",
+         "description" : "The United Arab Emirates have the world's tallest building (Burj Khalifa), the world's biggest mall - and the world's biggest chess club. It covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. Now the Sharjah Cultural & Chess Club (SCCC) is inviting you to play in the 4th Sharjah Masters 2021, from September 16 to 26. All event's participants must present a Covid vaccination certificate.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/like-to-play-in-the-sharjah-masters",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-to-be-held-in-Riga",
          "pubDate" : "Tue, 10 Aug 2021 09:40:00 +0100",
          "title" : "Grand Swiss tournaments to be held in Riga"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1261",
-         "pubDate" : "Mon, 09 Aug 2021 22:03:28 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021: lists of qualified players"
       }
    ]
 }
