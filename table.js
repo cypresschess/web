@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-08-29","12","<a href=http://www.uschess.org/msa/XtblMain.php?202108295452 target=' blank'>AUGUST SUNDAY SWISSES G60;D5, 3-ROU</a>",
 "CYPRESS","2021-08-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108274302 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-08-27","17","<a href=http://www.uschess.org/msa/XtblMain.php?202108274252 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-03  - 08-24","21","<a href=http://www.uschess.org/msa/XtblMain.php?202108243802 target=' blank'>AUGTUESNIGHTSWISS G90;D5 1-ROUND PE</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-07-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202007109912 target=' blank'>STRATEGEM WHALE SHARKS JULY 2020- S</a>",
 "SPRING","2020-07-10","15","<a href=http://www.uschess.org/msa/XtblMain.php?202007105592 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-07-04","19","<a href=http://www.uschess.org/msa/XtblMain.php?202007042872 target=' blank'>SR CHESSKNIGHTS 07042020</a>",
-"SPRING","2020-07-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202007042862 target=' blank'>INDEPENDENCE DAY</a>",
 ]);
