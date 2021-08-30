@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Mircea-Emilian Parligras playing white against Ivan Saric in round 4 (0-1)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
-      },
-      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
          "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Mircea-Emilian Parligras playing white against Ivan Saric in round 4 (0-1)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
       },
       {
          "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
@@ -166,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-announces-special-arena-kings-club-edition-on-sept-3",
-         "pubDate" : "Sun, 29 Aug 2021 10:56:19 -0700",
+         "pubDate" : "Sun, 29 Aug 2021 10:56:00 -0700",
          "title" : "Chess.com Announces Special Arena Kings: Club Edition On Sept. 3"
       },
       {
@@ -2232,22 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1261",
          "pubDate" : "Mon, 09 Aug 2021 22:03:28 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021: lists of qualified players"
-      },
-      {
-         "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted 6,000 visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. The organisers, Chess in Schools and Communities, say they would like to make ChessFest an annual event. Tim Wall reports. | Photo John Beardsworth",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sun-chess-fun-at-trafalgar-square",
-         "pubDate" : "Mon, 09 Aug 2021 18:00:00 +0100",
-         "title" : "Sun, chess & fun at Trafalgar Square"
-      },
-      {
-         "description" : " The FIDE World Cup took place in Krasnaya Polyana 12th July to 8th August. The venue which is close to Sochi and which hosted events in the 2014 Winter Olympics is high in the mountains. Jan-Krzysztof Duda beat Magnus Carlsen in the Semi-finals and Sergey Karjakin in the final to take the title and win a Candidates place. Carlsen beat Fedoseev in the 3rd - 4th tie-break. The finalists will both play in the Candidates tournament. Alexandra Kosteniuk beat Aleksandra Goryachkina in the final to win the women's event. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2021",
-         "pubDate" : "Mon, 9 Aug 2021 20:54:00 +0400",
-         "title" : "FIDE World Cup 2021 - Games and Results"
       }
    ]
 }
