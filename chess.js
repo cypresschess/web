@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position it is Black to move and tablebases and endgame books know that this position is a theoretical draw. However, holding theoretical draws is often difficult in practice. But Jan-Krzyzstof Duda, who was Black against Ding Liren here, was up to the task and found the only move that saves the game. What did he play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/theory-and-practice",
+         "pubDate" : "Tue, 31 Aug 2021 09:00:00 +0100",
+         "title" : "Theory and practice"
+      },
+      {
          "description" : " Coming into the last round of the prelims, three players had a shot at the last qualifying spot for the knockout stage of the <a href=\"https://championschesstour.com/\">Aimchess US Rapid</a> tournament, the last of the \"regular\" Meltwater tour events for the year. Leinier Dominguez and Anish Giri had 7.5 points out of 14, with Maxime Vachier-Lagrave half a point back. Giri had the worst tiebreak scores of the three, so he'd have to finish ahead of his rivals to get that last spot. Giri had Black against Alireza Firouzja, while MVL had White against Dominguez. Since someone was guaranteed to get at least eight points from the latter match, Giri would have to win his game, and hope Dominguez d",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Aimchess Prelims Finish; K.O. Pairings Set"
       },
       {
-         "description" : "Nihal Sarin prevailed over Amin Tabatabaei with a score of 23.5 - 4.5 in the last remaining quarterfinal match of the Junior Speed Chess Championship presented by ChessKid. Sarin scored an identical 7-2 crush in both the 5+1 and 3+1 segments, as t...",
+         "description" : "GM Nihal Sarin prevailed over GM Amin Tabatabaei with a score of 23.5 - 4.5 in the last remaining quarterfinal match of the Junior Speed Chess Championship presented by ChessKid. Sarin scored an identical 7-2 crush in both the 5|1 and 3|1 segments...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-sarin-tabatabaei",
-         "pubDate" : "Mon, 30 Aug 2021 18:38:34 -0700",
+         "pubDate" : "Mon, 30 Aug 2021 18:38:00 -0700",
          "title" : "Junior Speed Chess Championship QF: Sarin Dominates Tabatabaei"
       },
       {
@@ -26,20 +34,20 @@ news_feed (
          "title" : "PogChamps 4 Day 2: Nervous Ludwig Turns MrBeast Into Cat Maid"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Mircea-Emilian Parligras playing white against Ivan Saric in round 4 (0-1)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-2021-live",
          "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
          "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
       },
       {
          "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
