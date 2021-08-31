@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Tue, 31 Aug 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured:Nils Grandelius / Photo by Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Tue, 31 Aug 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda, after Duda recently beat Carlsen in the semifinals of the World Cup. | Pictured: Locations of the participants",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-3",
+         "pubDate" : "Tue, 31 Aug 2021 16:00:00 +0100",
+         "title" : "Aimchess US Rapid: Carlsen to face Duda in quarterfinals"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/31/episode-241-fm-peter-giannatos-adult-improver-series",
+         "pubDate" : "Tue, 31 Aug 2021 14:49:59 +0000",
+         "title" : "Episode 241- FM Peter Giannatos (Adult Improver Series)"
+      },
+      {
+         "description" : " The ABC (in Australia) has just finished running a 2 part special on \"Fox and the Big Lie\", about how Fox News in the USA echoed the false claims that Trump's 2020 election loss was due to fraud. And while I found the whole thing interesting there was one political thing that struck me. In a lot of the interview scenes there seemed to be a lot of chess sets in the background, I assume belonging to the people being interviewed. So I wander, are they sets for use, or just for show? <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/chess-sets-of-well-connected.html",
+         "pubDate" : "Tue, 31 Aug 2021 14:12:00 +0000",
+         "title" : "Chess sets of the well connected"
+      },
+      {
+         "description" : "Magnus Carlsen stumbled into a draw by 3-fold repetition on move 124 of a winning position against Jan-Krzysztof Duda to make Vladislav Artemiev the winner of the Aimchess US Rapid Prelims. Magnus will now play his World Cup conqueror Duda again in the quarterfinals. The other quarterfinals are Artemiev-Dominguez - a win will put Vladislav in the Meltwater Champions Chess Tour Finals in place of Maxime Vachier-Lagrave - Aronian-Mamedyarov and So-Firouzja, after Maxime Vachier-Lagrave and Anish Giri both missed out.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-3-artemiev-pips-carlsen-mvl-giri-out",
+         "pubDate" : "Tue, 31 Aug 2021 11:11:00 +0000",
+         "title" : "Aimchess US Rapid 3: Artemiev pips Carlsen, MVL & Giri out"
+      },
+      {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A good number of players like to prepare opening surprises for their future opponents. We have touched this subject a few times here; some choices involved new ideas in well known openings, while others involved off beat or old openings. <a href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Vienna Gambit, Modern Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\">Need s",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -42,7 +90,7 @@ news_feed (
          "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
       },
       {
-         "description" : "GM Vladislav Artemiev won the preliminary stage of the Aimchess U.S. Rapid and will play GM Leinier Dominguez in the quarterfinals. GM Anish Giri and GM Maxime Vachier-Lagrave were among the players who failed to qualify this time. The other mat...",
+         "description" : "GM Vladislav Artemiev won the preliminary stage of the Aimchess U.S. Rapid and will play GM Leinier Dominguez in the quarterfinals. GM Anish Giri and GM Maxime Vachier-Lagrave were among the players who failed to qualify. The other matchups in t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aimchess-us-rapid-preliminaries-day-3",
@@ -96,22 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-4-day-2-ludwig-turns-mrbeast-into-cat-maid",
          "pubDate" : "Mon, 30 Aug 2021 15:02:00 -0700",
          "title" : "PogChamps 4 Day 2: Nervous Ludwig Turns MrBeast Into Cat Maid"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Mircea-Emilian Parligras playing white against Ivan Saric in round 4 (0-1)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
-      },
-      {
-         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda - Duda recently beat Carlsen in the semifinals of the World Cup. | Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - On to the knockout"
       },
       {
          "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
@@ -386,7 +418,7 @@ news_feed (
          "title" : "CERTIFICATES OF NATIONAL CHAMPIONSHIPS"
       },
       {
-         "description" : " Share!62 Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!85 Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
@@ -1586,10 +1618,10 @@ news_feed (
          "title" : "The Weekly Show: Rapid and Blitz in Saint Louis"
       },
       {
-         "description" : " This is a guest article from Grandmaster Avetik Grigoryan. He is a great friend of mine and an amazing Chess Coach. He is also the funder and CEO of ChessMood, an online chess learning website that I can wholeheartedly recommend. After coaching many amateur players, I noticed something quite interesting Nearly all of them were [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/amateur-mistakes/\">The 5 Costly Mistakes That the Amateurs Make</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " This is a guest article from Grandmaster Avetik Grigoryan. He is a great friend of mine and an amazing Chess Coach. He is also the funder and CEO of ChessMood, an online chess learning website that I can wholeheartedly recommend. After coaching many amateur players, I noticed something quite interesting Nearly all of them were [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-costly-amateur-mistakes/\">The 5 Costly Mistakes That the Amateurs Make</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/amateur-mistakes/",
+         "link" : "https://nextlevelchess.blog/5-costly-amateur-mistakes/",
          "pubDate" : "Wed, 18 Aug 2021 08:37:40 +0000",
          "title" : "The 5 Costly Mistakes That the Amateurs Make"
       },
@@ -1912,14 +1944,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-final-round",
          "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
          "title" : "RTU Open: Final round - Live!"
-      },
-      {
-         "description" : "Awonder Liang scored 3.5/4 on Saturday to take the sole lead in the Kramnik Challenge before the final three rounds on Sunday. The US Star could have had a bigger lead - or we could have had a 3-way tie for first - since his 123-move draw in the final game of the day against top seed Nodirbek Abdusattorov could have gone either way. Vincent Keymer is half a point back but plays Awonder in the penultimate round, while Christopher Yoo is also in the mix.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kramnik-challenge-3-awonder-leads-before-final-sprint",
-         "pubDate" : "Sun, 15 Aug 2021 08:06:38 +0000",
-         "title" : "Kramnik Challenge 3: Awonder leads before final sprint"
       },
       {
          "description" : " A couple of weeks ago I wrote about endings where a knight was trying to stop a rook's pawn. Coincidentally, the other day I reached this position with black (to move) in an online training game against a young pupil. He thought my knight was too far away to stop his a-pawn. I thought I <a href=\"https://chessimprover.com/knight-against-rooks-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn/\">Knight against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2248,22 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-10",
          "pubDate" : "Tue, 10 Aug 2021 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Short's immortal king walk"
-      },
-      {
-         "description" : " Things I did not write on my census form <ul style=\"text-align: left;\"><li>Religion: I worship Caissa</li><li>Job: World Champion</li><li>Hours worked last week: 0</li><li>Type of dwelling: A giant rook</li><li>Number of bedrooms: 64</li><li>How did you travel to work: On horseback</li><li>Where were you born: In a hospital</li><li>Highest level of educational qualification: GM</li></ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/census-knight.html",
-         "pubDate" : "Tue, 10 Aug 2021 13:44:00 +0000",
-         "title" : "Census Knight"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg\" data-image-dimensions=\"500x375\" data-image-focal-point=\"0.5,0.5\" alt=\"Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times.\" data-load=\"false\" data-image-id=\"61126de61faeb13e9539679c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1628597734753-RSYEF9NAXTEKYDKMG2DZ/Jerald_Times.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Jerald in South Africa, circa 2011. Photo courtesy of Jerald Times. </",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/10/episode-238-jerald-times",
-         "pubDate" : "Tue, 10 Aug 2021 12:23:20 +0000",
-         "title" : "Episode 238- Jerald Times"
       }
    ]
 }
