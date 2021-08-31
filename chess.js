@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Coming into the last round of the prelims, three players had a shot at the last qualifying spot for the knockout stage of the <a href=\"https://championschesstour.com/\">Aimchess US Rapid</a> tournament, the last of the \"regular\" Meltwater tour events for the year. Leinier Dominguez and Anish Giri had 7.5 points out of 14, with Maxime Vachier-Lagrave half a point back. Giri had the worst tiebreak scores of the three, so he'd have to finish ahead of his rivals to get that last spot. Giri had Black against Alireza Firouzja, while MVL had White against Dominguez. Since someone was guaranteed to get at least eight points from the latter match, Giri would have to win his game, and hope Dominguez d",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/8/30/aimchess-prelims-finish-ko-pairings-set.html",
+         "pubDate" : "Tue, 31 Aug 2021 03:10:27 +0000",
+         "title" : "Aimchess Prelims Finish; K.O. Pairings Set"
+      },
+      {
+         "description" : "Nihal Sarin prevailed over Amin Tabatabaei with a score of 23.5 - 4.5 in the last remaining quarterfinal match of the Junior Speed Chess Championship presented by ChessKid. Sarin scored an identical 7-2 crush in both the 5+1 and 3+1 segments, as t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-sarin-tabatabaei",
+         "pubDate" : "Mon, 30 Aug 2021 18:38:34 -0700",
+         "title" : "Junior Speed Chess Championship QF: Sarin Dominates Tabatabaei"
+      },
+      {
+         "description" : "The second day of PogChamps 4 presented by Coinbase was yet another memorable episode in the history of PogChamps. The first few matches ended with the expected easy wins for the much higher-rated Fundy and boxbox, who defeated Tectone and Justa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-day-2-ludwig-turns-mrbeast-into-cat-maid",
+         "pubDate" : "Mon, 30 Aug 2021 15:02:00 -0700",
+         "title" : "PogChamps 4 Day 2: Nervous Ludwig Turns MrBeast Into Cat Maid"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,20 +162,20 @@ news_feed (
          "title" : "Aimchess US Rapid: Artemiev shines, Naroditsky keeps it sharp"
       },
       {
-         "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-day-1-harry-mack-rap",
-         "pubDate" : "Sun, 29 Aug 2021 16:08:00 -0700",
-         "title" : "PogChamps 4 Day 1: Harry Mack Raps Chess Game Analysis"
-      },
-      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Armenian GM Robert Hovhannisyan is the only player to have won all four of his games from Thursday to Sunday. Twelve players are sharing second place on 3&frac12;/4 points. | Pictured: Velimir Ivic playing white against David Navara (0-1)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
          "pubDate" : "Sun, 29 Aug 2021 23:50:00 +0100",
          "title" : "European Championship (R4): Games and results"
+      },
+      {
+         "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-day-1-harry-mack-rap",
+         "pubDate" : "Sun, 29 Aug 2021 15:08:00 -0700",
+         "title" : "PogChamps 4 Day 1: Harry Mack Raps Chess Game Analysis"
       },
       {
          "description" : "",
@@ -1178,14 +1202,6 @@ news_feed (
          "title" : "Sinquefield Cup Day 4: Dominguez Advances To Share Lead After Caruana, So Draw"
       },
       {
-         "description" : " Bit by bit, we creep our way back to the present. The most recently completed major tournament was the <a href=\"https://grandchesstour.org/2021-grand-chess-tour/2021-saint-louis-rapid-blitz\">2021 St. Louis Rapid &amp; Blitz</a>, the penultimate event of the 2021 Grand Chess Tour. (The ongoing Sinquefield Cup is the finale.) Now a streamer first (by his own admission) and a bit too low on the rating list to be a full-time member of the Grand Chess Tour, Hikaru Nakamura participated as a wildcard...and dominated. He went through all three round-robins undefeated, scoring 6/9 each time. His 6/9 - or rather, 12/18, as the rapid games counted double - in the rapid was good for a minimal lead ove",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/20/nakamura-wins-the-2021-st-louis-rapid-blitz.html",
-         "pubDate" : "Fri, 20 Aug 2021 23:58:59 +0000",
-         "title" : "Nakamura Wins the 2021 St. Louis Rapid & Blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "Knight against Rook's Pawn"
       },
       {
-         "description" : "GM Hikaru Nakamura proves to be in a league of his own, as he has increased his lead after the first day of blitz to 2.5 points without suffering a single defeat. GM Fabiano Caruana is leading in the battle for second place, while GM Richard Rappo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-blitz-day-4",
-         "pubDate" : "Sat, 14 Aug 2021 20:28:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 4: Nakamura Extends Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85342295.cms\" />Sareen, an International Master whose wards Tania Sachdev (in 2009), Parimarjan Negi (2010) and Abhijeet Gupta (2013) won the last three Arjuna awards given away in chess, said he has prepared a blueprint for the region and he believes children above five can benefit from picking up chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://aicf.in/2021-asian-university-chess-championship/",
          "pubDate" : "Sat, 14 Aug 2021 04:20:25 +0000",
          "title" : "2021 Asian University Chess Championship"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won the rapid stage of the Saint Louis tournament on the strength of his two wins on the last day. Nakamura goes into the blitz portion of the event a point ahead of GMs Fabiano Caruana and Richard Rapport, as the latter matched...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-saint-louis-rapid-blitz-day-3",
-         "pubDate" : "Fri, 13 Aug 2021 19:12:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 3: Nakamura Moves Into First, Rapport Rises"
       },
       {
          "description" : "",
