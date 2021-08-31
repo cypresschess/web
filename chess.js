@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A good number of players like to prepare opening surprises for their future opponents. We have touched this subject a few times here; some choices involved new ideas in well known openings, while others involved off beat or old openings. <a href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Vienna Gambit, Modern Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\">Need s",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/",
+         "pubDate" : "Tue, 31 Aug 2021 10:12:24 +0000",
+         "title" : "Need sure points? Vienna Gambit, Modern Variation Edition"
+      },
+      {
+         "description" : "Many congratulations to Hok Chiu, who has recently been awarded the title of FIDE Arbiter!",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-fide-arbiter-title/",
+         "pubDate" : "Tue, 31 Aug 2021 08:45:46 +0000",
+         "title" : "New FIDE Arbiter title for Hok Chiu"
+      },
+      {
+         "description" : "Starter Round results &#8212; Starter Periodical Table 2021-2022 &#124; Starter Solutions Submitted 2021-2022",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-results/",
+         "pubDate" : "Tue, 31 Aug 2021 08:27:48 +0000",
+         "title" : "Winton British Chess Solving Championship results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1304",
+         "pubDate" : "Tue, 31 Aug 2021 08:21:43 +0000",
+         "title" : "Jacques Rogge (1942-2021)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1305",
+         "pubDate" : "Tue, 31 Aug 2021 08:20:20 +0000",
+         "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
+      },
+      {
+         "description" : "GM Vladislav Artemiev won the preliminary stage of the Aimchess U.S. Rapid and will play GM Leinier Dominguez in the quarterfinals. GM Anish Giri and GM Maxime Vachier-Lagrave were among the players who failed to qualify this time. The other mat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-preliminaries-day-3",
+         "pubDate" : "Tue, 31 Aug 2021 01:19:00 -0700",
+         "title" : "Aimchess U.S. Rapid: Artemiev Wins Prelims; Giri, MVL Out"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ten days before the scheduled election on 15 August during the European Women Championship in Iasi, the leadership of the <strong>Romanian Chess Federation</strong> declared two candidacies illegal. This would have secured the presidency for the only left candidate <strong>Ionuț Șerban Dobronăuțeanu</strong>, who is the grey eminence of Romanian chess since 2006 and is on the <strong>ECU</strong> board since 2010. Lawyers stepped in on behalf of his challenger <strong>Vlad Ardeleanu</strong> and forced a postponement. Now the presidency is vacant until the Romanian clubs finally get to vote on 26 September. Ardeleanu was CEO of <strong>Superbet<",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/postponed-election-in-romania/",
+         "pubDate" : "Tue, 31 Aug 2021 09:02:19 +0100",
+         "title" : "Postponed election in Romania"
+      },
+      {
          "description" : "In the diagram position it is Black to move and tablebases and endgame books know that this position is a theoretical draw. However, holding theoretical draws is often difficult in practice. But Jan-Krzyzstof Duda, who was Black against Ding Liren here, was up to the task and found the only move that saves the game. What did he play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +82,14 @@ news_feed (
          "title" : "Junior Speed Chess Championship QF: Sarin Dominates Tabatabaei"
       },
       {
+         "description" : " From the publisher: &#8220;The Modern Benoni is one of the most controversial but also dynamic answers to 1.d4. This opening remained the favourite of famous attacking players as Tal, Kasparov, Gashimov and Topalov. From the outset, Black creates a new pawn structure and deploying his active piece play against White's central majority. In his book <a href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Modern Benoni</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\">The Modernized Modern",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/",
+         "pubDate" : "Tue, 31 Aug 2021 00:10:30 +0000",
+         "title" : "The Modernized Modern Benoni"
+      },
+      {
          "description" : "The second day of PogChamps 4 presented by Coinbase was yet another memorable episode in the history of PogChamps. The first few matches ended with the expected easy wins for the much higher-rated Fundy and boxbox, who defeated Tectone and Justa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,12 +106,12 @@ news_feed (
          "title" : "European Championship - Live!"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. This is the final qualifying tournament to the grand finale, scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST).",
+         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda - Duda recently beat Carlsen in the semifinals of the World Cup. | Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Mon, 30 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
+         "title" : "Aimchess US Rapid - On to the knockout"
       },
       {
          "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
@@ -70,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-3",
-         "pubDate" : "Mon, 30 Aug 2021 06:17:29 -0700",
+         "pubDate" : "Mon, 30 Aug 2021 06:17:00 -0700",
          "title" : "FIDE Online Olympiad: Division 3 In The Books"
       },
       {
@@ -762,20 +826,12 @@ news_feed (
          "title" : "Game of the Week 478: Xiong stuns Caruana"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 16 players per age group and gender play out the first Online <strong>Youth Rapid World Cup</strong> held by FIDE on <strong>Tornelo</strong> and sponsored by the Azeri oil company <strong>SOCAR</strong>. This will be <a href=\"https://fide.com/news/1291\">followed up</a> by a Youth Grand Prix and a Super Final in December to replace the otb youth world championships canceled due to Covid-19. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-youth-world-cup/",
-         "pubDate" : "Wed, 25 Aug 2021 15:28:26 +0100",
-         "title" : "Online Youth World Cup"
-      },
-      {
-         "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Beginners Mind</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Why I Always Try To Be A Beginner</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/beginners-mind/",
          "pubDate" : "Wed, 25 Aug 2021 14:00:00 +0000",
-         "title" : "Beginners Mind"
+         "title" : "Why I Always Try To Be A Beginner"
       },
       {
          "description" : "",
@@ -1410,6 +1466,14 @@ news_feed (
          "title" : "Sinquefield Cup Day 2: So Wins, Joins Leaders"
       },
       {
+         "description" : " From the publisher: &#8220;Larry Kaufman can safely be called an exceptional chess grandmaster Larry Kaufman started out as a prodigy, however not in chess but as a whizz kid in science and math. He excels at shogi (Japanese chess) and Go, and is also a world-famous computer programmer and a highly successful option trader. Remarkably, <a href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Board Options</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\">Chess Board Options</a> appeared first on <a rel=\"nofollow\" ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/19/chess-board-options/",
+         "pubDate" : "Thu, 19 Aug 2021 00:10:40 +0000",
+         "title" : "Chess Board Options"
+      },
+      {
          "description" : "Unbelievable news-Evgeny Sveshnikov died after seemed overcomed COVID 19. He was just 71, always full of ideas. His dream was to participate in Seniors Championships (he won a lot) and to meet old friends. He really fought for Seniors chess and for the intellectual rights of chess players. He was one of the members of the famous Cheliabinsk&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1770,14 +1834,6 @@ news_feed (
          "title" : "Nominations for the 2021 elections at the AGM"
       },
       {
-         "description" : "Without suffering a single defeat in 27 games of rapid and blitz, GM Hikaru Nakamura won the Saint Louis Rapid &#38;amp; Blitz leg of the 2021 Grand Chess Tour. GM Fabiano Caruana played several stunning games and deservedly took second place, which k...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-blitz-day-5",
-         "pubDate" : "Sun, 15 Aug 2021 20:54:00 -0700",
-         "title" : "Saint Louis Rapid & Blitz Day 5: Nakamura Clinches First Place Early"
-      },
-      {
          "description" : " Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1960,6 +2016,14 @@ news_feed (
          "link" : "https://aicf.in/2021-asian-university-chess-championship/",
          "pubDate" : "Sat, 14 Aug 2021 04:20:25 +0000",
          "title" : "2021 Asian University Chess Championship"
+      },
+      {
+         "description" : " From the publisher: The Daunting Domain of Queen Endgames Explained! Knowing the abilities and limitations of the powerful queen is very valuable for mastering the secrets of the royal game, and this can be studied best in the endgame. Queen endgames are very difficult, if only for purely mathematical reasons the queen is the most <a href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Queen Endgames</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\">Understanding Queen Endgames</a> appea",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/14/understanding-queen-endgames/",
+         "pubDate" : "Sat, 14 Aug 2021 00:10:29 +0000",
+         "title" : "Understanding Queen Endgames"
       },
       {
          "description" : "",
@@ -2200,38 +2264,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/10/episode-238-jerald-times",
          "pubDate" : "Tue, 10 Aug 2021 12:23:20 +0000",
          "title" : "Episode 238- Jerald Times"
-      },
-      {
-         "description" : "Chess tournaments in Dortmund, Germany, have a long and illustrious tradition. In 2021, the Sparkassen Chess Trophy continued this tradition. Vishy Anand won a \"No Castling\" match against Vladimir Kramnik, Pavel Eljanov won the \"Deutschland Cup\". Now, the organizers released a video that reviews highlights of this year's tournament. In a personal statement during the award ceremony, Carsten Hensel, former manager of Kramnik, and driving force behind the organisation of the tournament, had already explained why Dortmund 2021 was a real highlight for him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/highlights-from-dortmund-2021",
-         "pubDate" : "Tue, 10 Aug 2021 11:53:46 +0100",
-         "title" : "Highlights from Dortmund 2021"
-      },
-      {
-         "description" : "The duel bishop against knight is often tricky. When defending, the side with the knight often tries to build a fortress to exploit the color blindness of the bishop. In the diagram position Black is two pawns down but built a fortress. However, will it hold? And, if so, how does Black make it last forever?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/long-may-it-last",
-         "pubDate" : "Tue, 10 Aug 2021 10:59:21 +0100",
-         "title" : "Long may it last"
-      },
-      {
-         "description" : " &#8220;Citius, Altius, Fortius&#8221; Charles Pierre de Fr&eacute;dy, Baron de Coubertin I don't know how you feel but for me there is something magic about the Olympics. It is big business these days for both the summer and winter games. Still to organize them (with all the financial burden) and participate at any edition (with all <a href=\"https://chessimprover.com/the-olympic-games/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Olympic Games\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-olympic-games/\">The Olympic Games</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-olympic-games/",
-         "pubDate" : "Tue, 10 Aug 2021 09:00:24 +0000",
-         "title" : "The Olympic Games"
-      },
-      {
-         "description" : "The FIDE Chess.com Grand Swiss and Women's Grand Swiss will be held in Riga in the format and dates originally scheduled: from 25 October to 8 November 2021. The difficult decision to relocate the tournament from Douglas, its original planned location, was forced due to the strict COVID-19 restrictions still in place in the Isle of Man. | Photo: Diego Delso",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-to-be-held-in-Riga",
-         "pubDate" : "Tue, 10 Aug 2021 09:40:00 +0100",
-         "title" : "Grand Swiss tournaments to be held in Riga"
       }
    ]
 }
