@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com invites you to try out different ways to express your chess with our three newest features! We are rolling out more emoji with Quick Chat, Board Emoji, and Reactions. We designed these features to make your chess experience even more fun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-animated-emoji-on-chess-com",
+         "pubDate" : "Tue, 31 Aug 2021 10:45:00 -0700",
+         "title" : "New Animated Emoji On Chess.com"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1626,14 +1634,6 @@ news_feed (
          "title" : "The 5 Costly Mistakes That the Amateurs Make"
       },
       {
-         "description" : "GMs Fabiano Caruana, Maxime Vachier Lagrave, and Leinier Dominguez started off with victories at the 2021 Sinquefield Cup, while GM Wesley So missed his chances to do the same against GM Shakhriyar Mamedyarov. GMs Jeffery Xiong and Richard Rapport...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-1",
-         "pubDate" : "Tue, 17 Aug 2021 20:25:00 -0700",
-         "title" : "Sinquefield Cup Day 1: Caruana, Dominguez, MVL Win In 1st Round"
-      },
-      {
          "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/u-s-open-chess-games-awards-signings-meetings",
          "pubDate" : "Tue, 10 Aug 2021 22:00:00 +0100",
          "title" : "U.S. Open: Chess games, awards, signings, meetings"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour will be played on August 11-15. The Saint Louis Rapid & Blitz will host 10 of the top players from around the world including world number 2, Fabiano Caruana (pictured), and 2021 Paris Rapid and Blitz winner, Wesley So. The tournament will showcase four GCT full tour players and six wildcards, including American favorites Hikaru Nakamura, Leinier Dominguez and first time participants, Sam Shankland and Jeffery Xiong. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-preview",
-         "pubDate" : "Tue, 10 Aug 2021 20:00:00 +0100",
-         "title" : "Starting Wednesday: St. Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Svitlana sets up a classic position between Nigel Short and Jan Timman. But before we start with the famous position, we derail a bit to the Alekhine Opening. It turns out, Svitlana Demchenko has a genuinely good score when playing the Alekhine Defense as Black. After the popular example, Svitlana shows us a similar technic from one of her own games, which she played in her chess club in Ottawa.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-10",
-         "pubDate" : "Tue, 10 Aug 2021 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Short's immortal king walk"
       }
    ]
 }
