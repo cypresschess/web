@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-4",
+         "pubDate" : "Tue, 31 Aug 2021 23:55:00 +0100",
+         "title" : "Aimchess US Rapid: Firouzja, Carlsen and Aronian win first sets"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1306",
+         "pubDate" : "Tue, 31 Aug 2021 22:18:24 +0000",
+         "title" : "Firouzja puts So to the sword as Carlsen downs Duda"
+      },
+      {
+         "description" : "PogChamps 4 presented by Coinbase entered day three with two matches. Both matches featured Group D, which after today is looking like perhaps the scariest in the field as even both players who lost their matches showed strong signs of chess abili...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps4-crokeyz-rubius-win",
+         "pubDate" : "Tue, 31 Aug 2021 15:08:31 -0700",
+         "title" : "PogChamps 4 Day 3: Group D Impresses"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Among the electronic chess boards that keep hitting the market, the latest products of <strong>Millennium</strong> and <strong>DGT</strong> stand out as suitable for competitive players, reports <em>Conrad Schormann</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/millennium-hybridtest.1920.jpeg\" title=\"The Supreme Tournament 55 during the hybrid match test. photo: Millennium 2000\" data-title=\"The Supreme Tournament 55 during the hybrid match test. (photo: Millennium 2000)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/millennium-hybridtest.480.jpeg\" alt=\"Th",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-boards-for-online-and-hybrid/",
+         "pubDate" : "Tue, 31 Aug 2021 21:08:50 +0100",
+         "title" : "New boards for online and hybrid play"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The always fashionable 6th arondissement of Paris will be home of the chess bar <strong>Blitz Society</strong> that shall open on 14 October on Rue du Sabot. One of the four owners is chess coach <strong>Vincent Riff</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/paris-gets-a-chess-bar/",
+         "pubDate" : "Tue, 31 Aug 2021 19:54:38 +0100",
+         "title" : "Paris gets a chess bar"
+      },
+      {
          "description" : "Chess.com invites you to try out different ways to express your chess with our three newest features! We are rolling out more emoji with Quick Chat, Board Emoji, and Reactions. We designed these features to make your chess experience even more fun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,28 +50,12 @@ news_feed (
          "title" : "New Animated Emoji On Chess.com"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Tue, 31 Aug 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured:Nils Grandelius / Photo by Thorsteinn Magnusson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-2021-live",
          "pubDate" : "Tue, 31 Aug 2021 16:55:00 +0100",
          "title" : "European Championship - Live!"
-      },
-      {
-         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda, after Duda recently beat Carlsen in the semifinals of the World Cup. | Pictured: Locations of the participants",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-3",
-         "pubDate" : "Tue, 31 Aug 2021 16:00:00 +0100",
-         "title" : "Aimchess US Rapid: Carlsen to face Duda in quarterfinals"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/theory-and-practice",
          "pubDate" : "Tue, 31 Aug 2021 09:00:00 +0100",
          "title" : "Theory and practice"
+      },
+      {
+         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda, after Duda recently beat Carlsen in the semifinals of the World Cup. | Pictured: Locations of the participants",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-3",
+         "pubDate" : "Tue, 31 Aug 2021 08:50:00 +0100",
+         "title" : "Aimchess US Rapid: Carlsen to face Duda in quarterfinals"
       },
       {
          "description" : " Coming into the last round of the prelims, three players had a shot at the last qualifying spot for the knockout stage of the <a href=\"https://championschesstour.com/\">Aimchess US Rapid</a> tournament, the last of the \"regular\" Meltwater tour events for the year. Leinier Dominguez and Anish Giri had 7.5 points out of 14, with Maxime Vachier-Lagrave half a point back. Giri had the worst tiebreak scores of the three, so he'd have to finish ahead of his rivals to get that last spot. Giri had Black against Alireza Firouzja, while MVL had White against Dominguez. Since someone was guaranteed to get at least eight points from the latter match, Giri would have to win his game, and hope Dominguez d",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-announces-special-arena-kings-club-edition-on-sept-3",
          "pubDate" : "Sun, 29 Aug 2021 10:56:00 -0700",
          "title" : "Chess.com Announces Special Arena Kings: Club Edition On Sept. 3"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Haichess</strong> has evolved from a <strong>Lichess</strong> clone into a Chinese-language chess training platform that is not <a href=\"https://www.chesstech.org/2020/lichess-pirated-in-china/\">any more violating</a> the <a href=\"https://github.com/ornicar/haichess.com\">open source licenses</a>. It is free for clubs and coaches and connects them with a few thousand individual members who want to improve their chess. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/haichess-complies-with-lichess-rules/",
-         "pubDate" : "Sun, 29 Aug 2021 17:04:15 +0100",
-         "title" : "Haichess complies with Lichess rules"
       },
       {
          "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
@@ -568,14 +592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1298",
          "pubDate" : "Fri, 27 Aug 2021 07:57:04 +0000",
          "title" : "Maxime Vachier-Lagrave wins Sinquefield Cup 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong> is the overall winner of the <strong>Grand Chess Tour</strong>, netting $242,500, while <strong>Maxime Vachier-Lagrave</strong>, who came first in the concluding <strong>Sinquefield Cup</strong>, walks away with $206,250. In the absence of Magnus Carlsen there was less attention than usual, and presenting partner <strong>Kasparovchess</strong> could not fully compensate this. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mvl-wins-sinquefield-so-wins-gct/",
-         "pubDate" : "Fri, 27 Aug 2021 08:23:58 +0100",
-         "title" : "MVL wins Sinquefield, So wins GCT"
       },
       {
          "description" : "Maxime Vachier-Lagrave got clear first place at the Sinquefield Cup after all five games finished drawn in round 9 - i.e. none of the chasers managed to catch up with him in the last hurdle. Thanks to his performance in Saint Louis, MVL returned to the top 10 in the world ranking and grabbed second place in this year's Grand Chess Tour. Wesley So, Fabiano Caruana and Leinier Dominguez finished a half point back. | Photo: Lennart Ootes",
@@ -1546,14 +1562,6 @@ news_feed (
          "title" : "Game of the Week 477: F. Caruana - S. Shankland, Sinquefield Cup 2021"
       },
       {
-         "description" : "The Russian-Latvian grandmaster, former world senior champion, chess opening revolutionary, writer, trainer, and outspoken GM Evgeny Sveshnikov has passed away at the age of 71. His death came only a few months after his mother had died at the age...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/evgeny-sveshnikov-1950-2021",
-         "pubDate" : "Wed, 18 Aug 2021 09:58:00 -0700",
-         "title" : "Evgeny Sveshnikov, 1950-2021"
-      },
-      {
          "description" : "Fabiano Caruana got off to a perfect start in this year's Sinquefield Cup, getting the chance to play a nice, if relatively simple, queen sacrifice and take down Sam Shankland. The two new faces, compared to the recently concluded St. Louis Rapid &amp; Blitz, were involved in the first round's two other decisive games, though they had opposing fortunes: Maxime Vachier-Lagrave exploited a crucial error by Peter Svidler, but Dariusz Swiercz was ground down by Leinier Dominguez.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jorge-cori-wins-mexican-open-2021",
          "pubDate" : "Wed, 11 Aug 2021 08:00:00 +0100",
          "title" : "Jorge Cori wins Mexican Open"
-      },
-      {
-         "description" : "Grandmaster Aleksandr Lenderman won the U.S. Open with 8&frac12; points out of 9 rounds. Mike Walder annotates Lenderman's wins over Grandmasters Hans Niemann and John Michael Burke. Alexey Root reports on the awards presentations, book signings, and meetings held at the U.S. Open's Cherry Hill, New Jersey site. | Photos: Alexey Root",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-open-chess-games-awards-signings-meetings",
-         "pubDate" : "Tue, 10 Aug 2021 22:00:00 +0100",
-         "title" : "U.S. Open: Chess games, awards, signings, meetings"
       }
    ]
 }
