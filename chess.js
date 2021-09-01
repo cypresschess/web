@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Wed, 01 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Wed, 01 Sep 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The judges this year received a large number of high quality books to choose from. The shortlist was further complicated as many overlapped on subject...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/book-of-the-year-2021-shortlist/",
+         "pubDate" : "Wed, 01 Sep 2021 15:16:34 +0000",
+         "title" : "Book of the Year 2021 shortlist"
+      },
+      {
+         "description" : "The new ChessBase Magazine # 203 already whets the appetite for the World Championship match in November. In the \"Special: Ian Nepmniachtchi\" each of our authors analyses their favorite game of the new challenger. The result is an exclusive collection of 21 extensively annotated games. Karsten M&uuml;ller puts the technique of the 31-year-old Russian to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes \"Nepos\" playing style. Adhiban, Krasenkow, Navara, Praggnanandhaa, Vitiugov, Wojtaszek and others comment on their games from the World Cup. Plus 10 opening articles (\"The Scandinavian under pressure\", \"News from the Fantasy ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-203-special-on-ian-nepomniachtchi-top-duels-from-the-world-cup-and-much-more",
+         "pubDate" : "Wed, 01 Sep 2021 15:00:00 +0100",
+         "title" : "CBM # 203: \"Special\" on Ian Nepomniachtchi, top duels from the World Cup, and much more"
+      },
+      {
+         "description" : " I'm pretty sure that everyone in Canberra is aware that the current lockdown has been extended for another 2 weeks (17th September at the moment). So OTB chess looks unlikely for the near future (noting that I did get a phone call on Saturday asking me where all the Street Chess players were!) So it is now a steady diet of online events, both to play, and to watch. One event to watch is the 2nd Division of the 2021 Online Olympiad. The Australian team has been seeded into this division, and is in Pool A. This is the first of the pools to start playing tomorrow (2nd September), with their games starting at 6pm. There will be 3 rounds per day, with the top 3 teams going through to the top div",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/extended-lockdowns.html",
+         "pubDate" : "Wed, 01 Sep 2021 13:39:00 +0000",
+         "title" : "Extended lockdowns"
+      },
+      {
+         "description" : "The semi- finals both take place on Sunday 16th January; North - Nottingham High School; South - St Catherine's School, Bramley Entry fee &pound;10.00 per...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/girls-national-schools-chess-championship-2022/",
+         "pubDate" : "Wed, 01 Sep 2021 12:10:08 +0000",
+         "title" : "Girls' National Schools Chess Championship 2022"
+      },
+      {
+         "description" : "\"I don't get revenge by beating people once,\" said Magnus Carlsen after defeating his World Cup conqueror Jan-Krzysztof Duda 2.5:0.5 on Day 1 of their Aimchess US Rapid quarterfinal. 18-year-old Alireza Firouzja also wrapped things up in three games against Wesley So, while the day's other win saw Levon Aronian defeat Shakhriyar Mamedyarov 3:1 in a swashbuckling match featuring only decisive games. Duda, So and Mamedyarov must now hit back on Wednesday, while Artemiev-Dominguez is tied after a comeback by Vladislav Artemiev.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-4-carlsen-firouzja-aronian-strike",
+         "pubDate" : "Wed, 01 Sep 2021 11:16:26 +0000",
+         "title" : "Aimchess US Rapid 4: Carlsen, Firouzja & Aronian strike"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave couldn't have asked for a better time to win the Sinquefield Cup. Scoring six points in nine rounds, he became the only player to outrightly win the event twice. Equally important for him, the win beckons a return to top form. In an interview with Dhananjay Khadilkar, he remarked, \"I have absolutely no doubt that I am part of the chess elite\". | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aimchess-us-rapid-quarterfinals-day-1",
-         "pubDate" : "Wed, 01 Sep 2021 02:39:58 -0700",
+         "pubDate" : "Wed, 01 Sep 2021 02:39:00 -0700",
          "title" : "Aimchess U.S. Rapid QF: Aronian, Carlsen, Firouzja Lead"
       },
       {
@@ -1418,7 +1474,7 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty One"
       },
       {
-         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million followers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <span>Related: </span><a href=\"https://www.theguardian.com/sport/commentisfree/2021/jul/24/l",
+         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million followers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <a href=\"https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carls",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carlsen-after-27-game-unbeaten-run",
@@ -1936,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
          "pubDate" : "Sun, 15 Aug 2021 14:55:00 +0100",
          "title" : "St. Louis Rapid & Blitz - Nakamura wins"
-      },
-      {
-         "description" : "Hikaru Nakamura scored an unbeaten +3 on the first day of blitz to move to what looks like an unassailable 2.5-point lead over 2nd place Fabiano Caruana, who bounced back to score 50% after suffering three losses. Hikaru's real challenge is to stay top of the blitz live rating list, as he's now tied on 2892 with Magnus Carlsen. The day's other top performer was Liem Quang Le, who won five games as he matched Nakamura's 6/9 to climb out of the last place in which he finished the rapid.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/stl-rapid-blitz-4-nakamura-cruising-to-victory",
-         "pubDate" : "Sun, 15 Aug 2021 13:32:01 +0000",
-         "title" : "STL Rapid & Blitz 4: Nakamura cruising to victory"
       },
       {
          "description" : "",
