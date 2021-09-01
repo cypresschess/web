@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> August 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/august-2021-chess-puzzle-answer-key",
+         "pubDate" : "Wed, 01 Sep 2021 05:00:00 +0000",
+         "title" : "August 2021 Chess Puzzle Answer Key "
+      },
+      {
          "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-michael-khodarkovsky-interview-round-9",
          "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
          "title" : "2021 Sinquefield Cup: Michael Khodarkovsky Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-sam-shankland-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W3EOzONCcO0.jpg?itok=Y_S3hPbj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-sam-shankland-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Sam Shankland Interview | Round 9"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in fifth place with ...",
@@ -2240,22 +2240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-one-of-my-own",
          "pubDate" : "Wed, 11 Aug 2021 09:28:19 +0100",
          "title" : "The Weekly Show: One of my own!"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">FIDE Grand Swiss Tournament 2021</strong> <strong>Individual tournament, <time datetime='2021-10-25' itemprop=\"startDate\">Mon-Mon 25 Oct - 08 Nov 2021</time><br> <span itemprop='location'>Riga</span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.fide.com\">F&eacute;d&eacute;ration Internationale des Échecs</a> </div> <strong>News</strong> <ul> <li>12 Aug 2021: <a href=\"https://www.chesstech.org/2021/grand-swiss-moved-to-riga-due-to-uk/\">Grand Swiss moved to Riga due to UK restrictions</a></li> <li>28 Jul 2021: <a href=\"https://www.chesstech.org/2021/the-only-top-10",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "",
-         "pubDate" : "Wed, 11 Aug 2021 08:23:05 +0100",
-         "title" : "FIDE Grand Swiss Tournament 2021"
-      },
-      {
-         "description" : "The 66th edition of the Mexican Open took place on August 4-8 in Villahermosa, Tabasco. Seven concurrent tournaments were held, including an International Open and events reserved for women, seniors and amateurs. In the main event, top seed Jorge Cori from Peru was the clear winner. Sandro Mareco (Argentina) and Juan Carlos Obreg&oacute;n (Cuba) finished second and third respectively. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jorge-cori-wins-mexican-open-2021",
-         "pubDate" : "Wed, 11 Aug 2021 08:00:00 +0100",
-         "title" : "Jorge Cori wins Mexican Open"
       }
    ]
 }
