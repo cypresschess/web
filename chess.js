@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Minh Le won the August 31 Titled Tuesday outright with an undefeated 10/11 score, a repeat of his July 20 performance. Three players finished tied a half-point behind him, with GM Aleksei Priodrozhni taking second on tiebreaks, GM Vitaly Bernad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-wins-august-31-titled-tuesday",
+         "pubDate" : "Wed, 01 Sep 2021 11:42:27 -0700",
+         "title" : "Minh Le Wins August 31 Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1307",
+         "pubDate" : "Wed, 01 Sep 2021 17:47:51 +0000",
+         "title" : "Kosteniuk and Danielian rocket up in September rating list"
+      },
+      {
+         "description" : "The Scandinavian opening is controversial. Some hate it, others love it. But if Magnus Carlsen and many other Grandmasters play this opening occasionally, it wouldn't harm to take a closer look at it. Especially the \"Portuguese Variation\" is worth discovering. This tricky line is full of tactics, and heavy development on Black's side. Furthermore, Svitlana teaches us some more ideas from a blindfold match between Gelfand and Morozevich. After all, it is a great idea to try out openings you have never ever touched before, to get the most out of this beautiful game called chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-11",
+         "pubDate" : "Wed, 01 Sep 2021 18:30:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Portuguese Variation"
+      },
+      {
+         "description" : "This week, Merijn van Delft chooses one of the many exciting games played in the prelims of the Aimchess US Rapid tournament - Daniel Naroditsky's impressive attacking win over Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-479-naroditsky-impressive-attack",
+         "pubDate" : "Wed, 01 Sep 2021 18:15:00 +0100",
+         "title" : "Game of the Week 479: Naroditsky's impressive attack"
+      },
+      {
+         "description" : "The FIDE Management Board is currently looking at proposals for tightening grandmaster norm criteria. It is part of a larger debate that followed upon Abhimanyu Mishra becoming the youngest GM in history by playing a series of round-robin tourname...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-grandmaster-title-mishra-karjakin-areshchenko-malinin",
+         "pubDate" : "Wed, 01 Sep 2021 09:26:00 -0700",
+         "title" : "FIDE Likely To Make It Harder To Become A Grandmaster, But Will It Be Enough?"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1506,14 +1546,6 @@ news_feed (
          "title" : "Sinquefield Cup Day 3: Caruana, So, MVL Lead With 2.5/3"
       },
       {
-         "description" : "A blitz tournament held in Moscow on Monday, in memory of the seventh world chess champion Vasily Smyslov, was won by GM Ian Nepomniachtchi. The 12th world champion Anatoly Karpov did quite well, scoring plus-one and beating both GM Sergey Karjaki...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/smyslov-memorial-blitz-region-nepomniachtchi-karpov",
-         "pubDate" : "Thu, 19 Aug 2021 09:09:00 -0700",
-         "title" : "Smyslov Memorial Blitz: Nepomniachtchi 1st; Karpov Beats Karjakin"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Cambridge Springs Variation in the Semi Slav 5.Bg5 Nbd7 6.e3 Qa5 and how White might be able to generate fast and furious play against this seemingly solid line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1280",
          "pubDate" : "Thu, 19 Aug 2021 06:27:49 +0000",
          "title" : "Wesley So joins leaders"
-      },
-      {
-         "description" : "GM Wesley So joined the leaders by handing GM Dariusz Swiercz his second loss with the white pieces. The rest of the games were drawn, as the contestants are gathering their strength. GMs Fabiano Caruana, Maxime Vachier-Lagrave, Leinier Dominguez,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-2",
-         "pubDate" : "Wed, 18 Aug 2021 18:26:00 -0700",
-         "title" : "Sinquefield Cup Day 2: So Wins, Joins Leaders"
       },
       {
          "description" : " From the publisher: &#8220;Larry Kaufman can safely be called an exceptional chess grandmaster Larry Kaufman started out as a prodigy, however not in chess but as a whizz kid in science and math. He excels at shogi (Japanese chess) and Go, and is also a world-famous computer programmer and a highly successful option trader. Remarkably, <a href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Board Options</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\">Chess Board Options</a> appeared first on <a rel=\"nofollow\" ",
