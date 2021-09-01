@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave couldn't have asked for a better time to win the Sinquefield Cup. Scoring six points in nine rounds, he became the only player to outrightly win the event twice. Equally important for him, the win beckons a return to top form. In an interview with Dhananjay Khadilkar, he remarked, \"I have absolutely no doubt that I am part of the chess elite\". | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mvl-interview-sinquefield-cup-2021",
+         "pubDate" : "Wed, 01 Sep 2021 12:00:05 +0100",
+         "title" : "MVL on the significance of winning the 2021 Sinquefield Cup"
+      },
+      {
+         "description" : "GM Alireza Firouzja&#38;nbsp;defeated America&#39;s GM Wesley So 2.5-0.5 in their first quarterfinal match of the online Aimchess U.S. Rapid tournament. GM Magnus Carlsen and GM Levon Aronian also started with wins against GM Jan-Krzysztof Duda and GM Sha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-quarterfinals-day-1",
+         "pubDate" : "Wed, 01 Sep 2021 02:39:58 -0700",
+         "title" : "Aimchess U.S. Rapid QF: Aronian, Carlsen, Firouzja Lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> August 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Aimchess US Rapid: Firouzja, Carlsen and Aronian win first sets"
       },
       {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After six rounds, Azerbaijani GM Rauf Mamedov took the sole lead with 5&frac12; points. Four players stand a half point back, including 16-year-old German prodigy Vincent Keymer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
+         "pubDate" : "Tue, 31 Aug 2021 23:50:00 +0100",
+         "title" : "European Championship (R6): Mamedov grabs the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps4-crokeyz-rubius-win",
          "pubDate" : "Tue, 31 Aug 2021 15:08:31 -0700",
          "title" : "PogChamps 4 Day 3: Group D Impresses"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at a game which shows how things can go wrong from the black side of a Slav Defence - i.e. Wesley So vs Awonder Liang from the Aimchess US Rapid. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid",
+         "pubDate" : "Tue, 31 Aug 2021 22:20:00 +0100",
+         "title" : "The Weekly Show: Aimchess US Rapid"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Among the electronic chess boards that keep hitting the market, the latest products of <strong>Millennium</strong> and <strong>DGT</strong> stand out as suitable for competitive players, reports <em>Conrad Schormann</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/millennium-hybridtest.1920.jpeg\" title=\"The Supreme Tournament 55 during the hybrid match test. photo: Millennium 2000\" data-title=\"The Supreme Tournament 55 during the hybrid match test. (photo: Millennium 2000)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/millennium-hybridtest.480.jpeg\" alt=\"Th",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/new-animated-emoji-on-chess-com",
          "pubDate" : "Tue, 31 Aug 2021 10:45:00 -0700",
          "title" : "New Animated Emoji On Chess.com"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured:Nils Grandelius / Photo by Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Tue, 31 Aug 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-2",
          "pubDate" : "Mon, 30 Aug 2021 02:00:00 +0100",
          "title" : "Aimchess US Rapid: Artemiev shines, Naroditsky keeps it sharp"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Armenian GM Robert Hovhannisyan is the only player to have won all four of his games from Thursday to Sunday. Twelve players are sharing second place on 3&frac12;/4 points. | Pictured: Velimir Ivic playing white against David Navara (0-1)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Sun, 29 Aug 2021 23:50:00 +0100",
-         "title" : "European Championship (R4): Games and results"
       },
       {
          "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "EVGENY SVESHNIKOV - Cheliabimsk Warrior"
       },
       {
-         "description" : "GM Hikaru Nakamura set an unbreakable Titled Tuesday record on August 17, becoming the first player to score a perfect 11/11. Nakamura won first place by 1.5 points coming on the heels of a victory in the over-the-board Saint Louis Rapid &#38;amp; Bli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-august-17-titled-tuesday-first-perfect-11",
-         "pubDate" : "Wed, 18 Aug 2021 10:55:45 -0700",
-         "title" : "Hikaru Nakamura Scores First Perfect 11/11 In Titled Tuesday"
-      },
-      {
          "description" : " I was saddened to learn of the passing of Evgeny Sveshnikov today at the age of 71, we played in a number of tournaments together and was always impressed by his interesting games and fighting qualities. He was the originator of many ideas in the openings out of which just the Sveshnikov Sicilian (1.e4 c5 <a href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Evgeny Sveshnikov: 1950-2021\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\">Evgeny Sveshnikov: 1950-2021</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2224,22 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1262",
          "pubDate" : "Wed, 11 Aug 2021 20:24:27 +0000",
          "title" : "Rhodes to host World Amateur Championships 2021"
-      },
-      {
-         "description" : "The Riga Technical University Open is taking place on August 9-15 at the international exhibition centre Kipsala in the Latvian capital. The tournament sees 176 players fighting for a €17,100 prize fund. German GM Alexander Donchenko is the top seed, and is followed closely by nine other 2600+ rated players, including six grandmasters hailing from India. After three rounds, nine players still have a perfect score.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-2021-r3",
-         "pubDate" : "Wed, 11 Aug 2021 10:30:00 +0100",
-         "title" : "RTU Open: A massive turnout"
-      },
-      {
-         "description" : "In this week's \"Weekly Show\" IM Lawrence Trent is doing something a little different: he will analyse the first \"Over-the-Board\" game he has played for about 18 months! It is his victory vs Torben Schulenburg from a match between the SK Norderstedt and the Chess Friends Hamburg in the \"Oberliga\", Germany's third league. Lawrence will also talk about the big news such as the Chessable Masters, World Cup winner etc. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-one-of-my-own",
-         "pubDate" : "Wed, 11 Aug 2021 09:28:19 +0100",
-         "title" : "The Weekly Show: One of my own!"
       }
    ]
 }
