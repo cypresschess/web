@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in the Meltwater Champions Chess Tour, Alireza Firouzja has made it past the quarterfinals. And the 18-year-old did it in style, knocking out one of the toughest opponents in the tour, Wesley So. In the semis, Firouzja will face Vladislav Artemiev, who defeated Leinier Dominguez in a close match. The other semifinal will see Magnus Carlsen playing Levon Aronian. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-5",
+         "pubDate" : "Thu, 02 Sep 2021 00:10:00 +0100",
+         "title" : "Aimchess US Rapid: Firouzja knocks out So after thrilling second set"
+      },
+      {
+         "description" : "The fourth day of PogChamps 4 presented by Coinbase brought an unparalleled mixture of drama and shock to the more than 30,000 concurrent viewers enjoying the show live on Twitch. Tectone got his first PogChamps victory after defeating NickEh30,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-tectone-justaminx-boxbox-win",
+         "pubDate" : "Wed, 01 Sep 2021 14:17:00 -0700",
+         "title" : "PogChamps 4 Day 4: Tectone, JustaMinx Turn Tables; Boxbox Triumphs Tactically"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Sabrina Chevannes</strong>, winner of the <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/chesscom-redesign-contest\">Redesign Contest</a> and its $10,000 first prize, joins the <a href=\"https://bridge.beamian.com/event/475\">Work4Chess conference</a> on 18 September as speaker. The owner of the London web design and digital marketing agency <strong>Complex Creative</strong> will co-lead a <a href=\"https://bridge.beamian.com/event/475/sessions/session/5963\">workshop on user experience</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chevannes-joins-work4chess/",
+         "pubDate" : "Wed, 01 Sep 2021 19:56:38 +0100",
+         "title" : "Chevannes joins Work4Chess"
+      },
+      {
          "description" : "IM Minh Le won the August 31 Titled Tuesday outright with an undefeated 10/11 score, a repeat of his July 20 performance. Three players finished tied a half-point behind him, with GM Aleksei Priodrozhni taking second on tiebreaks, GM Vitaly Bernad...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The Portuguese Variation"
       },
       {
+         "description" : "Maxime Vachier-Lagrave couldn't have asked for a better time to win the Sinquefield Cup. Scoring six points in nine rounds, he became the only player to outrightly win the event twice. Equally important for him, the win beckons a return to top form. In an interview with Dhananjay Khadilkar, he remarked, \"I have absolutely no doubt that I am part of the chess elite\". | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mvl-interview-sinquefield-cup-2021",
+         "pubDate" : "Wed, 01 Sep 2021 18:20:00 +0100",
+         "title" : "MVL on the significance of winning the 2021 Sinquefield Cup"
+      },
+      {
          "description" : "This week, Merijn van Delft chooses one of the many exciting games played in the prelims of the Aimchess US Rapid tournament - Daniel Naroditsky's impressive attacking win over Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +74,20 @@ news_feed (
          "title" : "FIDE Likely To Make It Harder To Become A Grandmaster, But Will It Be Enough?"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. Half the players made it to the knockout stage. In the quarterfinals, Artemiev plays Dominguez, So faces Firouzja, Aronian battles against Mamedyarov, and Carlsen gets a rematch against Duda, who recently knocked him out of the World Cup. | The action kicks off daily at 11:00 ET (17:00 CEST, 20:30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Wed, 01 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Wed, 01 Sep 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
-      },
-      {
          "description" : "The judges this year received a large number of high quality books to choose from. The shortlist was further complicated as many overlapped on subject...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/book-of-the-year-2021-shortlist/",
          "pubDate" : "Wed, 01 Sep 2021 15:16:34 +0000",
          "title" : "Book of the Year 2021 shortlist"
+      },
+      {
+         "description" : " You recently started to play chess and are rated under 1700? Do you sometimes feel helpless because you don't have effective strategic principles to base your decisions on? Then this article is perfect for you. I teach you the 5 best strategy tips for beginners. Having those basic principles to rely on will make it [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginner-chess-strategy/\">Beginner Chess Strategy: 5 Must-Know Tips</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/beginner-chess-strategy/",
+         "pubDate" : "Wed, 01 Sep 2021 14:00:00 +0000",
+         "title" : "Beginner Chess Strategy: 5 Must-Know Tips"
       },
       {
          "description" : "The new ChessBase Magazine # 203 already whets the appetite for the World Championship match in November. In the \"Special: Ian Nepmniachtchi\" each of our authors analyses their favorite game of the new challenger. The result is an exclusive collection of 21 extensively annotated games. Karsten M&uuml;ller puts the technique of the 31-year-old Russian to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes \"Nepos\" playing style. Adhiban, Krasenkow, Navara, Praggnanandhaa, Vitiugov, Wojtaszek and others comment on their games from the World Cup. Plus 10 opening articles (\"The Scandinavian under pressure\", \"News from the Fantasy ",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-4-carlsen-firouzja-aronian-strike",
          "pubDate" : "Wed, 01 Sep 2021 11:16:26 +0000",
          "title" : "Aimchess US Rapid 4: Carlsen, Firouzja & Aronian strike"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave couldn't have asked for a better time to win the Sinquefield Cup. Scoring six points in nine rounds, he became the only player to outrightly win the event twice. Equally important for him, the win beckons a return to top form. In an interview with Dhananjay Khadilkar, he remarked, \"I have absolutely no doubt that I am part of the chess elite\". | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mvl-interview-sinquefield-cup-2021",
-         "pubDate" : "Wed, 01 Sep 2021 12:00:05 +0100",
-         "title" : "MVL on the significance of winning the 2021 Sinquefield Cup"
       },
       {
          "description" : "GM Alireza Firouzja&#38;nbsp;defeated America&#39;s GM Wesley So 2.5-0.5 in their first quarterfinal match of the online Aimchess U.S. Rapid tournament. GM Magnus Carlsen and GM Levon Aronian also started with wins against GM Jan-Krzysztof Duda and GM Sha...",
@@ -384,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-london-find-the-winning-move",
          "pubDate" : "Mon, 30 Aug 2021 11:00:00 +0100",
          "title" : "Chess London: Find the winning move"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Play Magnus Group Asia-Pacific</strong> <a href=\"https://championschesstour.com/tour-joins-forces-with-esports-giant-to-launch-first-regional-expansion/\">is partnering</a> with <strong>Mobile Premier League</strong>, India's biggest E-sport provider, to run the <strong>MPL Indian Chess Tour</strong> with $100,000 in prizes and qualification spots for Indian players in the next <strong>Meltwater Champions Chess Tour</strong>, creating the tour's first regional subsidiary. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/champions-tour-gets-indian/",
-         "pubDate" : "Mon, 30 Aug 2021 09:34:19 +0100",
-         "title" : "Champions Tour gets Indian subsidiary"
       },
       {
          "description" : "GM Vladislav Artemiev leads the preliminary stage of the Aimchess U.S. Rapid after two days. The 23-year-old Russian grandmaster scored 7.5/10, half a point more than GM Magnus Carlsen, who is back in the field for this final leg of the Champions ...",
@@ -1538,14 +1546,6 @@ news_feed (
          "title" : "2021 Onilne Chess Olympiad - Starts today"
       },
       {
-         "description" : "Four of the five games in round three of the 2021 Sinquefield Cup were decisive. Wins by GMs Fabiano Caruana, Maxime Vachier-Lagrave, and Wesley So keep them in the lead of the pack with 2.5/3. GM Richard Rapport lost a heartbreaker to GM Shakhr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-3",
-         "pubDate" : "Thu, 19 Aug 2021 20:02:00 -0700",
-         "title" : "Sinquefield Cup Day 3: Caruana, So, MVL Lead With 2.5/3"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Cambridge Springs Variation in the Semi Slav 5.Bg5 Nbd7 6.e3 Qa5 and how White might be able to generate fast and furious play against this seemingly solid line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2288,22 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-1",
          "pubDate" : "Thu, 12 Aug 2021 06:30:00 +0100",
          "title" : "St. Louis Rapid & Blitz: Excitement galore"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at a fine attacking game between Wesley So and Le Quang Liem from the finals of the Chessable Masters Online Rapid Tournament, which was won by So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-476-wesley-so-le-quang-liem",
-         "pubDate" : "Wed, 11 Aug 2021 22:48:30 +0100",
-         "title" : "Game of the Week 476: Wesley So - Le Quang Liem"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1262",
-         "pubDate" : "Wed, 11 Aug 2021 20:24:27 +0000",
-         "title" : "Rhodes to host World Amateur Championships 2021"
       }
    ]
 }
