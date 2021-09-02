@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The Scandinavian is one of the most direct approaches against 1.e4. Right from the first move Black is attacking White's centre. A lot of players, especially club players, don't like to face this line because of this aggressive character. Most of them flee into offbeat lines which are not very critical. The ones who dare to go for the mainlines need to remember a lot of lines. This makes the Scandinavian a perfect choice for your repertoire. In the Fianchetto Scandinavian, Dutch IM Nico Zwirs will share his experience with the love of his youth.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-nico-zwirs-the-fianchetto-scandinavian-1-e4-d5-2-exd5-nf6",
+         "pubDate" : "Thu, 02 Sep 2021 16:30:00 +0100",
+         "title" : "New - Nico Zwirs: The Fianchetto Scandinavian (1.e4 d5 2.exd5 Nf6)"
+      },
+      {
+         "description" : " One of the biggest issues many improving players face is where to get some decent practice. Playing online tends to be fraught with difficulty because many players are there for fun rather than structured improvement. I've now discovered a way round this by setting up a Tigerchess Themed Training team at Lichess. Once enough players <a href=\"https://chessimprover.com/lichess-training-events/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lichess Training Events\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lichess-training-events/\">Lichess Training Events</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improv",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/lichess-training-events/",
+         "pubDate" : "Thu, 02 Sep 2021 13:41:51 +0000",
+         "title" : "Lichess Training Events"
+      },
+      {
+         "description" : " Despite Steinitz's arguments to the contrary, the king doesn't usually fare well out in the open. A good example is the following game from the 2021 Online Chess Olympiad <br /> <br /> <b>Weng,Yu-Hsin (1000) - Cheng,Chao Xin (1440) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (3.1), 02.09.2021 <script>new PgnViewer( { boardName: \"game1267\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nc6 3.c4 Bg4 4.cxd5 Bxf3 5.dxc6 Bxc6 6.Nc3 e6 7.Bf4 Nf6 8.e3 a6 9.f3 Nh5 10.Bg3 Nxg3 11.hxg3 Qg5 12.Kf2 Bd6 13.f4 Qf6 14.e4 O-O-O 15.d5 exd5 16.exd5 Bc5+ 17.Kf3 Rhe8 18.Ne4 Rxe4 19.Kxe4 Bxd5+ 20.Qxd5 Rxd5 21.Kf3 Qxb2 22.Be2 f5 23.Rhb1 Rd3+ 24.Bxd3 Qf2# 0-1', pauseBetweenMoves: 500, pieceSize: 29 } );",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/the-king-is-not-attacking-piece.html",
+         "pubDate" : "Thu, 02 Sep 2021 13:30:00 +0000",
+         "title" : "The king is not an attacking piece"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1309",
+         "pubDate" : "Thu, 02 Sep 2021 12:34:14 +0000",
+         "title" : "The winners of the Online Cadets & Youth World Cup announced"
+      },
+      {
+         "description" : "Fabiano Caruana and his second Rustam Kasimdzhanov formed a very successful team. However, their best year together (2018) ended in disappointment after many successes. The last Candidates Tournament did not go as desired either. \"The pandemic year did not do our relationship any good\", says Rustam Kasimdzhanov. Now Fabiano Caruana and Rustam Kasimdzhanov are going their separate ways. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second",
+         "pubDate" : "Thu, 02 Sep 2021 13:25:00 +0100",
+         "title" : "Kasimdzhanov after ending collaboration with Caruana: \"It has a lot to do with the pandemic\""
+      },
+      {
+         "description" : "18-year-old Alireza Firouzja is in his first Meltwater Champions Chess Tour semi-final after surviving a thrilling comeback to beat Wesley So in blitz tiebreaks. Alireza will now play Vladislav Artemiev, whose victory over Leinier Dominguez also qualified him for the Finals of the Tour in place of Maxime Vachier-Lagrave. Magnus Carlsen and Levon Aronian play the other semi-final after both won with a game to spare, though Magnus got an a shock when he realised he'd blundered a pawn to Jan-Krzysztof Duda in a game he still went on to win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-5-firouzja-takes-down-so",
+         "pubDate" : "Thu, 02 Sep 2021 11:37:01 +0000",
+         "title" : "Aimchess US Rapid 5: Firouzja takes down So"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1994,14 +2058,6 @@ news_feed (
          "title" : "Donchenko scores six wins in a row, gets clear first place at RTU Open"
       },
       {
-         "description" : "16-year-old German chess prodigy Vincent Keymer has qualified to play on the Meltwater Champions Chess Tour after a nerve-wracking final day of the Kramnik Challenge, the 3rd event on the $100,000 Julius Baer Challengers Chess Tour. He won a brilliant game in the penultimate round to overtake his main rival Awonder Liang, and then got the draw he needed in the final round only after twice coming back from the dead against Dinara Saduakassova.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/keymer-wins-kramnik-challenge-in-last-day-thriller",
-         "pubDate" : "Sun, 15 Aug 2021 21:38:35 +0000",
-         "title" : "Keymer wins Kramnik Challenge in last-day thriller"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85352221.cms\" />Indian Grandmaster S L Narayanan logged seven points from nine rounds to finish second in the tournament 'A' of the 10th Riga Technical University Open here on Sunday. Donchenko notched up 7.5 points from nine rounds and sealed the title with a win over Igor Kovalenko of Latvia in the final round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2234,14 +2290,6 @@ news_feed (
          "title" : "Chess: Keith Arkell captures online British title after rival is disqualified"
       },
       {
-         "description" : " Last week, we looked at creating simple combinations, and examining some basic ideas that help you set your tactics up. I highly recommend that you invest in some tactics oriented computer apps/software programs, especially those that have two and three move combination problems or puzzles yo solve. You will greatly improve your tactical skills by <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty/\">A Foundation for Beginners Thirty</a> appeared first on <a rel=\"nofo",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty/",
-         "pubDate" : "Fri, 13 Aug 2021 06:20:17 +0000",
-         "title" : "A Foundation for Beginners Thirty"
-      },
-      {
          "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,30 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-direction-in-the-queen-s-gambit-declined",
          "pubDate" : "Thu, 12 Aug 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A new direction in the Queen's Gambit Declined"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1264",
-         "pubDate" : "Thu, 12 Aug 2021 14:23:12 +0000",
-         "title" : "Berlin Wins Popular Vote; Will Host the Next Grand Prix Series and Other Events in 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">Berlin, the capital of Germany, will be the main host of the 2022 Grand Prix Series. The Series, a part of the World Chess Championship circuit, will run from February to April in a bespoke-designed chess arena. The city was chosen by World Chess, the gaming company that organizes the Series in partnership with FIDE, as well as by chess fans from around the world. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> In a survey conducted over two weeks, chess players, organizers, and federations were asked to suggest a city to host the prestigious series, and Berlin emerged as a clear favorite with ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/berlin-wins-popular-vote-will-host-the-next-grand-prix-series-an/",
-         "pubDate" : "Thu, 12 Aug 2021 14:14:32 +0000",
-         "title" : "Berlin Wins Popular Vote; Will Host the Next Grand Prix Series and Other Events in 2022"
-      },
-      {
-         "description" : " Despite the many pointed barbs directed at the Socialist Republic of Canberra, we (both the government and community) have done very well at handling the Covid pandemic. However this good run has come to an end, with a Covid case being confirmed today. As a consequence the ACT is in lockdown for the next 7 days, which means a number of chess events have been cancelled or postponed. A non comprehensive list includes <ul style=\"text-align: left;\"><li>Tuggeranong, Canberra and Gungahlin Chess clubs will not meet next week</li><li>Street Chess will not run on Saturday 14 August 2021.</li><li>School coaching programs will not run for 7 days (due to schools being closed)</li><li>The 2021 ACT Seco",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/canberra-in-lockdown-12-august-2021.html",
-         "pubDate" : "Thu, 12 Aug 2021 11:37:00 +0000",
-         "title" : "Canberra in lockdown - 12 August 2021"
       }
    ]
 }
