@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Magnus Carlsen and Levon Aronian drew their mini-match today in the most proper way; to wit, by drawing all four games. Vladislav Artemiev and Alireza Firouzja also wound up splitting their match, but with more adventures and with one win per customer. The match between the relative old-timers had a few interesting moments, but not too many, and in only one game - game 2 - did either player come anywhere close to serious winning chances. That was Aronian, whose exchange sac was both objectively and practically promising, and he may have missed a couple of chances to put Carlsen in real danger. In the rest of the game, and the rest of the match, nothing got too crazy, the evaluations stayed ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/2/aimchess-semis-day-1-two-drawn-mini-matches.html",
+         "pubDate" : "Thu, 02 Sep 2021 21:53:52 +0000",
+         "title" : "Aimchess Semis, Day 1: Two Drawn Mini-Matches"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1310",
+         "pubDate" : "Thu, 02 Sep 2021 21:14:13 +0000",
+         "title" : "FIDE Online Olympiad: Division 2 starts strong! "
+      },
+      {
+         "description" : "It is with great excitement that Chess.com announces the return of one of the most highly-anticipated online chess events in the world: The Speed Chess Championship is back for 2021! This four-month extravaganza will begin on September 18 and conc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chesscom-speed-chess-championship-returns",
+         "pubDate" : "Thu, 02 Sep 2021 12:37:01 -0700",
+         "title" : "Chess.com Speed Chess Championship Returns For 2021!"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sharp and instructive game in the Sicilian Najdorf. Ris' student Eline Roebers (15 years old) beat a player much higher-rated than her on her way to tournament victory at the Brugse Meesters in Belgium! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/five-title-norms-at-the-northumbria-masters/",
          "pubDate" : "Thu, 02 Sep 2021 07:13:54 +0000",
          "title" : "Five title norms at the Northumbria Masters"
+      },
+      {
+         "description" : " The quarterfinals are over, and we're down to the final four of Vladislav Artemiev vs. Alireza Firouzja in the battle of the youngsters, and Magnus Carlsen vs. Levon Aronian in the battle of the 30-somethings. Firouzja had the most difficult time in the quarters, though it certainly didn't seem like it through the first five games. On day one he won the first two games against Wesley So and then clinched the first mini-match with a draw, and on day two he drew the first game and won the second, after which a single draw in the remaining two games would suffice to clinch overall match victory. It didn't happen. So crushed Firouzja in game 3 of the second mini-match and with Black in round 4 ",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/2/aimchess-quarterfinals-finish-semis-set.html",
+         "pubDate" : "Thu, 02 Sep 2021 06:16:07 +0000",
+         "title" : "Aimchess Quarterfinals Finish; Semis Set"
       },
       {
          "description" : "For the first time in the Meltwater Champions Chess Tour, Alireza Firouzja has made it past the quarterfinals. And the 18-year-old did it in style, knocking out one of the toughest opponents in the tour, Wesley So. In the semis, Firouzja will face Vladislav Artemiev, who defeated Leinier Dominguez in a close match. The other semifinal will see Magnus Carlsen playing Levon Aronian. | Photo: Amruta Mokal",
@@ -1386,14 +1418,6 @@ news_feed (
          "title" : "Sinquefield Cup 5: Xiong takes down Caruana"
       },
       {
-         "description" : " The crazy, super-aggressive play of rounds 3 and 4 wasn't seen in round 5. There were two short draws, and the third draw fizzled out pretty quickly as well, even if it took a while longer before the draw could be made official. But the other two games were decisive, interesting, and consequential - in one game the winner joined the tie for first, and in the other the loser left the tie. The first game to finish was Wesley So vs. Richard Rapport, ending in a draw by repetition that has been seen in many previous games. An apologetic So said afterward that he had slept very poorly the night before due to too much coffee too late in the day, so it was better safe than sorry. Peter Svidler and",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/22/sinquefield-cup-round-5-a-slightly-calmer-round.html",
-         "pubDate" : "Sun, 22 Aug 2021 19:57:31 +0000",
-         "title" : "Sinquefield Cup, Round 5: A Slightly Calmer Round"
-      },
-      {
          "description" : "The 2021 FIDE Online Olympiad is taking place from August 20th to September 15th. It is a national teams event in which all federations affiliated to FIDE have the right to participate. Teams consist of six players, with a minimum of three female players and two junior players. Played online on chess.com, the event features two main stages: the Divisions stage, and the Play-offs stage. All games are played with a 15 minutes + 5 seconds increment per move time control.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-2.html",
          "pubDate" : "Sun, 22 Aug 2021 06:11:00 +0000",
          "title" : "2021 Online Chess Olympiad - Day 2"
-      },
-      {
-         "description" : "The first upset of the 2021 Sinquefield Tournament happened when GM Fabiano Caruana lost to GM Jeffery Xiong in round five. Fabiano&#39;s place in the three-way tie on top of the standings was taken by GM Maxime Vachier-Lagrave who defeated GM Darius ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-5",
-         "pubDate" : "Sat, 21 Aug 2021 20:50:00 -0700",
-         "title" : "Sinquefield Cup Day 5: Vachier-Lagrave Joins Leaders As Caruana Slips With Loss"
       },
       {
          "description" : "",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work-2",
          "pubDate" : "Sat, 21 Aug 2021 09:00:00 +0100",
          "title" : "Mate in 5!"
-      },
-      {
-         "description" : " I'll catch up with rounds 1-3 either tomorrow or on Sunday, the rest day. For now, round 4: The 2021 Sinquefield Cup has seen one exciting round after another. Not only has there been a shockingly high percentage of decisive results (12 out of 20!), but the games have been lively, tactical slugfests with brilliant turns that have even impressed the commentators and the players themselves. Round 4 was no exception, with four decisive games out of five. The only draw was in the marquee matchup between two of the co-leaders, Fabiano Caruana and Wesley So, and even this game could have finished with a winner. So was in serious trouble, but Caruana's 32.b4 turned out to be a mistake, allowing Bl",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/21/sinquefield-cup-round-4-four-winners-in-another-bloodthirsty.html",
-         "pubDate" : "Sat, 21 Aug 2021 06:09:47 +0000",
-         "title" : "Sinquefield Cup, Round 4: Four Winners In Another Bloodthirsty Round"
       },
       {
          "description" : " The first day of the 2021 Online Chess Olympiad began with 60 teams in action. Due to the varying levels of infrastructure around the world, some teams were able to play with all players present, while others had to make do with whoever could maintain a stable internet connection. As a consequence not all teams were able to perform to pre-tournament expectations, which leaves the competition for promotion places wide open. I was a spectator for a couple of Pools (A and B), and was a pool arbiter for Pool C. This involved teams from Africa and Europe, and the results were either feast or famine. Five teams won all their matches to be on 6 match points, while 5 teams lost all of theirs to be ",
