@@ -166,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps4-crokeyz-rubius-win",
-         "pubDate" : "Tue, 31 Aug 2021 15:08:31 -0700",
+         "pubDate" : "Tue, 31 Aug 2021 15:08:00 -0700",
          "title" : "PogChamps 4 Day 3: Group D Impresses"
       },
       {
