@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A grand total of five players scored international title norms at the Northumbria Masters Congress, held 26-30 August at the Marriott MetroCentre, Gateshead. The congress...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/five-title-norms-at-the-northumbria-masters/",
+         "pubDate" : "Thu, 02 Sep 2021 07:13:54 +0000",
+         "title" : "Five title norms at the Northumbria Masters"
+      },
+      {
          "description" : "For the first time in the Meltwater Champions Chess Tour, Alireza Firouzja has made it past the quarterfinals. And the 18-year-old did it in style, knocking out one of the toughest opponents in the tour, Wesley So. In the semis, Firouzja will face Vladislav Artemiev, who defeated Leinier Dominguez in a close match. The other semifinal will see Magnus Carlsen playing Levon Aronian. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1954,14 +1962,6 @@ news_feed (
          "title" : "Dominant victory for Hikaru Nakamura in Saint Louis"
       },
       {
-         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 16th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nominations-for-the-2021-elections-at-the-agm/",
-         "pubDate" : "Mon, 16 Aug 2021 08:27:13 +0000",
-         "title" : "Nominations for the 2021 elections at the AGM"
-      },
-      {
          "description" : " Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1263",
          "pubDate" : "Thu, 12 Aug 2021 08:36:18 +0000",
          "title" : "2021 STL Rapid & Blitz: Day 1 Recap"
-      },
-      {
-         "description" : "Three rounds of thrilling games were played on Wednesday at the start of the Saint Louis Rapid and Blitz Tournament. Fabiano Caruana and Leinier Dominguez (pictured) finished the day sharing the lead on 5/6 points (wins are worth 2 points in the rapid section of the event). Wesley So and Hikaru Nakamura stand a point behind. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-1",
-         "pubDate" : "Thu, 12 Aug 2021 06:30:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Excitement galore"
       }
    ]
 }
