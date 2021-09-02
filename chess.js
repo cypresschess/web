@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sharp and instructive game in the Sicilian Najdorf. Ris' student Eline Roebers (15 years old) beat a player much higher-rated than her on her way to tournament victory at the Brugse Meesters in Belgium! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-6bg5-to-beat-the-najdorf",
+         "pubDate" : "Thu, 02 Sep 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Playing 6.Bg5 to beat the Najdorf"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Among the electronic chess boards that keep hitting the market, the latest products of <strong>Millennium</strong> and <strong>DGT</strong> stand out as suitable for competitive players, reports <em>Conrad Schormann</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/millennium-hybridtest.1920.jpeg\" title=\"The Supreme Tournament 55 during the hybrid match test. photo: Millennium 2000\" data-title=\"The Supreme Tournament 55 during the hybrid match test. (photo: Millennium 2000)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/millennium-hybridtest.480.jpeg\" alt=\"Th",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/new-boards-for-online-and-hybrid/",
+         "pubDate" : "Thu, 02 Sep 2021 17:59:33 +0100",
+         "title" : "New boards for online and hybrid play"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85874444.cms\" />International Master (IM) GB Harshavardhan won gold in the U-18 open category of the Fide online Cadets and Youth Rapid World Cup which concluded earlier this week.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/harshavardhan-wins-u-18-open-gold-at-online-youth-rapid-world-cup/articleshow/85874444.cms",
+         "pubDate" : "Thu, 02 Sep 2021 22:13:36 +0530",
+         "title" : "Harshavardhan wins U-18 open gold at online youth rapid World Cup"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +306,6 @@ news_feed (
          "title" : "The Weekly Show: Aimchess US Rapid"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Among the electronic chess boards that keep hitting the market, the latest products of <strong>Millennium</strong> and <strong>DGT</strong> stand out as suitable for competitive players, reports <em>Conrad Schormann</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/millennium-hybridtest.1920.jpeg\" title=\"The Supreme Tournament 55 during the hybrid match test. photo: Millennium 2000\" data-title=\"The Supreme Tournament 55 during the hybrid match test. (photo: Millennium 2000)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/millennium-hybridtest.480.jpeg\" alt=\"Th",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-boards-for-online-and-hybrid/",
-         "pubDate" : "Tue, 31 Aug 2021 21:08:50 +0100",
-         "title" : "New boards for online and hybrid play"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The always fashionable 6th arondissement of Paris will be home of the chess bar <strong>Blitz Society</strong> that shall open on 14 October on Rue du Sabot. One of the four owners is chess coach <strong>Vincent Riff</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/like-to-play-in-the-sharjah-masters",
          "pubDate" : "Mon, 30 Aug 2021 14:00:00 +0100",
          "title" : "Like to play in the Sharjah Masters?"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The postponed <strong>British Chess Championships</strong> will <a href=\"https://www.britishchesschampionships.co.uk/\">be held</a> in the first half of October. Men and women compete at the <strong>University of Hull</strong>, juniors and seniors in Milton Keynes. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/british-championship-in-october/",
-         "pubDate" : "Mon, 30 Aug 2021 13:55:50 +0100",
-         "title" : "British championship in October"
       },
       {
          "description" : "The Meltwater Champions Chess Tour will expand in 2022 with a $100,000 Indian chess circuit, from which players will qualify for the overall tour. The move into the booming Indian chess arena is a collaboration between the Play Magnus Group and Mobile Premier League, Asia's biggest esports and skill gaming platform, with over 80 million users across India, Indonesia and the United States of America.",
@@ -2288,22 +2296,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/aug/13/chess-keith-arkell-captures-online-british-title-after-rival-is-disqualified",
          "pubDate" : "Fri, 13 Aug 2021 07:00:23 +0000",
          "title" : "Chess: Keith Arkell captures online British title after rival is disqualified"
-      },
-      {
-         "description" : "The 5th Youth Chess Composing Challenge is open to the U23 generation, born no earlier than 01.01.1998. The thematic condition for the Mate in 2 contest is that in the initial position all four bishops, which should be fully involved in the play, must be in the corners of the board. There are examples of problems that more or less fulfil these stipulations, and now young composers are asked to come up with the finest examples.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/youth-chess-composing-challenge",
-         "pubDate" : "Thu, 12 Aug 2021 20:27:19 +0100",
-         "title" : "Youth Chess Composing Challenge"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a fascinating game in which Black tried new ways in the Queen's Gambit Declined - which led to a little brilliancy. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-direction-in-the-queen-s-gambit-declined",
-         "pubDate" : "Thu, 12 Aug 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A new direction in the Queen's Gambit Declined"
       }
    ]
 }
