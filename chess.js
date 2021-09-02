@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1308",
+         "pubDate" : "Thu, 02 Sep 2021 10:58:57 +0000",
+         "title" : "Firouzja holds off So's fierce fightback to storm into semis"
+      },
+      {
+         "description" : "India secured 4 medals in the FIDE Online Cadets &#38; Youth Rapid World Cup which concluded on Tuesday. Harshvardhan G B won the yellow metal",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/harshvardhan-wins-gold-four-medals-for-india-in-fide-online-cadets-youth-rapid-world-cup/",
+         "pubDate" : "Thu, 02 Sep 2021 10:34:06 +0000",
+         "title" : "Harshvardhan wins Gold; Four medals for India in FIDE Online Cadets & Youth Rapid World Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/request-for-expression-for-proposed-chess-league/",
+         "pubDate" : "Thu, 02 Sep 2021 10:14:25 +0000",
+         "title" : "Request for Expression for proposed Chess League"
+      },
+      {
+         "description" : "GM Wesley So managed to level the score but then lost the playoff to GM Alireza Firouzja in a thrilling quarterfinal of the online Aimchess U.S. Rapid tournament. The other semifinalists are GM Magnus Carlsen, GM Levon Aronian, and GM Vladislav Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-day-quarterfinals-day-2",
+         "pubDate" : "Thu, 02 Sep 2021 01:43:00 -0700",
+         "title" : "Aimchess U.S. Rapid Day QF: Firouzja Eliminates So In Thriller"
+      },
+      {
          "description" : "A grand total of five players scored international title norms at the Northumbria Masters Congress, held 26-30 August at the Marriott MetroCentre, Gateshead. The congress...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1442,14 +1474,6 @@ news_feed (
          "title" : "2021 Online Chess Olympiad - Day 1"
       },
       {
-         "description" : "In round four of the 2021 Sinquefield Cup, GM Leinier Dominguez Perez crushed GM Maxime Vachier-Lagrave in a decisive fashion in the latter&#39;s favorite Najdorf Sicilian to leapfrog into a first-place tie with fellow Americans GM Fabiano Caruana and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-day-4",
-         "pubDate" : "Fri, 20 Aug 2021 20:48:00 -0700",
-         "title" : "Sinquefield Cup Day 4: Dominguez Advances To Share Lead After Caruana, So Draw"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1592,14 +1616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-evgeny-sveshnikov-11-februar-1950-bis-18-august-2021",
          "pubDate" : "Thu, 19 Aug 2021 13:22:50 +0100",
          "title" : "Remembering Evgeny Sveshnikov (11 February 1950 to 18 August 2021)"
-      },
-      {
-         "description" : "The Western Asian Youth Chess Championships (Open &#38; Girls Under-8, 10,12,14,16 &#38; 18) scheduled to be held from 18th&#160;to 20th&#160;September 2021. All players who have",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-western-asian-online-chess-championship-2021/",
-         "pubDate" : "Thu, 19 Aug 2021 12:18:07 +0000",
-         "title" : "Registration for Western Asian Online Chess Championship 2021"
       },
       {
          "description" : "Wesley So joined the lead of the Sinquefield Cup by inflicting a second defeat in two games on Dariusz Swiercz. It was the only decisive game of the second round, but there was no lack of fighting spirit or creativity in most of the other games, where both Shakhriyar Mamedyarov and Sam Shankland could lament some missed opportunities.",
@@ -2122,14 +2138,6 @@ news_feed (
          "title" : "Nepomniachtchi at work"
       },
       {
-         "description" : "2021 Asian University Chess Championship from 02-13 September 2021 For more details : http://www.ausf.org/Detail.aspx?kind=4&#38;pk=437 Players/Universities interested to participate in the championship are requested to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2021-asian-university-chess-championship/",
-         "pubDate" : "Sat, 14 Aug 2021 04:20:25 +0000",
-         "title" : "2021 Asian University Chess Championship"
-      },
-      {
          "description" : " From the publisher: The Daunting Domain of Queen Endgames Explained! Knowing the abilities and limitations of the powerful queen is very valuable for mastering the secrets of the royal game, and this can be studied best in the endgame. Queen endgames are very difficult, if only for purely mathematical reasons the queen is the most <a href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Queen Endgames</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\">Understanding Queen Endgames</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/canberra-in-lockdown-12-august-2021.html",
          "pubDate" : "Thu, 12 Aug 2021 11:37:00 +0000",
          "title" : "Canberra in lockdown - 12 August 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1263",
-         "pubDate" : "Thu, 12 Aug 2021 08:36:18 +0000",
-         "title" : "2021 STL Rapid & Blitz: Day 1 Recap"
       }
    ]
 }
