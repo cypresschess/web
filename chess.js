@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Thanks to a win over David Navara in a double-edged game, Vincent Keymer joined Rauf Mamedov and Anton Demchenko in the lead. With three rounds to go, the players not in the fight for first place are eyeing the potential final score that will gain them a spot in the next edition of the World Cup. | Pîctured: Dana Reizniece-Ozola plays the first move in Mamedov v Demchenko",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
+         "pubDate" : "Fri, 03 Sep 2021 12:50:00 +0100",
+         "title" : "European Championship (R8): Mamedov, Demchenko and Keymer share the lead"
+      },
+      {
+         "description" : "Paleochora is a serene little village which occupies a small peninsula on the southeast coast of Crete. Even during the uneasy pandemic time, Paleochora welcomed more than 300 players from all around the World for the 14th edition of the Open, one of the strongest tournaments in Greece. Irina Bulmaga reports from a paradisical location.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paleochora-open-2021-irina-bulmaga-report",
+         "pubDate" : "Fri, 03 Sep 2021 12:10:00 +0100",
+         "title" : "In a serene little village: Solodovnichenko wins Paleochora Open"
+      },
+      {
+         "description" : "\"Probably the least dramatic day we've had ever\", said Magnus Carlsen after all four games were drawn on Day 1 of his Aimchess US Rapid semi-final against Levon Aronian, with the Armenian missing one big chance to take the lead in the second game. The other semi-final was more dramatic, with Vladislav Artemiev brilliantly converting an extra pawn to take the lead in the first game of the day before Alireza Firouzja hit back in the last after Vladislav couldn't find a winning move in time trouble.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-6-firouzja-hits-back-against-artemiev",
+         "pubDate" : "Fri, 03 Sep 2021 10:40:29 +0000",
+         "title" : "Aimchess US Rapid 6: Firouzja hits back against Artemiev"
+      },
+      {
+         "description" : "Due to Indian Bank Branch transferred from Harbour ,Chenani to CP -New Delhi ,Kindly Find the updated Bank Details for your reference AICF Bank Account",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attention/",
+         "pubDate" : "Fri, 03 Sep 2021 10:32:28 +0000",
+         "title" : "Kind Attention"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"http://A%20$150,000%20Fischer%20Random%20rapid%20tournament\">$150,000 Fischer Random rapid tournament</a> is hosted on 8-10 September by the <strong>Saint Louis Chess Club</strong> under its trademark title <strong>Chess 9LX Champions Showdown</strong>. Among the ten participants are all US top players, former world champion Garry Kasparov and <strong>Levon Aronian</strong>, who moves from Armenia to Saint Louis next week. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/saint-louis-fischer-random-returns/",
+         "pubDate" : "Fri, 03 Sep 2021 09:01:45 +0100",
+         "title" : "Saint Louis Fischer Random returns"
+      },
+      {
+         "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/kasimdzhanov-resigns-as-caruanas-second/",
+         "pubDate" : "Fri, 03 Sep 2021 07:36:44 +0000",
+         "title" : "Kasimdzhanov Resigns As Caruana's Second"
+      },
+      {
          "description" : "Both first matches of the online Aimchess U.S. Rapid tournament&#39;s semifinals started with a 2-2 tie. Whereas GM Magnus Carlsen and GM Levon Aronian drew four games, GM Vladislav Artemiev&#38;nbsp;and GM Alireza Firouzja scored one win each. How to w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -95,15 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Tied score"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
+         "title" : "Aimchess US Rapid - Tied scores"
       },
       {
          "description" : "The Scandinavian is one of the most direct approaches against 1.e4. Right from the first move Black is attacking White's centre. A lot of players, especially club players, don't like to face this line because of this aggressive character. Most of them flee into offbeat lines which are not very critical. The ones who dare to go for the mainlines need to remember a lot of lines. This makes the Scandinavian a perfect choice for your repertoire. In the Fianchetto Scandinavian, Dutch IM Nico Zwirs will share his experience with the love of his youth.",
@@ -346,14 +386,6 @@ news_feed (
          "title" : "Aimchess US Rapid: Firouzja, Carlsen and Aronian win first sets"
       },
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. After six rounds, Azerbaijani GM Rauf Mamedov took the sole lead with 5&frac12; points. Four players stand a half point back, including 16-year-old German prodigy Vincent Keymer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Tue, 31 Aug 2021 23:50:00 +0100",
-         "title" : "European Championship (R6): Mamedov grabs the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -464,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/aimchess-us-rapid-preliminaries-day-3",
          "pubDate" : "Tue, 31 Aug 2021 01:19:00 -0700",
          "title" : "Aimchess U.S. Rapid: Artemiev Wins Prelims; Giri, MVL Out"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ten days before the scheduled election on 15 August during the European Women Championship in Iasi, the leadership of the <strong>Romanian Chess Federation</strong> declared two candidacies illegal. This would have secured the presidency for the only left candidate <strong>Ionuț Șerban Dobronăuțeanu</strong>, who is the grey eminence of Romanian chess since 2006 and is on the <strong>ECU</strong> board since 2010. Lawyers stepped in on behalf of his challenger <strong>Vlad Ardeleanu</strong> and forced a postponement. Now the presidency is vacant until the Romanian clubs finally get to vote on 26 September. Ardeleanu was CEO of <strong>Superbet<",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/postponed-election-in-romania/",
-         "pubDate" : "Tue, 31 Aug 2021 09:02:19 +0100",
-         "title" : "Postponed election in Romania"
       },
       {
          "description" : "In the diagram position it is Black to move and tablebases and endgame books know that this position is a theoretical draw. However, holding theoretical draws is often difficult in practice. But Jan-Krzyzstof Duda, who was Black against Ding Liren here, was up to the task and found the only move that saves the game. What did he play?",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Clubs Survey - interim responses"
       },
       {
-         "description" : "The Asian Youth Chess Championships (Open &#38; Girls Under-8, 10,12,14,16 &#38; 18) scheduled to be held from 21st October to 24th October 2021 (Girls Categories)",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-asian-youth-online-chess-championship-2021/",
-         "pubDate" : "Fri, 20 Aug 2021 14:50:34 +0000",
-         "title" : "Registration for Asian Youth Online Chess Championship 2021"
-      },
-      {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG\" data-image-dimensions=\"1834x836\" data-image-focal-point=\"0.5,0.5\" alt=\"My.System.JPG\" data-load=\"false\" data-image-id=\"611fb0792523aa1e707d7c90\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466755809-RXHQBM5L2RQA3CMBODJ3/QC.MySystem.jpg\" data-image-dimensions=\"339x499\" data-image-focal-point=\"0.5,0.5\" alt=\"QC.",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "Decisions of 2021 2nd FIDE Council Meeting"
       },
       {
-         "description" : "Hikaru Nakamura has won the St. Louis Rapid &amp; Blitz with three rounds to spare, remaining unbeaten and winning both the rapid and blitz sections, but a perfect day was spoilt by losing the no. 1 spot on the blitz live rating list. Magnus Carlsen is now the world no. 1 in classical, rapid and blitz and lost no time in trolling Hikaru with what the US star called \"some ridiculous tweet\". Fabiano Caruana's hopes of first place died when he lost to Hikaru, but he took clear second place, with Richard Rapport sealing 3rd.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-wins-st-louis-rapid-blitz-loses-no-1-spot",
-         "pubDate" : "Mon, 16 Aug 2021 11:28:14 +0000",
-         "title" : "Nakamura wins St. Louis Rapid & Blitz, loses no. 1 spot"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2280,38 +2288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-vidit-gujrathi-qualifies-for-fide-grand-swiss-league/articleshow/85301520.cms",
          "pubDate" : "Fri, 13 Aug 2021 17:36:39 +0530",
          "title" : "Indian GM Vidit Gujrathi qualifies for FIDE Grand Swiss League"
-      },
-      {
-         "description" : "Berlin, the capital of Germany, will be the main host of the 2022 Grand Prix Series. The Series, a part of the World Chess Championship circuit, will run from February to April in a bespoke-designed chess arena. The city was chosen by World Chess, the gaming company that organizes the Series in partnership with FIDE, as well as by chess fans from around the world. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/berlin-wins-popular-vote-will-host-the-grand-prix-series-and-other-events-in-2022",
-         "pubDate" : "Fri, 13 Aug 2021 11:55:50 +0100",
-         "title" : "Berlin wins popular vote; will host the Grand Prix Series and other events in 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">Wolfgang Wee Uncut is a conversation-based in-depth podcast that hosted the World Champion, Magnus Carlsen a couple of days ago. In between the standard chess banter, Carlsen opened up about shame, doubt, and anxiety he experiences after losing chess games. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6T6LRnqHJfU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Sometimes we watch a player like Magnus play so brilliantly and charismatically, but we don't imagine how he must be feeling after a failure or during some very critical games. The World Champion admitted the overwhelming mental situation he gets in after a bad",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-how-can-i-ever-show-up-at-a-chess-tournament-agai/",
-         "pubDate" : "Fri, 13 Aug 2021 09:22:37 +0000",
-         "title" : "Magnus Carlsen: \"How can I ever show up at a chess tournament again?\""
-      },
-      {
-         "description" : "Vincent Keymer took an early lead at the Kramnik Challenge after scoring 3&frac12; points in the four rounds played on Thursday. The German star stands a half point ahead of a 3-player chasing pack, which includes Christopher Yoo, Awonder Liang and Nodirbek Abdusattorov. Expert analyses by GM Karsten M&uuml;ller. | Photo: Schach-Bundesliga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-1",
-         "pubDate" : "Fri, 13 Aug 2021 09:25:00 +0100",
-         "title" : "Kramnik Challenge: Keymer in the sole lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1265",
-         "pubDate" : "Fri, 13 Aug 2021 08:00:02 +0000",
-         "title" : "President of Russia greets participants and organizers of Online Olympiad 2021"
       }
    ]
 }
