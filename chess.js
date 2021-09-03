@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1313",
+         "pubDate" : "Fri, 03 Sep 2021 20:58:30 +0000",
+         "title" : "Olympiad ABC: Argentina, Belarus and Colombia on a roll"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1312",
          "pubDate" : "Fri, 03 Sep 2021 18:57:20 +0000",
          "title" : "Iniyan wins Noisiel International Open 2021"
@@ -146,12 +154,12 @@ news_feed (
          "title" : "Aimchess U.S. Rapid: Semifinals Tied"
       },
       {
-         "description" : " The 18-year-old's imagination also caught the eye against Wesley So, while England's Ravi Haria wins in Gateshead Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, the US champion, Wesley So. The Iran-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Francisco later this month. All that changed in the last few days at th",
+         "description" : " The 18-year-old showed his best online form yet, but lost to the 23-year-old from Omsk in an Armageddon tie-break while Carlsen reached the Aimchess US Rapid final with smooth victories Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, US champion Wesley So. The Iran-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Fran",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
          "pubDate" : "Fri, 03 Sep 2021 07:00:22 +0000",
-         "title" : "Chess: Firouzja checkmates Carlsen in mid-board at Aimchess US Rapid"
+         "title" : "Chess: Firouzja checkmates Carlsen in mid-board but loses semi to Artemiev"
       },
       {
          "description" : "The ChessBase News Review is back, and Lawrence shares his thoughts about Alireza Firouzja, who played rather bad tournaments recently, but seems to be back on track in the Aimchess Open. Furthermore, he talks about MVL, the winner of the last Sinquefield Cup, and how important this tournament was for the French Grandmaster. Lawrence also has some sad news - the Gibraltar Open might pause or come to an end. This episode ends unexpectedly. After Lawrence braggs about his \"bullet chess\" skills, Arne immediately challenges him to a three-game bullet match on Playchess. And this match is not as easy for the English IM as you might expect.",
