@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a class on decision-making in chess! The mysterious masked Caleb talks about his process and why it sometimes works, and why he may wind up making the wrong decision. 2021.09.02<br /> Caleb Denby vs Safal Bora, 2021: D86 Gruenfeld, exchange, classical variation<br /> Denby vs ???, 2021: D06 Queen&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decision-making-chess-grandmasters-choice-nm-caleb-denby\"><img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/decision-making-chess-grandmasters-choice-nm-caleb-denby",
+         "pubDate" : "Fri, 03 Sep 2021 02:36:02 +0000",
+         "title" : "Decision-Making in Chess | Grandmaster's Choice - NM Caleb Denby"
+      },
+      {
+         "description" : "Four matches today in PogChamps 4 presented by Coinbase, fairly well-played overall other than several occasions of the now-infamous Botez Gambit. It&#39;s just not PogChamps without a hanging queen or three. IamCristinini defeated Punz for her firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-iamcristinini-fundy-ludwig-5uppp-win",
+         "pubDate" : "Thu, 02 Sep 2021 15:07:00 -0700",
+         "title" : "PogChamps 4 Day 5: Four Matches, Four Sweeps"
+      },
+      {
          "description" : " Magnus Carlsen and Levon Aronian drew their mini-match today in the most proper way; to wit, by drawing all four games. Vladislav Artemiev and Alireza Firouzja also wound up splitting their match, but with more adventures and with one win per customer. The match between the relative old-timers had a few interesting moments, but not too many, and in only one game - game 2 - did either player come anywhere close to serious winning chances. That was Aronian, whose exchange sac was both objectively and practically promising, and he may have missed a couple of chances to put Carlsen in real danger. In the rest of the game, and the rest of the match, nothing got too crazy, the evaluations stayed ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -464,6 +480,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-sarin-tabatabaei",
          "pubDate" : "Mon, 30 Aug 2021 18:38:00 -0700",
          "title" : "Junior Speed Chess Championship QF: Sarin Dominates Tabatabaei"
+      },
+      {
+         "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/",
+         "pubDate" : "Tue, 31 Aug 2021 00:10:49 +0000",
+         "title" : "Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games"
       },
       {
          "description" : " From the publisher: &#8220;The Modern Benoni is one of the most controversial but also dynamic answers to 1.d4. This opening remained the favourite of famous attacking players as Tal, Kasparov, Gashimov and Topalov. From the outset, Black creates a new pawn structure and deploying his active piece play against White's central majority. In his book <a href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Modern Benoni</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\">The Modernized Modern",
@@ -962,14 +986,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Grand Chess Tour Spokesman Michael Khodarkovsky during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-michael-khodarkovsky-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_Mx9U1YvSUs.jpg?itok=sFUwagzd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-michael-khodarkovsky-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Michael Khodarkovsky Interview | Round 9"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in fifth place with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r5",
          "pubDate" : "Mon, 23 Aug 2021 15:30:00 +0100",
          "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
-      },
-      {
-         "description" : "The 2021 FIDE Online Olympiad began over the weekend as the matches of Division 4 were played in five round-robin groups. Hong Kong, Nepal, Lebanon, Kenya, Namibia, Palestine, Angola, Cyprus, Ethiopia, Suriname, Aruba, Ghana, Puerto Rico, Trinidad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-division-4",
-         "pubDate" : "Mon, 23 Aug 2021 05:49:00 -0700",
-         "title" : "FIDE Online Olympiad Playoff Gets Underway"
       },
       {
          "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
