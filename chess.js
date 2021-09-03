@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Both first matches of the online Aimchess U.S. Rapid tournament&#39;s semifinals started with a 2-2 tie. Whereas GM Magnus Carlsen and GM Levon Aronian drew four games, GM Vladislav Artemiev&#38;nbsp;and GM Alireza Firouzja scored one win each. How to w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-semifinals-day-1",
+         "pubDate" : "Fri, 03 Sep 2021 00:02:52 -0700",
+         "title" : "Aimchess U.S. Rapid: Semifinals Tied"
+      },
+      {
+         "description" : " The 18-year-old's imagination also caught the eye against Wesley So, while England's Ravi Haria wins in Gateshead Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, US champion Wesley So. The Iranian-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Francisco later this month. All that changed in the last few days at the ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
+         "pubDate" : "Fri, 03 Sep 2021 07:00:22 +0000",
+         "title" : "Chess: Firouzja checkmates Carlsen in mid-board at Aimchess US Rapid"
+      },
+      {
+         "description" : "The ChessBase News Review is back, and Lawrence shares his thoughts about Alireza Firouzja, who played rather bad tournaments recently, but seems to be back on track in the Aimchess Open. Furthermore, he talks about MVL, the winner of the last Sinquefield Cup, and how important this tournament was for the French Grandmaster. Lawrence also has some sad news - the Gibraltar Open might pause or come to an end. This episode ends unexpectedly. After Lawrence braggs about his \"bullet chess\" skills, Arne immediately challenges him to a three-game bullet match on Playchess. And this match is not as easy for the English IM as you might expect.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-2",
+         "pubDate" : "Fri, 03 Sep 2021 07:20:00 +0100",
+         "title" : "News Review - Lawrence has some sad news about the Gibraltar Open"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a class on decision-making in chess! The mysterious masked Caleb talks about his process and why it sometimes works, and why he may wind up making the wrong decision. 2021.09.02<br /> Caleb Denby vs Safal Bora, 2021: D86 Gruenfeld, exchange, classical variation<br /> Denby vs ???, 2021: D06 Queen&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decision-making-chess-grandmasters-choice-nm-caleb-denby\"><img src=\"https",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -38,8 +62,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chesscom-speed-chess-championship-returns",
-         "pubDate" : "Thu, 02 Sep 2021 12:37:01 -0700",
-         "title" : "Chess.com Speed Chess Championship Returns For 2021!"
+         "pubDate" : "Thu, 02 Sep 2021 12:37:00 -0700",
+         "title" : "Chess.com Speed Chess Championship Returns For 2021"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sharp and instructive game in the Sicilian Najdorf. Ris' student Eline Roebers (15 years old) beat a player much higher-rated than her on her way to tournament victory at the Brugse Meesters in Belgium! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -71,7 +95,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
+         "title" : "Aimchess US Rapid - Tied score"
       },
       {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live!",
@@ -1354,14 +1378,6 @@ news_feed (
          "title" : "Shant Sargsyan wins 14th Tashkent Open, Agzamov Memorial"
       },
       {
-         "description" : "Round six of the 2021 Sinquefield Cup saw all five games drawn. GM Peter Svidler missed a big chance to score his first win of the tournament against GM Leinier Dominguez, who stays on top of the standings alongside GMs Wesley So and Maxime Vachie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-6",
-         "pubDate" : "Mon, 23 Aug 2021 13:01:00 -0700",
-         "title" : "Sinquefield Cup Round 6: Dominguez, So, MVL Maintain Lead"
-      },
-      {
          "description" : "The 19th edition of the European Union Youth Chess Championship took place on August 14-22 at the Hotel Dlouhe Strane in Kouty nad Desnou, Czech Republic. Boys and girls in each category played in the same tournament. Once the event came to an end, girls were evaluated separately to find the winners in the girls' categories. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2296,22 +2312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1265",
          "pubDate" : "Fri, 13 Aug 2021 08:00:02 +0000",
          "title" : "President of Russia greets participants and organizers of Online Olympiad 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1266",
-         "pubDate" : "Fri, 13 Aug 2021 07:18:32 +0000",
-         "title" : "2021 STL Rapid & Blitz Day 2: Caruana shoots ahead"
-      },
-      {
-         "description" : " Popular 60-year-old grandmaster's eighth-round defeat is overturned while England's No 1, Michael Adams, halves with 10-year-old from Scotland Keith Arkell became online British champion at age 60 in controversial circumstances last weekend when the popular grandmaster from Paignton, Devon, scored 7.5/9 in the nine-day contest to finish a full point clear of GMs Michael Adams and Bogdan Lalic, with the England No 1 and defending champion taking second place on tie-break. Mohammed Ismail, the under-16 champion, was fourth. Victory had seemed remote a day before the finish when Arkell, the 2008 English champion and author of Arkell's Odyssey and Arkell's Endings, was defeated in round eight. ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/aug/13/chess-keith-arkell-captures-online-british-title-after-rival-is-disqualified",
-         "pubDate" : "Fri, 13 Aug 2021 07:00:23 +0000",
-         "title" : "Chess: Keith Arkell captures online British title after rival is disqualified"
       }
    ]
 }
