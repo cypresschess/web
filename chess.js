@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "ChessBase Magazine # 203 with the \"Special: Ian Nepmniachtchi\" makes you want to follow the upcoming World Championship match in November. In the current issue, for example, our authors analyse their favorite game played by the 31-year-old Russian. The result is an exclusive collection of 21 annotated games. Karsten M&uuml;ller puts the challenger's technique to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes Nepo's playing style. In addition to many training tasks, his strategy contribution includes an introductory video in which the GM from Romania outlines his findings. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nepomniachtchi-s-strategic-and-positional-thinking",
+         "pubDate" : "Fri, 03 Sep 2021 15:00:00 +0100",
+         "title" : "Nepomniachtchi's strategic and positional thinking"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>All India Chess Federation</strong> has published a <a href=\"https://aicf.in/request-for-expression-for-proposed-chess-league/\">call for sports marketing and event management companies</a> interested in running an Indian chess league. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/india-seeks-a-league-organiser/",
+         "pubDate" : "Fri, 03 Sep 2021 13:37:13 +0100",
+         "title" : "India seeks a league organiser"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 7-10 in Champions Showdown: Chess 9LX. The tournament will feature legendary World Champion Garry Kasparov, World Number 2 Fabiano Caruana, and the recent 2021 Grand Chess Tour winner, Wesley So. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
+         "pubDate" : "Fri, 03 Sep 2021 13:30:00 +0100",
+         "title" : "Chess 9LX: Kasparov returns to Saint Louis"
+      },
+      {
+         "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-6",
+         "pubDate" : "Fri, 03 Sep 2021 13:25:00 +0100",
+         "title" : "Aimchess US Rapid SF: All square"
+      },
+      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Thanks to a win over David Navara in a double-edged game, Vincent Keymer joined Rauf Mamedov and Anton Demchenko in the lead. With three rounds to go, the players not in the fight for first place are eyeing the potential final score that will gain them a spot in the next edition of the World Cup. | Pîctured: Dana Reizniece-Ozola plays the first move in Mamedov v Demchenko",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +58,15 @@ news_feed (
          "title" : "European Championship (R8): Mamedov, Demchenko and Keymer share the lead"
       },
       {
-         "description" : "Paleochora is a serene little village which occupies a small peninsula on the southeast coast of Crete. Even during the uneasy pandemic time, Paleochora welcomed more than 300 players from all around the World for the 14th edition of the Open, one of the strongest tournaments in Greece. Irina Bulmaga reports from a paradisical location.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1311",
+         "pubDate" : "Fri, 03 Sep 2021 11:23:06 +0000",
+         "title" : "Carlsen-Aronian on a knife-edge as Firouzja launches comeback"
+      },
+      {
+         "description" : "Paleochora is a serene little village which occupies a small peninsula on the southeast coast of Crete. Even during the uneasy pandemic time, Paleochora welcomed more than 300 players from all around the world for the 14th edition of the Open, one of the strongest tournaments in Greece. Irina Bulmaga reports from a paradisiacal location.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/paleochora-open-2021-irina-bulmaga-report",
@@ -136,14 +192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harshavardhan-wins-u-18-open-gold-at-online-youth-rapid-world-cup/articleshow/85874444.cms",
          "pubDate" : "Thu, 02 Sep 2021 22:13:36 +0530",
          "title" : "Harshavardhan wins U-18 open gold at online youth rapid World Cup"
-      },
-      {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Thu, 02 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Tied scores"
       },
       {
          "description" : "The Scandinavian is one of the most direct approaches against 1.e4. Right from the first move Black is attacking White's centre. A lot of players, especially club players, don't like to face this line because of this aggressive character. Most of them flee into offbeat lines which are not very critical. The ones who dare to go for the mainlines need to remember a lot of lines. This makes the Scandinavian a perfect choice for your repertoire. In the Fianchetto Scandinavian, Dutch IM Nico Zwirs will share his experience with the love of his youth.",
@@ -408,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid",
          "pubDate" : "Tue, 31 Aug 2021 22:20:00 +0100",
          "title" : "The Weekly Show: Aimchess US Rapid"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The always fashionable 6th arondissement of Paris will be home of the chess bar <strong>Blitz Society</strong> that shall open on 14 October on Rue du Sabot. One of the four owners is chess coach <strong>Vincent Riff</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/paris-gets-a-chess-bar/",
-         "pubDate" : "Tue, 31 Aug 2021 19:54:38 +0100",
-         "title" : "Paris gets a chess bar"
       },
       {
          "description" : "Chess.com invites you to try out different ways to express your chess with our three newest features! We are rolling out more emoji with Quick Chat, Board Emoji, and Reactions. We designed these features to make your chess experience even more fun...",
@@ -2280,14 +2320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-2",
          "pubDate" : "Fri, 13 Aug 2021 16:35:00 +0100",
          "title" : "St. Louis Rapid & Blitz: Caruana beats Dominguez and So, leads"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85301520.cms\" />Indian Grandmaster Vidit Gujrathi has qualified for the FIDE Grand Swiss league which will be held in Riga, Latvia from October 25 to November 8. The Nashik-based player has also qualified for the FIDE Grand Prix 2022 after reaching the top eight at the recently-concluded Chess World Cup 2021.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-vidit-gujrathi-qualifies-for-fide-grand-swiss-league/articleshow/85301520.cms",
-         "pubDate" : "Fri, 13 Aug 2021 17:36:39 +0530",
-         "title" : "Indian GM Vidit Gujrathi qualifies for FIDE Grand Swiss League"
       }
    ]
 }
