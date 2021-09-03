@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1312",
+         "pubDate" : "Fri, 03 Sep 2021 18:57:20 +0000",
+         "title" : "Iniyan wins Noisiel International Open 2021"
+      },
+      {
+         "description" : "The 73rd Emmy Awards is approaching fast, and chess fans have good reason to be excited about the ceremony. On September 19, chess enthusiasts will finally know how many awards will come from the 18 nominations The Queen&#39;s Gambit has received. I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-announces-chemmys-awards",
+         "pubDate" : "Fri, 03 Sep 2021 11:12:54 -0700",
+         "title" : "Chess.com Announces Chemmys Awards"
+      },
+      {
+         "description" : "As part of the development plan for the North-Eastern States, the North-Eastern State Online Chess Championship got off to rousing start today at Tornelo Online",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/north-eastern-state-online-chess-championship-begins/",
+         "pubDate" : "Fri, 03 Sep 2021 16:48:22 +0000",
+         "title" : "North-Eastern State Online Chess Championship begins"
+      },
+      {
+         "description" : " Last week, we examined the concept of attackers and defenders from the attacker's point of view. This week we'll briefly look at being a defender, how to defend against middle-game attacks, and when to give up on the defense of a position. The principle of attacking and defending is relatively simple; when attacking, have more <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\">A Foundation for Beginners Thirty Three</a> appeared first on <a rel=\"n",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-three/",
+         "pubDate" : "Fri, 03 Sep 2021 16:20:52 +0000",
+         "title" : "A Foundation for Beginners Thirty Three"
+      },
+      {
          "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
          "title" : "Aimchess US Rapid - Live!"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
       },
       {
          "description" : "ChessBase Magazine # 203 with the \"Special: Ian Nepmniachtchi\" makes you want to follow the upcoming World Championship match in November. In the current issue, for example, our authors analyse their favorite game played by the 31-year-old Russian. The result is an exclusive collection of 21 annotated games. Karsten M&uuml;ller puts the challenger's technique to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes Nepo's playing style. In addition to many training tasks, his strategy contribution includes an introductory video in which the GM from Romania outlines his findings. Take a look!",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
          "pubDate" : "Fri, 03 Sep 2021 13:30:00 +0100",
          "title" : "Chess 9LX: Kasparov returns to Saint Louis"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Fri, 03 Sep 2021 13:27:00 +0100",
+         "title" : "European Championship - Live!"
       },
       {
          "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
@@ -114,7 +146,7 @@ news_feed (
          "title" : "Aimchess U.S. Rapid: Semifinals Tied"
       },
       {
-         "description" : " The 18-year-old's imagination also caught the eye against Wesley So, while England's Ravi Haria wins in Gateshead Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, US champion Wesley So. The Iranian-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Francisco later this month. All that changed in the last few days at the ",
+         "description" : " The 18-year-old's imagination also caught the eye against Wesley So, while England's Ravi Haria wins in Gateshead Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, the US champion, Wesley So. The Iran-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Francisco later this month. All that changed in the last few days at th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
@@ -1130,14 +1162,6 @@ news_feed (
          "title" : "REGISTRATION FOR WORLD AMATEUR CHESS CHAMPIONSHIP 2021"
       },
       {
-         "description" : "The National Under-8 Open &#38; Girls Online Chess Championship will be held from 10 Sep to 12 Sep 2021. The last date of entry is",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-8-open-girls-online-chess-championships-2021/",
-         "pubDate" : "Thu, 26 Aug 2021 12:25:08 +0000",
-         "title" : "NATIONAL UNDER-8 OPEN & GIRLS ONLINE CHESS CHAMPIONSHIPS 2021"
-      },
-      {
          "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1336,14 +1360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-releases-club-arenas",
          "pubDate" : "Tue, 24 Aug 2021 12:32:00 -0700",
          "title" : "Club Arenas Are Now Available On Chess.com"
-      },
-      {
-         "description" : "Chess.com is happy to announce the return of the PRO Chess League. The PRO Chess League: Arena Royale&#38;nbsp;is a special, one-week event for the PCL that will run from September 16 through September 24 and will have a $100,000 prize fund. Elite che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2021-pro-chess-league",
-         "pubDate" : "Tue, 24 Aug 2021 11:33:00 -0700",
-         "title" : "Chess.com Announces PRO Chess League: Arena Royale"
       },
       {
          "description" : "",
@@ -2194,14 +2210,6 @@ news_feed (
          "title" : "RTU Open: Final round - Live!"
       },
       {
-         "description" : " A couple of weeks ago I wrote about endings where a knight was trying to stop a rook's pawn. Coincidentally, the other day I reached this position with black (to move) in an online training game against a young pupil. He thought my knight was too far away to stop his a-pawn. I thought I <a href=\"https://chessimprover.com/knight-against-rooks-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn/\">Knight against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/knight-against-rooks-pawn/",
-         "pubDate" : "Sun, 15 Aug 2021 06:56:42 +0000",
-         "title" : "Knight against Rook's Pawn"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85342295.cms\" />Sareen, an International Master whose wards Tania Sachdev (in 2009), Parimarjan Negi (2010) and Abhijeet Gupta (2013) won the last three Arjuna awards given away in chess, said he has prepared a blueprint for the region and he believes children above five can benefit from picking up chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2288,38 +2296,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/14/understanding-queen-endgames/",
          "pubDate" : "Sat, 14 Aug 2021 00:10:29 +0000",
          "title" : "Understanding Queen Endgames"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1267",
-         "pubDate" : "Fri, 13 Aug 2021 16:03:48 +0000",
-         "title" : "ATTN: Participants of 2021 FIDE World Cup and FIDE Women's World Cup"
-      },
-      {
-         "description" : "Lawrence and Arne predict the winners of the Kramnik Challenge, RTU, St. Louis Rapid, and the EIWCC. While doing so, they start philosophizing about how many professional chess players actually love their job. While the elite players can mostly make a living, if they win many chess games in tournaments, thousands of GM's have to struggle their way through chess life. Or not? Is chess a sport so far away from golf or football, that they shouldn't even be compared with each other at all? This, and other interesting topics, are being discussed in the last episode of August. \"ChessBase News Review\" will continue in September.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess",
-         "pubDate" : "Fri, 13 Aug 2021 17:00:00 +0100",
-         "title" : "News Review - How many professional chess players enjoy playing chess?"
-      },
-      {
-         "description" : "In this Power Play Show, GM Daniel King takes a look at two wins by Wesley So featuring the same crushing sacrifice, in the same opening, against the same opponent. Apparently lightning does strike twice. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-lightning-strikes-twice-a-deadly-sac-you-need-to-see",
-         "pubDate" : "Fri, 13 Aug 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Lightning strikes twice - a deadly sac you need to see"
-      },
-      {
-         "description" : "Fabiano Caruana climbed to sole first place at the Saint Louis Rapid and Blitz Tournament after bouncing back from a loss against Sam Shankland with back-to-back victories over Leinier Dominguez and Wesley So on Thursday. Hikaru Nakamura is in sole second place after drawing all three of his games on day 2. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-2",
-         "pubDate" : "Fri, 13 Aug 2021 16:35:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Caruana beats Dominguez and So, leads"
       }
    ]
 }
