@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram position arose from an Open Spanish, an opening that apparently was unfamiliar to Beth Harmon, the main character of the Netflix series \"The Queen's Gambit\", who was playing with Black. Her last move 9...Na5 is an inaccuracy that allowed World Champion Borgov to seize the initiative. What did he play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-queen-s-gambit-revisited",
+         "pubDate" : "Sat, 04 Sep 2021 09:00:00 +0100",
+         "title" : "\"The Queen's Gambit\" revisited"
+      },
+      {
+         "description" : " Two excellent semifinal matches were contested, with both taking the full four games of the second mini-match and one going to Armageddon. For world champion Magnus Carlsen, things went comparatively smoothly. He won the very first game of the day, with Black, in excellent style. He was very close to winning game 2 as well, and may have been winning at one point. Aronian found an excellent defense, however, and saved a difficult ending by the skin of his teeth. Perhaps buoyed by his narrow escape, he took the upper hand in the third game, and was probably winning that one. Unfortunately for him, his 25th move was inaccurate (25.Ne4 was better) and his 27th a mistake (the multipurpose 27.Qd3",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/3/aimchess-semis-day-2-carlsen-artemiev-advance-to-the-finals.html",
+         "pubDate" : "Sat, 04 Sep 2021 03:58:47 +0000",
+         "title" : "Aimchess Semis, Day 2: Carlsen, Artemiev Advance to the Finals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "2021 Online Chess Olympiad - Day 3"
       },
       {
-         "description" : " It took a little while, but this post has us caught up in the goings-on in the chess world, at least or especially with respect to the 2021 Sinquefield Cup. Round 6 will be later today, rounds 4 and 5 have already been covered, so what remains is to present the games from the first three rounds. They are <a href=\"https://share.chessbase.com/SharedGames/share/?p=abDIAU9jWLQL+aNZve5ec38ffbsnHusMncbwSuJMdHf0j2WzEJDmmifWLxpHewU8\">here</a>, with comments to all (and only) the decisive games. Enjoy. ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/23/sinquefield-cup-rounds-1-3-all-caught-up.html",
-         "pubDate" : "Mon, 23 Aug 2021 07:07:48 +0000",
-         "title" : "Sinquefield Cup, Rounds 1-3 (All Caught Up)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-2",
          "pubDate" : "Sat, 14 Aug 2021 10:20:00 +0100",
          "title" : "Kramnik Challenge: Liang and Abdusattorov top the standings"
-      },
-      {
-         "description" : "In the diagram position, which is taken from a rapid game between Ian Nepomniachtchi and Levon Aronian, White used his three pieces to get access to Black's weakened king and to finally hunt it down. What did the World Championship Challenger 2021 play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work",
-         "pubDate" : "Sat, 14 Aug 2021 08:00:00 +0100",
-         "title" : "Nepomniachtchi at work"
       }
    ]
 }
