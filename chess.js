@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
+         "pubDate" : "Sat, 04 Sep 2021 16:20:00 +0100",
+         "title" : "Remembering Dima"
+      },
+      {
+         "description" : " Going into the final day of the 2021 Online Olympiad, Australia had high hopes of qualifying for the top section, but a couple of unfortunate results put paid to this. Having won in round 7, the slipped up against Kyrgyzstan in round 8, losing 3.5-2.5. This meant they needed to be Shenzen (a second China team, representing the event sponsors), but lost 5-1, to finish in 4th pace for the 2nd year in a row. Top board Temur Kuybokarov had the best score with 5.5/8, but the rest of the team hovered around the 50% mark for most of the tournament. FM Albert Winkelman scored exactly 50% (3.5/7) including winning a nice game in Round 8 against his opponent from Kyrgyzstan <br /> <b>Winkelman,Albert",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/australia-fall-short.html",
+         "pubDate" : "Sat, 04 Sep 2021 13:55:00 +0000",
+         "title" : "Australia fall short"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/chess-com-announces-chemmys-awards\">announced</a> the <strong>Chemmy Awards</strong> for the best user-generated content in nine categories. Voting on Twitter starts on 9 September. The winners will be announced during a ceremony, presented by streamers <strong>Andrea Botez</strong> and <strong>QTCinderella</strong> on <a href=\"http://twitch.tv/chess\">Twitch</a> in the night from 18 to 19 September, the night before the Emmy Awards of the TV Industry, from which the Chemmy is taking its cues. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chemmy-awards-for-user-generated/",
+         "pubDate" : "Sat, 04 Sep 2021 14:11:10 +0100",
+         "title" : "Chemmy awards for user-generated content"
+      },
+      {
+         "description" : "Magnus Carlsen and Vladislav Artemiev emerged victorious from their semifinal duels at the Aimchess US Rapid on Friday. While the world champion beat Levon Aronian in the second set, Artemiev only went through after beating Alireza Firouzja in Armageddon. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-7",
+         "pubDate" : "Sat, 04 Sep 2021 14:05:00 +0100",
+         "title" : "Aimchess US Rapid: Carlsen and Artemiev reach the final"
+      },
+      {
+         "description" : "In this week's show, GM Daniel King takes a look at a remarkable game from the Aimchess US Rapid, one in which Magnus Carlsen employed a modern approach right from the get go. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-chaos-but-still-classical",
+         "pubDate" : "Sat, 04 Sep 2021 14:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Chaos, but still classical"
+      },
+      {
+         "description" : "Magnus Carlsen has reached his 5th final out of eight events played on the Meltwater Champions Chess Tour after overcoming Levon Aronian 3:1 on Day 2 of their Aimchess US Rapid semi-final. He faces a new opponent in the final, Vladislav Artemiev, who hit back after losing the second rapid game before defeating Alireza Firouzja in Armageddon. Magnus described Vladislav as having \"just a sublime positional feeling\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-7-it-s-a-carlsen-artemiev-final",
+         "pubDate" : "Sat, 04 Sep 2021 12:05:29 +0000",
+         "title" : "Aimchess US Rapid 7: It's a Carlsen-Artemiev final!"
+      },
+      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -90,14 +154,6 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty Three"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen faces Levon Aronian while Vladislav Artemiev battles against Alireza Firouzja. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Carlsen and Artemiev in the final"
-      },
-      {
          "description" : "ChessBase Magazine # 203 with the \"Special: Ian Nepmniachtchi\" makes you want to follow the upcoming World Championship match in November. In the current issue, for example, our authors analyse their favorite game played by the 31-year-old Russian. The result is an exclusive collection of 21 annotated games. Karsten M&uuml;ller puts the challenger's technique to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes Nepo's playing style. In addition to many training tasks, his strategy contribution includes an introductory video in which the GM from Romania outlines his findings. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
          "pubDate" : "Fri, 03 Sep 2021 13:30:00 +0100",
          "title" : "Chess 9LX: Kasparov returns to Saint Louis"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Fri, 03 Sep 2021 13:27:00 +0100",
-         "title" : "European Championship - Live!"
       },
       {
          "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
@@ -264,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-6bg5-to-beat-the-najdorf",
          "pubDate" : "Thu, 02 Sep 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Playing 6.Bg5 to beat the Najdorf"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Among the electronic chess boards that keep hitting the market, the latest products of <strong>Millennium</strong> and <strong>DGT</strong> stand out as suitable for competitive players, reports <em>Conrad Schormann</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/millennium-hybridtest.1920.jpeg\" title=\"The Supreme Tournament 55 during the hybrid match test. photo: Millennium 2000\" data-title=\"The Supreme Tournament 55 during the hybrid match test. (photo: Millennium 2000)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/millennium-hybridtest.480.jpeg\" alt=\"Th",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/new-boards-for-online-and-hybrid/",
-         "pubDate" : "Thu, 02 Sep 2021 17:59:33 +0100",
-         "title" : "New boards for online and hybrid play"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85874444.cms\" />International Master (IM) GB Harshavardhan won gold in the U-18 open category of the Fide online Cadets and Youth Rapid World Cup which concluded earlier this week.",
@@ -1922,14 +1962,6 @@ news_feed (
          "title" : "TV shows that briefly mention chess"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen is back for the Aimchess US Rapid, the 9th and last event on the $1.6 million Meltwater Champions Chess Tour before September's Finals. Six players are already confirmed for the Finals, but Vladislav Artemiev, Liem Quang Le, Shakhriyar Mamedyarov and Alireza Firouzja can still book themselves a place at the expense of Maxime Vachier-Lagrave, who plays, and Hikaru Nakamura, who doesn't. The action starts at 11:00 ET/17:00 CEST/20:30 IST on Saturday, August 28th. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-returns-for-aimchess-us-rapid",
-         "pubDate" : "Wed, 18 Aug 2021 12:00:02 +0000",
-         "title" : "Magnus Carlsen returns for the Aimchess US Rapid"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2264,30 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
          "pubDate" : "Sat, 14 Aug 2021 16:55:00 +0100",
          "title" : "RTU Open in Riga: Donchenko joins the leaders"
-      },
-      {
-         "description" : "Yet another action-packed day at the Saint Louis Rapid and Blitz Tournament saw Hikaru Nakamura grabbing the sole lead before entering the blitz section of the event. Nakamura beat Fabiano Caruana in their all-important direct encounter to leapfrog him in the standings table. The top scorer on Friday was Richard Rapport, who is now sharing second place with Caruana. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-3",
-         "pubDate" : "Sat, 14 Aug 2021 16:15:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Nakamura grabs the lead"
-      },
-      {
-         "description" : " I was part of a FIDE Planning and Development meeting this morning for Oceania, and at some point the topic of online/hybrid chess came up. Part of this discussion revolved around how popular/worthwhile is Hybrid Chess. The general consensus (from the people who had been involved in hybrid events) was that it was a lot of extra work for little extra reward. The main reason given for this was that it didn't offer ratings and titles. Of course this is due to the fact that it doesn't exactly match the format for OTB events, but there is also an undercurrent concerning the risk of cheating. The slightly strange thing is that players seem a little happier to play low key events for online rating",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/why-we-play-serious-chess.html",
-         "pubDate" : "Sat, 14 Aug 2021 13:40:00 +0000",
-         "title" : "Why 'we' play serious chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1269",
-         "pubDate" : "Sat, 14 Aug 2021 13:03:01 +0000",
-         "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
       }
    ]
 }
