@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/call-for-bids-2023-european-championships/",
+         "pubDate" : "Sat, 04 Sep 2021 08:14:52 +0000",
+         "title" : "Call for Bids - 2023 European Championships"
+      },
+      {
+         "description" : "Seated at a front window table last week in a restaurant in London's St. Martin's Lane, I found myself at the epicentre of a branch of an Extinction Rebellion demonstration. The manifestation consisted mainly, and surprisingly, of a group of ageing hippies, several glued to, and under, a white van, strategically placed to obstruct the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dr-siegbert-tarrasch-and-his-search-for-meaning/",
+         "pubDate" : "Sat, 04 Sep 2021 08:00:13 +0000",
+         "title" : "Dr Siegbert Tarrasch and his search for meaning "
+      },
+      {
          "description" : "The diagram position arose from an Open Spanish, an opening that apparently was unfamiliar to Beth Harmon, the main character of the Netflix series \"The Queen's Gambit\", who was playing with Black. Her last move 9...Na5 is an inaccuracy that allowed World Champion Borgov to seize the initiative. What did he play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "Chess May be Banned in Afghanistan"
       },
       {
-         "description" : "On Saturday August 14th, in the Hotel Dlouhe Strane in Kouty nad Desnou in the Czech Republic, the 19th European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2021 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/19th-european-union-youth-chess-championship-started/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/19th-european-union-youth-chess-championship-started/",
-         "pubDate" : "Tue, 17 Aug 2021 10:20:51 +0000",
-         "title" : "19th European Union Youth Chess Championship started"
-      },
-      {
          "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/pm5.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> <p class=\"lead\"> Is there a place for pre-move on the FIDE Online Arena, the official gaming platform where players can play for an online rating recognized by FIDE? (Spoiler - yes, and it's available now!) Quick background: pre-move is an option to make a move before your opponent makes theirs, and it's usually done in time trouble or if the opponent's next move is obvious. Your pre-move is then carried out automatically after your opponent has made their move. In some cases (for example, if your move is rendered illegal for any reason), the pre-move is canceled ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2280,30 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1269",
          "pubDate" : "Sat, 14 Aug 2021 13:03:01 +0000",
          "title" : "2021 FIDE Online Olympiad opens in Shenzhen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1268",
-         "pubDate" : "Sat, 14 Aug 2021 10:08:52 +0000",
-         "title" : "2021 STL Rapid & Blitz: Nakamura in the lead after rapid"
-      },
-      {
-         "description" : "The 24th Congress of the Communist Party of the Union of Soviet Socialist Republics, held in Moscow in 1971, might be said to have condensed into the vapours of time past&hellip; all but for one thing, provided that you are interested in chess. For years I have been aware of a quick play game won []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/party-animal-the-lost-triumph-of-tigran-petrosian/",
-         "pubDate" : "Sat, 14 Aug 2021 09:49:45 +0000",
-         "title" : "Party Animal: the lost triumph of Tigran Petrosian"
-      },
-      {
-         "description" : "Awonder Liang and Nodirbek Abdusattorov leapfrogged Vincent Keymer on day 2 of the Kramnik Challenge to take the lead with seven rounds to go in the online tournament. Liang kicked off the day with three consecutive wins and temporarily grabbed the sole lead, but a loss against Polina Shuvalova in round 8 allowed Abdusattorov to catch up with him on a 6/8 score. | Photo: Eric Rosen / FIDE World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-2",
-         "pubDate" : "Sat, 14 Aug 2021 10:20:00 +0100",
-         "title" : "Kramnik Challenge: Liang and Abdusattorov top the standings"
       }
    ]
 }
