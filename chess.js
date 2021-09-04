@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1314",
+         "pubDate" : "Sat, 04 Sep 2021 01:54:41 +0000",
+         "title" : "Carlsen faces Artemiev in Aimchess US Rapid final"
+      },
+      {
+         "description" : "GM Magnus Carlsen will be facing&#38;nbsp;GM Vladislav Artemiev in the final of the&#38;nbsp;online Aimchess U.S. Rapid tournament. On the second day of the semifinals, Carlsen was too strong for GM Levon Aronian, and then Artemiev won the armageddon game...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-semifinals-day-2",
+         "pubDate" : "Fri, 03 Sep 2021 16:38:00 -0700",
+         "title" : "Aimchess U.S. Rapid: Artemiev, Carlsen Reach Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1313",
          "pubDate" : "Fri, 03 Sep 2021 20:58:30 +0000",
          "title" : "Olympiad ABC: Argentina, Belarus and Colombia on a roll"
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
          "pubDate" : "Fri, 03 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
+         "title" : "Aimchess US Rapid - Carlsen and Artemiev in the final"
       },
       {
          "description" : "ChessBase Magazine # 203 with the \"Special: Ian Nepmniachtchi\" makes you want to follow the upcoming World Championship match in November. In the current issue, for example, our authors analyse their favorite game played by the 31-year-old Russian. The result is an exclusive collection of 21 annotated games. Karsten M&uuml;ller puts the challenger's technique to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes Nepo's playing style. In addition to many training tasks, his strategy contribution includes an introductory video in which the GM from Romania outlines his findings. Take a look!",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "Winners crowned at EU Youth Chess Championship 2021"
       },
       {
-         "description" : "Chess.com is excited to announce the release of Club Arenas! This new feature is yet another exciting tool that will make chess much more fun and enjoyable for the community. Clubs can now compete in arenas against other clubs. As many clubs and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-club-arenas",
-         "pubDate" : "Tue, 24 Aug 2021 12:32:00 -0700",
-         "title" : "Club Arenas Are Now Available On Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work",
          "pubDate" : "Sat, 14 Aug 2021 08:00:00 +0100",
          "title" : "Nepomniachtchi at work"
-      },
-      {
-         "description" : " From the publisher: The Daunting Domain of Queen Endgames Explained! Knowing the abilities and limitations of the powerful queen is very valuable for mastering the secrets of the royal game, and this can be studied best in the endgame. Queen endgames are very difficult, if only for purely mathematical reasons the queen is the most <a href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Understanding Queen Endgames</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/14/understanding-queen-endgames/\">Understanding Queen Endgames</a> appea",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/14/understanding-queen-endgames/",
-         "pubDate" : "Sat, 14 Aug 2021 00:10:29 +0000",
-         "title" : "Understanding Queen Endgames"
       }
    ]
 }
