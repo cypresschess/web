@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. With one round to go, 34-year-old Russian GM Anton Demchenko is the sole leader in the standings table. Four (young) players stand a half point behind, while a host of strong grandmasters will fight to get a ticket to the next World Cup - to do so they need to finish among the top 23. | Pictured: Vincent Keymer",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
-         "title" : "European Championship - Live!"
+         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
+         "pubDate" : "Sun, 05 Sep 2021 01:15:00 +0100",
+         "title" : "European Championship (R10): Demchenko sole leader"
       },
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-8",
+         "pubDate" : "Sun, 05 Sep 2021 00:35:00 +0100",
+         "title" : "Aimchess US Rapid Finals: Carlsen clinches first set"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1315",
+         "pubDate" : "Sat, 04 Sep 2021 21:48:14 +0000",
+         "title" : "15 qualifiers join China, India and Russia in Top Division"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the first of two matches vs. GM Vladislav Artemiev in the final of the online Aimchess U.S. Rapid tournament. The world champion scored 2.5-1.5 on Saturday and needs just two game points tomorrow to win his third tournament i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1",
+         "pubDate" : "Sat, 04 Sep 2021 13:26:00 -0700",
+         "title" : "Aimchess U.S. Rapid Final: Carlsen Leads Despite Mouse Slip"
       },
       {
          "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/chemmy-awards-for-user-generated/",
          "pubDate" : "Sat, 04 Sep 2021 14:11:10 +0100",
          "title" : "Chemmy awards for user-generated content"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 7-10 in Champions Showdown: Chess 9LX. The tournament will feature legendary World Champion Garry Kasparov, World Number 2 Fabiano Caruana, and the recent 2021 Grand Chess Tour winner, Wesley So. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
+         "pubDate" : "Sat, 04 Sep 2021 14:10:00 +0100",
+         "title" : "Chess 9LX: Kasparov returns to Saint Louis"
       },
       {
          "description" : "Magnus Carlsen and Vladislav Artemiev emerged victorious from their semifinal duels at the Aimchess US Rapid on Friday. While the world champion beat Levon Aronian in the second set, Artemiev only went through after beating Alireza Firouzja in Armageddon. | Photo: Alina l'Ami",
@@ -170,28 +194,12 @@ news_feed (
          "title" : "India seeks a league organiser"
       },
       {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 7-10 in Champions Showdown: Chess 9LX. The tournament will feature legendary World Champion Garry Kasparov, World Number 2 Fabiano Caruana, and the recent 2021 Grand Chess Tour winner, Wesley So. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
-         "pubDate" : "Fri, 03 Sep 2021 13:30:00 +0100",
-         "title" : "Chess 9LX: Kasparov returns to Saint Louis"
-      },
-      {
          "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-6",
          "pubDate" : "Fri, 03 Sep 2021 13:25:00 +0100",
          "title" : "Aimchess US Rapid SF: All square"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. Thanks to a win over David Navara in a double-edged game, Vincent Keymer joined Rauf Mamedov and Anton Demchenko in the lead. With three rounds to go, the players not in the fight for first place are eyeing the potential final score that will gain them a spot in the next edition of the World Cup. | Pîctured: Dana Reizniece-Ozola plays the first move in Mamedov v Demchenko",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Fri, 03 Sep 2021 12:50:00 +0100",
-         "title" : "European Championship (R8): Mamedov, Demchenko and Keymer share the lead"
       },
       {
          "description" : "",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r7",
          "pubDate" : "Wed, 25 Aug 2021 06:40:00 +0100",
          "title" : "Sinquefield Cup: Vachier-Lagrave grabs the sole lead"
-      },
-      {
-         "description" : "A quick win by GM Maxime Vachier-Lagrave over GM Jeffery Xiong in round seven of the 2021 Sinquefield Cup put the French star on top of the leaderboard with 5/7. This is the first time in the entire tournament that we&#39;re having a sole leader. GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-7",
-         "pubDate" : "Tue, 24 Aug 2021 17:55:00 -0700",
-         "title" : "Sinquefield Cup Round 7: Vachier-Lagrave Takes The Lead"
       },
       {
          "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make progress [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
