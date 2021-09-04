@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid - Live!"
-      },
-      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-2021-live",
          "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
          "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sat, 04 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid - Live!"
       },
       {
          "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-3",
          "pubDate" : "Sun, 15 Aug 2021 03:00:00 +0100",
          "title" : "Kramnik Challenge: Liang sole leader"
-      },
-      {
-         "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-round-1-live",
-         "pubDate" : "Sat, 14 Aug 2021 16:55:00 +0100",
-         "title" : "RTU Open in Riga: Donchenko joins the leaders"
       }
    ]
 }
