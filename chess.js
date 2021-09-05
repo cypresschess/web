@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The humble pawn is the foot soldier of chess. A single passed pawn may be a huge threat if well-supported, but can also become a liability if not. Today we look at some instances of pawn \"avalanches\", in which the patter of tiny feet became thunder. | Pictured: Louis-Charles Mah&eacute; de La Bourdonnais",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-153",
+         "pubDate" : "Sun, 05 Sep 2021 13:10:00 +0100",
+         "title" : "The patter of tiny feet"
+      },
+      {
+         "description" : "Magnus Carlsen defeated Vladislav Artemiev 2.5:1.5 on Day 1 of the Aimchess US Rapid final after opening with a powerful double pawn sacrifice with the black pieces in the first game of the day. Magnus made it 2:0 when Vladislav blundered in Game 2 under the pressure of both his clock and disconnection issues, but was handed a lifeline when Magnus made an accidental move in the 3rd game. That meant the World Champion still needed a draw to clinch the match, but this time he achieved that with no drama.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-8-carlsen-leads-despite-mouse-slip",
+         "pubDate" : "Sun, 05 Sep 2021 10:40:46 +0000",
+         "title" : "Aimchess US Rapid 8: Carlsen leads despite mouse-slip"
+      },
+      {
+         "description" : " In less than 90 days, the Russian challenger Ian Nepomniachtchi will face his friend and fierce rival Magnus Carlsen in the World Chess Championship match that looks like an existential dilemma of Shakespearean proportions: beating and breaking the spirit of someone who is a little like your brother. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FE178FF2-17E7-431F-A643-84DE15A9E8C3.jpeg\" width=\"1613\" height=\"1075\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in the make-up studio before the final of the Armageddon by World Chess. This is one of the first times he showed his now signature 'Samurai' hair style'</div> </div> Even Henrik Carlsen, Magnus's ever-prot",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-to-face-carlsen-in-norway-90-days-before-the-match/",
+         "pubDate" : "Sun, 05 Sep 2021 08:49:29 +0000",
+         "title" : "Nepo to Face Carlsen in Norway 90 days Before the Match"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1\">won the first match</a> of the <strong>Aimchess US Rapid</strong> final against <strong>Vladislav Artemiev</strong> in spite of losing one game due to a curious mouseslip. The world champion got doubts about his planned move and dragged the queen back to its original square to think more. Only when he wanted to move a minute later, he realized that a queen move to a square in between had been registered and that it was Artemiev's turn. <strong>Alireza Firouzja</strong> defaulted the match for third place in order to recover fr",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mouseslip-cant-stop-carlsen/",
+         "pubDate" : "Sun, 05 Sep 2021 08:16:00 +0100",
+         "title" : "Mouseslip can't stop Carlsen"
+      },
+      {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. With one round to go, 34-year-old Russian GM Anton Demchenko is the sole leader in the standings table. Four (young) players stand a half point behind, while a host of strong grandmasters will fight to get a ticket to the next World Cup - to do so they need to finish among the top 23. | Pictured: Vincent Keymer",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "PogChamps 4 Day 6: All Wins For 5uppp, QT, Fundy"
       },
       {
-         "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
+         "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-1&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-8",
@@ -448,14 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-4-tectone-justaminx-boxbox-win",
          "pubDate" : "Wed, 01 Sep 2021 14:17:00 -0700",
          "title" : "PogChamps 4 Day 4: Tectone, JustaMinx Turn Tables; Boxbox Triumphs Tactically"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Sabrina Chevannes</strong>, winner of the <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/chesscom-redesign-contest\">Redesign Contest</a> and its $10,000 first prize, joins the <a href=\"https://bridge.beamian.com/event/475\">Work4Chess conference</a> on 18 September as speaker. The owner of the London web design and digital marketing agency <strong>Complex Creative</strong> will co-lead a <a href=\"https://bridge.beamian.com/event/475/sessions/session/5963\">workshop on user experience</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chevannes-joins-work4chess/",
-         "pubDate" : "Wed, 01 Sep 2021 19:56:38 +0100",
-         "title" : "Chevannes joins Work4Chess"
       },
       {
          "description" : "IM Minh Le won the August 31 Titled Tuesday outright with an undefeated 10/11 score, a repeat of his July 20 performance. Three players finished tied a half-point behind him, with GM Aleksei Priodrozhni taking second on tiebreaks, GM Vitaly Bernad...",
@@ -1930,14 +1954,6 @@ news_feed (
          "title" : "Game of the Week 477: F. Caruana - S. Shankland, Sinquefield Cup 2021"
       },
       {
-         "description" : "Fabiano Caruana got off to a perfect start in this year's Sinquefield Cup, getting the chance to play a nice, if relatively simple, queen sacrifice and take down Sam Shankland. The two new faces, compared to the recently concluded St. Louis Rapid &amp; Blitz, were involved in the first round's two other decisive games, though they had opposing fortunes: Maxime Vachier-Lagrave exploited a crucial error by Peter Svidler, but Dariusz Swiercz was ground down by Leinier Dominguez.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-caruana-storms-back-to-world-no-2",
-         "pubDate" : "Wed, 18 Aug 2021 15:47:36 +0000",
-         "title" : "Sinquefield Cup 1: Caruana storms back to world no. 2"
-      },
-      {
          "description" : "Exciting chess continues to be the norm in Saint Louis, as the Sinquefield Cup kicked off with a number of thrilling games on Tuesday. Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the event. Caruana's victory over Sam Shankland was particularly attractive. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1270",
          "pubDate" : "Sun, 15 Aug 2021 12:00:36 +0000",
          "title" : "2021 STL Rapid & Blitz: Nakamura extends his lead"
-      },
-      {
-         "description" : "Alexander Donchenko won a fifth game in a row on Saturday to join Igor Kovalenko and Narayanan in the shared lead on 6&frac12; points at the Riga Techinal University Open. The German grandmaster will have the black pieces against Kovalenko in Sunday's final round. The action begins at 10:00 CEST (4:00 ET, 10:00 UTC). Follow the games live. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-final-round",
-         "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
-         "title" : "RTU Open: Final round - Live!"
       }
    ]
 }
