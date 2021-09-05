@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sun, 05 Sep 2021 16:55:00 +0100",
+         "title" : "Aimchess US Rapid Finals - Live!"
+      },
+      {
+         "description" : "Team India consists of WGM Varshini V, WGM Srija Seshadri, WIM Arpita Mukherjee and WIM Michelle Catherina lifted Asian University Women's Chess Championship winners trophy",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-won-asian-university-womens-online-chess-championship-varshini-gets-individual-gold/",
+         "pubDate" : "Sun, 05 Sep 2021 14:56:42 +0000",
+         "title" : "India won Asian University Women's Online Chess Championship; Varshini gets Individual Gold"
+      },
+      {
+         "description" : " Street Chess has been out of action for a month, but with the ACT extending the covid lockdown for a few more weeks, I've decided to revive the online version. It will be run at the same time, and with the same format as regular Street Chess, although it will be hosted at lichess.org this year. Like the other ACT based events, it is open to members of the <a href=\"https://lichess.org/team/actca-fast-chess-club\">ACTCA Fast Chess Club</a> on lichess. If you are a Canberra player and want to play, apply to join the team, making sure you include your real name in your application. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/street-chess-back-online.html",
+         "pubDate" : "Sun, 05 Sep 2021 13:59:00 +0000",
+         "title" : "Street Chess - back online"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Sun, 05 Sep 2021 14:55:00 +0100",
+         "title" : "European Championship - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1317",
+         "pubDate" : "Sun, 05 Sep 2021 12:46:11 +0000",
+         "title" : "Kingue Victor Ebosse and Whilema Ndjock win Cameroon Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1316",
+         "pubDate" : "Sun, 05 Sep 2021 12:38:27 +0000",
+         "title" : "Carlsen bullies Artemiev on Day 1 of final"
+      },
+      {
          "description" : "The humble pawn is the foot soldier of chess. A single passed pawn may be a huge threat if well-supported, but can also become a liability if not. Today we look at some instances of pawn \"avalanches\", in which the patter of tiny feet became thunder. | Pictured: Louis-Charles Mah&eacute; de La Bourdonnais",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-153",
          "pubDate" : "Sun, 05 Sep 2021 13:10:00 +0100",
          "title" : "The patter of tiny feet"
+      },
+      {
+         "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/",
+         "pubDate" : "Sun, 05 Sep 2021 11:40:09 +0000",
+         "title" : "Wrong Books (5): The Right Way to Play Chess"
       },
       {
          "description" : "Magnus Carlsen defeated Vladislav Artemiev 2.5:1.5 on Day 1 of the Aimchess US Rapid final after opening with a powerful double pawn sacrifice with the black pieces in the first game of the day. Magnus made it 2:0 when Vladislav blundered in Game 2 under the pressure of both his clock and disconnection issues, but was handed a lifeline when Magnus made an accidental move in the 3rd game. That meant the World Champion still needed a draw to clinch the match, but this time he achieved that with no drama.",
@@ -1290,14 +1346,6 @@ news_feed (
          "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS AT INCOME TAX DEPARTMENT"
       },
       {
-         "description" : "The World Amateur Chess Championship will be held at Rhodes, Greece from 16-26 October 2021. The detailed regulations you can find at https://www.fide.com/calendar/51208 Players who",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-world-amateur-chess-championship-2021/",
-         "pubDate" : "Thu, 26 Aug 2021 12:55:01 +0000",
-         "title" : "REGISTRATION FOR WORLD AMATEUR CHESS CHAMPIONSHIP 2021"
-      },
-      {
          "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2090,14 +2138,6 @@ news_feed (
          "title" : "Fortress building"
       },
       {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-48/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (48)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-48/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (48)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-48/",
-         "pubDate" : "Tue, 17 Aug 2021 07:35:31 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (48)"
-      },
-      {
          "description" : "The final event of the Grand Chess Tour's sixth edition, the Sinquefield Cup, will begin on August 17th, immediately following the conclusion of the 2021 Saint Louis Rapid & Blitz. The event will feature ten top-ranked international players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour, who will take home the additional $100,000 prize. | Pictured: Jeffery Xiong at the opening ceremony | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,30 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-152",
          "pubDate" : "Sun, 15 Aug 2021 17:20:00 +0100",
          "title" : "Initiating fission"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 40th instalment of his ChessBase show \"Understanding before Moving\", Herman travels down memory lane and takes another look at critical moves. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-40-the-critical-move-3",
-         "pubDate" : "Sun, 15 Aug 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 40: The Critical Move (3)"
-      },
-      {
-         "description" : "Hikaru Nakamura continued to impress on the first day of the blitz section in Saint Louis. The 5-time US champion has remained undefeated in the event, and entered the fifth day of action with a 2&frac12;-point lead over Fabiano Caruana. | Follow the games live with expert commentary. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-live",
-         "pubDate" : "Sun, 15 Aug 2021 14:55:00 +0100",
-         "title" : "St. Louis Rapid & Blitz - Nakamura wins"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1270",
-         "pubDate" : "Sun, 15 Aug 2021 12:00:36 +0000",
-         "title" : "2021 STL Rapid & Blitz: Nakamura extends his lead"
       }
    ]
 }
