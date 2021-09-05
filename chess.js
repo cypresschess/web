@@ -10,6 +10,14 @@ news_feed (
          "title" : "European Championship (R10): Demchenko sole leader"
       },
       {
+         "description" : "It was another day of sweeps in PogChamps 4 presented by Coinbase, with all three matches going 2-0. 5uppp defeated JakenbakeLIVE after Botez Gambits on each side. QTcinderella, taking down Tectone despite blunders, won confidently in both games...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-5uppp-qt-fundy-win",
+         "pubDate" : "Sat, 04 Sep 2021 17:07:00 -0700",
+         "title" : "PogChamps 4 Day 6: All Wins For 5uppp, QT, Fundy"
+      },
+      {
          "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "Burundi's Chess President, Wilfried Ntamatungiro"
       },
       {
-         "description" : "GM Parham Maghsoodloo won Titled Tuesday this week with a 9.5/11 score, beating out second-place IM Minh Le and third-place GM Rustam Khusnutdinov on tiebreakers. GM Dmitry Andreikin finished fourth on 9/11. Maghsoodloo previously won Titled Tuesd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maghsoodloo-wins-august-24-titled-tuesday",
-         "pubDate" : "Wed, 25 Aug 2021 10:17:00 -0700",
-         "title" : "Maghsoodloo Wins August 24 Titled Tuesday"
-      },
-      {
          "description" : " The European Individual Chess Championship takes place in Reykjavik 26th August to 5th September. Leading players: Gawain Jones, Gabriel Sargissian, David Navara, Matthias Bluebaum, Dieter Nisipeanu Liviu, Nils Grandelius, Constantin Lupulescu, Alexander Donchenko, Nijat Abasov etc ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2272,22 +2272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-final-round",
          "pubDate" : "Sun, 15 Aug 2021 10:00:00 +0100",
          "title" : "RTU Open: Final round - Live!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85342295.cms\" />Sareen, an International Master whose wards Tania Sachdev (in 2009), Parimarjan Negi (2010) and Abhijeet Gupta (2013) won the last three Arjuna awards given away in chess, said he has prepared a blueprint for the region and he believes children above five can benefit from picking up chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-coach-vishal-sareen-has-plans-for-kashmiri-kids/articleshow/85342295.cms",
-         "pubDate" : "Sun, 15 Aug 2021 08:49:35 +0530",
-         "title" : "Chess coach Vishal Sareen has plans for Kashmiri kids"
-      },
-      {
-         "description" : "18-year-old American grandmaster Awonder Liang collected 3&frac12; points in Saturday's four rounds to climb to sole first place at the Kramnik Challenge for young stars. Former co-leader Nodirbek Abdusattorov stumbled against Zhu Jhiner and now stands a full point behind, while Vincent Keymer kept up the pace and also scored 3&frac12; points on the third day action - the German grandmaster is in clear second place with three rounds to go. | Photo: Crystal Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-3",
-         "pubDate" : "Sun, 15 Aug 2021 03:00:00 +0100",
-         "title" : "Kramnik Challenge: Liang sole leader"
       }
    ]
 }
