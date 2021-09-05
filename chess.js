@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Magnus Carlsen won the online Aimchess U.S. Rapid tournament on Sunday, securing a $30,000 paycheck. The world champion called it a &#34;fairly smooth ride&#34; as he also won the final&#39;s second match against GM Vladislav Artemiev, scoring 2.5-0.5. ...",
+         "description" : "A convincing performance in the finals of the Aimchess US Rapid gave Magnus Carlsen tournament victory in the last 'regular' event of this year's Meltwater Champions Chess Tour. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; in the second set of the finals. The young Russian nonetheless made it into the grand finale of the series, despite only playing in 3 of the 9 qualifying tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-9",
+         "pubDate" : "Mon, 06 Sep 2021 00:20:00 +0100",
+         "title" : "Carlsen blows out Artemiev, wins Aimchess US Rapid"
+      },
+      {
+         "description" : " Magnus Carlsen was challenged at times by Vladislav Artemiev over the course of their two-day match, but overall he dominated on the way to victory in the <a href=\"https://championschesstour.com/\">2021 Aimchess U.S. Rapid</a> tournament. Artemiev finished in a very creditable second place, while Levon Aronian defeated Alireza Firouzja to take third. On day 1, Carlsen got off to a 2-0 lead. In the first game, Carlsen enjoyed a long-lasting initiative with Black, and in time trouble and under heavy pressure Artemiev blundered and lost. In game 2, it was Artemiev who had the pressure most of the way, but Carlsen crawled his way out of danger. Almost out of nowhere, Artemiev had some minor tech",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/5/aimchess-finals-carlsen-defeats-artemiev-to-win-the-tourname.html",
+         "pubDate" : "Sun, 05 Sep 2021 22:42:07 +0000",
+         "title" : "Aimchess Finals: Carlsen Defeats Artemiev to Win the Tournament"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1318",
+         "pubDate" : "Sun, 05 Sep 2021 20:28:39 +0000",
+         "title" : "Carlsen hits target to win Aimchess US Rapid"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the online Aimchess U.S. Rapid tournament on Sunday, securing a $30,000 paycheck. The world champion called it &#34;a fairly smooth ride&#34; as he also won the final&#39;s second match against GM Vladislav Artemiev, scoring 2.5-0.5. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2021-aimchess-us-rapid",
          "pubDate" : "Sun, 05 Sep 2021 12:25:00 -0700",
          "title" : "Carlsen Wins Aimchess U.S. Rapid: \"A Fairly Smooth Ride\""
-      },
-      {
-         "description" : "Magnus Carlsen is the Aimchess US Rapid winner after a near-faultless display against Vladislav Artemiev. The World Champion now marches into next month's $300,000 Meltwater Champions Chess Tour Final top of the leaderboard and in top form. | Full report to follow shortly",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sun, 05 Sep 2021 20:05:00 +0100",
-         "title" : "Aimchess US Rapid Finals - Carlsen beats Artemiev"
       },
       {
          "description" : "Division Two came to a close on Saturday with some very exciting last-round matches, deciding the three winners of each group. Although a couple of teams (especially Colombia) dominated their groups, this stage of the event was very closely fought in general.",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "Mouseslip can't stop Carlsen"
       },
       {
-         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
-         "pubDate" : "Sun, 05 Sep 2021 17:20:00 +0100",
-         "title" : "Remembering Dima"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian <strong>Anton Demchenko</strong> won the <strong>European Championship</strong> in Reykjavik thanks to a better tiebreak than German youngster <strong>Vincent Keymer</strong>, who also ended on 8,5 points out of 11, both winning €17,500. As usual, the thirty highest ranked European players missed out because they can expect to be seated into the Worldcup 2023, whereas many who <a href=\"http://chess-results.com/tnr563954.aspx\">played in Reykjavik</a> contended themselves with short draws in the last rounds to assure their qualification. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Street Chess - back online"
       },
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Sun, 05 Sep 2021 14:55:00 +0100",
-         "title" : "European Championship - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -104,6 +104,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-153",
          "pubDate" : "Sun, 05 Sep 2021 13:10:00 +0100",
          "title" : "The patter of tiny feet"
+      },
+      {
+         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
+         "pubDate" : "Sun, 05 Sep 2021 13:05:00 +0100",
+         "title" : "Remembering Dima"
+      },
+      {
+         "description" : "Magnus Carlsen is the Aimchess US Rapid winner after a near-faultless display against Vladislav Artemiev. The World Champion now marches into next month's $300,000 Meltwater Champions Chess Tour Final top of the leaderboard and in top form. | Full report to follow shortly",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
+         "pubDate" : "Sun, 05 Sep 2021 13:00:00 +0100",
+         "title" : "Aimchess US Rapid Finals - Carlsen beats Artemiev"
+      },
+      {
+         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
+         "pubDate" : "Sun, 05 Sep 2021 12:55:00 +0100",
+         "title" : "European Championship - Live!"
       },
       {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
@@ -1506,14 +1530,6 @@ news_feed (
          "title" : "Kasparov live in ChessBase India!"
       },
       {
-         "description" : " Entering the round, Maxime Vachier-Lagrave, Leinier Dominguez, and Wesley So were tied for first, with Fabiano Caruana half a point behind. By the end of the round, for the first time in the tournament, there was a single leader: Vachier-Lagrave. He defeated Jeffery Xiong, while Dominguez and So drew their games to fall into a second place tie with Caruana, who defeated Shakhriyar Mamedyarov. For MVL, it was his fourth win of the event, and he was somewhat fortunate. Xiong was doing fine on the black side of the Berlin endgame until he blundered with 18...hxg4??, blind to the danger on the h-file. Had he played 18...g6 he would have been better, especially against Vachier-Lagrave's intended",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/25/sinquefield-cup-round-7-mvl-leads-three-players-half-a-point.html",
-         "pubDate" : "Wed, 25 Aug 2021 06:13:16 +0000",
-         "title" : "Sinquefield Cup, Round 7: MVL Leads, Three Players Half a Point Behind"
-      },
-      {
          "description" : "In yet another action-packed round in Saint Louis, Maxime Vachier-Lagrave grabbed the sole lead at the Sinquefield Cup by beating Jeffery Xiong from the white side of a Berlin Defence. Fabiano Caruana, who had lost against Xiong in the previous round, bounced back by defeating Shakhriyar Mamedyarov in a double-edged encounter. In the remaining decisive game of the day, Peter Svidler obtained his first win of the event as he got the better of Dariusz Swiercz. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1624,14 +1640,6 @@ news_feed (
          "link" : "https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/",
          "pubDate" : "Tue, 24 Aug 2021 06:56:26 +0000",
          "title" : "Winners of European Union Youth Chess 2021 announced"
-      },
-      {
-         "description" : " All the games were drawn today, but all five games had at least some fight. More: in all five games there was at least one moment where one of the players had a very real chance to play for a win. Even in the game between Dariusz Swiercz and Shakhriyar Mamedyarov, which was clearly heading for a draw well before the time control, there was a moment when Swiercz had an opportunity for an advantage. Richard Rapport had chances against Sam Shankland on multiple occasions, and Jeffery Xiong had his chances against Wesley So as well. The biggest opportunity belonged to Peter Svidler, but finding 33...b5!! and all the complex, beautiful variations that ensue would have been a real achievement. Ch",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/24/sinquefield-cup-round-6-five-draws.html",
-         "pubDate" : "Tue, 24 Aug 2021 04:41:11 +0000",
-         "title" : "Sinquefield Cup, Round 6: Five Draws"
       },
       {
          "description" : "",
