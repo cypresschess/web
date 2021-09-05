@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, is taking place from August 28 to September 5. In the semifinals, Magnus Carlsen beat Levon Aronian while Vladislav Artemiev got the better of Alireza Firouzja. Firouzja withdrew from the event, which means there will be no match for third place. | The action kicks off at 11:00 ET (17:00 CEST, 20:30 IST)",
+         "description" : "GM Magnus Carlsen won the online Aimchess U.S. Rapid tournament on Sunday, securing a $30,000 paycheck. The world champion called it a &#34;fairly smooth ride&#34; as he also won the final&#39;s second match against GM Vladislav Artemiev, scoring 2.5-0.5. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2021-aimchess-us-rapid",
+         "pubDate" : "Sun, 05 Sep 2021 12:25:00 -0700",
+         "title" : "Carlsen Wins Aimchess U.S. Rapid: \"A Fairly Smooth Ride\""
+      },
+      {
+         "description" : "Magnus Carlsen is the Aimchess US Rapid winner after a near-faultless display against Vladislav Artemiev. The World Champion now marches into next month's $300,000 Meltwater Champions Chess Tour Final top of the leaderboard and in top form. | Full report to follow shortly",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sun, 05 Sep 2021 16:55:00 +0100",
-         "title" : "Aimchess US Rapid Finals - Live!"
+         "pubDate" : "Sun, 05 Sep 2021 20:05:00 +0100",
+         "title" : "Aimchess US Rapid Finals - Carlsen beats Artemiev"
+      },
+      {
+         "description" : "Division Two came to a close on Saturday with some very exciting last-round matches, deciding the three winners of each group. Although a couple of teams (especially Colombia) dominated their groups, this stage of the event was very closely fought in general.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-division-2",
+         "pubDate" : "Sun, 05 Sep 2021 20:00:00 +0100",
+         "title" : "Online Olympiad: 15 qualifiers join China, India and Russia in the main event"
+      },
+      {
+         "description" : "Appended below please find the list of players registered for Western Asian Online Youth Chess Championship. We send an email to your respective registered email",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details/",
+         "pubDate" : "Sun, 05 Sep 2021 16:56:10 +0000",
+         "title" : "Western Asian Online Youth Chess Championship : Registration Details"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1\">won the first match</a> of the <strong>Aimchess US Rapid</strong> final against <strong>Vladislav Artemiev</strong> in spite of losing one game due to a curious mouseslip. The world champion got doubts about his planned move and dragged the queen back to its original square to think more. Only when he wanted to move a minute later, he realized that a queen move to a square in between had been registered and that it was Artemiev's turn. (Update:) Of the other games in the final Carlsen won four, drew two and lost none, scoring ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mouseslip-cant-stop-carlsen/",
+         "pubDate" : "Sun, 05 Sep 2021 17:30:22 +0100",
+         "title" : "Mouseslip can't stop Carlsen"
+      },
+      {
+         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
+         "pubDate" : "Sun, 05 Sep 2021 17:20:00 +0100",
+         "title" : "Remembering Dima"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian <strong>Anton Demchenko</strong> won the <strong>European Championship</strong> in Reykjavik thanks to a better tiebreak than German youngster <strong>Vincent Keymer</strong>, who also ended on 8,5 points out of 11, both winning €17,500. As usual, the thirty highest ranked European players missed out because they can expect to be seated into the Worldcup 2023, whereas many who <a href=\"http://chess-results.com/tnr563954.aspx\">played in Reykjavik</a> contended themselves with short draws in the last rounds to assure their qualification. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/demchenko-and-keymer-share-first/",
+         "pubDate" : "Sun, 05 Sep 2021 17:09:30 +0100",
+         "title" : "Demchenko and Keymer share first"
       },
       {
          "description" : "Team India consists of WGM Varshini V, WGM Srija Seshadri, WIM Arpita Mukherjee and WIM Michelle Catherina lifted Asian University Women's Chess Championship winners trophy",
@@ -66,6 +114,14 @@ news_feed (
          "title" : "Wrong Books (5): The Right Way to Play Chess"
       },
       {
+         "description" : "The first Intensive Training Course of the Chess-Magic Academy will be held from the 24th to the 30th October 2021. GMs Vladislav Tkachiev (France) and Murtas Kazhgaleyev (Kazakhstan) are the main coaches. The theme will be the Soviet Chess School - Botvinnik's \"Total Chess\" Approach.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/intensive-training-course-with-vlad-tkachev-and-murtas-kazhgaleyev",
+         "pubDate" : "Sun, 05 Sep 2021 12:30:00 +0100",
+         "title" : "Intensive training course with GMs Tkachev and Kazhgaleyev"
+      },
+      {
          "description" : "Magnus Carlsen defeated Vladislav Artemiev 2.5:1.5 on Day 1 of the Aimchess US Rapid final after opening with a powerful double pawn sacrifice with the black pieces in the first game of the day. Magnus made it 2:0 when Vladislav blundered in Game 2 under the pressure of both his clock and disconnection issues, but was handed a lifeline when Magnus made an accidental move in the 3rd game. That meant the World Champion still needed a draw to clinch the match, but this time he achieved that with no drama.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -74,20 +130,20 @@ news_feed (
          "title" : "Aimchess US Rapid 8: Carlsen leads despite mouse-slip"
       },
       {
+         "description" : " The Aimchess US Rapid was the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid took place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang. Magnus Carlsen won both days of the final against Vladislav Artemiev but the latter got enough points to make it to the tour final. The top 8 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/aimchess-us-rapid-2021",
+         "pubDate" : "Sun, 5 Sep 2021 14:31:00 +0400",
+         "title" : "Aimchess US Rapid 2021 - Games and Results"
+      },
+      {
          "description" : " In less than 90 days, the Russian challenger Ian Nepomniachtchi will face his friend and fierce rival Magnus Carlsen in the World Chess Championship match that looks like an existential dilemma of Shakespearean proportions: beating and breaking the spirit of someone who is a little like your brother. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FE178FF2-17E7-431F-A643-84DE15A9E8C3.jpeg\" width=\"1613\" height=\"1075\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in the make-up studio before the final of the Armageddon by World Chess. This is one of the first times he showed his now signature 'Samurai' hair style'</div> </div> Even Henrik Carlsen, Magnus's ever-prot",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nepo-to-face-carlsen-in-norway-90-days-before-the-match/",
          "pubDate" : "Sun, 05 Sep 2021 08:49:29 +0000",
          "title" : "Nepo to Face Carlsen in Norway 90 days Before the Match"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1\">won the first match</a> of the <strong>Aimchess US Rapid</strong> final against <strong>Vladislav Artemiev</strong> in spite of losing one game due to a curious mouseslip. The world champion got doubts about his planned move and dragged the queen back to its original square to think more. Only when he wanted to move a minute later, he realized that a queen move to a square in between had been registered and that it was Artemiev's turn. <strong>Alireza Firouzja</strong> defaulted the match for third place in order to recover fr",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mouseslip-cant-stop-carlsen/",
-         "pubDate" : "Sun, 05 Sep 2021 08:16:00 +0100",
-         "title" : "Mouseslip can't stop Carlsen"
       },
       {
          "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. With one round to go, 34-year-old Russian GM Anton Demchenko is the sole leader in the standings table. Four (young) players stand a half point behind, while a host of strong grandmasters will fight to get a ticket to the next World Cup - to do so they need to finish among the top 23. | Pictured: Vincent Keymer",
@@ -128,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1",
          "pubDate" : "Sat, 04 Sep 2021 13:26:00 -0700",
          "title" : "Aimchess U.S. Rapid Final: Carlsen Leads Despite Mouse Slip"
-      },
-      {
-         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
-         "pubDate" : "Sat, 04 Sep 2021 16:20:00 +0100",
-         "title" : "Remembering Dima"
       },
       {
          "description" : " Going into the final day of the 2021 Online Olympiad, Australia had high hopes of qualifying for the top section, but a couple of unfortunate results put paid to this. Having won in round 7, the slipped up against Kyrgyzstan in round 8, losing 3.5-2.5. This meant they needed to be Shenzen (a second China team, representing the event sponsors), but lost 5-1, to finish in 4th pace for the 2nd year in a row. Top board Temur Kuybokarov had the best score with 5.5/8, but the rest of the team hovered around the 50% mark for most of the tournament. FM Albert Winkelman scored exactly 50% (3.5/7) including winning a nice game in Round 8 against his opponent from Kyrgyzstan <br /> <b>Winkelman,Albert",
@@ -1082,14 +1130,6 @@ news_feed (
          "title" : "List of Public Holidays 2021"
       },
       {
-         "description" : " The Aimchess US Rapid is the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid takes place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-us-rapid-2021",
-         "pubDate" : "Sat, 28 Aug 2021 14:31:00 +0400",
-         "title" : "Aimchess US Rapid 2021 - Games and Results"
-      },
-      {
          "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1338,14 +1378,6 @@ news_feed (
          "title" : "Chess for Prisons - registration continues"
       },
       {
-         "description" : "Appended below please find the Notification for Recruitment of meritorious sports persons at Income Tax Department.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/recruitment-of-meritorious-sports-persons-at-income-tax-department/",
-         "pubDate" : "Thu, 26 Aug 2021 13:15:35 +0000",
-         "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS AT INCOME TAX DEPARTMENT"
-      },
-      {
          "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1392,14 +1424,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-6-7-mvl-grabs-the-sole-lead",
          "pubDate" : "Wed, 25 Aug 2021 19:21:41 +0000",
          "title" : "Sinquefield Cup 6-7: MVL grabs the sole lead"
-      },
-      {
-         "description" : "Chess.com is happy to announce the launch of our new and improved Daily Puzzle experience! We&#39;ve updated the look and feel of the page to make your daily dose of tactic training even better. Solve Today&#39;s Daily Puzzle! Here are the main updates...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-new-daily-puzzle-page",
-         "pubDate" : "Wed, 25 Aug 2021 11:03:00 -0700",
-         "title" : "Chess.com Releases New Daily Puzzle Page"
       },
       {
          "description" : " Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2280,22 +2304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rtu-open-2021-final-report",
          "pubDate" : "Mon, 16 Aug 2021 03:40:00 +0100",
          "title" : "Donchenko scores six wins in a row, gets clear first place at RTU Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85352221.cms\" />Indian Grandmaster S L Narayanan logged seven points from nine rounds to finish second in the tournament 'A' of the 10th Riga Technical University Open here on Sunday. Donchenko notched up 7.5 points from nine rounds and sealed the title with a win over Igor Kovalenko of Latvia in the final round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-s-l-narayanan-finishes-second-in-riga-open-chess-tourney/articleshow/85352221.cms",
-         "pubDate" : "Sun, 15 Aug 2021 22:01:11 +0530",
-         "title" : "Indian GM Narayanan finishes second in Riga Open tourney"
-      },
-      {
-         "description" : "In this week's column, Jon Speelman looks at the dichotomy between energy and matter in chess. While some players choose material, others go for dynamism. To illustrate his points, Speelman analyses two recent wins by Magnus Carlsen and an early game by Mikhail Tal, in which he was able to recover and win from a material disadvantage \"of a mere two knights\"! | Pictured: Tal at the 1964 Amsterdam Interzonal | Photo: Harry Pot / Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-152",
-         "pubDate" : "Sun, 15 Aug 2021 17:20:00 +0100",
-         "title" : "Initiating fission"
       }
    ]
 }
