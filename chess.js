@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-placed-in-pool-b-of-top-division/articleshow/85974520.cms",
+         "pubDate" : "Mon, 06 Sep 2021 16:02:34 +0530",
+         "title" : "Online chess Olympiad: India placed in Pool B of Top Division"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1319",
+         "pubDate" : "Mon, 06 Sep 2021 09:38:33 +0000",
+         "title" : "Anton Demchenko wins European Championship"
+      },
+      {
+         "description" : "After 11 played rounds at the 2021 European Individual Chess Championship 2021, Russian Grandmaster Anton Demchenko (RUS, 2597) triumphed the event to claim the title of European Champion. Demchenko drew as black in the last round against Deac Bogdan-Daniel to score 8.5 points. Meanwhile, 17 years old Keymer Vincent (GER, 2602) managed to build a winning position against&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anton-demchenko-is-the-european-chess-champion-for-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anton-demchenko-is-the-european-chess-champion-for-2021/",
+         "pubDate" : "Mon, 06 Sep 2021 08:25:34 +0000",
+         "title" : "Anton Demchenko is the European Chess Champion for 2021"
+      },
+      {
+         "description" : "Magnus Carlsen called it \"a fairly smooth ride\" as he beat Vladislav Artemiev 2.5:0.5 to win the Aimchess US Rapid. His victory matched Wesley So's three titles on the $1.6 million Meltwater Champions Chess Tour and means Magnus will now have a significant head start over the US Champion going into the Tour Finals later this month. Artemiev also plays the Finals after brilliantly reaching one semi-final and two finals in the only three tour events he played.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-smooth-aimchess-us-rapid",
+         "pubDate" : "Mon, 06 Sep 2021 08:15:46 +0000",
+         "title" : "Magnus Carlsen wins \"smooth\" Aimchess US Rapid"
+      },
+      {
          "description" : "Appended below please find the list of players registered for Under-8 Western Asian Online Youth Chess Championship based on registration for National Under-8 Championship (participation",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "Remembering Evgeny Sveshnikov (11 February 1950 to 18 August 2021)"
       },
       {
-         "description" : "Wesley So joined the lead of the Sinquefield Cup by inflicting a second defeat in two games on Dariusz Swiercz. It was the only decisive game of the second round, but there was no lack of fighting spirit or creativity in most of the other games, where both Shakhriyar Mamedyarov and Sam Shankland could lament some missed opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-2-wesley-so-joins-leaders",
-         "pubDate" : "Thu, 19 Aug 2021 12:05:37 +0000",
-         "title" : "Sinquefield Cup 2: Wesley So joins the leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,14 +2120,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/5-costly-amateur-mistakes/",
          "pubDate" : "Wed, 18 Aug 2021 08:37:40 +0000",
          "title" : "The 5 Costly Mistakes That the Amateurs Make"
-      },
-      {
-         "description" : "Eight rounds have been already played at the 2021 European Women's Chess Championship in Iasi, Romania. 23 years old Osmak Iulija (UKR, 2418) emerged on the top as the sole leader of the event after defeating Maltsevskaya Aleksandra (RUS, 2409). With a score of 7 points, Osmak is half a point ahead of Danielian Elina (ARM, 2407), while&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2021-r8-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2021-r8-report/",
-         "pubDate" : "Tue, 17 Aug 2021 18:55:59 +0000",
-         "title" : "European Women's Chess Championship 2021- R8 report"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg\" data-image-dimensions=\"1726x1152\" data-image-focal-point=\"0.5,0.5\" alt=\"DSC_9746.jpg\" data-load=\"false\" data-image-id=\"611c00286f7e2316fb7a85bc\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg?format=1000w\" /> </figure> <p class=\"\">Photo Courtesy of GM Jan Markos <p class=\"\">Our guest today is the three-time champion of Slovakia, the highest rated player in his country and an award-winning aut",
@@ -2248,54 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1274",
          "pubDate" : "Mon, 16 Aug 2021 11:56:58 +0000",
          "title" : "Decisions of 2021 2nd FIDE Council Meeting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1273",
-         "pubDate" : "Mon, 16 Aug 2021 10:50:23 +0000",
-         "title" : "19th European Union Youth Championship 2021 kicks off in Kouty nad Desnou"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1272",
-         "pubDate" : "Mon, 16 Aug 2021 10:39:59 +0000",
-         "title" : "Hikaru Nakamura wins 2021 Saint Louis Rapid and Blitz"
-      },
-      {
-         "description" : "Greg was born in 1947 and as far as we're aware has always lived in Norfolk and went to school in the area. He was...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/greg-tebble-obituary/",
-         "pubDate" : "Mon, 16 Aug 2021 09:27:29 +0000",
-         "title" : "Greg Tebble obituary"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1271",
-         "pubDate" : "Mon, 16 Aug 2021 09:24:25 +0000",
-         "title" : "FIDE Women's Candidates Tournament 2022 - Call for bids"
-      },
-      {
-         "description" : " The Kramnik Challenge was the latest event in the Julius Baer Challengers Chess Tour. Vincent Keymer edged out Awonder Liang on tie-break (he beat him in their individual game) after both scored 11.5/15. Keymer qualifies for the next Champions Chess Tour online event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kramnik-challenge-2021",
-         "pubDate" : "Mon, 16 Aug 2021 13:13:00 +0400",
-         "title" : "Kramnik Challenge 2021 - "
-      },
-      {
-         "description" : "In a remarkable exhibition of speed and control, Hikaru Nakamura won the Saint Louis Rapid and Blitz Tournament with three rounds to spare, going through 27 rounds undefeated against a field completely made up of 2700+ rated players. Fabiano Caruana and Richard Rapport finished second and third respectively. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-5",
-         "pubDate" : "Mon, 16 Aug 2021 09:45:00 +0100",
-         "title" : "Dominant victory for Hikaru Nakamura in Saint Louis"
       }
    ]
 }
