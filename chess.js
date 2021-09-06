@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An online conference with a focus on restarting chess in leagues, clubs and schools, titled Work4Chess, is held on Saturday, 18 September 2021, in English. The meeting also has sessions on hybrid chess and preventing cheating through education, workshops on marketing and improving the user experience, and exhibitor presentations by Tornelo, Play Magnus Group and others. All recordings&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/work4chess-conference/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/work4chess-conference/",
+         "pubDate" : "Mon, 06 Sep 2021 18:39:05 +0000",
+         "title" : "Work4Chess - Conference"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85985040.cms\" />Team India will get a chance to form a bonding when they sit for the Fide Chess Olympiad which begins on Wednesday. In spite of being an online event due to the pandemic situation prevailing at different parts of the world, the All India Chess Federation (AICF) has arranged for both staying and playing facilities for all the players at a hotel in Chennai.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bank-on-team-bonding-in-chess-olympiad/articleshow/85985040.cms",
+         "pubDate" : "Mon, 06 Sep 2021 22:28:53 +0530",
+         "title" : "India bank on team bonding in chess Olympiad"
+      },
+      {
          "description" : "With so many cloud-based tools and services with 'cloud' in their name, it would be easy to overlook this incredibly useful tool inside ChessBase 16, which allows you to seamlessly work across multiple devices and even share with others in real time. Even professional players can miss this tool, and what is more it integrates directly with the web apps from ChessBase Account. Read on to learn more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/what-is-a-cloud-database-and-how-to-use-it",
          "pubDate" : "Mon, 06 Sep 2021 17:00:00 +0100",
-         "title" : "What is a Cloud Database? And how to use it"
+         "title" : "What is a Cloud Database. And how to use it."
       },
       {
          "description" : "With Division 2 wrapped up, the 2021 FIDE Online Olympiad is ready for the Top Division, to be played September 8-10. Fifteen qualifiers&#38;mdash;Argentina, Belarus, Brazil, Colombia, Cuba, Ecuador, Indonesia, Israel, Italy, Latvia, Moldova, Philippi...",
@@ -2090,14 +2106,6 @@ news_feed (
          "title" : "Sinquefield Cup: Caruana's brilliant win"
       },
       {
-         "description" : "Based on the final announcement for the organisation of FIDE Grand Swiss in Riga, Latvia, from October 25 to November 8, 2021, the tournament rules and the recent information from FIDE, that the president of ECU shall nominate two players (one for the open tournament and one for the women's tournament) by September 5, ECU Board announces&#160;: The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-grand-swiss-ecu-nominees/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-grand-swiss-ecu-nominees/",
-         "pubDate" : "Wed, 18 Aug 2021 12:50:37 +0000",
-         "title" : "FIDE Grand Swiss - ECU nominees"
-      },
-      {
          "description" : " While the show is definitely not about chess, <a href=\"https://www.imdb.com/title/tt10986410/\">Ted Lasso</a> does have more than a few references to it, including using it as an important plot point in one of the episodes. It even includes a blindfold game, which does end badly for one of the main characters. But chess aside, it is a very funny series, and one that I am enjoying immensly. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2232,30 +2240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-sinquefield-cup-2021",
          "pubDate" : "Tue, 17 Aug 2021 09:15:00 +0400",
          "title" : "8th Sinquefield Cup 2021 - Games and Results"
-      },
-      {
-         "description" : "Two wins and a draw on the fourth day of action granted Vincent Keymer tournament victory at the Kramnik Challenge for young stars. Most importantly, Keymer beat Awonder Liang in the penultimate round - Keymer and Liang would end the event tied in points, and the result in their direct encounter was the tiebreak decider that gave the German prodigy first place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-challenge-2021-day-4",
-         "pubDate" : "Mon, 16 Aug 2021 18:30:00 +0100",
-         "title" : "Keymer edges out Liang to win Kramnik Challenge"
-      },
-      {
-         "description" : "Svitlana and Karsten discuss endgames and Svitlana's forthcoming ChessBase products. Svitlana also presents endgames from her own games and solves a study by Karsten. | \"Endgame Magic\" is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-156-with-svitlana-demchenko",
-         "pubDate" : "Mon, 16 Aug 2021 18:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #156 - with Svitlana Demchenko"
-      },
-      {
-         "description" : "The 15-year old Sadhwani (Elo 2579) remained undefeated in the tourney, notching up five wins and four draws.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32033657/raunak-sadhwani-wins-spilimbergo-open-chess-tourney?device=featurephone",
-         "pubDate" : "Mon, 16 Aug 2021 11:59:01 -0500",
-         "title" : "Sadhwani wins Spilimbergo Open chess tourney"
       }
    ]
 }
