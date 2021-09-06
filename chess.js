@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Appended below please find the list of players registered for Under-8 Western Asian Online Youth Chess Championship based on registration for National Under-8 Championship (participation",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details-under-8/",
+         "pubDate" : "Mon, 06 Sep 2021 06:45:52 +0000",
+         "title" : "Western Asian Online Youth Chess Championship : Registration Details (UNDER-8)"
+      },
+      {
          "description" : "All sweeps once again in PogChamps 4 presented by Coinbase, with every match going 2-0. Crokeyz defeated Punz with two queen captures. Harry Mack played way above his level, but boxbox still won both games solidly, and MrBeast showed huge endgam...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1162,14 +1170,6 @@ news_feed (
          "title" : "MVL wins Sinquefield Cup | So takes Grand Chess Tour"
       },
       {
-         "description" : "AICF Delhi Office S.No Date Holidays 1 January 26 Republic Day 2 March 11 Maha Shivrartri 3 March 29 Holi 4 April 21 Rama Navami",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/list-of-public-holidays-2021/",
-         "pubDate" : "Sat, 28 Aug 2021 11:45:45 +0000",
-         "title" : "List of Public Holidays 2021"
-      },
-      {
          "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-wood-green-invitational",
          "pubDate" : "Thu, 26 Aug 2021 09:30:00 +0100",
          "title" : "The Weekly Show: Wood Green Invitational"
-      },
-      {
-         "description" : " There weren't any decisive games, but it wasn't for want of effort from the players - or from a lack of opportunities. Nevertheless, all five games were drawn, and as a result Wesley So has clinched overall victory in the Grand Chess Tour. Maxime Vachier-Lagrave can't catch him, but he is guaranteed second in the tour and continues to lead the Sinquefield Cup with a round to go, half a point of ahead of So, Fabiano Caruana, and Leinier Dominguez. The game of the round involved the two players who starred in the previous paragraph: MVL and So. Vachier-Lagrave tried an almost brand-new idea for White in the 5.Re1 Anti-Berlin - one chosen against him, interestingly enough, by David Paravyan in",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/25/sinquefield-cup-round-8-mvl-continues-to-lead-the-tournament.html",
-         "pubDate" : "Wed, 25 Aug 2021 23:47:23 +0000",
-         "title" : "Sinquefield Cup, Round 8: MVL Continues to Lead the Tournament; So Clinches GCT Title after Five Draws"
       },
       {
          "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
@@ -2304,14 +2296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2021-day-5",
          "pubDate" : "Mon, 16 Aug 2021 09:45:00 +0100",
          "title" : "Dominant victory for Hikaru Nakamura in Saint Louis"
-      },
-      {
-         "description" : " Joseph Gadson (Detroit, USA) Photo by Joseph Gadson (Facebook) The Detroit chess community is mourning the devastating loss of Joseph Nathan Gadson. He died yesterday a day shy of his 36th birthday from the complications of gastroparesis, a rare disease that primarily affects the gastrointestinal system. Joseph stated that he was hospitalized in August 2020 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/\">Detroit's Joseph Gadson passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/",
-         "pubDate" : "Mon, 16 Aug 2021 03:40:14 +0000",
-         "title" : "Detroit's Joseph Gadson passes away"
       }
    ]
 }
