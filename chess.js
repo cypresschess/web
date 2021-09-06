@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With so many cloud-based tools and services with 'cloud' in their name, it would be easy to overlook this incredibly useful tool inside ChessBase 16, which allows you to seamlessly work across multiple devices and even share with others in real time. Even professional players can miss this tool, and what is more it integrates directly with the web apps from ChessBase Account. Read on to learn more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-is-a-cloud-database-and-how-to-use-it",
+         "pubDate" : "Mon, 06 Sep 2021 17:00:00 +0100",
+         "title" : "What is a Cloud Database? And how to use it"
+      },
+      {
+         "description" : "With Division 2 wrapped up, the 2021 FIDE Online Olympiad is ready for the Top Division, to be played September 8-10. Fifteen qualifiers&#38;mdash;Argentina, Belarus, Brazil, Colombia, Cuba, Ecuador, Indonesia, Israel, Italy, Latvia, Moldova, Philippi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-2",
+         "pubDate" : "Mon, 06 Sep 2021 07:34:00 -0700",
+         "title" : "FIDE Online Olympiad Ready For Top Division"
+      },
+      {
+         "description" : "A total of fifty-six English chess coaches attended the FIDE Trainers Seminar held online over the weekend of 3rd-5th September, which featured lectures by such...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/56-english-coaches-attend-fide-trainers-seminar/",
+         "pubDate" : "Mon, 06 Sep 2021 14:20:25 +0000",
+         "title" : "56 English coaches attend FIDE Trainers Seminar"
+      },
+      {
+         "description" : "Fighting against the Gr&uuml;nfeld (1.d4 Nf6 2.c4 g6 3.Nc3 d5), quite a number of players try to make things easier for themselves by going for the sideline 4.Bg5. After all, it threatens Bxf6, followed by picking Black's d-pawn. So, what should Black do about it? \"Nothing\" is the answer by GM Lars Schandorff. In his article from ChessBase Magazine #203, he recommends to simply reply with 4&hellip;Bg7 - a pawn sacrifice employed by Peter Svidler already thirty years ago.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pawn-sac-in-the-gruenfeld",
+         "pubDate" : "Mon, 06 Sep 2021 15:00:00 +0100",
+         "title" : "Pawn sac in the Gr&uuml;nfeld"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In promotion of the 2022 <strong>Chess Olympiad</strong> that Khanty-Mansisk cohosts with Moscow, the <strong>Ugra Chess Federation</strong> is running an <a href=\"https://www.facebook.com/hashtag/streetart?source=feed_text&amp;story_id=448895762175029\">art project that has resulted in some original designs</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/original-chess-designs-from-ugra/",
+         "pubDate" : "Mon, 06 Sep 2021 14:51:39 +0100",
+         "title" : "Original chess designs from Ugra"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "PogChamps 4 Day 7: MrBeast Is Endgame Genius"
       },
       {
-         "description" : " Share!16Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of devastation [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!16Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
@@ -456,14 +496,6 @@ news_feed (
          "link" : "https://aicf.in/kind-attention/",
          "pubDate" : "Fri, 03 Sep 2021 10:32:28 +0000",
          "title" : "Kind Attention"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"http://A%20$150,000%20Fischer%20Random%20rapid%20tournament\">$150,000 Fischer Random rapid tournament</a> is hosted on 8-10 September by the <strong>Saint Louis Chess Club</strong> under its trademark title <strong>Chess 9LX Champions Showdown</strong>. Among the ten participants are all US top players, former world champion Garry Kasparov and <strong>Levon Aronian</strong>, who moves from Armenia to Saint Louis next week. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/saint-louis-fischer-random-returns/",
-         "pubDate" : "Fri, 03 Sep 2021 09:01:45 +0100",
-         "title" : "Saint Louis Fischer Random returns"
       },
       {
          "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
@@ -1410,14 +1442,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 9"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won the Sinquefield Cup for the second time in his career, finishing half a point ahead of the American trio of GMs Fabiano Caruana, Wesley So, and Leinier Dominguez Perez. GM Richard Rapport finished in fifth place with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mvl-wins-2021-sinquefield-cup",
-         "pubDate" : "Thu, 26 Aug 2021 15:29:00 -0700",
-         "title" : "Maxime Vachier-Lagrave Wins 2021 Sinquefield Cup; So Bags Tour"
-      },
-      {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2232,38 +2256,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32033657/raunak-sadhwani-wins-spilimbergo-open-chess-tourney?device=featurephone",
          "pubDate" : "Mon, 16 Aug 2021 11:59:01 -0500",
          "title" : "Sadhwani wins Spilimbergo Open chess tourney"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1275",
-         "pubDate" : "Mon, 16 Aug 2021 14:46:10 +0000",
-         "title" : "Bulgaria to stage Junior U21 Round Table Chess Championship"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 11th to 15th August 2021 ahead of the Sinquefield Cup. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez, Quang Liem Le, Jeffery Xiong, Hikaru Nakamura, Sam Shankland and Peter Svidler. Hikaru Nakamura won the combined standings ahead of Fabiano Caruana and Richard Rapport. After a very poor last place in the Rapid Le Quang Liem finished third in the blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2021",
-         "pubDate" : "Mon, 16 Aug 2021 18:03:00 +0400",
-         "title" : "Saint Louis Rapid & Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : " The ACT Government has extended the Covid lockdown for another 2 weeks, so there will be no face to face chess before the 3rd of September. The ACT Chess Association has decided to organise some online events in the meantime, to keep everyone happy and (chess) active. The events will be held on the lichess server and will probably operate in a similar way to last year. To sign up you need a Lichess account (always free) and then apply to join the <a href=\"https://lichess.org/team/actca-fast-chess-club\">https://lichess.org/team/actca-fast-chess-club</a> When you apply to join, please supply your real name, and which local chess club or activity you are connected to. The first event (a 5 roun",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/returning-to-online-chess.html",
-         "pubDate" : "Mon, 16 Aug 2021 13:03:00 +0000",
-         "title" : "Returning to online chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1274",
-         "pubDate" : "Mon, 16 Aug 2021 11:56:58 +0000",
-         "title" : "Decisions of 2021 2nd FIDE Council Meeting"
       }
    ]
 }
