@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All sweeps once again in PogChamps 4 presented by Coinbase, with every match going 2-0. Crokeyz defeated Punz with two queen captures. Harry Mack played way above his level, but boxbox still won both games solidly, and MrBeast showed huge endgam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-mrbeast-endgame-genius",
+         "pubDate" : "Sun, 05 Sep 2021 18:02:00 -0700",
+         "title" : "PogChamps 4 Day 7: MrBeast Is Endgame Genius"
+      },
+      {
+         "description" : " Share!16Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of devastation [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
+         "pubDate" : "Sun, 05 Sep 2021 23:34:02 +0000",
+         "title" : "NM Rene Phillips devastated by Hurricane Ida"
+      },
+      {
          "description" : "A convincing performance in the finals of the Aimchess US Rapid gave Magnus Carlsen tournament victory in the last 'regular' event of this year's Meltwater Champions Chess Tour. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; in the second set of the finals. The young Russian nonetheless made it into the grand finale of the series, despite only playing in 3 of the 9 qualifying tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1130,7 +1146,7 @@ news_feed (
          "title" : "CERTIFICATES OF NATIONAL CHAMPIONSHIPS"
       },
       {
-         "description" : " Share!85 Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York tournaments. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3.html",
          "pubDate" : "Wed, 25 Aug 2021 23:26:00 +0000",
          "title" : "2021 Online Olympiad Div 3"
-      },
-      {
-         "description" : "All five games were drawn today in round eight of the 2021 Sinquefield Cup. GM Maxime Vachier-Lagrave maintains his half-point lead over the trio of American GMs Fabiano Caruana, Wesley So, and Leinier Dominguez. The rest of the field can only wat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-sinquefield-cup-round-8",
-         "pubDate" : "Wed, 25 Aug 2021 15:31:00 -0700",
-         "title" : "Sinquefield Cup Round 8: MVL Maintains Lead"
       },
       {
          "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
@@ -2304,14 +2312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/15/detroits-joseph-gadson-passes-away/",
          "pubDate" : "Mon, 16 Aug 2021 03:40:14 +0000",
          "title" : "Detroit's Joseph Gadson passes away"
-      },
-      {
-         "description" : "A win with black over Igor Kovalenko in round 9 gave Alexander Donchenko tournament victory at the RTU Open in Riga. In the end, Donchenko was the only player to score 7&frac12; points, so he did not even need to bother with tiebreak-criteria calculations. After losing in round 3 against a lower-rated opponent, Donchenko sensationally won six games in a row to win the event! | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-2021-final-report",
-         "pubDate" : "Mon, 16 Aug 2021 03:40:00 +0100",
-         "title" : "Donchenko scores six wins in a row, gets clear first place at RTU Open"
       }
    ]
 }
