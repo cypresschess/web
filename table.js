@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-09-05","4","<a href=http://www.uschess.org/msa/XtblMain.php?202109057262 target=' blank'>SEPTSUNSWISS95</a>",
 "CYPRESS","2021-09-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202109036782 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-09-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202109036772 target=' blank'>FBCC 2021 SEPT PIADA</a>",
 "CYPRESS","2021-09-03","17","<a href=http://www.uschess.org/msa/XtblMain.php?202109036722 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -6,6 +7,7 @@ jtable([
 "CYPRESS","2021-08-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108274302 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-08-27","17","<a href=http://www.uschess.org/msa/XtblMain.php?202108274252 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-03  - 08-24","21","<a href=http://www.uschess.org/msa/XtblMain.php?202108243802 target=' blank'>AUGTUESNIGHTSWISS G90;D5 1-ROUND PE</a>",
+"HOUSTON","2021-08-22","7","<a href=http://www.uschess.org/msa/XtblMain.php?202108227152 target=' blank'>SUNSWISSG60D5</a>",
 "HOUSTON","2021-08-21  - 08-22","195","<a href=http://www.uschess.org/msa/XtblMain.php?202108222962 target=' blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2021</a>",
 "CYPRESS","2021-08-20","28","<a href=http://www.uschess.org/msa/XtblMain.php?202108204012 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target=' blank'>FBCC HOT DOG AUGUST 2021</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2020-07-18","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007181182 target=' blank'>SR CHESSKNIGHTS 07182020</a>",
 "SPRING","2020-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007175602 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-07-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202007154632 target=' blank'>CHESS QUAD</a>",
-"SUGAR LAND","2020-06-21  - 07-12","3","<a href=http://www.uschess.org/msa/XtblMain.php?202007124142 target=' blank'>FBCC 2020 FATHER'S DAY DOUBLE ROUND</a>",
-"KATY","2020-07-11","19","<a href=http://www.uschess.org/msa/XtblMain.php?202007111162 target=' blank'>SR CHESSKNIGHTS 07112020</a>",
 ]);
