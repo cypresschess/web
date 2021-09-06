@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Karsten is joined by Arne Kaehler to discuss the best endgames of 2020. Our in-house specialist decided to kick off the show with a fascinating ending played by two amazingly strong engines, Stockfish and Komodo. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-159-best-endgames-of-2020",
+         "pubDate" : "Mon, 06 Sep 2021 21:30:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #159: Best endgames of 2020"
+      },
+      {
+         "description" : "Thanks to a final-round win, Vincent Keymer caught up with former sole leader Anton Demchenko atop the standings of the European Championship in Reykjav&iacute;k. Demchenko was crowned European champion on tiebreak criteria, and thus became the first sub-2600 player to earn the title. A total of 23 players gained a ticket to the next edition of the FIDE World Cup. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2021-final-report",
+         "pubDate" : "Mon, 06 Sep 2021 21:10:00 +0100",
+         "title" : "Demchenko and Keymer tie for first at European Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1320",
+         "pubDate" : "Mon, 06 Sep 2021 20:09:16 +0000",
+         "title" : "\"Chess helped me in so many ways\": an interview with ex-convict Hector Guifarro"
+      },
+      {
          "description" : "An online conference with a focus on restarting chess in leagues, clubs and schools, titled Work4Chess, is held on Saturday, 18 September 2021, in English. The meeting also has sessions on hybrid chess and preventing cheating through education, workshops on marketing and improving the user experience, and exhibitor presentations by Tornelo, Play Magnus Group and others. All recordings&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/work4chess-conference/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,12 +34,28 @@ news_feed (
          "title" : "Work4Chess - Conference"
       },
       {
+         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, takes place 7th to 17th September. As in the last edition an Armageddon game will be played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event is a 6 player 10 round event. It gets off to a rather untidy start as the round 1 game Nepomniachtchi vs Karjakin is postponed until the first rest day on Saturday 11th. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
+         "pubDate" : "Mon, 6 Sep 2021 21:23:00 +0400",
+         "title" : "9th EY Norway Chess 2021 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85985040.cms\" />Team India will get a chance to form a bonding when they sit for the Fide Chess Olympiad which begins on Wednesday. In spite of being an online event due to the pandemic situation prevailing at different parts of the world, the All India Chess Federation (AICF) has arranged for both staying and playing facilities for all the players at a hotel in Chennai.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bank-on-team-bonding-in-chess-olympiad/articleshow/85985040.cms",
          "pubDate" : "Mon, 06 Sep 2021 22:28:53 +0530",
          "title" : "India bank on team bonding in chess Olympiad"
+      },
+      {
+         "description" : " The European Individual Chess Championship took place in Reykjavik 26th August to 5th September. Leading players: Gawain Jones, Gabriel Sargissian, David Navara, Matthias Bluebaum, Dieter Nisipeanu Liviu, Nils Grandelius, Constantin Lupulescu, Alexander Donchenko, Nijat Abasov etc 34 year old Anton Demchenko edged out 16 year old Vincent Keymer on tie-break after both scored 8.5/11.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
+         "pubDate" : "Mon, 6 Sep 2021 20:06:00 +0400",
+         "title" : "European Individual Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "With so many cloud-based tools and services with 'cloud' in their name, it would be easy to overlook this incredibly useful tool inside ChessBase 16, which allows you to seamlessly work across multiple devices and even share with others in real time. Even professional players can miss this tool, and what is more it integrates directly with the web apps from ChessBase Account. Read on to learn more!",
@@ -239,7 +279,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-championship-2021-live",
          "pubDate" : "Sun, 05 Sep 2021 12:55:00 +0100",
-         "title" : "European Championship - Live!"
+         "title" : "European Championship - Final round"
       },
       {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
@@ -1528,14 +1568,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/",
          "pubDate" : "Wed, 25 Aug 2021 17:20:44 +0000",
          "title" : "Burundi's Chess President, Wilfried Ntamatungiro"
-      },
-      {
-         "description" : " The European Individual Chess Championship takes place in Reykjavik 26th August to 5th September. Leading players: Gawain Jones, Gabriel Sargissian, David Navara, Matthias Bluebaum, Dieter Nisipeanu Liviu, Nils Grandelius, Constantin Lupulescu, Alexander Donchenko, Nijat Abasov etc ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
-         "pubDate" : "Wed, 25 Aug 2021 21:06:00 +0400",
-         "title" : "European Individual Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "",
