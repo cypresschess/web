@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Another exciting day of PogChamps 4 presented by Coinbase kept viewers glued to their seats as the most unpredictable matches yet happened. Sapnap defeated a partying JustaMinx with ease while she was distracted partying. The three other matches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-day-8-parties-mouse-slips-botez-gambits-endgame-precision",
+         "pubDate" : "Mon, 06 Sep 2021 18:20:00 -0700",
+         "title" : "PogChamps 4 Day 8: Parties, Mouse Slips, Botez Gambits, Endgame Precision"
+      },
+      {
          "description" : "Karsten is joined by Arne Kaehler to discuss the best endgames of 2020. Our in-house specialist decided to kick off the show with a fascinating ending played by two amazingly strong engines, Stockfish and Komodo. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-im-sophie-milliet",
          "pubDate" : "Fri, 27 Aug 2021 15:00:00 +0100",
          "title" : "Interview with IM Sophie Milliet"
-      },
-      {
-         "description" : "Team Ludwig/Hess has won the 2021 edition of Twitch Rivals Chess: Hand &#38;amp; Brain. The duo defeated Team Sardoche/Blitzstream 2-0 in the final of the championship bracket to clinch the $5,000 first prize as well as a year&#39;s supply of Doritos. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ludwig-hess-win-2021-twitch-rivals-chess-hand-brain",
-         "pubDate" : "Fri, 27 Aug 2021 06:27:34 -0700",
-         "title" : "Team Ludwig/Hess Wins 2021 Twitch Rivals Chess Hand & Brain"
       },
       {
          "description" : "",
