@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Academy</strong> and the <strong>European Chess Union</strong> run the <strong>ECU Online Trainers Conference</strong> on 1-3 October. <a href=\"http://www.european-chessacademy.com/index.php/home-page-trainers/58-news-trainers/323-ecu-online-trainers-conference\">Registration is free</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/trainers-conference-on-1-3-october/",
+         "pubDate" : "Tue, 07 Sep 2021 10:44:02 +0100",
+         "title" : "Trainers conference on 1-3 October"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Union</strong> <a href=\"https://www.europechess.org/work4chess-conference/\">supports</a> the <strong>Work4Chess</strong> online conference on 18 September, enabling officials and staff of European federations to <a href=\"http://mailto:sl@chesstech.org\">claim free tickets</a>. This offer is extended by <strong>ChessTech</strong> to volunteers and staff of federations in Africa. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/ecu-cooperates-with-work4chess/",
+         "pubDate" : "Tue, 07 Sep 2021 10:08:36 +0100",
+         "title" : "ECU cooperates with Work4Chess"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (49)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (49)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-49/",
+         "pubDate" : "Tue, 07 Sep 2021 08:30:12 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
+      },
+      {
          "description" : "Fridrik Ólafsson may be the strongest chess player of the 20th century about whom until now no book existed, in any major language. It feels great to present this first book outside of Iceland about the chess career of their first and most prominent grandmaster. It is full of important narrative and wonderfully annotated games, which highlight his personal attacking style, which he used to beat the likes of Keres, Tal, Petrosian, Fischer, Korchnoi and Karpov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -394,14 +418,6 @@ news_feed (
          "title" : "Australia fall short"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/chess-com-announces-chemmys-awards\">announced</a> the <strong>Chemmy Awards</strong> for the best user-generated content in nine categories. Voting on Twitter starts on 9 September. The winners will be announced during a ceremony, presented by streamers <strong>Andrea Botez</strong> and <strong>QTCinderella</strong> on <a href=\"http://twitch.tv/chess\">Twitch</a> in the night from 18 to 19 September, the night before the Emmy Awards of the TV Industry, from which the Chemmy is taking its cues. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chemmy-awards-for-user-generated/",
-         "pubDate" : "Sat, 04 Sep 2021 14:11:10 +0100",
-         "title" : "Chemmy awards for user-generated content"
-      },
-      {
          "description" : "The top international chess superstars are set to battle it out over the board from September 7-10 in Champions Showdown: Chess 9LX. The tournament will feature legendary World Champion Garry Kasparov, World Number 2 Fabiano Caruana, and the recent 2021 Grand Chess Tour winner, Wesley So. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nepomniachtchi-s-strategic-and-positional-thinking",
          "pubDate" : "Fri, 03 Sep 2021 15:00:00 +0100",
          "title" : "Nepomniachtchi's strategic and positional thinking"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>All India Chess Federation</strong> has published a <a href=\"https://aicf.in/request-for-expression-for-proposed-chess-league/\">call for sports marketing and event management companies</a> interested in running an Indian chess league. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/india-seeks-a-league-organiser/",
-         "pubDate" : "Fri, 03 Sep 2021 13:37:13 +0100",
-         "title" : "India seeks a league organiser"
       },
       {
          "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
@@ -2130,14 +2138,6 @@ news_feed (
          "title" : "EVGENY SVESHNIKOV - Cheliabimsk Warrior"
       },
       {
-         "description" : " I was saddened to learn of the passing of Evgeny Sveshnikov today at the age of 71, we played in a number of tournaments together and was always impressed by his interesting games and fighting qualities. He was the originator of many ideas in the openings out of which just the Sveshnikov Sicilian (1.e4 c5 <a href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Evgeny Sveshnikov: 1950-2021\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/evgeny-sveshnikov-1950-2021/\">Evgeny Sveshnikov: 1950-2021</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/evgeny-sveshnikov-1950-2021/",
-         "pubDate" : "Wed, 18 Aug 2021 17:07:42 +0000",
-         "title" : "Evgeny Sveshnikov: 1950-2021"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at Fabiano Caruana's fine attacking win against Sam Shankland in the first round of the Sinquefied Cup 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2216,54 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/traxler-ftw.html",
          "pubDate" : "Tue, 17 Aug 2021 13:03:00 +0000",
          "title" : "Traxler FTW"
-      },
-      {
-         "description" : "The John G. White Collection of Chess and Checkers is the largest and most comprehensive collection of printed material on chess. While its physical location is Cleveland, Ohio, chess researchers and aficionados may also view parts of the collection online. On July 21, 2021, Woman International Master Alexey Root visited the Cleveland Public Library, which houses the collection. | Photos: Alexey Root",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/john-g-white-collection-of-chess-and-checkers",
-         "pubDate" : "Tue, 17 Aug 2021 12:30:00 +0100",
-         "title" : "John G. White Collection of Chess and Checkers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1276",
-         "pubDate" : "Tue, 17 Aug 2021 11:22:29 +0000",
-         "title" : "Alexander Donchenko wins RTU Open 2021"
-      },
-      {
-         "description" : " <p class=\"lead\">As Afghanistan falls to the Taliban, lives of many people will change dramatically, and that unfortunately includes those who play chess, because apparently the Taliban do not approve of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Cave.png\" width=\"1600\" height=\"1052\" alt=\"\" /> <div class=\"e2-text-caption\">One of several tunnel entrances in Afghanistan partially blocked by twisted metal supports. US Deputy Secretary of Defense Ashton B. Carter visited the tunnels and a nearby Taliban stronghold May 14, 2013. Photo: Wikimedia</div> </div> World Chess, the official FIDE gaming platform, has 64 subscribers from Afghanistan, and we reached ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-may-be-banned-in-afghanistan/",
-         "pubDate" : "Tue, 17 Aug 2021 10:58:16 +0000",
-         "title" : "Chess May be Banned in Afghanistan"
-      },
-      {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/pm5.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> <p class=\"lead\"> Is there a place for pre-move on the FIDE Online Arena, the official gaming platform where players can play for an online rating recognized by FIDE? (Spoiler - yes, and it's available now!) Quick background: pre-move is an option to make a move before your opponent makes theirs, and it's usually done in time trouble or if the opponent's next move is obvious. Your pre-move is then carried out automatically after your opponent has made their move. In some cases (for example, if your move is rendered illegal for any reason), the pre-move is canceled ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-online-arena-welcomes-pre-move/",
-         "pubDate" : "Tue, 17 Aug 2021 09:36:49 +0000",
-         "title" : "FIDE Online Arena Welcomes Pre-move"
-      },
-      {
-         "description" : " <p class=\"lead\">The American GM and streamer (1.1mln subscribers on <a href=\"https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng\">YouTube</a>) Hikaru Nakamura, dominated at the Saint Louis Rapid and Blitz Tournament without losing a single game. The Twitch superstar managed to go through all 27 rounds against 2700+ rated players, setting a record for the tournament! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru.png\" width=\"1280\" height=\"853\" alt=\"\" /> </div> With three rounds to spare, Nakamura won the event leaving Fabiano Caruana and Richard Rapport at the second and third place respectively. The 5-time US champion was heavily judged the past yea",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-from-twitch-superstar-to-27-on-board-rounds-unde/",
-         "pubDate" : "Tue, 17 Aug 2021 09:01:51 +0000",
-         "title" : "Hikaru Nakamura: from Twitch superstar to 27 on-board rounds undefeated"
-      },
-      {
-         "description" : "In the diagram position White is a pawn down and Black's king is threatening to enter White's position. However, White can hope to save a draw if he manages to build a solid fortress. In the diagram position it is White to move - what would you play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fortress-building",
-         "pubDate" : "Tue, 17 Aug 2021 09:00:00 +0100",
-         "title" : "Fortress building"
       }
    ]
 }
