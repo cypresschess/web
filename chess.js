@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Richard Rapport is the early leader at the Norway Chess tournament which took off on Tuesday. The Hungarian GM beat Norway&#39;s GM Aryan Tari in the classical game to score three points, whereas GM Magnus Carlsen got 1.5 points for his armageddon ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-1",
+         "pubDate" : "Tue, 07 Sep 2021 15:19:01 -0700",
+         "title" : "Norway Chess R1: Rapport Early Leader As Firouzja-Carlsen Goes To Armageddon"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-1",
+         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-2",
+         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-3",
+         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX proper kicks off, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and Saint Louis Chess Club board member Mike Lueken draft the world's best players to join them on their teams. Join host GM Maurice Ashley for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Rex Sinquefield, Fabiano Caruana, Levon Aronian, Leinier Dominguez, Peter Svidler, Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-ultimate-moves",
+         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1321",
+         "pubDate" : "Tue, 07 Sep 2021 20:42:24 +0000",
+         "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its hybrid Fall league! For the first time, the League presents a return to in-person play, as well as an online-at-home option. Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-1\"><img src=\"https://saintlouischessclub.org/site",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,12 +66,12 @@ news_feed (
          "title" : "AlphaZero analyses, Kramnik explains"
       },
       {
-         "description" : "The 9th edition of the Norway Chess Tournament is taking place on September 7-17 at the Clarion Hotel in Stavanger. A six-player double round robin, the event features both the world champion Magnus Carlsen and his next challenger Ian Nepomniachtchi. All rounds kick off at 17.00 CEST (11.00 ET, 20.30 IST). Follow the games live with expert commentary! | Photo: Official site",
+         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew in classical - the world champion won the Armageddon decider (drew with black) after surviving a dead lost position. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Tue, 07 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Rapport grabs the lead"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
@@ -1226,14 +1274,6 @@ news_feed (
          "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
       },
       {
-         "description" : "Chess.com is thrilled to announce a special one-day only Arena Kings: Club Edition tournament with $10,000 in prizes. Arena Kings has long been the premiere online chess tournament for chess streamers, awarding over $150,000 in prizes across seven...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-announces-special-arena-kings-club-edition-on-sept-3",
-         "pubDate" : "Sun, 29 Aug 2021 10:56:00 -0700",
-         "title" : "Chess.com Announces Special Arena Kings: Club Edition On Sept. 3"
-      },
-      {
          "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1520,38 +1560,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-richard-rapport-interview-round-9",
          "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
          "title" : "2021 Sinquefield Cup: Richard Rapport Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Maxime Vachier-Lagrave during Round 9 of the 2021 Sinquefield Cup. Despite an early congratulations, the commentators misunderstood the tiebreak rules, and MVL had not actually clinched first place. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-maxime-vachier-lagrave-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Maxime Vachier-Lagrave Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ponce Health Sciences University's Dr. David Lenihan &amp; his son Connor Lenihan during Round 9 of the 2021 Sinquefield Cup. Ponce plans to build a medical school at Pruitt-Igoe. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-dr-david-connor-lenihan-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m5deJ67",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-dr-david-connor-lenihan-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Dr. David & Connor Lenihan Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Garry Kasparov during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-garry-kasparov-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WRJ6In_U0lw.jpg?itok=MJfbA2Ay\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-garry-kasparov-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Garry Kasparov Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRduk4_Gkoo.jpg?itok=SBYLNqwL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-leinier-dominguez-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 9"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
