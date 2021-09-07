@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alphazero-analyses-kramnik-explains",
+         "pubDate" : "Tue, 07 Sep 2021 17:05:00 +0100",
+         "title" : "AlphaZero analyses, Kramnik explains"
+      },
+      {
+         "description" : "The 9th edition of the Norway Chess Tournament is taking place on September 7-17 at the Clarion Hotel in Stavanger. A six-player double round robin, the event features both the world champion Magnus Carlsen and his next challenger Ian Nepomniachtchi. All rounds kick off at 17.00 CEST (11.00 ET, 20.30 IST). Follow the games live with expert commentary! | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Tue, 07 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/7/episode-242-gm-surya-ganguly",
+         "pubDate" : "Tue, 07 Sep 2021 12:52:32 +0000",
+         "title" : "Episode 242- GM Surya Ganguly "
+      },
+      {
+         "description" : " Rapid chess isn't known for deep endgame analysis, but it can still throw up some interesting positions. In tonight's ACT Online Rapid there was a very interesting K+P ending, which both players found some very good moves, and some not so great ones. Given the time control (10m+2s) it is unfair to criticise the missed wins (and draws), but I have highlighted them anyway, to show the turning points in the game. Of particular interest is the last variation, which shows how K+Q v K+Q isn't always an automatic draw. <br /> <b>RapanasCorner - chesslh [D53]</b><br />https://lichess.org/pVb9REtO <script>new PgnViewer( { boardName: \"game1269\", movesFormat: \"default\", pgnString:'1. d4 Nf6 2. c4 e6 3",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/an-instructive-king-and-pawn-ending.html",
+         "pubDate" : "Tue, 07 Sep 2021 12:05:00 +0000",
+         "title" : "An instructive King and Pawn ending"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Academy</strong> and the <strong>European Chess Union</strong> run the <strong>ECU Online Trainers Conference</strong> on 1-3 October. <a href=\"http://www.european-chessacademy.com/index.php/home-page-trainers/58-news-trainers/323-ecu-online-trainers-conference\">Registration is free</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -26,20 +58,20 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
       },
       {
-         "description" : "Fridrik Ólafsson may be the strongest chess player of the 20th century about whom until now no book existed, in any major language. It feels great to present this first book outside of Iceland about the chess career of their first and most prominent grandmaster. It is full of important narrative and wonderfully annotated games, which highlight his personal attacking style, which he used to beat the likes of Keres, Tal, Petrosian, Fischer, Korchnoi and Karpov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-saga-of-fridrik-lafsson",
-         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
-         "title" : "The Chess Saga of Fridrik Ólafsson"
-      },
-      {
          "description" : "When only very few pawns are left on the board the attacker has to be careful that s/he keeps at least one pawn that can queen. In the diagram position White has three pawns left, two more than Black. But there is only one way to win. How should White proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/not-all-roads-lead-to-rome",
          "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
          "title" : "Not all roads lead to Rome"
+      },
+      {
+         "description" : "Fridrik Ólafsson may be the strongest chess player of the 20th century about whom until now no book existed, in any major language. It feels great to present this first book outside of Iceland about the chess career of their first and most prominent grandmaster. It is full of important narrative and wonderfully annotated games, which highlight his personal attacking style, which he used to beat the likes of Keres, Tal, Petrosian, Fischer, Korchnoi and Karpov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-saga-of-fridrik-lafsson",
+         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
+         "title" : "The Chess Saga of Fridrik Ólafsson"
       },
       {
          "description" : "Another exciting day of PogChamps 4 presented by Coinbase kept viewers glued to their seats as the most unpredictable matches yet happened. Sapnap defeated a partying JustaMinx with ease while she was distracted partying. The three other matches...",
@@ -2026,14 +2058,6 @@ news_feed (
          "title" : "Day 3: Caruana, So and Vachier-Lagrave forge ahead"
       },
       {
-         "description" : "The next Meltwater Champions Chess Tour will feature 9 tournaments, beginning on February 19th, 2022 and concluding with the final from November 11-20. The Tour, that helped launch and has benefited from the huge boom in online chess in the last couple of years, is now becoming an established feature of the chess calendar, with Norway's TV 2 signing an agreement to broadcast it live for an additional five years after this year's Tour concludes in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/2022-meltwater-champions-chess-tour-dates-announced",
-         "pubDate" : "Fri, 20 Aug 2021 09:30:50 +0000",
-         "title" : "2022 Meltwater Champions Chess Tour dates announced"
-      },
-      {
          "description" : " The game of chess can be divided into three phases - the opening, middle and endgame. Each of these phases has a specific set of principles that are designed to help you play better chess. Many of these principles have been around for centuries and have stood the test of time. Are these principles a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\">A Foundation for Beginners Thirty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2208,14 +2232,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/17/episode-239-gm-jan-markos",
          "pubDate" : "Tue, 17 Aug 2021 18:33:17 +0000",
          "title" : "Episode 239- GM Jan Markos "
-      },
-      {
-         "description" : " The return of online chess events in Canberra saw some exciting chess played. Fred Litchfield had a nice tactical win against the Dragon, while Mark Hummel wheeled out the Traxler to great effect. Playing Max Albert in the last round, both players seemed a little unsure of what theory was, and there were a few inexact moves. In an effort to free up some of his pieces, Hummel decided to take his king for a walk, and it was at this point Albert missed a crushing move (19. Nc3!). Instead he threatened mate in 1, but as in a lot of Traxler games, it was Black who mated first. <br /> <b>Albert,Max (2141) - Hummel,Mark (2085) [C57]</b><br />ACTCA Rapid - 17 August 2021 https://lichess.org/pnMu1nh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/traxler-ftw.html",
-         "pubDate" : "Tue, 17 Aug 2021 13:03:00 +0000",
-         "title" : "Traxler FTW"
       }
    ]
 }
