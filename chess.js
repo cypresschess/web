@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fridrik Ólafsson may be the strongest chess player of the 20th century about whom until now no book existed, in any major language. It feels great to present this first book outside of Iceland about the chess career of their first and most prominent grandmaster. It is full of important narrative and wonderfully annotated games, which highlight his personal attacking style, which he used to beat the likes of Keres, Tal, Petrosian, Fischer, Korchnoi and Karpov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-saga-of-fridrik-lafsson",
+         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
+         "title" : "The Chess Saga of Fridrik Ólafsson"
+      },
+      {
+         "description" : "When only very few pawns are left on the board the attacker has to be careful that s/he keeps at least one pawn that can queen. In the diagram position White has three pawns left, two more than Black. But there is only one way to win. How should White proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/not-all-roads-lead-to-rome",
+         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
+         "title" : "Not all roads lead to Rome"
+      },
+      {
          "description" : "Another exciting day of PogChamps 4 presented by Coinbase kept viewers glued to their seats as the most unpredictable matches yet happened. Sapnap defeated a partying JustaMinx with ease while she was distracted partying. The three other matches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2248,30 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fortress-building",
          "pubDate" : "Tue, 17 Aug 2021 09:00:00 +0100",
          "title" : "Fortress building"
-      },
-      {
-         "description" : "The final event of the Grand Chess Tour's sixth edition, the Sinquefield Cup, will begin on August 17th, immediately following the conclusion of the 2021 Saint Louis Rapid & Blitz. The event will feature ten top-ranked international players competing for a total prize fund of $325,000, and will determine the winner of the 2021 Grand Chess Tour, who will take home the additional $100,000 prize. | Pictured: Jeffery Xiong at the opening ceremony | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-preview",
-         "pubDate" : "Tue, 17 Aug 2021 07:30:00 +0100",
-         "title" : "The Sinquefield Cup, the final event of the GCT, begins today"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85392151.cms\" />Raunak Sadhwani made India's 75th Independence Day special in Italy. Maharashtra's youngest Grandmaster continued to impress in his two-month European tour by winning the 19th Spilimbergo Open Masters meet in Italy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/raunak-sadhwani-rules-in-italy-earns-praise-from-indias-chess-legend-viswanathan-anand/articleshow/85392151.cms",
-         "pubDate" : "Tue, 17 Aug 2021 10:50:03 +0530",
-         "title" : "Raunak Sadhwani rules in Italy, earns praise from legend Anand"
-      },
-      {
-         "description" : " The 8th Sinquefield Cup takes place 17th (Round 1) to 28th August 2021. This is the final event of the Grand Chess Tour. Players: Fabiano Caruana, Shakhriyar Mamedyarov, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Peter Svidler, Jeffery Xiong, Sam Shankland and Dariusz Swiercz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sinquefield-cup-2021",
-         "pubDate" : "Tue, 17 Aug 2021 09:15:00 +0400",
-         "title" : "8th Sinquefield Cup 2021 - Games and Results"
       }
    ]
 }
