@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its hybrid Fall league! For the first time, the League presents a return to in-person play, as well as an online-at-home option. Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-1\"><img src=\"https://saintlouischessclub.org/site",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-1",
+         "pubDate" : "Tue, 07 Sep 2021 17:42:48 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #1"
+      },
+      {
          "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "2021 Sinquefield Cup: Leinier Dominguez Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-wesley-so-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lQK6zIiEsOA.jpg?itok=6Y6LurDs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-wesley-so-interview-round-9",
-         "pubDate" : "Thu, 26 Aug 2021 23:29:41 +0000",
-         "title" : "2021 Sinquefield Cup: Wesley So Interview | Round 9"
-      },
-      {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/5-costly-amateur-mistakes/",
          "pubDate" : "Wed, 18 Aug 2021 08:37:40 +0000",
          "title" : "The 5 Costly Mistakes That the Amateurs Make"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg\" data-image-dimensions=\"1726x1152\" data-image-focal-point=\"0.5,0.5\" alt=\"DSC_9746.jpg\" data-load=\"false\" data-image-id=\"611c00286f7e2316fb7a85bc\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629225000550-IU0KZ1Z9AK723JT8FFBE/DSC_9746.jpg?format=1000w\" /> </figure> <p class=\"\">Photo Courtesy of GM Jan Markos <p class=\"\">Our guest today is the three-time champion of Slovakia, the highest rated player in his country and an award-winning aut",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/17/episode-239-gm-jan-markos",
-         "pubDate" : "Tue, 17 Aug 2021 18:33:17 +0000",
-         "title" : "Episode 239- GM Jan Markos "
       }
    ]
 }
