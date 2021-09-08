@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Good luck to the England team, who are playing this week in the top division of the FIDE Online Olympiad. You can see the players,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-at-the-fide-online-olympiad-2021/",
-         "pubDate" : "Wed, 08 Sep 2021 10:17:44 +0000",
-         "title" : "England at the FIDE Online Olympiad 2021"
+         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew in classical - the world champion won the Armageddon decider (drew with black) after surviving a dead lost position. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Wed, 08 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "The first Intercontinental Online Chess Championship for Prisoners will take place on October 13-14, on the International Day of Education in Prison. FIDE Managing Director Dana Reizniece-Ozola talked to ex-convict Hector Guifarro to find out how the game helped him find a second chance in life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ex-convict-hector-guifarro-interview",
+         "pubDate" : "Wed, 08 Sep 2021 16:00:00 +0100",
+         "title" : "Ex-convict Hector Guifarro: \"Chess helped me in so many ways\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86040429.cms\" />India had a fruitful day at the office as they won two and drew one as the Division 1 Pool B clashes commenced on Wednesday. India beat Egypt and Sweden 6-0 and 4-2 respectively. The India-France encounter ended 3-3.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
+         "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
+         "title" : "Online Chess Olympiad: India have it easy on Day 1"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
-         "pubDate" : "Wed, 08 Sep 2021 11:11:16 +0100",
+         "pubDate" : "Wed, 08 Sep 2021 14:43:58 +0100",
          "title" : "Incredible that this is for free"
+      },
+      {
+         "description" : "Richard Rapport is the early leader of Norway Chess 2021 after easing to a victory over Aryan Tari that took him up to world no. 9 on the live rating list. The match of the day saw World Champion Magnus Carlsen facing an opening novelty before a tense classical game against Alireza Firouzja ended in a draw. Then, just as in last year's edition of the tournament, Firouzja looked set to win in Armageddon but was thwarted, this time not by the clock but by a passed pawn that cost him a whole rook.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-1-carlsen-beats-firouzja-as-rapport-enters-top-10",
+         "pubDate" : "Wed, 08 Sep 2021 11:34:50 +0000",
+         "title" : "Norway Chess 1: Carlsen beats Firouzja, Rapport enters Top 10"
+      },
+      {
+         "description" : "Good luck to the England team, who are playing this week in the top division of the FIDE Online Olympiad. You can see the players,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-at-the-fide-online-olympiad-2021/",
+         "pubDate" : "Wed, 08 Sep 2021 10:17:44 +0000",
+         "title" : "England at the FIDE Online Olympiad 2021"
       },
       {
          "description" : "The first international tournament Tolstoy Cup, featuring a stellar line-up, will start in the State Leo Tolstoy Museum-Estate \"Yasnaya Polyana\", the Tula region, on the great Russian writer's birthday, the 9th of September. The event will last for four days and will finish on the 12th of September. The lineup includes Anish Giri, Dmitry Andreikin, Nikita Vitiugov, Evgeny Tomashevsky, Anton Korobov and Boris Gelfand.",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "Elina Danielian wins the European Women's Championship"
       },
       {
-         "description" : "An avalanche of white wins in Rounds 3 and 4 of the 2021 Sinquefield Cup meant that already, before the half-way mark, only three players are still undefeated, the three leaders - Leinier Dominguez, Fabiano Caruana and Wesley So. At the other end of the table, Darius Swiercz got on the scoreboard with his first win, leaving Peter Svidler as the tail-ender.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-4-caruana-so-dominguez-lead",
-         "pubDate" : "Sat, 21 Aug 2021 16:09:55 +0000",
-         "title" : "Sinquefield Cup 3-4: Caruana, So & Dominguez lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85514686.cms\" />Putting an end to internal fighting, the All-India Chess Federation and the breakaway Chess Association of India on Saturday announced that they have merged into one single entity to administer the sport in the country.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2200,22 +2224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-477-f-caruana-s-shankland-sinquefield-cup-2021",
          "pubDate" : "Wed, 18 Aug 2021 18:00:00 +0100",
          "title" : "Game of the Week 477: F. Caruana - S. Shankland, Sinquefield Cup 2021"
-      },
-      {
-         "description" : "Exciting chess continues to be the norm in Saint Louis, as the Sinquefield Cup kicked off with a number of thrilling games on Tuesday. Fabiano Caruana, Leinier Dominguez and Maxime Vachier-Lagrave won their first-round games and are the early leaders of the event. Caruana's victory over Sam Shankland was particularly attractive. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r1",
-         "pubDate" : "Wed, 18 Aug 2021 14:10:00 +0100",
-         "title" : "Sinquefield Cup: Caruana's brilliant win"
-      },
-      {
-         "description" : " While the show is definitely not about chess, <a href=\"https://www.imdb.com/title/tt10986410/\">Ted Lasso</a> does have more than a few references to it, including using it as an important plot point in one of the episodes. It even includes a blindfold game, which does end badly for one of the main characters. But chess aside, it is a very funny series, and one that I am enjoying immensly. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/tv-shows-that-briefly-mention-chess.html",
-         "pubDate" : "Wed, 18 Aug 2021 12:17:00 +0000",
-         "title" : "TV shows that briefly mention chess"
       }
    ]
 }
