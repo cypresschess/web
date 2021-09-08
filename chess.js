@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86028425.cms\" />India's squad for this edition of the online Olympiad boasts of strong players in all categories. From the senior-most in the group -- Viswanathan Anand, P Harikrishna, Humpy and Harika -- to the juniors such as Nihal Sarin, Praggnanandhaa and Savithashri, there is plenty of quality.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-women-players-and-youngsters-give-india-the-edge/articleshow/86028425.cms",
+         "pubDate" : "Wed, 08 Sep 2021 10:14:53 +0530",
+         "title" : "Online Olympiad: Women players, youngsters give India the edge"
+      },
+      {
          "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew their classical game - the world champion won the Armageddon decider (drew with black) after surviving a dead-lost position. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
