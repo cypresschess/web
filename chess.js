@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1322",
+         "pubDate" : "Wed, 08 Sep 2021 21:46:22 +0000",
+         "title" : "Top Division: China and Russia lead"
+      },
+      {
+         "description" : "GM Richard Rapport continues to lead the Norway Chess tournament after drawing both his classical and armageddon games with GM Sergey Karjakin, gaining 1.5 points. GM Magnus Carlsen is in second place after surviving a scare in the classical and t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-2-nepomniachtchi-kings-gambit",
+         "pubDate" : "Wed, 08 Sep 2021 14:23:00 -0700",
+         "title" : "Norway Chess R2: Nepomniachtchi Wins With The King's Gambit"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-1-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-1-lichessorg",
+         "pubDate" : "Wed, 08 Sep 2021 20:44:11 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 1 | lichess.org"
+      },
+      {
+         "description" : " Share! Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
+         "pubDate" : "Wed, 08 Sep 2021 19:56:47 +0000",
+         "title" : "Philadelphia loses Jerome Works (1955-2021)"
+      },
+      {
          "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
          "pubDate" : "Wed, 08 Sep 2021 20:55:00 +0100",
          "title" : "Champions Showdown: Chess 9LX - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> has <a href=\"https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com\">signed a sponsorship deal</a> with <strong>Chess.com</strong>. From today he is wearing clothes with logos of Chess.com as well as his Russian sponsor <strong>Simaland</strong> at the <strong>Norway Chess</strong> tournament, where he will play twice against Carlsen on this Friday and again next week Friday. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepo-sponsored-by-chesscom/",
+         "pubDate" : "Wed, 08 Sep 2021 20:13:39 +0100",
+         "title" : "Nepo sponsored by Chess.com"
       },
       {
          "description" : "Chess.com is delighted and excited to announce that GM Ian Nepomniachtchi, 2021 Candidates Tournament winner and world championship challenger to GM Magnus Carlsen, has signed a long-term sponsorship agreement with Chess.com! &#34;We are thrilled to...",
@@ -42,12 +82,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Middlegame pawn breaks"
       },
       {
-         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew in classical - the world champion won the Armageddon decider (drew with black) after surviving a dead lost position. | Photo: Official site",
+         "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Wed, 08 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Rapport still leads"
       },
       {
          "description" : " The Champions Showdown 9LX is a rapid Fischer Random/Chess960 event that takes place 8th to 10th September 2021. Players: Garry Kasparov, Fabiano Caruana, Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Hikaru Nakamura, Peter Svidler and Sam Shankland. I don't have the ability to display the games.",
@@ -250,14 +290,6 @@ news_feed (
          "title" : "Trainers conference on 1-3 October"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Union</strong> <a href=\"https://www.europechess.org/work4chess-conference/\">supports</a> the <strong>Work4Chess</strong> online conference on 18 September, enabling officials and staff of European federations to <a href=\"http://mailto:sl@chesstech.org\">claim free tickets</a>. This offer is extended by <strong>ChessTech</strong> to volunteers and staff of federations in Africa. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">18 Sep 2021</span> 10.00-18.00 h: <a href=\"https://www.chesstech.org/events/2021/work4chess/\">Work 4 Chess!</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/ecu-cooperates-with-work4chess/",
-         "pubDate" : "Tue, 07 Sep 2021 10:08:36 +0100",
-         "title" : "ECU cooperates with Work4Chess"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (49)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (49)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -426,7 +458,7 @@ news_feed (
          "title" : "PogChamps 4 Day 7: MrBeast Is Endgame Genius"
       },
       {
-         "description" : " Share!44Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
@@ -1298,14 +1330,6 @@ news_feed (
          "title" : "Peaceful end to Division 3 of the FIDE Online Olympiad"
       },
       {
-         "description" : "The 2021 FIDE Online Olympiad resumed over the weekend as the matches of Division 3 were played in five round-robin groups. Malaysia, Chinese Taipei, Sri Lanka, Ireland, Lebanon, Iraq, Scotland, Angola, Wales, Bolivia, Uruguay, Paraguay, Venezuela...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-3",
-         "pubDate" : "Mon, 30 Aug 2021 06:17:00 -0700",
-         "title" : "FIDE Online Olympiad: Division 3 In The Books"
-      },
-      {
          "description" : "Vladislav Artemiev beat previous leader Levon Aronian on the way to scoring 4/5 on Day 2 of the Aimchess US Rapid to take the sole lead, half a point ahead of Levon and Magnus Carlsen. The only player to match his score was World Cup winner Jan-Krzysztof Duda, who climbed from last to 7th place. Maxime Vachier-Lagrave is the biggest star name outside the knockout qualifying spots with one day to go, while Daniel Naroditsky continues to impress after beating Wesley So and Liem Quang Le.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1664,14 +1688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-9",
          "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
          "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Richard Rapport after Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-richard-rapport-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/skhVopS_2qk.jpg?itok=z40OwfYd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-richard-rapport-interview-round-9",
-         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
-         "title" : "2021 Sinquefield Cup: Richard Rapport Interview | Round 9"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
