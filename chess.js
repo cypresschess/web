@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
+         "pubDate" : "Wed, 08 Sep 2021 20:55:00 +0100",
+         "title" : "Champions Showdown: Chess 9LX - Live!"
+      },
+      {
+         "description" : "Chess.com is delighted and excited to announce that GM Ian Nepomniachtchi, 2021 Candidates Tournament winner and world championship challenger to GM Magnus Carlsen, has signed a long-term sponsorship agreement with Chess.com! &#34;We are thrilled to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com",
+         "pubDate" : "Wed, 08 Sep 2021 11:10:10 -0700",
+         "title" : "Ian Nepomniachtchi Signs With Chess.com"
+      },
+      {
+         "description" : " The question if chess is a sport haunted me since my early childhood. I vividly remember my first day in the sports class in high school. When walking home that day, a now very good friend said to me &#8220;I'm not talking to a nerdy Chess Player&#8221;. It is only one of many anecdotes of [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/is-chess-a-sport/\">Is Chess A Sport?</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/is-chess-a-sport/",
+         "pubDate" : "Wed, 08 Sep 2021 17:00:00 +0000",
+         "title" : "Is Chess A Sport?"
+      },
+      {
+         "description" : "GM Nodirbek Yakubboev won the first Titled Tuesday of September, and his first since February 2020, with a score of 9.5/11, winning on the tiebreaker over GM Maksim Chigaev.&#38;nbsp;GM Daniel Naroditsky took third with the best tiebreaker of the four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yakubboev-wins-september-7-titled-tuesday",
+         "pubDate" : "Wed, 08 Sep 2021 09:41:08 -0700",
+         "title" : "Yakubboev Wins September 7 Titled Tuesday"
+      },
+      {
+         "description" : "Ask your chess friends or colleagues, \"What is the most difficult part for you to understand in chess?\" The answer is often: middlegames. Once you have reached the middlegame, it is difficult to make a plan. But luckily, we are blessed with some of Svitlana's Smart Moves once again. Today we try to figure out how to hold the tension in the middlegame, why to hold it, and how to break through with your pawns in the right moment.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-12",
+         "pubDate" : "Wed, 08 Sep 2021 17:30:00 +0100",
+         "title" : "Svitlana's Smart Moves - Middlegame pawn breaks"
+      },
+      {
          "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew in classical - the world champion won the Armageddon decider (drew with black) after surviving a dead lost position. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Wed, 08 Sep 2021 16:55:00 +0100",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " The Champions Showdown 9LX is a rapid Fischer Random/Chess960 event that takes place 8th to 10th September 2021. Players: Garry Kasparov, Fabiano Caruana, Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Hikaru Nakamura, Peter Svidler and Sam Shankland. I don't have the ability to display the games.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2021",
+         "pubDate" : "Wed, 8 Sep 2021 19:37:00 +0400",
+         "title" : "Champions Showdown 9LX 2021 - Games and Results"
       },
       {
          "description" : "The first Intercontinental Online Chess Championship for Prisoners will take place on October 13-14, on the International Day of Education in Prison. FIDE Managing Director Dana Reizniece-Ozola talked to ex-convict Hector Guifarro to find out how the game helped him find a second chance in life.",
@@ -18,12 +66,28 @@ news_feed (
          "title" : "Ex-convict Hector Guifarro: \"Chess helped me in so many ways\""
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The polish capital <a href=\"https://grandchesstour.org/blog/grand-chess-tour-returns-2022-1275m-prizes-and-new-event-warsaw-poland\">shall host</a> a rapid and blitz event in the <strong>Grand Chess Tour</strong> in August 2022 thanks to an extended sponsorship by <strong>Superbet</strong>. The final tour stop will again be at the <strong>Saint Louis Chess Club</strong> with a classic tournament rather than two consecutive tournaments. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/warsaw-joins-grand-chess-tour/",
+         "pubDate" : "Wed, 08 Sep 2021 15:52:08 +0100",
+         "title" : "Warsaw joins Grand Chess Tour"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86040429.cms\" />India had a fruitful day at the office as they won two and drew one as the Division 1 Pool B clashes commenced on Wednesday. India beat Egypt and Sweden 6-0 and 4-2 respectively. The India-France encounter ended 3-3.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
          "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
          "title" : "Online Chess Olympiad: India have it easy on Day 1"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Gibraltar International Chess Festival</strong>, inaugurated in 2003, won't see its 20th edition in January 2022 because the <strong>Caleta Hotel</strong> <a href=\"https://www.gbc.gi/news/caleta-hotel-paves-way-new-hilton\">will close and be demolished to make place for a new Hilton</a>. Festival Director <strong>Stuart Conquest</strong> told ChessTech that an invitational event is underway to keep the tradition going until the festival can come back. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/",
+         "pubDate" : "Wed, 08 Sep 2021 15:44:00 +0100",
+         "title" : "Gibraltar festival takes gap year"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
@@ -80,14 +144,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/",
          "pubDate" : "Wed, 08 Sep 2021 07:37:58 +0000",
          "title" : "European Senior Team Chess Championship 2021 concluded"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Gibraltar International Chess Festival, inaugurated in 2003, won't see its 20th edition in January 2022 because the <strong>Caleta Hotel</strong> <a href=\"https://www.gbc.gi/news/caleta-hotel-paves-way-new-hilton\">will close and be demolished to make place for a new Hilton</a>. Festival Director <strong>Stuart Conquest</strong> told ChessTech that an invitational event is underway to keep the tradition going until the festival can come back. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/",
-         "pubDate" : "Wed, 08 Sep 2021 08:30:46 +0100",
-         "title" : "Gibraltar festival takes gap year"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86028425.cms\" />India's squad for this edition of the online Olympiad boasts of strong players in all categories. From the senior-most in the group -- Viswanathan Anand, P Harikrishna, Humpy and Harika -- to the juniors such as Nihal Sarin, Praggnanandhaa and Savithashri, there is plenty of quality.",
@@ -320,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pawn-sac-in-the-gruenfeld",
          "pubDate" : "Mon, 06 Sep 2021 15:00:00 +0100",
          "title" : "Pawn sac in the Gr&uuml;nfeld"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In promotion of the 2022 <strong>Chess Olympiad</strong> that Khanty-Mansisk cohosts with Moscow, the <strong>Ugra Chess Federation</strong> is running an <a href=\"https://www.facebook.com/hashtag/streetart?source=feed_text&amp;story_id=448895762175029\">art project that has resulted in some original designs</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/original-chess-designs-from-ugra/",
-         "pubDate" : "Mon, 06 Sep 2021 14:51:39 +0100",
-         "title" : "Original chess designs from Ugra"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
@@ -1298,14 +1346,6 @@ news_feed (
          "title" : "Chess London: Find the winning move"
       },
       {
-         "description" : "GM Vladislav Artemiev leads the preliminary stage of the Aimchess U.S. Rapid after two days. The 23-year-old Russian grandmaster scored 7.5/10, half a point more than GM Magnus Carlsen, who is back in the field for this final leg of the Champions ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-day-2-artemiev",
-         "pubDate" : "Mon, 30 Aug 2021 00:58:00 -0700",
-         "title" : "Aimchess U.S. Rapid Days 1-2: Artemiev Leads As Carlsen Returns For Final Leg"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1336,14 +1376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-2",
          "pubDate" : "Mon, 30 Aug 2021 02:00:00 +0100",
          "title" : "Aimchess US Rapid: Artemiev shines, Naroditsky keeps it sharp"
-      },
-      {
-         "description" : "PogChamps 4 presented by Coinbase has begun, and day one was quite the show, headlined not by action on the board but by Harry Mack&#39;s crowd-pleasing improvisation with his trademark freestyle rap. Action began with Magic: The Gathering star and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-day-1-harry-mack-rap",
-         "pubDate" : "Sun, 29 Aug 2021 15:08:00 -0700",
-         "title" : "PogChamps 4 Day 1: Harry Mack Raps Chess Game Analysis"
       },
       {
          "description" : "",
@@ -2216,14 +2248,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/19/chess-board-options/",
          "pubDate" : "Thu, 19 Aug 2021 00:10:40 +0000",
          "title" : "Chess Board Options"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at Fabiano Caruana's fine attacking win against Sam Shankland in the first round of the Sinquefied Cup 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-477-f-caruana-s-shankland-sinquefield-cup-2021",
-         "pubDate" : "Wed, 18 Aug 2021 18:00:00 +0100",
-         "title" : "Game of the Week 477: F. Caruana - S. Shankland, Sinquefield Cup 2021"
       }
    ]
 }
