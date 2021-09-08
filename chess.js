@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew their classical game - the world champion won the Armageddon decider (drew with black) after surviving a dead-lost position. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r1",
+         "pubDate" : "Wed, 08 Sep 2021 02:45:00 +0100",
+         "title" : "Norway Chess: A lively start"
+      },
+      {
          "description" : "GM Richard Rapport is the early leader at the Norway Chess tournament which took off on Tuesday. The Hungarian GM beat Norway&#39;s GM Aryan Tari in the classical game to score three points, whereas GM Magnus Carlsen got 1.5 points for his armageddon ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-norway-chess-round-1",
-         "pubDate" : "Tue, 07 Sep 2021 15:19:01 -0700",
+         "pubDate" : "Tue, 07 Sep 2021 15:19:00 -0700",
          "title" : "Norway Chess R1: Rapport Early Leader As Firouzja-Carlsen Goes To Armageddon"
       },
       {
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alphazero-analyses-kramnik-explains",
          "pubDate" : "Tue, 07 Sep 2021 17:05:00 +0100",
          "title" : "AlphaZero analyses, Kramnik explains"
-      },
-      {
-         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew in classical - the world champion won the Armageddon decider (drew with black) after surviving a dead lost position. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Tue, 07 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Rapport grabs the lead"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
@@ -282,7 +282,7 @@ news_feed (
          "title" : "PogChamps 4 Day 7: MrBeast Is Endgame Genius"
       },
       {
-         "description" : " Share!16Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!44Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
