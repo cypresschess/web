@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Good luck to the England team, who are playing this week in the top division of the FIDE Online Olympiad. You can see the players,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-at-the-fide-online-olympiad-2021/",
+         "pubDate" : "Wed, 08 Sep 2021 10:17:44 +0000",
+         "title" : "England at the FIDE Online Olympiad 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
+         "pubDate" : "Wed, 08 Sep 2021 11:11:16 +0100",
+         "title" : "Incredible that this is for free"
+      },
+      {
+         "description" : "The first international tournament Tolstoy Cup, featuring a stellar line-up, will start in the State Leo Tolstoy Museum-Estate \"Yasnaya Polyana\", the Tula region, on the great Russian writer's birthday, the 9th of September. The event will last for four days and will finish on the 12th of September. The lineup includes Anish Giri, Dmitry Andreikin, Nikita Vitiugov, Evgeny Tomashevsky, Anton Korobov and Boris Gelfand.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leo-tolstoy-gm-in-museum-estate",
+         "pubDate" : "Wed, 08 Sep 2021 11:00:00 +0100",
+         "title" : "Leo Tolstoy GM in Museum Estate"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=1\" class=\"js-img\" title=\"Work4Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://bridge.beamian.com/event/475/",
+         "pubDate" : "Wed, 08 Sep 2021 09:25:22 +0100",
+         "title" : "Work 4 Chess!"
+      },
+      {
+         "description" : "In order to cut down the appreciable load on ECF membership admin at this busy time, parents please note the following on the Rates and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/a-note-for-parents-on-ecf-membership/",
+         "pubDate" : "Wed, 08 Sep 2021 07:44:02 +0000",
+         "title" : "A note for parents on ECF membership"
+      },
+      {
+         "description" : "European Senior Team Chess Championship 2021 concluded yesterday in Prague, Czech Republic. The event was played in two sections: 50+ and 65+. The Winner of 50+ category became the domestic team, team of Czech Republic with score of 17 match points. Team of Slovakia was second, lagging behind the Winners for only one match point. With 16 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/",
+         "pubDate" : "Wed, 08 Sep 2021 07:37:58 +0000",
+         "title" : "European Senior Team Chess Championship 2021 concluded"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Gibraltar International Chess Festival, inaugurated in 2003, won't see its 20th edition in January 2022 because the <strong>Caleta Hotel</strong> <a href=\"https://www.gbc.gi/news/caleta-hotel-paves-way-new-hilton\">will close and be demolished to make place for a new Hilton</a>. Festival Director <strong>Stuart Conquest</strong> told ChessTech that an invitational event is underway to keep the tradition going until the festival can come back. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/",
+         "pubDate" : "Wed, 08 Sep 2021 08:30:46 +0100",
+         "title" : "Gibraltar festival takes gap year"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86028425.cms\" />India's squad for this edition of the online Olympiad boasts of strong players in all categories. From the senior-most in the group -- Viswanathan Anand, P Harikrishna, Humpy and Harika -- to the juniors such as Nihal Sarin, Praggnanandhaa and Savithashri, there is plenty of quality.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -106,7 +162,7 @@ news_feed (
          "title" : "Trainers conference on 1-3 October"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Union</strong> <a href=\"https://www.europechess.org/work4chess-conference/\">supports</a> the <strong>Work4Chess</strong> online conference on 18 September, enabling officials and staff of European federations to <a href=\"http://mailto:sl@chesstech.org\">claim free tickets</a>. This offer is extended by <strong>ChessTech</strong> to volunteers and staff of federations in Africa. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Union</strong> <a href=\"https://www.europechess.org/work4chess-conference/\">supports</a> the <strong>Work4Chess</strong> online conference on 18 September, enabling officials and staff of European federations to <a href=\"http://mailto:sl@chesstech.org\">claim free tickets</a>. This offer is extended by <strong>ChessTech</strong> to volunteers and staff of federations in Africa. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">18 Sep 2021</span> 10.00-18.00 h: <a href=\"https://www.chesstech.org/events/2021/work4chess/\">Work 4 Chess!</a></li> </ul> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/ecu-cooperates-with-work4chess/",
@@ -344,22 +400,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details/",
          "pubDate" : "Sun, 05 Sep 2021 16:56:10 +0000",
          "title" : "Western Asian Online Youth Chess Championship : Registration Details"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> has <a href=\"https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1\">won the first match</a> of the <strong>Aimchess US Rapid</strong> final against <strong>Vladislav Artemiev</strong> in spite of losing one game due to a curious mouseslip. The world champion got doubts about his planned move and dragged the queen back to its original square to think more. Only when he wanted to move a minute later, he realized that a queen move to a square in between had been registered and that it was Artemiev's turn. (Update:) Of the other games in the final Carlsen won four, drew two and lost none, scoring ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mouseslip-cant-stop-carlsen/",
-         "pubDate" : "Sun, 05 Sep 2021 17:30:22 +0100",
-         "title" : "Mouseslip can't stop Carlsen"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian <strong>Anton Demchenko</strong> won the <strong>European Championship</strong> in Reykjavik thanks to a better tiebreak than German youngster <strong>Vincent Keymer</strong>, who also ended on 8,5 points out of 11, both winning €17,500. As usual, the thirty highest ranked European players missed out because they can expect to be seated into the Worldcup 2023, whereas many who <a href=\"http://chess-results.com/tnr563954.aspx\">played in Reykjavik</a> contended themselves with short draws in the last rounds to assure their qualification. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/demchenko-and-keymer-share-first/",
-         "pubDate" : "Sun, 05 Sep 2021 17:09:30 +0100",
-         "title" : "Demchenko and Keymer share first"
       },
       {
          "description" : "Team India consists of WGM Varshini V, WGM Srija Seshadri, WIM Arpita Mukherjee and WIM Michelle Catherina lifted Asian University Women's Chess Championship winners trophy",
@@ -1770,14 +1810,6 @@ news_feed (
          "title" : "Sinquefield Cup: Fighting draws"
       },
       {
-         "description" : "Many congratulations to IM Ravi Haria who gained a GM norm (finishing first) and FM Marcus Harvey (finishing joint third) who gained a final IM...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-ravi-haria-and-marcus-harvey/",
-         "pubDate" : "Tue, 24 Aug 2021 12:03:25 +0000",
-         "title" : "Congratulations to Ravi Haria and Marcus Harvey"
-      },
-      {
          "description" : "The 57th Rubinstein Memorial was again held as a big chess festival in Polanica Zdroj, Poland. Kirill Shevchenko and David Navara finished the GM tournament tied on points (6 out of 9). Shevchenko was declared the tournament's winner since he had the better tiebreak score - direct encounter. Kacper Piorun and Pawel Teclaf finished a half point behind. | Photos: Rafał Siwik",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2042,14 +2074,6 @@ news_feed (
          "title" : "Danielian Elina wins European Women's Chess Championship 2021"
       },
       {
-         "description" : "Please follow the link for an initial summary of responses to date from the ECF clubs survey https://www.englishchess.org.uk/wp-content/uploads/2021/08/Clubs-Survey-Summary-Findings-August.pdf",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-survey-interim-responses/",
-         "pubDate" : "Fri, 20 Aug 2021 15:10:12 +0000",
-         "title" : "Clubs Survey - interim responses"
-      },
-      {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG\" data-image-dimensions=\"1834x836\" data-image-focal-point=\"0.5,0.5\" alt=\"My.System.JPG\" data-load=\"false\" data-image-id=\"611fb0792523aa1e707d7c90\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466755809-RXHQBM5L2RQA3CMBODJ3/QC.MySystem.jpg\" data-image-dimensions=\"339x499\" data-image-focal-point=\"0.5,0.5\" alt=\"QC.",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2170,14 +2194,6 @@ news_feed (
          "title" : "Chess Board Options"
       },
       {
-         "description" : "Unbelievable news-Evgeny Sveshnikov died after seemed overcomed COVID 19. He was just 71, always full of ideas. His dream was to participate in Seniors Championships (he won a lot) and to meet old friends. He really fought for Seniors chess and for the intellectual rights of chess players. He was one of the members of the famous Cheliabinsk&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/evgeny-sveshnikov-cheliabimsk-warrior/",
-         "pubDate" : "Wed, 18 Aug 2021 18:40:44 +0000",
-         "title" : "EVGENY SVESHNIKOV - Cheliabimsk Warrior"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at Fabiano Caruana's fine attacking win against Sam Shankland in the first round of the Sinquefied Cup 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2200,46 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/tv-shows-that-briefly-mention-chess.html",
          "pubDate" : "Wed, 18 Aug 2021 12:17:00 +0000",
          "title" : "TV shows that briefly mention chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1278",
-         "pubDate" : "Wed, 18 Aug 2021 11:15:29 +0000",
-         "title" : "Evgeny Sveshnikov (1950-2021)"
-      },
-      {
-         "description" : "The Semi-Slav, the Chebanenko system and the Slav triangle are solid and flexible weapons for Black against 1.d4. On this DVD Mihail Marin offers players with White a repertoire that meets these systems in a provocative way that promises White the initiative and a lot of play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-mihai-marin-the-catalan-vs-the-semi-slav-chebanenko-and-triangle",
-         "pubDate" : "Wed, 18 Aug 2021 11:57:58 +0100",
-         "title" : "New - Mihail Marin: The Catalan vs. the Semi-Slav, Chebanenko and Triangle"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1277",
-         "pubDate" : "Wed, 18 Aug 2021 10:21:21 +0000",
-         "title" : "Caruana, Dominguez and Vachier-Lagrave take early lead"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the action from the St Louis Rapid and Blitz. The featured game will be Caruana-Svidler from round 19. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-rapid-and-blitz-in-saint-louis",
-         "pubDate" : "Wed, 18 Aug 2021 11:18:23 +0100",
-         "title" : "The Weekly Show: Rapid and Blitz in Saint Louis"
-      },
-      {
-         "description" : " This is a guest article from Grandmaster Avetik Grigoryan. He is a great friend of mine and an amazing Chess Coach. He is also the funder and CEO of ChessMood, an online chess learning website that I can wholeheartedly recommend. After coaching many amateur players, I noticed something quite interesting Nearly all of them were [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-costly-amateur-mistakes/\">The 5 Costly Mistakes That the Amateurs Make</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/5-costly-amateur-mistakes/",
-         "pubDate" : "Wed, 18 Aug 2021 08:37:40 +0000",
-         "title" : "The 5 Costly Mistakes That the Amateurs Make"
       }
    ]
 }
