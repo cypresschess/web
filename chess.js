@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Only minimal coverage today, but the events deserve mention. The more serious event is <a href=\"https://norwaychess.no/en/\">Norway Chess</a>, which continues with its odd format. At the start of each day it seems like a normal classical tournament, but there's a twist: if the game finishes in a draw the players start over, with the same colors, and play an Armageddon game with a much shorter time control. If a player wins the classical game, he wins the round 3-0. If the game goes to Armageddon, then the players get a point each for the draw while the winner of the Armageddon (that is, the winner of the game, or the player with Black in case it ends in a draw) gets an additional half a poin",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/9/norway-chess-2021-champions-showdown-chess-9lx.html",
+         "pubDate" : "Thu, 09 Sep 2021 05:47:13 +0000",
+         "title" : "Norway Chess 2021 & Champions Showdown: Chess 9LX"
+      },
+      {
+         "description" : "We are proud to announce the third season of the Collegiate Chess League (CCL) run in partnership with Chess.com and the Corporate Esports Association (CEA). Since the League&#39;s creation in 2019, the chess world has seen incredible increases in pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/registration-is-open-for-season-3-of-the-collegiate-chess-league",
+         "pubDate" : "Wed, 08 Sep 2021 20:42:00 -0700",
+         "title" : "Registration Is Open For Season 3 Of The Collegiate Chess League"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Sam Shankland after Day 1 of the Chess960 round robin. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nhAJl5zldeE.jpg?itok=FEiMqjET\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "The Modernized Modern Benoni"
       },
       {
-         "description" : "The second day of PogChamps 4 presented by Coinbase was yet another memorable episode in the history of PogChamps. The first few matches ended with the expected easy wins for the much higher-rated Fundy and boxbox, who defeated Tectone and Justa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-day-2-ludwig-turns-mrbeast-into-cat-maid",
-         "pubDate" : "Mon, 30 Aug 2021 15:02:00 -0700",
-         "title" : "PogChamps 4 Day 2: Nervous Ludwig Turns MrBeast Into Cat Maid"
-      },
-      {
          "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/",
          "pubDate" : "Fri, 27 Aug 2021 06:13:31 +0000",
          "title" : "European Chess Championship 2021 kicked off in Reykjavik"
-      },
-      {
-         "description" : " Maxime Vachier-Lagrave drew his game with Shakhriyar Mamedyarov, but it wasn't for a lack of effort on Mamedyarov's part! Just kidding: the game barely lasted five minutes and repeated a draw that has been used at least seven times since it first showed up last December. The draw guaranteed that MVL would at worst finish in a tie for first, while it also increased the likelihood that Mamedyarov would finish third in the overall Grand Chess Tour standings, thereby picking up a $25,000 bonus. If Fabiano Caruana had won his last game (which was also the last game to finish), with Black against Richard Rapport, he would have tied for first with Vachier-Lagrave and would have let him leapfrog Ma",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/26/sinquefield-cup-round-9-five-more-draws-means-mvl-wins-the-t.html",
-         "pubDate" : "Fri, 27 Aug 2021 03:14:38 +0000",
-         "title" : "Sinquefield Cup, Round 9: Five More Draws Means MVL Wins the Tournament"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1281",
          "pubDate" : "Thu, 19 Aug 2021 11:56:31 +0000",
          "title" : "FIDE Online Olympiad kicks off on August 20"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1280",
-         "pubDate" : "Thu, 19 Aug 2021 06:27:49 +0000",
-         "title" : "Wesley So joins leaders"
       }
    ]
 }
