@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the Norway Chess Tournament is taking place on September 7-17 at the Clarion Hotel in Stavanger. A six-player double round robin, the event features both the world champion Magnus Carlsen and his next challenger Ian Nepomniachtchi. Read the full report on round 2. All rounds kick off at 17.00 CEST (11.00 ET, 20.30 IST). Follow the games live with expert commentary! | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Thu, 09 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r2",
+         "pubDate" : "Thu, 09 Sep 2021 16:45:00 +0100",
+         "title" : "Norway Chess: Missed chances, and a King's Gambit"
+      },
+      {
+         "description" : "This week, Merijn van Delft analyses a strategic masterpiece by Richard Rapport, who treated us to a 'good knight vs bad bishop' lesson in his first-round game at the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-480-rapport-gives-a-masterclass",
+         "pubDate" : "Thu, 09 Sep 2021 16:30:00 +0100",
+         "title" : "Game of the Week 480: Rapport gives a masterclass"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86069700.cms\" />India looked in good form for the second day in succession at the ongoing FIDE online Olympiad on Thursday. India, part of Division 1 Pool B in the competition, won all their matches in the day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-continue-strong-show-on-day-2/articleshow/86069700.cms",
+         "pubDate" : "Thu, 09 Sep 2021 20:15:46 +0530",
+         "title" : "Online Chess Olympiad: India continue strong show on Day 2"
+      },
+      {
+         "description" : "Ian Nepomniachtchi spoilt great winning chances in classical chess against Alireza Firouzja, but called it \"my small revenge\" to unleash the King's Gambit in Armageddon. Alireza hadn't studied Nepo's Chessable course and was crushed in swashbuckling style. World Champion Magnus Carlsen almost went down in flames against Norwegian no. 2 Aryan Tari, but pulled off a great escape before winning in Armageddon. Sergey Karjakin also got out of Dodge against Richard Rapport, but couldn't stop the tournament leader clinching victory in sudden-death.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-2-nepo-beats-firouzja-with-king-s-gambit",
+         "pubDate" : "Thu, 09 Sep 2021 14:16:15 +0000",
+         "title" : "Norway Chess 2: Nepo beats Firouzja with King's Gambit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1324",
+         "pubDate" : "Thu, 09 Sep 2021 13:42:42 +0000",
+         "title" : "\"Chess for children with ASD\" seminar announced"
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen is playing in his last big event before the World Chess Championship Match and appears out of form, almost losing to Alireza Firouzja and Aryan Tari in <a href=\"https://norwaychess.no/en/\">Norway Chess Tournament</a>. He barely survived both games on luck, according to Twitter commentary. Carlsen will have to level up his game before facing Nepo in less than 80 days. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/241630324_4424199000972774_5564030703167909647_n-min.jpg\" width=\"2000\" height=\"1255\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes</div> </div> Carlsen probably sees Norway Chess, a tournament he won many ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/is-carlsen-out-of-form-in-norway-chess/",
+         "pubDate" : "Thu, 09 Sep 2021 13:05:59 +0000",
+         "title" : "Is Carlsen out of Form in Norway Chess?"
+      },
+      {
+         "description" : "Another game where the difference between winning and drawing was decided by a single move. In this case it was 29.Qc2 (which loses) versus 29.Qd8 which would have lead to a draw.<div><br /></div><div><br /></div><b>Jumabayev,Rinat (2562) - Ding,Liren (2836) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (4.1), 09.09.2021 <script>new PgnViewer( { boardName: \"game1270\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 Bf5 6.Qb3 Qc8 7.Ngf3 c4 8.Qd1 e6 9.Be2 h6 10.b3 b5 11.bxc4 bxc4 12.Ne5 Nxe5 13.Bxe5 Be7 14.g4 Bg6 15.h4 Qc6 16.Rg1 Bd6 17.h5 Bh7 18.g5 hxg5 19.h6 Kf8 20.Nxc4 Be7 21.hxg7+ Kxg7 22.Nd2 Qxc3 23.Rc1 Qa3 24.Rc7 Rac8 25.Rxg5+ Bg6 26.Qc2 Rxc7 27.Qxc7 Rh1+",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/a-very-fine-line.html",
+         "pubDate" : "Thu, 09 Sep 2021 12:21:00 +0000",
+         "title" : "A very fine line"
+      },
+      {
+         "description" : "GM Fabiano Caruana leads the Champions Showdown Chess9LX tournament in St. Louis after the first of three days. A surprising result was GM Hikaru Nakamura&#39;s 0/3, while GM Garry Kasparov&#38;nbsp;drew twice and lost one. Round 3 standings #...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-showdown-chess9lx-day-1",
+         "pubDate" : "Thu, 09 Sep 2021 04:25:09 -0700",
+         "title" : "Champions Showdown Chess9LX Day 1: Caruana Leads"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,7 +90,7 @@ news_feed (
          "title" : "Norway Chess 2021 & Champions Showdown: Chess 9LX"
       },
       {
-         "description" : "We are proud to announce the third season of the Collegiate Chess League (CCL) run in partnership with Chess.com and the Corporate Esports Association (CEA). Since the League&#39;s creation in 2019, the chess world has seen incredible increases in pla...",
+         "description" : "We are proud to announce the third season of the Collegiate Chess League (CCL) run in partnership with Chess.com and the Corporate Esports Association (CEA). Since the league&#39;s creation in 2019, the chess world has seen incredible increases in pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/registration-is-open-for-season-3-of-the-collegiate-chess-league",
@@ -120,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-12",
          "pubDate" : "Wed, 08 Sep 2021 17:30:00 +0100",
          "title" : "Svitlana's Smart Moves - Middlegame pawn breaks"
-      },
-      {
-         "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Wed, 08 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Rapport still leads"
       },
       {
          "description" : " The Champions Showdown 9LX is a rapid Fischer Random/Chess960 event that takes place 8th to 10th September 2021. Players: Garry Kasparov, Fabiano Caruana, Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Hikaru Nakamura, Peter Svidler and Sam Shankland. I don't have the ability to display the games.",
@@ -1314,14 +1378,6 @@ news_feed (
          "title" : "Aimchess Prelims Finish; K.O. Pairings Set"
       },
       {
-         "description" : "GM Nihal Sarin prevailed over GM Amin Tabatabaei with a score of 23.5 - 4.5 in the last remaining quarterfinal match of the Junior Speed Chess Championship presented by ChessKid. Sarin scored an identical 7-2 crush in both the 5|1 and 3|1 segments...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/junior-speed-chess-championship-sarin-tabatabaei",
-         "pubDate" : "Mon, 30 Aug 2021 18:38:00 -0700",
-         "title" : "Junior Speed Chess Championship QF: Sarin Dominates Tabatabaei"
-      },
-      {
          "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1986,14 +2042,6 @@ news_feed (
          "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
       },
       {
-         "description" : "After the mayhem of the previous two days, round 5, the last before the free day, was relatively calmer at the Sinquefield Cup - though not entirely bereft of excitement. Fabiano Caruana lost a game he didn't really need to, and this left him half a point behind the lead, now rejoined by Maxime Vachier-Lagrave.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-5-xiong-takes-down-caruana",
-         "pubDate" : "Sun, 22 Aug 2021 20:02:09 +0000",
-         "title" : "Sinquefield Cup 5: Xiong takes down Caruana"
-      },
-      {
          "description" : "The 2021 FIDE Online Olympiad is taking place from August 20th to September 15th. It is a national teams event in which all federations affiliated to FIDE have the right to participate. Teams consist of six players, with a minimum of three female players and two junior players. Played online on chess.com, the event features two main stages: the Divisions stage, and the Play-offs stage. All games are played with a 15 minutes + 5 seconds increment per move time control.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2208,46 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-attack-in-the-cambridge-springs",
          "pubDate" : "Thu, 19 Aug 2021 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A crushing attack in the Cambridge Springs"
-      },
-      {
-         "description" : "The Guildford Chess Club is one of the leading chess clubs in England, and it is also one of the oldest chess clubs in the country (and the world). On 11 September the club celebrates its 125th anniversary with a huge 125 board simul that is free for all. | Photo: The home of the Guildford Chess Club - since 1896",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-guildford-chess-club-celebrates-its-125th-anniversary",
-         "pubDate" : "Thu, 19 Aug 2021 16:30:05 +0100",
-         "title" : "The Guildford Chess Club celebrates its 125th anniversary!"
-      },
-      {
-         "description" : "The second round of the Sinquefield Cup in Saint Louis was played on Wednesday. Wesley So was the only winner of the day. The Filipino-born star inflicted Dariusz Swiercz's second loss in a row. So thus joined Fabiano Caruana, Maxime Vachier-Lagrave and Leinier Dominguez in the lead of the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r2",
-         "pubDate" : "Thu, 19 Aug 2021 14:25:00 +0100",
-         "title" : "Sinquefield Cup: So beats Swiercz"
-      },
-      {
-         "description" : "Chess Academy of Armenia and Armenian Chess Federation organize two Open Chess Tournaments in the period from 4-22 October 2021. The first tournament of the chess tour is &#8220;Chess Mood&#8221; International Open which will take place from 4th-12th October at a 5 stars Tsaghkadzor Mariott Hotel. The event will be held within two groups: A (for players rated&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-chess-tournaments-in-armenia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/open-chess-tournaments-in-armenia/",
-         "pubDate" : "Thu, 19 Aug 2021 12:29:49 +0000",
-         "title" : "Open Chess Tournaments in Armenia"
-      },
-      {
-         "description" : "Today, the Sveshnikov Variation 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5!? is one of the most popular lines of the Sicilian. It is named after the Russian Grandmaster Evgeny Sveshnikov, who discovered its potential in the 1960s and helped to make it popular. Yesterday, on 18 August 2021, Sveshnikov died at the age of 71. | Photo: Thorsten Cmiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-evgeny-sveshnikov-11-februar-1950-bis-18-august-2021",
-         "pubDate" : "Thu, 19 Aug 2021 13:22:50 +0100",
-         "title" : "Remembering Evgeny Sveshnikov (11 February 1950 to 18 August 2021)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1281",
-         "pubDate" : "Thu, 19 Aug 2021 11:56:31 +0000",
-         "title" : "FIDE Online Olympiad kicks off on August 20"
       }
    ]
 }
