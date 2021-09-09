@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Sam Shankland after Day 1 of the Chess960 round robin. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nhAJl5zldeE.jpg?itok=FEiMqjET\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-1",
+         "pubDate" : "Wed, 08 Sep 2021 23:44:17 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Sam Shankland Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Wesley So after Day 1 of the Chess960 round robin. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LE7iZfQmd2k.jpg?itok=T7QxVhr5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-1",
+         "pubDate" : "Wed, 08 Sep 2021 23:44:17 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Wesley So Interview | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Fabiano Caruana after Day 1 of the Chess960 round robin. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N5Sd1krR7wE.jpg?itok=apjCkctX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-1",
+         "pubDate" : "Wed, 08 Sep 2021 23:44:17 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Fabiano Caruana Interview | Day 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Day 1 | lichess.org"
       },
       {
-         "description" : " Share! Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!18 Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com",
-         "pubDate" : "Wed, 08 Sep 2021 11:10:10 -0700",
+         "pubDate" : "Wed, 08 Sep 2021 11:10:00 -0700",
          "title" : "Ian Nepomniachtchi Signs With Chess.com"
       },
       {
@@ -1138,14 +1162,6 @@ news_feed (
          "title" : "Aimchess U.S. Rapid QF: Aronian, Carlsen, Firouzja Lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> August 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/august-2021-chess-puzzle-answer-key",
-         "pubDate" : "Wed, 01 Sep 2021 05:00:00 +0000",
-         "title" : "August 2021 Chess Puzzle Answer Key "
-      },
-      {
          "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1672,22 +1688,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/8/26/sinquefield-cup-round-9-five-more-draws-means-mvl-wins-the-t.html",
          "pubDate" : "Fri, 27 Aug 2021 03:14:38 +0000",
          "title" : "Sinquefield Cup, Round 9: Five More Draws Means MVL Wins the Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Peter Svidler during Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-peter-svidler-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_N6KEyNAs4.jpg?itok=VCUInISU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-peter-svidler-interview-round-9",
-         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
-         "title" : "2021 Sinquefield Cup: Peter Svidler Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Round 9 of the 2021 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-eCwdnypBV0.jpg?itok=x9NwIleT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-sinquefield-cup-fabiano-caruana-interview-round-9",
-         "pubDate" : "Fri, 27 Aug 2021 02:29:36 +0000",
-         "title" : "2021 Sinquefield Cup: Fabiano Caruana Interview | Round 9"
       },
       {
          "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1280",
          "pubDate" : "Thu, 19 Aug 2021 06:27:49 +0000",
          "title" : "Wesley So joins leaders"
-      },
-      {
-         "description" : " From the publisher: &#8220;Larry Kaufman can safely be called an exceptional chess grandmaster Larry Kaufman started out as a prodigy, however not in chess but as a whizz kid in science and math. He excels at shogi (Japanese chess) and Go, and is also a world-famous computer programmer and a highly successful option trader. Remarkably, <a href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Board Options</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/19/chess-board-options/\">Chess Board Options</a> appeared first on <a rel=\"nofollow\" ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/19/chess-board-options/",
-         "pubDate" : "Thu, 19 Aug 2021 00:10:40 +0000",
-         "title" : "Chess Board Options"
       }
    ]
 }
