@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 9th edition of the Norway Chess Tournament is taking place on September 7-17 at the Clarion Hotel in Stavanger. A six-player double round robin, the event features both the world champion Magnus Carlsen and his next challenger Ian Nepomniachtchi. Read the full report on round 2. All rounds kick off at 17.00 CEST (11.00 ET, 20.30 IST). Follow the games live with expert commentary! | Photo: Official site",
+         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
+         "pubDate" : "Thu, 09 Sep 2021 20:55:00 +0100",
+         "title" : "Champions Showdown: Chess 9LX - Live!"
+      },
+      {
+         "description" : "Fabiano Caruana was the only unbeaten player on Day 1 of Chess 9LX in Saint Louis as he topped the table with 2.5/3. MVL, Mamedyarov and Shankland all lost one game but won two to share 2nd place, while the only players who ended winless were Garry Kasparov, who missed a win against Wesley So, and Hikaru Nakamura, who amazingly ended with 0/3 after losing to Shakhriyar Mamedyarov, Sam Shankland and Levon Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chess-9lx-1-fabi-top-as-kasparov-nakamura-suffer",
+         "pubDate" : "Thu, 09 Sep 2021 17:37:29 +0000",
+         "title" : "Chess 9LX 1: Fabi top as Kasparov & Nakamura suffer"
+      },
+      {
+         "description" : "We all love olympiads. There&#39;s the Olympics, and, of course, the Chess Olympiad. In this one, the time has come for competition between the strongest teams out there, as the top division started playing today. The format of the tournament is thr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-1",
+         "pubDate" : "Thu, 09 Sep 2021 09:40:05 -0700",
+         "title" : "FIDE Online Olympiad Division 1, Day 1: Elite Teams Shine"
+      },
+      {
+         "description" : "For a second day in a row, all three classical games at the Norway Chess Tournament finished drawn. This time around, all three Armageddon deciders favoured the player with the black pieces - i.e. Magnus Carlsen, Ian Nepomniachtchi and Sergey Karjakin. Richard Rapport, who lost the tiebreaker against the world champion, nonetheless kept the sole lead in the standings table. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Thu, 09 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Three wins for Black in Armageddon"
       },
       {
          "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
@@ -1346,14 +1370,6 @@ news_feed (
          "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
       },
       {
-         "description" : "GM Vladislav Artemiev won the preliminary stage of the Aimchess U.S. Rapid and will play GM Leinier Dominguez in the quarterfinals. GM Anish Giri and GM Maxime Vachier-Lagrave were among the players who failed to qualify. The other matchups in t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-preliminaries-day-3",
-         "pubDate" : "Tue, 31 Aug 2021 01:19:00 -0700",
-         "title" : "Aimchess U.S. Rapid: Artemiev Wins Prelims; Giri, MVL Out"
-      },
-      {
          "description" : "In the diagram position it is Black to move and tablebases and endgame books know that this position is a theoretical draw. However, holding theoretical draws is often difficult in practice. But Jan-Krzyzstof Duda, who was Black against Ding Liren here, was up to the task and found the only move that saves the game. What did he play?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "2021 Online Olympiad Div 3"
       },
       {
-         "description" : "Five draws in Round 6 of the 2021 Sinquefield Cup, despite some pretty hard-fought battles, left the standings intact, but the pace picked up again in Round 7, with two of the favourites winning crucial games and Maxime Vachier-Lagrave emerging as the sole leader before the last sprint.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-6-7-mvl-grabs-the-sole-lead",
-         "pubDate" : "Wed, 25 Aug 2021 19:21:41 +0000",
-         "title" : "Sinquefield Cup 6-7: MVL grabs the sole lead"
-      },
-      {
          "description" : " Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-onilne-chess-olympiad-starts-today.html",
          "pubDate" : "Fri, 20 Aug 2021 05:18:00 +0000",
          "title" : "2021 Onilne Chess Olympiad - Starts today"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the Cambridge Springs Variation in the Semi Slav 5.Bg5 Nbd7 6.e3 Qa5 and how White might be able to generate fast and furious play against this seemingly solid line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-attack-in-the-cambridge-springs",
-         "pubDate" : "Thu, 19 Aug 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A crushing attack in the Cambridge Springs"
       }
    ]
 }
