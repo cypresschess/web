@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1325",
+         "pubDate" : "Thu, 09 Sep 2021 22:18:25 +0000",
+         "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
+         "pubDate" : "Thu, 09 Sep 2021 23:14:14 +0100",
+         "title" : "Incredible that this is for free"
+      },
+      {
+         "description" : "The playoffs began today in PogChamps 4 presented by Coinbase. The action began with jakenbakeLIVE beating JustaMinx 2-0 in the consolation bracket. Then&#38;nbsp;MrBeast gave Harry Mack a draw to start the second consolation quarterfinal of the day, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-playoffs-fundy-mrbeast-jakenbake-win",
+         "pubDate" : "Thu, 09 Sep 2021 15:03:00 -0700",
+         "title" : "PogChamps 4 Playoffs Day 1: Fundy Advances To Championship Semifinals After Tough Match"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-2-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-2-lichessorg",
+         "pubDate" : "Thu, 09 Sep 2021 20:45:01 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 2 | lichess.org"
+      },
+      {
          "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/",
          "pubDate" : "Wed, 08 Sep 2021 15:44:00 +0100",
          "title" : "Gibraltar festival takes gap year"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
-         "pubDate" : "Wed, 08 Sep 2021 14:43:58 +0100",
-         "title" : "Incredible that this is for free"
       },
       {
          "description" : "Richard Rapport is the early leader of Norway Chess 2021 after easing to a victory over Aryan Tari that took him up to world no. 9 on the live rating list. The match of the day saw World Champion Magnus Carlsen facing an opening novelty before a tense classical game against Alireza Firouzja ended in a draw. Then, just as in last year's edition of the tournament, Firouzja looked set to win in Armageddon but was thwarted, this time not by the clock but by a passed pawn that cost him a whole rook.",
@@ -994,14 +1018,6 @@ news_feed (
          "title" : "News Review - Lawrence has some sad news about the Gibraltar Open"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a class on decision-making in chess! The mysterious masked Caleb talks about his process and why it sometimes works, and why he may wind up making the wrong decision. 2021.09.02<br /> Caleb Denby vs Safal Bora, 2021: D86 Gruenfeld, exchange, classical variation<br /> Denby vs ???, 2021: D06 Queen&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decision-making-chess-grandmasters-choice-nm-caleb-denby\"><img src=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/decision-making-chess-grandmasters-choice-nm-caleb-denby",
-         "pubDate" : "Fri, 03 Sep 2021 02:36:02 +0000",
-         "title" : "Decision-Making in Chess | Grandmaster's Choice - NM Caleb Denby"
-      },
-      {
          "description" : "Four matches today in PogChamps 4 presented by Coinbase, fairly well-played overall other than several occasions of the now-infamous Botez Gambit. It&#39;s just not PogChamps without a hanging queen or three. IamCristinini defeated Punz for her firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1296,14 +1312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid",
          "pubDate" : "Tue, 31 Aug 2021 22:20:00 +0100",
          "title" : "The Weekly Show: Aimchess US Rapid"
-      },
-      {
-         "description" : "Chess.com invites you to try out different ways to express your chess with our three newest features! We are rolling out more emoji with Quick Chat, Board Emoji, and Reactions. We designed these features to make your chess experience even more fun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-animated-emoji-on-chess-com",
-         "pubDate" : "Tue, 31 Aug 2021 10:45:00 -0700",
-         "title" : "New Animated Emoji On Chess.com"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
