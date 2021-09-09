@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1323",
+         "pubDate" : "Thu, 09 Sep 2021 10:08:01 +0000",
+         "title" : "Caruana grabs the lead after Day 1"
+      },
+      {
          "description" : " Only minimal coverage today, but the events deserve mention. The more serious event is <a href=\"https://norwaychess.no/en/\">Norway Chess</a>, which continues with its odd format. At the start of each day it seems like a normal classical tournament, but there's a twist: if the game finishes in a draw the players start over, with the same colors, and play an Armageddon game with a much shorter time control. If a player wins the classical game, he wins the round 3-0. If the game goes to Armageddon, then the players get a point each for the draw while the winner of the Armageddon (that is, the winner of the game, or the player with Black in case it ends in a draw) gets an additional half a poin",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
          "pubDate" : "Wed, 08 Sep 2021 19:56:47 +0000",
          "title" : "Philadelphia loses Jerome Works (1955-2021)"
-      },
-      {
-         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
-         "pubDate" : "Wed, 08 Sep 2021 20:55:00 +0100",
-         "title" : "Champions Showdown: Chess 9LX - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> has <a href=\"https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com\">signed a sponsorship deal</a> with <strong>Chess.com</strong>. From today he is wearing clothes with logos of Chess.com as well as his Russian sponsor <strong>Simaland</strong> at the <strong>Norway Chess</strong> tournament, where he will play twice against Carlsen on this Friday and again next week Friday. </div> ",
