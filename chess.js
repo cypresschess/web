@@ -2,20 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-2",
+         "pubDate" : "Fri, 10 Sep 2021 17:20:00 +0100",
+         "title" : "Chess 9LX: Dominguez leads, Kasparov on a roll"
+      },
+      {
+         "description" : "Richard Rapport is leading the standings table in Stavanger despite losing his third-round Armageddon encounter against world champion Magnus Carlsen. In Friday's round 4, Carlsen faces Ian Nepomniachtchi, his next challenger for the world crown. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Fri, 10 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-make-it-to-quarters-in-online-olympiad/articleshow/86096937.cms",
+         "pubDate" : "Fri, 10 Sep 2021 19:51:16 +0530",
+         "title" : "India make it to quarters in online Olympiad"
+      },
+      {
+         "description" : "In April 2021, Ian Nepomniachtchi won the Candidates Tournament in Ekaterinenburg and thus gained the right to challenge world champion Magnus Carlsen in a match to be staged later this year. A perfect occasion to present the challenger's skills in the \"Special\" of ChessBase Magazine #203. Our authors (including Adhiban, Berg, Edouard, Krasenkow and others) annotated their favourite game by the 31-year-old Russian. This has resulted in an exclusive collection of 21 high-class encounters played between 2002 and 2021. One of them - Nepomniachtchi-Carlsen from the Legends of Chess Final in 2020 - is presented in this article, annotated by IM Robert Ris. \"A wonderful prelude to their upcoming Wo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-favourite-nepomniachtchi-game",
+         "pubDate" : "Fri, 10 Sep 2021 15:00:00 +0100",
+         "title" : "\"My favourite Nepomniachtchi game\""
+      },
+      {
+         "description" : "The third round of the Norway Chess Tournament saw three draws in the classical games, two of them by perpetual check. Magnus Carlsen played 18 moves of a King's Indian before signing a draw against Richard Rapport on move 18. The Armageddon tiebreakers that followed all favoured the black player. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r3",
+         "pubDate" : "Fri, 10 Sep 2021 14:50:00 +0100",
+         "title" : "Norway Chess: Armageddon"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi meet in Round 4 of Norway Chess in their penultimate classical game before the 2021 World Chess Championship match with neither player currently in top form. Bother Magnus and Nepo were losing their Armageddon games, against Richard Rapport and Aryan Tari, but both found a way to win. Sergey Karjakin pulled off the same trick against Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-3-magnus-nepo-scrape-wins-before-showdown",
+         "pubDate" : "Fri, 10 Sep 2021 13:31:43 +0000",
+         "title" : "Norway Chess 3: Magnus & Nepo scrape wins before showdown"
+      },
+      {
+         "description" : "The final list of registration for Western Asian Online Chess Championship is appended below:- All players registered are requested to check their name, category and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-list-of-registration-western-asian-online-chess-championship/",
+         "pubDate" : "Fri, 10 Sep 2021 12:18:19 +0000",
+         "title" : "FINAL LIST OF REGISTRATION : WESTERN ASIAN ONLINE CHESS CHAMPIONSHIP"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sideline in the Botvinnik Variation of the Semi Slav - 7.a4. He analyses a game in which Indian prodigy Gukesh had the white pieces, and pays special attention to a 2019 predecessor in which Daniil Dubov beat Anish Giri with white. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-botvinnik-variation-of-the-semi-slav",
          "pubDate" : "Fri, 10 Sep 2021 13:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Botvinnik Variation of the Semi Slav"
+         "title" : "Robert Ris' Fast and Furious: The Botvinnik Variation in the Semi-Slav"
       },
       {
-         "description" : "Scoring 3/3 on the second day, GM Leinier Dominguez took over the lead from&#38;nbsp;GM Fabiano Caruana at the Champions Showdown Chess9LX tournament in St. Louis. GM Garry Kasparov had an excellent day where he scored 2.5/3 and moved to shared third ...",
+         "description" : "Scoring 3/3 on the second day, GM Leinier Dominguez took over the lead from&#38;nbsp;GM Fabiano Caruana at the Champions Showdown Chess9LX tournament in St. Louis. GM Garry Kasparov had an excellent day. He scored 2.5/3, moved to shared third place, a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-showdown-chess9lx-day-2-kasparov-1",
          "pubDate" : "Fri, 10 Sep 2021 04:01:00 -0700",
          "title" : "Champions Showdown Chess9LX Day 2: Dominguez Leads, Kasparov Scores 2.5/3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1327",
+         "pubDate" : "Fri, 10 Sep 2021 10:14:57 +0000",
+         "title" : "Day 02: Dominguez surges to the top"
       },
       {
          "description" : "ECU E-Magazine August 2021 is out! In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2021 European Women's Individual Chess Championship 2021 European Senior Team Chess Championship 2021 Upcoming European Club Cup 2021 Upcoming European Senior Chess Championship 2021 Invitation for European Youth&#38;Junior Chess Championships 2021 Upcoming Seminars in September Arbiters Corner&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2021/\">Read More &#187;</a></span>",
@@ -176,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-1",
          "pubDate" : "Thu, 09 Sep 2021 09:40:05 -0700",
          "title" : "FIDE Online Olympiad Division 1, Day 1: Elite Teams Shine"
-      },
-      {
-         "description" : "For a second day in a row, all three classical games at the Norway Chess Tournament finished drawn. This time around, all three Armageddon deciders favoured the player with the black pieces - i.e. Magnus Carlsen, Ian Nepomniachtchi and Sergey Karjakin. Richard Rapport, who lost the tiebreaker against the world champion, nonetheless kept the sole lead in the standings table. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Thu, 09 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Three wins for Black in Armageddon"
       },
       {
          "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
@@ -1682,28 +1738,12 @@ news_feed (
          "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
       },
       {
-         "description" : "The Certificates for National Age Group, National Schools, Women &#38; Junior Girls are now available for download. You can download the certificate either by entering",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-championships/",
-         "pubDate" : "Sat, 28 Aug 2021 15:27:32 +0000",
-         "title" : "CERTIFICATES OF NATIONAL CHAMPIONSHIPS"
-      },
-      {
          "description" : " Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York tournaments. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
          "pubDate" : "Sat, 28 Aug 2021 12:05:57 +0000",
          "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave was the winner of the 2021 Sinquefield Cup, after the last two rounds of the event failed to produce a decisive game, thus leaving the standings unaltered. But Maxime's failure to beat Wesley So in Round 8 meant that the latter was assured clear first place in the Grand Chess Tour overall standings, with Maxime finishing close behind in second place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mvl-wins-sinquefield-cup-so-claims-grand-chess-tour",
-         "pubDate" : "Sat, 28 Aug 2021 12:00:52 +0000",
-         "title" : "MVL wins Sinquefield Cup | So takes Grand Chess Tour"
       },
       {
          "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
@@ -2234,14 +2274,6 @@ news_feed (
          "title" : "Polish riders of the chessboard: Rubinstein, Tartakower, Duda"
       },
       {
-         "description" : "In the diagram position it is Black to play - and the title says it all! Gather ideas, calculate lines and enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nepomniachtchi-at-work-2",
-         "pubDate" : "Sat, 21 Aug 2021 09:00:00 +0100",
-         "title" : "Mate in 5!"
-      },
-      {
          "description" : " The first day of the 2021 Online Chess Olympiad began with 60 teams in action. Due to the varying levels of infrastructure around the world, some teams were able to play with all players present, while others had to make do with whoever could maintain a stable internet connection. As a consequence not all teams were able to perform to pre-tournament expectations, which leaves the competition for promotion places wide open. I was a spectator for a couple of Pools (A and B), and was a pool arbiter for Pool C. This involved teams from Africa and Europe, and the results were either feast or famine. Five teams won all their matches to be on 6 match points, while 5 teams lost all of theirs to be ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2272,22 +2304,6 @@ news_feed (
          "link" : "https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/",
          "pubDate" : "Fri, 20 Aug 2021 18:46:55 +0000",
          "title" : "Danielian Elina wins European Women's Chess Championship 2021"
-      },
-      {
-         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG\" data-image-dimensions=\"1834x836\" data-image-focal-point=\"0.5,0.5\" alt=\"My.System.JPG\" data-load=\"false\" data-image-id=\"611fb0792523aa1e707d7c90\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466745736-2GVSZ2ZMWQXQHFKL2XH6/My.System.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629466755809-RXHQBM5L2RQA3CMBODJ3/QC.MySystem.jpg\" data-image-dimensions=\"339x499\" data-image-focal-point=\"0.5,0.5\" alt=\"QC.",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/20/book-recap-18-discussing-aron-nimzowitschs-my-system-with-im-christof-sielecki",
-         "pubDate" : "Fri, 20 Aug 2021 13:43:14 +0000",
-         "title" : "Book Recap #18- Discussing Aron Nimzowitsch's My System with IM Christof Sielecki "
-      },
-      {
-         "description" : "Today, 20 August 2021, the European Women's Championship in Iasi/Romania comes to an end, and with one round to go five players still have chances to win: Elina Danielian and Juliya Osmak lead with 8.0/10 each and three players with 7.5/10 each share places three to five: Olivia Kiolbasa, Mai Narva and Nataliya Buksa. In the eleventh and final round Danielian plays with White against Narva, Osmak has White against Bela Khotenashvili and Kiolbasan plays with White against Buksa. The round starts at 13:00 CEST (7:00 ET, 11:00 UTC). Follow the action live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
-         "pubDate" : "Fri, 20 Aug 2021 12:45:00 +0100",
-         "title" : "European Women's Championship, 11th and last round - Live"
       }
    ]
 }
