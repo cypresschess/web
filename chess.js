@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a much better comeback in St Louis on Thursday night after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. The 58-year-old's poor clock management and outdated openings in five-minute blitz contributed to his Zagreb disaster. This week's format in the $150,000 Champions Showdown is Chess 9LX, also k",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/sep/10/chess-garry-kasparov-wins-two-in-a-row-at-st-louis-to-fight-back-from-disaster",
+         "pubDate" : "Fri, 10 Sep 2021 07:00:21 +0000",
+         "title" : "Chess: Garry Kasparov wins two in a row at St Louis to fight back from disaster"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess continues to make chess beautiful again, one club at a time! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Poster-0420-2021-08-29_web.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> This year, World Chess called on chess clubs and federations to submit their institution for a free design makeover by our design team (you are welcome to submit <a href=\"https://x25ugr4ie62.typeform.com/to/yPyN0Idl\">your chess club or federation!</a>). Dozens of submissions later, we are picking those who, in our view, would benefit from the facelift. Next up is the <a href=\"https://www.keralachessassociation.com/\">Kerala Chess Association</a> in India",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rebranding-kerala-the-knight-fight-one-sight/",
+         "pubDate" : "Fri, 10 Sep 2021 06:24:03 +0000",
+         "title" : "Rebranding Kerala"
+      },
+      {
          "description" : "The Top Division of the FIDE Online Olympiad sees 40 teams fighting for 8 spots in the quarterfinals. A single round-robin tournament is played in each of the four pools, with the top two teams advancing to the knockout stage. After 6 out of 9 rounds, Kazakhstan, Russia and the United States still have a perfect 12/12 score. | Pictured: Vihy Anand leading Team India on top board | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,30 +2272,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-one/",
          "pubDate" : "Fri, 20 Aug 2021 09:27:58 +0000",
          "title" : "A Foundation for Beginners Thirty One"
-      },
-      {
-         "description" : " The five-time US champion exchanged frosty tweets with the world No 1 after the rapid/blitz tournament in St Louis Hikaru Nakamura, the five-time US champion, has a flourishing online presence with more than a million followers to his Twitch stream, where he demonstrates his high-level skills while passing on expressively phrased nuggets of wisdom. At age 33, Nakamura's hopes for the classical world title are remote, and he now rarely plays one game a day tournaments. His supremacy is geared to speed games, where he and the world No 1, Magnus Carlsen, have stratospheric ratings around the 2900 mark. <a href=\"https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carls",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/aug/20/chess-nakamura-swaps-barbs-with-carlsen-after-27-game-unbeaten-run",
-         "pubDate" : "Fri, 20 Aug 2021 07:00:28 +0000",
-         "title" : "Chess: Nakamura swaps barbs with Carlsen after 27-game unbeaten run"
-      },
-      {
-         "description" : "A particularly exciting round saw four players winning with the white pieces at the Sinquefield Cup in Saint Louis. Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are leading the standings on 2&frac12;/3, with Shakhriyar Mamedyarov (pictured) and Leinier Dominguez currently a half point behind. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r3",
-         "pubDate" : "Fri, 20 Aug 2021 07:00:00 +0100",
-         "title" : "Sinquefield Cup: Sharp chess"
-      },
-      {
-         "description" : " The <a href=\"https://onlineolympiad.fide.com/\">2021 Online Chess Olympiad</a> starts in a few hours. Division 4 is the starting division this year, with Pool A the first pool to kick off. It consists of teams in Asia (including Oceania) including Fiji, Guam and Hong Kong. The top 3 teams from this pool (and each of the Division 4 pools) qualify for the next round (Division 3). Pool A begins at 6pm Canberra time, and there will be 3 rounds today with 4 rounds on Saturday and Sunday. Based on rating, Pakistan and Lebanon look like the favourites to qualify, but Fiji and Guam are in with a chance to take 3rd, along with a few other teams. There should be plenty of life coverage of the games, w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-onilne-chess-olympiad-starts-today.html",
-         "pubDate" : "Fri, 20 Aug 2021 05:18:00 +0000",
-         "title" : "2021 Onilne Chess Olympiad - Starts today"
       }
    ]
 }
