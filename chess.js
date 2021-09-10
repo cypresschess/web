@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sideline in the Botvinnik Variation of the Semi Slav - 7.a4. He analyses a game in which Indian prodigy Gukesh had the white pieces, and pays special attention to a 2019 predecessor in which Daniil Dubov beat Anish Giri with white. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-botvinnik-variation-of-the-semi-slav",
+         "pubDate" : "Fri, 10 Sep 2021 13:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Botvinnik Variation of the Semi Slav"
+      },
+      {
+         "description" : "Scoring 3/3 on the second day, GM Leinier Dominguez took over the lead from&#38;nbsp;GM Fabiano Caruana at the Champions Showdown Chess9LX tournament in St. Louis. GM Garry Kasparov had an excellent day where he scored 2.5/3 and moved to shared third ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-showdown-chess9lx-day-2-kasparov-1",
+         "pubDate" : "Fri, 10 Sep 2021 04:01:00 -0700",
+         "title" : "Champions Showdown Chess9LX Day 2: Dominguez Leads, Kasparov Scores 2.5/3"
+      },
+      {
+         "description" : "ECU E-Magazine August 2021 is out! In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2021 European Women's Individual Chess Championship 2021 European Senior Team Chess Championship 2021 Upcoming European Club Cup 2021 Upcoming European Senior Chess Championship 2021 Invitation for European Youth&#38;Junior Chess Championships 2021 Upcoming Seminars in September Arbiters Corner&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-august-2021/",
+         "pubDate" : "Fri, 10 Sep 2021 09:27:19 +0000",
+         "title" : "ECU E-MAGAZINE AUGUST 2021"
+      },
+      {
+         "description" : " Last week, we dug into defending weaknesses in your position. Today, I'll introduce you to this idea via a beginner's game. I am using beginner's games rather than the games of masters because, as a beginner, you are more likely to find yourself in the positional situations we'll examine over the next two weeks as <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-four/\">A Foundation for Beginners Thirty Four</a> appeared first on <a rel=\"nofollow\" href=\"ht",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-four/",
+         "pubDate" : "Fri, 10 Sep 2021 09:00:50 +0000",
+         "title" : "A Foundation for Beginners Thirty Four"
+      },
+      {
+         "description" : "Professor Wang-Sheng Lee co-authored the paper \"The Effects of Chess Instruction on Academic and Non-cognitive Outcomes\". This was *not* yet another paper to attempt to link academic success (ex: math scores) with chess education. Instead, the goal was to study the potential benefits in developing 'soft skills' such as risk aversion, patience, and creativity. A video interview that should not be missed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-education-in-children-reduces-their-risk-aversion",
+         "pubDate" : "Fri, 10 Sep 2021 10:00:00 +0100",
+         "title" : "Chess education in children reduces their risk aversion"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
+         "pubDate" : "Fri, 10 Sep 2021 08:58:12 +0100",
+         "title" : "Incredible that this is for free"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ten strong grandmasters including <strong>Anish Giri</strong>, <strong>Anton Korobov</strong> and <strong>Dmitri Andreikin</strong> compete in the rapid tournament <strong>Tolstoy Cup</strong> during a <a href=\"https://ruchess.ru/en/news/all/world_renowned_grandmasters_to_play_in_leo_tolstoy_s_museum_estate/\">four-day chess festival</a> at the former estate of writer Leo Tolstoy 220 km South of Moscow. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/strong-rapid-at-tolstoi-museum/",
+         "pubDate" : "Fri, 10 Sep 2021 08:42:42 +0100",
+         "title" : "Strong rapid at Tolstoi museum"
+      },
+      {
          "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a much better comeback in St Louis on Thursday night after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. The 58-year-old's poor clock management and outdated openings in five-minute blitz contributed to his Zagreb disaster. This week's format in the $150,000 Champions Showdown is Chess 9LX, also k",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -80,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1325",
          "pubDate" : "Thu, 09 Sep 2021 22:18:25 +0000",
          "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
-         "pubDate" : "Thu, 09 Sep 2021 23:14:14 +0100",
-         "title" : "Incredible that this is for free"
       },
       {
          "description" : "The playoffs began today in PogChamps 4 presented by Coinbase. The action began with jakenbakeLIVE beating JustaMinx 2-0 in the consolation bracket. Then&#38;nbsp;MrBeast gave Harry Mack a draw to start the second consolation quarterfinal of the day, ...",
@@ -472,14 +520,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/an-instructive-king-and-pawn-ending.html",
          "pubDate" : "Tue, 07 Sep 2021 12:05:00 +0000",
          "title" : "An instructive King and Pawn ending"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>European Chess Academy</strong> and the <strong>European Chess Union</strong> run the <strong>ECU Online Trainers Conference</strong> on 1-3 October. <a href=\"http://www.european-chessacademy.com/index.php/home-page-trainers/58-news-trainers/323-ecu-online-trainers-conference\">Registration is free</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/trainers-conference-on-1-3-october/",
-         "pubDate" : "Tue, 07 Sep 2021 10:44:02 +0100",
-         "title" : "Trainers conference on 1-3 October"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (49)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (49)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1312,14 +1352,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-4-carlsen-firouzja-aronian-strike",
          "pubDate" : "Wed, 01 Sep 2021 11:16:26 +0000",
          "title" : "Aimchess US Rapid 4: Carlsen, Firouzja & Aronian strike"
-      },
-      {
-         "description" : "GM Alireza Firouzja&#38;nbsp;defeated America&#39;s GM Wesley So 2.5-0.5 in their first quarterfinal match of the online Aimchess U.S. Rapid tournament. GM Magnus Carlsen and GM Levon Aronian also started with wins against GM Jan-Krzysztof Duda and GM Sha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-quarterfinals-day-1",
-         "pubDate" : "Wed, 01 Sep 2021 02:39:00 -0700",
-         "title" : "Aimchess U.S. Rapid QF: Aronian, Carlsen, Firouzja Lead"
       },
       {
          "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
@@ -2256,22 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/live-european-individual-women-s-chess-championship",
          "pubDate" : "Fri, 20 Aug 2021 12:45:00 +0100",
          "title" : "European Women's Championship, 11th and last round - Live"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1282",
-         "pubDate" : "Fri, 20 Aug 2021 10:23:16 +0000",
-         "title" : "Day 3: Caruana, So and Vachier-Lagrave forge ahead"
-      },
-      {
-         "description" : " The game of chess can be divided into three phases - the opening, middle and endgame. Each of these phases has a specific set of principles that are designed to help you play better chess. Many of these principles have been around for centuries and have stood the test of time. Are these principles a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-one/\">A Foundation for Beginners Thirty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-one/",
-         "pubDate" : "Fri, 20 Aug 2021 09:27:58 +0000",
-         "title" : "A Foundation for Beginners Thirty One"
       }
    ]
 }
