@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
+         "pubDate" : "Fri, 10 Sep 2021 20:55:00 +0100",
+         "title" : "Champions Showdown: Chess 9LX - Live!"
+      },
+      {
+         "description" : "\"The rumours of my chess death probably have been slightly exaggerated!\" said Garry Kasparov as he stormed back to defeat Sam Shankland and Levon Aronian on Day 2 of Chess 9LX in Saint Louis. After being one of just two players not to win a game on Day 1, he was now one of just two players to remain unbeaten on Day 2. The other, Leinier Dominguez, took the lead with a perfect 3/3, defeating Peter Svidler, Shakhriyar Mamedyarov and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chess-9lx-2-kasparov-is-back-dominguez-leads",
+         "pubDate" : "Fri, 10 Sep 2021 17:46:17 +0000",
+         "title" : "Chess 9LX 2: Kasparov is back! Dominguez leads"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-3-lichessorg",
+         "pubDate" : "Fri, 10 Sep 2021 17:45:45 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Day 3 | lichess.org"
+      },
+      {
          "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-2",
          "pubDate" : "Fri, 10 Sep 2021 17:20:00 +0100",
          "title" : "Chess 9LX: Dominguez leads, Kasparov on a roll"
+      },
+      {
+         "description" : "Today, the FIDE Online Olympiad players have crossed division one&#39;s equator. Let&#39;s see what happened during the second day of the top division&#39;s matches in each of the pools. It was even more eventful than the first one as leaders of many groups...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-2-russia-kazakhstan-usa-perfect",
+         "pubDate" : "Fri, 10 Sep 2021 08:57:44 -0700",
+         "title" : "FIDE Online Olympiad Division 1, Day 2: Russia, Kazakhstan, USA Perfect"
       },
       {
          "description" : "Richard Rapport is leading the standings table in Stavanger despite losing his third-round Armageddon encounter against world champion Magnus Carlsen. In Friday's round 4, Carlsen faces Ian Nepomniachtchi, his next challenger for the world crown. | Photo: Lennart Ootes / norwaychess.no",
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-2-lichessorg",
          "pubDate" : "Thu, 09 Sep 2021 20:45:01 +0000",
          "title" : "2021 Champions Showdown | Chess 9LX: Day 2 | lichess.org"
-      },
-      {
-         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
-         "pubDate" : "Thu, 09 Sep 2021 20:55:00 +0100",
-         "title" : "Champions Showdown: Chess 9LX - Dominguez leads"
       },
       {
          "description" : "Fabiano Caruana was the only unbeaten player on Day 1 of Chess 9LX in Saint Louis as he topped the table with 2.5/3. MVL, Mamedyarov and Shankland all lost one game but won two to share 2nd place, while the only players who ended winless were Garry Kasparov, who missed a win against Wesley So, and Hikaru Nakamura, who amazingly ended with 0/3 after losing to Shakhriyar Mamedyarov, Sam Shankland and Levon Aronian.",
@@ -536,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-norway-chess-round-1",
          "pubDate" : "Tue, 07 Sep 2021 15:19:00 -0700",
          "title" : "Norway Chess R1: Rapport Early Leader As Firouzja-Carlsen Goes To Armageddon"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-1",
-         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Day 1"
       },
       {
          "description" : "",
@@ -1054,7 +1070,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-announces-chemmys-awards",
-         "pubDate" : "Fri, 03 Sep 2021 11:12:54 -0700",
+         "pubDate" : "Fri, 03 Sep 2021 11:12:00 -0700",
          "title" : "Chess.com Announces Chemmys Awards"
       },
       {
@@ -1352,14 +1368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-479-naroditsky-impressive-attack",
          "pubDate" : "Wed, 01 Sep 2021 18:15:00 +0100",
          "title" : "Game of the Week 479: Naroditsky's impressive attack"
-      },
-      {
-         "description" : "The FIDE Management Board is currently looking at proposals for tightening grandmaster norm criteria. It is part of a larger debate that followed upon Abhimanyu Mishra becoming the youngest GM in history by playing a series of round-robin tourname...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-grandmaster-title-mishra-karjakin-areshchenko-malinin",
-         "pubDate" : "Wed, 01 Sep 2021 09:26:00 -0700",
-         "title" : "FIDE Likely To Make It Harder To Become A Grandmaster, But Will It Be Enough?"
       },
       {
          "description" : "The judges this year received a large number of high quality books to choose from. The shortlist was further complicated as many overlapped on subject...",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-noisiel-international-open-chess-tournament/articleshow/85738116.cms",
          "pubDate" : "Sun, 29 Aug 2021 18:25:21 +0530",
          "title" : "Indian GM Iniyan wins Noisiel International Open tournament"
-      },
-      {
-         "description" : "Levon Aronian lived dangerously as he beat Liem Quang Le, Eric Hansen and Maxime Vachier-Lagrave to take the sole lead with 4/5 after Day 1 of the Aimchess US Rapid, the penultimate event on the Meltwater Champions Chess Tour. Magnus Carlsen got off to a dream start by beating Wesley So, but ended half a point behind Levon after getting mated by Alireza Firouzja. MVL has work to do to qualify, as does World Cup winner Jan-Krzysztof Duda, who lost his first two games and remains winless at the bottom of the table.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-1-aronian-leads-after-firouzja-mates-carlsen",
-         "pubDate" : "Sun, 29 Aug 2021 12:16:26 +0000",
-         "title" : "Aimchess US Rapid 1: Aronian leads after Firouzja mates Carlsen"
       },
       {
          "description" : "The Sinquefield Cup concluded on August 26 with Maxime Vachier-Lagrave scoring 6/9 points and winning clear first ahead of three Americans: Fabiano Caruana, Leinier Dominguez, and Wesley So. So scored 2&frac12;/3 in the early rounds and played a very solid tournament, which brought him the 2021 Grand Chess Tour title. Joshua Doknjas takes a look at 4 interesting games from the event. | Photo: Lennart Ootes",
@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1283",
          "pubDate" : "Fri, 20 Aug 2021 19:59:44 +0000",
          "title" : "Huge participation at the FIDE Online Chess Olympiad"
-      },
-      {
-         "description" : "After 11 played rounds at the 2021 European Women's Chess Championship in Iasi, Romania, GM Danielian Elina (ARM, 2407) triumphed the event. Danielian Elina won the last round against WIM Narva Mai (EST, 2276) to be the sole Winner and to take the crown of European Women's Chess Champion 2021 with final score of 9 points. After a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/danielian-elina-wins-european-womens-chess-championship-2021/",
-         "pubDate" : "Fri, 20 Aug 2021 18:46:55 +0000",
-         "title" : "Danielian Elina wins European Women's Chess Championship 2021"
       }
    ]
 }
