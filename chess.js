@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1328",
+         "pubDate" : "Fri, 10 Sep 2021 22:38:07 +0000",
+         "title" : "Russia advances to the playoffs with a perfect score"
+      },
+      {
+         "description" : "In this week's show, GM Daniel King focuses on the Spanish Opening, using a game between Levon Aronian and Magnus Carlsen as his main example and going through some of his own games to explain his take on the popular setup. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-spanish",
+         "pubDate" : "Fri, 10 Sep 2021 23:15:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Spanish"
+      },
+      {
+         "description" : "GM Richard Rapport is the only player who won a classical game so far at the Norway Chess tournament, and on Friday he won his second (calling it &#34;pure luck&#34;). By beating GM Alireza Firouzja the Hungarian GM gained three points and is now two and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-4-carlsen-nepomniachtchi",
+         "pubDate" : "Fri, 10 Sep 2021 14:40:00 -0700",
+         "title" : "Norway Chess R4: Rapport Increases Lead, Carlsen \"Tortures\" Nepomniachtchi"
+      },
+      {
          "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
          "pubDate" : "Fri, 10 Sep 2021 20:55:00 +0100",
-         "title" : "Champions Showdown: Chess 9LX - Live!"
+         "title" : "Champions Showdown: Chess 9LX - Dominguez wins"
+      },
+      {
+         "description" : "Defending champions India topped the Pool B and moved to the Quarter Final of the Online FIDE World Chess Olympiad on Friday with a clean",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/online-olympiad-india-through-to-the-quarter-final-as-pool-topper/",
+         "pubDate" : "Fri, 10 Sep 2021 19:46:05 +0000",
+         "title" : "Online Olympiad - India through to the quarter final as pool topper"
+      },
+      {
+         "description" : "The 2021-22 season of the 20/20 Championship League hosted on and sponsored by Chess.com begins September 19! This extremely popular live rapid team event has featured nearly 200 teams from around the world since it was launched online. Teams in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/20-20-championship-league",
+         "pubDate" : "Fri, 10 Sep 2021 12:32:00 -0700",
+         "title" : "20/20 Championship League"
       },
       {
          "description" : "\"The rumours of my chess death probably have been slightly exaggerated!\" said Garry Kasparov as he stormed back to defeat Sam Shankland and Levon Aronian on Day 2 of Chess 9LX in Saint Louis. After being one of just two players not to win a game on Day 1, he was now one of just two players to remain unbeaten on Day 2. The other, Leinier Dominguez, took the lead with a perfect 3/3, defeating Peter Svidler, Shakhriyar Mamedyarov and Hikaru Nakamura.",
@@ -42,12 +82,12 @@ news_feed (
          "title" : "FIDE Online Olympiad Division 1, Day 2: Russia, Kazakhstan, USA Perfect"
       },
       {
-         "description" : "Richard Rapport is leading the standings table in Stavanger despite losing his third-round Armageddon encounter against world champion Magnus Carlsen. In Friday's round 4, Carlsen faces Ian Nepomniachtchi, his next challenger for the world crown. | Photo: Lennart Ootes / norwaychess.no",
+         "description" : "Richard Rapport beat Alireza Firouzja in their classical game to increase his lead atop the standings of the Norway Chess Tournament. In the stellar contest of the day, Magnus Carlsen beat Ian Nepomniachtchi in the Armageddon decider after drawing the classical game out of a Berlin Defence. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Fri, 10 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Rapport widens the gap"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
@@ -154,12 +194,12 @@ news_feed (
          "title" : "Strong rapid at Tolstoi museum"
       },
       {
-         "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a much better comeback in St Louis on Thursday night after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. The 58-year-old's poor clock management and outdated openings in five-minute blitz contributed to his Zagreb disaster. This week's format in the $150,000 Champions Showdown is Chess 9LX, also k",
+         "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a surging and inspired comeback in St Louis on Thursday and Friday nights after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. With just the ninth and final round to go, the Kaskparov had 5/8 and was still in contention for first prize. The 58-year-old's poor clock management and outdated openings ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/sep/10/chess-garry-kasparov-wins-two-in-a-row-at-st-louis-to-fight-back-from-disaster",
          "pubDate" : "Fri, 10 Sep 2021 07:00:21 +0000",
-         "title" : "Chess: Garry Kasparov wins two in a row at St Louis to fight back from disaster"
+         "title" : "Chess: Garry Kasparov surges into St Louis lead with three wins in a row"
       },
       {
          "description" : " <p class=\"lead\">World Chess continues to make chess beautiful again, one club at a time! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Poster-0420-2021-08-29_web.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> This year, World Chess called on chess clubs and federations to submit their institution for a free design makeover by our design team (you are welcome to submit <a href=\"https://x25ugr4ie62.typeform.com/to/yPyN0Idl\">your chess club or federation!</a>). Dozens of submissions later, we are picking those who, in our view, would benefit from the facelift. Next up is the <a href=\"https://www.keralachessassociation.com/\">Kerala Chess Association</a> in India",
@@ -1322,22 +1362,6 @@ news_feed (
          "title" : "Aimchess US Rapid: Firouzja knocks out So after thrilling second set"
       },
       {
-         "description" : "The fourth day of PogChamps 4 presented by Coinbase brought an unparalleled mixture of drama and shock to the more than 30,000 concurrent viewers enjoying the show live on Twitch. Tectone got his first PogChamps victory after defeating NickEh30,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-tectone-justaminx-boxbox-win",
-         "pubDate" : "Wed, 01 Sep 2021 14:17:00 -0700",
-         "title" : "PogChamps 4 Day 4: Tectone, JustaMinx Turn Tables; Boxbox Triumphs Tactically"
-      },
-      {
-         "description" : "IM Minh Le won the August 31 Titled Tuesday outright with an undefeated 10/11 score, a repeat of his July 20 performance. Three players finished tied a half-point behind him, with GM Aleksei Priodrozhni taking second on tiebreaks, GM Vitaly Bernad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-wins-august-31-titled-tuesday",
-         "pubDate" : "Wed, 01 Sep 2021 11:42:27 -0700",
-         "title" : "Minh Le Wins August 31 Titled Tuesday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1648,14 +1672,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-vantika-agrawal/",
          "pubDate" : "Sun, 29 Aug 2021 15:12:27 +0000",
          "title" : "Congratulations Vantika Agrawal"
-      },
-      {
-         "description" : "The Indian players are making the mark after over the board events are kick started at Europe. Grandmaster S P Sethuraman won the prestigious Barcelona",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-sethuraman-iniyan/",
-         "pubDate" : "Sun, 29 Aug 2021 15:00:34 +0000",
-         "title" : "Congratulations Sethuraman & Iniyan"
       },
       {
          "description" : "A special kind of magic trick is to turn one thing into another - a.k.a. a switcheroo. In endgame studies, one such transformation is turning a stalemate into a checkmate. Columnist Siegfried Hornecker shows phenomenal examples which made use of this fantastic 'magic trick'. | Pictured: Ernest Pogosyants",
@@ -2234,14 +2250,6 @@ news_feed (
          "title" : "Ending years of feud, AICF and Chess Association of India announce merger"
       },
       {
-         "description" : "In this week's show, GM Daniel King takes a look at a fashionable move out of an Anti-Gruenfeld, 3.h4. That pawn plays a decisive role in the game Vachier-Lagrave vs Svidler from the Sinquefield Cup. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-h-pawn-mating-net",
-         "pubDate" : "Sat, 21 Aug 2021 12:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The h-pawn mating net"
-      },
-      {
          "description" : " The 21st European Women's Championship took place in Iasi, Romania Mon 9th Aug to Fri 20th Aug 2021. Elina Danielian was the clear winner with 9/11 half a point clear of Iulija Osmak. Oliwia Kiolbasa edged out Nataliya Buksa on tie-break after both scored 8 points. This is one of Danielian's best ever results - her previous best finish in this event was third place in 2011. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2280,22 +2288,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-1.html",
          "pubDate" : "Sat, 21 Aug 2021 04:03:00 +0000",
          "title" : "2021 Online Chess Olympiad - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1284",
-         "pubDate" : "Fri, 20 Aug 2021 21:39:02 +0000",
-         "title" : "Elina Danielian wins European Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1283",
-         "pubDate" : "Fri, 20 Aug 2021 19:59:44 +0000",
-         "title" : "Huge participation at the FIDE Online Chess Olympiad"
       }
    ]
 }
