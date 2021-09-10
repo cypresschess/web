@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Top Division of the FIDE Online Olympiad sees 40 teams fighting for 8 spots in the quarterfinals. A single round-robin tournament is played in each of the four pools, with the top two teams advancing to the knockout stage. After 6 out of 9 rounds, Kazakhstan, Russia and the United States still have a perfect 12/12 score. | Pictured: Vihy Anand leading Team India on top board | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-top-division-day-2",
+         "pubDate" : "Fri, 10 Sep 2021 02:30:00 +0100",
+         "title" : "Online Olympiad: Kazakhstan, India, Russia and USA top the standings"
+      },
+      {
+         "description" : "For the second day in a row, all classical games at the Norway Chess tournament ended in draws and therefore three more armageddon games were played. GM Richard Rapport lost to GM Magnus Carlsen but is still a point ahead in the standings. GM Ia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-3",
+         "pubDate" : "Thu, 09 Sep 2021 16:54:00 -0700",
+         "title" : "Norway Chess R3: Rapport Still Leads After 3 More Armageddons"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Fabiano Caruana after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8dRjdO3SWCM.jpg?itok=pQges6ut\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-2",
+         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Fabiano Caruana Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dominguez-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Pw2cdPNVimY.jpg?itok=LYqyD1Gl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dominguez-interview-day-2",
+         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Leinier Dominguez Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Maxime Vachier-Lagrave after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WKZkEyU2vrk.jpg?itok=28MPG3x9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-2",
+         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Maxime Vachier-Lagrave Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Garry Kasparov after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hSNkAXer9dc.jpg?itok=Pcqgecsi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-2",
+         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Garry Kasparov Interview | Day 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1326",
+         "pubDate" : "Thu, 09 Sep 2021 22:48:01 +0000",
+         "title" : "Invitation to support FIDE's initiatives of social value"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -39,7 +95,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
          "pubDate" : "Thu, 09 Sep 2021 20:55:00 +0100",
-         "title" : "Champions Showdown: Chess 9LX - Live!"
+         "title" : "Champions Showdown: Chess 9LX - Dominguez leads"
       },
       {
          "description" : "Fabiano Caruana was the only unbeaten player on Day 1 of Chess 9LX in Saint Louis as he topped the table with 2.5/3. MVL, Mamedyarov and Shankland all lost one game but won two to share 2nd place, while the only players who ended winless were Garry Kasparov, who missed a win against Wesley So, and Hikaru Nakamura, who amazingly ended with 0/3 after losing to Shakhriyar Mamedyarov, Sam Shankland and Levon Aronian.",
@@ -370,44 +426,12 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-2",
-         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-3",
-         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX proper kicks off, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and Saint Louis Chess Club board member Mike Lueken draft the world's best players to join them on their teams. Join host GM Maurice Ashley for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Rex Sinquefield, Fabiano Caruana, Levon Aronian, Leinier Dominguez, Peter Svidler, Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-ultimate-moves",
-         "pubDate" : "Tue, 07 Sep 2021 20:42:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Ultimate Moves"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1321",
          "pubDate" : "Tue, 07 Sep 2021 20:42:24 +0000",
          "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its hybrid Fall league! For the first time, the League presents a return to in-person play, as well as an online-at-home option. Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-1\"><img src=\"https://saintlouischessclub.org/site",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-1",
-         "pubDate" : "Tue, 07 Sep 2021 17:42:48 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #1"
       },
       {
          "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1306",
          "pubDate" : "Tue, 31 Aug 2021 22:18:24 +0000",
          "title" : "Firouzja puts So to the sword as Carlsen downs Duda"
-      },
-      {
-         "description" : "PogChamps 4 presented by Coinbase entered day three with two matches. Both matches featured Group D, which after today is looking like perhaps the scariest in the field as even both players who lost their matches showed strong signs of chess abili...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps4-crokeyz-rubius-win",
-         "pubDate" : "Tue, 31 Aug 2021 15:08:00 -0700",
-         "title" : "PogChamps 4 Day 3: Group D Impresses"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at a game which shows how things can go wrong from the black side of a Slav Defence - i.e. Wesley So vs Awonder Liang from the Aimchess US Rapid. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
