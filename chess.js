@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"https://buytickets.at/chesstech/578937\">https://buytickets.at/chesstech/578937</a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Introduction to the free video chess teaching tool with Luciana Morales (Chessable) </div> In this free webinar WIM Luciana Morales (Ch",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://buytickets.at/chesstech/578937",
+         "pubDate" : "Sat, 11 Sep 2021 22:21:40 +0100",
+         "title" : "Teaching Beginners with Classroom"
+      },
+      {
          "description" : "Four players reached the final round of the Champions Showdown tournament tied for first place. Only Leinier Dominguez managed to score a win in his last game, though, and thus claimed clear first place and $37,500 in prize money. Garry Kasparov was among the four players sharing the lead after eight rounds, but a loss against Maxime Vachier-Lagrave left him in fifth place in the final standings. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-3-the-dramatic-ending",
          "pubDate" : "Sat, 11 Sep 2021 06:50:00 -0700",
          "title" : "FIDE Online Olympiad Division 1, Day 3: The Dramatic Ending"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"\"></a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Introduction to the free video chess teaching tool with Luciana Morales (Chessable) </div> In this free webinar WIM Luciana Morales (Chessable) shows you all the key functions of this free video teaching tool th",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "",
-         "pubDate" : "Sat, 11 Sep 2021 14:40:10 +0100",
-         "title" : "Teaching Beginners with Classroom"
       },
       {
          "description" : "Twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
@@ -2264,22 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-2.html",
          "pubDate" : "Sun, 22 Aug 2021 06:11:00 +0000",
          "title" : "2021 Online Chess Olympiad - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1286",
-         "pubDate" : "Sat, 21 Aug 2021 21:20:47 +0000",
-         "title" : "Everything on the line after Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1279",
-         "pubDate" : "Sat, 21 Aug 2021 21:19:48 +0000",
-         "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
       }
    ]
 }
