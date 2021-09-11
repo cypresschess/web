@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Exactly twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file, was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
+         "description" : "Richard Rapport is the sole leader at the Norway Chess Tournament. Saturday is a rest day for all players, except Ian Nepomniachtchi and Sergey Karjakin, who are playing their round-1 direct encounter which could not take place after Nepo had to deal with visa issues. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Sat, 11 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " A few years ago Stewart Reuben suggested that if more than one person does not understand what a regulations means then it should be rewritten. Personally I think that that requirement is too strict, but the \"Rule of Some, Most, All\" should apply. Basically is only some people understand a rule or instruction, then it is the underlying system that needs fixing. An example is having to line up for something, and being faced with confusing signage. In only some people understand it it, the system of queuing is probably broken. If on the other most people get it right, then the signs need to be made clearer. But if everyone understands it (where the value of everyone is say 1 in 50), then the ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/some-v-most-v-all.html",
+         "pubDate" : "Sat, 11 Sep 2021 14:14:00 +0000",
+         "title" : "Some v Most v All"
+      },
+      {
+         "description" : "Today, the final three rounds of the top division&#39;s tournament have been played, and next week we are moving on to playoffs. The results of this part of the Olympiad were both expected and somewhat surprising: on one hand, the rating favorites hav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-3-the-dramatic-ending",
+         "pubDate" : "Sat, 11 Sep 2021 06:50:59 -0700",
+         "title" : "FIDE Online Olympiad Division 1, Day 3: The Dramatic Ending"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"\"></a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Introduction to the free video chess teaching tool with Luciana Morales (Chessable) </div> In this free webinar WIM Luciana Morales (Chessable) shows you all the key functions of this free video teaching tool th",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "",
+         "pubDate" : "Sat, 11 Sep 2021 14:40:10 +0100",
+         "title" : "Teaching Beginners with Classroom"
+      },
+      {
+         "description" : "Twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/twenty-years-ago",
-         "pubDate" : "Sat, 11 Sep 2021 12:00:00 +0100",
+         "pubDate" : "Sat, 11 Sep 2021 14:00:00 +0100",
          "title" : "Twenty years ago..."
+      },
+      {
+         "description" : "A round before the end there was still a four-way tie for first place with GM Garry Kasparov among the contestants. Eventually, it was GM Leinier Dominguez who avoided a playoff as the only winner among the leaders and finished in clear first plac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dominguez-wins-2021-champions-showdown-chess9lx",
+         "pubDate" : "Sat, 11 Sep 2021 05:57:00 -0700",
+         "title" : "Dominguez Wins Champions Showdown Chess9LX; Kasparov Comes Close"
+      },
+      {
+         "description" : "The Tolstoy Cup is taking place at the Yasnaya Polyana cultural centre on September 11-12. The tournament is a 9-round single round-robin event with a time control of 15 minutes for the whole game plus a 10-second increment per move. Anish Giri, Boris Gelfand, Anton Korobov and Nikita Vitiugov are among the participants. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
+         "pubDate" : "Sat, 11 Sep 2021 13:55:00 +0100",
+         "title" : "Tolstoy Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Online Chess Olympiad 2021</strong> reaches its final stage. <a href=\"https://onlineolympiad.fide.com/tpost/9d3bvracd1-russia-advances-to-the-play-offs-with-a\">No underdogs have made it</a> into Monday's quarter finals Kazakhstan - USA, Ukraine - India, Russia - Hungary and China - Poland. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/favourites-dominate-online-olympiad/",
+         "pubDate" : "Sat, 11 Sep 2021 13:28:09 +0100",
+         "title" : "Favourites dominate Online Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1329",
+         "pubDate" : "Sat, 11 Sep 2021 12:09:55 +0000",
+         "title" : "Leinier Dominguez wins 2021 Champions Showdown: Chess 9LX"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Leinier Dominguez</strong> won the $37,500 first price at the <strong>9LX Champions Showdown</strong>, a Fischer Random tournament at the <strong>Saint Louis Chess Club</strong>. Former world champion <strong>Garry Kasparov</strong>, who performed terrible at blitz in Zagreb two months ago, was temporarily in the lead and a <a href=\"https://www.chess.com/news/view/dominguez-wins-2021-champions-showdown-chess9lx\">contender for first place</a> until a final loss against Maxime Vachier-Lagrave. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kasparov-came-close-to-victory/",
+         "pubDate" : "Sat, 11 Sep 2021 13:09:08 +0100",
+         "title" : "Kasparov came close to victory"
       },
       {
          "description" : "In Virgil's Aeneid one finds the phrase, \"hoc opus, hic labor est\", \"this is the task, this is the masterpiece\", referring to the hero Theseus and his descent to the Underworld. Descending to the netherworld's depths is easy - the trick is to get back safely again to the \"upper airs.\" Less onerous is the annual task of []",
@@ -256,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-education-in-children-reduces-their-risk-aversion",
          "pubDate" : "Fri, 10 Sep 2021 10:00:00 +0100",
          "title" : "Chess education in children reduces their risk aversion"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Classroom</strong> video teaching tool from <strong>Chessable</strong> has made group teaching simpler and more efficient for <em>Johan Hellsten</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ca-classroom2-notation.1920.jpeg\" title=\"Here I assign the right to move to a student. \" data-title=\"Here I assign the right to move to a student. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg\" alt=\"Here I assign the right to move to a student.\" srcset=\"https://www.chesstech.org/files/ca-classroom2-notation.480.jpeg 1x, ht",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/incredible-that-this-is-for-free/",
-         "pubDate" : "Fri, 10 Sep 2021 08:58:12 +0100",
-         "title" : "Incredible that this is for free"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ten strong grandmasters including <strong>Anish Giri</strong>, <strong>Anton Korobov</strong> and <strong>Dmitri Andreikin</strong> compete in the rapid tournament <strong>Tolstoy Cup</strong> during a <a href=\"https://ruchess.ru/en/news/all/world_renowned_grandmasters_to_play_in_leo_tolstoy_s_museum_estate/\">four-day chess festival</a> at the former estate of writer Leo Tolstoy 220 km South of Moscow. </div> ",
@@ -560,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
          "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
          "title" : "Online Chess Olympiad: India have it easy on Day 1"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Gibraltar International Chess Festival</strong>, inaugurated in 2003, won't see its 20th edition in January 2022 because the <strong>Caleta Hotel</strong> <a href=\"https://www.gbc.gi/news/caleta-hotel-paves-way-new-hilton\">will close and be demolished to make place for a new Hilton</a>. Festival Director <strong>Stuart Conquest</strong> told ChessTech that an invitational event is underway to keep the tradition going until the festival can come back. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/",
-         "pubDate" : "Wed, 08 Sep 2021 15:44:00 +0100",
-         "title" : "Gibraltar festival takes gap year"
       },
       {
          "description" : "Richard Rapport is the early leader of Norway Chess 2021 after easing to a victory over Aryan Tari that took him up to world no. 9 on the live rating list. The match of the day saw World Champion Magnus Carlsen facing an opening novelty before a tense classical game against Alireza Firouzja ended in a draw. Then, just as in last year's edition of the tournament, Firouzja looked set to win in Armageddon but was thwarted, this time not by the clock but by a passed pawn that cost him a whole rook.",
@@ -1250,14 +1306,6 @@ news_feed (
          "title" : "News Review - Lawrence has some sad news about the Gibraltar Open"
       },
       {
-         "description" : "Four matches today in PogChamps 4 presented by Coinbase, fairly well-played overall other than several occasions of the now-infamous Botez Gambit. It&#39;s just not PogChamps without a hanging queen or three. IamCristinini defeated Punz for her firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-iamcristinini-fundy-ludwig-5uppp-win",
-         "pubDate" : "Thu, 02 Sep 2021 15:07:00 -0700",
-         "title" : "PogChamps 4 Day 5: Four Matches, Four Sweeps"
-      },
-      {
          "description" : " Magnus Carlsen and Levon Aronian drew their mini-match today in the most proper way; to wit, by drawing all four games. Vladislav Artemiev and Alireza Firouzja also wound up splitting their match, but with more adventures and with one win per customer. The match between the relative old-timers had a few interesting moments, but not too many, and in only one game - game 2 - did either player come anywhere close to serious winning chances. That was Aronian, whose exchange sac was both objectively and practically promising, and he may have missed a couple of chances to put Carlsen in real danger. In the rest of the game, and the rest of the match, nothing got too crazy, the evaluations stayed ",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -1272,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1310",
          "pubDate" : "Thu, 02 Sep 2021 21:14:13 +0000",
          "title" : "FIDE Online Olympiad: Division 2 starts strong! "
-      },
-      {
-         "description" : "It is with great excitement that Chess.com announces the return of one of the most highly-anticipated online chess events in the world: The Speed Chess Championship is back for 2021! This four-month extravaganza will begin on September 18 and conc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chesscom-speed-chess-championship-returns",
-         "pubDate" : "Thu, 02 Sep 2021 12:37:00 -0700",
-         "title" : "Chess.com Speed Chess Championship Returns For 2021"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sharp and instructive game in the Sicilian Najdorf. Ris' student Eline Roebers (15 years old) beat a player much higher-rated than her on her way to tournament victory at the Brugse Meesters in Belgium! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2186,14 +2226,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
       },
       {
-         "description" : "Two years after visiting Hamburg to film his middlegame FritzTrainers, Ivan Sokolov visits the ChessBase office once again. The experienced grandmaster discusses instructive endgames with Dr. Karsten M&uuml;ller in the latest instalment of the Endgame Magic show. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-156-with-ivan-sokolov",
-         "pubDate" : "Mon, 23 Aug 2021 10:45:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #157 - with Ivan Sokolov"
-      },
-      {
          "description" : " The third an final day of 2021 Chess Olympiad Division 4 saw an exciting finish to some of the pools. With the top 3 in each pool qualifying for the next stage, it sometimes came down to the last few games, especially when competing teams were playing each other. In Pool C (which I was working on), Jersey suffered at the hands of the pairing gods, playing their 3 closest challengers in the last 3 rounds. A narrow loss to Cyprus, and heavy losses to Ethiopia and Angola, saw them slip to 4th place behind these 3. In Pool A, Fiji hoped to do the opposite, finishing with some easier pairings, but a round 9 loss to Lebanon left them 1 win short of qualifying, despite finishing with 3 victories. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2208,14 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1288",
          "pubDate" : "Sun, 22 Aug 2021 21:12:32 +0000",
          "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
-      },
-      {
-         "description" : "The 2021 FIDE Online Olympiad is taking place from August 20th to September 15th. It is a national teams event in which all federations affiliated to FIDE have the right to participate. Teams consist of six players, with a minimum of three female players and two junior players. Played online on chess.com, the event features two main stages: the Divisions stage, and the Play-offs stage. All games are played with a 15 minutes + 5 seconds increment per move time control.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-has-started",
-         "pubDate" : "Sun, 22 Aug 2021 18:49:45 +0100",
-         "title" : "The FIDE Online Chess Olympiad has started"
       },
       {
          "description" : "",
@@ -2256,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1279",
          "pubDate" : "Sat, 21 Aug 2021 21:19:48 +0000",
          "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85514686.cms\" />Putting an end to internal fighting, the All-India Chess Federation and the breakaway Chess Association of India on Saturday announced that they have merged into one single entity to administer the sport in the country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ending-years-of-feud-aicf-and-chess-association-of-india-announce-merger/articleshow/85514686.cms",
-         "pubDate" : "Sat, 21 Aug 2021 18:18:53 +0530",
-         "title" : "Ending years of feud, AICF and Chess Association of India announce merger"
       }
    ]
 }
