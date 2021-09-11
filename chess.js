@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exactly twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file, was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/twenty-years-ago",
+         "pubDate" : "Sat, 11 Sep 2021 12:00:00 +0100",
+         "title" : "Twenty years ago..."
+      },
+      {
+         "description" : "In Virgil's Aeneid one finds the phrase, \"hoc opus, hic labor est\", \"this is the task, this is the masterpiece\", referring to the hero Theseus and his descent to the Underworld. Descending to the netherworld's depths is easy - the trick is to get back safely again to the \"upper airs.\" Less onerous is the annual task of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/hoc-opus-hic-liber-est-nigel-shorts-winning-and-other-chess-books/",
+         "pubDate" : "Sat, 11 Sep 2021 08:07:52 +0000",
+         "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
+      },
+      {
          "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2248,38 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ending-years-of-feud-aicf-and-chess-association-of-india-announce-merger/articleshow/85514686.cms",
          "pubDate" : "Sat, 21 Aug 2021 18:18:53 +0530",
          "title" : "Ending years of feud, AICF and Chess Association of India announce merger"
-      },
-      {
-         "description" : " The 21st European Women's Championship took place in Iasi, Romania Mon 9th Aug to Fri 20th Aug 2021. Elina Danielian was the clear winner with 9/11 half a point clear of Iulija Osmak. Oliwia Kiolbasa edged out Nataliya Buksa on tie-break after both scored 8 points. This is one of Danielian's best ever results - her previous best finish in this event was third place in 2011. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/21st-european-womens-championship-2021",
-         "pubDate" : "Sat, 21 Aug 2021 13:44:00 +0400",
-         "title" : "21st European Women's Championship 2021 - Games and Results"
-      },
-      {
-         "description" : " The FIDE Online Olympiad takes place Fri 20th Aug 2021 to Fri 10th Sep 2021. 153 teams are entered. The event has various qualification stages - as the event progresses stronger teams join the tournament running from Division 4 up to the final top division. The event is hosted by chess.com.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-online-olympiad-2021",
-         "pubDate" : "Sat, 21 Aug 2021 13:36:00 +0400",
-         "title" : "FIDE Online Olympiad 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1285",
-         "pubDate" : "Sat, 21 Aug 2021 08:51:52 +0000",
-         "title" : "Day 4: Dominguez catches up with the leaders"
-      },
-      {
-         "description" : "Without a doubt, the towering genius of Polish chess was Akiba Rubinstein (1882-1961) born in Stawiski, Poland (then part of Russia). The youngest of 12 children, his father died shortly before his birth and he was raised by his grandparents, who gave him an orthodox Jewish religious education, in keeping with the family traditions of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/polish-riders-of-the-chessboard-rubinstein-tartakower-duda/",
-         "pubDate" : "Sat, 21 Aug 2021 08:00:35 +0000",
-         "title" : "Polish riders of the chessboard: Rubinstein, Tartakower, Duda"
       }
    ]
 }
