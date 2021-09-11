@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fatal-activity",
+         "pubDate" : "Sat, 11 Sep 2021 09:00:00 +0100",
+         "title" : "Fatal activity"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3\"><img src=\"https://saintlouischessclub.org",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2234,14 +2242,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss and Women Grand Swiss 2021: official contracts published"
       },
       {
-         "description" : "Leinier Dominguez was one of four winners in Friday's fourth round at the Sinquefield Cup in Saint Louis. Dominguez beat Maxime Vachier-Lagrave's Najdorf Defence to join Fabiano Caruana and Wesley So in the lead of the standings. Meanwhile, Richard Rapport, Sam Shankland and Dariusz Swiercz all scored their first wins of the tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r4",
-         "pubDate" : "Sat, 21 Aug 2021 21:00:00 +0100",
-         "title" : "Sinquefield Cup: Dominguez joins the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85514686.cms\" />Putting an end to internal fighting, the All-India Chess Federation and the breakaway Chess Association of India on Saturday announced that they have merged into one single entity to administer the sport in the country.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/polish-riders-of-the-chessboard-rubinstein-tartakower-duda/",
          "pubDate" : "Sat, 21 Aug 2021 08:00:35 +0000",
          "title" : "Polish riders of the chessboard: Rubinstein, Tartakower, Duda"
-      },
-      {
-         "description" : " The first day of the 2021 Online Chess Olympiad began with 60 teams in action. Due to the varying levels of infrastructure around the world, some teams were able to play with all players present, while others had to make do with whoever could maintain a stable internet connection. As a consequence not all teams were able to perform to pre-tournament expectations, which leaves the competition for promotion places wide open. I was a spectator for a couple of Pools (A and B), and was a pool arbiter for Pool C. This involved teams from Africa and Europe, and the results were either feast or famine. Five teams won all their matches to be on 6 match points, while 5 teams lost all of theirs to be ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-1.html",
-         "pubDate" : "Sat, 21 Aug 2021 04:03:00 +0000",
-         "title" : "2021 Online Chess Olympiad - Day 1"
       }
    ]
 }
