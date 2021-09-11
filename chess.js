@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Richard Rapport is the sole leader at the Norway Chess Tournament. Saturday is a rest day for all players, except Ian Nepomniachtchi and Sergey Karjakin, who are playing their round-1 direct encounter which could not take place after Nepo had to deal with visa issues. | Photo: Lennart Ootes / norwaychess.no",
+         "description" : "Four players reached the final round of the Champions Showdown tournament tied for first place. Only Leinier Dominguez managed to score a win in his last game, though, and thus claimed clear first place and $37,500 in prize money. Garry Kasparov was among the four players sharing the lead after eight rounds, but a loss against Maxime Vachier-Lagrave left him in fifth place in the final standings. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-3",
+         "pubDate" : "Sat, 11 Sep 2021 20:00:00 +0100",
+         "title" : "Leinier Dominguez wins Champions Showdown in Saint Louis"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Maciej Brzeski</strong>, a 2358-rated machine learning specialist from Cracow, won the <strong>Pentamind World Champion</strong> title for the <a href=\"https://mindsportsolympiad.com/pentamind-world-championship/\">best player across different strategy games</a> at the <strong>Mind Sports Olympiad</strong> that was held online for the second time. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/maciej-brzeski-is-best-strategy/",
+         "pubDate" : "Sat, 11 Sep 2021 19:19:04 +0100",
+         "title" : "Maciej Brzeski is best strategy player"
+      },
+      {
+         "description" : " The headline is a reference someone's joke - Hans Kmoch's, I think - about the 1963/4 U.S. Championship. Bobby Fischer went 11-0, while Larry Evans was second with something like 7.5 points. Kmoch congratulated Evans on winning the tournament and Fischer on winning the exhibition, as if he had been giving a simul to amateurs. Well, after day 1 of the <a href=\"https://ruchess.ru/en/\">Leo Tolstoy Cup</a> (so named because the event is being held at the writer's estate, and not because it runs far longer than necessary*) something similar is afoot. After five of the nine rounds of this rapid tournament, Anish Giri is 5-0, while his closest pursuers - six of them, and they're not fish - have 2.",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html",
+         "pubDate" : "Sat, 11 Sep 2021 17:40:05 +0000",
+         "title" : "Tolstoy Cup: Six Lead the Tournament; Giri Winning the Exhibition"
+      },
+      {
+         "description" : " There were no rating points to be won, but Leinier Dominguez's victory in the Chess960, er, <a href=\"https://www.uschesschamps.com/2021-champions-showdown-chess-9lx/overview\">Chess9LX event in St. Louis</a> was nevertheless one of the greatest results of his chess career. His score of 6/9 in the round robin was good enough for clear first - by a whisker. Going into the last round, four of the ten players were tied for first, and the pairings were such that a fifth player could have leapfrogged them all to win! (One sub-scenario where that happened could have had that fifth player in clear first, with SIX players half a point behind.) Dominguez was one of the leaders entering the last round,",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/11/dominguez-wins-chess9lx-in-st-louis.html",
+         "pubDate" : "Sat, 11 Sep 2021 17:21:34 +0000",
+         "title" : "Dominguez Wins Chess9LX in St. Louis"
+      },
+      {
+         "description" : " Thanks to the funny scoring system used in the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament, one can \"win\" every round but not win the tournament. The tournament is a classical round-robin, with a twist. If someone wins the classical game, they get three points while the loser gets zero. If, however, the classical game is drawn, the players each get a full point, and then play an Armageddon game with the same colors for an additional half a point. In other words, if A beats B in the classical game while C and D draw, with C winning the Armageddon game, the scores will look like this: A 3<br />C 1.5<br />D 1<br />E 0 In this event, Carlsen has been C in every round. All f",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/11/norway-chess-2021-carlsen-wins-every-round-but-rapport-leads.html",
+         "pubDate" : "Sat, 11 Sep 2021 17:06:39 +0000",
+         "title" : "Norway Chess 2021: Carlsen Wins Every Round, but Rapport Leads the Tournament at the Rest Day"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Swedens national TV network <strong>SVT</strong> will <a href=\"https://schack.se/nyhet/sverige/2021/09/extra-schackduell-i-svt-grandelius-mot-sverige/\">broadcast a full evening of chess</a> on 14 November. The highlight will be <strong>Schackm&auml;staren vs Sverige</strong>, a match between top player <strong>Nils Grandelius</strong> and the audience that votes for its next move via SVT's Duo app. Star streamer <strong>Anna Cramling</strong> will commentate. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chess-evening-on-swedish-public-tv/",
+         "pubDate" : "Sat, 11 Sep 2021 17:29:08 +0100",
+         "title" : "Chess evening on Swedish public TV"
+      },
+      {
+         "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-4-carlsen-gets-to-torture-nepomniachtchi",
+         "pubDate" : "Sat, 11 Sep 2021 16:19:28 +0000",
+         "title" : "Norway Chess 4: Carlsen gets to torture Nepomniachtchi"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Sweden is the first country to launch a national E-sport chess league. The E-sport group <strong>Fragbite</strong> and the <strong>Swedish Chess Federation</strong> jointly <a href=\"https://schack.se/nyhet/sverige/2021/09/frabite-startar-e-sportliga-i-schack-tillsammans-med-sveriges-schackforbund/\">announced</a> the start of <strong>Svenska Schackliga</strong> later this year with two annual seasons and the goal to reach non-club players. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/sweden-gets-e-sport-chess-league/",
+         "pubDate" : "Sat, 11 Sep 2021 17:16:54 +0100",
+         "title" : "Sweden gets E-sport chess league"
+      },
+      {
+         "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The game had to be rescheduled after Nepo had visa issues to reach Stavanger. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Sat, 11 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Nepo scores"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-olympiad-viswanathan-anand-to-the-fore-in-indias-march-to-the-playoffs/articleshow/86121038.cms",
+         "pubDate" : "Sat, 11 Sep 2021 21:15:53 +0530",
+         "title" : "Online Olympiad: Anand to the fore in India's march to the playoffs"
       },
       {
          "description" : " A few years ago Stewart Reuben suggested that if more than one person does not understand what a regulations means then it should be rewritten. Personally I think that that requirement is too strict, but the \"Rule of Some, Most, All\" should apply. Basically is only some people understand a rule or instruction, then it is the underlying system that needs fixing. An example is having to line up for something, and being faced with confusing signage. In only some people understand it it, the system of queuing is probably broken. If on the other most people get it right, then the signs need to be made clearer. But if everyone understands it (where the value of everyone is say 1 in 50), then the ",
@@ -18,11 +90,11 @@ news_feed (
          "title" : "Some v Most v All"
       },
       {
-         "description" : "Today, the final three rounds of the top division&#39;s tournament have been played, and next week we are moving on to playoffs. The results of this part of the Olympiad were both expected and somewhat surprising: on one hand, the rating favorites hav...",
+         "description" : "On Friday, the final three rounds of the top division&#39;s tournament have been played, and next week we are moving on to playoffs. The results of this part of the Olympiad were both expected and somewhat surprising: on one hand, the rating favorites...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-3-the-dramatic-ending",
-         "pubDate" : "Sat, 11 Sep 2021 06:50:59 -0700",
+         "pubDate" : "Sat, 11 Sep 2021 06:50:00 -0700",
          "title" : "FIDE Online Olympiad Division 1, Day 3: The Dramatic Ending"
       },
       {
@@ -48,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dominguez-wins-2021-champions-showdown-chess9lx",
          "pubDate" : "Sat, 11 Sep 2021 05:57:00 -0700",
          "title" : "Dominguez Wins Champions Showdown Chess9LX; Kasparov Comes Close"
+      },
+      {
+         "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fatal-activity",
+         "pubDate" : "Sat, 11 Sep 2021 13:56:00 +0100",
+         "title" : "Fatal activity"
       },
       {
          "description" : "The Tolstoy Cup is taking place at the Yasnaya Polyana cultural centre on September 11-12. The tournament is a 9-round single round-robin event with a time control of 15 minutes for the whole game plus a 10-second increment per move. Anish Giri, Boris Gelfand, Anton Korobov and Nikita Vitiugov are among the participants. | Photo: Eteri Kublashvili",
@@ -88,14 +168,6 @@ news_feed (
          "link" : "https://www.thearticle.com/hoc-opus-hic-liber-est-nigel-shorts-winning-and-other-chess-books/",
          "pubDate" : "Sat, 11 Sep 2021 08:07:52 +0000",
          "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
-      },
-      {
-         "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fatal-activity",
-         "pubDate" : "Sat, 11 Sep 2021 09:00:00 +0100",
-         "title" : "Fatal activity"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3\"><img src=\"https://saintlouischessclub.org",
@@ -330,14 +402,6 @@ news_feed (
          "title" : "Chess education in children reduces their risk aversion"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ten strong grandmasters including <strong>Anish Giri</strong>, <strong>Anton Korobov</strong> and <strong>Dmitri Andreikin</strong> compete in the rapid tournament <strong>Tolstoy Cup</strong> during a <a href=\"https://ruchess.ru/en/news/all/world_renowned_grandmasters_to_play_in_leo_tolstoy_s_museum_estate/\">four-day chess festival</a> at the former estate of writer Leo Tolstoy 220 km South of Moscow. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/strong-rapid-at-tolstoi-museum/",
-         "pubDate" : "Fri, 10 Sep 2021 08:42:42 +0100",
-         "title" : "Strong rapid at Tolstoi museum"
-      },
-      {
          "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a surging and inspired comeback in St Louis on Thursday and Friday nights after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. With just the ninth and final round to go, the Kaskparov had 5/8 and was still in contention for first prize. The 58-year-old's poor clock management and outdated openings ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -554,14 +618,6 @@ news_feed (
          "title" : "Philadelphia loses Jerome Works (1955-2021)"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> World championship challenger <strong>Ian Nepomniachtchi</strong> has <a href=\"https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com\">signed a sponsorship deal</a> with <strong>Chess.com</strong>. From today he is wearing clothes with logos of Chess.com as well as his Russian sponsor <strong>Simaland</strong> at the <strong>Norway Chess</strong> tournament, where he will play twice against Carlsen on this Friday and again next week Friday. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepo-sponsored-by-chesscom/",
-         "pubDate" : "Wed, 08 Sep 2021 20:13:39 +0100",
-         "title" : "Nepo sponsored by Chess.com"
-      },
-      {
          "description" : "Chess.com is delighted and excited to announce that GM Ian Nepomniachtchi, 2021 Candidates Tournament winner and world championship challenger to GM Magnus Carlsen, has signed a long-term sponsorship agreement with Chess.com! &#34;We are thrilled to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -608,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ex-convict-hector-guifarro-interview",
          "pubDate" : "Wed, 08 Sep 2021 16:00:00 +0100",
          "title" : "Ex-convict Hector Guifarro: \"Chess helped me in so many ways\""
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The polish capital <a href=\"https://grandchesstour.org/blog/grand-chess-tour-returns-2022-1275m-prizes-and-new-event-warsaw-poland\">shall host</a> a rapid and blitz event in the <strong>Grand Chess Tour</strong> in August 2022 thanks to an extended sponsorship by <strong>Superbet</strong>. The final tour stop will again be at the <strong>Saint Louis Chess Club</strong> with a classic tournament rather than two consecutive tournaments. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/warsaw-joins-grand-chess-tour/",
-         "pubDate" : "Wed, 08 Sep 2021 15:52:08 +0100",
-         "title" : "Warsaw joins Grand Chess Tour"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86040429.cms\" />India had a fruitful day at the office as they won two and drew one as the Division 1 Pool B clashes commenced on Wednesday. India beat Egypt and Sweden 6-0 and 4-2 respectively. The India-France encounter ended 3-3.",
@@ -1418,14 +1466,6 @@ news_feed (
          "title" : "Five title norms at the Northumbria Masters"
       },
       {
-         "description" : " The quarterfinals are over, and we're down to the final four of Vladislav Artemiev vs. Alireza Firouzja in the battle of the youngsters, and Magnus Carlsen vs. Levon Aronian in the battle of the 30-somethings. Firouzja had the most difficult time in the quarters, though it certainly didn't seem like it through the first five games. On day one he won the first two games against Wesley So and then clinched the first mini-match with a draw, and on day two he drew the first game and won the second, after which a single draw in the remaining two games would suffice to clinch overall match victory. It didn't happen. So crushed Firouzja in game 3 of the second mini-match and with Black in round 4 ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/2/aimchess-quarterfinals-finish-semis-set.html",
-         "pubDate" : "Thu, 02 Sep 2021 06:16:07 +0000",
-         "title" : "Aimchess Quarterfinals Finish; Semis Set"
-      },
-      {
          "description" : "For the first time in the Meltwater Champions Chess Tour, Alireza Firouzja has made it past the quarterfinals. And the 18-year-old did it in style, knocking out one of the toughest opponents in the tour, Wesley So. In the semis, Firouzja will face Vladislav Artemiev, who defeated Leinier Dominguez in a close match. The other semifinal will see Magnus Carlsen playing Levon Aronian. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1618,14 +1658,6 @@ news_feed (
          "title" : "Aimchess US Rapid: Carlsen to face Duda in quarterfinals"
       },
       {
-         "description" : " Coming into the last round of the prelims, three players had a shot at the last qualifying spot for the knockout stage of the <a href=\"https://championschesstour.com/\">Aimchess US Rapid</a> tournament, the last of the \"regular\" Meltwater tour events for the year. Leinier Dominguez and Anish Giri had 7.5 points out of 14, with Maxime Vachier-Lagrave half a point back. Giri had the worst tiebreak scores of the three, so he'd have to finish ahead of his rivals to get that last spot. Giri had Black against Alireza Firouzja, while MVL had White against Dominguez. Since someone was guaranteed to get at least eight points from the latter match, Giri would have to win his game, and hope Dominguez d",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/30/aimchess-prelims-finish-ko-pairings-set.html",
-         "pubDate" : "Tue, 31 Aug 2021 03:10:27 +0000",
-         "title" : "Aimchess Prelims Finish; K.O. Pairings Set"
-      },
-      {
          "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "Like to play in the Sharjah Masters?"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour will expand in 2022 with a $100,000 Indian chess circuit, from which players will qualify for the overall tour. The move into the booming Indian chess arena is a collaboration between the Play Magnus Group and Mobile Premier League, Asia's biggest esports and skill gaming platform, with over 80 million users across India, Indonesia and the United States of America.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mobile-premier-league-indian-chess-tour-launched",
-         "pubDate" : "Mon, 30 Aug 2021 10:00:03 +0000",
-         "title" : "Mobile Premier League Indian Chess Tour launched"
-      },
-      {
          "description" : "Here's another opportunity to sharpen your tactical skills: twelve positions taken from recent tournaments, selected by the British magazine CHESS. The diagrams on our news page allow you to move the pieces around to analyse. There is also an embedded engine that will actually play out the position against you! Which means you can work things out directly on the diagrams in the browser. How neat is that?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1704,22 +1728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-starts/",
          "pubDate" : "Mon, 30 Aug 2021 07:24:06 +0000",
          "title" : "European Senior Team Chess Championship 2021 starts"
-      },
-      {
-         "description" : " That's apparently the claim of a recent paper (linked <a href=\"https://marginalrevolution.com/marginalrevolution/2021/08/against-family-and-entourage.html\">here</a>), at least at the level of playing in one's home country. Worse, it may even be detrimental. I haven't played in rated events outside of the U.S., but my experience of playing in, say, cross-country events (playing on the east coast when I've lived on the west coast or vice-versa) does <em>not</em> square with the idea that \"away\" is better; my results in events in my state of residence or an adjacent state is FAR better than my performance in more distant states. Your experiences, readers? ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/29/no-home-field-advantage-in-chess.html",
-         "pubDate" : "Mon, 30 Aug 2021 03:11:46 +0000",
-         "title" : "No \"Home Field\" Advantage in Chess?"
-      },
-      {
-         "description" : " In fact, it started on Saturday. It's the last event of the year's Meltwater Tour (or the last \"regular\" event; the final will start September 25), a rapid tournament with a format that's very familiar at this point. First up, a 16-player round-robin that will cut the field to a final eight, who will engage in knockout matches made up of two mini-matches (with a blitz playoff and then Armageddon if necessary). At this point, the preliminary stage is 2/3 finished - 10 rounds out of 15 are in the books. Vladislav Artemiev is in the lead with an undefeated 7.5/10, half a point ahead of Magnus Carlsen and Levon Aronian. As the scores don't carry over into the knockout stage, what matters most i",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/8/29/the-tournaments-never-stop-the-aimchess-us-rapid-is-underway.html",
-         "pubDate" : "Mon, 30 Aug 2021 02:57:50 +0000",
-         "title" : "The Tournaments Never Stop: The Aimchess US Rapid is Underway"
       },
       {
          "description" : "Day 2 of the Aimchess US Rapid prelims saw Vladislav Artemiev climbing to sole first place after drawing two games and winning the remaining three to go into the last day of the round robin a half point ahead of Levon Aronian and Magnus Carlsen. The likes of Maxime Vachier-Lagrave and Leinier Dominguez are in real danger of being eliminated before the knockout. | Photo: Eric Rosen / FIDE World Cup",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eu-youth-championships-2021-final-report",
          "pubDate" : "Mon, 23 Aug 2021 15:35:00 +0100",
          "title" : "EU Youth Chess Championships in Kouty nad Desnou"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave is again sharing the lead at the Sinquefield Cup after beating Dariusz Swiercz in Saturday's fifth round. MVL tops the standings together with Wesley So and Leinier Dominguez. Fabiano Caruana, who went into round 5 as a co-leader, was defeated by Jeffery Xiong (pictured). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r5",
-         "pubDate" : "Mon, 23 Aug 2021 15:30:00 +0100",
-         "title" : "Sinquefield Cup: Xiong beats Caruana, MVL bounces back"
       },
       {
          "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
