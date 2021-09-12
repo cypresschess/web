@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Soviet team scored 11 wins in as many matches at the 1960 Chess Olympiad in Leipzig. Czechoslovakia came in fifth place. The direct clash between these two countries took place in round 8, with Mikhail Botvinnik playing white against Ludek Pachman on top board. Botvinnik won an opposite-coloured bishop endgame a pawn to the good. But was Botvinnik's win flawless, or could have Pachman saved himself? Help Karsten M&uuml;ller find an answer to this historical riddle!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/historical-riddle-botvinnik-vs-pachman-1960",
+         "pubDate" : "Sun, 12 Sep 2021 20:00:00 +0100",
+         "title" : "Historical ridde: Botvinnik vs. Pachman"
+      },
+      {
+         "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/queen-and-pawn-v-queen/",
+         "pubDate" : "Sun, 12 Sep 2021 18:30:49 +0000",
+         "title" : "Queen and Pawn v Queen"
+      },
+      {
          "description" : "Leader Richard Rapport faces second-placed Ian Nepomniachtchi with the black pieces in round 5 of the Norway Chess Tournament. Meanwhile, world champion Magnus Carlsen plays black against the 2016 challenger for the world crown, Sergey Karjakin. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2176,14 +2192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r6",
          "pubDate" : "Tue, 24 Aug 2021 14:00:00 +0100",
          "title" : "Sinquefield Cup: Fighting draws"
-      },
-      {
-         "description" : "The 57th Rubinstein Memorial was again held as a big chess festival in Polanica Zdroj, Poland. Kirill Shevchenko and David Navara finished the GM tournament tied on points (6 out of 9). Shevchenko was declared the tournament's winner since he had the better tiebreak score - direct encounter. Kacper Piorun and Pawel Teclaf finished a half point behind. | Photos: Rafał Siwik",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rubinstein-memorial-shevchenko-and-navara-tie-for-first",
-         "pubDate" : "Tue, 24 Aug 2021 12:10:00 +0100",
-         "title" : "Rubinstein Memorial: Shevchenko and Navara tie for first"
       },
       {
          "description" : "",
