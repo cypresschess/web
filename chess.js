@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The round-1 game had to be rescheduled after Nepo could not make it in time to Stavanger due to visa issues. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-rest-day",
+         "pubDate" : "Sun, 12 Sep 2021 04:25:00 +0100",
+         "title" : "Norway Chess: Nepomniachtchi climbs to second place"
+      },
+      {
+         "description" : "The Tolstoy Cup is taking place at the Yasnaya Polyana cultural centre on September 11-12. The tournament is a 9-round single round-robin event with a time control of 15 minutes for the whole game plus a 10-second increment per move. Anish Giri, Boris Gelfand, Anton Korobov and Nikita Vitiugov are among the participants. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
+         "pubDate" : "Sun, 12 Sep 2021 03:55:00 +0100",
+         "title" : "Tolstoy Cup - Giri sole leader"
+      },
+      {
+         "description" : "The final day of PogChamps 4 quarterfinals presented by Coinbase excited the audience and the spectators on Saturday, as the pairs were decided for Sunday&#39;s main events. Rubius earned the win 1.5-0.5 against JakenbakeLIVE and goes on to the cons...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-playoffs-fundy-crokeyz-mrbeast-rubius",
+         "pubDate" : "Sat, 11 Sep 2021 18:25:37 -0700",
+         "title" : "Pogchamps 4 Playoffs Day 3: Fundy, Crokeyz Play For Championship; MrBeast Distracts His Way Into Consolation Final"
+      },
+      {
          "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"https://buytickets.at/chesstech/578937\">https://buytickets.at/chesstech/578937</a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Introduction to the free video chess teaching tool with Luciana Morales (Chessable) </div> In this free webinar WIM Luciana Morales (Ch",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "Sweden gets E-sport chess league"
       },
       {
-         "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The game had to be rescheduled after Nepo had visa issues to reach Stavanger. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Sat, 11 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Nepo scores"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Online Olympiad: Anand to the fore in India's march to the playoffs"
       },
       {
-         "description" : " A few years ago Stewart Reuben suggested that if more than one person does not understand what a regulations means then it should be rewritten. Personally I think that that requirement is too strict, but the \"Rule of Some, Most, All\" should apply. Basically is only some people understand a rule or instruction, then it is the underlying system that needs fixing. An example is having to line up for something, and being faced with confusing signage. In only some people understand it it, the system of queuing is probably broken. If on the other most people get it right, then the signs need to be made clearer. But if everyone understands it (where the value of everyone is say 1 in 50), then the ",
+         "description" : " A few years ago Stewart Reuben suggested that if more than one person does not understand what a regulations means then it should be rewritten. Personally I think that that requirement is too strict, but the \"Rule of Some, Most, All\" should apply. Basically if only some people understand a rule or instruction, then it is the underlying system that needs fixing. An example is having to line up for something, and being faced with confusing signage. In only some people understand it it, the system of queuing is probably broken. If on the other most people get it right, then the signs need to be made clearer. But if everyone understands it (where the value of everyone is say 1 in 50), then the ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/09/some-v-most-v-all.html",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fatal-activity",
          "pubDate" : "Sat, 11 Sep 2021 13:56:00 +0100",
          "title" : "Fatal activity"
-      },
-      {
-         "description" : "The Tolstoy Cup is taking place at the Yasnaya Polyana cultural centre on September 11-12. The tournament is a 9-round single round-robin event with a time control of 15 minutes for the whole game plus a 10-second increment per move. Anish Giri, Boris Gelfand, Anton Korobov and Nikita Vitiugov are among the participants. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
-         "pubDate" : "Sat, 11 Sep 2021 13:55:00 +0100",
-         "title" : "Tolstoy Cup - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Online Chess Olympiad 2021</strong> reaches its final stage. <a href=\"https://onlineolympiad.fide.com/tpost/9d3bvracd1-russia-advances-to-the-play-offs-with-a\">No underdogs have made it</a> into Monday's quarter finals Kazakhstan - USA, Ukraine - India, Russia - Hungary and China - Poland. </div> ",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "Kasimdzhanov Resigns As Caruana's Second"
       },
       {
-         "description" : "Both first matches of the online Aimchess U.S. Rapid tournament&#39;s semifinals started with a 2-2 tie. Whereas GM Magnus Carlsen and GM Levon Aronian drew four games, GM Vladislav Artemiev&#38;nbsp;and GM Alireza Firouzja scored one win each. How to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-semifinals-day-1",
-         "pubDate" : "Fri, 03 Sep 2021 00:02:52 -0700",
-         "title" : "Aimchess U.S. Rapid: Semifinals Tied"
-      },
-      {
          "description" : " The 18-year-old showed his best online form yet, but lost to the 23-year-old from Omsk in an Armageddon tie-break while Carlsen reached the Aimchess US Rapid final with smooth victories Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, US champion Wesley So. The Iran-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Fran",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1352,14 +1352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-2",
          "pubDate" : "Fri, 03 Sep 2021 07:20:00 +0100",
          "title" : "News Review - Lawrence has some sad news about the Gibraltar Open"
-      },
-      {
-         "description" : " Magnus Carlsen and Levon Aronian drew their mini-match today in the most proper way; to wit, by drawing all four games. Vladislav Artemiev and Alireza Firouzja also wound up splitting their match, but with more adventures and with one win per customer. The match between the relative old-timers had a few interesting moments, but not too many, and in only one game - game 2 - did either player come anywhere close to serious winning chances. That was Aronian, whose exchange sac was both objectively and practically promising, and he may have missed a couple of chances to put Carlsen in real danger. In the rest of the game, and the rest of the match, nothing got too crazy, the evaluations stayed ",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/2/aimchess-semis-day-1-two-drawn-mini-matches.html",
-         "pubDate" : "Thu, 02 Sep 2021 21:53:52 +0000",
-         "title" : "Aimchess Semis, Day 1: Two Drawn Mini-Matches"
       },
       {
          "description" : "",
