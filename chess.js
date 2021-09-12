@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leader Richard Rapport faces second-placed Ian Nepomniachtchi with the black pieces in round 5 of the Norway Chess Tournament. Meanwhile, world champion Magnus Carlsen plays black against the 2016 challenger for the world crown, Sergey Karjakin. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Sun, 12 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : " The local ABC television station did a quick report in what students were doing to keep busy and engaged during the current Covid lockdown. Chess was one of the activities featured. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/xkWuH_zO7QI\" width=\"320\" youtube-src-id=\"xkWuH_zO7QI\"></iframe></div><br /> <br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/dominguez-takes-chess9lx-title-as-kasparov-cries-damn-it",
          "pubDate" : "Sun, 12 Sep 2021 09:25:03 +0000",
-         "title" : "Dominguez takes Chess9LX title as Kasparov cries \"damn it!\" "
+         "title" : "Dominguez takes Chess9LX title as Kasparov cries, \"Damn it!\" "
       },
       {
          "description" : "Your computers and computer components are feeling a bit long in the tooth, and although still good (or not), you know you are behind the curve. Or perhaps you are buying a dedicated machine for chess and unsure what will be best for you. Either way, this long-awaited guide will help you plan your purchase with confidence for all budgets.",
@@ -47,7 +55,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
          "pubDate" : "Sun, 12 Sep 2021 03:55:00 +0100",
-         "title" : "Tolstoy Cup - Giri sole leader"
+         "title" : "Tolstoy Cup - Live!"
       },
       {
          "description" : "The final day of PogChamps 4 quarterfinals presented by Coinbase excited the audience and the spectators on Saturday, as the pairs were decided for Sunday&#39;s main events. Rubius earned the win 1.5-0.5 against JakenbakeLIVE and goes on to the cons...",
@@ -2192,14 +2200,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-great-ones-4/",
          "pubDate" : "Tue, 24 Aug 2021 09:00:27 +0000",
          "title" : "The Great Ones (4)"
-      },
-      {
-         "description" : "When defending difficult positions you often have to decide whether to search active counterplay or to hope for the best with passive defense. Often, this is a difficult choice and even the very best can go wrong. In the diagram position, which is from a game A. Firouzja vs M. Carlsen, Black is in trouble but has a way to draw. What should Black play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hidden-resources",
-         "pubDate" : "Tue, 24 Aug 2021 09:00:00 +0100",
-         "title" : "Hidden resources"
       },
       {
          "description" : "The EU Youth Chess Championship 2021 concluded in Kouty nad Desnou/Czech Republic on Sunday, August 22nd. The last rounds were full of fights and tension. Vladimir Sofronie (ROU) took the first place in Open U8 category, the second place came to Maksymilian Janeczek (POL) and Stepan Kroulik (CZE) was third. Aleksandra Pehlivanova (BUL) triumphed Girls U8 section, Emma&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/\">Read More &#187;</a></span>",
