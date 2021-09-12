@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Sergey Karjakin wasn&#39;t happy with his play in the opening but, using a long-term exchange sacrifice, eventually defeated GM Magnus Carlsen for the first time in five years in a classical game. In doing so, the Russian GM leapfrogged his opponen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-5-karjakin-carlsen",
+         "pubDate" : "Sun, 12 Sep 2021 15:19:00 -0700",
+         "title" : "Norway Chess R5: Karjakin Beats Carlsen With Exchange Sac"
+      },
+      {
+         "description" : " Coming into round 5 (of 10) of this year's <a href=\"https://norwaychess.no/en/\">Norway Chess tournament</a>, Magnus Carlsen wasn't leading, but he had at least won every round. All his classical games were drawn, and he won both Armageddon games with White and drew both Armageddons with Black. Perhaps he would have drawn another Armageddon game with Black today, against Sergey Karjakin, but his erstwhile world championship match opponent \"forgot\" the script and won the classical game. Carlsen had no problems in the opening, as he was well-prepared against the 7.Nd5 anti-Sveshnikov line Fabiano Caruana played against Carlsen in their 2018 world championship match. If anything, he had the adv",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/12/norway-chess-round-5-karjakin-beats-carlsen-in-classical.html",
+         "pubDate" : "Sun, 12 Sep 2021 20:43:27 +0000",
+         "title" : "Norway Chess, Round 5: Karjakin Beats Carlsen in Classical"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1330",
+         "pubDate" : "Sun, 12 Sep 2021 19:59:37 +0000",
+         "title" : "Anish Gigi wins Tolstoy Cup"
+      },
+      {
+         "description" : " Following up on the discussion in the <a href=\"http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html\">previous post</a> on this event, in which I protest slightly against Leo Tolstoy's logorrhea in <em>War and Peace</em>, it seems mildly ironic that a chess tournament named for him, the <a href=\"https://ruchess.ru/en/\">Tolstoy Cup</a>, is a rapid one. Shouldn't each game be played with, say, a 10-hour time control instead? But I digress. At the end of the first day of action, with Anish Giri enjoying a 5-0 score while his not-too-close closest pursuers - all six(!) of them - had only 2.5 points, a couple of entertaining scenarios seemed",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/12/giri-wins-the-tolstoy-cup.html",
+         "pubDate" : "Sun, 12 Sep 2021 19:50:15 +0000",
+         "title" : "Giri Wins the Tolstoy Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In what is probably his last classical chess event before the world championship match, <strong>Magnus Carlsen</strong> has scored only four draws, no win and <a href=\"https://chess24.com/en/watch/live-tournaments/norway-chess-2021/9/1/1\">suffered one loss against Sergey Karjakin</a> during the first half of <strong>NorwayChess</strong>. His challenger <strong>Ian Nepomniachtchi</strong> is performing solidly so far with one win and four draws. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-out-of-form/",
+         "pubDate" : "Sun, 12 Sep 2021 19:44:25 +0100",
+         "title" : "Carlsen out of form"
+      },
+      {
          "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -15,7 +55,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Sun, 12 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Karjakin beats Carlsen"
       },
       {
          "description" : " The local ABC television station did a quick report in what students were doing to keep busy and engaged during the current Covid lockdown. Chess was one of the activities featured. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/xkWuH_zO7QI\" width=\"320\" youtube-src-id=\"xkWuH_zO7QI\"></iframe></div><br /> <br /> <br /> ",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1329",
          "pubDate" : "Sat, 11 Sep 2021 12:09:55 +0000",
          "title" : "Leinier Dominguez wins 2021 Champions Showdown: Chess 9LX"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Leinier Dominguez</strong> won the $37,500 first price at the <strong>9LX Champions Showdown</strong>, a Fischer Random tournament at the <strong>Saint Louis Chess Club</strong>. Former world champion <strong>Garry Kasparov</strong>, who performed terrible at blitz in Zagreb two months ago, was temporarily in the lead and a <a href=\"https://www.chess.com/news/view/dominguez-wins-2021-champions-showdown-chess9lx\">contender for first place</a> until a final loss against Maxime Vachier-Lagrave. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kasparov-came-close-to-victory/",
-         "pubDate" : "Sat, 11 Sep 2021 13:09:08 +0100",
-         "title" : "Kasparov came close to victory"
       },
       {
          "description" : "In Virgil's Aeneid one finds the phrase, \"hoc opus, hic labor est\", \"this is the task, this is the masterpiece\", referring to the hero Theseus and his descent to the Underworld. Descending to the netherworld's depths is easy - the trick is to get back safely again to the \"upper airs.\" Less onerous is the annual task of []",
@@ -1018,14 +1050,6 @@ news_feed (
          "title" : "Carlsen blows out Artemiev, wins Aimchess US Rapid"
       },
       {
-         "description" : " Magnus Carlsen was challenged at times by Vladislav Artemiev over the course of their two-day match, but overall he dominated on the way to victory in the <a href=\"https://championschesstour.com/\">2021 Aimchess U.S. Rapid</a> tournament. Artemiev finished in a very creditable second place, while Levon Aronian defeated Alireza Firouzja to take third. On day 1, Carlsen got off to a 2-0 lead. In the first game, Carlsen enjoyed a long-lasting initiative with Black, and in time trouble and under heavy pressure Artemiev blundered and lost. In game 2, it was Artemiev who had the pressure most of the way, but Carlsen crawled his way out of danger. Almost out of nowhere, Artemiev had some minor tech",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/5/aimchess-finals-carlsen-defeats-artemiev-to-win-the-tourname.html",
-         "pubDate" : "Sun, 05 Sep 2021 22:42:07 +0000",
-         "title" : "Aimchess Finals: Carlsen Defeats Artemiev to Win the Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1266,14 +1290,6 @@ news_feed (
          "title" : "\"The Queen's Gambit\" revisited"
       },
       {
-         "description" : " Two excellent semifinal matches were contested, with both taking the full four games of the second mini-match and one going to Armageddon. For world champion Magnus Carlsen, things went comparatively smoothly. He won the very first game of the day, with Black, in excellent style. He was very close to winning game 2 as well, and may have been winning at one point. Aronian found an excellent defense, however, and saved a difficult ending by the skin of his teeth. Perhaps buoyed by his narrow escape, he took the upper hand in the third game, and was probably winning that one. Unfortunately for him, his 25th move was inaccurate (25.Ne4 was better) and his 27th a mistake (the multipurpose 27.Qd3",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/3/aimchess-semis-day-2-carlsen-artemiev-advance-to-the-finals.html",
-         "pubDate" : "Sat, 04 Sep 2021 03:58:47 +0000",
-         "title" : "Aimchess Semis, Day 2: Carlsen, Artemiev Advance to the Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1312",
          "pubDate" : "Fri, 03 Sep 2021 18:57:20 +0000",
          "title" : "Iniyan wins Noisiel International Open 2021"
-      },
-      {
-         "description" : "The 73rd Emmy Awards is approaching fast, and chess fans have good reason to be excited about the ceremony. On September 19, chess enthusiasts will finally know how many awards will come from the 18 nominations The Queen&#39;s Gambit has received. I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-announces-chemmys-awards",
-         "pubDate" : "Fri, 03 Sep 2021 11:12:00 -0700",
-         "title" : "Chess.com Announces Chemmys Awards"
       },
       {
          "description" : "As part of the development plan for the North-Eastern States, the North-Eastern State Online Chess Championship got off to rousing start today at Tornelo Online",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-3.html",
          "pubDate" : "Mon, 23 Aug 2021 08:23:00 +0000",
          "title" : "2021 Online Chess Olympiad - Day 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1288",
-         "pubDate" : "Sun, 22 Aug 2021 21:12:32 +0000",
-         "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
       }
    ]
 }
