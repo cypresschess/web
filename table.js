@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-09-11","82","<a href=http://www.uschess.org/msa/XtblMain.php?202109119692 target=' blank'>KIPP SPIRIT MIDDLE SCHOOL SCHOLASTI</a>",
 "CYPRESS","2021-09-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202109109122 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-09-05","4","<a href=http://www.uschess.org/msa/XtblMain.php?202109057262 target=' blank'>SEPTSUNSWISS95</a>",
 "CYPRESS","2021-09-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202109036782 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-07-25","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007251202 target=' blank'>SR CHESSKNIGHTS 07252020</a>",
 "SPRING","2020-07-24","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007246452 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-07-18","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007181182 target=' blank'>SR CHESSKNIGHTS 07182020</a>",
-"SPRING","2020-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007175602 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
