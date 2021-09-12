@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The local ABC television station did a quick report in what students were doing to keep busy and engaged during the current Covid lockdown. Chess was one of the activities featured. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/xkWuH_zO7QI\" width=\"320\" youtube-src-id=\"xkWuH_zO7QI\"></iframe></div><br /> <br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/school-chess-in-lockdown.html",
+         "pubDate" : "Sun, 12 Sep 2021 10:51:00 +0000",
+         "title" : "School Chess in Lockdown"
+      },
+      {
+         "description" : "Leinier Dominguez beat Levon Aronian in the final round to clinch victory in the Champions Showdown: Chess9LX in Saint Louis. 58-year-old Garry Kasparov had gone into that round in a 4-way tie for 1st place, but dropped to 5th after losing to Maxime Vachier-Lagrave and couldn't shake off regret at taking a draw in a better position against Hikaru Nakamura in the previous round. MVL shared 2nd place with Sam Shankland and Wesley So, with Wesley the only player to score more than a single win on the final day.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/dominguez-takes-chess9lx-title-as-kasparov-cries-damn-it",
+         "pubDate" : "Sun, 12 Sep 2021 09:25:03 +0000",
+         "title" : "Dominguez takes Chess9LX title as Kasparov cries \"damn it!\" "
+      },
+      {
+         "description" : "Your computers and computer components are feeling a bit long in the tooth, and although still good (or not), you know you are behind the curve. Or perhaps you are buying a dedicated machine for chess and unsure what will be best for you. Either way, this long-awaited guide will help you plan your purchase with confidence for all budgets.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2021-hardware-buyer-s-guide",
+         "pubDate" : "Sun, 12 Sep 2021 10:00:00 +0100",
+         "title" : "2021 Hardware Buyer's Guide"
+      },
+      {
+         "description" : "Top seed International Master Shahil Dey of Assam clinched the AICF North-Eastern State Chess Championship 2021 with 10 points out of possible 11. Kingshuk Debnath",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shahil-dey-wins-aicf-north-eastern-states-chess-championship-2021/",
+         "pubDate" : "Sun, 12 Sep 2021 07:40:32 +0000",
+         "title" : "Shahil Dey wins AICF North -Eastern States Chess Championship 2021"
+      },
+      {
          "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The round-1 game had to be rescheduled after Nepo could not make it in time to Stavanger due to visa issues. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "Peaceful end to Division 3 of the FIDE Online Olympiad"
       },
       {
-         "description" : "Vladislav Artemiev beat previous leader Levon Aronian on the way to scoring 4/5 on Day 2 of the Aimchess US Rapid to take the sole lead, half a point ahead of Levon and Magnus Carlsen. The only player to match his score was World Cup winner Jan-Krzysztof Duda, who climbed from last to 7th place. Maxime Vachier-Lagrave is the biggest star name outside the knockout qualifying spots with one day to go, while Daniel Naroditsky continues to impress after beating Wesley So and Liem Quang Le.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-2-artemiev-leads-as-duda-naroditsky-shine",
-         "pubDate" : "Mon, 30 Aug 2021 13:06:48 +0000",
-         "title" : "Aimchess US Rapid 2: Artemiev leads as Duda & Naroditsky shine"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1302",
          "pubDate" : "Sun, 29 Aug 2021 20:54:45 +0000",
          "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Vantika Agrawal for completing her third and final WGM norm to become the latest Women Grandmaster of the country",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-vantika-agrawal/",
-         "pubDate" : "Sun, 29 Aug 2021 15:12:27 +0000",
-         "title" : "Congratulations Vantika Agrawal"
       },
       {
          "description" : "A special kind of magic trick is to turn one thing into another - a.k.a. a switcheroo. In endgame studies, one such transformation is turning a stalemate into a checkmate. Columnist Siegfried Hornecker shows phenomenal examples which made use of this fantastic 'magic trick'. | Pictured: Ernest Pogosyants",
@@ -2202,14 +2218,6 @@ news_feed (
          "title" : "Shant Sargsyan wins 14th Tashkent Open, Agzamov Memorial"
       },
       {
-         "description" : "The 19th edition of the European Union Youth Chess Championship took place on August 14-22 at the Hotel Dlouhe Strane in Kouty nad Desnou, Czech Republic. Boys and girls in each category played in the same tournament. Once the event came to an end, girls were evaluated separately to find the winners in the girls' categories. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eu-youth-championships-2021-final-report",
-         "pubDate" : "Mon, 23 Aug 2021 15:35:00 +0100",
-         "title" : "EU Youth Chess Championships in Kouty nad Desnou"
-      },
-      {
          "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2232,22 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1288",
          "pubDate" : "Sun, 22 Aug 2021 21:12:32 +0000",
          "title" : "Online Olympiad Day 3 concluded: 16 teams advance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1287",
-         "pubDate" : "Sun, 22 Aug 2021 11:13:45 +0000",
-         "title" : "Day 5: Vachier-Lagrave bounces back, Caruana stumbles"
-      },
-      {
-         "description" : " Here's another in my series of misplayed pawn endings for you. I reached this position in a recent online game. I had the white pieces and it was Black's move here. The game continued: 42.. Kc6 43. b4 Kd6 44. b5 a5 45. g4 Ke6 46. Ke4 and, having taken the opposition, I won a <a href=\"https://chessimprover.com/g4-or-not-g4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"g4 or not g4\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/g4-or-not-g4/\">g4 or not g4</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/g4-or-not-g4/",
-         "pubDate" : "Sun, 22 Aug 2021 10:30:51 +0000",
-         "title" : "g4 or not g4"
       }
    ]
 }
