@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Soviet team scored 11 wins in as many matches at the 1960 Chess Olympiad in Leipzig. Czechoslovakia came in fifth place. The direct clash between these two countries took place in round 8, with Mikhail Botvinnik playing white against Ludek Pachman on top board. Botvinnik won an opposite-coloured bishop endgame a pawn to the good. But was Botvinnik's win flawless, or could have Pachman saved himself? Help Karsten M&uuml;ller find an answer to this historical riddle!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/historical-riddle-botvinnik-vs-pachman-1960",
-         "pubDate" : "Sun, 12 Sep 2021 20:00:00 +0100",
-         "title" : "Historical ridde: Botvinnik vs. Pachman"
-      },
-      {
          "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
