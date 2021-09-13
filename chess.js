@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do I have to defend against my opponent's threat, or can I simply ignore it and look for my own chances? A typical question which has often been asked during practical play. This two volume series on Calculation in Attack & Defence is the ideal guide to develop a good sense for attacking play, while keeping an eye on your opponent's defensive resources and possible counterplay against your own king. At the same time you'll be challenged to defend against your opponent's threats and, given the chance, turn the tables by launching a devastating counter-attack yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-in-attack-defence-vol-1-2",
+         "pubDate" : "Mon, 13 Sep 2021 21:00:00 +0100",
+         "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 + 2"
+      },
+      {
          "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Mon, 13 Sep 2021 16:55:00 +0100",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "India entered the Semi Final of the ongoing World Online Chess Olympiad after beating Ukraine in the Quarterfinal. The exciting match was decided in the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-beat-ukraine-enter-semi-final-of-world-online-chess-olympiad/",
+         "pubDate" : "Mon, 13 Sep 2021 15:46:24 +0000",
+         "title" : "India beat Ukraine; enter semi final of World Online Chess Olympiad"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G70WiAFmu4Q.jpg?itok=hWjHyu89\" alt=\"\" /></a></div>",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=1\" class=\"js-img\" title=\"Work4Chess",
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=3\" class=\"js-img\" title=\"Work4Chess",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://bridge.beamian.com/event/475/",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Firouzja holds off So's fierce fightback to storm into semis"
       },
       {
-         "description" : "India secured 4 medals in the FIDE Online Cadets &#38; Youth Rapid World Cup which concluded on Tuesday. Harshvardhan G B won the yellow metal",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/harshvardhan-wins-gold-four-medals-for-india-in-fide-online-cadets-youth-rapid-world-cup/",
-         "pubDate" : "Thu, 02 Sep 2021 10:34:06 +0000",
-         "title" : "Harshvardhan wins Gold; Four medals for India in FIDE Online Cadets & Youth Rapid World Cup"
-      },
-      {
          "description" : "A grand total of five players scored international title norms at the Northumbria Masters Congress, held 26-30 August at the Marriott MetroCentre, Gateshead. The congress...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1296",
          "pubDate" : "Wed, 25 Aug 2021 16:43:07 +0000",
          "title" : "Iturrizaga and Vega win 2021 Spanish Championship"
-      },
-      {
-         "description" : "The Spanish Individual Championship took place on August 16-24 in Linares. Eduardo Iturrizaga won the event in his first try, as he switched federations earlier this year. The 31-year-old star from Caracas also won the rapid tournament played before the classical event; Paco Vallejo won the blitz. Among the women, Sabrina Vega won her eighth title with a round to spare. Vega stunned by also winning the women's sections in both the rapid and blitz national tournaments. | Photo: Patricia Claros Aguilar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eduardo-iturrizaga-sabrina-vega-spanish-champions-2021",
-         "pubDate" : "Wed, 25 Aug 2021 15:45:00 +0100",
-         "title" : "Iturrizaga and Vega are the 2021 Spanish champions"
       },
       {
          "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Why I Always Try To Be A Beginner</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
