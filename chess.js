@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stalemates, drama, and memes marked the finals of PogChamps 4 presented by Coinbase. It couldn&#39;t have been any more amazing with some of the greatest content creators and chess commentators on Earth coming together to enjoy chess. Two tiebreaks ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-finals-fundy-the-beast-are-new-pog-champions",
+         "pubDate" : "Sun, 12 Sep 2021 16:27:00 -0700",
+         "title" : "PogChamps 4 Finals: Fundy, The Beast Are New Pog Champions"
+      },
+      {
          "description" : "GM Sergey Karjakin wasn&#39;t happy with his play in the opening but, using a long-term exchange sacrifice, eventually defeated GM Magnus Carlsen for the first time in five years in a classical game. In doing so, the Russian GM leapfrogged his opponen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -23,7 +31,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1330",
          "pubDate" : "Sun, 12 Sep 2021 19:59:37 +0000",
-         "title" : "Anish Gigi wins Tolstoy Cup"
+         "title" : "Anish Giri wins Tolstoy Cup"
       },
       {
          "description" : " Following up on the discussion in the <a href=\"http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html\">previous post</a> on this event, in which I protest slightly against Leo Tolstoy's logorrhea in <em>War and Peace</em>, it seems mildly ironic that a chess tournament named for him, the <a href=\"https://ruchess.ru/en/\">Tolstoy Cup</a>, is a rapid one. Shouldn't each game be played with, say, a 10-hour time control instead? But I digress. At the end of the first day of action, with Anish Giri enjoying a 5-0 score while his not-too-close closest pursuers - all six(!) of them - had only 2.5 points, a couple of entertaining scenarios seemed",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1314",
          "pubDate" : "Sat, 04 Sep 2021 01:54:41 +0000",
          "title" : "Carlsen faces Artemiev in Aimchess US Rapid final"
-      },
-      {
-         "description" : "GM Magnus Carlsen will be facing&#38;nbsp;GM Vladislav Artemiev in the final of the&#38;nbsp;online Aimchess U.S. Rapid tournament. On the second day of the semifinals, Carlsen was too strong for GM Levon Aronian, and then Artemiev won the armageddon game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-semifinals-day-2",
-         "pubDate" : "Fri, 03 Sep 2021 16:38:00 -0700",
-         "title" : "Aimchess U.S. Rapid: Artemiev, Carlsen Reach Final"
       },
       {
          "description" : "",
