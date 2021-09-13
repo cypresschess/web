@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Richard Rapport increased his lead at Norway Chess to a commanding three points after scoring his third classical win on Monday. The Hungarian GM defeated GM Aryan Tari for the second time. GM Magnus Carlsen is back in third place after scori...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-6-carlsen-firouzja-rapport",
+         "pubDate" : "Mon, 13 Sep 2021 16:15:23 -0700",
+         "title" : "Norway Chess R6: Rapport Extends Lead; Carlsen Wins 1st Classical Game"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1332",
+         "pubDate" : "Mon, 13 Sep 2021 21:16:38 +0000",
+         "title" : "Solodovnichenko clinches title at Imperia International Chess Festival"
+      },
+      {
          "description" : "Do I have to defend against my opponent's threat, or can I simply ignore it and look for my own chances? A typical question which has often been asked during practical play. This two volume series on Calculation in Attack & Defence is the ideal guide to develop a good sense for attacking play, while keeping an eye on your opponent's defensive resources and possible counterplay against your own king. At the same time you'll be challenged to defend against your opponent's threats and, given the chance, turn the tables by launching a devastating counter-attack yourself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-in-attack-defence-vol-1-2",
          "pubDate" : "Mon, 13 Sep 2021 21:00:00 +0100",
          "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 + 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1331",
+         "pubDate" : "Mon, 13 Sep 2021 19:38:17 +0000",
+         "title" : "The semi-finals are served: India-USA and China-Russia"
       },
       {
          "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes / norwaychess.no",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "15 qualifiers join China, India and Russia in Top Division"
       },
       {
-         "description" : "GM Magnus Carlsen won the first of two matches vs. GM Vladislav Artemiev in the final of the online Aimchess U.S. Rapid tournament. The world champion scored 2.5-1.5 on Saturday and needs just two game points tomorrow to win his third tournament i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-us-rapid-final-carlsen-artemiev-day-1",
-         "pubDate" : "Sat, 04 Sep 2021 13:26:00 -0700",
-         "title" : "Aimchess U.S. Rapid Final: Carlsen Leads Despite Mouse Slip"
-      },
-      {
          "description" : " Going into the final day of the 2021 Online Olympiad, Australia had high hopes of qualifying for the top section, but a couple of unfortunate results put paid to this. Having won in round 7, the slipped up against Kyrgyzstan in round 8, losing 3.5-2.5. This meant they needed to be Shenzen (a second China team, representing the event sponsors), but lost 5-1, to finish in 4th pace for the 2nd year in a row. Top board Temur Kuybokarov had the best score with 5.5/8, but the rest of the team hovered around the 50% mark for most of the tournament. FM Albert Winkelman scored exactly 50% (3.5/7) including winning a nice game in Round 8 against his opponent from Kyrgyzstan <br /> <b>Winkelman,Albert",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/",
          "pubDate" : "Tue, 24 Aug 2021 06:56:26 +0000",
          "title" : "Winners of European Union Youth Chess 2021 announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1289",
-         "pubDate" : "Mon, 23 Aug 2021 20:33:09 +0000",
-         "title" : "Shant Sargsyan wins 14th Tashkent Open, Agzamov Memorial"
       }
    ]
 }
