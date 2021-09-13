@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/00216462-2DAD-44E3-BD6E-241A2A9096B6.jpeg\" width=\"1800\" height=\"1303\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/google-customizes-search-results-display-with-chess-pieces/",
+         "pubDate" : "Mon, 13 Sep 2021 07:27:01 +0000",
+         "title" : "Google Customizes Search Results Display with Chess Pieces"
+      },
+      {
+         "description" : " Share!11 IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/",
+         "pubDate" : "Mon, 13 Sep 2021 03:36:13 +0000",
+         "title" : "Justus Williams clinches IM title!"
+      },
+      {
          "description" : "Stalemates, drama, and memes marked the finals of PogChamps 4 presented by Coinbase. It couldn&#39;t have been any more amazing with some of the greatest content creators and chess commentators on Earth coming together to enjoy chess. Two tiebreaks ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -706,7 +722,7 @@ news_feed (
          "title" : "Norway Chess R2: Nepomniachtchi Wins With The King's Gambit"
       },
       {
-         "description" : " Share!18 Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, when [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
