@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/00216462-2DAD-44E3-BD6E-241A2A9096B6.jpeg\" width=\"1800\" height=\"1303\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
+         "description" : "Today, the quarter-finals of the Online Olympiad are being played. Playing: Kazakhstan-USA (11:00 CEST, 5:00 ET, 9:00 UTC), Ukraine-India (13:00 CEST, 7:00 ET, 11:00 UTC), Russia-Hungary (15:30 CEST, 9:30 ET, 13:30 UTC) and China-Poland (17:30 CEST, 11:30 ET, 15:30 UTC). The semi-finals will be played tomorrow and the final on Wednesday. Follow the games live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-olympiade-live",
+         "pubDate" : "Mon, 13 Sep 2021 11:26:28 +0100",
+         "title" : "Online Olympiad: Live"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=1\" class=\"js-img\" title=\"Work4Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://bridge.beamian.com/event/475/",
+         "pubDate" : "Mon, 13 Sep 2021 10:57:46 +0100",
+         "title" : "Work 4 Chess!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Thanks to <strong>Play Magnus Group</strong> of Companies joining <strong>Work4Chess</strong> this Saturday 18 September as a sponsor and exhibitor, <a href=\"https://a.beamian.com/#/event/work4chess\">access to the conference</a> is now free. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/work4chess-free-thanks-to-play/",
+         "pubDate" : "Mon, 13 Sep 2021 10:42:07 +0100",
+         "title" : "Work4Chess free thanks to Play Magnus sponsorship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andrea Graus Ferrer</strong>, a historian of science and knowledge from Barcelona, will discuss her research on \"The child prodigy as a global celebrity: the chess wonder Samuel Reshevsky\", <a href=\"https://www.tandfonline.com/doi/full/10.1080/19392397.2021.1965895\">published in an open access journal</a>, at the free <a href=\"https://bridge.beamian.com/event/475/sessions/session/5954\">Work4Chess Conference</a> on 18 September with Indian coach <strong>R.B.Ramesh</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/historical-case-study-on-reshevsky/",
+         "pubDate" : "Mon, 13 Sep 2021 10:38:03 +0100",
+         "title" : "Historical case study on Reshevsky"
+      },
+      {
+         "description" : "The Live Database is the full database by ChessBase, stored online, that can be searched from both the ChessBase program, as well as the browser. With it you can search for any position, player, tournament, or game, and see all the statistics such as the win/loss percentage, the Live Book data, and even search with an engine, all straight from the browser. Read on to learn more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/using-the-live-database-from-the-browser",
+         "pubDate" : "Mon, 13 Sep 2021 10:00:00 +0100",
+         "title" : "Using the Live Database from the browser"
+      },
+      {
+         "description" : "A complaint under Regulation 5 was received by Julian Clissold and Stephen Woodhouse. The complaint was raised by Rob Willmoth in relation to correspondence between...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/complaint-under-regulation-5/",
+         "pubDate" : "Mon, 13 Sep 2021 07:31:12 +0000",
+         "title" : "Complaint under Regulation 5"
+      },
+      {
+         "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/61FA2E56-3731-4873-8800-3BD9B12A3FC8.jpeg\" width=\"1600\" height=\"1222\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/google-customizes-search-results-display-with-chess-pieces/",
@@ -202,14 +250,6 @@ news_feed (
          "title" : "Norway Chess 4: Carlsen gets to torture Nepomniachtchi"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Sweden is the first country to launch a national E-sport chess league. The E-sport group <strong>Fragbite</strong> and the <strong>Swedish Chess Federation</strong> jointly <a href=\"https://schack.se/nyhet/sverige/2021/09/frabite-startar-e-sportliga-i-schack-tillsammans-med-sveriges-schackforbund/\">announced</a> the start of <strong>Svenska Schackliga</strong> later this year with two annual seasons and the goal to reach non-club players. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/sweden-gets-e-sport-chess-league/",
-         "pubDate" : "Sat, 11 Sep 2021 17:16:54 +0100",
-         "title" : "Sweden gets E-sport chess league"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fatal-activity",
          "pubDate" : "Sat, 11 Sep 2021 13:56:00 +0100",
          "title" : "Fatal activity"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Online Chess Olympiad 2021</strong> reaches its final stage. <a href=\"https://onlineolympiad.fide.com/tpost/9d3bvracd1-russia-advances-to-the-play-offs-with-a\">No underdogs have made it</a> into Monday's quarter finals Kazakhstan - USA, Ukraine - India, Russia - Hungary and China - Poland. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/favourites-dominate-online-olympiad/",
-         "pubDate" : "Sat, 11 Sep 2021 13:28:09 +0100",
-         "title" : "Favourites dominate Online Olympiad"
       },
       {
          "description" : "",
@@ -808,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/leo-tolstoy-gm-in-museum-estate",
          "pubDate" : "Wed, 08 Sep 2021 11:00:00 +0100",
          "title" : "Leo Tolstoy GM in Museum Estate"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=1\" class=\"js-img\" title=\"Work4Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://bridge.beamian.com/event/475/",
-         "pubDate" : "Wed, 08 Sep 2021 09:25:22 +0100",
-         "title" : "Work 4 Chess!"
       },
       {
          "description" : "In order to cut down the appreciable load on ECF membership admin at this busy time, parents please note the following on the Rates and...",
@@ -2090,14 +2114,6 @@ news_feed (
          "title" : "Iturrizaga and Vega win 2021 Spanish Championship"
       },
       {
-         "description" : "As the new membership year approaches, we have noted an increase over the past few days in people registering with the ECF but not completing...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/incomplete-new-memberships/",
-         "pubDate" : "Wed, 25 Aug 2021 15:10:45 +0000",
-         "title" : "Incomplete new ECF memberships"
-      },
-      {
          "description" : "The Spanish Individual Championship took place on August 16-24 in Linares. Eduardo Iturrizaga won the event in his first try, as he switched federations earlier this year. The 31-year-old star from Caracas also won the rapid tournament played before the classical event; Paco Vallejo won the blitz. Among the women, Sabrina Vega won her eighth title with a round to spare. Vega stunned by also winning the women's sections in both the rapid and blitz national tournaments. | Photo: Patricia Claros Aguilar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2186,28 +2202,12 @@ news_feed (
          "title" : "Online Cadets and Youth World Cup Finals are all set"
       },
       {
-         "description" : "The 2021 European Individual Championship is set to take place from August 26 to September 5 at the Hotel Natura (pictured) in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. Gawain Jones, Gabrial Sargissian and David Navara are the rating favourites.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-preview",
-         "pubDate" : "Tue, 24 Aug 2021 19:10:00 +0100",
-         "title" : "Starting Thursday: European Championship in Reyjkavik"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/s?i=stripbooks&amp;k=pawn%20book%20chess&amp;ref=nb_sb_noss\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg\" data-image-dimensions=\"762x281\" data-image-focal-point=\"0.5,0.5\" alt=\"Which \"pawn book\" should you read?\" data-load=\"false\" data-image-id=\"6125049e4ce1e97943592624\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg?format=1000w\" /> </a> <figcaption class=\"image-capt",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/24/episode-240-pawn-book-championship-special-episode-with-neal-bruce",
          "pubDate" : "Tue, 24 Aug 2021 14:44:50 +0000",
          "title" : "Episode 240- \"Pawn Book Championship\" Special Episode with Neal Bruce "
-      },
-      {
-         "description" : "For the first time in this year's tournament, all the games in the Sinquefield Cup at the Saint Louis Chess Club ended drawn, with Peter Svidler missing a 'hidden' winning opportunity against Leinier Dominguez. With three rounds to go, Wesley So, Maxime Vachier-Lagrave and Leinier Dominguez are sharing the lead with 4 points each, while Fabiano Caruana remains half a point behind. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r6",
-         "pubDate" : "Tue, 24 Aug 2021 14:00:00 +0100",
-         "title" : "Sinquefield Cup: Fighting draws"
       },
       {
          "description" : "",
@@ -2240,22 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1289",
          "pubDate" : "Mon, 23 Aug 2021 20:33:09 +0000",
          "title" : "Shant Sargsyan wins 14th Tashkent Open, Agzamov Memorial"
-      },
-      {
-         "description" : "European Individual Chess Championship 2021 kicks off on Thursday, 26th of August in Reykjavik, Iceland. 190 players coming from 36 different European federations will participate the event, fighting for the title of European Champion and qualification spots for the FIDE World Cup 2023. The best ranked player aged U20 will be granted a qualification spot for the 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2021-starts-in-reykjavik/",
-         "pubDate" : "Mon, 23 Aug 2021 10:10:24 +0000",
-         "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
-      },
-      {
-         "description" : " The third an final day of 2021 Chess Olympiad Division 4 saw an exciting finish to some of the pools. With the top 3 in each pool qualifying for the next stage, it sometimes came down to the last few games, especially when competing teams were playing each other. In Pool C (which I was working on), Jersey suffered at the hands of the pairing gods, playing their 3 closest challengers in the last 3 rounds. A narrow loss to Cyprus, and heavy losses to Ethiopia and Angola, saw them slip to 4th place behind these 3. In Pool A, Fiji hoped to do the opposite, finishing with some easier pairings, but a round 9 loss to Lebanon left them 1 win short of qualifying, despite finishing with 3 victories. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-chess-olympiad-day-3.html",
-         "pubDate" : "Mon, 23 Aug 2021 08:23:00 +0000",
-         "title" : "2021 Online Chess Olympiad - Day 3"
       }
    ]
 }
