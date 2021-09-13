@@ -2,20 +2,76 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Today, the quarter-finals of the Online Olympiad are being played. Playing: Kazakhstan-USA (11:00 CEST, 5:00 ET, 9:00 UTC), Ukraine-India (13:00 CEST, 7:00 ET, 11:00 UTC), Russia-Hungary (15:30 CEST, 9:30 ET, 13:30 UTC) and China-Poland (17:30 CEST, 11:30 ET, 15:30 UTC). The semi-finals will be played tomorrow and the final on Wednesday. Follow the games live!",
+         "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-olympiade-live",
-         "pubDate" : "Mon, 13 Sep 2021 11:26:28 +0100",
-         "title" : "Online Olympiad: Live"
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Mon, 13 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G70WiAFmu4Q.jpg?itok=hWjHyu89\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3-0",
+         "pubDate" : "Mon, 13 Sep 2021 14:47:35 +0000",
+         "title" : "2021 Champions Showdown | Chess 9LX: Leinier Dom&iacute;nguez Interview | Day 3"
+      },
+      {
+         "description" : "Sergey Karjakin played a brilliant exchange sacrifice on the way to defeating Magnus Carlsen in a classical game for the first time since Game 8 of their World Championship match in 2016. It was a dramatic turnaround for Sergey, who the day before had lost to Ian Nepomniachtchi after reacting badly to a novelty. In Round 5 Nepo overcame Richard Rapport in Armageddon, while a gamble from Alireza Firouzja paid off with a classical win over Aryan Tari.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-5-karjakin-takes-down-carlsen",
+         "pubDate" : "Mon, 13 Sep 2021 14:32:57 +0000",
+         "title" : "Norway Chess 5: Karjakin takes down Carlsen"
+      },
+      {
+         "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. Meanwhile, Alireza Firouzja also won his classical game and Ian Nepomniachtchi got the better of Richard Rapport in Armageddon. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r5",
+         "pubDate" : "Mon, 13 Sep 2021 15:15:00 +0100",
+         "title" : "Norway Chess: Karjakin takes down Carlsen"
+      },
+      {
+         "description" : "The 12th of September marked the end of the first-ever international tournament held in honour of the great Russian writer Leo Tolstoy. It was won by the tournament rating favorite Anish Giri of the Netherlands, with a remarkable result of 8 out of 9 points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-wins-tolstoy-cup",
+         "pubDate" : "Mon, 13 Sep 2021 14:41:29 +0100",
+         "title" : "Anish Giri wins Tolstoy Cup"
+      },
+      {
+         "description" : "The Indian Men's team consists of GM Abhimany Puranik, GM Venkataraman Karthik, IM Arjun Kalyan and IM A Ra Harikrishnan won the Asian University Men's",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-clinches-the-asian-university-mens-chess-championship-abhimanyu-individual-champion/",
+         "pubDate" : "Mon, 13 Sep 2021 13:22:26 +0000",
+         "title" : "India clinches the Asian University Men's Chess Championship; Abhimanyu Individual Champion"
+      },
+      {
+         "description" : "The World Cup in Sochi 2021 saw a huge number of fascinating endgames, and for his \"Endgame Magic Show #160\" Karsten selected mostly rook endgames. Interesting, instructive, and practically relevant. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-160-endgame-highlights-from-the-world-cup-in-sochi",
+         "pubDate" : "Mon, 13 Sep 2021 14:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
       },
       {
          "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=1\" class=\"js-img\" title=\"Work4Chess",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://bridge.beamian.com/event/475/",
-         "pubDate" : "Mon, 13 Sep 2021 10:57:46 +0100",
+         "pubDate" : "Mon, 13 Sep 2021 11:55:11 +0100",
          "title" : "Work 4 Chess!"
+      },
+      {
+         "description" : "Today, the quarter-finals of the Online Olympiad are being played. Playing: Kazakhstan-USA (11:00 CEST, 5:00 ET, 9:00 UTC), Ukraine-India (13:00 CEST, 7:00 ET, 11:00 UTC), Russia-Hungary (15:30 CEST, 9:30 ET, 13:30 UTC) and China-Poland (17:30 CEST, 11:30 ET, 15:30 UTC). The semi-finals will be played tomorrow and the final on Wednesday. Follow the games live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-olympiade-live",
+         "pubDate" : "Mon, 13 Sep 2021 11:26:28 +0100",
+         "title" : "Online Olympiad: Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Thanks to <strong>Play Magnus Group</strong> of Companies joining <strong>Work4Chess</strong> this Saturday 18 September as a sponsor and exhibitor, <a href=\"https://a.beamian.com/#/event/work4chess\">access to the conference</a> is now free. </div> ",
@@ -58,7 +114,7 @@ news_feed (
          "title" : "Google Customizes Search Results Display with Chess Pieces"
       },
       {
-         "description" : " Share!11 IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!36 IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/",
@@ -71,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-4-finals-fundy-the-beast-are-new-pog-champions",
          "pubDate" : "Sun, 12 Sep 2021 16:27:00 -0700",
-         "title" : "PogChamps 4 Finals: Fundy, The Beast Are New Pog Champions"
+         "title" : "PogChamps 4 Finals: Fundy, MrBeast Are New Pog Champions"
       },
       {
          "description" : "GM Sergey Karjakin wasn&#39;t happy with his play in the opening but, using a long-term exchange sacrifice, eventually defeated GM Magnus Carlsen for the first time in five years in a classical game. In doing so, the Russian GM leapfrogged his opponen...",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://chessimprover.com/queen-and-pawn-v-queen/",
          "pubDate" : "Sun, 12 Sep 2021 18:30:49 +0000",
          "title" : "Queen and Pawn v Queen"
-      },
-      {
-         "description" : "Leader Richard Rapport faces second-placed Ian Nepomniachtchi with the black pieces in round 5 of the Norway Chess Tournament. Meanwhile, world champion Magnus Carlsen plays black against the 2016 challenger for the world crown, Sergey Karjakin. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Sun, 12 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Karjakin beats Carlsen"
       },
       {
          "description" : " The local ABC television station did a quick report in what students were doing to keep busy and engaged during the current Covid lockdown. Chess was one of the activities featured. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/xkWuH_zO7QI\" width=\"320\" youtube-src-id=\"xkWuH_zO7QI\"></iframe></div><br /> <br /> <br /> ",
@@ -338,7 +386,7 @@ news_feed (
          "title" : "Online Olympiad: On to the play-offs"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Sam Shankland after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/amK0I1j1WUs.jpg?itok=MZIBFBWi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-3",
@@ -346,7 +394,7 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Sam Shankland Interview | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/defaul",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Wesley So after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8KDfuRhdCPs.jpg?itok=l5JnL1M5\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-3",
@@ -354,7 +402,7 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Wesley So Interview | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-3\"><img src=\"https://saintlouischessclub.org",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Maxime Vachier-Lagrave after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AX14Lt1Z8e4.jpg?itok=JexYH-a0\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-3",
@@ -362,7 +410,7 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Maxime Vachier-Lagrave Interview | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/d",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Garry Kasparov after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TRmdrxw6RFw.jpg?itok=lpMzTfZh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-3",
@@ -600,14 +648,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-2",
          "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
          "title" : "2021 Champions Showdown | Chess 9LX: Maxime Vachier-Lagrave Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Garry Kasparov after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hSNkAXer9dc.jpg?itok=Pcqgecsi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-2",
-         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Garry Kasparov Interview | Day 2"
       },
       {
          "description" : "",
@@ -1538,14 +1578,6 @@ news_feed (
          "title" : "Harshvardhan wins Gold; Four medals for India in FIDE Online Cadets & Youth Rapid World Cup"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/request-for-expression-for-proposed-chess-league/",
-         "pubDate" : "Thu, 02 Sep 2021 10:14:25 +0000",
-         "title" : "Request for Expression for proposed Chess League"
-      },
-      {
          "description" : "A grand total of five players scored international title norms at the Northumbria Masters Congress, held 26-30 August at the Marriott MetroCentre, Gateshead. The congress...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1680,14 +1712,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/chess-sets-of-well-connected.html",
          "pubDate" : "Tue, 31 Aug 2021 14:12:00 +0000",
          "title" : "Chess sets of the well connected"
-      },
-      {
-         "description" : "Magnus Carlsen stumbled into a draw by 3-fold repetition on move 124 of a winning position against Jan-Krzysztof Duda to make Vladislav Artemiev the winner of the Aimchess US Rapid Prelims. Magnus will now play his World Cup conqueror Duda again in the quarterfinals. The other quarterfinals are Artemiev-Dominguez - a win will put Vladislav in the Meltwater Champions Chess Tour Finals in place of Maxime Vachier-Lagrave - Aronian-Mamedyarov and So-Firouzja, after Maxime Vachier-Lagrave and Anish Giri both missed out.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-3-artemiev-pips-carlsen-mvl-giri-out",
-         "pubDate" : "Tue, 31 Aug 2021 11:11:00 +0000",
-         "title" : "Aimchess US Rapid 3: Artemiev pips Carlsen, MVL & Giri out"
       },
       {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A good number of players like to prepare opening surprises for their future opponents. We have touched this subject a few times here; some choices involved new ideas in well known openings, while others involved off beat or old openings. <a href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Vienna Gambit, Modern Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\">Need s",
@@ -2122,14 +2146,6 @@ news_feed (
          "title" : "Iturrizaga and Vega are the 2021 Spanish champions"
       },
       {
-         "description" : "This week, Merijn van Delft analyses Jeffery Xiong's victory over Fabiano Caruana from the fifth round of the Sinquefield Cup. The game was fairly messy - an oft-seen feature in modern-day chess. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-478-xiong-caruana-sinquefield-cup-2021",
-         "pubDate" : "Wed, 25 Aug 2021 15:30:00 +0100",
-         "title" : "Game of the Week 478: Xiong stuns Caruana"
-      },
-      {
          "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Why I Always Try To Be A Beginner</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2152,22 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1294",
          "pubDate" : "Wed, 25 Aug 2021 10:59:37 +0000",
          "title" : "Day 7: Vachier-Lagrave grabs the lead"
-      },
-      {
-         "description" : "The legend, the 13th World Champion, and arguably the greatest chess player ever, Garry Kasparov, is coming to ChessBase India for the 18th episode of Grandmaster Chess. The livestream will take place on the 25th of August at 6.45 p.m. (3:15 p.m. European time, 9 a.m. New York). Dont't miss it - you can see Garry in relaxed banter with chess amateurs. And he is doing this for a second time! Take a look at how the first session went.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-live-in-chessbase-india",
-         "pubDate" : "Wed, 25 Aug 2021 09:00:00 +0100",
-         "title" : "Kasparov live in ChessBase India!"
-      },
-      {
-         "description" : "In yet another action-packed round in Saint Louis, Maxime Vachier-Lagrave grabbed the sole lead at the Sinquefield Cup by beating Jeffery Xiong from the white side of a Berlin Defence. Fabiano Caruana, who had lost against Xiong in the previous round, bounced back by defeating Shakhriyar Mamedyarov in a double-edged encounter. In the remaining decisive game of the day, Peter Svidler obtained his first win of the event as he got the better of Dariusz Swiercz. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r7",
-         "pubDate" : "Wed, 25 Aug 2021 06:40:00 +0100",
-         "title" : "Sinquefield Cup: Vachier-Lagrave grabs the sole lead"
       },
       {
          "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make progress [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
