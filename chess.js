@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 7, the Hungarian faces Sergey Karjakin with the white pieces, while Nepo plays black Alireza Firouzja. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Tue, 14 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg\" data-image-dimensions=\"320x479\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Anna Muzychuk\" data-load=\"false\" data-image-id=\"6140abc9088eab5f0dff6c37\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Anna Muzychu",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/14/episode-243-gm-anna-muzychuk",
+         "pubDate" : "Tue, 14 Sep 2021 14:05:09 +0000",
+         "title" : "Episode 243- GM Anna Muzychuk "
+      },
+      {
+         "description" : " As is the case with Online Chess, some games are decided by external factors. In the current Online Olympiad players have lost by disconnection, or blundered material through a misclick or mouseslip. On more than one occasion a 'sporting' result has been agreed, which normally leaves everyone involved with a warm and fuzzy feeling inside. That is, until it gets serious. During the knock out stage of the Olympiad there have been a few games where the players have misclicked. Despite suggestions from spectators, there have been no draw offers or repetitions, and the games have ended with a decisive result. As, in my opinion, they should have. Players should not feel pressured to bail out an o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/the-limits-to-sportsmanship.html",
+         "pubDate" : "Tue, 14 Sep 2021 12:28:00 +0000",
+         "title" : "The limits to sportsmanship"
+      },
+      {
+         "description" : "Magnus Carlsen picked up his first classical win of Norway Chess 2021 by beating Alireza Firouzja in Round 6 with a trademark endgame grind. Richard Rapport extended his lead to three points with four rounds to go by outplaying Aryan Tari after a shaky opening, while the only match to go to Armageddon was Karjakin-Nepomniachtchi. Sergey Karjakin has now beaten both the World Champion and his challenger on consecutive days after Ian Nepomniachtchi cracked in a drawn position.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-6-carlsen-storms-back-to-beat-firouzja",
+         "pubDate" : "Tue, 14 Sep 2021 12:09:29 +0000",
+         "title" : "Norway Chess 6: Carlsen storms back to beat Firouzja"
+      },
+      {
+         "description" : " <p class=\"lead\">Finally, a domain name that you can actually remember! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/09765F46-02BB-47D6-891F-2D36CC79636B.jpeg\" width=\"1600\" height=\"784\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena on the new domain, chessarena.com</div> </div> FIDE Online Arena, the official FIDE gaming platform, is busy with getting chess fans to give it a try, but for years we've made users trying to remember a very odd domain name. But we learned the lesson and there will be no more of that. Hence a new domain, chessarena.com: easy to remember and easy to type in your browser (and on a mobile device). <h2>Frequently Asked Questi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-online-arena-changes-domain-name-chessarena-com/",
+         "pubDate" : "Tue, 14 Sep 2021 12:03:23 +0000",
+         "title" : "FIDE Online Arena Makes a Move To a New Domain: Chessarena.com"
+      },
+      {
+         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu Here is a common scenario we are faced with: we have played a good game and still lost. Analyzing the game postmortem is an absolute must. What you should identify <a href=\"https://chessimprover.com/planning-for-victory-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-4/\">Planning for Victory (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/planning-for-victory-4/",
+         "pubDate" : "Tue, 14 Sep 2021 11:29:12 +0000",
+         "title" : "Planning for Victory (4)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1714,14 +1762,6 @@ news_feed (
          "title" : "Girls' National Schools Chess Championship 2022"
       },
       {
-         "description" : "\"I don't get revenge by beating people once,\" said Magnus Carlsen after defeating his World Cup conqueror Jan-Krzysztof Duda 2.5:0.5 on Day 1 of their Aimchess US Rapid quarterfinal. 18-year-old Alireza Firouzja also wrapped things up in three games against Wesley So, while the day's other win saw Levon Aronian defeat Shakhriyar Mamedyarov 3:1 in a swashbuckling match featuring only decisive games. Duda, So and Mamedyarov must now hit back on Wednesday, while Artemiev-Dominguez is tied after a comeback by Vladislav Artemiev.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-4-carlsen-firouzja-aronian-strike",
-         "pubDate" : "Wed, 01 Sep 2021 11:16:26 +0000",
-         "title" : "Aimchess US Rapid 4: Carlsen, Firouzja & Aronian strike"
-      },
-      {
          "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2122,28 +2162,12 @@ news_feed (
          "title" : "Rapid chess in a Bordeaux wine chateau"
       },
       {
-         "description" : "After a quick draw against Mamedyarov, Maxime Vachier-Lagrave won the 2021 Sinquefield Cup, securing clear first place after his closest rivals were unable to catch him in the ninth and final round. MVL is the first two-time clear winner of the event, having also taken first place in the 2017 edition. For his efforts, Vachier-Lagrave earns $90,000 in prize money, as well as a bonus $50,000 for finishing second in the overall Grand Chess Tour. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-live",
-         "pubDate" : "Thu, 26 Aug 2021 14:55:00 +0100",
-         "title" : "Sinquefield Cup - MVL wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1297",
          "pubDate" : "Thu, 26 Aug 2021 13:25:40 +0000",
          "title" : "Chess for Prisons - registration continues"
-      },
-      {
-         "description" : "With all five games drawn on Wednesday, Vachier-Lagrave is leading the Sinquefield Cup, half a point ahead of Caruana, So, and Dominguez heading into the final round. At the same time, American Grandmaster Wesley So has clinched first place in the 2021 Grand Chess Tour, securing a minimum of 7 GCT points from the Sinquefield Cup. He can no longer be mathematically caught in the overall tour standings. For his efforts, So earns the $100,000 first place bonus prize. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r8",
-         "pubDate" : "Thu, 26 Aug 2021 09:45:00 +0100",
-         "title" : "Sinquefield Cup: MVL still leads, So wins Grand Chess Tour"
       },
       {
          "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
@@ -2224,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1291",
          "pubDate" : "Tue, 24 Aug 2021 18:16:50 +0000",
          "title" : "Online Cadets and Youth World Cup Finals are all set"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/s?i=stripbooks&amp;k=pawn%20book%20chess&amp;ref=nb_sb_noss\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg\" data-image-dimensions=\"762x281\" data-image-focal-point=\"0.5,0.5\" alt=\"Which \"pawn book\" should you read?\" data-load=\"false\" data-image-id=\"6125049e4ce1e97943592624\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1629815966665-7SA74NLZ56ZKZPL757TT/Pawn.books2.jpg?format=1000w\" /> </a> <figcaption class=\"image-capt",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/24/episode-240-pawn-book-championship-special-episode-with-neal-bruce",
-         "pubDate" : "Tue, 24 Aug 2021 14:44:50 +0000",
-         "title" : "Episode 240- \"Pawn Book Championship\" Special Episode with Neal Bruce "
       }
    ]
 }
