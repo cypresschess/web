@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sometimes, the trio king, bishop and pawn cannot win against a lone king: if the pawn is a rook pawn, the enemy king makes it to the corner and the bishop does not control the queening sqare of the pawn. Knowing this might help you to save positions that seem to be entire lost. In the diagram position it is White to move and draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-wrong-pawn",
+         "pubDate" : "Tue, 14 Sep 2021 09:01:15 +0100",
+         "title" : "The wrong pawn"
+      },
+      {
          "description" : "Monday, September 13 saw some exciting quarterfinals action in the 2021 FIDE Online Olympiad. As a reminder, last week we had the top division&#39;s matches, from which eight teams qualified. We are now down to the final four teams. The format of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2130,14 +2138,6 @@ news_feed (
          "title" : "Sinquefield Cup: MVL still leads, So wins Grand Chess Tour"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Wood Green Invitational, a 10-player single round robin played in Stafford, England. Ravi Haria impressed by winning the event with a phenomenal 7&frac12;/9 score. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-wood-green-invitational",
-         "pubDate" : "Thu, 26 Aug 2021 09:30:00 +0100",
-         "title" : "The Weekly Show: Wood Green Invitational"
-      },
-      {
          "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2240,14 +2240,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-great-ones-4/",
          "pubDate" : "Tue, 24 Aug 2021 09:00:27 +0000",
          "title" : "The Great Ones (4)"
-      },
-      {
-         "description" : "The EU Youth Chess Championship 2021 concluded in Kouty nad Desnou/Czech Republic on Sunday, August 22nd. The last rounds were full of fights and tension. Vladimir Sofronie (ROU) took the first place in Open U8 category, the second place came to Maksymilian Janeczek (POL) and Stepan Kroulik (CZE) was third. Aleksandra Pehlivanova (BUL) triumphed Girls U8 section, Emma&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/winners-of-european-union-youth-chess-2021-announced/",
-         "pubDate" : "Tue, 24 Aug 2021 06:56:26 +0000",
-         "title" : "Winners of European Union Youth Chess 2021 announced"
       }
    ]
 }
