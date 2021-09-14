@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Monday, September 13 saw some exciting quarterfinals action in the 2021 FIDE Online Olympiad. As a reminder, last week we had the top division&#39;s matches, from which eight teams qualified. We are now down to the final four teams. The format of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-quarterfinals",
+         "pubDate" : "Mon, 13 Sep 2021 17:09:00 -0700",
+         "title" : "FIDE Online Olympiad Quarterfinals: China, India, Russia, USA Advance To Semifinals"
+      },
+      {
          "description" : "GM Richard Rapport increased his lead at Norway Chess to a commanding three points after scoring his third classical win on Monday. The Hungarian GM defeated GM Aryan Tari for the second time. GM Magnus Carlsen is back in third place after scori...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-norway-chess-round-6-carlsen-firouzja-rapport",
-         "pubDate" : "Mon, 13 Sep 2021 16:15:23 -0700",
+         "pubDate" : "Mon, 13 Sep 2021 16:15:00 -0700",
          "title" : "Norway Chess R6: Rapport Extends Lead; Carlsen Wins 1st Classical Game"
       },
       {
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
          "pubDate" : "Sun, 05 Sep 2021 01:15:00 +0100",
          "title" : "European Championship (R10): Demchenko sole leader"
-      },
-      {
-         "description" : "It was another day of sweeps in PogChamps 4 presented by Coinbase, with all three matches going 2-0. 5uppp defeated JakenbakeLIVE after Botez Gambits on each side. QTcinderella, taking down Tectone despite blunders, won confidently in both games...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-5uppp-qt-fundy-win",
-         "pubDate" : "Sat, 04 Sep 2021 17:07:00 -0700",
-         "title" : "PogChamps 4 Day 6: All Wins For 5uppp, QT, Fundy"
       },
       {
          "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-1&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
