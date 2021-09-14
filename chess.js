@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Norway Chess Tournament and the game of the day is Carlsen's endgame masterpiece against Firouzja - winning a seemingly unwinnable position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid-2",
+         "pubDate" : "Tue, 14 Sep 2021 18:24:42 +0100",
+         "title" : "The Weekly Show: A typical Carlsen victory"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> From 2022, Dutch <a href=\"https://www.schaakbond.nl/sites/default/files/userfiles/schaakbond/corona/Instructie%20btw-plicht%20denksportverenigingen.pdf\">chess clubs and events have to pay VAT</a>, unless they claim to be ruled as small enterprises with an annual turnover below €20,000. Mind sports are losing the tax privilege in the Netherlands following a ruling of the <strong>European Court of Justice</strong> in 2017 that Bridge is not a sport for the purposes of the VAT directive, which confirmed the <a href=\"https://eur-lex.europa.eu/content/news/CJ_bridge.html\">rejection of claims</a> of the <strong>English Bridge Union</strong> with support",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/dutch-chess-loses-sport-tax/",
+         "pubDate" : "Tue, 14 Sep 2021 17:45:08 +0100",
+         "title" : "Dutch chess loses sport tax privilege"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1333",
+         "pubDate" : "Tue, 14 Sep 2021 16:43:00 +0000",
+         "title" : "Global Chess Festival brings innovators of the future to Budapest"
+      },
+      {
          "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 7, the Hungarian faces Sergey Karjakin with the white pieces, while Nepo plays black Alireza Firouzja. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-3",
          "pubDate" : "Sat, 11 Sep 2021 20:00:00 +0100",
          "title" : "Leinier Dominguez wins Champions Showdown in Saint Louis"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Maciej Brzeski</strong>, a 2358-rated machine learning specialist from Cracow, won the <strong>Pentamind World Champion</strong> title for the <a href=\"https://mindsportsolympiad.com/pentamind-world-championship/\">best player across different strategy games</a> at the <strong>Mind Sports Olympiad</strong> that was held online for the second time. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/maciej-brzeski-is-best-strategy/",
-         "pubDate" : "Sat, 11 Sep 2021 19:19:04 +0100",
-         "title" : "Maciej Brzeski is best strategy player"
       },
       {
          "description" : " The headline is a reference someone's joke - Hans Kmoch's, I think - about the 1963/4 U.S. Championship. Bobby Fischer went 11-0, while Larry Evans was second with something like 7.5 points. Kmoch congratulated Evans on winning the tournament and Fischer on winning the exhibition, as if he had been giving a simul to amateurs. Well, after day 1 of the <a href=\"https://ruchess.ru/en/\">Leo Tolstoy Cup</a> (so named because the event is being held at the writer's estate, and not because it runs far longer than necessary*) something similar is afoot. After five of the nine rounds of this rapid tournament, Anish Giri is 5-0, while his closest pursuers - six of them, and they're not fish - have 2.",
@@ -2154,14 +2170,6 @@ news_feed (
          "title" : "U.S. Women's Championships: Stats and records"
       },
       {
-         "description" : "The region of Saint Emilion near Bordeaux is renowned for producing some of the world's finest wines. Hundreds of hectares of vineyards belonging to different domains dominate the landscape. One of these enchanting wine estates was the venue of a rapid chess tournament held on August 22. The 77 participants played the nine-round event in the midst of giant metal tanks and hundreds of wine barrels at the Château Montaiguillon. | Pictured: Maxime Lagarde and Mathieu Cornette | Photo: Thibault Plaire",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-chess-in-a-bordeauz-wine-chateau",
-         "pubDate" : "Thu, 26 Aug 2021 15:10:00 +0100",
-         "title" : "Rapid chess in a Bordeaux wine chateau"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1292",
          "pubDate" : "Tue, 24 Aug 2021 19:49:56 +0000",
          "title" : "Winners crowned at EU Youth Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1291",
-         "pubDate" : "Tue, 24 Aug 2021 18:16:50 +0000",
-         "title" : "Online Cadets and Youth World Cup Finals are all set"
       }
    ]
 }
