@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/09/Nominations.pdf#new_tab",
+         "pubDate" : "Tue, 14 Sep 2021 11:00:32 +0000",
+         "title" : "Nominations for Elections at the 2021 AGM"
+      },
+      {
+         "description" : "Today, the semifinals of the Online Olympiad are being played. China faces Russia (12:00 CEST, 6:00 ET, 10:00 UTC) and India meets the USA (17:30 CEST, 11:30:00 ET, 15:30 UTC). The finals will be played tomorrow, on Wednesday. Follow the games live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-olympiade-live",
+         "pubDate" : "Tue, 14 Sep 2021 11:30:28 +0100",
+         "title" : "Online Olympiad, Semifinals: Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Bids for eight European chess championships 2023 can be <a href=\"https://www.europechess.org/call-for-bids-2023-european-championships\">submitted until 1 October through the national federations.</a> For the <strong>European Individual Championship</strong> and the biannual <strong>European Team Championship</strong> the <strong>European Chess Union</strong> requires combined bids. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/ecu-calls-bids-for-2023/",
+         "pubDate" : "Tue, 14 Sep 2021 11:08:04 +0100",
+         "title" : "ECU calls bids for 2023"
+      },
+      {
+         "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). The Hungarian star beat Aryan Tari with the white pieces in round 6. Magnus Carlsen also won his classical game, while Sergey Karjakin got the better of Nepomniachtchi in Armageddon. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r6",
+         "pubDate" : "Tue, 14 Sep 2021 10:40:00 +0100",
+         "title" : "Norway Chess: Rapport extends his lead"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=4\" class=\"js-img\" title=\"Work4Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://bridge.beamian.com/event/475/",
+         "pubDate" : "Tue, 14 Sep 2021 09:24:04 +0100",
+         "title" : "Work 4 Chess!"
+      },
+      {
+         "description" : " <p class=\"lead\">Sergey Karjakin, the 2016 challenger, had beaten the World Champion, Magnus Carlsen, in a classical game in Round 5 of the <a href=\"https://norwaychess.no/en/\">Norway Chess Tournament</a>. In the next round, he defeated the 2021 challenger, Ian Nepomniachtchi, in the Armageddon game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/241853433_4439909929401681_5046324048729064120_n-min.jpg\" width=\"2048\" height=\"1256\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes</div> </div> Carlsen chose to play safe with black, and went for the Sicilian Sveshnikov, an opening that he used in his 2018 match against Fabiano Caruana. After 17 moves of",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/norway-chess-karjakin-beats-the-world-champion-and-his-challenge/",
+         "pubDate" : "Tue, 14 Sep 2021 08:17:37 +0000",
+         "title" : "Norway Chess: Karjakin beats the World Champion and his challenger in two days"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"https://buytickets.at/chesstech/578937\">https://buytickets.at/chesstech/578937</a></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/chessable-classroom.png?v=1\" class=\"js-img\" title=\"Chessable Classroom chessable.com\" dat",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://buytickets.at/chesstech/578937",
+         "pubDate" : "Tue, 14 Sep 2021 09:02:32 +0100",
+         "title" : "Teaching Beginners with Classroom"
+      },
+      {
          "description" : "Sometimes, the trio king, bishop and pawn cannot win against a lone king: if the pawn is a rook pawn, the enemy king makes it to the corner and the bishop does not control the queening sqare of the pawn. Knowing this might help you to save positions that seem to be entire lost. In the diagram position it is White to move and draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1331",
          "pubDate" : "Mon, 13 Sep 2021 19:38:17 +0000",
          "title" : "The semi-finals are served: India-USA and China-Russia"
-      },
-      {
-         "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Mon, 13 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "India entered the Semi Final of the ongoing World Online Chess Olympiad after beating Ukraine in the Quarterfinal. The exciting match was decided in the",
@@ -114,23 +162,7 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=3\" class=\"js-img\" title=\"Work4Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://bridge.beamian.com/event/475/",
-         "pubDate" : "Mon, 13 Sep 2021 11:55:11 +0100",
-         "title" : "Work 4 Chess!"
-      },
-      {
-         "description" : "Today, the quarter-finals of the Online Olympiad are being played. Playing: Kazakhstan-USA (11:00 CEST, 5:00 ET, 9:00 UTC), Ukraine-India (13:00 CEST, 7:00 ET, 11:00 UTC), Russia-Hungary (15:30 CEST, 9:30 ET, 13:30 UTC) and China-Poland (17:30 CEST, 11:30 ET, 15:30 UTC). The semi-finals will be played tomorrow and the final on Wednesday. Follow the games live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-olympiade-live",
-         "pubDate" : "Mon, 13 Sep 2021 11:26:28 +0100",
-         "title" : "Online Olympiad: Live"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Thanks to <strong>Play Magnus Group</strong> of Companies joining <strong>Work4Chess</strong> this Saturday 18 September as a sponsor and exhibitor, <a href=\"https://a.beamian.com/#/event/work4chess\">access to the conference</a> is now free. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Thanks to <strong>Play Magnus Group</strong> of Companies joining <strong>Work4Chess</strong> this Saturday 18 September as a sponsor and exhibitor, <a href=\"https://a.beamian.com/#/event/work4chess\">access to the conference</a> is now free. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">18 Sep 2021</span> 10.00-18.00 h: <a href=\"https://www.chesstech.org/events/2021/work4chess/\">Work 4 Chess!</a></li> </ul> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/work4chess-free-thanks-to-play/",
@@ -290,14 +322,6 @@ news_feed (
          "title" : "Pogchamps 4 Playoffs Day 3: Fundy, Crokeyz Play For Championship; MrBeast Distracts His Way Into Consolation Final"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"https://buytickets.at/chesstech/578937\">https://buytickets.at/chesstech/578937</a></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Introduction to the free video chess teaching tool with Luciana Morales (Chessable) </div> In this free webinar WIM Luciana Morales (Ch",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://buytickets.at/chesstech/578937",
-         "pubDate" : "Sat, 11 Sep 2021 22:21:40 +0100",
-         "title" : "Teaching Beginners with Classroom"
-      },
-      {
          "description" : "Four players reached the final round of the Champions Showdown tournament tied for first place. Only Leinier Dominguez managed to score a win in his last game, though, and thus claimed clear first place and $37,500 in prize money. Garry Kasparov was among the four players sharing the lead after eight rounds, but a loss against Maxime Vachier-Lagrave left him in fifth place in the final standings. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/9/11/norway-chess-2021-carlsen-wins-every-round-but-rapport-leads.html",
          "pubDate" : "Sat, 11 Sep 2021 17:06:39 +0000",
          "title" : "Norway Chess 2021: Carlsen Wins Every Round, but Rapport Leads the Tournament at the Rest Day"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Swedens national TV network <strong>SVT</strong> will <a href=\"https://schack.se/nyhet/sverige/2021/09/extra-schackduell-i-svt-grandelius-mot-sverige/\">broadcast a full evening of chess</a> on 14 November. The highlight will be <strong>Schackm&auml;staren vs Sverige</strong>, a match between top player <strong>Nils Grandelius</strong> and the audience that votes for its next move via SVT's Duo app. Star streamer <strong>Anna Cramling</strong> will commentate. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chess-evening-on-swedish-public-tv/",
-         "pubDate" : "Sat, 11 Sep 2021 17:29:08 +0100",
-         "title" : "Chess evening on Swedish public TV"
       },
       {
          "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
@@ -1970,14 +1986,6 @@ news_feed (
          "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
       },
       {
-         "description" : "The finals for the Open, Women's, Seniors' and Juniors' Standardplay Championships will be held at venues in Hull and Milton Keynes in early October, subject...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championship-2021/",
-         "pubDate" : "Sat, 28 Aug 2021 10:01:38 +0000",
-         "title" : "British Chess Championship 2021"
-      },
-      {
          "description" : "\"One of my biggest wishes in recent years was to host a tournament and contribute to the development of chess in our region and our country (Ukraine),\" writes Anna Muzychuk. She and her younger sister Mariya, who was the 2015 Women's World Chess Champion, succeeded in holding the first Muzychuk Sisters' Cup. Pictorial report from Anna.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2224,22 +2232,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/24/episode-240-pawn-book-championship-special-episode-with-neal-bruce",
          "pubDate" : "Tue, 24 Aug 2021 14:44:50 +0000",
          "title" : "Episode 240- \"Pawn Book Championship\" Special Episode with Neal Bruce "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1290",
-         "pubDate" : "Tue, 24 Aug 2021 10:27:23 +0000",
-         "title" : "Three in the lead after Round 6"
-      },
-      {
-         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal GM Evgeny Sveshnikov (11 Feb 1950 18 Aug 2021) lives on through the games played using the Sicilian Sveshnikov by players from all over the World. I am one of those players. It started back in the early 90s when I felt the urge to <a href=\"https://chessimprover.com/the-great-ones-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-4/\">The Great Ones (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-great-ones-4/",
-         "pubDate" : "Tue, 24 Aug 2021 09:00:27 +0000",
-         "title" : "The Great Ones (4)"
       }
    ]
 }
