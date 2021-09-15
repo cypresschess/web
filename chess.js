@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Madhvendra Pratap Sharma of Madhya Pradesh in Open and Pooja Shree R of Tamilnadu won the National Under-8 titles on Sunday. Sharma scored 10.5 points",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/madhvendra-pratap-sharma-and-pooja-shree-national-under-8-champions/",
+         "pubDate" : "Wed, 15 Sep 2021 10:28:33 +0000",
+         "title" : "Madhvendra Pratap Sharma and Pooja Shree National Under-8 Champions"
+      },
+      {
+         "description" : "Even if it is from before your time, any chess player will know there was a time when standalone machines were the dominant computer opponents, ranging from compact plastic jobs to large wooden boards to fill any player with envy. That time is gone, and many of the machines are disappearing, but you can play any one of them, free, thanks to the amazing chess emulators.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-wonderful-world-of-chess-machine-emulators",
+         "pubDate" : "Wed, 15 Sep 2021 10:00:00 +0100",
+         "title" : "The wonderful world of chess machine emulators"
+      },
+      {
+         "description" : "The International Children and Youth Festival «ChessYes » is an official side event to the FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021 to be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-children-and-youth-festival/",
+         "pubDate" : "Wed, 15 Sep 2021 08:06:09 +0000",
+         "title" : "International Children and Youth Festival"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Armenian online academy <strong>ChessMood</strong> has raised an undisclosed amount from investors, including their early student <strong>Badreddine Ouali</strong>, founder of the <strong>Vermeg</strong> group that specializes in insurance software. ChessMood sponsors a <a href=\"https://open.chessmood.com/en/\">strong open tournament</a> on 4-12 October in the Armenian resort town Tsaghkadzor. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessmood-celebrates-expansion-with/",
+         "pubDate" : "Wed, 15 Sep 2021 08:27:40 +0100",
+         "title" : "ChessMood celebrates expansion with open"
+      },
+      {
          "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/online-chess-olympiad-india-lose-to-usa-in-semis/",
          "pubDate" : "Wed, 15 Sep 2021 03:30:19 +0000",
-         "title" : "Online Chess Olympiad; India lose to USA in semis"
+         "title" : "Online Chess Olympiad: India lose to USA in semis; settled for Bronze"
       },
       {
          "description" : " Good news for Magnus Carlsen fans: after a listless first half of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament (four draws and a loss in classical chess), he has won his first two games in the second cycle (against Alireza Firouzja and Aryan Tari) and has jumped from a tie for fourth into clear second. And Carlsen fans with a touch of schadenfreude may also take a little perverse pleasure in his rival's difficulties: Ian Nepomniachtchi was in clear second at the halfway point, but after a draw and an Armageddon loss to Sergey Karjakin in round 6 and a loss to Firouzja in round 7, he finds himself in third, barely ahead of Firouzja and Karjakin. So from the standpoint",
@@ -352,14 +384,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/9/12/giri-wins-the-tolstoy-cup.html",
          "pubDate" : "Sun, 12 Sep 2021 19:50:15 +0000",
          "title" : "Giri Wins the Tolstoy Cup"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In what is probably his last classical chess event before the world championship match, <strong>Magnus Carlsen</strong> has scored only four draws, no win and <a href=\"https://chess24.com/en/watch/live-tournaments/norway-chess-2021/9/1/1\">suffered one loss against Sergey Karjakin</a> during the first half of <strong>NorwayChess</strong>. His challenger <strong>Ian Nepomniachtchi</strong> is performing solidly so far with one win and four draws. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-out-of-form/",
-         "pubDate" : "Sun, 12 Sep 2021 19:44:25 +0100",
-         "title" : "Carlsen out of form"
       },
       {
          "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "Iniyan wins Noisiel International Open 2021"
       },
       {
-         "description" : "As part of the development plan for the North-Eastern States, the North-Eastern State Online Chess Championship got off to rousing start today at Tornelo Online",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/north-eastern-state-online-chess-championship-begins/",
-         "pubDate" : "Fri, 03 Sep 2021 16:48:22 +0000",
-         "title" : "North-Eastern State Online Chess Championship begins"
-      },
-      {
          "description" : " Last week, we examined the concept of attackers and defenders from the attacker's point of view. This week we'll briefly look at being a defender, how to defend against middle-game attacks, and when to give up on the defense of a position. The principle of attacking and defending is relatively simple; when attacking, have more <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\">A Foundation for Beginners Thirty Three</a> appeared first on <a rel=\"n",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-fide-arbiter-title/",
          "pubDate" : "Tue, 31 Aug 2021 08:45:46 +0000",
          "title" : "New FIDE Arbiter title for Hok Chiu"
-      },
-      {
-         "description" : "Starter Round results &#8212; Starter Periodical Table 2021-2022 &#124; Starter Solutions Submitted 2021-2022",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-results/",
-         "pubDate" : "Tue, 31 Aug 2021 08:27:48 +0000",
-         "title" : "Winton British Chess Solving Championship results"
       },
       {
          "description" : "",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "European Chess Championship 2021 kicked off in Reykjavik"
       },
       {
-         "description" : "What is it that separates chess from a game like baseball? One answer is \"the statistics\". While baseball fans have a dazzling variety of stats to pore over, chess reporting has tended to focus on the individual games and events rather than overall numbers. With a new book on the U.S. Women's Champions on the horizon, it's a good time to look at the records of this tournament series. | Pictured: Mona May Karff playing White against Mary Bain at the 1956 Pan American Championship. | Photo: Nancy Roos / Collection of the World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-womens-championships-stats-and-records",
-         "pubDate" : "Thu, 26 Aug 2021 19:30:00 +0100",
-         "title" : "U.S. Women's Championships: Stats and records"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1295",
          "pubDate" : "Wed, 25 Aug 2021 12:20:04 +0000",
          "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1294",
-         "pubDate" : "Wed, 25 Aug 2021 10:59:37 +0000",
-         "title" : "Day 7: Vachier-Lagrave grabs the lead"
       }
    ]
 }
