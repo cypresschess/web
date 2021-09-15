@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana's Smart Moves conquers some easier, advanced, and even high level examples for getting better at chess. Sometimes it is good to take a huge leap back, and start with the absolute basics. Probably everybody has heard of the \"Philidor Position\" and \"building a bridge\", and some players might even know these positions by heart. Unfortunately, Arne is confronted with these postions for the first time in his life, and fails miserably. This episode is especially for people who have trouble with rook endings as they will learn and never forget these important concepts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-13",
+         "pubDate" : "Wed, 15 Sep 2021 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Rook endgames you HAVE to know"
+      },
+      {
+         "description" : "Richard Rapport has a 3&frac12;-point lead over Magnus Carlsen with three rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 8, the Hungarian faces the world champion with the black pieces in a crucial encounter. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Wed, 15 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "There were three decisive games in the seventh round of the Norway Chess Tournament. Richard Rapport defended his lead with a win over Segery Karjakin. Alireza Firouzja staked a claim as the next world challenger with a win over Ian Nepomniachtchi, while Magnus Carlsen gave another endgame lesson against Aryan Tari. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r7",
+         "pubDate" : "Wed, 15 Sep 2021 16:30:00 +0100",
+         "title" : "Norway Chess: Rapport wins again"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#new_tab",
+         "pubDate" : "Wed, 15 Sep 2021 14:47:19 +0000",
+         "title" : "Election Addresses - AGM 2021"
+      },
+      {
+         "description" : "\"I'm probably the luckiest I've ever been,\" said Richard Rapport, as the Hungarian outplayed Sergey Karjakin to take a 3.5-point lead at Norway Chess and climb to world no. 6, above Alexander Grischuk, Anish Giri and Wesley So. Magnus Carlsen has the white pieces against Richard in Round 8 and could cut the gap to half a point after squeezing out another win, this time against Aryan Tari. Meanwhile Alireza Firouzja bounced back to defeat World Championship Challenger Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-7-carlsen-rapport-firouzja-all-win",
+         "pubDate" : "Wed, 15 Sep 2021 13:27:55 +0000",
+         "title" : "Norway Chess 7: Carlsen, Rapport & Firouzja all win"
+      },
+      {
+         "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/speaking-of-mouseslips.html",
+         "pubDate" : "Wed, 15 Sep 2021 12:51:00 +0000",
+         "title" : "Speaking of mouseslips"
+      },
+      {
          "description" : "Madhvendra Pratap Sharma of Madhya Pradesh in Open and Pooja Shree R of Tamilnadu won the National Under-8 titles on Sunday. Sharma scored 10.5 points",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -90,14 +138,6 @@ news_feed (
          "title" : "Dutch chess loses sport tax privilege"
       },
       {
-         "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 7, the Hungarian faces Sergey Karjakin with the white pieces, while Nepo plays black Alireza Firouzja. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Tue, 14 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Rapport beats Karjakin"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg\" data-image-dimensions=\"320x479\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Anna Muzychuk\" data-load=\"false\" data-image-id=\"6140abc9088eab5f0dff6c37\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Anna Muzychu",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -144,14 +184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/09/Nominations.pdf#new_tab",
          "pubDate" : "Tue, 14 Sep 2021 11:00:32 +0000",
          "title" : "Nominations for Elections at the 2021 AGM"
-      },
-      {
-         "description" : "Today, the semifinals of the Online Olympiad are being played. China faces Russia (12:00 CEST, 6:00 ET, 10:00 UTC) and India meets the USA (17:30 CEST, 11:30:00 ET, 15:30 UTC). The finals will be played tomorrow, on Wednesday. Follow the games live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-olympiade-live",
-         "pubDate" : "Tue, 14 Sep 2021 11:30:28 +0100",
-         "title" : "Online Olympiad, Semifinals: Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Bids for eight European chess championships 2023 can be <a href=\"https://www.europechess.org/call-for-bids-2023-european-championships\">submitted until 1 October through the national federations.</a> For the <strong>European Individual Championship</strong> and the biannual <strong>European Team Championship</strong> the <strong>European Chess Union</strong> requires combined bids. </div> ",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "Kasimdzhanov after ending collaboration with Caruana: \"It has a lot to do with the pandemic\""
       },
       {
-         "description" : "18-year-old Alireza Firouzja is in his first Meltwater Champions Chess Tour semi-final after surviving a thrilling comeback to beat Wesley So in blitz tiebreaks. Alireza will now play Vladislav Artemiev, whose victory over Leinier Dominguez also qualified him for the Finals of the Tour in place of Maxime Vachier-Lagrave. Magnus Carlsen and Levon Aronian play the other semi-final after both won with a game to spare, though Magnus got an a shock when he realised he'd blundered a pawn to Jan-Krzysztof Duda in a game he still went on to win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-5-firouzja-takes-down-so",
-         "pubDate" : "Thu, 02 Sep 2021 11:37:01 +0000",
-         "title" : "Aimchess US Rapid 5: Firouzja takes down So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1848,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/",
          "pubDate" : "Tue, 31 Aug 2021 10:12:24 +0000",
          "title" : "Need sure points? Vienna Gambit, Modern Variation Edition"
-      },
-      {
-         "description" : "Many congratulations to Hok Chiu, who has recently been awarded the title of FIDE Arbiter!",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-fide-arbiter-title/",
-         "pubDate" : "Tue, 31 Aug 2021 08:45:46 +0000",
-         "title" : "New FIDE Arbiter title for Hok Chiu"
       },
       {
          "description" : "",
@@ -2154,14 +2170,6 @@ news_feed (
          "title" : "Maxime Vachier-Lagrave wins Sinquefield Cup 2021"
       },
       {
-         "description" : "Maxime Vachier-Lagrave got clear first place at the Sinquefield Cup after all five games finished drawn in round 9 - i.e. none of the chasers managed to catch up with him in the last hurdle. Thanks to his performance in Saint Louis, MVL returned to the top 10 in the world ranking and grabbed second place in this year's Grand Chess Tour. Wesley So, Fabiano Caruana and Leinier Dominguez finished a half point back. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-r9",
-         "pubDate" : "Fri, 27 Aug 2021 08:10:00 +0100",
-         "title" : "Maxime Vachier-Lagrave wins the 2021 Sinquefield Cup"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85680551.cms\" />Indian Grandmaster S P Sethuraman won the Barcelona Open chess tournament title here while compatriot Karthikeyan Murali finished third.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2208,22 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1296",
          "pubDate" : "Wed, 25 Aug 2021 16:43:07 +0000",
          "title" : "Iturrizaga and Vega win 2021 Spanish Championship"
-      },
-      {
-         "description" : " Meeting friends from school (or old chess) days is always an interesting experience. Some friends I can barely recognize because they matured, learned, and improved so much. Others have the exact same opinions, viewpoints and are stuck in life. But why do some seem to absorb new things like a sponge and steadily improve, while [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginners-mind/\">Why I Always Try To Be A Beginner</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/beginners-mind/",
-         "pubDate" : "Wed, 25 Aug 2021 14:00:00 +0000",
-         "title" : "Why I Always Try To Be A Beginner"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1295",
-         "pubDate" : "Wed, 25 Aug 2021 12:20:04 +0000",
-         "title" : "European Individual Chess Championship 2021 starts in Reykjavik"
       }
    ]
 }
