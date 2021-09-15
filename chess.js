@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes another look at the impressive performance of Richard Rapport at the Norway Chess Tournament, focusing on Rapport's fine win against Sergey Karjakin in round 7. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-481-r-rapport-vs-s-karjakin",
+         "pubDate" : "Wed, 15 Sep 2021 19:00:00 +0100",
+         "title" : "Game of the Week 481: R. Rapport vs S. Karjakin"
+      },
+      {
+         "description" : "GM Rustam Khusnutdinov won Titled Tuesday on September 14 by a full point with a score of 10.5/11. GM Rasmus Svane scored a sole second-place finish with 9.5/11 ahead of six players tied with 9/11. In third on tiebreaks was GM Arseniy Nesterov and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/khusnutdinov-wins-september-14-titled-tuesday",
+         "pubDate" : "Wed, 15 Sep 2021 10:53:23 -0700",
+         "title" : "Khusnutdinov Wins September 14 Titled Tuesday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86240272.cms\" />India's run at the FIDE online Olympiad concluded with a loss to USA in the semifinals on Tuesday night. The defeat meant that India will settle for the bronze medal along with China who had lost to Russia in the other semifinal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-suffered-from-nerves-at-the-crunch-anand/articleshow/86240272.cms",
+         "pubDate" : "Wed, 15 Sep 2021 23:11:22 +0530",
+         "title" : "Indian players suffered from nerves at the crunch: Anand"
+      },
+      {
+         "description" : "Today, the finals of the Online Olympiad will be played: In the double-round final, Russia will play the USA. Russia is favorite, but the US team has already surprised against India. Match 1 starts at 18:30 CEST (12:30 ET, 16:30 UTC), match 2 begins at 19:30 CEST (13:30 ET, 17:30 UTC). If necessary, the play-off match will beginn at 20:30 CEST (14:30 ET, 18:30 UTC). Follow the games live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-olympiade-live",
+         "pubDate" : "Wed, 15 Sep 2021 18:15:28 +0100",
+         "title" : "Online Olympiad, Finals: Live"
+      },
+      {
+         "description" : " Everybody knows the feeling. You are having a great position against a strong opponent and you start to feel the excitement. Your heartbeat is raising and your mind is going crazy. &#8220;Imagine winning this game!&#8221; you start to think. Following this thought, you start to imagine different scenarios: the congratulation of your friends, the effect [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/\">Excitement Costs You Dearly Don't Celebrate Before The Game Is Over</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/",
+         "pubDate" : "Wed, 15 Sep 2021 16:00:00 +0000",
+         "title" : "Excitement Costs You Dearly - Don't Celebrate Before The Game Is Over"
+      },
+      {
          "description" : "Svitlana's Smart Moves conquers some easier, advanced, and even high level examples for getting better at chess. Sometimes it is good to take a huge leap back, and start with the absolute basics. Probably everybody has heard of the \"Philidor Position\" and \"building a bridge\", and some players might even know these positions by heart. Unfortunately, Arne is confronted with these postions for the first time in his life, and fails miserably. This episode is especially for people who have trouble with rook endings as they will learn and never forget these important concepts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-r7",
          "pubDate" : "Wed, 15 Sep 2021 16:30:00 +0100",
          "title" : "Norway Chess: Rapport wins again"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Clubs and leagues are returning, but uncertainties remain. How different European federations are coping, is reported by <em>Stefan L&ouml;ffler</em> </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/jeugdnl.1920.jpeg\" title=\"In the Netherlands, chess can be played without masks, here at the Youth Championship. https://njsk.nl/\" data-title=\"In the Netherlands, chess can be played without masks, here at the Youth Championship. (https://njsk.nl/)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/jeugdnl.480.jpeg\" alt=\"In the Netherlands, chess can be played without mask",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/back-to-life/",
+         "pubDate" : "Wed, 15 Sep 2021 16:27:19 +0100",
+         "title" : "Back to life"
       },
       {
          "description" : "",
@@ -336,14 +384,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/work4chess-free-thanks-to-play/",
          "pubDate" : "Mon, 13 Sep 2021 10:42:07 +0100",
          "title" : "Work4Chess free thanks to Play Magnus sponsorship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andrea Graus Ferrer</strong>, a historian of science and knowledge from Barcelona, will discuss her research on \"The child prodigy as a global celebrity: the chess wonder Samuel Reshevsky\", <a href=\"https://www.tandfonline.com/doi/full/10.1080/19392397.2021.1965895\">published in an open access journal</a>, at the free <a href=\"https://bridge.beamian.com/event/475/sessions/session/5954\">Work4Chess Conference</a> on 18 September with Indian coach <strong>R.B.Ramesh</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/historical-case-study-on-reshevsky/",
-         "pubDate" : "Mon, 13 Sep 2021 10:38:03 +0100",
-         "title" : "Historical case study on Reshevsky"
       },
       {
          "description" : "The Live Database is the full database by ChessBase, stored online, that can be searched from both the ChessBase program, as well as the browser. With it you can search for any position, player, tournament, or game, and see all the statistics such as the win/loss percentage, the Live Book data, and even search with an engine, all straight from the browser. Read on to learn more!",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "What is a Cloud Database. And how to use it."
       },
       {
-         "description" : "With Division 2 wrapped up, the 2021 FIDE Online Olympiad is ready for the Top Division, to be played September 8-10. Fifteen qualifiers&#38;mdash;Argentina, Belarus, Brazil, Colombia, Cuba, Ecuador, Indonesia, Israel, Italy, Latvia, Moldova, Philippi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-2",
-         "pubDate" : "Mon, 06 Sep 2021 07:34:00 -0700",
-         "title" : "FIDE Online Olympiad Ready For Top Division"
-      },
-      {
          "description" : "A total of fifty-six English chess coaches attended the FIDE Trainers Seminar held online over the weekend of 3rd-5th September, which featured lectures by such...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2138,28 +2170,12 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty Two"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at an instructive game in the London System. German GM Alexander Donchenko sacrificed his pawn on b7 to develop a massive initiative. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-the-london-system",
-         "pubDate" : "Fri, 27 Aug 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Beating the London System"
-      },
-      {
          "description" : " Frenchman's opening skills impress at prestigious Sinquefield Cup as all games drawn in three of the last four rounds Maxime Vachier-Lagrave, 30, France's top player and the world No 10, edged out three US rivals by half a point on Thursday night to capture the $90,000 first prize at America's most important international event, the annual Sinquefield Cup in St Louis. The Sinquefield had begun promisingly with a wave of attacking chess in the first three rounds, but then subsided as all five games in rounds six, eight and nine were drawn. <a href=\"https://www.chessbomb.com/arena/2021-grand-chess-tour-sinquefield-cup/09-Mamedyarov_Shakhriyar-Vachier_Lagrave_Maxime\">Vachier-Lagrave's halved f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/aug/27/chess-maxime-vachier-lagrave-edges-us-rivals-st-louis-sinquefield-cup-amid-glut-draws",
          "pubDate" : "Fri, 27 Aug 2021 14:34:23 +0000",
          "title" : "Chess: Vachier-Lagrave edges US rivals in St Louis amid glut of draws"
-      },
-      {
-         "description" : "In an exclusive interview with Tatiana Flores, 6-time French women's champion Sophie Milliet talks about the benefits chess has brought her, some of her most important tournaments and games, her efforts to support female players in chess, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-im-sophie-milliet",
-         "pubDate" : "Fri, 27 Aug 2021 15:00:00 +0100",
-         "title" : "Interview with IM Sophie Milliet"
       },
       {
          "description" : "",
@@ -2200,22 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3.html",
          "pubDate" : "Wed, 25 Aug 2021 23:26:00 +0000",
          "title" : "2021 Online Olympiad Div 3"
-      },
-      {
-         "description" : " Burundi became a member of FIDE in 1999, two years after launching the chess federation known as &#8220;F&eacute;d&eacute;ration de Jeu d'Echecs du Burundi&#8221; or the acronym, FECHEBU. On August 15th, they had their elections and Wilfried Ntamatungiro received 17/24 votes to become the incoming President. Formerly the rating official of FECHEBU, he will take the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/\">Burundi's Chess President, Wilfried Ntamatungiro</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/25/burundis-chess-president-wilfried-ntamatungiro/",
-         "pubDate" : "Wed, 25 Aug 2021 17:20:44 +0000",
-         "title" : "Burundi's Chess President, Wilfried Ntamatungiro"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1296",
-         "pubDate" : "Wed, 25 Aug 2021 16:43:07 +0000",
-         "title" : "Iturrizaga and Vega win 2021 Spanish Championship"
       }
    ]
 }
