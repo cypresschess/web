@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Good news for Magnus Carlsen fans: after a listless first half of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament (four draws and a loss in classical chess), he has won his first two games in the second cycle (against Alireza Firouzja and Aryan Tari) and has jumped from a tie for fourth into clear second. And Carlsen fans with a touch of schadenfreude may also take a little perverse pleasure in his rival's difficulties: Ian Nepomniachtchi was in clear second at the halfway point, but after a draw and an Armageddon loss to Sergey Karjakin in round 6 and a loss to Firouzja in round 7, he finds himself in third, barely ahead of Firouzja and Karjakin. So from the standpoint",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/14/norway-chess-rounds-6-7-carlsen-awakens-but-rapport-keeps-wi.html",
+         "pubDate" : "Tue, 14 Sep 2021 23:10:39 +0000",
+         "title" : "Norway Chess, Rounds 6 & 7: Carlsen Awakens, but Rapport Keeps Winning"
+      },
+      {
+         "description" : "For the first time, the Norway Chess tournament saw three decisive classical games and therefore no armageddons. GM Richard Rapport defeated GM Sergey Karjakin to jump to world number-six in the live ratings. He is now 3.5 points ahead of the ne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-7",
+         "pubDate" : "Tue, 14 Sep 2021 15:08:00 -0700",
+         "title" : "Norway Chess R7: Rapport Moves To World Number 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1334",
+         "pubDate" : "Tue, 14 Sep 2021 20:49:17 +0000",
+         "title" : "USA and RUSSIA square off in the final"
+      },
+      {
+         "description" : "By Tuesday, September 14 we only had the four strongest teams left in the 2021 FIDE Online Olympiad: China, Russia, India, and the USA. It was a truly exciting semifinal to expect, and what happened didn&#39;t let spectators down in terms of excitemen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-semifinals",
+         "pubDate" : "Tue, 14 Sep 2021 13:25:00 -0700",
+         "title" : "FIDE Online Olympiad Semifinals: Russia, USA Advance To Finals"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Norway Chess Tournament and the game of the day is Carlsen's endgame masterpiece against Firouzja - winning a seemingly unwinnable position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1250,14 +1282,6 @@ news_feed (
          "title" : "Western Asian Online Youth Chess Championship : Registration Details (UNDER-8)"
       },
       {
-         "description" : "All sweeps once again in PogChamps 4 presented by Coinbase, with every match going 2-0. Crokeyz defeated Punz with two queen captures. Harry Mack played way above his level, but boxbox still won both games solidly, and MrBeast showed huge endgam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-mrbeast-endgame-genius",
-         "pubDate" : "Sun, 05 Sep 2021 18:02:00 -0700",
-         "title" : "PogChamps 4 Day 7: MrBeast Is Endgame Genius"
-      },
-      {
          "description" : " Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1280,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1318",
          "pubDate" : "Sun, 05 Sep 2021 20:28:39 +0000",
          "title" : "Carlsen hits target to win Aimchess US Rapid"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the online Aimchess U.S. Rapid tournament on Sunday, securing a $30,000 paycheck. The world champion called it &#34;a fairly smooth ride&#34; as he also won the final&#39;s second match against GM Vladislav Artemiev, scoring 2.5-0.5. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2021-aimchess-us-rapid",
-         "pubDate" : "Sun, 05 Sep 2021 12:25:00 -0700",
-         "title" : "Carlsen Wins Aimchess U.S. Rapid: \"A Fairly Smooth Ride\""
       },
       {
          "description" : "Division Two came to a close on Saturday with some very exciting last-round matches, deciding the three winners of each group. Although a couple of teams (especially Colombia) dominated their groups, this stage of the event was very closely fought in general.",
@@ -2224,30 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1294",
          "pubDate" : "Wed, 25 Aug 2021 10:59:37 +0000",
          "title" : "Day 7: Vachier-Lagrave grabs the lead"
-      },
-      {
-         "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation Tanitoluwa Adewumi has been in the public eye since his story hit the news two years ago. He has also been popular is social media and appeared last year in a Puzzle Rush challenge match on Hikaru Nakamura's Twitch channel. Since then, &#8220;Tani&#8221; has continued to make progress [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/\">Tani Adewumi wins North American Youth under-12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/24/tani-adewumi-wins-north-american-youth-under-12/",
-         "pubDate" : "Tue, 24 Aug 2021 22:14:11 +0000",
-         "title" : "Tani Adewumi wins North American Youth under-12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1293",
-         "pubDate" : "Tue, 24 Aug 2021 21:51:25 +0000",
-         "title" : "Online Olympiad Division 3 Pools Out: action resumes on Friday"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1292",
-         "pubDate" : "Tue, 24 Aug 2021 19:49:56 +0000",
-         "title" : "Winners crowned at EU Youth Chess Championship 2021"
       }
    ]
 }
