@@ -50,14 +50,6 @@ news_feed (
          "title" : "Dutch chess loses sport tax privilege"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1333",
-         "pubDate" : "Tue, 14 Sep 2021 16:43:00 +0000",
-         "title" : "Global Chess Festival brings innovators of the future to Budapest"
-      },
-      {
          "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 7, the Hungarian faces Sergey Karjakin with the white pieces, while Nepo plays black Alireza Firouzja. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
