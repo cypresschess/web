@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/online-chess-olympiad-india-lose-to-usa-in-semis/",
+         "pubDate" : "Wed, 15 Sep 2021 03:30:19 +0000",
+         "title" : "Online Chess Olympiad; India lose to USA in semis"
+      },
+      {
          "description" : " Good news for Magnus Carlsen fans: after a listless first half of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament (four draws and a loss in classical chess), he has won his first two games in the second cycle (against Alireza Firouzja and Aryan Tari) and has jumped from a tie for fourth into clear second. And Carlsen fans with a touch of schadenfreude may also take a little perverse pleasure in his rival's difficulties: Ian Nepomniachtchi was in clear second at the halfway point, but after a draw and an Armageddon loss to Sergey Karjakin in round 6 and a loss to Firouzja in round 7, he finds himself in third, barely ahead of Firouzja and Karjakin. So from the standpoint",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Tue, 14 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Rapport beats Karjakin"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg\" data-image-dimensions=\"320x479\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Anna Muzychuk\" data-load=\"false\" data-image-id=\"6140abc9088eab5f0dff6c37\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Anna Muzychu",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-6-firouzja-hits-back-against-artemiev",
          "pubDate" : "Fri, 03 Sep 2021 10:40:29 +0000",
          "title" : "Aimchess US Rapid 6: Firouzja hits back against Artemiev"
-      },
-      {
-         "description" : "Due to Indian Bank Branch transferred from Harbour ,Chenani to CP -New Delhi ,Kindly Find the updated Bank Details for your reference AICF Bank Account",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attention/",
-         "pubDate" : "Fri, 03 Sep 2021 10:32:28 +0000",
-         "title" : "Kind Attention"
       },
       {
          "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
