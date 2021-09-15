@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The PRO Chess League: Arena Royale is right around the corner, with action beginning on September 16. Be sure to catch your favorite PCL teams in battle during this exciting eight-day event! The Saint Louis Arch Bishops are loaded as usual. They...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/get-ready-for-pcl-arena-royale",
+         "pubDate" : "Wed, 15 Sep 2021 15:22:44 -0700",
+         "title" : "Get Ready For PCL: Arena Royale"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1336",
+         "pubDate" : "Wed, 15 Sep 2021 21:34:36 +0000",
+         "title" : "FIDE signs MoU with International School Sport Federation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1335",
+         "pubDate" : "Wed, 15 Sep 2021 20:39:33 +0000",
+         "title" : "Russia takes gold in the 2021 Online Chess Olympiad"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In an <strong>Online Chess Olympiad</strong> with hardly any surprises Russia <a href=\"https://onlineolympiad.fide.com/\">won all their matches</a>. The US was luckier than China and Hungary and met the big favourite only in the final of the <strong>Chess.com</strong>-hosted <strong>FIDE</strong> rapid event. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/russia-won-all-matches/",
+         "pubDate" : "Wed, 15 Sep 2021 20:49:41 +0100",
+         "title" : "Russia won all matches"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Malcolm Pein</strong> declared his candidacy for Executive Director of the <strong>English Chess Federation</strong> at <a href=\"https://www.englishchess.org.uk/about/ecf-council-and-board/\">the 16 October election</a>. The managing director of retailer <strong>Chess &amp; Bridge</strong>, CEO of <strong>Chess in Schools and Communities</strong> and director of the London Chess Classic runs against <strong>Mike Truran</strong>, the long-term director of the 4NCL league, who seeks a third term. <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2021/09/Malcolm-Pein.pdf\">Pein advocates</a> more active leadership and marketing and oppo",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/pein-runs-for-ecf-leadership/",
+         "pubDate" : "Wed, 15 Sep 2021 19:45:24 +0100",
+         "title" : "Pein runs for ECF leadership"
+      },
+      {
          "description" : "This week, Merijn van Delft takes another look at the impressive performance of Richard Rapport at the Norway Chess Tournament, focusing on Rapport's fine win against Sergey Karjakin in round 7. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +66,28 @@ news_feed (
          "title" : "Indian players suffered from nerves at the crunch: Anand"
       },
       {
+         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, takes place 7th to 17th September. As in the last edition an Armageddon game will be played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event is a 6 player 10 round event. It gets off to a rather untidy start as the round 1 game Nepomniachtchi vs Karjakin is postponed until the first rest day on Saturday 11th. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
+         "pubDate" : "Wed, 15 Sep 2021 21:23:00 +0400",
+         "title" : "9th EY Norway Chess 2021 - Games and Results"
+      },
+      {
          "description" : "Today, the finals of the Online Olympiad will be played: In the double-round final, Russia will play the USA. Russia is favorite, but the US team has already surprised against India. Match 1 starts at 18:30 CEST (12:30 ET, 16:30 UTC), match 2 begins at 19:30 CEST (13:30 ET, 17:30 UTC). If necessary, the play-off match will beginn at 20:30 CEST (14:30 ET, 18:30 UTC). Follow the games live!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/online-olympiade-live",
          "pubDate" : "Wed, 15 Sep 2021 18:15:28 +0100",
          "title" : "Online Olympiad, Finals: Live"
+      },
+      {
+         "description" : " The FIDE Online Olympiad took place Fri 20th Aug 2021 to Wednesday 15th Sep 2021. 153 teams entered. The event had various qualification stages - as the event progresses stronger teams join the tournament running from Division 4 up to the top division before the final KO where the medals were decided. The event was hosted by chess.com. Russia defeated the USA in the final - China and India were eliminated in the semifinals. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-online-olympiad-2021",
+         "pubDate" : "Wed, 15 Sep 2021 20:36:00 +0400",
+         "title" : "FIDE Online Olympiad 2021 - Games and Results"
       },
       {
          "description" : " Everybody knows the feeling. You are having a great position against a strong opponent and you start to feel the excitement. Your heartbeat is raising and your mind is going crazy. &#8220;Imagine winning this game!&#8221; you start to think. Following this thought, you start to imagine different scenarios: the congratulation of your friends, the effect [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/\">Excitement Costs You Dearly Don't Celebrate Before The Game Is Over</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -50,12 +106,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Rook endgames you HAVE to know"
       },
       {
-         "description" : "Richard Rapport has a 3&frac12;-point lead over Magnus Carlsen with three rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). In round 8, the Hungarian faces the world champion with the black pieces in a crucial encounter. | Photo: Lennart Ootes / norwaychess.no",
+         "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. Round 8 also saw Alireza Firouzja beating Sergey Karjakin and Aryan Tari getting the better of World Championship challenger Ian Nepomniachtchi. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Wed, 15 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Carlsen takes down Rapport"
       },
       {
          "description" : "There were three decisive games in the seventh round of the Norway Chess Tournament. Richard Rapport defended his lead with a win over Segery Karjakin. Alireza Firouzja staked a claim as the next world challenger with a win over Ian Nepomniachtchi, while Magnus Carlsen gave another endgame lesson against Aryan Tari. | Photo: Lennart Ootes",
@@ -80,6 +136,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#new_tab",
          "pubDate" : "Wed, 15 Sep 2021 14:47:19 +0000",
          "title" : "Election Addresses - AGM 2021"
+      },
+      {
+         "description" : "Wednesday, September 15, has been circled on the calendars of many chess fans around the world, as it is the 2021 FIDE Online Olympiad&#39;s final. Some have been hoping their favorite team would make it all the way to the last stage of the tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-finals-russia-wins",
+         "pubDate" : "Wed, 15 Sep 2021 07:08:00 -0700",
+         "title" : "FIDE Online Olympiad Finals: Russia Wins"
       },
       {
          "description" : "\"I'm probably the luckiest I've ever been,\" said Richard Rapport, as the Hungarian outplayed Sergey Karjakin to take a 3.5-point lead at Norway Chess and climb to world no. 6, above Alexander Grischuk, Anish Giri and Wesley So. Magnus Carlsen has the white pieces against Richard in Round 8 and could cut the gap to half a point after squeezing out another win, this time against Aryan Tari. Meanwhile Alireza Firouzja bounced back to defeat World Championship Challenger Ian Nepomniachtchi.",
@@ -234,14 +298,6 @@ news_feed (
          "title" : "Nominations for Elections at the 2021 AGM"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Bids for eight European chess championships 2023 can be <a href=\"https://www.europechess.org/call-for-bids-2023-european-championships\">submitted until 1 October through the national federations.</a> For the <strong>European Individual Championship</strong> and the biannual <strong>European Team Championship</strong> the <strong>European Chess Union</strong> requires combined bids. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/ecu-calls-bids-for-2023/",
-         "pubDate" : "Tue, 14 Sep 2021 11:08:04 +0100",
-         "title" : "ECU calls bids for 2023"
-      },
-      {
          "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). The Hungarian star beat Aryan Tari with the white pieces in round 6. Magnus Carlsen also won his classical game, while Sergey Karjakin got the better of Nepomniachtchi in Armageddon. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-160-endgame-highlights-from-the-world-cup-in-sochi",
          "pubDate" : "Mon, 13 Sep 2021 14:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Thanks to <strong>Play Magnus Group</strong> of Companies joining <strong>Work4Chess</strong> this Saturday 18 September as a sponsor and exhibitor, <a href=\"https://a.beamian.com/#/event/work4chess\">access to the conference</a> is now free. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">18 Sep 2021</span> 10.00-18.00 h: <a href=\"https://www.chesstech.org/events/2021/work4chess/\">Work 4 Chess!</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/work4chess-free-thanks-to-play/",
-         "pubDate" : "Mon, 13 Sep 2021 10:42:07 +0100",
-         "title" : "Work4Chess free thanks to Play Magnus sponsorship"
       },
       {
          "description" : "The Live Database is the full database by ChessBase, stored online, that can be searched from both the ChessBase program, as well as the browser. With it you can search for any position, player, tournament, or game, and see all the statistics such as the win/loss percentage, the Live Book data, and even search with an engine, all straight from the browser. Read on to learn more!",
@@ -1178,14 +1226,6 @@ news_feed (
          "title" : "Norway Chess: A lively start"
       },
       {
-         "description" : "GM Richard Rapport is the early leader at the Norway Chess tournament which took off on Tuesday. The Hungarian GM beat Norway&#39;s GM Aryan Tari in the classical game to score three points, whereas GM Magnus Carlsen got 1.5 points for his armageddon ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-1",
-         "pubDate" : "Tue, 07 Sep 2021 15:19:00 -0700",
-         "title" : "Norway Chess R1: Rapport Early Leader As Firouzja-Carlsen Goes To Armageddon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1242,14 +1282,6 @@ news_feed (
          "title" : "The Chess Saga of Fridrik Ólafsson"
       },
       {
-         "description" : "Another exciting day of PogChamps 4 presented by Coinbase kept viewers glued to their seats as the most unpredictable matches yet happened. Sapnap defeated a partying JustaMinx with ease while she was distracted partying. The three other matches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-day-8-parties-mouse-slips-botez-gambits-endgame-precision",
-         "pubDate" : "Mon, 06 Sep 2021 18:20:00 -0700",
-         "title" : "PogChamps 4 Day 8: Parties, Mouse Slips, Botez Gambits, Endgame Precision"
-      },
-      {
          "description" : "Karsten is joined by Arne Kaehler to discuss the best endgames of 2020. Our in-house specialist decided to kick off the show with a fascinating ending played by two amazingly strong engines, Stockfish and Komodo. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1280,14 +1312,6 @@ news_feed (
          "link" : "https://www.europechess.org/work4chess-conference/",
          "pubDate" : "Mon, 06 Sep 2021 18:39:05 +0000",
          "title" : "Work4Chess - Conference"
-      },
-      {
-         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, takes place 7th to 17th September. As in the last edition an Armageddon game will be played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event is a 6 player 10 round event. It gets off to a rather untidy start as the round 1 game Nepomniachtchi vs Karjakin is postponed until the first rest day on Saturday 11th. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
-         "pubDate" : "Mon, 6 Sep 2021 21:23:00 +0400",
-         "title" : "9th EY Norway Chess 2021 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85985040.cms\" />Team India will get a chance to form a bonding when they sit for the Fide Chess Olympiad which begins on Wednesday. In spite of being an online event due to the pandemic situation prevailing at different parts of the world, the All India Chess Federation (AICF) has arranged for both staying and playing facilities for all the players at a hotel in Chennai.",
@@ -2208,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1297",
          "pubDate" : "Thu, 26 Aug 2021 13:25:40 +0000",
          "title" : "Chess for Prisons - registration continues"
-      },
-      {
-         "description" : " The 2021 Online Olympiad Division 3 begins tomorrow, with a couple of surprise qualifiers. Fiji, who finished 4th in Div 4 Pool A, was one such surprise, with Hong Kong being unable to continue in the competition after losing one of their players (and not having any replacements). At least one other 4th paced team from another pool went through (late) after one of the Div 3 teams had to pull out. Each new division sees the addition of stronger players, with the first GM's making an appearance. Both Scotland (Pool C) and Uruguay (Pool D) have 2 GM's turning out, while a couple of other teams have one. Pool A begins at 6pm (Canberra time), Friday 27 August, with the other pools starting at 2 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3.html",
-         "pubDate" : "Wed, 25 Aug 2021 23:26:00 +0000",
-         "title" : "2021 Online Olympiad Div 3"
       }
    ]
 }
