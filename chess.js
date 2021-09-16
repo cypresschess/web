@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. In round 9, Carlsen plays Sergey Karjakin while Rapport faces Ian Nepomniachtchi. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Thu, 16 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen moved to within half a point of Richard Rapport after beating the leader on demand in Round 8. For a second day in a row there was no need for Armageddon as Aryan Tari scored his first win in 18 Norway Chess classical games, against none other than Ian Nepomniachtchi. It was another bad day for both Russian players as Sergey Karjakin also fell to Alireza Firouzja, with the 18-year-old now a single win away from the Top 10.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-hunts-down-rapport",
+         "pubDate" : "Thu, 16 Sep 2021 15:16:53 +0000",
+         "title" : "Norway Chess 8: Carlsen hunts down Rapport"
+      },
+      {
+         "description" : "In the finals of the 2. FIDE Online Olympiad Russia had to play against the USA, and in this match Russia was seen as the favourite. The Russian team lived up to this role: by winning both matches of the finals 3.5:2.5 the Russians also won the Online Olympiad 2021. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-wins-online-olympiad-2021",
+         "pubDate" : "Thu, 16 Sep 2021 16:16:30 +0100",
+         "title" : "Russia wins Online Olympiad 2021"
+      },
+      {
+         "description" : " <p class=\"lead\">Algorand, the official blockchain partner of the 2021 World Chess Championship, is holding a series of online chess tournaments to celebrate the upcoming Match. The winner will receive a trip and VIP entrance to the World Chess Championship in Dubai. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600-800.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> Algorand, the official blockchain partner of the 2021 FIDE World Championship Match, is holding a series of online chess tournaments to celebrate the upcoming Match. The winner of the Series, which takes place from September to October 2021, will receive a fully-paid trip for two to Dubai to visit",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-winner-of-the-algorand-online-chess-tournament-will-receive/",
+         "pubDate" : "Thu, 16 Sep 2021 15:02:46 +0000",
+         "title" : "The Winner of the Algorand Online Chess Tournament Will Receive a Trip to the World Chess Championship in Dubai"
+      },
+      {
+         "description" : " After nearly a months play, Russia has emerged victorious in the 2021 Online Olympiad. After finishing as joint champions in 2020 (with India) they went one better this year, beating the USA in the final, winning both legs 3.5-2.5. Despite losing the final, the USA can also be proud of their finish, scoring come from behind wins over both Kazakhstan and India in the knockout stage. The Online Olympiad attracted 155 teams, which is on par with (or better than) most Olympiads. For the lower ranked countries it was an opportunity to play some international chess, while for the stronger teams, it was a chance to make a mark on the world stage. While nothing definite has been announced at this s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/russia-win-2021-online-olympiad.html",
+         "pubDate" : "Thu, 16 Sep 2021 13:37:00 +0000",
+         "title" : "Russia win 2021 Online Olympiad"
+      },
+      {
+         "description" : "Mega database is easily the greatest database one can buy. Not only does it come with 8.4 million games, but over 85 thousand of them are annotated, many by world champions and the elite. It doesn't come free, though its asking price includes a full year of unparalleled updates, but what if you could have access to it without having to buy it?...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-get-mega-for-free",
+         "pubDate" : "Thu, 16 Sep 2021 14:00:00 +0100",
+         "title" : "How to get Mega for free"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1337",
+         "pubDate" : "Thu, 16 Sep 2021 12:07:08 +0000",
+         "title" : "Intercontinental Online Championship for Prisoners: Last call to register"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen tops a star-studded line-up for the 10-player Meltwater Champions Chess Tour Final starting Saturday, September 25th. Originally slated to be held in person in San Francisco, the tournament will now be a hybrid event, with Magnus, Anish Giri and Jan-Krzysztof Duda playing from Oslo, while the remaining players compete from home. Wesley So has by far the greatest chance of challenging Magnus for the $100,000 top prize, since players start with bonus points for their tour performance so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/300k-meltwater-champions-chess-tour-finals-announced",
+         "pubDate" : "Thu, 16 Sep 2021 12:00:13 +0000",
+         "title" : "$300k Meltwater Champions Chess Tour Finals set for lift-off!"
+      },
+      {
          "description" : "How do you plan chess events with Covid-19 in mind? What to offer non-club players fascinated by online chess and \"The Queen's Gambit\"? What is hybrid chess good for? The Work4Chess online conference on Saturday, 18 September, tries to answer these and other questions. Access to the online conference is free. | Photos: ChessTech",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1618,14 +1682,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Chaos, but still classical"
       },
       {
-         "description" : "Magnus Carlsen has reached his 5th final out of eight events played on the Meltwater Champions Chess Tour after overcoming Levon Aronian 3:1 on Day 2 of their Aimchess US Rapid semi-final. He faces a new opponent in the final, Vladislav Artemiev, who hit back after losing the second rapid game before defeating Alireza Firouzja in Armageddon. Magnus described Vladislav as having \"just a sublime positional feeling\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-7-it-s-a-carlsen-artemiev-final",
-         "pubDate" : "Sat, 04 Sep 2021 12:05:29 +0000",
-         "title" : "Aimchess US Rapid 7: It's a Carlsen-Artemiev final!"
-      },
-      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1712,14 +1768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/paleochora-open-2021-irina-bulmaga-report",
          "pubDate" : "Fri, 03 Sep 2021 12:10:00 +0100",
          "title" : "In a serene little village: Solodovnichenko wins Paleochora Open"
-      },
-      {
-         "description" : "\"Probably the least dramatic day we've had ever\", said Magnus Carlsen after all four games were drawn on Day 1 of his Aimchess US Rapid semi-final against Levon Aronian, with the Armenian missing one big chance to take the lead in the second game. The other semi-final was more dramatic, with Vladislav Artemiev brilliantly converting an extra pawn to take the lead in the first game of the day before Alireza Firouzja hit back in the last after Vladislav couldn't find a winning move in time trouble.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-6-firouzja-hits-back-against-artemiev",
-         "pubDate" : "Fri, 03 Sep 2021 10:40:29 +0000",
-         "title" : "Aimchess US Rapid 6: Firouzja hits back against Artemiev"
       },
       {
          "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
@@ -2154,36 +2202,12 @@ news_feed (
          "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
       },
       {
-         "description" : "\"One of my biggest wishes in recent years was to host a tournament and contribute to the development of chess in our region and our country (Ukraine),\" writes Anna Muzychuk. She and her younger sister Mariya, who was the 2015 Women's World Chess Champion, succeeded in holding the first Muzychuk Sisters' Cup. Pictorial report from Anna.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/first-muzychuk-sisters-cup",
-         "pubDate" : "Sat, 28 Aug 2021 11:00:00 +0100",
-         "title" : "First Muzychuk Sisters' Cup"
-      },
-      {
          "description" : "The Dada Movement, which arose during the First World War, represented a complete break with conventional conceptions of aesthetics. A key member and link to chess was Marcel Duchamp. Dada was officially launched in 1916 at the Cafe Voltaire in Zurich by poets and artists, such as Tristan Tzara and Hans Arp, and was a direct reaction to the mass slaughter, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/dada-surrealism-and-the-bongcloud-attack/",
          "pubDate" : "Sat, 28 Aug 2021 08:00:13 +0000",
          "title" : "Dada, Surrealism and the Bongcloud Attack"
-      },
-      {
-         "description" : "In the diagram position, White has two aggressive knights on the e-file and a mobile queen behind them - a constellation that is just crying out for a combination. Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/poised-to-strike",
-         "pubDate" : "Sat, 28 Aug 2021 09:00:00 +0100",
-         "title" : "Poised to strike"
-      },
-      {
-         "description" : "The last 'regular' tournament of the Meltwater Champions Chess Tour, the Aimchess US Rapid, begins on Saturday. This is the final qualifying tournament to the grand finale, which is scheduled to start on September 25. The 16-player lineup is topped by Magnus Carlsen, with the likes of Wesley So, Levon Aronian and Wesley So also in the mix.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-preview",
-         "pubDate" : "Sat, 28 Aug 2021 08:00:00 +0100",
-         "title" : "Carlsen heads impressive lineup at Aimchess US Rapid"
       },
       {
          "description" : " With the ACT currently under Covid restrictions, the ACT Junior Chess League is organising the Under 16 Championship as an online, Zoom supervised event. Borrowing heavily from the Online Olympiad (and similar international tournaments), 32 players are taking part in the tournament. It is a 7 round swiss with a time limit of 30m+30s. As one of the arbiters, I can say it has gone pretty well. The two main issues are essentially the same as in any normal junior event, with the players taking too little time over their moves, and parents not understanding the tournament process. The quality of play is a little mixed (mainly do to the rushed moves), but when they slow down, the games can be qui",
@@ -2240,14 +2264,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/",
          "pubDate" : "Fri, 27 Aug 2021 06:13:31 +0000",
          "title" : "European Chess Championship 2021 kicked off in Reykjavik"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1297",
-         "pubDate" : "Thu, 26 Aug 2021 13:25:40 +0000",
-         "title" : "Chess for Prisons - registration continues"
       }
    ]
 }
