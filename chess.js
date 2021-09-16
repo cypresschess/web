@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Norway Chess tournament is wide open again as leader GM Richard Rapport lost his first classical game, to runner-up GM Magnus Carlsen. The Hungarian GM still leads but only by half a point, so anything is possible in the final two rounds. In...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-8-carlsen-rapport",
+         "pubDate" : "Wed, 15 Sep 2021 16:37:00 -0700",
+         "title" : "Norway Chess R8: Carlsen Beats Rapport In Top Clash"
+      },
+      {
+         "description" : " That Magnus Carlsen guy is pretty good. Three rounds ago, he was tied for next-to-last place, and now he's only half a point out of first in the <a href=\"https://norwaychess.no/\">Norway Chess</a> tournament. He won his third classical game in a row, this time against tournament leader Richard Rapport; he's looking like a boss. Rapport has played very well all tournament, and even in this game he only made one real error, and this after suffering under pressure for hours and hours. So we shouldn't assume that Rapport will be passed by the world champion, but he will have to play great chess to keep the lead. Meanwhile, Carlsen's challenger seems to be wearing cement shoes. Despite having the",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/15/norway-chess-round-8-carlsen-defeats-rapport.html",
+         "pubDate" : "Wed, 15 Sep 2021 23:20:44 +0000",
+         "title" : "Norway Chess, Round 8: Carlsen Defeats Rapport"
+      },
+      {
          "description" : "The PRO Chess League: Arena Royale is right around the corner, with action beginning on September 16. Be sure to catch your favorite PCL teams in battle during this exciting eight-day event! The Saint Louis Arch Bishops are loaded as usual. They...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/is-chess-a-sport/",
          "pubDate" : "Wed, 08 Sep 2021 17:00:00 +0000",
          "title" : "Is Chess A Sport?"
-      },
-      {
-         "description" : "GM Nodirbek Yakubboev won the first Titled Tuesday of September, and his first since February 2020, with a score of 9.5/11, winning on the tiebreaker over GM Maksim Chigaev.&#38;nbsp;GM Daniel Naroditsky took third with the best tiebreaker of the four...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yakubboev-wins-september-7-titled-tuesday",
-         "pubDate" : "Wed, 08 Sep 2021 09:41:08 -0700",
-         "title" : "Yakubboev Wins September 7 Titled Tuesday"
       },
       {
          "description" : "Ask your chess friends or colleagues, \"What is the most difficult part for you to understand in chess?\" The answer is often: middlegames. Once you have reached the middlegame, it is difficult to make a plan. But luckily, we are blessed with some of Svitlana's Smart Moves once again. Today we try to figure out how to hold the tension in the middlegame, why to hold it, and how to break through with your pawns in the right moment.",
