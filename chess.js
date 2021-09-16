@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. Round 8 also saw Alireza Firouzja beating Sergey Karjakin and Aryan Tari getting the better of World Championship challenger Ian Nepomniachtchi. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r8",
+         "pubDate" : "Thu, 16 Sep 2021 07:05:00 +0100",
+         "title" : "Norway Chess: Carlsen beats Rapport in third straight win"
+      },
+      {
+         "description" : "The 36th European Club Cup and the 25th European Club Cup for Women open tomorrow in Struga, Ohrid Lake, North Macedonia. The events will simultaneously take place from 17th-25th September in two different venues: Hotel Drim (Women's event) and Hotel Izgrev (Open event). 38 teams will participate in the 36th European Club Cup and the battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-club-cup-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-club-cup-2021-starts/",
+         "pubDate" : "Thu, 16 Sep 2021 05:50:08 +0000",
+         "title" : "European Club Cup 2021 starts"
+      },
+      {
          "description" : "The Norway Chess tournament is wide open again as leader GM Richard Rapport lost his first classical game, to runner-up GM Magnus Carlsen. The Hungarian GM still leads but only by half a point, so anything is possible in the final two rounds. In...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-13",
          "pubDate" : "Wed, 15 Sep 2021 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Rook endgames you HAVE to know"
-      },
-      {
-         "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. Round 8 also saw Alireza Firouzja beating Sergey Karjakin and Aryan Tari getting the better of World Championship challenger Ian Nepomniachtchi. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Wed, 15 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Carlsen takes down Rapport"
       },
       {
          "description" : "There were three decisive games in the seventh round of the Norway Chess Tournament. Richard Rapport defended his lead with a win over Segery Karjakin. Alireza Firouzja staked a claim as the next world challenger with a win over Ian Nepomniachtchi, while Magnus Carlsen gave another endgame lesson against Aryan Tari. | Photo: Lennart Ootes",
