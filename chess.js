@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He was close to a defeat this time but GM Magnus Carlsen turned his game with GM Sergey Karjakin around, won his fourth in a row, and became the new leader at Norway Chess with one round to go. GM Alireza Firouzja defeated GM Aryan Tari to enter t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-9-carlsen-karjakin-firouzja",
+         "pubDate" : "Thu, 16 Sep 2021 14:30:00 -0700",
+         "title" : "Norway Chess R9: Carlsen Leads After 4th Straight Win; Firouzja Enters World's Top 10"
+      },
+      {
+         "description" : " Remember, folks: when a streaky player is down, you've got to keep him down. In the first half of this year's edition of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament, Magnus Carlsen wasn't playing particularly well, with four draws and a loss in the classical games. Then, with a win in round 6, it was as if a light switch was flipped on, and now he has won four in a row and has finally vaulted into the lead. Today's victim was the player who conquered him in round 5, Sergey Karjakin. In fact, Carlsen didn't start this game very well, and was much worse if not lost in the early middlegame. But he defended well, and Karjakin couldn't figure things out. Things went from",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/16/norway-chess-2021-round-9-carlsen-wins-again-leads.html",
+         "pubDate" : "Thu, 16 Sep 2021 20:34:47 +0000",
+         "title" : "Norway Chess 2021, Round 9: Carlsen Wins Again, Leads"
+      },
+      {
          "description" : "The chess world has gotten used to seeing Magnus Carlsen appear on TV shows, but the world champion appearing in a reality show is a first. On Friday VG TV releases \"Ikke lov &aring; le p&aring; hytta\" (\"Don't laugh at the cabin\"), where Carlsen is among 12 of Norway's most funny comedians and influencers are stuck together in a cabin. There's only one rule: You cannot laugh. chess24 got an exclusive peek into it.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1194,14 +1210,6 @@ news_feed (
          "title" : "Caruana grabs the lead after Day 1"
       },
       {
-         "description" : " Only minimal coverage today, but the events deserve mention. The more serious event is <a href=\"https://norwaychess.no/en/\">Norway Chess</a>, which continues with its odd format. At the start of each day it seems like a normal classical tournament, but there's a twist: if the game finishes in a draw the players start over, with the same colors, and play an Armageddon game with a much shorter time control. If a player wins the classical game, he wins the round 3-0. If the game goes to Armageddon, then the players get a point each for the draw while the winner of the Armageddon (that is, the winner of the game, or the player with Black in case it ends in a draw) gets an additional half a poin",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/9/norway-chess-2021-champions-showdown-chess-9lx.html",
-         "pubDate" : "Thu, 09 Sep 2021 05:47:13 +0000",
-         "title" : "Norway Chess 2021 & Champions Showdown: Chess 9LX"
-      },
-      {
          "description" : "We are proud to announce the third season of the Collegiate Chess League (CCL) run in partnership with Chess.com and the Corporate Esports Association (CEA). Since the league&#39;s creation in 2019, the chess world has seen incredible increases in pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
          "pubDate" : "Wed, 08 Sep 2021 19:56:47 +0000",
          "title" : "Philadelphia loses Jerome Works (1955-2021)"
-      },
-      {
-         "description" : "Chess.com is delighted and excited to announce that GM Ian Nepomniachtchi, 2021 Candidates Tournament winner and world championship challenger to GM Magnus Carlsen, has signed a long-term sponsorship agreement with Chess.com! &#34;We are thrilled to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-signs-with-chess-com",
-         "pubDate" : "Wed, 08 Sep 2021 11:10:00 -0700",
-         "title" : "Ian Nepomniachtchi Signs With Chess.com"
       },
       {
          "description" : " The question if chess is a sport haunted me since my early childhood. I vividly remember my first day in the sports class in high school. When walking home that day, a now very good friend said to me &#8220;I'm not talking to a nerdy Chess Player&#8221;. It is only one of many anecdotes of [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/is-chess-a-sport/\">Is Chess A Sport?</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
