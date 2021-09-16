@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The chess world has gotten used to seeing Magnus Carlsen appear on TV shows, but the world champion appearing in a reality show is a first. On Friday VG TV releases \"Ikke lov &aring; le p&aring; hytta\" (\"Don't laugh at the cabin\"), where Carlsen is among 12 of Norway's most funny comedians and influencers are stuck together in a cabin. There's only one rule: You cannot laugh. chess24 got an exclusive peek into it.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-appears-in-hilarious-reality-tv-show",
+         "pubDate" : "Thu, 16 Sep 2021 18:27:59 +0000",
+         "title" : "Magnus Carlsen appears in hilarious reality TV show"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1338",
+         "pubDate" : "Thu, 16 Sep 2021 17:58:45 +0000",
+         "title" : "Portuguese Championship: Andr&eacute; Sousa clinches his third title"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 43rd instalment of his ChessBase show \"Understanding before Moving\", Herman looks at \"good\" and \"bad\" bishops. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-43-good-bishops-bad-bishops",
+         "pubDate" : "Thu, 16 Sep 2021 18:00:00 +0100",
+         "title" : "Understanding before Moving 43: Good bishops, bad bishops"
+      },
+      {
          "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. In round 9, Carlsen plays Sergey Karjakin while Rapport faces Ian Nepomniachtchi. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-winner-of-the-algorand-online-chess-tournament-will-receive/",
          "pubDate" : "Thu, 16 Sep 2021 15:02:46 +0000",
-         "title" : "The Winner of the Algorand Online Chess Tournament Will Receive a Trip to the World Chess Championship in Dubai"
+         "title" : "The Winner of the Algorand Chess Tournament Will Receive a Trip to Dubai"
       },
       {
          "description" : " After nearly a months play, Russia has emerged victorious in the 2021 Online Olympiad. After finishing as joint champions in 2020 (with India) they went one better this year, beating the USA in the final, winning both legs 3.5-2.5. Despite losing the final, the USA can also be proud of their finish, scoring come from behind wins over both Kazakhstan and India in the knockout stage. The Online Olympiad attracted 155 teams, which is on par with (or better than) most Olympiads. For the lower ranked countries it was an opportunity to play some international chess, while for the stronger teams, it was a chance to make a mark on the world stage. While nothing definite has been announced at this s",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "Intensive training course with GMs Tkachev and Kazhgaleyev"
       },
       {
-         "description" : "Magnus Carlsen defeated Vladislav Artemiev 2.5:1.5 on Day 1 of the Aimchess US Rapid final after opening with a powerful double pawn sacrifice with the black pieces in the first game of the day. Magnus made it 2:0 when Vladislav blundered in Game 2 under the pressure of both his clock and disconnection issues, but was handed a lifeline when Magnus made an accidental move in the 3rd game. That meant the World Champion still needed a draw to clinch the match, but this time he achieved that with no drama.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-us-rapid-8-carlsen-leads-despite-mouse-slip",
-         "pubDate" : "Sun, 05 Sep 2021 10:40:46 +0000",
-         "title" : "Aimchess US Rapid 8: Carlsen leads despite mouse-slip"
-      },
-      {
          "description" : " The Aimchess US Rapid was the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid took place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang. Magnus Carlsen won both days of the final against Vladislav Artemiev but the latter got enough points to make it to the tour final. The top 8 ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2160,14 +2176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3_29.html",
          "pubDate" : "Sun, 29 Aug 2021 09:10:00 +0000",
          "title" : "2021 Online Olympiad - Div 3"
-      },
-      {
-         "description" : "The first five rounds of the Aimchess US Rapid preliminary stage were played on Saturday. Levon Aronian ended the day as sole leader after scoring 4 points, with wins over Le Quang Liem, Eric Hansen and Maxime Vachier-Lagrave. Magnus Carlsen and Vladislav Artemiev are sharing second place a half point back. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-1",
-         "pubDate" : "Sun, 29 Aug 2021 09:30:00 +0100",
-         "title" : "Aimchess US Rapid: Aronian sole leader"
       },
       {
          "description" : " I reached this position (with black, to move) in an online rapid game against a much stronger opponent. Basic endgame theory is so important these days. Everyone should be aware that there's a fortress here: I can just move my rook between f6 and h6, when White can't make progress. The game continued: 67.. Kg8 <a href=\"https://chessimprover.com/fortress/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fortress\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fortress/\">Fortress</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
