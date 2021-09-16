@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do you plan chess events with Covid-19 in mind? What to offer non-club players fascinated by online chess and \"The Queen's Gambit\"? What is hybrid chess good for? The Work4Chess online conference on Saturday, 18 September, tries to answer these and other questions. Access to the online conference is free. | Photos: ChessTech",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/impulses-for-the-chess-community-the-work4chess-online-conference",
+         "pubDate" : "Thu, 16 Sep 2021 11:06:11 +0100",
+         "title" : "Impulses for the Chess Community: The Work4Chess Online Conference"
+      },
+      {
          "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. Round 8 also saw Alireza Firouzja beating Sergey Karjakin and Aryan Tari getting the better of World Championship challenger Ian Nepomniachtchi. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/get-ready-for-pcl-arena-royale",
-         "pubDate" : "Wed, 15 Sep 2021 15:22:44 -0700",
+         "pubDate" : "Wed, 15 Sep 2021 15:22:00 -0700",
          "title" : "Get Ready For PCL: Arena Royale"
       },
       {
@@ -2192,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1299",
          "pubDate" : "Fri, 27 Aug 2021 21:15:55 +0000",
          "title" : "Online Olympiad: Division 3 starts smoothly"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess, and it also provides arsenal for the tournament player. This issue offers 456 games from 3 major events, Candidates' Tournament, New in Chess Classic and the Russian Team Championship. It also includes games annotated by Ian Nepomniachtchi, Boris Gelfand and Anish Giri, to mention a few. The icing on the cake is a tribute to Timman who turned 70 this year, with 25 annotated games. Prof. Nagesh Havanur takes a look. | Photo: Lennart Ootes / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-202-review-nagesh-havanur",
-         "pubDate" : "Fri, 27 Aug 2021 21:00:00 +0100",
-         "title" : "CBM 202: Nepo wins, Caruana shines and a Timman special"
       },
       {
          "description" : " Last week, we took a closer look at the principle of attacking and defending as it applies to the middle-game. The basis of this principles was; if attacking, you want to have more attackers than your opponent has defenders, and when defending, you want to have more defenders than your opponent has attackers. However, there <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\">A Foundation for Beginners Thirty Two</a> appeared first on <a rel=\"nofollow\" hr",
