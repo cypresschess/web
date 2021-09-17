@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? <em>Stefan L&ouml;ffler</em> reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcap",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chessable/",
+         "pubDate" : "Fri, 17 Sep 2021 22:43:13 +0100",
+         "title" : "Inside Chessable"
+      },
+      {
+         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-preview",
+         "pubDate" : "Fri, 17 Sep 2021 22:10:00 +0100",
+         "title" : "Young stars ready to battle at Hou Yifan Challenge"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1339",
          "pubDate" : "Fri, 17 Sep 2021 19:06:49 +0000",
          "title" : "FIDE World Women's Team Championship: lineups announced"
+      },
+      {
+         "description" : " The 36th European Club Cup takes place in Struga, North Macedonia 18th-24th September 2021. World Champion Magnus Carlsen, Alexander Grischuk, Shakhriyar Mamedyarov are the top players. The women's event is in the same town but different venue.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/36th-european-club-cup-2021",
+         "pubDate" : "Fri, 17 Sep 2021 22:02:00 +0400",
+         "title" : "36th European Club Cup 2021 - Games and Results"
+      },
+      {
+         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, took place 7th to 17th September. As in the last edition an Armageddon game was played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event was a 6 player 10 round event. Magnus Carlsen scored 4/4 in a run from the 6th to 9th round and this was enough to take him to first place. Conventional scoring would have had him in first place on tie-break from Alireza Firouzja with them both on 6.5/10, as it was Carlsen was in clear first place, in fact the order of all the players would have been completely the same with conventional sc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
+         "pubDate" : "Fri, 17 Sep 2021 21:23:00 +0400",
+         "title" : "9th EY Norway Chess 2021 - Games and Results"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris shows how Ian Nepomniachtchi used the goold old King's Gambit to score a quick win in his Armageddon match against Alireza Firouzja at the Norway Chess Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -18,20 +50,12 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Nepo's King's Gambit"
       },
       {
-         "description" : "A fourth straight win prompted Magnus Carlsen to grab the lead at the Norway Chess Tournament in Stavanger. The world champion now has a 1&frac12;-point lead over Richard Rapport before Friday's final round. Carlsen faces Ian Nepomniachtchi in what most likely will be their last classical encounter before they meet in Dubai to fight for the World Championship title. | Photo: Lennart Ootes / norwaychess.no",
+         "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to 9th place in the world ranking. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Fri, 17 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? <em>Stefan L&ouml;ffler</em> reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcap",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chessable/",
-         "pubDate" : "Fri, 17 Sep 2021 16:05:28 +0100",
-         "title" : "Inside Chessable"
+         "title" : "Norway Chess - Carlsen takes first place"
       },
       {
          "description" : "Magnus Carlsen goes into the final round of Norway Chess against Ian Nepomniachtchi as the tournament leader after picking up a 4th win in a row, but he admitted he'd been outplayed and in huge danger against Sergey Karjakin. Richard Rapport trails Magnus by 1.5 points after losing to Ian Nepomniachtchi in Armageddon, while the only other player who can catch Magnus is 18-year-old Alireza Firouzja, who broke into the Top 10 for the first time with a 3rd win in a row, this time against Aryan Tari.",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-suffered-from-nerves-at-the-crunch-anand/articleshow/86240272.cms",
          "pubDate" : "Wed, 15 Sep 2021 23:11:22 +0530",
          "title" : "Indian players suffered from nerves at the crunch: Anand"
-      },
-      {
-         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, takes place 7th to 17th September. As in the last edition an Armageddon game will be played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event is a 6 player 10 round event. It gets off to a rather untidy start as the round 1 game Nepomniachtchi vs Karjakin is postponed until the first rest day on Saturday 11th. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
-         "pubDate" : "Wed, 15 Sep 2021 21:23:00 +0400",
-         "title" : "9th EY Norway Chess 2021 - Games and Results"
       },
       {
          "description" : "Today, the finals of the Online Olympiad will be played: In the double-round final, Russia will play the USA. Russia is favorite, but the US team has already surprised against India. Match 1 starts at 18:30 CEST (12:30 ET, 16:30 UTC), match 2 begins at 19:30 CEST (13:30 ET, 17:30 UTC). If necessary, the play-off match will beginn at 20:30 CEST (14:30 ET, 18:30 UTC). Follow the games live!",
@@ -2178,14 +2194,6 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2021 starts"
       },
       {
-         "description" : "Day 2 of the Aimchess US Rapid prelims saw Vladislav Artemiev climbing to sole first place after drawing two games and winning the remaining three to go into the last day of the round robin a half point ahead of Levon Aronian and Magnus Carlsen. The likes of Maxime Vachier-Lagrave and Leinier Dominguez are in real danger of being eliminated before the knockout. | Photo: Eric Rosen / FIDE World Cup",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-2",
-         "pubDate" : "Mon, 30 Aug 2021 02:00:00 +0100",
-         "title" : "Aimchess US Rapid: Artemiev shines, Naroditsky keeps it sharp"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/08/act-under-16s.html",
          "pubDate" : "Sat, 28 Aug 2021 05:26:00 +0000",
          "title" : "ACT Under 16's"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1299",
-         "pubDate" : "Fri, 27 Aug 2021 21:15:55 +0000",
-         "title" : "Online Olympiad: Division 3 starts smoothly"
       }
    ]
 }
