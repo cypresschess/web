@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1339",
+         "pubDate" : "Fri, 17 Sep 2021 19:06:49 +0000",
+         "title" : "FIDE World Women's Team Championship: lineups announced"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris shows how Ian Nepomniachtchi used the goold old King's Gambit to score a quick win in his Armageddon match against Alireza Firouzja at the Norway Chess Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepo-s-king-s-gambit",
+         "pubDate" : "Fri, 17 Sep 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Nepo's King's Gambit"
+      },
+      {
          "description" : "A fourth straight win prompted Magnus Carlsen to grab the lead at the Norway Chess Tournament in Stavanger. The world champion now has a 1&frac12;-point lead over Richard Rapport before Friday's final round. Carlsen faces Ian Nepomniachtchi in what most likely will be their last classical encounter before they meet in Dubai to fight for the World Championship title. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Fri, 17 Sep 2021 16:55:00 +0100",
          "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? <em>Stefan L&ouml;ffler</em> reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcap",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chessable/",
+         "pubDate" : "Fri, 17 Sep 2021 16:05:28 +0100",
+         "title" : "Inside Chessable"
       },
       {
          "description" : "Magnus Carlsen goes into the final round of Norway Chess against Ian Nepomniachtchi as the tournament leader after picking up a 4th win in a row, but he admitted he'd been outplayed and in huge danger against Sergey Karjakin. Richard Rapport trails Magnus by 1.5 points after losing to Ian Nepomniachtchi in Armageddon, while the only other player who can catch Magnus is 18-year-old Alireza Firouzja, who broke into the Top 10 for the first time with a 3rd win in a row, this time against Aryan Tari.",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-r7",
          "pubDate" : "Wed, 15 Sep 2021 16:30:00 +0100",
          "title" : "Norway Chess: Rapport wins again"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Clubs and leagues are returning, but uncertainties remain. How different European federations are coping, is reported by <em>Stefan L&ouml;ffler</em> </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/jeugdnl.1920.jpeg\" title=\"In the Netherlands, chess can be played without masks, here at the Youth Championship. https://njsk.nl/\" data-title=\"In the Netherlands, chess can be played without masks, here at the Youth Championship. (https://njsk.nl/)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/jeugdnl.480.jpeg\" alt=\"In the Netherlands, chess can be played without mask",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/back-to-life/",
-         "pubDate" : "Wed, 15 Sep 2021 16:27:19 +0100",
-         "title" : "Back to life"
       },
       {
          "description" : "",
@@ -2176,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1302",
          "pubDate" : "Sun, 29 Aug 2021 20:54:45 +0000",
          "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
-      },
-      {
-         "description" : "A special kind of magic trick is to turn one thing into another - a.k.a. a switcheroo. In endgame studies, one such transformation is turning a stalemate into a checkmate. Columnist Siegfried Hornecker shows phenomenal examples which made use of this fantastic 'magic trick'. | Pictured: Ernest Pogosyants",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-08",
-         "pubDate" : "Sun, 29 Aug 2021 16:00:00 +0100",
-         "title" : "Stalemate? Checkmate!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85739307.cms\" />Levon Aronian kicked off his Aimchess US Rapid campaign in style on Saturday. The Armenian star took the lead in the three-day prelim stage with a superb unbeaten 4/5.",
