@@ -47,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Thu, 16 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Live!"
+         "title" : "Norway Chess - Carlsen beats Karjakin"
       },
       {
          "description" : "Magnus Carlsen moved to within half a point of Richard Rapport after beating the leader on demand in Round 8. For a second day in a row there was no need for Armageddon as Aryan Tari scored his first win in 18 Norway Chess classical games, against none other than Ian Nepomniachtchi. It was another bad day for both Russian players as Sergey Karjakin also fell to Alireza Firouzja, with the 18-year-old now a single win away from the Top 10.",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1298",
          "pubDate" : "Fri, 27 Aug 2021 07:57:04 +0000",
          "title" : "Maxime Vachier-Lagrave wins Sinquefield Cup 2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85680551.cms\" />Indian Grandmaster S P Sethuraman won the Barcelona Open chess tournament title here while compatriot Karthikeyan Murali finished third.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-sethuraman-wins-barcelona-open-k-murali-takes-3rd-spot/articleshow/85680551.cms",
-         "pubDate" : "Fri, 27 Aug 2021 12:15:31 +0530",
-         "title" : "Indian GM Sethuraman wins Barcelona Open, K Murali takes 3rd spot"
-      },
-      {
-         "description" : "European Individual Chess Championship 2021 kicked off yesterday in Reykjavik, Iceland. The event was opened shortly before the start of the first round. Prime Minister of Iceland Mrs. Katr&iacute;n Jakobsd&oacute;ttir and the ECU Deputy President and Chief Organiser Mr. Gunnar Bjornsson addressed the players and made the 1st inaugural move in the game between GM Jones Gawain C&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-championship-2021-kicked-off-in-reykjavik/",
-         "pubDate" : "Fri, 27 Aug 2021 06:13:31 +0000",
-         "title" : "European Chess Championship 2021 kicked off in Reykjavik"
       }
    ]
 }
