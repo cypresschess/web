@@ -1,5 +1,4 @@
 jtable([
-
 "HOUSTON","2021-09-11","82","<a href=http://www.uschess.org/msa/XtblMain.php?202109119692 target=' blank'>KIPP SPIRIT MIDDLE SCHOOL SCHOLASTI</a>",
 "CYPRESS","2021-09-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202109109122 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-09-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202109100022 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -22,7 +21,6 @@ jtable([
 "CYPRESS","2021-08-13","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108139292 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-12","2","<a href=http://www.uschess.org/msa/XtblMain.php?202108129062 target=' blank'>THURSQUADS2510</a>",
 "HOUSTON","2021-08-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108087812 target=' blank'>AUG SUNDAY SWISS  88</a>",
-
 "SPRING","2021-08-06","24","<a href=http://www.uschess.org/msa/XtblMain.php?202108066942 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target=' blank'>FBCC HOT AUGUST NIGHT 2021</a>",
 "CYPRESS","2021-08-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108066882 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -46,7 +44,6 @@ jtable([
 "PEARLAND","2021-07-15  - 07-16","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107165912 target=' blank'>JULY PEARLAND MARRIOTT CHESS CAMP 2</a>",
 "HOUSTON","2021-07-16","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107161302 target=' blank'>FRIDAYFLEXJULIII</a>",
 "PEARLAND","2021-07-12  - 07-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107155942 target=' blank'>SCS PEARLAND MARRIOTT CHESS CAMP</a>",
-
 "HOUSTON","2021-07-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107096112 target=' blank'>FRIDAYFLEX79</a>",
 "CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target=' blank'>05212021KOFC</a>",
 "SPRING","2021-07-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202107096062 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -67,7 +64,6 @@ jtable([
 "CYPRESS","2021-06-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202106180552 target=' blank'>05212021KOFC</a>",
 "HOUSTON","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106180062 target=' blank'>FRINITEJUN18</a>",
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target=' blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
-
 "HOUSTON","2021-05-14  - 06-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106117892 target=' blank'>POISONPAWNRECREATE</a>",
 "CYPRESS","2021-06-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202106116582 target=' blank'>11JUN21</a>",
 "SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -88,7 +84,6 @@ jtable([
 "SPRING","2021-05-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105147372 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target=' blank'>TCR: WEST HOUSTON CHESS OPEN I</a>",
 "HOUSTON","2021-05-08","107","<a href=http://www.uschess.org/msa/XtblMain.php?202105086112 target=' blank'>ST THOMAS HS CHESS TOURNAMENT</a>",
-
 "KATY","2021-05-08","13","<a href=http://www.uschess.org/msa/XtblMain.php?202105082512 target=' blank'>SR CHESSKNIGHTS 05082021</a>",
 "SPRING","2021-05-07","10","<a href=http://www.uschess.org/msa/XtblMain.php?202105075812 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-05-01","16","<a href=http://www.uschess.org/msa/XtblMain.php?202105012492 target=' blank'>SR CHESSKNIGHTS 05012021</a>",
@@ -111,7 +106,6 @@ jtable([
 "SUGAR LAND","2021-03-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202103273712 target=' blank'>FBCC 2021 MARCH MAELSTROM OPEN</a>",
 "KATY","2021-03-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202103272402 target=' blank'>SR CHESSKNIGHTS 03272021</a>",
 "SPRING","2021-03-26","33","<a href=http://www.uschess.org/msa/XtblMain.php?202103263422 target=' blank'>THE FRIDAY KNIGHTS</a>",
-
 "KATY","2021-03-20","14","<a href=http://www.uschess.org/msa/XtblMain.php?202103202392 target=' blank'>SR CHESSKNIGHTS 03202021</a>",
 "SPRING","2021-03-20","19","<a href=http://www.uschess.org/msa/XtblMain.php?202103202022 target=' blank'>DER SPRINGERS G/75</a>",
 "SPRING","2021-03-19","17","<a href=http://www.uschess.org/msa/XtblMain.php?202103191602 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -190,7 +184,6 @@ jtable([
 "KATY","2020-08-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202008296062 target=' blank'>SR CHESSKNIGHTS 08292020</a>",
 "SPRING","2020-08-28","14","<a href=http://www.uschess.org/msa/XtblMain.php?202008284062 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-08-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202008274092 target=' blank'>CBS DOUBLE ROUND ROBIN</a>",
-
 "SPRING","2020-08-21","23","<a href=http://www.uschess.org/msa/XtblMain.php?202008212472 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202008204102 target=' blank'>CBS DUAL</a>",
 "SPRING","2020-08-14","18","<a href=http://www.uschess.org/msa/XtblMain.php?202008141112 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -199,4 +192,11 @@ jtable([
 "SPRING","2020-07-31","34","<a href=http://www.uschess.org/msa/XtblMain.php?202007318022 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-07-29","4","<a href=http://www.uschess.org/msa/XtblMain.php?202007297562 target=' blank'>CBS QUAD</a>",
 "KATY","2020-07-25","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007251202 target=' blank'>SR CHESSKNIGHTS 07252020</a>",
+"SPRING","2020-07-24","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007246452 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"KATY","2020-07-18","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007181182 target=' blank'>SR CHESSKNIGHTS 07182020</a>",
+"SPRING","2020-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007175602 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"SPRING","2020-07-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202007154632 target=' blank'>CHESS QUAD</a>",
+"SUGAR LAND","2020-06-21  - 07-12","3","<a href=http://www.uschess.org/msa/XtblMain.php?202007124142 target=' blank'>FBCC 2020 FATHER'S DAY DOUBLE ROUND</a>",
+"KATY","2020-07-11","19","<a href=http://www.uschess.org/msa/XtblMain.php?202007111162 target=' blank'>SR CHESSKNIGHTS 07112020</a>",
+"KATY","2020-07-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202007109912 target=' blank'>STRATEGEM WHALE SHARKS JULY 2020- S</a>",
 ]);
