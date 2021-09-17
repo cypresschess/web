@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A fourth straight win prompted Magnus Carlsen to grab the lead at the Norway Chess Tournament in Stavanger. The world champion now has a 1&frac12;-point lead over Richard Rapport before Friday's final round. Carlsen faces Ian Nepomniachtchi in what most likely will be their last classical encounter before they meet in Dubai to fight for the World Championship title. | Photo: Lennart Ootes / norwaychess.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
+         "pubDate" : "Fri, 17 Sep 2021 16:55:00 +0100",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen goes into the final round of Norway Chess against Ian Nepomniachtchi as the tournament leader after picking up a 4th win in a row, but he admitted he'd been outplayed and in huge danger against Sergey Karjakin. Richard Rapport trails Magnus by 1.5 points after losing to Ian Nepomniachtchi in Armageddon, while the only other player who can catch Magnus is 18-year-old Alireza Firouzja, who broke into the Top 10 for the first time with a 3rd win in a row, this time against Aryan Tari.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-9-carlsen-wins-4th-in-a-row-firouzja-enters-top-10",
+         "pubDate" : "Fri, 17 Sep 2021 14:19:17 +0000",
+         "title" : "Norway Chess 9: Carlsen wins 4th in a row, Firouzja in Top 10"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86293053.cms\" />Mary Ann Gomes will replace Koneru Humpy in the World women's team event which is scheduled to be held in Sitges, Spain from September 26 to October 3. Humpy, who has taken both her jabs in Covaxin, would have to undergo a 10-day quarantine on arrival.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mary-ann-gomes-replaces-humpy-in-indian-team/articleshow/86293053.cms",
+         "pubDate" : "Fri, 17 Sep 2021 18:15:52 +0530",
+         "title" : "Mary Ann Gomes replaces Humpy in Indian team"
+      },
+      {
+         "description" : "GM Nona Gaprindashvili has filed a lawsuit against Netflix for &#34;false light invasion of privacy&#34; and defamation after a line in the hit series The Queen&#39;s Gambit erroneously suggested that she was playing only against women. The fifth women&#39;s wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nona-gaprindashvili-sues-netflix-the-queens-gambit",
+         "pubDate" : "Fri, 17 Sep 2021 05:30:00 -0700",
+         "title" : "Nona Gaprindashvili Sues Netflix For Alleged Defamation In 'The Queen's Gambit'"
+      },
+      {
          "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. Team USA's program has helped develop several American chess prodigies from across the country. including the likes of GM Jeffery Xiong and GM Sam Sevian. Team USA has been capped off with individualized training sessions with Kasparov's coaching staff and special training sessions with Garry Kasparov himself. | Photo: Left to Right standing: Christopher Yoo, Michael Khodarkovsky, Garry Kasparov, Brandon Jacobson. Sitting: Carissa Yip and Rochelle Wu | Photos: Kasparov Chess Foundation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/young-stars-return-to-in-person-session",
          "pubDate" : "Fri, 17 Sep 2021 13:00:00 +0100",
          "title" : "Young Stars return to in-person session"
+      },
+      {
+         "description" : " Last week, we worked through the beginning of a student game, played between two eight year old's with roughly eight weeks of chess instruction each. I was going to show you the rest of the game this week, but decided to hold off until next week because I want to cover an important middle-game idea, <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\">A Foundation for Beginners Thirty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-five/",
+         "pubDate" : "Fri, 17 Sep 2021 11:47:52 +0000",
+         "title" : "A Foundation for Beginners Thirty Five"
       },
       {
          "description" : "12-year-old Abhimanyu Mishra, the youngest chess grandmaster in history, is among the 17-player field for the Hou Yifan Challenge, the 4th and final event on the Julius Baer Challengers Chess Tour before next month's final. The favourites for the tournament, which kicks off on Saturday 18th September, are previous winners Praggnanandhaa and Vincent Keymer, as well as Kramnik Challenger runner-up Awonder Liang. Poland's Paweł Teclaf and Oliwia Kiołbasa join Mishra in making debuts. ",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/tour-final-with-three-players-in/",
          "pubDate" : "Fri, 17 Sep 2021 09:50:36 +0100",
          "title" : "Tour final with three players in Oslo"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? Stefan L&ouml;ffler reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcaption><em>",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chessable/",
-         "pubDate" : "Fri, 17 Sep 2021 09:32:27 +0100",
-         "title" : "Inside Chessable"
       },
       {
          "description" : "He was close to a defeat this time but GM Magnus Carlsen turned his game with GM Sergey Karjakin around, won his fourth in a row, and became the new leader at Norway Chess with one round to go. GM Alireza Firouzja defeated GM Aryan Tari to enter t...",
@@ -360,6 +392,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-children-and-youth-festival/",
          "pubDate" : "Wed, 15 Sep 2021 08:06:09 +0000",
          "title" : "International Children and Youth Festival"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Armenian online academy <strong>ChessMood</strong> has raised an undisclosed amount from investors, including their early student <strong>Badreddine Ouali</strong>, founder of the <strong>Vermeg</strong> group that specializes in insurance software. ChessMood sponsors a <a href=\"https://open.chessmood.com/en/\">strong open tournament</a> on 4-12 October in the Armenian resort town Tsaghkadzor. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessmood-celebrates-expansion-with/",
+         "pubDate" : "Wed, 15 Sep 2021 08:27:40 +0100",
+         "title" : "ChessMood celebrates expansion with open"
       },
       {
          "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
@@ -1248,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1322",
          "pubDate" : "Wed, 08 Sep 2021 21:46:22 +0000",
          "title" : "Top Division: China and Russia lead"
-      },
-      {
-         "description" : "GM Richard Rapport continues to lead the Norway Chess tournament after drawing both his classical and armageddon games with GM Sergey Karjakin, gaining 1.5 points. GM Magnus Carlsen is in second place after surviving a scare in the classical and t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-2-nepomniachtchi-kings-gambit",
-         "pubDate" : "Wed, 08 Sep 2021 14:23:00 -0700",
-         "title" : "Norway Chess R2: Nepomniachtchi Wins With The King's Gambit"
       },
       {
          "description" : " Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, when [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2240,22 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1299",
          "pubDate" : "Fri, 27 Aug 2021 21:15:55 +0000",
          "title" : "Online Olympiad: Division 3 starts smoothly"
-      },
-      {
-         "description" : " Last week, we took a closer look at the principle of attacking and defending as it applies to the middle-game. The basis of this principles was; if attacking, you want to have more attackers than your opponent has defenders, and when defending, you want to have more defenders than your opponent has attackers. However, there <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-two/\">A Foundation for Beginners Thirty Two</a> appeared first on <a rel=\"nofollow\" hr",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-two/",
-         "pubDate" : "Fri, 27 Aug 2021 18:24:24 +0000",
-         "title" : "A Foundation for Beginners Thirty Two"
-      },
-      {
-         "description" : " Frenchman's opening skills impress at prestigious Sinquefield Cup as all games drawn in three of the last four rounds Maxime Vachier-Lagrave, 30, France's top player and the world No 10, edged out three US rivals by half a point on Thursday night to capture the $90,000 first prize at America's most important international event, the annual Sinquefield Cup in St Louis. The Sinquefield had begun promisingly with a wave of attacking chess in the first three rounds, but then subsided as all five games in rounds six, eight and nine were drawn. <a href=\"https://www.chessbomb.com/arena/2021-grand-chess-tour-sinquefield-cup/09-Mamedyarov_Shakhriyar-Vachier_Lagrave_Maxime\">Vachier-Lagrave's halved f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/aug/27/chess-maxime-vachier-lagrave-edges-us-rivals-st-louis-sinquefield-cup-amid-glut-draws",
-         "pubDate" : "Fri, 27 Aug 2021 14:34:23 +0000",
-         "title" : "Chess: Vachier-Lagrave edges US rivals in St Louis amid glut of draws"
       }
    ]
 }
