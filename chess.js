@@ -18,6 +18,14 @@ news_feed (
          "title" : "Norway Chess 9: Carlsen wins 4th in a row, Firouzja in Top 10"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former women's world champion <strong>Nona Gaprindashvili</strong> <a href=\"https://www.documentcloud.org/documents/21063359-gaprindashvili\">is suing</a> <strong>Netflix</strong> for <a href=\"https://www.hollywoodreporter.com/tv/tv-news/netflix-sued-by-ex-soviet-chess-champion-over-sexist-remark-in-queens-gambit-1235015139/\">$5 million in damages</a> because a commentator in the final episode of The Queen's Gambit said \"there's Nona Gaprindashvili, but she's the female world champion and has never faced men\", which according to her lawyer <strong>Rodney Smolla</strong> is false and sexist. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/gaprindashvili-sues-netflix/",
+         "pubDate" : "Fri, 17 Sep 2021 15:14:45 +0100",
+         "title" : "Gaprindashvili sues Netflix"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86293053.cms\" />Mary Ann Gomes will replace Koneru Humpy in the World women's team event which is scheduled to be held in Sitges, Spain from September 26 to October 3. Humpy, who has taken both her jabs in Covaxin, would have to undergo a 10-day quarantine on arrival.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-children-and-youth-festival/",
          "pubDate" : "Wed, 15 Sep 2021 08:06:09 +0000",
          "title" : "International Children and Youth Festival"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Armenian online academy <strong>ChessMood</strong> has raised an undisclosed amount from investors, including their early student <strong>Badreddine Ouali</strong>, founder of the <strong>Vermeg</strong> group that specializes in insurance software. ChessMood sponsors a <a href=\"https://open.chessmood.com/en/\">strong open tournament</a> on 4-12 October in the Armenian resort town Tsaghkadzor. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessmood-celebrates-expansion-with/",
-         "pubDate" : "Wed, 15 Sep 2021 08:27:40 +0100",
-         "title" : "ChessMood celebrates expansion with open"
       },
       {
          "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
