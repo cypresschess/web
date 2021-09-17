@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. Team USA's program has helped develop several American chess prodigies from across the country. including the likes of GM Jeffery Xiong and GM Sam Sevian. Team USA has been capped off with individualized training sessions with Kasparov's coaching staff and special training sessions with Garry Kasparov himself. | Photo: Left to Right standing: Christopher Yoo, Michael Khodarkovsky, Garry Kasparov, Brandon Jacobson. Sitting: Carissa Yip and Rochelle Wu | Photos: Kasparov Chess Foundation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/young-stars-return-to-in-person-session",
+         "pubDate" : "Fri, 17 Sep 2021 13:00:00 +0100",
+         "title" : "Young Stars return to in-person session"
+      },
+      {
+         "description" : "12-year-old Abhimanyu Mishra, the youngest chess grandmaster in history, is among the 17-player field for the Hou Yifan Challenge, the 4th and final event on the Julius Baer Challengers Chess Tour before next month's final. The favourites for the tournament, which kicks off on Saturday 18th September, are previous winners Praggnanandhaa and Vincent Keymer, as well as Kramnik Challenger runner-up Awonder Liang. Poland's Paweł Teclaf and Oliwia Kiołbasa join Mishra in making debuts. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-s-youngest-gm-joins-field-for-hou-yifan-challenge",
+         "pubDate" : "Fri, 17 Sep 2021 10:29:23 +0000",
+         "title" : "World's youngest GM joins field for Hou Yifan Challenge"
+      },
+      {
+         "description" : " China and India eliminated in semi-finals as big four of world chess outclass their rivals Russia's highly rated squad won gold at last week's 150-nation online Olympiad, yet the US silver medal team could argue that they were moral victors. Playing without all their top stars, the Americans were defeated by only a narrow 7-5 margin in a tense final match. Earlier in the semi-finals, Russia beat China while the US, again the rating underdogs, eliminated India in a speed tie-break. These four countries are in a class apart, the superpowers of world chess. <a href=\"https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5\">Continue reading..",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5",
+         "pubDate" : "Fri, 17 Sep 2021 10:04:04 +0000",
+         "title" : "Chess: Russia capture Olympiad gold, edging weakened US team 7-5"
+      },
+      {
+         "description" : "A fourth straight win prompted Magnus Carlsen to grab the lead at the Norway Chess Tournament in Stavanger. The world champion had an inferior position in the middlegame against Sergey Karjakin, but ended up making the most of his material advantage after the Russian gave up an exchange for the initiative. Meanwhile, Ian Nepomniachtchi beat Richard Rapport in Armageddon, and Alireza Firouzja scored his third consecutive win in classical chess. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r9",
+         "pubDate" : "Fri, 17 Sep 2021 10:50:00 +0100",
+         "title" : "Norway Chess: Carlsen grabs the lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Final of the <strong>Meltwater Champions Chess Tour</strong> on 25 September to 4 October cannot be held as hoped over-the-board in San Francisco. Still, three of the ten qualified players, world champion <strong>Magnus Carlsen, Jan-Krzysztof Duda</strong> and <strong>Anish Giri</strong>, will not compete from their home <a href=\"https://championschesstour.com/the-final-countdown-worlds-elite-prepare-for-tour-decider/\">but from the main production studio</a> in Oslo, giving the $300,000-event a hybrid element. Out of the first ten in the standings, <strong>Ian Nepomniachtchi</strong> bowed out to concentrate on his preparation for the world cham",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/tour-final-with-three-players-in/",
+         "pubDate" : "Fri, 17 Sep 2021 09:50:36 +0100",
+         "title" : "Tour final with three players in Oslo"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? Stefan L&ouml;ffler reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcaption><em>",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chessable/",
+         "pubDate" : "Fri, 17 Sep 2021 09:32:27 +0100",
+         "title" : "Inside Chessable"
+      },
+      {
          "description" : "He was close to a defeat this time but GM Magnus Carlsen turned his game with GM Sergey Karjakin around, won his fourth in a row, and became the new leader at Norway Chess with one round to go. GM Alireza Firouzja defeated GM Aryan Tari to enter t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-43-good-bishops-bad-bishops",
          "pubDate" : "Thu, 16 Sep 2021 18:00:00 +0100",
          "title" : "Understanding before Moving 43: Good bishops, bad bishops"
-      },
-      {
-         "description" : "By scoring a third straight win - taking down sole leader Richard Rapport - Magnus Carlsen is now only a half point behind the Hungarian with two rounds to go at the Norway Chess Tournament. In round 9, Carlsen plays Sergey Karjakin while Rapport faces Ian Nepomniachtchi. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Thu, 16 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Carlsen beats Karjakin"
       },
       {
          "description" : "Magnus Carlsen moved to within half a point of Richard Rapport after beating the leader on demand in Round 8. For a second day in a row there was no need for Armageddon as Aryan Tari scored his first win in 18 Norway Chess classical games, against none other than Ian Nepomniachtchi. It was another bad day for both Russian players as Sergey Karjakin also fell to Alireza Firouzja, with the 18-year-old now a single win away from the Top 10.",
@@ -322,14 +362,6 @@ news_feed (
          "title" : "International Children and Youth Festival"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Armenian online academy <strong>ChessMood</strong> has raised an undisclosed amount from investors, including their early student <strong>Badreddine Ouali</strong>, founder of the <strong>Vermeg</strong> group that specializes in insurance software. ChessMood sponsors a <a href=\"https://open.chessmood.com/en/\">strong open tournament</a> on 4-12 October in the Armenian resort town Tsaghkadzor. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessmood-celebrates-expansion-with/",
-         "pubDate" : "Wed, 15 Sep 2021 08:27:40 +0100",
-         "title" : "ChessMood celebrates expansion with open"
-      },
-      {
          "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -376,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid-2",
          "pubDate" : "Tue, 14 Sep 2021 18:24:42 +0100",
          "title" : "The Weekly Show: A typical Carlsen victory"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> From 2022, Dutch <a href=\"https://www.schaakbond.nl/sites/default/files/userfiles/schaakbond/corona/Instructie%20btw-plicht%20denksportverenigingen.pdf\">chess clubs and events have to pay VAT</a>, unless they claim to be ruled as small enterprises with an annual turnover below €20,000. Mind sports are losing the tax privilege in the Netherlands following a ruling of the <strong>European Court of Justice</strong> in 2017 that Bridge is not a sport for the purposes of the VAT directive, which confirmed the <a href=\"https://eur-lex.europa.eu/content/news/CJ_bridge.html\">rejection of claims</a> of the <strong>English Bridge Union</strong> with support",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/dutch-chess-loses-sport-tax/",
-         "pubDate" : "Tue, 14 Sep 2021 17:45:08 +0100",
-         "title" : "Dutch chess loses sport tax privilege"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg\" data-image-dimensions=\"320x479\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Anna Muzychuk\" data-load=\"false\" data-image-id=\"6140abc9088eab5f0dff6c37\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Anna Muzychu",
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "Anton Demchenko is the European Chess Champion for 2021"
       },
       {
-         "description" : "Magnus Carlsen called it \"a fairly smooth ride\" as he beat Vladislav Artemiev 2.5:0.5 to win the Aimchess US Rapid. His victory matched Wesley So's three titles on the $1.6 million Meltwater Champions Chess Tour and means Magnus will now have a significant head start over the US Champion going into the Tour Finals later this month. Artemiev also plays the Finals after brilliantly reaching one semi-final and two finals in the only three tour events he played.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-smooth-aimchess-us-rapid",
-         "pubDate" : "Mon, 06 Sep 2021 08:15:46 +0000",
-         "title" : "Magnus Carlsen wins \"smooth\" Aimchess US Rapid"
-      },
-      {
          "description" : "Appended below please find the list of players registered for Under-8 Western Asian Online Youth Chess Championship based on registration for National Under-8 Championship (participation",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2162,14 +2178,6 @@ news_feed (
          "title" : "Indian GM Iniyan wins Noisiel International Open tournament"
       },
       {
-         "description" : "The Sinquefield Cup concluded on August 26 with Maxime Vachier-Lagrave scoring 6/9 points and winning clear first ahead of three Americans: Fabiano Caruana, Leinier Dominguez, and Wesley So. So scored 2&frac12;/3 in the early rounds and played a very solid tournament, which brought him the 2021 Grand Chess Tour title. Joshua Doknjas takes a look at 4 interesting games from the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2021-highlights",
-         "pubDate" : "Sun, 29 Aug 2021 11:00:00 +0100",
-         "title" : "Sinquefield Cup Highlights"
-      },
-      {
          "description" : " Division 3 of the 2021 FIDE Online Olympiad is well underway, with the final Pool matches being played today. As mentioned in my earlier preview, a number of teams are string to field GM's, although in the Scotland v Zambia match, it was an IM that triumphed. <br /> <br /> <b>Jere,Daniel (2397) - Aagaard,Jacob (2502) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (3.4), 27.08.2021 <script>new PgnViewer( { boardName: \"game1266\", movesFormat: \"default\", pgnString:'1.c4 e6 2.g3 d5 3.Bg2 c6 4.Nf3 Nf6 5.b3 a5 6.Nc3 d4 7.Na4 c5 8.O-O Nc6 9.e3 e5 10.exd4 e4 11.Ng5 Bg4 12.Qe1 Nxd4 13.Nxe4 Ne2+ 14.Kh1 Nxe4 15.Bxe4 Qd4 16.f3 Qxa1 17.Qxe2 Be6 18.Nc3 Rd8 19.Bd5 1-0', pauseBetweenMoves: 500, pieceSi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/aug/27/chess-maxime-vachier-lagrave-edges-us-rivals-st-louis-sinquefield-cup-amid-glut-draws",
          "pubDate" : "Fri, 27 Aug 2021 14:34:23 +0000",
          "title" : "Chess: Vachier-Lagrave edges US rivals in St Louis amid glut of draws"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1298",
-         "pubDate" : "Fri, 27 Aug 2021 07:57:04 +0000",
-         "title" : "Maxime Vachier-Lagrave wins Sinquefield Cup 2021"
       }
    ]
 }
