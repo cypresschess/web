@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Part of my life, outside of chess, is to give the occasional philosophy lecture, and I'll soon offer one on the topic of free will. Here's your chance to offer me a little help with that: I'd like to see where people's intuitions are in the following case. So even if you don't normally comment, please make an exception in this case so I can get a larger sample size. It's not a scientific poll, obviously, but more comments/votes will still make for more interesting data. Here's the scenario. Imagine that you're a college student, studying in your dorm for a coming test. You've been at it for a couple of hours, and are considering taking a break to visit with some friends for a while before s",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/18/free-will-survey.html",
-         "pubDate" : "Sat, 18 Sep 2021 18:15:46 +0000",
-         "title" : "Free Will Survey"
+         "description" : "Day 1 of the Hou Yifan Challenge, the last regular event of the Julius Baer Challengers Tour, saw Praggnanandhaa scoring five wins in as many games to take the sole lead. Vincent Keymer won his first four games, but lost against Christopher Yoo in the final round of the day, and now stands in sole second place. Pragg's sister Vaishali was the strongest among the women, as she collected 2&frac12; points in four games. | Pictured: Vaishali and Pragg with their mother, Nagalakshmi | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-1",
+         "pubDate" : "Sat, 18 Sep 2021 23:25:00 +0100",
+         "title" : "Hou Yifan Challenge: Pragg still perfect"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1342",
+         "pubDate" : "Sat, 18 Sep 2021 20:01:15 +0000",
+         "title" : "Pilot project FIDE/UNCHR Girls Club \"Chess for protection\" Kakuma 2021/2022 launched"
       },
       {
          "description" : "It&#39;s time for the eighth season of the wildly popular Arena Kings tournament on Chess.com! Once again featuring a doubled $40,000 prize fund, this season begins Wednesday, September 22 at 10 a.m. PT/19:00 CEST. Streamers from around the world do...",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-arena-kings-8",
          "pubDate" : "Sat, 18 Sep 2021 09:59:58 -0700",
          "title" : "Announcing Arena Kings 8"
-      },
-      {
-         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
-         "pubDate" : "Sat, 18 Sep 2021 15:55:00 +0100",
-         "title" : "Hou Yifan Challenge - Live!"
       },
       {
          "description" : " One of the things I thought was great about \"The Queens Gambit\" was the attention to detail. The equipment looked legitimate, the games and moves looked real, and even some of the casting of extras was spot on. In fact one of the casting choices was the very brief scene where Nona Gaprindashvili was featured (for no more than a couple of seconds). However the creators are now being sued over this scene, for the line that \"she has never faced men\". Gaprindashvili is asking for $5M, although I would be surprised if she will get this (NB I am not a lawyer). When I saw the scene, I (and any serious chess player) knew this was not correct, as she had played in plenty of events against male playe",
@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
          "pubDate" : "Sat, 18 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup - Live!"
+         "title" : "European Club Cup - Round 1"
       },
       {
          "description" : "\"I came away with absolutely everything I could have hoped for,\" said Magnus Carlsen after winning Norway Chess for a 3rd year in a row and a 4th time in total. He did it with another Armageddon win over his World Championship Challenger Ian Nepomniachtchi, who called his own performance \"completely disgusting\". Alireza Firouzja took 2nd place for a 2nd year in a row with a stunning win over Richard Rapport that completed a 4-game winning streak. It was a tough end for Richard, but left both in the World Top 10 for the 1st time in their careers.",
@@ -82,6 +82,14 @@ news_feed (
          "title" : "Congratulations Raja Rithvik : 70th Grandmaster of India"
       },
       {
+         "description" : "Nona Gaprindashvili, a history-making chess champion, has sued the giant video portal Netflix over a line in the series 'The Queen's Gambit', where it was claimed that the female world champion had never faced men. Nona and her attorneys called the statement grossly sexist and belittling. \"By 1968, the year in which the episode is set, she had competed against at least 59 male chess players.\" The international news is full of the story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-pioneer-sues-netflix",
+         "pubDate" : "Sat, 18 Sep 2021 10:00:00 +0100",
+         "title" : "Chess Pioneer Sues Netflix"
+      },
+      {
          "description" : "My title this week, \"Chess has its reasons, of which Reason itself is well aware\", is a homage to that great French mathematician and pre-Enlightenment thinker, Blaise Pascal (1623-1662, his adding machine pictured above). His Pens&eacute;es (a collection of surviving fragments or \"Thoughts\") refer to matters of the heart in similar, but reversed polarity: \"Le []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -96,30 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/an-uncompromising-attack",
          "pubDate" : "Sat, 18 Sep 2021 09:00:00 +0100",
          "title" : "An uncompromising attack"
-      },
-      {
-         "description" : "Nona Gaprindashvili, a history-making chess champion, has sued the giant video portal Netflix over a line in the series 'The Queen's Gambit', where it was claimed that the female world champion had never faced men. Nona and her attorneys called the statement grossly sexist and belittling. \"By 1968, the year in which the episode is set, she had competed against at least 59 male chess players.\" The international news is full of the story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-pioneer-sues-netflix",
-         "pubDate" : "Sat, 18 Sep 2021 05:52:26 +0100",
-         "title" : "Chess Pioneer Sues Netflix"
-      },
-      {
-         "description" : " Remember the movie \"Amadeus\"? In it, Antonio Salieri, a contemporary composer of Mozart's era, is presented as an absolute villian, consumed by jealousy of Mozart's gifts (combined with his crude and eccentric behavior) and bitter resentment towards God that his piety was rewarded by musical mediocrity while the shameless Mozart produced such heavenly works. It made for a gripping film, which won eight Academy Awards, but it was an utterly slanderous work with regard to the historical Salieri. This is of course standard operating procedure in Hollywood, which uses the magic weasel words \"based on a true story\" to exempt itself from defamation lawsuits, or in other cases offers up the boiler",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/17/nona-gaprindashvili-sues-netflix-over-queens-gambit-slight.html",
-         "pubDate" : "Sat, 18 Sep 2021 02:35:25 +0000",
-         "title" : "Nona Gaprindashvili Sues Netflix over \"Queen's Gambit\" Slight"
-      },
-      {
-         "description" : " The champ is the champ for a reason. Magnus Carlsen won the <a href=\"ss_temp_url\">2021 Norway Chess tournament</a>, and while his play in the second half of the event was very good it wasn't an easy win. Richard Rapport played very well through the first seven rounds, and Alireza Firouzja came on like a freight train in the end. But overall, Carlsen played the best chess and enjoyed the most consistent results. He won four classical games in a row in rounds 6-9, and in five of the six remaining rounds drew the classical game and triumphed in Armageddon. He only lost one game in the entire event, a classical game against Sergey Karjakin in round 5. Entering today's round a classical win woul",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/17/norway-chess-2021-final-round-carlsen-first-firouzja-second.html",
-         "pubDate" : "Sat, 18 Sep 2021 02:08:32 +0000",
-         "title" : "Norway Chess 2021, Final Round: Carlsen First, Firouzja Second"
       },
       {
          "description" : "GM Magnus Carlsen won the Norway Chess tournament for the third time in a row, and the fourth in total. Like in the first half of the tournament, the world champion won the armageddon game against world title challenger GM Ian Nepomniachtchi, who ...",
@@ -274,14 +258,6 @@ news_feed (
          "title" : "Norway Chess R9: Carlsen Leads After 4th Straight Win; Firouzja Enters World's Top 10"
       },
       {
-         "description" : " Remember, folks: when a streaky player is down, you've got to keep him down. In the first half of this year's edition of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament, Magnus Carlsen wasn't playing particularly well, with four draws and a loss in the classical games. Then, with a win in round 6, it was as if a light switch was flipped on, and now he has won four in a row and has finally vaulted into the lead. Today's victim was the player who conquered him in round 5, Sergey Karjakin. In fact, Carlsen didn't start this game very well, and was much worse if not lost in the early middlegame. But he defended well, and Karjakin couldn't figure things out. Things went from",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/16/norway-chess-2021-round-9-carlsen-wins-again-leads.html",
-         "pubDate" : "Thu, 16 Sep 2021 20:34:47 +0000",
-         "title" : "Norway Chess 2021, Round 9: Carlsen Wins Again, Leads"
-      },
-      {
          "description" : "The chess world has gotten used to seeing Magnus Carlsen appear on TV shows, but the world champion appearing in a reality show is a first. On Friday VG TV releases \"Ikke lov &aring; le p&aring; hytta\" (\"Don't laugh at the cabin\"), where Carlsen is among 12 of Norway's most funny comedians and influencers are stuck together in a cabin. There's only one rule: You cannot laugh. chess24 got an exclusive peek into it.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -392,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-norway-chess-round-8-carlsen-rapport",
          "pubDate" : "Wed, 15 Sep 2021 16:37:00 -0700",
          "title" : "Norway Chess R8: Carlsen Beats Rapport In Top Clash"
-      },
-      {
-         "description" : " That Magnus Carlsen guy is pretty good. Three rounds ago, he was tied for next-to-last place, and now he's only half a point out of first in the <a href=\"https://norwaychess.no/\">Norway Chess</a> tournament. He won his third classical game in a row, this time against tournament leader Richard Rapport; he's looking like a boss. Rapport has played very well all tournament, and even in this game he only made one real error, and this after suffering under pressure for hours and hours. So we shouldn't assume that Rapport will be passed by the world champion, but he will have to play great chess to keep the lead. Meanwhile, Carlsen's challenger seems to be wearing cement shoes. Despite having the",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/15/norway-chess-round-8-carlsen-defeats-rapport.html",
-         "pubDate" : "Wed, 15 Sep 2021 23:20:44 +0000",
-         "title" : "Norway Chess, Round 8: Carlsen Defeats Rapport"
       },
       {
          "description" : "The PRO Chess League: Arena Royale is right around the corner, with action beginning on September 16. Be sure to catch your favorite PCL teams in battle during this exciting eight-day event! The Saint Louis Arch Bishops are loaded as usual. They...",
@@ -568,14 +536,6 @@ news_feed (
          "link" : "https://aicf.in/online-chess-olympiad-india-lose-to-usa-in-semis/",
          "pubDate" : "Wed, 15 Sep 2021 03:30:19 +0000",
          "title" : "Online Chess Olympiad: India lose to USA in semis; settled for Bronze"
-      },
-      {
-         "description" : " Good news for Magnus Carlsen fans: after a listless first half of the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament (four draws and a loss in classical chess), he has won his first two games in the second cycle (against Alireza Firouzja and Aryan Tari) and has jumped from a tie for fourth into clear second. And Carlsen fans with a touch of schadenfreude may also take a little perverse pleasure in his rival's difficulties: Ian Nepomniachtchi was in clear second at the halfway point, but after a draw and an Armageddon loss to Sergey Karjakin in round 6 and a loss to Firouzja in round 7, he finds himself in third, barely ahead of Firouzja and Karjakin. So from the standpoint",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/14/norway-chess-rounds-6-7-carlsen-awakens-but-rapport-keeps-wi.html",
-         "pubDate" : "Tue, 14 Sep 2021 23:10:39 +0000",
-         "title" : "Norway Chess, Rounds 6 & 7: Carlsen Awakens, but Rapport Keeps Winning"
       },
       {
          "description" : "For the first time, the Norway Chess tournament saw three decisive classical games and therefore no armageddons. GM Richard Rapport defeated GM Sergey Karjakin to jump to world number-six in the live ratings. He is now 3.5 points ahead of the ne...",
@@ -842,28 +802,12 @@ news_feed (
          "title" : "Norway Chess R5: Karjakin Beats Carlsen With Exchange Sac"
       },
       {
-         "description" : " Coming into round 5 (of 10) of this year's <a href=\"https://norwaychess.no/en/\">Norway Chess tournament</a>, Magnus Carlsen wasn't leading, but he had at least won every round. All his classical games were drawn, and he won both Armageddon games with White and drew both Armageddons with Black. Perhaps he would have drawn another Armageddon game with Black today, against Sergey Karjakin, but his erstwhile world championship match opponent \"forgot\" the script and won the classical game. Carlsen had no problems in the opening, as he was well-prepared against the 7.Nd5 anti-Sveshnikov line Fabiano Caruana played against Carlsen in their 2018 world championship match. If anything, he had the adv",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/12/norway-chess-round-5-karjakin-beats-carlsen-in-classical.html",
-         "pubDate" : "Sun, 12 Sep 2021 20:43:27 +0000",
-         "title" : "Norway Chess, Round 5: Karjakin Beats Carlsen in Classical"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1330",
          "pubDate" : "Sun, 12 Sep 2021 19:59:37 +0000",
          "title" : "Anish Giri wins Tolstoy Cup"
-      },
-      {
-         "description" : " Following up on the discussion in the <a href=\"http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html\">previous post</a> on this event, in which I protest slightly against Leo Tolstoy's logorrhea in <em>War and Peace</em>, it seems mildly ironic that a chess tournament named for him, the <a href=\"https://ruchess.ru/en/\">Tolstoy Cup</a>, is a rapid one. Shouldn't each game be played with, say, a 10-hour time control instead? But I digress. At the end of the first day of action, with Anish Giri enjoying a 5-0 score while his not-too-close closest pursuers - all six(!) of them - had only 2.5 points, a couple of entertaining scenarios seemed",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/12/giri-wins-the-tolstoy-cup.html",
-         "pubDate" : "Sun, 12 Sep 2021 19:50:15 +0000",
-         "title" : "Giri Wins the Tolstoy Cup"
       },
       {
          "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
@@ -2272,14 +2216,6 @@ news_feed (
          "link" : "https://chessimprover.com/fortress/",
          "pubDate" : "Sun, 29 Aug 2021 08:18:10 +0000",
          "title" : "Fortress"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1301",
-         "pubDate" : "Sat, 28 Aug 2021 21:07:18 +0000",
-         "title" : "Venezuela dominates in Division 3"
       }
    ]
 }
