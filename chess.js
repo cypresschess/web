@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Part of my life, outside of chess, is to give the occasional philosophy lecture, and I'll soon offer one on the topic of free will. Here's your chance to offer me a little help with that: I'd like to see where people's intuitions are in the following case. So even if you don't normally comment, please make an exception in this case so I can get a larger sample size. It's not a scientific poll, obviously, but more comments/votes will still make for more interesting data. Here's the scenario. Imagine that you're a college student, studying in your dorm for a coming test. You've been at it for a couple of hours, and are considering taking a break to visit with some friends for a while before s",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/18/free-will-survey.html",
+         "pubDate" : "Sat, 18 Sep 2021 18:15:46 +0000",
+         "title" : "Free Will Survey"
+      },
+      {
+         "description" : "It&#39;s time for the eighth season of the wildly popular Arena Kings tournament on Chess.com! Once again featuring a doubled $40,000 prize fund, this season begins Wednesday, September 22 at 10 a.m. PT/19:00 CEST. Streamers from around the world do...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-arena-kings-8",
+         "pubDate" : "Sat, 18 Sep 2021 09:59:58 -0700",
+         "title" : "Announcing Arena Kings 8"
+      },
+      {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-4th-norway-chess-title",
          "pubDate" : "Sat, 18 Sep 2021 13:44:48 +0000",
          "title" : "Magnus Carlsen wins 4th Norway Chess title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1341",
+         "pubDate" : "Sat, 18 Sep 2021 11:45:19 +0000",
+         "title" : "FIDE World Women's Team Championship 2021: preview"
       },
       {
          "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to ninth place in the world ranking. | Photo: Lennart Ootes",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Leinier Dominguez wins Champions Showdown in Saint Louis"
       },
       {
-         "description" : " The headline is a reference someone's joke - Hans Kmoch's, I think - about the 1963/4 U.S. Championship. Bobby Fischer went 11-0, while Larry Evans was second with something like 7.5 points. Kmoch congratulated Evans on winning the tournament and Fischer on winning the exhibition, as if he had been giving a simul to amateurs. Well, after day 1 of the <a href=\"https://ruchess.ru/en/\">Leo Tolstoy Cup</a> (so named because the event is being held at the writer's estate, and not because it runs far longer than necessary*) something similar is afoot. After five of the nine rounds of this rapid tournament, Anish Giri is 5-0, while his closest pursuers - six of them, and they're not fish - have 2.",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html",
-         "pubDate" : "Sat, 11 Sep 2021 17:40:05 +0000",
-         "title" : "Tolstoy Cup: Six Lead the Tournament; Giri Winning the Exhibition"
-      },
-      {
          "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/a-very-fine-line.html",
          "pubDate" : "Thu, 09 Sep 2021 12:21:00 +0000",
          "title" : "A very fine line"
-      },
-      {
-         "description" : "GM Fabiano Caruana leads the Champions Showdown Chess9LX tournament in St. Louis after the first of three days. A surprising result was GM Hikaru Nakamura&#39;s 0/3, while GM Garry Kasparov&#38;nbsp;drew twice and lost one. Round 3 standings #...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-showdown-chess9lx-day-1",
-         "pubDate" : "Thu, 09 Sep 2021 04:25:09 -0700",
-         "title" : "Champions Showdown Chess9LX Day 1: Caruana Leads"
       },
       {
          "description" : "",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1301",
          "pubDate" : "Sat, 28 Aug 2021 21:07:18 +0000",
          "title" : "Venezuela dominates in Division 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1300",
-         "pubDate" : "Sat, 28 Aug 2021 19:28:32 +0000",
-         "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
       }
    ]
 }
