@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
+         "pubDate" : "Sat, 18 Sep 2021 15:55:00 +0100",
+         "title" : "Hou Yifan Challenge - Live!"
+      },
+      {
+         "description" : " One of the things I thought was great about \"The Queens Gambit\" was the attention to detail. The equipment looked legitimate, the games and moves looked real, and even some of the casting of extras was spot on. In fact one of the casting choices was the very brief scene where Nona Gaprindashvili was featured (for no more than a couple of seconds). However the creators are now being sued over this scene, for the line that \"she has never faced men\". Gaprindashvili is asking for $5M, although I would be surprised if she will get this (NB I am not a lawyer). When I saw the scene, I (and any serious chess player) knew this was not correct, as she had played in plenty of events against male playe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/attention-to-detail.html",
+         "pubDate" : "Sat, 18 Sep 2021 13:56:00 +0000",
+         "title" : "Attention to detail"
+      },
+      {
+         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Sat, 18 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "\"I came away with absolutely everything I could have hoped for,\" said Magnus Carlsen after winning Norway Chess for a 3rd year in a row and a 4th time in total. He did it with another Armageddon win over his World Championship Challenger Ian Nepomniachtchi, who called his own performance \"completely disgusting\". Alireza Firouzja took 2nd place for a 2nd year in a row with a stunning win over Richard Rapport that completed a 4-game winning streak. It was a tough end for Richard, but left both in the World Top 10 for the 1st time in their careers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-4th-norway-chess-title",
+         "pubDate" : "Sat, 18 Sep 2021 13:44:48 +0000",
+         "title" : "Magnus Carlsen wins 4th Norway Chess title"
+      },
+      {
          "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to ninth place in the world ranking. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1418,14 +1450,6 @@ news_feed (
          "title" : "Online Chess Olympiad: India have it easy on Day 1"
       },
       {
-         "description" : "Richard Rapport is the early leader of Norway Chess 2021 after easing to a victory over Aryan Tari that took him up to world no. 9 on the live rating list. The match of the day saw World Champion Magnus Carlsen facing an opening novelty before a tense classical game against Alireza Firouzja ended in a draw. Then, just as in last year's edition of the tournament, Firouzja looked set to win in Armageddon but was thwarted, this time not by the clock but by a passed pawn that cost him a whole rook.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-1-carlsen-beats-firouzja-as-rapport-enters-top-10",
-         "pubDate" : "Wed, 08 Sep 2021 11:34:50 +0000",
-         "title" : "Norway Chess 1: Carlsen beats Firouzja, Rapport enters Top 10"
-      },
-      {
          "description" : "Good luck to the England team, who are playing this week in the top division of the FIDE Online Olympiad. You can see the players,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2162,14 +2186,6 @@ news_feed (
          "title" : "Theory and practice"
       },
       {
-         "description" : "Half the players were eliminated from the Aimchess US Rapid after three days of preliminaries. Among them are top GMs Anish Giri and Maxime Vachier-Lagrave. Notably, we will get to see four interesting matchups in the quarterfinals, with world champion Magnus Carlsen facing Jan-Krzysztof Duda, after Duda recently beat Carlsen in the semifinals of the World Cup. | Pictured: Locations of the participants",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-3",
-         "pubDate" : "Tue, 31 Aug 2021 08:50:00 +0100",
-         "title" : "Aimchess US Rapid: Carlsen to face Duda in quarterfinals"
-      },
-      {
          "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/",
          "pubDate" : "Tue, 31 Aug 2021 00:10:30 +0000",
          "title" : "The Modernized Modern Benoni"
-      },
-      {
-         "description" : "Herman and Karsten discuss endgames and Herman's forthcoming ChessBase products. Herman tells many surprising stories connected to endgames. He talks, for example, about how Loek van Wely began his serious work on rook endgames. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-158-with-Herman-Grooten",
-         "pubDate" : "Mon, 30 Aug 2021 15:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #158 - with Herman Grooten"
       },
       {
          "description" : "",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1300",
          "pubDate" : "Sat, 28 Aug 2021 19:28:32 +0000",
          "title" : "Bibisara Assaubayeva wins Asian Women's Online Championship"
-      },
-      {
-         "description" : " Brewington Hardaway at 2019 World OpenPhoto by Daaim Shabazz National Master Brewington Hardaway recently competed in the under-12 group at the 2021 North American Youth Chess Championships (NAYCC) in Chicago placing 4th. Coming in with a USCF rating of 2301 he was the top-seed and had a string of strong results in New York tournaments. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/\">Brewington Hardaway 4th at NAYCC, wins blitz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
-         "pubDate" : "Sat, 28 Aug 2021 12:05:57 +0000",
-         "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
       }
    ]
 }
