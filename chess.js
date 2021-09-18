@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to ninth place in the world ranking. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2021-r10",
+         "pubDate" : "Sat, 18 Sep 2021 12:40:00 +0100",
+         "title" : "Carlsen wins Norway Chess, Firouzja shines"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1340",
+         "pubDate" : "Sat, 18 Sep 2021 10:56:56 +0000",
+         "title" : "Magnus Carlsen wins Norway Chess 2021"
+      },
+      {
+         "description" : "Telangana teenager Raja Rithvik becomes the 70th Grandmaster of the country after completing the requirement to be next Grandmaster of the country at Vezerkepzo Grandmaster",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-raja-rithvik-70th-grandmaster-of-india/",
+         "pubDate" : "Sat, 18 Sep 2021 10:40:22 +0000",
+         "title" : "Congratulations Raja Rithvik : 70th Grandmaster of India"
+      },
+      {
+         "description" : "My title this week, \"Chess has its reasons, of which Reason itself is well aware\", is a homage to that great French mathematician and pre-Enlightenment thinker, Blaise Pascal (1623-1662, his adding machine pictured above). His Pens&eacute;es (a collection of surviving fragments or \"Thoughts\") refer to matters of the heart in similar, but reversed polarity: \"Le []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-has-its-reasons-of-which-reason-is-well-aware/",
+         "pubDate" : "Sat, 18 Sep 2021 08:44:23 +0000",
+         "title" : "Chess has its reasons, of which Reason is well aware"
+      },
+      {
          "description" : "In the diagram position, Black just burned his bridges by playing 7...Bg4 which forces White to win a piece with 8.f3. Putting aside \"modern objectivity\" - what I like about the following attack is the energy of Black's moves. He only has one goal in mind: to mate the enemy king. A full-speed nostalgia trip - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1674,6 @@ news_feed (
          "title" : "Western Asian Online Youth Chess Championship : Registration Details"
       },
       {
-         "description" : "Team India consists of WGM Varshini V, WGM Srija Seshadri, WIM Arpita Mukherjee and WIM Michelle Catherina lifted Asian University Women's Chess Championship winners trophy",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-won-asian-university-womens-online-chess-championship-varshini-gets-individual-gold/",
-         "pubDate" : "Sun, 05 Sep 2021 14:56:42 +0000",
-         "title" : "India won Asian University Women's Online Chess Championship; Varshini gets Individual Gold"
-      },
-      {
          "description" : " Street Chess has been out of action for a month, but with the ACT extending the covid lockdown for a few more weeks, I've decided to revive the online version. It will be run at the same time, and with the same format as regular Street Chess, although it will be hosted at lichess.org this year. Like the other ACT based events, it is open to members of the <a href=\"https://lichess.org/team/actca-fast-chess-club\">ACTCA Fast Chess Club</a> on lichess. If you are a Canberra player and want to play, apply to join the team, making sure you include your real name in your application. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2170,14 +2194,6 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #158 - with Herman Grooten"
       },
       {
-         "description" : "The Division 3 stage of the 2021 FIDE Online Olympiad finished on Sunday. After nine rounds in each of the 10-team round robin pools, 15 countries have qualified for the next stage of the tournament. These 15 qualifiers will join 35 new seeded teams in Division 2 - including powerhouses such as Cuba, Italy, Israel, Shenzhen, Slovenia and Sweden, all rated +2300 - which will run next weekend, September 2-4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-division-3",
-         "pubDate" : "Mon, 30 Aug 2021 14:55:00 +0100",
-         "title" : "Peaceful end to Division 3 of the FIDE Online Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/08/28/brewington-hardaway-4th-at-naycc-wins-blitz/",
          "pubDate" : "Sat, 28 Aug 2021 12:05:57 +0000",
          "title" : "Brewington Hardaway 4th at NAYCC, wins blitz"
-      },
-      {
-         "description" : "The Dada Movement, which arose during the First World War, represented a complete break with conventional conceptions of aesthetics. A key member and link to chess was Marcel Duchamp. Dada was officially launched in 1916 at the Cafe Voltaire in Zurich by poets and artists, such as Tristan Tzara and Hans Arp, and was a direct reaction to the mass slaughter, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dada-surrealism-and-the-bongcloud-attack/",
-         "pubDate" : "Sat, 28 Aug 2021 08:00:13 +0000",
-         "title" : "Dada, Surrealism and the Bongcloud Attack"
       }
    ]
 }
