@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black just burned his bridges by playing 7...Bg4 which forces White to win a piece with 8.f3. Putting aside \"modern objectivity\" - what I like about the following attack is the energy of Black's moves. He only has one goal in mind: to mate the enemy king. A full-speed nostalgia trip - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-uncompromising-attack",
+         "pubDate" : "Sat, 18 Sep 2021 09:00:00 +0100",
+         "title" : "An uncompromising attack"
+      },
+      {
+         "description" : "Nona Gaprindashvili, a history-making chess champion, has sued the giant video portal Netflix over a line in the series 'The Queen's Gambit', where it was claimed that the female world champion had never faced men. Nona and her attorneys called the statement grossly sexist and belittling. \"By 1968, the year in which the episode is set, she had competed against at least 59 male chess players.\" The international news is full of the story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-pioneer-sues-netflix",
+         "pubDate" : "Sat, 18 Sep 2021 05:52:26 +0100",
+         "title" : "Chess Pioneer Sues Netflix"
+      },
+      {
+         "description" : " Remember the movie \"Amadeus\"? In it, Antonio Salieri, a contemporary composer of Mozart's era, is presented as an absolute villian, consumed by jealousy of Mozart's gifts (combined with his crude and eccentric behavior) and bitter resentment towards God that his piety was rewarded by musical mediocrity while the shameless Mozart produced such heavenly works. It made for a gripping film, which won eight Academy Awards, but it was an utterly slanderous work with regard to the historical Salieri. This is of course standard operating procedure in Hollywood, which uses the magic weasel words \"based on a true story\" to exempt itself from defamation lawsuits, or in other cases offers up the boiler",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/17/nona-gaprindashvili-sues-netflix-over-queens-gambit-slight.html",
+         "pubDate" : "Sat, 18 Sep 2021 02:35:25 +0000",
+         "title" : "Nona Gaprindashvili Sues Netflix over \"Queen's Gambit\" Slight"
+      },
+      {
          "description" : " The champ is the champ for a reason. Magnus Carlsen won the <a href=\"ss_temp_url\">2021 Norway Chess tournament</a>, and while his play in the second half of the event was very good it wasn't an easy win. Richard Rapport played very well through the first seven rounds, and Alireza Firouzja came on like a freight train in the end. But overall, Carlsen played the best chess and enjoyed the most consistent results. He won four classical games in a row in rounds 6-9, and in five of the six remaining rounds drew the classical game and triumphed in Armageddon. He only lost one game in the entire event, a classical game against Sergey Karjakin in round 5. Entering today's round a classical win woul",
          "iconLink" : "https://cypresschess.github.io/web/nd.png",
          "iconName" : "The Chess<br>Mind",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "http://www.thechessmind.net/blog/2021/9/11/tolstoy-cup-six-lead-the-tournament-giri-winning-the-exhibit.html",
          "pubDate" : "Sat, 11 Sep 2021 17:40:05 +0000",
          "title" : "Tolstoy Cup: Six Lead the Tournament; Giri Winning the Exhibition"
-      },
-      {
-         "description" : " There were no rating points to be won, but Leinier Dominguez's victory in the Chess960, er, <a href=\"https://www.uschesschamps.com/2021-champions-showdown-chess-9lx/overview\">Chess9LX event in St. Louis</a> was nevertheless one of the greatest results of his chess career. His score of 6/9 in the round robin was good enough for clear first - by a whisker. Going into the last round, four of the ten players were tied for first, and the pairings were such that a fifth player could have leapfrogged them all to win! (One sub-scenario where that happened could have had that fifth player in clear first, with SIX players half a point behind.) Dominguez was one of the leaders entering the last round,",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/11/dominguez-wins-chess9lx-in-st-louis.html",
-         "pubDate" : "Sat, 11 Sep 2021 17:21:34 +0000",
-         "title" : "Dominguez Wins Chess9LX in St. Louis"
       },
       {
          "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
@@ -2170,22 +2186,6 @@ news_feed (
          "title" : "Ena Cvitan wins Croatian Women's Championship 2021"
       },
       {
-         "description" : "The United Arab Emirates have the world's tallest building (Burj Khalifa), the world's biggest mall - and the world's biggest chess club. It covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. Now the Sharjah Cultural & Chess Club (SCCC) is inviting you to play in the 4th Sharjah Masters 2021, from September 16 to 26. All event's participants must present a Covid vaccination certificate.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/like-to-play-in-the-sharjah-masters",
-         "pubDate" : "Mon, 30 Aug 2021 14:00:00 +0100",
-         "title" : "Like to play in the Sharjah Masters?"
-      },
-      {
-         "description" : "Here's another opportunity to sharpen your tactical skills: twelve positions taken from recent tournaments, selected by the British magazine CHESS. The diagrams on our news page allow you to move the pieces around to analyse. There is also an embedded engine that will actually play out the position against you! Which means you can work things out directly on the diagrams in the browser. How neat is that?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-london-find-the-winning-move",
-         "pubDate" : "Mon, 30 Aug 2021 11:00:00 +0100",
-         "title" : "Chess London: Find the winning move"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/dada-surrealism-and-the-bongcloud-attack/",
          "pubDate" : "Sat, 28 Aug 2021 08:00:13 +0000",
          "title" : "Dada, Surrealism and the Bongcloud Attack"
-      },
-      {
-         "description" : " With the ACT currently under Covid restrictions, the ACT Junior Chess League is organising the Under 16 Championship as an online, Zoom supervised event. Borrowing heavily from the Online Olympiad (and similar international tournaments), 32 players are taking part in the tournament. It is a 7 round swiss with a time limit of 30m+30s. As one of the arbiters, I can say it has gone pretty well. The two main issues are essentially the same as in any normal junior event, with the players taking too little time over their moves, and parents not understanding the tournament process. The quality of play is a little mixed (mainly do to the rushed moves), but when they slow down, the games can be qui",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/act-under-16s.html",
-         "pubDate" : "Sat, 28 Aug 2021 05:26:00 +0000",
-         "title" : "ACT Under 16's"
       }
    ]
 }
