@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The champ is the champ for a reason. Magnus Carlsen won the <a href=\"ss_temp_url\">2021 Norway Chess tournament</a>, and while his play in the second half of the event was very good it wasn't an easy win. Richard Rapport played very well through the first seven rounds, and Alireza Firouzja came on like a freight train in the end. But overall, Carlsen played the best chess and enjoyed the most consistent results. He won four classical games in a row in rounds 6-9, and in five of the six remaining rounds drew the classical game and triumphed in Armageddon. He only lost one game in the entire event, a classical game against Sergey Karjakin in round 5. Entering today's round a classical win woul",
+         "iconLink" : "https://cypresschess.github.io/web/nd.png",
+         "iconName" : "The Chess<br>Mind",
+         "link" : "http://www.thechessmind.net/blog/2021/9/17/norway-chess-2021-final-round-carlsen-first-firouzja-second.html",
+         "pubDate" : "Sat, 18 Sep 2021 02:08:32 +0000",
+         "title" : "Norway Chess 2021, Final Round: Carlsen First, Firouzja Second"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the Norway Chess tournament for the third time in a row, and the fourth in total. Like in the first half of the tournament, the world champion won the armageddon game against world title challenger GM Ian Nepomniachtchi, who ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2021-norway-chess",
+         "pubDate" : "Fri, 17 Sep 2021 16:54:00 -0700",
+         "title" : "Magnus Carlsen Wins 2021 Norway Chess"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? <em>Stefan L&ouml;ffler</em> reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcap",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -826,14 +842,6 @@ news_feed (
          "title" : "Dominguez Wins Chess9LX in St. Louis"
       },
       {
-         "description" : " Thanks to the funny scoring system used in the <a href=\"https://norwaychess.no/en/\">Norway Chess</a> tournament, one can \"win\" every round but not win the tournament. The tournament is a classical round-robin, with a twist. If someone wins the classical game, they get three points while the loser gets zero. If, however, the classical game is drawn, the players each get a full point, and then play an Armageddon game with the same colors for an additional half a point. In other words, if A beats B in the classical game while C and D draw, with C winning the Armageddon game, the scores will look like this: A 3<br />C 1.5<br />D 1<br />E 0 In this event, Carlsen has been C in every round. All f",
-         "iconLink" : "https://cypresschess.github.io/web/nd.png",
-         "iconName" : "The Chess<br>Mind",
-         "link" : "http://www.thechessmind.net/blog/2021/9/11/norway-chess-2021-carlsen-wins-every-round-but-rapport-leads.html",
-         "pubDate" : "Sat, 11 Sep 2021 17:06:39 +0000",
-         "title" : "Norway Chess 2021: Carlsen Wins Every Round, but Rapport Leads the Tournament at the Rest Day"
-      },
-      {
          "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1323",
          "pubDate" : "Thu, 09 Sep 2021 10:08:01 +0000",
          "title" : "Caruana grabs the lead after Day 1"
-      },
-      {
-         "description" : "We are proud to announce the third season of the Collegiate Chess League (CCL) run in partnership with Chess.com and the Corporate Esports Association (CEA). Since the league&#39;s creation in 2019, the chess world has seen incredible increases in pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/registration-is-open-for-season-3-of-the-collegiate-chess-league",
-         "pubDate" : "Wed, 08 Sep 2021 20:42:00 -0700",
-         "title" : "Registration Is Open For Season 3 Of The Collegiate Chess League"
       },
       {
          "description" : "",
