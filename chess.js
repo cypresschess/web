@@ -626,14 +626,6 @@ news_feed (
          "title" : "Norway Chess: Rapport extends his lead"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Work 4 Chess!</strong> <strong>Conference, <time datetime='2021-09-18T10:00:00' itemprop=\"startDate\">Sat 18 Sep 2021, 10.00</time>-<time datetime='2021-09-18T18:00:00' itemprop=\"endDate\">18.00</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'><a href=\"https://beamian.com/\">beamian</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/work4chess-home-image-16-9-with-lo.jpeg?v=4\" class=\"js-img\" title=\"Work4Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://bridge.beamian.com/event/475/",
-         "pubDate" : "Tue, 14 Sep 2021 09:24:04 +0100",
-         "title" : "Work 4 Chess!"
-      },
-      {
          "description" : " <p class=\"lead\">Sergey Karjakin, the 2016 challenger, had beaten the World Champion, Magnus Carlsen, in a classical game in Round 5 of the <a href=\"https://norwaychess.no/en/\">Norway Chess Tournament</a>. In the next round, he defeated the 2021 challenger, Ian Nepomniachtchi, in the Armageddon game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/241853433_4439909929401681_5046324048729064120_n-min.jpg\" width=\"2048\" height=\"1256\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes</div> </div> Carlsen chose to play safe with black, and went for the Sicilian Sveshnikov, an opening that he used in his 2018 match against Fabiano Caruana. After 17 moves of",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
