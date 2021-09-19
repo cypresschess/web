@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Apparently there is no stopping Praggnanandhaa at the Hou Yifan Challenge for young stars. The Indian prodigy has won all 9 of his games so far in the rapid tournament taking place online. Vincent Keymer is currently in second place, two points behind Pragg, albeit with one game less to his name. Keymer will face Pragg on Monday, in round 11. | Pictured: Pragg during a training session with Vladimir Kramnik in 2019 | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-2",
+         "pubDate" : "Mon, 20 Sep 2021 01:10:00 +0100",
+         "title" : "Hou Yifan Challenge: Pragg keeps up the pace"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> won four games in a row in the second half of <strong>Norway Chess</strong> and came first. The world champion condeded a draw only when playing with Black against his challenger <strong>Ian Nepomniachtchi</strong>, who lost against Aryan Tari and scored only 50 % in the classical games. Carlsen is expected in Struga to play some <strong>European Club Cup</strong> games for the club Offerspill he founded in 2019. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-found-his-form/",
+         "pubDate" : "Sun, 19 Sep 2021 21:38:07 +0100",
+         "title" : "Carlsen found his form"
+      },
+      {
          "description" : "A pawn promotion is a huge event in a chess game, as the energy garnered by the pawn advancing up the board is transformed in a most un-Einsteinian way (surely a pawn's advance doesn't create that much energy) into serious amounts of matter. Star columnist Jon Speelman looks at overwhelming pawn avalanches, and analyses a game in which Albert Einstein got the better of Robert Oppenheimer. | Pictured: Albert Einstein and Robert Oppenheimer in 1947",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-154",
          "pubDate" : "Sun, 19 Sep 2021 19:35:00 +0100",
          "title" : "Do pawns disregard Einstein?"
-      },
-      {
-         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
-         "pubDate" : "Sun, 19 Sep 2021 15:55:00 +0100",
-         "title" : "Hou Yifan Challenge - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 44th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to attack with opposite-coloured bishops. | Photo: Tommy Grooten",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://chessimprover.com/pawn-ending-trick/",
          "pubDate" : "Sun, 19 Sep 2021 11:47:50 +0000",
          "title" : "Pawn Ending Trick"
+      },
+      {
+         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 14 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
+         "pubDate" : "Sun, 19 Sep 2021 10:26:41 +0000",
+         "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
       },
       {
          "description" : "16-year-old Indian prodigy Praggnanandhaa scored a perfect 5/5 on Day 1 of the Hou Yifan Challenge, including a win over his older sister Vaishali. Pragg was matched for four rounds by Kramnik Challenge winner Vincent Keymer, until US star Christopher Yoo defeated the German in a tense final round of the day. Christopher is in joint third place on 3.5, half a point behind Vincent, but he has a game in hand. The 17-player field means that one player gets a bye each round.",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/russia-won-all-matches/",
          "pubDate" : "Wed, 15 Sep 2021 20:49:41 +0100",
          "title" : "Russia won all matches"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Malcolm Pein</strong> declared his candidacy for Executive Director of the <strong>English Chess Federation</strong> at <a href=\"https://www.englishchess.org.uk/about/ecf-council-and-board/\">the 16 October election</a>. The managing director of retailer <strong>Chess &amp; Bridge</strong>, CEO of <strong>Chess in Schools and Communities</strong> and director of the London Chess Classic runs against <strong>Mike Truran</strong>, the long-term director of the 4NCL league, who seeks a third term. <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2021/09/Malcolm-Pein.pdf\">Pein advocates</a> more active leadership and marketing and oppo",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/pein-runs-for-ecf-leadership/",
-         "pubDate" : "Wed, 15 Sep 2021 19:45:24 +0100",
-         "title" : "Pein runs for ECF leadership"
       },
       {
          "description" : "This week, Merijn van Delft takes another look at the impressive performance of Richard Rapport at the Norway Chess Tournament, focusing on Rapport's fine win against Sergey Karjakin in round 7. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-starts/",
          "pubDate" : "Mon, 30 Aug 2021 07:24:06 +0000",
          "title" : "European Senior Team Chess Championship 2021 starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1302",
-         "pubDate" : "Sun, 29 Aug 2021 20:54:45 +0000",
-         "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
       }
    ]
 }
