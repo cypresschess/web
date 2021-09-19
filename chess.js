@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
+         "pubDate" : "Sun, 19 Sep 2021 15:55:00 +0100",
+         "title" : "Hou Yifan Challenge - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 44th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to attack with opposite-coloured bishops. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-44-attacking-with-opposite-coloured-bishops",
+         "pubDate" : "Sun, 19 Sep 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 44: Attacking with opposite-coloured bishops"
+      },
+      {
+         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Sun, 19 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : " Looking for interesting pawn endings from recent games, as one does, I came across this, from the online 4NCL. It's Black's move here. What do you think? Who's your money on? White, Black or draw? Place your bets. Rien ne va plus, ladies and gentlemen. 35.. Kf7 36. g3 Ke6 37. Kg2 Ke5 38. Kf3 <a href=\"https://chessimprover.com/pawn-ending-trick/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pawn Ending Trick\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pawn-ending-trick/\">Pawn Ending Trick</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/pawn-ending-trick/",
+         "pubDate" : "Sun, 19 Sep 2021 11:47:50 +0000",
+         "title" : "Pawn Ending Trick"
+      },
+      {
          "description" : "16-year-old Indian prodigy Praggnanandhaa scored a perfect 5/5 on Day 1 of the Hou Yifan Challenge, including a win over his older sister Vaishali. Pragg was matched for four rounds by Kramnik Challenge winner Vincent Keymer, until US star Christopher Yoo defeated the German in a tense final round of the day. Christopher is in joint third place on 3.5, half a point behind Vincent, but he has a game in hand. The 17-player field means that one player gets a bye each round.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,11 +42,11 @@ news_feed (
          "title" : "Hou Yifan Challenge 1: Praggnanandhaa perfect"
       },
       {
-         "description" : "Saturday, September 18 brought to chess fans all around the world the next leg of one of the most anticipated online tournaments of the year: the Speed Chess Championship Grand Prix. This is an event that consists of four tournaments that take p...",
+         "description" : "Saturday, September 18, brought to chess fans all around the world the next leg of one of the most anticipated online tournaments of the year: the Speed Chess Championship Grand Prix. This event consists of four tournaments that take place betwe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/scc-grand-prix-1-drozdowski",
-         "pubDate" : "Sat, 18 Sep 2021 17:08:51 -0700",
+         "pubDate" : "Sat, 18 Sep 2021 17:08:00 -0700",
          "title" : "Speed Chess Grand Prix 1: IM Drozdowski Triumphs"
       },
       {
@@ -48,14 +80,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/attention-to-detail.html",
          "pubDate" : "Sat, 18 Sep 2021 13:56:00 +0000",
          "title" : "Attention to detail"
-      },
-      {
-         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Sat, 18 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup - Round 1"
       },
       {
          "description" : "\"I came away with absolutely everything I could have hoped for,\" said Magnus Carlsen after winning Norway Chess for a 3rd year in a row and a 4th time in total. He did it with another Armageddon win over his World Championship Challenger Ian Nepomniachtchi, who called his own performance \"completely disgusting\". Alireza Firouzja took 2nd place for a 2nd year in a row with a stunning win over Richard Rapport that completed a 4-game winning streak. It was a tough end for Richard, but left both in the World Top 10 for the 1st time in their careers.",
@@ -2122,14 +2146,6 @@ news_feed (
          "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
       },
       {
-         "description" : "In the diagram position it is Black to move and tablebases and endgame books know that this position is a theoretical draw. However, holding theoretical draws is often difficult in practice. But Jan-Krzyzstof Duda, who was Black against Ding Liren here, was up to the task and found the only move that saves the game. What did he play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/theory-and-practice",
-         "pubDate" : "Tue, 31 Aug 2021 09:00:00 +0100",
-         "title" : "Theory and practice"
-      },
-      {
          "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2168,30 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1302",
          "pubDate" : "Sun, 29 Aug 2021 20:54:45 +0000",
          "title" : "Peaceful end to Division 3 FIDE Online Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85739307.cms\" />Levon Aronian kicked off his Aimchess US Rapid campaign in style on Saturday. The Armenian star took the lead in the three-day prelim stage with a superb unbeaten 4/5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-us-rapid-aronian-takes-lead-on-day-1/articleshow/85739307.cms",
-         "pubDate" : "Sun, 29 Aug 2021 19:34:43 +0530",
-         "title" : "Aimchess US Rapid: Aronian takes lead on Day 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85738182.cms\" /> Grandmaster P Iniyan won the Noisiel International Open tournament in Noisiel, Paris on Saturday. The event, held from August 23 to 28, saw Iniyan score 8 points out of 9 rounds. GM Solodovnichenko Yuri of Ukraine finished second with 7.5 points while French IM Kambrath Yannick was third.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pleased-with-my-performance-at-noisiel-chess-meet-iniyan/articleshow/85738182.cms",
-         "pubDate" : "Sun, 29 Aug 2021 18:30:08 +0530",
-         "title" : "Pleased with my performance at Noisiel chess meet: Iniyan"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85738116.cms\" /> Indian Grandmaster P Iniyan won the Noisiel International Open 2021 Chess Tournament here, scoring eight points from nine rounds in the Classical event after securing the top prize in the Blitz section. He finished the event with a win over Sebastian Pucher in the ninth round late on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-noisiel-international-open-chess-tournament/articleshow/85738116.cms",
-         "pubDate" : "Sun, 29 Aug 2021 18:25:21 +0530",
-         "title" : "Indian GM Iniyan wins Noisiel International Open tournament"
       }
    ]
 }
