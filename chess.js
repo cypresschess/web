@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old Indian prodigy Praggnanandhaa scored a perfect 5/5 on Day 1 of the Hou Yifan Challenge, including a win over his older sister Vaishali. Pragg was matched for four rounds by Kramnik Challenge winner Vincent Keymer, until US star Christopher Yoo defeated the German in a tense final round of the day. Christopher is in joint third place on 3.5, half a point behind Vincent, but he has a game in hand. The 17-player field means that one player gets a bye each round.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-1-praggnanandhaa-perfect",
+         "pubDate" : "Sun, 19 Sep 2021 10:21:28 +0000",
+         "title" : "Hou Yifan Challenge 1: Praggnanandhaa perfect"
+      },
+      {
          "description" : "Saturday, September 18 brought to chess fans all around the world the next leg of one of the most anticipated online tournaments of the year: the Speed Chess Championship Grand Prix. This is an event that consists of four tournaments that take p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1298,14 +1306,6 @@ news_feed (
          "title" : "Online Chess Olympiad: India continue strong show on Day 2"
       },
       {
-         "description" : "Ian Nepomniachtchi spoilt great winning chances in classical chess against Alireza Firouzja, but called it \"my small revenge\" to unleash the King's Gambit in Armageddon. Alireza hadn't studied Nepo's Chessable course and was crushed in swashbuckling style. World Champion Magnus Carlsen almost went down in flames against Norwegian no. 2 Aryan Tari, but pulled off a great escape before winning in Armageddon. Sergey Karjakin also got out of Dodge against Richard Rapport, but couldn't stop the tournament leader clinching victory in sudden-death.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-2-nepo-beats-firouzja-with-king-s-gambit",
-         "pubDate" : "Thu, 09 Sep 2021 14:16:15 +0000",
-         "title" : "Norway Chess 2: Nepo beats Firouzja with King's Gambit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2192,22 +2192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-noisiel-international-open-chess-tournament/articleshow/85738116.cms",
          "pubDate" : "Sun, 29 Aug 2021 18:25:21 +0530",
          "title" : "Indian GM Iniyan wins Noisiel International Open tournament"
-      },
-      {
-         "description" : " Division 3 of the 2021 FIDE Online Olympiad is well underway, with the final Pool matches being played today. As mentioned in my earlier preview, a number of teams are string to field GM's, although in the Scotland v Zambia match, it was an IM that triumphed. <br /> <br /> <b>Jere,Daniel (2397) - Aagaard,Jacob (2502) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (3.4), 27.08.2021 <script>new PgnViewer( { boardName: \"game1266\", movesFormat: \"default\", pgnString:'1.c4 e6 2.g3 d5 3.Bg2 c6 4.Nf3 Nf6 5.b3 a5 6.Nc3 d4 7.Na4 c5 8.O-O Nc6 9.e3 e5 10.exd4 e4 11.Ng5 Bg4 12.Qe1 Nxd4 13.Nxe4 Ne2+ 14.Kh1 Nxe4 15.Bxe4 Qd4 16.f3 Qxa1 17.Qxe2 Be6 18.Nc3 Rd8 19.Bd5 1-0', pauseBetweenMoves: 500, pieceSi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/08/2021-online-olympiad-div-3_29.html",
-         "pubDate" : "Sun, 29 Aug 2021 09:10:00 +0000",
-         "title" : "2021 Online Olympiad - Div 3"
-      },
-      {
-         "description" : " I reached this position (with black, to move) in an online rapid game against a much stronger opponent. Basic endgame theory is so important these days. Everyone should be aware that there's a fortress here: I can just move my rook between f6 and h6, when White can't make progress. The game continued: 67.. Kg8 <a href=\"https://chessimprover.com/fortress/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fortress\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fortress/\">Fortress</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/fortress/",
-         "pubDate" : "Sun, 29 Aug 2021 08:18:10 +0000",
-         "title" : "Fortress"
       }
    ]
 }
