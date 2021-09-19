@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A pawn promotion is a huge event in a chess game, as the energy garnered by the pawn advancing up the board is transformed in a most un-Einsteinian way (surely a pawn's advance doesn't create that much energy) into serious amounts of matter. Star columnist Jon Speelman looks at overwhelming pawn avalanches, and analyses a game in which Albert Einstein got the better of Robert Oppenheimer. | Pictured: Albert Einstein and Robert Oppenheimer in 1947",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-154",
+         "pubDate" : "Sun, 19 Sep 2021 19:35:00 +0100",
+         "title" : "Do pawns disregard Einstein?"
+      },
+      {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -810,7 +818,7 @@ news_feed (
          "title" : "Google Customizes Search Results Display with Chess Pieces"
       },
       {
-         "description" : " Share!36 IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!1.1k IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1306",
          "pubDate" : "Tue, 31 Aug 2021 22:18:24 +0000",
          "title" : "Firouzja puts So to the sword as Carlsen downs Duda"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at a game which shows how things can go wrong from the black side of a Slav Defence - i.e. Wesley So vs Awonder Liang from the Aimchess US Rapid. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid",
-         "pubDate" : "Tue, 31 Aug 2021 22:20:00 +0100",
-         "title" : "The Weekly Show: Aimchess US Rapid"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
