@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saturday, September 18 brought to chess fans all around the world the next leg of one of the most anticipated online tournaments of the year: the Speed Chess Championship Grand Prix. This is an event that consists of four tournaments that take p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/scc-grand-prix-1-drozdowski",
+         "pubDate" : "Sat, 18 Sep 2021 17:08:51 -0700",
+         "title" : "Speed Chess Grand Prix 1: IM Drozdowski Triumphs"
+      },
+      {
          "description" : "Day 1 of the Hou Yifan Challenge, the last regular event of the Julius Baer Challengers Tour, saw Praggnanandhaa scoring five wins in as many games to take the sole lead. Vincent Keymer won his first four games, but lost against Christopher Yoo in the final round of the day, and now stands in sole second place. Pragg's sister Vaishali was the strongest among the women, as she collected 2&frac12; points in four games. | Pictured: Vaishali and Pragg with their mother, Nagalakshmi | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chess-9lx-1-fabi-top-as-kasparov-nakamura-suffer",
          "pubDate" : "Thu, 09 Sep 2021 17:37:29 +0000",
          "title" : "Chess 9LX 1: Fabi top as Kasparov & Nakamura suffer"
-      },
-      {
-         "description" : "We all love olympiads. There&#39;s the Olympics, and, of course, the Chess Olympiad. In this one, the time has come for competition between the strongest teams out there, as the top division started playing today. The format of the tournament is thr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-1",
-         "pubDate" : "Thu, 09 Sep 2021 09:40:05 -0700",
-         "title" : "FIDE Online Olympiad Division 1, Day 1: Elite Teams Shine"
       },
       {
          "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
