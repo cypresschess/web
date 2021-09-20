@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/raja-rithvik-becomes-indias-70th-gm-maestro-anand-congratulates-him/articleshow/86374355.cms",
+         "pubDate" : "Mon, 20 Sep 2021 22:07:44 +0530",
+         "title" : "Raja Rithvik becomes India's 70th GM, Anand congratulates him"
+      },
+      {
          "description" : "One of the most fascinating recent endgames was Magnus Carlsen's win against Alireza Firouzja in round 6 of the Norway Chess Tournament: in a slightly better position that seemed to be impossible to win Carlsen worked his magic and created an endgame masterpiece. In the \"Endgame Magic Show #161\" Karsten M&uuml;ller and Arne K&auml;hler take a look at this astonishing endgame and show why it is good to know the classics. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-161-carlsen-and-capablanca",
          "pubDate" : "Mon, 20 Sep 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #161: Carlsen and Capablanca"
+      },
+      {
+         "description" : "Entries and expressions of interest are welcome for the 1st Forest Hall Invitational, Newcastle upon Tyne, 25-29 October, 2021. The event comprises an IM/WGM/WIM norm...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/1st-forest-hall-invitational/",
+         "pubDate" : "Mon, 20 Sep 2021 15:55:54 +0000",
+         "title" : "1st Forest Hall Invitational"
       },
       {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/extended-lockdowns.html",
          "pubDate" : "Wed, 01 Sep 2021 13:39:00 +0000",
          "title" : "Extended lockdowns"
-      },
-      {
-         "description" : "The semi- finals both take place on Sunday 16th January; North - Nottingham High School; South - St Catherine's School, Bramley Entry fee &pound;10.00 per...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/girls-national-schools-chess-championship-2022/",
-         "pubDate" : "Wed, 01 Sep 2021 12:10:08 +0000",
-         "title" : "Girls' National Schools Chess Championship 2022"
       },
       {
          "description" : "",
