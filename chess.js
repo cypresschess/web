@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1303",
          "pubDate" : "Mon, 30 Aug 2021 13:06:13 +0000",
          "title" : "Ena Cvitan wins Croatian Women's Championship 2021"
-      },
-      {
-         "description" : "European Senior Team Chess Championship 2021 starts today in Prague, Czech Republic. The event is played in two sections: 50+ and 65+. 10 teams will take part in 50+ European Senior Team Chess Championship, Top seeders are: Czech Republic, Slovakia and 1960-69 Czech team. 21 teams from 9 European federations registered for 65+ category. The battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-starts/",
-         "pubDate" : "Mon, 30 Aug 2021 07:24:06 +0000",
-         "title" : "European Senior Team Chess Championship 2021 starts"
       }
    ]
 }
