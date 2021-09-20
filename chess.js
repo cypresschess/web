@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most fascinating recent endgames was Magnus Carlsen's win against Alireza Firouzja in round 6 of the Norway Chess Tournament: in a slightly better position that seemed to be impossible to win Carlsen worked his magic and created an endgame masterpiece. In the \"Endgame Magic Show #161\" Karsten M&uuml;ller and Arne K&auml;hler take a look at this astonishing endgame and show why it is good to know the classics. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-161-carlsen-and-capablanca",
+         "pubDate" : "Mon, 20 Sep 2021 17:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #161: Carlsen and Capablanca"
+      },
+      {
+         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
+         "pubDate" : "Mon, 20 Sep 2021 15:55:00 +0100",
+         "title" : "Hou Yifan Challenge - Live!"
+      },
+      {
+         "description" : " After a few months concentrating on running online events, I recently made the effort to play a bit more. I've never been that great at (fast) online chess, and my most recent efforts have confirmed this. One issue (apart from lousy openings), is that it does take me a while to warm up, meaning I drop a few games early in events. After that it does get better, but we'd all be champions if you could ignore our losses! So for the moment I am cruising along at around 50%, but hopefully more practice will lead to more wins. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/feeling-rusty.html",
+         "pubDate" : "Mon, 20 Sep 2021 14:01:00 +0000",
+         "title" : "Feeling rusty"
+      },
+      {
+         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen, who is joining the action in round 3, in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Mon, 20 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1343",
+         "pubDate" : "Mon, 20 Sep 2021 13:26:19 +0000",
+         "title" : "Arkady Dvorkovich: \"We are strongly standing against all types of discrimination\""
+      },
+      {
+         "description" : "Etienne Bacrot went into this year's World Cup without any expectations, including qualifying for the 2022 FIDE Grand Prix, a series of three tournaments that will serve as a qualifying route for the next Candidates. Understandably so, as the last time the French Grandmaster had played in a Fide Grand Prix was in 2013. \"Based solely on my rating (2658), I could not have qualified for the Grand Prix. It's crazy that I made it this time,\" Bacrot said on the sidelines of a rapid tournament that was held in Asni&eacute;res-sur-Seine near Paris on September 11 and 12. | Photo: Pascal Simon (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/etienne-bacrot-on-reliving-the-winning-feeling",
+         "pubDate" : "Mon, 20 Sep 2021 14:00:00 +0100",
+         "title" : "Etienne Bacrot on reliving the winning feeling"
+      },
+      {
          "description" : "Last week, Grandmaster Lars Schandorff from Denmark faced nine brave CBM readers for the fourth \"Play The Author\" round-robin tournament this year. The chosen opening was 4.Bg5 Bg7!? in the Gr&uuml;nfeld. The Danish GM won the tournament and all games, except one draw. While a Canadian player reached the second place, the youngest participant (13 years old) from Germany, managed to get the third place. | Photo: Facebook - Lars Schandorff",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,8 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-queens-gambit-wins-11-emmys-awards",
-         "pubDate" : "Mon, 20 Sep 2021 04:09:25 -0700",
-         "title" : "'The Queen's Gambit' Wins 11 Emmy's Including Best Limited Series"
+         "pubDate" : "Mon, 20 Sep 2021 04:09:00 -0700",
+         "title" : "'The Queen's Gambit' Wins 11 Emmys Including Best Limited Series"
       },
       {
          "description" : "Indian chess prodigy Praggnanandhaa won all four games of his games on Day 2 of the Hou Yifan Challenge to reach a perfect 9/9 score as the 4th stage of the Julius Baer Challengers Chess Tour crossed the halfway mark. That put him two ahead of Vincent Keymer in 2nd place, but Vincent has played one game less and scored 3/3 on Day 2 to keep within striking distance before their head-to-head clash. Christopher Yoo is in 3rd place, while Poland's Pawel Teclaf had a good day to move up to 4th.",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-44-attacking-with-opposite-coloured-bishops",
          "pubDate" : "Sun, 19 Sep 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 44: Attacking with opposite-coloured bishops"
-      },
-      {
-         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Sun, 19 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : " Looking for interesting pawn endings from recent games, as one does, I came across this, from the online 4NCL. It's Black's move here. What do you think? Who's your money on? White, Black or draw? Place your bets. Rien ne va plus, ladies and gentlemen. 35.. Kf7 36. g3 Ke6 37. Kg2 Ke5 38. Kf3 <a href=\"https://chessimprover.com/pawn-ending-trick/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pawn Ending Trick\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pawn-ending-trick/\">Pawn Ending Trick</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2042,30 +2082,6 @@ news_feed (
          "title" : "Kosteniuk and Danielian rocket up in September rating list"
       },
       {
-         "description" : "The Scandinavian opening is controversial. Some hate it, others love it. But if Magnus Carlsen and many other Grandmasters play this opening occasionally, it wouldn't harm to take a closer look at it. Especially the \"Portuguese Variation\" is worth discovering. This tricky line is full of tactics, and heavy development on Black's side. Furthermore, Svitlana teaches us some more ideas from a blindfold match between Gelfand and Morozevich. After all, it is a great idea to try out openings you have never ever touched before, to get the most out of this beautiful game called chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-11",
-         "pubDate" : "Wed, 01 Sep 2021 18:30:00 +0100",
-         "title" : "Svitlana's Smart Moves - The Portuguese Variation"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave couldn't have asked for a better time to win the Sinquefield Cup. Scoring six points in nine rounds, he became the only player to outrightly win the event twice. Equally important for him, the win beckons a return to top form. In an interview with Dhananjay Khadilkar, he remarked, \"I have absolutely no doubt that I am part of the chess elite\". | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mvl-interview-sinquefield-cup-2021",
-         "pubDate" : "Wed, 01 Sep 2021 18:20:00 +0100",
-         "title" : "MVL on the significance of winning the 2021 Sinquefield Cup"
-      },
-      {
-         "description" : "This week, Merijn van Delft chooses one of the many exciting games played in the prelims of the Aimchess US Rapid tournament - Daniel Naroditsky's impressive attacking win over Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-479-naroditsky-impressive-attack",
-         "pubDate" : "Wed, 01 Sep 2021 18:15:00 +0100",
-         "title" : "Game of the Week 479: Naroditsky's impressive attack"
-      },
-      {
          "description" : "The judges this year received a large number of high quality books to choose from. The shortlist was further complicated as many overlapped on subject...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2160,14 +2176,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/",
          "pubDate" : "Tue, 31 Aug 2021 00:10:30 +0000",
          "title" : "The Modernized Modern Benoni"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1303",
-         "pubDate" : "Mon, 30 Aug 2021 13:06:13 +0000",
-         "title" : "Ena Cvitan wins Croatian Women's Championship 2021"
       }
    ]
 }
