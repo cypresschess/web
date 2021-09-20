@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, Grandmaster Lars Schandorff from Denmark faced nine brave CBM readers for the fourth \"Play The Author\" round-robin tournament this year. The chosen opening was 4.Bg5 Bg7!? in the Gr&uuml;nfeld. The Danish GM won the tournament and all games, except one draw. While a Canadian player reached the second place, the youngest participant (13 years old) from Germany, managed to get the third place. | Photo: Facebook - Lars Schandorff",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-lars-schandorff",
+         "pubDate" : "Mon, 20 Sep 2021 12:33:54 +0100",
+         "title" : "Play The Author - Thematic tournament with Lars Schandorff"
+      },
+      {
+         "description" : "Among the myriad apps and services offered with a subscription to ChessBase Account is the Tactics web app. This concept is hardly new, and readers undoubtedly are aware of a plethora of rival sites and apps offering this same service, so what makes this one so special? What makes it deserving of the headline \"best by test\"? Read on to find out!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tactics-web-app-best-by-test",
+         "pubDate" : "Mon, 20 Sep 2021 12:19:26 +0100",
+         "title" : "ChessBase Tactics web app: Best by test"
+      },
+      {
+         "description" : "The Netflix hit series The Queen&#39;s Gambit won a total of 11 Emmy Awards, including the top prize for limited series. At Sunday&#39;s Primetime Emmy Awards, director Scott Frank received a trophy as well, a week after the series had already clinched ni...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-queens-gambit-wins-11-emmys-awards",
+         "pubDate" : "Mon, 20 Sep 2021 04:09:25 -0700",
+         "title" : "'The Queen's Gambit' Wins 11 Emmy's Including Best Limited Series"
+      },
+      {
+         "description" : "Indian chess prodigy Praggnanandhaa won all four games of his games on Day 2 of the Hou Yifan Challenge to reach a perfect 9/9 score as the 4th stage of the Julius Baer Challengers Chess Tour crossed the halfway mark. That put him two ahead of Vincent Keymer in 2nd place, but Vincent has played one game less and scored 3/3 on Day 2 to keep within striking distance before their head-to-head clash. Christopher Yoo is in 3rd place, while Poland's Pawel Teclaf had a good day to move up to 4th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-2-praggnanandhaa-makes-it-9-9",
+         "pubDate" : "Mon, 20 Sep 2021 09:18:29 +0000",
+         "title" : "Hou Yifan Challenge 2: Praggnanandhaa makes it 9/9!"
+      },
+      {
          "description" : "Apparently there is no stopping Praggnanandhaa at the Hou Yifan Challenge for young stars. The Indian prodigy has won all 9 of his games so far in the rapid tournament taking place online. Vincent Keymer is currently in second place, two points behind Pragg, albeit with one game less to his name. Keymer will face Pragg on Monday, in round 11. | Pictured: Pragg during a training session with Vladimir Kramnik in 2019 | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1335",
          "pubDate" : "Wed, 15 Sep 2021 20:39:33 +0000",
          "title" : "Russia takes gold in the 2021 Online Chess Olympiad"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In an <strong>Online Chess Olympiad</strong> with hardly any surprises Russia <a href=\"https://onlineolympiad.fide.com/\">won all their matches</a>. The US was luckier than China and Hungary and met the big favourite only in the final of the <strong>Chess.com</strong>-hosted <strong>FIDE</strong> rapid event. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/russia-won-all-matches/",
-         "pubDate" : "Wed, 15 Sep 2021 20:49:41 +0100",
-         "title" : "Russia won all matches"
       },
       {
          "description" : "This week, Merijn van Delft takes another look at the impressive performance of Richard Rapport at the Norway Chess Tournament, focusing on Rapport's fine win against Sergey Karjakin in round 7. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1306,22 +1330,6 @@ news_feed (
          "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
       },
       {
-         "description" : "The playoffs began today in PogChamps 4 presented by Coinbase. The action began with jakenbakeLIVE beating JustaMinx 2-0 in the consolation bracket. Then&#38;nbsp;MrBeast gave Harry Mack a draw to start the second consolation quarterfinal of the day, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-playoffs-fundy-mrbeast-jakenbake-win",
-         "pubDate" : "Thu, 09 Sep 2021 15:03:00 -0700",
-         "title" : "PogChamps 4 Playoffs Day 1: Fundy Advances To Championship Semifinals After Tough Match"
-      },
-      {
-         "description" : "Fabiano Caruana was the only unbeaten player on Day 1 of Chess 9LX in Saint Louis as he topped the table with 2.5/3. MVL, Mamedyarov and Shankland all lost one game but won two to share 2nd place, while the only players who ended winless were Garry Kasparov, who missed a win against Wesley So, and Hikaru Nakamura, who amazingly ended with 0/3 after losing to Shakhriyar Mamedyarov, Sam Shankland and Levon Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-9lx-1-fabi-top-as-kasparov-nakamura-suffer",
-         "pubDate" : "Thu, 09 Sep 2021 17:37:29 +0000",
-         "title" : "Chess 9LX 1: Fabi top as Kasparov & Nakamura suffer"
-      },
-      {
          "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2074,14 +2082,6 @@ news_feed (
          "title" : "Beginner Chess Strategy: 5 Must-Know Tips"
       },
       {
-         "description" : "The new ChessBase Magazine # 203 already whets the appetite for the World Championship match in November. In the \"Special: Ian Nepmniachtchi\" each of our authors analyses their favorite game of the new challenger. The result is an exclusive collection of 21 extensively annotated games. Karsten M&uuml;ller puts the technique of the 31-year-old Russian to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes \"Nepos\" playing style. Adhiban, Krasenkow, Navara, Praggnanandhaa, Vitiugov, Wojtaszek and others comment on their games from the World Cup. Plus 10 opening articles (\"The Scandinavian under pressure\", \"News from the Fantasy ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-203-special-on-ian-nepomniachtchi-top-duels-from-the-world-cup-and-much-more",
-         "pubDate" : "Wed, 01 Sep 2021 15:00:00 +0100",
-         "title" : "CBM # 203: \"Special\" on Ian Nepomniachtchi, top duels from the World Cup, and much more"
-      },
-      {
          "description" : " I'm pretty sure that everyone in Canberra is aware that the current lockdown has been extended for another 2 weeks (17th September at the moment). So OTB chess looks unlikely for the near future (noting that I did get a phone call on Saturday asking me where all the Street Chess players were!) So it is now a steady diet of online events, both to play, and to watch. One event to watch is the 2nd Division of the 2021 Online Olympiad. The Australian team has been seeded into this division, and is in Pool A. This is the first of the pools to start playing tomorrow (2nd September), with their games starting at 6pm. There will be 3 rounds per day, with the top 3 teams going through to the top div",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/girls-national-schools-chess-championship-2022/",
          "pubDate" : "Wed, 01 Sep 2021 12:10:08 +0000",
          "title" : "Girls' National Schools Chess Championship 2022"
-      },
-      {
-         "description" : "The first sets of the Aimchess US Rapid quarterfinals were played on Tuesday. Magnus Carlsen, Alireza Firouzja and Levon Aronian won their first 4-game mini-matches, which means a draw on Wednesday will grant them a spot in the semifinals. The one match that finished drawn was Vladislav Artemiev vs Leinier Dominguez, as the Russian won game 4 on demand to tie the score. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-4",
-         "pubDate" : "Tue, 31 Aug 2021 23:55:00 +0100",
-         "title" : "Aimchess US Rapid: Firouzja, Carlsen and Aronian win first sets"
       },
       {
          "description" : "",
