@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2021-09-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202109182332 target=' blank'>DER SPRINGERS</a>",
 "CYPRESS","2021-09-17","16","<a href=http://www.uschess.org/msa/XtblMain.php?202109171962 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-09-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202109171952 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-09-11","82","<a href=http://www.uschess.org/msa/XtblMain.php?202109119692 target=' blank'>KIPP SPIRIT MIDDLE SCHOOL SCHOLASTI</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2020-07-18","24","<a href=http://www.uschess.org/msa/XtblMain.php?202007181182 target=' blank'>SR CHESSKNIGHTS 07182020</a>",
 "SPRING","2020-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202007175602 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-07-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202007154632 target=' blank'>CHESS QUAD</a>",
-"SUGAR LAND","2020-06-21  - 07-12","3","<a href=http://www.uschess.org/msa/XtblMain.php?202007124142 target=' blank'>FBCC 2020 FATHER'S DAY DOUBLE ROUND</a>",
 ]);
