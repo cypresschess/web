@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join a commentary team TBA for the move-by-move. 2021.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-1",
+         "pubDate" : "Mon, 20 Sep 2021 20:53:14 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -182,7 +190,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-arena-kings-8",
-         "pubDate" : "Sat, 18 Sep 2021 09:59:58 -0700",
+         "pubDate" : "Sat, 18 Sep 2021 09:59:00 -0700",
          "title" : "Announcing Arena Kings 8"
       },
       {
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dominguez-interview-day-2",
          "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
          "title" : "2021 Champions Showdown | Chess 9LX: Leinier Dominguez Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Maxime Vachier-Lagrave after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WKZkEyU2vrk.jpg?itok=28MPG3x9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-2",
-         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Maxime Vachier-Lagrave Interview | Day 2"
       },
       {
          "description" : "",
