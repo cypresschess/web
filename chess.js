@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 21 Sep 2021 20:54:19 +0000",
+         "title" : "Insane in the Endgame - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-norway-chess-magnus-vs-ian-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cgNkcrOGZR0.jpg?itok=JKTJD_vi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-norway-chess-magnus-vs-ian-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 21 Sep 2021 20:54:19 +0000",
+         "title" : "2021 Norway Chess: Magnus vs. Ian | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1242,22 +1258,6 @@ news_feed (
          "title" : "2021 Champions Showdown | Chess 9LX: Wesley So Interview | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Maxime Vachier-Lagrave after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AX14Lt1Z8e4.jpg?itok=JexYH-a0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-maxime-vachier-lagrave-interview-day-3",
-         "pubDate" : "Fri, 10 Sep 2021 23:45:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Maxime Vachier-Lagrave Interview | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Garry Kasparov after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TRmdrxw6RFw.jpg?itok=lpMzTfZh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-garry-kasparov-interview-day-3",
-         "pubDate" : "Fri, 10 Sep 2021 23:45:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Garry Kasparov Interview | Day 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/extended-lockdowns.html",
          "pubDate" : "Wed, 01 Sep 2021 13:39:00 +0000",
          "title" : "Extended lockdowns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1306",
-         "pubDate" : "Tue, 31 Aug 2021 22:18:24 +0000",
-         "title" : "Firouzja puts So to the sword as Carlsen downs Duda"
       }
    ]
 }
