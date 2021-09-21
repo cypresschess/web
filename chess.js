@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-yuniesky-quesada",
+         "pubDate" : "Tue, 21 Sep 2021 17:54:11 +0000",
+         "title" : "Insane in the Endgame - GM Yuniesky Quesada"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the end of Norway Chess and Carlsen's fantastic resurgence in the second half to win the tournament. He will also briefly cover the Hou Yifan Challenge, Norway Open Masters and European Club Cup. But the game of the day will be the exciting encounter Firouzja-Rapport, which involved a very interesting opening debate but ultimately one that was successful for the young prodigy. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-norway-chess-final",
+         "pubDate" : "Tue, 21 Sep 2021 18:00:00 +0100",
+         "title" : "The Weekly Show: Norway Chess Final"
+      },
+      {
          "description" : "I am training for the London Marathon on Sunday 3rd October 2021 and running for the Stroke Association. Please sponsor me and my excellent charity...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "Chess 9LX 2: Kasparov is back! Dominguez leads"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-day-3-lichessorg",
-         "pubDate" : "Fri, 10 Sep 2021 17:45:45 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Day 3 | lichess.org"
-      },
-      {
          "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
          "pubDate" : "Fri, 03 Sep 2021 07:00:22 +0000",
          "title" : "Chess: Firouzja checkmates Carlsen in mid-board but loses semi to Artemiev"
-      },
-      {
-         "description" : "The ChessBase News Review is back, and Lawrence shares his thoughts about Alireza Firouzja, who played rather bad tournaments recently, but seems to be back on track in the Aimchess Open. Furthermore, he talks about MVL, the winner of the last Sinquefield Cup, and how important this tournament was for the French Grandmaster. Lawrence also has some sad news - the Gibraltar Open might pause or come to an end. This episode ends unexpectedly. After Lawrence braggs about his \"bullet chess\" skills, Arne immediately challenges him to a three-game bullet match on Playchess. And this match is not as easy for the English IM as you might expect.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-2",
-         "pubDate" : "Fri, 03 Sep 2021 07:20:00 +0100",
-         "title" : "News Review - Lawrence has some sad news about the Gibraltar Open"
       },
       {
          "description" : "",
