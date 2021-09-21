@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.16<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1",
+         "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BLYT5X7rt-A.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2",
+         "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join a commentary team TBA for the move-by-move. 2021.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1354,22 +1370,6 @@ news_feed (
          "title" : "Norway Chess R3: Rapport Still Leads After 3 More Armageddons"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Fabiano Caruana after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8dRjdO3SWCM.jpg?itok=pQges6ut\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-fabiano-caruana-interview-day-2",
-         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Fabiano Caruana Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez after Day 2 of the Chess960 round robin. 2021.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dominguez-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Pw2cdPNVimY.jpg?itok=LYqyD1Gl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dominguez-interview-day-2",
-         "pubDate" : "Thu, 09 Sep 2021 23:45:14 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Leinier Dominguez Interview | Day 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1305",
          "pubDate" : "Tue, 31 Aug 2021 08:20:20 +0000",
          "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
-      },
-      {
-         "description" : " From the publisher's blurb : &#8220;A crucial decision spared chess Grandmaster David Bronstein almost certain death at the hands of the Nazis-one fateful move cost him the world championship. Russian champion Mark Taimanov was a touted as a hero of the Soviet state until his loss to Bobby Fischer all but ruined his life. Yefim <a href=\"http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" h",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/31/smyslov-bronstein-geller-taimanov-and-averbakh-a-chess-multibiography-with-220-games/",
-         "pubDate" : "Tue, 31 Aug 2021 00:10:49 +0000",
-         "title" : "Smyslov, Bronstein, Geller, Taimanov and Averbakh: A Chess Multibiography with 220 Games"
-      },
-      {
-         "description" : " From the publisher: &#8220;The Modern Benoni is one of the most controversial but also dynamic answers to 1.d4. This opening remained the favourite of famous attacking players as Tal, Kasparov, Gashimov and Topalov. From the outset, Black creates a new pawn structure and deploying his active piece play against White's central majority. In his book <a href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Modern Benoni</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/\">The Modernized Modern",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/08/31/the-modernized-modern-benoni/",
-         "pubDate" : "Tue, 31 Aug 2021 00:10:30 +0000",
-         "title" : "The Modernized Modern Benoni"
       }
    ]
 }
