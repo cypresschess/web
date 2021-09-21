@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
+         "pubDate" : "Tue, 21 Sep 2021 15:55:00 +0100",
+         "title" : "Hou Yifan Challenge - Live!"
+      },
+      {
+         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. After three rounds, no fewer than five teams have won all their matches in the open section, while only South Ural still has a perfect score in the women's category. The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Tue, 21 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg\" data-image-dimensions=\"524x482\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cup, via Andrew's Instagram\" data-load=\"false\" data-image-id=\"6149e0bda1a1c2375c8b4021\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cu",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/21/episode-244-gm-andrew-tang",
+         "pubDate" : "Tue, 21 Sep 2021 13:44:31 +0000",
+         "title" : "Episode 244- GM Andrew Tang "
+      },
+      {
+         "description" : "Vincent Keymer grabbed the lead on the third day of action at the Hou Yifan Challenge. Praggnanandhaa, who had a perfect 9/9 start, only scored a half point on Monday and is now sharing second place with Christopher Yoo. Pragg has played one more game than Keymer and Yoo in the 17-player single round-robin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-3",
+         "pubDate" : "Tue, 21 Sep 2021 14:40:00 +0100",
+         "title" : "Hou Yifan Challenge: Keymer leapfrogs Pragg"
+      },
+      {
+         "description" : " Neville Ledger has passed away at the age of 81. <span> For many years he was the backbone of the Tasmanian chess scene, as a player, organiser, administrator and chess retailer. He ran a mail order bookshop from his home for may years, being particularly adept at providing rarer and hard to get titles. A strong supporter of Correspondence Chess, he was a regular advertiser in the Australian Correspondence Chess Quarterly.</span> <span>As a player he was a Tasmanian State Champion (in 1965) and the Burnie Club Champion on numerous occasions. He held a number of positions with the Tasmanian Chess Association over the years, including being TCA President in 1977-78. Apart from being a booksel",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/neville-ledger-1930-2021.html",
+         "pubDate" : "Tue, 21 Sep 2021 13:08:00 +0000",
+         "title" : "Neville Ledger 1930 - 2021"
+      },
+      {
+         "description" : "After winning nine Emmys in technical categories, \"The Queen's Gambit\", the chess series based on Walter Tevis' novel, on Sunday also won Emmys for \"Outstanding Limited Or Anthology Series\" and \"Outstanding Directing For A Limited Or Anthology Series Or Movie\". However, former Women's World Champion Nona Gaprindashvili is unhappy about the production - she feels she was misrepresented in the series.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-queen-s-gambit-eleven-emmys-and-a-lawsuit",
+         "pubDate" : "Tue, 21 Sep 2021 14:07:44 +0100",
+         "title" : "\"The Queen's Gambit\": Eleven Emmys and a lawsuit"
+      },
+      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (50)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (50)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -98,28 +146,12 @@ news_feed (
          "title" : "1st Forest Hall Invitational"
       },
       {
-         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
-         "pubDate" : "Mon, 20 Sep 2021 15:55:00 +0100",
-         "title" : "Hou Yifan Challenge - Live!"
-      },
-      {
          "description" : " After a few months concentrating on running online events, I recently made the effort to play a bit more. I've never been that great at (fast) online chess, and my most recent efforts have confirmed this. One issue (apart from lousy openings), is that it does take me a while to warm up, meaning I drop a few games early in events. After that it does get better, but we'd all be champions if you could ignore our losses! So for the moment I am cruising along at around 50%, but hopefully more practice will lead to more wins. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/09/feeling-rusty.html",
          "pubDate" : "Mon, 20 Sep 2021 14:01:00 +0000",
          "title" : "Feeling rusty"
-      },
-      {
-         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. The Norwegian team Offerspill has Magnus Carlsen, who is joining the action in round 3, in its roster, while Alkaloid arrive as the top seed, headed by Shakhriyar Mamedyarov and Sam Shankland. The event is taking place in Struga, North Macedonia. Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Mon, 20 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "",
@@ -2042,28 +2074,12 @@ news_feed (
          "title" : "FIDE Online Olympiad: Division 2 starts strong! "
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sharp and instructive game in the Sicilian Najdorf. Ris' student Eline Roebers (15 years old) beat a player much higher-rated than her on her way to tournament victory at the Brugse Meesters in Belgium! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-6bg5-to-beat-the-najdorf",
-         "pubDate" : "Thu, 02 Sep 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Playing 6.Bg5 to beat the Najdorf"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85874444.cms\" />International Master (IM) GB Harshavardhan won gold in the U-18 open category of the Fide online Cadets and Youth Rapid World Cup which concluded earlier this week.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harshavardhan-wins-u-18-open-gold-at-online-youth-rapid-world-cup/articleshow/85874444.cms",
          "pubDate" : "Thu, 02 Sep 2021 22:13:36 +0530",
          "title" : "Harshavardhan wins U-18 open gold at online youth rapid World Cup"
-      },
-      {
-         "description" : "The Scandinavian is one of the most direct approaches against 1.e4. Right from the first move Black is attacking White's centre. A lot of players, especially club players, don't like to face this line because of this aggressive character. Most of them flee into offbeat lines which are not very critical. The ones who dare to go for the mainlines need to remember a lot of lines. This makes the Scandinavian a perfect choice for your repertoire. In the Fianchetto Scandinavian, Dutch IM Nico Zwirs will share his experience with the love of his youth.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-nico-zwirs-the-fianchetto-scandinavian-1-e4-d5-2-exd5-nf6",
-         "pubDate" : "Thu, 02 Sep 2021 16:30:00 +0100",
-         "title" : "New - Nico Zwirs: The Fianchetto Scandinavian (1.e4 d5 2.exd5 Nf6)"
       },
       {
          "description" : " One of the biggest issues many improving players face is where to get some decent practice. Playing online tends to be fraught with difficulty because many players are there for fun rather than structured improvement. I've now discovered a way round this by setting up a Tigerchess Themed Training team at Lichess. Once enough players <a href=\"https://chessimprover.com/lichess-training-events/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lichess Training Events\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lichess-training-events/\">Lichess Training Events</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improv",
@@ -2144,22 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1306",
          "pubDate" : "Tue, 31 Aug 2021 22:18:24 +0000",
          "title" : "Firouzja puts So to the sword as Carlsen downs Duda"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Everyones-First-Chess-Workbook-Fundamental/dp/9056919881/ref=sr_1_2?dchild=1&amp;keywords=everyone%20first%20chess%20workbook&amp;qid=1630420699&amp;s=books&amp;sr=1-2\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4DTHVXJZWBK3WRV/PeterG2.JPG\" data-image-dimensions=\"447x232\" data-image-focal-point=\"0.5,0.5\" alt=\"PeterG2.JPG\" data-load=\"false\" data-image-id=\"612e3ebc24303a2290bdbc8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1630420668705-L4ZDA4D",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/8/31/episode-241-fm-peter-giannatos-adult-improver-series",
-         "pubDate" : "Tue, 31 Aug 2021 14:49:59 +0000",
-         "title" : "Episode 241- FM Peter Giannatos (Adult Improver Series)"
-      },
-      {
-         "description" : " The ABC (in Australia) has just finished running a 2 part special on \"Fox and the Big Lie\", about how Fox News in the USA echoed the false claims that Trump's 2020 election loss was due to fraud. And while I found the whole thing interesting there was one political thing that struck me. In a lot of the interview scenes there seemed to be a lot of chess sets in the background, I assume belonging to the people being interviewed. So I wander, are they sets for use, or just for show? <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/chess-sets-of-well-connected.html",
-         "pubDate" : "Tue, 31 Aug 2021 14:12:00 +0000",
-         "title" : "Chess sets of the well connected"
       }
    ]
 }
