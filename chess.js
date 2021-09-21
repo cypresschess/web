@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I am training for the London Marathon on Sunday 3rd October 2021 and running for the Stroke Association. Please sponsor me and my excellent charity...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/im-lorins-london-marathon/",
+         "pubDate" : "Tue, 21 Sep 2021 15:07:11 +0000",
+         "title" : "IM Lorin's London Marathon"
+      },
+      {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1307",
          "pubDate" : "Wed, 01 Sep 2021 17:47:51 +0000",
          "title" : "Kosteniuk and Danielian rocket up in September rating list"
-      },
-      {
-         "description" : "The judges this year received a large number of high quality books to choose from. The shortlist was further complicated as many overlapped on subject...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/book-of-the-year-2021-shortlist/",
-         "pubDate" : "Wed, 01 Sep 2021 15:16:34 +0000",
-         "title" : "Book of the Year 2021 shortlist"
       },
       {
          "description" : " You recently started to play chess and are rated under 1700? Do you sometimes feel helpless because you don't have effective strategic principles to base your decisions on? Then this article is perfect for you. I teach you the 5 best strategy tips for beginners. Having those basic principles to rely on will make it [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginner-chess-strategy/\">Beginner Chess Strategy: 5 Must-Know Tips</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
