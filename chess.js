@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (50)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (50)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-50/",
+         "pubDate" : "Tue, 21 Sep 2021 10:50:25 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (50)"
+      },
+      {
+         "description" : " <p class=\"lead\">Below we feature a World Chess Shop customer Piotr Zbierajewski review of <a href=\"https://shop.worldchess.com/shop/official-plastic-chess-set\">the official World Chess Academy Set</a>. Hi, I would like to present you my little review of the World Chess Official Academy Chess Set which I recently have purchased for outdoor gaming. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/phpqFv3pE.jpeg\" width=\"2499\" height=\"1875\" alt=\"\" /> <div class=\"e2-text-caption\"> ©World Chess</div> </div> <b>Below you can find the table of contents, so you can skip to the point that you are most interested in.</b> <ol start=\"1\"> <li>Unboxing.</li> <li>The chess set.<",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/customer-review-of-the-official-world-chess-academy-set/",
+         "pubDate" : "Tue, 21 Sep 2021 10:34:47 +0000",
+         "title" : "Customer Review of the Official World Chess Academy Set"
+      },
+      {
+         "description" : "Gukesh D won the masters' section of the Norway Chess Open in Stavanger. He scored 8&frac12;/10, remained undefeated, performed at 2743 and gained 17.5 Elo rating points. His compatriot Iniyan P scored 7&frac12;/10 to finish at second position. He performed at 2550 and increased his rating by 6.7 points. Gukesh is currently playing for Prilep (North Macedonia) at the European Club Cup. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-clinches-norway-open-masters-2021",
+         "pubDate" : "Tue, 21 Sep 2021 10:38:34 +0100",
+         "title" : "Gukesh clinches Norway Open Masters, Iniyan finishes second"
+      },
+      {
+         "description" : "16-year-old German prodigy Vincent Keymer goes into the final day of the Hou Yifan Challenge as the sole leader after beating Indian star Praggnanandhaa, who followed a perfect 9/9 start by scoring only 0.5/4 on the 3rd day of the event. Christopher Yoo is now best placed to catch Vincent after defeating Pragg in the first game of the day and going on to score 3.5/4, while Awonder Liang's 3/3 likely came too late.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-3-keymer-in-pole-position-after-pragg-collapse",
+         "pubDate" : "Tue, 21 Sep 2021 08:10:43 +0000",
+         "title" : "Hou Yifan Challenge 3: Keymer in pole position after Pragg collapse"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://www.mastercard.com/news/press/2021/september/mastercard-names-world-chess-champion-magnus-carlsen-global-brand-ambassador/\">becomes ambassador</a> for the global brand <strong>Mastercard</strong>, which announced a partnership with the <strong>Meltwater Champions Chess Tour</strong>. Cardholders are invited to a virtual event with the world champion on 22 October. For holders of expensive cards chess offerings are planned within the <strong>Priceless</strong> scheme. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mastercard-enters-chess/",
+         "pubDate" : "Tue, 21 Sep 2021 09:10:30 +0100",
+         "title" : "Mastercard enters chess"
+      },
+      {
+         "description" : "Even in endgames one should not forget that mate ends the game. In the diagram position it is White to move and win. What did he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-surprising-mate",
+         "pubDate" : "Tue, 21 Sep 2021 09:00:00 +0100",
+         "title" : "A surprising mate"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.16<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -288,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2021-norway-chess",
          "pubDate" : "Fri, 17 Sep 2021 16:54:00 -0700",
          "title" : "Magnus Carlsen Wins 2021 Norway Chess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work at Chessable, the biggest company in the Play Magnus Group? <em>Stefan L&ouml;ffler</em> reports. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessable-cup.1920.jpeg\" title=\"Chessable merchandise may pop up during a video. \" data-title=\"Chessable merchandise may pop up during a video. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/chessable-cup.480.jpeg\" alt=\"Chessable merchandise may pop up during a video.\" srcset=\"https://www.chesstech.org/files/chessable-cup.480.jpeg 1x, https://www.chesstech.org/files/chessable-cup.960.jpeg 2x\" > </a> <figcap",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chessable/",
-         "pubDate" : "Fri, 17 Sep 2021 22:43:13 +0100",
-         "title" : "Inside Chessable"
       },
       {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "Norway Chess: Armageddon"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi meet in Round 4 of Norway Chess in their penultimate classical game before the 2021 World Chess Championship match with neither player currently in top form. Bother Magnus and Nepo were losing their Armageddon games, against Richard Rapport and Aryan Tari, but both found a way to win. Sergey Karjakin pulled off the same trick against Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-3-magnus-nepo-scrape-wins-before-showdown",
-         "pubDate" : "Fri, 10 Sep 2021 13:31:43 +0000",
-         "title" : "Norway Chess 3: Magnus & Nepo scrape wins before showdown"
-      },
-      {
          "description" : "The final list of registration for Western Asian Online Chess Championship is appended below:- All players registered are requested to check their name, category and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2058,14 +2090,6 @@ news_feed (
          "title" : "The winners of the Online Cadets & Youth World Cup announced"
       },
       {
-         "description" : "Fabiano Caruana and his second Rustam Kasimdzhanov formed a very successful team. However, their best year together (2018) ended in disappointment after many successes. The last Candidates Tournament did not go as desired either. \"The pandemic year did not do our relationship any good\", says Rustam Kasimdzhanov. Now Fabiano Caruana and Rustam Kasimdzhanov are going their separate ways. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second",
-         "pubDate" : "Thu, 02 Sep 2021 13:25:00 +0100",
-         "title" : "Kasimdzhanov after ending collaboration with Caruana: \"It has a lot to do with the pandemic\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,14 +2104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/five-title-norms-at-the-northumbria-masters/",
          "pubDate" : "Thu, 02 Sep 2021 07:13:54 +0000",
          "title" : "Five title norms at the Northumbria Masters"
-      },
-      {
-         "description" : "For the first time in the Meltwater Champions Chess Tour, Alireza Firouzja has made it past the quarterfinals. And the 18-year-old did it in style, knocking out one of the toughest opponents in the tour, Wesley So. In the semis, Firouzja will face Vladislav Artemiev, who defeated Leinier Dominguez in a close match. The other semifinal will see Magnus Carlsen playing Levon Aronian. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-5",
-         "pubDate" : "Thu, 02 Sep 2021 00:10:00 +0100",
-         "title" : "Aimchess US Rapid: Firouzja knocks out So after thrilling second set"
       },
       {
          "description" : "",
@@ -2144,30 +2160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/chess-sets-of-well-connected.html",
          "pubDate" : "Tue, 31 Aug 2021 14:12:00 +0000",
          "title" : "Chess sets of the well connected"
-      },
-      {
-         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A good number of players like to prepare opening surprises for their future opponents. We have touched this subject a few times here; some choices involved new ideas in well known openings, while others involved off beat or old openings. <a href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Vienna Gambit, Modern Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/\">Need s",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-vienna-gambit-modern-variation-edition/",
-         "pubDate" : "Tue, 31 Aug 2021 10:12:24 +0000",
-         "title" : "Need sure points? Vienna Gambit, Modern Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1304",
-         "pubDate" : "Tue, 31 Aug 2021 08:21:43 +0000",
-         "title" : "Jacques Rogge (1942-2021)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1305",
-         "pubDate" : "Tue, 31 Aug 2021 08:20:20 +0000",
-         "title" : "Frantic end to Aimchess prelim stage sees Giri crash out"
       }
    ]
 }
