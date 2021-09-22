@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 45th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"Cooperation of the Pieces\" and illustrates this topic with a beautiful study. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-45-cooperation-between-the-pieces-1",
+         "pubDate" : "Wed, 22 Sep 2021 16:00:00 +0100",
+         "title" : "Understanding before Moving 45: Cooperation between the pieces (1)"
+      },
+      {
+         "description" : " Bishop vs Knight: the most common imbalance in chess. But when is it better to have a Bishop? And when is the Knight more effective? The discussion usually tips in favor of the Bishop. Several World Champions, including the infamous Bobby Fischer, were known to prefer the Bishop over the Knight in most cases. Multiple [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/bishop-vs-knight/\">Bishop vs Knight</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bishop-vs-knight/",
+         "pubDate" : "Wed, 22 Sep 2021 14:00:00 +0000",
+         "title" : "Bishop vs Knight"
+      },
+      {
+         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. After four rounds two teams, which both have won all their four matches share the lead: Mednyi Vsadnik (Russia) and AVE Novy Bor (Czechia). In the women's event only South Ural still has a perfect score. The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Wed, 22 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup, Round 5 - Live!"
+      },
+      {
+         "description" : "Having regular training and having a good trainer helps enormously to improve one's game. But trainers also need to be trained, and this is what the European Chess Union and the European Chess Academy do in the \"ECU Online Trainers Conference\" from 1 October to 3 October, in which some of the world's best and most experienced trainers share their methods and secrets.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/train-the-trainers-the-ecu-online-trainers-conference",
+         "pubDate" : "Wed, 22 Sep 2021 14:08:08 +0100",
+         "title" : "Train the trainers: the ECU Online Trainers Conference"
+      },
+      {
+         "description" : "Chess is currently a popular subject for films. In Russia, production of a feature film about the dramatic and at times scandalous 1978 World Championship match between Anatoly Karpov and Viktor Kortschnoi began in 2019 and has now been completed after a forced break caused by the pandemic. The film will be released in Russian cinemas in December.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-champion",
+         "pubDate" : "Wed, 22 Sep 2021 13:45:21 +0100",
+         "title" : "Karpov vs Kortschnoi in the movies: \"The World Champion\""
+      },
+      {
+         "description" : "The 20th edition of the European Youth Rapid&#38;Blitz Chess Championships 2021 will take place from 26th-31st December in Novi Sad, Serbia. The events will be played in 6 age categories: U8, U10, U12, U14, U16, U18, open and girls sections separately. The event features 4 Championships: European Youth Individual Chess Championship, European Youth Individual Blitz Chess Championship, European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-official-regulations/",
+         "pubDate" : "Wed, 22 Sep 2021 11:39:58 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Championships 2021 - Official regulations"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Vincent Keymer</strong> has won his second <strong>Julius Baer Challengers Chess Tour</strong> event, the <strong>Hou Yifan Challenge</strong>. The German will compete in at least two tournaments of the <strong>Meltwater Champions Chess Tour</strong> 2022. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -50,12 +98,12 @@ news_feed (
          "title" : "Rubenstein's Rook Game Slays Spielmann! | Insane in the Endgame - NM Caleb Denby"
       },
       {
-         "description" : "Tuesday, the 21st of September, treated chess fans around the world to the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of something: as you might have read, there we...",
+         "description" : "On Tuesday, chess fans around the world followed the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of a change: as you might have read, there were supposed to be three...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate",
-         "pubDate" : "Tue, 21 Sep 2021 19:49:43 -0700",
-         "title" : "PRO Chess League Quarterfinals: St.Louis Archbishops Dominate"
+         "pubDate" : "Tue, 21 Sep 2021 19:49:00 -0700",
+         "title" : "PRO Chess League Quarterfinals: Saint Louis Archbishops Dominate"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
@@ -104,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
          "pubDate" : "Tue, 21 Sep 2021 15:55:00 +0100",
          "title" : "Hou Yifan Challenge - Live!"
-      },
-      {
-         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. After three rounds, no fewer than five teams have won all their matches in the open section, while only South Ural still has a perfect score in the women's category. The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Tue, 21 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg\" data-image-dimensions=\"524x482\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cup, via Andrew's Instagram\" data-load=\"false\" data-image-id=\"6149e0bda1a1c2375c8b4021\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cu",
@@ -1986,14 +2026,6 @@ news_feed (
          "title" : "Dr Siegbert Tarrasch and his search for meaning "
       },
       {
-         "description" : "The diagram position arose from an Open Spanish, an opening that apparently was unfamiliar to Beth Harmon, the main character of the Netflix series \"The Queen's Gambit\", who was playing with Black. Her last move 9...Na5 is an inaccuracy that allowed World Champion Borgov to seize the initiative. What did he play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-queen-s-gambit-revisited",
-         "pubDate" : "Sat, 04 Sep 2021 09:00:00 +0100",
-         "title" : "\"The Queen's Gambit\" revisited"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,22 +2056,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-three/",
          "pubDate" : "Fri, 03 Sep 2021 16:20:52 +0000",
          "title" : "A Foundation for Beginners Thirty Three"
-      },
-      {
-         "description" : "ChessBase Magazine # 203 with the \"Special: Ian Nepmniachtchi\" makes you want to follow the upcoming World Championship match in November. In the current issue, for example, our authors analyse their favorite game played by the 31-year-old Russian. The result is an exclusive collection of 21 annotated games. Karsten M&uuml;ller puts the challenger's technique to the test in his contribution \"Nepomniachtchi's Endgames\". And Mihail Marin explores the question of what distinguishes Nepo's playing style. In addition to many training tasks, his strategy contribution includes an introductory video in which the GM from Romania outlines his findings. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nepomniachtchi-s-strategic-and-positional-thinking",
-         "pubDate" : "Fri, 03 Sep 2021 15:00:00 +0100",
-         "title" : "Nepomniachtchi's strategic and positional thinking"
-      },
-      {
-         "description" : "The first day of the Aimchess US Rapid semifinals saw both mini-matches finishing drawn. In Magnus Carlsen vs Levon Aronian, the players split points in all four games. Meanwhile, Alireza Firouzja managed to tie the score after tricking Vladislav Artemiev in the last game of the first set. | Photo: Bryan Adams / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-6",
-         "pubDate" : "Fri, 03 Sep 2021 13:25:00 +0100",
-         "title" : "Aimchess US Rapid SF: All square"
       },
       {
          "description" : "",
@@ -2128,22 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1307",
          "pubDate" : "Wed, 01 Sep 2021 17:47:51 +0000",
          "title" : "Kosteniuk and Danielian rocket up in September rating list"
-      },
-      {
-         "description" : " You recently started to play chess and are rated under 1700? Do you sometimes feel helpless because you don't have effective strategic principles to base your decisions on? Then this article is perfect for you. I teach you the 5 best strategy tips for beginners. Having those basic principles to rely on will make it [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/beginner-chess-strategy/\">Beginner Chess Strategy: 5 Must-Know Tips</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/beginner-chess-strategy/",
-         "pubDate" : "Wed, 01 Sep 2021 14:00:00 +0000",
-         "title" : "Beginner Chess Strategy: 5 Must-Know Tips"
-      },
-      {
-         "description" : " I'm pretty sure that everyone in Canberra is aware that the current lockdown has been extended for another 2 weeks (17th September at the moment). So OTB chess looks unlikely for the near future (noting that I did get a phone call on Saturday asking me where all the Street Chess players were!) So it is now a steady diet of online events, both to play, and to watch. One event to watch is the 2nd Division of the 2021 Online Olympiad. The Australian team has been seeded into this division, and is in Pool A. This is the first of the pools to start playing tomorrow (2nd September), with their games starting at 6pm. There will be 3 rounds per day, with the top 3 teams going through to the top div",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/extended-lockdowns.html",
-         "pubDate" : "Wed, 01 Sep 2021 13:39:00 +0000",
-         "title" : "Extended lockdowns"
       }
    ]
 }
