@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I wouldn't play unless I was fully motivated,\" said Magnus Carlsen as he signed the contract for his World Chess Championship match just over two months before battle is set to commence against Ian Nepomniachtchi in Dubai. Magnus signing the contract in Skopje during the European Club Cup was reported by his sponsors Unibet, who also posted a video of Magnus and his father Henrik in Dubai checking out hotels and the Dubai Exhibition Centre venue.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-signs-world-championship-contract",
+         "pubDate" : "Wed, 22 Sep 2021 19:01:08 +0000",
+         "title" : "Magnus Carlsen signs World Championship contract"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1344",
+         "pubDate" : "Wed, 22 Sep 2021 18:03:28 +0000",
+         "title" : "Vincent Keymer wins Hou Yifan Challenge"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Team Championships in which White used a very aggressive approach against the French, which led to amazing complications and crazy tactics. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-482-crazy-tactics-t-beerdsen-vs-p-velten",
+         "pubDate" : "Wed, 22 Sep 2021 19:00:00 +0100",
+         "title" : "Game of the Week 482: Crazy tactics - T. Beerdsen vs P. Velten"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Why <strong>Mastercard</strong>'s contract with <strong>Magnus Carlsen</strong> and the <strong>Champions Chess Tour</strong> is good news for professional chess, is explained by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chess-themed-mastercard.1920.jpeg\" title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership. \" data-title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/corporate-sponsorship-is-back/",
+         "pubDate" : "Wed, 22 Sep 2021 18:56:28 +0100",
+         "title" : "Corporate sponsorship is back"
+      },
+      {
+         "description" : "German prodigy Vincent Keymer obtained his second consecutive tournament victory at the Julius Baer Challengers Tour by winning the Hou Yifan Challenge, a 17-player single round-robin tournament that took place online on September 18-21. Christopher Yoo and Praggnanandhaa shared second place, finishing two points behind the winner. Keymer, Yoo and Pragg are 3 out of 8 players who qualified to the knockout final of the tour, set to start on October 14. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-4",
+         "pubDate" : "Wed, 22 Sep 2021 18:20:00 +0100",
+         "title" : "Vincent Keymer wins the Hou Yifan Challenge"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 45th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"Cooperation of the Pieces\" and illustrates this topic with a beautiful study. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-2",
          "pubDate" : "Mon, 20 Sep 2021 01:10:00 +0100",
          "title" : "Hou Yifan Challenge: Pragg keeps up the pace"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> won four games in a row in the second half of <strong>Norway Chess</strong> and came first. The world champion condeded a draw only when playing with Black against his challenger <strong>Ian Nepomniachtchi</strong>, who lost against Aryan Tari and scored only 50 % in the classical games. Carlsen is expected in Struga to play some <strong>European Club Cup</strong> games for the club Offerspill he founded in 2019. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-found-his-form/",
-         "pubDate" : "Sun, 19 Sep 2021 21:38:07 +0100",
-         "title" : "Carlsen found his form"
       },
       {
          "description" : "A pawn promotion is a huge event in a chess game, as the energy garnered by the pawn advancing up the board is transformed in a most un-Einsteinian way (surely a pawn's advance doesn't create that much energy) into serious amounts of matter. Star columnist Jon Speelman looks at overwhelming pawn avalanches, and analyses a game in which Albert Einstein got the better of Robert Oppenheimer. | Pictured: Albert Einstein and Robert Oppenheimer in 1947",
@@ -1226,14 +1258,6 @@ news_feed (
          "title" : "Leinier Dominguez wins Champions Showdown in Saint Louis"
       },
       {
-         "description" : "\"I thought it would be nice to torture him!\" said Magnus Carlsen of the endgame kill he chose to defeat his World Championship Challenger Ian Nepomniachtchi in Armageddon. The first game of their Round 4 Norway Chess clash was a draw in the Berlin Endgame, \"the type of opening where neither side enjoys the game,\" as Nepo put it. Meanwhile Sergey Karjakin beat Aryan Tari in Armageddon while Richard Rapport extended his lead by picking up another win in classical chess, this time against Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-4-carlsen-gets-to-torture-nepomniachtchi",
-         "pubDate" : "Sat, 11 Sep 2021 16:19:28 +0000",
-         "title" : "Norway Chess 4: Carlsen gets to torture Nepomniachtchi"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1994,22 +2018,6 @@ news_feed (
          "title" : "Chess 9LX: Kasparov returns to Saint Louis"
       },
       {
-         "description" : "Magnus Carlsen and Vladislav Artemiev emerged victorious from their semifinal duels at the Aimchess US Rapid on Friday. While the world champion beat Levon Aronian in the second set, Artemiev only went through after beating Alireza Firouzja in Armageddon. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-7",
-         "pubDate" : "Sat, 04 Sep 2021 14:05:00 +0100",
-         "title" : "Aimchess US Rapid: Carlsen and Artemiev reach the final"
-      },
-      {
-         "description" : "In this week's show, GM Daniel King takes a look at a remarkable game from the Aimchess US Rapid, one in which Magnus Carlsen employed a modern approach right from the get go. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-chaos-but-still-classical",
-         "pubDate" : "Sat, 04 Sep 2021 14:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Chaos, but still classical"
-      },
-      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/five-title-norms-at-the-northumbria-masters/",
          "pubDate" : "Thu, 02 Sep 2021 07:13:54 +0000",
          "title" : "Five title norms at the Northumbria Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1307",
-         "pubDate" : "Wed, 01 Sep 2021 17:47:51 +0000",
-         "title" : "Kosteniuk and Danielian rocket up in September rating list"
       }
    ]
 }
