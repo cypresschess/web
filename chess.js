@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "PogChamps 4 presented by Coinbase was a huge hit filled with drama, incredible twists, and clippable moments. If you&#39;re still not ready to say goodbye to our beloved Pog participants, we have good news! You can now play against poggers Harry Mack,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-4-bots",
+         "pubDate" : "Wed, 22 Sep 2021 15:59:56 -0700",
+         "title" : "Play Chess Against Fundy, Tectone, QTCinderella, And More!"
+      },
+      {
          "description" : "\"I wouldn't play unless I was fully motivated,\" said Magnus Carlsen as he signed the contract for his World Chess Championship match just over two months before battle is set to commence against Ian Nepomniachtchi in Dubai. Magnus signing the contract in Skopje during the European Club Cup was reported by his sponsors Unibet, who also posted a video of Magnus and his father Henrik in Dubai checking out hotels and the Dubai Exhibition Centre venue.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-signs-world-championship-contract",
          "pubDate" : "Wed, 22 Sep 2021 19:01:08 +0000",
          "title" : "Magnus Carlsen signs World Championship contract"
+      },
+      {
+         "description" : " The TePe Sigeman & Co Chess Tournament takes place Thu 23rd to Wed 29th September 2021 in Malmo Sweden. This is the 26th edition of the tournament. The event was postponed from earlier in the year due to the coronavirus. Players: Jorden Van Foreest, Gawain Jones, Nils Grandelius, Etienne Bacrot, Nihal Sarin, Nigel Short, Vincent Keymer and Jonas Buhl Bjerre.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2021",
+         "pubDate" : "Wed, 22 Sep 2021 22:08:00 +0400",
+         "title" : "TePe Sigeman & Co Chess Tournament 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-botvinnik-variation-of-the-semi-slav",
          "pubDate" : "Fri, 10 Sep 2021 13:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The Botvinnik Variation in the Semi-Slav"
-      },
-      {
-         "description" : "Scoring 3/3 on the second day, GM Leinier Dominguez took over the lead from&#38;nbsp;GM Fabiano Caruana at the Champions Showdown Chess9LX tournament in St. Louis. GM Garry Kasparov had an excellent day. He scored 2.5/3, moved to shared third place, a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-showdown-chess9lx-day-2-kasparov-1",
-         "pubDate" : "Fri, 10 Sep 2021 04:01:00 -0700",
-         "title" : "Champions Showdown Chess9LX Day 2: Dominguez Leads, Kasparov Scores 2.5/3"
       },
       {
          "description" : "",
