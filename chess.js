@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Vincent Keymer</strong> has won his second <strong>Julius Baer Challengers Chess Tour</strong> event, the <strong>Hou Yifan Challenge</strong>. The German will compete in at least two tournaments of the <strong>Meltwater Champions Chess Tour</strong> 2022. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/keymer-secured-another-ticket-on-the/",
+         "pubDate" : "Wed, 22 Sep 2021 11:02:30 +0100",
+         "title" : "Keymer secured another ticket on the tour"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An interim season of the <strong>PRO Chess League</strong> called <strong>Arena Royale</strong> with $100,000 in prices is taking place on <strong>Chess.com</strong> <a href=\"https://www.chess.com/article/view/pro-chess-league-arena-royale\">until Friday</a>. Challenger <strong>Ian Nepomniachtchi</strong> came out for the Russia Wizzards and was the <a href=\"https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate\">third highest scorer</a> after Hikaru Nakamura and Wesley So. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/arena-royale-in-full-swing/",
+         "pubDate" : "Wed, 22 Sep 2021 10:58:18 +0100",
+         "title" : "Arena Royale in full swing"
+      },
+      {
+         "description" : "The FIDE Women's World Team Championship kicks off on September 26 at the Catalonian coastal town of Sitges. A new format will be in place: instead of the usual round-robin, the 12 teams will be divided into two pools of approximately the same strength; 4 top teams from each pool will qualify for the knockout playoff. The time control will be shorter than usual, with 45 minutes for the whole game and a 10-second increment per move.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-team-ch-2021-preview",
+         "pubDate" : "Wed, 22 Sep 2021 09:40:02 +0100",
+         "title" : "With a new format: Women's World Team Championship in Sitges"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "Norway Chess 9: Carlsen wins 4th in a row, Firouzja in Top 10"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former women's world champion <strong>Nona Gaprindashvili</strong> <a href=\"https://www.documentcloud.org/documents/21063359-gaprindashvili\">is suing</a> <strong>Netflix</strong> for <a href=\"https://www.hollywoodreporter.com/tv/tv-news/netflix-sued-by-ex-soviet-chess-champion-over-sexist-remark-in-queens-gambit-1235015139/\">$5 million in damages</a> because a commentator in the final episode of The Queen's Gambit said \"there's Nona Gaprindashvili, but she's the female world champion and has never faced men\", which according to her lawyer <strong>Rodney Smolla</strong> is false and sexist. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/gaprindashvili-sues-netflix/",
-         "pubDate" : "Fri, 17 Sep 2021 15:14:45 +0100",
-         "title" : "Gaprindashvili sues Netflix"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86293053.cms\" />Mary Ann Gomes will replace Koneru Humpy in the World women's team event which is scheduled to be held in Sitges, Spain from September 26 to October 3. Humpy, who has taken both her jabs in Covaxin, would have to undergo a 10-day quarantine on arrival.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-r9",
          "pubDate" : "Fri, 17 Sep 2021 10:50:00 +0100",
          "title" : "Norway Chess: Carlsen grabs the lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Final of the <strong>Meltwater Champions Chess Tour</strong> on 25 September to 4 October cannot be held as hoped over-the-board in San Francisco. Still, three of the ten qualified players, world champion <strong>Magnus Carlsen, Jan-Krzysztof Duda</strong> and <strong>Anish Giri</strong>, will not compete from their home <a href=\"https://championschesstour.com/the-final-countdown-worlds-elite-prepare-for-tour-decider/\">but from the main production studio</a> in Oslo, giving the $300,000-event a hybrid element. Out of the first ten in the standings, <strong>Ian Nepomniachtchi</strong> bowed out to concentrate on his preparation for the world cham",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/tour-final-with-three-players-in/",
-         "pubDate" : "Fri, 17 Sep 2021 09:50:36 +0100",
-         "title" : "Tour final with three players in Oslo"
       },
       {
          "description" : "He was close to a defeat this time but GM Magnus Carlsen turned his game with GM Sergey Karjakin around, won his fourth in a row, and became the new leader at Norway Chess with one round to go. GM Alireza Firouzja defeated GM Aryan Tari to enter t...",
@@ -1322,14 +1330,6 @@ news_feed (
          "title" : "20/20 Championship League"
       },
       {
-         "description" : "\"The rumours of my chess death probably have been slightly exaggerated!\" said Garry Kasparov as he stormed back to defeat Sam Shankland and Levon Aronian on Day 2 of Chess 9LX in Saint Louis. After being one of just two players not to win a game on Day 1, he was now one of just two players to remain unbeaten on Day 2. The other, Leinier Dominguez, took the lead with a perfect 3/3, defeating Peter Svidler, Shakhriyar Mamedyarov and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-9lx-2-kasparov-is-back-dominguez-leads",
-         "pubDate" : "Fri, 10 Sep 2021 17:46:17 +0000",
-         "title" : "Chess 9LX 2: Kasparov is back! Dominguez leads"
-      },
-      {
          "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1311",
          "pubDate" : "Fri, 03 Sep 2021 11:23:06 +0000",
          "title" : "Carlsen-Aronian on a knife-edge as Firouzja launches comeback"
-      },
-      {
-         "description" : "Paleochora is a serene little village which occupies a small peninsula on the southeast coast of Crete. Even during the uneasy pandemic time, Paleochora welcomed more than 300 players from all around the world for the 14th edition of the Open, one of the strongest tournaments in Greece. Irina Bulmaga reports from a paradisiacal location.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paleochora-open-2021-irina-bulmaga-report",
-         "pubDate" : "Fri, 03 Sep 2021 12:10:00 +0100",
-         "title" : "In a serene little village: Solodovnichenko wins Paleochora Open"
       },
       {
          "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
