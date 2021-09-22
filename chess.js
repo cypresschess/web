@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
+         "title" : "Tacticland: Tal's Coolest Games | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess endgame class. 2021.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
+         "title" : "Insane in the Endgame - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dissects the 1909 game between Rudolf Spielmann and Akiba Rubinstein. The mysterious masked Caleb gets excited about the endgame mastery of Akiba Rubinstein. 2021.09.21<br /> Rudolf Spielmann vs Akiba Rubinstein, St. Petersburg (1909): C88 Ruy Lopez, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1130714\">https://www.chessgames.com/perl/chessgame?gid=1130714</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rubenst",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rubensteins-rook-game-slays-spielmann-insane-endgame-nm-caleb-denby",
+         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
+         "title" : "Rubenstein's Rook Game Slays Spielmann! | Insane in the Endgame - NM Caleb Denby"
+      },
+      {
+         "description" : "Tuesday, the 21st of September, treated chess fans around the world to the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of something: as you might have read, there we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate",
+         "pubDate" : "Tue, 21 Sep 2021 19:49:43 -0700",
+         "title" : "PRO Chess League Quarterfinals: St.Louis Archbishops Dominate"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,7 +106,7 @@ news_feed (
          "title" : "Hou Yifan Challenge: Keymer leapfrogs Pragg"
       },
       {
-         "description" : " Neville Ledger has passed away at the age of 81. <span> For many years he was the backbone of the Tasmanian chess scene, as a player, organiser, administrator and chess retailer. He ran a mail order bookshop from his home for may years, being particularly adept at providing rarer and hard to get titles. A strong supporter of Correspondence Chess, he was a regular advertiser in the Australian Correspondence Chess Quarterly.</span> <span>As a player he was a Tasmanian State Champion (in 1965) and the Burnie Club Champion on numerous occasions. He held a number of positions with the Tasmanian Chess Association over the years, including being TCA President in 1977-78. Apart from being a booksel",
+         "description" : " Neville Ledger has passed away at the age of <s>81</s> 91. <span> For many years he was the backbone of the Tasmanian chess scene, as a player, organiser, administrator and chess retailer. He ran a mail order bookshop from his home for may years, being particularly adept at providing rarer and hard to get titles. A strong supporter of Correspondence Chess, he was a regular advertiser in the Australian Correspondence Chess Quarterly.</span> <span>As a player he was a Tasmanian State Champion (in 1965) and the Burnie Club Champion on numerous occasions. He held a number of positions with the Tasmanian Chess Association over the years, including being TCA President in 1977-78. Apart from being",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/09/neville-ledger-1930-2021.html",
@@ -1218,14 +1250,6 @@ news_feed (
          "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 8-10 in a Fischer random chess round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Join GMs Alejandro Ramirez and Maurice Ashley for the move-by-move. 2021.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3\"><img src=\"https://saintlouischessclub.org",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3",
-         "pubDate" : "Sat, 11 Sep 2021 02:46:07 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX Leinier Dom&iacute;nguez Interview | Day 3"
-      },
-      {
          "description" : "Richard Rapport beat Alireza Firouzja in their round-4 classical encounter to increase his lead atop the standings of the Norway Chess Tournament. In the stellar contest of the day, Magnus Carlsen beat Ian Nepomniachtchi in the Armageddon decider after drawing the classical game out of a Berlin Defence. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,22 +1264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-top-division-final",
          "pubDate" : "Sat, 11 Sep 2021 01:40:00 +0100",
          "title" : "Online Olympiad: On to the play-offs"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Sam Shankland after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/amK0I1j1WUs.jpg?itok=MZIBFBWi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-sam-shankland-interview-day-3",
-         "pubDate" : "Fri, 10 Sep 2021 23:45:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Sam Shankland Interview | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Wesley So after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8KDfuRhdCPs.jpg?itok=l5JnL1M5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-wesley-so-interview-day-3",
-         "pubDate" : "Fri, 10 Sep 2021 23:45:59 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Wesley So Interview | Day 3"
       },
       {
          "description" : "",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-top-division-day-2",
          "pubDate" : "Fri, 10 Sep 2021 02:30:00 +0100",
          "title" : "Online Olympiad: Kazakhstan, India, Russia and USA top the standings"
-      },
-      {
-         "description" : "For the second day in a row, all classical games at the Norway Chess tournament ended in draws and therefore three more armageddon games were played. GM Richard Rapport lost to GM Magnus Carlsen but is still a point ahead in the standings. GM Ia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-3",
-         "pubDate" : "Thu, 09 Sep 2021 16:54:00 -0700",
-         "title" : "Norway Chess R3: Rapport Still Leads After 3 More Armageddons"
       },
       {
          "description" : "",
