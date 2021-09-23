@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thursday, the 23rd of September, treated chess fans all around the world to the 2021&#38;nbsp; Pro Chess League&#39;s Arena Royale&#39;s semifinals. Many of you have been following previous stages of the event, but it wouldn&#39;t hurt to remind you that the four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-semifinals",
+         "pubDate" : "Thu, 23 Sep 2021 16:21:00 -0700",
+         "title" : "PRO Chess League Semifinals: Saint Louis Arch Bishops And Russia Wizards Advance"
+      },
+      {
+         "description" : "On this updated DVD, experts including Daniel King, Mihail Marin, Karsten M&uuml;ller, Oliver Reeh and Niclas Huschenbeth examine the games of the 16th World Champion. Let them show you how Carlsen tailored his openings to be able to outplay his opponents strategically in the middlegame or to obtain an enduring advantage into the endgame, and bear witness to how the Norwegian always managed to find a way to pose his opponents serious problems, even in apparently level endings. This 2nd edition features additional new recordings by all the authors and an extra chapter with a special look at Carlsen by Daniel King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/updated-master-class-magnus-carlsen",
+         "pubDate" : "Thu, 23 Sep 2021 22:37:32 +0100",
+         "title" : "Updated: Master Class Magnus Carlsen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess class on a topic of his choice. 2021.09.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgames-pawn-7th-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-endgames-pawn-7th-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Thu, 23 Sep 2021 20:56:23 +0000",
+         "title" : "Rook Endgames - Pawn to the 7th | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess-themed new <strong>PlayStation</strong> spot is a hot item in the gaming industry, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/playstation-king.1920.jpeg\" title=\"The PlayStation king resides in a high place and sacrifices his queen. \" data-title=\"The PlayStation king resides in a high place and sacrifices his queen. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/playstation-king.480.jpeg\" alt=\"The PlayStation king resides in a high place and sacrifices his queen.\" srcset=\"https://www.chesstech.org/files/playsta",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/sonys-gambit/",
+         "pubDate" : "Thu, 23 Sep 2021 21:52:39 +0100",
+         "title" : "Sony's Gambit"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris shows how Black can get good attacking chances in the Four Knights Variation of the English Opening, using one of his own games from the Dutch Team Championship as example. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +162,7 @@ news_feed (
          "title" : "ChessBase Tactics app: Adrenaline Rush"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani poses key positions from Mikhail Tal's games. Find the best answers in these games spanning 1949-53, including the Latvian Championship and more. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani",
@@ -279,7 +311,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate",
          "pubDate" : "Tue, 21 Sep 2021 19:49:00 -0700",
-         "title" : "PRO Chess League Quarterfinals: Saint Louis Archbishops Dominate"
+         "title" : "PRO Chess League Quarterfinals: Saint Louis Arch Bishops Dominate"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
@@ -424,14 +456,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2",
          "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
          "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join a commentary team TBA for the move-by-move. 2021.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-1",
-         "pubDate" : "Mon, 20 Sep 2021 20:53:14 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
@@ -1506,14 +1530,6 @@ news_feed (
          "title" : "Online Olympiad - India through to the quarter final as pool topper"
       },
       {
-         "description" : "The 2021-22 season of the 20/20 Championship League hosted on and sponsored by Chess.com begins September 19! This extremely popular live rapid team event has featured nearly 200 teams from around the world since it was launched online. Teams in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/20-20-championship-league",
-         "pubDate" : "Fri, 10 Sep 2021 12:32:00 -0700",
-         "title" : "20/20 Championship League"
-      },
-      {
          "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "The patter of tiny feet"
       },
       {
-         "description" : "A year ago, on September 4 2020, Dmitry Svetushkin passed away. The Moldovan Grandmaster played ten times for his country at chess Olympiads and was an active and renowned trainer. Friends describe 'Dima' as a very friendly, well-read and versatile person, who, for example, tried to learn German just to read Goethe in the original. Carl Strugnell shares memories and lessons of his friend and trainer. | Photo: Andreas Kontokanis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-dimitry-svetushkin",
-         "pubDate" : "Sun, 05 Sep 2021 13:05:00 +0100",
-         "title" : "Remembering Dima"
-      },
-      {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
          "pubDate" : "Fri, 03 Sep 2021 07:00:22 +0000",
          "title" : "Chess: Firouzja checkmates Carlsen in mid-board but loses semi to Artemiev"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1310",
-         "pubDate" : "Thu, 02 Sep 2021 21:14:13 +0000",
-         "title" : "FIDE Online Olympiad: Division 2 starts strong! "
       }
    ]
 }
