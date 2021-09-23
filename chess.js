@@ -2,7 +2,79 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A complaint under Regulation 5 was received by Julian Clissold and Stephen Woodhouse. The complaint was raised by Chris Fegan in relation to email correspondence...",
+         "description" : "When the FIDE officially introduced the title of Grandmaster in 1950, only one German received the title - Friedrich S&auml;misch. Alexander Alekhine once pointed out that \"he could play among the very best, if he only managed to quit his extreme smoking\". What Alekhine seemed to have forgotten was S&auml;misch's perennial addiction to time-trouble. Michael Dombrowsky, author of S&auml;misch's soon-to-be-published biography, wrote a tribute to this unique character to celebrate S&auml;misch's 125th birthday. | Image: British Chess News",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/for-friedrich-saemisch-s-125th-birthday",
+         "pubDate" : "Thu, 23 Sep 2021 17:00:00 +0100",
+         "title" : "For Friedrich S&auml;misch's 125th Birthday"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86459230.cms\" />Boxing megastar Manny \"Pac-Man\" Pacquiao has revealed that his next big fight is going to be onboard ---- against a 10-year-old app version of world chess champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/manny-pacquiaos-next-opponent-magnus-carlsen/articleshow/86459230.cms",
+         "pubDate" : "Thu, 23 Sep 2021 21:05:19 +0530",
+         "title" : "Manny Pacquiao's next opponent: Magnus Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86458466.cms\" />Among the many success stories that has emerged out of Makoko is 10-year-old Maumo Ferdinand who in May this year won the junior category of a local event less than a few weeks into learning the basics of the game. Ferdinand --- affected by cerebral palsy --- caught the attention of Onakoya who with his team had gone to train children in the slum.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meet-babatunde-onakoya-a-chess-coach-who-changed-lives-of-nigerian-slum-children/articleshow/86458466.cms",
+         "pubDate" : "Thu, 23 Sep 2021 20:23:15 +0530",
+         "title" : "Meet Onakoya, a coach who changed lives of Nigerian slum children"
+      },
+      {
+         "description" : "After 10 months, 9 tournaments and over 1,000 games between the world's best players, the time for the Meltwater Champions Chess Tour Finals has come. The ultimate showdown kicks off on September 25 at 17:00 CET, and up for grabs is the $100,000 top prize along with the overall tour trophy. The line-up of participants is stacked, with an average rating of 2782.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/champions-chess-tour-finals-player-recap",
+         "pubDate" : "Thu, 23 Sep 2021 14:00:42 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals: A look at the players"
+      },
+      {
+         "description" : "After 5 of 7 rounds three teams share the lead in the Open Tournament of the European Club Cup: Mednyi Vsadnik (Russia), AVE Bovy Nor (Czechia), and Silla-Valencia (Spain). In round 6 Silla-Valencia (with Anton Korobov on board 1) will play against Mednyi Vsadnik (with Peter Svidler on first board) while AVE Novy Bor (with Pentala Harikrishna on first board) faces Alkaloid where Shakhriyar Mamedyarov plays on board one. In the women's event South Ural (Russia) is sole leader and one team point ahead of Kiyv (Ukraine). The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Thu, 23 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup, Round 6 - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1345",
+         "pubDate" : "Thu, 23 Sep 2021 13:35:51 +0000",
+         "title" : "FIDE World Cup in Composing 2021: Final results"
+      },
+      {
+         "description" : "The Saint Louis chess club and its sponsor Rex Sinquefield have done a lot for chess in the U.S. and the world, and they continue to organise top tournaments. Beginning on the 5th of October, the club will host the U.S. chess championship tournaments 2021, for women and men. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip both tournaments are strongly contested, though Hikaru Nakamura, U.S. Champion 2005, 2009, 2012, 2015, and 2019 is missing from the line-up. Over the course of eleven rounds, the 2 x 12 competitors will battle for a prize-fund of almost 200,000 USD, the qualification for the World Championship cycle, and of course, the title of U.S. Champion 202",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2021-u-s-and-u-s-women-s-chess-championships-fields-announced",
+         "pubDate" : "Thu, 23 Sep 2021 14:00:00 +0100",
+         "title" : "2021 U.S. and U.S. Women's Chess Championships Fields Announced"
+      },
+      {
+         "description" : " If you want to watch some serious (non online) GM level chess, the Sigeman Chess Tournament has just begun. It is being held in Malmo, Sweden and is an 8 player round robin. In the field are a mixture of young talents (Sarin and Keymar) and some more experienced GM's (Gawain Jones and Nigel Short). The first round began around an hour ago, and is being covered live by chess24.com. Each round begins at 10pm (Canberra time), and with the civilized time limit of 40/100m,20/50m,15m+30s inc from move 1, there should be hours of entertainment. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/sigeman-chess-tournament.html",
+         "pubDate" : "Thu, 23 Sep 2021 12:53:00 +0000",
+         "title" : "Sigeman Chess Tournament"
+      },
+      {
+         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
+         "pubDate" : "Thu, 23 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co: Live"
+      },
+      {
+         "description" : "A complaint under Regulation 5 was raised by Chris Fegan in relation to email correspondence involving Mike Truran. A panel of Julian Clissold, Mike Gunn...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/complaint-under-regulation-5-2/",
@@ -10,7 +82,7 @@ news_feed (
          "title" : "Complaint under Regulation 5"
       },
       {
-         "description" : "Currently, Magnus Carlsen is in Macedonia, where he plays in the European Club Cup for Offerspill, his Norwegian club. During the event Carlsen found time to sign the contract about the regulations of the World Championship Match against Ian Nepomniachtchi in November. Carlsen's sponsor Unibet used the occasion to ask the World Champion some questions about the contract, the match and his preparation. | Photo: Unibet",
+         "description" : "Currently, Magnus Carlsen is in Struga, in North Macedonia, where he plays in the European Club Cup for Offerspill, his Norwegian club. During the event Carlsen found time to sign the contract about the regulations of the World Championship Match against Ian Nepomniachtchi in November. Carlsen's sponsor Unibet used the occasion to ask the World Champion some questions about the contract, the match and his preparation. | Photo: Unibet",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magnus-carlsen-signs-world-championship-contract",
@@ -1234,14 +1306,6 @@ news_feed (
          "title" : "School Chess in Lockdown"
       },
       {
-         "description" : "Leinier Dominguez beat Levon Aronian in the final round to clinch victory in the Champions Showdown: Chess9LX in Saint Louis. 58-year-old Garry Kasparov had gone into that round in a 4-way tie for 1st place, but dropped to 5th after losing to Maxime Vachier-Lagrave and couldn't shake off regret at taking a draw in a better position against Hikaru Nakamura in the previous round. MVL shared 2nd place with Sam Shankland and Wesley So, with Wesley the only player to score more than a single win on the final day.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/dominguez-takes-chess9lx-title-as-kasparov-cries-damn-it",
-         "pubDate" : "Sun, 12 Sep 2021 09:25:03 +0000",
-         "title" : "Dominguez takes Chess9LX title as Kasparov cries, \"Damn it!\" "
-      },
-      {
          "description" : "Your computers and computer components are feeling a bit long in the tooth, and although still good (or not), you know you are behind the curve. Or perhaps you are buying a dedicated machine for chess and unsure what will be best for you. Either way, this long-awaited guide will help you plan your purchase with confidence for all budgets.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,28 +2026,12 @@ news_feed (
          "title" : "Aimchess US Rapid Finals - Carlsen beats Artemiev"
       },
       {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. A field of 184 players will fight to get a share of the €100,000 prize fund and one of the 23 spots at the FIDE World Cup that are in offer. The games start at 15.00 local time (17.00 CEST, 11.00 ET). Follow the action live! | Pictured: Alexey Sarana",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-live",
-         "pubDate" : "Sun, 05 Sep 2021 12:55:00 +0100",
-         "title" : "European Championship - Final round"
-      },
-      {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/",
          "pubDate" : "Sun, 05 Sep 2021 11:40:09 +0000",
          "title" : "Wrong Books (5): The Right Way to Play Chess"
-      },
-      {
-         "description" : "The first Intensive Training Course of the Chess-Magic Academy will be held from the 24th to the 30th October 2021. GMs Vladislav Tkachiev (France) and Murtas Kazhgaleyev (Kazakhstan) are the main coaches. The theme will be the Soviet Chess School - Botvinnik's \"Total Chess\" Approach.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/intensive-training-course-with-vlad-tkachev-and-murtas-kazhgaleyev",
-         "pubDate" : "Sun, 05 Sep 2021 12:30:00 +0100",
-         "title" : "Intensive training course with GMs Tkachev and Kazhgaleyev"
       },
       {
          "description" : " The Aimchess US Rapid was the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid took place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang. Magnus Carlsen won both days of the final against Vladislav Artemiev but the latter got enough points to make it to the tour final. The top 8 ",
@@ -2000,22 +2048,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-to-face-carlsen-in-norway-90-days-before-the-match/",
          "pubDate" : "Sun, 05 Sep 2021 08:49:29 +0000",
          "title" : "Nepo to Face Carlsen in Norway 90 days Before the Match"
-      },
-      {
-         "description" : "The 2021 European Individual Championship is taking place from August 26 to September 5 at the Hotel Natura in Reykjav&iacute;k, Iceland. With one round to go, 34-year-old Russian GM Anton Demchenko is the sole leader in the standings table. Four (young) players stand a half point behind, while a host of strong grandmasters will fight to get a ticket to the next World Cup - to do so they need to finish among the top 23. | Pictured: Vincent Keymer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-games-and-results",
-         "pubDate" : "Sun, 05 Sep 2021 01:15:00 +0100",
-         "title" : "European Championship (R10): Demchenko sole leader"
-      },
-      {
-         "description" : "Magnus Carlsen obtained a clear victory in the first set of the finals at the Aimchess US Rapid. The world champion beat Vladislav Artemiev 2&frac12;-1&frac12; thanks to wins in the first two games of the day. Meanwhile, Levon Aronian was awarded third place, since Alireza Firouzja had to withdraw due to illness. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-8",
-         "pubDate" : "Sun, 05 Sep 2021 00:35:00 +0100",
-         "title" : "Aimchess US Rapid Finals: Carlsen clinches first set"
       },
       {
          "description" : "",
@@ -2120,30 +2152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/harshavardhan-wins-u-18-open-gold-at-online-youth-rapid-world-cup/articleshow/85874444.cms",
          "pubDate" : "Thu, 02 Sep 2021 22:13:36 +0530",
          "title" : "Harshavardhan wins U-18 open gold at online youth rapid World Cup"
-      },
-      {
-         "description" : " One of the biggest issues many improving players face is where to get some decent practice. Playing online tends to be fraught with difficulty because many players are there for fun rather than structured improvement. I've now discovered a way round this by setting up a Tigerchess Themed Training team at Lichess. Once enough players <a href=\"https://chessimprover.com/lichess-training-events/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lichess Training Events\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lichess-training-events/\">Lichess Training Events</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improv",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/lichess-training-events/",
-         "pubDate" : "Thu, 02 Sep 2021 13:41:51 +0000",
-         "title" : "Lichess Training Events"
-      },
-      {
-         "description" : " Despite Steinitz's arguments to the contrary, the king doesn't usually fare well out in the open. A good example is the following game from the 2021 Online Chess Olympiad <br /> <br /> <b>Weng,Yu-Hsin (1000) - Cheng,Chao Xin (1440) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (3.1), 02.09.2021 <script>new PgnViewer( { boardName: \"game1267\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nc6 3.c4 Bg4 4.cxd5 Bxf3 5.dxc6 Bxc6 6.Nc3 e6 7.Bf4 Nf6 8.e3 a6 9.f3 Nh5 10.Bg3 Nxg3 11.hxg3 Qg5 12.Kf2 Bd6 13.f4 Qf6 14.e4 O-O-O 15.d5 exd5 16.exd5 Bc5+ 17.Kf3 Rhe8 18.Ne4 Rxe4 19.Kxe4 Bxd5+ 20.Qxd5 Rxd5 21.Kf3 Qxb2 22.Be2 f5 23.Rhb1 Rd3+ 24.Bxd3 Qf2# 0-1', pauseBetweenMoves: 500, pieceSize: 29 } );",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/the-king-is-not-attacking-piece.html",
-         "pubDate" : "Thu, 02 Sep 2021 13:30:00 +0000",
-         "title" : "The king is not an attacking piece"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1309",
-         "pubDate" : "Thu, 02 Sep 2021 12:34:14 +0000",
-         "title" : "The winners of the Online Cadets & Youth World Cup announced"
       }
    ]
 }
