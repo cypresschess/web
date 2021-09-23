@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris shows how Black can get good attacking chances in the Four Knights Variation of the English Opening, using one of his own games from the Dutch Team Championship as example. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-english-four-knights",
+         "pubDate" : "Thu, 23 Sep 2021 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: English Four Knights"
+      },
+      {
+         "description" : "The 73rd Emmy Awards is over, and The Queen&#39;s Gambit once more blew chess fans away by winning 11 awards. The show, which even got the trophy for the coveted &#34;Best Limited Series&#34; award, once more put chess under the spotlight. As the ceremony u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chemmys-winners",
+         "pubDate" : "Thu, 23 Sep 2021 10:23:11 -0700",
+         "title" : "Announcing The Chemmys Winners"
+      },
+      {
          "description" : "When the FIDE officially introduced the title of Grandmaster in 1950, only one German received the title - Friedrich S&auml;misch. Alexander Alekhine once pointed out that \"he could play among the very best, if he only managed to quit his extreme smoking\". What Alekhine seemed to have forgotten was S&auml;misch's perennial addiction to time-trouble. Michael Dombrowsky, author of S&auml;misch's soon-to-be-published biography, wrote a tribute to this unique character to celebrate S&auml;misch's 125th birthday. | Image: British Chess News",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meet-babatunde-onakoya-a-chess-coach-who-changed-lives-of-nigerian-slum-children/articleshow/86458466.cms",
          "pubDate" : "Thu, 23 Sep 2021 20:23:15 +0530",
          "title" : "Meet Onakoya, a coach who changed lives of Nigerian slum children"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1346",
+         "pubDate" : "Thu, 23 Sep 2021 14:49:19 +0000",
+         "title" : "Magnus Carlsen: \"Ian can be very difficult to play against\""
       },
       {
          "description" : "After 10 months, 9 tournaments and over 1,000 games between the world's best players, the time for the Meltwater Champions Chess Tour Finals has come. The ultimate showdown kicks off on September 25 at 17:00 CET, and up for grabs is the $100,000 top prize along with the overall tour trophy. The line-up of participants is stacked, with an average rating of 2782.",
@@ -1498,14 +1522,6 @@ news_feed (
          "title" : "Chess 9LX: Dominguez leads, Kasparov on a roll"
       },
       {
-         "description" : "Today, the FIDE Online Olympiad players have crossed division one&#39;s equator. Let&#39;s see what happened during the second day of the top division&#39;s matches in each of the pools. It was even more eventful than the first one as leaders of many groups...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-2-russia-kazakhstan-usa-perfect",
-         "pubDate" : "Fri, 10 Sep 2021 08:57:44 -0700",
-         "title" : "FIDE Online Olympiad Division 1, Day 2: Russia, Kazakhstan, USA Perfect"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2018,14 +2034,6 @@ news_feed (
          "title" : "Remembering Dima"
       },
       {
-         "description" : "Magnus Carlsen is the Aimchess US Rapid winner after a near-faultless display against Vladislav Artemiev. The World Champion now marches into next month's $300,000 Meltwater Champions Chess Tour Final top of the leaderboard and in top form. | Full report to follow shortly",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-live",
-         "pubDate" : "Sun, 05 Sep 2021 13:00:00 +0100",
-         "title" : "Aimchess US Rapid Finals - Carlsen beats Artemiev"
-      },
-      {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1310",
          "pubDate" : "Thu, 02 Sep 2021 21:14:13 +0000",
          "title" : "FIDE Online Olympiad: Division 2 starts strong! "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85874444.cms\" />International Master (IM) GB Harshavardhan won gold in the U-18 open category of the Fide online Cadets and Youth Rapid World Cup which concluded earlier this week.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/harshavardhan-wins-u-18-open-gold-at-online-youth-rapid-world-cup/articleshow/85874444.cms",
-         "pubDate" : "Thu, 02 Sep 2021 22:13:36 +0530",
-         "title" : "Harshavardhan wins U-18 open gold at online youth rapid World Cup"
       }
    ]
 }
