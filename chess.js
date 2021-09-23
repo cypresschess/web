@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While the Solve Tactics mode is undoubtedly the meat of the of the Tactics web app, there are two other modes that provide a very different sort of training, excellent to stay sharp. Both are based on trying to solve as quickly as possible, but each with a slightly different angle. They are also the perfect trainer for bullet chess. You will also find part one demonstrated in a video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-tactics-app-adrenaline-rush",
+         "pubDate" : "Thu, 23 Sep 2021 09:11:52 +0100",
+         "title" : "ChessBase Tactics app: Adrenaline Rush"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 23 Sep 2021 02:55:22 +0000",
+         "title" : "Tacticland: Tal's Coolest Games | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "PogChamps 4 presented by Coinbase was a huge hit filled with drama, incredible twists, and clippable moments. If you&#39;re still not ready to say goodbye to our beloved Pog participants, we have good news! You can now play against poggers Harry Mack,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1098,14 +1114,6 @@ news_feed (
          "title" : "India beat Ukraine; enter semi final of World Online Chess Olympiad"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez after Day 3 of the Chess960 round robin. 2021.09.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G70WiAFmu4Q.jpg?itok=hWjHyu89\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-champions-showdown-chess-9lx-leinier-dom%C3%ADnguez-interview-day-3-0",
-         "pubDate" : "Mon, 13 Sep 2021 14:47:35 +0000",
-         "title" : "2021 Champions Showdown | Chess 9LX: Leinier Dom&iacute;nguez Interview | Day 3"
-      },
-      {
          "description" : "Sergey Karjakin played a brilliant exchange sacrifice on the way to defeating Magnus Carlsen in a classical game for the first time since Game 8 of their World Championship match in 2016. It was a dramatic turnaround for Sergey, who the day before had lost to Ian Nepomniachtchi after reacting badly to a novelty. In Round 5 Nepo overcame Richard Rapport in Armageddon, while a gamble from Alireza Firouzja paid off with a classical win over Aryan Tari.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2018,14 +2026,6 @@ news_feed (
          "title" : "Australia fall short"
       },
       {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 7-10 in Champions Showdown: Chess 9LX. The tournament will feature legendary World Champion Garry Kasparov, World Number 2 Fabiano Caruana, and the recent 2021 Grand Chess Tour winner, Wesley So. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-preview",
-         "pubDate" : "Sat, 04 Sep 2021 14:10:00 +0100",
-         "title" : "Chess 9LX: Kasparov returns to Saint Louis"
-      },
-      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1308",
          "pubDate" : "Thu, 02 Sep 2021 10:58:57 +0000",
          "title" : "Firouzja holds off So's fierce fightback to storm into semis"
-      },
-      {
-         "description" : "A grand total of five players scored international title norms at the Northumbria Masters Congress, held 26-30 August at the Marriott MetroCentre, Gateshead. The congress...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/five-title-norms-at-the-northumbria-masters/",
-         "pubDate" : "Thu, 02 Sep 2021 07:13:54 +0000",
-         "title" : "Five title norms at the Northumbria Masters"
       }
    ]
 }
