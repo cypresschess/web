@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A complaint under Regulation 5 was received by Julian Clissold and Stephen Woodhouse. The complaint was raised by Chris Fegan in relation to email correspondence...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/complaint-under-regulation-5-2/",
+         "pubDate" : "Thu, 23 Sep 2021 11:02:15 +0000",
+         "title" : "Complaint under Regulation 5"
+      },
+      {
+         "description" : "Currently, Magnus Carlsen is in Macedonia, where he plays in the European Club Cup for Offerspill, his Norwegian club. During the event Carlsen found time to sign the contract about the regulations of the World Championship Match against Ian Nepomniachtchi in November. Carlsen's sponsor Unibet used the occasion to ask the World Champion some questions about the contract, the match and his preparation. | Photo: Unibet",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-signs-world-championship-contract",
+         "pubDate" : "Thu, 23 Sep 2021 11:30:55 +0100",
+         "title" : "Magnus Carlsen signs World Championship contract"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Why <strong>Mastercard</strong>'s contract with <strong>Magnus Carlsen</strong> and the <strong>Champions Chess Tour</strong> is good news for professional chess, is explained by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chess-themed-mastercard.1920.jpeg\" title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership. \" data-title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/corporate-sponsorship-is-back/",
+         "pubDate" : "Thu, 23 Sep 2021 09:57:26 +0100",
+         "title" : "Corporate sponsorship is back"
+      },
+      {
          "description" : "While the Solve Tactics mode is undoubtedly the meat of the of the Tactics web app, there are two other modes that provide a very different sort of training, excellent to stay sharp. Both are based on trying to solve as quickly as possible, but each with a slightly different angle. They are also the perfect trainer for bullet chess. You will also find part one demonstrated in a video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Game of the Week 482: Crazy tactics - T. Beerdsen vs P. Velten"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Why <strong>Mastercard</strong>'s contract with <strong>Magnus Carlsen</strong> and the <strong>Champions Chess Tour</strong> is good news for professional chess, is explained by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chess-themed-mastercard.1920.jpeg\" title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership. \" data-title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/corporate-sponsorship-is-back/",
-         "pubDate" : "Wed, 22 Sep 2021 18:56:28 +0100",
-         "title" : "Corporate sponsorship is back"
-      },
-      {
          "description" : "German prodigy Vincent Keymer obtained his second consecutive tournament victory at the Julius Baer Challengers Tour by winning the Hou Yifan Challenge, a 17-player single round-robin tournament that took place online on September 18-21. Christopher Yoo and Praggnanandhaa shared second place, finishing two points behind the winner. Keymer, Yoo and Pragg are 3 out of 8 players who qualified to the knockout final of the tour, set to start on October 14. | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bishop-vs-knight/",
          "pubDate" : "Wed, 22 Sep 2021 14:00:00 +0000",
          "title" : "Bishop vs Knight"
-      },
-      {
-         "description" : "From 18 to 24 September, some of the best European chess players will be competing with their teams at the European Club Cup and the European Women's Club Cup. After four rounds two teams, which both have won all their four matches share the lead: Mednyi Vsadnik (Russia) and AVE Novy Bor (Czechia). In the women's event only South Ural still has a perfect score. The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Wed, 22 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup, Round 5 - Live!"
       },
       {
          "description" : "Having regular training and having a good trainer helps enormously to improve one's game. But trainers also need to be trained, and this is what the European Chess Union and the European Chess Academy do in the \"ECU Online Trainers Conference\" from 1 October to 3 October, in which some of the world's best and most experienced trainers share their methods and secrets.",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1309",
          "pubDate" : "Thu, 02 Sep 2021 12:34:14 +0000",
          "title" : "The winners of the Online Cadets & Youth World Cup announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1308",
-         "pubDate" : "Thu, 02 Sep 2021 10:58:57 +0000",
-         "title" : "Firouzja holds off So's fierce fightback to storm into semis"
       }
    ]
 }
