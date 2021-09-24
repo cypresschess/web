@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>St. Petersburg</strong> team, named after the Bronze Horseman monument of Tsar Peter that was immortalized by a poem of Alexander Pushkin, <a href=\"http://chess-results.com/tnr579298.aspx?lan=0\">won the</a> <strong>European Club Cup</strong> held in Struga, Macedonia, for the second time after 2018. Top seated <strong>Alkaloid Skopje</strong> couldn't repeat its 2016 win and finished only on the eighth place. <strong>Magnus Carlsen</strong> joined <strong>Offerspill Oslo</strong> for three games and signed the world championship contract in Struga, before returning to Oslo for the <strong>Meltwater Champions Chess Tour</strong> final sta",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/st-petersburg-wins-european-club-cup/",
+         "pubDate" : "Fri, 24 Sep 2021 22:08:35 +0100",
+         "title" : "St Petersburg wins European Club Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/napoleon-gambit-chess-openings-e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/napoleon-gambit-chess-openings-explained",
+         "pubDate" : "Fri, 24 Sep 2021 20:57:49 +0000",
+         "title" : "The Napoleon Gambit | Chess Openings Explained"
+      },
+      {
+         "description" : " The Meltwater Champions Chess Tour Final takes place on Chess24 24th September to 4th October 2021. The culmination of the online chess tour that started with the Skilling Open in November last year. The event is a 10 player single round robin where the points come from 4 game rapid mini-matches. There are three points for a win in each match, if drawn there are tie-breaks and then the split is 2 points to the winner of the TB 1 to the loser. However the players also carry forward points earned from the tour as a whole which means Carlsen starts with 16.5 points, So 12, Aronian 8, Radjabov 6, Giri 5.5, Nakamura 4, Artemiev 3.5, MVL 2.5, Mamedyarov 0.5 and Duda 0. It's hard to see beyond Car",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-final-2021",
+         "pubDate" : "Fri, 24 Sep 2021 22:32:00 +0400",
+         "title" : "Meltwater Champions Chess Tour Final 2021 - Games and Results"
+      },
+      {
          "description" : "Lawrence Trent has taken a well-deserved holiday, but doesn't want to forget the good times and travels to the Bahamas in the News Review. Jokes aside, he takes a closer look at the lawsuit of Nona Gaprindashvili and the Netflix show \"Queens Gambit\". Furthermore, the British IM wants to watch the new film about Karpov and Korchnoi, not only because he played against Korchnoi in the past.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "European Club Cup, Round 7 - Live!"
       },
       {
-         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live with commentary by Ivan Sokolov and Stellan Brynell.",
+         "description" : "Today, 14:00 CEST (8:00 ET, 12:00 UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live with commentary by Ivan Sokolov and Stellan Brynell.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "Hou Yifan Challenge 3: Keymer in pole position after Pragg collapse"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://www.mastercard.com/news/press/2021/september/mastercard-names-world-chess-champion-magnus-carlsen-global-brand-ambassador/\">becomes ambassador</a> for the global brand <strong>Mastercard</strong>, which announced a partnership with the <strong>Meltwater Champions Chess Tour</strong>. Cardholders are invited to a virtual event with the world champion on 22 October. For holders of expensive cards chess offerings are planned within the <strong>Priceless</strong> scheme. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mastercard-enters-chess/",
-         "pubDate" : "Tue, 21 Sep 2021 09:10:30 +0100",
-         "title" : "Mastercard enters chess"
-      },
-      {
          "description" : "Even in endgames one should not forget that mate ends the game. In the diagram position it is White to move and win. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1",
          "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
          "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BLYT5X7rt-A.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2",
-         "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
@@ -760,6 +768,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/an-uncompromising-attack",
          "pubDate" : "Sat, 18 Sep 2021 09:00:00 +0100",
          "title" : "An uncompromising attack"
+      },
+      {
+         "description" : " From the back cover: The author has written what he believes to be an original book on the endgame, using a play on words for the title based on the historic battle of Hastings in 1066 which involved William the Conqueror. ***** Ray Cannon, a familiar frequenter of chess tournaments in London and elsewhere, has <a href=\"http://britishchessnews.com/2021/09/18/battle-of-endgames-1066-stratagems-for-you-to-conquer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Battle of Endgames: 1066 Stratagems for you to Conquer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/09/18/battle-of-endgames-1066-stratagems-for",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/09/18/battle-of-endgames-1066-stratagems-for-you-to-conquer/",
+         "pubDate" : "Sat, 18 Sep 2021 00:10:11 +0000",
+         "title" : "Battle of Endgames: 1066 Stratagems for you to Conquer"
       },
       {
          "description" : "GM Magnus Carlsen won the Norway Chess tournament for the third time in a row, and the fourth in total. Like in the first half of the tournament, the world champion won the armageddon game against world title challenger GM Ian Nepomniachtchi, who ...",
@@ -2128,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1314",
          "pubDate" : "Sat, 04 Sep 2021 01:54:41 +0000",
          "title" : "Carlsen faces Artemiev in Aimchess US Rapid final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1313",
-         "pubDate" : "Fri, 03 Sep 2021 20:58:30 +0000",
-         "title" : "Olympiad ABC: Argentina, Belarus and Colombia on a roll"
       }
    ]
 }
