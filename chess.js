@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The organisers of the TePe Sigeman & Co tournament once again put together a highly interesting field with young and experienced grandmasters. The players did not disappoint and the first day brought four interesting games and four decisions. | Photos: Lars OA Hedlund (Tournament page)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sigeman-four-decisions-in-round-1",
+         "pubDate" : "Fri, 24 Sep 2021 12:58:28 +0100",
+         "title" : "Sigeman: Four decisions in round 1"
+      },
+      {
+         "description" : "Tomorrow, Saturday, 25 September, ten players will play the final tournament of the Champions Chess Tour 2020/2021: the eight winners of the individual tournaments of the series and two players who received wildcards. Unlike the previous tournaments, the final will be played as a round robin with no knock-out stage. First prize is 100,000 USD.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals",
+         "pubDate" : "Fri, 24 Sep 2021 12:17:58 +0100",
+         "title" : "Champions Chess Tour: Finals"
+      },
+      {
+         "description" : " <p class=\"lead\">Pro Members of the <a href=\"http://chessarena.com/?utm_source=google&utm_medium=article&utm_campaign=announcement&utm_content=link&utm_term=worldchess\">FIDE Online Arena</a>, the official FIDE chess gaming platform will now see their FOA rating and title included in their profile on <a href=\"http://www.fide.com/?utm_source=google&utm_medium=article&utm_campaign=announcement&utm_content=link&utm_term=worldchess\">FIDE.com</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600-min.png\" width=\"1600\" height=\"1182\" alt=\"\" /> </div> Many players begin their chess journey by playing online, and FIDE Online Arena aims to make the online experience rese",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/foa-rating-and-title-are-now-part-of-your-fide-profile/",
+         "pubDate" : "Fri, 24 Sep 2021 10:51:41 +0000",
+         "title" : "FOA Rating and Title Are Now Part of Your FIDE Profile"
+      },
+      {
+         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates will be issued in due course. List of successful",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-chess-in-school-trainers-training-re-exam-results-held-on-30-june-2021/",
+         "pubDate" : "Fri, 24 Sep 2021 08:37:02 +0000",
+         "title" : "AICF Chess in School Trainers Training Re-exam Results held on 30 June 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess-themed new <strong>PlayStation</strong> spot is a hot item in the gaming industry, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/playstation-king.1920.jpeg\" title=\"The PlayStation king resides in a high place and sacrifices his queen. \" data-title=\"The PlayStation king resides in a high place and sacrifices his queen. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/playstation-king.480.jpeg\" alt=\"The PlayStation king resides in a high place and sacrifices his queen.\" srcset=\"https://www.chesstech.org/files/playsta",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/sonys-gambit/",
+         "pubDate" : "Fri, 24 Sep 2021 09:25:41 +0100",
+         "title" : "Sony's Gambit"
+      },
+      {
          "description" : " World champion's busy schedule contrasts with rival Ian Nepomniachtchi's closed doors preparation As November's 14-game, $2m 2021 world championship match in Dubai approaches, Norway's title holder, Magnus Carlsen, is continuing his busy tournament and media schedule, while his Russian challenger, Ian Nepomniachtchi, is pulling out of events or playing them in second or third gear. Nepomniachtchi, the current world No 4, is believed to have assembled a strong team of aides, notably including the 2004 title challenger and popular online commentator Peter Leko, plus the cream of Russian analytical talent. Fide is ostensibly neutral, but there is little doubt that its energetic president, Arka",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rook-endgames-pawn-7th-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Thu, 23 Sep 2021 20:56:23 +0000",
          "title" : "Rook Endgames - Pawn to the 7th | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess-themed new <strong>PlayStation</strong> spot is a hot item in the gaming industry, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/playstation-king.1920.jpeg\" title=\"The PlayStation king resides in a high place and sacrifices his queen. \" data-title=\"The PlayStation king resides in a high place and sacrifices his queen. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/playstation-king.480.jpeg\" alt=\"The PlayStation king resides in a high place and sacrifices his queen.\" srcset=\"https://www.chesstech.org/files/playsta",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/sonys-gambit/",
-         "pubDate" : "Thu, 23 Sep 2021 21:52:39 +0100",
-         "title" : "Sony's Gambit"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris shows how Black can get good attacking chances in the Four Knights Variation of the English Opening, using one of his own games from the Dutch Team Championship as example. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -98,14 +130,6 @@ news_feed (
          "title" : "Meltwater Champions Chess Tour Finals: A look at the players"
       },
       {
-         "description" : "After 5 of 7 rounds three teams share the lead in the Open Tournament of the European Club Cup: Mednyi Vsadnik (Russia), AVE Bovy Nor (Czechia), and Silla-Valencia (Spain). In round 6 Silla-Valencia (with Anton Korobov on board 1) will play against Mednyi Vsadnik (with Peter Svidler on first board) while AVE Novy Bor (with Pentala Harikrishna on first board) faces Alkaloid where Shakhriyar Mamedyarov plays on board one. In the women's event South Ural (Russia) is sole leader and one team point ahead of Kiyv (Ukraine). The event is taking place in Struga, North Macedonia. | Rounds start daily at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Thu, 23 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup, Round 6 - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/sigeman-chess-tournament.html",
          "pubDate" : "Thu, 23 Sep 2021 12:53:00 +0000",
          "title" : "Sigeman Chess Tournament"
-      },
-      {
-         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
-         "pubDate" : "Thu, 23 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co: Live"
       },
       {
          "description" : "A complaint under Regulation 5 was raised by Chris Fegan in relation to email correspondence involving Mike Truran. A panel of Julian Clissold, Mike Gunn...",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "Online Olympiad: 15 qualifiers join China, India and Russia in the main event"
       },
       {
-         "description" : "Appended below please find the list of players registered for Western Asian Online Youth Chess Championship. We send an email to your respective registered email",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details/",
-         "pubDate" : "Sun, 05 Sep 2021 16:56:10 +0000",
-         "title" : "Western Asian Online Youth Chess Championship : Registration Details"
-      },
-      {
          "description" : " Street Chess has been out of action for a month, but with the ACT extending the covid lockdown for a few more weeks, I've decided to revive the online version. It will be run at the same time, and with the same format as regular Street Chess, although it will be hosted at lichess.org this year. Like the other ACT based events, it is open to members of the <a href=\"https://lichess.org/team/actca-fast-chess-club\">ACTCA Fast Chess Club</a> on lichess. If you are a Canberra player and want to play, apply to join the team, making sure you include your real name in your application. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2136,22 +2144,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-three/",
          "pubDate" : "Fri, 03 Sep 2021 16:20:52 +0000",
          "title" : "A Foundation for Beginners Thirty Three"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1311",
-         "pubDate" : "Fri, 03 Sep 2021 11:23:06 +0000",
-         "title" : "Carlsen-Aronian on a knife-edge as Firouzja launches comeback"
-      },
-      {
-         "description" : " <p class=\"lead\">Rustam Kasimdzhanov, famed chess player and coach, resigned as Fabiano Caruana's second, according to an <a href=\"https://en.chessbase.com/post/rustam-kasimdzhanov-interview-2021-no-longer-caruana-second#discuss\">interview</a> with Chessbase. The split that followed highly unsuccessful Caruana's performance in the Candidates Tournament left the <a href=\"https://2700chess.com\">world's number 2 player</a> without a trusted second. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D6BE9E22-0578-4315-8077-6AA346E5EFE4.jpeg\" width=\"1400\" height=\"964\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Fred Lucas for World Chess (Grand Prix - London)</div> </d",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/kasimdzhanov-resigns-as-caruanas-second/",
-         "pubDate" : "Fri, 03 Sep 2021 07:36:44 +0000",
-         "title" : "Kasimdzhanov Resigns As Caruana's Second"
       }
    ]
 }
