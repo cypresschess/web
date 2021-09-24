@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent has taken a well-deserved holiday, but doesn't want to forget the good times and travels to the Bahamas in the News Review. Jokes aside, he takes a closer look at the lawsuit of Nona Gaprindashvili and the Netflix show \"Queens Gambit\". Furthermore, the British IM wants to watch the new film about Karpov and Korchnoi, not only because he played against Korchnoi in the past.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-3",
+         "pubDate" : "Fri, 24 Sep 2021 18:14:20 +0100",
+         "title" : "Lawrence's statement about Beth and Nona, Korchnoi and Karpov, the \"karp\""
+      },
+      {
+         "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-who-will-rid-me-of-this-turbulent-priest",
+         "pubDate" : "Fri, 24 Sep 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Who will rid me of this turbulent priest?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1347",
+         "pubDate" : "Fri, 24 Sep 2021 16:36:25 +0000",
+         "title" : "FIDE announces World Chess Championship for People with Disabilities"
+      },
+      {
          "description" : "With one round to go, the team of Mednyi Vsadnik managed to take the sole lead at the European Club Cup in Struga, North Macedonia. The Russian club is one team point ahead of AVE Bovy Nor (Czechia), and has good chances to win the event. In the last round they play against Team XtraCon from Denmark. In the women's event South Ural (Russia) leads with two team points and the much better tiebreak and is almost certain to become first. | The seventh and final round start starts at 15.00 CEST (9.00 ET, 18.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1970,14 +1994,6 @@ news_feed (
          "title" : "What is a Cloud Database. And how to use it."
       },
       {
-         "description" : "Fighting against the Gr&uuml;nfeld (1.d4 Nf6 2.c4 g6 3.Nc3 d5), quite a number of players try to make things easier for themselves by going for the sideline 4.Bg5. After all, it threatens Bxf6, followed by picking Black's d-pawn. So, what should Black do about it? \"Nothing\" is the answer by GM Lars Schandorff. In his article from ChessBase Magazine #203, he recommends to simply reply with 4&hellip;Bg7 - a pawn sacrifice employed by Peter Svidler already thirty years ago.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pawn-sac-in-the-gruenfeld",
-         "pubDate" : "Mon, 06 Sep 2021 15:00:00 +0100",
-         "title" : "Pawn sac in the Gr&uuml;nfeld"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
          "pubDate" : "Sun, 05 Sep 2021 23:34:02 +0000",
          "title" : "NM Rene Phillips devastated by Hurricane Ida"
-      },
-      {
-         "description" : "A convincing performance in the finals of the Aimchess US Rapid gave Magnus Carlsen tournament victory in the last 'regular' event of this year's Meltwater Champions Chess Tour. The world champion beat Vladislav Artemiev 2&frac12;-&frac12; in the second set of the finals. The young Russian nonetheless made it into the grand finale of the series, despite only playing in 3 of the 9 qualifying tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-us-rapid-2021-day-9",
-         "pubDate" : "Mon, 06 Sep 2021 00:20:00 +0100",
-         "title" : "Carlsen blows out Artemiev, wins Aimchess US Rapid"
       },
       {
          "description" : "",
@@ -2128,22 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1313",
          "pubDate" : "Fri, 03 Sep 2021 20:58:30 +0000",
          "title" : "Olympiad ABC: Argentina, Belarus and Colombia on a roll"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1312",
-         "pubDate" : "Fri, 03 Sep 2021 18:57:20 +0000",
-         "title" : "Iniyan wins Noisiel International Open 2021"
-      },
-      {
-         "description" : " Last week, we examined the concept of attackers and defenders from the attacker's point of view. This week we'll briefly look at being a defender, how to defend against middle-game attacks, and when to give up on the defense of a position. The principle of attacking and defending is relatively simple; when attacking, have more <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-three/\">A Foundation for Beginners Thirty Three</a> appeared first on <a rel=\"n",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-three/",
-         "pubDate" : "Fri, 03 Sep 2021 16:20:52 +0000",
-         "title" : "A Foundation for Beginners Thirty Three"
       }
    ]
 }
