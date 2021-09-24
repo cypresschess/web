@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live.",
+         "description" : "With one round to go, the team of Mednyi Vsadnik managed to take the sole lead at the European Club Cup in Struga, North Macedonia. The Russian club is one team point ahead of AVE Bovy Nor (Czechia), and has good chances to win the event. In the last round they play against Team XtraCon from Denmark. In the women's event South Ural (Russia) leads with two team points and the much better tiebreak and is almost certain to become first. | The seventh and final round start starts at 15.00 CEST (9.00 ET, 18.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
+         "pubDate" : "Fri, 24 Sep 2021 14:55:00 +0100",
+         "title" : "European Club Cup, Round 7 - Live!"
+      },
+      {
+         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live with commentary by Ivan Sokolov and Stellan Brynell.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1318",
          "pubDate" : "Sun, 05 Sep 2021 20:28:39 +0000",
          "title" : "Carlsen hits target to win Aimchess US Rapid"
-      },
-      {
-         "description" : "Division Two came to a close on Saturday with some very exciting last-round matches, deciding the three winners of each group. Although a couple of teams (especially Colombia) dominated their groups, this stage of the event was very closely fought in general.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-division-2",
-         "pubDate" : "Sun, 05 Sep 2021 20:00:00 +0100",
-         "title" : "Online Olympiad: 15 qualifiers join China, India and Russia in the main event"
       },
       {
          "description" : " Street Chess has been out of action for a month, but with the ACT extending the covid lockdown for a few more weeks, I've decided to revive the online version. It will be run at the same time, and with the same format as regular Street Chess, although it will be hosted at lichess.org this year. Like the other ACT based events, it is open to members of the <a href=\"https://lichess.org/team/actca-fast-chess-club\">ACTCA Fast Chess Club</a> on lichess. If you are a Canberra player and want to play, apply to join the team, making sure you include your real name in your application. <br /> ",
