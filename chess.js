@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, 14:00 CEST (8:00 ET, 12:UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
+         "pubDate" : "Fri, 24 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 2: Live"
+      },
+      {
          "description" : "The organisers of the TePe Sigeman & Co tournament once again put together a highly interesting field with young and experienced grandmasters. The players did not disappoint and the first day brought four interesting games and four decisions. | Photos: Lars OA Hedlund (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sigeman-four-decisions-in-round-1",
          "pubDate" : "Fri, 24 Sep 2021 12:58:28 +0100",
          "title" : "Sigeman: Four decisions in round 1"
+      },
+      {
+         "description" : "We are sorry to share with you the very sad news that Colin Russ died on September 22nd at the age of 91. Colin, always...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-colin-russ/",
+         "pubDate" : "Fri, 24 Sep 2021 11:43:10 +0000",
+         "title" : "RIP Colin Russ"
       },
       {
          "description" : "Tomorrow, Saturday, 25 September, ten players will play the final tournament of the Champions Chess Tour 2020/2021: the eight winners of the individual tournaments of the series and two players who received wildcards. Unlike the previous tournaments, the final will be played as a round robin with no knock-out stage. First prize is 100,000 USD.",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "What is a Cloud Database. And how to use it."
       },
       {
-         "description" : "A total of fifty-six English chess coaches attended the FIDE Trainers Seminar held online over the weekend of 3rd-5th September, which featured lectures by such...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/56-english-coaches-attend-fide-trainers-seminar/",
-         "pubDate" : "Mon, 06 Sep 2021 14:20:25 +0000",
-         "title" : "56 English coaches attend FIDE Trainers Seminar"
-      },
-      {
          "description" : "Fighting against the Gr&uuml;nfeld (1.d4 Nf6 2.c4 g6 3.Nc3 d5), quite a number of players try to make things easier for themselves by going for the sideline 4.Bg5. After all, it threatens Bxf6, followed by picking Black's d-pawn. So, what should Black do about it? \"Nothing\" is the answer by GM Lars Schandorff. In his article from ChessBase Magazine #203, he recommends to simply reply with 4&hellip;Bg7 - a pawn sacrifice employed by Peter Svidler already thirty years ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1316",
          "pubDate" : "Sun, 05 Sep 2021 12:38:27 +0000",
          "title" : "Carlsen bullies Artemiev on Day 1 of final"
-      },
-      {
-         "description" : "The humble pawn is the foot soldier of chess. A single passed pawn may be a huge threat if well-supported, but can also become a liability if not. Today we look at some instances of pawn \"avalanches\", in which the patter of tiny feet became thunder. | Pictured: Louis-Charles Mah&eacute; de La Bourdonnais",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-153",
-         "pubDate" : "Sun, 05 Sep 2021 13:10:00 +0100",
-         "title" : "The patter of tiny feet"
       },
       {
          "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
