@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World champion's busy schedule contrasts with rival Ian Nepomniachtchi's closed doors preparation As November's 14-game, $2m 2021 world championship match in Dubai approaches, Norway's title holder, Magnus Carlsen, is continuing his busy tournament and media schedule, while his Russian challenger, Ian Nepomniachtchi, is pulling out of events or playing them in second or third gear. Nepomniachtchi, the current world No 4, is believed to have assembled a strong team of aides, notably including the 2004 title challenger and popular online commentator Peter Leko, plus the cream of Russian analytical talent. Fide is ostensibly neutral, but there is little doubt that its energetic president, Arka",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/sep/24/chess-carlsen-wins-in-norway-and-grinds-in-91-moves-before-2m-match",
+         "pubDate" : "Fri, 24 Sep 2021 07:00:11 +0000",
+         "title" : "Chess: Carlsen wins in Norway and grinds in 91 moves before $2m match"
+      },
+      {
          "description" : "Thursday, the 23rd of September, treated chess fans all around the world to the 2021&#38;nbsp; Pro Chess League&#39;s Arena Royale&#39;s semifinals. Many of you have been following previous stages of the event, but it wouldn&#39;t hurt to remind you that the four...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/kasimdzhanov-resigns-as-caruanas-second/",
          "pubDate" : "Fri, 03 Sep 2021 07:36:44 +0000",
          "title" : "Kasimdzhanov Resigns As Caruana's Second"
-      },
-      {
-         "description" : " The 18-year-old showed his best online form yet, but lost to the 23-year-old from Omsk in an Armageddon tie-break while Carlsen reached the Aimchess US Rapid final with smooth victories Alireza Firouzja, at 18 the world's best teenage chess player and in the eyes of many the heir apparent to Magnus Carlsen's global crown, surged again this week as he reached the semi-final of the Aimchess US Rapid, checkmated Carlsen, and knocked out the other online Tour leader, US champion Wesley So. The Iran-born talent, who now represents France, honed his skills via the internet, yet his performances on the Meltwater Champions Tour had been too inconsistent to qualify directly for the final in San Fran",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/sep/03/alireza-firouzja-checkmates-magnus-carlsen-mid-board-aimchess-us-rapid-chess",
-         "pubDate" : "Fri, 03 Sep 2021 07:00:22 +0000",
-         "title" : "Chess: Firouzja checkmates Carlsen in mid-board but loses semi to Artemiev"
       }
    ]
 }
