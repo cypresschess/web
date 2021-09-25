@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's Carlsen-Duda, So-Mamedyarov, Aronian-MVL, Radjabov-Artemiev and Giri-Nakamura today as the $300,000 Meltwater Champions Chess Tour Finals begin. The event is being played online on the chess24 Playzone, but there's a hybrid element, since Magnus Carlsen, Jan-Krzysztof Duda and Anish Giri are all in one venue in Oslo. Peter Leko returns to commentate, and will be joined by Lawrence Trent, with Danny King and Simon Williams to follow for later rounds. Don't miss all the action here on chess24 from 11:00 ET/17:00 CEST/20:30 IST!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-duda-giri-in-oslo-as-tour-finals-begin",
+         "pubDate" : "Sat, 25 Sep 2021 10:30:07 +0000",
+         "title" : "Carlsen, Duda & Giri in Oslo as Tour Finals begin!"
+      },
+      {
+         "description" : "European Senior Chess Championship 2021 kicks off today in Budoni, Sardinia, Italy. The event is played within two age categories: 50+ and 65+ with Open and Women's results evaluated separately. Women's both age categories will be merged with Open sections with separate prizes. 36 players from 17 European federations registered for 50+ section of the European Senior Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-starts/",
+         "pubDate" : "Sat, 25 Sep 2021 10:14:36 +0000",
+         "title" : "European Senior Chess Championship 2021 starts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1348",
+         "pubDate" : "Sat, 25 Sep 2021 09:48:51 +0000",
+         "title" : "Mednyi Vsadnik and South Ural clinch European Club Cup titles"
+      },
+      {
+         "description" : "\"The heresies we should fear are those which can be confused with orthodoxy\" From The Theologians by Jorge Luis Borges (1899-1986). The most famous chess clash of all time remains the Bobby Fischer vs. Boris Spassky World Championship at Reykjavik 1972. Fischer's second in that match was Grandmaster Reverend William Lombardy, not only an expert chess player, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/jorge-luis-borges-and-the-heresiarchs-of-the-64-squares/",
+         "pubDate" : "Sat, 25 Sep 2021 08:11:40 +0000",
+         "title" : "Jorge Luis Borges and the heresiarchs of the 64 squares"
+      },
+      {
          "description" : "In the diagram position Black has enough material for the queen, so the key to victory for White must be the attack on the king. Which is protected by a lot of pieces - but how can White break through Black's defence?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "\"Schwalbe\" - history tour of the German chess problem society"
       },
       {
-         "description" : "The 36th European Chess Club Cup and the 25th European Women's Chess Club Cup concluded yesterday in Struga, North Macedonia. The Awarding ceremony attended FIDE President Mr Arkady Dvorkovich, ECU President Mr Zurab Azmaiparashvili, ECU Vice President and FIDE Managing Director Mrs Dana Riezniece-Ozola , ECU Secretary General Mr Theodoros Tsorbatzoglou and on behalf of organisers President of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/\">Read More &#187;</a></span>",
+         "description" : "The 36th European Chess Club Cup and the 25th European Women's Chess Club Cup concluded yesterday in Struga, North Macedonia. The Awarding ceremony attended FIDE President Mr Arkady Dvorkovich, ECU President Mr Zurab Azmaiparashvili, ECU Vice President and FIDE Managing Director Mrs Dana Riezniece-Ozola , ECU Secretary General Mr Theodoros Tsorbatzoglou, and on behalf of the organisers, President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/",
@@ -1354,14 +1386,6 @@ news_feed (
          "title" : "India beat Ukraine; enter semi final of World Online Chess Olympiad"
       },
       {
-         "description" : "Sergey Karjakin played a brilliant exchange sacrifice on the way to defeating Magnus Carlsen in a classical game for the first time since Game 8 of their World Championship match in 2016. It was a dramatic turnaround for Sergey, who the day before had lost to Ian Nepomniachtchi after reacting badly to a novelty. In Round 5 Nepo overcame Richard Rapport in Armageddon, while a gamble from Alireza Firouzja paid off with a classical win over Aryan Tari.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-5-karjakin-takes-down-carlsen",
-         "pubDate" : "Mon, 13 Sep 2021 14:32:57 +0000",
-         "title" : "Norway Chess 5: Karjakin takes down Carlsen"
-      },
-      {
          "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. Meanwhile, Alireza Firouzja also won his classical game and Ian Nepomniachtchi got the better of Richard Rapport in Armageddon. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,22 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/australia-fall-short.html",
          "pubDate" : "Sat, 04 Sep 2021 13:55:00 +0000",
          "title" : "Australia fall short"
-      },
-      {
-         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2023. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-for-bids-2023-european-championships/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/call-for-bids-2023-european-championships/",
-         "pubDate" : "Sat, 04 Sep 2021 08:14:52 +0000",
-         "title" : "Call for Bids - 2023 European Championships"
-      },
-      {
-         "description" : "Seated at a front window table last week in a restaurant in London's St. Martin's Lane, I found myself at the epicentre of a branch of an Extinction Rebellion demonstration. The manifestation consisted mainly, and surprisingly, of a group of ageing hippies, several glued to, and under, a white van, strategically placed to obstruct the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dr-siegbert-tarrasch-and-his-search-for-meaning/",
-         "pubDate" : "Sat, 04 Sep 2021 08:00:13 +0000",
-         "title" : "Dr Siegbert Tarrasch and his search for meaning "
       }
    ]
 }
