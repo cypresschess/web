@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the finals of the Meltwater Champions Chess Tour, ten players will play a rapid round robin tournament and fight for the first prize of 100,000 USD. Each round consists of a match of four rapid games. If this mini-match ends in a 2-2 tie, a 2-game blitz tie-break will follow. If this match also ends in a 1-1 tie, an Armageddon game will decide the match. The huge favourite to win is Magnus Carlsen, who thanks to the scoring system of the Champions Chess Tour and his successes in the previous tournaments starts the finals in first place, and is already 4 points ahead of Wesley So who is second.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Sat, 25 Sep 2021 16:45:00 +0100",
+         "title" : "Meltwater Champions Chess Tour Finals: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86510619.cms\" />The last week-and-half has been memorable for Grandmaster D Gukesh. Days after clinching the Norway Open event --- the 15-year-old won gold at the European Club Cup which concluded in Macedonia on Friday night.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-wins-gold-at-european-club-cup/articleshow/86510619.cms",
+         "pubDate" : "Sat, 25 Sep 2021 20:12:36 +0530",
+         "title" : "D Gukesh wins gold at European Club Cup"
+      },
+      {
+         "description" : "Mednyi Vsadnik of St. Petersburg won the 2021 European Club Cup in Struga, North Macedonia. South Ural (also Russia) won the women&#39;s tournament. Playing for Norway&#39;s Offerspill, GM Magnus Carlsen scored 2.5/3 in what was his last classical OTB eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-european-club-cup-carlsen",
+         "pubDate" : "Sat, 25 Sep 2021 07:39:00 -0700",
+         "title" : "Russian Teams Win At European Club Cup As Carlsen Plays Last OTB Games Before Match"
+      },
+      {
+         "description" : " Harry Press mentioned the following game to me, as an example of converting space into a winning advantage. It was played at the Sharjah Masters, which is currently being held in person. What is interesting about this game is that White builds up his advantage move by move, until Black runs out of decent choices. Maybe Black was a little passive in his choices, but it still like White won without too much effort. <br /> <b>Salem,A.R. Saleh (2679) - Niemann,Hans Moke (2609) [E04]</b><br />4th Sharjah Masters chess24.com (3.6), 19.09.2021 <script>new PgnViewer( { boardName: \"game1273\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.g3 dxc4 6.Bg2 b5 7.Ne5 a6 8.O-O Bb7 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
+         "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
+         "title" : "Slowly, slowly"
+      },
+      {
+         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. The first round brought four decisive games, the second round four interesting draws. Round 3 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
+         "pubDate" : "Sat, 25 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 3: Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Russia Wizards</strong> won the <strong>Arena Royale</strong> season of the <strong>Chess.com</strong>-hosted <strong>PRO Chess League</strong> with <a href=\"https://www.chess.com/news/view/2021-pro-chess-league-finals\">a final win</a> against the <strong>Saint Louis Arch Bishops</strong>. Challenger <strong>Ian Nepomniachtchi</strong> was in good form throughout and scored 3,5/4 in the final, as did his team-mate <strong>Alexey Sarana</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepos-team-wins-arena-royale/",
+         "pubDate" : "Sat, 25 Sep 2021 12:40:04 +0100",
+         "title" : "Nepo's team wins Arena Royale"
+      },
+      {
          "description" : "It's Carlsen-Duda, So-Mamedyarov, Aronian-MVL, Radjabov-Artemiev and Giri-Nakamura today as the $300,000 Meltwater Champions Chess Tour Finals begin. The event is being played online on the chess24 Playzone, but there's a hybrid element, since Magnus Carlsen, Jan-Krzysztof Duda and Anish Giri are all in one venue in Oslo. Peter Leko returns to commentate, and will be joined by Lawrence Trent, with Danny King and Simon Williams to follow for later rounds. Don't miss all the action here on chess24 from 11:00 ET/17:00 CEST/20:30 IST!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -416,14 +464,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/keymer-secured-another-ticket-on-the/",
          "pubDate" : "Wed, 22 Sep 2021 11:02:30 +0100",
          "title" : "Keymer secured another ticket on the tour"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An interim season of the <strong>PRO Chess League</strong> called <strong>Arena Royale</strong> with $100,000 in prices is taking place on <strong>Chess.com</strong> <a href=\"https://www.chess.com/article/view/pro-chess-league-arena-royale\">until Friday</a>. Challenger <strong>Ian Nepomniachtchi</strong> came out for the Russia Wizzards and was the <a href=\"https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate\">third highest scorer</a> after Hikaru Nakamura and Wesley So. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/arena-royale-in-full-swing/",
-         "pubDate" : "Wed, 22 Sep 2021 10:58:18 +0100",
-         "title" : "Arena Royale in full swing"
       },
       {
          "description" : "The FIDE Women's World Team Championship kicks off on September 26 at the Catalonian coastal town of Sitges. A new format will be in place: instead of the usual round-robin, the 12 teams will be divided into two pools of approximately the same strength; 4 top teams from each pool will qualify for the knockout playoff. The time control will be shorter than usual, with 45 minutes for the whole game and a 10-second increment per move.",
@@ -1634,14 +1674,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The Spanish"
       },
       {
-         "description" : "GM Richard Rapport is the only player who won a classical game so far at the Norway Chess tournament, and on Friday he won his second (calling it &#34;pure luck&#34;). By beating GM Alireza Firouzja the Hungarian GM gained three points and is now two and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-4-carlsen-nepomniachtchi",
-         "pubDate" : "Fri, 10 Sep 2021 14:40:00 -0700",
-         "title" : "Norway Chess R4: Rapport Increases Lead, Carlsen \"Tortures\" Nepomniachtchi"
-      },
-      {
          "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,22 +2026,6 @@ news_feed (
          "title" : "The Chess Saga of Fridrik Ólafsson"
       },
       {
-         "description" : "Karsten is joined by Arne Kaehler to discuss the best endgames of 2020. Our in-house specialist decided to kick off the show with a fascinating ending played by two amazingly strong engines, Stockfish and Komodo. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-159-best-endgames-of-2020",
-         "pubDate" : "Mon, 06 Sep 2021 21:30:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #159: Best endgames of 2020"
-      },
-      {
-         "description" : "Thanks to a final-round win, Vincent Keymer caught up with former sole leader Anton Demchenko atop the standings of the European Championship in Reykjav&iacute;k. Demchenko was crowned European champion on tiebreak criteria, and thus became the first sub-2600 player to earn the title. A total of 23 players gained a ticket to the next edition of the FIDE World Cup. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2021-final-report",
-         "pubDate" : "Mon, 06 Sep 2021 21:10:00 +0100",
-         "title" : "Demchenko and Keymer tie for first at European Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2144,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1315",
          "pubDate" : "Sat, 04 Sep 2021 21:48:14 +0000",
          "title" : "15 qualifiers join China, India and Russia in Top Division"
-      },
-      {
-         "description" : " Going into the final day of the 2021 Online Olympiad, Australia had high hopes of qualifying for the top section, but a couple of unfortunate results put paid to this. Having won in round 7, the slipped up against Kyrgyzstan in round 8, losing 3.5-2.5. This meant they needed to be Shenzen (a second China team, representing the event sponsors), but lost 5-1, to finish in 4th pace for the 2nd year in a row. Top board Temur Kuybokarov had the best score with 5.5/8, but the rest of the team hovered around the 50% mark for most of the tournament. FM Albert Winkelman scored exactly 50% (3.5/7) including winning a nice game in Round 8 against his opponent from Kyrgyzstan <br /> <b>Winkelman,Albert",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/australia-fall-short.html",
-         "pubDate" : "Sat, 04 Sep 2021 13:55:00 +0000",
-         "title" : "Australia fall short"
       }
    ]
 }
