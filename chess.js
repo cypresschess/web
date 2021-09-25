@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black has enough material for the queen, so the key to victory for White must be the attack on the king. Which is protected by a lot of pieces - but how can White break through Black's defence?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/georgian-knot",
+         "pubDate" : "Sat, 25 Sep 2021 09:00:00 +0100",
+         "title" : "Georgian knot"
+      },
+      {
+         "description" : "In football, the German word \"Schwalbe\" (the swallow bird, and the football term for \"diving\") is an attempt by a player to feign a foul by deliberately dropping himself in a tackle with an opposing player to gain an unfair advantage. The Schwalbe in chess, doesn't mean that players fake a fall to the ground, and knock off the chess pieces to work out a mate in four. Columnist Siegfried Hornecker shows us the way on how to solve chess problems with the thematic idea of the Schwalbe, and takes us on a journey about the history of the German chess problem society. | Photo: www.dieschwalbe.de",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-2",
+         "pubDate" : "Sat, 25 Sep 2021 08:45:00 +0100",
+         "title" : "\"Schwalbe\" - history tour of the German chess problem society"
+      },
+      {
+         "description" : "The 36th European Chess Club Cup and the 25th European Women's Chess Club Cup concluded yesterday in Struga, North Macedonia. The Awarding ceremony attended FIDE President Mr Arkady Dvorkovich, ECU President Mr Zurab Azmaiparashvili, ECU Vice President and FIDE Managing Director Mrs Dana Riezniece-Ozola , ECU Secretary General Mr Theodoros Tsorbatzoglou and on behalf of organisers President of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/",
+         "pubDate" : "Sat, 25 Sep 2021 06:28:29 +0000",
+         "title" : "Mednyi Vsadnik and South Ural win European Open and Women Chess Club Cup 2021"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>St. Petersburg</strong> team, named after the Bronze Horseman monument of Tsar Peter that was immortalized by a poem of Alexander Pushkin, <a href=\"http://chess-results.com/tnr579298.aspx?lan=0\">won the</a> <strong>European Club Cup</strong> held in Struga, Macedonia, for the second time after 2018. Top seated <strong>Alkaloid Skopje</strong> couldn't repeat its 2016 win and finished only on the eighth place. <strong>Magnus Carlsen</strong> joined <strong>Offerspill Oslo</strong> for three games and signed the world championship contract in Struga, before returning to Oslo for the <strong>Meltwater Champions Chess Tour</strong> final sta",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
          "pubDate" : "Fri, 24 Sep 2021 14:55:00 +0100",
          "title" : "European Club Cup, Round 7 - Live!"
-      },
-      {
-         "description" : "Today, 14:00 CEST (8:00 ET, 12:00 UTC) the TePe Sigeman & Co Tournament 2021 starts in Malm&ouml;. With a great mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre will battle it out. Day 1 brought four decisive games, what will happen on day 2? Follow the games live with commentary by Ivan Sokolov and Stellan Brynell.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-2",
-         "pubDate" : "Fri, 24 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 2: Live"
       },
       {
          "description" : "Friday, September 24, turned out to be one of the most anticipated and thrilling days of the year for chess fans&#38;mdash;and the 2021 PRO Chess League Arena Royale finals did not disappoint! As those who were following the previous days of the eve...",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
          "pubDate" : "Mon, 6 Sep 2021 20:06:00 +0400",
          "title" : "European Individual Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "With so many cloud-based tools and services with 'cloud' in their name, it would be easy to overlook this incredibly useful tool inside ChessBase 16, which allows you to seamlessly work across multiple devices and even share with others in real time. Even professional players can miss this tool, and what is more it integrates directly with the web apps from ChessBase Account. Read on to learn more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-is-a-cloud-database-and-how-to-use-it",
-         "pubDate" : "Mon, 06 Sep 2021 17:00:00 +0100",
-         "title" : "What is a Cloud Database. And how to use it."
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
