@@ -458,14 +458,6 @@ news_feed (
          "title" : "European Youth Rapid&Blitz Chess Championships 2021 - Official regulations"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Vincent Keymer</strong> has won his second <strong>Julius Baer Challengers Chess Tour</strong> event, the <strong>Hou Yifan Challenge</strong>. The German will compete in at least two tournaments of the <strong>Meltwater Champions Chess Tour</strong> 2022. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/keymer-secured-another-ticket-on-the/",
-         "pubDate" : "Wed, 22 Sep 2021 11:02:30 +0100",
-         "title" : "Keymer secured another ticket on the tour"
-      },
-      {
          "description" : "The FIDE Women's World Team Championship kicks off on September 26 at the Catalonian coastal town of Sitges. A new format will be in place: instead of the usual round-robin, the 12 teams will be divided into two pools of approximately the same strength; 4 top teams from each pool will qualify for the knockout playoff. The time control will be shorter than usual, with 45 minutes for the whole game and a 10-second increment per move.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
