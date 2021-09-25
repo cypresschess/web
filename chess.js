@@ -66,6 +66,14 @@ news_feed (
          "title" : "TePe Sigeman & Co, Round 2: Live"
       },
       {
+         "description" : "Friday, September 24, turned out to be one of the most anticipated and thrilling days of the year for chess fans&#38;mdash;and the 2021 PRO Chess League Arena Royale finals did not disappoint! As those who were following the previous days of the eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-finals",
+         "pubDate" : "Fri, 24 Sep 2021 05:12:00 -0700",
+         "title" : "PRO Chess League Finals: Russia Wizards Win"
+      },
+      {
          "description" : "The organisers of the TePe Sigeman & Co tournament once again put together a highly interesting field with young and experienced grandmasters. The players did not disappoint and the first day brought four interesting games and four decisions. | Photos: Lars OA Hedlund (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1594,14 +1602,6 @@ news_feed (
          "title" : "Norway Chess R4: Rapport Increases Lead, Carlsen \"Tortures\" Nepomniachtchi"
       },
       {
-         "description" : "The second day of PogChamps 4 quarterfinals presented by Coinbase was once again filled with drama and unbelievable twists that kept spectators perplexed and amazed. Rubius defeated NickEh30 and is now closer to winning the consolation bracket f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-playoffs-rubius-crokeyz-boxbox-5uppp-win",
-         "pubDate" : "Fri, 10 Sep 2021 13:42:00 -0700",
-         "title" : "PogChamps 4 Playoffs Day 2: Boxbox In Semifinals After Ludwig's Mogul Premoves"
-      },
-      {
          "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://www.thearticle.com/dr-siegbert-tarrasch-and-his-search-for-meaning/",
          "pubDate" : "Sat, 04 Sep 2021 08:00:13 +0000",
          "title" : "Dr Siegbert Tarrasch and his search for meaning "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1314",
-         "pubDate" : "Sat, 04 Sep 2021 01:54:41 +0000",
-         "title" : "Carlsen faces Artemiev in Aimchess US Rapid final"
       }
    ]
 }
