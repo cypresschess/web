@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen blew Jan-Krzysztof Duda away in 18 moves as the Meltwater Champions Chess Tour Finals began before going on to wrap up match victory with a game to spare after Duda fell for a fiendish trick in the 2nd game. Wesley So kept pace with Magnus by also winning in rapid chess, over Shakhriyar Mamedyarov. The remaining matches went to a playoff, where Anish Giri and Vladislav Artemiev defeated Hikaru Nakamura and Teimour Radjabov in blitz, before Aronian-MVL was decided in Maxime's favour only in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-carlsen-and-so-score-max-points",
+         "pubDate" : "Sat, 25 Sep 2021 21:24:41 +0000",
+         "title" : "MCCT Finals: Carlsen and So score max points"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1350",
+         "pubDate" : "Sat, 25 Sep 2021 21:20:17 +0000",
+         "title" : "Fast-start for Carlsen on first day of Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1349",
+         "pubDate" : "Sat, 25 Sep 2021 20:41:53 +0000",
+         "title" : "FIDE World Championship 2021: Schedule, hotels, and health & safety measures"
+      },
+      {
          "description" : "In the finals of the Meltwater Champions Chess Tour, ten players will play a rapid round robin tournament and fight for the first prize of 100,000 USD. Each round consists of a match of four rapid games. If this mini-match ends in a 2-2 tie, a 2-game blitz tie-break will follow. If this match also ends in a 1-1 tie, an Armageddon game will decide the match. The huge favourite to win is Magnus Carlsen, who thanks to the scoring system of the Champions Chess Tour and his successes in the previous tournaments starts the finals in first place, and is already 4 points ahead of Wesley So who is second.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "D Gukesh wins gold at European Club Cup"
       },
       {
-         "description" : "Mednyi Vsadnik of St. Petersburg won the 2021 European Club Cup in Struga, North Macedonia. South Ural (also Russia) won the women&#39;s tournament. Playing for Norway&#39;s Offerspill, GM Magnus Carlsen scored 2.5/3 in what was his last classical OTB eve...",
+         "description" : "Mednyi Vsadnik of St. Petersburg has won the 2021 European Club Cup in Struga, North Macedonia. South Ural (also Russia) won the women&#39;s tournament. Playing for Norway&#39;s Offerspill, GM Magnus Carlsen scored 2.5/3 in his last classical OTB event be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-european-club-cup-carlsen",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-final-2021",
          "pubDate" : "Fri, 24 Sep 2021 22:32:00 +0400",
          "title" : "Meltwater Champions Chess Tour Final 2021 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1346",
+         "pubDate" : "Fri, 24 Sep 2021 17:49:19 +0000",
+         "title" : "Magnus Carlsen: \"Ian can be very difficult to play against\""
       },
       {
          "description" : "Lawrence Trent has taken a well-deserved holiday, but doesn't want to forget the good times and travels to the Bahamas in the News Review. Jokes aside, he takes a closer look at the lawsuit of Nona Gaprindashvili and the Netflix show \"Queens Gambit\". Furthermore, the British IM wants to watch the new film about Karpov and Korchnoi, not only because he played against Korchnoi in the past.",
@@ -288,14 +320,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meet-babatunde-onakoya-a-chess-coach-who-changed-lives-of-nigerian-slum-children/articleshow/86458466.cms",
          "pubDate" : "Thu, 23 Sep 2021 20:23:15 +0530",
          "title" : "Meet Onakoya, a coach who changed lives of Nigerian slum children"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1346",
-         "pubDate" : "Thu, 23 Sep 2021 14:49:19 +0000",
-         "title" : "Magnus Carlsen: \"Ian can be very difficult to play against\""
       },
       {
          "description" : "After 10 months, 9 tournaments and over 1,000 games between the world's best players, the time for the Meltwater Champions Chess Tour Finals has come. The ultimate showdown kicks off on September 25 at 17:00 CET, and up for grabs is the $100,000 top prize along with the overall tour trophy. The line-up of participants is stacked, with an average rating of 2782.",
@@ -1306,14 +1330,6 @@ news_feed (
          "title" : "The limits to sportsmanship"
       },
       {
-         "description" : "Magnus Carlsen picked up his first classical win of Norway Chess 2021 by beating Alireza Firouzja in Round 6 with a trademark endgame grind. Richard Rapport extended his lead to three points with four rounds to go by outplaying Aryan Tari after a shaky opening, while the only match to go to Armageddon was Karjakin-Nepomniachtchi. Sergey Karjakin has now beaten both the World Champion and his challenger on consecutive days after Ian Nepomniachtchi cracked in a drawn position.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-6-carlsen-storms-back-to-beat-firouzja",
-         "pubDate" : "Tue, 14 Sep 2021 12:09:29 +0000",
-         "title" : "Norway Chess 6: Carlsen storms back to beat Firouzja"
-      },
-      {
          "description" : " <p class=\"lead\">Finally, a domain name that you can actually remember! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/09765F46-02BB-47D6-891F-2D36CC79636B.jpeg\" width=\"1600\" height=\"784\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena on the new domain, chessarena.com</div> </div> FIDE Online Arena, the official FIDE gaming platform, is busy with getting chess fans to give it a try, but for years we've made users trying to remember a very odd domain name. But we learned the lesson and there will be no more of that. Hence a new domain, chessarena.com: easy to remember and easy to type in your browser (and on a mobile device). <h2>Frequently Asked Questi",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2144,14 +2160,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-to-face-carlsen-in-norway-90-days-before-the-match/",
          "pubDate" : "Sun, 05 Sep 2021 08:49:29 +0000",
          "title" : "Nepo to Face Carlsen in Norway 90 days Before the Match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1315",
-         "pubDate" : "Sat, 04 Sep 2021 21:48:14 +0000",
-         "title" : "15 qualifiers join China, India and Russia in Top Division"
       }
    ]
 }
