@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-1-napoleon-gambit-ch",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-1-napoleon-gambit-chess-openings-explained",
+         "pubDate" : "Sun, 26 Sep 2021 20:59:30 +0000",
+         "title" : "A Shot of Scotch #1: The Napoleon Gambit | Chess Openings Explained"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1352",
+         "pubDate" : "Sun, 26 Sep 2021 20:42:07 +0000",
+         "title" : "Magnus storms 6 points clear in Tour Finals as Wesley beaten"
+      },
+      {
          "description" : "Meltwater Champions Chess Tour Finals 2021, held by chess24, began on Saturday.&#38;nbsp;The format is a round-robin event with 10 super-GM participants, namely Magnus Carlsen, Wesley So, Levon Aronian, Anish Giri, Teimour Radjabov, Vladislav Artemiev...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-surprising-mate",
          "pubDate" : "Tue, 21 Sep 2021 09:00:00 +0100",
          "title" : "A surprising mate"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.16<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-1",
-         "pubDate" : "Mon, 20 Sep 2021 23:53:17 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
          "pubDate" : "Sun, 05 Sep 2021 23:34:02 +0000",
          "title" : "NM Rene Phillips devastated by Hurricane Ida"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1318",
-         "pubDate" : "Sun, 05 Sep 2021 20:28:39 +0000",
-         "title" : "Carlsen hits target to win Aimchess US Rapid"
       }
    ]
 }
