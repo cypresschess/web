@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Meltwater Champions Chess Tour Finals 2021, held by chess24, began on Saturday.&#38;nbsp;The format is a round-robin event with 10 super-GM participants, namely Magnus Carlsen, Wesley So, Levon Aronian, Anish Giri, Teimour Radjabov, Vladislav Artemiev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-1-carlsen-so-mvl-artemiev-giri-lead",
+         "pubDate" : "Sun, 26 Sep 2021 11:57:41 -0700",
+         "title" : "Champions Chess Tour Finals Day 1: Carlsen Impressive In Opener"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86533520.cms\" />Chess legend Viswanathan Anand on Sunday said the country has many immensely talented players at the junior level and one of them can \"hopefully\" become a world champion in future.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-hopes-one-of-talented-indian-youngsters-will-become-world-champion-in-future/articleshow/86533520.cms",
+         "pubDate" : "Sun, 26 Sep 2021 21:22:47 +0530",
+         "title" : "Anand hopes one of talented Indian youngsters will become world champion in future"
+      },
+      {
          "description" : "In the second round of the finals of the Meltwater Chess Champions Tour Magnus Carlsen, who in round 1 won convincingly against Jan-Krszystof Duda, and leads the tournament, will do his best to also win against Shakhriyar Mamedyarov. Wesley So, currently second in the standings, plays against Maxime Vachier-Lagrave. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/some-v-most-v-all.html",
          "pubDate" : "Sat, 11 Sep 2021 14:14:00 +0000",
          "title" : "Some v Most v All"
-      },
-      {
-         "description" : "On Friday, the final three rounds of the top division&#39;s tournament have been played, and next week we are moving on to playoffs. The results of this part of the Olympiad were both expected and somewhat surprising: on one hand, the rating favorites...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-online-olympiad-division-1-day-3-the-dramatic-ending",
-         "pubDate" : "Sat, 11 Sep 2021 06:50:00 -0700",
-         "title" : "FIDE Online Olympiad Division 1, Day 3: The Dramatic Ending"
       },
       {
          "description" : "Twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
