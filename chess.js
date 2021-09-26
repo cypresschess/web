@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Many years ago maverick IM and chess teacher Mike Basman wrote about a nightmare he'd had. A pupil's game started 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 and now his pupil refused to recapture because he'd been taught to avoid doubled pawns. I've seen this several times myself. Sometimes, but not <a href=\"https://chessimprover.com/mike-basmans-nightmare/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman's Nightmare\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basmans-nightmare/\">Mike Basman's Nightmare</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/mike-basmans-nightmare/",
+         "pubDate" : "Sun, 26 Sep 2021 08:30:35 +0000",
+         "title" : "Mike Basman's Nightmare"
+      },
+      {
          "description" : "When mentioning the name Mega Database, many players automatically think of either the millions of games contained in it, or the equally impressive number of annotated games - well over 80 thousand. However, the price tag also includes a full year of weekly updates, which can then be renewed every year. Learn all here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/",
          "pubDate" : "Sun, 05 Sep 2021 11:40:09 +0000",
          "title" : "Wrong Books (5): The Right Way to Play Chess"
-      },
-      {
-         "description" : " The Aimchess US Rapid was the last qualifying event of the 2021 Meltwater Chess Tour before the final starting September 25th. A 9 event 2022 series has already been announced starting in February. This rapid took place 28th August to 5th September 2021. Players: Magnus Carlsen, Levon Aronian, Shakhriyar Mamedyarov, Anish Giri, Wesley So, Alireza Firouzja, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Santosh Gujrathi Vidit, Quang Liem Le, Vladislav Artemiev, Jorden Van Foreest, Daniel Naroditsky, Eric Hansen and Awonder Liang. Magnus Carlsen won both days of the final against Vladislav Artemiev but the latter got enough points to make it to the tour final. The top 8 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-us-rapid-2021",
-         "pubDate" : "Sun, 5 Sep 2021 14:31:00 +0400",
-         "title" : "Aimchess US Rapid 2021 - Games and Results"
-      },
-      {
-         "description" : " In less than 90 days, the Russian challenger Ian Nepomniachtchi will face his friend and fierce rival Magnus Carlsen in the World Chess Championship match that looks like an existential dilemma of Shakespearean proportions: beating and breaking the spirit of someone who is a little like your brother. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FE178FF2-17E7-431F-A643-84DE15A9E8C3.jpeg\" width=\"1613\" height=\"1075\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in the make-up studio before the final of the Armageddon by World Chess. This is one of the first times he showed his now signature 'Samurai' hair style'</div> </div> Even Henrik Carlsen, Magnus's ever-prot",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-to-face-carlsen-in-norway-90-days-before-the-match/",
-         "pubDate" : "Sun, 05 Sep 2021 08:49:29 +0000",
-         "title" : "Nepo to Face Carlsen in Norway 90 days Before the Match"
       }
    ]
 }
