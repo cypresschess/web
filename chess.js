@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second round of the finals of the Meltwater Chess Champions Tour Magnus Carlsen, who in round 1 won convincingly against Jan-Krszystof Duda, and leads the tournament, will do his best to also win against Shakhriyar Mamedyarov. Wesley So, currently second in the standings, plays against Maxime Vachier-Lagrave. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Sun, 26 Sep 2021 16:45:00 +0100",
+         "title" : "Meltwater Champions Chess Tour Finals, Round 2: Live"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 46th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the \"Cooperation of the Pieces\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-46-cooperation-between-the-pieces-2",
+         "pubDate" : "Sun, 26 Sep 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 46: Cooperation between the pieces (2)"
+      },
+      {
+         "description" : " One area of the world that has fully embraced online ches if the Asian Chess Federation. They are now organising a large number of online events, for both junior and open players. The most recent one was the East Asian Girls Championship, which was organised by the Thailand Chess Federation. As travel is no longer an impediment to taking part, a number of local players took the opportunity to take part. Shriya and Shakthi Karthik played in the Under 14 and Under 12 sections, while Shivani Sundar played in the Under 8's. For each of the players it turned out to be tough going, as there were plenty of platers from other countries with greater experince. The best score was achieved by Shriya K",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/some-international-chess.html",
+         "pubDate" : "Sun, 26 Sep 2021 13:50:00 +0000",
+         "title" : "Some International Chess"
+      },
+      {
+         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. After three rounds Jorden Van Foreest leads with 2.5/3. Round 4 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
+         "pubDate" : "Sun, 26 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 4: Live"
+      },
+      {
          "description" : " Many years ago maverick IM and chess teacher Mike Basman wrote about a nightmare he'd had. A pupil's game started 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 and now his pupil refused to recapture because he'd been taught to avoid doubled pawns. I've seen this several times myself. Sometimes, but not <a href=\"https://chessimprover.com/mike-basmans-nightmare/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman's Nightmare\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basmans-nightmare/\">Mike Basman's Nightmare</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -39,7 +71,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/mcct-finals-carlsen-and-so-score-max-points",
          "pubDate" : "Sat, 25 Sep 2021 21:24:41 +0000",
-         "title" : "MCCT Finals: Carlsen and So score max points"
+         "title" : "MCCT Finals 1: Carlsen and So score max points"
       },
       {
          "description" : "",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1349",
          "pubDate" : "Sat, 25 Sep 2021 20:41:53 +0000",
          "title" : "FIDE World Championship 2021: Schedule, hotels, and health & safety measures"
-      },
-      {
-         "description" : "In the finals of the Meltwater Champions Chess Tour, ten players will play a rapid round robin tournament and fight for the first prize of 100,000 USD. Each round consists of a match of four rapid games. If this mini-match ends in a 2-2 tie, a 2-game blitz tie-break will follow. If this match also ends in a 1-1 tie, an Armageddon game will decide the match. The huge favourite to win is Magnus Carlsen, who thanks to the scoring system of the Champions Chess Tour and his successes in the previous tournaments starts the finals in first place, and is already 4 points ahead of Wesley So who is second.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Sat, 25 Sep 2021 16:45:00 +0100",
-         "title" : "Meltwater Champions Chess Tour Finals: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86510619.cms\" />The last week-and-half has been memorable for Grandmaster D Gukesh. Days after clinching the Norway Open event --- the 15-year-old won gold at the European Club Cup which concluded in Macedonia on Friday night.",
@@ -2034,22 +2058,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
       },
       {
-         "description" : "When only very few pawns are left on the board the attacker has to be careful that s/he keeps at least one pawn that can queen. In the diagram position White has three pawns left, two more than Black. But there is only one way to win. How should White proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/not-all-roads-lead-to-rome",
-         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
-         "title" : "Not all roads lead to Rome"
-      },
-      {
-         "description" : "Fridrik Ólafsson may be the strongest chess player of the 20th century about whom until now no book existed, in any major language. It feels great to present this first book outside of Iceland about the chess career of their first and most prominent grandmaster. It is full of important narrative and wonderfully annotated games, which highlight his personal attacking style, which he used to beat the likes of Keres, Tal, Petrosian, Fischer, Korchnoi and Karpov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-saga-of-fridrik-lafsson",
-         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
-         "title" : "The Chess Saga of Fridrik Ólafsson"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,38 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1318",
          "pubDate" : "Sun, 05 Sep 2021 20:28:39 +0000",
          "title" : "Carlsen hits target to win Aimchess US Rapid"
-      },
-      {
-         "description" : " Street Chess has been out of action for a month, but with the ACT extending the covid lockdown for a few more weeks, I've decided to revive the online version. It will be run at the same time, and with the same format as regular Street Chess, although it will be hosted at lichess.org this year. Like the other ACT based events, it is open to members of the <a href=\"https://lichess.org/team/actca-fast-chess-club\">ACTCA Fast Chess Club</a> on lichess. If you are a Canberra player and want to play, apply to join the team, making sure you include your real name in your application. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/street-chess-back-online.html",
-         "pubDate" : "Sun, 05 Sep 2021 13:59:00 +0000",
-         "title" : "Street Chess - back online"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1317",
-         "pubDate" : "Sun, 05 Sep 2021 12:46:11 +0000",
-         "title" : "Kingue Victor Ebosse and Whilema Ndjock win Cameroon Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1316",
-         "pubDate" : "Sun, 05 Sep 2021 12:38:27 +0000",
-         "title" : "Carlsen bullies Artemiev on Day 1 of final"
-      },
-      {
-         "description" : " If you were taking up chess in the UK at any time between the 1950s and the 1970s, you had several books to choose from. There were, of course, any number of US books written by various combinations of Reinfeld, Chernev and Horowitz, but there were also a number of books written by prominent British <a href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Books (5): The Right Way to Play Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/\">Wrong Books (5): The Right Way to Play Chess</a> appeared first on <a rel=\"nofollow\" href=",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/wrong-books-5-the-right-way-to-play-chess/",
-         "pubDate" : "Sun, 05 Sep 2021 11:40:09 +0000",
-         "title" : "Wrong Books (5): The Right Way to Play Chess"
       }
    ]
 }
