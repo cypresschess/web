@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the Speed Chess Championship Grand Prix on September 25 with an individual prize fund of $11,000 saw GM Jeffery Xiong beat GM Aleksandr Shimanov in a dramatic final after Russian GM Sanan Sjugirov won the initial Swiss part of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-2-xiong-wins-all-american-finals",
+         "pubDate" : "Sat, 25 Sep 2021 17:57:00 -0700",
+         "title" : "Speed Chess Grand Prix 2: Xiong Wins In Dramatic Knockout"
+      },
+      {
          "description" : "Magnus Carlsen blew Jan-Krzysztof Duda away in 18 moves as the Meltwater Champions Chess Tour Finals began before going on to wrap up match victory with a game to spare after Duda fell for a fiendish trick in the 2nd game. Wesley So kept pace with Magnus by also winning in rapid chess, over Shakhriyar Mamedyarov. The remaining matches went to a playoff, where Anish Giri and Vladislav Artemiev defeated Hikaru Nakamura and Teimour Radjabov in blitz, before Aronian-MVL was decided in Maxime's favour only in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/twenty-years-ago",
          "pubDate" : "Sat, 11 Sep 2021 14:00:00 +0100",
          "title" : "Twenty years ago..."
-      },
-      {
-         "description" : "A round before the end there was still a four-way tie for first place with GM Garry Kasparov among the contestants. Eventually, it was GM Leinier Dominguez who avoided a playoff as the only winner among the leaders and finished in clear first plac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dominguez-wins-2021-champions-showdown-chess9lx",
-         "pubDate" : "Sat, 11 Sep 2021 05:57:00 -0700",
-         "title" : "Dominguez Wins Champions Showdown Chess9LX; Kasparov Comes Close"
       },
       {
          "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
