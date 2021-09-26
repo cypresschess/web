@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When mentioning the name Mega Database, many players automatically think of either the millions of games contained in it, or the equally impressive number of annotated games - well over 80 thousand. However, the price tag also includes a full year of weekly updates, which can then be renewed every year. Learn all here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mega-database-a-year-of-weekly-updates",
+         "pubDate" : "Sun, 26 Sep 2021 08:54:15 +0100",
+         "title" : "Mega Database: a year of weekly updates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86524296.cms\" />Magnus Carlsen declared he was quite happy on Saturday after getting his Meltwater Champions Chess Tour Finals campaign off to a perfect start. The World Champion savaged Poland's World Cup winner Jan-Krzysztof Duda with two wins and a draw to end the match with a game to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-chess-tour-finals-strong-start-by-magnus-carlsen/articleshow/86524296.cms",
+         "pubDate" : "Sun, 26 Sep 2021 10:50:23 +0530",
+         "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
+      },
+      {
          "description" : "The second event of the Speed Chess Championship Grand Prix on September 25 with an individual prize fund of $11,000 saw GM Jeffery Xiong beat GM Aleksandr Shimanov in a dramatic final after Russian GM Sanan Sjugirov won the initial Swiss part of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
          "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
          "title" : "Slowly, slowly"
-      },
-      {
-         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. The first round brought four decisive games, the second round four interesting draws. Round 3 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
-         "pubDate" : "Sat, 25 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 3: Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Russia Wizards</strong> won the <strong>Arena Royale</strong> season of the <strong>Chess.com</strong>-hosted <strong>PRO Chess League</strong> with <a href=\"https://www.chess.com/news/view/2021-pro-chess-league-finals\">a final win</a> against the <strong>Saint Louis Arch Bishops</strong>. Challenger <strong>Ian Nepomniachtchi</strong> was in good form throughout and scored 3,5/4 in the final, as did his team-mate <strong>Alexey Sarana</strong>. </div> ",
