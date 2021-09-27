@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 3 of the finals of the Meltwater Chess Champions Tour offers a number of exciting pairings: Magnus Carlsen plays against Maxime Vachier-Lagrave, Jan-Krzysztof Duda faces Mamedyarov, Wesley So has to fight against Vladislav Artemiev and Levon Aronian plays against Hikaru Nakamura. Teimour Radjabov is paired against Anish Giri. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Mon, 27 Sep 2021 16:45:00 +0100",
+         "title" : "Meltwater Champions Chess Tour Finals, Round 3: Live"
+      },
+      {
+         "description" : "Karsten M&uuml;ller's guest in this week's \"Endgame Magic Show\" is the French GM Christian Bauer who just produced an interesting DVD - which, of course, will also available per download - about the charms and attractions of the Alekhine Defense. Karsten and Christian talk about this DVD but they also look at some fine endgames Christian played. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-162-with-french-gm-and-opening-expert-christian-bauer",
+         "pubDate" : "Mon, 27 Sep 2021 16:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #162: With French GM and opening expert Christian Bauer"
+      },
+      {
+         "description" : "The Women's World Team Championship begins today. The tournament starts with a group phase which will be played with twelve teams, divided into two groups. Two rounds per day will be played, at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Mon, 27 Sep 2021 15:36:35 +0100",
+         "title" : "Women's World Team Championship: Live"
+      },
+      {
+         "description" : "It is intimated to all players that the last date of registration for Asian Youth Online Chess Championship 2021 is 01 October 2021. For further",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/registration-for-asian-youth-online-chess-championship-2021-2/",
+         "pubDate" : "Mon, 27 Sep 2021 14:24:05 +0000",
+         "title" : "Registration for Asian Youth Online Chess Championship 2021"
+      },
+      {
+         "description" : "The U19 ECF National School Chess Championships 2021/22 is now open for entries at https://www.englishchess.org.uk/NSCC/under-19-championships/. All schools are welcome, and we are grateful to Winchester...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/u19-national-school-chess-championships-2021-22/",
+         "pubDate" : "Mon, 27 Sep 2021 13:25:00 +0000",
+         "title" : "U19 National School Chess Championships 2021/22"
+      },
+      {
+         "description" : "After two days of play Magnus Carlsen leads the final of the Meltwater Champions Chess Tour - which he, thanks to the 16.5 bonus point he received because of his successes in the previous tournaments of the tour - did from the very start of the event. But in round 2 the World Champion had to overcome serious problems before beating Shakhryar Mamedyarov in a tense and eventful match that went into Armageddon. | Graphics and photos: Tournament Site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-round-2-carlsen-continues-to-lead",
+         "pubDate" : "Mon, 27 Sep 2021 13:48:57 +0100",
+         "title" : "Champions Chess Tour Final, Round 2: Carlsen continues to lead"
+      },
+      {
+         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. After four rounds Jorden Van Foreest leads with 3.0/4. Round 5 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
+         "pubDate" : "Mon, 27 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 5: Live"
+      },
+      {
+         "description" : "Magnus Carlsen has extended his lead over Wesley So to six points after winning a crazy match against Shakhriyar Mamedyarov in which White won all seven games. Wesley blamed poor time management as he lost to MVL in three games, while Jan-Krzysztof Duda and Levon Aronian won the first rapid game, lost the second and won the last to defeat Anish Giri and Vladislav Artemiev. Nakamura-Radjabov saw four draws featuring no chess content before Hikaru won in blitz after Teimour blundered in a drawn pawn endgame.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-2-carlsen-extends-lead-after-armageddon-win",
+         "pubDate" : "Mon, 27 Sep 2021 11:49:05 +0000",
+         "title" : "MCCT Finals 2: Carlsen extends lead after Armageddon win"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1351\">has announced</a> a partnership with <strong>Establishment Labs</strong>, producer of <strong>Motiva</strong> silicone breast implants, throughout 2022, which has been declared the <strong>Year of Women in Chess</strong>. The Costa Rican company has seen its <a href=\"https://www.nasdaq.com/de/market-activity/stocks/esta\">share price on the Nasdaq</a> skyrocket in the early summer, even though it is not yet profitable. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/motiva-sponsors-womens-chess/",
+         "pubDate" : "Mon, 27 Sep 2021 12:06:05 +0100",
+         "title" : "Motiva sponsors women's chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -480,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-signs-world-championship-contract",
          "pubDate" : "Thu, 23 Sep 2021 11:30:55 +0100",
          "title" : "Magnus Carlsen signs World Championship contract"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Why <strong>Mastercard</strong>'s contract with <strong>Magnus Carlsen</strong> and the <strong>Champions Chess Tour</strong> is good news for professional chess, is explained by <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chess-themed-mastercard.1920.jpeg\" title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership. \" data-title=\"This chess-themed Mastercard was issued by Unibank in Azerbaijan and is not related to the new partnership.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/corporate-sponsorship-is-back/",
-         "pubDate" : "Thu, 23 Sep 2021 09:57:26 +0100",
-         "title" : "Corporate sponsorship is back"
       },
       {
          "description" : "While the Solve Tactics mode is undoubtedly the meat of the of the Tactics web app, there are two other modes that provide a very different sort of training, excellent to stay sharp. Both are based on trying to solve as quickly as possible, but each with a slightly different angle. They are also the perfect trainer for bullet chess. You will also find part one demonstrated in a video!",
@@ -1338,14 +1402,6 @@ news_feed (
          "title" : "FIDE Online Olympiad Finals: Russia Wins"
       },
       {
-         "description" : "\"I'm probably the luckiest I've ever been,\" said Richard Rapport, as the Hungarian outplayed Sergey Karjakin to take a 3.5-point lead at Norway Chess and climb to world no. 6, above Alexander Grischuk, Anish Giri and Wesley So. Magnus Carlsen has the white pieces against Richard in Round 8 and could cut the gap to half a point after squeezing out another win, this time against Aryan Tari. Meanwhile Alireza Firouzja bounced back to defeat World Championship Challenger Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-7-carlsen-rapport-firouzja-all-win",
-         "pubDate" : "Wed, 15 Sep 2021 13:27:55 +0000",
-         "title" : "Norway Chess 7: Carlsen, Rapport & Firouzja all win"
-      },
-      {
          "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1994,36 +2050,12 @@ news_feed (
          "title" : "Champions Showdown 9LX 2021 - Games and Results"
       },
       {
-         "description" : "The first Intercontinental Online Chess Championship for Prisoners will take place on October 13-14, on the International Day of Education in Prison. FIDE Managing Director Dana Reizniece-Ozola talked to ex-convict Hector Guifarro to find out how the game helped him find a second chance in life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ex-convict-hector-guifarro-interview",
-         "pubDate" : "Wed, 08 Sep 2021 16:00:00 +0100",
-         "title" : "Ex-convict Hector Guifarro: \"Chess helped me in so many ways\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86040429.cms\" />India had a fruitful day at the office as they won two and drew one as the Division 1 Pool B clashes commenced on Wednesday. India beat Egypt and Sweden 6-0 and 4-2 respectively. The India-France encounter ended 3-3.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
          "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
          "title" : "Online Chess Olympiad: India have it easy on Day 1"
-      },
-      {
-         "description" : "Good luck to the England team, who are playing this week in the top division of the FIDE Online Olympiad. You can see the players,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-at-the-fide-online-olympiad-2021/",
-         "pubDate" : "Wed, 08 Sep 2021 10:17:44 +0000",
-         "title" : "England at the FIDE Online Olympiad 2021"
-      },
-      {
-         "description" : "The first international tournament Tolstoy Cup, featuring a stellar line-up, will start in the State Leo Tolstoy Museum-Estate \"Yasnaya Polyana\", the Tula region, on the great Russian writer's birthday, the 9th of September. The event will last for four days and will finish on the 12th of September. The lineup includes Anish Giri, Dmitry Andreikin, Nikita Vitiugov, Evgeny Tomashevsky, Anton Korobov and Boris Gelfand.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leo-tolstoy-gm-in-museum-estate",
-         "pubDate" : "Wed, 08 Sep 2021 11:00:00 +0100",
-         "title" : "Leo Tolstoy GM in Museum Estate"
       },
       {
          "description" : "European Senior Team Chess Championship 2021 concluded yesterday in Prague, Czech Republic. The event was played in two sections: 50+ and 65+. The Winner of 50+ category became the domestic team, team of Czech Republic with score of 17 match points. Team of Slovakia was second, lagging behind the Winners for only one match point. With 16 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
@@ -2042,28 +2074,12 @@ news_feed (
          "title" : "Online Olympiad: Women players, youngsters give India the edge"
       },
       {
-         "description" : "The 9th edition of the Norway Chess Tournament kicked off on September 7 at the Clarion Hotel in Stavanger. Richard Rapport grabbed the lead by beating Aryan Tari in their classical encounter. Meanwhile, Magnus Carlsen and Alireza Firouzja drew their classical game - the world champion won the Armageddon decider (drew with black) after surviving a dead-lost position. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r1",
-         "pubDate" : "Wed, 08 Sep 2021 02:45:00 +0100",
-         "title" : "Norway Chess: A lively start"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1321",
          "pubDate" : "Tue, 07 Sep 2021 20:42:24 +0000",
          "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
-      },
-      {
-         "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alphazero-analyses-kramnik-explains",
-         "pubDate" : "Tue, 07 Sep 2021 17:05:00 +0100",
-         "title" : "AlphaZero analyses, Kramnik explains"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-49/",
          "pubDate" : "Tue, 07 Sep 2021 08:30:12 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
-      },
-      {
-         "description" : "When only very few pawns are left on the board the attacker has to be careful that s/he keeps at least one pawn that can queen. In the diagram position White has three pawns left, two more than Black. But there is only one way to win. How should White proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/not-all-roads-lead-to-rome",
-         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
-         "title" : "Not all roads lead to Rome"
       },
       {
          "description" : "",
