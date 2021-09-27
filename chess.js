@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1355",
+         "pubDate" : "Mon, 27 Sep 2021 22:07:38 +0000",
+         "title" : "Carlsen's lead narrows as pressure rises in Tour Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1354",
+         "pubDate" : "Mon, 27 Sep 2021 21:40:34 +0000",
+         "title" : "Czech Championship: Vojtěch Pl&aacute;t and Karolina Pilsova take titles"
+      },
+      {
+         "description" : "Welcome to the third round of the Champions Chess Tour Finals, a 10-player super grandmaster tournament that took place on September 27.&#38;nbsp; As those of you who have been following the previous rounds know, so far only GMs Magnus Carlsen and M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-3",
+         "pubDate" : "Mon, 27 Sep 2021 12:33:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 3: Carlsen Becomes Sole Leader"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess class on a topic of his choice. 2021.10.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1682,14 +1706,6 @@ news_feed (
          "title" : "PogChamps 4 Finals: Fundy, MrBeast Are New Pog Champions"
       },
       {
-         "description" : "GM Sergey Karjakin wasn&#39;t happy with his play in the opening but, using a long-term exchange sacrifice, eventually defeated GM Magnus Carlsen for the first time in five years in a classical game. In doing so, the Russian GM leapfrogged his opponen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-5-karjakin-carlsen",
-         "pubDate" : "Sun, 12 Sep 2021 15:19:00 -0700",
-         "title" : "Norway Chess R5: Karjakin Beats Carlsen With Exchange Sac"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-49/",
          "pubDate" : "Tue, 07 Sep 2021 08:30:12 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1320",
-         "pubDate" : "Mon, 06 Sep 2021 20:09:16 +0000",
-         "title" : "\"Chess helped me in so many ways\": an interview with ex-convict Hector Guifarro"
       }
    ]
 }
