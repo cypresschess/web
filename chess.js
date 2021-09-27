@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess class on a topic of his choice. 2021.10.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Mon, 27 Sep 2021 18:00:24 +0000",
+         "title" : "Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "The Norwegian Grandmaster Simen Agdestein coached Magnus Carlsen, and at a chess school in the Norwegian town of Bærum he still coaches some of the most promising Norwegian talents. Agdestein regularly travels with his pupils to tournaments, and from the 3rd to the 5th of September, Agdestein and his students took part in the Grand Prix Tournament in Krager&oslash;, which Agdestein won with 6.0/6. | Photo: The last round game between 12-year-old Martin Holten Fiskaaen and Agdestein. FM Ward Altarbosh in the background. | Photos: Tanja Cecilie Kveim",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/simen-s-school-trip",
+         "pubDate" : "Mon, 27 Sep 2021 19:00:00 +0100",
+         "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86563278.cms\" />D Harika and R Vaishali scored wins as India settled for a 2-2 draw against Azerbaijan in the Pool A opening round of the FIDE World Women's Team chess Championship on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-play-draw-with-azerbaijan/articleshow/86563278.cms",
+         "pubDate" : "Mon, 27 Sep 2021 22:34:22 +0530",
+         "title" : "World Women's Team championship: India play draw with Azerbaijan"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has appointed <strong>Paul Meyer-Dunker</strong> for its public relations and social media. The 29-year-old is President of the <strong>Berlin Chess Federation</strong> and has a background in E-sports and Green politics. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/meyer-dunker-joins-schachbund/",
+         "pubDate" : "Mon, 27 Sep 2021 17:36:35 +0100",
+         "title" : "Meyer-Dunker joins Schachbund"
+      },
+      {
          "description" : "Round 3 of the finals of the Meltwater Chess Champions Tour offers a number of exciting pairings: Magnus Carlsen plays against Maxime Vachier-Lagrave, Jan-Krzysztof Duda faces Mamedyarov, Wesley So has to fight against Vladislav Artemiev and Levon Aronian plays against Hikaru Nakamura. Teimour Radjabov is paired against Anish Giri. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Mon, 27 Sep 2021 16:45:00 +0100",
          "title" : "Meltwater Champions Chess Tour Finals, Round 3: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://lichess.org/@/CHlivelylemon/blog/j4ncl-2122-we-1-event-report-leamington-spa-woodland-grange-hotel/mmkLvkZP#new_tab",
+         "pubDate" : "Mon, 27 Sep 2021 15:37:35 +0000",
+         "title" : "A 12 year old wrote a blog about J4NCL"
       },
       {
          "description" : "Karsten M&uuml;ller's guest in this week's \"Endgame Magic Show\" is the French GM Christian Bauer who just produced an interesting DVD - which, of course, will also available per download - about the charms and attractions of the Alekhine Defense. Karsten and Christian talk about this DVD but they also look at some fine endgames Christian played. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
@@ -122,7 +162,7 @@ news_feed (
          "title" : "Champions Chess Tour Finals Day 2: Carlsen, MVL Perfect"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-1-napoleon-gambit-ch",
+         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch as part of <a href=\"https://youtu.be/gQo58yV3PS8\">https://youtu.be/gQo58yV3PS8</a>. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/shot-scotch-1-napoleon-gambit-chess-openings-explained",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "AICF Chess in School Trainers Training Re-exam Results held on 30 June 2021"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The chess-themed new <strong>PlayStation</strong> spot is a hot item in the gaming industry, reports <em>Stefan L&ouml;ffler</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/playstation-king.1920.jpeg\" title=\"The PlayStation king resides in a high place and sacrifices his queen. \" data-title=\"The PlayStation king resides in a high place and sacrifices his queen. \" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/playstation-king.480.jpeg\" alt=\"The PlayStation king resides in a high place and sacrifices his queen.\" srcset=\"https://www.chesstech.org/files/playsta",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/sonys-gambit/",
-         "pubDate" : "Fri, 24 Sep 2021 09:25:41 +0100",
-         "title" : "Sony's Gambit"
-      },
-      {
          "description" : " World champion's busy schedule contrasts with rival Ian Nepomniachtchi's closed doors preparation As November's 14-game, $2m 2021 world championship match in Dubai approaches, Norway's title holder, Magnus Carlsen, is continuing his busy tournament and media schedule, while his Russian challenger, Ian Nepomniachtchi, is pulling out of events or playing them in second or third gear. Nepomniachtchi, the current world No 4, is believed to have assembled a strong team of aides, notably including the 2004 title challenger and popular online commentator Peter Leko, plus the cream of Russian analytical talent. Fide is ostensibly neutral, but there is little doubt that its energetic president, Arka",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -712,14 +744,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-norway-chess-magnus-vs-ian-road-2000-nm-caleb-denby-lichessorg",
          "pubDate" : "Tue, 21 Sep 2021 20:54:19 +0000",
          "title" : "2021 Norway Chess: Magnus vs. Ian | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-yuniesky-quesada",
-         "pubDate" : "Tue, 21 Sep 2021 17:54:11 +0000",
-         "title" : "Insane in the Endgame - GM Yuniesky Quesada"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the end of Norway Chess and Carlsen's fantastic resurgence in the second half to win the tournament. He will also briefly cover the Hou Yifan Challenge, Norway Open Masters and European Club Cup. But the game of the day will be the exciting encounter Firouzja-Rapport, which involved a very interesting opening debate but ultimately one that was successful for the young prodigy. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1634,14 +1658,6 @@ news_feed (
          "title" : "Using the Live Database from the browser"
       },
       {
-         "description" : "A complaint under Regulation 5 was received by Julian Clissold and Stephen Woodhouse. The complaint was raised by Rob Willmoth in relation to correspondence between...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/complaint-under-regulation-5/",
-         "pubDate" : "Mon, 13 Sep 2021 07:31:12 +0000",
-         "title" : "Complaint under Regulation 5"
-      },
-      {
          "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/61FA2E56-3731-4873-8800-3BD9B12A3FC8.jpeg\" width=\"1600\" height=\"1222\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2034,14 +2050,6 @@ news_feed (
          "title" : "Is Chess A Sport?"
       },
       {
-         "description" : "Ask your chess friends or colleagues, \"What is the most difficult part for you to understand in chess?\" The answer is often: middlegames. Once you have reached the middlegame, it is difficult to make a plan. But luckily, we are blessed with some of Svitlana's Smart Moves once again. Today we try to figure out how to hold the tension in the middlegame, why to hold it, and how to break through with your pawns in the right moment.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-12",
-         "pubDate" : "Wed, 08 Sep 2021 17:30:00 +0100",
-         "title" : "Svitlana's Smart Moves - Middlegame pawn breaks"
-      },
-      {
          "description" : " The Champions Showdown 9LX is a rapid Fischer Random/Chess960 event that takes place 8th to 10th September 2021. Players: Garry Kasparov, Fabiano Caruana, Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Hikaru Nakamura, Peter Svidler and Sam Shankland. I don't have the ability to display the games.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2112,30 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1320",
          "pubDate" : "Mon, 06 Sep 2021 20:09:16 +0000",
          "title" : "\"Chess helped me in so many ways\": an interview with ex-convict Hector Guifarro"
-      },
-      {
-         "description" : "An online conference with a focus on restarting chess in leagues, clubs and schools, titled Work4Chess, is held on Saturday, 18 September 2021, in English. The meeting also has sessions on hybrid chess and preventing cheating through education, workshops on marketing and improving the user experience, and exhibitor presentations by Tornelo, Play Magnus Group and others. All recordings&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/work4chess-conference/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/work4chess-conference/",
-         "pubDate" : "Mon, 06 Sep 2021 18:39:05 +0000",
-         "title" : "Work4Chess - Conference"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85985040.cms\" />Team India will get a chance to form a bonding when they sit for the Fide Chess Olympiad which begins on Wednesday. In spite of being an online event due to the pandemic situation prevailing at different parts of the world, the All India Chess Federation (AICF) has arranged for both staying and playing facilities for all the players at a hotel in Chennai.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bank-on-team-bonding-in-chess-olympiad/articleshow/85985040.cms",
-         "pubDate" : "Mon, 06 Sep 2021 22:28:53 +0530",
-         "title" : "India bank on team bonding in chess Olympiad"
-      },
-      {
-         "description" : " The European Individual Chess Championship took place in Reykjavik 26th August to 5th September. Leading players: Gawain Jones, Gabriel Sargissian, David Navara, Matthias Bluebaum, Dieter Nisipeanu Liviu, Nils Grandelius, Constantin Lupulescu, Alexander Donchenko, Nijat Abasov etc 34 year old Anton Demchenko edged out 16 year old Vincent Keymer on tie-break after both scored 8.5/11.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
-         "pubDate" : "Mon, 6 Sep 2021 20:06:00 +0400",
-         "title" : "European Individual Chess Championship 2021 - Games and Results"
       }
    ]
 }
