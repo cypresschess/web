@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1353",
+         "pubDate" : "Mon, 27 Sep 2021 11:02:13 +0000",
+         "title" : "Chess for children with ASD seminar: Registration deadline approaches"
+      },
+      {
+         "description" : "Many congratulations to GM Luke McShane, the winner of the Manx Liberty Masters, held in Douglas, Isle of Man. Luke won outright with a score...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/luke-mcshane-wins-the-manx-liberty-masters/",
+         "pubDate" : "Mon, 27 Sep 2021 09:37:26 +0000",
+         "title" : "Luke McShane wins the Manx Liberty Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1351",
+         "pubDate" : "Mon, 27 Sep 2021 07:30:52 +0000",
+         "title" : "FIDE and Establishment Labs announce landmark sponsorship agreement for women's chess"
+      },
+      {
          "description" : "William Steinitz, the first official World Chess Champion, was born in 1836 in Prague and died on August 12, 1900 in New York, where he was also buried. Emanuel Lasker, the second World Champion, was born in Berlinchen, which today is Barlinek, a small city in Poland. But Lasker also died in New York and was buried close to his former rival Steinitz. IM Yury Lapshun and FM Jon Jacobs visited the graves of the two chess legends. | Photos: IM Yury Lapshun and FM Jon Jacobs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Magnus storms 6 points clear in Tour Finals as Wesley beaten"
       },
       {
-         "description" : "Meltwater Champions Chess Tour Finals 2021, held by chess24, began on Saturday.&#38;nbsp;The format is a round-robin event with 10 super-GM participants, namely Magnus Carlsen, Wesley So, Levon Aronian, Anish Giri, Teimour Radjabov, Vladislav Artemiev...",
+         "description" : "The Meltwater Champions Chess Tour Finals began on Saturday. The format is a round-robin event with 10 super-GM participants, namely Magnus Carlsen, Wesley So, Levon Aronian, Anish Giri, Teimour Radjabov, Vladislav Artemiev, Hikaru Nakamura, Maxim...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-1-carlsen-so-mvl-artemiev-giri-lead",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-hopes-one-of-talented-indian-youngsters-will-become-world-champion-in-future/articleshow/86533520.cms",
          "pubDate" : "Sun, 26 Sep 2021 21:22:47 +0530",
          "title" : "Anand hopes one of talented Indian youngsters will become world champion in future"
-      },
-      {
-         "description" : "In the second round of the finals of the Meltwater Chess Champions Tour Magnus Carlsen, who in round 1 won convincingly against Jan-Krszystof Duda, and leads the tournament, will do his best to also win against Shakhriyar Mamedyarov. Wesley So, currently second in the standings, plays against Maxime Vachier-Lagrave. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Sun, 26 Sep 2021 16:45:00 +0100",
-         "title" : "Meltwater Champions Chess Tour Finals, Round 2: Live"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 46th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the \"Cooperation of the Pieces\". | Photo: Tommy Grooten",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/some-international-chess.html",
          "pubDate" : "Sun, 26 Sep 2021 13:50:00 +0000",
          "title" : "Some International Chess"
-      },
-      {
-         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. After three rounds Jorden Van Foreest leads with 2.5/3. Round 4 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
-         "pubDate" : "Sun, 26 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 4: Live"
       },
       {
          "description" : " Many years ago maverick IM and chess teacher Mike Basman wrote about a nightmare he'd had. A pupil's game started 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 and now his pupil refused to recapture because he'd been taught to avoid doubled pawns. I've seen this several times myself. Sometimes, but not <a href=\"https://chessimprover.com/mike-basmans-nightmare/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman's Nightmare\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basmans-nightmare/\">Mike Basman's Nightmare</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2018,14 +2026,6 @@ news_feed (
          "title" : "Leo Tolstoy GM in Museum Estate"
       },
       {
-         "description" : "In order to cut down the appreciable load on ECF membership admin at this busy time, parents please note the following on the Rates and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/a-note-for-parents-on-ecf-membership/",
-         "pubDate" : "Wed, 08 Sep 2021 07:44:02 +0000",
-         "title" : "A note for parents on ECF membership"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2021 concluded yesterday in Prague, Czech Republic. The event was played in two sections: 50+ and 65+. The Winner of 50+ category became the domestic team, team of Czech Republic with score of 17 match points. Team of Slovakia was second, lagging behind the Winners for only one match point. With 16 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2058,6 +2058,14 @@ news_feed (
          "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
       },
       {
+         "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alphazero-analyses-kramnik-explains",
+         "pubDate" : "Tue, 07 Sep 2021 17:05:00 +0100",
+         "title" : "AlphaZero analyses, Kramnik explains"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2080,6 +2088,14 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-49/",
          "pubDate" : "Tue, 07 Sep 2021 08:30:12 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
+      },
+      {
+         "description" : "When only very few pawns are left on the board the attacker has to be careful that s/he keeps at least one pawn that can queen. In the diagram position White has three pawns left, two more than Black. But there is only one way to win. How should White proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/not-all-roads-lead-to-rome",
+         "pubDate" : "Tue, 07 Sep 2021 09:00:00 +0100",
+         "title" : "Not all roads lead to Rome"
       },
       {
          "description" : "",
@@ -2112,30 +2128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/european-individual-chess-championship-2021",
          "pubDate" : "Mon, 6 Sep 2021 20:06:00 +0400",
          "title" : "European Individual Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/85974520.cms\" />India, the joint winner of the tournament last year, will be joined by teams from France, Belarus and Azerbaijan among others in Pool B.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-placed-in-pool-b-of-top-division/articleshow/85974520.cms",
-         "pubDate" : "Mon, 06 Sep 2021 16:02:34 +0530",
-         "title" : "Online chess Olympiad: India placed in Pool B of Top Division"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1319",
-         "pubDate" : "Mon, 06 Sep 2021 09:38:33 +0000",
-         "title" : "Anton Demchenko wins European Championship"
-      },
-      {
-         "description" : "After 11 played rounds at the 2021 European Individual Chess Championship 2021, Russian Grandmaster Anton Demchenko (RUS, 2597) triumphed the event to claim the title of European Champion. Demchenko drew as black in the last round against Deac Bogdan-Daniel to score 8.5 points. Meanwhile, 17 years old Keymer Vincent (GER, 2602) managed to build a winning position against&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anton-demchenko-is-the-european-chess-champion-for-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/anton-demchenko-is-the-european-chess-champion-for-2021/",
-         "pubDate" : "Mon, 06 Sep 2021 08:25:34 +0000",
-         "title" : "Anton Demchenko is the European Chess Champion for 2021"
       }
    ]
 }
