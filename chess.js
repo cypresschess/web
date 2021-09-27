@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "William Steinitz, the first official World Chess Champion, was born in 1836 in Prague and died on August 12, 1900 in New York, where he was also buried. Emanuel Lasker, the second World Champion, was born in Berlinchen, which today is Barlinek, a small city in Poland. But Lasker also died in New York and was buried close to his former rival Steinitz. IM Yury Lapshun and FM Jon Jacobs visited the graves of the two chess legends. | Photos: IM Yury Lapshun and FM Jon Jacobs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/visiting-steinitz-and-lasker-at-their-final-resting-places",
+         "pubDate" : "Mon, 27 Sep 2021 08:30:37 +0100",
+         "title" : "Visiting Steinitz and Lasker at Their Final Resting Places"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86549938.cms\" />Wesley So's hopes of catching Magnus Carlsen in the Meltwater Champions Chess Tour Finals took a severe blow on Sunday as he crashed to defeat in just three games. The American suffered a painful 2.5-0.5 collapse against France's top player Maxime Vachier-Lagrave that leaves his challenge teetering on the edge of a precipice.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-tour-finals-magnus-carlsen-goes-6-points-clear/articleshow/86549938.cms",
+         "pubDate" : "Mon, 27 Sep 2021 12:35:24 +0530",
+         "title" : "Champions Tour finals: Magnus Carlsen goes 6 points clear"
+      },
+      {
          "description" : "A critical blunder that ended a game in one move, a symmetrical fianchetto Grunfeld played twice in one match, and two players repeating their same moves from a previous game were some of the highlights in the second round of the Meltwater Champio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
       },
       {
-         "description" : "The pioneering 'NC World Masters 2021' saw Vladimir Kramnik and Vishy Anand playing No-Castling chess - an interesting experiment. Kramnik analysed the games together with Deep Mind experts Ulrich Paquet and Nedad Tomasev. The Russian explains motifs and ideas in three instructive videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alphazero-analyses-kramnik-explains",
-         "pubDate" : "Tue, 07 Sep 2021 17:05:00 +0100",
-         "title" : "AlphaZero analyses, Kramnik explains"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.europechess.org/anton-demchenko-is-the-european-chess-champion-for-2021/",
          "pubDate" : "Mon, 06 Sep 2021 08:25:34 +0000",
          "title" : "Anton Demchenko is the European Chess Champion for 2021"
-      },
-      {
-         "description" : "Appended below please find the list of players registered for Under-8 Western Asian Online Youth Chess Championship based on registration for National Under-8 Championship (participation",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details-under-8/",
-         "pubDate" : "Mon, 06 Sep 2021 06:45:52 +0000",
-         "title" : "Western Asian Online Youth Chess Championship : Registration Details (UNDER-8)"
       }
    ]
 }
