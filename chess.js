@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A critical blunder that ended a game in one move, a symmetrical fianchetto Grunfeld played twice in one match, and two players repeating their same moves from a previous game were some of the highlights in the second round of the Meltwater Champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-2",
+         "pubDate" : "Sun, 26 Sep 2021 18:35:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 2: Carlsen, MVL Perfect"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-1-napoleon-gambit-ch",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-1-carlsen-so-mvl-artemiev-giri-lead",
-         "pubDate" : "Sun, 26 Sep 2021 11:57:41 -0700",
+         "pubDate" : "Sun, 26 Sep 2021 11:57:00 -0700",
          "title" : "Champions Chess Tour Finals Day 1: Carlsen Impressive In Opener"
       },
       {
@@ -1642,14 +1650,6 @@ news_feed (
          "title" : "Tolstoy Cup - Live!"
       },
       {
-         "description" : "The final day of PogChamps 4 quarterfinals presented by Coinbase excited the audience and the spectators on Saturday, as the pairs were decided for Sunday&#39;s main events. Rubius earned the win 1.5-0.5 against JakenbakeLIVE and goes on to the cons...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-playoffs-fundy-crokeyz-mrbeast-rubius",
-         "pubDate" : "Sat, 11 Sep 2021 18:25:37 -0700",
-         "title" : "Pogchamps 4 Playoffs Day 3: Fundy, Crokeyz Play For Championship; MrBeast Distracts His Way Into Consolation Final"
-      },
-      {
          "description" : "Four players reached the final round of the Champions Showdown tournament tied for first place. Only Leinier Dominguez managed to score a win in his last game, though, and thus claimed clear first place and $37,500 in prize money. Garry Kasparov was among the four players sharing the lead after eight rounds, but a loss against Maxime Vachier-Lagrave left him in fifth place in the final standings. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-online-youth-chess-championship-registration-details-under-8/",
          "pubDate" : "Mon, 06 Sep 2021 06:45:52 +0000",
          "title" : "Western Asian Online Youth Chess Championship : Registration Details (UNDER-8)"
-      },
-      {
-         "description" : " Unfortunately, National Master Rene Phillips of New Orleans knows a thing or two about hurricanes. His memories are still fresh from the 2005 onslaught known as &#8220;Hurricane Katrina,&#8221; a disaster that resulted in scores of damage to the iconic city and destroying everything he owned. Katrina, a Category 3 hurricane, unleashed a wrath of death [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/\">NM Rene Phillips devastated by Hurricane Ida</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/09/05/nm-rene-phillips-devastated-by-hurricane-ida/",
-         "pubDate" : "Sun, 05 Sep 2021 23:34:02 +0000",
-         "title" : "NM Rene Phillips devastated by Hurricane Ida"
       }
    ]
 }
