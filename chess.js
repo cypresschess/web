@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 5 of the TePe Sigeman&Co tournament in Malm&ouml; the two young Grandmasters Vincent Keymer and Nihal Sarin had to play against each other. Nihal Sarin outplayed Keymer but then blundered his advantage away and even lost. Jorden van Foreest won against Etienne Bacrot and now leads with 4.0/5. Nils Grandelius and Nigel Short follow with 3.0/5 each. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sigeman-co-van-foreest-extends-lead-keymer-beats-nihal-sarin",
+         "pubDate" : "Tue, 28 Sep 2021 13:06:19 +0100",
+         "title" : "Sigeman&Co: Van Foreest extends lead, Keymer beats Nihal Sarin"
+      },
+      {
+         "description" : "Wesley So cut Magnus Carlsen's lead to five points in Round 3 of the Meltwater Champions Chess Tour by defeating Vladislav Artemiev in rapid chess while Magnus only overcame Maxime Vachier-Lagrave in a blitz playoff. The other player to win in rapid chess was Hikaru Nakamura, who beat Levon Aronian 3:1, while all the players based in Oslo won blitz playoffs. Jan-Krzysztof Duda overcame Shakhriyar Mamedyarov in some crazy games, while Anish Giri's victory over Teimour Radjabov featured the most nail-biting chess of the day.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-3-wesley-so-gets-back-on-track",
+         "pubDate" : "Tue, 28 Sep 2021 11:10:10 +0000",
+         "title" : "MCCT Finals 3: Wesley So gets back on track"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1356",
+         "pubDate" : "Tue, 28 Sep 2021 09:05:11 +0000",
+         "title" : "FIDE Women's World Team Championship: CFR Team and Georgia take the lead"
+      },
+      {
+         "description" : " Over the last couple of days I decided to have a look at what chess books were being sold on eBay. Turns out that (a) there are heaps and heaps and (b) there are a number of authors I have kind of heard of/not heard of. By this I mean the following <ul style=\"text-align: left;\"><li>Magnus Anand</li><li>Magnus Fisher</li><li>Robert Morphy</li><li>John Carlsen</li></ul>I suspect if I looked deeper I might even find books by Bobby Botvinnik, Boris Kramnik and even Viswanathan Tal! <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/some-new-chess-authors.html",
+         "pubDate" : "Tue, 28 Sep 2021 08:46:00 +0000",
+         "title" : "Some new chess authors(?)"
+      },
+      {
          "description" : "After opening, middlegame and endgame comes the 4th phase of the game, when both sides have queened. In this phase it is important to start checking the enemy king first. In the diagram position Black just gave a check. But where should the white king go? And how should White prepare a transition to the fourth phase of the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1330,14 +1362,6 @@ news_feed (
          "title" : "Intercontinental Online Championship for Prisoners: Last call to register"
       },
       {
-         "description" : "World Champion Magnus Carlsen tops a star-studded line-up for the 10-player Meltwater Champions Chess Tour Final starting Saturday, September 25th. Originally slated to be held in person in San Francisco, the tournament will now be a hybrid event, with Magnus, Anish Giri and Jan-Krzysztof Duda playing from Oslo, while the remaining players compete from home. Wesley So has by far the greatest chance of challenging Magnus for the $100,000 top prize, since players start with bonus points for their tour performance so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/300k-meltwater-champions-chess-tour-finals-announced",
-         "pubDate" : "Thu, 16 Sep 2021 12:00:13 +0000",
-         "title" : "$300k Meltwater Champions Chess Tour Finals set for lift-off!"
-      },
-      {
          "description" : "How do you plan chess events with Covid-19 in mind? What to offer non-club players fascinated by online chess and \"The Queen's Gambit\"? What is hybrid chess good for? The Work4Chess online conference on Saturday, 18 September, tries to answer these and other questions. Access to the online conference is free. | Photos: ChessTech",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/an-instructive-king-and-pawn-ending.html",
          "pubDate" : "Tue, 07 Sep 2021 12:05:00 +0000",
          "title" : "An instructive King and Pawn ending"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (49)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-49/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (49)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-49/",
-         "pubDate" : "Tue, 07 Sep 2021 08:30:12 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (49)"
       }
    ]
 }
