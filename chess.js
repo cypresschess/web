@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. 2021.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 28 Sep 2021 18:01:41 +0000",
+         "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani celebrates the release of her new book, co-authored with her brother Borna Derakhshani! 2021.09.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BXPF73Xba58.jpg?itok=sgZ5zLKK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Tue, 28 Sep 2021 18:01:41 +0000",
+         "title" : "Your Jungle Guide to Unbalancing Your Opponents | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "All India Chess Federation under Chess for Everyone project is going to organizing district wise Arbiter and Organiser Training as well as Coaching Camps for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-for-everyone-project-arbiter-organiser-training-coaching-camp-for-players/",
+         "pubDate" : "Tue, 28 Sep 2021 16:29:37 +0000",
+         "title" : "Chess for Everyone Project : Arbiter, Organiser Training & Coaching Camp for players"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86589410.cms\" />The Indian team posted a second straight win in Pool A of the FIDE World Women's Team Chess Championship by beating Armenia 2.5-1.5 in the third round on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-armenia-in-third-round/articleshow/86589410.cms",
+         "pubDate" : "Tue, 28 Sep 2021 21:46:45 +0530",
+         "title" : "World Women's Team C'ship: India beat Armenia in third round"
+      },
+      {
          "description" : "In round 4 of the finals of the Meltwater Chess Champions Tour tournament leader Magnus Carlsen plays against Vladislav Artemiev, Hikaru Nakamura against Wesley So and Maxime Vachier-Lagrave against Shakhryar Mamedyarov. Anish Giri faces Levon Aronian and Teymour Radjabov plays against Jan-Krzysztof Duda. The rounds start daily at 17:00 (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Peter Leko and Daniel King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Tue, 28 Sep 2021 16:45:00 +0100",
          "title" : "Champions Chess Tour, Round 4: Live"
+      },
+      {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-6/",
+         "pubDate" : "Tue, 28 Sep 2021 15:33:17 +0000",
+         "title" : "Students Analysis (6)"
       },
       {
          "description" : "On day 3 of the Meltwater Chess Champion Finals Magnus Carlsen played against Maxime Vachier-Lagrave, who had won both of his previous matches. The rapid match between \"MVL\" and the World Champion ended with a 2-2 tie, but in the playoffs Carlsen had the better of it. Wesley So won his rapid match against Vladislav Artemiev but is still five points behind Carlsen in the standings. | Photos and graphics: Meltwater Chess Champions Tour",
@@ -832,22 +872,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate",
          "pubDate" : "Tue, 21 Sep 2021 19:49:00 -0700",
          "title" : "PRO Chess League Quarterfinals: Saint Louis Arch Bishops Dominate"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches a chess endgame class. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rS07V_tWYzY.jpg?itok=xUx0Q66O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 21 Sep 2021 20:54:19 +0000",
-         "title" : "Insane in the Endgame - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2021.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-norway-chess-magnus-vs-ian-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cgNkcrOGZR0.jpg?itok=JKTJD_vi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-norway-chess-magnus-vs-ian-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 21 Sep 2021 20:54:19 +0000",
-         "title" : "2021 Norway Chess: Magnus vs. Ian | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the end of Norway Chess and Carlsen's fantastic resurgence in the second half to win the tournament. He will also briefly cover the Hou Yifan Challenge, Norway Open Masters and European Club Cup. But the game of the day will be the exciting encounter Firouzja-Rapport, which involved a very interesting opening debate but ultimately one that was successful for the young prodigy. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
          "pubDate" : "Fri, 10 Sep 2021 20:55:00 +0100",
          "title" : "Champions Showdown: Chess 9LX - Dominguez wins"
-      },
-      {
-         "description" : "Defending champions India topped the Pool B and moved to the Quarter Final of the Online FIDE World Chess Olympiad on Friday with a clean",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-olympiad-india-through-to-the-quarter-final-as-pool-topper/",
-         "pubDate" : "Fri, 10 Sep 2021 19:46:05 +0000",
-         "title" : "Online Olympiad - India through to the quarter final as pool topper"
       },
       {
          "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
