@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 4 of the finals of the Meltwater Chess Champions Tour tournament leader Magnus Carlsen plays against Vladislav Artemiev, Hikaru Nakamura against Wesley So and Maxime Vachier-Lagrave against Shakhryar Mamedyarov. Anish Giri faces Levon Aronian and Teymour Radjabov plays against Jan-Krzysztof Duda. The rounds start daily at 17:00 (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Peter Leko and Daniel King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Tue, 28 Sep 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 4: Live"
+      },
+      {
+         "description" : "On day 3 of the Meltwater Chess Champion Finals Magnus Carlsen played against Maxime Vachier-Lagrave, who had won both of his previous matches. The rapid match between \"MVL\" and the World Champion ended with a 2-2 tie, but in the playoffs Carlsen had the better of it. Wesley So won his rapid match against Vladislav Artemiev but is still five points behind Carlsen in the standings. | Photos and graphics: Meltwater Chess Champions Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-carlsen-keeps-his-lead",
+         "pubDate" : "Tue, 28 Sep 2021 15:11:05 +0100",
+         "title" : "Champions Chess Tour Finals: Carlsen keeps his lead"
+      },
+      {
+         "description" : "The World Women's Team Championship in Sitges, Spain, began yesterday, 27 September. The tournament starts with a group phase which will be played with twelve teams, divided into two pools. Two rounds per day will be played, at 15:00 CEST (9:00 ET, 13:00 UTC) and at 18:00 CEST. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Tue, 28 Sep 2021 14:55:35 +0100",
+         "title" : "World Women's Team Championship, Day 2: Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg\" data-image-dimensions=\"6761x4193\" data-image-focal-point=\"0.5,0.5\" alt=\"Lennar Ootes - Photo pour Wiki.jpg\" data-load=\"false\" data-image-id=\"61531679a2fc23241caa0795\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://www.lennartootes.com\" target=\"\">by Lennart Ootes</a>, courtesy of Maxime Va",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/28/f1m2i2cfohdf9o31m0od2inseb0kzn",
+         "pubDate" : "Tue, 28 Sep 2021 13:24:20 +0000",
+         "title" : "Episode 245- GM Maxime Vachier-Lagrave"
+      },
+      {
+         "description" : "After five of seven rounds the TePe Sigeman & Co Tournament 2021 comes closer to the finish. With 4.0/5 Jorden Van Foreest is one full point ahead of Nils Grandelius and Nigel Short, who are sharing second and third place with 3.0/5 each. With 2.5/5 Vincent Keymer, who in round 5 was outplayed by Nihal Sarin, but won after his opponent blundered, is the best of the three young talents Keymer, Sarin and Jonas Bjerre. Round 6 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
+         "pubDate" : "Tue, 28 Sep 2021 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 6: Live"
+      },
+      {
          "description" : "In round 5 of the TePe Sigeman&Co tournament in Malm&ouml; the two young Grandmasters Vincent Keymer and Nihal Sarin had to play against each other. Nihal Sarin outplayed Keymer but then blundered his advantage away and even lost. Jorden van Foreest won against Etienne Bacrot and now leads with 4.0/5. Nils Grandelius and Nigel Short follow with 3.0/5 each. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,14 +170,6 @@ news_feed (
          "title" : "Meyer-Dunker joins Schachbund"
       },
       {
-         "description" : "The pressure ramped up in the $300,000 Meltwater Champions Chess Tour Finals today as Magnus Carlsen had a point chipped off his lead. Norway's World Champion needed a blitz play-off to beat the tricky Frenchman Maxime Vachier-Lagrave, who was dangerous right to the death. Carlsen got pegged back twice in the match and had to settle for two rather than three points. He is, however, one round closer to victory. \"I feel very good,\" said Carlsen after his win.\" Full report to follow soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Mon, 27 Sep 2021 16:45:00 +0100",
-         "title" : "Meltwater R3: Carlsen's lead narrows"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-162-with-french-gm-and-opening-expert-christian-bauer",
          "pubDate" : "Mon, 27 Sep 2021 16:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #162: With French GM and opening expert Christian Bauer"
-      },
-      {
-         "description" : "The Women's World Team Championship begins today. The tournament starts with a group phase which will be played with twelve teams, divided into two groups. Two rounds per day will be played, at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Mon, 27 Sep 2021 15:36:35 +0100",
-         "title" : "Women's World Team Championship: Live"
       },
       {
          "description" : "It is intimated to all players that the last date of registration for Asian Youth Online Chess Championship 2021 is 01 October 2021. For further",
@@ -2018,22 +2042,6 @@ news_feed (
          "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
       },
       {
-         "description" : "An action-packed second round in Stavanger saw all three classical games ending in draws, with Aryan Tari and Richard Rapport failing to make the most of clearly superior positions against Magnus Carslsen and Sergey Karjakin respectively. In the Armageddon tiebreakers, Carlsen, Rapport and Ian Nepomniachtchi won and collected 1&frac12; points. Nepo played the King's Gambit to take down Alireza Firouzja in their sudden-death encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r2",
-         "pubDate" : "Thu, 09 Sep 2021 16:45:00 +0100",
-         "title" : "Norway Chess: Missed chances, and a King's Gambit"
-      },
-      {
-         "description" : "This week, Merijn van Delft analyses a strategic masterpiece by Richard Rapport, who treated us to a 'good knight vs bad bishop' lesson in his first-round game at the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-480-rapport-gives-a-masterclass",
-         "pubDate" : "Thu, 09 Sep 2021 16:30:00 +0100",
-         "title" : "Game of the Week 480: Rapport gives a masterclass"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86069700.cms\" />India looked in good form for the second day in succession at the ongoing FIDE online Olympiad on Thursday. India, part of Division 1 Pool B in the competition, won all their matches in the day.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2136,22 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1321",
          "pubDate" : "Tue, 07 Sep 2021 20:42:24 +0000",
          "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg\" data-image-dimensions=\"3600x2400\" data-image-focal-point=\"0.5,0.5\" alt=\"02.jpg\" data-load=\"false\" data-image-id=\"61375fe634f08f2f258f673c\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631018985552-4KEXXFF4DE4XF0ZY1A6M/02.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Photo Courtesy of GM Surya Ganguly </em> <p class=\"\">GM Surya Ganguly is one of the top players in India, and was the India national champion for 6 consecutive years starting in ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/7/episode-242-gm-surya-ganguly",
-         "pubDate" : "Tue, 07 Sep 2021 12:52:32 +0000",
-         "title" : "Episode 242- GM Surya Ganguly "
-      },
-      {
-         "description" : " Rapid chess isn't known for deep endgame analysis, but it can still throw up some interesting positions. In tonight's ACT Online Rapid there was a very interesting K+P ending, which both players found some very good moves, and some not so great ones. Given the time control (10m+2s) it is unfair to criticise the missed wins (and draws), but I have highlighted them anyway, to show the turning points in the game. Of particular interest is the last variation, which shows how K+Q v K+Q isn't always an automatic draw. <br /> <b>RapanasCorner - chesslh [D53]</b><br />https://lichess.org/pVb9REtO <script>new PgnViewer( { boardName: \"game1269\", movesFormat: \"default\", pgnString:'1. d4 Nf6 2. c4 e6 3",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/an-instructive-king-and-pawn-ending.html",
-         "pubDate" : "Tue, 07 Sep 2021 12:05:00 +0000",
-         "title" : "An instructive King and Pawn ending"
       }
    ]
 }
