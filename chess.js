@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Boris Savchenko won Titled Tuesday on September 28 with a score of 10/11 after declining an early draw offer and beating GM Hikaru Nakamura in the final round. It was his second-ever Titled Tuesday win and his first since 2018. GM Federico Pere...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/savchenko-wins-titled-tuesday-against-multi-tournamenting-nakamura",
+         "pubDate" : "Tue, 28 Sep 2021 15:45:21 -0700",
+         "title" : "Savchenko Wins Titled Tuesday Against Multi-Tournamenting Nakamura"
+      },
+      {
+         "description" : "After the first day of the 2021 FIDE World Women Team Championship at Sitges, it was no doubt that Russia was the dominant force of Pool A, while Pool B looked like a comparatively open race for all teams. The second day of the event was expected ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r3-4",
+         "pubDate" : "Tue, 28 Sep 2021 15:23:00 -0700",
+         "title" : "FIDE World Women's Team Championship R3-4: Russia, Georgia Shine And Keep Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1358",
+         "pubDate" : "Tue, 28 Sep 2021 21:23:34 +0000",
+         "title" : "Carlsen's lead cut to 4 points but So blows chance to take full advantage"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1357",
+         "pubDate" : "Tue, 28 Sep 2021 20:03:37 +0000",
+         "title" : "Training program for arbiters of online and hybrid events continues"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The comedian <strong>Samay Rana</strong>, <strong>Chessbase India</strong> and the E-Sport company <strong>Nodwin</strong> <a href=\"https://chessbase.in/news/Chess-Super-League-2021\">coproduce</a> a <strong>Super League</strong> on 11-17 October with teams that mix world class players like Ding, Giri and Nakamura with top Indian adults, juniors, celebrities and business leaders. The prizefund is $54,000. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-super-league-for-indian/",
+         "pubDate" : "Tue, 28 Sep 2021 20:58:23 +0100",
+         "title" : "Online Super League for Indian market"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. 2021.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-armenia-in-third-round/articleshow/86589410.cms",
          "pubDate" : "Tue, 28 Sep 2021 21:46:45 +0530",
          "title" : "World Women's Team C'ship: India beat Armenia in third round"
+      },
+      {
+         "description" : "Welcome to the coverage of the fourth round of the Champions Chess Tour! As followers of the event know, we left off with Magnus Carlsen being the sole leader with seven match points, as he won all three matches, while GMs Wesley So, Hikaru Nakamu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-4",
+         "pubDate" : "Tue, 28 Sep 2021 08:56:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 4: Artemiev Shines"
       },
       {
          "description" : "In round 4 of the finals of the Meltwater Chess Champions Tour tournament leader Magnus Carlsen plays against Vladislav Artemiev, Hikaru Nakamura against Wesley So and Maxime Vachier-Lagrave against Shakhryar Mamedyarov. Anish Giri faces Levon Aronian and Teymour Radjabov plays against Jan-Krzysztof Duda. The rounds start daily at 17:00 (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Peter Leko and Daniel King.",
@@ -498,14 +546,6 @@ news_feed (
          "title" : "Mednyi Vsadnik and South Ural win European Open and Women Chess Club Cup 2021"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>St. Petersburg</strong> team, named after the Bronze Horseman monument of Tsar Peter that was immortalized by a poem of Alexander Pushkin, <a href=\"http://chess-results.com/tnr579298.aspx?lan=0\">won the</a> <strong>European Club Cup</strong> held in Struga, Macedonia, for the second time after 2018. Top seated <strong>Alkaloid Skopje</strong> couldn't repeat its 2016 win and finished only on the eighth place. <strong>Magnus Carlsen</strong> joined <strong>Offerspill Oslo</strong> for three games and signed the world championship contract in Struga, before returning to Oslo for the <strong>Meltwater Champions Chess Tour</strong> final sta",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/st-petersburg-wins-european-club-cup/",
-         "pubDate" : "Fri, 24 Sep 2021 22:08:35 +0100",
-         "title" : "St Petersburg wins European Club Cup"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/napoleon-gambit-chess-openings-e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -618,7 +658,7 @@ news_feed (
          "title" : "Chess: Carlsen wins in Norway and grinds in 91 moves before $2m match"
       },
       {
-         "description" : "Thursday, the 23rd of September, treated chess fans all around the world to the 2021&#38;nbsp; Pro Chess League&#39;s Arena Royale&#39;s semifinals. Many of you have been following previous stages of the event, but it wouldn&#39;t hurt to remind you that the four...",
+         "description" : "Thursday, the 23rd of September, treated chess fans all around the world to the 2021 Pro Chess League&#39;s Arena Royale&#39;s semifinals. Many of you have been following previous stages of the event, but it wouldn&#39;t hurt to remind you that the four teams...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-pro-chess-league-semifinals",
@@ -1602,14 +1642,6 @@ news_feed (
          "title" : "USA and RUSSIA square off in the final"
       },
       {
-         "description" : "By Tuesday, September 14 we only had the four strongest teams left in the 2021 FIDE Online Olympiad: China, Russia, India, and the USA. It was a truly exciting semifinal to expect, and what happened didn&#39;t let spectators down in terms of excitemen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-semifinals",
-         "pubDate" : "Tue, 14 Sep 2021 13:25:00 -0700",
-         "title" : "FIDE Online Olympiad Semifinals: Russia, USA Advance To Finals"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Norway Chess Tournament and the game of the day is Carlsen's endgame masterpiece against Firouzja - winning a seemingly unwinnable position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1688,22 +1720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-wrong-pawn",
          "pubDate" : "Tue, 14 Sep 2021 09:01:15 +0100",
          "title" : "The wrong pawn"
-      },
-      {
-         "description" : "Monday, September 13 saw some exciting quarterfinals action in the 2021 FIDE Online Olympiad. As a reminder, last week we had the top division&#39;s matches, from which eight teams qualified. We are now down to the final four teams. The format of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-quarterfinals",
-         "pubDate" : "Mon, 13 Sep 2021 17:09:00 -0700",
-         "title" : "FIDE Online Olympiad Quarterfinals: China, India, Russia, USA Advance To Semifinals"
-      },
-      {
-         "description" : "GM Richard Rapport increased his lead at Norway Chess to a commanding three points after scoring his third classical win on Monday. The Hungarian GM defeated GM Aryan Tari for the second time. GM Magnus Carlsen is back in third place after scori...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-6-carlsen-firouzja-rapport",
-         "pubDate" : "Mon, 13 Sep 2021 16:15:00 -0700",
-         "title" : "Norway Chess R6: Rapport Extends Lead; Carlsen Wins 1st Classical Game"
       },
       {
          "description" : "",
@@ -2152,14 +2168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-women-players-and-youngsters-give-india-the-edge/articleshow/86028425.cms",
          "pubDate" : "Wed, 08 Sep 2021 10:14:53 +0530",
          "title" : "Online Olympiad: Women players, youngsters give India the edge"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1321",
-         "pubDate" : "Tue, 07 Sep 2021 20:42:24 +0000",
-         "title" : "Latvia stages International Children and Youth Festival «ChessYes »"
       }
    ]
 }
