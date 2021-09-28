@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After opening, middlegame and endgame comes the 4th phase of the game, when both sides have queened. In this phase it is important to start checking the enemy king first. In the diagram position Black just gave a check. But where should the white king go? And how should White prepare a transition to the fourth phase of the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fourth-phase-of-the-game",
+         "pubDate" : "Tue, 28 Sep 2021 09:00:00 +0100",
+         "title" : "The fourth phase of the game"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86576317.cms\" />The 18-year-old remained unbeaten to bring home his maiden yellow metal in the Joytu Sheikh Hasina International Grandmasters Chess Tournament, which concluded at Dhaka, Bangladesh, on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-gupta-seals-gold-wins-first-international-rating-chess-tourney-in-bangladesh/articleshow/86576317.cms",
+         "pubDate" : "Tue, 28 Sep 2021 10:45:57 +0530",
+         "title" : "Sankalp seals gold, wins first international rating chess tourney"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86576126.cms\" />India drew their opening-round game against Azerbaijan 2-2 before defeating hosts Spain 2.5-1.5 in the subsequent round on Day 1 of the women's World Team Championship which commenced in Sitges on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-world-team-chess-india-start-on-a-strong-note/articleshow/86576126.cms",
+         "pubDate" : "Tue, 28 Sep 2021 10:37:18 +0530",
+         "title" : "Women's World Team Chess: India start on a strong note"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86575905.cms\" />The pressure ramped up in the $300,000 Meltwater Champions Chess Tour Finals on Monday as Magnus Carlsen had a point chipped off his lead. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-tour-finals-magnus-carlsens-lead-narrows/articleshow/86575905.cms",
+         "pubDate" : "Tue, 28 Sep 2021 10:25:34 +0530",
+         "title" : "Champions Tour Finals: Magnus Carlsen's lead narrows"
+      },
+      {
          "description" : "The Asian Amateur Online Chess Championships (Open &#38; Women) scheduled to be held from 12th to 18th November 2021. All players who have participated in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86563278.cms\" />D Harika and R Vaishali scored wins as India settled for a 2-2 draw against Azerbaijan in the Pool A opening round of the FIDE World Women's Team chess Championship on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-play-draw-with-azerbaijan/articleshow/86563278.cms",
-         "pubDate" : "Mon, 27 Sep 2021 22:34:22 +0530",
-         "title" : "World Women's Team championship: India play draw with Azerbaijan"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has appointed <strong>Paul Meyer-Dunker</strong> for its public relations and social media. The 29-year-old is President of the <strong>Berlin Chess Federation</strong> and has a background in E-sports and Green politics. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -74,12 +98,12 @@ news_feed (
          "title" : "Meyer-Dunker joins Schachbund"
       },
       {
-         "description" : "Round 3 of the finals of the Meltwater Chess Champions Tour offers a number of exciting pairings: Magnus Carlsen plays against Maxime Vachier-Lagrave, Jan-Krzysztof Duda faces Mamedyarov, Wesley So has to fight against Vladislav Artemiev and Levon Aronian plays against Hikaru Nakamura. Teimour Radjabov is paired against Anish Giri. The round starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live with commentary by Peter Leko and Daniel King.",
+         "description" : "The pressure ramped up in the $300,000 Meltwater Champions Chess Tour Finals today as Magnus Carlsen had a point chipped off his lead. Norway's World Champion needed a blitz play-off to beat the tricky Frenchman Maxime Vachier-Lagrave, who was dangerous right to the death. Carlsen got pegged back twice in the match and had to settle for two rather than three points. He is, however, one round closer to victory. \"I feel very good,\" said Carlsen after his win.\" Full report to follow soon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Mon, 27 Sep 2021 16:45:00 +0100",
-         "title" : "Meltwater Champions Chess Tour Finals, Round 3: Live"
+         "title" : "Meltwater R3: Carlsen's lead narrows"
       },
       {
          "description" : "",
@@ -130,14 +154,6 @@ news_feed (
          "title" : "Champions Chess Tour Final, Round 2: Carlsen continues to lead"
       },
       {
-         "description" : "The TePe Sigeman & Co Tournament 2021 in Malm&ouml; again offers of strong field with a fine mix of young talents and experienced players: Jorden Van Foreest, Gawain Jones, Etienne Bacrot, Nils Grandelius, Nihal Sarin, Nigel Short, Vincent Keymer, and Jonas Buhl Bjerre battle it out. After four rounds Jorden Van Foreest leads with 3.0/4. Round 5 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
-         "pubDate" : "Mon, 27 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 5: Live"
-      },
-      {
          "description" : "Magnus Carlsen has extended his lead over Wesley So to six points after winning a crazy match against Shakhriyar Mamedyarov in which White won all seven games. Wesley blamed poor time management as he lost to MVL in three games, while Jan-Krzysztof Duda and Levon Aronian won the first rapid game, lost the second and won the last to defeat Anish Giri and Vladislav Artemiev. Nakamura-Radjabov saw four draws featuring no chess content before Hikaru won in blitz after Teimour blundered in a drawn pawn endgame.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/visiting-steinitz-and-lasker-at-their-final-resting-places",
          "pubDate" : "Mon, 27 Sep 2021 08:30:37 +0100",
          "title" : "Visiting Steinitz and Lasker at Their Final Resting Places"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86549938.cms\" />Wesley So's hopes of catching Magnus Carlsen in the Meltwater Champions Chess Tour Finals took a severe blow on Sunday as he crashed to defeat in just three games. The American suffered a painful 2.5-0.5 collapse against France's top player Maxime Vachier-Lagrave that leaves his challenge teetering on the edge of a precipice.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-tour-finals-magnus-carlsen-goes-6-points-clear/articleshow/86549938.cms",
-         "pubDate" : "Mon, 27 Sep 2021 12:35:24 +0530",
-         "title" : "Champions Tour finals: Magnus Carlsen goes 6 points clear"
       },
       {
          "description" : "A critical blunder that ended a game in one move, a symmetrical fianchetto Grunfeld played twice in one match, and two players repeating their same moves from a previous game were some of the highlights in the second round of the Meltwater Champio...",
