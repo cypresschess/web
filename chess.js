@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Asian Amateur Online Chess Championships (Open &#38; Women) scheduled to be held from 12th to 18th November 2021. All players who have participated in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-amateur-online-chess-champonships-2021/",
+         "pubDate" : "Mon, 27 Sep 2021 23:44:49 +0000",
+         "title" : "ASIAN AMATEUR ONLINE CHESS CHAMPONSHIPS 2021"
+      },
+      {
+         "description" : "The 2021 FIDE World Women Team Championship kicked off at Sitges, Spain on Monday, September 27, with favorite Russia showing brilliant form. The team scored the maximum 4 match points after the first two rounds in Pool-A. Known as &#34;Jewel on the M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r1-2",
+         "pubDate" : "Mon, 27 Sep 2021 16:26:00 -0700",
+         "title" : "FIDE World Women's Team Championship R1-2: Brilliant Start By Favorite Russia"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "Justus Williams clinches IM title!"
       },
       {
-         "description" : "Stalemates, drama, and memes marked the finals of PogChamps 4 presented by Coinbase. It couldn&#39;t have been any more amazing with some of the greatest content creators and chess commentators on Earth coming together to enjoy chess. Two tiebreaks ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-finals-fundy-the-beast-are-new-pog-champions",
-         "pubDate" : "Sun, 12 Sep 2021 16:27:00 -0700",
-         "title" : "PogChamps 4 Finals: Fundy, MrBeast Are New Pog Champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-r3",
          "pubDate" : "Fri, 10 Sep 2021 14:50:00 +0100",
          "title" : "Norway Chess: Armageddon"
-      },
-      {
-         "description" : "The final list of registration for Western Asian Online Chess Championship is appended below:- All players registered are requested to check their name, category and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-list-of-registration-western-asian-online-chess-championship/",
-         "pubDate" : "Fri, 10 Sep 2021 12:18:19 +0000",
-         "title" : "FINAL LIST OF REGISTRATION : WESTERN ASIAN ONLINE CHESS CHAMPIONSHIP"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sideline in the Botvinnik Variation of the Semi Slav - 7.a4. He analyses a game in which Indian prodigy Gukesh had the white pieces, and pays special attention to a 2019 predecessor in which Daniil Dubov beat Anish Giri with white. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
