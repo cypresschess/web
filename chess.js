@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round four of the Meltwater Chess Champions Finals World Champion Magnus Carlsen suffered an outright 1-3 defeat against Vladislav Artemiev. Wesley So drew his rapid match against Hikaru Nakamura but then lost the blitz-playoff 0-2. In the overall standings Carlsen is still four points ahead of So. | Graphics: Meltwater Chess Champions Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-setback-for-carlsen",
+         "pubDate" : "Wed, 29 Sep 2021 14:15:28 +0100",
+         "title" : "Champions Chess Tour: Setback for Carlsen"
+      },
+      {
+         "description" : "Vladislav Artemiev said he \"wanted to play more aggressively than usual because it's very hard to beat Magnus in technical positions\" and it worked to perfection as he inflicted the first defeat of the Meltwater Champions Chess Tour Finals on Magnus Carlsen. Wesley So had the chance to get within striking range of 1st place, but his all-US battle against Hikaru Nakamura skipped the rapid games completely before Hikaru won in blitz. Elsewhere Teimour Radjabov, Levon Aronian and Shakhriyar Mamedyarov all won in rapid chess, with some fantastic games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-4-artemiev-takes-down-carlsen",
+         "pubDate" : "Wed, 29 Sep 2021 12:02:46 +0000",
+         "title" : "MCCT Finals 4: Artemiev takes down Carlsen"
+      },
+      {
+         "description" : " Sadly, there are still a lot of Charlatans and get-rich-quick schemes in Online Chess improvement. They all have one thing in common: they try to make Chess improvement look very easy. Their marketing will suggest that buying their product or course will give you a very easy way to improve. Only by watching some course, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/simple-not-easy/\">Chess Improvement Simple, Not Easy</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/simple-not-easy/",
+         "pubDate" : "Wed, 29 Sep 2021 12:00:00 +0000",
+         "title" : "Chess Improvement - Simple, Not Easy"
+      },
+      {
          "description" : "The strong 4th Sharjah Masters Tournament ended on Sunday and after nine rounds four players shared first place with 6.5/9 each. But M. Amin Tabatabaei from Iran (pictured) had the best tiebreak and won the tournament. | Photo: Anastasiya Karlovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-carlsen-keeps-his-lead",
          "pubDate" : "Tue, 28 Sep 2021 15:11:05 +0100",
          "title" : "Champions Chess Tour Finals: Carlsen keeps his lead"
-      },
-      {
-         "description" : "The World Women's Team Championship in Sitges, Spain, began yesterday, 27 September. The tournament starts with a group phase which will be played with twelve teams, divided into two pools. Two rounds per day will be played, at 15:00 CEST (9:00 ET, 13:00 UTC) and at 18:00 CEST. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Tue, 28 Sep 2021 14:55:35 +0100",
-         "title" : "World Women's Team Championship, Day 2: Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg\" data-image-dimensions=\"6761x4193\" data-image-focal-point=\"0.5,0.5\" alt=\"Lennar Ootes - Photo pour Wiki.jpg\" data-load=\"false\" data-image-id=\"61531679a2fc23241caa0795\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://www.lennartootes.com\" target=\"\">by Lennart Ootes</a>, courtesy of Maxime Va",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-43-good-bishops-bad-bishops",
          "pubDate" : "Thu, 16 Sep 2021 18:00:00 +0100",
          "title" : "Understanding before Moving 43: Good bishops, bad bishops"
-      },
-      {
-         "description" : "Magnus Carlsen moved to within half a point of Richard Rapport after beating the leader on demand in Round 8. For a second day in a row there was no need for Armageddon as Aryan Tari scored his first win in 18 Norway Chess classical games, against none other than Ian Nepomniachtchi. It was another bad day for both Russian players as Sergey Karjakin also fell to Alireza Firouzja, with the 18-year-old now a single win away from the Top 10.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-hunts-down-rapport",
-         "pubDate" : "Thu, 16 Sep 2021 15:16:53 +0000",
-         "title" : "Norway Chess 8: Carlsen hunts down Rapport"
       },
       {
          "description" : "In the finals of the 2. FIDE Online Olympiad Russia had to play against the USA, and in this match Russia was seen as the favourite. The Russian team lived up to this role: by winning both matches of the finals 3.5:2.5 the Russians also won the Online Olympiad 2021. | Photos: FIDE",
