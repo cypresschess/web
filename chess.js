@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at an attacking masterpiece by Magnus Carlsen in his first game vs Jan-Krzysztof Duda in the final of the Meltwater Champions Chess Tour. Duda took a posioned pawn on c3 and was duly punished. Lawrence will also talk about what's going on at the TePe Sigeman tournament and the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-meltwater-finals",
+         "pubDate" : "Wed, 29 Sep 2021 09:14:23 +0100",
+         "title" : "The Weekly Show: Meltwater Finals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86606140.cms\" />After two straight wins, India went down 1-3 to a formidable Russian team in a fourth Pool A match in the FIDE World Women's Team Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-india-lose-1-3-to-russia/articleshow/86606140.cms",
+         "pubDate" : "Wed, 29 Sep 2021 11:38:37 +0530",
+         "title" : "World Women's Team Chess C'ship: India lose 1-3 to Russia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex is shocked! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-knight-pawn-vs-rook-its-not-winning-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-knight-pawn-vs-rook-its-not-winning-insane-endgame-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 29 Sep 2021 06:02:05 +0000",
+         "title" : "Rook, Knight, & Pawn vs. Rook: It's Not Winning?! | Insane in the Endgame - GM Alex Yermolinsky"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cgNkcrOGZR0.jpg?itok=JKTJD_vi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,12 +130,12 @@ news_feed (
          "title" : "Champions Chess Tour Finals Day 4: Artemiev Shines"
       },
       {
-         "description" : "In round 4 of the finals of the Meltwater Chess Champions Tour tournament leader Magnus Carlsen plays against Vladislav Artemiev, Hikaru Nakamura against Wesley So and Maxime Vachier-Lagrave against Shakhryar Mamedyarov. Anish Giri faces Levon Aronian and Teymour Radjabov plays against Jan-Krzysztof Duda. The rounds start daily at 17:00 (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Peter Leko and Daniel King.",
+         "description" : "The big surprise of round 4 of the Meltwater Chess Champions Tour finals was Magnus Carlsen's 1-3 loss against Vladislav Artemiev. Levon Aronian lost his first game against Anish Giri, but then bounced back and won the match 3-1. Teymour Radjabov defeated Jan-Krzysztof Duda 2.5-1.5 and that was also the result of the match between Shakhryar Mamedyarov and Maxime Vachier-Lagrave. Hikaru Nakamura and Wesley So tied the rapid match 2-2, but then Nakamura went on to win the blitz-tiebreak 2-0. In the overall standings Carlsen is still 4 points ahead of Wesley So. Full report to follow soon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Tue, 28 Sep 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 4: Live"
+         "title" : "Champions Chess Tour, Round 4: Results and standings"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-team-ch-2021-preview",
          "pubDate" : "Wed, 22 Sep 2021 09:40:02 +0100",
          "title" : "With a new format: Women's World Team Championship in Sitges"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2021.09.21<br /> Ratmir Kholmov vs Mikhail Tal, Simul (1949)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1139123\">https://www.chessgames.com/perl/chessgame?gid=1139123</a><br /> Mark Pasman vs Mikhail Tal, Riga (1952)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1139167\">https://www.chessgames.com/perl/chessgame?gid=1139167</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
-         "title" : "Tacticland: Tal's Coolest Games | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "On Tuesday, chess fans around the world followed the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of a change: as you might have read, there were supposed to be three...",
@@ -2058,14 +2074,6 @@ news_feed (
          "title" : "Rebranding Kerala"
       },
       {
-         "description" : "The Top Division of the FIDE Online Olympiad sees 40 teams fighting for 8 spots in the quarterfinals. A single round-robin tournament is played in each of the four pools, with the top two teams advancing to the knockout stage. After 6 out of 9 rounds, Kazakhstan, Russia and the United States still have a perfect 12/12 score. | Pictured: Vihy Anand leading Team India on top board | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-top-division-day-2",
-         "pubDate" : "Fri, 10 Sep 2021 02:30:00 +0100",
-         "title" : "Online Olympiad: Kazakhstan, India, Russia and USA top the standings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2176,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/",
          "pubDate" : "Wed, 08 Sep 2021 07:37:58 +0000",
          "title" : "European Senior Team Chess Championship 2021 concluded"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86028425.cms\" />India's squad for this edition of the online Olympiad boasts of strong players in all categories. From the senior-most in the group -- Viswanathan Anand, P Harikrishna, Humpy and Harika -- to the juniors such as Nihal Sarin, Praggnanandhaa and Savithashri, there is plenty of quality.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-women-players-and-youngsters-give-india-the-edge/articleshow/86028425.cms",
-         "pubDate" : "Wed, 08 Sep 2021 10:14:53 +0530",
-         "title" : "Online Olympiad: Women players, youngsters give India the edge"
       }
    ]
 }
