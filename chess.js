@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
+         "pubDate" : "Wed, 29 Sep 2021 12:40:26 -0500",
+         "title" : "Koneru Humpy's return to offline chess curtailed due to Covaxin restrictions"
+      },
+      {
+         "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
+         "pubDate" : "Wed, 29 Sep 2021 12:38:11 -0500",
+         "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
+      },
+      {
+         "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-483-j-van-foreest-vs-e-bacrot",
+         "pubDate" : "Wed, 29 Sep 2021 18:00:00 +0100",
+         "title" : "Game of the Week 483: J. Van Foreest vs E. Bacrot"
+      },
+      {
+         "description" : "The Chess Super League, an online competition with international top grandmasters as well as Indian players and juniors, will kick off on October 11, 2021. The league has a prize fund of Rs.40 lakh ($54,000 USD). The games will be played on Chess....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league",
+         "pubDate" : "Wed, 29 Sep 2021 09:29:47 -0700",
+         "title" : "Chess Super League To Start October 11 On Chess.com"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86619552.cms\" />India defeated France 3-1 in the fifth and final round, riding on wins from Bhakti Kulkarni and Mary Ann Gomes, to finish second in Pool A and qualify for the quarterfinals of the FIDE World Women's Team Chess Championship on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-france-3-1-in-final-preliminary-round-game/articleshow/86619552.cms",
+         "pubDate" : "Wed, 29 Sep 2021 21:55:29 +0530",
+         "title" : "World Women's Team C'ship: India beat France 3-1 in final preliminary round game"
+      },
+      {
+         "description" : "This episode is about the very interesting subject of how to \"swindle\" your way out of lost positions. Probably, you have managed to turn a game around once, or twice already? And likely, an opponent has done the same? Even a top player is not safe, as Svitlana can demonstrate in one of her played games against a Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-14",
+         "pubDate" : "Wed, 29 Sep 2021 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The power of swindling in chess"
+      },
+      {
          "description" : "In round 5 of the Meltwater Champions Chess Tour the arguably best rapid and blitz players in the world face each other: Magnus Carlsen and Hikaru Nakamura - always a tense and exciting match-up. The other pairings in round five also promise excitement: Levon Aronian vs Teymour Radjabov, Wesley So vs Anish Giri, Shakhriyar Mamedyarov vs Vladislav Artemiev, and Jan-Krzysztof Duda vs Maxime Vachier-Lagrave. Follow the games live and with commentary by Daniel King and Peter Leko.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1698,14 +1746,6 @@ news_feed (
          "title" : "Online Chess Olympiad: India lose to USA in semis; settled for Bronze"
       },
       {
-         "description" : "For the first time, the Norway Chess tournament saw three decisive classical games and therefore no armageddons. GM Richard Rapport defeated GM Sergey Karjakin to jump to world number-six in the live ratings. He is now 3.5 points ahead of the ne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-7",
-         "pubDate" : "Tue, 14 Sep 2021 15:08:00 -0700",
-         "title" : "Norway Chess R7: Rapport Moves To World Number 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2042,22 +2082,6 @@ news_feed (
          "title" : "India make it to quarters in online Olympiad"
       },
       {
-         "description" : "In April 2021, Ian Nepomniachtchi won the Candidates Tournament in Ekaterinenburg and thus gained the right to challenge world champion Magnus Carlsen in a match to be staged later this year. A perfect occasion to present the challenger's skills in the \"Special\" of ChessBase Magazine #203. Our authors (including Adhiban, Berg, Edouard, Krasenkow and others) annotated their favourite game by the 31-year-old Russian. This has resulted in an exclusive collection of 21 high-class encounters played between 2002 and 2021. One of them - Nepomniachtchi-Carlsen from the Legends of Chess Final in 2020 - is presented in this article, annotated by IM Robert Ris. \"A wonderful prelude to their upcoming Wo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-favourite-nepomniachtchi-game",
-         "pubDate" : "Fri, 10 Sep 2021 15:00:00 +0100",
-         "title" : "\"My favourite Nepomniachtchi game\""
-      },
-      {
-         "description" : "The third round of the Norway Chess Tournament saw three draws in the classical games, two of them by perpetual check. Magnus Carlsen played 18 moves of a King's Indian before signing a draw against Richard Rapport on move 18. The Armageddon tiebreakers that followed all favoured the black player. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r3",
-         "pubDate" : "Fri, 10 Sep 2021 14:50:00 +0100",
-         "title" : "Norway Chess: Armageddon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2192,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
          "pubDate" : "Wed, 08 Sep 2021 19:56:47 +0000",
          "title" : "Philadelphia loses Jerome Works (1955-2021)"
-      },
-      {
-         "description" : " The question if chess is a sport haunted me since my early childhood. I vividly remember my first day in the sports class in high school. When walking home that day, a now very good friend said to me &#8220;I'm not talking to a nerdy Chess Player&#8221;. It is only one of many anecdotes of [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/is-chess-a-sport/\">Is Chess A Sport?</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/is-chess-a-sport/",
-         "pubDate" : "Wed, 08 Sep 2021 17:00:00 +0000",
-         "title" : "Is Chess A Sport?"
-      },
-      {
-         "description" : " The Champions Showdown 9LX is a rapid Fischer Random/Chess960 event that takes place 8th to 10th September 2021. Players: Garry Kasparov, Fabiano Caruana, Shakhriyar Mamedyarov, Levon Aronian, Wesley So, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Hikaru Nakamura, Peter Svidler and Sam Shankland. I don't have the ability to display the games.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2021",
-         "pubDate" : "Wed, 8 Sep 2021 19:37:00 +0400",
-         "title" : "Champions Showdown 9LX 2021 - Games and Results"
       }
    ]
 }
