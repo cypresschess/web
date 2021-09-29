@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cgNkcrOGZR0.jpg?itok=JKTJD_vi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 29 Sep 2021 03:01:55 +0000",
+         "title" : "Aronian at the Meltwater Tour Final | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1359",
+         "pubDate" : "Wed, 29 Sep 2021 00:37:40 +0000",
+         "title" : "Team CFR and Georgians hold the lead in Sitges"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. 2021.09.28<br /> Levon Aronian vs Anish Giri, Meltwater Tour Final (2021): B90 Sicilian, Najdorf<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2082788\">https://www.chessgames.com/perl/chessgame?gid=2082788</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 29 Sep 2021 00:01:48 +0000",
+         "title" : "Aronian at the Meltwater Tour Final | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "GM Boris Savchenko won Titled Tuesday on September 28 with a score of 10/11 after declining an early draw offer and beating GM Hikaru Nakamura in the final round. It was his second-ever Titled Tuesday win and his first since 2018. GM Federico Pere...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Online Super League for Indian market"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. 2021.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex is shocked! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani celebrates the release of her new book, co-authored with her brother Borna Derakhshani! 2021.09.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BXPF73Xba58.jpg?itok=sgZ5zLKK\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani poses key positions from Mikhail Tal&#039;s games. Find the best answers in these games spanning a time TBD. 2021.09.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani",
@@ -888,22 +912,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
          "title" : "Tacticland: Tal's Coolest Games | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess endgame class. 2021.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-alex-yermolinsky",
-         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
-         "title" : "Insane in the Endgame - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby dissects the 1909 game between Rudolf Spielmann and Akiba Rubinstein. The mysterious masked Caleb gets excited about the endgame mastery of Akiba Rubinstein. 2021.09.21<br /> Rudolf Spielmann vs Akiba Rubinstein, St. Petersburg (1909): C88 Ruy Lopez, closed<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1130714\">https://www.chessgames.com/perl/chessgame?gid=1130714</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rubenst",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rubensteins-rook-game-slays-spielmann-insane-endgame-nm-caleb-denby",
-         "pubDate" : "Wed, 22 Sep 2021 02:54:37 +0000",
-         "title" : "Rubenstein's Rook Game Slays Spielmann! | Insane in the Endgame - NM Caleb Denby"
       },
       {
          "description" : "On Tuesday, chess fans around the world followed the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of a change: as you might have read, there were supposed to be three...",
