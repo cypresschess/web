@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at an attacking masterpiece by Magnus Carlsen in his first game vs Jan-Krzysztof Duda in the final of the Meltwater Champions Chess Tour. Duda took a posioned pawn on c3 and was duly punished. Lawrence will also talk about what's going on at the TePe Sigeman tournament and the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "description" : "The strong 4th Sharjah Masters Tournament ended on Sunday and after nine rounds four players shared first place with 6.5/9 each. But M. Amin Tabatabaei from Iran (pictured) had the best tiebreak and won the tournament. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/m-amin-tabatabaei-wins-sharjah-masters",
+         "pubDate" : "Wed, 29 Sep 2021 12:30:15 +0100",
+         "title" : "M. Amin Tabatabaei wins Sharjah Masters"
+      },
+      {
+         "description" : "Dutch Grandmaster Jorden Van Foreest, who in January had won the top tournament in Wijk aan Zee, impressed again at the TePe Sigeman & Co event 2021 in Malm&ouml; by winning the eight-player tournament with one round to spare. After 6 of 7 rounds Van Foreest leads with 5.0/6 and is one and a half point ahead of Nigel Short and Nils Grandelius who share second and third place with 3.5/6 each. The seventh and final round starts two hours earlier than the previous rounds, at 12:00 CEST (10:00 ET, 10:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
+         "pubDate" : "Wed, 29 Sep 2021 11:55:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 7: Live"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at an attacking masterpiece by Magnus Carlsen in his first game vs Jan-Krzysztof Duda in the final of the Meltwater Champions Chess Tour. Duda took a poisoned pawn on c3 and was duly punished. Lawrence will also talk about what's going on at the TePe Sigeman tournament and the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-meltwater-finals",
@@ -39,7 +55,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1359",
          "pubDate" : "Wed, 29 Sep 2021 00:37:40 +0000",
-         "title" : "Team CFR and Georgians hold the lead in Sitges"
+         "title" : "Team CFR and Georgia hold the lead in Sitges"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. 2021.09.28<br /> Levon Aronian vs Anish Giri, Meltwater Tour Final (2021): B90 Sicilian, Najdorf<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2082788\">https://www.chessgames.com/perl/chessgame?gid=2082788</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "World Women's Team C'ship: India beat Armenia in third round"
       },
       {
-         "description" : "Welcome to the coverage of the fourth round of the Champions Chess Tour! As followers of the event know, we left off with Magnus Carlsen being the sole leader with seven match points, as he won all three matches, while GMs Wesley So, Hikaru Nakamu...",
+         "description" : "GM Vladislav Artemiev defeated&#38;nbsp;GM Magnus Carlsen convincingly in round four of the Champions Chess Tour. The world champion still leads, thanks to the bonus points he earned earlier in the tour. GM Wesley So is four points behind with five ro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-4",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/28/f1m2i2cfohdf9o31m0od2inseb0kzn",
          "pubDate" : "Tue, 28 Sep 2021 13:24:20 +0000",
          "title" : "Episode 245- GM Maxime Vachier-Lagrave"
-      },
-      {
-         "description" : "After five of seven rounds the TePe Sigeman & Co Tournament 2021 comes closer to the finish. With 4.0/5 Jorden Van Foreest is one full point ahead of Nils Grandelius and Nigel Short, who are sharing second and third place with 3.0/5 each. With 2.5/5 Vincent Keymer, who in round 5 was outplayed by Nihal Sarin, but won after his opponent blundered, is the best of the three young talents Keymer, Sarin and Jonas Bjerre. Round 6 starts at 14:00 CEST (8:00 ET, 12:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
-         "pubDate" : "Tue, 28 Sep 2021 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 6: Live"
       },
       {
          "description" : "In round 5 of the TePe Sigeman&Co tournament in Malm&ouml; the two young Grandmasters Vincent Keymer and Nihal Sarin had to play against each other. Nihal Sarin outplayed Keymer but then blundered his advantage away and even lost. Jorden van Foreest won against Etienne Bacrot and now leads with 4.0/5. Nils Grandelius and Nigel Short follow with 3.0/5 each. | Photos: Lars OA Hedlund",
@@ -2050,14 +2058,6 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty Four"
       },
       {
-         "description" : "Professor Wang-Sheng Lee co-authored the paper \"The Effects of Chess Instruction on Academic and Non-cognitive Outcomes\". This was *not* yet another paper to attempt to link academic success (ex: math scores) with chess education. Instead, the goal was to study the potential benefits in developing 'soft skills' such as risk aversion, patience, and creativity. A video interview that should not be missed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-education-in-children-reduces-their-risk-aversion",
-         "pubDate" : "Fri, 10 Sep 2021 10:00:00 +0100",
-         "title" : "Chess education in children reduces their risk aversion"
-      },
-      {
          "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a surging and inspired comeback in St Louis on Thursday and Friday nights after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. With just the ninth and final round to go, the Kaskparov had 5/8 and was still in contention for first prize. The 58-year-old's poor clock management and outdated openings ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2168,14 +2168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
          "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
          "title" : "Online Chess Olympiad: India have it easy on Day 1"
-      },
-      {
-         "description" : "European Senior Team Chess Championship 2021 concluded yesterday in Prague, Czech Republic. The event was played in two sections: 50+ and 65+. The Winner of 50+ category became the domestic team, team of Czech Republic with score of 17 match points. Team of Slovakia was second, lagging behind the Winners for only one match point. With 16 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2021-concluded/",
-         "pubDate" : "Wed, 08 Sep 2021 07:37:58 +0000",
-         "title" : "European Senior Team Chess Championship 2021 concluded"
       }
    ]
 }
