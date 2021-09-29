@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1362",
+         "pubDate" : "Wed, 29 Sep 2021 22:13:30 +0000",
+         "title" : "Magnus smacks down Hikaru to stretch Tour Finals lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1361",
+         "pubDate" : "Wed, 29 Sep 2021 21:40:54 +0000",
+         "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
+      },
+      {
+         "description" : "Azerbaijan and FIDE Americas qualified to the knockout stage of the World Women&#39;s Team Championship from their respective pools in contrasting fashion after an eventful fifth and final round of the Round-Robin stage of the tournament. Russia and G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r5",
+         "pubDate" : "Wed, 29 Sep 2021 14:37:34 -0700",
+         "title" : "FIDE World Women's Team Championship R5: Azerbaijan, FIDE Americas Scrape Through To Knockout Stage"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1360",
+         "pubDate" : "Wed, 29 Sep 2021 21:19:16 +0000",
+         "title" : "CFR Team and Georgia win the pools stage"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps two of Levon Aronian's games against Anish Giri from the 2021 Meltwater Champions Chess Tour Finals round robin. The mysterious masked Caleb is proctoring Aronian during this online event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-vs-giri-meltwater-tour-finals-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-vs-giri-meltwater-tour-finals-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 29 Sep 2021 21:02:31 +0000",
+         "title" : "Aronian vs. Giri at the Meltwater Tour Finals | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -146,7 +186,7 @@ news_feed (
          "title" : "World Women's Team Chess C'ship: India lose 1-3 to Russia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex is shocked! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-knight-pawn-vs-rook-its-not-winning-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" />",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex explains how each losing side did not lose! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-knight-pawn-vs-rook-its-not-winning-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/rook-knight-pawn-vs-rook-its-not-winning-insane-endgame-gm-alex-yermolinsky",
@@ -930,14 +970,6 @@ news_feed (
          "title" : "ChessBase Tactics app: Adrenaline Rush"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani poses key positions from Mikhail Tal's games. Find the best answers in these games spanning 1949-53, including the Latvian Championship and more. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbIJjjfn7e8.jpg?itok=hK_6mNLW",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tacticland-tals-coolest-games-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 23 Sep 2021 02:55:22 +0000",
-         "title" : "Tacticland: Tal's Coolest Games | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "PogChamps 4 presented by Coinbase was a huge hit filled with drama, incredible twists, and clippable moments. If you&#39;re still not ready to say goodbye to our beloved Pog participants, we have good news! You can now play against poggers Harry Mack,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "Election Addresses - AGM 2021"
       },
       {
-         "description" : "Wednesday, September 15, has been circled on the calendars of many chess fans around the world, as it is the 2021 FIDE Online Olympiad&#39;s final. Some have been hoping their favorite team would make it all the way to the last stage of the tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-online-olympiad-finals-russia-wins",
-         "pubDate" : "Wed, 15 Sep 2021 07:08:00 -0700",
-         "title" : "FIDE Online Olympiad Finals: Russia Wins"
-      },
-      {
          "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/norway-chess-karjakin-beats-the-world-champion-and-his-challenge/",
          "pubDate" : "Tue, 14 Sep 2021 08:17:37 +0000",
          "title" : "Norway Chess: Karjakin beats the World Champion and his challenger in two days"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Teaching Beginners with Classroom</strong> <strong>Webinar, <time datetime='2021-09-29T17:00:00' itemprop=\"startDate\">Wed 29 Sep 2021, 17.00</time>-<time datetime='2021-09-29T18:30:00' itemprop=\"endDate\">18.30</time> h UTC<span class=\"timezone\">+0200</span><br> <span itemprop='location'>Internet: <a href=\"https://buytickets.at/chesstech/578937\">https://buytickets.at/chesstech/578937</a></span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/chessable-classroom.png?v=1\" class=\"js-img\" title=\"Chessable Classroom chessable.com\" dat",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://buytickets.at/chesstech/578937",
-         "pubDate" : "Tue, 14 Sep 2021 09:02:32 +0100",
-         "title" : "Teaching Beginners with Classroom"
       },
       {
          "description" : "Sometimes, the trio king, bishop and pawn cannot win against a lone king: if the pawn is a rook pawn, the enemy king makes it to the corner and the bishop does not control the queening sqare of the pawn. Knowing this might help you to save positions that seem to be entire lost. In the diagram position it is White to move and draw. How?",
@@ -2176,22 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1323",
          "pubDate" : "Thu, 09 Sep 2021 10:08:01 +0000",
          "title" : "Caruana grabs the lead after Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1322",
-         "pubDate" : "Wed, 08 Sep 2021 21:46:22 +0000",
-         "title" : "Top Division: China and Russia lead"
-      },
-      {
-         "description" : " Jerome Works(April 1, 1955 September 5, 2021)Photo Jerome Works (Facebook) There is a unique power in humility. It has an endearing quality when one wears it. It puts us at ease but also empowers. It is the trait that Jerome Works carried with him until his last words this past Sunday, September 5th, when [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/\">Philadelphia loses Jerome Works (1955-2021)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/09/08/philadelphia-loses-jerome-works-1955-2021/",
-         "pubDate" : "Wed, 08 Sep 2021 19:56:47 +0000",
-         "title" : "Philadelphia loses Jerome Works (1955-2021)"
       }
    ]
 }
