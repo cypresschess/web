@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 5 of the Meltwater Champions Chess Tour the arguably best rapid and blitz players in the world face each other: Magnus Carlsen and Hikaru Nakamura - always a tense and exciting match-up. The other pairings in round five also promise excitement: Levon Aronian vs Teymour Radjabov, Wesley So vs Anish Giri, Shakhriyar Mamedyarov vs Vladislav Artemiev, and Jan-Krzysztof Duda vs Maxime Vachier-Lagrave. Follow the games live and with commentary by Daniel King and Peter Leko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Wed, 29 Sep 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 5: Live"
+      },
+      {
+         "description" : "Lara Barnes has been appointed as the Chief Arbiter of the Women's World Team Championship 2021 currently in progress in Sitges, Spain [see https://worldwomensteams.fide.com/]. A...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/lara-barnes-chief-arbiter-of-the-womens-world-team-championship-2021/",
+         "pubDate" : "Wed, 29 Sep 2021 14:27:44 +0000",
+         "title" : "Lara Barnes - Chief Arbiter of the Women's World Team Championship 2021!"
+      },
+      {
+         "description" : "The World Women's Team Championship in Sitges, Spain, starts with a group phase which will be played with twelve teams, divided into two pools. The four best teams in each pool qualify for the knockout stage. The fifth and final game of the preliminaries starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Wed, 29 Sep 2021 14:55:35 +0100",
+         "title" : "World Women's Team Championship, Day 3: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86615635.cms\" />In another new development in the never-ending infighting within the All India Chess Federation (AICF), the federation has suspended its joint secretary Atanu Lahiri for three years for anti-federation activity.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/atanu-lahiri-rejects-aicfs-suspension-move/articleshow/86615635.cms",
+         "pubDate" : "Wed, 29 Sep 2021 19:09:42 +0530",
+         "title" : "Atanu Lahiri rejects AICF's suspension move"
+      },
+      {
+         "description" : " There is a saying about passed pawns, in that they look scarier on the 2nd rank than they do on the 7th. However you do still need to keep an eye on them, as they can still get out of control. <br /> <b>mhummel (2095) - Connor5566 (1836) [C42]</b><br />ACTCA Tuesday Rapid - 28 Sep https://lichess.org/5KNMPwu0, 28.09.2021 <script>new PgnViewer( { boardName: \"game1275\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 dxc4 5.Bxc4 Nf6 6.Nf3 Be7 7.O-O O-O 8.Nc3 Bg4 9.Be3 Qd7 10.Ne5 Bxd1 11.Nxd7 Nbxd7 12.Rfxd1 Bd6 13.Rac1 Ng4 14.h3 Nxe3 15.fxe3 Nb6 16.Bd3 c6 17.a3 a5 18.Ne4 Be7 19.Nc5 Bxc5 20.Rxc5 Rfe8 21.Kf2 Nd5 22.e4 Nf6 23.Kf3 Rad8 24.Bb1 Rd7 25.Rxa5 Rde7 26.Re1 Rd8 27.Ra4 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/the-big-old-passer.html",
+         "pubDate" : "Wed, 29 Sep 2021 13:17:00 +0000",
+         "title" : "The big old passer"
+      },
+      {
          "description" : "In round four of the Meltwater Chess Champions Finals World Champion Magnus Carlsen suffered an outright 1-3 defeat against Vladislav Artemiev. Wesley So drew his rapid match against Hikaru Nakamura but then lost the blitz-playoff 0-2. In the overall standings Carlsen is still four points ahead of So. | Graphics: Meltwater Chess Champions Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-4",
          "pubDate" : "Tue, 28 Sep 2021 08:56:00 -0700",
          "title" : "Champions Chess Tour Finals Day 4: Artemiev Shines"
-      },
-      {
-         "description" : "The big surprise of round 4 of the Meltwater Chess Champions Tour finals was Magnus Carlsen's 1-3 loss against Vladislav Artemiev. Levon Aronian lost his first game against Anish Giri, but then bounced back and won the match 3-1. Teymour Radjabov defeated Jan-Krzysztof Duda 2.5-1.5 and that was also the result of the match between Shakhryar Mamedyarov and Maxime Vachier-Lagrave. Hikaru Nakamura and Wesley So tied the rapid match 2-2, but then Nakamura went on to win the blitz-tiebreak 2-0. In the overall standings Carlsen is still 4 points ahead of Wesley So. Full report to follow soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Tue, 28 Sep 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 4: Results and standings"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Planning for Victory (4)"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/09/Nominations.pdf#new_tab",
-         "pubDate" : "Tue, 14 Sep 2021 11:00:32 +0000",
-         "title" : "Nominations for Elections at the 2021 AGM"
-      },
-      {
          "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). The Hungarian star beat Aryan Tari with the white pieces in round 6. Magnus Carlsen also won his classical game, while Sergey Karjakin got the better of Nepomniachtchi in Armageddon. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2034,14 +2058,6 @@ news_feed (
          "title" : "Norway Chess: Armageddon"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a sideline in the Botvinnik Variation of the Semi Slav - 7.a4. He analyses a game in which Indian prodigy Gukesh had the white pieces, and pays special attention to a 2019 predecessor in which Daniil Dubov beat Anish Giri with white. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-botvinnik-variation-of-the-semi-slav",
-         "pubDate" : "Fri, 10 Sep 2021 13:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Botvinnik Variation in the Semi-Slav"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2021",
          "pubDate" : "Wed, 8 Sep 2021 19:37:00 +0400",
          "title" : "Champions Showdown 9LX 2021 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86040429.cms\" />India had a fruitful day at the office as they won two and drew one as the Division 1 Pool B clashes commenced on Wednesday. India beat Egypt and Sweden 6-0 and 4-2 respectively. The India-France encounter ended 3-3.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-have-it-easy-on-day-1/articleshow/86040429.cms",
-         "pubDate" : "Wed, 08 Sep 2021 20:20:26 +0530",
-         "title" : "Online Chess Olympiad: India have it easy on Day 1"
       }
    ]
 }
