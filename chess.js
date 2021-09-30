@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani 2021.09.29<br /> Jeffery Xiong vs M Amin Tabatabaei, Biel Master Open (2019): E07 Catalan, closed, 6...Nbd7<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1968122\">https://www.chessgames.com/perl/chessgame?gid=1968122</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 30 Sep 2021 00:02:33 +0000",
+         "title" : "Your Jungle Guide to Unbalancing Your Opponents - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r5",
-         "pubDate" : "Wed, 29 Sep 2021 14:37:34 -0700",
+         "pubDate" : "Wed, 29 Sep 2021 14:37:00 -0700",
          "title" : "FIDE World Women's Team Championship R5: Azerbaijan, FIDE Americas Scrape Through To Knockout Stage"
       },
       {
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-vs-giri-meltwater-tour-finals-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 29 Sep 2021 21:02:31 +0000",
          "title" : "Aronian vs. Giri at the Meltwater Tour Finals | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "In round 5, Magnus Carlsen recovered from yesterday&#39;s loss and remains the sole leader, while Maxime Vachier-Lagrave, Wesley So, and Teimour Radjabov keep chasing him. Today was very entertaining, as four matches were decided within the first four...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-5",
+         "pubDate" : "Wed, 29 Sep 2021 12:41:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 5: Carlsen Recovers"
       },
       {
          "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
@@ -266,7 +282,7 @@ news_feed (
          "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani poses key positions from Mikhail Tal&#039;s games. Find the best answers in these games spanning a time TBD. 2021.09.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-d",
+         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani teaches a chess class based on her new book. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/updated-master-class-magnus-carlsen",
          "pubDate" : "Thu, 23 Sep 2021 22:37:32 +0100",
          "title" : "Updated: Master Class Magnus Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess class on a topic of his choice. 2021.09.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgames-pawn-7th-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-endgames-pawn-7th-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Thu, 23 Sep 2021 20:56:23 +0000",
-         "title" : "Rook Endgames - Pawn to the 7th | Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris shows how Black can get good attacking chances in the Four Knights Variation of the English Opening, using one of his own games from the Dutch Team Championship as example. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-481-r-rapport-vs-s-karjakin",
          "pubDate" : "Wed, 15 Sep 2021 19:00:00 +0100",
          "title" : "Game of the Week 481: R. Rapport vs S. Karjakin"
-      },
-      {
-         "description" : "GM Rustam Khusnutdinov won Titled Tuesday on September 14 by a full point with a score of 10.5/11. GM Rasmus Svane scored a sole second-place finish with 9.5/11 ahead of six players tied with 9/11. In third on tiebreaks was GM Arseniy Nesterov and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/khusnutdinov-wins-september-14-titled-tuesday",
-         "pubDate" : "Wed, 15 Sep 2021 10:53:23 -0700",
-         "title" : "Khusnutdinov Wins September 14 Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86240272.cms\" />India's run at the FIDE online Olympiad concluded with a loss to USA in the semifinals on Tuesday night. The defeat meant that India will settle for the bronze medal along with China who had lost to Russia in the other semifinal.",
