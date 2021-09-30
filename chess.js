@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jorden Van Foreest had won the TePe Sigeman&Co tournament with one round to spare, but in the last round he suffered his only defeat against Gawain Jones. Vincent Keymer, too, was ambitious in the final round, and defeated Nils Grandelius to share second to fourth place with Gawain Jones and Nigel Short. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sigeman-co-van-foreest-loses-and-wins-keymer-scores",
+         "pubDate" : "Thu, 30 Sep 2021 12:48:25 +0100",
+         "title" : "Sigeman&Co: Van Foreest loses and wins, Keymer scores"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1363",
+         "pubDate" : "Thu, 30 Sep 2021 10:25:16 +0000",
+         "title" : "2021 FIDE Chess.com Grand Swiss and the Women's Grand Swiss: the lists of players announced"
+      },
+      {
+         "description" : "After a 1-3 loss against Vladislav Artemiev in round 4 of the Meltwater Champions Chess Tour, Magnus Carlsen bounced back in round 5 and defeated Hikaru Nakamura 2.5-0.5. Before the free day on Thursday, 30 September, Carlsen is now again 5 points ahead of Wesley So in the overall standings. So drew his rapid match against Anish Giri and then went on to win the blitz-tiebreak 1.5-0.5. Full report to follow soon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Thu, 30 Sep 2021 10:00:00 +0100",
+         "title" : "Champions Chess Tour, Round 5: Results and standings"
+      },
+      {
+         "description" : "The 8th Uppsala Young Champions will be played in Uppsala, Sweden from 29 October 3 November 2021. It is a tournament for players born...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/8th-uppsala-young-champions/",
+         "pubDate" : "Thu, 30 Sep 2021 08:24:10 +0000",
+         "title" : "8th Uppsala Young Champions"
+      },
+      {
+         "description" : "The FIDE Arbiters' Commission will be conducting further FIDE Online/Hybrid Arbiters Training during the two weeks commencing Monday 4th October. The deadline for registration and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-online-hybrid-arbiters-training/",
+         "pubDate" : "Thu, 30 Sep 2021 08:15:21 +0000",
+         "title" : "FIDE Online/Hybrid Arbiters Training"
+      },
+      {
+         "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
+         "pubDate" : "Thu, 30 Sep 2021 01:32:45 -0500",
+         "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
+      },
+      {
          "description" : "Since the earliest days of Fritz, there have been automated ways to analyze games, and over time the sheer variety of tools and options has expanded to cover just about every choice, from the shallow blunder check to the deep full game analysis. But calling the blunder check shallow is to not do it justice, so see why it deserves to become your go-to tool for all your online games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +74,6 @@ news_feed (
          "title" : "Magnus smacks down Hikaru to stretch Tour Finals lead"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1361",
-         "pubDate" : "Wed, 29 Sep 2021 21:40:54 +0000",
-         "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
-      },
-      {
          "description" : "Azerbaijan and FIDE Americas qualified to the knockout stage of the World Women&#39;s Team Championship from their respective pools in contrasting fashion after an eventful fifth and final round of the Round-Robin stage of the tournament. Russia and G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -46,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1360",
-         "pubDate" : "Wed, 29 Sep 2021 21:19:16 +0000",
+         "pubDate" : "Wed, 29 Sep 2021 21:18:16 +0000",
          "title" : "CFR Team and Georgia win the pools stage"
       },
       {
@@ -58,7 +98,15 @@ news_feed (
          "title" : "Aronian vs. Giri at the Meltwater Tour Finals | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "In round 5, Magnus Carlsen recovered from yesterday&#39;s loss and remains the sole leader, while Maxime Vachier-Lagrave, Wesley So, and Teimour Radjabov keep chasing him. Today was very entertaining, as four matches were decided within the first four...",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1361",
+         "pubDate" : "Wed, 29 Sep 2021 20:50:54 +0000",
+         "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
+      },
+      {
+         "description" : "In round five of the Meltwater Champions Chess Tour Finals GM Magnus Carlsen recovered from yesterday&#39;s loss and remains the sole leader, while GMs Maxime Vachier-Lagrave, Wesley So, and Teimour Radjabov keep chasing him. Today was very entertaini...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-5",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
          "pubDate" : "Wed, 29 Sep 2021 12:40:26 -0500",
          "title" : "Koneru Humpy's return to offline chess curtailed due to Covaxin restrictions"
-      },
-      {
-         "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
-         "pubDate" : "Wed, 29 Sep 2021 12:38:11 -0500",
-         "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
       },
       {
          "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -114,28 +154,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The power of swindling in chess"
       },
       {
-         "description" : "In round 5 of the Meltwater Champions Chess Tour the arguably best rapid and blitz players in the world face each other: Magnus Carlsen and Hikaru Nakamura - always a tense and exciting match-up. The other pairings in round five also promise excitement: Levon Aronian vs Teymour Radjabov, Wesley So vs Anish Giri, Shakhriyar Mamedyarov vs Vladislav Artemiev, and Jan-Krzysztof Duda vs Maxime Vachier-Lagrave. Follow the games live and with commentary by Daniel King and Peter Leko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Wed, 29 Sep 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 5: Live"
-      },
-      {
          "description" : "Lara Barnes has been appointed as the Chief Arbiter of the Women's World Team Championship 2021 currently in progress in Sitges, Spain [see https://worldwomensteams.fide.com/]. A...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/lara-barnes-chief-arbiter-of-the-womens-world-team-championship-2021/",
          "pubDate" : "Wed, 29 Sep 2021 14:27:44 +0000",
          "title" : "Lara Barnes - Chief Arbiter of the Women's World Team Championship 2021!"
-      },
-      {
-         "description" : "The World Women's Team Championship in Sitges, Spain, starts with a group phase which will be played with twelve teams, divided into two pools. The four best teams in each pool qualify for the knockout stage. The fifth and final game of the preliminaries starts at 15:00 CEST (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Wed, 29 Sep 2021 14:55:35 +0100",
-         "title" : "World Women's Team Championship, Day 3: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86615635.cms\" />In another new development in the never-ending infighting within the All India Chess Federation (AICF), the federation has suspended its joint secretary Atanu Lahiri for three years for anti-federation activity.",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Norway Chess: Rapport wins again"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#new_tab",
-         "pubDate" : "Wed, 15 Sep 2021 14:47:19 +0000",
-         "title" : "Election Addresses - AGM 2021"
-      },
-      {
          "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-wonderful-world-of-chess-machine-emulators",
          "pubDate" : "Wed, 15 Sep 2021 10:00:00 +0100",
          "title" : "The wonderful world of chess machine emulators"
-      },
-      {
-         "description" : "The International Children and Youth Festival «ChessYes » is an official side event to the FIDE Chess.com Grand Swiss and Women's Grand Swiss 2021 to be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-children-and-youth-festival/",
-         "pubDate" : "Wed, 15 Sep 2021 08:06:09 +0000",
-         "title" : "International Children and Youth Festival"
       },
       {
          "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/a-very-fine-line.html",
          "pubDate" : "Thu, 09 Sep 2021 12:21:00 +0000",
          "title" : "A very fine line"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1323",
-         "pubDate" : "Thu, 09 Sep 2021 10:08:01 +0000",
-         "title" : "Caruana grabs the lead after Day 1"
       }
    ]
 }
