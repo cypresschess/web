@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russia and Georgia reached the semifinals of the 2021 World Women&#39;s Team Championship with solid performances, while India and Ukraine overcame their rivals in varying levels of difficulty and drama during the quarterfinals. While India&#39;s victory ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-quarterfinals",
+         "pubDate" : "Thu, 30 Sep 2021 16:21:01 -0700",
+         "title" : "FIDE World Women's Team Championship Quarterfinals: Russia, Georgia, Ukraine, India Reach Semifinals"
+      },
+      {
+         "description" : "The 2021 FIDE Chess.com Grand Swiss and the inaugural Women&#39;s Grand Swiss are approaching fast, with the first games starting on October 27! The events will gather the best players in the world to compete in a Swiss tournament for two spots in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2021-fide-chesscom-grand-swiss",
+         "pubDate" : "Thu, 30 Sep 2021 15:56:04 -0700",
+         "title" : "Announcing The 2021 FIDE Chess.com Grand Swiss In Riga"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s announcement of <strong>Establishment Labs</strong>, a producer of breast implants, as sponsor of women's chess is drawing lots of criticism. <strong>Lichess</strong> <a href=\"https://lichess.org/blog/YVWlhhIAACUAp9eF/fide-picks-breast-implants-as-a-sponsor-for-womens-chess\">gathered statements</a> from female players, mostly anonymous. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/breast-implant-sponsorship-backfires/",
+         "pubDate" : "Thu, 30 Sep 2021 22:50:46 +0100",
+         "title" : "Breast implant sponsorship backfires"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -370,7 +394,7 @@ news_feed (
          "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani teaches a chess class based on her new book. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/f",
+         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani teaches a chess class based on her new book, featuring Vishy Anand and Amin Tabatabaei. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"http",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/mcct-finals-2-carlsen-extends-lead-after-armageddon-win",
          "pubDate" : "Mon, 27 Sep 2021 11:49:05 +0000",
          "title" : "MCCT Finals 2: Carlsen extends lead after Armageddon win"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1351\">has announced</a> a partnership with <strong>Establishment Labs</strong>, producer of <strong>Motiva</strong> silicone breast implants, throughout 2022, which has been declared the <strong>Year of Women in Chess</strong>. The Costa Rican company has seen its <a href=\"https://www.nasdaq.com/de/market-activity/stocks/esta\">share price on the Nasdaq</a> skyrocket in the early summer, even though it is not yet profitable. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/motiva-sponsors-womens-chess/",
-         "pubDate" : "Mon, 27 Sep 2021 12:06:05 +0100",
-         "title" : "Motiva sponsors women's chess"
       },
       {
          "description" : "",
@@ -1706,22 +1722,6 @@ news_feed (
          "title" : "European Club Cup 2021 starts"
       },
       {
-         "description" : "The Norway Chess tournament is wide open again as leader GM Richard Rapport lost his first classical game, to runner-up GM Magnus Carlsen. The Hungarian GM still leads but only by half a point, so anything is possible in the final two rounds. In...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-8-carlsen-rapport",
-         "pubDate" : "Wed, 15 Sep 2021 16:37:00 -0700",
-         "title" : "Norway Chess R8: Carlsen Beats Rapport In Top Clash"
-      },
-      {
-         "description" : "The PRO Chess League: Arena Royale is right around the corner, with action beginning on September 16. Be sure to catch your favorite PCL teams in battle during this exciting eight-day event! The Saint Louis Arch Bishops are loaded as usual. They...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/get-ready-for-pcl-arena-royale",
-         "pubDate" : "Wed, 15 Sep 2021 15:22:00 -0700",
-         "title" : "Get Ready For PCL: Arena Royale"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rebranding-kerala-the-knight-fight-one-sight/",
          "pubDate" : "Fri, 10 Sep 2021 06:24:03 +0000",
          "title" : "Rebranding Kerala"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1326",
-         "pubDate" : "Thu, 09 Sep 2021 22:48:01 +0000",
-         "title" : "Invitation to support FIDE's initiatives of social value"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1325",
-         "pubDate" : "Thu, 09 Sep 2021 22:18:25 +0000",
-         "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
       }
    ]
 }
