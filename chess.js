@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since the earliest days of Fritz, there have been automated ways to analyze games, and over time the sheer variety of tools and options has expanded to cover just about every choice, from the shallow blunder check to the deep full game analysis. But calling the blunder check shallow is to not do it justice, so see why it deserves to become your go-to tool for all your online games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/blunder-check-your-quick-and-easy-game-analysis",
+         "pubDate" : "Thu, 30 Sep 2021 07:17:26 +0100",
+         "title" : "Blunder Check - Your quick and easy game analysis"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani 2021.09.29<br /> Jeffery Xiong vs M Amin Tabatabaei, Biel Master Open (2019): E07 Catalan, closed, 6...Nbd7<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1968122\">https://www.chessgames.com/perl/chessgame?gid=1968122</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
          "pubDate" : "Fri, 10 Sep 2021 20:55:00 +0100",
          "title" : "Champions Showdown: Chess 9LX - Dominguez wins"
-      },
-      {
-         "description" : "Leinier Dominguez scored a perfect 3 out of 3 on the second day of action at the Champions Showdown Tournament, leapfrogging Fabiano Caruana atop the standings table with three rounds to go. Meanwhile, Garry Kasparov collected 2&frac12; points and climbed to shared third place! | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-2",
-         "pubDate" : "Fri, 10 Sep 2021 17:20:00 +0100",
-         "title" : "Chess 9LX: Dominguez leads, Kasparov on a roll"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
