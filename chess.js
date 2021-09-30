@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After a 1-3 loss against Vladislav Artemiev in round 4 of the Meltwater Champions Chess Tour, Magnus Carlsen bounced back in round 5 and defeated Hikaru Nakamura 2.5-0.5. Before the free day on Thursday, 30 September, Carlsen is now again 5 points ahead of Wesley So in the overall standings. So drew his rapid match against Anish Giri and then went on to win the blitz-tiebreak 1.5-0.5. Full report to follow soon.",
+         "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Thu, 30 Sep 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 5: Results and standings"
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-3-h4-against-the-king-s-indian-and-gruenfeld",
+         "pubDate" : "Thu, 30 Sep 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: 3.h4 against the King's Indian and Gr&uuml;nfeld"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86656118.cms\" />India drew 2-2 against Kazakhstan in the first match of the quarterfinals of the FIDE World Women's Team Chess Championship on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-kazakhstan-draw-1st-match-of-quarter-final/articleshow/86656118.cms",
+         "pubDate" : "Thu, 30 Sep 2021 21:55:04 +0530",
+         "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
+      },
+      {
+         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
+         "pubDate" : "Thu, 30 Sep 2021 10:46:53 -0500",
+         "title" : "Koneru Humpy's return to over the board chess curtailed due to Covaxin restrictions"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> All US top players except Hikaru Nakamura <a href=\"https://www.chess.com/article/view/us-chess-championships\">will compete</a> on 6-18 October at the <strong>Saint Louis Chess Club</strong> for $194,000, of which $50,000 goes to the winner, at the <strong>US Championship</strong>. The prize-fund in the parallely held women's competition is $100,000. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/only-nakamura-misses-us-championship/",
+         "pubDate" : "Thu, 30 Sep 2021 16:25:45 +0100",
+         "title" : "Only Nakamura misses US championship"
       },
       {
          "description" : "Magnus Carlsen ended Hikaru Nakamura's brief reign as the top scorer in the Meltwater Champions Chess Tour Finals with a commanding 2.5:0.5 victory over the US star in Round 5. The win saw Magnus extend his overall lead over Wesley So to 5 points, but it could easily have been 7, since Anish Giri was on the verge of beating Wesley before committing a huge blunder and going on to lose a playoff. Teimour Radjabov beat Levon Aronian to catch his rival in 3rd place, while there were also wins for Maxime Vachier-Lagrave and Vladislav Artemiev.",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
-         "pubDate" : "Thu, 30 Sep 2021 15:16:24 +0100",
+         "pubDate" : "Thu, 30 Sep 2021 15:34:12 +0100",
          "title" : "\"Noone can remain an indifferent bystander any more\""
       },
       {
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-5",
          "pubDate" : "Wed, 29 Sep 2021 12:41:00 -0700",
          "title" : "Champions Chess Tour Finals Day 5: Carlsen Recovers"
-      },
-      {
-         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
-         "pubDate" : "Wed, 29 Sep 2021 12:40:26 -0500",
-         "title" : "Koneru Humpy's return to offline chess curtailed due to Covaxin restrictions"
       },
       {
          "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
