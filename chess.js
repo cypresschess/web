@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a 1-3 loss against Vladislav Artemiev in round 4 of the Meltwater Champions Chess Tour, Magnus Carlsen bounced back in round 5 and defeated Hikaru Nakamura 2.5-0.5. Before the free day on Thursday, 30 September, Carlsen is now again 5 points ahead of Wesley So in the overall standings. So drew his rapid match against Anish Giri and then went on to win the blitz-tiebreak 1.5-0.5. Full report to follow soon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Thu, 30 Sep 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 5: Results and standings"
+      },
+      {
+         "description" : "Magnus Carlsen ended Hikaru Nakamura's brief reign as the top scorer in the Meltwater Champions Chess Tour Finals with a commanding 2.5:0.5 victory over the US star in Round 5. The win saw Magnus extend his overall lead over Wesley So to 5 points, but it could easily have been 7, since Anish Giri was on the verge of beating Wesley before committing a huge blunder and going on to lose a playoff. Teimour Radjabov beat Levon Aronian to catch his rival in 3rd place, while there were also wins for Maxime Vachier-Lagrave and Vladislav Artemiev.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-5-carlsen-dominates-nakamura",
+         "pubDate" : "Thu, 30 Sep 2021 15:21:36 +0000",
+         "title" : "MCCT Finals 5: Carlsen dominates Nakamura"
+      },
+      {
+         "description" : "Magnus Carlsen again increased his lead in the Champions Chess Tour final. In his round five match against Hikaru Nakamura Carlsen demonstrated impressive endgame technique by winning two instructive rook endings which brought him a 2.5-0.5 victory. Wesley So, who can still hope to catch Carlsen, was on the brink of defeat against Anish Giri, when the Dutch number 1 blundered the crucial game away. | Graphics: Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-carlsen-beats-nakamura-and-increases-his-lead",
+         "pubDate" : "Thu, 30 Sep 2021 15:49:47 +0100",
+         "title" : "Champions Chess Tour Final: Carlsen beats Nakamura and increases his lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While cheating seems to decline, its prevention will soon involve everyone. <em>Stefan L&ouml;ffler</em> reports on a Work4Chess conference session. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.1920.jpeg\" title=\"Age distribution of respondents who admitted to have cheated at least once. table: David Smerdon\" data-title=\"Age distribution of respondents who admitted to have cheated at least once. (table: David Smerdon)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.480.jpeg\" alt=\"Age distr",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
+         "pubDate" : "Thu, 30 Sep 2021 15:16:24 +0100",
+         "title" : "\"Noone can remain an indifferent bystander any more\""
+      },
+      {
+         "description" : "After the preliminaries, the World Women's Team Championship in Sitges, Spain, now enters the knockout stage, in which eight teams fight against each other. Each match consists of two rounds (starting at 15:00 and 18:00), followed by a blitz play-off (20:30 CEST) in case of a tie. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Thu, 30 Sep 2021 14:45:00 +0100",
+         "title" : "World Women's Team Championship, Day 4: Live"
+      },
+      {
+         "description" : " During the current school holidays, the ACT Junior Chess League is running a number of online events, for the benefit of our local players. One of the (small) outcomes is that some of our less experienced players are starting to play what could be termed 'correct' chess moves. By this I mean moves that look sensible to other chess players, as opposed to hanging pawns, moving h pawns before castling, developing rooks via h3 etc Then I came across this ... <br /> <b>Carlsen, Magnus - Duda, Jan-Krysztof </b><br />Meltwater Champions Final 2021 <script>new PgnViewer( { boardName: \"game1276\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 c5 6.e3 cxd4 7.exd4 Nxc3 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/09/correct-chess.html",
+         "pubDate" : "Thu, 30 Sep 2021 13:06:00 +0000",
+         "title" : "Correct chess?"
+      },
+      {
          "description" : "Jorden Van Foreest had won the TePe Sigeman&Co tournament with one round to spare, but in the last round he suffered his only defeat against Gawain Jones. Vincent Keymer, too, was ambitious in the final round, and defeated Nils Grandelius to share second to fourth place with Gawain Jones and Nigel Short. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1363",
          "pubDate" : "Thu, 30 Sep 2021 10:25:16 +0000",
          "title" : "2021 FIDE Chess.com Grand Swiss and the Women's Grand Swiss: the lists of players announced"
-      },
-      {
-         "description" : "After a 1-3 loss against Vladislav Artemiev in round 4 of the Meltwater Champions Chess Tour, Magnus Carlsen bounced back in round 5 and defeated Hikaru Nakamura 2.5-0.5. Before the free day on Thursday, 30 September, Carlsen is now again 5 points ahead of Wesley So in the overall standings. So drew his rapid match against Anish Giri and then went on to win the blitz-tiebreak 1.5-0.5. Full report to follow soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Thu, 30 Sep 2021 10:00:00 +0100",
-         "title" : "Champions Chess Tour, Round 5: Results and standings"
       },
       {
          "description" : "The 8th Uppsala Young Champions will be played in Uppsala, Sweden from 29 October 3 November 2021. It is a tournament for players born...",
@@ -720,14 +760,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
          "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
          "title" : "Slowly, slowly"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Russia Wizards</strong> won the <strong>Arena Royale</strong> season of the <strong>Chess.com</strong>-hosted <strong>PRO Chess League</strong> with <a href=\"https://www.chess.com/news/view/2021-pro-chess-league-finals\">a final win</a> against the <strong>Saint Louis Arch Bishops</strong>. Challenger <strong>Ian Nepomniachtchi</strong> was in good form throughout and scored 3,5/4 in the final, as did his team-mate <strong>Alexey Sarana</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepos-team-wins-arena-royale/",
-         "pubDate" : "Sat, 25 Sep 2021 12:40:04 +0100",
-         "title" : "Nepo's team wins Arena Royale"
       },
       {
          "description" : "It's Carlsen-Duda, So-Mamedyarov, Aronian-MVL, Radjabov-Artemiev and Giri-Nakamura today as the $300,000 Meltwater Champions Chess Tour Finals begin. The event is being played online on the chess24 Playzone, but there's a hybrid element, since Magnus Carlsen, Jan-Krzysztof Duda and Anish Giri are all in one venue in Oslo. Peter Leko returns to commentate, and will be joined by Lawrence Trent, with Danny King and Simon Williams to follow for later rounds. Don't miss all the action here on chess24 from 11:00 ET/17:00 CEST/20:30 IST!",
@@ -1578,14 +1610,6 @@ news_feed (
          "title" : "Norway Chess R9: Carlsen Leads After 4th Straight Win; Firouzja Enters World's Top 10"
       },
       {
-         "description" : "The chess world has gotten used to seeing Magnus Carlsen appear on TV shows, but the world champion appearing in a reality show is a first. On Friday VG TV releases \"Ikke lov &aring; le p&aring; hytta\" (\"Don't laugh at the cabin\"), where Carlsen is among 12 of Norway's most funny comedians and influencers are stuck together in a cabin. There's only one rule: You cannot laugh. chess24 got an exclusive peek into it.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-appears-in-hilarious-reality-tv-show",
-         "pubDate" : "Thu, 16 Sep 2021 18:27:59 +0000",
-         "title" : "Magnus Carlsen appears in hilarious reality TV show"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2082,22 +2106,6 @@ news_feed (
          "title" : "Russia advances to the playoffs with a perfect score"
       },
       {
-         "description" : "In this week's show, GM Daniel King focuses on the Spanish Opening, using a game between Levon Aronian and Magnus Carlsen as his main example and going through some of his own games to explain his take on the popular setup. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-spanish",
-         "pubDate" : "Fri, 10 Sep 2021 23:15:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Spanish"
-      },
-      {
-         "description" : "Ten grandmasters, including living legend Garry Kasparov, are the protagonists of Champions Showdown: Chess 9LX, a rapid tournament played at the Saint Louis Chess Club. The event, taking place on September 8-10, is being played in Chess 9LX style, also known as Fischer Random, with a $150,000 total prize fund. The action kicks off at 14.00 local time (21.00 CEST, 15.00 ET). | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-live",
-         "pubDate" : "Fri, 10 Sep 2021 20:55:00 +0100",
-         "title" : "Champions Showdown: Chess 9LX - Dominguez wins"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2160,38 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1325",
          "pubDate" : "Thu, 09 Sep 2021 22:18:25 +0000",
          "title" : "Kazakhstan, Russia and USA on 100% heading into the last three rounds"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86069700.cms\" />India looked in good form for the second day in succession at the ongoing FIDE online Olympiad on Thursday. India, part of Division 1 Pool B in the competition, won all their matches in the day.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-chess-olympiad-india-continue-strong-show-on-day-2/articleshow/86069700.cms",
-         "pubDate" : "Thu, 09 Sep 2021 20:15:46 +0530",
-         "title" : "Online Chess Olympiad: India continue strong show on Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1324",
-         "pubDate" : "Thu, 09 Sep 2021 13:42:42 +0000",
-         "title" : "\"Chess for children with ASD\" seminar announced"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen is playing in his last big event before the World Chess Championship Match and appears out of form, almost losing to Alireza Firouzja and Aryan Tari in <a href=\"https://norwaychess.no/en/\">Norway Chess Tournament</a>. He barely survived both games on luck, according to Twitter commentary. Carlsen will have to level up his game before facing Nepo in less than 80 days. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/241630324_4424199000972774_5564030703167909647_n-min.jpg\" width=\"2000\" height=\"1255\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes</div> </div> Carlsen probably sees Norway Chess, a tournament he won many ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/is-carlsen-out-of-form-in-norway-chess/",
-         "pubDate" : "Thu, 09 Sep 2021 13:05:59 +0000",
-         "title" : "Is Carlsen out of Form in Norway Chess?"
-      },
-      {
-         "description" : "Another game where the difference between winning and drawing was decided by a single move. In this case it was 29.Qc2 (which loses) versus 29.Qd8 which would have lead to a draw.<div><br /></div><div><br /></div><b>Jumabayev,Rinat (2562) - Ding,Liren (2836) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (4.1), 09.09.2021 <script>new PgnViewer( { boardName: \"game1270\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 Bf5 6.Qb3 Qc8 7.Ngf3 c4 8.Qd1 e6 9.Be2 h6 10.b3 b5 11.bxc4 bxc4 12.Ne5 Nxe5 13.Bxe5 Be7 14.g4 Bg6 15.h4 Qc6 16.Rg1 Bd6 17.h5 Bh7 18.g5 hxg5 19.h6 Kf8 20.Nxc4 Be7 21.hxg7+ Kxg7 22.Nd2 Qxc3 23.Rc1 Qa3 24.Rc7 Rac8 25.Rxg5+ Bg6 26.Qc2 Rxc7 27.Qxc7 Rh1+",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/a-very-fine-line.html",
-         "pubDate" : "Thu, 09 Sep 2021 12:21:00 +0000",
-         "title" : "A very fine line"
       }
    ]
 }
