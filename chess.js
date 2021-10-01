@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2021",
+         "pubDate" : "Fri, 01 Oct 2021 13:00:00 +0100",
+         "title" : "FIDE Ratings: October 2021"
+      },
+      {
+         "description" : "The new ChessBase Magazine Extra #203 is out - with two instructive and interesting videos: Jan Werle examines what Carlsen's 4.c4 in the Caro-Kann Advance Variation is all about and Robert Ris presents a highly topical weapon against the Sicilian Taimanov. Total playing time of the two videos: over an hour. The issue also offers lots of opening recommendations and analyses by Romain Edouard, Michal Krasenkow, Sagar Shah, Spyridon Kapnisis and Tanmay Srinath. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine and is available as a single issue or by subscription (6 issues per year). Available on DVD or as download. Don't miss it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-203",
+         "pubDate" : "Fri, 01 Oct 2021 12:00:00 +0100",
+         "title" : "New: CBM Extra #203"
+      },
+      {
+         "description" : " While I promised that we would continue playing through the beginner's game we started a few weeks ago, I've decided to address a subject that is key to all phases of the game and is absolutely necessary for improvement. The subject matter of this article came up this past week as I took over a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\">A Foundation for Beginners Thirty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-six/",
+         "pubDate" : "Fri, 01 Oct 2021 10:00:26 +0000",
+         "title" : "A Foundation for Beginners Thirty Six"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1364",
+         "pubDate" : "Fri, 01 Oct 2021 09:52:08 +0000",
+         "title" : "CFR Team, Georgia, Ukraine and India advance to semis"
+      },
+      {
+         "description" : "This year's British Championships will start on Saturday 2nd October and will run for two weeks at venues in Hull and Milton Keynes. You can...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2021-2/",
+         "pubDate" : "Fri, 01 Oct 2021 08:31:40 +0000",
+         "title" : "British Chess Championships 2021"
+      },
+      {
          "description" : "Ratings are full of mysteries and by no means coherent. Sometimes, you suspect an inflation of ratings, sometimes a deflation. In some countries ratings are distorted by too many young players - or not enough adult players. And how did the lack of tournaments in the Covid era affect the Elo ratings? Walter Wolf has gathered a lot of statistics and tries to draw conclusions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/oct/01/chess-carlsen-heads-for-tour-win-as-nakamura-moonlighting-sparks-debate",
          "pubDate" : "Fri, 01 Oct 2021 07:00:23 +0000",
          "title" : "Chess: Carlsen heads for Tour win as Nakamura moonlighting sparks debate"
+      },
+      {
+         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
+         "pubDate" : "Fri, 1 Oct 2021 01:31:24 -0500",
+         "title" : "Koneru Humpy's return to over the board chess curtailed due to Covaxin restrictions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86673078.cms\" />D Harika and Mary Ann Gomes played key roles as India beat Kazakhstan 1.5-0.5 in the quarterfinals of the FIDE World Women's Team Chess Championship.",
@@ -46,8 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-quarterfinals",
-         "pubDate" : "Thu, 30 Sep 2021 16:21:01 -0700",
-         "title" : "FIDE World Women's Team Championship Quarterfinals: Russia, Georgia, Ukraine, India Reach Semifinals"
+         "pubDate" : "Thu, 30 Sep 2021 16:21:00 -0700",
+         "title" : "FIDE World Women's Team Championship QF: Russia, Georgia, Ukraine, India Reach Semifinals"
       },
       {
          "description" : "The 2021 FIDE Chess.com Grand Swiss and the inaugural Women&#39;s Grand Swiss are approaching fast, with the first games starting on October 27! The events will gather the best players in the world to compete in a Swiss tournament for two spots in the...",
@@ -82,14 +130,6 @@ news_feed (
          "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
       },
       {
-         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
-         "pubDate" : "Thu, 30 Sep 2021 10:46:53 -0500",
-         "title" : "Koneru Humpy's return to over the board chess curtailed due to Covaxin restrictions"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> All US top players except Hikaru Nakamura <a href=\"https://www.chess.com/article/view/us-chess-championships\">will compete</a> on 6-18 October at the <strong>Saint Louis Chess Club</strong> for $194,000, of which $50,000 goes to the winner, at the <strong>US Championship</strong>. The prize-fund in the parallely held women's competition is $100,000. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
          "pubDate" : "Thu, 30 Sep 2021 15:34:12 +0100",
          "title" : "\"Noone can remain an indifferent bystander any more\""
-      },
-      {
-         "description" : "After the preliminaries, the World Women's Team Championship in Sitges, Spain, now enters the knockout stage, in which eight teams fight against each other. Each match consists of two rounds (starting at 15:00 and 18:00), followed by a blitz play-off (20:30 CEST) in case of a tie. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Thu, 30 Sep 2021 14:45:00 +0100",
-         "title" : "World Women's Team Championship, Day 4: Live"
       },
       {
          "description" : " During the current school holidays, the ACT Junior Chess League is running a number of online events, for the benefit of our local players. One of the (small) outcomes is that some of our less experienced players are starting to play what could be termed 'correct' chess moves. By this I mean moves that look sensible to other chess players, as opposed to hanging pawns, moving h pawns before castling, developing rooks via h3 etc Then I came across this ... <br /> <b>Carlsen, Magnus - Duda, Jan-Krysztof </b><br />Meltwater Champions Final 2021 <script>new PgnViewer( { boardName: \"game1276\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 c5 6.e3 cxd4 7.exd4 Nxc3 ",
@@ -274,7 +306,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The power of swindling in chess"
       },
       {
-         "description" : "Lara Barnes has been appointed as the Chief Arbiter of the Women's World Team Championship 2021 currently in progress in Sitges, Spain [see https://worldwomensteams.fide.com/]. A...",
+         "description" : "Lara Barnes has been appointed as the Chief Arbiter of the Women's World Team Championship 2021 currently in progress in Sitges, Spain [see https://worldwomensteams.fide.com/]. This...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/lara-barnes-chief-arbiter-of-the-womens-world-team-championship-2021/",
@@ -1314,14 +1346,6 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #161: Carlsen and Capablanca"
       },
       {
-         "description" : "Entries and expressions of interest are welcome for the 1st Forest Hall Invitational, Newcastle upon Tyne, 25-29 October, 2021. The event comprises an IM/WGM/WIM norm...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/1st-forest-hall-invitational/",
-         "pubDate" : "Mon, 20 Sep 2021 15:55:54 +0000",
-         "title" : "1st Forest Hall Invitational"
-      },
-      {
          "description" : " After a few months concentrating on running online events, I recently made the effort to play a bit more. I've never been that great at (fast) online chess, and my most recent efforts have confirmed this. One issue (apart from lousy openings), is that it does take me a while to warm up, meaning I drop a few games early in events. After that it does get better, but we'd all be champions if you could ignore our losses! So for the moment I am cruising along at around 50%, but hopefully more practice will lead to more wins. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2122,14 +2146,6 @@ news_feed (
          "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
       },
       {
-         "description" : "Richard Rapport beat Alireza Firouzja in their round-4 classical encounter to increase his lead atop the standings of the Norway Chess Tournament. In the stellar contest of the day, Magnus Carlsen beat Ian Nepomniachtchi in the Armageddon decider after drawing the classical game out of a Berlin Defence. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r4",
-         "pubDate" : "Sat, 11 Sep 2021 03:40:00 +0100",
-         "title" : "Norway Chess: Carlsen beats Nepo in Armageddon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2144,30 +2160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-make-it-to-quarters-in-online-olympiad/articleshow/86096937.cms",
          "pubDate" : "Fri, 10 Sep 2021 19:51:16 +0530",
          "title" : "India make it to quarters in online Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1327",
-         "pubDate" : "Fri, 10 Sep 2021 10:14:57 +0000",
-         "title" : "Day 02: Dominguez surges to the top"
-      },
-      {
-         "description" : "ECU E-Magazine August 2021 is out! In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2021 European Women's Individual Chess Championship 2021 European Senior Team Chess Championship 2021 Upcoming European Club Cup 2021 Upcoming European Senior Chess Championship 2021 Invitation for European Youth&#38;Junior Chess Championships 2021 Upcoming Seminars in September Arbiters Corner&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-august-2021/",
-         "pubDate" : "Fri, 10 Sep 2021 09:27:19 +0000",
-         "title" : "ECU E-MAGAZINE AUGUST 2021"
-      },
-      {
-         "description" : " Last week, we dug into defending weaknesses in your position. Today, I'll introduce you to this idea via a beginner's game. I am using beginner's games rather than the games of masters because, as a beginner, you are more likely to find yourself in the positional situations we'll examine over the next two weeks as <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-four/\">A Foundation for Beginners Thirty Four</a> appeared first on <a rel=\"nofollow\" href=\"ht",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-four/",
-         "pubDate" : "Fri, 10 Sep 2021 09:00:50 +0000",
-         "title" : "A Foundation for Beginners Thirty Four"
       }
    ]
 }
