@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tournament-favorites Russia defeated the Ukraine 2.5-1.5 and 3-1 in the two rounds of the semifinals to score a 2-0 win by match points to reach the finals of the World Women&#39;s Team Championship being held at Sitges, Spain. In the other semifina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-semifinals",
+         "pubDate" : "Fri, 01 Oct 2021 16:19:00 -0700",
+         "title" : "FIDE World Women's Team Championship SF: Russia, India Reach Finals"
+      },
+      {
+         "description" : "Yes, it is true. But not to worry, the news review crew will be back next week with an \"upgrade\" of this format. Lawrence and Arne will pick a chess related theme to talk about thoroughly. In the last news review episode, Lawrence takes a look at three major tournaments: TePe Sigeman, Sharjah Masters, and the Meltwater finals, the progressing of the \"elo\" ranking, and the Steinitz/Lasker resting places.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-4",
+         "pubDate" : "Fri, 01 Oct 2021 23:45:12 +0100",
+         "title" : "Our very last news review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1366",
+         "pubDate" : "Fri, 01 Oct 2021 20:19:57 +0000",
+         "title" : "October rating list: Firouzja and Rapport debut in top-10"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86687252.cms\" /> Mary Ann Gomes continued her good form, beating Salome Melia on the fourth board to help India draw the first match of the semi-finals against Georgia in the FIDE World Women's Team Chess Championship on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "\"Noone can remain an indifferent bystander any more\""
       },
       {
-         "description" : "Four teams reached the semifinals of the World Women's Team Championship in Sitges, Spain: the CFR team, Ukraine, Georgia and India. In the semifinal CFR plays against Ukraine and Georgia plays India. Each match consists of two rounds (starting at 15:00 and 18:00 CEST), followed by a blitz play-off (20:30 CEST) in case of a tie. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Fri, 01 Oct 2021 14:45:00 +0100",
-         "title" : "World Women's Team Championship, Semifinals: Live"
+         "description" : "In round six of the Meltwater Champions Chess Tour Finals, GM Magnus Carlsen reinforced his lead as he beat GM Anish Giri in the blitz tiebreaks, but GM Teimour Radjabov kept the chase alive, having won 3-1 against GM Wesley So. Besides those ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-6",
+         "pubDate" : "Fri, 01 Oct 2021 06:29:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 6: Carlsen Reinforces His Lead"
       },
       {
          "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
@@ -142,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2021-fide-chesscom-grand-swiss",
-         "pubDate" : "Thu, 30 Sep 2021 15:56:04 -0700",
+         "pubDate" : "Thu, 30 Sep 2021 15:56:00 -0700",
          "title" : "Announcing The 2021 FIDE Chess.com Grand Swiss In Riga"
       },
       {
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "Mary Ann Gomes replaces Humpy in Indian team"
       },
       {
-         "description" : "GM Nona Gaprindashvili has filed a lawsuit against Netflix for &#34;false light invasion of privacy&#34; and defamation after a line in the hit series The Queen&#39;s Gambit erroneously suggested that she was playing only against women. The fifth women&#39;s wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nona-gaprindashvili-sues-netflix-the-queens-gambit",
-         "pubDate" : "Fri, 17 Sep 2021 05:30:00 -0700",
-         "title" : "Nona Gaprindashvili Sues Netflix For Alleged Defamation In 'The Queen's Gambit'"
-      },
-      {
          "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. Team USA's program has helped develop several American chess prodigies from across the country. including the likes of GM Jeffery Xiong and GM Sam Sevian. Team USA has been capped off with individualized training sessions with Kasparov's coaching staff and special training sessions with Garry Kasparov himself. | Photo: Left to Right standing: Christopher Yoo, Michael Khodarkovsky, Garry Kasparov, Brandon Jacobson. Sitting: Carissa Yip and Rochelle Wu | Photos: Kasparov Chess Foundation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1720,14 +1736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-r9",
          "pubDate" : "Fri, 17 Sep 2021 10:50:00 +0100",
          "title" : "Norway Chess: Carlsen grabs the lead"
-      },
-      {
-         "description" : "He was close to a defeat this time but GM Magnus Carlsen turned his game with GM Sergey Karjakin around, won his fourth in a row, and became the new leader at Norway Chess with one round to go. GM Alireza Firouzja defeated GM Aryan Tari to enter t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-norway-chess-round-9-carlsen-karjakin-firouzja",
-         "pubDate" : "Thu, 16 Sep 2021 14:30:00 -0700",
-         "title" : "Norway Chess R9: Carlsen Leads After 4th Straight Win; Firouzja Enters World's Top 10"
       },
       {
          "description" : "",
@@ -2168,14 +2176,6 @@ news_feed (
          "link" : "https://www.thearticle.com/hoc-opus-hic-liber-est-nigel-shorts-winning-and-other-chess-books/",
          "pubDate" : "Sat, 11 Sep 2021 08:07:52 +0000",
          "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1328",
-         "pubDate" : "Fri, 10 Sep 2021 22:38:07 +0000",
-         "title" : "Russia advances to the playoffs with a perfect score"
       }
    ]
 }
