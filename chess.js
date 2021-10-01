@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the rest day on Thursday, 30 September, the second part of the Meltwater Chess Champions Tour Final will begin today, 1 October. With four rounds to go World Champion Magnus Carlsen leads the event and is five points ahead of Wesley So, who is in second place. Round 6 starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Simon Williams and Peter Leko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Fri, 01 Oct 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 6: Live"
+      },
+      {
+         "description" : "Four teams reached the semifinals of the World Women's Team Championship in Sitges, Spain: the CFR team, Ukraine, Georgia and India. In the semifinal CFR plays against Ukraine and Georgia plays India. Each match consists of two rounds (starting at 15:00 and 18:00 CEST), followed by a blitz play-off (20:30 CEST) in case of a tie. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Fri, 01 Oct 2021 14:45:00 +0100",
+         "title" : "World Women's Team Championship, Semifinals: Live"
+      },
+      {
          "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -408,6 +424,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1359",
          "pubDate" : "Wed, 29 Sep 2021 00:37:40 +0000",
          "title" : "Team CFR and Georgia hold the lead in Sitges"
+      },
+      {
+         "description" : " Caruana's Ruy Lopez: A White Repertoire for Club Players : GM Fabiano Caruana From the book's rear cover : &#8220;The Ruy Lopez is arguably the most classic of chess openings. White immediately starts the battle for the centre, fighting for the initiative. This strategic clarity has made the Ruy Lopez, or Spanish Opening, an eternal favourite <a href=\"http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Caruana's Ruy Lopez: A White Repertoire for Club Players</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/09/29/car",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/",
+         "pubDate" : "Wed, 29 Sep 2021 00:10:07 +0000",
+         "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. 2021.09.28<br /> Levon Aronian vs Anish Giri, Meltwater Tour Final (2021): B90 Sicilian, Najdorf<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2082788\">https://www.chessgames.com/perl/chessgame?gid=2082788</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby",
@@ -2114,22 +2138,6 @@ news_feed (
          "title" : "Some v Most v All"
       },
       {
-         "description" : "Twenty years ago, on September 12, 2001, we launched our brand new database-driven news page. The very first report we were forced to file was about the destruction of the World Trade Center in New York, which had been perpetrated on the previous day. It had a special meaning for chess. Six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/twenty-years-ago",
-         "pubDate" : "Sat, 11 Sep 2021 14:00:00 +0100",
-         "title" : "Twenty years ago..."
-      },
-      {
-         "description" : "In the diagram position Black's attacked rook should definitely not leave the back rank - after 35...Rc2?? White has a forced checkmate. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fatal-activity",
-         "pubDate" : "Sat, 11 Sep 2021 13:56:00 +0100",
-         "title" : "Fatal activity"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1328",
          "pubDate" : "Fri, 10 Sep 2021 22:38:07 +0000",
          "title" : "Russia advances to the playoffs with a perfect score"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86096937.cms\" />India qualified for the quarterfinals of the FIDE online Olympiad after topping Division 1 Pool B with 16 points on Friday. Hungary was the second team from Pool B to make the knockout stages in the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-make-it-to-quarters-in-online-olympiad/articleshow/86096937.cms",
-         "pubDate" : "Fri, 10 Sep 2021 19:51:16 +0530",
-         "title" : "India make it to quarters in online Olympiad"
       }
    ]
 }
