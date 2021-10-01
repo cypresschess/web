@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ratings are full of mysteries and by no means coherent. Sometimes, you suspect an inflation of ratings, sometimes a deflation. In some countries ratings are distorted by too many young players - or not enough adult players. And how did the lack of tournaments in the Covid era affect the Elo ratings? Walter Wolf has gathered a lot of statistics and tries to draw conclusions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-look-at-the-elo-ratings-in-the-year-2021",
+         "pubDate" : "Fri, 01 Oct 2021 08:10:19 +0100",
+         "title" : "A look at the Elo ratings in the year 2021"
+      },
+      {
+         "description" : " World champion keeps US rivals at bay with enterprising style contrasting with over-the-board grinds at Stavanger and the Euroclub Cup Magnus Carlsen is heading for a comfortable victory and a $100,000 first prize this weekend in the $1.5m <a href=\"https://championschesstour.com/\" title=\"\">Meltwater Champions Tour</a> final, as the world No 1's lead from the previous qualifying events looks like proving too high a hurdle for his only serious rival, Wesley So. So, the reigning US champion, was set back by a controversial five-minute blitz loss to Hikaru Nakamura after the pair appeared to collude in four quick rapidplay draws. The arrangement helped Nakamura to moonlight in Chess.com's Title",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/oct/01/chess-carlsen-heads-for-tour-win-as-nakamura-moonlighting-sparks-debate",
+         "pubDate" : "Fri, 01 Oct 2021 07:00:23 +0000",
+         "title" : "Chess: Carlsen heads for Tour win as Nakamura moonlighting sparks debate"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86673078.cms\" />D Harika and Mary Ann Gomes played key roles as India beat Kazakhstan 1.5-0.5 in the quarterfinals of the FIDE World Women's Team Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-womens-team-chess-championship-india-beat-kazakhstan-to-meet-georgia-in-semifinals/articleshow/86673078.cms",
+         "pubDate" : "Fri, 01 Oct 2021 11:08:00 +0530",
+         "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.10.14<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2106,14 +2130,6 @@ news_feed (
          "title" : "Norway Chess: Carlsen beats Nepo in Armageddon"
       },
       {
-         "description" : "The Top Division of the Online Olympiad finished on Friday after three days of intense top-level chess. Three weeks after the tournament began, we are closing in on the final stage of the event: the play-offs. The pairings in the quarterfinals starting Monday are Kazakhstan vs USA, Ukraine vs India, Russia (pictured) vs Hungary and China vs Poland. | Photo: Boris Dolmatovsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-online-chess-olympiad-2021-top-division-final",
-         "pubDate" : "Sat, 11 Sep 2021 01:40:00 +0100",
-         "title" : "Online Olympiad: On to the play-offs"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,22 +2168,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-four/",
          "pubDate" : "Fri, 10 Sep 2021 09:00:50 +0000",
          "title" : "A Foundation for Beginners Thirty Four"
-      },
-      {
-         "description" : " The 58-year-old lost in seven moves in Zagreb in July but is scoring well this week against top grandmasters Garry Kasparov made a surging and inspired comeback in St Louis on Thursday and Friday nights after the legend, who many consider the all-time No 1, crashed two months ago in Zagreb, where he won only one game out of 18 and <a href=\"https://www.theguardian.com/world/2021/jul/16/chess-garry-kasparov-loses-in-seven-moves-as-comeback-proves-a-disaster\" title=\"\">lost in seven moves</a> to Azerbaijan's Shak Mamedyarov. With just the ninth and final round to go, the Kaskparov had 5/8 and was still in contention for first prize. The 58-year-old's poor clock management and outdated openings ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/sep/10/chess-garry-kasparov-wins-two-in-a-row-at-st-louis-to-fight-back-from-disaster",
-         "pubDate" : "Fri, 10 Sep 2021 07:00:21 +0000",
-         "title" : "Chess: Garry Kasparov surges into St Louis lead with three wins in a row"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess continues to make chess beautiful again, one club at a time! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Poster-0420-2021-08-29_web.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> This year, World Chess called on chess clubs and federations to submit their institution for a free design makeover by our design team (you are welcome to submit <a href=\"https://x25ugr4ie62.typeform.com/to/yPyN0Idl\">your chess club or federation!</a>). Dozens of submissions later, we are picking those who, in our view, would benefit from the facelift. Next up is the <a href=\"https://www.keralachessassociation.com/\">Kerala Chess Association</a> in India",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rebranding-kerala-the-knight-fight-one-sight/",
-         "pubDate" : "Fri, 10 Sep 2021 06:24:03 +0000",
-         "title" : "Rebranding Kerala"
       }
    ]
 }
