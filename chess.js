@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86687252.cms\" /> Mary Ann Gomes continued her good form, beating Salome Melia on the fourth board to help India draw the first match of the semi-finals against Georgia in the FIDE World Women's Team Chess Championship on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-georgia-share-honours-in-the-first-match-of-semis/articleshow/86687252.cms",
+         "pubDate" : "Fri, 01 Oct 2021 22:04:32 +0530",
+         "title" : "World Team C'ship: India, Georgia share honours in first match of semis"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Chess-Fundamentals-Jos%C3%A9-Ra%C3%BAl-Capablanca-ebook/dp/B09F4H12X9/ref=sr_1_1?dchild=1&amp;keywords=chess%20fundamentals&amp;qid=1633032384&amp;s=books&amp;sr=1-1\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633103872906-DSKA64NRXM55LS0RETL6/Capa.jpg\" data-image-dimensions=\"217x346\" data-image-focal-point=\"0.5,0.5\" alt=\"Capa.jpg\" data-load=\"false\" data-image-id=\"61573000031e4d6fa1a9b9b9\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633103872906-DSKA64NRXM55LS0",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
+         "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
+         "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
+      },
+      {
          "description" : "After the rest day on Thursday, 30 September, the second part of the Meltwater Chess Champions Tour Final will begin today, 1 October. With four rounds to go World Champion Magnus Carlsen leads the event and is five points ahead of Wesley So, who is in second place. Round 6 starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Simon Williams and Peter Leko.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Fri, 01 Oct 2021 16:45:00 +0100",
          "title" : "Champions Chess Tour, Round 6: Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While cheating seems to decline, its prevention will soon involve everyone. <em>Stefan L&ouml;ffler</em> reports on a <strong>Work4Chess</strong> conference session. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.1920.jpeg\" title=\"Age distribution of respondents who admitted to have cheated at least once. table: David Smerdon\" data-title=\"Age distribution of respondents who admitted to have cheated at least once. (table: David Smerdon)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.480.jpe",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
+         "pubDate" : "Fri, 01 Oct 2021 15:37:29 +0100",
+         "title" : "\"Noone can remain an indifferent bystander any more\""
       },
       {
          "description" : "Four teams reached the semifinals of the World Women's Team Championship in Sitges, Spain: the CFR team, Ukraine, Georgia and India. In the semifinal CFR plays against Ukraine and Georgia plays India. Each match consists of two rounds (starting at 15:00 and 18:00 CEST), followed by a blitz play-off (20:30 CEST) in case of a tie. Follow the games live.",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-chess-tour-final-carlsen-beats-nakamura-and-increases-his-lead",
          "pubDate" : "Thu, 30 Sep 2021 15:49:47 +0100",
          "title" : "Champions Chess Tour Final: Carlsen beats Nakamura and increases his lead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While cheating seems to decline, its prevention will soon involve everyone. <em>Stefan L&ouml;ffler</em> reports on a Work4Chess conference session. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.1920.jpeg\" title=\"Age distribution of respondents who admitted to have cheated at least once. table: David Smerdon\" data-title=\"Age distribution of respondents who admitted to have cheated at least once. (table: David Smerdon)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.480.jpeg\" alt=\"Age distr",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
-         "pubDate" : "Thu, 30 Sep 2021 15:34:12 +0100",
-         "title" : "\"Noone can remain an indifferent bystander any more\""
       },
       {
          "description" : " During the current school holidays, the ACT Junior Chess League is running a number of online events, for the benefit of our local players. One of the (small) outcomes is that some of our less experienced players are starting to play what could be termed 'correct' chess moves. By this I mean moves that look sensible to other chess players, as opposed to hanging pawns, moving h pawns before castling, developing rooks via h3 etc Then I came across this ... <br /> <b>Carlsen, Magnus - Duda, Jan-Krysztof </b><br />Meltwater Champions Final 2021 <script>new PgnViewer( { boardName: \"game1276\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 c5 6.e3 cxd4 7.exd4 Nxc3 ",
