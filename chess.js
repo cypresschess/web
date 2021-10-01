@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.10.14<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-3",
+         "pubDate" : "Fri, 01 Oct 2021 03:03:27 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league! Join NM Caleb Denby for the move-by-move. At the end. Caleb will select the best game, and the winner will receive a &quot;special gift!&quot; 2021.09.30<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnail",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-2-chesscom",
+         "pubDate" : "Fri, 01 Oct 2021 00:03:26 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #2 | Chess.com"
+      },
+      {
          "description" : "Russia and Georgia reached the semifinals of the 2021 World Women&#39;s Team Championship with solid performances, while India and Ukraine overcame their rivals in varying levels of difficulty and drama during the quarterfinals. While India&#39;s victory ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals Day 2: Carlsen, MVL Perfect"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch as part of <a href=\"https://youtu.be/gQo58yV3PS8\">https://youtu.be/gQo58yV3PS8</a>. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-1-napoleon-gambit-chess-openings-explained",
-         "pubDate" : "Sun, 26 Sep 2021 20:59:30 +0000",
-         "title" : "A Shot of Scotch #1: The Napoleon Gambit | Chess Openings Explained"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/",
          "pubDate" : "Sat, 25 Sep 2021 06:28:29 +0000",
          "title" : "Mednyi Vsadnik and South Ural win European Open and Women Chess Club Cup 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko demonstrates the Napoleon Gambit in the Scotch Opening. It&#039;s 1e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4. Nxd4 exd4 5.Bc4. Originally on Twitch. 2021.09.13<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/napoleon-gambit-chess-openings-e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/napoleon-gambit-chess-openings-explained",
-         "pubDate" : "Fri, 24 Sep 2021 20:57:49 +0000",
-         "title" : "The Napoleon Gambit | Chess Openings Explained"
       },
       {
          "description" : " The Meltwater Champions Chess Tour Final takes place on Chess24 24th September to 4th October 2021. The culmination of the online chess tour that started with the Skilling Open in November last year. The event is a 10 player single round robin where the points come from 4 game rapid mini-matches. There are three points for a win in each match, if drawn there are tie-breaks and then the split is 2 points to the winner of the TB 1 to the loser. However the players also carry forward points earned from the tour as a whole which means Carlsen starts with 16.5 points, So 12, Aronian 8, Radjabov 6, Giri 5.5, Nakamura 4, Artemiev 3.5, MVL 2.5, Mamedyarov 0.5 and Duda 0. It's hard to see beyond Car",
