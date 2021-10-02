@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the 6th round of the \"Meltwater Champions Chess Tour\" played on Friday Wesley So has suffered a significant setback, which may prove to be decisive: In his 1:3 against Teimour Radjabov, Wesley So, 2nd in the standings, failed to score, while Carlsen, still occupying the top spot, extended his lead by two more points in the overall ranking thanks to his victory (in a tiebreak) against Anish Giri. The world champion's lead over So is now 7 points - almost insurmountable given that there is only a maximum of 9 points still to be earned. The tournament organizers might therefore soon proclaim Magnus Carlsen as the \"world's top online chess player\" as the potential winner of the tournament. | ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finale-carlsen-at-the-finish-line",
+         "pubDate" : "Sat, 02 Oct 2021 12:42:12 +0100",
+         "title" : "Champions Chess Tour Final: Carlsen at the finish line"
+      },
+      {
+         "description" : "In a nail biting semi-final encounter, India defeated third seed Georgia to book berth in the final of World Women Team Chess Championship at Sitges,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-cruise-to-the-final-of-world-women-team-championship/",
+         "pubDate" : "Sat, 02 Oct 2021 09:49:33 +0000",
+         "title" : "India cruise to the final of World Women Team Championship"
+      },
+      {
+         "description" : "Some weeks ago I wrote about those brilliant Polish chess masters of the game, Akiba Rubinstein and Xavielly Tartakower, in the context of an impressive tournament victory by the new Polish star Jan Krzysztof Duda. This week I complete the story with the exploits of three slightly earlier Polish notables: Szymon Winawer, Johannes Zukertort and []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/magnetic-poles/",
+         "pubDate" : "Sat, 02 Oct 2021 08:00:42 +0000",
+         "title" : "Magnetic Poles"
+      },
+      {
          "description" : "Opposite-coloured bishops favour the attacker - this well-known chess wisdom was impressively proven in the diagram position. How did White start the action?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2130,28 +2154,12 @@ news_feed (
          "title" : "2021 Hardware Buyer's Guide"
       },
       {
-         "description" : "Top seed International Master Shahil Dey of Assam clinched the AICF North-Eastern State Chess Championship 2021 with 10 points out of possible 11. Kingshuk Debnath",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/shahil-dey-wins-aicf-north-eastern-states-chess-championship-2021/",
-         "pubDate" : "Sun, 12 Sep 2021 07:40:32 +0000",
-         "title" : "Shahil Dey wins AICF North -Eastern States Chess Championship 2021"
-      },
-      {
          "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The round-1 game had to be rescheduled after Nepo could not make it in time to Stavanger due to visa issues. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2021-rest-day",
          "pubDate" : "Sun, 12 Sep 2021 04:25:00 +0100",
          "title" : "Norway Chess: Nepomniachtchi climbs to second place"
-      },
-      {
-         "description" : "The Tolstoy Cup is taking place at the Yasnaya Polyana cultural centre on September 11-12. The tournament is a 9-round single round-robin event with a time control of 15 minutes for the whole game plus a 10-second increment per move. Anish Giri, Boris Gelfand, Anton Korobov and Nikita Vitiugov are among the participants. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
-         "pubDate" : "Sun, 12 Sep 2021 03:55:00 +0100",
-         "title" : "Tolstoy Cup - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1329",
          "pubDate" : "Sat, 11 Sep 2021 12:09:55 +0000",
          "title" : "Leinier Dominguez wins 2021 Champions Showdown: Chess 9LX"
-      },
-      {
-         "description" : "In Virgil's Aeneid one finds the phrase, \"hoc opus, hic labor est\", \"this is the task, this is the masterpiece\", referring to the hero Theseus and his descent to the Underworld. Descending to the netherworld's depths is easy - the trick is to get back safely again to the \"upper airs.\" Less onerous is the annual task of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/hoc-opus-hic-liber-est-nigel-shorts-winning-and-other-chess-books/",
-         "pubDate" : "Sat, 11 Sep 2021 08:07:52 +0000",
-         "title" : "Hoc opus, hic liber est: Nigel Short's 'Winning' and other chess books"
       }
    ]
 }
