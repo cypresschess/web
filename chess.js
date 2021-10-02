@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Opposite-coloured bishops favour the attacker - this well-known chess wisdom was impressively proven in the diagram position. How did White start the action?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-dark-squares-2",
+         "pubDate" : "Sat, 02 Oct 2021 09:00:00 +0100",
+         "title" : "On the dark squares"
+      },
+      {
          "description" : "Earlier this week, FIDE, the International Chess Federation, announced a sponsorship for women&#39;s chess with Establishment Labs, a company producing and marketing a breast implant product line branded as Motiva&#38;reg;. This is the first-ever corporat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tolstoy-cup-2021-live",
          "pubDate" : "Sun, 12 Sep 2021 03:55:00 +0100",
          "title" : "Tolstoy Cup - Live!"
-      },
-      {
-         "description" : "Four players reached the final round of the Champions Showdown tournament tied for first place. Only Leinier Dominguez managed to score a win in his last game, though, and thus claimed clear first place and $37,500 in prize money. Garry Kasparov was among the four players sharing the lead after eight rounds, but a loss against Maxime Vachier-Lagrave left him in fifth place in the final standings. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2021-day-3",
-         "pubDate" : "Sat, 11 Sep 2021 20:00:00 +0100",
-         "title" : "Leinier Dominguez wins Champions Showdown in Saint Louis"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
