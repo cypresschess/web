@@ -2,11 +2,51 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> held in Sitges under a new format, mixing rapid chess and k.o. mode. CFR stands for <strong>Chess Federation Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1369",
+         "pubDate" : "Sat, 02 Oct 2021 22:35:30 +0000",
+         "title" : "CFR Team takes the gold to Russia"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
+         "pubDate" : "Sat, 02 Oct 2021 23:21:08 +0100",
+         "title" : "Chasing the biggest fans"
+      },
+      {
+         "description" : "In round seven of the Meltwater Champions Chess Tour Finals, the two leaders, GM Magnus Carlsen and GM&#38;nbsp;Teimour Radjabov, faced each other. The Azeri star won the match, but... this day still turned out amazing for the world champion, who won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-7",
+         "pubDate" : "Sat, 02 Oct 2021 14:45:40 -0700",
+         "title" : "Champions Chess Tour Finals Day 7: Carlsen Loses But Wins Series"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1368",
+         "pubDate" : "Sat, 02 Oct 2021 20:33:37 +0000",
+         "title" : "Magnus Carlsen wins first Meltwater Champions Chess Tour title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s announcement of <strong>Establishment Labs</strong>, a producer of breast implants, as sponsor of women's chess is drawing lots of criticism. <strong>Lichess</strong> <a href=\"https://lichess.org/blog/YVWlhhIAACUAp9eF/fide-picks-breast-implants-as-a-sponsor-for-womens-chess\">gathered statements</a> from female players, mostly anonymous. <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor\">announced</a> that it considers this sponsorshop as not positive for women's chess and inappropriate and will not feature it in its future reporting. ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/breast-implant-sponsorship-backfires/",
+         "pubDate" : "Sat, 02 Oct 2021 21:31:25 +0100",
+         "title" : "Breast implant sponsorship backfires"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> <a href=\"https://www.fide.com/news/1367\">held in Sitges under a new format</a>, mixing rapid chess and k.o. mode. CFR stands for <strong>Chess Federation of Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/russian-women-are-team-world/",
-         "pubDate" : "Sat, 02 Oct 2021 19:14:28 +0100",
+         "pubDate" : "Sat, 02 Oct 2021 20:38:31 +0100",
          "title" : "Russian women are team world champion"
       },
       {
@@ -162,14 +202,6 @@ news_feed (
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While cheating seems to decline, its prevention will soon involve everyone. <em>Stefan L&ouml;ffler</em> reports on a <strong>Work4Chess</strong> conference session. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.1920.jpeg\" title=\"Age distribution of respondents who admitted to have cheated at least once. table: David Smerdon\" data-title=\"Age distribution of respondents who admitted to have cheated at least once. (table: David Smerdon)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.480.jpe",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/noone-can-remain-an-indifferent/",
-         "pubDate" : "Fri, 01 Oct 2021 15:37:29 +0100",
-         "title" : "\"Noone can remain an indifferent bystander any more\""
-      },
-      {
          "description" : "In round six of the Meltwater Champions Chess Tour Finals, GM Magnus Carlsen reinforced his lead as he beat GM Anish Giri in the blitz tiebreaks, but GM Teimour Radjabov kept the chase alive, having won 3-1 against GM Wesley So. Besides those ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-2021-fide-chesscom-grand-swiss",
          "pubDate" : "Thu, 30 Sep 2021 15:56:00 -0700",
          "title" : "Announcing The 2021 FIDE Chess.com Grand Swiss In Riga"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s announcement of <strong>Establishment Labs</strong>, a producer of breast implants, as sponsor of women's chess is drawing lots of criticism. <strong>Lichess</strong> <a href=\"https://lichess.org/blog/YVWlhhIAACUAp9eF/fide-picks-breast-implants-as-a-sponsor-for-womens-chess\">gathered statements</a> from female players, mostly anonymous. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/breast-implant-sponsorship-backfires/",
-         "pubDate" : "Thu, 30 Sep 2021 22:50:46 +0100",
-         "title" : "Breast implant sponsorship backfires"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1624,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1342",
          "pubDate" : "Sat, 18 Sep 2021 20:01:15 +0000",
          "title" : "Pilot project FIDE/UNCHR Girls Club \"Chess for protection\" Kakuma 2021/2022 launched"
-      },
-      {
-         "description" : "It&#39;s time for the eighth season of the wildly popular Arena Kings tournament on Chess.com! Once again featuring a doubled $40,000 prize fund, this season begins Wednesday, September 22 at 10 a.m. PT/19:00 CEST. Streamers from around the world do...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-arena-kings-8",
-         "pubDate" : "Sat, 18 Sep 2021 09:59:00 -0700",
-         "title" : "Announcing Arena Kings 8"
       },
       {
          "description" : " One of the things I thought was great about \"The Queens Gambit\" was the attention to detail. The equipment looked legitimate, the games and moves looked real, and even some of the casting of extras was spot on. In fact one of the casting choices was the very brief scene where Nona Gaprindashvili was featured (for no more than a couple of seconds). However the creators are now being sued over this scene, for the line that \"she has never faced men\". Gaprindashvili is asking for $5M, although I would be surprised if she will get this (NB I am not a lawyer). When I saw the scene, I (and any serious chess player) knew this was not correct, as she had played in plenty of events against male playe",
