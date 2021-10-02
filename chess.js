@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> held in Sitges under a new format, mixing rapid chess and k.o. mode. CFR stands for <strong>Chess Federation Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/russian-women-are-team-world/",
+         "pubDate" : "Sat, 02 Oct 2021 19:14:28 +0100",
+         "title" : "Russian women are team world champion"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With two rounds to go in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/7/1/1\">final tournament</a> <strong>Magnus Carlsen</strong> won the <strong>Meltwater Champions Chess Tour</strong> and added $100,000 to bring his tour winnings to $315,000. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/second-tour-title-for-carlsen/",
+         "pubDate" : "Sat, 02 Oct 2021 18:59:17 +0100",
+         "title" : "Second tour title for Carlsen"
+      },
+      {
+         "description" : "Team India consists of GM Dronavalli Harika, IM Tania Sachdev, IM Bhakti Kulkarni, WGM R Vaishali, WGM Mary Ann Gomes and Coach GM Abhijit Kunte",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historical-medal-at-world-women-team-championship/",
+         "pubDate" : "Sat, 02 Oct 2021 17:58:30 +0000",
+         "title" : "Historical Medal at World Women Team Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86713893.cms\" />India clinched a silver medal after going down 0-2 to Russia in the final of the FIDE World Women's Team Chess Championship on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-lose-to-russia-in-final-win-first-ever-medal-at-event/articleshow/86713893.cms",
+         "pubDate" : "Sat, 02 Oct 2021 23:27:54 +0530",
+         "title" : "World Women's Team Chess: India win first ever medal at event"
+      },
+      {
          "description" : "In Round 7 on Saturday Magnus Carlsen plays Teimour Radjabov, while his now distant rival for the first place Wesley So faces Levon Aronian - if things go well for him the World Champion could secure his overall Tour win as early as today. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "Training program for arbiters of online and hybrid events continues"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The comedian <strong>Samay Rana</strong>, <strong>Chessbase India</strong> and the E-Sport company <strong>Nodwin</strong> <a href=\"https://chessbase.in/news/Chess-Super-League-2021\">coproduce</a> a <strong>Super League</strong> on 11-17 October with teams that mix world class players like Ding, Giri and Nakamura with top Indian adults, juniors, celebrities and business leaders. The prizefund is $54,000. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-super-league-for-indian/",
-         "pubDate" : "Tue, 28 Sep 2021 20:58:23 +0100",
-         "title" : "Online Super League for Indian market"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex is shocked! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -776,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/simen-s-school-trip",
          "pubDate" : "Mon, 27 Sep 2021 19:00:00 +0100",
          "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> has appointed <strong>Paul Meyer-Dunker</strong> for its public relations and social media. The 29-year-old is President of the <strong>Berlin Chess Federation</strong> and has a background in E-sports and Green politics. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/meyer-dunker-joins-schachbund/",
-         "pubDate" : "Mon, 27 Sep 2021 17:36:35 +0100",
-         "title" : "Meyer-Dunker joins Schachbund"
       },
       {
          "description" : "",
@@ -2098,14 +2114,6 @@ news_feed (
          "title" : "Anish Giri wins Tolstoy Cup"
       },
       {
-         "description" : "The Indian Men's team consists of GM Abhimany Puranik, GM Venkataraman Karthik, IM Arjun Kalyan and IM A Ra Harikrishnan won the Asian University Men's",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-clinches-the-asian-university-mens-chess-championship-abhimanyu-individual-champion/",
-         "pubDate" : "Mon, 13 Sep 2021 13:22:26 +0000",
-         "title" : "India clinches the Asian University Men's Chess Championship; Abhimanyu Individual Champion"
-      },
-      {
          "description" : "The World Cup in Sochi 2021 saw a huge number of fascinating endgames, and for his \"Endgame Magic Show #160\" Karsten selected mostly rook endgames. Interesting, instructive, and practically relevant. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2168,14 +2176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/2021-hardware-buyer-s-guide",
          "pubDate" : "Sun, 12 Sep 2021 10:00:00 +0100",
          "title" : "2021 Hardware Buyer's Guide"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/online-olympiad-viswanathan-anand-to-the-fore-in-indias-march-to-the-playoffs/articleshow/86121038.cms",
-         "pubDate" : "Sat, 11 Sep 2021 21:15:53 +0530",
-         "title" : "Online Olympiad: Anand to the fore in India's march to the playoffs"
       }
    ]
 }
