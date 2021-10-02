@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Earlier this week, FIDE, the International Chess Federation, announced a sponsorship for women&#39;s chess with Establishment Labs, a company producing and marketing a breast implant product line branded as Motiva&#38;reg;. This is the first-ever corporat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor",
+         "pubDate" : "Fri, 01 Oct 2021 17:09:44 -0700",
+         "title" : "FIDE Announces Breast Implant Company As Women's World Championship Sponsor"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1367",
+         "pubDate" : "Fri, 01 Oct 2021 23:56:04 +0000",
+         "title" : "India will face off CFR Team for the gold"
+      },
+      {
          "description" : "Tournament-favorites Russia defeated the Ukraine 2.5-1.5 and 3-1 in the two rounds of the semifinals to score a 2-0 win by match points to reach the finals of the World Women&#39;s Team Championship being held at Sitges, Spain. In the other semifina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1624,14 +1640,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/09/18/battle-of-endgames-1066-stratagems-for-you-to-conquer/",
          "pubDate" : "Sat, 18 Sep 2021 00:10:11 +0000",
          "title" : "Battle of Endgames: 1066 Stratagems for you to Conquer"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the Norway Chess tournament for the third time in a row, and the fourth in total. Like in the first half of the tournament, the world champion won the armageddon game against world title challenger GM Ian Nepomniachtchi, who ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2021-norway-chess",
-         "pubDate" : "Fri, 17 Sep 2021 16:54:00 -0700",
-         "title" : "Magnus Carlsen Wins 2021 Norway Chess"
       },
       {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
