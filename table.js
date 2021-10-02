@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2021-10-01","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110017152 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2021-10-01","25","<a href=http://www.uschess.org/msa/XtblMain.php?202110017132 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-09-07  - 09-28","12","<a href=http://www.uschess.org/msa/XtblMain.php?202109286412 target=' blank'>SEPTTUENIGHTSWISS</a>",
 "HOUSTON","2021-09-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202109266072 target=' blank'>SEPTEMBER SUNDAY SWISSES</a>",
 "HOUSTON","2021-09-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202109254902 target=' blank'>NIMITZ HIGH SCHOOL SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2020-08-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202008274092 target=' blank'>CBS DOUBLE ROUND ROBIN</a>",
 "SPRING","2020-08-21","23","<a href=http://www.uschess.org/msa/XtblMain.php?202008212472 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202008204102 target=' blank'>CBS DUAL</a>",
-"SPRING","2020-08-14","18","<a href=http://www.uschess.org/msa/XtblMain.php?202008141112 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-08-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202008081242 target=' blank'>SR CHESSKNIGHTS 08082020</a>",
 ]);
