@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Round 7 on Saturday Magnus Carlsen plays Teimour Radjabov, while his now distant rival for the first place Wesley So faces Levon Aronian - if things go well for him the World Champion could secure his overall Tour win as early as today. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Sat, 02 Oct 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 7: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> September 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/september-2021-chess-puzzle-answer-key",
+         "pubDate" : "Sat, 02 Oct 2021 14:41:46 +0000",
+         "title" : "September 2021 Chess Puzzle Answer Key "
+      },
+      {
+         "description" : "Magnus Carlsen said \"the way the game went was a dream for me\" after winning a tough match against Anish Giri with a spectacular queen sacrifice in the first blitz game. Magnus is now on the brink of overall victory with a 7-point lead and 3 rounds to go after 2nd placed Wesley So was put to the sword by Teimour Radjabov. There were also wins for Hikaru Nakamura and Vladislav Artemiev, but the day's other most memorable moment was Levon Aronian thinking for almost 6 minutes before blundering mate-in-1 against Jan-Krzysztof Duda.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-6-carlsen-beats-giri-with-stunning-queen-sac",
+         "pubDate" : "Sat, 02 Oct 2021 14:03:49 +0000",
+         "title" : "MCCT Finals 6: Carlsen stuns Giri with queen sac"
+      },
+      {
+         "description" : " I've often described chess as an examination where the players take turns at setting the questions. Sometimes your move is only an answer to the previous question, while other times it is both an answer and the next question rolled into one. But what happens if you forget to answer the question being asked? This. <br /> <b>Aronian,Levon (2782) - Duda,Jan-Krzysztof (2756) [C18]</b><br />Meltwater Champions Chess Tour Finals chess24.com (6.1), 01.10.2021 <script>new PgnViewer( { boardName: \"game1277\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2 Nbc6 11.f4 dxc3 12.Qd3 d4 13.Nxd4 Nxd4 14.Qxd4 Bd7 15.Qd6 Qa5 1",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/what-was-question.html",
+         "pubDate" : "Sat, 02 Oct 2021 14:02:00 +0000",
+         "title" : "What was the question?"
+      },
+      {
+         "description" : "The CFR team and the Indian team play in the final of the World Women's Team Championship in Sitges, Spain. In the semifinals CFR won against Ukraine and India narrowly defeated Georgia. The final match also consists of two rounds (starting at 14:00 and 17:00 CEST), followed by a blitz play-off (19:30 CEST) in case of a tie. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
+         "pubDate" : "Sat, 02 Oct 2021 13:45:00 +0100",
+         "title" : "World Women's Team Championship, Final: Live"
+      },
+      {
          "description" : "In the 6th round of the \"Meltwater Champions Chess Tour\" played on Friday Wesley So has suffered a significant setback, which may prove to be decisive: In his 1:3 against Teimour Radjabov, Wesley So, 2nd in the standings, failed to score, while Carlsen, still occupying the top spot, extended his lead by two more points in the overall ranking thanks to his victory (in a tiebreak) against Anish Giri. The world champion's lead over So is now 7 points - almost insurmountable given that there is only a maximum of 9 points still to be earned. The tournament organizers might therefore soon proclaim Magnus Carlsen as the \"world's top online chess player\" as the potential winner of the tournament. | ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
          "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
-      },
-      {
-         "description" : "After the rest day on Thursday, 30 September, the second part of the Meltwater Chess Champions Tour Final will begin today, 1 October. With four rounds to go World Champion Magnus Carlsen leads the event and is five points ahead of Wesley So, who is in second place. Round 6 starts at 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live and with commentary by Simon Williams and Peter Leko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Fri, 01 Oct 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 6: Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While cheating seems to decline, its prevention will soon involve everyone. <em>Stefan L&ouml;ffler</em> reports on a <strong>Work4Chess</strong> conference session. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.1920.jpeg\" title=\"Age distribution of respondents who admitted to have cheated at least once. table: David Smerdon\" data-title=\"Age distribution of respondents who admitted to have cheated at least once. (table: David Smerdon)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/ever-cheated-at-chess-by-age-smerdon.480.jpe",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-3",
          "pubDate" : "Mon, 27 Sep 2021 12:33:00 -0700",
          "title" : "Champions Chess Tour Finals Day 3: Carlsen Becomes Sole Leader"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a chess class on a topic of his choice. 2021.10.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Mon, 27 Sep 2021 18:00:24 +0000",
-         "title" : "Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
          "description" : "The Norwegian Grandmaster Simen Agdestein coached Magnus Carlsen, and at a chess school in the Norwegian town of Bærum he still coaches some of the most promising Norwegian talents. Agdestein regularly travels with his pupils to tournaments, and from the 3rd to the 5th of September, Agdestein and his students took part in the Grand Prix Tournament in Krager&oslash;, which Agdestein won with 6.0/6. | Photo: The last round game between 12-year-old Martin Holten Fiskaaen and Agdestein. FM Ward Altarbosh in the background. | Photos: Tanja Cecilie Kveim",
@@ -1754,14 +1778,6 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty Five"
       },
       {
-         "description" : "12-year-old Abhimanyu Mishra, the youngest chess grandmaster in history, is among the 17-player field for the Hou Yifan Challenge, the 4th and final event on the Julius Baer Challengers Chess Tour before next month's final. The favourites for the tournament, which kicks off on Saturday 18th September, are previous winners Praggnanandhaa and Vincent Keymer, as well as Kramnik Challenger runner-up Awonder Liang. Poland's Paweł Teclaf and Oliwia Kiołbasa join Mishra in making debuts. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-s-youngest-gm-joins-field-for-hou-yifan-challenge",
-         "pubDate" : "Fri, 17 Sep 2021 10:29:23 +0000",
-         "title" : "World's youngest GM joins field for Hou Yifan Challenge"
-      },
-      {
          "description" : " China and India eliminated in semi-finals as big four of world chess outclass their rivals Russia's highly rated squad won gold at last week's 150-nation online Olympiad, yet the US silver medal team could argue that they were moral victors. Playing without all their top stars, the Americans were defeated by only a narrow 7-5 margin in a tense final match. Earlier in the semi-finals, Russia beat China while the US, again the rating underdogs, eliminated India in a speed tie-break. These four countries are in a class apart, the superpowers of world chess. <a href=\"https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5\">Continue reading..",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2154,36 +2170,12 @@ news_feed (
          "title" : "2021 Hardware Buyer's Guide"
       },
       {
-         "description" : "Ian Nepomniachtchi beat Sergey Karjakin on the rest day of the Norway Chess Tournament. The round-1 game had to be rescheduled after Nepo could not make it in time to Stavanger due to visa issues. Thanks to the victory in the classical game, the next challenger for the World Championship climbed to sole second place in the standings table. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-rest-day",
-         "pubDate" : "Sun, 12 Sep 2021 04:25:00 +0100",
-         "title" : "Norway Chess: Nepomniachtchi climbs to second place"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86121038.cms\" />It was no surprise that India made its way into the FIDE Online Olympiad quarterfinals after topping Division 1 Pool B with 16 points on Friday. The Viswanathan Anand-led side will be taking on Ukraine in the last-8 encounter on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/online-olympiad-viswanathan-anand-to-the-fore-in-indias-march-to-the-playoffs/articleshow/86121038.cms",
          "pubDate" : "Sat, 11 Sep 2021 21:15:53 +0530",
          "title" : "Online Olympiad: Anand to the fore in India's march to the playoffs"
-      },
-      {
-         "description" : " A few years ago Stewart Reuben suggested that if more than one person does not understand what a regulations means then it should be rewritten. Personally I think that that requirement is too strict, but the \"Rule of Some, Most, All\" should apply. Basically if only some people understand a rule or instruction, then it is the underlying system that needs fixing. An example is having to line up for something, and being faced with confusing signage. In only some people understand it it, the system of queuing is probably broken. If on the other most people get it right, then the signs need to be made clearer. But if everyone understands it (where the value of everyone is say 1 in 50), then the ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/some-v-most-v-all.html",
-         "pubDate" : "Sat, 11 Sep 2021 14:14:00 +0000",
-         "title" : "Some v Most v All"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1329",
-         "pubDate" : "Sat, 11 Sep 2021 12:09:55 +0000",
-         "title" : "Leinier Dominguez wins 2021 Champions Showdown: Chess 9LX"
       }
    ]
 }
