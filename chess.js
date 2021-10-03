@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Before the 8th round on Sunday the tournament victor of the Champions Chess Tour - World Champion Carlsen - has already been decided. However, the battle for positioning in the standings is still exciting, with the fight for second place between Wesley So and Teimour Radjabov being particularly noteworthy. So currently has a half-point lead; today he will face Jan-Krzysztof Duda. Radjabov will try to score against Shakhriyar Mamedyarov. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Sun, 03 Oct 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 8: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86731096.cms\" />Young Indian Grandmaster Arjun Erigaisi scored seven points from nine rounds to finish second in the Junior U-21 Round Table Open Chess Championship which concluded on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-gm-arjun-erigaisi-finishes-second-in-chess-tournament-in-bulgaria/articleshow/86731096.cms",
+         "pubDate" : "Sun, 03 Oct 2021 20:20:59 +0530",
+         "title" : "India's GM Arjun Erigaisi finishes second in chess tournament in Bulgaria"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 47th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on h6\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-47-the-target-on-h6",
+         "pubDate" : "Sun, 03 Oct 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 47: The target on h6"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen has won the $1.6 million Meltwater Champions Chess Tour with two rounds of the Finals to spare, following up on his victory in the Magnus Carlsen Chess Tour a year earlier. His lead in the overall standings became unassailable when 2nd place Wesley So crashed to a 2.5:0.5 defeat to Levon Aronian. That meant it didn't matter that Magnus himself went down in flames after a queen sacrifice against Teimour Radjabov that he admitted was \"partly a joke\". Teimour is now just half a point behind Wesley with two rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
          "pubDate" : "Sun, 03 Oct 2021 10:40:30 +0100",
          "title" : "Chasing the biggest fans"
-      },
-      {
-         "description" : "Yesterday, 2 October 2020, Jon Speelman turned 65. Congratulations! The English Grandmaster and former World Championship Candidate, who in January 1989 was the world's number four, used this occasion to look back on his career and to select some of the most interesting games he played as an up-and-coming player. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-speelman-the-joys-of-codgerdom",
-         "pubDate" : "Sun, 03 Oct 2021 10:00:00 +0100",
-         "title" : "Jon Speelman: The Joys of Codgerdom"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Muny in Forest Park, GM Maurice Ashley hosts the Opening Ceremony and Drawing of Lots for the U.S. &amp; U.S. Women&#039;s Chess Championships. Plus, Dr. Jeanne and Rex Sinquefield are inducted into the U.S. Chess Hall of Fame. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-hof-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-lose-to-russia-in-final-win-first-ever-medal-at-event/articleshow/86713893.cms",
          "pubDate" : "Sat, 02 Oct 2021 23:27:54 +0530",
          "title" : "World Women's Team Chess: India win first ever medal at event"
-      },
-      {
-         "description" : "In Round 7 on Saturday Magnus Carlsen plays Teimour Radjabov, while his now distant rival for the first place Wesley So faces Levon Aronian - if things go well for him the World Champion could secure his overall Tour win as early as today. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Sat, 02 Oct 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 7: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> September 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
