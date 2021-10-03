@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen has won the $1.6 million Meltwater Champions Chess Tour with two rounds of the Finals to spare, following up on his victory in the Magnus Carlsen Chess Tour a year earlier. His lead in the overall standings became unassailable when 2nd place Wesley So crashed to a 2.5:0.5 defeat to Levon Aronian. That meant it didn't matter that Magnus himself went down in flames after a queen sacrifice against Teimour Radjabov that he admitted was \"partly a joke\". Teimour is now just half a point behind Wesley with two rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
+         "pubDate" : "Sun, 03 Oct 2021 11:20:46 +0000",
+         "title" : "Magnus Carlsen wins the Meltwater Champions Chess Tour"
+      },
+      {
+         "description" : "After the 7th round of the final tournament of the \"Meltwater Champions Chess Tour\" played on Saturday, Magnus Carlsen is now the \"Tour Winner\". Although neither the World Champion nor his direct rival Wesley So scored, So cannot catch up to Carlsen's seven-point lead with only two remaining rounds. Carlsen lost to Teimour Radjabov 1:3, while So lost to Levon Aronian 0.5:2.5 after just three games. Radjabov is now only half a point behind So and could challenge him for second place - the prize money difference between second and third place is USD 20,000. | Graphic: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
+         "pubDate" : "Sun, 03 Oct 2021 11:00:00 +0100",
+         "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
+         "pubDate" : "Sun, 03 Oct 2021 10:40:30 +0100",
+         "title" : "Chasing the biggest fans"
+      },
+      {
+         "description" : "Yesterday, 2 October 2020, Jon Speelman turned 65. Congratulations! The English Grandmaster and former World Championship Candidate, who in January 1989 was the world's number four, used this occasion to look back on his career and to select some of the most interesting games he played as an up-and-coming player. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-speelman-the-joys-of-codgerdom",
+         "pubDate" : "Sun, 03 Oct 2021 10:00:00 +0100",
+         "title" : "Jon Speelman: The Joys of Codgerdom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Muny in Forest Park, GM Maurice Ashley hosts the Opening Ceremony and Drawing of Lots for the U.S. &amp; U.S. Women&#039;s Chess Championships. Plus, Dr. Jeanne and Rex Sinquefield are inducted into the U.S. Chess Hall of Fame. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-hof-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1369",
          "pubDate" : "Sat, 02 Oct 2021 22:35:30 +0000",
          "title" : "CFR Team takes the gold to Russia"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
-         "pubDate" : "Sat, 02 Oct 2021 23:21:08 +0100",
-         "title" : "Chasing the biggest fans"
       },
       {
          "description" : "In round seven of the Meltwater Champions Chess Tour Finals, the two leaders, GM Magnus Carlsen and GM&#38;nbsp;Teimour Radjabov, faced each other. The Azeri star won the match, but... this day still turned out amazing for the world champion, who won ...",
@@ -1778,14 +1802,6 @@ news_feed (
          "title" : "Norway Chess - Carlsen takes first place"
       },
       {
-         "description" : "Magnus Carlsen goes into the final round of Norway Chess against Ian Nepomniachtchi as the tournament leader after picking up a 4th win in a row, but he admitted he'd been outplayed and in huge danger against Sergey Karjakin. Richard Rapport trails Magnus by 1.5 points after losing to Ian Nepomniachtchi in Armageddon, while the only other player who can catch Magnus is 18-year-old Alireza Firouzja, who broke into the Top 10 for the first time with a 3rd win in a row, this time against Aryan Tari.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-9-carlsen-wins-4th-in-a-row-firouzja-enters-top-10",
-         "pubDate" : "Fri, 17 Sep 2021 14:19:17 +0000",
-         "title" : "Norway Chess 9: Carlsen wins 4th in a row, Firouzja in Top 10"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86293053.cms\" />Mary Ann Gomes will replace Koneru Humpy in the World women's team event which is scheduled to be held in Sitges, Spain from September 26 to October 3. Humpy, who has taken both her jabs in Covaxin, would have to undergo a 10-day quarantine on arrival.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2176,22 +2192,6 @@ news_feed (
          "link" : "https://chessimprover.com/queen-and-pawn-v-queen/",
          "pubDate" : "Sun, 12 Sep 2021 18:30:49 +0000",
          "title" : "Queen and Pawn v Queen"
-      },
-      {
-         "description" : " The local ABC television station did a quick report in what students were doing to keep busy and engaged during the current Covid lockdown. Chess was one of the activities featured. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/xkWuH_zO7QI\" width=\"320\" youtube-src-id=\"xkWuH_zO7QI\"></iframe></div><br /> <br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/school-chess-in-lockdown.html",
-         "pubDate" : "Sun, 12 Sep 2021 10:51:00 +0000",
-         "title" : "School Chess in Lockdown"
-      },
-      {
-         "description" : "Your computers and computer components are feeling a bit long in the tooth, and although still good (or not), you know you are behind the curve. Or perhaps you are buying a dedicated machine for chess and unsure what will be best for you. Either way, this long-awaited guide will help you plan your purchase with confidence for all budgets.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2021-hardware-buyer-s-guide",
-         "pubDate" : "Sun, 12 Sep 2021 10:00:00 +0100",
-         "title" : "2021 Hardware Buyer's Guide"
       }
    ]
 }
