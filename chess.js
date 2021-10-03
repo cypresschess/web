@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yesterday, 2 October 2021, Jon Speelman turned 65. Congratulations! The English Grandmaster and former World Championship Candidate, who in January 1989 was the world's number four, used this occasion to look back on his career and to select some of the most interesting games he played as an up-and-coming player. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-speelman-the-joys-of-codgerdom",
+         "pubDate" : "Sun, 03 Oct 2021 18:00:00 +0100",
+         "title" : "Jon Speelman: The joys of Codgerdom"
+      },
+      {
+         "description" : "Appended below please find the list of players registered for the Asian Online Youth Chess Championship. We send an email to your respective registered email",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-online-youth-chess-championship-registration-details/",
+         "pubDate" : "Sun, 03 Oct 2021 16:23:15 +0000",
+         "title" : "Asian Online Youth Chess Championship : Registration Details"
+      },
+      {
          "description" : "Before the 8th round on Sunday the tournament victor of the Champions Chess Tour - World Champion Carlsen - has already been decided. However, the battle for positioning in the standings is still exciting, with the fight for second place between Wesley So and Teimour Radjabov being particularly noteworthy. So currently has a half-point lead; today he will face Jan-Krzysztof Duda. Radjabov will try to score against Shakhriyar Mamedyarov. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Sun, 03 Oct 2021 16:45:00 +0100",
          "title" : "Champions Chess Tour, Round 8: Live"
+      },
+      {
+         "description" : " I often see posts on various Facebook groups asking something like &#8220;My rating's been stuck at 800 for months: how can I improve?&#8221; Of course, at one level, the answer's simple: stop hanging pieces. But they're never amused when you suggest that. They tend to be more impressed by advice to, for example, read Modern <a href=\"https://chessimprover.com/hanging-offence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hanging Offence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hanging-offence/\">Hanging Offence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/hanging-offence/",
+         "pubDate" : "Sun, 03 Oct 2021 15:30:42 +0000",
+         "title" : "Hanging Offence"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 45 teams with nearly 200 players competed in the <strong>Dutch Corporate Championship</strong> held as a rapid Swiss in Wijk aan Zee with support from <strong>Tata Steel</strong>. The outright favourite <strong>Hotels.nl</strong>, a booking website founded by chess lover <strong>Kees Eldering</strong>, <a href=\"https://www.schaaksite.nl/2021/10/03/nk-bedrijvenschaak-2021/\">won only by a small margin</a>, after top player <strong>Jorden van Foreest</strong> conceded two points and ended only 28th in the <a href=\"https://www.schaaksite.nl/wp-content/uploads/2021/10/ranglijst-individueel-eindstand.pdf\">individual scoreboard</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/hotelsnl-is-dutch-corporate/",
+         "pubDate" : "Sun, 03 Oct 2021 15:55:18 +0100",
+         "title" : "Hotels.nl is Dutch corporate champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86731096.cms\" />Young Indian Grandmaster Arjun Erigaisi scored seven points from nine rounds to finish second in the Junior U-21 Round Table Open Chess Championship which concluded on Sunday.",
@@ -62,8 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-3-xiong-clinches-grand-prix-victory-chigaev-wins-knockout",
-         "pubDate" : "Sat, 02 Oct 2021 19:29:08 -0700",
-         "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand-Prix Victory, Chigaev Wins Knockout"
+         "pubDate" : "Sat, 02 Oct 2021 19:29:00 -0700",
+         "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand Prix Victory, Chigaev Wins Knockout"
       },
       {
          "description" : "Russia has defeated India 2.5-1.5 and 3-1 to confidently triumph in both rounds of the finals of the World Women&#39;s Team Championship that concluded in Sitges, Spain. If the semi-rapid event can be considered for historical continuity, this victory...",
@@ -71,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-womens-team-championship-final-russia-asserts-superiority-over-india",
          "pubDate" : "Sat, 02 Oct 2021 17:38:00 -0700",
-         "title" : "FIDE World Women's Team Championship Final: Russia Asserts Superiority Over India"
+         "title" : "FIDE World Women's Team Championship Final: Russia Wins Gold In Victory Over India"
       },
       {
          "description" : "",
@@ -384,14 +416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-kazakhstan-draw-1st-match-of-quarter-final/articleshow/86656118.cms",
          "pubDate" : "Thu, 30 Sep 2021 21:55:04 +0530",
          "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> All US top players except Hikaru Nakamura <a href=\"https://www.chess.com/article/view/us-chess-championships\">will compete</a> on 6-18 October at the <strong>Saint Louis Chess Club</strong> for $194,000, of which $50,000 goes to the winner, at the <strong>US Championship</strong>. The prize-fund in the parallely held women's competition is $100,000. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/only-nakamura-misses-us-championship/",
-         "pubDate" : "Thu, 30 Sep 2021 16:25:45 +0100",
-         "title" : "Only Nakamura misses US championship"
       },
       {
          "description" : "Magnus Carlsen ended Hikaru Nakamura's brief reign as the top scorer in the Meltwater Champions Chess Tour Finals with a commanding 2.5:0.5 victory over the US star in Round 5. The win saw Magnus extend his overall lead over Wesley So to 5 points, but it could easily have been 7, since Anish Giri was on the verge of beating Wesley before committing a huge blunder and going on to lose a playoff. Teimour Radjabov beat Levon Aronian to catch his rival in 3rd place, while there were also wins for Maxime Vachier-Lagrave and Vladislav Artemiev.",
@@ -2130,14 +2154,6 @@ news_feed (
          "title" : "The semi-finals are served: India-USA and China-Russia"
       },
       {
-         "description" : "India entered the Semi Final of the ongoing World Online Chess Olympiad after beating Ukraine in the Quarterfinal. The exciting match was decided in the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-beat-ukraine-enter-semi-final-of-world-online-chess-olympiad/",
-         "pubDate" : "Mon, 13 Sep 2021 15:46:24 +0000",
-         "title" : "India beat Ukraine; enter semi final of World Online Chess Olympiad"
-      },
-      {
          "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. Meanwhile, Alireza Firouzja also won his classical game and Ian Nepomniachtchi got the better of Richard Rapport in Armageddon. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2162,14 +2178,6 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
       },
       {
-         "description" : "The Live Database is the full database by ChessBase, stored online, that can be searched from both the ChessBase program, as well as the browser. With it you can search for any position, player, tournament, or game, and see all the statistics such as the win/loss percentage, the Live Book data, and even search with an engine, all straight from the browser. Read on to learn more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/using-the-live-database-from-the-browser",
-         "pubDate" : "Mon, 13 Sep 2021 10:00:00 +0100",
-         "title" : "Using the Live Database from the browser"
-      },
-      {
          "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/61FA2E56-3731-4873-8800-3BD9B12A3FC8.jpeg\" width=\"1600\" height=\"1222\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2192,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1330",
          "pubDate" : "Sun, 12 Sep 2021 19:59:37 +0000",
          "title" : "Anish Giri wins Tolstoy Cup"
-      },
-      {
-         "description" : " My thanks to IM Paul Littlewood for posting this on Facebook. It's Black's move in this position from the recent game Awonder Liang (2587) v Santosh Gujrathi Vidit (2726) (Aimchess US Rapid Preliminaries). What would you suggest? This position is mostly about understanding king and pawn against king, but there's another subtlety as well. The <a href=\"https://chessimprover.com/queen-and-pawn-v-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen and Pawn v Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-and-pawn-v-queen/\">Queen and Pawn v Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/queen-and-pawn-v-queen/",
-         "pubDate" : "Sun, 12 Sep 2021 18:30:49 +0000",
-         "title" : "Queen and Pawn v Queen"
       }
    ]
 }
