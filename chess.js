@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/",
+         "pubDate" : "Sun, 03 Oct 2021 19:41:15 +0000",
+         "title" : "Kenya's Sagwe walks 165kms to promote chess"
+      },
+      {
          "description" : "Yesterday, 2 October 2021, Jon Speelman turned 65. Congratulations! The English Grandmaster and former World Championship Candidate, who in January 1989 was the world's number four, used this occasion to look back on his career and to select some of the most interesting games he played as an up-and-coming player. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -238,7 +246,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor",
-         "pubDate" : "Fri, 01 Oct 2021 17:09:44 -0700",
+         "pubDate" : "Fri, 01 Oct 2021 17:09:00 -0700",
          "title" : "FIDE Announces Breast Implant Company As Women's World Championship Sponsor"
       },
       {
@@ -2186,20 +2194,12 @@ news_feed (
          "title" : "Google Customizes Search Results Display with Chess Pieces"
       },
       {
-         "description" : " Share!1.1k IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State Championship [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/",
          "pubDate" : "Mon, 13 Sep 2021 03:36:13 +0000",
          "title" : "Justus Williams clinches IM title!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1330",
-         "pubDate" : "Sun, 12 Sep 2021 19:59:37 +0000",
-         "title" : "Anish Giri wins Tolstoy Cup"
       }
    ]
 }
