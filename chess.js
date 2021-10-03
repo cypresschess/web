@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Muny in Forest Park, GM Maurice Ashley hosts the Opening Ceremony and Drawing of Lots for the U.S. &amp; U.S. Women&#039;s Chess Championships. Plus, Dr. Jeanne and Rex Sinquefield are inducted into the U.S. Chess Hall of Fame. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-hof-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-opening-ceremony-hof-inductions",
+         "pubDate" : "Sun, 03 Oct 2021 06:05:29 +0000",
+         "title" : "2021 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
+      },
+      {
          "description" : "GM Maxim Chigaev triumphed in a tense knockout final against GM Jeffery Xiong to win the third Speed Chess Championship Grand Prix tournament, but it was the runner-up, Xiong, who managed to amass enough points to guarantee himself a Grand Prix vi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-womens-team-championship-final-russia-asserts-superiority-over-india",
-         "pubDate" : "Sat, 02 Oct 2021 17:38:32 -0700",
+         "pubDate" : "Sat, 02 Oct 2021 17:38:00 -0700",
          "title" : "FIDE World Women's Team Championship Final: Russia Asserts Superiority Over India"
       },
       {
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky",
          "pubDate" : "Tue, 28 Sep 2021 18:01:41 +0000",
          "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> International Master Dorsa Derakhshani teaches a chess class based on her new book, featuring Vishy Anand and Amin Tabatabaei. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/your-jungle-guide-unbalancing-your-opponents-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Tue, 28 Sep 2021 18:01:41 +0000",
-         "title" : "Your Jungle Guide to Unbalancing Your Opponents | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "All India Chess Federation under Chess for Everyone project is going to organizing district wise Arbiter and Organiser Training as well as Coaching Camps for",
