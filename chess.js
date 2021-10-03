@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxim Chigaev triumphed in a tense knockout final against GM Jeffery Xiong to win the third Speed Chess Championship Grand Prix tournament, but it was the runner-up, Xiong, who managed to amass enough points to guarantee himself a Grand Prix vi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-3-xiong-clinches-grand-prix-victory-chigaev-wins-knockout",
+         "pubDate" : "Sat, 02 Oct 2021 19:29:08 -0700",
+         "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand-Prix Victory, Chigaev Wins Knockout"
+      },
+      {
+         "description" : "Russia has defeated India 2.5-1.5 and 3-1 to confidently triumph in both rounds of the finals of the World Women&#39;s Team Championship that concluded in Sitges, Spain. If the semi-rapid event can be considered for historical continuity, this victory...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-womens-team-championship-final-russia-asserts-superiority-over-india",
+         "pubDate" : "Sat, 02 Oct 2021 17:38:32 -0700",
+         "title" : "FIDE World Women's Team Championship Final: Russia Asserts Superiority Over India"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-7",
-         "pubDate" : "Sat, 02 Oct 2021 14:45:40 -0700",
+         "pubDate" : "Sat, 02 Oct 2021 14:45:00 -0700",
          "title" : "Champions Chess Tour Finals Day 7: Carlsen Loses But Wins Series"
       },
       {
@@ -1562,14 +1578,6 @@ news_feed (
          "title" : "ChessBase Tactics web app: Best by test"
       },
       {
-         "description" : "The Netflix hit series The Queen&#39;s Gambit won a total of 11 Emmy Awards, including the top prize for limited series. At Sunday&#39;s Primetime Emmy Awards, director Scott Frank received a trophy as well, a week after the series had already clinched ni...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-queens-gambit-wins-11-emmys-awards",
-         "pubDate" : "Mon, 20 Sep 2021 04:09:00 -0700",
-         "title" : "'The Queen's Gambit' Wins 11 Emmys Including Best Limited Series"
-      },
-      {
          "description" : "Indian chess prodigy Praggnanandhaa won all four games of his games on Day 2 of the Hou Yifan Challenge to reach a perfect 9/9 score as the 4th stage of the Julius Baer Challengers Chess Tour crossed the halfway mark. That put him two ahead of Vincent Keymer in 2nd place, but Vincent has played one game less and scored 3/3 on Day 2 to keep within striking distance before their head-to-head clash. Christopher Yoo is in 3rd place, while Poland's Pawel Teclaf had a good day to move up to 4th.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-1-praggnanandhaa-perfect",
          "pubDate" : "Sun, 19 Sep 2021 10:21:28 +0000",
          "title" : "Hou Yifan Challenge 1: Praggnanandhaa perfect"
-      },
-      {
-         "description" : "Saturday, September 18, brought to chess fans all around the world the next leg of one of the most anticipated online tournaments of the year: the Speed Chess Championship Grand Prix. This event consists of four tournaments that take place betwe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/scc-grand-prix-1-drozdowski",
-         "pubDate" : "Sat, 18 Sep 2021 17:08:00 -0700",
-         "title" : "Speed Chess Grand Prix 1: IM Drozdowski Triumphs"
       },
       {
          "description" : "Day 1 of the Hou Yifan Challenge, the last regular event of the Julius Baer Challengers Tour, saw Praggnanandhaa scoring five wins in as many games to take the sole lead. Vincent Keymer won his first four games, but lost against Christopher Yoo in the final round of the day, and now stands in sole second place. Pragg's sister Vaishali was the strongest among the women, as she collected 2&frac12; points in four games. | Pictured: Vaishali and Pragg with their mother, Nagalakshmi | Photo: Amruta Mokal",
