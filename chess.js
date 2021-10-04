@@ -2,15 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In round eight of the Meltwater Champions Chess Tour Finals, which took place on Sunday, the leader of the event&#38;mdash;GM Teimour Radjabov&#38;mdash;beat his countryman, GM Shakhriyar Mamedyarov. The win guaranteed Radjabov as the champion a round bef...",
+         "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-8-radjabov-is-champion-before-tournament-ends",
-         "pubDate" : "Sun, 03 Oct 2021 20:24:01 -0700",
-         "title" : "Champions Chess Tour Finals Day 8: Radjabov Is Champion Before Tournament Ends"
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-8",
+         "pubDate" : "Sun, 03 Oct 2021 20:24:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 8: Radjabov Moves To 2nd Place"
       },
       {
-         "description" : " Share! Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
+         "description" : " Share!2 Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/",
@@ -2184,22 +2184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-160-endgame-highlights-from-the-world-cup-in-sochi",
          "pubDate" : "Mon, 13 Sep 2021 14:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
-      },
-      {
-         "description" : " Google customized the way it displays search results for the term 'chess'. Now the pagination appears as chess pieces, i.e. page one of search results is displayed as king, and next pages as pawns and other chess pieces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/61FA2E56-3731-4873-8800-3BD9B12A3FC8.jpeg\" width=\"1600\" height=\"1222\" alt=\"\" /> <div class=\"e2-text-caption\">Bottom of the Google results page. Try to search 'Chess' in your country</div> </div> This is not the first time Google, the world's most popular search engine, customized its pages with chess: during the 2016 World Chess Championship that was held in New York City, the search engine introdu",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/google-customizes-search-results-display-with-chess-pieces/",
-         "pubDate" : "Mon, 13 Sep 2021 07:27:01 +0000",
-         "title" : "Google Customizes Search Results Display with Chess Pieces"
-      },
-      {
-         "description" : " IM-Elect Justus WilliamsPhoto by CCSCSL At long last another International Master in the ranks! Justus Williams has put together a string of strong results to eclipse the 2400 barrier, thus fulfilling the last requirement for the FIDE title of International Master. Over Labor Day weekend Justus scored 7/7 to win the Illinois Open State Championship [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/\">Justus Williams clinches IM title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/09/12/justus-williams-clinches-im-title/",
-         "pubDate" : "Mon, 13 Sep 2021 03:36:13 +0000",
-         "title" : "Justus Williams clinches IM title!"
       }
    ]
 }
