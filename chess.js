@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round eight of the Meltwater Champions Chess Tour Finals, which took place on Sunday, the leader of the event&#38;mdash;GM Teimour Radjabov&#38;mdash;beat his countryman, GM Shakhriyar Mamedyarov. The win guaranteed Radjabov as the champion a round bef...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-8-radjabov-is-champion-before-tournament-ends",
+         "pubDate" : "Sun, 03 Oct 2021 20:24:01 -0700",
+         "title" : "Champions Chess Tour Finals Day 8: Radjabov Is Champion Before Tournament Ends"
+      },
+      {
          "description" : " Share! Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -90,7 +98,7 @@ news_feed (
          "title" : "Chasing the biggest fans"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Muny in Forest Park, GM Maurice Ashley hosts the Opening Ceremony and Drawing of Lots for the U.S. &amp; U.S. Women&#039;s Chess Championships. Plus, Dr. Jeanne and Rex Sinquefield are inducted into the U.S. Chess Hall of Fame. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-hof-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail",
+         "description" : "<div class=\"body text-secondary\"> Join us for a free, live-streamed ceremony honoring 2020 U.S. Chess Hall of Fame Inductees Dr. Jeanne Cairns Sinquefield and Rex Sinquefield, co-founders of the Saint Louis Chess Campus, on Tuesday, October 5, 2021, beginning at 7:15 p.m. CT. The inductions will coincide with the 2021 U.S. Chess and U.S. Women's Chess Championships Opening Ceremony and Drawing of the Lots. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-opening-ceremony-hof-inductions",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-team-ch-2021-preview",
          "pubDate" : "Wed, 22 Sep 2021 09:40:02 +0100",
          "title" : "With a new format: Women's World Team Championship in Sitges"
-      },
-      {
-         "description" : "On Tuesday, chess fans around the world followed the quarterfinals of the Pro Chess League&#39;s Arena Royale. Before we take a look at how the event unfolded, you need to be aware of a change: as you might have read, there were supposed to be three...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-quarterfinals-st-louis-archbishops-dominate",
-         "pubDate" : "Tue, 21 Sep 2021 19:49:00 -0700",
-         "title" : "PRO Chess League Quarterfinals: Saint Louis Arch Bishops Dominate"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the end of Norway Chess and Carlsen's fantastic resurgence in the second half to win the tournament. He will also briefly cover the Hou Yifan Challenge, Norway Open Masters and European Club Cup. But the game of the day will be the exciting encounter Firouzja-Rapport, which involved a very interesting opening debate but ultimately one that was successful for the young prodigy. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
