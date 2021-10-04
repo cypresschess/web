@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 18 to 21 September, 17 of the world's best juniors played a round robin rapid online tournament, the Hou Yifan Challenge, which is part of the Julius Baer Challengers Tour. In the \"Endgame Magic Show #163\" Arne Kaehler and Karsten Mueller look at endgame highlights from this tournament that was won by Vincent Keymer, who finished two points ahead of Christopher Yoo and Praggnanandhaa.| Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-163-highlights-of-the-hou-yifan-challenge",
+         "pubDate" : "Mon, 04 Oct 2021 11:00:00 +0100",
+         "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
+         "pubDate" : "Mon, 04 Oct 2021 10:28:03 +0100",
+         "title" : "Chasing the biggest fans"
+      },
+      {
+         "description" : "Click the link to read a post from Northenden Chess Club and John Hennessy to cheer us all up as we try to get back...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/silence-has-never-sounded-so-good/",
+         "pubDate" : "Mon, 04 Oct 2021 08:48:37 +0000",
+         "title" : "Silence has never sounded so good"
+      },
+      {
+         "description" : "We hope to be able to run a number of National Schools Junior Team Challenege local events, either face-to-face or as online events. If you...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/nscc-junior-team-challenge/",
+         "pubDate" : "Mon, 04 Oct 2021 08:38:04 +0000",
+         "title" : "NSCC Junior Team Challenge"
+      },
+      {
          "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
          "pubDate" : "Sun, 03 Oct 2021 11:00:00 +0100",
          "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
-         "pubDate" : "Sun, 03 Oct 2021 10:40:30 +0100",
-         "title" : "Chasing the biggest fans"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Join us for a free, live-streamed ceremony honoring 2020 U.S. Chess Hall of Fame Inductees Dr. Jeanne Cairns Sinquefield and Rex Sinquefield, co-founders of the Saint Louis Chess Campus, on Tuesday, October 5, 2021, beginning at 7:15 p.m. CT. The inductions will coincide with the 2021 U.S. Chess and U.S. Women's Chess Championships Opening Ceremony and Drawing of the Lots. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-",
@@ -1370,14 +1394,6 @@ news_feed (
          "title" : "Sigeman Chess Tournament"
       },
       {
-         "description" : "A complaint under Regulation 5 was raised by Chris Fegan in relation to email correspondence involving Mike Truran. A panel of Julian Clissold, Mike Gunn...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/complaint-under-regulation-5-2/",
-         "pubDate" : "Thu, 23 Sep 2021 11:02:15 +0000",
-         "title" : "Complaint under Regulation 5"
-      },
-      {
          "description" : "Currently, Magnus Carlsen is in Struga, in North Macedonia, where he plays in the European Club Cup for Offerspill, his Norwegian club. During the event Carlsen found time to sign the contract about the regulations of the World Championship Match against Ian Nepomniachtchi in November. Carlsen's sponsor Unibet used the occasion to ask the World Champion some questions about the contract, the match and his preparation. | Photo: Unibet",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-norway-chess-final",
          "pubDate" : "Tue, 21 Sep 2021 18:00:00 +0100",
          "title" : "The Weekly Show: Norway Chess Final"
-      },
-      {
-         "description" : "I am training for the London Marathon on Sunday 3rd October 2021 and running for the Stroke Association. Please sponsor me and my excellent charity...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/im-lorins-london-marathon/",
-         "pubDate" : "Tue, 21 Sep 2021 15:07:11 +0000",
-         "title" : "IM Lorin's London Marathon"
       },
       {
          "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anish-giri-wins-tolstoy-cup",
          "pubDate" : "Mon, 13 Sep 2021 14:41:29 +0100",
          "title" : "Anish Giri wins Tolstoy Cup"
-      },
-      {
-         "description" : "The World Cup in Sochi 2021 saw a huge number of fascinating endgames, and for his \"Endgame Magic Show #160\" Karsten selected mostly rook endgames. Interesting, instructive, and practically relevant. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-160-endgame-highlights-from-the-world-cup-in-sochi",
-         "pubDate" : "Mon, 13 Sep 2021 14:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #160: Endgame highlights from the World Cup in Sochi"
       }
    ]
 }
