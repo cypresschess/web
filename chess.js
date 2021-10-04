@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Round 8 of the Meltwater Champions Chess Tour Finals saw Teimour Radjabov beating Shakhriyar Mamedyarov to grab the second place in the standings table ahead of Wesley So. In Monday's final round, So faces tour winner Magnus Carlsen while Radjabov plays Maxime Vachier-Lagrave. | Follow the games live with commentary by Simon Williams and Peter Leko, starting at 17.00 CEST.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1370",
+         "pubDate" : "Mon, 04 Oct 2021 21:34:50 +0000",
+         "title" : "Alexey Sarana wins Junior U21 Round Table Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> By winning the last six matches, including wins in a row against the top-ranked Aronian, So and Carlsen, <strong>Teimur Radjabov</strong> secured himself the second place in the <strong>Meltwater Champions Chess Tour Final</strong>. <strong>Wesley So</strong>, the only player who gave tour winner Carlsen a fight for first, <a href=\"https://championschesstour.com/finals-2021/schedule/\">ended fourth</a> after being overtaken by <strong>Levon Aronian</strong> in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/9/1/1\">final round</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/radjabov-and-aronian-overtake-so/",
+         "pubDate" : "Mon, 04 Oct 2021 21:29:53 +0100",
+         "title" : "Radjabov and Aronian overtake So"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the 2021 Meltwater Champions Chess Tour Finals. GM Teimour Radjabov finished in second place (although he scored the most points in the event itself) and GM Levon Aronian finished third. Perhaps, GM Wesley So has the most rea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-9",
+         "pubDate" : "Mon, 04 Oct 2021 13:22:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 9: Carlsen Wins Tour, Radjabov Top Finals Scorer"
+      },
+      {
+         "description" : "Teimour Radjabov and Levon Aronian won in the last round of the Champions Chess Tour Finals to secure second and third places behind tour champion Magnus Carlsen. Carlsen beat Wesley So, leaving the Filipino-born grandmaster in fourth place. | Results, games and standings. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
          "pubDate" : "Mon, 04 Oct 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 9: Live"
+         "title" : "Champions Chess Tour, Round 9 - Results and standings"
       },
       {
          "description" : "At the Women's World Team Championships in Sitges, Spain, the Russian team won the gold medal on Saturday by defeating India in the final match. The Russian players in the photo from left to right: Alina Kashlinskaya, Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno and Alexandra Kosteniuk. | Photos: Niki Riga",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1368",
          "pubDate" : "Sat, 02 Oct 2021 20:33:37 +0000",
          "title" : "Magnus Carlsen wins first Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s announcement of <strong>Establishment Labs</strong>, a producer of breast implants, as sponsor of women's chess is drawing lots of criticism. <strong>Lichess</strong> <a href=\"https://lichess.org/blog/YVWlhhIAACUAp9eF/fide-picks-breast-implants-as-a-sponsor-for-womens-chess\">gathered statements</a> from female players, mostly anonymous. <strong>Chess.com</strong> <a href=\"https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor\">announced</a> that it considers this sponsorshop as not positive for women's chess and inappropriate and will not feature it in its future reporting. ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/breast-implant-sponsorship-backfires/",
-         "pubDate" : "Sat, 02 Oct 2021 21:31:25 +0100",
-         "title" : "Breast implant sponsorship backfires"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With two rounds to go in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/7/1/1\">final tournament</a> <strong>Magnus Carlsen</strong> won the <strong>Meltwater Champions Chess Tour</strong> and added $100,000 to bring his tour winnings to $315,000. </div> ",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "ChessBase Tactics app: Adrenaline Rush"
       },
       {
-         "description" : "PogChamps 4 presented by Coinbase was a huge hit filled with drama, incredible twists, and clippable moments. If you&#39;re still not ready to say goodbye to our beloved Pog participants, we have good news! You can now play against poggers Harry Mack,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-4-bots",
-         "pubDate" : "Wed, 22 Sep 2021 15:59:56 -0700",
-         "title" : "Play Chess Against Fundy, Tectone, QTCinderella, And More!"
-      },
-      {
          "description" : "\"I wouldn't play unless I was fully motivated,\" said Magnus Carlsen as he signed the contract for his World Chess Championship match just over two months before battle is set to commence against Ian Nepomniachtchi in Dubai. Magnus signing the contract in Skopje during the European Club Cup was reported by his sponsors Unibet, who also posted a video of Magnus and his father Henrik in Dubai checking out hotels and the Dubai Exhibition Centre venue.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2160,30 +2168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-wrong-pawn",
          "pubDate" : "Tue, 14 Sep 2021 09:01:15 +0100",
          "title" : "The wrong pawn"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1332",
-         "pubDate" : "Mon, 13 Sep 2021 21:16:38 +0000",
-         "title" : "Solodovnichenko clinches title at Imperia International Chess Festival"
-      },
-      {
-         "description" : "Do I have to defend against my opponent's threat, or can I simply ignore it and look for my own chances? A typical question which has often been asked during practical play. This two volume series on Calculation in Attack & Defence is the ideal guide to develop a good sense for attacking play, while keeping an eye on your opponent's defensive resources and possible counterplay against your own king. At the same time you'll be challenged to defend against your opponent's threats and, given the chance, turn the tables by launching a devastating counter-attack yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-in-attack-defence-vol-1-2",
-         "pubDate" : "Mon, 13 Sep 2021 21:00:00 +0100",
-         "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 + 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1331",
-         "pubDate" : "Mon, 13 Sep 2021 19:38:17 +0000",
-         "title" : "The semi-finals are served: India-USA and China-Russia"
       }
    ]
 }
