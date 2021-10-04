@@ -10,7 +10,7 @@ news_feed (
          "title" : "Champions Chess Tour, Round 9: Live"
       },
       {
-         "description" : "At the Women's World Team Championships in Sitges, Spain, the Russian team won the gold medal on Saturdayby defeating India in the final match. The Russian players in the photo from left to right: Alina Kashlinskaya, Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno and Alexandra Kosteniuk. | Photos: Niki Riga",
+         "description" : "At the Women's World Team Championships in Sitges, Spain, the Russian team won the gold medal on Saturday by defeating India in the final match. The Russian players in the photo from left to right: Alina Kashlinskaya, Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno and Alexandra Kosteniuk. | Photos: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/russia-wins-womens-world-team-championship-2021",
