@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 8 of the Meltwater Champions Chess Tour Finals saw Teimour Radjabov beating Shakhriyar Mamedyarov to grab the second place in the standings table ahead of Wesley So. In Monday's final round, So faces tour winner Magnus Carlsen while Radjabov plays Maxime Vachier-Lagrave. | Follow the games live with commentary by Simon Williams and Peter Leko, starting at 17.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
+         "pubDate" : "Mon, 04 Oct 2021 16:45:00 +0100",
+         "title" : "Champions Chess Tour, Round 9: Live"
+      },
+      {
+         "description" : "At the Women's World Team Championships in Sitges, Spain, the Russian team won the gold medal on Saturdayby defeating India in the final match. The Russian players in the photo from left to right: Alina Kashlinskaya, Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno and Alexandra Kosteniuk. | Photos: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-wins-womens-world-team-championship-2021",
+         "pubDate" : "Mon, 04 Oct 2021 14:00:00 +0100",
+         "title" : "Chess Federation of Russia wins the Women's World Team Championship"
+      },
+      {
+         "description" : "Teimour Radjabov said \"this is the only day I don't enjoy my win\" after he defeated countryman Shakhriyar Mamedyarov to overtake Wesley So in the race for the $60,000 2nd place in the Meltwater Champions Chess Tour. That remarkable 5th win in a row in rapid chess meant that even though Wesley beat Jan-Krzysztof Duda in blitz chess he fell behind his rival. Wesley also needs to look over his shoulder to Levon Aronian, who said he \"didn't have much trouble\" beating Magnus Carlsen 3:1!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-8-radjabov-overtakes-so",
+         "pubDate" : "Mon, 04 Oct 2021 12:28:54 +0000",
+         "title" : "MCCT Finals 8: Radjabov overtakes So"
+      },
+      {
+         "description" : " This week it was the turn of the 'boys' to play in the East Asian Junior event (NB the event is titled 'boys' rather than 'open'). There were 7 players from the ACT taking part, and for all of them, this was their first international event. The best performed players were Dev Raichura and Jerry Cheng, in the Under 8's section. Both scored 6/9 to finish towards the top of the standings. In the Under 12 section, Larry Cheng scored 4.5/9, and would have been joined by Minchen Yang and Charles Huang, if final round results had gone their way. The next event is the Asian Online Junior and is expected that some of the players who played this event will back up for that one. <br /> <b>Cheng,Jerry ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/east-asian-junior-open.html",
+         "pubDate" : "Mon, 04 Oct 2021 12:16:00 +0000",
+         "title" : "East Asian Junior Open"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> <a href=\"https://www.fide.com/news/1367\">held in Sitges under a new format</a>, mixing rapid chess and k.o. mode in the absence of China, whose team wasn't allowed to travel. CFR stands for <strong>Chess Federation of Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/russian-women-are-team-world/",
+         "pubDate" : "Mon, 04 Oct 2021 12:09:44 +0100",
+         "title" : "Russian women are team world champion"
+      },
+      {
          "description" : "From 18 to 21 September, 17 of the world's best juniors played a round robin rapid online tournament, the Hou Yifan Challenge, which is part of the Julius Baer Challengers Tour. In the \"Endgame Magic Show #163\" Arne Kaehler and Karsten Mueller look at endgame highlights from this tournament that was won by Vincent Keymer, who finished two points ahead of Christopher Yoo and Praggnanandhaa.| Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://aicf.in/asian-online-youth-chess-championship-registration-details/",
          "pubDate" : "Sun, 03 Oct 2021 16:23:15 +0000",
          "title" : "Asian Online Youth Chess Championship : Registration Details"
-      },
-      {
-         "description" : "Before the 8th round on Sunday the tournament victor of the Champions Chess Tour - World Champion Carlsen - has already been decided. However, the battle for positioning in the standings is still exciting, with the fight for second place between Wesley So and Teimour Radjabov being particularly noteworthy. So currently has a half-point lead; today he will face Jan-Krzysztof Duda. Radjabov will try to score against Shakhriyar Mamedyarov. Here live with commentary from Simon Williams and Peter Leko, starting at 5pm.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Sun, 03 Oct 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 8: Live"
       },
       {
          "description" : " I often see posts on various Facebook groups asking something like &#8220;My rating's been stuck at 800 for months: how can I improve?&#8221; Of course, at one level, the answer's simple: stop hanging pieces. But they're never amused when you suggest that. They tend to be more impressed by advice to, for example, read Modern <a href=\"https://chessimprover.com/hanging-offence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hanging Offence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hanging-offence/\">Hanging Offence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/breast-implant-sponsorship-backfires/",
          "pubDate" : "Sat, 02 Oct 2021 21:31:25 +0100",
          "title" : "Breast implant sponsorship backfires"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> <a href=\"https://www.fide.com/news/1367\">held in Sitges under a new format</a>, mixing rapid chess and k.o. mode. CFR stands for <strong>Chess Federation of Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/russian-women-are-team-world/",
-         "pubDate" : "Sat, 02 Oct 2021 20:38:31 +0100",
-         "title" : "Russian women are team world champion"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With two rounds to go in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/7/1/1\">final tournament</a> <strong>Magnus Carlsen</strong> won the <strong>Meltwater Champions Chess Tour</strong> and added $100,000 to bring his tour winnings to $315,000. </div> ",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Attention to detail"
       },
       {
-         "description" : "\"I came away with absolutely everything I could have hoped for,\" said Magnus Carlsen after winning Norway Chess for a 3rd year in a row and a 4th time in total. He did it with another Armageddon win over his World Championship Challenger Ian Nepomniachtchi, who called his own performance \"completely disgusting\". Alireza Firouzja took 2nd place for a 2nd year in a row with a stunning win over Richard Rapport that completed a 4-game winning streak. It was a tough end for Richard, but left both in the World Top 10 for the 1st time in their careers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-4th-norway-chess-title",
-         "pubDate" : "Sat, 18 Sep 2021 13:44:48 +0000",
-         "title" : "Magnus Carlsen wins 4th Norway Chess title"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1331",
          "pubDate" : "Mon, 13 Sep 2021 19:38:17 +0000",
          "title" : "The semi-finals are served: India-USA and China-Russia"
-      },
-      {
-         "description" : "An eventful fifth round at the Norway Chess Tournament saw Sergey Karjakin beating Magnus Carlsen in their classical encounter. Meanwhile, Alireza Firouzja also won his classical game and Ian Nepomniachtchi got the better of Richard Rapport in Armageddon. At halftime, Rapport is still in the sole lead, a point ahead of Nepomniachtchi. Carlsen stands in fourth place, below Karjakin. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r5",
-         "pubDate" : "Mon, 13 Sep 2021 15:15:00 +0100",
-         "title" : "Norway Chess: Karjakin takes down Carlsen"
-      },
-      {
-         "description" : "The 12th of September marked the end of the first-ever international tournament held in honour of the great Russian writer Leo Tolstoy. It was won by the tournament rating favorite Anish Giri of the Netherlands, with a remarkable result of 8 out of 9 points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-wins-tolstoy-cup",
-         "pubDate" : "Mon, 13 Sep 2021 14:41:29 +0100",
-         "title" : "Anish Giri wins Tolstoy Cup"
       }
    ]
 }
