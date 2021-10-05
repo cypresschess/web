@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin comfortably reached the final of the Junior Speed Chess Championship presented by ChessKid, after a 20.5-9.5 win over GM Haik Martirosyan on Monday. Sarin will be defending his 2020 title against the winner of GM Raunak Sadhwani vs....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-sarin-martirosyan",
+         "pubDate" : "Tue, 05 Oct 2021 08:28:49 -0700",
+         "title" : "Junior Speed Chess Championship SF: Sarin Too Strong For Martirosyan"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg\" data-image-dimensions=\"410x354\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo by John Upham, courtesy of Tryfon Gavriel\" data-load=\"false\" data-image-id=\"615c5b6777baf339e2f400d0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><em>Photo </em><a href=\"https://johnupham.smugmug.com/\"><e",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/5/episode-246-cm-tryfon-gavriel-aka-kingscrusher",
+         "pubDate" : "Tue, 05 Oct 2021 14:10:50 +0000",
+         "title" : "Episode 246- CM Tryfon Gavriel (aka KingsCrusher)"
+      },
+      {
+         "description" : "The story captured headlines twenty years ago. Many people believe that Bobby Fischer has returned to chess and was performing miracles on the Internet. Nigel Short said he was \"99 per cent sure\" he has had played Fischer, author Tim Krabb&eacute;, who was initially sceptical, went on to see the light. In September 2001 we took a closer look at the evidence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-third-coming-of-bobby-fischer",
+         "pubDate" : "Tue, 05 Oct 2021 15:00:00 +0100",
+         "title" : "The third coming of Bobby Fischer?"
+      },
+      {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A true student of the game would definitely explore the shark infested waters of the King's gambit. Beside being one of the oldest openings, it could also help you sharpen your eye for tactics on both sides of the board. <a href=\"https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? King's Gambit Accepted Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/\">Need sure points? King's Gambit Accepted Edition</",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/",
+         "pubDate" : "Tue, 05 Oct 2021 12:17:04 +0000",
+         "title" : "Need sure points? King's Gambit Accepted Edition"
+      },
+      {
          "description" : "Magnus Carlsen, who won the Champions Chess Tour with plenty of time to spare, ended his short losing streak with a win over Wesley So. The Filipino-bornd grandmaster dropped to fourth place as Teimour Radjabov and Levon Aronian won their matches.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/champions-chess-tour-final-radjabov-aronian-reach-the-podium",
          "pubDate" : "Tue, 05 Oct 2021 13:05:00 +0100",
          "title" : "Champions Chess Tour Final: Radjabov and Aronian reach the podium"
+      },
+      {
+         "description" : "\"To finish off the tour with a win against him is special\" said World Champion Magnus Carlsen as he beat his great rival Wesley So twice with 1.b3 to end the Meltwater Champions Chess Tour on a high. Teimour Radjabov was the star of the Finals and took down Maxime Vachier-Lagrave to clinch the deserved $60,000 2nd prize, while Levon Aronian also sneaked ahead of Wesley at the finish to take the $40,000 3rd prize with victory over Shakhriyar Mamedyarov. The Tour will be back in February 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-9-carlsen-1st-radjabov-2nd-aronian-3rd",
+         "pubDate" : "Tue, 05 Oct 2021 11:45:19 +0000",
+         "title" : "MCCT Finals: Carlsen 1st, Radjabov 2nd, Aronian 3rd"
+      },
+      {
+         "description" : " Another 'easy to state, hard to solve' maths/chess problem has been solved recently. The N-Queen problem now has an approximate answer to the question \"How many arrangements can you have of n queens on and n by n chessboard, so that no queen attacks another?\" For a standard board (8x8) it has been long known that there are 92 distinct arrangements, but this problem is the general nxn case, where n can be an extremely large number. The solution (0.143n)^n is of course an approximation (rather than an exact number), but it is close enough to the correct number for all n. If you want to see how this number was arrived at then a link to the paper is <a href=\"https://arxiv.org/abs/2107.13460\">he",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/n-queens.html",
+         "pubDate" : "Tue, 05 Oct 2021 11:44:00 +0000",
+         "title" : "N-queens"
       },
       {
          "description" : "European Senior Chess Championship 2021 concluded today in Budoni, Sardinia/Italy. After intense fights for the medals till the last round, IM Bellia Fabrizio (ITA, 2431) emerged as the sole Winner of 50+ section with score of 7.5/9 points, after defeating Cafolla Peter in the last round of the event. GM Bischoff Klaus (GER, 2495) drew the last round&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
@@ -1410,14 +1458,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: English Four Knights"
       },
       {
-         "description" : "The 73rd Emmy Awards is over, and The Queen&#39;s Gambit once more blew chess fans away by winning 11 awards. The show, which even got the trophy for the coveted &#34;Best Limited Series&#34; award, once more put chess under the spotlight. As the ceremony u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chemmys-winners",
-         "pubDate" : "Thu, 23 Sep 2021 10:23:11 -0700",
-         "title" : "Announcing The Chemmys Winners"
-      },
-      {
          "description" : "When the FIDE officially introduced the title of Grandmaster in 1950, only one German received the title - Friedrich S&auml;misch. Alexander Alekhine once pointed out that \"he could play among the very best, if he only managed to quit his extreme smoking\". What Alekhine seemed to have forgotten was S&auml;misch's perennial addiction to time-trouble. Michael Dombrowsky, author of S&auml;misch's soon-to-be-published biography, wrote a tribute to this unique character to celebrate S&auml;misch's 125th birthday. | Image: British Chess News",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1768,14 +1808,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
          "pubDate" : "Sun, 19 Sep 2021 10:26:41 +0000",
          "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
-      },
-      {
-         "description" : "16-year-old Indian prodigy Praggnanandhaa scored a perfect 5/5 on Day 1 of the Hou Yifan Challenge, including a win over his older sister Vaishali. Pragg was matched for four rounds by Kramnik Challenge winner Vincent Keymer, until US star Christopher Yoo defeated the German in a tense final round of the day. Christopher is in joint third place on 3.5, half a point behind Vincent, but he has a game in hand. The 17-player field means that one player gets a bye each round.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-1-praggnanandhaa-perfect",
-         "pubDate" : "Sun, 19 Sep 2021 10:21:28 +0000",
-         "title" : "Hou Yifan Challenge 1: Praggnanandhaa perfect"
       },
       {
          "description" : "Day 1 of the Hou Yifan Challenge, the last regular event of the Julius Baer Challengers Tour, saw Praggnanandhaa scoring five wins in as many games to take the sole lead. Vincent Keymer won his first four games, but lost against Christopher Yoo in the final round of the day, and now stands in sole second place. Pragg's sister Vaishali was the strongest among the women, as she collected 2&frac12; points in four games. | Pictured: Vaishali and Pragg with their mother, Nagalakshmi | Photo: Amruta Mokal",
@@ -2152,30 +2184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid-2",
          "pubDate" : "Tue, 14 Sep 2021 18:24:42 +0100",
          "title" : "The Weekly Show: A typical Carlsen victory"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg\" data-image-dimensions=\"320x479\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo courtesy of GM Anna Muzychuk\" data-load=\"false\" data-image-id=\"6140abc9088eab5f0dff6c37\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1631628233190-ZYWY0A14IENCM91TO97H/240944437_229771089085212_3074783204225712162_n.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Anna Muzychu",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/14/episode-243-gm-anna-muzychuk",
-         "pubDate" : "Tue, 14 Sep 2021 14:05:09 +0000",
-         "title" : "Episode 243- GM Anna Muzychuk "
-      },
-      {
-         "description" : " As is the case with Online Chess, some games are decided by external factors. In the current Online Olympiad players have lost by disconnection, or blundered material through a misclick or mouseslip. On more than one occasion a 'sporting' result has been agreed, which normally leaves everyone involved with a warm and fuzzy feeling inside. That is, until it gets serious. During the knock out stage of the Olympiad there have been a few games where the players have misclicked. Despite suggestions from spectators, there have been no draw offers or repetitions, and the games have ended with a decisive result. As, in my opinion, they should have. Players should not feel pressured to bail out an o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/the-limits-to-sportsmanship.html",
-         "pubDate" : "Tue, 14 Sep 2021 12:28:00 +0000",
-         "title" : "The limits to sportsmanship"
-      },
-      {
-         "description" : " <p class=\"lead\">Finally, a domain name that you can actually remember! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/09765F46-02BB-47D6-891F-2D36CC79636B.jpeg\" width=\"1600\" height=\"784\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena on the new domain, chessarena.com</div> </div> FIDE Online Arena, the official FIDE gaming platform, is busy with getting chess fans to give it a try, but for years we've made users trying to remember a very odd domain name. But we learned the lesson and there will be no more of that. Hence a new domain, chessarena.com: easy to remember and easy to type in your browser (and on a mobile device). <h2>Frequently Asked Questi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-online-arena-changes-domain-name-chessarena-com/",
-         "pubDate" : "Tue, 14 Sep 2021 12:03:23 +0000",
-         "title" : "FIDE Online Arena Makes a Move To a New Domain: Chessarena.com"
       }
    ]
 }
