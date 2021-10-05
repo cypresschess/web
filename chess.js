@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club, headed by Rex Sinquefield, has done a lot for chess in the United States, and they continue to organize top tournaments. Beginning Wednesday, the club will host the national championships. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-preview",
+         "pubDate" : "Tue, 05 Oct 2021 09:00:00 +0100",
+         "title" : "US Championships to kick off Wednesday"
+      },
+      {
+         "description" : "Passed pawns can be very powerful in the endgame. In the diagram position Black is a pawn and a knight down but he has a strong passed pawn on d2 that can save the game. It is Black to move and draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns",
+         "pubDate" : "Tue, 05 Oct 2021 09:00:00 +0100",
+         "title" : "The power of passed pawns"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/norway-chess-karjakin-beats-the-world-champion-and-his-challenge/",
          "pubDate" : "Tue, 14 Sep 2021 08:17:37 +0000",
          "title" : "Norway Chess: Karjakin beats the World Champion and his challenger in two days"
-      },
-      {
-         "description" : "Sometimes, the trio king, bishop and pawn cannot win against a lone king: if the pawn is a rook pawn, the enemy king makes it to the corner and the bishop does not control the queening sqare of the pawn. Knowing this might help you to save positions that seem to be entire lost. In the diagram position it is White to move and draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-wrong-pawn",
-         "pubDate" : "Tue, 14 Sep 2021 09:01:15 +0100",
-         "title" : "The wrong pawn"
       }
    ]
 }
