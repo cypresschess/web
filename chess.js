@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen, who won the Champions Chess Tour with plenty of time to spare, ended his short losing streak with a win over Wesley So. The Filipino-bornd grandmaster dropped to fourth place as Teimour Radjabov and Levon Aronian won their matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-radjabov-aronian-reach-the-podium",
+         "pubDate" : "Tue, 05 Oct 2021 13:05:00 +0100",
+         "title" : "Champions Chess Tour Final: Radjabov and Aronian reach the podium"
+      },
+      {
+         "description" : "European Senior Chess Championship 2021 concluded today in Budoni, Sardinia/Italy. After intense fights for the medals till the last round, IM Bellia Fabrizio (ITA, 2431) emerged as the sole Winner of 50+ section with score of 7.5/9 points, after defeating Cafolla Peter in the last round of the event. GM Bischoff Klaus (GER, 2495) drew the last round&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-concluded/",
+         "pubDate" : "Tue, 05 Oct 2021 09:00:29 +0000",
+         "title" : "European Senior Chess Championship 2021 concluded"
+      },
+      {
          "description" : "The Saint Louis Chess Club, headed by Rex Sinquefield, has done a lot for chess in the United States, and they continue to organize top tournaments. Beginning Wednesday, the club will host the national championships. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-preview",
-         "pubDate" : "Tue, 05 Oct 2021 09:00:00 +0100",
+         "pubDate" : "Tue, 05 Oct 2021 09:05:00 +0100",
          "title" : "US Championships to kick off Wednesday"
       },
       {
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Radjabov and Aronian overtake So"
       },
       {
-         "description" : "GM Magnus Carlsen won the 2021 Meltwater Champions Chess Tour Finals. GM Teimour Radjabov finished in second place (although he scored the most points in the event itself) and GM Levon Aronian finished third. Perhaps, GM Wesley So has the most rea...",
+         "description" : "GM Teimour Radjabov won the battle for second place and $60,000 on the last day of the 2021 Meltwater Champions Chess Tour Finals, having scored the most points in the last leg of the Tour. GM Magnus Carlsen, who had secured overall victory with t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-9",
@@ -2160,30 +2176,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-online-arena-changes-domain-name-chessarena-com/",
          "pubDate" : "Tue, 14 Sep 2021 12:03:23 +0000",
          "title" : "FIDE Online Arena Makes a Move To a New Domain: Chessarena.com"
-      },
-      {
-         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu Here is a common scenario we are faced with: we have played a good game and still lost. Analyzing the game postmortem is an absolute must. What you should identify <a href=\"https://chessimprover.com/planning-for-victory-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-4/\">Planning for Victory (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/planning-for-victory-4/",
-         "pubDate" : "Tue, 14 Sep 2021 11:29:12 +0000",
-         "title" : "Planning for Victory (4)"
-      },
-      {
-         "description" : "Richard Rapport has a 3-point lead over Ian Nepomniachtchi with four rounds to go at the Norway Chess Tournament (a win in classical chess is worth 3 points). The Hungarian star beat Aryan Tari with the white pieces in round 6. Magnus Carlsen also won his classical game, while Sergey Karjakin got the better of Nepomniachtchi in Armageddon. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r6",
-         "pubDate" : "Tue, 14 Sep 2021 10:40:00 +0100",
-         "title" : "Norway Chess: Rapport extends his lead"
-      },
-      {
-         "description" : " <p class=\"lead\">Sergey Karjakin, the 2016 challenger, had beaten the World Champion, Magnus Carlsen, in a classical game in Round 5 of the <a href=\"https://norwaychess.no/en/\">Norway Chess Tournament</a>. In the next round, he defeated the 2021 challenger, Ian Nepomniachtchi, in the Armageddon game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/241853433_4439909929401681_5046324048729064120_n-min.jpg\" width=\"2048\" height=\"1256\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes</div> </div> Carlsen chose to play safe with black, and went for the Sicilian Sveshnikov, an opening that he used in his 2018 match against Fabiano Caruana. After 17 moves of",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/norway-chess-karjakin-beats-the-world-champion-and-his-challenge/",
-         "pubDate" : "Tue, 14 Sep 2021 08:17:37 +0000",
-         "title" : "Norway Chess: Karjakin beats the World Champion and his challenger in two days"
       }
    ]
 }
