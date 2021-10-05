@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at yet another great attacking win by Magnus Carlsen from the Finals of the Meltwater Champions Chess Tour. Lawrence also talks about the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-meltwater-finals-2",
+         "pubDate" : "Tue, 05 Oct 2021 20:25:00 +0100",
+         "title" : "The Weekly Show: Carlsen on the attack"
+      },
+      {
          "description" : "The historical chess event, Tournament of Peace 2021, takes place from 5th-10th October 2021, in Zagreb, Croatia. The tournament is played in the National and University Library, with participation of 10 Grandmasters playing a round-robin event in 9 rounds. The participants are: Ernesto Inarkiev (RUS, 2668), Etienne Bacrot (FRA, 2658), Igor Kovalenko (LAT, 2647), Sergei Movsesian (ARM, 2627),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -218,7 +226,7 @@ news_feed (
          "title" : "Champions Chess Tour Finals Day 8: Radjabov Moves To 2nd Place"
       },
       {
-         "description" : " Share!2 Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess",
+         "description" : " Share!19 Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Ches",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://aicf.in/online-chess-olympiad-india-lose-to-usa-in-semis/",
          "pubDate" : "Wed, 15 Sep 2021 03:30:19 +0000",
          "title" : "Online Chess Olympiad: India lose to USA in semis; settled for Bronze"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1334",
-         "pubDate" : "Tue, 14 Sep 2021 20:49:17 +0000",
-         "title" : "USA and RUSSIA square off in the final"
       }
    ]
 }
