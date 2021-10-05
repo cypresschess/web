@@ -10,6 +10,14 @@ news_feed (
          "title" : "Alexey Sarana wins Junior U21 Round Table Championship"
       },
       {
+         "description" : "Chess improvement at any level requires chess instruction, study, and practice. Thanks to technology, chess instruction of the highest quality is readily available, even in the pages of this news page. However, no matter how many lectures you watch, they do not dispense with actual study, which is often a lonely affair. This is what this new video series hopes to change.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-chess-with-me-the-video-series",
+         "pubDate" : "Mon, 04 Oct 2021 22:00:00 +0100",
+         "title" : "Study chess with me - the video series"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> By winning the last six matches, including wins in a row against the top-ranked Aronian, So and Carlsen, <strong>Teimur Radjabov</strong> secured himself the second place in the <strong>Meltwater Champions Chess Tour Final</strong>. <strong>Wesley So</strong>, the only player who gave tour winner Carlsen a fight for first, <a href=\"https://championschesstour.com/finals-2021/schedule/\">ended fourth</a> after being overtaken by <strong>Levon Aronian</strong> in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/9/1/1\">final round</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
