@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The historical chess event, Tournament of Peace 2021, takes place from 5th-10th October 2021, in Zagreb, Croatia. The tournament is played in the National and University Library, with participation of 10 Grandmasters playing a round-robin event in 9 rounds. The participants are: Ernesto Inarkiev (RUS, 2668), Etienne Bacrot (FRA, 2658), Igor Kovalenko (LAT, 2647), Sergei Movsesian (ARM, 2627),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tournament-of-peace-2021/",
+         "pubDate" : "Tue, 05 Oct 2021 19:10:54 +0000",
+         "title" : "Tournament of Peace 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Vlad Arduleanu</strong> is the new President of the <strong>Romanian Chess Federation</strong>. In the <a href=\"https://www.chesstech.org/2021/postponed-election-in-romania/\">postponed election</a> the former Superbet manager was the <a href=\"https://www.vladardeleanu.ro/\">only candidate</a>. <strong>Ionuț Șerban Dobronăuțeanu</strong> decided not to run in exchange for the new position of Counselor to the President. <strong>Superbet</strong> is now the main sponsor of the ongoing <a href=\"http://chess-results.com/tnr579172.aspx\">Rumanian team championships</a> in Mamaia. A Romanian Chess Gala is planned for December. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/superbet-sponsors-romanian-chess/",
+         "pubDate" : "Tue, 05 Oct 2021 17:51:43 +0100",
+         "title" : "Superbet sponsors Romanian chess"
+      },
+      {
+         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2021-22/",
+         "pubDate" : "Tue, 05 Oct 2021 15:36:10 +0000",
+         "title" : "Clubs & Congress Insurance 2021/22"
+      },
+      {
          "description" : "GM Nihal Sarin comfortably reached the final of the Junior Speed Chess Championship presented by ChessKid, after a 20.5-9.5 win over GM Haik Martirosyan on Monday. Sarin will be defending his 2020 title against the winner of GM Raunak Sadhwani vs....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1368",
          "pubDate" : "Sat, 02 Oct 2021 20:33:37 +0000",
          "title" : "Magnus Carlsen wins first Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With two rounds to go in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/7/1/1\">final tournament</a> <strong>Magnus Carlsen</strong> won the <strong>Meltwater Champions Chess Tour</strong> and added $100,000 to bring his tour winnings to $315,000. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/second-tour-title-for-carlsen/",
-         "pubDate" : "Sat, 02 Oct 2021 18:59:17 +0100",
-         "title" : "Second tour title for Carlsen"
       },
       {
          "description" : "Team India consists of GM Dronavalli Harika, IM Tania Sachdev, IM Bhakti Kulkarni, WGM R Vaishali, WGM Mary Ann Gomes and Coach GM Abhijit Kunte",
@@ -1394,14 +1410,6 @@ news_feed (
          "title" : "Sigeman: Four decisions in round 1"
       },
       {
-         "description" : "We are sorry to share with you the very sad news that Colin Russ died on September 22nd at the age of 91. Colin, always...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-colin-russ/",
-         "pubDate" : "Fri, 24 Sep 2021 11:43:10 +0000",
-         "title" : "RIP Colin Russ"
-      },
-      {
          "description" : "Tomorrow, Saturday, 25 September, ten players will play the final tournament of the Champions Chess Tour 2020/2021: the eight winners of the individual tournaments of the series and two players who received wildcards. Unlike the previous tournaments, the final will be played as a round robin with no knock-out stage. First prize is 100,000 USD.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1334",
          "pubDate" : "Tue, 14 Sep 2021 20:49:17 +0000",
          "title" : "USA and RUSSIA square off in the final"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent takes a look at the Norway Chess Tournament and the game of the day is Carlsen's endgame masterpiece against Firouzja - winning a seemingly unwinnable position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-aimchess-us-rapid-2",
-         "pubDate" : "Tue, 14 Sep 2021 18:24:42 +0100",
-         "title" : "The Weekly Show: A typical Carlsen victory"
       }
    ]
 }
