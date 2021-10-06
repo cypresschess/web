@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-wonderful-world-of-chess-machine-emulators",
          "pubDate" : "Wed, 15 Sep 2021 10:00:00 +0100",
          "title" : "The wonderful world of chess machine emulators"
-      },
-      {
-         "description" : "India's defence of their FIDE Online Chess Olympiad title came to an end at the semi final stage when the team lost to the USA",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-chess-olympiad-india-lose-to-usa-in-semis/",
-         "pubDate" : "Wed, 15 Sep 2021 03:30:19 +0000",
-         "title" : "Online Chess Olympiad: India lose to USA in semis; settled for Bronze"
       }
    ]
 }
