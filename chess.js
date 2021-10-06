@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you know that playing competitive chess affects your heart rate and increase your blood pressure? That you can burn hundreds of calories just sitting at the chess board for a couple of hours? Ashwin Subramanian is a Software Engineering Manager in the Hi-Tech Industry. He is an avid chess player, and is studying the value of biofeedback in chess during his personal time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biofeedback-in-chess-2",
+         "pubDate" : "Wed, 06 Oct 2021 12:15:00 +0100",
+         "title" : "Biofeedback in Chess - Part 1"
+      },
+      {
          "description" : "How does Magnus Carlsen spend his time when he is not playing chess? He is quite active, in fact! For example, he is one of the contestants on a Norwegian reality show - in \"Ikke lov &aring; le p&aring; hytta\", the contestants try to make the other residents of the house laugh while not laughing themselves. And this is only one of his many side activities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2154,28 +2162,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Rook endgames you HAVE to know"
       },
       {
-         "description" : "There were three decisive games in the seventh round of the Norway Chess Tournament. Richard Rapport defended his lead with a win over Segery Karjakin. Alireza Firouzja staked a claim as the next world challenger with a win over Ian Nepomniachtchi, while Magnus Carlsen gave another endgame lesson against Aryan Tari. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r7",
-         "pubDate" : "Wed, 15 Sep 2021 16:30:00 +0100",
-         "title" : "Norway Chess: Rapport wins again"
-      },
-      {
          "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/09/speaking-of-mouseslips.html",
          "pubDate" : "Wed, 15 Sep 2021 12:51:00 +0000",
          "title" : "Speaking of mouseslips"
-      },
-      {
-         "description" : "Madhvendra Pratap Sharma of Madhya Pradesh in Open and Pooja Shree R of Tamilnadu won the National Under-8 titles on Sunday. Sharma scored 10.5 points",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/madhvendra-pratap-sharma-and-pooja-shree-national-under-8-champions/",
-         "pubDate" : "Wed, 15 Sep 2021 10:28:33 +0000",
-         "title" : "Madhvendra Pratap Sharma and Pooja Shree National Under-8 Champions"
       }
    ]
 }
