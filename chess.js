@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1371",
+         "pubDate" : "Wed, 06 Oct 2021 14:58:52 +0000",
+         "title" : "FIDE Candidates Tournament 2022 - Call for bids"
+      },
+      {
+         "description" : " The International Chess Federation (FIDE) has signed a sponsorship Deal with Motiva, a Breast Enlargement Company. This has understandably led to a lot of criticism, not only from female Chess players. Rather than supporting women in Chess, this Sponsorship seems to increase sexist comments and insecurities in women. Not the ideal way to kick off [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/sponsorship-in-chess/\">Sponsorship In Chess FIDE Picks Breast Implant Sponsor</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/sponsorship-in-chess/",
+         "pubDate" : "Wed, 06 Oct 2021 14:00:00 +0000",
+         "title" : "Sponsorship In Chess - FIDE Picks Breast Implant Sponsor"
+      },
+      {
+         "description" : "On October 14-17, the last seven rounds of the 2019/2020 Bundesliga season will finally be played. The second half of the interrupted season will take place at the Hotel \"Maritim proArte\" in Berlin. At the halfway point, the two favourites for the championship title, Baden-Baden and Hockenheim, are tied at the top of the standings table without any losses. | Pictured: Peter Heine Nielsen and Peter Svidler during the final event of the 2019 season. | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2019-20-final-rounds-in-berlin",
+         "pubDate" : "Wed, 06 Oct 2021 14:00:00 +0100",
+         "title" : "Final rounds of the Bundesliga to be played in Berlin"
+      },
+      {
+         "description" : " A <a href=\"https://ethics.fide.com/wp-content/uploads/2020/06/FIDE-2_2020-decision-final.pdf\">recent decision</a> by the FIDE Ethics and Disciplinary Commission has brought up the topic of pre-arranged draws, again. In handing down a ruling concerning two players 'arranging' a beneficial result, the EDC made comment on whether agreed draws were a form of match fixing. I'm a little surprised they strayed into this territory, and I'm not sure that their conclusions have cleared up any prior confusion. If I read the decision correctly it seems that <ul style=\"text-align: left;\"><li>Agreed draws (without conditions) are OK (as they are defined in the Laws of Chess)</li><li>Agreed draws (with co",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/fixing-result.html",
+         "pubDate" : "Wed, 06 Oct 2021 11:39:00 +0000",
+         "title" : "Fixing the result"
+      },
+      {
          "description" : "Did you know that playing competitive chess affects your heart rate and increase your blood pressure? That you can burn hundreds of calories just sitting at the chess board for a couple of hours? Ashwin Subramanian is a Software Engineering Manager in the Hi-Tech Industry. He is an avid chess player, and is studying the value of biofeedback in chess during his personal time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,7 +346,7 @@ news_feed (
          "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Join us for a free, live-streamed ceremony honoring 2020 U.S. Chess Hall of Fame Inductees Dr. Jeanne Cairns Sinquefield and Rex Sinquefield, co-founders of the Saint Louis Chess Campus, on Tuesday, October 5, 2021, beginning at 7:15 p.m. CT. The inductions will coincide with the 2021 U.S. Chess and U.S. Women's Chess Championships Opening Ceremony and Drawing of the Lots. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-",
+         "description" : "<div class=\"body text-secondary\"> Live from The Muny in Forest Park, GM Maurice Ashley hosts the Opening Ceremony and drawing of lots for the 2021 U.S. &amp; U.S. Women&#039;s Chess Championships. Plus, Dr. Jeanne &amp; Rex Sinquefield are inducted into the U.S. Chess Hall of Fame. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-opening-ceremony-hof-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-opening-ceremony-hof-inductions",
@@ -2152,22 +2184,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/",
          "pubDate" : "Wed, 15 Sep 2021 16:00:00 +0000",
          "title" : "Excitement Costs You Dearly - Don't Celebrate Before The Game Is Over"
-      },
-      {
-         "description" : "Svitlana's Smart Moves conquers some easier, advanced, and even high level examples for getting better at chess. Sometimes it is good to take a huge leap back, and start with the absolute basics. Probably everybody has heard of the \"Philidor Position\" and \"building a bridge\", and some players might even know these positions by heart. Unfortunately, Arne is confronted with these postions for the first time in his life, and fails miserably. This episode is especially for people who have trouble with rook endings as they will learn and never forget these important concepts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-13",
-         "pubDate" : "Wed, 15 Sep 2021 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Rook endgames you HAVE to know"
-      },
-      {
-         "description" : " Just to follow up from yesterdays post, here is one game from the Olympiad that did see a mouseslip. Two important points to note (1) White was losing in this position anyway and (2) One reason why the Olympiad finals used match points rather than game points was to reduce the effect such slips had on the overall results. <br /> <b>Dubov,Daniil (2770) - Erdos,Viktor (2614) [A00]</b><br />2021 FIDE Online Olympiad Chess.com (1.1), 13.09.2021 <script>new PgnViewer( { boardName: \"game1271\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Rb1 O-O 8.h4 h6 9.d4 c5 10.h5 g5 11.e5 cxd4 12.cxd4 Nc6 13.Be3 Qa5+ 14.Bd2 Qxa2 15.Bd3 Bg4 16.Qe2 Nxd4 17.Qe4",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/speaking-of-mouseslips.html",
-         "pubDate" : "Wed, 15 Sep 2021 12:51:00 +0000",
-         "title" : "Speaking of mouseslips"
       }
    ]
 }
