@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Along with the Opening Ceremony, Dr. Jeanne &amp; Rex Sinquefield are inducted into the U.S. Chess Hall of Fame at The Muny in Forest Park. 2021.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-dr-jeanne-rex-sinquefield-us-hall-fame-inductions\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FzWORo3BtiA.jpg?itok=Cw-1repl\" al",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-dr-jeanne-rex-sinquefield-us-hall-fame-inductions",
+         "pubDate" : "Wed, 06 Oct 2021 21:08:22 +0000",
+         "title" : "2021 U.S. Chess Championships: Dr. Jeanne & Rex Sinquefield U.S. Hall of Fame Inductions"
+      },
+      {
          "description" : "The Saint Louis Chess Club is hosting the US Championships for a 13th time on October 6-19. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/",
          "pubDate" : "Wed, 29 Sep 2021 00:10:07 +0000",
          "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves this event. 2021.09.28<br /> Levon Aronian vs Anish Giri, Meltwater Tour Final (2021): B90 Sicilian, Najdorf<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2082788\">https://www.chessgames.com/perl/chessgame?gid=2082788</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-meltwater-tour-final-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 29 Sep 2021 00:01:48 +0000",
-         "title" : "Aronian at the Meltwater Tour Final | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "GM Boris Savchenko won Titled Tuesday on September 28 with a score of 10/11 after declining an early draw offer and beating GM Hikaru Nakamura in the final round. It was his second-ever Titled Tuesday win and his first since 2018. GM Federico Pere...",
@@ -2160,22 +2160,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-club-cup-2021-starts/",
          "pubDate" : "Thu, 16 Sep 2021 05:50:08 +0000",
          "title" : "European Club Cup 2021 starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1336",
-         "pubDate" : "Wed, 15 Sep 2021 21:34:36 +0000",
-         "title" : "FIDE signs MoU with International School Sport Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1335",
-         "pubDate" : "Wed, 15 Sep 2021 20:39:33 +0000",
-         "title" : "Russia takes gold in the 2021 Online Chess Olympiad"
       }
    ]
 }
