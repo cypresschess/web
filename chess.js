@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How does Magnus Carlsen spend his time when he is not playing chess? He is quite active, in fact! For example, he is one of the contestants on a Norwegian reality show - in \"Ikke lov &aring; le p&aring; hytta\", the contestants try to make the other residents of the house laugh while not laughing themselves. And this is only one of his many side activities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-world-champion-comedian-party-animal",
+         "pubDate" : "Wed, 06 Oct 2021 08:00:00 +0100",
+         "title" : "Magnus Carlsen: world champion, comedian, party animal"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at yet another great attacking win by Magnus Carlsen from the Finals of the Meltwater Champions Chess Tour. Lawrence also talks about the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2168,14 +2176,6 @@ news_feed (
          "link" : "https://aicf.in/madhvendra-pratap-sharma-and-pooja-shree-national-under-8-champions/",
          "pubDate" : "Wed, 15 Sep 2021 10:28:33 +0000",
          "title" : "Madhvendra Pratap Sharma and Pooja Shree National Under-8 Champions"
-      },
-      {
-         "description" : "Even if it is from before your time, any chess player will know there was a time when standalone machines were the dominant computer opponents, ranging from compact plastic jobs to large wooden boards to fill any player with envy. That time is gone, and many of the machines are disappearing, but you can play any one of them, free, thanks to the amazing chess emulators.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-wonderful-world-of-chess-machine-emulators",
-         "pubDate" : "Wed, 15 Sep 2021 10:00:00 +0100",
-         "title" : "The wonderful world of chess machine emulators"
       }
    ]
 }
