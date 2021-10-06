@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club is hosting the US Championships for a 13th time on October 6-19. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Wed, 06 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-1-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-1-lichessorg",
+         "pubDate" : "Wed, 06 Oct 2021 18:08:10 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 1 | lichess.org"
+      },
+      {
+         "description" : "The 2021 US Championships start in Saint Louis today as world no. 2 Fabiano Caruana and reigning Champion Wesley So top the 12-player field competing for a $50,000 top prize. Leinier Dominguez, Sam Shankland and Jeffery Xiong are the other 2700 stars in action, with only Hikaru Nakamura absent. The women's event features almost all the top contenders, with 2-time US Women's Champion Nazi Paikidze returning to action for the first time since 2018.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/caruana-so-in-action-as-us-championships-begin",
+         "pubDate" : "Wed, 06 Oct 2021 17:33:24 +0000",
+         "title" : "Caruana & So in action as US Championships begin"
+      },
+      {
+         "description" : "14-year-old IM Christopher Yoo won his first Titled Tuesday this week, scoring 9.5 in the October 5 event to finish in sole first. There was a six-way tie for second place on 9 points out of 11. After tiebreakers were applied, GM Artem Timofeev ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-yoo-wins-october-5-titled-tuesday",
+         "pubDate" : "Wed, 06 Oct 2021 10:21:02 -0700",
+         "title" : "IM Yoo Wins October 5 Titled Tuesday"
+      },
+      {
+         "description" : "This week, Merijn van Delft shows an instructive game in which Magnus Carlsen defeated Anish Giri with the black pieces after navigating a position with a curious material imbalance. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-484-giri-carlsen",
+         "pubDate" : "Wed, 06 Oct 2021 18:00:00 +0100",
+         "title" : "Game of the Week 484: Giri vs Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1372",
+         "pubDate" : "Wed, 06 Oct 2021 16:51:11 +0000",
+         "title" : "FIDE Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
+         "description" : " The US Chess Championships take place in Saint Louis Tue 5th Oct to Tue 19th Oct 2021. Men's Championship: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Samuel Sevian, Dariusz Swiercz, Lazaro Bruzon Batista, Daniel Naroditsky, Aleksandr Lenderman andJohn M Burke. Nakamura explained his absence as wanting to focus completely on the FIDE Grand Swiss in Riga at the end of the month. Women's Championship: Irina Krush, Anna Zatonskih, Carissa Yip, Nazi Paikidze, Tatev Abrahamyan, Katerina Nemcova, Gulrukhbegim Tokhirjonova, Anna Sharevich, Ashritha Eswaran, Sabina-Francesca Foisor, Thalia Cervantes Landeiro and Megan Lee. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2021",
+         "pubDate" : "Wed, 6 Oct 2021 19:48:00 +0400",
+         "title" : "US Chess Championships 2021 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -970,14 +1026,6 @@ news_feed (
          "title" : "Training program for arbiters of online and hybrid events continues"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes endgames where one side has a rook and his opponent is loaded with a rook, knight, and pawn. The mysterious masked Alex is shocked! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxT3PMlU0PY.jpg?itok=yCbO2jk-\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/i-cant-believe-its-not-winning-rnp-vs-rook-insane-endgame-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 28 Sep 2021 18:01:41 +0000",
-         "title" : "I Can't Believe It's Not Winning! R+N+p vs. Rook | Insane in the Endgame - GM Alex Yermolinsky"
-      },
-      {
          "description" : "All India Chess Federation under Chess for Everyone project is going to organizing district wise Arbiter and Organiser Training as well as Coaching Camps for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1498,14 +1546,6 @@ news_feed (
          "title" : "Chess: Carlsen wins in Norway and grinds in 91 moves before $2m match"
       },
       {
-         "description" : "Thursday, the 23rd of September, treated chess fans all around the world to the 2021 Pro Chess League&#39;s Arena Royale&#39;s semifinals. Many of you have been following previous stages of the event, but it wouldn&#39;t hurt to remind you that the four teams...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-semifinals",
-         "pubDate" : "Thu, 23 Sep 2021 16:21:00 -0700",
-         "title" : "PRO Chess League Semifinals: Saint Louis Arch Bishops And Russia Wizards Advance"
-      },
-      {
          "description" : "On this updated DVD, experts including Daniel King, Mihail Marin, Karsten M&uuml;ller, Oliver Reeh and Niclas Huschenbeth examine the games of the 16th World Champion. Let them show you how Carlsen tailored his openings to be able to outplay his opponents strategically in the middlegame or to obtain an enduring advantage into the endgame, and bear witness to how the Norwegian always managed to find a way to pose his opponents serious problems, even in apparently level endings. This 2nd edition features additional new recordings by all the authors and an extra chapter with a special look at Carlsen by Daniel King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,14 +1866,6 @@ news_feed (
          "title" : "ChessBase Tactics web app: Best by test"
       },
       {
-         "description" : "Indian chess prodigy Praggnanandhaa won all four games of his games on Day 2 of the Hou Yifan Challenge to reach a perfect 9/9 score as the 4th stage of the Julius Baer Challengers Chess Tour crossed the halfway mark. That put him two ahead of Vincent Keymer in 2nd place, but Vincent has played one game less and scored 3/3 on Day 2 to keep within striking distance before their head-to-head clash. Christopher Yoo is in 3rd place, while Poland's Pawel Teclaf had a good day to move up to 4th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-2-praggnanandhaa-makes-it-9-9",
-         "pubDate" : "Mon, 20 Sep 2021 09:18:29 +0000",
-         "title" : "Hou Yifan Challenge 2: Praggnanandhaa makes it 9/9!"
-      },
-      {
          "description" : "Apparently there is no stopping Praggnanandhaa at the Hou Yifan Challenge for young stars. The Indian prodigy has won all 9 of his games so far in the rapid tournament taking place online. Vincent Keymer is currently in second place, two points behind Pragg, albeit with one game less to his name. Keymer will face Pragg on Monday, in round 11. | Pictured: Pragg during a training session with Vladimir Kramnik in 2019 | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,46 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1335",
          "pubDate" : "Wed, 15 Sep 2021 20:39:33 +0000",
          "title" : "Russia takes gold in the 2021 Online Chess Olympiad"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes another look at the impressive performance of Richard Rapport at the Norway Chess Tournament, focusing on Rapport's fine win against Sergey Karjakin in round 7. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-481-r-rapport-vs-s-karjakin",
-         "pubDate" : "Wed, 15 Sep 2021 19:00:00 +0100",
-         "title" : "Game of the Week 481: R. Rapport vs S. Karjakin"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86240272.cms\" />India's run at the FIDE online Olympiad concluded with a loss to USA in the semifinals on Tuesday night. The defeat meant that India will settle for the bronze medal along with China who had lost to Russia in the other semifinal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-suffered-from-nerves-at-the-crunch-anand/articleshow/86240272.cms",
-         "pubDate" : "Wed, 15 Sep 2021 23:11:22 +0530",
-         "title" : "Indian players suffered from nerves at the crunch: Anand"
-      },
-      {
-         "description" : "Today, the finals of the Online Olympiad will be played: In the double-round final, Russia will play the USA. Russia is favorite, but the US team has already surprised against India. Match 1 starts at 18:30 CEST (12:30 ET, 16:30 UTC), match 2 begins at 19:30 CEST (13:30 ET, 17:30 UTC). If necessary, the play-off match will beginn at 20:30 CEST (14:30 ET, 18:30 UTC). Follow the games live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-olympiade-live",
-         "pubDate" : "Wed, 15 Sep 2021 18:15:28 +0100",
-         "title" : "Online Olympiad, Finals: Live"
-      },
-      {
-         "description" : " The FIDE Online Olympiad took place Fri 20th Aug 2021 to Wednesday 15th Sep 2021. 153 teams entered. The event had various qualification stages - as the event progresses stronger teams join the tournament running from Division 4 up to the top division before the final KO where the medals were decided. The event was hosted by chess.com. Russia defeated the USA in the final - China and India were eliminated in the semifinals. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-online-olympiad-2021",
-         "pubDate" : "Wed, 15 Sep 2021 20:36:00 +0400",
-         "title" : "FIDE Online Olympiad 2021 - Games and Results"
-      },
-      {
-         "description" : " Everybody knows the feeling. You are having a great position against a strong opponent and you start to feel the excitement. Your heartbeat is raising and your mind is going crazy. &#8220;Imagine winning this game!&#8221; you start to think. Following this thought, you start to imagine different scenarios: the congratulation of your friends, the effect [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/\">Excitement Costs You Dearly Don't Celebrate Before The Game Is Over</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/dont-celebrate-before-the-game-is-over/",
-         "pubDate" : "Wed, 15 Sep 2021 16:00:00 +0000",
-         "title" : "Excitement Costs You Dearly - Don't Celebrate Before The Game Is Over"
       }
    ]
 }
