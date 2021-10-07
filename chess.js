@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Championships, again taking place over the board, kicked off on Wednesday. The open section saw Ray Robson and John Burke grabbing the early lead, while among the women Irina Krush, Katerina Nemcova, Ashritha Eswaran and Gulrukhbegim Tokhirjonova scored full points on the first day of action. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Thu, 07 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a way to spicen things up in the Scotch Four Knights - the Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5",
          "pubDate" : "Fri, 17 Sep 2021 10:04:04 +0000",
          "title" : "Chess: Russia capture Olympiad gold, edging weakened US team 7-5"
-      },
-      {
-         "description" : "A fourth straight win prompted Magnus Carlsen to grab the lead at the Norway Chess Tournament in Stavanger. The world champion had an inferior position in the middlegame against Sergey Karjakin, but ended up making the most of his material advantage after the Russian gave up an exchange for the initiative. Meanwhile, Ian Nepomniachtchi beat Richard Rapport in Armageddon, and Alireza Firouzja scored his third consecutive win in classical chess. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r9",
-         "pubDate" : "Fri, 17 Sep 2021 10:50:00 +0100",
-         "title" : "Norway Chess: Carlsen grabs the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1338",
-         "pubDate" : "Thu, 16 Sep 2021 17:58:45 +0000",
-         "title" : "Portuguese Championship: Andr&eacute; Sousa clinches his third title"
       }
    ]
 }
