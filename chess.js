@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a recent article Walter Wolf took a close look at the current development of the Elo ratings. IM Dirk Sebastian and IM Martin Voigt, who are both from Hamburg, have also examined the trends in the recent developments of the Elo ratings and try to answer the question whether there currently is an inflation or a deflation of Elo?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-elo-ratings-inflation-or-deflation",
+         "pubDate" : "Thu, 07 Oct 2021 16:00:00 +0100",
+         "title" : "The Elo ratings: Inflation or Deflation?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1374",
+         "pubDate" : "Thu, 07 Oct 2021 14:12:42 +0000",
+         "title" : "Teams from 31 countries to participate in 1st Intercontinental Online Championship for Prisoners"
+      },
+      {
+         "description" : "Ray Robson and 20-year-old debutant John Burke are the early leaders of the US Chess Championship after defeating Daniel Naroditsky and Dariusz Swiercz. The star names struggled, with world no. 2 Fabiano Caruana admitting he had a \"lucky break\" to avoid losing with the white pieces to Lazaro Bruzon, while Leinier Dominguez was on the brink against Alex Lenderman. 8-time and reigning US Women's Champion Irina Krush was among four winners in the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-1-caruana-dominguez-struggle",
+         "pubDate" : "Thu, 07 Oct 2021 13:16:29 +0000",
+         "title" : "US Chess Champs 1: Caruana & Dominguez struggle"
+      },
+      {
+         "description" : "The European Chess Union, the Georgian Chess Federation &#38; the Georgian Chess Club \"64\" invite all ECU member national federations to participate in the ECU Online Rapid School Championships, under 10 17. The European Online Rapid School Championships will be played in 5 different age groups - under 10, 11, 13, 15, 17 and 2 sections &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-online-rapid-school-championships-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-online-rapid-school-championships-official-regulations/",
+         "pubDate" : "Thu, 07 Oct 2021 13:16:04 +0000",
+         "title" : "EUROPEAN ONLINE RAPID SCHOOL CHAMPIONSHIPS - Official regulations"
+      },
+      {
+         "description" : "If you think you've been an ECF member in the last two to three years but have lapsed for whatever reason, please call or email...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/a-note-for-parents-on-ecf-membership/",
+         "pubDate" : "Thu, 07 Oct 2021 13:00:02 +0000",
+         "title" : "Duplicate ECF memberships"
+      },
+      {
+         "description" : "With the cooperation of the Slovenian Chess Federation and FIDE Development Commission, the European Chess Union organizes a \"Mixed\" FIDE Arbiters' Seminar in the English language. The venue will be the city of Terme Čatež, Slovenia, concurrently with the European Team Championship. The event will take place from Sunday, Nov. 15th, to Thursday, Nov. 19th, 2021. The lecturer&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/",
+         "pubDate" : "Thu, 07 Oct 2021 12:14:11 +0000",
+         "title" : "FIDE Arbiters Seminar in Terme Catez, Slovenia"
+      },
+      {
+         "description" : "Tamil Nadu Chief Minister Shri MK Stalin handed over cash incentive of Rs 92 lakh to state chess players and coach, (V. Anand, Aravindh Chithambaram,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tamil-nadu-chief-minister-shri-mk-stalin-presents-cash-awards-to-chess-players/",
+         "pubDate" : "Thu, 07 Oct 2021 12:14:06 +0000",
+         "title" : "Tamil Nadu Chief Minister Shri MK Stalin presents cash awards to Chess Players"
+      },
+      {
          "description" : "Congratulations to Svitlana, who just turned 18 years old. Since she is a year older now, maybe we rename the format to \"Svitlana's Smarter Moves\"? But not much has changed luckily, and it is time to make some bold sacrifices, and figure out, if they are even working. Svitlana shows us a famous example by Emmanuel Lasker, and an interesting variation in the Caro-Kann.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1282,14 +1338,6 @@ news_feed (
          "title" : "Chess for children with ASD seminar: Registration deadline approaches"
       },
       {
-         "description" : "Many congratulations to GM Luke McShane, the winner of the Manx Liberty Masters, held in Douglas, Isle of Man. Luke won outright with a score...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/luke-mcshane-wins-the-manx-liberty-masters/",
-         "pubDate" : "Mon, 27 Sep 2021 09:37:26 +0000",
-         "title" : "Luke McShane wins the Manx Liberty Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1826,14 +1874,6 @@ news_feed (
          "title" : "Gukesh clinches Norway Open Masters, Iniyan finishes second"
       },
       {
-         "description" : "16-year-old German prodigy Vincent Keymer goes into the final day of the Hou Yifan Challenge as the sole leader after beating Indian star Praggnanandhaa, who followed a perfect 9/9 start by scoring only 0.5/4 on the 3rd day of the event. Christopher Yoo is now best placed to catch Vincent after defeating Pragg in the first game of the day and going on to score 3.5/4, while Awonder Liang's 3/3 likely came too late.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hou-yifan-challenge-3-keymer-in-pole-position-after-pragg-collapse",
-         "pubDate" : "Tue, 21 Sep 2021 08:10:43 +0000",
-         "title" : "Hou Yifan Challenge 3: Keymer in pole position after Pragg collapse"
-      },
-      {
          "description" : "Even in endgames one should not forget that mate ends the game. In the diagram position it is White to move and win. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,38 +2168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-43-good-bishops-bad-bishops",
          "pubDate" : "Thu, 16 Sep 2021 18:00:00 +0100",
          "title" : "Understanding before Moving 43: Good bishops, bad bishops"
-      },
-      {
-         "description" : "In the finals of the 2. FIDE Online Olympiad Russia had to play against the USA, and in this match Russia was seen as the favourite. The Russian team lived up to this role: by winning both matches of the finals 3.5:2.5 the Russians also won the Online Olympiad 2021. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-wins-online-olympiad-2021",
-         "pubDate" : "Thu, 16 Sep 2021 16:16:30 +0100",
-         "title" : "Russia wins Online Olympiad 2021"
-      },
-      {
-         "description" : " <p class=\"lead\">Algorand, the official blockchain partner of the 2021 World Chess Championship, is holding a series of online chess tournaments to celebrate the upcoming Match. The winner will receive a trip and VIP entrance to the World Chess Championship in Dubai. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600-800.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> Algorand, the official blockchain partner of the 2021 FIDE World Championship Match, is holding a series of online chess tournaments to celebrate the upcoming Match. The winner of the Series, which takes place from September to October 2021, will receive a fully-paid trip for two to Dubai to visit",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-winner-of-the-algorand-online-chess-tournament-will-receive/",
-         "pubDate" : "Thu, 16 Sep 2021 15:02:46 +0000",
-         "title" : "The Winner of the Algorand Chess Tournament Will Receive a Trip to Dubai"
-      },
-      {
-         "description" : " After nearly a months play, Russia has emerged victorious in the 2021 Online Olympiad. After finishing as joint champions in 2020 (with India) they went one better this year, beating the USA in the final, winning both legs 3.5-2.5. Despite losing the final, the USA can also be proud of their finish, scoring come from behind wins over both Kazakhstan and India in the knockout stage. The Online Olympiad attracted 155 teams, which is on par with (or better than) most Olympiads. For the lower ranked countries it was an opportunity to play some international chess, while for the stronger teams, it was a chance to make a mark on the world stage. While nothing definite has been announced at this s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/russia-win-2021-online-olympiad.html",
-         "pubDate" : "Thu, 16 Sep 2021 13:37:00 +0000",
-         "title" : "Russia win 2021 Online Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1337",
-         "pubDate" : "Thu, 16 Sep 2021 12:07:08 +0000",
-         "title" : "Intercontinental Online Championship for Prisoners: Last call to register"
       }
    ]
 }
