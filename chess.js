@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris looks at a way to spicen things up in the Scotch Four Knights - the Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-belgrade-gambit",
+         "pubDate" : "Thu, 07 Oct 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Belgrade Gambit"
+      },
+      {
          "description" : "In a recent article Walter Wolf took a close look at the current development of the Elo ratings. IM Dirk Sebastian and IM Martin Voigt, who are both from Hamburg, have also examined the trends in the recent developments of the Elo ratings and try to answer the question whether there currently is an inflation or a deflation of Elo?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1338",
          "pubDate" : "Thu, 16 Sep 2021 17:58:45 +0000",
          "title" : "Portuguese Championship: Andr&eacute; Sousa clinches his third title"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 43rd instalment of his ChessBase show \"Understanding before Moving\", Herman looks at \"good\" and \"bad\" bishops. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-43-good-bishops-bad-bishops",
-         "pubDate" : "Thu, 16 Sep 2021 18:00:00 +0100",
-         "title" : "Understanding before Moving 43: Good bishops, bad bishops"
       }
    ]
 }
