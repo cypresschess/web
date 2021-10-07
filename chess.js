@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Congratulations to Svitlana, who just turned 18 years old. Since she is a year older now, maybe we rename the format to \"Svitlana's Smarter Moves\"? But not much has changed luckily, and it is time to make some bold sacrifices, and figure out, if they are even working. Svitlana shows us a famous example by Emmanuel Lasker, and an interesting variation in the Caro-Kann.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-15",
+         "pubDate" : "Thu, 07 Oct 2021 13:02:00 +0100",
+         "title" : "Svitlana's Smart Moves - Bold sacrifices might not work"
+      },
+      {
+         "description" : "The US Championships, again taking place over the board, kicked off on Wednesday. The open section saw Ray Robson (pictured) and John Burke grabbing the early lead, while among the women Irina Krush, Katerina Nemcova, Ashritha Eswaran and Gulrukhbegim Tokhirjonova scored full points on the first day of action. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r1",
+         "pubDate" : "Thu, 07 Oct 2021 12:50:00 +0100",
+         "title" : "US Championships: Favourites escape"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1373",
+         "pubDate" : "Thu, 07 Oct 2021 09:53:20 +0000",
+         "title" : "2021 U.S. Championship & U.S. Women's Championship kick off in St-Louis"
+      },
+      {
+         "description" : "Solving tactical puzzles can be fun, but what if you could automatically create your own, even from your own games? Nothing could be easier thanks to the analysis tools in both the Fritz interface or ChessBase. In fact, it can be a fun way to review your online games and be tested on the moves where you or your opponent missed a shot. Read on to learn how!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-automatically-create-tactical-quizzes",
+         "pubDate" : "Thu, 07 Oct 2021 09:55:58 +0100",
+         "title" : "How to automatically create tactical quizzes"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Hackers obtained at least 125 GB of confidential data from <strong>Twitch</strong> and published what the streaming channel has paid to streamers, which doesn't include income from merchandising, youtube and sponsorships. <a href=\"https://www.reddit.com/r/chess/comments/q2lpc0/twitch_hack_leaked_gm_hikaru_and_other_twitch/\">A list of the top earning chess streamers has been published on Reddit</a>, with 12 chess streamers paid more than $100,000 since August 2019. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chess-streamers-twitch-income-leaked/",
+         "pubDate" : "Thu, 07 Oct 2021 07:34:37 +0100",
+         "title" : "Chess streamers Twitch income leaked"
+      },
+      {
          "description" : "Four Senior European titles were awarded in Budoni, Sardinia. In the over-50 group, Fabrizio Bellia (photo) became the first Italian to win the title, while German GM Klaus Bischoff came second. The over-65 title went to Nathan Birnboim. Two-time GDR national champion Annett Wagner-Michel won the women's title. | Photo: Scacchierando",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -95,15 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-1",
          "pubDate" : "Wed, 06 Oct 2021 12:30:00 -0700",
-         "title" : "U.S. Chess Championships Round 1: Robson and Burke Take Lead"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is hosting the US Championships for a 13th time on October 6-19. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Wed, 06 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "U.S. Chess Championships R1: Robson, Burke Take Lead"
       },
       {
          "description" : "The 2021 US Championships start in Saint Louis today as world no. 2 Fabiano Caruana and reigning Champion Wesley So top the 12-player field competing for a $50,000 top prize. Leinier Dominguez, Sam Shankland and Jeffery Xiong are the other 2700 stars in action, with only Hikaru Nakamura absent. The women's event features almost all the top contenders, with 2-time US Women's Champion Nazi Paikidze returning to action for the first time since 2018.",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/east-asian-junior-open.html",
          "pubDate" : "Mon, 04 Oct 2021 12:16:00 +0000",
          "title" : "East Asian Junior Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The \"CFR Team\" won the <strong>Women's Team World Championship</strong> <a href=\"https://www.fide.com/news/1367\">held in Sitges under a new format</a>, mixing rapid chess and k.o. mode in the absence of China, whose team wasn't allowed to travel. CFR stands for <strong>Chess Federation of Russia</strong>. During the <strong>WADA</strong> ban until 16 December 2022 no athlete or team can straightforwardly represent Russia in a world championship. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/russian-women-are-team-world/",
-         "pubDate" : "Mon, 04 Oct 2021 12:09:44 +0100",
-         "title" : "Russian women are team world champion"
       },
       {
          "description" : "From 18 to 21 September, 17 of the world's best juniors played a round robin rapid online tournament, the Hou Yifan Challenge, which is part of the Julius Baer Challengers Tour. In the \"Endgame Magic Show #163\" Arne Kaehler and Karsten Mueller look at endgame highlights from this tournament that was won by Vincent Keymer, who finished two points ahead of Christopher Yoo and Praggnanandhaa.| Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
@@ -2130,28 +2154,12 @@ news_feed (
          "title" : "Russia win 2021 Online Olympiad"
       },
       {
-         "description" : "Mega database is easily the greatest database one can buy. Not only does it come with 8.4 million games, but over 85 thousand of them are annotated, many by world champions and the elite. It doesn't come free, though its asking price includes a full year of unparalleled updates, but what if you could have access to it without having to buy it?...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-get-mega-for-free",
-         "pubDate" : "Thu, 16 Sep 2021 14:00:00 +0100",
-         "title" : "How to get Mega for free"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1337",
          "pubDate" : "Thu, 16 Sep 2021 12:07:08 +0000",
          "title" : "Intercontinental Online Championship for Prisoners: Last call to register"
-      },
-      {
-         "description" : "How do you plan chess events with Covid-19 in mind? What to offer non-club players fascinated by online chess and \"The Queen's Gambit\"? What is hybrid chess good for? The Work4Chess online conference on Saturday, 18 September, tries to answer these and other questions. Access to the online conference is free. | Photos: ChessTech",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/impulses-for-the-chess-community-the-work4chess-online-conference",
-         "pubDate" : "Thu, 16 Sep 2021 11:06:11 +0100",
-         "title" : "Impulses for the Chess Community: The Work4Chess Online Conference"
       }
    ]
 }
