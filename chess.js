@@ -90,6 +90,14 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Gulrukhbegim Tokhirjonova Interview | Round 1"
       },
       {
+         "description" : "One of the most anticipated tournaments in America, the U.S. Chess Championships, had its first round on Wednesday, October 6. This event is, as usual, being hosted by the Saint Louis Chess Club. Twelve players compete for the prizes fund of $194,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-1",
+         "pubDate" : "Wed, 06 Oct 2021 12:30:00 -0700",
+         "title" : "U.S. Chess Championships Round 1: Robson and Burke Take Lead"
+      },
+      {
          "description" : "The Saint Louis Chess Club is hosting the US Championships for a 13th time on October 6-19. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "European Club Cup, Round 7 - Live!"
       },
       {
-         "description" : "Friday, September 24, turned out to be one of the most anticipated and thrilling days of the year for chess fans&#38;mdash;and the 2021 PRO Chess League Arena Royale finals did not disappoint! As those who were following the previous days of the eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-pro-chess-league-finals",
-         "pubDate" : "Fri, 24 Sep 2021 05:12:00 -0700",
-         "title" : "PRO Chess League Finals: Russia Wizards Win"
-      },
-      {
          "description" : "The organisers of the TePe Sigeman & Co tournament once again put together a highly interesting field with young and experienced grandmasters. The players did not disappoint and the first day brought four interesting games and four decisions. | Photos: Lars OA Hedlund (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/impulses-for-the-chess-community-the-work4chess-online-conference",
          "pubDate" : "Thu, 16 Sep 2021 11:06:11 +0100",
          "title" : "Impulses for the Chess Community: The Work4Chess Online Conference"
-      },
-      {
-         "description" : "The 36th European Club Cup and the 25th European Club Cup for Women open tomorrow in Struga, Ohrid Lake, North Macedonia. The events will simultaneously take place from 17th-25th September in two different venues: Hotel Drim (Women's event) and Hotel Izgrev (Open event). 38 teams will participate in the 36th European Club Cup and the battlefield is led&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-club-cup-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-club-cup-2021-starts/",
-         "pubDate" : "Thu, 16 Sep 2021 05:50:08 +0000",
-         "title" : "European Club Cup 2021 starts"
       }
    ]
 }
