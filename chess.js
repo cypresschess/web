@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova (pictured) became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r2",
+         "pubDate" : "Fri, 08 Oct 2021 13:40:00 +0100",
+         "title" : "US Championships: Nemcova makes it 2 out of 2"
+      },
+      {
+         "description" : "GM Raunak Sadhwani narrowly defeated GM Parham Maghsoodloo on Thursday by a 15-14 score in the second semifinal of the Junior Speed Chess Championship presented by ChessKid. This means we&#39;ll have an all-Indian final, to be announced soon, between ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-sadhwani-maghsoodloo",
+         "pubDate" : "Fri, 08 Oct 2021 05:21:17 -0700",
+         "title" : "Junior Speed Chess SF: Sadhwani Beats Maghsoodloo To Set Up All-Indian Final"
+      },
+      {
+         "description" : " Around 35 years ago I had to defend a R v R+B ending. It was during an ACT Chess Championship and I failed to do so, being mated on about the 50th move (since the last capture). In those days FIDE had extended the number of moves required to claim a draw to 75, so I did not have a chance to claim, evein if I held out for a few more moves. For the second time in my career, I had to hold this ending once again. It was played in an online event, although there was a 15 second increment, which certainly helped. This time I was much more successful, hanging on for the full 50 moves (121 moves in total). I did make one mistake during the ending (around move 91), but my opponent missed the correct",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/what-difference-35-years-makes.html",
+         "pubDate" : "Fri, 08 Oct 2021 11:53:00 +0000",
+         "title" : "What a difference 35 years makes"
+      },
+      {
          "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
       },
       {
-         "description" : "The second event of the Speed Chess Championship Grand Prix on September 25 with an individual prize fund of $11,000 saw GM Jeffery Xiong beat GM Aleksandr Shimanov in a dramatic final after Russian GM Sanan Sjugirov won the initial Swiss part of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-2-xiong-wins-all-american-finals",
-         "pubDate" : "Sat, 25 Sep 2021 17:57:00 -0700",
-         "title" : "Speed Chess Grand Prix 2: Xiong Wins In Dramatic Knockout"
-      },
-      {
          "description" : "Magnus Carlsen blew Jan-Krzysztof Duda away in 18 moves as the Meltwater Champions Chess Tour Finals began before going on to wrap up match victory with a game to spare after Duda fell for a fiendish trick in the 2nd game. Wesley So kept pace with Magnus by also winning in rapid chess, over Shakhriyar Mamedyarov. The remaining matches went to a playoff, where Anish Giri and Vladislav Artemiev defeated Hikaru Nakamura and Teimour Radjabov in blitz, before Aronian-MVL was decided in Maxime's favour only in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2114,14 +2130,6 @@ news_feed (
          "title" : "Battle of Endgames: 1066 Stratagems for you to Conquer"
       },
       {
-         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-preview",
-         "pubDate" : "Fri, 17 Sep 2021 22:10:00 +0100",
-         "title" : "Young stars ready to battle at Hou Yifan Challenge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
          "pubDate" : "Fri, 17 Sep 2021 16:55:00 +0100",
          "title" : "Norway Chess - Carlsen takes first place"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86293053.cms\" />Mary Ann Gomes will replace Koneru Humpy in the World women's team event which is scheduled to be held in Sitges, Spain from September 26 to October 3. Humpy, who has taken both her jabs in Covaxin, would have to undergo a 10-day quarantine on arrival.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mary-ann-gomes-replaces-humpy-in-indian-team/articleshow/86293053.cms",
-         "pubDate" : "Fri, 17 Sep 2021 18:15:52 +0530",
-         "title" : "Mary Ann Gomes replaces Humpy in Indian team"
-      },
-      {
-         "description" : " Last week, we worked through the beginning of a student game, played between two eight year old's with roughly eight weeks of chess instruction each. I was going to show you the rest of the game this week, but decided to hold off until next week because I want to cover an important middle-game idea, <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\">A Foundation for Beginners Thirty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-five/",
-         "pubDate" : "Fri, 17 Sep 2021 11:47:52 +0000",
-         "title" : "A Foundation for Beginners Thirty Five"
       }
    ]
 }
