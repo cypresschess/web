@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Fri, 08 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1377",
+         "pubDate" : "Fri, 08 Oct 2021 17:46:02 +0000",
+         "title" : "Russian Championship Superfinals get underway in Ufa"
+      },
+      {
+         "description" : " This week, we are finally going to work further through the student game we started playing roughly three weeks ago. I want you to consider everything we discussed in our examination of the middle-game and some of its principles. Don't worry if you don't remember everything discussed because I'll go over the key points you <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-seven/\">A Foundation for Beginners Thirty Seven</a> appeared first on <a rel=\"nofol",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-seven/",
+         "pubDate" : "Fri, 08 Oct 2021 17:11:32 +0000",
+         "title" : "A Foundation for Beginners Thirty Seven"
+      },
+      {
+         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
+         "pubDate" : "Fri, 8 Oct 2021 11:21:45 -0500",
+         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Soviet Championships Volume 1 (1920 - 1937) by <strong>Sergey Voronkov</strong>, published by <strong>Elk and Ruby</strong>, won the prestigeous <a href=\"https://www.englishchess.org.uk/ecf-book-of-the-year-2021/\">book of the year award</a> of the <strong>English Chess Federation</strong> with Winning by <strong>Nigel Short</strong> (<strong>Quality Chess</strong>) getting a honorable mention. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/history-of-soviet-chess-is-ecf-book/",
+         "pubDate" : "Fri, 08 Oct 2021 15:54:33 +0100",
+         "title" : "History of Soviet chess is ECF book of 2021"
+      },
+      {
          "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova (pictured) became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1375",
          "pubDate" : "Thu, 07 Oct 2021 21:42:30 +0000",
          "title" : "Riga to host Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
-      },
-      {
-         "description" : "The US Championships, again taking place over the board, kicked off on Wednesday. The open section saw Ray Robson and John Burke grabbing the early lead, while among the women Irina Krush, Katerina Nemcova, Ashritha Eswaran and Gulrukhbegim Tokhirjonova scored full points on the first day of action. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Thu, 07 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 2"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a way to spicen things up in the Scotch Four Knights - the Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -560,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-163-highlights-of-the-hou-yifan-challenge",
          "pubDate" : "Mon, 04 Oct 2021 11:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Digital collector items are the latest hype in American team sports, but is there a demand in chess? <em>Stefan L&ouml;ffler</em> has doubts. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/nft-championstour.1920.jpeg\" title=\"The Champions Chess Tour introduces NFTs in chess. graphic: Meltwater Champions Chess Tour\" data-title=\"The Champions Chess Tour introduces NFTs in chess. (graphic: Meltwater Champions Chess Tour)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/nft-championstour.480.jpeg\" alt=\"The Champions Chess Tour introduces NFTs in chess.\" srcset=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chasing-the-biggest-fans/",
-         "pubDate" : "Mon, 04 Oct 2021 10:28:03 +0100",
-         "title" : "Chasing the biggest fans"
       },
       {
          "description" : "Click the link to read a post from Northenden Chess Club and John Hennessy to cheer us all up as we try to get back...",
@@ -2128,38 +2152,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/09/18/battle-of-endgames-1066-stratagems-for-you-to-conquer/",
          "pubDate" : "Sat, 18 Sep 2021 00:10:11 +0000",
          "title" : "Battle of Endgames: 1066 Stratagems for you to Conquer"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1339",
-         "pubDate" : "Fri, 17 Sep 2021 19:06:49 +0000",
-         "title" : "FIDE World Women's Team Championship: lineups announced"
-      },
-      {
-         "description" : " The 36th European Club Cup takes place in Struga, North Macedonia 18th-24th September 2021. World Champion Magnus Carlsen, Alexander Grischuk, Shakhriyar Mamedyarov are the top players. The women's event is in the same town but different venue.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/36th-european-club-cup-2021",
-         "pubDate" : "Fri, 17 Sep 2021 22:02:00 +0400",
-         "title" : "36th European Club Cup 2021 - Games and Results"
-      },
-      {
-         "description" : " The 9th Norway Chess tournament, this year sponsored by EY, took place 7th to 17th September. As in the last edition an Armageddon game was played if the main classical game is drawn. Players: Magnus Carlsen, Ian Nepomniachtchi, Richard Rapport, Sergey Karjakin, Alireza Firouzja and Aryan Tari. The event was a 6 player 10 round event. Magnus Carlsen scored 4/4 in a run from the 6th to 9th round and this was enough to take him to first place. Conventional scoring would have had him in first place on tie-break from Alireza Firouzja with them both on 6.5/10, as it was Carlsen was in clear first place, in fact the order of all the players would have been completely the same with conventional sc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-ey-norway-chess-2021",
-         "pubDate" : "Fri, 17 Sep 2021 21:23:00 +0400",
-         "title" : "9th EY Norway Chess 2021 - Games and Results"
-      },
-      {
-         "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to 9th place in the world ranking. | Photo: Lennart Ootes / norwaychess.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-live",
-         "pubDate" : "Fri, 17 Sep 2021 16:55:00 +0100",
-         "title" : "Norway Chess - Carlsen takes first place"
       }
    ]
 }
