@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " US and Russian titles at stake this week as Carlsen celebrates $100,000 online Tour victory Over-the-board competitive chess is back in earnest this week, after fully 18 months of pandemic cancellations and postponements. The British championship at Hull University has its final round on Sunday, the US championship in St Louis began on Wednesday, while the Russian championship Superfinal at Ufa has its opening round on Saturday. There will be a new first-time British champion when the nine-round 2021 final ends at the University of Hull. Despite a prize fund of nearly &pound;5,000, with &pound;2,000 for the winner, none of the top six English grandmasters with 2600-plus ratings (Michael Ada",
+         "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-umbrella",
+         "pubDate" : "Fri, 08 Oct 2021 12:45:11 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The Umbrella"
+      },
+      {
+         "description" : "Defending US Champion Wesley So scored his first win of this year's event by defeating Dariusz Swiercz in Round 2, while Leinier Dominguez came incredibly close to taking down Fabiano Caruana before the world no. 2 managed to scrape a draw in 108 moves. Daniel Naroditsky's bounce-back win over Jeffery Xiong was the other win in the open section. Katerina Nemcova haș the only perfect score of either section after beating Sabina Foisor, with Irina Krush just missing out on joining her.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-2-so-strikes-caruana-escapes-again",
+         "pubDate" : "Fri, 08 Oct 2021 10:13:47 +0000",
+         "title" : "US Chess Champs 2: So strikes, Caruana escapes again"
+      },
+      {
+         "description" : "From the excellent books on the shortlist, two stood out Nigel Short's WINNING and Voronkov's Masterpieces and Dramas. The latter is winner of the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2021/",
+         "pubDate" : "Fri, 08 Oct 2021 10:06:35 +0000",
+         "title" : "ECF Book of the Year 2021"
+      },
+      {
+         "description" : "Fans of the French Defence usually know their lines and structures very well, and they are happy to play their pet systems, even when the engines grant White a slight advantage. But 1.e4 e6 2.d4 d5 3.Bd3!? is a good way to bring French experts out of their comfort zone. In a \"60 Minutes\" video, Dutch IM Robert Ris, an expert for sharp systems, shows how White can use 3.Bd3!? to get promising play against the French Defense. IM Martin Neubauer had a look at the video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-attacking-the-french-with-3-bd3-a-review",
+         "pubDate" : "Fri, 08 Oct 2021 09:30:36 +0100",
+         "title" : "Robert Ris, Attacking the French with 3.Bd3 - A Review"
+      },
+      {
+         "description" : " US and Russian titles at stake this week as Carlsen celebrates $100,000 online Tour victory Over-the-board competitive chess is back in earnest this week, after fully 18 months of pandemic cancellations and postponements. The British championship at Hull University has its final round on Sunday, the US championship in St Louis began on Wednesday while the Russian championship Superfinal at Ufa has its opening round on Saturday. There will be a new first-time British champion when the nine-round 2021 final ends at the University of Hull. Despite a prize fund of nearly &pound;5,000, with &pound;2,000 for the winner, none of the top six English grandmasters with 2600-plus ratings (Michael Adam",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/oct/08/chess-british-championship-dominated-by-veterans-as-over-the-board-returns",
@@ -90,6 +122,14 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Leinier Dominguez Interview | Round 2"
       },
       {
+         "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-2",
+         "pubDate" : "Thu, 07 Oct 2021 14:47:00 -0700",
+         "title" : "U.S. Chess Championships R2: So Joins Leaders, Naroditsky Defeats Xiong"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -103,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Thu, 07 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "US Championships - Round 2"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a way to spicen things up in the Scotch Four Knights - the Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -218,12 +258,28 @@ news_feed (
          "title" : "Fabrizio Bellia becomes first Italian to win the European Senior Championship"
       },
       {
+         "description" : "One of the most anticipated tournaments in America, the U.S. Chess Championships, had its first round on Wednesday, October 6. This event is, as usual, being hosted by the Saint Louis Chess Club. Twelve players compete for the prizes fund of $194,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-1",
+         "pubDate" : "Wed, 06 Oct 2021 12:30:00 -0700",
+         "title" : "U.S. Chess Championships R1: Robson, Burke Take Lead"
+      },
+      {
          "description" : "The 2021 US Championships start in Saint Louis today as world no. 2 Fabiano Caruana and reigning Champion Wesley So top the 12-player field competing for a $50,000 top prize. Leinier Dominguez, Sam Shankland and Jeffery Xiong are the other 2700 stars in action, with only Hikaru Nakamura absent. The women's event features almost all the top contenders, with 2-time US Women's Champion Nazi Paikidze returning to action for the first time since 2018.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/caruana-so-in-action-as-us-championships-begin",
          "pubDate" : "Wed, 06 Oct 2021 17:33:24 +0000",
          "title" : "Caruana & So in action as US Championships begin"
+      },
+      {
+         "description" : "14-year-old IM Christopher Yoo won his first Titled Tuesday this week, scoring 9.5 in the October 5 event to finish in sole first. There was a six-way tie for second place on 9 points out of 11. After tiebreakers were applied, GM Artem Timofeev ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-yoo-wins-october-5-titled-tuesday",
+         "pubDate" : "Wed, 06 Oct 2021 10:21:02 -0700",
+         "title" : "IM Yoo Wins October 5 Titled Tuesday"
       },
       {
          "description" : "This week, Merijn van Delft shows an instructive game in which Magnus Carlsen defeated Anish Giri with the black pieces after navigating a position with a curious material imbalance. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -330,6 +386,14 @@ news_feed (
          "title" : "Clubs & Congress Insurance 2021/22"
       },
       {
+         "description" : "GM Nihal Sarin comfortably reached the final of the Junior Speed Chess Championship presented by ChessKid, after a 20.5-9.5 win over GM Haik Martirosyan on Monday. Sarin will be defending his 2020 title against the winner of GM Raunak Sadhwani vs....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-sarin-martirosyan",
+         "pubDate" : "Tue, 05 Oct 2021 08:28:00 -0700",
+         "title" : "Junior Speed Chess Championship SF: Sarin Too Strong For Martirosyan"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg\" data-image-dimensions=\"410x354\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo by John Upham, courtesy of Tryfon Gavriel\" data-load=\"false\" data-image-id=\"615c5b6777baf339e2f400d0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><em>Photo </em><a href=\"https://johnupham.smugmug.com/\"><e",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -426,6 +490,14 @@ news_feed (
          "title" : "Radjabov and Aronian overtake So"
       },
       {
+         "description" : "GM Teimour Radjabov won the battle for second place and $60,000 on the last day of the 2021 Meltwater Champions Chess Tour Finals, having scored the most points in the last leg of the Tour. GM Magnus Carlsen, who had secured overall victory with t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-9",
+         "pubDate" : "Mon, 04 Oct 2021 13:22:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 9: Carlsen Wins Tour, Radjabov Top Finals Scorer"
+      },
+      {
          "description" : "Teimour Radjabov and Levon Aronian won in the last round of the Champions Chess Tour Finals to secure second and third places behind tour champion Magnus Carlsen. Carlsen beat Wesley So, leaving the Filipino-born grandmaster in fourth place. | Results, games and standings. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,6 +560,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/nscc-junior-team-challenge/",
          "pubDate" : "Mon, 04 Oct 2021 08:38:04 +0000",
          "title" : "NSCC Junior Team Challenge"
+      },
+      {
+         "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-8",
+         "pubDate" : "Sun, 03 Oct 2021 20:24:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 8: Radjabov Moves To 2nd Place"
       },
       {
          "description" : " Share!19 Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Ches",
@@ -562,12 +642,36 @@ news_feed (
          "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
       },
       {
+         "description" : "GM Maxim Chigaev triumphed in a tense knockout final against GM Jeffery Xiong to win the third Speed Chess Championship Grand Prix tournament, but it was the runner-up, Xiong, who managed to amass enough points to guarantee himself a Grand Prix vi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-3-xiong-clinches-grand-prix-victory-chigaev-wins-knockout",
+         "pubDate" : "Sat, 02 Oct 2021 19:29:00 -0700",
+         "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand Prix Victory, Chigaev Wins Knockout"
+      },
+      {
+         "description" : "Russia has defeated India 2.5-1.5 and 3-1 to confidently triumph in both rounds of the finals of the World Women&#39;s Team Championship that concluded in Sitges, Spain. If the semi-rapid event can be considered for historical continuity, this victory...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-womens-team-championship-final-russia-asserts-superiority-over-india",
+         "pubDate" : "Sat, 02 Oct 2021 17:38:00 -0700",
+         "title" : "FIDE World Women's Team Championship Final: Russia Wins Gold In Victory Over India"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1369",
          "pubDate" : "Sat, 02 Oct 2021 22:35:30 +0000",
          "title" : "CFR Team takes the gold to Russia"
+      },
+      {
+         "description" : "In round seven of the Meltwater Champions Chess Tour Finals, the two leaders, GM Magnus Carlsen and GM&#38;nbsp;Teimour Radjabov, faced each other. The Azeri star won the match, but... this day still turned out amazing for the world champion, who won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-7",
+         "pubDate" : "Sat, 02 Oct 2021 14:45:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 7: Carlsen Loses But Wins Series"
       },
       {
          "description" : "",
@@ -650,12 +754,28 @@ news_feed (
          "title" : "On the dark squares"
       },
       {
+         "description" : "Earlier this week, FIDE, the International Chess Federation, announced a sponsorship for women&#39;s chess with Establishment Labs, a company producing and marketing a breast implant product line branded as Motiva&#38;reg;. This is the first-ever corporat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor",
+         "pubDate" : "Fri, 01 Oct 2021 17:09:00 -0700",
+         "title" : "FIDE Announces Breast Implant Company As Women's World Championship Sponsor"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1367",
          "pubDate" : "Fri, 01 Oct 2021 23:56:04 +0000",
          "title" : "India will face off CFR Team for the gold"
+      },
+      {
+         "description" : "Tournament-favorites Russia defeated the Ukraine 2.5-1.5 and 3-1 in the two rounds of the semifinals to score a 2-0 win by match points to reach the finals of the World Women&#39;s Team Championship being held at Sitges, Spain. In the other semifina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-semifinals",
+         "pubDate" : "Fri, 01 Oct 2021 16:19:00 -0700",
+         "title" : "FIDE World Women's Team Championship SF: Russia, India Reach Finals"
       },
       {
          "description" : "Yes, it is true. But not to worry, the news review crew will be back next week with an \"upgrade\" of this format. Lawrence and Arne will pick a chess related theme to talk about thoroughly. In the last news review episode, Lawrence takes a look at three major tournaments: TePe Sigeman, Sharjah Masters, and the Meltwater finals, the progressing of the \"elo\" ranking, and the Steinitz/Lasker resting places.",
@@ -688,6 +808,14 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
          "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
+      },
+      {
+         "description" : "In round six of the Meltwater Champions Chess Tour Finals, GM Magnus Carlsen reinforced his lead as he beat GM Anish Giri in the blitz tiebreaks, but GM Teimour Radjabov kept the chase alive, having won 3-1 against GM Wesley So. Besides those ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-6",
+         "pubDate" : "Fri, 01 Oct 2021 06:29:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 6: Carlsen Reinforces His Lead"
       },
       {
          "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
@@ -760,6 +888,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-womens-team-chess-championship-india-beat-kazakhstan-to-meet-georgia-in-semifinals/articleshow/86673078.cms",
          "pubDate" : "Fri, 01 Oct 2021 11:08:00 +0530",
          "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
+      },
+      {
+         "description" : "Russia and Georgia reached the semifinals of the 2021 World Women&#39;s Team Championship with solid performances, while India and Ukraine overcame their rivals in varying levels of difficulty and drama during the quarterfinals. While India&#39;s victory ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-quarterfinals",
+         "pubDate" : "Thu, 30 Sep 2021 16:21:00 -0700",
+         "title" : "FIDE World Women's Team Championship QF: Russia, Georgia, Ukraine, India Reach Semifinals"
+      },
+      {
+         "description" : "The 2021 FIDE Chess.com Grand Swiss and the inaugural Women&#39;s Grand Swiss are approaching fast, with the first games starting on October 27! The events will gather the best players in the world to compete in a Swiss tournament for two spots in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2021-fide-chesscom-grand-swiss",
+         "pubDate" : "Thu, 30 Sep 2021 15:56:00 -0700",
+         "title" : "Announcing The 2021 FIDE Chess.com Grand Swiss In Riga"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -858,6 +1002,14 @@ news_feed (
          "title" : "Magnus smacks down Hikaru to stretch Tour Finals lead"
       },
       {
+         "description" : "Azerbaijan and FIDE Americas qualified to the knockout stage of the World Women&#39;s Team Championship from their respective pools in contrasting fashion after an eventful fifth and final round of the Round-Robin stage of the tournament. Russia and G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r5",
+         "pubDate" : "Wed, 29 Sep 2021 14:37:00 -0700",
+         "title" : "FIDE World Women's Team Championship R5: Azerbaijan, FIDE Americas Scrape Through To Knockout Stage"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -874,12 +1026,28 @@ news_feed (
          "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
       },
       {
+         "description" : "In round five of the Meltwater Champions Chess Tour Finals GM Magnus Carlsen recovered from yesterday&#39;s loss and remains the sole leader, while GMs Maxime Vachier-Lagrave, Wesley So, and Teimour Radjabov keep chasing him. Today was very entertaini...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-5",
+         "pubDate" : "Wed, 29 Sep 2021 12:41:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 5: Carlsen Recovers"
+      },
+      {
          "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-483-j-van-foreest-vs-e-bacrot",
          "pubDate" : "Wed, 29 Sep 2021 18:00:00 +0100",
          "title" : "Game of the Week 483: J. Van Foreest vs E. Bacrot"
+      },
+      {
+         "description" : "The Chess Super League, an online competition with international top grandmasters as well as Indian players and juniors, will kick off on October 11, 2021. The league has a prize fund of Rs.40 lakh ($54,000 USD). The games will be played on Chess....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league",
+         "pubDate" : "Wed, 29 Sep 2021 09:29:47 -0700",
+         "title" : "Chess Super League To Start October 11 On Chess.com"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86619552.cms\" />India defeated France 3-1 in the fifth and final round, riding on wins from Bhakti Kulkarni and Mary Ann Gomes, to finish second in Pool A and qualify for the quarterfinals of the FIDE World Women's Team Chess Championship on Wednesday.",
@@ -994,6 +1162,22 @@ news_feed (
          "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
       },
       {
+         "description" : "GM Boris Savchenko won Titled Tuesday on September 28 with a score of 10/11 after declining an early draw offer and beating GM Hikaru Nakamura in the final round. It was his second-ever Titled Tuesday win and his first since 2018. GM Federico Pere...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/savchenko-wins-titled-tuesday-against-multi-tournamenting-nakamura",
+         "pubDate" : "Tue, 28 Sep 2021 15:45:21 -0700",
+         "title" : "Savchenko Wins Titled Tuesday Against Multi-Tournamenting Nakamura"
+      },
+      {
+         "description" : "After the first day of the 2021 FIDE World Women Team Championship at Sitges, it was no doubt that Russia was the dominant force of Pool A, while Pool B looked like a comparatively open race for all teams. The second day of the event was expected ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r3-4",
+         "pubDate" : "Tue, 28 Sep 2021 15:23:00 -0700",
+         "title" : "FIDE World Women's Team Championship R3-4: Russia, Georgia Shine And Keep Lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1024,6 +1208,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-armenia-in-third-round/articleshow/86589410.cms",
          "pubDate" : "Tue, 28 Sep 2021 21:46:45 +0530",
          "title" : "World Women's Team C'ship: India beat Armenia in third round"
+      },
+      {
+         "description" : "GM Vladislav Artemiev defeated&#38;nbsp;GM Magnus Carlsen convincingly in round four of the Champions Chess Tour. The world champion still leads, thanks to the bonus points he earned earlier in the tour. GM Wesley So is four points behind with five ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-4",
+         "pubDate" : "Tue, 28 Sep 2021 08:56:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 4: Artemiev Shines"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1122,6 +1314,14 @@ news_feed (
          "title" : "ASIAN AMATEUR ONLINE CHESS CHAMPONSHIPS 2021"
       },
       {
+         "description" : "The 2021 FIDE World Women Team Championship kicked off at Sitges, Spain on Monday, September 27, with favorite Russia showing brilliant form. The team scored the maximum 4 match points after the first two rounds in Pool-A. Known as &#34;Jewel on the M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-r1-2",
+         "pubDate" : "Mon, 27 Sep 2021 16:26:00 -0700",
+         "title" : "FIDE World Women's Team Championship R1-2: Brilliant Start By Favorite Russia"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,6 +1336,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1354",
          "pubDate" : "Mon, 27 Sep 2021 21:40:34 +0000",
          "title" : "Czech Championship: Vojtěch Pl&aacute;t and Karolina Pilsova take titles"
+      },
+      {
+         "description" : "Welcome to the third round of the Champions Chess Tour Finals, a 10-player super grandmaster tournament that took place on September 27.&#38;nbsp; As those of you who have been following the previous rounds know, so far only GMs Magnus Carlsen and M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-3",
+         "pubDate" : "Mon, 27 Sep 2021 12:33:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 3: Carlsen Becomes Sole Leader"
       },
       {
          "description" : "The Norwegian Grandmaster Simen Agdestein coached Magnus Carlsen, and at a chess school in the Norwegian town of Bærum he still coaches some of the most promising Norwegian talents. Agdestein regularly travels with his pupils to tournaments, and from the 3rd to the 5th of September, Agdestein and his students took part in the Grand Prix Tournament in Krager&oslash;, which Agdestein won with 6.0/6. | Photo: The last round game between 12-year-old Martin Holten Fiskaaen and Agdestein. FM Ward Altarbosh in the background. | Photos: Tanja Cecilie Kveim",
@@ -1168,14 +1376,6 @@ news_feed (
          "link" : "https://aicf.in/registration-for-asian-youth-online-chess-championship-2021-2/",
          "pubDate" : "Mon, 27 Sep 2021 14:24:05 +0000",
          "title" : "Registration for Asian Youth Online Chess Championship 2021"
-      },
-      {
-         "description" : "The U19 ECF National School Chess Championships 2021/22 is now open for entries at https://www.englishchess.org.uk/NSCC/under-19-championships/. All schools are welcome, and we are grateful to Winchester...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/u19-national-school-chess-championships-2021-22/",
-         "pubDate" : "Mon, 27 Sep 2021 13:25:00 +0000",
-         "title" : "U19 National School Chess Championships 2021/22"
       },
       {
          "description" : "After two days of play Magnus Carlsen leads the final of the Meltwater Champions Chess Tour - which he, thanks to the 16.5 bonus point he received because of his successes in the previous tournaments of the tour - did from the very start of the event. But in round 2 the World Champion had to overcome serious problems before beating Shakhryar Mamedyarov in a tense and eventful match that went into Armageddon. | Graphics and photos: Tournament Site",
@@ -1218,12 +1418,28 @@ news_feed (
          "title" : "Visiting Steinitz and Lasker at Their Final Resting Places"
       },
       {
+         "description" : "A critical blunder that ended a game in one move, a symmetrical fianchetto Grunfeld played twice in one match, and two players repeating their same moves from a previous game were some of the highlights in the second round of the Meltwater Champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-2",
+         "pubDate" : "Sun, 26 Sep 2021 18:35:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 2: Carlsen, MVL Perfect"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1352",
          "pubDate" : "Sun, 26 Sep 2021 20:42:07 +0000",
          "title" : "Magnus storms 6 points clear in Tour Finals as Wesley beaten"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour Finals began on Saturday. The format is a round-robin event with 10 super-GM participants, namely Magnus Carlsen, Wesley So, Levon Aronian, Anish Giri, Teimour Radjabov, Vladislav Artemiev, Hikaru Nakamura, Maxim...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-1-carlsen-so-mvl-artemiev-giri-lead",
+         "pubDate" : "Sun, 26 Sep 2021 11:57:00 -0700",
+         "title" : "Champions Chess Tour Finals Day 1: Carlsen Impressive In Opener"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86533520.cms\" />Chess legend Viswanathan Anand on Sunday said the country has many immensely talented players at the junior level and one of them can \"hopefully\" become a world champion in future.",
@@ -1272,6 +1488,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-chess-tour-finals-strong-start-by-magnus-carlsen/articleshow/86524296.cms",
          "pubDate" : "Sun, 26 Sep 2021 10:50:23 +0530",
          "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
+      },
+      {
+         "description" : "The second event of the Speed Chess Championship Grand Prix on September 25 with an individual prize fund of $11,000 saw GM Jeffery Xiong beat GM Aleksandr Shimanov in a dramatic final after Russian GM Sanan Sjugirov won the initial Swiss part of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-2-xiong-wins-all-american-finals",
+         "pubDate" : "Sat, 25 Sep 2021 17:57:00 -0700",
+         "title" : "Speed Chess Grand Prix 2: Xiong Wins In Dramatic Knockout"
       },
       {
          "description" : "Magnus Carlsen blew Jan-Krzysztof Duda away in 18 moves as the Meltwater Champions Chess Tour Finals began before going on to wrap up match victory with a game to spare after Duda fell for a fiendish trick in the 2nd game. Wesley So kept pace with Magnus by also winning in rapid chess, over Shakhriyar Mamedyarov. The remaining matches went to a playoff, where Anish Giri and Vladislav Artemiev defeated Hikaru Nakamura and Teimour Radjabov in blitz, before Aronian-MVL was decided in Maxime's favour only in Armageddon.",
@@ -1544,14 +1768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tactics-app-adrenaline-rush",
          "pubDate" : "Thu, 23 Sep 2021 09:11:52 +0100",
          "title" : "ChessBase Tactics app: Adrenaline Rush"
-      },
-      {
-         "description" : "\"I wouldn't play unless I was fully motivated,\" said Magnus Carlsen as he signed the contract for his World Chess Championship match just over two months before battle is set to commence against Ian Nepomniachtchi in Dubai. Magnus signing the contract in Skopje during the European Club Cup was reported by his sponsors Unibet, who also posted a video of Magnus and his father Henrik in Dubai checking out hotels and the Dubai Exhibition Centre venue.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-signs-world-championship-contract",
-         "pubDate" : "Wed, 22 Sep 2021 19:01:08 +0000",
-         "title" : "Magnus Carlsen signs World Championship contract"
       },
       {
          "description" : " The TePe Sigeman & Co Chess Tournament takes place Thu 23rd to Wed 29th September 2021 in Malmo Sweden. This is the 26th edition of the tournament. The event was postponed from earlier in the year due to the coronavirus. Players: Jorden Van Foreest, Gawain Jones, Nils Grandelius, Etienne Bacrot, Nihal Sarin, Nigel Short, Vincent Keymer and Jonas Buhl Bjerre.",
@@ -1930,14 +2146,6 @@ news_feed (
          "title" : "9th EY Norway Chess 2021 - Games and Results"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris shows how Ian Nepomniachtchi used the goold old King's Gambit to score a quick win in his Armageddon match against Alireza Firouzja at the Norway Chess Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepo-s-king-s-gambit",
-         "pubDate" : "Fri, 17 Sep 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Nepo's King's Gambit"
-      },
-      {
          "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to 9th place in the world ranking. | Photo: Lennart Ootes / norwaychess.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1954,28 +2162,12 @@ news_feed (
          "title" : "Mary Ann Gomes replaces Humpy in Indian team"
       },
       {
-         "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. Team USA's program has helped develop several American chess prodigies from across the country. including the likes of GM Jeffery Xiong and GM Sam Sevian. Team USA has been capped off with individualized training sessions with Kasparov's coaching staff and special training sessions with Garry Kasparov himself. | Photo: Left to Right standing: Christopher Yoo, Michael Khodarkovsky, Garry Kasparov, Brandon Jacobson. Sitting: Carissa Yip and Rochelle Wu | Photos: Kasparov Chess Foundation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/young-stars-return-to-in-person-session",
-         "pubDate" : "Fri, 17 Sep 2021 13:00:00 +0100",
-         "title" : "Young Stars return to in-person session"
-      },
-      {
          "description" : " Last week, we worked through the beginning of a student game, played between two eight year old's with roughly eight weeks of chess instruction each. I was going to show you the rest of the game this week, but decided to hold off until next week because I want to cover an important middle-game idea, <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-five/\">A Foundation for Beginners Thirty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-five/",
          "pubDate" : "Fri, 17 Sep 2021 11:47:52 +0000",
          "title" : "A Foundation for Beginners Thirty Five"
-      },
-      {
-         "description" : " China and India eliminated in semi-finals as big four of world chess outclass their rivals Russia's highly rated squad won gold at last week's 150-nation online Olympiad, yet the US silver medal team could argue that they were moral victors. Playing without all their top stars, the Americans were defeated by only a narrow 7-5 margin in a tense final match. Earlier in the semi-finals, Russia beat China while the US, again the rating underdogs, eliminated India in a speed tie-break. These four countries are in a class apart, the superpowers of world chess. <a href=\"https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5\">Continue reading..",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/sep/17/chess-russia-captures-olympiad-gold-edging-weakened-us-team-7-5",
-         "pubDate" : "Fri, 17 Sep 2021 10:04:04 +0000",
-         "title" : "Chess: Russia capture Olympiad gold, edging weakened US team 7-5"
       }
    ]
 }
