@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The U.S. Women&#039;s Championship players express feelings on being back in Saint Louis for the national championship. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-returning-us-womens-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aKcw6E9lDOI.jpg?itok=sEwkweD3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-returning-us-womens-championship",
+         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
+         "title" : "2021 U.S. Chess Championships: Returning to the U.S. Women's Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> During Round 3 of the U.S. Chess Championships, Jeffery Xiong gives his thoughts on his game with Sam Sevian. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-jeffery-xiong-confessional-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GBflinkp6K8.jpg?itok=FdY91UvR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-jeffery-xiong-confessional-round-3",
+         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
+         "title" : "2021 U.S. Chess Championships: Jeffery Xiong Confessional | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-fabiano-caruana-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j3bQ2ef7j6s.jpg?itok=_Te3USDf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-fabiano-caruana-interview-round-3",
+         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
+         "title" : "2021 U.S. Chess Championships: Fabiano Caruana Interview | Round 3"
+      },
+      {
          "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Fri, 08 Oct 2021 19:55:00 +0100",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
+         "pubDate" : "Fri, 08 Oct 2021 19:50:35 +0100",
+         "title" : "Inside Chess.com"
+      },
+      {
+         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
+         "pubDate" : "Fri, 8 Oct 2021 13:23:25 -0500",
+         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
       },
       {
          "description" : "",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-seven/",
          "pubDate" : "Fri, 08 Oct 2021 17:11:32 +0000",
          "title" : "A Foundation for Beginners Thirty Seven"
-      },
-      {
-         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
-         "pubDate" : "Fri, 8 Oct 2021 11:21:45 -0500",
-         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Soviet Championships Volume 1 (1920 - 1937) by <strong>Sergey Voronkov</strong>, published by <strong>Elk and Ruby</strong>, won the prestigeous <a href=\"https://www.englishchess.org.uk/ecf-book-of-the-year-2021/\">book of the year award</a> of the <strong>English Chess Federation</strong> with Winning by <strong>Nigel Short</strong> (<strong>Quality Chess</strong>) getting a honorable mention. </div> ",
@@ -160,30 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-3-lichessorg",
          "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
          "title" : "2021 U.S. Chess Championships: Round 3 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-4-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-4-lichessorg",
-         "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 4 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Megan Lee during Round 2 of the 2021 U.S. Chess Championships. 2021.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-megan-lee-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VtLHoUrrMt0.jpg?itok=8E6Uq5By\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-megan-lee-interview-round-2",
-         "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
-         "title" : "2021 U.S. Chess Championships: Megan Lee Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 2 of the 2021 U.S. Chess Championships. 2021.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-leinier-dominguez-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KwU-Z81OxPA.jpg?itok=4g9Ajp0q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-leinier-dominguez-interview-round-2",
-         "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
-         "title" : "2021 U.S. Chess Championships: Leinier Dominguez Interview | Round 2"
       },
       {
          "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://chessimprover.com/hanging-offence/",
          "pubDate" : "Sun, 03 Oct 2021 15:30:42 +0000",
          "title" : "Hanging Offence"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 45 teams with nearly 200 players competed in the <strong>Dutch Corporate Championship</strong> held as a rapid Swiss in Wijk aan Zee with support from <strong>Tata Steel</strong>. The outright favourite <strong>Hotels.nl</strong>, a booking website founded by chess lover <strong>Kees Eldering</strong>, <a href=\"https://www.schaaksite.nl/2021/10/03/nk-bedrijvenschaak-2021/\">won only by a small margin</a>, after top player <strong>Jorden van Foreest</strong> conceded two points and ended only 28th in the <a href=\"https://www.schaaksite.nl/wp-content/uploads/2021/10/ranglijst-individueel-eindstand.pdf\">individual scoreboard</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/hotelsnl-is-dutch-corporate/",
-         "pubDate" : "Sun, 03 Oct 2021 15:55:18 +0100",
-         "title" : "Hotels.nl is Dutch corporate champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86731096.cms\" />Young Indian Grandmaster Arjun Erigaisi scored seven points from nine rounds to finish second in the Junior U-21 Round Table Open Chess Championship which concluded on Sunday.",
