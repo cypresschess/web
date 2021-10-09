@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just played 14.Bd4 to neutralize the enemy Dragon bishop on the long diagonal. But this solid looking move actually allowed Black to get the advantage. How did he continue?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishops-in-the-center",
+         "pubDate" : "Sat, 09 Oct 2021 09:00:00 +0100",
+         "title" : "Bishops in the center"
+      },
+      {
+         "description" : "The Chess Super League is a grand event which will be held online from the 11th to the 17th of October 2021. Samay Raina, ChessBase India and Nodwin Gaming have come together to launch the league which will be known as the Chess Super League. Each team will be owned by a well-known celebrity and will consist of top international and Indian players, like Ding, Giri, Radjabov, Nakamura, Hou Yifan, the Muzychuk sisters, Gujrathi, Harika, Gukesh, and many more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-super-league-is-here",
+         "pubDate" : "Sat, 09 Oct 2021 08:00:00 +0100",
+         "title" : "The Chess Super League is here!"
+      },
+      {
          "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-3",
+         "pubDate" : "Sat, 09 Oct 2021 03:10:18 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 3"
+      },
+      {
          "description" : "The top seed GM Fabiano Caruana beat GM John M.Burke in the third round of the 2021 U.S. Chess Championship and joined the tournament leaders. GM Sam Sevian, who outplayed GM Jeffery Xiong, also joined the top group with 2/3. In the U.S. Women&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-3",
          "pubDate" : "Fri, 08 Oct 2021 20:03:00 -0700",
          "title" : "U.S. Chess Championships R3: Caruana, Sevian Join Leaders"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
+         "pubDate" : "Sat, 09 Oct 2021 03:49:37 +0100",
+         "title" : "Inside Chess.com"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Tatev Abrahamyan during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-tatev-abrahamyan-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TGZJcEwajVE.jpg?itok=yY1yZ_HG\" alt=\"\" /></a></div>",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Fri, 08 Oct 2021 19:55:00 +0100",
          "title" : "US Championships - Round 3"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
-         "pubDate" : "Fri, 08 Oct 2021 19:50:35 +0100",
-         "title" : "Inside Chess.com"
       },
       {
          "description" : "",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-returning-us-championship",
          "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
          "title" : "2021 U.S. Chess Championships: Returning to the U.S. Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Carissa Yip during Round 2 of the 2021 U.S. Chess Championships. 2021.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-carissa-yip-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6HU97OpNb_Q.jpg?itok=w7cm3j1Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-carissa-yip-interview-round-2",
-         "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
-         "title" : "2021 U.S. Chess Championships: Carissa Yip Interview | Round 2"
       },
       {
          "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
@@ -2122,28 +2138,12 @@ news_feed (
          "title" : "Congratulations Raja Rithvik : 70th Grandmaster of India"
       },
       {
-         "description" : "Nona Gaprindashvili, a history-making chess champion, has sued the giant video portal Netflix over a line in the series 'The Queen's Gambit', where it was claimed that the female world champion had never faced men. Nona and her attorneys called the statement grossly sexist and belittling. \"By 1968, the year in which the episode is set, she had competed against at least 59 male chess players.\" The international news is full of the story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-pioneer-sues-netflix",
-         "pubDate" : "Sat, 18 Sep 2021 10:00:00 +0100",
-         "title" : "Chess Pioneer Sues Netflix"
-      },
-      {
          "description" : "My title this week, \"Chess has its reasons, of which Reason itself is well aware\", is a homage to that great French mathematician and pre-Enlightenment thinker, Blaise Pascal (1623-1662, his adding machine pictured above). His Pens&eacute;es (a collection of surviving fragments or \"Thoughts\") refer to matters of the heart in similar, but reversed polarity: \"Le []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/chess-has-its-reasons-of-which-reason-is-well-aware/",
          "pubDate" : "Sat, 18 Sep 2021 08:44:23 +0000",
          "title" : "Chess has its reasons, of which Reason is well aware"
-      },
-      {
-         "description" : "In the diagram position, Black just burned his bridges by playing 7...Bg4 which forces White to win a piece with 8.f3. Putting aside \"modern objectivity\" - what I like about the following attack is the energy of Black's moves. He only has one goal in mind: to mate the enemy king. A full-speed nostalgia trip - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-uncompromising-attack",
-         "pubDate" : "Sat, 18 Sep 2021 09:00:00 +0100",
-         "title" : "An uncompromising attack"
       }
    ]
 }
