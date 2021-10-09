@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Under the rules of online chess, the player is held responsible for anything that happens at their end of the game, unless it can be demonstrated that the hosting server is at fault. This can include power outages, network failures, and in one case, the cat sitting on the keyboard. To preserve the dignity of the player involved, I won't use real names, but the cat-astrophe occurs at move 17 (if it isn't obvious already) <br /> <b>White - Black (cat) [D00]</b><br />Street Chess - 9 October 2021, 09.10.2021 <script>new PgnViewer( { boardName: \"game1279\", movesFormat: \"default\", pgnString:'1.d4 d5 2.e3 Bf5 3.c4 Nf6 4.Nf3 e6 5.Bd3 Bg6 6.O-O dxc4 7.Bxc4 Bd6 8.Re1 c6 9.Nc3 Qc7 10.Bd3 Bh5 11.h3 Nb",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/the-cat-sat-on-my-keyboard.html",
+         "pubDate" : "Sat, 09 Oct 2021 13:39:00 +0000",
+         "title" : "The cat sat on my keyboard"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1378",
+         "pubDate" : "Sat, 09 Oct 2021 11:37:20 +0000",
+         "title" : "WCC for People with Disabilities: Introducing the players"
+      },
+      {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1342",
          "pubDate" : "Sat, 18 Sep 2021 20:01:15 +0000",
          "title" : "Pilot project FIDE/UNCHR Girls Club \"Chess for protection\" Kakuma 2021/2022 launched"
-      },
-      {
-         "description" : " One of the things I thought was great about \"The Queens Gambit\" was the attention to detail. The equipment looked legitimate, the games and moves looked real, and even some of the casting of extras was spot on. In fact one of the casting choices was the very brief scene where Nona Gaprindashvili was featured (for no more than a couple of seconds). However the creators are now being sued over this scene, for the line that \"she has never faced men\". Gaprindashvili is asking for $5M, although I would be surprised if she will get this (NB I am not a lawyer). When I saw the scene, I (and any serious chess player) knew this was not correct, as she had played in plenty of events against male playe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/attention-to-detail.html",
-         "pubDate" : "Sat, 18 Sep 2021 13:56:00 +0000",
-         "title" : "Attention to detail"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1341",
-         "pubDate" : "Sat, 18 Sep 2021 11:45:19 +0000",
-         "title" : "FIDE World Women's Team Championship 2021: preview"
       }
    ]
 }
