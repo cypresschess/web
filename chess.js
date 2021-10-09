@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Speed Chess Championship Grand Prix concluded Saturday with the fourth and final leg. There were $11,000 in prizes to play for even though GM Jeffery Xiong had already clinched the overall Grand Prix standings and a spot in the Speed Ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-4-yakubboev-wins-with-xiong-already-through-to-main-event",
+         "pubDate" : "Sat, 09 Oct 2021 15:30:49 -0700",
+         "title" : "Speed Chess Grand Prix 4: Yakubboev Wins With Xiong Already Through To Main Event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/playing-over-board",
+         "pubDate" : "Sat, 09 Oct 2021 21:11:02 +0000",
+         "title" : "Playing Over the Board"
+      },
+      {
          "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Sat, 09 Oct 2021 19:55:00 +0100",
          "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
+         "pubDate" : "Sat, 09 Oct 2021 19:39:24 +0100",
+         "title" : "Inside Chess.com"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-5-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
          "pubDate" : "Sat, 9 Oct 2021 05:47:16 -0500",
          "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
-         "pubDate" : "Sat, 09 Oct 2021 09:41:02 +0100",
-         "title" : "Inside Chess.com"
       },
       {
          "description" : "Five minutes walk from my house in Clapham lies a large Victorian block boasting a blue plaque. It confirms the former residency of Edvard Grieg (1843-1907), composer of Peer Gynt. Grieg is one of the most celebrated modern Norwegians, along with explorer Roald Amundsen (1872-1928) artist Edvard Munch (1863-1944) dramatist Henrik Ibsen (1828-1906) and reigning World Chess Champion Magnus Carlsen. []",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/oct/08/chess-british-championship-dominated-by-veterans-as-over-the-board-returns",
          "pubDate" : "Fri, 08 Oct 2021 07:00:05 +0000",
          "title" : "Chess: British championship dominated by veterans as over-the-board returns"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-2",
-         "pubDate" : "Fri, 08 Oct 2021 03:09:43 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 2"
       },
       {
          "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "Visiting Steinitz and Lasker at Their Final Resting Places"
       },
       {
-         "description" : "A critical blunder that ended a game in one move, a symmetrical fianchetto Grunfeld played twice in one match, and two players repeating their same moves from a previous game were some of the highlights in the second round of the Meltwater Champio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-2",
-         "pubDate" : "Sun, 26 Sep 2021 18:35:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 2: Carlsen, MVL Perfect"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
          "pubDate" : "Sun, 19 Sep 2021 10:26:41 +0000",
          "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1342",
-         "pubDate" : "Sat, 18 Sep 2021 20:01:15 +0000",
-         "title" : "Pilot project FIDE/UNCHR Girls Club \"Chess for protection\" Kakuma 2021/2022 launched"
       }
    ]
 }
