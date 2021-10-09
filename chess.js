@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Sat, 09 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-5-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-5-lichessorg",
+         "pubDate" : "Sat, 09 Oct 2021 18:11:01 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 5 | lichess.org"
+      },
+      {
+         "description" : "Fabiano Caruana showed just how dangerous it is to repeat a sharp opening against the very best players as he put John Burke to the sword in Round 3 of the 2021 US Chess Championships. It was a day of first wins, with Sam Sevian beating Jeffery Xiong to join the leaders, while Dariusz Swiercz recovered from two losses by beating Daniel Naroditsky. Tatev Abrahamyan did the same in the women's section, beating Anna Zatonskih, while 18-year-old Thalia Cervantes also grabbed a first win, against Sabina Foisor.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-3-caruana-sevian-join-the-leaders",
+         "pubDate" : "Sat, 09 Oct 2021 17:36:27 +0000",
+         "title" : "US Chess Champs 3: Caruana & Sevian join the leaders"
+      },
+      {
          "description" : " Under the rules of online chess, the player is held responsible for anything that happens at their end of the game, unless it can be demonstrated that the hosting server is at fault. This can include power outages, network failures, and in one case, the cat sitting on the keyboard. To preserve the dignity of the player involved, I won't use real names, but the cat-astrophe occurs at move 17 (if it isn't obvious already) <br /> <b>White - Black (cat) [D00]</b><br />Street Chess - 9 October 2021, 09.10.2021 <script>new PgnViewer( { boardName: \"game1279\", movesFormat: \"default\", pgnString:'1.d4 d5 2.e3 Bf5 3.c4 Nf6 4.Nf3 e6 5.Bd3 Bg6 6.O-O dxc4 7.Bxc4 Bd6 8.Re1 c6 9.Nc3 Qc7 10.Bd3 Bh5 11.h3 Nb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/10/the-cat-sat-on-my-keyboard.html",
          "pubDate" : "Sat, 09 Oct 2021 13:39:00 +0000",
          "title" : "The cat sat on my keyboard"
+      },
+      {
+         "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r3",
+         "pubDate" : "Sat, 09 Oct 2021 13:50:00 +0100",
+         "title" : "US Championships: Caruana and Sevian join the lead"
       },
       {
          "description" : "",
@@ -154,14 +186,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Dictionary: The Umbrella"
       },
       {
-         "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Fri, 08 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-2",
          "pubDate" : "Fri, 08 Oct 2021 03:09:43 +0000",
          "title" : "2021 U.S. Chess Championships: Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The U.S. Championship players express feelings on being back in Saint Louis for the national championship. 2021.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-returning-us-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OJgixKQeiKQ.jpg?itok=fZR8bdCu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-returning-us-championship",
-         "pubDate" : "Fri, 08 Oct 2021 00:09:37 +0000",
-         "title" : "2021 U.S. Chess Championships: Returning to the U.S. Championship"
       },
       {
          "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "Meet Onakoya, a coach who changed lives of Nigerian slum children"
       },
       {
-         "description" : "After 10 months, 9 tournaments and over 1,000 games between the world's best players, the time for the Meltwater Champions Chess Tour Finals has come. The ultimate showdown kicks off on September 25 at 17:00 CET, and up for grabs is the $100,000 top prize along with the overall tour trophy. The line-up of participants is stacked, with an average rating of 2782.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/champions-chess-tour-finals-player-recap",
-         "pubDate" : "Thu, 23 Sep 2021 14:00:42 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals: A look at the players"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-154",
          "pubDate" : "Sun, 19 Sep 2021 19:35:00 +0100",
          "title" : "Do pawns disregard Einstein?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 44th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to attack with opposite-coloured bishops. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-44-attacking-with-opposite-coloured-bishops",
-         "pubDate" : "Sun, 19 Sep 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 44: Attacking with opposite-coloured bishops"
       },
       {
          "description" : " Looking for interesting pawn endings from recent games, as one does, I came across this, from the online 4NCL. It's Black's move here. What do you think? Who's your money on? White, Black or draw? Place your bets. Rien ne va plus, ladies and gentlemen. 35.. Kf7 36. g3 Ke6 37. Kg2 Ke5 38. Kf3 <a href=\"https://chessimprover.com/pawn-ending-trick/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pawn Ending Trick\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pawn-ending-trick/\">Pawn Ending Trick</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
