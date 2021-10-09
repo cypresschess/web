@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Sat, 09 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina (pictured), has Dmitry Andreikin, Nikita Vitiugov and Andrey Esipenko as the top seeds. Polina Shuvalova, Alina Kashlinskaya and Natalija Pogonina are the highest-rated players in the women's section. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-preview",
+         "pubDate" : "Sat, 09 Oct 2021 11:50:00 +0100",
+         "title" : "Russian Superfinals in Ufa"
+      },
+      {
+         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
+         "pubDate" : "Sat, 9 Oct 2021 05:47:16 -0500",
+         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
+         "pubDate" : "Sat, 09 Oct 2021 09:41:02 +0100",
+         "title" : "Inside Chess.com"
+      },
+      {
+         "description" : "Five minutes walk from my house in Clapham lies a large Victorian block boasting a blue plaque. It confirms the former residency of Edvard Grieg (1843-1907), composer of Peer Gynt. Grieg is one of the most celebrated modern Norwegians, along with explorer Roald Amundsen (1872-1928) artist Edvard Munch (1863-1944) dramatist Henrik Ibsen (1828-1906) and reigning World Chess Champion Magnus Carlsen. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-red-czar-of-moscow-and-the-hall-of-the-mountain-king/",
+         "pubDate" : "Sat, 09 Oct 2021 08:18:10 +0000",
+         "title" : "The Red Czar of Moscow and the Hall of the Mountain King"
+      },
+      {
          "description" : "In the diagram position White just played 14.Bd4 to neutralize the enemy Dragon bishop on the long diagonal. But this solid looking move actually allowed Black to get the advantage. How did he continue?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +58,6 @@ news_feed (
          "title" : "The Chess Super League is here!"
       },
       {
-         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
-         "pubDate" : "Fri, 8 Oct 2021 23:04:46 -0500",
-         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-3",
          "pubDate" : "Fri, 08 Oct 2021 20:03:00 -0700",
          "title" : "U.S. Chess Championships R3: Caruana, Sevian Join Leaders"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
-         "pubDate" : "Sat, 09 Oct 2021 03:49:37 +0100",
-         "title" : "Inside Chess.com"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Tatev Abrahamyan during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-tatev-abrahamyan-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TGZJcEwajVE.jpg?itok=yY1yZ_HG\" alt=\"\" /></a></div>",
@@ -106,6 +130,14 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Fabiano Caruana Interview | Round 3"
       },
       {
+         "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-umbrella",
+         "pubDate" : "Fri, 08 Oct 2021 20:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The Umbrella"
+      },
+      {
          "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/what-difference-35-years-makes.html",
          "pubDate" : "Fri, 08 Oct 2021 11:53:00 +0000",
          "title" : "What a difference 35 years makes"
-      },
-      {
-         "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-umbrella",
-         "pubDate" : "Fri, 08 Oct 2021 12:45:11 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The Umbrella"
       },
       {
          "description" : "Defending US Champion Wesley So scored his first win of this year's event by defeating Dariusz Swiercz in Round 2, while Leinier Dominguez came incredibly close to taking down Fabiano Caruana before the world no. 2 managed to scrape a draw in 108 moves. Daniel Naroditsky's bounce-back win over Jeffery Xiong was the other win in the open section. Katerina Nemcova haș the only perfect score of either section after beating Sabina Foisor, with Irina Krush just missing out on joining her.",
@@ -2082,14 +2106,6 @@ news_feed (
          "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
       },
       {
-         "description" : "Day 1 of the Hou Yifan Challenge, the last regular event of the Julius Baer Challengers Tour, saw Praggnanandhaa scoring five wins in as many games to take the sole lead. Vincent Keymer won his first four games, but lost against Christopher Yoo in the final round of the day, and now stands in sole second place. Pragg's sister Vaishali was the strongest among the women, as she collected 2&frac12; points in four games. | Pictured: Vaishali and Pragg with their mother, Nagalakshmi | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-1",
-         "pubDate" : "Sat, 18 Sep 2021 23:25:00 +0100",
-         "title" : "Hou Yifan Challenge: Pragg still perfect"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,38 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1341",
          "pubDate" : "Sat, 18 Sep 2021 11:45:19 +0000",
          "title" : "FIDE World Women's Team Championship 2021: preview"
-      },
-      {
-         "description" : "Magnus Carlsen beat Ian Nepomniachtchi in Armageddon to secure first place at the 2021 Norway Chess Tournament. This is the world champion's third straight triumph in his home super-tournament. Alireza Firouzja had a great performance, ending the tournament with four wins in a row to get sole second place and climb to ninth place in the world ranking. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2021-r10",
-         "pubDate" : "Sat, 18 Sep 2021 12:40:00 +0100",
-         "title" : "Carlsen wins Norway Chess, Firouzja shines"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1340",
-         "pubDate" : "Sat, 18 Sep 2021 10:56:56 +0000",
-         "title" : "Magnus Carlsen wins Norway Chess 2021"
-      },
-      {
-         "description" : "Telangana teenager Raja Rithvik becomes the 70th Grandmaster of the country after completing the requirement to be next Grandmaster of the country at Vezerkepzo Grandmaster",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-raja-rithvik-70th-grandmaster-of-india/",
-         "pubDate" : "Sat, 18 Sep 2021 10:40:22 +0000",
-         "title" : "Congratulations Raja Rithvik : 70th Grandmaster of India"
-      },
-      {
-         "description" : "My title this week, \"Chess has its reasons, of which Reason itself is well aware\", is a homage to that great French mathematician and pre-Enlightenment thinker, Blaise Pascal (1623-1662, his adding machine pictured above). His Pens&eacute;es (a collection of surviving fragments or \"Thoughts\") refer to matters of the heart in similar, but reversed polarity: \"Le []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-has-its-reasons-of-which-reason-is-well-aware/",
-         "pubDate" : "Sat, 18 Sep 2021 08:44:23 +0000",
-         "title" : "Chess has its reasons, of which Reason is well aware"
       }
    ]
 }
