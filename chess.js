@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've recently reviewed, in another place, The Secret Ingredient, by Jan Markos and David Navara. One sentence by Markos really resonated with me. In real chess, the width of your calculation is usually much more important than its depth. There are exceptions, as he points out, especially in endings. In pawn endings, for example, you'll <a href=\"https://chessimprover.com/width-and-depth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Width and Depth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/width-and-depth/\">Width and Depth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/width-and-depth/",
+         "pubDate" : "Sun, 10 Oct 2021 06:30:43 +0000",
+         "title" : "Width and Depth"
+      },
+      {
          "description" : "In round four of the 2021 U.S. Chess Championship, GM Ray Robson became the tournament&#39;s sole leader with 3/4 by beating GM Jeffery Xiong. Second place is shared by GMs Fabiano Caruana and Wesley So, who split a point, as well as by GMs Leinier Do...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/u-s-chess-championships-r4",
-         "pubDate" : "Sat, 09 Oct 2021 20:27:10 -0700",
+         "pubDate" : "Sat, 09 Oct 2021 20:27:00 -0700",
          "title" : "U.S. Chess Championships R4: Robson Sole Leader"
       },
       {
