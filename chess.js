@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 48th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on g6\" to build up an attack. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-48-the-target-on-h6",
+         "pubDate" : "Sun, 10 Oct 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 48: The target on g6"
+      },
+      {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2112,22 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tactics-web-app-best-by-test",
          "pubDate" : "Mon, 20 Sep 2021 12:19:26 +0100",
          "title" : "ChessBase Tactics web app: Best by test"
-      },
-      {
-         "description" : "Apparently there is no stopping Praggnanandhaa at the Hou Yifan Challenge for young stars. The Indian prodigy has won all 9 of his games so far in the rapid tournament taking place online. Vincent Keymer is currently in second place, two points behind Pragg, albeit with one game less to his name. Keymer will face Pragg on Monday, in round 11. | Pictured: Pragg during a training session with Vladimir Kramnik in 2019 | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-2",
-         "pubDate" : "Mon, 20 Sep 2021 01:10:00 +0100",
-         "title" : "Hou Yifan Challenge: Pragg keeps up the pace"
-      },
-      {
-         "description" : " Looking for interesting pawn endings from recent games, as one does, I came across this, from the online 4NCL. It's Black's move here. What do you think? Who's your money on? White, Black or draw? Place your bets. Rien ne va plus, ladies and gentlemen. 35.. Kf7 36. g3 Ke6 37. Kg2 Ke5 38. Kf3 <a href=\"https://chessimprover.com/pawn-ending-trick/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pawn Ending Trick\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pawn-ending-trick/\">Pawn Ending Trick</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/pawn-ending-trick/",
-         "pubDate" : "Sun, 19 Sep 2021 11:47:50 +0000",
-         "title" : "Pawn Ending Trick"
       }
    ]
 }
