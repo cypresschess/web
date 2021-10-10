@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ray Robson is the sole leader of the US Chess Championships on the first rest day after defeating Jeffery Xiong to move to 3/4. He could have been joined by Wesley So, but on his 28th birthday the defending champion decided to play it safe rather than push for a win against world no. 2 Fabiano Caruana. Leinier Dominguez beat Sam Shankland to join Wesley, Fabi and Sam Sevian in a 5-man chasing pack. In the women's section 18-year-old Carissa Yip now co-leads with Katerina Nemcova after 8-time Champion Irina Krush blundered a piece on move 21.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-4-robson-leads-as-so-lets-caruana-escape",
+         "pubDate" : "Sun, 10 Oct 2021 17:23:43 +0000",
+         "title" : "US Chess Champs 4: Robson leads as So lets Caruana escape"
+      },
+      {
+         "description" : "Ray Robson (pictured) inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez, who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r4",
+         "pubDate" : "Sun, 10 Oct 2021 18:20:00 +0100",
+         "title" : "US Championships: Robson takes the sole lead, Yip beats Krush"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 48th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on g6\" to build up an attack. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/playing-over-board",
          "pubDate" : "Sat, 09 Oct 2021 21:11:02 +0000",
          "title" : "Playing Over the Board"
-      },
-      {
-         "description" : "Ray Robson inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Sat, 09 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 4"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
          "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
          "title" : "Slowly, slowly"
-      },
-      {
-         "description" : "It's Carlsen-Duda, So-Mamedyarov, Aronian-MVL, Radjabov-Artemiev and Giri-Nakamura today as the $300,000 Meltwater Champions Chess Tour Finals begin. The event is being played online on the chess24 Playzone, but there's a hybrid element, since Magnus Carlsen, Jan-Krzysztof Duda and Anish Giri are all in one venue in Oslo. Peter Leko returns to commentate, and will be joined by Lawrence Trent, with Danny King and Simon Williams to follow for later rounds. Don't miss all the action here on chess24 from 11:00 ET/17:00 CEST/20:30 IST!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-duda-giri-in-oslo-as-tour-finals-begin",
-         "pubDate" : "Sat, 25 Sep 2021 10:30:07 +0000",
-         "title" : "Carlsen, Duda & Giri in Oslo as Tour Finals begin!"
       },
       {
          "description" : "European Senior Chess Championship 2021 kicks off today in Budoni, Sardinia, Italy. The event is played within two age categories: 50+ and 65+ with Open and Women's results evaluated separately. Women's both age categories will be merged with Open sections with separate prizes. 36 players from 17 European federations registered for 50+ section of the European Senior Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-starts/\">Read More &#187;</a></span>",
