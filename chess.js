@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round four of the 2021 U.S. Chess Championship, GM Ray Robson became the tournament&#39;s sole leader with 3/4 by beating GM Jeffery Xiong. Second place is shared by GMs Fabiano Caruana and Wesley So, who split a point, as well as by GMs Leinier Do...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/u-s-chess-championships-r4",
+         "pubDate" : "Sat, 09 Oct 2021 20:27:10 -0700",
+         "title" : "U.S. Chess Championships R4: Robson Sole Leader"
+      },
+      {
+         "description" : "Forty-three teams from 31 countries will play in the 1st Intercontinental Online Championship for Prisoners, a two-day event that starts on October 13, the International Day of Education in Prisons. The championship is a part of the \"Chess for Freedom\" Program, launched earlier this year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-fide",
+         "pubDate" : "Sun, 10 Oct 2021 03:15:00 +0100",
+         "title" : "Teams from 31 countries to participate in Championship for Prisoners"
+      },
+      {
          "description" : "The 2021 Speed Chess Championship Grand Prix concluded Saturday with the fourth and final leg. There were $11,000 in prizes to play for even though GM Jeffery Xiong had already clinched the overall Grand Prix standings and a spot in the Speed Ches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Playing Over the Board"
       },
       {
-         "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "description" : "Ray Robson inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Sat, 09 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "US Championships - Round 4"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1378",
          "pubDate" : "Sat, 09 Oct 2021 11:37:20 +0000",
          "title" : "WCC for People with Disabilities: Introducing the players"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Sat, 09 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
       },
       {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina (pictured), has Dmitry Andreikin, Nikita Vitiugov and Andrey Esipenko as the top seeds. Polina Shuvalova, Alina Kashlinskaya and Natalija Pogonina are the highest-rated players in the women's section. | Photo: Eteri Kublashvili",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1354",
          "pubDate" : "Mon, 27 Sep 2021 21:40:34 +0000",
          "title" : "Czech Championship: Vojtěch Pl&aacute;t and Karolina Pilsova take titles"
-      },
-      {
-         "description" : "Welcome to the third round of the Champions Chess Tour Finals, a 10-player super grandmaster tournament that took place on September 27.&#38;nbsp; As those of you who have been following the previous rounds know, so far only GMs Magnus Carlsen and M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-3",
-         "pubDate" : "Mon, 27 Sep 2021 12:33:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 3: Carlsen Becomes Sole Leader"
       },
       {
          "description" : "The Norwegian Grandmaster Simen Agdestein coached Magnus Carlsen, and at a chess school in the Norwegian town of Bærum he still coaches some of the most promising Norwegian talents. Agdestein regularly travels with his pupils to tournaments, and from the 3rd to the 5th of September, Agdestein and his students took part in the Grand Prix Tournament in Krager&oslash;, which Agdestein won with 6.0/6. | Photo: The last round game between 12-year-old Martin Holten Fiskaaen and Agdestein. FM Ward Altarbosh in the background. | Photos: Tanja Cecilie Kveim",
