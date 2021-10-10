@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Sun, 10 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : "Appended below please find the list of players registered for the Asian Online Amateur Chess Championship. We send an email to your respective registered email",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-online-amateur-chess-championship-registration-details/",
+         "pubDate" : "Sun, 10 Oct 2021 09:53:32 +0000",
+         "title" : "Asian Online Amateur Chess Championship : Registration Details"
+      },
+      {
          "description" : " I've recently reviewed, in another place, The Secret Ingredient, by Jan Markos and David Navara. One sentence by Markos really resonated with me. In real chess, the width of your calculation is usually much more important than its depth. There are exceptions, as he points out, especially in endings. In pawn endings, for example, you'll <a href=\"https://chessimprover.com/width-and-depth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Width and Depth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/width-and-depth/\">Width and Depth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2106,28 +2122,12 @@ news_feed (
          "title" : "Hou Yifan Challenge: Pragg keeps up the pace"
       },
       {
-         "description" : "A pawn promotion is a huge event in a chess game, as the energy garnered by the pawn advancing up the board is transformed in a most un-Einsteinian way (surely a pawn's advance doesn't create that much energy) into serious amounts of matter. Star columnist Jon Speelman looks at overwhelming pawn avalanches, and analyses a game in which Albert Einstein got the better of Robert Oppenheimer. | Pictured: Albert Einstein and Robert Oppenheimer in 1947",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-154",
-         "pubDate" : "Sun, 19 Sep 2021 19:35:00 +0100",
-         "title" : "Do pawns disregard Einstein?"
-      },
-      {
          "description" : " Looking for interesting pawn endings from recent games, as one does, I came across this, from the online 4NCL. It's Black's move here. What do you think? Who's your money on? White, Black or draw? Place your bets. Rien ne va plus, ladies and gentlemen. 35.. Kf7 36. g3 Ke6 37. Kg2 Ke5 38. Kf3 <a href=\"https://chessimprover.com/pawn-ending-trick/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pawn Ending Trick\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pawn-ending-trick/\">Pawn Ending Trick</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/pawn-ending-trick/",
          "pubDate" : "Sun, 19 Sep 2021 11:47:50 +0000",
          "title" : "Pawn Ending Trick"
-      },
-      {
-         "description" : "European Youth and Junior Chess Championships 2021 will take place from 15-21 October 2021 and will be played as a &#8220;hybrid&#8221; event within 14 categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately. The events will be played in several venues with a all FIDE rules through Tornelo platform and will be submitted&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-official-regulations/",
-         "pubDate" : "Sun, 19 Sep 2021 10:26:41 +0000",
-         "title" : "EUROPEAN YOUTH & JUNIOR CHESS CHAMPIONSHIPS 2021 - Official regulations"
       }
    ]
 }
