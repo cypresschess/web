@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #165 Karsten M&uuml;ller has a guest: Romain Edouard, Grandmaster, publisher, and former second of Veselin Topalov. Romain and Karsten discuss Romain's forthcoming ChessBase projects and look at endgame highlights from Romain's games. | Watch it on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-164-with-french-grandmaster-romain-edouard",
+         "pubDate" : "Mon, 11 Oct 2021 16:11:34 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic #165: With French Grandmaster Romain Edouard"
+      },
+      {
+         "description" : "There will not be a contested election for the post of Chief Executive ECF AGM on 16th October. After constructive discussions, Malcolm Pein and Mike...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/mike-truran-malcolm-pein-joint-election-statement-agm/",
+         "pubDate" : "Mon, 11 Oct 2021 14:15:41 +0000",
+         "title" : "Mike Truran / Malcolm Pein joint election statement AGM"
+      },
+      {
          "description" : " Even though it was from an online blitz game, this is still an impressive 'hack' by white to win in under 20 moves. It also shows the benefit of doing some extra opening preparation, as white analysed some of these lines in the days before this event. <b>Connor5566 (1823) - csrobins (1733) [C30]</b><br />ACTCA Monday Blitz - 11 Oct https://lichess.org/95mcOVOA, 11.10.2021 <script>new PgnViewer( { boardName: \"game1280\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d6 4.Nf3 Nc6 5.Bb5 Bg4 6.h3 Bxf3 7.Qxf3 Be7 8.d3 O-O 9.Bxc6 bxc6 10.g4 exf4 11.Bxf4 h6 12.h4 Nh7 13.g5 hxg5 14.hxg5 Bxg5 15.Qh5 Bh6 16.Bxh6 gxh6 17.Qxh6 Qg5 18.Qxh7# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </s",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "8th Uppsala Young Champions"
       },
       {
-         "description" : "The FIDE Arbiters' Commission will be conducting further FIDE Online/Hybrid Arbiters Training during the two weeks commencing Monday 4th October. The deadline for registration and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-online-hybrid-arbiters-training/",
-         "pubDate" : "Thu, 30 Sep 2021 08:15:21 +0000",
-         "title" : "FIDE Online/Hybrid Arbiters Training"
-      },
-      {
          "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2104,38 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-161-carlsen-and-capablanca",
          "pubDate" : "Mon, 20 Sep 2021 17:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #161: Carlsen and Capablanca"
-      },
-      {
-         "description" : " After a few months concentrating on running online events, I recently made the effort to play a bit more. I've never been that great at (fast) online chess, and my most recent efforts have confirmed this. One issue (apart from lousy openings), is that it does take me a while to warm up, meaning I drop a few games early in events. After that it does get better, but we'd all be champions if you could ignore our losses! So for the moment I am cruising along at around 50%, but hopefully more practice will lead to more wins. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/feeling-rusty.html",
-         "pubDate" : "Mon, 20 Sep 2021 14:01:00 +0000",
-         "title" : "Feeling rusty"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1343",
-         "pubDate" : "Mon, 20 Sep 2021 13:26:19 +0000",
-         "title" : "Arkady Dvorkovich: \"We are strongly standing against all types of discrimination\""
-      },
-      {
-         "description" : "Etienne Bacrot went into this year's World Cup without any expectations, including qualifying for the 2022 FIDE Grand Prix, a series of three tournaments that will serve as a qualifying route for the next Candidates. Understandably so, as the last time the French Grandmaster had played in a Fide Grand Prix was in 2013. \"Based solely on my rating (2658), I could not have qualified for the Grand Prix. It's crazy that I made it this time,\" Bacrot said on the sidelines of a rapid tournament that was held in Asni&eacute;res-sur-Seine near Paris on September 11 and 12. | Photo: Pascal Simon (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/etienne-bacrot-on-reliving-the-winning-feeling",
-         "pubDate" : "Mon, 20 Sep 2021 14:00:00 +0100",
-         "title" : "Etienne Bacrot on reliving the winning feeling"
-      },
-      {
-         "description" : "Last week, Grandmaster Lars Schandorff from Denmark faced nine brave CBM readers for the fourth \"Play The Author\" round-robin tournament this year. The chosen opening was 4.Bg5 Bg7!? in the Gr&uuml;nfeld. The Danish GM won the tournament and all games, except one draw. While a Canadian player reached the second place, the youngest participant (13 years old) from Germany, managed to get the third place. | Photo: Facebook - Lars Schandorff",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-lars-schandorff",
-         "pubDate" : "Mon, 20 Sep 2021 12:33:54 +0100",
-         "title" : "Play The Author - Thematic tournament with Lars Schandorff"
       }
    ]
 }
