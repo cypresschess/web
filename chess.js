@@ -205,9 +205,9 @@ news_feed (
          "description" : "In round four of the 2021 U.S. Chess Championship, GM Ray Robson became the tournament&#39;s sole leader with 3/4 by beating GM Jeffery Xiong. Second place is shared by GMs Fabiano Caruana and Wesley So, who split a point, as well as by GMs Leinier Do...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/u-s-chess-championships-r4",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-4",
          "pubDate" : "Sat, 09 Oct 2021 20:27:00 -0700",
-         "title" : "U.S. Chess Championships R4: Robson Sole Leader"
+         "title" : "US Chess Championships R4: Robson Sole Leader"
       },
       {
          "description" : "Forty-three teams from 31 countries will play in the 1st Intercontinental Online Championship for Prisoners, a two-day event that starts on October 13, the International Day of Education in Prisons. The championship is a part of the \"Chess for Freedom\" Program, launched earlier this year.",
@@ -311,7 +311,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-3",
          "pubDate" : "Fri, 08 Oct 2021 20:03:00 -0700",
-         "title" : "U.S. Chess Championships R3: Caruana, Sevian Join Leaders"
+         "title" : "US Chess Championships R3: Caruana, Sevian Join Leaders"
       },
       {
          "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
@@ -407,7 +407,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-2",
          "pubDate" : "Thu, 07 Oct 2021 14:47:00 -0700",
-         "title" : "U.S. Chess Championships R2: So Joins Leaders, Naroditsky Defeats Xiong"
+         "title" : "US Chess Championships R2: So Joins Leaders, Naroditsky Defeats Xiong"
       },
       {
          "description" : "",
@@ -535,7 +535,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-1",
          "pubDate" : "Wed, 06 Oct 2021 12:30:00 -0700",
-         "title" : "U.S. Chess Championships R1: Robson, Burke Take Lead"
+         "title" : "US Chess Championships R1: Robson, Burke Take Lead"
       },
       {
          "description" : "The 2021 US Championships start in Saint Louis today as world no. 2 Fabiano Caruana and reigning Champion Wesley So top the 12-player field competing for a $50,000 top prize. Leinier Dominguez, Sam Shankland and Jeffery Xiong are the other 2700 stars in action, with only Hikaru Nakamura absent. The women's event features almost all the top contenders, with 2-time US Women's Champion Nazi Paikidze returning to action for the first time since 2018.",
