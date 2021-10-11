@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ray Robson inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Mon, 11 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players share their thoughts on adjusting back to over-the-board play after the COVID-19 pandemic shutdowns. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RdIqs3J8icw.jpg?itok=735celbv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-playing-over-board",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Playing over the Board"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Fabiano Caruana during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-fabiano-caruana-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QozUI4jf4PQ.jpg?itok=MVd6fkrC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-fabiano-caruana-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Fabiano Caruana Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Wesley So during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-wesley-so-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9GAFz7qt5RE.jpg?itok=fSYvtT49\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-wesley-so-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Wesley So Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Carissa Yip during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-carissa-yip-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jr3Sb8whSXA.jpg?itok=UAOa3l13\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-carissa-yip-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Carissa Yip Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Ray Robson during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-ray-robson-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MJ65zb7oBn8.jpg?itok=DW6QyY5j\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-ray-robson-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Ray Robson Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Alex Lenderman during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-alex-lenderman-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Cusa0fXb7Pg.jpg?itok=BkSYgS81\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-alex-lenderman-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Alex Lenderman Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Sabina Foisor during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-sabina-foisor-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M2Jx7H_Pyhk.jpg?itok=utFLGJA0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-sabina-foisor-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Sabina Foisor Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Leinier Dominguez during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-leinier-dominguez-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KtOh1kf2wCM.jpg?itok=605dhX3e\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-leinier-dominguez-interview-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Leinier Dominguez Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-6-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-6-lichessorg",
+         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-4",
+         "pubDate" : "Mon, 11 Oct 2021 15:12:15 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 4"
+      },
+      {
          "description" : "In the Endgame Magic Show #165 Karsten M&uuml;ller has a guest: Romain Edouard, Grandmaster, publisher, and former second of Veselin Topalov. Romain and Karsten discuss Romain's forthcoming ChessBase projects and look at endgame highlights from Romain's games. | Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,28 +226,12 @@ news_feed (
          "title" : "Speed Chess Grand Prix 4: Yakubboev Wins With Xiong Already Through To Main Event"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbn",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/playing-over-board",
-         "pubDate" : "Sat, 09 Oct 2021 21:11:02 +0000",
-         "title" : "Playing Over the Board"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/inside-chesscom/",
          "pubDate" : "Sat, 09 Oct 2021 19:39:24 +0100",
          "title" : "Inside Chess.com"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-5-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-5-lichessorg",
-         "pubDate" : "Sat, 09 Oct 2021 18:11:01 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 5 | lichess.org"
       },
       {
          "description" : "Fabiano Caruana showed just how dangerous it is to repeat a sharp opening against the very best players as he put John Burke to the sword in Round 3 of the 2021 US Chess Championships. It was a day of first wins, with Sam Sevian beating Jeffery Xiong to join the leaders, while Dariusz Swiercz recovered from two losses by beating Daniel Naroditsky. Tatev Abrahamyan did the same in the women's section, beating Anna Zatonskih, while 18-year-old Thalia Cervantes also grabbed a first win, against Sabina Foisor.",
@@ -234,76 +306,12 @@ news_feed (
          "title" : "The Chess Super League is here!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-3",
-         "pubDate" : "Sat, 09 Oct 2021 03:10:18 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 3"
-      },
-      {
          "description" : "The top seed GM Fabiano Caruana beat GM John M.Burke in the third round of the 2021 U.S. Chess Championship and joined the tournament leaders. GM Sam Sevian, who outplayed GM Jeffery Xiong, also joined the top group with 2/3. In the U.S. Women&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-3",
          "pubDate" : "Fri, 08 Oct 2021 20:03:00 -0700",
          "title" : "U.S. Chess Championships R3: Caruana, Sevian Join Leaders"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Tatev Abrahamyan during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-tatev-abrahamyan-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TGZJcEwajVE.jpg?itok=yY1yZ_HG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-tatev-abrahamyan-interview-round-3",
-         "pubDate" : "Sat, 09 Oct 2021 00:10:15 +0000",
-         "title" : "2021 U.S. Chess Championships: Tatev Abrahamyan Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Sevian during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-sam-sevian-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pB8BX4sdEW4.jpg?itok=KgCLMBex\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-sam-sevian-interview-round-3",
-         "pubDate" : "Sat, 09 Oct 2021 00:10:15 +0000",
-         "title" : "2021 U.S. Chess Championships: Sam Sevian Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Dariusz Swiercz during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-dariusz-swiercz-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pGz8miqQNbI.jpg?itok=_790QbEy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-dariusz-swiercz-interview-round-3",
-         "pubDate" : "Sat, 09 Oct 2021 00:10:15 +0000",
-         "title" : "2021 U.S. Chess Championships: Dariusz Swiercz Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Thalia Cervantes during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-thalia-cervantes-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9rF0JppXCCQ.jpg?itok=8TgKsysQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-thalia-cervantes-interview-round-3",
-         "pubDate" : "Sat, 09 Oct 2021 00:10:15 +0000",
-         "title" : "2021 U.S. Chess Championships: Thalia Cervantes Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The U.S. Women&#039;s Championship players express feelings on being back in Saint Louis for the national championship. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-returning-us-womens-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aKcw6E9lDOI.jpg?itok=sEwkweD3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-returning-us-womens-championship",
-         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
-         "title" : "2021 U.S. Chess Championships: Returning to the U.S. Women's Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> During Round 3 of the U.S. Chess Championships, Jeffery Xiong gives his thoughts on his game with Sam Sevian. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-jeffery-xiong-confessional-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GBflinkp6K8.jpg?itok=FdY91UvR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-jeffery-xiong-confessional-round-3",
-         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
-         "title" : "2021 U.S. Chess Championships: Jeffery Xiong Confessional | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 3 of the 2021 U.S. Chess Championships. 2021.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-fabiano-caruana-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j3bQ2ef7j6s.jpg?itok=_Te3USDf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-fabiano-caruana-interview-round-3",
-         "pubDate" : "Fri, 08 Oct 2021 21:10:14 +0000",
-         "title" : "2021 U.S. Chess Championships: Fabiano Caruana Interview | Round 3"
       },
       {
          "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
@@ -2096,22 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-surprising-mate",
          "pubDate" : "Tue, 21 Sep 2021 09:00:00 +0100",
          "title" : "A surprising mate"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86374355.cms\" />R Raja Rithvik has become India's 70th and latest chess Grandmaster, achieving his third and final norm at a recent event in Hungary. Former world champion and Indian chess legend Viswanathan Anand praised the 17-year old Warangal native for entering the GM club.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/raja-rithvik-becomes-indias-70th-gm-maestro-anand-congratulates-him/articleshow/86374355.cms",
-         "pubDate" : "Mon, 20 Sep 2021 22:07:44 +0530",
-         "title" : "Raja Rithvik becomes India's 70th GM, Anand congratulates him"
-      },
-      {
-         "description" : "One of the most fascinating recent endgames was Magnus Carlsen's win against Alireza Firouzja in round 6 of the Norway Chess Tournament: in a slightly better position that seemed to be impossible to win Carlsen worked his magic and created an endgame masterpiece. In the \"Endgame Magic Show #161\" Karsten M&uuml;ller and Arne K&auml;hler take a look at this astonishing endgame and show why it is good to know the classics. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-161-carlsen-and-capablanca",
-         "pubDate" : "Mon, 20 Sep 2021 17:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #161: Carlsen and Capablanca"
       }
    ]
 }
