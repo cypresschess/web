@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Even though it was from an online blitz game, this is still an impressive 'hack' by white to win in under 20 moves. It also shows the benefit of doing some extra opening preparation, as white analysed some of these lines in the days before this event. <b>Connor5566 (1823) - csrobins (1733) [C30]</b><br />ACTCA Monday Blitz - 11 Oct https://lichess.org/95mcOVOA, 11.10.2021 <script>new PgnViewer( { boardName: \"game1280\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d6 4.Nf3 Nc6 5.Bb5 Bg4 6.h3 Bxf3 7.Qxf3 Be7 8.d3 O-O 9.Bxc6 bxc6 10.g4 exf4 11.Bxf4 h6 12.h4 Nh7 13.g5 hxg5 14.hxg5 Bxg5 15.Qh5 Bh6 16.Bxh6 gxh6 17.Qxh6 Qg5 18.Qxh7# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/the-hack-attack.html",
+         "pubDate" : "Mon, 11 Oct 2021 11:28:00 +0000",
+         "title" : "The Hack Attack"
+      },
+      {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Mon, 11 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : "Click here for a PDF of the Appeal against the findings of the Regulation 5 Complaint's Panel relating to a complaint by Rob Willmoth against...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/appeal-findings-regulation-5-complaint-by-rob-willmoth-against-mike-truran/",
+         "pubDate" : "Mon, 11 Oct 2021 10:45:39 +0000",
+         "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
+      },
+      {
+         "description" : "23-year-old Aleksandra Goryachkina scored the only win of Round 2 of the Russian \"Men's\" Superfinal to join Kirill Alekseenko and Vladimir Fedoseev in the lead. The first woman ever to play in the top Russian event comprehensively outplayed Alexander Motylev in Round 2 and could easily have been on 2/2 after dominating her first round game as well. The 74th Russian Championship Superfinal is taking place in Ufa from October 9-20.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/goryachkina-s-dream-start-to-russian-men-s-superfinal",
+         "pubDate" : "Mon, 11 Oct 2021 10:20:49 +0000",
+         "title" : "Goryachkina's dream start to Russian \"Men's\" Superfinal"
+      },
+      {
+         "description" : "If you're joing your child/children up to the ECF for the first time, please note you DO NOT have to register with the ECF in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-chess-parents-please-read/",
+         "pubDate" : "Mon, 11 Oct 2021 08:51:13 +0000",
+         "title" : "New chess parents - please read"
+      },
+      {
          "description" : "What if you could get an estimate of your Elo rating just by doing a single test, as opposed to playing a couple of dozen games at long time controls? It isn't an exaggeration to say this sounds like one of those inane personality 'quizzes' you see in supermarket magazines. But this proposal was the subject of a university study to do just that. Try it yourself!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-48-the-target-on-h6",
          "pubDate" : "Sun, 10 Oct 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 48: The target on g6"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Sun, 10 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
       },
       {
          "description" : "Appended below please find the list of players registered for the Asian Online Amateur Chess Championship. We send an email to your respective registered email",
@@ -1266,14 +1298,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The power of swindling in chess"
       },
       {
-         "description" : "Lara Barnes has been appointed as the Chief Arbiter of the Women's World Team Championship 2021 currently in progress in Sitges, Spain [see https://worldwomensteams.fide.com/]. This...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/lara-barnes-chief-arbiter-of-the-womens-world-team-championship-2021/",
-         "pubDate" : "Wed, 29 Sep 2021 14:27:44 +0000",
-         "title" : "Lara Barnes - Chief Arbiter of the Women's World Team Championship 2021!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86615635.cms\" />In another new development in the never-ending infighting within the All India Chess Federation (AICF), the federation has suspended its joint secretary Atanu Lahiri for three years for anti-federation activity.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://lichess.org/@/CHlivelylemon/blog/j4ncl-2122-we-1-event-report-leamington-spa-woodland-grange-hotel/mmkLvkZP#new_tab",
-         "pubDate" : "Mon, 27 Sep 2021 15:37:35 +0000",
-         "title" : "A 12 year old wrote a blog about J4NCL"
-      },
-      {
          "description" : "Karsten M&uuml;ller's guest in this week's \"Endgame Magic Show\" is the French GM Christian Bauer who just produced an interesting DVD - which, of course, will also available per download - about the charms and attractions of the Alekhine Defense. Karsten and Christian talk about this DVD but they also look at some fine endgames Christian played. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1664,14 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-chess-tour-finals-strong-start-by-magnus-carlsen/articleshow/86524296.cms",
          "pubDate" : "Sun, 26 Sep 2021 10:50:23 +0530",
          "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
-      },
-      {
-         "description" : "Magnus Carlsen blew Jan-Krzysztof Duda away in 18 moves as the Meltwater Champions Chess Tour Finals began before going on to wrap up match victory with a game to spare after Duda fell for a fiendish trick in the 2nd game. Wesley So kept pace with Magnus by also winning in rapid chess, over Shakhriyar Mamedyarov. The remaining matches went to a playoff, where Anish Giri and Vladislav Artemiev defeated Hikaru Nakamura and Teimour Radjabov in blitz, before Aronian-MVL was decided in Maxime's favour only in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-carlsen-and-so-score-max-points",
-         "pubDate" : "Sat, 25 Sep 2021 21:24:41 +0000",
-         "title" : "MCCT Finals 1: Carlsen and So score max points"
       },
       {
          "description" : "",
