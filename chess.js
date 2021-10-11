@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What if you could get an estimate of your Elo rating just by doing a single test, as opposed to playing a couple of dozen games at long time controls? It isn't an exaggeration to say this sounds like one of those inane personality 'quizzes' you see in supermarket magazines. But this proposal was the subject of a university study to do just that. Try it yourself!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elo-meter-the-test-that-calculates-your-elo",
+         "pubDate" : "Mon, 11 Oct 2021 05:25:36 +0100",
+         "title" : "Elo Meter - The test that calculates your Elo"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-preview",
          "pubDate" : "Sat, 09 Oct 2021 11:50:00 +0100",
          "title" : "Russian Superfinals in Ufa"
+      },
+      {
+         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
+         "pubDate" : "Sat, 9 Oct 2021 05:47:16 -0500",
+         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
       },
       {
          "description" : "Five minutes walk from my house in Clapham lies a large Victorian block boasting a blue plaque. It confirms the former residency of Edvard Grieg (1843-1907), composer of Peer Gynt. Grieg is one of the most celebrated modern Norwegians, along with explorer Roald Amundsen (1872-1928) artist Edvard Munch (1863-1944) dramatist Henrik Ibsen (1828-1906) and reigning World Chess Champion Magnus Carlsen. []",
@@ -1058,6 +1074,14 @@ news_feed (
          "title" : "Chess: Carlsen heads for Tour win as Nakamura moonlighting sparks debate"
       },
       {
+         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
+         "pubDate" : "Fri, 1 Oct 2021 01:31:24 -0500",
+         "title" : "Koneru Humpy's return to over the board chess curtailed due to Covaxin restrictions"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86673078.cms\" />D Harika and Mary Ann Gomes played key roles as India beat Kazakhstan 1.5-0.5 in the quarterfinals of the FIDE World Women's Team Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1152,6 +1176,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-online-hybrid-arbiters-training/",
          "pubDate" : "Thu, 30 Sep 2021 08:15:21 +0000",
          "title" : "FIDE Online/Hybrid Arbiters Training"
+      },
+      {
+         "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
+         "pubDate" : "Thu, 30 Sep 2021 01:32:45 -0500",
+         "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
       },
       {
          "description" : "Since the earliest days of Fritz, there have been automated ways to analyze games, and over time the sheer variety of tools and options has expanded to cover just about every choice, from the shallow blunder check to the deep full game analysis. But calling the blunder check shallow is to not do it justice, so see why it deserves to become your go-to tool for all your online games.",
@@ -2096,14 +2128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/play-the-author-thematic-tournament-with-lars-schandorff",
          "pubDate" : "Mon, 20 Sep 2021 12:33:54 +0100",
          "title" : "Play The Author - Thematic tournament with Lars Schandorff"
-      },
-      {
-         "description" : "Among the myriad apps and services offered with a subscription to ChessBase Account is the Tactics web app. This concept is hardly new, and readers undoubtedly are aware of a plethora of rival sites and apps offering this same service, so what makes this one so special? What makes it deserving of the headline \"best by test\"? Read on to find out!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tactics-web-app-best-by-test",
-         "pubDate" : "Mon, 20 Sep 2021 12:19:26 +0100",
-         "title" : "ChessBase Tactics web app: Best by test"
       }
    ]
 }
