@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The U.S. Women&#039;s Championship players share their thoughts on adjusting back to over-the-board play after the COVID-19 pandemic shutdowns. 2021.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-women-playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QBApWhSu47Y.jpg?itok=SZMMT8WX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-women-playing-over-board",
+         "pubDate" : "Tue, 12 Oct 2021 21:13:54 +0000",
+         "title" : "2021 U.S. Chess Championships: The Women on Playing over the Board"
+      },
+      {
          "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who beat Sam Sevian. Katerina Nemcova is the sole leader in the women's event. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
          "pubDate" : "Mon, 11 Oct 2021 23:46:32 +0000",
          "title" : "The Chess Drum on South African Twitch tomorrow!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players share their thoughts on adjusting back to over-the-board play after the COVID-19 pandemic shutdowns. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RdIqs3J8icw.jpg?itok=735celbv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-playing-over-board",
-         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
-         "title" : "2021 U.S. Chess Championships: Playing over the Board"
       },
       {
          "description" : "In the Endgame Magic Show #165 Karsten M&uuml;ller has a guest: Romain Edouard, Grandmaster, publisher, and former second of Veselin Topalov. Romain and Karsten discuss Romain's forthcoming ChessBase projects and look at endgame highlights from Romain's games. | Watch it on-demand with a ChessBase Premium account.",
