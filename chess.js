@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg\" data-image-dimensions=\"400x533\" data-image-focal-point=\"0.5,0.5\" alt=\"Michael.jpg\" data-load=\"false\" data-image-id=\"616597a8e5a5a013efa22d82\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br><br> <p class=\"\">Michael Ross Franco is a 28 year old Applied Mathematics Ph.D. student at UC Berkeley who is also an accomplished chess improver. As Michael tel",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/12/episode-247-michael-franco",
+         "pubDate" : "Tue, 12 Oct 2021 14:21:30 +0000",
+         "title" : "Episode 247- Michael Franco (Adult Improver Series) "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1380",
+         "pubDate" : "Tue, 12 Oct 2021 14:17:02 +0000",
+         "title" : "International Children and Youth Online Festival �ChessYes �: registration continues"
+      },
+      {
+         "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who showed great tenacity to beat Sam Sevian after 140 moves. Katerina Nemcova is the sole leader in the women's event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r5",
+         "pubDate" : "Tue, 12 Oct 2021 14:10:00 +0100",
+         "title" : "US Championships: Naroditsky beats Caruana"
+      },
+      {
          "description" : "Stefan Zweig's \"The Royal Game\" and Vladimir Nabokov's \"Lushin's Defence\" are the best-known novels about the destructive power chess can have. In \"Chess Fever\", a fine novel about youth, growing up, creativity and lots of chess, the English author Mark Ozanne describes the passion for the game in less sinister fashion, but much funnier and much closer to the mind of a chess player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
          "pubDate" : "Mon, 11 Oct 2021 23:46:32 +0000",
          "title" : "The Chess Drum on South African Twitch tomorrow!"
-      },
-      {
-         "description" : "Ray Robson inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Mon, 11 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 5"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The players share their thoughts on adjusting back to over-the-board play after the COVID-19 pandemic shutdowns. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playing-over-board\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RdIqs3J8icw.jpg?itok=735celbv\" alt=\"\" /></a></div>",
@@ -538,7 +554,7 @@ news_feed (
          "title" : "Duplicate ECF memberships"
       },
       {
-         "description" : "With the cooperation of the Slovenian Chess Federation and FIDE Development Commission, the European Chess Union organizes a \"Mixed\" FIDE Arbiters' Seminar in the English language. The venue will be the city of Terme Čatež, Slovenia, concurrently with the European Team Championship. The event will take place from Sunday, Nov. 15th, to Thursday, Nov. 19th, 2021. The lecturer&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
+         "description" : "With the cooperation of the Slovenian Chess Federation and FIDE Development Commission, the European Chess Union organizes a \"Mixed\" FIDE Arbiters' Seminar in the English language. The venue will be the city of Terme Čatež, Slovenia, concurrently with the European Team Championship. The event will take place from Sunday, Nov. 14th, to Thursday, Nov. 18th, 2021. The lecturer&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/",
@@ -2080,46 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-norway-chess-final",
          "pubDate" : "Tue, 21 Sep 2021 18:00:00 +0100",
          "title" : "The Weekly Show: Norway Chess Final"
-      },
-      {
-         "description" : "The Hou Yifan Challenge, the final regular event on the Julius Baer Challengers Chess Tour, will take place on September 18-21 in the chess24 Playzone. The prize fund is $15,000, with $3,000 for the winner, who also gets to play alongside Magnus Carlsen and co. in the next edition's first event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-live",
-         "pubDate" : "Tue, 21 Sep 2021 15:55:00 +0100",
-         "title" : "Hou Yifan Challenge - Live!"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg\" data-image-dimensions=\"524x482\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cup, via Andrew's Instagram\" data-load=\"false\" data-image-id=\"6149e0bda1a1c2375c8b4021\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632231613533-PN8ALRHCSZT71RYV8OKX/penguin3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Magnus and GM Andrew Tang at the 2021 FIDE World Cu",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/21/episode-244-gm-andrew-tang",
-         "pubDate" : "Tue, 21 Sep 2021 13:44:31 +0000",
-         "title" : "Episode 244- GM Andrew Tang "
-      },
-      {
-         "description" : "Vincent Keymer grabbed the lead on the third day of action at the Hou Yifan Challenge. Praggnanandhaa, who had a perfect 9/9 start, only scored a half point on Monday and is now sharing second place with Christopher Yoo. Pragg has played one more game than Keymer and Yoo in the 17-player single round-robin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-3",
-         "pubDate" : "Tue, 21 Sep 2021 14:40:00 +0100",
-         "title" : "Hou Yifan Challenge: Keymer leapfrogs Pragg"
-      },
-      {
-         "description" : " Neville Ledger has passed away at the age of <s>81</s> 91. <span> For many years he was the backbone of the Tasmanian chess scene, as a player, organiser, administrator and chess retailer. He ran a mail order bookshop from his home for may years, being particularly adept at providing rarer and hard to get titles. A strong supporter of Correspondence Chess, he was a regular advertiser in the Australian Correspondence Chess Quarterly.</span> <span>As a player he was a Tasmanian State Champion (in 1965) and the Burnie Club Champion on numerous occasions. He held a number of positions with the Tasmanian Chess Association over the years, including being TCA President in 1977-78. Apart from being",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/neville-ledger-1930-2021.html",
-         "pubDate" : "Tue, 21 Sep 2021 13:08:00 +0000",
-         "title" : "Neville Ledger 1930 - 2021"
-      },
-      {
-         "description" : "After winning nine Emmys in technical categories, \"The Queen's Gambit\", the chess series based on Walter Tevis' novel, on Sunday also won Emmys for \"Outstanding Limited Or Anthology Series\" and \"Outstanding Directing For A Limited Or Anthology Series Or Movie\". However, former Women's World Champion Nona Gaprindashvili is unhappy about the production - she feels she was misrepresented in the series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-queen-s-gambit-eleven-emmys-and-a-lawsuit",
-         "pubDate" : "Tue, 21 Sep 2021 14:07:44 +0100",
-         "title" : "\"The Queen's Gambit\": Eleven Emmys and a lawsuit"
       }
    ]
 }
