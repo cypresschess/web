@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After opening, middlegame and endgame comes the 4th phase of the game when both sides have queened. The main guideline in these positions is that the side with the safer king wins. In the diagram position Black might be able to queen his pawn but White will definitely queen first - and then will hunt Black's king. However, Black can still draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fourth-phase-of-the-game-2",
+         "pubDate" : "Tue, 12 Oct 2021 09:00:00 +0100",
+         "title" : "The fourth phase of the game"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Alex Lenderman after Round 5 of the 2021 U.S. Chess Championships. 2021.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-lenderman-grinds-out-140-move-win\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/c-1I_yByuXw.jpg?itok=vn4d13eL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-lenderman-grinds-out-140-move-win",
+         "pubDate" : "Tue, 12 Oct 2021 03:13:20 +0000",
+         "title" : "Alex Lenderman Grinds Out 140-Move Win!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-5",
+         "pubDate" : "Tue, 12 Oct 2021 03:13:20 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 5"
+      },
+      {
          "description" : "In round five of the 2021 U.S. Chess Championship, GM Alexander Lenderman defeated GM Sam Sevian while the top seed GM Fabiano Caruana unexpectedly lost to GM Daniel Naroditsky. As a result, Lenderman and GM Ray Robson are leading the tournament w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Tatev Abrahamyan Interview | Round 5"
       },
       {
-         "description" : " Share! Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!36 Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
@@ -96,22 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-playing-over-board",
          "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
          "title" : "2021 U.S. Chess Championships: Playing over the Board"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Fabiano Caruana during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-fabiano-caruana-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QozUI4jf4PQ.jpg?itok=MVd6fkrC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-fabiano-caruana-interview-round-4",
-         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
-         "title" : "2021 U.S. Chess Championships: Fabiano Caruana Interview | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Wesley So during Round 4 of the 2021 U.S. Chess Championships. 2021.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-wesley-so-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9GAFz7qt5RE.jpg?itok=fSYvtT49\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-wesley-so-interview-round-4",
-         "pubDate" : "Mon, 11 Oct 2021 18:12:28 +0000",
-         "title" : "2021 U.S. Chess Championships: Wesley So Interview | Round 4"
       },
       {
          "description" : "In the Endgame Magic Show #165 Karsten M&uuml;ller has a guest: Romain Edouard, Grandmaster, publisher, and former second of Veselin Topalov. Romain and Karsten discuss Romain's forthcoming ChessBase projects and look at endgame highlights from Romain's games. | Watch it on-demand with a ChessBase Premium account.",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "Goryachkina's dream start to Russian \"Men's\" Superfinal"
       },
       {
-         "description" : "If you're joing your child/children up to the ECF for the first time, please note you DO NOT have to register with the ECF in...",
+         "description" : "If you're joining your child/children up to the ECF for the first time, please note you DO NOT have to register with the ECF in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-chess-parents-please-read/",
