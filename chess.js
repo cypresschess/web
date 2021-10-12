@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who beat Sam Sevian. Katerina Nemcova is the sole leader in the women's event. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Tue, 12 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86971474.cms\" />The 19-year-old Iniyan, with an Elo rating of 2529, finished equal on seven points with GMs Andrey Sumets (Ukraine) and Rodrigo Vasquez Schroeder (Chile) but the Indian won the event on the basis of a better tie-break score.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-la-nucia-open-chess-tourney-in-spain/articleshow/86971474.cms",
+         "pubDate" : "Tue, 12 Oct 2021 21:46:12 +0530",
+         "title" : "Indian GM Iniyan wins La Nucia Open chess tourney in Spain"
+      },
+      {
+         "description" : "Organized by Dresdner Schachfestival E.V. under the auspices of FIDE from 4th-14th November 2021 in Dresden, Germany. The fourth edition of the event is expected...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/4th-fide-world-chess-championship-for-people-with-disabilities/",
+         "pubDate" : "Tue, 12 Oct 2021 15:51:28 +0000",
+         "title" : "4th FIDE World Chess Championship for People with Disabilities"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg\" data-image-dimensions=\"400x533\" data-image-focal-point=\"0.5,0.5\" alt=\"Michael.jpg\" data-load=\"false\" data-image-id=\"616597a8e5a5a013efa22d82\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br><br> <p class=\"\">Michael Ross Franco is a 28 year old Applied Mathematics Ph.D. student at UC Berkeley who is also an accomplished chess improver. As Michael tel",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -959,7 +983,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-gm-arjun-erigaisi-finishes-second-in-chess-tournament-in-bulgaria/articleshow/86731096.cms",
          "pubDate" : "Sun, 03 Oct 2021 20:20:59 +0530",
-         "title" : "India's GM Arjun Erigaisi finishes second in chess tournament in Bulgaria"
+         "title" : "India's GM Erigaisi finishes second in chess tournament in Bulgaria"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 47th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on h6\". | Photo: Tommy Grooten",
@@ -1304,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1363",
          "pubDate" : "Thu, 30 Sep 2021 10:25:16 +0000",
          "title" : "2021 FIDE Chess.com Grand Swiss and the Women's Grand Swiss: the lists of players announced"
-      },
-      {
-         "description" : "The 8th Uppsala Young Champions will be played in Uppsala, Sweden from 29 October 3 November 2021. It is a tournament for players born...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/8th-uppsala-young-champions/",
-         "pubDate" : "Thu, 30 Sep 2021 08:24:10 +0000",
-         "title" : "8th Uppsala Young Champions"
       },
       {
          "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-team-ch-2021-preview",
          "pubDate" : "Wed, 22 Sep 2021 09:40:02 +0100",
          "title" : "With a new format: Women's World Team Championship in Sitges"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the end of Norway Chess and Carlsen's fantastic resurgence in the second half to win the tournament. He will also briefly cover the Hou Yifan Challenge, Norway Open Masters and European Club Cup. But the game of the day will be the exciting encounter Firouzja-Rapport, which involved a very interesting opening debate but ultimately one that was successful for the young prodigy. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-norway-chess-final",
-         "pubDate" : "Tue, 21 Sep 2021 18:00:00 +0100",
-         "title" : "The Weekly Show: Norway Chess Final"
       }
    ]
 }
