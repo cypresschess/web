@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stefan Zweig's \"The Royal Game\" and Vladimir Nabokov's \"Lushin's Defence\" are the best-known novels about the destructive power chess can have. In \"Chess Fever\", a fine novel about youth, growing up, creativity and lots of chess, the English author Mark Ozanne describes the passion for the game in less sinister fashion, but much funnier and much closer to the mind of a chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-passion-mark-ozanne-s-novel-chess-fever",
+         "pubDate" : "Tue, 12 Oct 2021 13:00:00 +0100",
+         "title" : "Chess passion: Mark Ozanne's novel \"Chess Fever\""
+      },
+      {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Tue, 12 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras My student shared with pride below end of the game. Do have a look at the line he chose to win it and form an opinion about it. Would you play the same or differently? The first move I questioned was 36 Rd4. It did not feel the <a href=\"https://chessimprover.com/quick-decisions-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-7/\">Quick Decisions (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-7/",
+         "pubDate" : "Tue, 12 Oct 2021 10:20:21 +0000",
+         "title" : "Quick Decisions (7)"
+      },
+      {
+         "description" : "The brand new Chess Super League got underway on Monday with its first round, covered live with a sparkling Indian vibe. The teams Brutal Bishops, Krazy Knights, and&#38;nbsp;Pivotal Pawns started with wins. How to watch?The games of the Ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-1",
+         "pubDate" : "Tue, 12 Oct 2021 03:16:00 -0700",
+         "title" : "Chess Super League Gets Underway With Sparkling Indian Vibe"
+      },
+      {
+         "description" : "\"It's an amazing, euphoric feeling\" said Daniel Naroditsky after defeating world no. 2 Fabiano Caruana, who lost 7.3 rating points after his luck at this year's US Championship finally ran out in Round 5. Big guns Wesley So and Leinier Dominguez got nothing, allowing Alex Lenderman to join Ray Robson in the lead with a 140-move win over Sam Sevian. Jeffery Xiong rebounded from three losses in a row to take down Sam Shankland, while the women's section remains too close to call after Carissa Yip lost and Irina Krush won to negate the impact of their previous game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-5-naroditsky-beats-caruana",
+         "pubDate" : "Tue, 12 Oct 2021 09:36:31 +0000",
+         "title" : "US Chess Champs 5: Naroditsky beats Caruana"
+      },
+      {
+         "description" : "ECU E-Magazine September 2021 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2021 FIDE Women's World Team Chess Championship 2021 European Senior Chess Championship 2021 &#8220;Chess Ambassadors for the Environment&#8221; special event of 2021 Global Chess Festival ECU Online Trainers Conference Historical Tournament of Peace Invitation European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-september-2021/",
+         "pubDate" : "Tue, 12 Oct 2021 09:27:17 +0000",
+         "title" : "ECU E-MAGAZINE SEPTEMBER 2021"
+      },
+      {
          "description" : "After opening, middlegame and endgame comes the 4th phase of the game when both sides have queened. The main guideline in these positions is that the side with the safer king wins. In the diagram position Black might be able to queen his pawn but White will definitely queen first - and then will hunt Black's king. However, Black can still draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1474,14 +1522,6 @@ news_feed (
          "title" : "World Women's Team C'ship: India beat Armenia in third round"
       },
       {
-         "description" : "GM Vladislav Artemiev defeated&#38;nbsp;GM Magnus Carlsen convincingly in round four of the Champions Chess Tour. The world champion still leads, thanks to the bonus points he earned earlier in the tour. GM Wesley So is four points behind with five ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-4",
-         "pubDate" : "Tue, 28 Sep 2021 08:56:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 4: Artemiev Shines"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1624,14 +1664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-chess-tour-final-round-2-carlsen-continues-to-lead",
          "pubDate" : "Mon, 27 Sep 2021 13:48:57 +0100",
          "title" : "Champions Chess Tour Final, Round 2: Carlsen continues to lead"
-      },
-      {
-         "description" : "Magnus Carlsen has extended his lead over Wesley So to six points after winning a crazy match against Shakhriyar Mamedyarov in which White won all seven games. Wesley blamed poor time management as he lost to MVL in three games, while Jan-Krzysztof Duda and Levon Aronian won the first rapid game, lost the second and won the last to defeat Anish Giri and Vladislav Artemiev. Nakamura-Radjabov saw four draws featuring no chess content before Hikaru won in blitz after Teimour blundered in a drawn pawn endgame.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-2-carlsen-extends-lead-after-armageddon-win",
-         "pubDate" : "Mon, 27 Sep 2021 11:49:05 +0000",
-         "title" : "MCCT Finals 2: Carlsen extends lead after Armageddon win"
       },
       {
          "description" : "",
@@ -2088,38 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-queen-s-gambit-eleven-emmys-and-a-lawsuit",
          "pubDate" : "Tue, 21 Sep 2021 14:07:44 +0100",
          "title" : "\"The Queen's Gambit\": Eleven Emmys and a lawsuit"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (50)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-50/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (50)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-50/",
-         "pubDate" : "Tue, 21 Sep 2021 10:50:25 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (50)"
-      },
-      {
-         "description" : " <p class=\"lead\">Below we feature a World Chess Shop customer Piotr Zbierajewski review of <a href=\"https://shop.worldchess.com/shop/official-plastic-chess-set\">the official World Chess Academy Set</a>. Hi, I would like to present you my little review of the World Chess Official Academy Chess Set which I recently have purchased for outdoor gaming. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/phpqFv3pE.jpeg\" width=\"2499\" height=\"1875\" alt=\"\" /> <div class=\"e2-text-caption\"> ©World Chess</div> </div> <b>Below you can find the table of contents, so you can skip to the point that you are most interested in.</b> <ol start=\"1\"> <li>Unboxing.</li> <li>The chess set.<",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/customer-review-of-the-official-world-chess-academy-set/",
-         "pubDate" : "Tue, 21 Sep 2021 10:34:47 +0000",
-         "title" : "Customer Review of the Official World Chess Academy Set"
-      },
-      {
-         "description" : "Gukesh D won the masters' section of the Norway Chess Open in Stavanger. He scored 8&frac12;/10, remained undefeated, performed at 2743 and gained 17.5 Elo rating points. His compatriot Iniyan P scored 7&frac12;/10 to finish at second position. He performed at 2550 and increased his rating by 6.7 points. Gukesh is currently playing for Prilep (North Macedonia) at the European Club Cup. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-clinches-norway-open-masters-2021",
-         "pubDate" : "Tue, 21 Sep 2021 10:38:34 +0100",
-         "title" : "Gukesh clinches Norway Open Masters, Iniyan finishes second"
-      },
-      {
-         "description" : "Even in endgames one should not forget that mate ends the game. In the diagram position it is White to move and win. What did he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-surprising-mate",
-         "pubDate" : "Tue, 21 Sep 2021 09:00:00 +0100",
-         "title" : "A surprising mate"
       }
    ]
 }
