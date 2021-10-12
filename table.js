@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2021-10-09","120","<a href=http://www.uschess.org/msa/XtblMain.php?202110099942 target=' blank'>NAVARRO MIDDLE SCHOOL SCHOLASTIC</a>",
+"CYPRESS","2021-10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202110089442 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-10-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110089272 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-10-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202110089262 target=' blank'>FBCC EARLY-OCTOBER CLASSIC 2021</a>",
 "HOUSTON","2021-10-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202110038642 target=' blank'>SUNDAY SWISS OCT 3RD</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2020-09-11","21","<a href=http://www.uschess.org/msa/XtblMain.php?202009116722 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2020-09-09","3","<a href=http://www.uschess.org/msa/XtblMain.php?202009096392 target=' blank'>CBS 3</a>",
 "KATY","2020-09-05","16","<a href=http://www.uschess.org/msa/XtblMain.php?202009056092 target=' blank'>SR CHESSKNIGHTS 09052020</a>",
-"SPRING","2020-09-04","24","<a href=http://www.uschess.org/msa/XtblMain.php?202009045472 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
