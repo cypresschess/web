@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1382",
+         "pubDate" : "Wed, 13 Oct 2021 21:07:57 +0000",
+         "title" : "FIDE launches the biggest chess event among prisoners"
+      },
+      {
+         "description" : "The knockout Finals of the ground-breaking Julius Baer Challengers Chess Tour kick off on Thursday with German chess prodigy Vincent Keymer favourite to be crowned champion, though he will face stiff competition from the likes of Praggnanandhaa and Nodirbek Abdusattorov. At stake is $12,500 for the winner and a regular spot in next year's elite Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-preview",
+         "pubDate" : "Wed, 13 Oct 2021 22:00:00 +0100",
+         "title" : "From Thursday to Sunday: Finals of the Julius Baer Challengers Tour"
+      },
+      {
          "description" : "After drawing their direct encounter, Aleksandr Lenderman and Ray Robson remain in the shared lead of the US Championship. Meanwhile, Fabiano Caruana lost a second game in a row, this time against Sam Sevian. In the women's event, Ashritha Eswaran is now sharing the lead with Carissa Yip and Katerina Nemcova. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
