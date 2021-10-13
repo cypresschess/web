@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After drawing their direct encounter, Aleksandr Lenderman and Ray Robson remain in the shared lead of the US Championship. Meanwhile, Fabiano Caruana lost a second game in a row, this time against Sam Sevian. In the women's event, Katerina Nemcova is now sharing the lead with Carissa Yip and Ashritha Eswaran. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r6",
+         "pubDate" : "Wed, 13 Oct 2021 13:15:00 +0100",
+         "title" : "US Championships: Time pressure"
+      },
+      {
+         "description" : " Many of the most important tournaments in Chess are played in a Round-Robin (all-play-all) format. Even if the game is still the same, the preparation for a Round-Robin tournament can be different from a normal tournament. In most cases, you will know your opponents before the tournament and thus you have some extra time to [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/\">5 Steps To A Great Round-Robin Preparation</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/",
+         "pubDate" : "Wed, 13 Oct 2021 11:00:00 +0000",
+         "title" : "5 Steps To A Great Round-Robin Preparation"
+      },
+      {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Wed, 13 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : " GM Nicholas Pert has won the <a href=\"https://www.britishchesschampionships.co.uk/\">2021 British Championship</a>, ahead of a much smaller field than usual (due to Covid in part). He scored 6.5/9 to finish half a point ahead of 5 other players. Along the we he scored an interesting win against promising Scottish junior Freddy Gordon. For most of the game a draw looked to be the likely result, until a mistake towards the end allowed Pert to finish with an unusual checkmate. <br /> <b>Pert,Nicholas - Gordon,Freddy [D37]</b><br />2021 British Championship, 10.2021 <script>new PgnViewer( { boardName: \"game1281\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/enpas-mate.html",
+         "pubDate" : "Wed, 13 Oct 2021 10:20:00 +0000",
+         "title" : "Enpas mate"
+      },
+      {
+         "description" : "The knockout Finals of the ground-breaking Julius Baer Challengers Chess Tour kick off on Thursday with German chess prodigy Vincent Keymer favourite to be crowned champion, though he'll face stiff competition from the likes of India's Praggnanandhaa and Uzbekistan's Nodirbek Abdusattorov. The 16-year-old won two of the Tour's four \"Challenge\" events to top the leaderboard going into the four-day decider.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/julius-baer-challengers-chess-tour-finals",
+         "pubDate" : "Wed, 13 Oct 2021 08:42:46 +0000",
+         "title" : "Young stars back for Julius Baer Challengers Chess Tour Finals"
+      },
+      {
          "description" : "Most players look at endgame study as a necessary evil, akin to taking a very bitter medicine, that may yield results, but is boring. However, what if your study of endgames was punctuated at every corner and turn by fireworks and wondrous moves? This can be achieved, at least partially, thanks to the Studies app from ChessBase Account, making your study of endgames much more fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -127,15 +167,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-2",
          "pubDate" : "Tue, 12 Oct 2021 23:00:00 +0100",
-         "title" : "The Weekly Show:"
-      },
-      {
-         "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who beat Sam Sevian. Katerina Nemcova is the sole leader in the women's event. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Tue, 12 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "The Weekly Show: A brilliant bounceback performance"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86971474.cms\" />The 19-year-old Iniyan, with an Elo rating of 2529, finished equal on seven points with GMs Andrey Sumets (Ukraine) and Rodrigo Vasquez Schroeder (Chile) but the Indian won the event on the basis of a better tie-break score.",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-passion-mark-ozanne-s-novel-chess-fever",
          "pubDate" : "Tue, 12 Oct 2021 13:00:00 +0100",
          "title" : "Chess passion: Mark Ozanne's novel \"Chess Fever\""
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Tue, 12 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras My student shared with pride below end of the game. Do have a look at the line he chose to win it and form an opinion about it. Would you play the same or differently? The first move I questioned was 36 Rd4. It did not feel the <a href=\"https://chessimprover.com/quick-decisions-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-7/\">Quick Decisions (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "Sigeman&Co: Van Foreest extends lead, Keymer beats Nihal Sarin"
       },
       {
-         "description" : "Wesley So cut Magnus Carlsen's lead to five points in Round 3 of the Meltwater Champions Chess Tour by defeating Vladislav Artemiev in rapid chess while Magnus only overcame Maxime Vachier-Lagrave in a blitz playoff. The other player to win in rapid chess was Hikaru Nakamura, who beat Levon Aronian 3:1, while all the players based in Oslo won blitz playoffs. Jan-Krzysztof Duda overcame Shakhriyar Mamedyarov in some crazy games, while Anish Giri's victory over Teimour Radjabov featured the most nail-biting chess of the day.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-3-wesley-so-gets-back-on-track",
-         "pubDate" : "Tue, 28 Sep 2021 11:10:10 +0000",
-         "title" : "MCCT Finals 3: Wesley So gets back on track"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-official-regulations/",
          "pubDate" : "Wed, 22 Sep 2021 11:39:58 +0000",
          "title" : "European Youth Rapid&Blitz Chess Championships 2021 - Official regulations"
-      },
-      {
-         "description" : "The FIDE Women's World Team Championship kicks off on September 26 at the Catalonian coastal town of Sitges. A new format will be in place: instead of the usual round-robin, the 12 teams will be divided into two pools of approximately the same strength; 4 top teams from each pool will qualify for the knockout playoff. The time control will be shorter than usual, with 45 minutes for the whole game and a 10-second increment per move.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-team-ch-2021-preview",
-         "pubDate" : "Wed, 22 Sep 2021 09:40:02 +0100",
-         "title" : "With a new format: Women's World Team Championship in Sitges"
       }
    ]
 }
