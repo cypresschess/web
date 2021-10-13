@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After drawing their direct encounter, Aleksandr Lenderman and Ray Robson remain in the shared lead of the US Championship. Meanwhile, Fabiano Caruana lost a second game in a row, this time against Sam Sevian. In the women's event, Ashritha Eswaran is now sharing the lead with Carissa Yip and Katerina Nemcova. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Wed, 13 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86998972.cms\" />Child prodigy Divya Deshmukh has become India's latest Woman Grand Master (WGM) at the First Saturday Grandmaster chess tournament in Budapest, Hungary.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-indias-latest-woman-grand-master/articleshow/86998972.cms",
+         "pubDate" : "Wed, 13 Oct 2021 22:01:52 +0530",
+         "title" : "Divya Deshmukh becomes India's latest Woman Grand Master"
+      },
+      {
+         "description" : "GM Jorden van Foreest took home first place in Titled Tuedsay on October 12, his first-ever win in the event. Van Foreest&#39;s score of 10/11, which he achieved while playing 1.a3 or 1...a6 in eight straight games, was enough to win without the tiebr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/van-foreest-wins-october-12-titled-tuesday",
+         "pubDate" : "Wed, 13 Oct 2021 09:25:14 -0700",
+         "title" : "Van Foreest Wins October 12 Titled Tuesday"
+      },
+      {
          "description" : "This week, Merijn van Delft shows a theoretically interesting game from the US Championship, in which Daniel Naroditsky tried the Dragon with Black against Darius Swiercz but soon had to defend an unpleasant endgame. It was a game that makes you wonder whether the Dragon is still playable. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-484-fighting-the-dragon",
          "pubDate" : "Wed, 13 Oct 2021 17:00:00 +0100",
          "title" : "Game of the Week 484: Fighting the Dragon"
+      },
+      {
+         "description" : "Fabiano Caruana has dropped 15 rating points and is in danger of falling out of the Top 5 after losing a second game in a row, this time to 20-year-old, 2654-rated Sam Sevian. The lead was unchanged after Round 6 of the US Championship as Ray Robson and Aleksandr Lenderman contested a very hard-fought draw, with the only other decisive game seeing Sam Shankland pick up a first win, against John Burke. In the women's section Ashritha Eswaran and Carissa Yip both won to join Katerina Nemcova in the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-6-caruana-in-free-fall",
+         "pubDate" : "Wed, 13 Oct 2021 15:54:56 +0000",
+         "title" : "US Chess Champs 6: Caruana in free fall"
       },
       {
          "description" : "Nagpur teenager Divya Deshmukh becomes the latest Woman Grandmaster of the country after achieving her second International Master Norm (Final WGM Norm) at First Saturday",
@@ -1458,28 +1490,12 @@ news_feed (
          "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
       },
       {
-         "description" : "In round five of the Meltwater Champions Chess Tour Finals GM Magnus Carlsen recovered from yesterday&#39;s loss and remains the sole leader, while GMs Maxime Vachier-Lagrave, Wesley So, and Teimour Radjabov keep chasing him. Today was very entertaini...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-5",
-         "pubDate" : "Wed, 29 Sep 2021 12:41:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 5: Carlsen Recovers"
-      },
-      {
          "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-483-j-van-foreest-vs-e-bacrot",
          "pubDate" : "Wed, 29 Sep 2021 18:00:00 +0100",
          "title" : "Game of the Week 483: J. Van Foreest vs E. Bacrot"
-      },
-      {
-         "description" : "The Chess Super League, an online competition with international top grandmasters as well as Indian players and juniors, will kick off on October 11, 2021. The league has a prize fund of Rs.40 lakh ($54,000 USD). The games will be played on Chess....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league",
-         "pubDate" : "Wed, 29 Sep 2021 09:29:47 -0700",
-         "title" : "Chess Super League To Start October 11 On Chess.com"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86619552.cms\" />India defeated France 3-1 in the fifth and final round, riding on wins from Bhakti Kulkarni and Mary Ann Gomes, to finish second in Pool A and qualify for the quarterfinals of the FIDE World Women's Team Chess Championship on Wednesday.",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-chess-tour-setback-for-carlsen",
          "pubDate" : "Wed, 29 Sep 2021 14:15:28 +0100",
          "title" : "Champions Chess Tour: Setback for Carlsen"
-      },
-      {
-         "description" : "Vladislav Artemiev said he \"wanted to play more aggressively than usual because it's very hard to beat Magnus in technical positions\" and it worked to perfection as he inflicted the first defeat of the Meltwater Champions Chess Tour Finals on Magnus Carlsen. Wesley So had the chance to get within striking range of 1st place, but his all-US battle against Hikaru Nakamura skipped the rapid games completely before Hikaru won in blitz. Elsewhere Teimour Radjabov, Levon Aronian and Shakhriyar Mamedyarov all won in rapid chess, with some fantastic games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-4-artemiev-takes-down-carlsen",
-         "pubDate" : "Wed, 29 Sep 2021 12:02:46 +0000",
-         "title" : "MCCT Finals 4: Artemiev takes down Carlsen"
       },
       {
          "description" : " Sadly, there are still a lot of Charlatans and get-rich-quick schemes in Online Chess improvement. They all have one thing in common: they try to make Chess improvement look very easy. Their marketing will suggest that buying their product or course will give you a very easy way to improve. Only by watching some course, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/simple-not-easy/\">Chess Improvement Simple, Not Easy</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -2080,38 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-tactics-app-adrenaline-rush",
          "pubDate" : "Thu, 23 Sep 2021 09:11:52 +0100",
          "title" : "ChessBase Tactics app: Adrenaline Rush"
-      },
-      {
-         "description" : " The TePe Sigeman & Co Chess Tournament takes place Thu 23rd to Wed 29th September 2021 in Malmo Sweden. This is the 26th edition of the tournament. The event was postponed from earlier in the year due to the coronavirus. Players: Jorden Van Foreest, Gawain Jones, Nils Grandelius, Etienne Bacrot, Nihal Sarin, Nigel Short, Vincent Keymer and Jonas Buhl Bjerre.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tepe-sigeman-co-chess-tournament-2021",
-         "pubDate" : "Wed, 22 Sep 2021 22:08:00 +0400",
-         "title" : "TePe Sigeman & Co Chess Tournament 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1344",
-         "pubDate" : "Wed, 22 Sep 2021 18:03:28 +0000",
-         "title" : "Vincent Keymer wins Hou Yifan Challenge"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Team Championships in which White used a very aggressive approach against the French, which led to amazing complications and crazy tactics. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-482-crazy-tactics-t-beerdsen-vs-p-velten",
-         "pubDate" : "Wed, 22 Sep 2021 19:00:00 +0100",
-         "title" : "Game of the Week 482: Crazy tactics - T. Beerdsen vs P. Velten"
-      },
-      {
-         "description" : "German prodigy Vincent Keymer obtained his second consecutive tournament victory at the Julius Baer Challengers Tour by winning the Hou Yifan Challenge, a 17-player single round-robin tournament that took place online on September 18-21. Christopher Yoo and Praggnanandhaa shared second place, finishing two points behind the winner. Keymer, Yoo and Pragg are 3 out of 8 players who qualified to the knockout final of the tour, set to start on October 14. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-4",
-         "pubDate" : "Wed, 22 Sep 2021 18:20:00 +0100",
-         "title" : "Vincent Keymer wins the Hou Yifan Challenge"
       }
    ]
 }
