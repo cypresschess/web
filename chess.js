@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Most players look at endgame study as a necessary evil, akin to taking a very bitter medicine, that may yield results, but is boring. However, what if your study of endgames was punctuated at every corner and turn by fireworks and wondrous moves? This can be achieved, at least partially, thanks to the Studies app from ChessBase Account, making your study of endgames much more fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-studies-app-fun-beauty-and-wonder-with-video",
+         "pubDate" : "Wed, 13 Oct 2021 08:35:15 +0100",
+         "title" : "Endgame Studies app - fun, beauty, and wonder (with video!)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 16 competitions of the French Youth Championships later this month can <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13598\">best be followed on a new app</a> that has been developed by <strong>Datapix</strong> on behalf of the <strong>French Chess Federation</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/french-youth-championship-on-app/",
+         "pubDate" : "Wed, 13 Oct 2021 06:48:29 +0100",
+         "title" : "French youth championship on app"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> held an Extraordinary General Assembly, after the regular one could not complete the agenda. The meeting was partly live-streamed on <strong>Twitch</strong>. The voting was <a href=\"https://www.schachbund.de/news/kurzer-rueckblick-auf-den-dsb-kongress-am-9-oktober.html\">accelerated by electronic devices</a>. A decision on member and rating administration was postponed after criticism of sourcing it out to a closed source system provider. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/german-assembly-went-digital/",
+         "pubDate" : "Wed, 13 Oct 2021 06:45:23 +0100",
+         "title" : "German assembly went digital"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Georg Meier</strong>, the fifth-ranked player in Germany, <a href=\"https://www.schachbund.de/news/georg-meier-wechselt-die-foederation.html\">will represent Uruguay</a>, the home country of his mother, from 1 November, even though the <strong>Uruguyan Chess Federation</strong> cannot pay him or provide him good tournaments. The 34-year-old is fed up with bullying by players and officials. He is the second player from the team who won the European Team Championship in 2011 to leave after <strong>Arkadij Naiditsch</strong>, who wanted to return after representing Azerbaijan and was refused by the <strong>German Chess Federation</strong>. </div>",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/meier-leaves-german-federation/",
+         "pubDate" : "Wed, 13 Oct 2021 06:35:14 +0100",
+         "title" : "Meier leaves German federation"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ashritha Eswaran during Round 6 of the 2021 U.S. Chess Championships. 2021.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ashritha-eswaran-first-place-moment\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bLt5pulP-wA.jpg?itok=RrT9Z5AN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-6",
          "pubDate" : "Tue, 12 Oct 2021 15:05:00 -0700",
          "title" : "US Chess Championships R6: Leaders Draw, Sevian Beats Caruana"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the US Championships, looking a close look at the game J. Xiong vs S. Shankland, a brilliant bounceback performance from Xiong who had a horrid start to the tournament. Lawrence will also discuss the Russian Superfinals. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-2",
+         "pubDate" : "Tue, 12 Oct 2021 23:00:00 +0100",
+         "title" : "The Weekly Show:"
       },
       {
          "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who beat Sam Sevian. Katerina Nemcova is the sole leader in the women's event. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
@@ -634,14 +674,6 @@ news_feed (
          "title" : "How to automatically create tactical quizzes"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Hackers obtained at least 125 GB of confidential data from <strong>Twitch</strong> and published what the streaming channel has paid to streamers, which doesn't include income from merchandising, youtube and sponsorships. <a href=\"https://www.reddit.com/r/chess/comments/q2lpc0/twitch_hack_leaked_gm_hikaru_and_other_twitch/\">A list of the top earning chess streamers has been published on Reddit</a>, with 12 chess streamers paid more than $100,000 since August 2019. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chess-streamers-twitch-income-leaked/",
-         "pubDate" : "Thu, 07 Oct 2021 07:34:37 +0100",
-         "title" : "Chess streamers Twitch income leaked"
-      },
-      {
          "description" : "Four Senior European titles were awarded in Budoni, Sardinia. In the over-50 group, Fabrizio Bellia (photo) became the first Italian to win the title, while German GM Klaus Bischoff came second. The over-65 title went to Nathan Birnboim. Two-time GDR national champion Annett Wagner-Michel won the women's title. | Photo: Scacchierando",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +794,6 @@ news_feed (
          "title" : "Tournament of Peace 2021"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Vlad Arduleanu</strong> is the new President of the <strong>Romanian Chess Federation</strong>. In the <a href=\"https://www.chesstech.org/2021/postponed-election-in-romania/\">postponed election</a> the former Superbet manager was the <a href=\"https://www.vladardeleanu.ro/\">only candidate</a>. <strong>Ionuț Șerban Dobronăuțeanu</strong> decided not to run in exchange for the new position of Counselor to the President. <strong>Superbet</strong> is now the main sponsor of the ongoing <a href=\"http://chess-results.com/tnr579172.aspx\">Rumanian team championships</a> in Mamaia. A Romanian Chess Gala is planned for December. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/superbet-sponsors-romanian-chess/",
-         "pubDate" : "Tue, 05 Oct 2021 17:51:43 +0100",
-         "title" : "Superbet sponsors Romanian chess"
-      },
-      {
          "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -872,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-chess-with-me-the-video-series",
          "pubDate" : "Mon, 04 Oct 2021 22:00:00 +0100",
          "title" : "Study chess with me - the video series"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> By winning the last six matches, including wins in a row against the top-ranked Aronian, So and Carlsen, <strong>Teimur Radjabov</strong> secured himself the second place in the <strong>Meltwater Champions Chess Tour Final</strong>. <strong>Wesley So</strong>, the only player who gave tour winner Carlsen a fight for first, <a href=\"https://championschesstour.com/finals-2021/schedule/\">ended fourth</a> after being overtaken by <strong>Levon Aronian</strong> in the <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-finals-2021/9/1/1\">final round</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/radjabov-and-aronian-overtake-so/",
-         "pubDate" : "Mon, 04 Oct 2021 21:29:53 +0100",
-         "title" : "Radjabov and Aronian overtake So"
       },
       {
          "description" : "GM Teimour Radjabov won the battle for second place and $60,000 on the last day of the 2021 Meltwater Champions Chess Tour Finals, having scored the most points in the last leg of the Tour. GM Magnus Carlsen, who had secured overall victory with t...",
