@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft shows a theoretically interesting game from the US Championship, in which Daniel Naroditsky tried the Dragon with Black against Darius Swiercz but soon had to defend an unpleasant endgame. It was a game that makes you wonder whether the Dragon is still playable. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-484-fighting-the-dragon",
+         "pubDate" : "Wed, 13 Oct 2021 17:00:00 +0100",
+         "title" : "Game of the Week 484: Fighting the Dragon"
+      },
+      {
+         "description" : "Nagpur teenager Divya Deshmukh becomes the latest Woman Grandmaster of the country after achieving her second International Master Norm (Final WGM Norm) at First Saturday",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-divya-deshmukh-latest-woman-grandmaster-of-india/",
+         "pubDate" : "Wed, 13 Oct 2021 14:14:11 +0000",
+         "title" : "Congratulations Divya Deshmukh, latest Woman Grandmaster of India"
+      },
+      {
          "description" : "After drawing their direct encounter, Aleksandr Lenderman and Ray Robson remain in the shared lead of the US Championship. Meanwhile, Fabiano Caruana lost a second game in a row, this time against Sam Sevian. In the women's event, Katerina Nemcova is now sharing the lead with Carissa Yip and Ashritha Eswaran. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-r6",
          "pubDate" : "Wed, 13 Oct 2021 13:15:00 +0100",
          "title" : "US Championships: Time pressure"
+      },
+      {
+         "description" : " The German Bundesliga was due to place 23rd November 2019 to 2nd May 2020. The Coronavirus caused havoc and although a limited final event took place in 2020 the league season will now be completed in Berlin 13th to 17th October. There is a single round 13 match on the 13th - Rounds 9 and 10 on the 14th, Rounds 11 and 12 on the 15th, Round 13 and 14 on the 16th and the final round 15 on the 17th of October.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
+         "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
+         "title" : "German Bundesliga 2019-2020 - Games and Results"
+      },
+      {
+         "description" : "The Brutal Bishops grabbed the sole lead on day two of the Chess Super League on Tuesday. A 3-3 tie with the Quintessential Queens was enough for a one-point gap in match points because the two other winners of the first day lost their second matc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-2",
+         "pubDate" : "Wed, 13 Oct 2021 04:29:00 -0700",
+         "title" : "Chess Super League R2: Brutal Bishops Take Slim Lead"
       },
       {
          "description" : " Many of the most important tournaments in Chess are played in a Round-Robin (all-play-all) format. Even if the game is still the same, the preparation for a Round-Robin tournament can be different from a normal tournament. In most cases, you will know your opponents before the tournament and thus you have some extra time to [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/\">5 Steps To A Great Round-Robin Preparation</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1554,14 +1586,6 @@ news_feed (
          "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
       },
       {
-         "description" : "GM Boris Savchenko won Titled Tuesday on September 28 with a score of 10/11 after declining an early draw offer and beating GM Hikaru Nakamura in the final round. It was his second-ever Titled Tuesday win and his first since 2018. GM Federico Pere...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/savchenko-wins-titled-tuesday-against-multi-tournamenting-nakamura",
-         "pubDate" : "Tue, 28 Sep 2021 15:45:21 -0700",
-         "title" : "Savchenko Wins Titled Tuesday Against Multi-Tournamenting Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,46 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hou-yifan-challenge-2021-day-4",
          "pubDate" : "Wed, 22 Sep 2021 18:20:00 +0100",
          "title" : "Vincent Keymer wins the Hou Yifan Challenge"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 45th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"Cooperation of the Pieces\" and illustrates this topic with a beautiful study. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-45-cooperation-between-the-pieces-1",
-         "pubDate" : "Wed, 22 Sep 2021 16:00:00 +0100",
-         "title" : "Understanding before Moving 45: Cooperation between the pieces (1)"
-      },
-      {
-         "description" : " Bishop vs Knight: the most common imbalance in chess. But when is it better to have a Bishop? And when is the Knight more effective? The discussion usually tips in favor of the Bishop. Several World Champions, including the infamous Bobby Fischer, were known to prefer the Bishop over the Knight in most cases. Multiple [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/bishop-vs-knight/\">Bishop vs Knight</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bishop-vs-knight/",
-         "pubDate" : "Wed, 22 Sep 2021 14:00:00 +0000",
-         "title" : "Bishop vs Knight"
-      },
-      {
-         "description" : "Having regular training and having a good trainer helps enormously to improve one's game. But trainers also need to be trained, and this is what the European Chess Union and the European Chess Academy do in the \"ECU Online Trainers Conference\" from 1 October to 3 October, in which some of the world's best and most experienced trainers share their methods and secrets.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/train-the-trainers-the-ecu-online-trainers-conference",
-         "pubDate" : "Wed, 22 Sep 2021 14:08:08 +0100",
-         "title" : "Train the trainers: the ECU Online Trainers Conference"
-      },
-      {
-         "description" : "Chess is currently a popular subject for films. In Russia, production of a feature film about the dramatic and at times scandalous 1978 World Championship match between Anatoly Karpov and Viktor Kortschnoi began in 2019 and has now been completed after a forced break caused by the pandemic. The film will be released in Russian cinemas in December.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-champion",
-         "pubDate" : "Wed, 22 Sep 2021 13:45:21 +0100",
-         "title" : "Karpov vs Kortschnoi in the movies: \"The World Champion\""
-      },
-      {
-         "description" : "The 20th edition of the European Youth Rapid&#38;Blitz Chess Championships 2021 will take place from 26th-31st December in Novi Sad, Serbia. The events will be played in 6 age categories: U8, U10, U12, U14, U16, U18, open and girls sections separately. The event features 4 Championships: European Youth Individual Chess Championship, European Youth Individual Blitz Chess Championship, European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-official-regulations/",
-         "pubDate" : "Wed, 22 Sep 2021 11:39:58 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Championships 2021 - Official regulations"
       }
    ]
 }
