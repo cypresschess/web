@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "description" : "Praggnanandhaa and Christopher Yoo advanced to the semifinals of the Julius Baer Challengers Tour Finals after knocking out Volodar Murzin and Lei Tingjie respectively. While Pragg obtained a commanding 3-0 victory, Yoo was inches away from losing more than once in a match that was decided in blitz tiebreaks. The other two quarterfinal matches will be played on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-1",
+         "pubDate" : "Fri, 15 Oct 2021 00:25:00 +0100",
+         "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championshis-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championshis-favorite-chess-clubs-parkside-chat",
+         "pubDate" : "Thu, 14 Oct 2021 21:15:45 +0000",
+         "title" : "2021 U.S. Chess Championshis: Favorite Chess Clubs | Parkside Chat"
+      },
+      {
+         "description" : "Praggnanandhaa will face Vincent Keymer or Leon Mendonca in Saturday's semi-finals of the Challengers Chess Tour after powering to a 3:0 victory over Volodar Murzin, with Vladimir Kramnik describing the Indian prodigy's play as being at the level of a 2700-player. The other quarterfinal on Thursday was an absolute thriller, with Christopher Yoo coming back from the dead to clinch victory over Lei Tingjie in the 2nd game of a blitz playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/pragg-yoo-reach-challengers-chess-tour-semi-finals",
+         "pubDate" : "Thu, 14 Oct 2021 20:39:06 +0000",
+         "title" : "Pragg & Yoo reach Challengers Chess Tour semi-finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1385",
+         "pubDate" : "Thu, 14 Oct 2021 20:15:46 +0000",
+         "title" : "Mongolia vs. Zimbabwe in the final, Georgia dominates women's tournament"
+      },
+      {
+         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is still in second place, a half point back, as she also won her round-8 encounter. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Thu, 14 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "US Championships - Round 8"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Benoni Fianchetto"
       },
       {
+         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
+         "pubDate" : "Thu, 14 Oct 2021 16:56:00 +0100",
+         "title" : "Svitlana's Smart Moves - A winning mind set"
+      },
+      {
          "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga started to play the last seven rounds of the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last rounds will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 began Thursday, 10:00 CEST (4:00 ET, 8:00 UTC), round 10 begins Thursday, 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1383",
          "pubDate" : "Thu, 14 Oct 2021 15:37:02 +0000",
          "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
-      },
-      {
-         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
-         "pubDate" : "Thu, 14 Oct 2021 15:55:00 +0100",
-         "title" : "Challengers Chess Tour Finals - Live!"
       },
       {
          "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Photo: Lennart Ootes",
@@ -114,20 +146,12 @@ news_feed (
          "title" : "US Chess Champs 7: So strikes as Fabi makes comeback"
       },
       {
-         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
-         "pubDate" : "Thu, 14 Oct 2021 11:56:00 +0100",
-         "title" : "Svitlana's Smart Moves - A winning mind set"
-      },
-      {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
          "pubDate" : "Thu, 14 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
+         "title" : "Superfinals - Round 6"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The top-scoring seven juniors and one woman from the four <strong>Julius B&auml;r <a href=\"https://challengerschesstour.com/\">Challengers Chess Tour</a></strong> events, <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/1/1/1\">held online</a> on <strong>chess24</strong>, juggle out in k.o.-matches the absolute winner, who will take $12,500 and a fix place on the next <strong>Champions Chess Tour</strong>. </div> ",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/megan-lee-paikidze-was-unfamiliar-opening",
          "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
          "title" : "Megan Lee: Paikidze was Unfamiliar with the Opening"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Katerina Nemcova during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/katerina-nemcova-draw-tatev-%E2%80%9Call-good%E2%80%9D\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SLaYmDgI6lE.jpg?itok=J4ZK7zjJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/katerina-nemcova-draw-tatev-%E2%80%9Call-good%E2%80%9D",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Katerina Nemcova: Draw with Tatev \"All Good\""
       },
       {
          "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "World Women's Team Chess: India win first ever medal at event"
       },
       {
-         "description" : "Magnus Carlsen said \"the way the game went was a dream for me\" after winning a tough match against Anish Giri with a spectacular queen sacrifice in the first blitz game. Magnus is now on the brink of overall victory with a 7-point lead and 3 rounds to go after 2nd placed Wesley So was put to the sword by Teimour Radjabov. There were also wins for Hikaru Nakamura and Vladislav Artemiev, but the day's other most memorable moment was Levon Aronian thinking for almost 6 minutes before blundering mate-in-1 against Jan-Krzysztof Duda.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-6-carlsen-beats-giri-with-stunning-queen-sac",
-         "pubDate" : "Sat, 02 Oct 2021 14:03:49 +0000",
-         "title" : "MCCT Finals 6: Carlsen stuns Giri with queen sac"
-      },
-      {
          "description" : " I've often described chess as an examination where the players take turns at setting the questions. Sometimes your move is only an answer to the previous question, while other times it is both an answer and the next question rolled into one. But what happens if you forget to answer the question being asked? This. <br /> <b>Aronian,Levon (2782) - Duda,Jan-Krzysztof (2756) [C18]</b><br />Meltwater Champions Chess Tour Finals chess24.com (6.1), 01.10.2021 <script>new PgnViewer( { boardName: \"game1277\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2 Nbc6 11.f4 dxc3 12.Qd3 d4 13.Nxd4 Nxd4 14.Qxd4 Bd7 15.Qd6 Qa5 1",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/sep/24/chess-carlsen-wins-in-norway-and-grinds-in-91-moves-before-2m-match",
          "pubDate" : "Fri, 24 Sep 2021 07:00:11 +0000",
          "title" : "Chess: Carlsen wins in Norway and grinds in 91 moves before $2m match"
-      },
-      {
-         "description" : "On this updated DVD, experts including Daniel King, Mihail Marin, Karsten M&uuml;ller, Oliver Reeh and Niclas Huschenbeth examine the games of the 16th World Champion. Let them show you how Carlsen tailored his openings to be able to outplay his opponents strategically in the middlegame or to obtain an enduring advantage into the endgame, and bear witness to how the Norwegian always managed to find a way to pose his opponents serious problems, even in apparently level endings. This 2nd edition features additional new recordings by all the authors and an extra chapter with a special look at Carlsen by Daniel King.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/updated-master-class-magnus-carlsen",
-         "pubDate" : "Thu, 23 Sep 2021 22:37:32 +0100",
-         "title" : "Updated: Master Class Magnus Carlsen"
       }
    ]
 }
