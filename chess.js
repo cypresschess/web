@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Thu, 14 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-7",
+         "pubDate" : "Thu, 14 Oct 2021 18:15:46 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-9-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-9-lichessorg",
+         "pubDate" : "Thu, 14 Oct 2021 18:15:46 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 9 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1384",
+         "pubDate" : "Thu, 14 Oct 2021 17:27:39 +0000",
+         "title" : "All India Chess Federation signs a historic agreement with MPL"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris shows how White can use the Fianchetto System to fight for the initiative against the Benoni. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-benoni-fianchetto",
+         "pubDate" : "Thu, 14 Oct 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Benoni Fianchetto"
+      },
+      {
          "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga started to play the last seven rounds of the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last rounds will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 began Thursday, 10:00 CEST (4:00 ET, 8:00 UTC), round 10 begins Thursday, 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
          "pubDate" : "Thu, 14 Oct 2021 16:51:49 +0100",
          "title" : "Bundesliga live: Round 10"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Thu, 14 Oct 2021 15:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
@@ -178,14 +226,6 @@ news_feed (
          "title" : "Katerina Nemcova: Draw with Tatev \"All Good\""
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana after Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-first-time-under-promoting-bishop\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Bz-V5wms0pk.jpg?itok=uQao7A0x\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-first-time-under-promoting-bishop",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Fabiano Caruana: First Time Under-Promoting to Bishop!"
-      },
-      {
          "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -328,14 +368,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/meier-leaves-german-federation/",
          "pubDate" : "Wed, 13 Oct 2021 06:35:14 +0100",
          "title" : "Meier leaves German federation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ashritha Eswaran during Round 6 of the 2021 U.S. Chess Championships. 2021.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ashritha-eswaran-first-place-moment\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bLt5pulP-wA.jpg?itok=RrT9Z5AN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ashritha-eswaran-first-place-moment",
-         "pubDate" : "Wed, 13 Oct 2021 00:14:02 +0000",
-         "title" : "Ashritha Eswaran: First Place (at the Moment)"
       },
       {
          "description" : "In round six of the 2021 U.S. Chess Championship, the two leaders, GM Alexander Lenderman and GM Ray Robson played each other and drew&#38;mdash;they maintain their shared first place with 4/6. GM Sam Sevian defeated GM Fabiano Caruana and now shares ...",
@@ -2072,30 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/updated-master-class-magnus-carlsen",
          "pubDate" : "Thu, 23 Sep 2021 22:37:32 +0100",
          "title" : "Updated: Master Class Magnus Carlsen"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris shows how Black can get good attacking chances in the Four Knights Variation of the English Opening, using one of his own games from the Dutch Team Championship as example. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-english-four-knights",
-         "pubDate" : "Thu, 23 Sep 2021 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: English Four Knights"
-      },
-      {
-         "description" : "When the FIDE officially introduced the title of Grandmaster in 1950, only one German received the title - Friedrich S&auml;misch. Alexander Alekhine once pointed out that \"he could play among the very best, if he only managed to quit his extreme smoking\". What Alekhine seemed to have forgotten was S&auml;misch's perennial addiction to time-trouble. Michael Dombrowsky, author of S&auml;misch's soon-to-be-published biography, wrote a tribute to this unique character to celebrate S&auml;misch's 125th birthday. | Image: British Chess News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/for-friedrich-saemisch-s-125th-birthday",
-         "pubDate" : "Thu, 23 Sep 2021 17:00:00 +0100",
-         "title" : "For Friedrich S&auml;misch's 125th Birthday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86459230.cms\" />Boxing megastar Manny \"Pac-Man\" Pacquiao has revealed that his next big fight is going to be onboard ---- against a 10-year-old app version of world chess champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/manny-pacquiaos-next-opponent-magnus-carlsen/articleshow/86459230.cms",
-         "pubDate" : "Thu, 23 Sep 2021 21:05:19 +0530",
-         "title" : "Manny Pacquiao's next opponent: Magnus Carlsen"
       }
    ]
 }
