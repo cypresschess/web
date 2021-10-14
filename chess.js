@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Thu, 14 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
+         "pubDate" : "Thu, 14 Oct 2021 11:09:01 +0100",
+         "title" : "Svitlana's Smart Moves - A winning mind set"
+      },
+      {
+         "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga starts to finish the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last seven rounds season will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 starts at 10:00 CEST (4:00 ET, 8:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
+         "pubDate" : "Thu, 14 Oct 2021 10:51:49 +0100",
+         "title" : "Bundesliga live: Final rounds"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Salomėja Zaksaitė</strong>, chairwoman of the <strong>FIDE Fair Play Commission</strong> and legal scholar, discusses <a href=\"https://www.journals.vu.lt/kriminologijos-studijos/article/view/24883/24142\">in a scholarly publication</a> how to investigate and sanction computer-assisted cheating and match-fixing and calls for whistleblower protection. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/zaksait-calls-for-whisteblower/",
+         "pubDate" : "Thu, 14 Oct 2021 10:36:21 +0100",
+         "title" : "Zaksaitė calls for whisteblower protection"
+      },
+      {
          "description" : "Streamer sensation IM Levy Rozman (GothamChess) has recently announced he will be funding scholarship opportunities. Rozman will donate $100,000 to chess programs in United States schools to support competitive scholastic chess teams. Schools gi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -616,14 +648,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-seven/",
          "pubDate" : "Fri, 08 Oct 2021 17:11:32 +0000",
          "title" : "A Foundation for Beginners Thirty Seven"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Soviet Championships Volume 1 (1920 - 1937) by <strong>Sergey Voronkov</strong>, published by <strong>Elk and Ruby</strong>, won the prestigeous <a href=\"https://www.englishchess.org.uk/ecf-book-of-the-year-2021/\">book of the year award</a> of the <strong>English Chess Federation</strong> with Winning by <strong>Nigel Short</strong> (<strong>Quality Chess</strong>) getting a honorable mention. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/history-of-soviet-chess-is-ecf-book/",
-         "pubDate" : "Fri, 08 Oct 2021 15:54:33 +0100",
-         "title" : "History of Soviet chess is ECF book of 2021"
       },
       {
          "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova (pictured) became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Photo: Lennart Ootes",
@@ -2088,22 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/sigeman-chess-tournament.html",
          "pubDate" : "Thu, 23 Sep 2021 12:53:00 +0000",
          "title" : "Sigeman Chess Tournament"
-      },
-      {
-         "description" : "Currently, Magnus Carlsen is in Struga, in North Macedonia, where he plays in the European Club Cup for Offerspill, his Norwegian club. During the event Carlsen found time to sign the contract about the regulations of the World Championship Match against Ian Nepomniachtchi in November. Carlsen's sponsor Unibet used the occasion to ask the World Champion some questions about the contract, the match and his preparation. | Photo: Unibet",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-signs-world-championship-contract",
-         "pubDate" : "Thu, 23 Sep 2021 11:30:55 +0100",
-         "title" : "Magnus Carlsen signs World Championship contract"
-      },
-      {
-         "description" : "While the Solve Tactics mode is undoubtedly the meat of the of the Tactics web app, there are two other modes that provide a very different sort of training, excellent to stay sharp. Both are based on trying to solve as quickly as possible, but each with a slightly different angle. They are also the perfect trainer for bullet chess. You will also find part one demonstrated in a video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-tactics-app-adrenaline-rush",
-         "pubDate" : "Thu, 23 Sep 2021 09:11:52 +0100",
-         "title" : "ChessBase Tactics app: Adrenaline Rush"
       }
    ]
 }
