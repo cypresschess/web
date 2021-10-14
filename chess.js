@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Streamer sensation IM Levy Rozman (GothamChess) has recently announced he will be funding scholarship opportunities. Rozman will donate $100,000 to chess programs in United States schools to support competitive scholastic chess teams. Schools gi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rozman-partners-with-chesskid-scholarship-fund",
+         "pubDate" : "Thu, 14 Oct 2021 00:00:00 -0700",
+         "title" : "IM Levy Rozman Partners With ChessKid.com To Offer Chess Scholarship Fund"
+      },
+      {
          "description" : "After taking down former leader Kirill Alekseenko in round 4, Dmitry Andreikin was defeated by Nikita Vitiugov on Wednesday. Vitiugov thus grabbed the sole lead on 3&frac12;/5 points. In the women's section, Valentina Gunina is now sharing first place with Evgenija Ovod, who scored back-to-back wins in rounds 4 and 5. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Fabiano Caruana: First Time Under-Promoting to Bishop!"
       },
       {
-         "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time with Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also ...",
+         "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-7",
@@ -410,7 +418,7 @@ news_feed (
          "title" : "Goryachkina's dream start to Russian \"Men's\" Superfinal"
       },
       {
-         "description" : "If you're joining your child/children up to the ECF for the first time, please note you DO NOT have to register with the ECF in...",
+         "description" : "If you're joining your child/children up to the ECF for the first time, please note you DO NOT have to register yourself with the ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-chess-parents-please-read/",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-quarterfinals",
          "pubDate" : "Thu, 30 Sep 2021 16:21:00 -0700",
          "title" : "FIDE World Women's Team Championship QF: Russia, Georgia, Ukraine, India Reach Semifinals"
-      },
-      {
-         "description" : "The 2021 FIDE Chess.com Grand Swiss and the inaugural Women&#39;s Grand Swiss are approaching fast, with the first games starting on October 27! The events will gather the best players in the world to compete in a Swiss tournament for two spots in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2021-fide-chesscom-grand-swiss",
-         "pubDate" : "Thu, 30 Sep 2021 15:56:00 -0700",
-         "title" : "Announcing The 2021 FIDE Chess.com Grand Swiss In Riga"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
