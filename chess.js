@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga started to play the last seven rounds of the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last rounds will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 began Thursday, 10:00 CEST (4:00 ET, 8:00 UTC), round 10 begins Thursday, 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
+         "pubDate" : "Thu, 14 Oct 2021 16:51:49 +0100",
+         "title" : "Bundesliga live: Round 10"
+      },
+      {
+         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
+         "pubDate" : "Thu, 14 Oct 2021 15:55:00 +0100",
+         "title" : "Challengers Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r7",
+         "pubDate" : "Thu, 14 Oct 2021 14:50:00 +0100",
+         "title" : "US Championships: Sevian and So join the lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Salomėja Zaksaitė</strong>, chairwoman of the <strong>FIDE Fair Play Commission</strong> and legal scholar, discusses <a href=\"https://www.journals.vu.lt/kriminologijos-studijos/article/view/24883/24142\">in a scholarly publication</a> how to investigate and sanction computer-assisted cheating and match-fixing and calls for the creation of a global online screening tool as well as whistleblower protection. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/zaksait-calls-for-whisteblower/",
+         "pubDate" : "Thu, 14 Oct 2021 14:44:07 +0100",
+         "title" : "Zaksaitė calls for whisteblower protection"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87022181.cms\" />The All-India Chess Federation (AICF) has signed an agreement with MPL Foundation towards sponsorship of all national championships for the next five years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-india-chess-federation-signs-sponsorship-deal-with-mpl-foundation/articleshow/87022181.cms",
+         "pubDate" : "Thu, 14 Oct 2021 18:42:35 +0530",
+         "title" : "All-India Chess Federation signs sponsorship deal with MPL Foundation"
+      },
+      {
+         "description" : "The round-robin phase of the Chess Super League is still wide open after three rounds of play. The Brutal Bishops, Ruthless Rooks, and Kingslayers are currently in a tie for first place with four match points. How to watch?The games of th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-3",
+         "pubDate" : "Thu, 14 Oct 2021 04:58:00 -0700",
+         "title" : "Chess Super League R3: 3-Way Tie For 1st Place"
+      },
+      {
+         "description" : "The All India Chess Federation (AICF) signed a historic agreement with MPL Foundation for a sponsorship amount of One Crore towards the sponsorships for Indian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/all-india-chess-federation-signs-historic-agreement-with-mpl/",
+         "pubDate" : "Thu, 14 Oct 2021 11:40:02 +0000",
+         "title" : "All India Chess Federation Signs historic agreement with MPL"
+      },
+      {
+         "description" : "Wesley So and Sam Sevian both won in Round 7 of the US Championship to join Alex Lenderman in the lead with four rounds to go. Fabiano Caruana is back at 50% and just a point off the pace after taking down co-leader Ray Robson in a 90-move game featuring an endgame sacrifice and an under-promotion to a bishop at the finish. Carissa Yip is now sole leader of the Women's Championship after a 3rd win in four games, with Irina Krush and Katerina Nemcova just half a point behind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-7-so-strikes-as-fabi-makes-comeback",
+         "pubDate" : "Thu, 14 Oct 2021 11:38:41 +0000",
+         "title" : "US Chess Champs 7: So strikes as Fabi makes comeback"
+      },
+      {
+         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
+         "pubDate" : "Thu, 14 Oct 2021 11:56:00 +0100",
+         "title" : "Svitlana's Smart Moves - A winning mind set"
+      },
+      {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +82,20 @@ news_feed (
          "title" : "Superfinals - Live!"
       },
       {
-         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
-         "pubDate" : "Thu, 14 Oct 2021 11:09:01 +0100",
-         "title" : "Svitlana's Smart Moves - A winning mind set"
-      },
-      {
-         "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga starts to finish the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last seven rounds season will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 starts at 10:00 CEST (4:00 ET, 8:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
-         "pubDate" : "Thu, 14 Oct 2021 10:51:49 +0100",
-         "title" : "Bundesliga live: Final rounds"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Salomėja Zaksaitė</strong>, chairwoman of the <strong>FIDE Fair Play Commission</strong> and legal scholar, discusses <a href=\"https://www.journals.vu.lt/kriminologijos-studijos/article/view/24883/24142\">in a scholarly publication</a> how to investigate and sanction computer-assisted cheating and match-fixing and calls for whistleblower protection. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The top-scoring seven juniors and one woman from the four <strong>Julius B&auml;r <a href=\"https://challengerschesstour.com/\">Challengers Chess Tour</a></strong> events, <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/1/1/1\">held online</a> on <strong>chess24</strong>, juggle out in k.o.-matches the absolute winner, who will take $12,500 and a fix place on the next <strong>Champions Chess Tour</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/zaksait-calls-for-whisteblower/",
-         "pubDate" : "Thu, 14 Oct 2021 10:36:21 +0100",
-         "title" : "Zaksaitė calls for whisteblower protection"
+         "link" : "https://www.chesstech.org/2021/challengers-decide-their-winner/",
+         "pubDate" : "Thu, 14 Oct 2021 11:35:05 +0100",
+         "title" : "Challengers decide their winner"
+      },
+      {
+         "description" : "This year's British Championships will start on Saturday 2nd October and will run for two weeks at venues in Hull and Milton Keynes. You can...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2021-2/",
+         "pubDate" : "Thu, 14 Oct 2021 08:00:40 +0000",
+         "title" : "British Chess Championships 2021"
       },
       {
          "description" : "Streamer sensation IM Levy Rozman (GothamChess) has recently announced he will be funding scholarship opportunities. Rozman will donate $100,000 to chess programs in United States schools to support competitive scholastic chess teams. Schools gi...",
@@ -144,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-preview",
          "pubDate" : "Wed, 13 Oct 2021 22:00:00 +0100",
          "title" : "From Thursday to Sunday: Finals of the Julius Baer Challengers Tour"
-      },
-      {
-         "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Wed, 13 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 7"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86998972.cms\" />Child prodigy Divya Deshmukh has become India's latest Woman Grand Master (WGM) at the First Saturday Grandmaster chess tournament in Budapest, Hungary.",
@@ -536,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-4-yakubboev-wins-with-xiong-already-through-to-main-event",
          "pubDate" : "Sat, 09 Oct 2021 15:30:49 -0700",
          "title" : "Speed Chess Grand Prix 4: Yakubboev Wins With Xiong Already Through To Main Event"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How is work in a fully remote company that runs the biggest platform in online chess? <em>Tatiana Flores</em> profiles <strong>Chess.com</strong>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/-.1920.jpeg\" title=\". \" data-title=\".\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/-.480.jpeg\" alt=\".\" srcset=\"https://www.chesstech.org/files/-.480.jpeg 1x, https://www.chesstech.org/files/-.960.jpeg 2x\" > </a> <figcaption><em>. </em></figcaption></figure> </div> </div> <div class='articletext'> More than 300 professionals work at <strong>Chess.com</strong>, and they w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/inside-chesscom/",
-         "pubDate" : "Sat, 09 Oct 2021 19:39:24 +0100",
-         "title" : "Inside Chess.com"
       },
       {
          "description" : "Fabiano Caruana showed just how dangerous it is to repeat a sharp opening against the very best players as he put John Burke to the sword in Round 3 of the 2021 US Chess Championships. It was a day of first wins, with Sam Sevian beating Jeffery Xiong to join the leaders, while Dariusz Swiercz recovered from two losses by beating Daniel Naroditsky. Tatev Abrahamyan did the same in the women's section, beating Anna Zatonskih, while 18-year-old Thalia Cervantes also grabbed a first win, against Sabina Foisor.",
@@ -1386,14 +1434,6 @@ news_feed (
          "title" : "CFR Team, Georgia, Ukraine and India advance to semis"
       },
       {
-         "description" : "This year's British Championships will start on Saturday 2nd October and will run for two weeks at venues in Hull and Milton Keynes. You can...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2021-2/",
-         "pubDate" : "Fri, 01 Oct 2021 08:31:40 +0000",
-         "title" : "British Chess Championships 2021"
-      },
-      {
          "description" : "Ratings are full of mysteries and by no means coherent. Sometimes, you suspect an inflation of ratings, sometimes a deflation. In some countries ratings are distorted by too many young players - or not enough adult players. And how did the lack of tournaments in the Covid era affect the Elo ratings? Walter Wolf has gathered a lot of statistics and tries to draw conclusions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1466,6 @@ news_feed (
          "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
       },
       {
-         "description" : "Russia and Georgia reached the semifinals of the 2021 World Women&#39;s Team Championship with solid performances, while India and Ukraine overcame their rivals in varying levels of difficulty and drama during the quarterfinals. While India&#39;s victory ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-quarterfinals",
-         "pubDate" : "Thu, 30 Sep 2021 16:21:00 -0700",
-         "title" : "FIDE World Women's Team Championship QF: Russia, Georgia, Ukraine, India Reach Semifinals"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1448,14 +1480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-kazakhstan-draw-1st-match-of-quarter-final/articleshow/86656118.cms",
          "pubDate" : "Thu, 30 Sep 2021 21:55:04 +0530",
          "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
-      },
-      {
-         "description" : "Magnus Carlsen ended Hikaru Nakamura's brief reign as the top scorer in the Meltwater Champions Chess Tour Finals with a commanding 2.5:0.5 victory over the US star in Round 5. The win saw Magnus extend his overall lead over Wesley So to 5 points, but it could easily have been 7, since Anish Giri was on the verge of beating Wesley before committing a huge blunder and going on to lose a playoff. Teimour Radjabov beat Levon Aronian to catch his rival in 3rd place, while there were also wins for Maxime Vachier-Lagrave and Vladislav Artemiev.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-5-carlsen-dominates-nakamura",
-         "pubDate" : "Thu, 30 Sep 2021 15:21:36 +0000",
-         "title" : "MCCT Finals 5: Carlsen dominates Nakamura"
       },
       {
          "description" : "Magnus Carlsen again increased his lead in the Champions Chess Tour final. In his round five match against Hikaru Nakamura Carlsen demonstrated impressive endgame technique by winning two instructive rook endings which brought him a 2.5-0.5 victory. Wesley So, who can still hope to catch Carlsen, was on the brink of defeat against Anish Giri, when the Dutch number 1 blundered the crucial game away. | Graphics: Champions Chess Tour",
@@ -2034,14 +2058,6 @@ news_feed (
          "title" : "FOA Rating and Title Are Now Part of Your FIDE Profile"
       },
       {
-         "description" : "The list of candidates successfully passed the subject training is appended below and certificate for successful candidates will be issued in due course. List of successful",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-chess-in-school-trainers-training-re-exam-results-held-on-30-june-2021/",
-         "pubDate" : "Fri, 24 Sep 2021 08:37:02 +0000",
-         "title" : "AICF Chess in School Trainers Training Re-exam Results held on 30 June 2021"
-      },
-      {
          "description" : " World champion's busy schedule contrasts with rival Ian Nepomniachtchi's closed doors preparation As November's 14-game, $2m 2021 world championship match in Dubai approaches, Norway's title holder, Magnus Carlsen, is continuing his busy tournament and media schedule, while his Russian challenger, Ian Nepomniachtchi, is pulling out of events or playing them in second or third gear. Nepomniachtchi, the current world No 4, is believed to have assembled a strong team of aides, notably including the 2004 title challenger and popular online commentator Peter Leko, plus the cream of Russian analytical talent. Fide is ostensibly neutral, but there is little doubt that its energetic president, Arka",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2080,38 +2096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/manny-pacquiaos-next-opponent-magnus-carlsen/articleshow/86459230.cms",
          "pubDate" : "Thu, 23 Sep 2021 21:05:19 +0530",
          "title" : "Manny Pacquiao's next opponent: Magnus Carlsen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86458466.cms\" />Among the many success stories that has emerged out of Makoko is 10-year-old Maumo Ferdinand who in May this year won the junior category of a local event less than a few weeks into learning the basics of the game. Ferdinand --- affected by cerebral palsy --- caught the attention of Onakoya who with his team had gone to train children in the slum.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meet-babatunde-onakoya-a-chess-coach-who-changed-lives-of-nigerian-slum-children/articleshow/86458466.cms",
-         "pubDate" : "Thu, 23 Sep 2021 20:23:15 +0530",
-         "title" : "Meet Onakoya, a coach who changed lives of Nigerian slum children"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1345",
-         "pubDate" : "Thu, 23 Sep 2021 13:35:51 +0000",
-         "title" : "FIDE World Cup in Composing 2021: Final results"
-      },
-      {
-         "description" : "The Saint Louis chess club and its sponsor Rex Sinquefield have done a lot for chess in the U.S. and the world, and they continue to organise top tournaments. Beginning on the 5th of October, the club will host the U.S. chess championship tournaments 2021, for women and men. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip both tournaments are strongly contested, though Hikaru Nakamura, U.S. Champion 2005, 2009, 2012, 2015, and 2019 is missing from the line-up. Over the course of eleven rounds, the 2 x 12 competitors will battle for a prize-fund of almost 200,000 USD, the qualification for the World Championship cycle, and of course, the title of U.S. Champion 202",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2021-u-s-and-u-s-women-s-chess-championships-fields-announced",
-         "pubDate" : "Thu, 23 Sep 2021 14:00:00 +0100",
-         "title" : "2021 U.S. and U.S. Women's Chess Championships Fields Announced"
-      },
-      {
-         "description" : " If you want to watch some serious (non online) GM level chess, the Sigeman Chess Tournament has just begun. It is being held in Malmo, Sweden and is an 8 player round robin. In the field are a mixture of young talents (Sarin and Keymar) and some more experienced GM's (Gawain Jones and Nigel Short). The first round began around an hour ago, and is being covered live by chess24.com. Each round begins at 10pm (Canberra time), and with the civilized time limit of 40/100m,20/50m,15m+30s inc from move 1, there should be hours of entertainment. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/sigeman-chess-tournament.html",
-         "pubDate" : "Thu, 23 Sep 2021 12:53:00 +0000",
-         "title" : "Sigeman Chess Tournament"
       }
    ]
 }
