@@ -2,20 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Bundesliga everything seems to be headed for a showdown in round 14 when the two leaders Hockenheim and Baden-Baden will meet. At any rate, in round 11 both teams won their matches smoothly: Hockenheim defeated Dresden 6-2 and Baden-Baden won 6-2 against Augsburg. Round 12 starts at 17:00 CEST (9:00 ET, 15:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
+         "pubDate" : "Fri, 15 Oct 2021 16:25:49 +0100",
+         "title" : "Bundesliga live: Round 12"
+      },
+      {
+         "description" : "Our beloved IM from London returns, but not with the \"News Review\" show. Lawrence's \"Trent's Tactics\" is teaching us about the world of tactics. In this episode, Lawrence will show us different tactics about the back-rank mate. And even though we know the motif now, some of the examples which Lawrence picked are still very challenging! In the last ten minutes, we start from basically \"zero\" and raise the rating to over 2000, in the ChessBase training section.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics",
+         "pubDate" : "Fri, 15 Oct 2021 16:00:00 +0100",
+         "title" : "New: Trent's Tactics - Back-rank checkmate"
+      },
+      {
+         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
+         "pubDate" : "Fri, 15 Oct 2021 15:43:00 +0100",
+         "title" : "Challengers Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "From the 15th 21st October 2021 &#8212; Name Group George Zhao U8 Open Kushal Jakhria U8 Open Bodhana Sivanandan U8 Girls Zoe Veselow U8...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-at-the-european-youth-hybrid-championship/",
+         "pubDate" : "Fri, 15 Oct 2021 14:32:51 +0000",
+         "title" : "England at the European Youth Hybrid Championship"
+      },
+      {
+         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is in second place, a half point back, as she also won her round-8 encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r8",
+         "pubDate" : "Fri, 15 Oct 2021 15:20:00 +0100",
+         "title" : "US Championships: Yip scores third win in a row"
+      },
+      {
+         "description" : "Round four of the Chess Super League saw three players dramatically losing their games due to offering a draw before move 40, which is prohibited at this tournament. With one round to go in the round-robin phase, the Kingslayers are in the lead. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-4-draw-drama",
+         "pubDate" : "Fri, 15 Oct 2021 06:31:00 -0700",
+         "title" : "Chess Super League R4: Draw Drama"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87041912.cms\" />Indian chess maestro Viswanathan Anand will be one of the official commentators for the FIDE World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai from November 24.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-do-commentary-during-world-chess-championship-match/articleshow/87041912.cms",
+         "pubDate" : "Fri, 15 Oct 2021 18:23:01 +0530",
+         "title" : "Viswanathan Anand to do commentary during world chess championship match"
+      },
+      {
          "description" : " Before we can finish our student game, we have to look at an extremely important part of the middle-game, the transition into the endgame. For this reason, I am going to delay the finish of our game until the week after next because I want to go over this transition in detail. It is very <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\">A Foundation for Beginners Thirty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-eight/",
          "pubDate" : "Fri, 15 Oct 2021 09:16:27 +0000",
          "title" : "A Foundation for Beginners Thirty Eight"
-      },
-      {
-         "description" : "In Round 10 of the Bundesliga, the teams of Baden-Baden and Hockenheim, who share the lead in the table, both won smoothly: Baden-Baden defeated Aachen 7.5-0.5 and Hockenheim beat Kiel 5.5-2.5. Friday morning the tight programme of the finals continues: Baden-Baden plays Augsburg, Hockenheim faces Dresden, and anything other than two more victories by the favourites would be a big surprise. Round 11 starts at 10:00 CEST (4:00 ET, 8:00 UTC. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
-         "pubDate" : "Fri, 15 Oct 2021 09:25:49 +0100",
-         "title" : "Bundesliga live: Round 11"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> as a <a href=\"https://www.chesstech.org/2021/inside-chesscom/\">power user of cloud services and a global success story</a> is featured ahead of the forthcoming <strong>Google Cloud Next</strong> <a href=\"https://cloud.withgoogle.com/next\">online conference</a>. </div> ",
@@ -130,14 +178,6 @@ news_feed (
          "title" : "Mongolia vs. Zimbabwe in the final, Georgia dominates women's tournament"
       },
       {
-         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is still in second place, a half point back, as she also won her round-8 encounter. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Thu, 14 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 8"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -250,10 +290,10 @@ news_feed (
          "title" : "Challengers decide their winner"
       },
       {
-         "description" : "This year's British Championships will start on Saturday 2nd October and will run for two weeks at venues in Hull and Milton Keynes. You can...",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2021-2/",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Thu, 14 Oct 2021 08:00:40 +0000",
          "title" : "British Chess Championships 2021"
       },
@@ -1226,14 +1266,6 @@ news_feed (
          "title" : "Silence has never sounded so good"
       },
       {
-         "description" : "We hope to be able to run a number of National Schools Junior Team Challenege local events, either face-to-face or as online events. If you...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nscc-junior-team-challenge/",
-         "pubDate" : "Mon, 04 Oct 2021 08:38:04 +0000",
-         "title" : "NSCC Junior Team Challenge"
-      },
-      {
          "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1424,14 +1456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1367",
          "pubDate" : "Fri, 01 Oct 2021 23:56:04 +0000",
          "title" : "India will face off CFR Team for the gold"
-      },
-      {
-         "description" : "Tournament-favorites Russia defeated the Ukraine 2.5-1.5 and 3-1 in the two rounds of the semifinals to score a 2-0 win by match points to reach the finals of the World Women&#39;s Team Championship being held at Sitges, Spain. In the other semifina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-womens-team-championship-semifinals",
-         "pubDate" : "Fri, 01 Oct 2021 16:19:00 -0700",
-         "title" : "FIDE World Women's Team Championship SF: Russia, India Reach Finals"
       },
       {
          "description" : "Yes, it is true. But not to worry, the news review crew will be back next week with an \"upgrade\" of this format. Lawrence and Arne will pick a chess related theme to talk about thoroughly. In the last news review episode, Lawrence takes a look at three major tournaments: TePe Sigeman, Sharjah Masters, and the Meltwater finals, the progressing of the \"elo\" ranking, and the Steinitz/Lasker resting places.",
@@ -2088,22 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1347",
          "pubDate" : "Fri, 24 Sep 2021 16:36:25 +0000",
          "title" : "FIDE announces World Chess Championship for People with Disabilities"
-      },
-      {
-         "description" : "With one round to go, the team of Mednyi Vsadnik managed to take the sole lead at the European Club Cup in Struga, North Macedonia. The Russian club is one team point ahead of AVE Bovy Nor (Czechia), and has good chances to win the event. In the last round they play against Team XtraCon from Denmark. In the women's event South Ural (Russia) leads with two team points and the much better tiebreak and is almost certain to become first. | The seventh and final round start starts at 15.00 CEST (9.00 ET, 18.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2021-live",
-         "pubDate" : "Fri, 24 Sep 2021 14:55:00 +0100",
-         "title" : "European Club Cup, Round 7 - Live!"
-      },
-      {
-         "description" : "The organisers of the TePe Sigeman & Co tournament once again put together a highly interesting field with young and experienced grandmasters. The players did not disappoint and the first day brought four interesting games and four decisions. | Photos: Lars OA Hedlund (Tournament page)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sigeman-four-decisions-in-round-1",
-         "pubDate" : "Fri, 24 Sep 2021 12:58:28 +0100",
-         "title" : "Sigeman: Four decisions in round 1"
       }
    ]
 }
