@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iniyan-wins-la-nucia-open-2021",
+         "pubDate" : "Fri, 15 Oct 2021 21:45:00 +0100",
+         "title" : "Iniyan clinches La Nucia Open"
+      },
+      {
+         "description" : "Our beloved IM from London returns, but not with the \"News Review\" show. Lawrence's \"Trent's Tactics\" is teaching us about the world of tactics. In this episode, Lawrence will show us different tactics about the back-rank mate. And even though we know the motif now, some of the examples which Lawrence picked are still very challenging! In the last ten minutes, we start from basically \"zero\" and raise the rating to over 2000, in the ChessBase training section.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics",
+         "pubDate" : "Fri, 15 Oct 2021 21:00:00 +0100",
+         "title" : "New: Trent's Tactics - Back-rank checkmate"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Six Dutch players, including 2019 champion <strong>Lucas van Foreest</strong>, tried to overcome the regulations of the <strong>Dutch Championship</strong> that has <a href=\"https://schaken.nl/nk-schaken\">begun this Friday</a> requiring a Corona-passport (being fully vaccinated of recovered from a Covid-19 infection) or daily tests. The court <a href=\"https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBNHO:2021:8954\">upheld the regulations and condemned the plaintiffs</a> to pay €3,364 to the <strong>Dutch Chess Federation</strong> and the town of Hoogeveen. Lucas van Foreest, who is known to love publicity, was called a hero by the righ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/dutch-players-fight-corona-passport/",
+         "pubDate" : "Fri, 15 Oct 2021 20:16:04 +0100",
+         "title" : "Dutch players fight Corona-passport and lose in court"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Mike Truran</strong>, the Executive Director of the <strong>English Chess Federation</strong>, and his challenger <strong>Malcolm Pein</strong> have made a <a href=\"https://mailchi.mp/a4c5800f6ad3/ecf-election-update-from-malcolm-pein\">power-sharing</a> agreement, <a href=\"https://www.chess.com/blog/timpeterwall/and-the-winner-is-english-chess\">foregoing a divisive vote</a> this Saturday. Truran stays at the helm, while Pein gets more funding and responsibility as Director of both International Chess and External Relations. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/agreement-instead-of-divisive-vote/",
+         "pubDate" : "Fri, 15 Oct 2021 19:44:12 +0100",
+         "title" : "Agreement instead of divisive vote"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
          "pubDate" : "Fri, 15 Oct 2021 16:25:49 +0100",
          "title" : "Bundesliga live: Round 12"
-      },
-      {
-         "description" : "Our beloved IM from London returns, but not with the \"News Review\" show. Lawrence's \"Trent's Tactics\" is teaching us about the world of tactics. In this episode, Lawrence will show us different tactics about the back-rank mate. And even though we know the motif now, some of the examples which Lawrence picked are still very challenging! In the last ten minutes, we start from basically \"zero\" and raise the rating to over 2000, in the ChessBase training section.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics",
-         "pubDate" : "Fri, 15 Oct 2021 16:00:00 +0100",
-         "title" : "New: Trent's Tactics - Back-rank checkmate"
       },
       {
          "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
@@ -464,22 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-studies-app-fun-beauty-and-wonder-with-video",
          "pubDate" : "Wed, 13 Oct 2021 08:35:15 +0100",
          "title" : "Endgame Studies app - fun, beauty, and wonder (with video!)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 16 competitions of the French Youth Championships later this month can <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13598\">best be followed on a new app</a> that has been developed by <strong>Datapix</strong> on behalf of the <strong>French Chess Federation</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/french-youth-championship-on-app/",
-         "pubDate" : "Wed, 13 Oct 2021 06:48:29 +0100",
-         "title" : "French youth championship on app"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> held an Extraordinary General Assembly, after the regular one could not complete the agenda. The meeting was partly live-streamed on <strong>Twitch</strong>. The voting was <a href=\"https://www.schachbund.de/news/kurzer-rueckblick-auf-den-dsb-kongress-am-9-oktober.html\">accelerated by electronic devices</a>. A decision on member and rating administration was postponed after criticism of sourcing it out to a closed source system provider. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/german-assembly-went-digital/",
-         "pubDate" : "Wed, 13 Oct 2021 06:45:23 +0100",
-         "title" : "German assembly went digital"
       },
       {
          "description" : "In round six of the 2021 U.S. Chess Championship, the two leaders, GM Aleksandr Lenderman and GM Ray Robson played each other and drew&#38;mdash;they maintain their shared first place with 4/6. GM Sam Sevian defeated GM Fabiano Caruana and now shares ...",
