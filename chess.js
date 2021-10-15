@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Before we can finish our student game, we have to look at an extremely important part of the middle-game, the transition into the endgame. For this reason, I am going to delay the finish of our game until the week after next because I want to go over this transition in detail. It is very <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\">A Foundation for Beginners Thirty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-eight/",
+         "pubDate" : "Fri, 15 Oct 2021 09:16:27 +0000",
+         "title" : "A Foundation for Beginners Thirty Eight"
+      },
+      {
          "description" : "In Round 10 of the Bundesliga, the teams of Baden-Baden and Hockenheim, who share the lead in the table, both won smoothly: Baden-Baden defeated Aachen 7.5-0.5 and Hockenheim beat Kiel 5.5-2.5. Friday morning the tight programme of the finals continues: Baden-Baden plays Augsburg, Hockenheim faces Dresden, and anything other than two more victories by the favourites would be a big surprise. Round 11 starts at 10:00 CEST (4:00 ET, 8:00 UTC. Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,15 @@ news_feed (
          "title" : "Bundesliga live: Round 11"
       },
       {
-         "description" : " One win from his first six matches in St Louis has left the American lagging well behind Ding Liren in the world rankings After seven of the 11 rounds at the $194,000 (&pound;141,522)<strong> </strong>US championship in St Louis, which finishes on Monday, Aleksandr Lenderman, Samuel Sevian and the defending champion Wesley So shared the lead on 4.5/7. This close race will probably only be decided in the final rounds. Games are <a href=\"https://www.chess.com/article/view/us-chess-championships\" title=\"\">free to watch live daily</a> from 7pm. The big shock has been the poor showing of top-seeded Fabiano Caruana, whose <a href=\"https://www.theguardian.com/sport/2014/sep/05/leonard-barden-on-ch",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> as a <a href=\"https://www.chesstech.org/2021/inside-chesscom/\">power user of cloud services and a global success story</a> is featured ahead of the forthcoming <strong>Google Cloud Next</strong> <a href=\"https://cloud.withgoogle.com/next\">online conference</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/google-cloud-features-chesscom/",
+         "pubDate" : "Fri, 15 Oct 2021 08:25:23 +0100",
+         "title" : "Google Cloud features Chess.com"
+      },
+      {
+         "description" : " One win from his first six games in St Louis has left the American lagging well behind Ding Liren in the world rankings After eight of the 11 rounds at the $194,000 (&pound;141,522)<strong> </strong>US championship in St Louis, which finishes on Monday, Aleksandr Lenderman, Samuel Sevian and the defending champion Wesley So shared the lead on 5/8. This close race will probably only be decided in the final rounds. Games are <a href=\"https://www.chess.com/article/view/us-chess-championships\" title=\"\">free to watch live daily</a> from 7pm. The big shock has been the poor showing of top-seeded Fabiano Caruana, whose <a href=\"https://www.theguardian.com/sport/2014/sep/05/leonard-barden-on-chess\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/oct/15/chess-fabiano-caruana-trails-us-championship-loses-world-no-2-spot",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
       },
       {
-         "description" : "Round eight of the 2021 U.S. Chess Championship was very peaceful, as all six games ended in a draw. GM Alexander Lenderman saved a lost position versus GM Dariusz Swiercz, which enabled him to stay in lead alongside GMs Wesley So and Sam Sevian. ...",
+         "description" : "Round eight of the 2021 U.S. Chess Championship was very peaceful, as all six games ended in a draw. GM Aleksandr Lenderman saved a lost position versus GM Dariusz Swiercz, which enabled him to stay in lead alongside GMs Wesley So and Sam Sevian. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-8",
@@ -266,7 +282,7 @@ news_feed (
          "title" : "Carissa Yip: Blasting through Zatonskih"
       },
       {
-         "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
+         "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Aleksandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-7",
@@ -402,15 +418,7 @@ news_feed (
          "title" : "German assembly went digital"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Georg Meier</strong>, the fifth-ranked player in Germany, <a href=\"https://www.schachbund.de/news/georg-meier-wechselt-die-foederation.html\">will represent Uruguay</a>, the home country of his mother, from 1 November, even though the <strong>Uruguyan Chess Federation</strong> cannot pay him or provide him good tournaments. The 34-year-old is fed up with bullying by players and officials. He is the second player from the team who won the European Team Championship in 2011 to leave after <strong>Arkadij Naiditsch</strong>, who wanted to return after representing Azerbaijan and was refused by the <strong>German Chess Federation</strong>. </div>",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/meier-leaves-german-federation/",
-         "pubDate" : "Wed, 13 Oct 2021 06:35:14 +0100",
-         "title" : "Meier leaves German federation"
-      },
-      {
-         "description" : "In round six of the 2021 U.S. Chess Championship, the two leaders, GM Alexander Lenderman and GM Ray Robson played each other and drew&#38;mdash;they maintain their shared first place with 4/6. GM Sam Sevian defeated GM Fabiano Caruana and now shares ...",
+         "description" : "In round six of the 2021 U.S. Chess Championship, the two leaders, GM Aleksandr Lenderman and GM Ray Robson played each other and drew&#38;mdash;they maintain their shared first place with 4/6. GM Sam Sevian defeated GM Fabiano Caruana and now shares ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-6",
@@ -514,7 +522,7 @@ news_feed (
          "title" : "The fourth phase of the game"
       },
       {
-         "description" : "In round five of the 2021 U.S. Chess Championship, GM Alexander Lenderman defeated GM Sam Sevian while the top seed GM Fabiano Caruana unexpectedly lost to GM Daniel Naroditsky. As a result, Lenderman and GM Ray Robson are leading the tournament w...",
+         "description" : "In round five of the 2021 U.S. Chess Championship, GM Aleksandr Lenderman defeated GM Sam Sevian while the top seed GM Fabiano Caruana unexpectedly lost to GM Daniel Naroditsky. As a result, Lenderman and GM Ray Robson are leading the tournament w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-5",
@@ -2096,22 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sigeman-four-decisions-in-round-1",
          "pubDate" : "Fri, 24 Sep 2021 12:58:28 +0100",
          "title" : "Sigeman: Four decisions in round 1"
-      },
-      {
-         "description" : "Tomorrow, Saturday, 25 September, ten players will play the final tournament of the Champions Chess Tour 2020/2021: the eight winners of the individual tournaments of the series and two players who received wildcards. Unlike the previous tournaments, the final will be played as a round robin with no knock-out stage. First prize is 100,000 USD.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals",
-         "pubDate" : "Fri, 24 Sep 2021 12:17:58 +0100",
-         "title" : "Champions Chess Tour: Finals"
-      },
-      {
-         "description" : " <p class=\"lead\">Pro Members of the <a href=\"http://chessarena.com/?utm_source=google&utm_medium=article&utm_campaign=announcement&utm_content=link&utm_term=worldchess\">FIDE Online Arena</a>, the official FIDE chess gaming platform will now see their FOA rating and title included in their profile on <a href=\"http://www.fide.com/?utm_source=google&utm_medium=article&utm_campaign=announcement&utm_content=link&utm_term=worldchess\">FIDE.com</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600-min.png\" width=\"1600\" height=\"1182\" alt=\"\" /> </div> Many players begin their chess journey by playing online, and FIDE Online Arena aims to make the online experience rese",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/foa-rating-and-title-are-now-part-of-your-fide-profile/",
-         "pubDate" : "Fri, 24 Sep 2021 10:51:41 +0000",
-         "title" : "FOA Rating and Title Are Now Part of Your FIDE Profile"
       }
    ]
 }
