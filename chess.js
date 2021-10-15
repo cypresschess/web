@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-favorite-chess-clubs-parkside-chat",
+         "pubDate" : "Fri, 15 Oct 2021 18:16:25 +0000",
+         "title" : "2021 U.S. Chess Championships: Favorite Chess Clubs | Parkside Chat"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-8",
+         "pubDate" : "Fri, 15 Oct 2021 18:16:25 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 8"
+      },
+      {
+         "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-satisfying-conclusion",
+         "pubDate" : "Fri, 15 Oct 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: A satisfying conclusion"
+      },
+      {
+         "description" : "GM Nikita Vitiugov is the sole leader at the Russian Championship Superfinal on the rest day, after six rounds. In the women&#39;s section, there&#39;s a three-way tie among GM Valentina Gunina, IM Evgenija Ovod, and IM Polina Shuvalova. How to w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-russian-championship-superfinal-round-6",
+         "pubDate" : "Fri, 15 Oct 2021 09:47:00 -0700",
+         "title" : "Russian Championship Superfinal R6: Vitiugov In The Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1386",
+         "pubDate" : "Fri, 15 Oct 2021 15:34:00 +0000",
+         "title" : "Mongolia wins the first Intercontinental Online Championship for Prisoners"
+      },
+      {
          "description" : "In the Bundesliga everything seems to be headed for a showdown in round 14 when the two leaders Hockenheim and Baden-Baden will meet. At any rate, in round 11 both teams won their matches smoothly: Hockenheim defeated Dresden 6-2 and Baden-Baden won 6-2 against Augsburg. Round 12 starts at 17:00 CEST (9:00 ET, 15:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +226,6 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-9-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-9-lichessorg",
-         "pubDate" : "Thu, 14 Oct 2021 18:15:46 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 9 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -312,14 +344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r5",
          "pubDate" : "Thu, 14 Oct 2021 03:20:00 +0100",
          "title" : "Superfinals: Vitiugov beats Andreikin to grab the lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Carissa Yip during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-blasting-through-zatonskih\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ielj1EUk2MM.jpg?itok=wLByxrt6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-yip-blasting-through-zatonskih",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Carissa Yip: Blasting through Zatonskih"
       },
       {
          "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Aleksandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also w...",
@@ -1442,14 +1466,6 @@ news_feed (
          "title" : "On the dark squares"
       },
       {
-         "description" : "Earlier this week, FIDE, the International Chess Federation, announced a sponsorship for women&#39;s chess with Establishment Labs, a company producing and marketing a breast implant product line branded as Motiva&#38;reg;. This is the first-ever corporat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-breast-implant-company-as-womens-world-championship-sponsor",
-         "pubDate" : "Fri, 01 Oct 2021 17:09:00 -0700",
-         "title" : "FIDE Announces Breast Implant Company As Women's World Championship Sponsor"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,46 +2088,6 @@ news_feed (
          "link" : "https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/",
          "pubDate" : "Sat, 25 Sep 2021 06:28:29 +0000",
          "title" : "Mednyi Vsadnik and South Ural win European Open and Women Chess Club Cup 2021"
-      },
-      {
-         "description" : " The Meltwater Champions Chess Tour Final takes place on Chess24 24th September to 4th October 2021. The culmination of the online chess tour that started with the Skilling Open in November last year. The event is a 10 player single round robin where the points come from 4 game rapid mini-matches. There are three points for a win in each match, if drawn there are tie-breaks and then the split is 2 points to the winner of the TB 1 to the loser. However the players also carry forward points earned from the tour as a whole which means Carlsen starts with 16.5 points, So 12, Aronian 8, Radjabov 6, Giri 5.5, Nakamura 4, Artemiev 3.5, MVL 2.5, Mamedyarov 0.5 and Duda 0. It's hard to see beyond Car",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-final-2021",
-         "pubDate" : "Fri, 24 Sep 2021 22:32:00 +0400",
-         "title" : "Meltwater Champions Chess Tour Final 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1346",
-         "pubDate" : "Fri, 24 Sep 2021 17:49:19 +0000",
-         "title" : "Magnus Carlsen: \"Ian can be very difficult to play against\""
-      },
-      {
-         "description" : "Lawrence Trent has taken a well-deserved holiday, but doesn't want to forget the good times and travels to the Bahamas in the News Review. Jokes aside, he takes a closer look at the lawsuit of Nona Gaprindashvili and the Netflix show \"Queens Gambit\". Furthermore, the British IM wants to watch the new film about Karpov and Korchnoi, not only because he played against Korchnoi in the past.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-3",
-         "pubDate" : "Fri, 24 Sep 2021 18:14:20 +0100",
-         "title" : "Lawrence's statement about Beth and Nona, Korchnoi and Karpov, the \"karp\""
-      },
-      {
-         "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-who-will-rid-me-of-this-turbulent-priest",
-         "pubDate" : "Fri, 24 Sep 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Who will rid me of this turbulent priest?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1347",
-         "pubDate" : "Fri, 24 Sep 2021 16:36:25 +0000",
-         "title" : "FIDE announces World Chess Championship for People with Disabilities"
       }
    ]
 }
