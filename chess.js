@@ -42,6 +42,14 @@ news_feed (
          "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
       },
       {
+         "description" : "Round eight of the 2021 U.S. Chess Championship was very peaceful, as all six games ended in a draw. GM Alexander Lenderman saved a lost position versus GM Dariusz Swiercz, which enabled him to stay in lead alongside GMs Wesley So and Sam Sevian. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-8",
+         "pubDate" : "Thu, 14 Oct 2021 15:05:00 -0700",
+         "title" : "US Chess Championships R8: Lenderman Survives Scare, Everyone Draws"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championshis-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
          "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
-      },
-      {
-         "description" : "In round six of the Meltwater Champions Chess Tour Finals, GM Magnus Carlsen reinforced his lead as he beat GM Anish Giri in the blitz tiebreaks, but GM Teimour Radjabov kept the chase alive, having won 3-1 against GM Wesley So. Besides those ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-6",
-         "pubDate" : "Fri, 01 Oct 2021 06:29:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 6: Carlsen Reinforces His Lead"
       },
       {
          "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
