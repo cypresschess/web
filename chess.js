@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Round 10 of the Bundesliga, the teams of Baden-Baden and Hockenheim, who share the lead in the table, both won smoothly: Baden-Baden defeated Aachen 7.5-0.5 and Hockenheim beat Kiel 5.5-2.5. Friday morning the tight programme of the finals continues: Baden-Baden plays Augsburg, Hockenheim faces Dresden, and anything other than two more victories by the favourites would be a big surprise. Round 11 starts at 10:00 CEST (4:00 ET, 8:00 UTC. Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
+         "pubDate" : "Fri, 15 Oct 2021 09:25:49 +0100",
+         "title" : "Bundesliga live: Round 11"
+      },
+      {
+         "description" : " One win from his first six matches in St Louis has left the American lagging well behind Ding Liren in the world rankings After seven of the 11 rounds at the $194,000 (&pound;141,522)<strong> </strong>US championship in St Louis, which finishes on Monday, Aleksandr Lenderman, Samuel Sevian and the defending champion Wesley So shared the lead on 4.5/7. This close race will probably only be decided in the final rounds. Games are <a href=\"https://www.chess.com/article/view/us-chess-championships\" title=\"\">free to watch live daily</a> from 7pm. The big shock has been the poor showing of top-seeded Fabiano Caruana, whose <a href=\"https://www.theguardian.com/sport/2014/sep/05/leonard-barden-on-ch",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/oct/15/chess-fabiano-caruana-trails-us-championship-loses-world-no-2-spot",
+         "pubDate" : "Fri, 15 Oct 2021 07:00:22 +0000",
+         "title" : "Chess: Fabiano Caruana trails at US championship and loses world No 2 spot"
+      },
+      {
+         "description" : " Here is a recent Traxler where Bxf7+ (the chicken line) is still punished by Black. (Thanks to FM Rupert Jones for sending me this game) <br /> <b>Hattersley,Sam - Shapland,David [C57]</b><br />Leeds Uni CC 12.10.2021 <script>new PgnViewer( { boardName: \"game1282\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Bxf7+ Ke7 6.Bd5 Rf8 7.O-O d6 8.h3 Qe8 9.d3 Qg6 10.Kh1 Nh5 11.Qe1 Nd4 12.Qd1 h6 13.c3 hxg5 14.cxd4 Bxd4 15.Qe1 Nf4 16.Bxf4 Rxf4 17.Nc3 Bxh3 18.Ne2 Bxg2+ 19.Kxg2 Qh5 20.Ng3 Qf3+ 21.Kg1 Qxg3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1282-container\"></div><div id=\"game1282-moves\"></div><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/bxf7-punished-again.html",
+         "pubDate" : "Fri, 15 Oct 2021 05:25:00 +0000",
+         "title" : "Bxf7+ punished again"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-fall-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-fall-4",
+         "pubDate" : "Fri, 15 Oct 2021 03:16:00 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Fall #4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Gulrukhbegim Tokhirjonova during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-gulrukhbegim-tokhirjonova-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HE951MnHXkk.jpg?itok=lvXjtm0V\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-gulrukhbegim-tokhirjonova-interview-round-8",
+         "pubDate" : "Fri, 15 Oct 2021 03:16:00 +0000",
+         "title" : "2021 U.S. Chess Championships: Gulrukhbegim Tokhirjonova Interview | Round 8"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Carissa Yip during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-making-foisor-crack-under-pressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1Jf02GTkveA.jpg?itok=E1-ASR0X\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -122,14 +162,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - A winning mind set"
       },
       {
-         "description" : "On Thursday, 14 October 2021, at the Maritim proArte Hotel, Friedrichstraße 151 in Berlin, the German Bundesliga started to play the last seven rounds of the 2019/2020 season. Due to the Corona pandemic the season was postponed again and again but now the last rounds will be played until 17 October. 15 clubs meet in Berlin, and they come with a number of top players such as Vishy Anand, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov to name just a few. Round 9 began Thursday, 10:00 CEST (4:00 ET, 8:00 UTC), round 10 begins Thursday, 17:00 CEST (11:00 ET, 15:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
-         "pubDate" : "Thu, 14 Oct 2021 16:51:49 +0100",
-         "title" : "Bundesliga live: Round 10"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,22 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-yip-blasting-through-zatonskih",
          "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
          "title" : "Carissa Yip: Blasting through Zatonskih"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Sevian during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-sevian-kg2-was-end-bruzon\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/s2FNHkonOCY.jpg?itok=UYZ3QpZx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-sevian-kg2-was-end-bruzon",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Sam Sevian: Kg2 was the End for Bruzon!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Irina Krush during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-domination-eswaran\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1OsHX-KstU.jpg?itok=JX2Nv2fI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-domination-eswaran",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Irina Krush: The Domination of Eswaran"
       },
       {
          "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/foa-rating-and-title-are-now-part-of-your-fide-profile/",
          "pubDate" : "Fri, 24 Sep 2021 10:51:41 +0000",
          "title" : "FOA Rating and Title Are Now Part of Your FIDE Profile"
-      },
-      {
-         "description" : " World champion's busy schedule contrasts with rival Ian Nepomniachtchi's closed doors preparation As November's 14-game, $2m 2021 world championship match in Dubai approaches, Norway's title holder, Magnus Carlsen, is continuing his busy tournament and media schedule, while his Russian challenger, Ian Nepomniachtchi, is pulling out of events or playing them in second or third gear. Nepomniachtchi, the current world No 4, is believed to have assembled a strong team of aides, notably including the 2004 title challenger and popular online commentator Peter Leko, plus the cream of Russian analytical talent. Fide is ostensibly neutral, but there is little doubt that its energetic president, Arka",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/sep/24/chess-carlsen-wins-in-norway-and-grinds-in-91-moves-before-2m-match",
-         "pubDate" : "Fri, 24 Sep 2021 07:00:11 +0000",
-         "title" : "Chess: Carlsen wins in Norway and grinds in 91 moves before $2m match"
       }
    ]
 }
