@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Carissa Yip during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-making-foisor-crack-under-pressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1Jf02GTkveA.jpg?itok=E1-ASR0X\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-yip-making-foisor-crack-under-pressure",
+         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
+         "title" : "Carissa Yip: Making Foisor Crack Under Pressure"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Katerina Nemcova during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-katerina-nemcova-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/isKcmItjMdc.jpg?itok=Wtv6l1N1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-katerina-nemcova-interview-round-8",
+         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Katerina Nemcova Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Alex Lenderman during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2201-us-chess-championships-alex-lenderman-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hCN2e74HPfA.jpg?itok=j-LI0fwq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2201-us-chess-championships-alex-lenderman-interview-round-8",
+         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
+         "title" : "2201 U.S. Chess Championships: Alex Lenderman Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Anna Zatonskih during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-anna-zatonskih-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nBZab7j871Q.jpg?itok=VHi9SLKr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-anna-zatonskih-interview-round-8",
+         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Anna Zatonskih Interview | Round 8"
+      },
+      {
          "description" : "Praggnanandhaa and Christopher Yoo advanced to the semifinals of the Julius Baer Challengers Tour Finals after knocking out Volodar Murzin and Lei Tingjie respectively. While Pragg obtained a commanding 3-0 victory, Yoo was inches away from losing more than once in a match that was decided in blitz tiebreaks. The other two quarterfinal matches will be played on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,38 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/irina-krush-domination-eswaran",
          "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
          "title" : "Irina Krush: The Domination of Eswaran"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Anna Sharevich during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anna-sharevich-thalia-was-%E2%80%9Csmooth-game%E2%80%9D\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yxeoeub-lT4.jpg?itok=lvTcynV5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anna-sharevich-thalia-was-%E2%80%9Csmooth-game%E2%80%9D",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Anna Sharevich: Thalia was a \"Smooth Game\""
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-burke-knows-his-theory\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OnZ9CLlXWpk.jpg?itok=S5pTUdxe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-burke-knows-his-theory",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Wesley So: Burke Knows his Theory!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-draw-danya\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/67b5VcJCPTY.jpg?itok=8xkvqDoo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-draw-danya",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Leinier Dominguez: Draw with Danya"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Megan Lee during Round 7 of the 2021 U.S. Chess Championships. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/megan-lee-paikidze-was-unfamiliar-opening\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q9Ho7aZIoEw.jpg?itok=zgKFXkdV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-lee-paikidze-was-unfamiliar-opening",
-         "pubDate" : "Thu, 14 Oct 2021 00:15:12 +0000",
-         "title" : "Megan Lee: Paikidze was Unfamiliar with the Opening"
       },
       {
          "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Alexandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also wi...",
