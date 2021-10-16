@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a rather short day at the office for the semifinalists of the Julius Baer Challengers Tour Finals, as Praggnanandhaa and Christopher Yoo only needed three games to knock out Vincent Keymer and Awonder Liang respectively. After an astounding win by Pragg, Vladimir Kramnik was full of praise for his play, even comparing him with Magnus Carlsen. \"He's playing almost like a real world champion, not a future one\", said Kramnik.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-3",
+         "pubDate" : "Sun, 17 Oct 2021 00:15:00 +0100",
+         "title" : "Challengers Tour Finals: Pragg and Yoo make it through"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Round 9 interview with WGM Tatev Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/slash-and-burn-style-interview-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1zKOHngxXgE.jpg?itok=hVc8m-vh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/slash-and-burn-style-interview-wgm-tatev-abrahamyan",
+         "pubDate" : "Sat, 16 Oct 2021 21:17:11 +0000",
+         "title" : "Slash and Burn Style - Interview with WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Round 9 interview with WIM Carissa Yip </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leader-womens-champs-im-carissa-yip\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/trtywO1VfLI.jpg?itok=W8LRJVJm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/leader-womens-champs-im-carissa-yip",
+         "pubDate" : "Sat, 16 Oct 2021 21:17:11 +0000",
+         "title" : "Leader of the Women's Champs - IM Carissa Yip"
+      },
+      {
          "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is still in second place, a half point back, as she also won her round-8 encounter. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,28 +42,12 @@ news_feed (
          "title" : "The resilience of Wesley So: 2-time US Chess Champion"
       },
       {
-         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
-         "pubDate" : "Sat, 16 Oct 2021 15:55:00 +0100",
-         "title" : "Challengers Chess Tour Finals - Live!"
-      },
-      {
          "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/10/the-return-of-street-chess.html",
          "pubDate" : "Sat, 16 Oct 2021 11:53:00 +0000",
          "title" : "The return of Street Chess"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Sat, 16 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
       },
       {
          "description" : " <p class=\"lead\">New features and updates for the FIDE Online Arena, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest. <h2>The board just got bigger!</h2> The board became much bigger - the design has been updated following users' feedback. The signature Arena interface stays the same, with the chess board in the center of the screen (just like in over-the-board games!), menu and options are on the left of the board, and the notation - on the right. The playing area looks beautiful. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A1EF638C-4616-436C-A999-355C824B6305.jpeg\" width=\"2388\" height=\"1",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Disaster on the diagonal"
       },
       {
-         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
-         "pubDate" : "Sat, 16 Oct 2021 08:55:00 +0100",
-         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
-      },
-      {
          "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that have advanced to the semifinals of the Chess Super League that will be played on Saturday. The two teams that were knocked out in the round-robin phase are Kraz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/iniyan-wins-la-nucia-open-2021",
          "pubDate" : "Fri, 15 Oct 2021 21:45:00 +0100",
          "title" : "Iniyan clinches La Nucia Open"
+      },
+      {
+         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
+         "pubDate" : "Fri, 15 Oct 2021 21:30:00 +0100",
+         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
       },
       {
          "description" : "Our beloved IM from London returns, but not with the \"News Review\" show. Lawrence's \"Trent's Tactics\" is teaching us about the world of tactics. In this episode, Lawrence will show us different tactics about the back-rank mate. And even though we know the motif now, some of the examples which Lawrence picked are still very challenging! In the last ten minutes, we start from basically \"zero\" and raise the rating to over 2000, in the ChessBase training section.",
@@ -280,22 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-katerina-nemcova-interview-round-8",
          "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
          "title" : "2021 U.S. Chess Championships: Katerina Nemcova Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Alex Lenderman during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2201-us-chess-championships-alex-lenderman-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hCN2e74HPfA.jpg?itok=j-LI0fwq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2201-us-chess-championships-alex-lenderman-interview-round-8",
-         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
-         "title" : "2201 U.S. Chess Championships: Alex Lenderman Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Anna Zatonskih during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-anna-zatonskih-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nBZab7j871Q.jpg?itok=VHi9SLKr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-anna-zatonskih-interview-round-8",
-         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
-         "title" : "2021 U.S. Chess Championships: Anna Zatonskih Interview | Round 8"
       },
       {
          "description" : "Praggnanandhaa and Christopher Yoo advanced to the semifinals of the Julius Baer Challengers Tour Finals after knocking out Volodar Murzin and Lei Tingjie respectively. While Pragg obtained a commanding 3-0 victory, Yoo was inches away from losing more than once in a match that was decided in blitz tiebreaks. The other two quarterfinal matches will be played on Friday.",
@@ -2064,22 +2056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-chess-tour-finals-strong-start-by-magnus-carlsen/articleshow/86524296.cms",
          "pubDate" : "Sun, 26 Sep 2021 10:50:23 +0530",
          "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1350",
-         "pubDate" : "Sat, 25 Sep 2021 21:20:17 +0000",
-         "title" : "Fast-start for Carlsen on first day of Finals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1349",
-         "pubDate" : "Sat, 25 Sep 2021 20:41:53 +0000",
-         "title" : "FIDE World Championship 2021: Schedule, hotels, and health & safety measures"
       }
    ]
 }
