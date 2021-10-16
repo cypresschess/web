@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Resilience is the ability to stand strong against adversity and bounce back from stressful or tragic life events... and it's a trademark of the two-time US chess champion Wesley So. Wesley was ranked number two in the world and a mainstay in the top ten... while his peak rating of 2822 FIDE made him the fifth highest rated player in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/resilience-wesley-so-us-champion",
+         "pubDate" : "Sat, 16 Oct 2021 16:51:27 +0000",
+         "title" : "The resilience of Wesley So: 2-time US Chess Champion"
+      },
+      {
          "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
          "pubDate" : "Sat, 16 Oct 2021 15:55:00 +0100",
          "title" : "Challengers Chess Tour Finals - Live!"
-      },
-      {
-         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
-         "pubDate" : "Sat, 16 Oct 2021 14:10:00 +0100",
-         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
       },
       {
          "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
@@ -64,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/disaster-on-the-diagonal",
          "pubDate" : "Sat, 16 Oct 2021 09:00:00 +0100",
          "title" : "Disaster on the diagonal"
+      },
+      {
+         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
+         "pubDate" : "Sat, 16 Oct 2021 08:55:00 +0100",
+         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
       },
       {
          "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that have advanced to the semifinals of the Chess Super League that will be played on Saturday. The two teams that were knocked out in the round-robin phase are Kraz...",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russia-wins-womens-world-team-championship-2021",
          "pubDate" : "Mon, 04 Oct 2021 14:00:00 +0100",
          "title" : "Chess Federation of Russia wins the Women's World Team Championship"
-      },
-      {
-         "description" : "Teimour Radjabov said \"this is the only day I don't enjoy my win\" after he defeated countryman Shakhriyar Mamedyarov to overtake Wesley So in the race for the $60,000 2nd place in the Meltwater Champions Chess Tour. That remarkable 5th win in a row in rapid chess meant that even though Wesley beat Jan-Krzysztof Duda in blitz chess he fell behind his rival. Wesley also needs to look over his shoulder to Levon Aronian, who said he \"didn't have much trouble\" beating Magnus Carlsen 3:1!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-8-radjabov-overtakes-so",
-         "pubDate" : "Mon, 04 Oct 2021 12:28:54 +0000",
-         "title" : "MCCT Finals 8: Radjabov overtakes So"
       },
       {
          "description" : " This week it was the turn of the 'boys' to play in the East Asian Junior event (NB the event is titled 'boys' rather than 'open'). There were 7 players from the ACT taking part, and for all of them, this was their first international event. The best performed players were Dev Raichura and Jerry Cheng, in the Under 8's section. Both scored 6/9 to finish towards the top of the standings. In the Under 12 section, Larry Cheng scored 4.5/9, and would have been joined by Minchen Yang and Charles Huang, if final round results had gone their way. The next event is the Asian Online Junior and is expected that some of the players who played this event will back up for that one. <br /> <b>Cheng,Jerry ",
