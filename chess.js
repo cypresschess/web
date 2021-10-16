@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is still in second place, a half point back, as she also won her round-8 encounter. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Sat, 16 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
          "description" : "Resilience is the ability to stand strong against adversity and bounce back from stressful or tragic life events... and it's a trademark of the two-time US chess champion Wesley So. Wesley was ranked number two in the world and a mainstay in the top ten... while his peak rating of 2822 FIDE made him the fifth highest rated player in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
