@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">New features and updates for the FIDE Online Arena, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest. <h2>The board just got bigger!</h2> The board became much bigger - the design has been updated following users' feedback. The signature Arena interface stays the same, with the chess board in the center of the screen (just like in over-the-board games!), menu and options are on the left of the board, and the notation - on the right. The playing area looks beautiful. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A1EF638C-4616-436C-A999-355C824B6305.jpeg\" width=\"2388\" height=\"1",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-october-2021/",
+         "pubDate" : "Sat, 16 Oct 2021 10:02:31 +0000",
+         "title" : "What's New on FIDE Online Arena: October 2021"
+      },
+      {
+         "description" : "Vincent Keymer will take on his key rival Praggnanandhaa in the Julius Baer Challengers Chess Tour semi-finals after coming from behind to defeat Leon Mendonca 3.5:2.5 in a blitz playoff. The other semi-final on Saturday will be an all-American clash between Awonder Liang and Christopher Yoo, after Awonder emerged the 3:1 winner of a topsy-turvy battle against Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/it-s-keymer-pragg-liang-yoo-in-the-semis",
+         "pubDate" : "Sat, 16 Oct 2021 09:43:58 +0000",
+         "title" : "It's Keymer-Pragg & Liang-Yoo in the Semis!"
+      },
+      {
+         "description" : "At the start of Modeste Mussorgsky's opera, Boris Godunov, discontented crowds gather in Moscow, both at the Novodevichy Monastery and outside the battlements of the Kremlin, to implore the new Czar, Boris, to save the people from the evils of the day; pandemic, famine, unemployment and general civil unrest. The crowd also articulates a desperate plea to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/boris-save-us-from-the-opera-house-to-the-chessboard/",
+         "pubDate" : "Sat, 16 Oct 2021 09:35:06 +0000",
+         "title" : "Boris, save us: from the opera house to the chessboard "
+      },
+      {
          "description" : "Once you worked out why Black should refrain from opening the diagonal of White's bishop on a2 with 20....cxd3??, you should also know how to refute the move played in the game: 20...Qd7??. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1370,14 +1394,6 @@ news_feed (
          "title" : "Understanding before Moving 47: The target on h6"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen has won the $1.6 million Meltwater Champions Chess Tour with two rounds of the Finals to spare, following up on his victory in the Magnus Carlsen Chess Tour a year earlier. His lead in the overall standings became unassailable when 2nd place Wesley So crashed to a 2.5:0.5 defeat to Levon Aronian. That meant it didn't matter that Magnus himself went down in flames after a queen sacrifice against Teimour Radjabov that he admitted was \"partly a joke\". Teimour is now just half a point behind Wesley with two rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
-         "pubDate" : "Sun, 03 Oct 2021 11:20:46 +0000",
-         "title" : "Magnus Carlsen wins the Meltwater Champions Chess Tour"
-      },
-      {
          "description" : "After the 7th round of the final tournament of the \"Meltwater Champions Chess Tour\" played on Saturday, Magnus Carlsen is now the \"Tour Winner\". Although neither the World Champion nor his direct rival Wesley So scored, So cannot catch up to Carlsen's seven-point lead with only two remaining rounds. Carlsen lost to Teimour Radjabov 1:3, while So lost to Levon Aronian 0.5:2.5 after just three games. Radjabov is now only half a point behind So and could challenge him for second place - the prize money difference between second and third place is USD 20,000. | Graphic: Play Magnus Group",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2056,46 +2072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
          "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
          "title" : "Slowly, slowly"
-      },
-      {
-         "description" : "European Senior Chess Championship 2021 kicks off today in Budoni, Sardinia, Italy. The event is played within two age categories: 50+ and 65+ with Open and Women's results evaluated separately. Women's both age categories will be merged with Open sections with separate prizes. 36 players from 17 European federations registered for 50+ section of the European Senior Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-starts/",
-         "pubDate" : "Sat, 25 Sep 2021 10:14:36 +0000",
-         "title" : "European Senior Chess Championship 2021 starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1348",
-         "pubDate" : "Sat, 25 Sep 2021 09:48:51 +0000",
-         "title" : "Mednyi Vsadnik and South Ural clinch European Club Cup titles"
-      },
-      {
-         "description" : "\"The heresies we should fear are those which can be confused with orthodoxy\" From The Theologians by Jorge Luis Borges (1899-1986). The most famous chess clash of all time remains the Bobby Fischer vs. Boris Spassky World Championship at Reykjavik 1972. Fischer's second in that match was Grandmaster Reverend William Lombardy, not only an expert chess player, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/jorge-luis-borges-and-the-heresiarchs-of-the-64-squares/",
-         "pubDate" : "Sat, 25 Sep 2021 08:11:40 +0000",
-         "title" : "Jorge Luis Borges and the heresiarchs of the 64 squares"
-      },
-      {
-         "description" : "In the diagram position Black has enough material for the queen, so the key to victory for White must be the attack on the king. Which is protected by a lot of pieces - but how can White break through Black's defence?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/georgian-knot",
-         "pubDate" : "Sat, 25 Sep 2021 09:00:00 +0100",
-         "title" : "Georgian knot"
-      },
-      {
-         "description" : "In football, the German word \"Schwalbe\" (the swallow bird, and the football term for \"diving\") is an attempt by a player to feign a foul by deliberately dropping himself in a tackle with an opposing player to gain an unfair advantage. The Schwalbe in chess, doesn't mean that players fake a fall to the ground, and knock off the chess pieces to work out a mate in four. Columnist Siegfried Hornecker shows us the way on how to solve chess problems with the thematic idea of the Schwalbe, and takes us on a journey about the history of the German chess problem society. | Photo: www.dieschwalbe.de",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-2021-2",
-         "pubDate" : "Sat, 25 Sep 2021 08:45:00 +0100",
-         "title" : "\"Schwalbe\" - history tour of the German chess problem society"
       }
    ]
 }
