@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once you worked out why Black should refrain from opening the diagonal of White's bishop on a2 with 20....cxd3??, you should also know how to refute the move played in the game: 20...Qd7??. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/disaster-on-the-diagonal",
+         "pubDate" : "Sat, 16 Oct 2021 09:00:00 +0100",
+         "title" : "Disaster on the diagonal"
+      },
+      {
+         "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that made it to the semifinals of the Chess Super League, to be played on Saturday. The two teams that were knocked out in the round-robin phase are Krazy Knights an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-05",
+         "pubDate" : "Sat, 16 Oct 2021 00:04:00 -0700",
+         "title" : "Chess Super League R5: Krazy Knights, Quintessential Queens Knocked Out"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-10-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/def",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-10-lichessorg",
+         "pubDate" : "Sat, 16 Oct 2021 06:16:43 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 10 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-11-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/def",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-11-lichessorg",
+         "pubDate" : "Sat, 16 Oct 2021 06:16:43 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 11 | lichess.org"
+      },
+      {
          "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,14 +250,6 @@ news_feed (
          "title" : "US Chess Championships R8: Lenderman Survives Scare, Everyone Draws"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championshis-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championshis-favorite-chess-clubs-parkside-chat",
-         "pubDate" : "Thu, 14 Oct 2021 21:15:45 +0000",
-         "title" : "2021 U.S. Chess Championshis: Favorite Chess Clubs | Parkside Chat"
-      },
-      {
          "description" : "Praggnanandhaa will face Vincent Keymer or Leon Mendonca in Saturday's semi-finals of the Challengers Chess Tour after powering to a 3:0 victory over Volodar Murzin, with Vladimir Kramnik describing the Indian prodigy's play as being at the level of a 2700-player. The other quarterfinal on Thursday was an absolute thriller, with Christopher Yoo coming back from the dead to clinch victory over Lei Tingjie in the 2nd game of a blitz playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1385",
          "pubDate" : "Thu, 14 Oct 2021 20:15:46 +0000",
          "title" : "Mongolia vs. Zimbabwe in the final, Georgia dominates women's tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-7",
-         "pubDate" : "Thu, 14 Oct 2021 18:15:46 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 7"
       },
       {
          "description" : "",
@@ -1394,14 +1410,6 @@ news_feed (
          "title" : "CFR Team takes the gold to Russia"
       },
       {
-         "description" : "In round seven of the Meltwater Champions Chess Tour Finals, the two leaders, GM Magnus Carlsen and GM&#38;nbsp;Teimour Radjabov, faced each other. The Azeri star won the match, but... this day still turned out amazing for the world champion, who won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-7",
-         "pubDate" : "Sat, 02 Oct 2021 14:45:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 7: Carlsen Loses But Wins Series"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-2021-2",
          "pubDate" : "Sat, 25 Sep 2021 08:45:00 +0100",
          "title" : "\"Schwalbe\" - history tour of the German chess problem society"
-      },
-      {
-         "description" : "The 36th European Chess Club Cup and the 25th European Women's Chess Club Cup concluded yesterday in Struga, North Macedonia. The Awarding ceremony attended FIDE President Mr Arkady Dvorkovich, ECU President Mr Zurab Azmaiparashvili, ECU Vice President and FIDE Managing Director Mrs Dana Riezniece-Ozola , ECU Secretary General Mr Theodoros Tsorbatzoglou, and on behalf of the organisers, President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mednyi-vsadnik-and-south-ural-win-european-open-and-women-chess-club-cup-2021/",
-         "pubDate" : "Sat, 25 Sep 2021 06:28:29 +0000",
-         "title" : "Mednyi Vsadnik and South Ural win European Open and Women Chess Club Cup 2021"
       }
    ]
 }
