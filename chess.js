@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
+         "pubDate" : "Sat, 16 Oct 2021 15:55:00 +0100",
+         "title" : "Challengers Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
+         "pubDate" : "Sat, 16 Oct 2021 14:10:00 +0100",
+         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
+      },
+      {
+         "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/the-return-of-street-chess.html",
+         "pubDate" : "Sat, 16 Oct 2021 11:53:00 +0000",
+         "title" : "The return of Street Chess"
+      },
+      {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Sat, 16 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
          "description" : " <p class=\"lead\">New features and updates for the FIDE Online Arena, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest. <h2>The board just got bigger!</h2> The board became much bigger - the design has been updated following users' feedback. The signature Arena interface stays the same, with the chess board in the center of the screen (just like in over-the-board games!), menu and options are on the left of the board, and the notation - on the right. The playing area looks beautiful. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A1EF638C-4616-436C-A999-355C824B6305.jpeg\" width=\"2388\" height=\"1",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "Disaster on the diagonal"
       },
       {
-         "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that made it to the semifinals of the Chess Super League, to be played on Saturday. The two teams that were knocked out in the round-robin phase are Krazy Knights an...",
+         "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that have advanced to the semifinals of the Chess Super League that will be played on Saturday. The two teams that were knocked out in the round-robin phase are Kraz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-05",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
          "pubDate" : "Fri, 15 Oct 2021 16:25:49 +0100",
          "title" : "Bundesliga live: Round 12"
-      },
-      {
-         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
-         "pubDate" : "Fri, 15 Oct 2021 15:43:00 +0100",
-         "title" : "Challengers Chess Tour Finals - Live!"
       },
       {
          "description" : "From the 15th 21st October 2021 &#8212; Name Group George Zhao U8 Open Kushal Jakhria U8 Open Bodhana Sivanandan U8 Girls Zoe Veselow U8...",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-chess-champs-7-so-strikes-as-fabi-makes-comeback",
          "pubDate" : "Thu, 14 Oct 2021 11:38:41 +0000",
          "title" : "US Chess Champs 7: So strikes as Fabi makes comeback"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Thu, 14 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Round 6"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The top-scoring seven juniors and one woman from the four <strong>Julius B&auml;r <a href=\"https://challengerschesstour.com/\">Challengers Chess Tour</a></strong> events, <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/1/1/1\">held online</a> on <strong>chess24</strong>, juggle out in k.o.-matches the absolute winner, who will take $12,500 and a fix place on the next <strong>Champions Chess Tour</strong>. </div> ",
@@ -2056,22 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1349",
          "pubDate" : "Sat, 25 Sep 2021 20:41:53 +0000",
          "title" : "FIDE World Championship 2021: Schedule, hotels, and health & safety measures"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86510619.cms\" />The last week-and-half has been memorable for Grandmaster D Gukesh. Days after clinching the Norway Open event --- the 15-year-old won gold at the European Club Cup which concluded in Macedonia on Friday night.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-wins-gold-at-european-club-cup/articleshow/86510619.cms",
-         "pubDate" : "Sat, 25 Sep 2021 20:12:36 +0530",
-         "title" : "D Gukesh wins gold at European Club Cup"
-      },
-      {
-         "description" : " Harry Press mentioned the following game to me, as an example of converting space into a winning advantage. It was played at the Sharjah Masters, which is currently being held in person. What is interesting about this game is that White builds up his advantage move by move, until Black runs out of decent choices. Maybe Black was a little passive in his choices, but it still like White won without too much effort. <br /> <b>Salem,A.R. Saleh (2679) - Niemann,Hans Moke (2609) [E04]</b><br />4th Sharjah Masters chess24.com (3.6), 19.09.2021 <script>new PgnViewer( { boardName: \"game1273\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.g3 dxc4 6.Bg2 b5 7.Ne5 a6 8.O-O Bb7 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/slowly-slowly.html",
-         "pubDate" : "Sat, 25 Sep 2021 12:55:00 +0000",
-         "title" : "Slowly, slowly"
       }
    ]
 }
