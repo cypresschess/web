@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth&#38;Junior Hybrid Chess Championships 2021 kicked off on Friday, 15th of October. ECU President, Mr. Zurab Azmaiparashvili sent a welcome message for the 900 players, coming from 32 European federations. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately, through Tornelo playing platform, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/",
+         "pubDate" : "Sun, 17 Oct 2021 07:04:50 +0000",
+         "title" : "European Youth & Junior Chess Championships 2021 starts"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-gm-jeffrey-xiong\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BrctTuDS3v4.jpg?itok=DvEplaVJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-gm-jeffrey-xiong",
+         "pubDate" : "Sun, 17 Oct 2021 06:17:32 +0000",
+         "title" : "Interview with GM Jeffrey Xiong"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-brings-it-interview-wgm-gulrukhbegim-tokhirjonova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AeSUxqqDGLw.jpg?itok=h9nIhewz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-brings-it-interview-wgm-gulrukhbegim-tokhirjonova",
+         "pubDate" : "Sun, 17 Oct 2021 06:17:32 +0000",
+         "title" : "Begim Brings It! - Interview with WGM Gulrukhbegim Tokhirjonova"
+      },
+      {
+         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-im-anna-zatonskih\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QF7hByZT2DE.jpg?itok=zLoEbnEp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-im-anna-zatonskih",
+         "pubDate" : "Sun, 17 Oct 2021 06:17:32 +0000",
+         "title" : "Interview with IM Anna Zatonskih"
+      },
+      {
          "description" : "In round nine of the 2021 U.S. Chess Championship, which took place after a rest day, all leaders drew their games. Meanwhile, GM Fabiano Caruana beat GM Dariusz Swiercz. As a result, GMs Aleksandr Lenderman, Wesley So, and Sam Sevian are sharing ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,14 +170,6 @@ news_feed (
          "title" : "2021 U.S. Chess Championships: Round 10 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-11-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/def",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-11-lichessorg",
-         "pubDate" : "Sat, 16 Oct 2021 06:16:43 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 11 | lichess.org"
-      },
-      {
          "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,22 +208,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/agreement-instead-of-divisive-vote/",
          "pubDate" : "Fri, 15 Oct 2021 19:44:12 +0100",
          "title" : "Agreement instead of divisive vote"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the importance of chess clubs over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. East and West coast, losing on piece odds, playing for money, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-favorite-chess-clubs-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-favorite-chess-clubs-parkside-chat",
-         "pubDate" : "Fri, 15 Oct 2021 18:16:25 +0000",
-         "title" : "2021 U.S. Chess Championships: Favorite Chess Clubs | Parkside Chat"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-8",
-         "pubDate" : "Fri, 15 Oct 2021 18:16:25 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 8"
       },
       {
          "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mega-database-a-year-of-weekly-updates",
          "pubDate" : "Sun, 26 Sep 2021 08:54:15 +0100",
          "title" : "Mega Database: a year of weekly updates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86524296.cms\" />Magnus Carlsen declared he was quite happy on Saturday after getting his Meltwater Champions Chess Tour Finals campaign off to a perfect start. The World Champion savaged Poland's World Cup winner Jan-Krzysztof Duda with two wins and a draw to end the match with a game to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-chess-tour-finals-strong-start-by-magnus-carlsen/articleshow/86524296.cms",
-         "pubDate" : "Sun, 26 Sep 2021 10:50:23 +0530",
-         "title" : "Champions Chess Tour Finals: Strong start by Magnus Carlsen"
       }
    ]
 }
