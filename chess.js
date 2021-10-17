@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Star columnist Jon Speelman looks at the next generation of chess stars, presenting games from Aleksandra Goryachkina, Andrey Esipenko and Nihal Sarin. Speelman notes that \"the interesting thing with young players is not only how well they can play at their peak, but also, and no less important, howe well they can play at their ambient level\". | Pictured: Andrey Esipenko and Zhansaya Abdmualik at this year's World Cup in Sochi. | Photo: Anastassia Korolkova / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-156",
+         "pubDate" : "Sun, 17 Oct 2021 17:00:00 +0100",
+         "title" : "Monarchs and ubersprogs"
+      },
+      {
+         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
+         "pubDate" : "Sun, 17 Oct 2021 15:55:00 +0100",
+         "title" : "Challengers Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 49th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how White conducts a typical attack in the Sicilian. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-49-the-beginning-of-an-attack",
+         "pubDate" : "Sun, 17 Oct 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 49: The beginning of an attack"
+      },
+      {
          "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/us-chess-championships-r9",
-         "pubDate" : "Sat, 16 Oct 2021 19:53:12 -0700",
+         "pubDate" : "Sat, 16 Oct 2021 19:53:00 -0700",
          "title" : "US Chess Championships R9: Leaders Draw, Caruana Wins"
       },
       {
@@ -135,7 +159,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Sat, 16 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "US Championships - Round 9"
       },
       {
          "description" : "Resilience is the ability to stand strong against adversity and bounce back from stressful or tragic life events... and it's a trademark of the two-time US chess champion Wesley So. Wesley was ranked number two in the world and a mainstay in the top ten... while his peak rating of 2822 FIDE made him the fifth highest rated player in chess history.",
@@ -2040,22 +2064,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-hopes-one-of-talented-indian-youngsters-will-become-world-champion-in-future/articleshow/86533520.cms",
          "pubDate" : "Sun, 26 Sep 2021 21:22:47 +0530",
          "title" : "Anand hopes one of talented Indian youngsters will become world champion in future"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 46th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the \"Cooperation of the Pieces\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-46-cooperation-between-the-pieces-2",
-         "pubDate" : "Sun, 26 Sep 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 46: Cooperation between the pieces (2)"
-      },
-      {
-         "description" : " One area of the world that has fully embraced online ches if the Asian Chess Federation. They are now organising a large number of online events, for both junior and open players. The most recent one was the East Asian Girls Championship, which was organised by the Thailand Chess Federation. As travel is no longer an impediment to taking part, a number of local players took the opportunity to take part. Shriya and Shakthi Karthik played in the Under 14 and Under 12 sections, while Shivani Sundar played in the Under 8's. For each of the players it turned out to be tough going, as there were plenty of platers from other countries with greater experince. The best score was achieved by Shriya K",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/some-international-chess.html",
-         "pubDate" : "Sun, 26 Sep 2021 13:50:00 +0000",
-         "title" : "Some International Chess"
       }
    ]
 }
