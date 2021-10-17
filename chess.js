@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round nine of the 2021 U.S. Chess Championship, which took place after a rest day, all leaders drew their games. Meanwhile, GM Fabiano Caruana beat GM Dariusz Swiercz. As a result, GMs Aleksandr Lenderman, Wesley So, and Sam Sevian are sharing ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/us-chess-championships-r9",
+         "pubDate" : "Sat, 16 Oct 2021 19:53:12 -0700",
+         "title" : "US Chess Championships R9: Leaders Draw, Caruana Wins"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-gm-wesley-so\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-gm-wesley-so",
+         "pubDate" : "Sun, 17 Oct 2021 00:17:11 +0000",
+         "title" : "Interview with GM Wesley So"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gotta-play-leinier-interview-gm-leinier-dominguez\"><img src=\"https://saintlouischessclub.org/sites/d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gotta-play-leinier-interview-gm-leinier-dominguez",
+         "pubDate" : "Sun, 17 Oct 2021 00:17:11 +0000",
+         "title" : "\"Gotta Play Like Leinier\" - Interview with GM Leinier Dominguez"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-and-ng7-interview-gm-fabiano-caruana\"><img src=\"https://saintlouischessclub.org/sites/default/f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prep-and-ng7-interview-gm-fabiano-caruana",
+         "pubDate" : "Sun, 17 Oct 2021 00:17:11 +0000",
+         "title" : "Prep and Ng7?! - Interview with GM Fabiano Caruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/must-win-situation-interview-gm-irina-krush\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/must-win-situation-interview-gm-irina-krush",
+         "pubDate" : "Sun, 17 Oct 2021 00:17:11 +0000",
+         "title" : "A Must Win Situation - Interview with GM Irina Krush"
+      },
+      {
          "description" : "It was a rather short day at the office for the semifinalists of the Julius Baer Challengers Tour Finals, as Praggnanandhaa and Christopher Yoo only needed three games to knock out Vincent Keymer and Awonder Liang respectively. After an astounding win by Pragg, Vladimir Kramnik was full of praise for his play, even comparing him with Magnus Carlsen. \"He's playing almost like a real world champion, not a future one\", said Kramnik.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,38 +296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/bxf7-punished-again.html",
          "pubDate" : "Fri, 15 Oct 2021 05:25:00 +0000",
          "title" : "Bxf7+ punished again"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its virtual Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-fall-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-fall-4",
-         "pubDate" : "Fri, 15 Oct 2021 03:16:00 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Fall #4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Gulrukhbegim Tokhirjonova during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-gulrukhbegim-tokhirjonova-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HE951MnHXkk.jpg?itok=lvXjtm0V\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-gulrukhbegim-tokhirjonova-interview-round-8",
-         "pubDate" : "Fri, 15 Oct 2021 03:16:00 +0000",
-         "title" : "2021 U.S. Chess Championships: Gulrukhbegim Tokhirjonova Interview | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Carissa Yip during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-making-foisor-crack-under-pressure\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1Jf02GTkveA.jpg?itok=E1-ASR0X\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-yip-making-foisor-crack-under-pressure",
-         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
-         "title" : "Carissa Yip: Making Foisor Crack Under Pressure"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley interviews Katerina Nemcova during Round 8 of the 2021 U.S. Chess Championships. 2021.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-katerina-nemcova-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/isKcmItjMdc.jpg?itok=Wtv6l1N1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-katerina-nemcova-interview-round-8",
-         "pubDate" : "Fri, 15 Oct 2021 00:15:59 +0000",
-         "title" : "2021 U.S. Chess Championships: Katerina Nemcova Interview | Round 8"
       },
       {
          "description" : "Praggnanandhaa and Christopher Yoo advanced to the semifinals of the Julius Baer Challengers Tour Finals after knocking out Volodar Murzin and Lei Tingjie respectively. While Pragg obtained a commanding 3-0 victory, Yoo was inches away from losing more than once in a match that was decided in blitz tiebreaks. The other two quarterfinal matches will be played on Friday.",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-3-xiong-clinches-grand-prix-victory-chigaev-wins-knockout",
          "pubDate" : "Sat, 02 Oct 2021 19:29:00 -0700",
          "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand Prix Victory, Chigaev Wins Knockout"
-      },
-      {
-         "description" : "Russia has defeated India 2.5-1.5 and 3-1 to confidently triumph in both rounds of the finals of the World Women&#39;s Team Championship that concluded in Sitges, Spain. If the semi-rapid event can be considered for historical continuity, this victory...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-womens-team-championship-final-russia-asserts-superiority-over-india",
-         "pubDate" : "Sat, 02 Oct 2021 17:38:00 -0700",
-         "title" : "FIDE World Women's Team Championship Final: Russia Wins Gold In Victory Over India"
       },
       {
          "description" : "",
