@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Sun, 17 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals - Live!"
+      },
+      {
+         "description" : " People often buy and read the wrong books, as you will have seen from my previous articles. I suspect people often buy and read opening books which, while perhaps excellent in themselves, are pitched at the wrong level for them. Broadly speaking, you could say that there are three types of opening book: 1500 books, <a href=\"https://chessimprover.com/wrong-opening-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Opening Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-opening-books/\">Wrong Opening Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/wrong-opening-books/",
+         "pubDate" : "Sun, 17 Oct 2021 10:50:17 +0000",
+         "title" : "Wrong Opening Books"
+      },
+      {
+         "description" : "The Kingslayers and Pivotal Pawns will play the finals of the Chess Super League on Sunday. Two more teams were eliminated from the event: the Brutal Bishops and Ruthless Rooks ended their campaigns in third and fourth positions respectively. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chess-super-league-playoffs",
+         "pubDate" : "Sun, 17 Oct 2021 02:17:27 -0700",
+         "title" : "Chess Super League Playoffs: Kingslayers, Pivotal Pawns To Clash In Sunday's Final"
+      },
+      {
+         "description" : "Praggnanandhaa and Christopher Yoo both needed just three games to reach the final of the Julius Baer Champions Chess Tour. Praggnanandhaa had Vladimir Kramnik comparing him to Hikaru Nakamura and then World Champion Magnus Carlsen as he played an almost perfect match against Vincent Keymer. Christopher Yoo's 3:0 victory over Awonder Liang was less convincing, with Awonder making two strange blunders in the first two games, but Christopher won in style with a brilliant third game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/praggnanandhaa-and-yoo-storm-into-final",
+         "pubDate" : "Sun, 17 Oct 2021 08:47:23 +0000",
+         "title" : "Praggnanandhaa and Yoo storm into final"
+      },
+      {
          "description" : "The European Youth&#38;Junior Hybrid Chess Championships 2021 kicked off on Friday, 15th of October. ECU President, Mr. Zurab Azmaiparashvili sent a welcome message for the 900 players, coming from 32 European federations. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately, through Tornelo playing platform, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1266,14 +1298,6 @@ news_feed (
          "title" : "Champions Chess Tour Final: Radjabov and Aronian reach the podium"
       },
       {
-         "description" : "\"To finish off the tour with a win against him is special\" said World Champion Magnus Carlsen as he beat his great rival Wesley So twice with 1.b3 to end the Meltwater Champions Chess Tour on a high. Teimour Radjabov was the star of the Finals and took down Maxime Vachier-Lagrave to clinch the deserved $60,000 2nd prize, while Levon Aronian also sneaked ahead of Wesley at the finish to take the $40,000 3rd prize with victory over Shakhriyar Mamedyarov. The Tour will be back in February 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-9-carlsen-1st-radjabov-2nd-aronian-3rd",
-         "pubDate" : "Tue, 05 Oct 2021 11:45:19 +0000",
-         "title" : "MCCT Finals: Carlsen 1st, Radjabov 2nd, Aronian 3rd"
-      },
-      {
          "description" : " Another 'easy to state, hard to solve' maths/chess problem has been solved recently. The N-Queen problem now has an approximate answer to the question \"How many arrangements can you have of n queens on and n by n chessboard, so that no queen attacks another?\" For a standard board (8x8) it has been long known that there are 92 distinct arrangements, but this problem is the general nxn case, where n can be an extremely large number. The solution (0.143n)^n is of course an approximation (rather than an exact number), but it is close enough to the correct number for all n. If you want to see how this number was arrived at then a link to the paper is <a href=\"https://arxiv.org/abs/2107.13460\">he",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1432,14 +1456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
          "pubDate" : "Sun, 03 Oct 2021 11:00:00 +0100",
          "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
-      },
-      {
-         "description" : "GM Maxim Chigaev triumphed in a tense knockout final against GM Jeffery Xiong to win the third Speed Chess Championship Grand Prix tournament, but it was the runner-up, Xiong, who managed to amass enough points to guarantee himself a Grand Prix vi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-3-xiong-clinches-grand-prix-victory-chigaev-wins-knockout",
-         "pubDate" : "Sat, 02 Oct 2021 19:29:00 -0700",
-         "title" : "Speed Chess Grand Prix 3: Xiong Clinches Grand Prix Victory, Chigaev Wins Knockout"
       },
       {
          "description" : "",
@@ -2040,22 +2056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/some-international-chess.html",
          "pubDate" : "Sun, 26 Sep 2021 13:50:00 +0000",
          "title" : "Some International Chess"
-      },
-      {
-         "description" : " Many years ago maverick IM and chess teacher Mike Basman wrote about a nightmare he'd had. A pupil's game started 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 and now his pupil refused to recapture because he'd been taught to avoid doubled pawns. I've seen this several times myself. Sometimes, but not <a href=\"https://chessimprover.com/mike-basmans-nightmare/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman's Nightmare\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basmans-nightmare/\">Mike Basman's Nightmare</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/mike-basmans-nightmare/",
-         "pubDate" : "Sun, 26 Sep 2021 08:30:35 +0000",
-         "title" : "Mike Basman's Nightmare"
-      },
-      {
-         "description" : "When mentioning the name Mega Database, many players automatically think of either the millions of games contained in it, or the equally impressive number of annotated games - well over 80 thousand. However, the price tag also includes a full year of weekly updates, which can then be renewed every year. Learn all here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mega-database-a-year-of-weekly-updates",
-         "pubDate" : "Sun, 26 Sep 2021 08:54:15 +0100",
-         "title" : "Mega Database: a year of weekly updates"
       }
    ]
 }
