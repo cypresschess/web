@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1387",
+         "pubDate" : "Sun, 17 Oct 2021 19:22:37 +0000",
+         "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
+      },
+      {
+         "description" : "With only two rounds to go, three players are sharing the lead in the US Championsip: Wesley So, Sam Sevian and Aleksandr Lenderman. Meanwhile, in the women's tournament, Carissa Yip is the sole leader, as she currently stands a full point ahead of 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Sun, 17 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-9",
+         "pubDate" : "Sun, 17 Oct 2021 18:18:04 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 9"
+      },
+      {
+         "description" : "Fabiano Caruana moved to within just half a point of the leaders with two rounds of the US Chess Championships to go after defeating Dariusz Swiercz in Round 9, while his key rivals only drew. Wesley So missed a great chance to take the sole lead by beating Daniel Naroditsky, while Leinier Dominguez was a whisker away from defeating Ray Robson and joining leaders So, Sam Sevian and Alex Lenderman. The Women's Championship is much clearer, with Carissa Yip leading Irina Krush by a full point after powering to a 4th win in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-8-9-caruana-back-in-the-hunt",
+         "pubDate" : "Sun, 17 Oct 2021 17:42:53 +0000",
+         "title" : "US Chess Champs 8-9: Caruana back in the hunt"
+      },
+      {
          "description" : "Star columnist Jon Speelman looks at the next generation of chess stars, presenting games from Aleksandra Goryachkina, Andrey Esipenko and Nihal Sarin. Speelman notes that \"the interesting thing with young players is not only how well they can play at their peak, but also, and no less important, howe well they can play at their ambient level\". | Pictured: Andrey Esipenko and Zhansaya Abdmualik at this year's World Cup in Sochi. | Photo: Anastassia Korolkova / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +186,6 @@ news_feed (
          "title" : "Leader of the Women's Champs - IM Carissa Yip"
       },
       {
-         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is still in second place, a half point back, as she also won her round-8 encounter. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Sat, 16 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 9"
-      },
-      {
          "description" : "Resilience is the ability to stand strong against adversity and bounce back from stressful or tragic life events... and it's a trademark of the two-time US chess champion Wesley So. Wesley was ranked number two in the world and a mainstay in the top ten... while his peak rating of 2822 FIDE made him the fifth highest rated player in chess history.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-05",
          "pubDate" : "Sat, 16 Oct 2021 00:04:00 -0700",
          "title" : "Chess Super League R5: Krazy Knights, Quintessential Queens Knocked Out"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-10-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/def",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-10-lichessorg",
-         "pubDate" : "Sat, 16 Oct 2021 06:16:43 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 10 | lichess.org"
       },
       {
          "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "US Chess Championships R1: Robson, Burke Take Lead"
       },
       {
-         "description" : "The 2021 US Championships start in Saint Louis today as world no. 2 Fabiano Caruana and reigning Champion Wesley So top the 12-player field competing for a $50,000 top prize. Leinier Dominguez, Sam Shankland and Jeffery Xiong are the other 2700 stars in action, with only Hikaru Nakamura absent. The women's event features almost all the top contenders, with 2-time US Women's Champion Nazi Paikidze returning to action for the first time since 2018.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/caruana-so-in-action-as-us-championships-begin",
-         "pubDate" : "Wed, 06 Oct 2021 17:33:24 +0000",
-         "title" : "Caruana & So in action as US Championships begin"
-      },
-      {
          "description" : "14-year-old IM Christopher Yoo won his first Titled Tuesday this week, scoring 9.5 in the October 5 event to finish in sole first. There was a six-way tie for second place on 9 points out of 11. After tiebreakers were applied, GM Artem Timofeev ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1426,6 +1434,14 @@ news_feed (
          "title" : "Champions Chess Tour Finals Day 8: Radjabov Moves To 2nd Place"
       },
       {
+         "description" : " From the publisher: &#8220;The Secret Ingredient is a grandmaster guide to maximizing your chess results, focusing on key elements of practical play which have received little to no attention in previous chess literature. How exactly can we best make use of computers? What's the ideal, step-by-step way to prepare against a specific opponent? How can <a href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Secret Ingredient: To Winning at Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-t",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/",
+         "pubDate" : "Mon, 04 Oct 2021 00:00:45 +0000",
+         "title" : "The Secret Ingredient: To Winning at Chess"
+      },
+      {
          "description" : " Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and forests.&#8221; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afric",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1520,6 +1536,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/what-was-question.html",
          "pubDate" : "Sat, 02 Oct 2021 14:02:00 +0000",
          "title" : "What was the question?"
+      },
+      {
+         "description" : " From the publisher we have: &#8220;Albin Planinc was born in the middle of the Second World War, on 18th April 1944, in the little village of Briše, near the small town of Zagorje ob Savi, approximately 30 kilometers from Ljubljana, the capital of Slovenia. He spent his childhood with his mother Ljudmila (unofficially Milka), a <a href=\"http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Forgotten Genius The Life and Games of Grandmaster Albin Planinc</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/02",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/",
+         "pubDate" : "Sat, 02 Oct 2021 13:28:54 +0000",
+         "title" : "Forgotten Genius - The Life and Games of Grandmaster Albin Planinc"
       },
       {
          "description" : "The CFR team and the Indian team play in the final of the World Women's Team Championship in Sitges, Spain. In the semifinals CFR won against Ukraine and India narrowly defeated Georgia. The final match also consists of two rounds (starting at 14:00 and 17:00 CEST), followed by a blitz play-off (19:30 CEST) in case of a tie. Follow the games live.",
@@ -2056,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1352",
          "pubDate" : "Sun, 26 Sep 2021 20:42:07 +0000",
          "title" : "Magnus storms 6 points clear in Tour Finals as Wesley beaten"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86533520.cms\" />Chess legend Viswanathan Anand on Sunday said the country has many immensely talented players at the junior level and one of them can \"hopefully\" become a world champion in future.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-hopes-one-of-talented-indian-youngsters-will-become-world-champion-in-future/articleshow/86533520.cms",
-         "pubDate" : "Sun, 26 Sep 2021 21:22:47 +0530",
-         "title" : "Anand hopes one of talented Indian youngsters will become world champion in future"
       }
    ]
 }
