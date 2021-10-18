@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Mon, 18 Oct 2021 19:55:00 +0100",
+         "title" : "US Championships - Round 10"
+      },
+      {
+         "description" : "GM Alexey Sarana won the Super Swiss on Sunday. The 21-year-old grandmaster from Moscow earned $4,000 and qualified for the Main Event of the Chess.com Speed Chess Championship. Sarana won a 16-player knockout tournament on Sunday after beating ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexey-sarana-wins-2021-super-swiss",
+         "pubDate" : "Mon, 18 Oct 2021 11:40:48 -0700",
+         "title" : "Sarana Wins Super Swiss, Qualifies For Speed Chess Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-10",
+         "pubDate" : "Mon, 18 Oct 2021 18:19:05 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 10"
+      },
+      {
+         "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-10-carissa-triumps-fabi-hits-the-front",
+         "pubDate" : "Mon, 18 Oct 2021 17:55:00 +0000",
+         "title" : "US Chess Champs 10: Carissa triumps | Fabi hits the front"
+      },
+      {
+         "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r10",
+         "pubDate" : "Mon, 18 Oct 2021 18:20:00 +0100",
+         "title" : "US Championships: Caruana shares the lead, Yip secures women's title"
+      },
+      {
+         "description" : "In the Endgame Magic Show #166 Karsten M&uuml;ller Arne and Karsten discuss endgame highlights from the finals of the Champions Chess Tour, which ended in October and was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-166-endgame-highlights-from-the-finals-of-the-champions-chess-tour",
+         "pubDate" : "Mon, 18 Oct 2021 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic #166: Endgame highlights from the finals of the Champions Chess Tour"
+      },
+      {
+         "description" : "The Pivotal Pawns won the first edition of the Chess Super League on Sunday. The Kingslayers were beaten in one single armageddon game after both teams had won one match with the same 3.5-2.5 score. GM Zhansaya Abdumalik became the star for the Pa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pivotal-pawns-win-2021-chess-super-league",
+         "pubDate" : "Mon, 18 Oct 2021 09:03:00 -0700",
+         "title" : "Pivotal Pawns Win 2021 Chess Super League"
+      },
+      {
          "description" : "At the FIDE World Cup 2021 Magnus Carlsen surprised his opponent Vladimir Fedoseev in the Caro-Kann Advance Variation (1.e4 c6 2.d4 d5 3.e5 Bf5) with the move 4.c4. Jan Werle analyses this brilliant game in ChessBase Magazine Extra #203 in a video and pays special attention to the opening. Is Carlsen's idea a good attacking weapon against the Caro-Kann? Take a look at an excerpt from Werle's video analysis!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/carlsen-s-4-c4-in-the-caro-kann-advance-variation",
          "pubDate" : "Mon, 18 Oct 2021 17:00:00 +0100",
          "title" : "Carlsen's 4.c4 in the Caro-Kann Advance Variation"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/last-minute-win-streak-interview-gulrukhbegim-tokhirjonova\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/last-minute-win-streak-interview-gulrukhbegim-tokhirjonova",
+         "pubDate" : "Mon, 18 Oct 2021 15:18:53 +0000",
+         "title" : "Last Minute Win Streak -Interview with Gulrukhbegim Tokhirjonova"
       },
       {
          "description" : "",
@@ -178,22 +242,6 @@ news_feed (
          "title" : "Leinier Domiguez: \"The Favorites are All a Bit Tired\""
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-prep-and-ng7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eJT7lS_htYU.jpg?itok=3VC6sgiN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-prep-and-ng7",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Fabiano Caruana: On Prep and Ng7?!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Irina Krush during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-must-win-situation\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9DeKqZ97XeA.jpg?itok=ciq416i-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-must-win-situation",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Irina Krush: A Must-Win Situation"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Six Dutch players, including 2019 champion <strong>Lucas van Foreest</strong>, tried to overcome the regulations of the <strong>Dutch Championship</strong> that has <a href=\"https://schaken.nl/nk-schaken\">begun this Friday</a> requiring a Corona-passport (being fully vaccinated of recovered from a Covid-19 infection) or daily tests. The court <a href=\"https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBNHO:2021:8954\">upheld the regulations and condemned the plaintiffs</a> to pay €3,364 to the <strong>Dutch Chess Federation</strong> and the town of Hoogeveen. Lucas van Foreest, who is known to love publicity, was called a hero by the righ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -224,14 +272,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/15-times-baden-baden/",
          "pubDate" : "Sun, 17 Oct 2021 20:17:29 +0100",
          "title" : "15 times Baden-Baden"
-      },
-      {
-         "description" : "With only two rounds to go, three players are sharing the lead in the US Championsip: Wesley So, Sam Sevian and Aleksandr Lenderman. Meanwhile, in the women's tournament, Carissa Yip is the sole leader, as she currently stands a full point ahead of 8-time champion Irina Krush. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Sun, 17 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 10"
       },
       {
          "description" : "Fabiano Caruana moved to within just half a point of the leaders with two rounds of the US Chess Championships to go after defeating Dariusz Swiercz in Round 9, while his key rivals only drew. Wesley So missed a great chance to take the sole lead by beating Daniel Naroditsky, while Leinier Dominguez was a whisker away from defeating Ray Robson and joining leaders So, Sam Sevian and Alex Lenderman. The Women's Championship is much clearer, with Carissa Yip leading Irina Krush by a full point after powering to a 4th win in a row.",
@@ -696,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-r6",
          "pubDate" : "Wed, 13 Oct 2021 13:15:00 +0100",
          "title" : "US Championships: Time pressure"
-      },
-      {
-         "description" : " The German Bundesliga was due to place 23rd November 2019 to 2nd May 2020. The Coronavirus caused havoc and although a limited final event took place in 2020 the league season will now be completed in Berlin 13th to 17th October. There is a single round 13 match on the 13th - Rounds 9 and 10 on the 14th, Rounds 11 and 12 on the 15th, Round 13 and 14 on the 16th and the final round 15 on the 17th of October.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
-         "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
-         "title" : "German Bundesliga 2019-2020 - Games and Results"
       },
       {
          "description" : "The Brutal Bishops grabbed the sole lead on day two of the Chess Super League on Tuesday. A 3-3 tie with the Quintessential Queens was enough for a one-point gap in match points because the two other winners of the first day lost their second matc...",
@@ -1298,14 +1330,6 @@ news_feed (
          "title" : "FIDE Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
-         "description" : " The US Chess Championships take place in Saint Louis Tue 5th Oct to Tue 19th Oct 2021. Men's Championship: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Samuel Sevian, Dariusz Swiercz, Lazaro Bruzon Batista, Daniel Naroditsky, Aleksandr Lenderman andJohn M Burke. Nakamura explained his absence as wanting to focus completely on the FIDE Grand Swiss in Riga at the end of the month. Women's Championship: Irina Krush, Anna Zatonskih, Carissa Yip, Nazi Paikidze, Tatev Abrahamyan, Katerina Nemcova, Gulrukhbegim Tokhirjonova, Anna Sharevich, Ashritha Eswaran, Sabina-Francesca Foisor, Thalia Cervantes Landeiro and Megan Lee. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2021",
-         "pubDate" : "Wed, 6 Oct 2021 19:48:00 +0400",
-         "title" : "US Chess Championships 2021 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,14 +1392,6 @@ news_feed (
          "link" : "https://www.europechess.org/tournament-of-peace-2021/",
          "pubDate" : "Tue, 05 Oct 2021 19:10:54 +0000",
          "title" : "Tournament of Peace 2021"
-      },
-      {
-         "description" : "GM Nihal Sarin comfortably reached the final of the Junior Speed Chess Championship presented by ChessKid, after a 20.5-9.5 win over GM Haik Martirosyan on Monday. Sarin will be defending his 2020 title against the winner of GM Raunak Sadhwani vs....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-championship-sarin-martirosyan",
-         "pubDate" : "Tue, 05 Oct 2021 08:28:00 -0700",
-         "title" : "Junior Speed Chess Championship SF: Sarin Too Strong For Martirosyan"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg\" data-image-dimensions=\"410x354\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo by John Upham, courtesy of Tryfon Gavriel\" data-load=\"false\" data-image-id=\"615c5b6777baf339e2f400d0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><em>Photo </em><a href=\"https://johnupham.smugmug.com/\"><e",
@@ -1456,14 +1472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-chess-with-me-the-video-series",
          "pubDate" : "Mon, 04 Oct 2021 22:00:00 +0100",
          "title" : "Study chess with me - the video series"
-      },
-      {
-         "description" : "GM Teimour Radjabov won the battle for second place and $60,000 on the last day of the 2021 Meltwater Champions Chess Tour Finals, having scored the most points in the last leg of the Tour. GM Magnus Carlsen, who had secured overall victory with t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-champions-chess-tour-finals-day-9",
-         "pubDate" : "Mon, 04 Oct 2021 13:22:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 9: Carlsen Wins Tour, Radjabov Top Finals Scorer"
       },
       {
          "description" : "Teimour Radjabov and Levon Aronian won in the last round of the Champions Chess Tour Finals to secure second and third places behind tour champion Magnus Carlsen. Carlsen beat Wesley So, leaving the Filipino-born grandmaster in fourth place. | Results, games and standings. Full report to follow shortly.",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1354",
          "pubDate" : "Mon, 27 Sep 2021 21:40:34 +0000",
          "title" : "Czech Championship: Vojtěch Pl&aacute;t and Karolina Pilsova take titles"
-      },
-      {
-         "description" : "The Norwegian Grandmaster Simen Agdestein coached Magnus Carlsen, and at a chess school in the Norwegian town of Bærum he still coaches some of the most promising Norwegian talents. Agdestein regularly travels with his pupils to tournaments, and from the 3rd to the 5th of September, Agdestein and his students took part in the Grand Prix Tournament in Krager&oslash;, which Agdestein won with 6.0/6. | Photo: The last round game between 12-year-old Martin Holten Fiskaaen and Agdestein. FM Ward Altarbosh in the background. | Photos: Tanja Cecilie Kveim",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/simen-s-school-trip",
-         "pubDate" : "Mon, 27 Sep 2021 19:00:00 +0100",
-         "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
       }
    ]
 }
