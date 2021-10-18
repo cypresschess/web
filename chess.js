@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Dariusz Swiercz during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dariusz-swiercz-learning-experience\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B1Y16K0sKkA.jpg?itok=WRMQrKjz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dariusz-swiercz-learning-experience",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "Dariusz Swiercz: A Learning Experience"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Tatev Abrahamyan during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-nf3-100\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8_OCmDF4YY.jpg?itok=i6InhFVZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-nf3-100",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "Tatev Abrahamyan: Nf3 is 100%!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Gulrukhbegim Tokhirjonova during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gulrukhbegim-tokhirjonova-last-minute-win-streak\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RI2skuShNxg.jpg?itok=I_9Uguhb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gulrukhbegim-tokhirjonova-last-minute-win-streak",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "Gulrukhbegim Tokhirjonova: Last Minute Win Streak"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-phoenix-rises\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rj1v0b7FROA.jpg?itok=SqB3DgBu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-phoenix-rises",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "Fabiano Caruana: A Phoenix Rises"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Maurice Ashley discuss the evolution of chess presentation over a game outside the Saint Louis Chess Club in the Central West End before the 2021 U.S. Chess Championships. Hilarious bad commentary, Shelby Lyman, Maurice's broadcast debut in Russia, and more! USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-chess-presentation-parkside-chat\"><img src=\"https://saintlouischessclub.org/sites/d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-chess-presentation-parkside-chat",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Chess Presentation | Parkside Chat"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Irina Krush during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-irina-krush-interview-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AkGiU5YQRcc.jpg?itok=bLVVAB73\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-irina-krush-interview-round-10",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Irina Krush Interview | Round 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-sam-shankland-interview-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ADeqCR7SJdY.jpg?itok=QGNPucbD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-sam-shankland-interview-round-10",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Sam Shankland Interview | Round 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Daniel Naroditsky during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-daniel-naroditsky-interview-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rsOiD3cRznM.jpg?itok=TW6mkCWb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-daniel-naroditsky-interview-round-11",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Daniel Naroditsky Interview | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Sevian during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-sam-sevian-interview-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8hihF8sdk0.jpg?itok=oWZ8kRRY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-sam-sevian-interview-round-11",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Sam Sevian Interview | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ray Robson during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-ray-robson-interview-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jVVwC2nn68Y.jpg?itok=viQqypXp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-ray-robson-interview-round-11",
+         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
+         "title" : "2021 U.S. Chess Championships: Ray Robson Interview | Round 11"
+      },
+      {
          "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alexey-sarana-wins-2021-super-swiss",
-         "pubDate" : "Mon, 18 Oct 2021 11:40:48 -0700",
+         "pubDate" : "Mon, 18 Oct 2021 11:40:00 -0700",
          "title" : "Sarana Wins Super Swiss, Qualifies For Speed Chess Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-10",
-         "pubDate" : "Mon, 18 Oct 2021 18:19:05 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 10"
       },
       {
          "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
@@ -64,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-s-4-c4-in-the-caro-kann-advance-variation",
          "pubDate" : "Mon, 18 Oct 2021 17:00:00 +0100",
          "title" : "Carlsen's 4.c4 in the Caro-Kann Advance Variation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/last-minute-win-streak-interview-gulrukhbegim-tokhirjonova\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/last-minute-win-streak-interview-gulrukhbegim-tokhirjonova",
-         "pubDate" : "Mon, 18 Oct 2021 15:18:53 +0000",
-         "title" : "Last Minute Win Streak -Interview with Gulrukhbegim Tokhirjonova"
       },
       {
          "description" : "",
@@ -170,76 +234,12 @@ news_feed (
          "title" : "US Chess Championships R10: Caruana Shares First, Yip Women's Champion"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The commentators have fun with the 2021 U.S. Women&#039;s Chess Champion IM Carissa Yip following her match with IM Nazi Paikidze </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/champion-crowned-interview-im-carissa-yip\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7D-Z2R6wOoU.jpg?itok=1huHbmcV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/champion-crowned-interview-im-carissa-yip",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "A Champion is Crowned!!! - Interview IM Carissa Yip"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice challenges Cristian and Yasser on the move Rb3?! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/human-vs-machine-rb3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AEFWz67ZfzE.jpg?itok=nayDpMZt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/human-vs-machine-rb3",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "Human .vs Machine: Rb3?!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice, Yasser, and Cristian talks to GM Dariusz Swiercz about his play in the U.S Chess Championship and what learning experiences he is taking away from tournament play </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learning-experience-interview-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B1Y16K0sKkA.jpg?itok=WRMQrKjz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learning-experience-interview-gm-dariusz-swiercz",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "A Learning Experience - Interview with GM Dariusz Swiercz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev switches it up again with Nf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nf3-100-interview-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8_OCmDF4YY.jpg?itok=i6InhFVZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nf3-100-interview-wgm-tatev-abrahamyan",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "Nf3 is 100% - Interview with WGM Tatev Abrahamyan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/last-minute-win-streak-interview-wim-gulrukhbegim-tokhirjonova\"><img src=\"https://saintlouischessclu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/last-minute-win-streak-interview-wim-gulrukhbegim-tokhirjonova",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "Last Minute Win Streak -Interview with WIM Gulrukhbegim Tokhirjonova"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maurice, Cristian, and Yasser interviews GM Fabiano Caruana about his rise to the top of leader board with GM&#039;s Wesley So and Sam Sevian. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/phoenix-rising-ashes-interview-gm-fabiano-caruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rj1v0b7FROA.jpg?itok=SqB3DgBu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/phoenix-rising-ashes-interview-gm-fabiano-caruana",
-         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
-         "title" : "A phoenix rising from the ashes - Interview with GM Fabiano Caruana"
-      },
-      {
          "description" : "16-year-old Indian prodigy Praggnanandhaa was in supreme form as he defeated Christopher Yoo 3:0 to win the Julius Baer Challengers Chess Tour, taking the top prize of $12,500 and earning a regular spot on the 2022 Meltwater Champions Chess Tour. 14-year-old Christopher Yoo took the $7,500 second prize and impressed by making each game of the final an intense battle, with Vladimir Kramnik predicting the US star will also become a \"very, very strong player\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/praggnanandhaa-wins-challengers-chess-tour-with-stunning-8-5-9",
          "pubDate" : "Sun, 17 Oct 2021 22:52:29 +0000",
          "title" : "Praggnanandhaa wins Challengers Chess Tour with stunning 8.5/9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-wesley-so-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KWKaVi5_gHY.jpg?itok=ZQrnqtpJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-wesley-so-interview-round-9",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "2021 U.S. Chess Championships: Wesley So Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-domiguez-favorites-are-all-bit-tired\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0mkR38rjEwo.jpg?itok=OFD9mk6i\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/leinier-domiguez-favorites-are-all-bit-tired",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Leinier Domiguez: \"The Favorites are All a Bit Tired\""
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Six Dutch players, including 2019 champion <strong>Lucas van Foreest</strong>, tried to overcome the regulations of the <strong>Dutch Championship</strong> that has <a href=\"https://schaken.nl/nk-schaken\">begun this Friday</a> requiring a Corona-passport (being fully vaccinated of recovered from a Covid-19 infection) or daily tests. The court <a href=\"https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBNHO:2021:8954\">upheld the regulations and condemned the plaintiffs</a> to pay €3,364 to the <strong>Dutch Chess Federation</strong> and the town of Hoogeveen. Lucas van Foreest, who is known to love publicity, was called a hero by the righ",
@@ -736,6 +736,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-r6",
          "pubDate" : "Wed, 13 Oct 2021 13:15:00 +0100",
          "title" : "US Championships: Time pressure"
+      },
+      {
+         "description" : " The German Bundesliga was due to place 23rd November 2019 to 2nd May 2020. The Coronavirus caused havoc and although a limited final event took place in 2020 the league season will now be completed in Berlin 13th to 17th October. There is a single round 13 match on the 13th - Rounds 9 and 10 on the 14th, Rounds 11 and 12 on the 15th, Round 13 and 14 on the 16th and the final round 15 on the 17th of October.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
+         "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
+         "title" : "German Bundesliga 2019-2020 - Games and Results"
       },
       {
          "description" : "The Brutal Bishops grabbed the sole lead on day two of the Chess Super League on Tuesday. A 3-3 tie with the Quintessential Queens was enough for a one-point gap in match points because the two other winners of the first day lost their second matc...",
@@ -1328,6 +1336,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1372",
          "pubDate" : "Wed, 06 Oct 2021 16:51:11 +0000",
          "title" : "FIDE Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
+         "description" : " The US Chess Championships take place in Saint Louis Tue 5th Oct to Tue 19th Oct 2021. Men's Championship: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Samuel Sevian, Dariusz Swiercz, Lazaro Bruzon Batista, Daniel Naroditsky, Aleksandr Lenderman andJohn M Burke. Nakamura explained his absence as wanting to focus completely on the FIDE Grand Swiss in Riga at the end of the month. Women's Championship: Irina Krush, Anna Zatonskih, Carissa Yip, Nazi Paikidze, Tatev Abrahamyan, Katerina Nemcova, Gulrukhbegim Tokhirjonova, Anna Sharevich, Ashritha Eswaran, Sabina-Francesca Foisor, Thalia Cervantes Landeiro and Megan Lee. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2021",
+         "pubDate" : "Wed, 6 Oct 2021 19:48:00 +0400",
+         "title" : "US Chess Championships 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -2072,22 +2088,6 @@ news_feed (
          "link" : "https://aicf.in/asian-amateur-online-chess-champonships-2021/",
          "pubDate" : "Mon, 27 Sep 2021 23:44:49 +0000",
          "title" : "ASIAN AMATEUR ONLINE CHESS CHAMPONSHIPS 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1355",
-         "pubDate" : "Mon, 27 Sep 2021 22:07:38 +0000",
-         "title" : "Carlsen's lead narrows as pressure rises in Tour Finals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1354",
-         "pubDate" : "Mon, 27 Sep 2021 21:40:34 +0000",
-         "title" : "Czech Championship: Vojtěch Pl&aacute;t and Karolina Pilsova take titles"
       }
    ]
 }
