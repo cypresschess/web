@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After eight of eleven rounds Nikita Vitiugov is the sole leader at the Russian Superfinals. With 5.5/8 he is half a point ahead of Vladimir Fedoseev. In the Women's Tournament Valentina Gunina leads with 6.5/8, and is half a point ahead of Evgenija Ovod. Sunday, 18 October, was a free day, but on Monday, 19 October, the tournament resumes with round 9. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Mon, 18 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals, Round 9 - Live!"
+      },
+      {
+         "description" : "With three rounds to go in the Russian Superfinals, Nikita Vitiugov and Valentina Gunina are leading the tournament standings in the open and women's event respectively. Vitiugov climbed to first place after surviving a lost position against Kirill Alekseenko, while Gunina is undefeated with five wins in eight games so far in Ufa. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r8",
+         "pubDate" : "Mon, 18 Oct 2021 11:50:00 +0100",
+         "title" : "Superfinals: Vitiugov and Gunina sole leaders"
+      },
+      {
+         "description" : "There was no stopping Praggnanandhaa in the Finals of the Julius Baer Challengers Tour. The 16-year-old from Chennai scored a dominating 3-0 victory in the final match against Christopher Yoo, which means he was a half point away from getting a perfect score in the event - he got 8&frac12;/9 points after knocking out Volodar Murzin and Vincent Keymer in the previous rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-4",
+         "pubDate" : "Mon, 18 Oct 2021 11:10:00 +0100",
+         "title" : "Impressive Praggnanandhaa wins Julius Baer Challengers Tour Finals"
+      },
+      {
+         "description" : "At the recent AGM it was not possible to announce the results of the elections due to shortness of time and also because of considerable...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-election-results/",
+         "pubDate" : "Mon, 18 Oct 2021 08:55:40 +0000",
+         "title" : "ECF AGM Election Results"
+      },
+      {
          "description" : "Knowing the ins and outs of annotating a game in ChessBase is one of the most fundamental and useful skills to have in it. It is vital so you can prepare openings, review your games, and more. Before stating you know all this, ask yourself: can you easily add text before a move, add symbols such as 'with attack', and add a '!' without a mouse? Let's start mastering the tools!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -159,7 +191,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
          "pubDate" : "Sun, 17 Oct 2021 15:55:00 +0100",
-         "title" : "Challengers Chess Tour Finals - Live!"
+         "title" : "Challengers Chess Tour Finals - Pragg wins"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 49th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how White conducts a typical attack in the Sicilian. | Photo: Tommy Grooten",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-49-the-beginning-of-an-attack",
          "pubDate" : "Sun, 17 Oct 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 49: The beginning of an attack"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina, has Dmitry Andreikin and Nikita Vitiugov as the top seeds. Polina Shuvalova and Alina Kashlinskaya are the highest-rated players in the women's section. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Sun, 17 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Live!"
       },
       {
          "description" : " People often buy and read the wrong books, as you will have seen from my previous articles. I suspect people often buy and read opening books which, while perhaps excellent in themselves, are pitched at the wrong level for them. Broadly speaking, you could say that there are three types of opening book: 1500 books, <a href=\"https://chessimprover.com/wrong-opening-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Opening Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-opening-books/\">Wrong Opening Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -346,7 +370,7 @@ news_feed (
          "title" : "Bundesliga live: Round 12"
       },
       {
-         "description" : "From the 15th 21st October 2021 &#8212; Name Group George Zhao U8 Open Kushal Jakhria U8 Open Bodhana Sivanandan U8 Girls Zoe Veselow U8...",
+         "description" : "From the 15th 21st October 2021. Follow the results here http://chess-results.com/tnr582081.aspx?lan=1&#38;art=25&#38;fedb=ENG&#38;turdet=YES&#38;flag=30 Pictures by Matthew Carr Name Group George Zhao U8 Open Kushal Jakhria...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/england-at-the-european-youth-hybrid-championship/",
@@ -1426,14 +1450,6 @@ news_feed (
          "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
       },
       {
-         "description" : "Click the link to read a post from Northenden Chess Club and John Hennessy to cheer us all up as we try to get back...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/silence-has-never-sounded-so-good/",
-         "pubDate" : "Mon, 04 Oct 2021 08:48:37 +0000",
-         "title" : "Silence has never sounded so good"
-      },
-      {
          "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2056,30 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/champions-chess-tour-final-round-2-carlsen-continues-to-lead",
          "pubDate" : "Mon, 27 Sep 2021 13:48:57 +0100",
          "title" : "Champions Chess Tour Final, Round 2: Carlsen continues to lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1353",
-         "pubDate" : "Mon, 27 Sep 2021 11:02:13 +0000",
-         "title" : "Chess for children with ASD seminar: Registration deadline approaches"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1351",
-         "pubDate" : "Mon, 27 Sep 2021 07:30:52 +0000",
-         "title" : "FIDE and Establishment Labs announce landmark sponsorship agreement for women's chess"
-      },
-      {
-         "description" : "William Steinitz, the first official World Chess Champion, was born in 1836 in Prague and died on August 12, 1900 in New York, where he was also buried. Emanuel Lasker, the second World Champion, was born in Berlinchen, which today is Barlinek, a small city in Poland. But Lasker also died in New York and was buried close to his former rival Steinitz. IM Yury Lapshun and FM Jon Jacobs visited the graves of the two chess legends. | Photos: IM Yury Lapshun and FM Jon Jacobs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/visiting-steinitz-and-lasker-at-their-final-resting-places",
-         "pubDate" : "Mon, 27 Sep 2021 08:30:37 +0100",
-         "title" : "Visiting Steinitz and Lasker at Their Final Resting Places"
       }
    ]
 }
