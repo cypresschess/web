@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The commentators have fun with the 2021 U.S. Women&#039;s Chess Champion IM Carissa Yip following her match with IM Nazi Paikidze </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/champion-crowned-interview-im-carissa-yip\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7D-Z2R6wOoU.jpg?itok=1huHbmcV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/champion-crowned-interview-im-carissa-yip",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "A Champion is Crowned!!! - Interview IM Carissa Yip"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice challenges Cristian and Yasser on the move Rb3?! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/human-vs-machine-rb3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AEFWz67ZfzE.jpg?itok=nayDpMZt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/human-vs-machine-rb3",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "Human .vs Machine: Rb3?!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice, Yasser, and Cristian talks to GM Dariusz Swiercz about his play in the U.S Chess Championship and what learning experiences he is taking away from tournament play </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learning-experience-interview-gm-dariusz-swiercz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B1Y16K0sKkA.jpg?itok=WRMQrKjz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learning-experience-interview-gm-dariusz-swiercz",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "A Learning Experience - Interview with GM Dariusz Swiercz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev switches it up again with Nf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nf3-100-interview-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8_OCmDF4YY.jpg?itok=i6InhFVZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nf3-100-interview-wgm-tatev-abrahamyan",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "Nf3 is 100% - Interview with WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/last-minute-win-streak-interview-wim-gulrukhbegim-tokhirjonova\"><img src=\"https://saintlouischessclu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/last-minute-win-streak-interview-wim-gulrukhbegim-tokhirjonova",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "Last Minute Win Streak -Interview with WIM Gulrukhbegim Tokhirjonova"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice, Cristian, and Yasser interviews GM Fabiano Caruana about his rise to the top of leader board with GM&#039;s Wesley So and Sam Sevian. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/phoenix-rising-ashes-interview-gm-fabiano-caruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rj1v0b7FROA.jpg?itok=SqB3DgBu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/phoenix-rising-ashes-interview-gm-fabiano-caruana",
+         "pubDate" : "Mon, 18 Oct 2021 00:18:28 +0000",
+         "title" : "A phoenix rising from the ashes - Interview with GM Fabiano Caruana"
+      },
+      {
          "description" : "16-year-old Indian prodigy Praggnanandhaa was in supreme form as he defeated Christopher Yoo 3:0 to win the Julius Baer Challengers Chess Tour, taking the top prize of $12,500 and earning a regular spot on the 2022 Meltwater Champions Chess Tour. 14-year-old Christopher Yoo took the $7,500 second prize and impressed by making each game of the final an intense battle, with Vladimir Kramnik predicting the US star will also become a \"very, very strong player\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,54 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/irina-krush-must-win-situation",
          "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
          "title" : "Irina Krush: A Must-Win Situation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Jeffery Xiong during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-jeffery-xiong-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BrctTuDS3v4.jpg?itok=DvEplaVJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-jeffery-xiong-interview-round-9",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "2021 U.S. Chess Championships: Jeffery Xiong Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Gulrukhbegim Tokhirjonova during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gulrukhbegim-tokhirjonova-begim-brings-it\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AeSUxqqDGLw.jpg?itok=h9nIhewz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gulrukhbegim-tokhirjonova-begim-brings-it",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Gulrukhbegim Tokhirjonova: Begim Brings It!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Anna Zatonskih during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-anna-zatonskih-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QF7hByZT2DE.jpg?itok=zLoEbnEp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-anna-zatonskih-interview-round-9",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "2021 U.S. Chess Championships: Anna Zatonskih Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to North American Scrabble Master Chris Lipe during Round 9 of the 2021 U.S. Chess Championships. 2021.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-chris-lipe-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A4q89-gqb48.jpg?itok=AOlKwuHe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-chris-lipe-interview-round-9",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "2021 U.S. Chess Championships: Chris Lipe Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nemcova-risking-too-much\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nemcova-risking-too-much",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Is Nemcova risking too much?!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators take a look back at some of the brilliancies and blunders played in the earlier rounds of the 2021 U.S. Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brilliancy-vs-blunder\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wHkPwgvmntA.jpg?itok=Y1l3biTo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brilliancy-vs-blunder",
-         "pubDate" : "Sun, 17 Oct 2021 21:18:18 +0000",
-         "title" : "Brilliancy .vs Blunder"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Six Dutch players, including 2019 champion <strong>Lucas van Foreest</strong>, tried to overcome the regulations of the <strong>Dutch Championship</strong> that has <a href=\"https://schaken.nl/nk-schaken\">begun this Friday</a> requiring a Corona-passport (being fully vaccinated of recovered from a Covid-19 infection) or daily tests. The court <a href=\"https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBNHO:2021:8954\">upheld the regulations and condemned the plaintiffs</a> to pay €3,364 to the <strong>Dutch Chess Federation</strong> and the town of Hoogeveen. Lucas van Foreest, who is known to love publicity, was called a hero by the righ",
