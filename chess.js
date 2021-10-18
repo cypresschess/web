@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the FIDE World Cup 2021 Magnus Carlsen surprised his opponent Vladimir Fedoseev in the Caro-Kann Advance Variation (1.e4 c6 2.d4 d5 3.e5 Bf5) with the move 4.c4. Jan Werle analyses this brilliant game in ChessBase Magazine Extra #203 in a video and pays special attention to the opening. Is Carlsen's idea a good attacking weapon against the Caro-Kann? Take a look at an excerpt from Werle's video analysis!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-s-4-c4-in-the-caro-kann-advance-variation",
+         "pubDate" : "Mon, 18 Oct 2021 17:00:00 +0100",
+         "title" : "Carlsen's 4.c4 in the Caro-Kann Advance Variation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1389",
+         "pubDate" : "Mon, 18 Oct 2021 14:52:05 +0000",
+         "title" : "FIDE World Championship 2021: Safety measures for Expo visitors"
+      },
+      {
+         "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/62nd-annual-us-armed-forces-open-chess-championship",
+         "pubDate" : "Mon, 18 Oct 2021 15:02:02 +0100",
+         "title" : "62nd Annual US Armed Forces Open Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1388",
+         "pubDate" : "Mon, 18 Oct 2021 13:56:47 +0000",
+         "title" : "Praggnanandhaa wins Julius Baer Challengers Chess Tour Finals"
+      },
+      {
+         "description" : "The detailed results for the card vote on the Report of the Non-Executive Directors can be found here. The final total was 254 votes in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/agm-card-votes-results/",
+         "pubDate" : "Mon, 18 Oct 2021 13:37:33 +0000",
+         "title" : "AGM Card Votes results"
+      },
+      {
+         "description" : " As someone who helps write the Laws of Chess, I am always surprised when people ignore common sense interpretations. Two recent cases attracted my notice, both involving draws. In the first, a player who had K+Q resigned against a player with a lone King. Ignoring the possible reasons for this, the question was what should the score of the game be. Under the strict reading of the Laws of Chess, the point should go to the player with the King. Under the 'analogous situations involving a loss on time' approach, it should be a draw, although the arbiter may wish to adjust the score (downwards) for the player with K+Q. In the second case, an online event had a 'no draw offer' before move 40, co",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/rules-shouldnt-always-be-rules.html",
+         "pubDate" : "Mon, 18 Oct 2021 13:16:00 +0000",
+         "title" : "Rules shouldn't always be rules"
+      },
+      {
+         "description" : "Owing to staff leave during the half-term break, the office phones will only be manned between 0930 and 1330 Monday to Thursday next week (25th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/staff-leave-office-hours-25-10-29-10-21/",
+         "pubDate" : "Mon, 18 Oct 2021 11:35:46 +0000",
+         "title" : "Staff leave / office hours 25/10 - 29/10/21"
+      },
+      {
          "description" : "After eight of eleven rounds Nikita Vitiugov is the sole leader at the Russian Superfinals. With 5.5/8 he is half a point ahead of Vladimir Fedoseev. In the Women's Tournament Valentina Gunina leads with 6.5/8, and is half a point ahead of Evgenija Ovod. Sunday, 18 October, was a free day, but on Monday, 19 October, the tournament resumes with round 9. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/annotating-in-chessbase-the-basics",
          "pubDate" : "Mon, 18 Oct 2021 07:32:23 +0100",
          "title" : "Annotating in ChessBase: The Basics"
+      },
+      {
+         "description" : "Round 10 of the 2021 U.S. Chess Championship reshaped the tournament standings before the decisive day. GM Fabiano Caruana won with Black against GM&#38;nbsp;Aleksandr Lenderman and is now sharing first with GMs Wesley So and Sam Sevian with 6/10 (who...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-10",
+         "pubDate" : "Sun, 17 Oct 2021 17:24:00 -0700",
+         "title" : "US Chess Championships R10: Caruana Shares First, Yip Women's Champion"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The commentators have fun with the 2021 U.S. Women&#039;s Chess Champion IM Carissa Yip following her match with IM Nazi Paikidze </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/champion-crowned-interview-im-carissa-yip\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7D-Z2R6wOoU.jpg?itok=1huHbmcV\" alt=\"\" /></a></div>",
@@ -338,6 +402,14 @@ news_feed (
          "title" : "Agreement instead of divisive vote"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Fri, 15 Oct 2021 18:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
          "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
          "pubDate" : "Thu, 14 Oct 2021 16:56:00 +0100",
          "title" : "Svitlana's Smart Moves - A winning mind set"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Thu, 14 Oct 2021 15:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Photo: Lennart Ootes",
@@ -1146,14 +1210,6 @@ news_feed (
          "title" : "EUROPEAN ONLINE RAPID SCHOOL CHAMPIONSHIPS - Official regulations"
       },
       {
-         "description" : "If you think you've been an ECF member in the last two to three years but have lapsed for whatever reason, please call or email...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/a-note-for-parents-on-ecf-membership/",
-         "pubDate" : "Thu, 07 Oct 2021 13:00:02 +0000",
-         "title" : "Duplicate ECF memberships"
-      },
-      {
          "description" : "With the cooperation of the Slovenian Chess Federation and FIDE Development Commission, the European Chess Union organizes a \"Mixed\" FIDE Arbiters' Seminar in the English language. The venue will be the city of Terme Čatež, Slovenia, concurrently with the European Team Championship. The event will take place from Sunday, Nov. 14th, to Thursday, Nov. 18th, 2021. The lecturer&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1314,14 +1370,6 @@ news_feed (
          "title" : "Tournament of Peace 2021"
       },
       {
-         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2021-22/",
-         "pubDate" : "Tue, 05 Oct 2021 15:36:10 +0000",
-         "title" : "Clubs & Congress Insurance 2021/22"
-      },
-      {
          "description" : "GM Nihal Sarin comfortably reached the final of the Junior Speed Chess Championship presented by ChessKid, after a 20.5-9.5 win over GM Haik Martirosyan on Monday. Sarin will be defending his 2020 title against the winner of GM Raunak Sadhwani vs....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1448,14 +1496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-163-highlights-of-the-hou-yifan-challenge",
          "pubDate" : "Mon, 04 Oct 2021 11:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
-      },
-      {
-         "description" : "In Sunday&#39;s round eight of the Meltwater Champions Chess Tour Finals GM Teimour Radjabov moved up to second place after beating his countryman, GM Shakhriyar Mamedyarov. GM Magnus Carlsen failed to recover from yesterday&#39;s loss and lost 1-3 to GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-finals-day-8",
-         "pubDate" : "Sun, 03 Oct 2021 20:24:00 -0700",
-         "title" : "Champions Chess Tour Finals Day 8: Radjabov Moves To 2nd Place"
       },
       {
          "description" : " From the publisher: &#8220;The Secret Ingredient is a grandmaster guide to maximizing your chess results, focusing on key elements of practical play which have received little to no attention in previous chess literature. How exactly can we best make use of computers? What's the ideal, step-by-step way to prepare against a specific opponent? How can <a href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Secret Ingredient: To Winning at Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-t",
@@ -2048,30 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/simen-s-school-trip",
          "pubDate" : "Mon, 27 Sep 2021 19:00:00 +0100",
          "title" : "Simen Agdestein wins Grand Prix Tournament in Krager&oslash;"
-      },
-      {
-         "description" : "Karsten M&uuml;ller's guest in this week's \"Endgame Magic Show\" is the French GM Christian Bauer who just produced an interesting DVD - which, of course, will also available per download - about the charms and attractions of the Alekhine Defense. Karsten and Christian talk about this DVD but they also look at some fine endgames Christian played. | Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-162-with-french-gm-and-opening-expert-christian-bauer",
-         "pubDate" : "Mon, 27 Sep 2021 16:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #162: With French GM and opening expert Christian Bauer"
-      },
-      {
-         "description" : "It is intimated to all players that the last date of registration for Asian Youth Online Chess Championship 2021 is 01 October 2021. For further",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/registration-for-asian-youth-online-chess-championship-2021-2/",
-         "pubDate" : "Mon, 27 Sep 2021 14:24:05 +0000",
-         "title" : "Registration for Asian Youth Online Chess Championship 2021"
-      },
-      {
-         "description" : "After two days of play Magnus Carlsen leads the final of the Meltwater Champions Chess Tour - which he, thanks to the 16.5 bonus point he received because of his successes in the previous tournaments of the tour - did from the very start of the event. But in round 2 the World Champion had to overcome serious problems before beating Shakhryar Mamedyarov in a tense and eventful match that went into Armageddon. | Graphics and photos: Tournament Site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-round-2-carlsen-continues-to-lead",
-         "pubDate" : "Mon, 27 Sep 2021 13:48:57 +0100",
-         "title" : "Champions Chess Tour Final, Round 2: Carlsen continues to lead"
       }
    ]
 }
