@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knowing the ins and outs of annotating a game in ChessBase is one of the most fundamental and useful skills to have in it. It is vital so you can prepare openings, review your games, and more. Before stating you know all this, ask yourself: can you easily add text before a move, add symbols such as 'with attack', and add a '!' without a mouse? Let's start mastering the tools!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-the-basics",
+         "pubDate" : "Mon, 18 Oct 2021 07:32:23 +0100",
+         "title" : "Annotating in ChessBase: The Basics"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The commentators have fun with the 2021 U.S. Women&#039;s Chess Champion IM Carissa Yip following her match with IM Nazi Paikidze </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/champion-crowned-interview-im-carissa-yip\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7D-Z2R6wOoU.jpg?itok=1huHbmcV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -127,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Sun, 17 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Live!"
+         "title" : "US Championships - Round 10"
       },
       {
          "description" : "Fabiano Caruana moved to within just half a point of the leaders with two rounds of the US Chess Championships to go after defeating Dariusz Swiercz in Round 9, while his key rivals only drew. Wesley So missed a great chance to take the sole lead by beating Daniel Naroditsky, while Leinier Dominguez was a whisker away from defeating Ray Robson and joining leaders So, Sam Sevian and Alex Lenderman. The Women's Championship is much clearer, with Carissa Yip leading Irina Krush by a full point after powering to a 4th win in a row.",
