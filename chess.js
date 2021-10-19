@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endings often have drawish tendencies, but pawn races usually spice things up. In the diagram position it is Black to move. Should he protect his pawn on g6 or should he attack White's pawn on b3?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pawn-race-in-a-rook-ending",
+         "pubDate" : "Tue, 19 Oct 2021 09:00:00 +0100",
+         "title" : "Pawn race in a rook ending"
+      },
+      {
+         "description" : " Share!The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Three girls from Chicago's southside have been showing exactly how chess has benefited them. Shakira Luster, Trechelle Williams, and Imani Hillhoisting their trophies at the 2019 All-Grade [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
+         "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
+         "title" : "Chicago, Chess and McDonald's"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana, Wesley So, and Sam Sevian compete in a rapid round robin playoff for the U.S. Chess Championship. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playoff-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IsYB",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -914,7 +930,7 @@ news_feed (
          "title" : "Superfinals: Alekseenko and Gunina in the lead"
       },
       {
-         "description" : " Share!36 Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
@@ -2048,38 +2064,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/some-new-chess-authors.html",
          "pubDate" : "Tue, 28 Sep 2021 08:46:00 +0000",
          "title" : "Some new chess authors(?)"
-      },
-      {
-         "description" : "After opening, middlegame and endgame comes the 4th phase of the game, when both sides have queened. In this phase it is important to start checking the enemy king first. In the diagram position Black just gave a check. But where should the white king go? And how should White prepare a transition to the fourth phase of the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fourth-phase-of-the-game",
-         "pubDate" : "Tue, 28 Sep 2021 09:00:00 +0100",
-         "title" : "The fourth phase of the game"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86576317.cms\" />The 18-year-old remained unbeaten to bring home his maiden yellow metal in the Joytu Sheikh Hasina International Grandmasters Chess Tournament, which concluded at Dhaka, Bangladesh, on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-gupta-seals-gold-wins-first-international-rating-chess-tourney-in-bangladesh/articleshow/86576317.cms",
-         "pubDate" : "Tue, 28 Sep 2021 10:45:57 +0530",
-         "title" : "Sankalp seals gold, wins first international rating chess tourney"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86576126.cms\" />India drew their opening-round game against Azerbaijan 2-2 before defeating hosts Spain 2.5-1.5 in the subsequent round on Day 1 of the women's World Team Championship which commenced in Sitges on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/womens-world-team-chess-india-start-on-a-strong-note/articleshow/86576126.cms",
-         "pubDate" : "Tue, 28 Sep 2021 10:37:18 +0530",
-         "title" : "Women's World Team Chess: India start on a strong note"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86575905.cms\" />The pressure ramped up in the $300,000 Meltwater Champions Chess Tour Finals on Monday as Magnus Carlsen had a point chipped off his lead. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/champions-tour-finals-magnus-carlsens-lead-narrows/articleshow/86575905.cms",
-         "pubDate" : "Tue, 28 Sep 2021 10:25:34 +0530",
-         "title" : "Champions Tour Finals: Magnus Carlsen's lead narrows"
       }
    ]
 }
