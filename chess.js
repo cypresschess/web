@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana, Wesley So and Sam Sevian finished the 2021 US Championship sharing first place on 6&frac12;/11 points. A rapid round robin tournament (10 minutes plus 2-second increments) will decide the winner. In case of a tie, blitz and Armageddon will follow. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
+         "pubDate" : "Tue, 19 Oct 2021 19:55:00 +0100",
+         "title" : "US Championship: Playoffs - Live!"
+      },
+      {
+         "description" : "The last round of the US Championship was played on Monday. The US Champion, however, has not yet been decided, as Fabiano Caruana, Wesley So and Sam Sevian finished tied on points atop the standings and will play a rapid-chess tiebreak to find the winner of this year's national event. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-r11",
+         "pubDate" : "Tue, 19 Oct 2021 19:25:00 +0100",
+         "title" : "US Championships: Sevian, Caruana and So go to playoffs"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the US Championships, especially on Carissa Yip's victory in the Women's event. The game of the day is Yip's win against Nazi Paikidze. Lawrence will also talk about Pragg's victory at the Julius Baer challenge, and other events. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-carissa-yip-wins-us-women-s-championship-2021",
+         "pubDate" : "Tue, 19 Oct 2021 18:00:00 +0100",
+         "title" : "The Weekly Show: Carissa Yip wins US Women's Championship 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> \"Bishop takes fries\" is the title of <a href=\"https://m.youtube.com/watch?v=rERiT0fprOQ\">this chess-themed ad</a> about players who meet at a South Chicago <strong>McDonald's</strong> restaurant and have started to win scholastic titles. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/mcdonalds-now-has-a-chess-ad-too/",
+         "pubDate" : "Tue, 19 Oct 2021 16:14:02 +0100",
+         "title" : "McDonald's now has a chess ad, too"
+      },
+      {
          "description" : "Quick draws for Wesley So and Sam Sevian meant that Fabiano Caruana could complete a fairytale US Chess Championship comeback if he beat Sam Shankland in the final round. When Sam gave up his queen based on what he later admitted was a miscalculation glory beckoned for Fabi, but in the end he had to scramble to make a draw, which means a 3-way rapid playoff for 1st on Tuesday. Meanwhile the Women's Championship is over, with Gulrukhbegim Tokhirjonova edging out Irina Krush for 2nd place after Irina fell to Tatev Abrahamyan.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -26,6 +58,22 @@ news_feed (
          "title" : "Episode 248- GM Noel Studer "
       },
       {
+         "description" : "Rook endings often have drawish tendencies, but pawn races usually spice things up. In the diagram position it is Black to move. Should he protect his pawn on g6 or should he attack White's pawn on b3?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pawn-race-in-a-rook-ending",
+         "pubDate" : "Tue, 19 Oct 2021 13:00:00 +0100",
+         "title" : "Pawn race in a rook ending"
+      },
+      {
+         "description" : "With a remarkable 8&frac12;/11 score, Carissa Yip won the 2021 US Women's Championship a bit over a month after turning 18 years old. The Bostonian is the highest-rated U20 woman player in the world and has now joined the top 50 in the live women's ratings list. The youngster won the national title in style, securing first place with a round to spare and finishing the event 1&frac12; points ahead of second-placed Gulrukhbegim Tokhirjonova. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carissa-yip-wins-us-womens-championship-at-18",
+         "pubDate" : "Tue, 19 Oct 2021 12:40:00 +0100",
+         "title" : "Carissa Yip wins the US Women's Championship at 18"
+      },
+      {
          "description" : "After 9 out of 11 rounds at the Russian Superfinals, Nikita Vitiugov is the sole leader in the open championship, with Maxim Matlakov in second place a half point behind. In the women's event, Valentina Gunina is leading Evgenija Ovod also by a half point - Ovod has the white pieces against Gunina in round 10. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +90,12 @@ news_feed (
          "title" : "Harriet Hunt wins British Women's Championship"
       },
       {
-         "description" : "With a remarkable 8&frac12;/11 score, Carissa Yip won the 2021 US Women's Championship a bit over a month after turning 18 years old. The Bostonian is the highest-rated U20 woman player in the world and has now joined the top 50 in the live women's ratings list. The youngster won the national title in style, securing first place with a round to spare and finishing the event 1&frac12; points ahead of second-placed Gulrukhbegim Tokhirjonova. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carissa-yip-wins-us-womens-championship-at-18",
-         "pubDate" : "Tue, 19 Oct 2021 11:40:00 +0100",
-         "title" : "Carissa Yip wins the US Women's Championship at 18"
-      },
-      {
          "description" : " Algorand, the official blockchain partner of the 2021 World Chess Championship, is holding <a href=\"https://worldchess.com/series/algorand?utm_source=website&utm_medium=article&utm_campaign=announcement&utm_term=worldchesssite\">a series of online chess tournaments</a> to celebrate the upcoming Championship Match between Magnus Carlsen and Ian Nepomniachtchi. World Chess is streaming the Final on Youtube on October 24th at 14:50 UTC, with commentator GM Evgeny Miroshnichenko, and the special guest WGM Dina Belenkaya. Subscribe to <a href=\"https://youtu.be/9NcsjVKlk7k\">our channel</a> and become a part of this festivity! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-algorand-series-the-final/",
          "pubDate" : "Tue, 19 Oct 2021 09:15:35 +0000",
          "title" : "The Algorand Series: the Final"
-      },
-      {
-         "description" : "Rook endings often have drawish tendencies, but pawn races usually spice things up. In the diagram position it is Black to move. Should he protect his pawn on g6 or should he attack White's pawn on b3?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pawn-race-in-a-rook-ending",
-         "pubDate" : "Tue, 19 Oct 2021 09:00:00 +0100",
-         "title" : "Pawn race in a rook ending"
       },
       {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) As a junior I knew this under the name &#8220;Russian defence&#8221;. For quite a while it did not make much sense to me why any player would use it. Of course at that time I wanted to get an edge <a href=\"https://chessimprover.com/need-sure-points-petroff-defence-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Petroff Defence Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-petroff-defence-edition/\">Need sure points? Petroff Defence Edition</a> appeared first on <a rel=\"nofollow\" href=\"https",
@@ -592,14 +624,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-eight/",
          "pubDate" : "Fri, 15 Oct 2021 09:16:27 +0000",
          "title" : "A Foundation for Beginners Thirty Eight"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> as a <a href=\"https://www.chesstech.org/2021/inside-chesscom/\">power user of cloud services and a global success story</a> is featured ahead of the forthcoming <strong>Google Cloud Next</strong> <a href=\"https://cloud.withgoogle.com/next\">online conference</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/google-cloud-features-chesscom/",
-         "pubDate" : "Fri, 15 Oct 2021 08:25:23 +0100",
-         "title" : "Google Cloud features Chess.com"
       },
       {
          "description" : " One win from his first six games in St Louis has left the American lagging well behind Ding Liren in the world rankings After eight of the 11 rounds at the $194,000 (&pound;141,522)<strong> </strong>US championship in St Louis, which finishes on Monday, Aleksandr Lenderman, Samuel Sevian and the defending champion Wesley So shared the lead on 5/8. This close race will probably only be decided in the final rounds. Games are <a href=\"https://www.chess.com/article/view/us-chess-championships\" title=\"\">free to watch live daily</a> from 7pm. The big shock has been the poor showing of top-seeded Fabiano Caruana, whose <a href=\"https://www.theguardian.com/sport/2014/sep/05/leonard-barden-on-chess\"",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "TePe Sigeman & Co, Round 7: Live"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at an attacking masterpiece by Magnus Carlsen in his first game vs Jan-Krzysztof Duda in the final of the Meltwater Champions Chess Tour. Duda took a poisoned pawn on c3 and was duly punished. Lawrence will also talk about what's going on at the TePe Sigeman tournament and the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-meltwater-finals",
-         "pubDate" : "Wed, 29 Sep 2021 09:14:23 +0100",
-         "title" : "The Weekly Show: Meltwater Finals"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86606140.cms\" />After two straight wins, India went down 1-3 to a formidable Russian team in a fourth Pool A match in the FIDE World Women's Team Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2040,30 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1357",
          "pubDate" : "Tue, 28 Sep 2021 20:03:37 +0000",
          "title" : "Training program for arbiters of online and hybrid events continues"
-      },
-      {
-         "description" : "All India Chess Federation under Chess for Everyone project is going to organizing district wise Arbiter and Organiser Training as well as Coaching Camps for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-for-everyone-project-arbiter-organiser-training-coaching-camp-for-players/",
-         "pubDate" : "Tue, 28 Sep 2021 16:29:37 +0000",
-         "title" : "Chess for Everyone Project : Arbiter, Organiser Training & Coaching Camp for players"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86589410.cms\" />The Indian team posted a second straight win in Pool A of the FIDE World Women's Team Chess Championship by beating Armenia 2.5-1.5 in the third round on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-armenia-in-third-round/articleshow/86589410.cms",
-         "pubDate" : "Tue, 28 Sep 2021 21:46:45 +0530",
-         "title" : "World Women's Team C'ship: India beat Armenia in third round"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart This week's selection was presented to me with pride by one of my students. His annotations are still a work in progress but give a glimpse <a href=\"https://chessimprover.com/students-analysis-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-6/\">Students Analysis (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-6/",
-         "pubDate" : "Tue, 28 Sep 2021 15:33:17 +0000",
-         "title" : "Students Analysis (6)"
       }
    ]
 }
