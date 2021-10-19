@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 9 out of 11 rounds at the Russian Superfinals, Nikita Vitiugov is the sole leader in the open championship, with Maxim Matlakov in second place a half point behind. In the women's event, Valentina Gunina is leading Evgenija Ovod also by a half point - Ovod has the white pieces against Gunina in round 10. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Tue, 19 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals, Round 10 - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1390",
+         "pubDate" : "Tue, 19 Oct 2021 10:44:54 +0000",
+         "title" : "Harriet Hunt wins British Women's Championship"
+      },
+      {
+         "description" : "With a remarkable 8&frac12;/11 score, Carissa Yip won the 2021 US Women's Championship a bit over a month after turning 18 years old. The Bostonian is the highest-rated U20 woman player in the world and has now joined the top 50 in the live women's ratings list. The youngster won the national title in style, securing first place with a round to spare and finishing the event 1&frac12; points ahead of second-placed Gulrukhbegim Tokhirjonova. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carissa-yip-wins-us-womens-championship-at-18",
+         "pubDate" : "Tue, 19 Oct 2021 11:40:00 +0100",
+         "title" : "Carissa Yip wins the US Women's Championship at 18"
+      },
+      {
+         "description" : " Algorand, the official blockchain partner of the 2021 World Chess Championship, is holding <a href=\"https://worldchess.com/series/algorand?utm_source=website&utm_medium=article&utm_campaign=announcement&utm_term=worldchesssite\">a series of online chess tournaments</a> to celebrate the upcoming Championship Match between Magnus Carlsen and Ian Nepomniachtchi. World Chess is streaming the Final on Youtube on October 24th at 14:50 UTC, with commentator GM Evgeny Miroshnichenko, and the special guest WGM Dina Belenkaya. Subscribe to <a href=\"https://youtu.be/9NcsjVKlk7k\">our channel</a> and become a part of this festivity! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-algorand-series-the-final/",
+         "pubDate" : "Tue, 19 Oct 2021 09:15:35 +0000",
+         "title" : "The Algorand Series: the Final"
+      },
+      {
          "description" : "Rook endings often have drawish tendencies, but pawn races usually spice things up. In the diagram position it is Black to move. Should he protect his pawn on g6 or should he attack White's pawn on b3?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pawn-race-in-a-rook-ending",
          "pubDate" : "Tue, 19 Oct 2021 09:00:00 +0100",
          "title" : "Pawn race in a rook ending"
+      },
+      {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) As a junior I knew this under the name &#8220;Russian defence&#8221;. For quite a while it did not make much sense to me why any player would use it. Of course at that time I wanted to get an edge <a href=\"https://chessimprover.com/need-sure-points-petroff-defence-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Petroff Defence Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-petroff-defence-edition/\">Need sure points? Petroff Defence Edition</a> appeared first on <a rel=\"nofollow\" href=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-petroff-defence-edition/",
+         "pubDate" : "Tue, 19 Oct 2021 07:39:56 +0000",
+         "title" : "Need sure points? Petroff Defence Edition"
       },
       {
          "description" : " Share!The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Three girls from Chicago's southside have been showing exactly how chess has benefited them. Shakira Luster, Trechelle Williams, and Imani Hillhoisting their trophies at the 2019 All-Grade [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "Dariusz Swiercz: A Learning Experience"
       },
       {
-         "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Mon, 18 Oct 2021 19:55:00 +0100",
-         "title" : "US Championships - Round 11"
-      },
-      {
          "description" : "GM Alexey Sarana won the Super Swiss on Sunday. The 21-year-old grandmaster from Moscow earned $4,000 and qualified for the Main Event of the Chess.com Speed Chess Championship. Sarana won a 16-player knockout tournament on Sunday after beating ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -122,12 +154,28 @@ news_feed (
          "title" : "Sarana Wins Super Swiss, Qualifies For Speed Chess Championship"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Mon, 18 Oct 2021 18:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
          "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/us-chess-champs-10-carissa-triumps-fabi-hits-the-front",
          "pubDate" : "Mon, 18 Oct 2021 17:55:00 +0000",
          "title" : "US Chess Champs 10: Carissa triumps | Fabi hits the front"
+      },
+      {
+         "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/62nd-annual-us-armed-forces-open-chess-championship",
+         "pubDate" : "Mon, 18 Oct 2021 18:23:02 +0100",
+         "title" : "62nd Annual US Armed Forces Open Chess Championship"
       },
       {
          "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Photos: Lennart Ootes",
@@ -170,14 +218,6 @@ news_feed (
          "title" : "FIDE World Championship 2021: Safety measures for Expo visitors"
       },
       {
-         "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/62nd-annual-us-armed-forces-open-chess-championship",
-         "pubDate" : "Mon, 18 Oct 2021 15:02:02 +0100",
-         "title" : "62nd Annual US Armed Forces Open Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/staff-leave-office-hours-25-10-29-10-21/",
          "pubDate" : "Mon, 18 Oct 2021 11:35:46 +0000",
          "title" : "Staff leave / office hours 25/10 - 29/10/21"
-      },
-      {
-         "description" : "After eight of eleven rounds Nikita Vitiugov is the sole leader at the Russian Superfinals. With 5.5/8 he is half a point ahead of Vladimir Fedoseev. In the Women's Tournament Valentina Gunina leads with 6.5/8, and is half a point ahead of Evgenija Ovod. Sunday, 18 October, was a free day, but on Monday, 19 October, the tournament resumes with round 9. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Mon, 18 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals, Round 9 - Live!"
       },
       {
          "description" : "With three rounds to go in the Russian Superfinals, Nikita Vitiugov and Valentina Gunina are leading the tournament standings in the open and women's event respectively. Vitiugov climbed to first place after surviving a lost position against Kirill Alekseenko, while Gunina is undefeated with five wins in eight games so far in Ufa. | Photo: Eteri Kublashvili",
@@ -464,14 +496,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/agreement-instead-of-divisive-vote/",
          "pubDate" : "Fri, 15 Oct 2021 19:44:12 +0100",
          "title" : "Agreement instead of divisive vote"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Fri, 15 Oct 2021 18:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2048,22 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sigeman-co-van-foreest-extends-lead-keymer-beats-nihal-sarin",
          "pubDate" : "Tue, 28 Sep 2021 13:06:19 +0100",
          "title" : "Sigeman&Co: Van Foreest extends lead, Keymer beats Nihal Sarin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1356",
-         "pubDate" : "Tue, 28 Sep 2021 09:05:11 +0000",
-         "title" : "FIDE Women's World Team Championship: CFR Team and Georgia take the lead"
-      },
-      {
-         "description" : " Over the last couple of days I decided to have a look at what chess books were being sold on eBay. Turns out that (a) there are heaps and heaps and (b) there are a number of authors I have kind of heard of/not heard of. By this I mean the following <ul style=\"text-align: left;\"><li>Magnus Anand</li><li>Magnus Fisher</li><li>Robert Morphy</li><li>John Carlsen</li></ul>I suspect if I looked deeper I might even find books by Bobby Botvinnik, Boris Kramnik and even Viswanathan Tal! <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/some-new-chess-authors.html",
-         "pubDate" : "Tue, 28 Sep 2021 08:46:00 +0000",
-         "title" : "Some new chess authors(?)"
       }
    ]
 }
