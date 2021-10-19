@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1391",
+         "pubDate" : "Tue, 19 Oct 2021 22:43:40 +0000",
+         "title" : "Wesley So and Carissa Yip clinch U.S. Championship titles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So after the Playoff of the 2021 U.S. Chess Championship. 2021.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-%E2%80%9Cfabi-should-have-won-today-my-day%E2%80%9D\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6fDlJT1rCP0.jpg?itok=m2zoZbAW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-%E2%80%9Cfabi-should-have-won-today-my-day%E2%80%9D",
+         "pubDate" : "Tue, 19 Oct 2021 21:20:14 +0000",
+         "title" : "Wesley So: \"Fabi Should Have Won, but Today is My Day.\""
+      },
+      {
+         "description" : "GM Wesley So won the playoff tiebreaks and is the 2021 U.S. Chess Champion. After 11 rounds of play in the 2021 U.S. Chess Championship, three GMs shared first place: So, Fabiano Caruana,&#38;nbsp;and Sam Sevian. These three played a rapid playoff to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-us-chess-championship",
+         "pubDate" : "Tue, 19 Oct 2021 14:12:00 -0700",
+         "title" : "Wesley So Wins 2021 US Chess Championship"
+      },
+      {
          "description" : "Fabiano Caruana, Wesley So and Sam Sevian finished the 2021 US Championship sharing first place on 6&frac12;/11 points. A rapid round robin tournament (10 minutes plus 2-second increments) will decide the winner. In case of a tie, blitz and Armageddon will follow. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +218,6 @@ news_feed (
          "title" : "US Chess Championships R11: Caruana, So, Sevian Advance To Tiebreaks"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Dariusz Swiercz during Round 10 of the 2021 U.S. Chess Championships. 2021.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dariusz-swiercz-learning-experience\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B1Y16K0sKkA.jpg?itok=WRMQrKjz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dariusz-swiercz-learning-experience",
-         "pubDate" : "Mon, 18 Oct 2021 21:18:59 +0000",
-         "title" : "Dariusz Swiercz: A Learning Experience"
-      },
-      {
          "description" : "GM Alexey Sarana won the Super Swiss on Sunday. The 21-year-old grandmaster from Moscow earned $4,000 and qualified for the Main Event of the Chess.com Speed Chess Championship. Sarana won a 16-player knockout tournament on Sunday after beating ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -223,7 +239,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/us-chess-champs-10-carissa-triumps-fabi-hits-the-front",
          "pubDate" : "Mon, 18 Oct 2021 17:55:00 +0000",
-         "title" : "US Chess Champs 10: Carissa triumps | Fabi hits the front"
+         "title" : "US Chess Champs 10: Carissa triumphs | Fabi hits the front"
       },
       {
          "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
@@ -1394,14 +1410,6 @@ news_feed (
          "title" : "Fabrizio Bellia becomes first Italian to win the European Senior Championship"
       },
       {
-         "description" : "One of the most anticipated tournaments in America, the U.S. Chess Championships, had its first round on Wednesday, October 6. This event is, as usual, being hosted by the Saint Louis Chess Club. Twelve players compete for the prizes fund of $194,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-1",
-         "pubDate" : "Wed, 06 Oct 2021 12:30:00 -0700",
-         "title" : "US Chess Championships R1: Robson, Burke Take Lead"
-      },
-      {
          "description" : "This week, Merijn van Delft shows an instructive game in which Magnus Carlsen defeated Anish Giri with the black pieces after navigating a position with a curious material imbalance. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2040,22 +2048,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/",
          "pubDate" : "Wed, 29 Sep 2021 00:10:07 +0000",
          "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1358",
-         "pubDate" : "Tue, 28 Sep 2021 21:23:34 +0000",
-         "title" : "Carlsen's lead cut to 4 points but So blows chance to take full advantage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1357",
-         "pubDate" : "Tue, 28 Sep 2021 20:03:37 +0000",
-         "title" : "Training program for arbiters of online and hybrid events continues"
       }
    ]
 }
