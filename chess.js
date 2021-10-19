@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Quick draws for Wesley So and Sam Sevian meant that Fabiano Caruana could complete a fairytale US Chess Championship comeback if he beat Sam Shankland in the final round. When Sam gave up his queen based on what he later admitted was a miscalculation glory beckoned for Fabi, but in the end he had to scramble to make a draw, which means a 3-way rapid playoff for 1st on Tuesday. Meanwhile the Women's Championship is over, with Gulrukhbegim Tokhirjonova edging out Irina Krush for 2nd place after Irina fell to Tatev Abrahamyan.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-11-caruana-miss-means-3-way-playoff",
+         "pubDate" : "Tue, 19 Oct 2021 15:11:41 +0000",
+         "title" : "US Chess Champs 11: Caruana miss means 3-way playoff"
+      },
+      {
+         "description" : " I saw a nice QOTD over at Lichess from Peter Svidler <i>The biggest tool for chess improvement would be playing against stronger opposition</i> It certainly works for me, although I'm not great at doing this a lot. I think it also shows how serious you are at getting better. Study and training are all very good, but it is when the pieces hit that board that really counts. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/some-good-advice-which-i-should-follow.html",
+         "pubDate" : "Tue, 19 Oct 2021 12:44:00 +0000",
+         "title" : "Some good advice - which I should follow"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://commons.wikimedia.org/wiki/File:Studer,Noel_2019_Radenci.jpg\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634646579392-5P3SN3SXTAZ7E8TII3KG/Noel3.jpg\" data-image-dimensions=\"256x341\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"616eba33bee9380a2508e567\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634646579392-5P3SN3SXTAZ7E8TII3KG/Noel3.jpg?format=1000w\" /> </a> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Noel Studer by MBIHund",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/19/episode-248-gm-noel-studer",
+         "pubDate" : "Tue, 19 Oct 2021 12:42:47 +0000",
+         "title" : "Episode 248- GM Noel Studer "
+      },
+      {
          "description" : "After 9 out of 11 rounds at the Russian Superfinals, Nikita Vitiugov is the sole leader in the open championship, with Maxim Matlakov in second place a half point behind. In the women's event, Valentina Gunina is leading Evgenija Ovod also by a half point - Ovod has the white pieces against Gunina in round 10. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "Need sure points? Petroff Defence Edition"
       },
       {
-         "description" : " Share!The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Three girls from Chicago's southside have been showing exactly how chess has benefited them. Shakira Luster, Trechelle Williams, and Imani Hillhoisting their trophies at the 2019 All-Grade [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Shakira Luster, Trechelle Williams and Imani Hill have been in the media spotlight for the past two years after winning the 8th grade section at the 2019 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess, Girl Power and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
          "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
-         "title" : "Chicago, Chess and McDonald's"
+         "title" : "Chicago, Chess, Girl Power and McDonald's"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana, Wesley So, and Sam Sevian compete in a rapid round robin playoff for the U.S. Chess Championship. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playoff-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IsYB",
@@ -226,12 +250,12 @@ news_feed (
          "title" : "Praggnanandhaa wins Julius Baer Challengers Chess Tour Finals"
       },
       {
-         "description" : "The detailed results for the card vote on the Report of the Non-Executive Directors can be found here. The final total was 254 votes in...",
+         "description" : "The detailed results for the card votes on the Report of the Non-Executive Directors and the Report of the Governance Committee can be found here",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/agm-card-votes-results/",
          "pubDate" : "Mon, 18 Oct 2021 13:37:33 +0000",
-         "title" : "AGM Card Votes results"
+         "title" : "AGM Card Votes results (updated 19/10/21)"
       },
       {
          "description" : " As someone who helps write the Laws of Chess, I am always surprised when people ignore common sense interpretations. Two recent cases attracted my notice, both involving draws. In the first, a player who had K+Q resigned against a player with a lone King. Ignoring the possible reasons for this, the question was what should the score of the game be. Under the strict reading of the Laws of Chess, the point should go to the player with the King. Under the 'analogous situations involving a loss on time' approach, it should be a draw, although the arbiter may wish to adjust the score (downwards) for the player with K+Q. In the second case, an online event had a 'no draw offer' before move 40, co",
@@ -1218,14 +1242,6 @@ news_feed (
          "title" : "What a difference 35 years makes"
       },
       {
-         "description" : "Defending US Champion Wesley So scored his first win of this year's event by defeating Dariusz Swiercz in Round 2, while Leinier Dominguez came incredibly close to taking down Fabiano Caruana before the world no. 2 managed to scrape a draw in 108 moves. Daniel Naroditsky's bounce-back win over Jeffery Xiong was the other win in the open section. Katerina Nemcova haș the only perfect score of either section after beating Sabina Foisor, with Irina Krush just missing out on joining her.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-2-so-strikes-caruana-escapes-again",
-         "pubDate" : "Fri, 08 Oct 2021 10:13:47 +0000",
-         "title" : "US Chess Champs 2: So strikes, Caruana escapes again"
-      },
-      {
          "description" : "From the excellent books on the shortlist, two stood out Nigel Short's WINNING and Voronkov's Masterpieces and Dramas. The latter is winner of the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2048,30 +2064,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-6/",
          "pubDate" : "Tue, 28 Sep 2021 15:33:17 +0000",
          "title" : "Students Analysis (6)"
-      },
-      {
-         "description" : "On day 3 of the Meltwater Chess Champion Finals Magnus Carlsen played against Maxime Vachier-Lagrave, who had won both of his previous matches. The rapid match between \"MVL\" and the World Champion ended with a 2-2 tie, but in the playoffs Carlsen had the better of it. Wesley So won his rapid match against Vladislav Artemiev but is still five points behind Carlsen in the standings. | Photos and graphics: Meltwater Chess Champions Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-carlsen-keeps-his-lead",
-         "pubDate" : "Tue, 28 Sep 2021 15:11:05 +0100",
-         "title" : "Champions Chess Tour Finals: Carlsen keeps his lead"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg\" data-image-dimensions=\"6761x4193\" data-image-focal-point=\"0.5,0.5\" alt=\"Lennar Ootes - Photo pour Wiki.jpg\" data-load=\"false\" data-image-id=\"61531679a2fc23241caa0795\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1632835197208-EJI2P473KPKIKWLG20DM/Lennar+Ootes+-+Photo+pour+Wiki.jpg?format=1000w\" /> </figure> <p class=\"\">Photo <a href=\"https://www.lennartootes.com\" target=\"\">by Lennart Ootes</a>, courtesy of Maxime Va",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/9/28/f1m2i2cfohdf9o31m0od2inseb0kzn",
-         "pubDate" : "Tue, 28 Sep 2021 13:24:20 +0000",
-         "title" : "Episode 245- GM Maxime Vachier-Lagrave"
-      },
-      {
-         "description" : "In round 5 of the TePe Sigeman&Co tournament in Malm&ouml; the two young Grandmasters Vincent Keymer and Nihal Sarin had to play against each other. Nihal Sarin outplayed Keymer but then blundered his advantage away and even lost. Jorden van Foreest won against Etienne Bacrot and now leads with 4.0/5. Nils Grandelius and Nigel Short follow with 3.0/5 each. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sigeman-co-van-foreest-extends-lead-keymer-beats-nihal-sarin",
-         "pubDate" : "Tue, 28 Sep 2021 13:06:19 +0100",
-         "title" : "Sigeman&Co: Van Foreest extends lead, Keymer beats Nihal Sarin"
       }
    ]
 }
