@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes another look at the US Championship and analyses the encounter between Alekandr Lenderman and Fabiano Caruana, a tactically and positionally rich battle, in which Caruana showed great fighting spirit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-486-a-lenderman-vs-f-caruana",
+         "pubDate" : "Wed, 20 Oct 2021 18:00:00 +0100",
+         "title" : "Game of the Week 486: A. Lenderman vs F. Caruana"
+      },
+      {
+         "description" : "GM Hikaru Nakamura scored 10/11 and won Titled Tuesday on October 19, his first victory in the event since a perfect 11/11 performance on August 17. GM Boris Savchenko finished second ahead of third-place GM Alexander Zubov on the tiebreak score, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-october-19-titled-tuesday",
+         "pubDate" : "Wed, 20 Oct 2021 09:47:41 -0700",
+         "title" : "Nakamura Wins October 19 Titled Tuesday"
+      },
+      {
          "description" : "Wesley So beat both Fabiano Caruana and Sam Sevian in the playoffs of the 2021 US Championship to win the national title for a third time, since his transfer to the United States in 2014. A hard-fought tournament saw the three players sharing first place on 6&frac12; points after 11 rounds. A round robin with a rapid time control took place on Tuesday to decide the winner of the national championship. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,12 @@ news_feed (
          "title" : "Studying Games Of Chess World Champions"
       },
       {
-         "description" : "Going into Wednesday's final round in the Russian Superfinals, both the open tournament and the women's championship have a sole leader with a half-point edge over two players sharing second place. In the open, Nikita Vitiugov leads, with Maxim Matlakov and Vladimir Fedoseev standing close behind; among the women, Valentina Gunina is the frontrunner, with her closest chasers being Evgenija Ovod and Polina Shuvalova. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
          "pubDate" : "Wed, 20 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals, Round 11 - Live!"
+         "title" : "Superfinals - Round 11"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> overcame a poor start at the <strong>US Championship</strong> and was <a href=\"https://chess24.com/en/read/news/wesley-so-wins-his-3rd-us-chess-championship\">close to winning it</a> in the last round and again in the tie-breaker against <strong>Wesley So</strong>, who in the end won his third US championship plus $50,000 and conceded that Caruana would have deserved it. </div> ",
@@ -127,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Tue, 19 Oct 2021 19:55:00 +0100",
-         "title" : "US Championship: Playoffs - Live!"
+         "title" : "US Championship - Playoffs"
       },
       {
          "description" : "The last round of the US Championship was played on Monday. The US Champion, however, has not yet been decided, as Fabiano Caruana, Wesley So and Sam Sevian finished tied on points atop the standings and will play a rapid-chess tiebreak to find the winner of this year's national event. | Photos: Lennart Ootes",
@@ -1338,14 +1354,6 @@ news_feed (
          "title" : "US Championships: Nemcova makes it 2 out of 2"
       },
       {
-         "description" : "GM Raunak Sadhwani narrowly defeated GM Parham Maghsoodloo on Thursday by a 15-14 score in the second semifinal of the Junior Speed Chess Championship presented by ChessKid. This means we&#39;ll have an all-Indian final, to be announced soon, between ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-junior-speed-chess-sadhwani-maghsoodloo",
-         "pubDate" : "Fri, 08 Oct 2021 05:21:17 -0700",
-         "title" : "Junior Speed Chess SF: Sadhwani Beats Maghsoodloo To Set Up All-Indian Final"
-      },
-      {
          "description" : " Around 35 years ago I had to defend a R v R+B ending. It was during an ACT Chess Championship and I failed to do so, being mated on about the 50th move (since the last capture). In those days FIDE had extended the number of moves required to claim a draw to 75, so I did not have a chance to claim, evein if I held out for a few more moves. For the second time in my career, I had to hold this ending once again. It was played in an online event, although there was a 15 second increment, which certainly helped. This time I was much more successful, hanging on for the full 50 moves (121 moves in total). I did make one mistake during the ending (around move 91), but my opponent missed the correct",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2016,22 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1361",
          "pubDate" : "Wed, 29 Sep 2021 20:50:54 +0000",
          "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
-      },
-      {
-         "description" : "This week, Merijn van Delft shows how Jorden Van Foreest beat Etienne Bacrot with a fine endgame attack at the TePe Sigeman&Co Tournament in Malm&ouml;, which Van Foreest won convincingly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-483-j-van-foreest-vs-e-bacrot",
-         "pubDate" : "Wed, 29 Sep 2021 18:00:00 +0100",
-         "title" : "Game of the Week 483: J. Van Foreest vs E. Bacrot"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86619552.cms\" />India defeated France 3-1 in the fifth and final round, riding on wins from Bhakti Kulkarni and Mary Ann Gomes, to finish second in Pool A and qualify for the quarterfinals of the FIDE World Women's Team Chess Championship on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-france-3-1-in-final-preliminary-round-game/articleshow/86619552.cms",
-         "pubDate" : "Wed, 29 Sep 2021 21:55:29 +0530",
-         "title" : "World Women's Team C'ship: India beat France 3-1 in final preliminary round game"
       }
    ]
 }
