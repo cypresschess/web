@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin defeated fellow-Indian GM Raunak Sadhwani 16.5-10.5 to retain his title at the Junior Speed Chess Championship presented by ChessKid. Sarin gained an entry into the 2021 Speed Chess Championship Main Event beginning in November. T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-2021-junior-speed-chess-championship",
+         "pubDate" : "Tue, 19 Oct 2021 17:57:07 -0700",
+         "title" : "Sarin Beats Sadhwani, Retains Junior Speed Chess Championship Title"
+      },
+      {
+         "description" : "Going into Wednesday's final round in the Russian Superfinals, both the open tournament and the women's championship have a sole leader with a half-point edge over two players sharing second place. In the open, Nikita Vitiugov leads, with Maxim Matlakov and Vladimir Fedoseev standing close behind; among the women, Valentina Gunina is the frontrunner, with her closest chasers being Evgenija Ovod and Polina Shuvalova. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r10",
+         "pubDate" : "Wed, 20 Oct 2021 01:40:00 +0100",
+         "title" : "Superfinals: Matlakov joins the fight for the title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carissa-yip-wins-us-womens-championship-at-18",
          "pubDate" : "Tue, 19 Oct 2021 12:40:00 +0100",
          "title" : "Carissa Yip wins the US Women's Championship at 18"
-      },
-      {
-         "description" : "After 9 out of 11 rounds at the Russian Superfinals, Nikita Vitiugov is the sole leader in the open championship, with Maxim Matlakov in second place a half point behind. In the women's event, Valentina Gunina is leading Evgenija Ovod also by a half point - Ovod has the white pieces against Gunina in round 10. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Tue, 19 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals, Round 10 - Live!"
       },
       {
          "description" : "",
@@ -1306,14 +1314,6 @@ news_feed (
          "title" : "Chess: British championship dominated by veterans as over-the-board returns"
       },
       {
-         "description" : "GM Wesley So joined the leaders in the 2021 U.S. Chess Championship after beating GM Dariusz Swiercz with an impressive positional style in round two. GM Daniel Naroditsky bounced back from his first-round loss with a victory over GM Jeffery Xiong...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-2",
-         "pubDate" : "Thu, 07 Oct 2021 14:47:00 -0700",
-         "title" : "US Chess Championships R2: So Joins Leaders, Naroditsky Defeats Xiong"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,22 +2032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-india-lose-1-3-to-russia/articleshow/86606140.cms",
          "pubDate" : "Wed, 29 Sep 2021 11:38:37 +0530",
          "title" : "World Women's Team Chess C'ship: India lose 1-3 to Russia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1359",
-         "pubDate" : "Wed, 29 Sep 2021 00:37:40 +0000",
-         "title" : "Team CFR and Georgia hold the lead in Sitges"
-      },
-      {
-         "description" : " Caruana's Ruy Lopez: A White Repertoire for Club Players : GM Fabiano Caruana From the book's rear cover : &#8220;The Ruy Lopez is arguably the most classic of chess openings. White immediately starts the battle for the centre, fighting for the initiative. This strategic clarity has made the Ruy Lopez, or Spanish Opening, an eternal favourite <a href=\"http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Caruana's Ruy Lopez: A White Repertoire for Club Players</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/09/29/car",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/09/29/caruanas-ruy-lopez-a-white-repertoire-for-club-players/",
-         "pubDate" : "Wed, 29 Sep 2021 00:10:07 +0000",
-         "title" : "Caruana's Ruy Lopez: A White Repertoire for Club Players"
       }
    ]
 }
