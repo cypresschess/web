@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r11",
+         "pubDate" : "Wed, 20 Oct 2021 23:40:00 +0100",
+         "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. 2021.10/20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 20 Oct 2021 21:20:43 +0000",
+         "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "On his 15th attempt, GM Nikita Vitiugov won his first-ever Russian championship title on Wednesday in Ufa. The 2017 runner-up finished in clear first place, half a point ahead of GM Maxim Matlakov. GM Valentina Gunina won her fourth women&#39;s champi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gunina-vitiugov-win-2021-russian-championships",
+         "pubDate" : "Wed, 20 Oct 2021 13:03:00 -0700",
+         "title" : "Gunina, Vitiugov Winners At Russian Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1393",
+         "pubDate" : "Wed, 20 Oct 2021 19:30:28 +0000",
+         "title" : "Nikita Vitiugov and Valentina Gunina become new Russian champions"
+      },
+      {
          "description" : "This week, Merijn van Delft takes another look at the US Championship and analyses the encounter between Alekandr Lenderman and Fabiano Caruana, a tactically and positionally rich battle, in which Caruana showed great fighting spirit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-too-tired-think-about-playoff",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "Fabiano Caruana: Too Tired to Think About Playoff"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Sam Shankland during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-least-my-final-game-was-interesting\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GOf7yUi9xKg.jpg?itok=Q044fm8q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-shankland-least-my-final-game-was-interesting",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "Sam Shankland: At Least My Final Game was Interesting..."
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "The Chess Super League is here!"
       },
       {
-         "description" : "The top seed GM Fabiano Caruana beat GM John M.Burke in the third round of the 2021 U.S. Chess Championship and joined the tournament leaders. GM Sam Sevian, who outplayed GM Jeffery Xiong, also joined the top group with 2/3. In the U.S. Women&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-3",
-         "pubDate" : "Fri, 08 Oct 2021 20:03:00 -0700",
-         "title" : "US Chess Championships R3: Caruana, Sevian Join Leaders"
-      },
-      {
          "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1992,38 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
          "pubDate" : "Thu, 30 Sep 2021 01:32:45 -0500",
          "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
-      },
-      {
-         "description" : "Since the earliest days of Fritz, there have been automated ways to analyze games, and over time the sheer variety of tools and options has expanded to cover just about every choice, from the shallow blunder check to the deep full game analysis. But calling the blunder check shallow is to not do it justice, so see why it deserves to become your go-to tool for all your online games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/blunder-check-your-quick-and-easy-game-analysis",
-         "pubDate" : "Thu, 30 Sep 2021 07:17:26 +0100",
-         "title" : "Blunder Check - Your quick and easy game analysis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1362",
-         "pubDate" : "Wed, 29 Sep 2021 22:13:30 +0000",
-         "title" : "Magnus smacks down Hikaru to stretch Tour Finals lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1360",
-         "pubDate" : "Wed, 29 Sep 2021 21:18:16 +0000",
-         "title" : "CFR Team and Georgia win the pools stage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1361",
-         "pubDate" : "Wed, 29 Sep 2021 20:50:54 +0000",
-         "title" : "Rakeem Jeter: \"Chess gives an opportunity to improve\""
       }
    ]
 }
