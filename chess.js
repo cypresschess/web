@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " While footballers watch videos of Messi &#38; Ronaldo, Chess players can replay games of World Champions &#38; Grandmasters. What is even better, some Chess World Champions comment on their games so that one can get into their head. Why did they go for a certain opening? How far did they calculate some stunning sacrifices? What [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/games-of-chess-world-champions/\">Studying Games Of Chess World Champions</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/games-of-chess-world-champions/",
+         "pubDate" : "Wed, 20 Oct 2021 11:26:08 +0000",
+         "title" : "Studying Games Of Chess World Champions"
+      },
+      {
+         "description" : "Going into Wednesday's final round in the Russian Superfinals, both the open tournament and the women's championship have a sole leader with a half-point edge over two players sharing second place. In the open, Nikita Vitiugov leads, with Maxim Matlakov and Vladimir Fedoseev standing close behind; among the women, Valentina Gunina is the frontrunner, with her closest chasers being Evgenija Ovod and Polina Shuvalova. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
+         "pubDate" : "Wed, 20 Oct 2021 11:55:00 +0100",
+         "title" : "Superfinals, Round 11 - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> overcame a poor start at the <strong>US Championship</strong> and was <a href=\"https://chess24.com/en/read/news/wesley-so-wins-his-3rd-us-chess-championship\">close to winning it</a> in the last round and again in the tie-breaker against <strong>Wesley So</strong>, who in the end won his third US championship plus $50,000 and conceded that Caruana would have deserved it. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/wesley-so-wins-third-us-title-after/",
+         "pubDate" : "Wed, 20 Oct 2021 11:05:03 +0100",
+         "title" : "Wesley So wins third US title after tiebreak"
+      },
+      {
+         "description" : "Last weekend, Baden-Baden won the German Team Championship, the Bundesliga. Again. In fact, since 2006 the team from Baden-Baden, sponsored by GRENKE Leasing, only failed to win the league in 2016, when Solingen finished first. This year, at the end of a season that due to the pandemic lasted from 2019 to 2021, Baden-Baden was three team points ahead of their closest rivals but securing the title was more difficult than the final result suggests. | Photos: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/baden-baden-wins-bundesliga",
+         "pubDate" : "Wed, 20 Oct 2021 11:03:49 +0100",
+         "title" : "Baden-Baden wins Bundesliga"
+      },
+      {
          "description" : "Wesley So beat Fabiano Caruana and Sam Sevian in rapid playoffs to win the 2021 US Chess Championship, becoming the first player to defend the title since Gata Kamsky in 2014. \"I think Fabi should have won today considering how well he played,\" said Wesley, but despite getting into a close to lost position against Fabiano he hit back and won on time in an already winning position. Caruana went on to beat Sevian, but Wesley cruised to victory against Sam to clinch the title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics",
          "pubDate" : "Fri, 15 Oct 2021 21:00:00 +0100",
          "title" : "New: Trent's Tactics - Back-rank checkmate"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Mike Truran</strong>, the Executive Director of the <strong>English Chess Federation</strong>, and his challenger <strong>Malcolm Pein</strong> have made a <a href=\"https://mailchi.mp/a4c5800f6ad3/ecf-election-update-from-malcolm-pein\">power-sharing</a> agreement, <a href=\"https://www.chess.com/blog/timpeterwall/and-the-winner-is-english-chess\">foregoing a divisive vote</a> this Saturday. Truran stays at the helm, while Pein gets more funding and responsibility as Director of both International Chess and External Relations. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/agreement-instead-of-divisive-vote/",
-         "pubDate" : "Fri, 15 Oct 2021 19:44:12 +0100",
-         "title" : "Agreement instead of divisive vote"
       },
       {
          "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2016,22 +2040,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/simple-not-easy/",
          "pubDate" : "Wed, 29 Sep 2021 12:00:00 +0000",
          "title" : "Chess Improvement - Simple, Not Easy"
-      },
-      {
-         "description" : "The strong 4th Sharjah Masters Tournament ended on Sunday and after nine rounds four players shared first place with 6.5/9 each. But M. Amin Tabatabaei from Iran (pictured) had the best tiebreak and won the tournament. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/m-amin-tabatabaei-wins-sharjah-masters",
-         "pubDate" : "Wed, 29 Sep 2021 12:30:15 +0100",
-         "title" : "M. Amin Tabatabaei wins Sharjah Masters"
-      },
-      {
-         "description" : "Dutch Grandmaster Jorden Van Foreest, who in January had won the top tournament in Wijk aan Zee, impressed again at the TePe Sigeman & Co event 2021 in Malm&ouml; by winning the eight-player tournament with one round to spare. After 6 of 7 rounds Van Foreest leads with 5.0/6 and is one and a half point ahead of Nigel Short and Nils Grandelius who share second and third place with 3.5/6 each. The seventh and final round starts two hours earlier than the previous rounds, at 12:00 CEST (10:00 ET, 10:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
-         "pubDate" : "Wed, 29 Sep 2021 11:55:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 7: Live"
       }
    ]
 }
