@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So beat Fabiano Caruana and Sam Sevian in rapid playoffs to win the 2021 US Chess Championship, becoming the first player to defend the title since Gata Kamsky in 2014. \"I think Fabi should have won today considering how well he played,\" said Wesley, but despite getting into a close to lost position against Fabiano he hit back and won on time in an already winning position. Caruana went on to beat Sevian, but Wesley cruised to victory against Sam to clinch the title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-wins-his-3rd-us-chess-championship",
+         "pubDate" : "Wed, 20 Oct 2021 06:54:31 +0000",
+         "title" : "Wesley So wins his 3rd US Chess Championship"
+      },
+      {
+         "description" : "Seven rounds have been already played at the European Youth&#38;Junior Hybrid Chess Championships 2021 and only two rounds left before the announcement of the Winners. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20 (open and girls separately), in Swiss system, 9 rounds, through Tornelo playing platform. 33 European National Federations&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/",
+         "pubDate" : "Wed, 20 Oct 2021 05:21:36 +0000",
+         "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
+      },
+      {
          "description" : "GM Nihal Sarin defeated fellow-Indian GM Raunak Sadhwani 16.5-10.5 to retain his title at the Junior Speed Chess Championship presented by ChessKid. Sarin gained an entry into the 2021 Speed Chess Championship Main Event beginning in November. T...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "Speed Chess Grand Prix 4: Yakubboev Wins With Xiong Already Through To Main Event"
       },
       {
-         "description" : "Fabiano Caruana showed just how dangerous it is to repeat a sharp opening against the very best players as he put John Burke to the sword in Round 3 of the 2021 US Chess Championships. It was a day of first wins, with Sam Sevian beating Jeffery Xiong to join the leaders, while Dariusz Swiercz recovered from two losses by beating Daniel Naroditsky. Tatev Abrahamyan did the same in the women's section, beating Anna Zatonskih, while 18-year-old Thalia Cervantes also grabbed a first win, against Sabina Foisor.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-3-caruana-sevian-join-the-leaders",
-         "pubDate" : "Sat, 09 Oct 2021 17:36:27 +0000",
-         "title" : "US Chess Champs 3: Caruana & Sevian join the leaders"
-      },
-      {
          "description" : " Under the rules of online chess, the player is held responsible for anything that happens at their end of the game, unless it can be demonstrated that the hosting server is at fault. This can include power outages, network failures, and in one case, the cat sitting on the keyboard. To preserve the dignity of the player involved, I won't use real names, but the cat-astrophe occurs at move 17 (if it isn't obvious already) <br /> <b>White - Black (cat) [D00]</b><br />Street Chess - 9 October 2021, 09.10.2021 <script>new PgnViewer( { boardName: \"game1279\", movesFormat: \"default\", pgnString:'1.d4 d5 2.e3 Bf5 3.c4 Nf6 4.Nf3 e6 5.Bd3 Bg6 6.O-O dxc4 7.Bxc4 Bd6 8.Re1 c6 9.Nc3 Qc7 10.Bd3 Bh5 11.h3 Nb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-co-round-3-live",
          "pubDate" : "Wed, 29 Sep 2021 11:55:00 +0100",
          "title" : "TePe Sigeman & Co, Round 7: Live"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86606140.cms\" />After two straight wins, India went down 1-3 to a formidable Russian team in a fourth Pool A match in the FIDE World Women's Team Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-india-lose-1-3-to-russia/articleshow/86606140.cms",
-         "pubDate" : "Wed, 29 Sep 2021 11:38:37 +0530",
-         "title" : "World Women's Team Chess C'ship: India lose 1-3 to Russia"
       }
    ]
 }
