@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So beat both Fabiano Caruana and Sam Sevian in the playoffs of the 2021 US Championship to win the national title for a third time, since his transfer to the United States in 2014. A hard-fought tournament saw the three players sharing first place on 6&frac12; points after 11 rounds. A round robin with a rapid time control took place on Tuesday to decide the winner of the national championship. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2021-playoffs",
+         "pubDate" : "Wed, 20 Oct 2021 15:25:00 +0100",
+         "title" : "Wesley So dominates playoffs, wins 2021 US Championship"
+      },
+      {
          "description" : "This year, the British Chess Federation organised two national championships, an online championship in July/August, and an \"Over-the-Board\" championship at the beginning of October. Nicholas Pert (pictured) won the Open Championship, Harriett Hunt became Women's Champion. | Photos: John Stubbs (Tournament page)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,11 +82,11 @@ news_feed (
          "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
       },
       {
-         "description" : "GM Nihal Sarin defeated fellow-Indian GM Raunak Sadhwani 16.5-10.5 to retain his title at the Junior Speed Chess Championship presented by ChessKid. Sarin gained an entry into the 2021 Speed Chess Championship Main Event beginning in November. T...",
+         "description" : "GM Nihal Sarin defeated fellow-Indian GM Raunak Sadhwani 17.5-10.5 to retain his title at the Junior Speed Chess Championship presented by ChessKid. Sarin gained an entry into the 2021 Speed Chess Championship Main Event beginning in November. T...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-sarin-wins-2021-junior-speed-chess-championship",
-         "pubDate" : "Tue, 19 Oct 2021 17:57:07 -0700",
+         "pubDate" : "Tue, 19 Oct 2021 17:57:00 -0700",
          "title" : "Sarin Beats Sadhwani, Retains Junior Speed Chess Championship Title"
       },
       {
@@ -2024,22 +2032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-beat-france-3-1-in-final-preliminary-round-game/articleshow/86619552.cms",
          "pubDate" : "Wed, 29 Sep 2021 21:55:29 +0530",
          "title" : "World Women's Team C'ship: India beat France 3-1 in final preliminary round game"
-      },
-      {
-         "description" : "This episode is about the very interesting subject of how to \"swindle\" your way out of lost positions. Probably, you have managed to turn a game around once, or twice already? And likely, an opponent has done the same? Even a top player is not safe, as Svitlana can demonstrate in one of her played games against a Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-14",
-         "pubDate" : "Wed, 29 Sep 2021 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The power of swindling in chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86615635.cms\" />In another new development in the never-ending infighting within the All India Chess Federation (AICF), the federation has suspended its joint secretary Atanu Lahiri for three years for anti-federation activity.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/atanu-lahiri-rejects-aicfs-suspension-move/articleshow/86615635.cms",
-         "pubDate" : "Wed, 29 Sep 2021 19:09:42 +0530",
-         "title" : "Atanu Lahiri rejects AICF's suspension move"
       }
    ]
 }
