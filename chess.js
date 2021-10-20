@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year, the British Chess Federation organised two national championships, an online championship in July/August, and an \"Over-the-Board\" championship at the beginning of October. Nicholas Pert (pictured) won the Open Championship, Harriett Hunt became Women's Champion. | Photos: John Stubbs (Tournament page)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nick-pert-wins-british-championship",
+         "pubDate" : "Wed, 20 Oct 2021 15:00:00 +0100",
+         "title" : "Nick Pert wins British Championship"
+      },
+      {
+         "description" : " <p class=\"lead\">Wesley So won the tiebreaks against Caruana and Sevian to grab for the third time the title of the <a href=\"99https://uschesschamps.com/2021-us-championships/Overview\">US Champion</a>, while Carissa Yip finished clear first with the last round to spare, winning <a href=\"99https://uschesschamps.com/tags/2021-us-womens-championship\">the 2021 US Women's Championship</a> triumphantly! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51609124941_8c3a3a4d06_o-min.jpg\" width=\"2560\" height=\"1772\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> Fabiano Caruana, Wesley So, and Sam Sevian finished the 2021 US Championship, on Monday ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/so-yip-the-big-winners-of-2021-us-chess-championships/",
+         "pubDate" : "Wed, 20 Oct 2021 12:57:33 +0000",
+         "title" : "So & Yip the big winners of 2021 US Chess Championships"
+      },
+      {
+         "description" : " Good news, everyone! It looks like most of the face to face chess in Canberra in the next couple of weeks. At least one local chess club has been asked to resume in early November (by the venue management), and I suspect this means that venues are happy to host chess events once again. While the actual details are still being worked out (size limits, mask and vaccine requirements) I won't name the club, but will do so when reopening conditions are finalised. The other event that has been up in the air is the 2021 Vikings Weekender, which may be back on the calendar again. It was planned to held in mid November, and if the venue is available at that time, the ACT Chess Association is keen to",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/act-chess-for-rest-of-2021.html",
+         "pubDate" : "Wed, 20 Oct 2021 11:30:00 +0000",
+         "title" : "ACT Chess for the rest of 2021"
+      },
+      {
          "description" : " While footballers watch videos of Messi &#38; Ronaldo, Chess players can replay games of World Champions &#38; Grandmasters. What is even better, some Chess World Champions comment on their games so that one can get into their head. Why did they go for a certain opening? How far did they calculate some stunning sacrifices? What [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/games-of-chess-world-champions/\">Studying Games Of Chess World Champions</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2016,30 +2040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/atanu-lahiri-rejects-aicfs-suspension-move/articleshow/86615635.cms",
          "pubDate" : "Wed, 29 Sep 2021 19:09:42 +0530",
          "title" : "Atanu Lahiri rejects AICF's suspension move"
-      },
-      {
-         "description" : " There is a saying about passed pawns, in that they look scarier on the 2nd rank than they do on the 7th. However you do still need to keep an eye on them, as they can still get out of control. <br /> <b>mhummel (2095) - Connor5566 (1836) [C42]</b><br />ACTCA Tuesday Rapid - 28 Sep https://lichess.org/5KNMPwu0, 28.09.2021 <script>new PgnViewer( { boardName: \"game1275\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 dxc4 5.Bxc4 Nf6 6.Nf3 Be7 7.O-O O-O 8.Nc3 Bg4 9.Be3 Qd7 10.Ne5 Bxd1 11.Nxd7 Nbxd7 12.Rfxd1 Bd6 13.Rac1 Ng4 14.h3 Nxe3 15.fxe3 Nb6 16.Bd3 c6 17.a3 a5 18.Ne4 Be7 19.Nc5 Bxc5 20.Rxc5 Rfe8 21.Kf2 Nd5 22.e4 Nf6 23.Kf3 Rad8 24.Bb1 Rd7 25.Rxa5 Rde7 26.Re1 Rd8 27.Ra4 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/the-big-old-passer.html",
-         "pubDate" : "Wed, 29 Sep 2021 13:17:00 +0000",
-         "title" : "The big old passer"
-      },
-      {
-         "description" : "In round four of the Meltwater Chess Champions Finals World Champion Magnus Carlsen suffered an outright 1-3 defeat against Vladislav Artemiev. Wesley So drew his rapid match against Hikaru Nakamura but then lost the blitz-playoff 0-2. In the overall standings Carlsen is still four points ahead of So. | Graphics: Meltwater Chess Champions Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-setback-for-carlsen",
-         "pubDate" : "Wed, 29 Sep 2021 14:15:28 +0100",
-         "title" : "Champions Chess Tour: Setback for Carlsen"
-      },
-      {
-         "description" : " Sadly, there are still a lot of Charlatans and get-rich-quick schemes in Online Chess improvement. They all have one thing in common: they try to make Chess improvement look very easy. Their marketing will suggest that buying their product or course will give you a very easy way to improve. Only by watching some course, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/simple-not-easy/\">Chess Improvement Simple, Not Easy</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/simple-not-easy/",
-         "pubDate" : "Wed, 29 Sep 2021 12:00:00 +0000",
-         "title" : "Chess Improvement - Simple, Not Easy"
       }
    ]
 }
