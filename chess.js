@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 21 Oct 2021 00:20:50 +0000",
+         "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-missed-opportunities-took-me-out",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "Leinier Dominguez: Missed Opportunities Took Me Out"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Fabiano Caruana during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-too-tired-think-about-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SRXUQmPohQU.jpg?itok=etFA3mjY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-too-tired-think-about-playoff",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "Fabiano Caruana: Too Tired to Think About Playoff"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
