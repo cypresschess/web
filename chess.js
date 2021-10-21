@@ -106,7 +106,7 @@ news_feed (
          "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. See the defining moments in Tal's games, mainly from the 1957 Soviet Championship, and try to find the best continuations. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani",
