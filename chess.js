@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently, Svitlana came to Hamburg to record her new Fritztrainer: \"Understanding Material Imbalances\". The DVD will appear soon, probably in a couple of weeks. But this is a good opportunity for a preview, including some recent examples of the themes Svitlana presents, e.g. the entertaining topic of \"Material Imbalances\". At the US Championship 2021 that just ended in St. Louis Sam Shankland and Fabiano Caruana played a fascinating game with material imbalances - it ended in a draw when the queen was unable to win against two minor pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-17",
+         "pubDate" : "Thu, 21 Oct 2021 12:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana Caruana, St. Louis 2021"
+      },
+      {
+         "description" : "Nikita Vitiugov has won the Russian Championship Superfinal at his 15th attempt, after playing in all but one event since he made his debut as a 19-year-old in 2006. Nikita scored an unbeaten +3 to finish half a point above Maxim Matlakov in 2nd place and a point ahead of Vladimir Fedoseev and Dmitry Andreikin in 3rd. In the women's event Valentina Gunina won her 4th Russian Championship title, but her first since 2014, with Polina Shuvalova missing a chance to clinch the title in their nerve-wracking final-round game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/vitiugov-and-gunina-win-russian-championship-titles",
+         "pubDate" : "Thu, 21 Oct 2021 09:40:16 +0000",
+         "title" : "Vitiugov and Gunina win Russian Championship titles"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1210,14 +1226,6 @@ news_feed (
          "title" : "Nicholas Pert wins British Championship"
       },
       {
-         "description" : "Ray Robson is the sole leader of the US Chess Championships on the first rest day after defeating Jeffery Xiong to move to 3/4. He could have been joined by Wesley So, but on his 28th birthday the defending champion decided to play it safe rather than push for a win against world no. 2 Fabiano Caruana. Leinier Dominguez beat Sam Shankland to join Wesley, Fabi and Sam Sevian in a 5-man chasing pack. In the women's section 18-year-old Carissa Yip now co-leads with Katerina Nemcova after 8-time Champion Irina Krush blundered a piece on move 21.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-4-robson-leads-as-so-lets-caruana-escape",
-         "pubDate" : "Sun, 10 Oct 2021 17:23:43 +0000",
-         "title" : "US Chess Champs 4: Robson leads as So lets Caruana escape"
-      },
-      {
          "description" : "Ray Robson (pictured) inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez, who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1984,22 +1992,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/09/correct-chess.html",
          "pubDate" : "Thu, 30 Sep 2021 13:06:00 +0000",
          "title" : "Correct chess?"
-      },
-      {
-         "description" : "Jorden Van Foreest had won the TePe Sigeman&Co tournament with one round to spare, but in the last round he suffered his only defeat against Gawain Jones. Vincent Keymer, too, was ambitious in the final round, and defeated Nils Grandelius to share second to fourth place with Gawain Jones and Nigel Short. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sigeman-co-van-foreest-loses-and-wins-keymer-scores",
-         "pubDate" : "Thu, 30 Sep 2021 12:48:25 +0100",
-         "title" : "Sigeman&Co: Van Foreest loses and wins, Keymer scores"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1363",
-         "pubDate" : "Thu, 30 Sep 2021 10:25:16 +0000",
-         "title" : "2021 FIDE Chess.com Grand Swiss and the Women's Grand Swiss: the lists of players announced"
       }
    ]
 }
