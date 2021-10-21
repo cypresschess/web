@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the improved Milner-Barry Variation (1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3!? cxd4 7.0-0, an interesting and aggressive way to fight the French Defense that has recently become more and more popular. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-improved-milner-barry-gambit",
+         "pubDate" : "Thu, 21 Oct 2021 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
+      },
+      {
+         "description" : " Share!Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
+         "pubDate" : "Thu, 21 Oct 2021 16:02:31 +0000",
+         "title" : "2021 International Chess Championship for Prisons"
+      },
+      {
          "description" : "Adding symbols, evaluations and comments may be important, but without variations and moves to depict the possibilities that could have taken place or should have taken place, describing chess as a science would have no meaning. Yet knowing how to organize and re-organize those variations and moves sensibly and efficiently is no less essential. Learn how to do it like a pro!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-chesscom-grand-swiss-latvia-lockdown-covid",
-         "pubDate" : "Thu, 21 Oct 2021 06:14:29 -0700",
+         "pubDate" : "Thu, 21 Oct 2021 06:14:00 -0700",
          "title" : "FIDE Chess.com Grand Swiss Proceeds With Exemption As Latvia Locks Down"
       },
       {
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-17",
          "pubDate" : "Thu, 21 Oct 2021 12:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana Caruana, St. Louis 2021"
+         "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana, St. Louis 2021"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.fide.com/news/1392\">Latvian government has issued an exemption</a> for top sport events held in the country during the strict lockdown that starts today with non-essential shops, schools and entertainment venues closed and a night curfew. <strong>FIDE</strong> can go through with the <a href=\"https://grandswiss.fide.com/\"><strong>Grand Swiss</strong> and <strong>Women Grand Swiss</strong></a>, that have been moved to Riga from the Isle of Man in view of UK travel restrictions. The first round is scheduled on Tuesday. The invited players are asked to confirm their participation by this Friday. Since <a href=\"https://handbook.",
@@ -354,7 +370,7 @@ news_feed (
          "title" : "Need sure points? Petroff Defence Edition"
       },
       {
-         "description" : " Share!The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Shakira Luster, Trechelle Williams and Imani Hill have been in the media spotlight for the past two years after winning the 8th grade section at the 2019 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess, Girl Power and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Shakira Luster, Trechelle Williams and Imani Hill have been in the media spotlight for the past two years after winning the 8th grade section at the 2019 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess, Girl Power and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "FIDE Ratings: October 2021"
       },
       {
-         "description" : "The new ChessBase Magazine Extra #203 is out - with two instructive and interesting videos: Jan Werle examines what Carlsen's 4.c4 in the Caro-Kann Advance Variation is all about and Robert Ris presents a highly topical weapon against the Sicilian Taimanov. Total playing time of the two videos: over an hour. The issue also offers lots of opening recommendations and analyses by Romain Edouard, Michal Krasenkow, Sagar Shah, Spyridon Kapnisis and Tanmay Srinath. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine and is available as a single issue or by subscription (6 issues per year). Available on DVD or as download. Don't miss it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-203",
-         "pubDate" : "Fri, 01 Oct 2021 12:00:00 +0100",
-         "title" : "New: CBM Extra #203"
-      },
-      {
          "description" : " While I promised that we would continue playing through the beginner's game we started a few weeks ago, I've decided to address a subject that is key to all phases of the game and is absolutely necessary for improvement. The subject matter of this article came up this past week as I took over a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\">A Foundation for Beginners Thirty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1364",
          "pubDate" : "Fri, 01 Oct 2021 09:52:08 +0000",
          "title" : "CFR Team, Georgia, Ukraine and India advance to semis"
-      },
-      {
-         "description" : "Ratings are full of mysteries and by no means coherent. Sometimes, you suspect an inflation of ratings, sometimes a deflation. In some countries ratings are distorted by too many young players - or not enough adult players. And how did the lack of tournaments in the Covid era affect the Elo ratings? Walter Wolf has gathered a lot of statistics and tries to draw conclusions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-look-at-the-elo-ratings-in-the-year-2021",
-         "pubDate" : "Fri, 01 Oct 2021 08:10:19 +0100",
-         "title" : "A look at the Elo ratings in the year 2021"
       },
       {
          "description" : " World champion keeps US rivals at bay with enterprising style contrasting with over-the-board grinds at Stavanger and the Euroclub Cup Magnus Carlsen is heading for a comfortable victory and a $100,000 first prize this weekend in the $1.5m <a href=\"https://championschesstour.com/\" title=\"\">Meltwater Champions Tour</a> final, as the world No 1's lead from the previous qualifying events looks like proving too high a hurdle for his only serious rival, Wesley So. So, the reigning US champion, was set back by a controversial five-minute blitz loss to Hikaru Nakamura after the pair appeared to collude in four quick rapidplay draws. The arrangement helped Nakamura to moonlight in Chess.com's Title",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-womens-team-chess-championship-india-beat-kazakhstan-to-meet-georgia-in-semifinals/articleshow/86673078.cms",
          "pubDate" : "Fri, 01 Oct 2021 11:08:00 +0530",
          "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86656118.cms\" />India drew 2-2 against Kazakhstan in the first match of the quarterfinals of the FIDE World Women's Team Chess Championship on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-kazakhstan-draw-1st-match-of-quarter-final/articleshow/86656118.cms",
-         "pubDate" : "Thu, 30 Sep 2021 21:55:04 +0530",
-         "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
       }
    ]
 }
