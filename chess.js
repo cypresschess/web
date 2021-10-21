@@ -18,7 +18,7 @@ news_feed (
          "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. 2021.10/20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1363",
          "pubDate" : "Thu, 30 Sep 2021 10:25:16 +0000",
          "title" : "2021 FIDE Chess.com Grand Swiss and the Women's Grand Swiss: the lists of players announced"
-      },
-      {
-         "description" : "The pandemic has forced Indian players to look for tournaments abroad to earn crucial rating points.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32305545/hungary-games-young-indians-hunt-gm-title-budapest?device=featurephone",
-         "pubDate" : "Thu, 30 Sep 2021 01:32:45 -0500",
-         "title" : "Hungary Games: Young Indians hunt for GM title in Budapest"
       }
    ]
 }
