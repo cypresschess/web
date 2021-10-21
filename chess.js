@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Adding symbols, evaluations and comments may be important, but without variations and moves to depict the possibilities that could have taken place or should have taken place, describing chess as a science would have no meaning. Yet knowing how to organize and re-organize those variations and moves sensibly and efficiently is no less essential. Learn how to do it like a pro!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-variations-moves-and-more",
+         "pubDate" : "Thu, 21 Oct 2021 15:00:00 +0100",
+         "title" : "Annotating in ChessBase: Variations, moves, and more"
+      },
+      {
+         "description" : "The FIDE Chess.com Grand Swiss and Women&#38;rsquo;s Grand Swiss will go on despite a new COVID-19 lockdown in Latvia that started on Thursday. The Latvian government included the chess tournament, scheduled for Oct. 27-Nov. 8, in a list of exceptions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-chesscom-grand-swiss-latvia-lockdown-covid",
+         "pubDate" : "Thu, 21 Oct 2021 06:14:29 -0700",
+         "title" : "FIDE Chess.com Grand Swiss Proceeds With Exemption As Latvia Locks Down"
+      },
+      {
+         "description" : "On Monday, 25 October, the Grand Swiss Tournament in Riga is scheduled to begin. 114 players have registered, the two best qualify for the Candidates Tournament 2022. But due to a sharp rise in the numbers of COVID-19 cases, the Latvian authorities have introduced a strict four-week lockdown, from Thursday 21 October until 15 November. However, the Grand Swiss is exempt from these restrictions and the tournament can take place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-in-riga-will-take-place-despite-lockdown",
+         "pubDate" : "Thu, 21 Oct 2021 14:13:26 +0100",
+         "title" : "Grand Swiss in Riga will take place despite lockdown"
+      },
+      {
+         "description" : " <p class=\"lead\">A six-time World Championship Candidate, and 2012 Challenger, GM Boris Gelfand, is hosting a <a href=\"https://masterclass.worldchess.com/gelfand2021\">3-part Masterclass</a>, to teach us how pieces play in the middlegame, starting on the 22nd of October. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-05559-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Niki Riga for World Chess</div> </div> For decades Boris Gelfand has been one of the best chess players in the world. He is known for his deep analyses, passion for chess, and his admiration for Akiba Rubinstein. In an interview with ChessBase Gelfand said: <b",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/masterclass-with-gm-boris-gelfand/",
+         "pubDate" : "Thu, 21 Oct 2021 11:43:48 +0000",
+         "title" : "Masterclass with GM Boris Gelfand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1392",
+         "pubDate" : "Thu, 21 Oct 2021 11:30:24 +0000",
+         "title" : "Grand Swiss exempt from the new coronavirus restrictions in Latvia"
+      },
+      {
          "description" : "Recently, Svitlana came to Hamburg to record her new Fritztrainer: \"Understanding Material Imbalances\". The DVD will appear soon, probably in a couple of weeks. But this is a good opportunity for a preview, including some recent examples of the themes Svitlana presents, e.g. the entertaining topic of \"Material Imbalances\". At the US Championship 2021 that just ended in St. Louis Sam Shankland and Fabiano Caruana played a fascinating game with material imbalances - it ended in a draw when the queen was unable to win against two minor pieces.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-17",
          "pubDate" : "Thu, 21 Oct 2021 12:00:00 +0100",
          "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana Caruana, St. Louis 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.fide.com/news/1392\">Latvian government has issued an exemption</a> for top sport events held in the country during the strict lockdown that starts today with non-essential shops, schools and entertainment venues closed and a night curfew. <strong>FIDE</strong> can go through with the <a href=\"https://grandswiss.fide.com/\"><strong>Grand Swiss</strong> and <strong>Women Grand Swiss</strong></a>, that have been moved to Riga from the Isle of Man in view of UK travel restrictions. The first round is scheduled on Tuesday. The invited players are asked to confirm their participation by this Friday. Since <a href=\"https://handbook.",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/grand-swiss-in-riga-despite-lockdown/",
+         "pubDate" : "Thu, 21 Oct 2021 11:50:24 +0100",
+         "title" : "Grand Swiss in Riga despite lockdown"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As usual the <strong>Russian Championship</strong> <a href=\"https://ruchess.ru/en/news/all/nikita_vitiugov_and_valentina_gunina_become_new_russian_champions/\">took place</a> <a href=\"https://ruchess.ru/en/chess_in_museums/\">in a museum</a> with a grant from the <strong>Elena and Gennady Timchenko Foundation</strong>, this time the <strong>Nesterov Art Museum</strong> in Ufa. The most experienced participant Nikita Vitiugov won ahead of Maxim Matlakov and Vladimir Fedoseev, all from St. Petersburg. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/vitiugov-is-russian-champion/",
+         "pubDate" : "Thu, 21 Oct 2021 11:41:06 +0100",
+         "title" : "Vitiugov is Russian champion"
       },
       {
          "description" : "Nikita Vitiugov has won the Russian Championship Superfinal at his 15th attempt, after playing in all but one event since he made his debut as a 19-year-old in 2006. Nikita scored an unbeaten +3 to finish half a point above Maxim Matlakov in 2nd place and a point ahead of Vladimir Fedoseev and Dmitry Andreikin in 3rd. In the women's event Valentina Gunina won her 4th Russian Championship title, but her first since 2014, with Polina Shuvalova missing a chance to clinch the title in their nerve-wracking final-round game.",
@@ -202,6 +258,14 @@ news_feed (
          "title" : "US Championship - Playoffs"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Tue, 19 Oct 2021 18:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
          "description" : "The last round of the US Championship was played on Monday. The US Champion, however, has not yet been decided, as Fabiano Caruana, Wesley So and Sam Sevian finished tied on points atop the standings and will play a rapid-chess tiebreak to find the winner of this year's national event. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -370,14 +434,6 @@ news_feed (
          "title" : "Sarana Wins Super Swiss, Qualifies For Speed Chess Championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Mon, 18 Oct 2021 18:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
-      },
-      {
          "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -514,15 +570,7 @@ news_feed (
          "title" : "Praggnanandhaa wins Challengers Chess Tour with stunning 8.5/9"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Six Dutch players, including 2019 champion <strong>Lucas van Foreest</strong>, tried to overcome the regulations of the <strong>Dutch Championship</strong> that has <a href=\"https://schaken.nl/nk-schaken\">begun this Friday</a> requiring a Corona-passport (being fully vaccinated of recovered from a Covid-19 infection) or daily tests. The court <a href=\"https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBNHO:2021:8954\">upheld the regulations and condemned the plaintiffs</a> to pay €3,364 to the <strong>Dutch Chess Federation</strong> and the town of Hoogeveen. Lucas van Foreest, who is known to love publicity, was called a hero by the righ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/dutch-players-fight-corona-passport/",
-         "pubDate" : "Sun, 17 Oct 2021 20:27:22 +0100",
-         "title" : "Dutch players fight Corona-regulation and lose in court"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Rameshbabu Praggnanandhaa</strong> <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/3/1/3\">smashed through the final</a> of the <strong>Bank Julius B&auml;r Challengers Chess Tour</strong>. He needed only nine games to win his three matches against Murzin, Keymer and Yoo, conceding a single draw and winning all other games, to secure $12,500 and a fix spot on the next <strong>Champions Chess Tour</strong>. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Rameshbabu Praggnanandhaa</strong> <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/3/1/3\">smashed through the final</a> of the <strong>Bank Julius B&auml;r Challengers Chess Tour</strong>. He needed only nine games to win his three matches against Murzin, Keymer and Yoo, conceding a single draw and winning all other games, to secure $12,500 and a fix spot on the next <strong>Champions Chess Tour</strong>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">08 Apr - 15 Aug 2021</span>: <a href=\"https://www.chesstech.org/events/2021/julius-baer-challengers-",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/pragg-dominates-challengers/",
@@ -536,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1387",
          "pubDate" : "Sun, 17 Oct 2021 19:22:37 +0000",
          "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Bundesliga</strong> season that started in November 2019 has finally been completed after 23 months with seven rounds centrally played in Berlin. The <strong>OSG Baden-Baden</strong> won the <a href=\"https://www.schachbundesliga.de/\">German league</a> for the 15th time. The <strong>SV Hockenheim 1930</strong> was on an equal score until their direct encounter in the penultimate round, which Baden-Baden won by 4,5:3,5. Hockenheim, who also lost the last round to <strong>SF Deizisau</strong> and had to concede the second place to them, retreat to the third league as announced earlier. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/15-times-baden-baden/",
-         "pubDate" : "Sun, 17 Oct 2021 20:17:29 +0100",
-         "title" : "15 times Baden-Baden"
       },
       {
          "description" : "Fabiano Caruana moved to within just half a point of the leaders with two rounds of the US Chess Championships to go after defeating Dariusz Swiercz in Round 9, while his key rivals only drew. Wesley So missed a great chance to take the sole lead by beating Daniel Naroditsky, while Leinier Dominguez was a whisker away from defeating Ray Robson and joining leaders So, Sam Sevian and Alex Lenderman. The Women's Championship is much clearer, with Carissa Yip leading Irina Krush by a full point after powering to a 4th win in a row.",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "Teams from 31 countries to participate in Championship for Prisoners"
       },
       {
-         "description" : "The 2021 Speed Chess Championship Grand Prix concluded Saturday with the fourth and final leg. There were $11,000 in prizes to play for even though GM Jeffery Xiong had already clinched the overall Grand Prix standings and a spot in the Speed Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-grand-prix-4-yakubboev-wins-with-xiong-already-through-to-main-event",
-         "pubDate" : "Sat, 09 Oct 2021 15:30:49 -0700",
-         "title" : "Speed Chess Grand Prix 4: Yakubboev Wins With Xiong Already Through To Main Event"
-      },
-      {
          "description" : " Under the rules of online chess, the player is held responsible for anything that happens at their end of the game, unless it can be demonstrated that the hosting server is at fault. This can include power outages, network failures, and in one case, the cat sitting on the keyboard. To preserve the dignity of the player involved, I won't use real names, but the cat-astrophe occurs at move 17 (if it isn't obvious already) <br /> <b>White - Black (cat) [D00]</b><br />Street Chess - 9 October 2021, 09.10.2021 <script>new PgnViewer( { boardName: \"game1279\", movesFormat: \"default\", pgnString:'1.d4 d5 2.e3 Bf5 3.c4 Nf6 4.Nf3 e6 5.Bd3 Bg6 6.O-O dxc4 7.Bxc4 Bd6 8.Re1 c6 9.Nc3 Qc7 10.Bd3 Bh5 11.h3 Nb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1962,36 +1994,12 @@ news_feed (
          "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris looks at the move 3.h4 against the King's Indian and Gr&uuml;nfeld - a bold and aggressive push that recently has become popular and that Black seems to find surprisingly hard to counter. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-3-h4-against-the-king-s-indian-and-gruenfeld",
-         "pubDate" : "Thu, 30 Sep 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: 3.h4 against the King's Indian and Gr&uuml;nfeld"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86656118.cms\" />India drew 2-2 against Kazakhstan in the first match of the quarterfinals of the FIDE World Women's Team Chess Championship on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-kazakhstan-draw-1st-match-of-quarter-final/articleshow/86656118.cms",
          "pubDate" : "Thu, 30 Sep 2021 21:55:04 +0530",
          "title" : "World Women's Team C'ship: India, Kazakhstan draw 1st match of quarters"
-      },
-      {
-         "description" : "Magnus Carlsen again increased his lead in the Champions Chess Tour final. In his round five match against Hikaru Nakamura Carlsen demonstrated impressive endgame technique by winning two instructive rook endings which brought him a 2.5-0.5 victory. Wesley So, who can still hope to catch Carlsen, was on the brink of defeat against Anish Giri, when the Dutch number 1 blundered the crucial game away. | Graphics: Champions Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-carlsen-beats-nakamura-and-increases-his-lead",
-         "pubDate" : "Thu, 30 Sep 2021 15:49:47 +0100",
-         "title" : "Champions Chess Tour Final: Carlsen beats Nakamura and increases his lead"
-      },
-      {
-         "description" : " During the current school holidays, the ACT Junior Chess League is running a number of online events, for the benefit of our local players. One of the (small) outcomes is that some of our less experienced players are starting to play what could be termed 'correct' chess moves. By this I mean moves that look sensible to other chess players, as opposed to hanging pawns, moving h pawns before castling, developing rooks via h3 etc Then I came across this ... <br /> <b>Carlsen, Magnus - Duda, Jan-Krysztof </b><br />Meltwater Champions Final 2021 <script>new PgnViewer( { boardName: \"game1276\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 c5 6.e3 cxd4 7.exd4 Nxc3 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/09/correct-chess.html",
-         "pubDate" : "Thu, 30 Sep 2021 13:06:00 +0000",
-         "title" : "Correct chess?"
       }
    ]
 }
