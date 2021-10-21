@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Team Mongolia became the winner of the first Intercontinental Online Chess Championship for Prisoners after defeating Team Zimbabwe in the final of the biggest ever chess event among correctional facilities. In the women's section, the Georgian team won all three matches and finished in clear first place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-final-report",
+         "pubDate" : "Fri, 22 Oct 2021 01:00:00 +0100",
+         "title" : "Mongolian team wins Online Chess Championship for prisoners"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the improved Milner-Barry Variation (1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3!? cxd4 7.0-0, an interesting and aggressive way to fight the French Defense that has recently become more and more popular. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
          "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
-      },
-      {
-         "description" : "The FIDE world ranking lists in October 2021 are headed by the \"usual suspects\". With a rating of 2855 Magnus Carlsen is still the clear number one, but though he played 13 rated games in September he did not win or lose any points. Alireza Firouzja is still the best junior, but for the first time he is now also among the world's top ten. Hou Yifan continues to lead the women's ranking list and Polina Shuvalova remains the highest rated player on the \"Girls\" list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2021",
-         "pubDate" : "Fri, 01 Oct 2021 13:00:00 +0100",
-         "title" : "FIDE Ratings: October 2021"
       },
       {
          "description" : " While I promised that we would continue playing through the beginner's game we started a few weeks ago, I've decided to address a subject that is key to all phases of the game and is absolutely necessary for improvement. The subject matter of this article came up this past week as I took over a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\">A Foundation for Beginners Thirty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
