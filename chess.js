@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Spanish Team Chess Championship 'Divisi&oacute;n de Honor' took place on October 11-17 in Toledo. DuoBeniaj&aacute;n, a team from Murcia headed by David Ant&oacute;n and Parham Maghsoodloo, got first place after obtaining 12/14 match points in the 8-team single round robin. Bosch Serinsys (Anton Korobov, Alexei Shirov) and Andreu Paterna (Paco Vallejo, David Howell) finished second and third respectively. | Photo: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/duobeniajan-wins-spanish-team-championship-2021",
+         "pubDate" : "Fri, 22 Oct 2021 22:00:00 +0100",
+         "title" : "DuoBeniaj&aacute;n wins Spanish Team Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1394",
+         "pubDate" : "Fri, 22 Oct 2021 19:46:47 +0000",
+         "title" : "Rhodes hosts Olympiad for Blind and Visually Impaired and IBCA Congress"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess For Freedom</strong> project is about much more than prison and online play, writes <em>Salomėja Zaksaitė</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/dr-b.1920.jpeg\" title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. photo: picture alliance/​Studiocanal/​Walker + Worm Film\" data-title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. (photo: picture alliance/​Studiocanal/​Walker + Worm Film)\" class=\"js-img\"> <img itemprop=\"image\" src=\"",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/a-liberating-game/",
+         "pubDate" : "Fri, 22 Oct 2021 20:38:45 +0100",
+         "title" : "A liberating game"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman shows examples of unconventional creative moves. Disturb harmony! Use the concept of zugzwang! Alex believes that automatic moves could have cost him the 2021 U.S. Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Avoid Automatic Moves; Look for Creative Moves! | Grandmaster's Choice - GM Alex Lenderman"
       },
       {
-         "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only 3 rounds remaining in the regular season, every point earned could be the difference between being eliminated or not. ...",
+         "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only three rounds remaining in the regular season, every point earned could be the difference between being eliminated or n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-round-4",
@@ -208,6 +232,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1393",
          "pubDate" : "Wed, 20 Oct 2021 19:30:28 +0000",
          "title" : "Nikita Vitiugov and Valentina Gunina become new Russian champions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Wed, 20 Oct 2021 18:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "This week, Merijn van Delft takes another look at the US Championship and analyses the encounter between Alekandr Lenderman and Fabiano Caruana, a tactically and positionally rich battle, in which Caruana showed great fighting spirit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -352,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-live",
          "pubDate" : "Tue, 19 Oct 2021 19:55:00 +0100",
          "title" : "US Championship - Playoffs"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Tue, 19 Oct 2021 18:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "The last round of the US Championship was played on Monday. The US Champion, however, has not yet been decided, as Fabiano Caruana, Wesley So and Sam Sevian finished tied on points atop the standings and will play a rapid-chess tiebreak to find the winner of this year's national event. | Photos: Lennart Ootes",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/praggnanandhaa-wins-challengers-chess-tour-with-stunning-8-5-9",
          "pubDate" : "Sun, 17 Oct 2021 22:52:29 +0000",
          "title" : "Praggnanandhaa wins Challengers Chess Tour with stunning 8.5/9"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Rameshbabu Praggnanandhaa</strong> <a href=\"https://chess24.com/en/watch/live-tournaments/julius-baer-challengers-chess-tour-finals-2021/3/1/3\">smashed through the final</a> of the <strong>Bank Julius B&auml;r Challengers Chess Tour</strong>. He needed only nine games to win his three matches against Murzin, Keymer and Yoo, conceding a single draw and winning all other games, to secure $12,500 and a fix spot on the next <strong>Champions Chess Tour</strong>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">08 Apr - 15 Aug 2021</span>: <a href=\"https://www.chesstech.org/events/2021/julius-baer-challengers-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/pragg-dominates-challengers/",
-         "pubDate" : "Sun, 17 Oct 2021 20:26:38 +0100",
-         "title" : "Pragg dominates Challengers"
       },
       {
          "description" : "",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "World Women's Team Championship, Final: Live"
       },
       {
-         "description" : "In the 6th round of the \"Meltwater Champions Chess Tour\" played on Friday Wesley So has suffered a significant setback, which may prove to be decisive: In his 1:3 against Teimour Radjabov, Wesley So, 2nd in the standings, failed to score, while Carlsen, still occupying the top spot, extended his lead by two more points in the overall ranking thanks to his victory (in a tiebreak) against Anish Giri. The world champion's lead over So is now 7 points - almost insurmountable given that there is only a maximum of 9 points still to be earned. The tournament organizers might therefore soon proclaim Magnus Carlsen as the \"world's top online chess player\" as the potential winner of the tournament. | ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finale-carlsen-at-the-finish-line",
-         "pubDate" : "Sat, 02 Oct 2021 12:42:12 +0100",
-         "title" : "Champions Chess Tour Final: Carlsen at the finish line"
-      },
-      {
          "description" : "In a nail biting semi-final encounter, India defeated third seed Georgia to book berth in the final of World Women Team Chess Championship at Sitges,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1367",
          "pubDate" : "Fri, 01 Oct 2021 23:56:04 +0000",
          "title" : "India will face off CFR Team for the gold"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1366",
-         "pubDate" : "Fri, 01 Oct 2021 20:19:57 +0000",
-         "title" : "October rating list: Firouzja and Rapport debut in top-10"
       }
    ]
 }
