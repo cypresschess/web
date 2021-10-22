@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This was the question that a friend, grandmaster Alex Yermolinsky, posed after being inquired about a comment by another grandmaster. It was meant as irony, but was the logical result of a series of questions and comments that led to him posing this. He had explained with hard data how one could even ask this. If you want to know how we got to this point, read on!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/were-tal-korchnoi-and-geller-2200-rated-players",
+         "pubDate" : "Fri, 22 Oct 2021 12:00:00 +0100",
+         "title" : "Were Tal, Korchnoi and Geller 2200 rated players?"
+      },
+      {
+         "description" : "European Youth&#38;Junior Chess Championships 2021 concluded yesterday after 9 rounds, 900 players from 33 federations participated the event, playing from 58 approved hybrid venues. The Awards ceremony of the event will take place on Saturday, 23rd of October, starting from 18:00 CEST. The ceremony will be broadcasted LIVE through the ECU Youtube channel. The Champion of the Girls&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youthjunior-chess-champions-2021-crowned/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youthjunior-chess-champions-2021-crowned/",
+         "pubDate" : "Fri, 22 Oct 2021 10:07:18 +0000",
+         "title" : "European Youth&Junior Chess Champions 2021 crowned!"
+      },
+      {
+         "description" : " Last week, we examined some concepts you should employ during the transition between the middle and endgame. We briefly touched on the role pawns play. This week and next, I want to really drive home just how important pawns are, not only throughout the game but especially during the endgame (we'll finish our student game <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-nine/\">A Foundation for Beginners Thirty Nine</a> appeared first on <a rel=\"nofollow\" ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-nine/",
+         "pubDate" : "Fri, 22 Oct 2021 10:00:06 +0000",
+         "title" : "A Foundation for Beginners Thirty Nine"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess class on a topic of his choice. Disturb harmony! Zugzwang! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/avoid-automatic-moves-look-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1922,14 +1946,6 @@ news_feed (
          "title" : "India will face off CFR Team for the gold"
       },
       {
-         "description" : "Yes, it is true. But not to worry, the news review crew will be back next week with an \"upgrade\" of this format. Lawrence and Arne will pick a chess related theme to talk about thoroughly. In the last news review episode, Lawrence takes a look at three major tournaments: TePe Sigeman, Sharjah Masters, and the Meltwater finals, the progressing of the \"elo\" ranking, and the Steinitz/Lasker resting places.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-review-how-many-professional-chess-players-enjoy-playing-chess-4",
-         "pubDate" : "Fri, 01 Oct 2021 23:45:12 +0100",
-         "title" : "Our very last news review"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,22 +1968,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
          "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
          "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
-      },
-      {
-         "description" : " While I promised that we would continue playing through the beginner's game we started a few weeks ago, I've decided to address a subject that is key to all phases of the game and is absolutely necessary for improvement. The subject matter of this article came up this past week as I took over a <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-six/\">A Foundation for Beginners Thirty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-six/",
-         "pubDate" : "Fri, 01 Oct 2021 10:00:26 +0000",
-         "title" : "A Foundation for Beginners Thirty Six"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1364",
-         "pubDate" : "Fri, 01 Oct 2021 09:52:08 +0000",
-         "title" : "CFR Team, Georgia, Ukraine and India advance to semis"
       }
    ]
 }
