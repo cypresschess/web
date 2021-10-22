@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only 3 rounds remaining in the regular season, every point earned could be the difference between being eliminated or not. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-round-4",
+         "pubDate" : "Thu, 21 Oct 2021 20:09:00 -0700",
+         "title" : "Collegiate Chess League Round 4: Begim Wins Big"
+      },
+      {
          "description" : "Team Mongolia became the winner of the first Intercontinental Online Chess Championship for Prisoners after defeating Team Zimbabwe in the final of the biggest ever chess event among correctional facilities. In the women's section, the Georgian team won all three matches and finished in clear first place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
       },
       {
-         "description" : " Share!Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!58Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://chessimprover.com/width-and-depth/",
          "pubDate" : "Sun, 10 Oct 2021 06:30:43 +0000",
          "title" : "Width and Depth"
-      },
-      {
-         "description" : "In round four of the 2021 U.S. Chess Championship, GM Ray Robson became the tournament&#39;s sole leader with 3/4 by beating GM Jeffery Xiong. Second place is shared by GMs Fabiano Caruana and Wesley So, who split a point, as well as by GMs Leinier Do...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-4",
-         "pubDate" : "Sat, 09 Oct 2021 20:27:00 -0700",
-         "title" : "US Chess Championships R4: Robson Sole Leader"
       },
       {
          "description" : "Forty-three teams from 31 countries will play in the 1st Intercontinental Online Championship for Prisoners, a two-day event that starts on October 13, the International Day of Education in Prisons. The championship is a part of the \"Chess for Freedom\" Program, launched earlier this year.",
