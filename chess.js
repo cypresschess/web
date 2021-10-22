@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, GM Daniel King, looks at tactical positions from the recent Bundesliga rounds. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show",
+         "pubDate" : "Fri, 22 Oct 2021 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Tactics"
+      },
+      {
          "description" : "The British Junior Rapid &#38; Blitz is taking place on 13th-14th November in Milton Keynes. If you would like to be an arbiter at this...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.thearticle.com/magnetic-poles/",
          "pubDate" : "Sat, 02 Oct 2021 08:00:42 +0000",
          "title" : "Magnetic Poles"
-      },
-      {
-         "description" : "Opposite-coloured bishops favour the attacker - this well-known chess wisdom was impressively proven in the diagram position. How did White start the action?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-dark-squares-2",
-         "pubDate" : "Sat, 02 Oct 2021 09:00:00 +0100",
-         "title" : "On the dark squares"
       },
       {
          "description" : "",
