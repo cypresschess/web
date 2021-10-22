@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess class on a topic of his choice. Disturb harmony! Zugzwang! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/avoid-automatic-moves-look-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/avoid-automatic-moves-look-creative-moves-grandmasters-choice-gm-alex-lenderman",
+         "pubDate" : "Fri, 22 Oct 2021 03:21:49 +0000",
+         "title" : "Avoid Automatic Moves; Look for Creative Moves! | Grandmaster's Choice - GM Alex Lenderman"
+      },
+      {
          "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only 3 rounds remaining in the regular season, every point earned could be the difference between being eliminated or not. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-first-time-beating-krush-black",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "Tatev Abrahamyan: First Time Beating Krush with Black!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Leinier Dominguez during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-missed-opportunities-took-me-out\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-7P3bRkDM7Y.jpg?itok=fnNp8tah\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-missed-opportunities-took-me-out",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "Leinier Dominguez: Missed Opportunities Took Me Out"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1968,30 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1364",
          "pubDate" : "Fri, 01 Oct 2021 09:52:08 +0000",
          "title" : "CFR Team, Georgia, Ukraine and India advance to semis"
-      },
-      {
-         "description" : " World champion keeps US rivals at bay with enterprising style contrasting with over-the-board grinds at Stavanger and the Euroclub Cup Magnus Carlsen is heading for a comfortable victory and a $100,000 first prize this weekend in the $1.5m <a href=\"https://championschesstour.com/\" title=\"\">Meltwater Champions Tour</a> final, as the world No 1's lead from the previous qualifying events looks like proving too high a hurdle for his only serious rival, Wesley So. So, the reigning US champion, was set back by a controversial five-minute blitz loss to Hikaru Nakamura after the pair appeared to collude in four quick rapidplay draws. The arrangement helped Nakamura to moonlight in Chess.com's Title",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/oct/01/chess-carlsen-heads-for-tour-win-as-nakamura-moonlighting-sparks-debate",
-         "pubDate" : "Fri, 01 Oct 2021 07:00:23 +0000",
-         "title" : "Chess: Carlsen heads for Tour win as Nakamura moonlighting sparks debate"
-      },
-      {
-         "description" : "Humpy has been vaccinated with Covaxin, which is yet to be approved by several countries.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32304654/koneru-humpy-return-offline-chess-curtailed-due-covaxin-restrictions?device=featurephone",
-         "pubDate" : "Fri, 1 Oct 2021 01:31:24 -0500",
-         "title" : "Koneru Humpy's return to over the board chess curtailed due to Covaxin restrictions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86673078.cms\" />D Harika and Mary Ann Gomes played key roles as India beat Kazakhstan 1.5-0.5 in the quarterfinals of the FIDE World Women's Team Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-womens-team-chess-championship-india-beat-kazakhstan-to-meet-georgia-in-semifinals/articleshow/86673078.cms",
-         "pubDate" : "Fri, 01 Oct 2021 11:08:00 +0530",
-         "title" : "Women's Team Chess C'ship: India to meet Georgia in semifinals"
       }
    ]
 }
