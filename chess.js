@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman shows examples of unconventional creative moves. Disturb harmony! Use the concept of zugzwang! Alex believes that automatic moves could have cost him the 2021 U.S. Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman",
+         "pubDate" : "Fri, 22 Oct 2021 18:22:36 +0000",
+         "title" : "No Automatic Moves; Find Creative Moves! | Grandmaster's Choice - GM Alex Lenderman"
+      },
+      {
          "description" : "In this week's show, GM Daniel King, looks at tactical positions from the recent Bundesliga rounds. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-yip-%E2%80%9Cnemcova-let-me-back-game%E2%80%9D",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "Carissa Yip: \"Nemcova Let Me Back in the Game\""
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Tatev Abrahamyan during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-first-time-beating-krush-black\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ER8ol6tkBC0.jpg?itok=REx6Z18m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-first-time-beating-krush-black",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "Tatev Abrahamyan: First Time Beating Krush with Black!"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1960,22 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1366",
          "pubDate" : "Fri, 01 Oct 2021 20:19:57 +0000",
          "title" : "October rating list: Firouzja and Rapport debut in top-10"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86687252.cms\" /> Mary Ann Gomes continued her good form, beating Salome Melia on the fourth board to help India draw the first match of the semi-finals against Georgia in the FIDE World Women's Team Chess Championship on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-georgia-share-honours-in-the-first-match-of-semis/articleshow/86687252.cms",
-         "pubDate" : "Fri, 01 Oct 2021 22:04:32 +0530",
-         "title" : "World Team C'ship: India, Georgia share honours in first match of semis"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://www.amazon.com/Chess-Fundamentals-Jos%C3%A9-Ra%C3%BAl-Capablanca-ebook/dp/B09F4H12X9/ref=sr_1_1?dchild=1&amp;keywords=chess%20fundamentals&amp;qid=1633032384&amp;s=books&amp;sr=1-1\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633103872906-DSKA64NRXM55LS0RETL6/Capa.jpg\" data-image-dimensions=\"217x346\" data-image-focal-point=\"0.5,0.5\" alt=\"Capa.jpg\" data-load=\"false\" data-image-id=\"61573000031e4d6fa1a9b9b9\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633103872906-DSKA64NRXM55LS0",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/1/xgtv6llg60ed70bh7o9tjvbg74jan6",
-         "pubDate" : "Fri, 01 Oct 2021 16:07:08 +0000",
-         "title" : "Book Recap #19- Discussing Capablanca's Chess Fundamentals with Jessi Shakarian"
       }
    ]
 }
