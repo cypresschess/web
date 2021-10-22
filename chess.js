@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The British Junior Rapid &#38; Blitz is taking place on 13th-14th November in Milton Keynes. If you would like to be an arbiter at this...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-call-for-arbiters/",
+         "pubDate" : "Fri, 22 Oct 2021 12:54:16 +0000",
+         "title" : "British Junior Rapid & Blitz - call for arbiters"
+      },
+      {
+         "description" : " I have just received a number of wondaful, and historical, publications from Roly Eime (IA). Included in this collection was the \"The Book of The First International Radio Chess Match Australia versus Great Britain\" which was played in 1947. The match itself was played by cable (Telegraph) and not directly by radio, and took 18 hours over 2 and a bit days to complete. As Australia had already beaten France and Canada is recent matches, the books compiler, M.E, Goldstein, said that the match was to decide the chess supremacy of the Empire. In the end the 'Mother Country' won 7-3, although Lajos Steiner scored a win for Australia on the top board. Another thing to note about the publication w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/before-internet.html",
+         "pubDate" : "Fri, 22 Oct 2021 11:38:00 +0000",
+         "title" : "Before the internet"
+      },
+      {
          "description" : "This was the question that a friend, grandmaster Alex Yermolinsky, posed after being inquired about a comment by another grandmaster. It was meant as irony, but was the logical result of a series of questions and comments that led to him posing this. He had explained with hard data how one could even ask this. If you want to know how we got to this point, read on!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/what-difference-35-years-makes.html",
          "pubDate" : "Fri, 08 Oct 2021 11:53:00 +0000",
          "title" : "What a difference 35 years makes"
-      },
-      {
-         "description" : "From the excellent books on the shortlist, two stood out Nigel Short's WINNING and Voronkov's Masterpieces and Dramas. The latter is winner of the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2021/",
-         "pubDate" : "Fri, 08 Oct 2021 10:06:35 +0000",
-         "title" : "ECF Book of the Year 2021"
       },
       {
          "description" : "Fans of the French Defence usually know their lines and structures very well, and they are happy to play their pet systems, even when the engines grant White a slight advantage. But 1.e4 e6 2.d4 d5 3.Bd3!? is a good way to bring French experts out of their comfort zone. In a \"60 Minutes\" video, Dutch IM Robert Ris, an expert for sharp systems, shows how White can use 3.Bd3!? to get promising play against the French Defense. IM Martin Neubauer had a look at the video.",
