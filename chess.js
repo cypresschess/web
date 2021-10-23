@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1395",
+         "pubDate" : "Sat, 23 Oct 2021 17:19:56 +0000",
+         "title" : "World Chess Championship for People with Disabilities: Registration continues"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87229632.cms\" />Grandmaster P Iniyan won the Arandjelovac GM Round Robin 1 tournament held in Serbia which concluded. The 12-player and 11-round classical competition saw Iniyan score 8.5 points and finish on top. Of the 11 games he played, Iniyan won 7, drew 3 and lost 1.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-iniyan-wins-serbia-event/articleshow/87229632.cms",
+         "pubDate" : "Sat, 23 Oct 2021 22:40:33 +0530",
+         "title" : "Grandmaster Iniyan wins Serbia event"
+      },
+      {
          "description" : "The Saemisch Variation is a very stable response to the King's Indian Defence. And the Benoni can also be answered with the same setup and the same underlying ideas. Jan Werle presents the white setup thoroughly on his DVD. Philipp Hillebrand has looked at the FritzTrainer just as thoroughly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,6 +258,14 @@ news_feed (
          "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Wed, 20 Oct 2021 20:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
          "description" : "On his 15th attempt, GM Nikita Vitiugov won his first-ever Russian championship title on Wednesday in Ufa. The 2017 runner-up finished in clear first place, half a point ahead of GM Maxim Matlakov. GM Valentina Gunina won her fourth women&#39;s champi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1393",
          "pubDate" : "Wed, 20 Oct 2021 19:30:28 +0000",
          "title" : "Nikita Vitiugov and Valentina Gunina become new Russian champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Wed, 20 Oct 2021 18:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "This week, Merijn van Delft takes another look at the US Championship and analyses the encounter between Alekandr Lenderman and Fabiano Caruana, a tactically and positionally rich battle, in which Caruana showed great fighting spirit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1912,22 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1368",
          "pubDate" : "Sat, 02 Oct 2021 20:33:37 +0000",
          "title" : "Magnus Carlsen wins first Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : "Team India consists of GM Dronavalli Harika, IM Tania Sachdev, IM Bhakti Kulkarni, WGM R Vaishali, WGM Mary Ann Gomes and Coach GM Abhijit Kunte",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historical-medal-at-world-women-team-championship/",
-         "pubDate" : "Sat, 02 Oct 2021 17:58:30 +0000",
-         "title" : "Historical Medal at World Women Team Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86713893.cms\" />India clinched a silver medal after going down 0-2 to Russia in the final of the FIDE World Women's Team Chess Championship on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-lose-to-russia-in-final-win-first-ever-medal-at-event/articleshow/86713893.cms",
-         "pubDate" : "Sat, 02 Oct 2021 23:27:54 +0530",
-         "title" : "World Women's Team Chess: India win first ever medal at event"
       }
    ]
 }
