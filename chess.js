@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White's knight is about to occupy the blockade square in front of the pawn d5. How would you react with Black?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/icelandic-isolani",
+         "pubDate" : "Sat, 23 Oct 2021 09:00:00 +0100",
+         "title" : "Icelandic isolani"
+      },
+      {
          "description" : "The Spanish Team Chess Championship 'Divisi&oacute;n de Honor' took place on October 11-17 in Toledo. DuoBeniaj&aacute;n, a team from Murcia headed by David Ant&oacute;n and Parham Maghsoodloo, got first place after obtaining 12/14 match points in the 8-team single round robin. Bosch Serinsys (Anton Korobov, Alexei Shirov) and Andreu Paterna (Paco Vallejo, David Howell) finished second and third respectively. | Photo: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/",
          "pubDate" : "Sat, 02 Oct 2021 13:28:54 +0000",
          "title" : "Forgotten Genius - The Life and Games of Grandmaster Albin Planinc"
-      },
-      {
-         "description" : "The CFR team and the Indian team play in the final of the World Women's Team Championship in Sitges, Spain. In the semifinals CFR won against Ukraine and India narrowly defeated Georgia. The final match also consists of two rounds (starting at 14:00 and 17:00 CEST), followed by a blitz play-off (19:30 CEST) in case of a tie. Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-team-championship-live",
-         "pubDate" : "Sat, 02 Oct 2021 13:45:00 +0100",
-         "title" : "World Women's Team Championship, Final: Live"
       },
       {
          "description" : "In a nail biting semi-final encounter, India defeated third seed Georgia to book berth in the final of World Women Team Chess Championship at Sitges,",
