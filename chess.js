@@ -1912,22 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-47-the-target-on-h6",
          "pubDate" : "Sun, 03 Oct 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 47: The target on h6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1369",
-         "pubDate" : "Sat, 02 Oct 2021 22:35:30 +0000",
-         "title" : "CFR Team takes the gold to Russia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1368",
-         "pubDate" : "Sat, 02 Oct 2021 20:33:37 +0000",
-         "title" : "Magnus Carlsen wins first Meltwater Champions Chess Tour title"
       }
    ]
 }
