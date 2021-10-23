@@ -1952,14 +1952,6 @@ news_feed (
          "link" : "https://www.thearticle.com/magnetic-poles/",
          "pubDate" : "Sat, 02 Oct 2021 08:00:42 +0000",
          "title" : "Magnetic Poles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1367",
-         "pubDate" : "Fri, 01 Oct 2021 23:56:04 +0000",
-         "title" : "India will face off CFR Team for the gold"
       }
    ]
 }
