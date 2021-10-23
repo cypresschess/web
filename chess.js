@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The winner of the English Chess Federation's Book of the Year Award 2021 is Sergey Voronkov's initial volume in a planned series, Masterpieces and Dramas of the Soviet Championships , relating the story of the first wave of Soviet Championships, from 1920 to 1937. The publishers are Elk and Ruby, who specialise in neglected areas of the history of the massive []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/russian-roulette/",
+         "pubDate" : "Sat, 23 Oct 2021 08:00:05 +0000",
+         "title" : "Russian Roulette"
+      },
+      {
          "description" : "In the diagram position White's knight is about to occupy the blockade square in front of the pawn d5. How would you react with Black?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1936,22 +1944,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/",
          "pubDate" : "Sat, 02 Oct 2021 13:28:54 +0000",
          "title" : "Forgotten Genius - The Life and Games of Grandmaster Albin Planinc"
-      },
-      {
-         "description" : "In a nail biting semi-final encounter, India defeated third seed Georgia to book berth in the final of World Women Team Chess Championship at Sitges,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-cruise-to-the-final-of-world-women-team-championship/",
-         "pubDate" : "Sat, 02 Oct 2021 09:49:33 +0000",
-         "title" : "India cruise to the final of World Women Team Championship"
-      },
-      {
-         "description" : "Some weeks ago I wrote about those brilliant Polish chess masters of the game, Akiba Rubinstein and Xavielly Tartakower, in the context of an impressive tournament victory by the new Polish star Jan Krzysztof Duda. This week I complete the story with the exploits of three slightly earlier Polish notables: Szymon Winawer, Johannes Zukertort and []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/magnetic-poles/",
-         "pubDate" : "Sat, 02 Oct 2021 08:00:42 +0000",
-         "title" : "Magnetic Poles"
       }
    ]
 }
