@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saemisch Variation is a very stable response to the King's Indian Defence. And the Benoni can also be answered with the same setup and the same underlying ideas. Jan Werle presents the white setup thoroughly on his DVD. Philipp Hillebrand has looked at the FritzTrainer just as thoroughly!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-the-saemisch-variation-by-jan-werle",
+         "pubDate" : "Sat, 23 Oct 2021 16:20:00 +0100",
+         "title" : "A review: The Saemisch Variation by Jan Werle"
+      },
+      {
          "description" : "The winner of the English Chess Federation's Book of the Year Award 2021 is Sergey Voronkov's initial volume in a planned series, Masterpieces and Dramas of the Soviet Championships , relating the story of the first wave of Soviet Championships, from 1920 to 1937. The publishers are Elk and Ruby, who specialise in neglected areas of the history of the massive []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1890,14 +1898,6 @@ news_feed (
          "title" : "Understanding before Moving 47: The target on h6"
       },
       {
-         "description" : "After the 7th round of the final tournament of the \"Meltwater Champions Chess Tour\" played on Saturday, Magnus Carlsen is now the \"Tour Winner\". Although neither the World Champion nor his direct rival Wesley So scored, So cannot catch up to Carlsen's seven-point lead with only two remaining rounds. Carlsen lost to Teimour Radjabov 1:3, while So lost to Levon Aronian 0.5:2.5 after just three games. Radjabov is now only half a point behind So and could challenge him for second place - the prize money difference between second and third place is USD 20,000. | Graphic: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-wins-the-meltwater-champions-chess-tour",
-         "pubDate" : "Sun, 03 Oct 2021 11:00:00 +0100",
-         "title" : "Magnus Carlsen wins the \"Meltwater Champions Chess Tour\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1928,22 +1928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-womens-team-chess-championship-india-lose-to-russia-in-final-win-first-ever-medal-at-event/articleshow/86713893.cms",
          "pubDate" : "Sat, 02 Oct 2021 23:27:54 +0530",
          "title" : "World Women's Team Chess: India win first ever medal at event"
-      },
-      {
-         "description" : " I've often described chess as an examination where the players take turns at setting the questions. Sometimes your move is only an answer to the previous question, while other times it is both an answer and the next question rolled into one. But what happens if you forget to answer the question being asked? This. <br /> <b>Aronian,Levon (2782) - Duda,Jan-Krzysztof (2756) [C18]</b><br />Meltwater Champions Chess Tour Finals chess24.com (6.1), 01.10.2021 <script>new PgnViewer( { boardName: \"game1277\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2 Nbc6 11.f4 dxc3 12.Qd3 d4 13.Nxd4 Nxd4 14.Qxd4 Bd7 15.Qd6 Qa5 1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/what-was-question.html",
-         "pubDate" : "Sat, 02 Oct 2021 14:02:00 +0000",
-         "title" : "What was the question?"
-      },
-      {
-         "description" : " From the publisher we have: &#8220;Albin Planinc was born in the middle of the Second World War, on 18th April 1944, in the little village of Briše, near the small town of Zagorje ob Savi, approximately 30 kilometers from Ljubljana, the capital of Slovenia. He spent his childhood with his mother Ljudmila (unofficially Milka), a <a href=\"http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Forgotten Genius The Life and Games of Grandmaster Albin Planinc</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/02",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/10/02/forgotten-genius-the-life-and-games-of-grandmaster-albin-planinc/",
-         "pubDate" : "Sat, 02 Oct 2021 13:28:54 +0000",
-         "title" : "Forgotten Genius - The Life and Games of Grandmaster Albin Planinc"
       }
    ]
 }
