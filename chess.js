@@ -1880,22 +1880,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/",
          "pubDate" : "Sun, 03 Oct 2021 19:41:15 +0000",
          "title" : "Kenya's Sagwe walks 165kms to promote chess"
-      },
-      {
-         "description" : "Yesterday, 2 October 2021, Jon Speelman turned 65. Congratulations! The English Grandmaster and former World Championship Candidate, who in January 1989 was the world's number four, used this occasion to look back on his career and to select some of the most interesting games he played as an up-and-coming player. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-speelman-the-joys-of-codgerdom",
-         "pubDate" : "Sun, 03 Oct 2021 18:00:00 +0100",
-         "title" : "Jon Speelman: The joys of Codgerdom"
-      },
-      {
-         "description" : "Appended below please find the list of players registered for the Asian Online Youth Chess Championship. We send an email to your respective registered email",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-online-youth-chess-championship-registration-details/",
-         "pubDate" : "Sun, 03 Oct 2021 16:23:15 +0000",
-         "title" : "Asian Online Youth Chess Championship : Registration Details"
       }
    ]
 }
