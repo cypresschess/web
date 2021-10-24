@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With OTB chess resuming in NSW, Victoria and ACT in the next few weeks, the vaccination status of players is likely to become an important topic. The Box Hill Chess Club in Victoria is requiring all tournament participants (and I assume spectators) to be fully vaccinated, although this now means that players under the age of 12 are excluded from playing at the club (as currently there is no vaccine for them). I also believe that a similar requirement is also in place for Contract bridge events, although the effect on under 12's is significantly less. I'm not sure if the Australian Chess federation is taking a position on this (although it may have been discussed at their council meeting las",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/take-shot.html",
+         "pubDate" : "Sun, 24 Oct 2021 12:47:00 +0000",
+         "title" : "Take the shot"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,30 +1896,6 @@ news_feed (
          "link" : "https://aicf.in/asian-online-youth-chess-championship-registration-details/",
          "pubDate" : "Sun, 03 Oct 2021 16:23:15 +0000",
          "title" : "Asian Online Youth Chess Championship : Registration Details"
-      },
-      {
-         "description" : " I often see posts on various Facebook groups asking something like &#8220;My rating's been stuck at 800 for months: how can I improve?&#8221; Of course, at one level, the answer's simple: stop hanging pieces. But they're never amused when you suggest that. They tend to be more impressed by advice to, for example, read Modern <a href=\"https://chessimprover.com/hanging-offence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hanging Offence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hanging-offence/\">Hanging Offence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/hanging-offence/",
-         "pubDate" : "Sun, 03 Oct 2021 15:30:42 +0000",
-         "title" : "Hanging Offence"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86731096.cms\" />Young Indian Grandmaster Arjun Erigaisi scored seven points from nine rounds to finish second in the Junior U-21 Round Table Open Chess Championship which concluded on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-gm-arjun-erigaisi-finishes-second-in-chess-tournament-in-bulgaria/articleshow/86731096.cms",
-         "pubDate" : "Sun, 03 Oct 2021 20:20:59 +0530",
-         "title" : "India's GM Erigaisi finishes second in chess tournament in Bulgaria"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 47th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on h6\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-47-the-target-on-h6",
-         "pubDate" : "Sun, 03 Oct 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 47: The target on h6"
       }
    ]
 }
