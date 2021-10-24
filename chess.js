@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1396",
+         "pubDate" : "Sun, 24 Oct 2021 21:56:19 +0000",
+         "title" : "Allan Stig Rasmussen wins 2021 Danish Championship"
+      },
+      {
+         "description" : "The Dutch Championship will be played in two stages this year. On Saturday, the three-round knockout phase was completed in the town hall of Hoogeveen. The field of participants was thus reduced from 16 to 4, who will determine the new champion in a double round-robin in Rotterdam at the end of November. The qualified players are Roeland Pruijssers, Max Warmerdam, Robin Swinkels and Hing Ting Lai. Meanwhile, the Women's Championship, which was played concurrently, was organized as a round robin tournament - the event was won by WGM Anne Haast. | Photos: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dutch-championship-2021-preliminary-stage",
+         "pubDate" : "Sun, 24 Oct 2021 22:10:00 +0100",
+         "title" : "Dutch Championship: Four players move on to final stage"
+      },
+      {
+         "description" : " Here's a recent online blitz game against a slightly higher rated opponent. 1. d4 f5 Regular readers will know that I often play the Dutch myself, even though the engines disapprove. I also try a lot of different lines against it with White. 2. Bg5 This is apparently the Hopton Attack, from a game Hopton <a href=\"https://chessimprover.com/run-harry-run/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Run, Harry, Run!\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/run-harry-run/\">Run, Harry, Run!</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/run-harry-run/",
+         "pubDate" : "Sun, 24 Oct 2021 20:19:11 +0000",
+         "title" : "Run, Harry, Run!"
+      },
+      {
          "description" : " With OTB chess resuming in NSW, Victoria and ACT in the next few weeks, the vaccination status of players is likely to become an important topic. The Box Hill Chess Club in Victoria is requiring all tournament participants (and I assume spectators) to be fully vaccinated, although this now means that players under the age of 12 are excluded from playing at the club (as currently there is no vaccine for them). I also believe that a similar requirement is also in place for Contract bridge events, although the effect on under 12's is significantly less. I'm not sure if the Australian Chess federation is taking a position on this (although it may have been discussed at their council meeting las",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/duobeniajan-wins-spanish-team-championship-2021",
          "pubDate" : "Fri, 22 Oct 2021 22:00:00 +0100",
          "title" : "DuoBeniaj&aacute;n wins Spanish Team Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Fri, 22 Oct 2021 20:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Wed, 20 Oct 2021 21:20:43 +0000",
          "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Wed, 20 Oct 2021 20:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "On his 15th attempt, GM Nikita Vitiugov won his first-ever Russian championship title on Wednesday in Ufa. The 2017 runner-up finished in clear first place, half a point ahead of GM Maxim Matlakov. GM Valentina Gunina won her fourth women&#39;s champi...",
@@ -1872,14 +1896,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/",
          "pubDate" : "Mon, 04 Oct 2021 00:00:45 +0000",
          "title" : "The Secret Ingredient: To Winning at Chess"
-      },
-      {
-         "description" : " Sustainable Development Goals or &#8220;SDGs&#8220;are 17 targets for creating a more economically, ecologically and environmentally-friendly planet. The United Nations has embarked on a long-term approach to tackle a number of problems in &#8220;health and education, reduced inequality and spur economic growth all while tackling climate change and working to preserves our oceans and forests.&#8221; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/\">Kenya's Sagwe walks 165kms to promote chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afric",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/10/03/kenyas-sagwe-walks-165kms-to-advocate-chess-sdgs/",
-         "pubDate" : "Sun, 03 Oct 2021 19:41:15 +0000",
-         "title" : "Kenya's Sagwe walks 165kms to promote chess"
       }
    ]
 }
