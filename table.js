@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2021-10-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110224742 target=' blank'>FBCC 2021 HALLOWEEN PREP</a>",
+"SPRING","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224692 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224682 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-10-16  - 10-17","237","<a href=http://www.uschess.org/msa/XtblMain.php?202110172542 target=' blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2021</a>",
 "CYPRESS","2021-10-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202110151752 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-10-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110151742 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2020-09-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202009260022 target=' blank'>THE CHESS REFINERY: 360+MINUTES</a>",
 "SPRING","2020-09-25","19","<a href=http://www.uschess.org/msa/XtblMain.php?202009259822 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-09-19","13","<a href=http://www.uschess.org/msa/XtblMain.php?202009190942 target=' blank'>SR CHESSKNIGHTS 09192020</a>",
-"SPRING","2020-09-18","23","<a href=http://www.uschess.org/msa/XtblMain.php?202009188232 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SPRING","2020-09-16","5","<a href=http://www.uschess.org/msa/XtblMain.php?202009167822 target=' blank'>CBS DRR</a>",
-"KATY","2020-09-12","19","<a href=http://www.uschess.org/msa/XtblMain.php?202009127002 target=' blank'>SR CHESSKNIGHTS 09122020</a>",
 ]);
