@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India won the over all championship in the Girls Category of Asian Youth Chess Championship by winning 2 Gold, 3 Silver and 2 Bronze on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-tops-medal-tally-in-asian-youth-online-girls-chess-championship/",
+         "pubDate" : "Mon, 25 Oct 2021 16:43:00 +0000",
+         "title" : "India tops medal tally in Asian Youth Online Girls Chess Championship"
+      },
+      {
          "description" : "On 26 November Magnus Carlsen and Ian Nepomniachtchi will play the first game of their World Championship match in Dubai. A good opportunity to ask Daniel King about his work for the updated ChessBase Master Class about Carlsen, about Carlsen as a person, King's favourite Carlsen game, and of course, King's predictions for the match. As part of the interview King shows two games of the current World Champion - one against Sergey Karjakin, and one against Anish Giri, which is one of King's favourite endgames by Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
