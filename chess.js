@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Danish Championship, played in Svendborg on the island of Funen, ended on Sunday with the victory of Allan Stig Rasmussen. With a score of 7.0/9 the 37-year-old Grandmaster finished half a point ahead of Sune Berg Hansen and Jesper S&oslash;nderg&aring;rd Thybo, who shared second place. It was the fifth time Rasmussen won the title. | Photos: Dansk Skak Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/allan-stig-rasmussen-wins-danish-championship",
+         "pubDate" : "Mon, 25 Oct 2021 11:58:49 +0100",
+         "title" : "Allan Stig Rasmussen wins Danish Championship"
+      },
+      {
          "description" : "Fabiano Caruana will be top seed as the FIDE Chess.com Grand Swiss starts this Wednesday, 27th October in Riga, Latvia, despite a lockdown that includes a curfew from 8pm to 5am each day. Hikaru Nakamura and Vidit have both withdrawn, with Hikaru citing, \"respect for Latvians suffering with Covid and for the health and safety of myself and my trainer\". The Open and Women's tournaments, which combined will feature around 160 players, have been given an exemption to take place by the Latvian government.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/east-asian-junior-open.html",
          "pubDate" : "Mon, 04 Oct 2021 12:16:00 +0000",
          "title" : "East Asian Junior Open"
-      },
-      {
-         "description" : "From 18 to 21 September, 17 of the world's best juniors played a round robin rapid online tournament, the Hou Yifan Challenge, which is part of the Julius Baer Challengers Tour. In the \"Endgame Magic Show #163\" Arne Kaehler and Karsten Mueller look at endgame highlights from this tournament that was won by Vincent Keymer, who finished two points ahead of Christopher Yoo and Praggnanandhaa.| Endgame Magic is on air most Mondays. Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-163-highlights-of-the-hou-yifan-challenge",
-         "pubDate" : "Mon, 04 Oct 2021 11:00:00 +0100",
-         "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
       }
    ]
 }
