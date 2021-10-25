@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1397",
+         "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
+         "title" : "Dutch Championship: Anne Haast clinches fifth title"
+      },
+      {
+         "description" : "The spookiest night of the year is almost upon us, but you don&#39;t need to be scared. It turns out that some monsters actually enjoy a good game of chess! You can now play against two brand new Halloween bots&#38;mdash;but do it quickly, before they dis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/halloween-chess-bots",
+         "pubDate" : "Mon, 25 Oct 2021 10:35:00 -0700",
+         "title" : "Play Against The New Halloween Bots"
+      },
+      {
          "description" : "India won the over all championship in the Girls Category of Asian Youth Chess Championship by winning 2 Gold, 3 Silver and 2 Bronze on",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -109,6 +125,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Sat, 23 Oct 2021 20:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1395",
          "pubDate" : "Sat, 23 Oct 2021 17:19:56 +0000",
          "title" : "World Chess Championship for People with Disabilities: Registration continues"
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/duobeniajan-wins-spanish-team-championship-2021",
          "pubDate" : "Fri, 22 Oct 2021 22:00:00 +0100",
          "title" : "DuoBeniaj&aacute;n wins Spanish Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Fri, 22 Oct 2021 20:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "The fourth phase of the game"
       },
       {
-         "description" : "In round five of the 2021 U.S. Chess Championship, GM Aleksandr Lenderman defeated GM Sam Sevian while the top seed GM Fabiano Caruana unexpectedly lost to GM Daniel Naroditsky. As a result, Lenderman and GM Ray Robson are leading the tournament w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-5",
-         "pubDate" : "Mon, 11 Oct 2021 19:54:00 -0700",
-         "title" : "US Chess Championships R5: Naroditsky Defeats Caruana, Lenderman Shares First"
-      },
-      {
          "description" : "After three rounds, the Superfinals in Russia have two sole leaders - Kirill Alekseenko in the open section, and Valentina Gunina in the women's tournament. Both of them have scored two wins and a draw so far in Ufa. Aleksandra Goryachkina, who is playing in the open event, drew Pavel Ponkratov, beat Alexander Motylev and was defeated by Alekseenko. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns",
          "pubDate" : "Tue, 05 Oct 2021 09:00:00 +0100",
          "title" : "The power of passed pawns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1370",
-         "pubDate" : "Mon, 04 Oct 2021 21:34:50 +0000",
-         "title" : "Alexey Sarana wins Junior U21 Round Table Championship"
       }
    ]
 }
