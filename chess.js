@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana will be top seed as the FIDE Chess.com Grand Swiss starts this Wednesday, 27th October in Riga, Latvia, despite a lockdown that includes a curfew from 8pm to 5am each day. Hikaru Nakamura and Vidit have both withdrawn, with Hikaru citing, \"respect for Latvians suffering with Covid and for the health and safety of myself and my trainer\". The Open and Women's tournaments, which combined will feature around 160 players, have been given an exemption to take place by the Latvian government.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-vidit-withdraw-as-grand-swiss-goes-ahead-despite-lockdown",
+         "pubDate" : "Mon, 25 Oct 2021 07:20:48 +0000",
+         "title" : "Nakamura, Vidit withdraw as Grand Swiss goes ahead despite lockdown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://chessimprover.com/run-harry-run/",
          "pubDate" : "Sun, 24 Oct 2021 20:19:11 +0000",
          "title" : "Run, Harry, Run!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 50th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about typical sacrifices. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-50-typical-sacrifices",
+         "pubDate" : "Sun, 24 Oct 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 50: Typical Sacrifices"
       },
       {
          "description" : " With OTB chess resuming in NSW, Victoria and ACT in the next few weeks, the vaccination status of players is likely to become an important topic. The Box Hill Chess Club in Victoria is requiring all tournament participants (and I assume spectators) to be fully vaccinated, although this now means that players under the age of 12 are excluded from playing at the club (as currently there is no vaccine for them). I also believe that a similar requirement is also in place for Contract bridge events, although the effect on under 12's is significantly less. I'm not sure if the Australian Chess federation is taking a position on this (although it may have been discussed at their council meeting las",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/appeal-findings-regulation-5-complaint-by-rob-willmoth-against-mike-truran/",
          "pubDate" : "Mon, 11 Oct 2021 10:45:39 +0000",
          "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
-      },
-      {
-         "description" : "23-year-old Aleksandra Goryachkina scored the only win of Round 2 of the Russian \"Men's\" Superfinal to join Kirill Alekseenko and Vladimir Fedoseev in the lead. The first woman ever to play in the top Russian event comprehensively outplayed Alexander Motylev in Round 2 and could easily have been on 2/2 after dominating her first round game as well. The 74th Russian Championship Superfinal is taking place in Ufa from October 9-20.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/goryachkina-s-dream-start-to-russian-men-s-superfinal",
-         "pubDate" : "Mon, 11 Oct 2021 10:20:49 +0000",
-         "title" : "Goryachkina's dream start to Russian \"Men's\" Superfinal"
       },
       {
          "description" : "If you're joining your child/children up to the ECF for the first time, please note you DO NOT have to register yourself with the ECF...",
