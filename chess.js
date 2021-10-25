@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #167 Karsten M&uuml;ller Arne and Karsten discuss endgame highlights from the Bundesliga, one of the world's strongest national team championships. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-167-endgame-highlights-from-the-bundesliga",
+         "pubDate" : "Mon, 25 Oct 2021 17:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic #167: Endgame highlights from the Bundesliga"
+      },
+      {
+         "description" : "The advance g2-g4 is a well-known motif in various lines of the Sicilian. In the Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 exd4 4.Nxd4 Nc6 5.Nc3 Qc7) with 6.Be3 a6, however, the move 7.g4 was established in top chess by Anish Giri just over half a year ago. In the current ChessBase Magazine Extra #203 Robert Ris explains the ideas of this very concrete concept in his opening video. Total playing time: 38 minutes. You can watch an excerpt of his analysis here. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/attacking-idea-against-the-sicilian-taimanov",
+         "pubDate" : "Mon, 25 Oct 2021 14:00:00 +0100",
+         "title" : "Attacking idea against the Sicilian Taimanov"
+      },
+      {
+         "description" : " Things happen quickly in blitz games, and sometimes even quicker than that. Black went for the jugular with 8 ... Ng4, although White could have defended with 9.Qe2. Instead 9.Rf1 was a plausible try that was hit with 9. ... Nxh2. But event then White was only a bit worse after 11.Kd2. 11. ... Ke2 was the start of the very rapid end. (To be fair to White, I fell for a similar idea as Black in a Traxler, which is an opening I have played for 35 years!) <br /> <b>Connor5566 (1828) - Mattrad (2065) [C30]</b><br />ACTCA Monday Blitz - 25 Oct https://lichess.org/UzTlgqFu, 25.10.2021 <script>new PgnViewer( { boardName: \"game1284\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/blink-and-youll-miss-it.html",
+         "pubDate" : "Mon, 25 Oct 2021 12:49:00 +0000",
+         "title" : "Blink and you'll miss it"
+      },
+      {
          "description" : "The Danish Championship, played in Svendborg on the island of Funen, ended on Sunday with the victory of Allan Stig Rasmussen. With a score of 7.0/9 the 37-year-old Grandmaster finished half a point ahead of Sune Berg Hansen and Jesper S&oslash;nderg&aring;rd Thybo, who shared second place. It was the fifth time Rasmussen won the title. | Photos: Dansk Skak Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/allan-stig-rasmussen-wins-danish-championship",
          "pubDate" : "Mon, 25 Oct 2021 11:58:49 +0100",
          "title" : "Allan Stig Rasmussen wins Danish Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The enhanced <a href=\"https://lichess.org/analysis#explorer\"><strong>Opening Explorer</strong></a> tool lets you see how you have been scoring on <strong>Lichess</strong> with different opening moves, or prepare for a specific opponent based on their Lichess games. <a href=\"https://lichess.org/blog/YXMPxxMAACEAy3g4/announcing-the-personal-opening-explorer\">According to the announcement</a>, the innovation has been inspired by <strong><a href=\"https://www.openingtree.com/\">OpeningTree.com</a></strong> another open source tool. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/lichess-publishes-opening-tool/",
+         "pubDate" : "Mon, 25 Oct 2021 11:55:25 +0100",
+         "title" : "Lichess publishes opening tool"
       },
       {
          "description" : "Fabiano Caruana will be top seed as the FIDE Chess.com Grand Swiss starts this Wednesday, 27th October in Riga, Latvia, despite a lockdown that includes a curfew from 8pm to 5am each day. Hikaru Nakamura and Vidit have both withdrawn, with Hikaru citing, \"respect for Latvians suffering with Covid and for the health and safety of myself and my trainer\". The Open and Women's tournaments, which combined will feature around 160 players, have been given an exemption to take place by the Latvian government.",
@@ -496,14 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-carissa-yip-wins-us-women-s-championship-2021",
          "pubDate" : "Tue, 19 Oct 2021 18:00:00 +0100",
          "title" : "The Weekly Show: Carissa Yip wins US Women's Championship 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> \"Bishop takes fries\" is the title of <a href=\"https://m.youtube.com/watch?v=rERiT0fprOQ\">this chess-themed ad</a> about players who meet at a South Chicago <strong>McDonald's</strong> restaurant and have started to win scholastic titles. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/mcdonalds-now-has-a-chess-ad-too/",
-         "pubDate" : "Tue, 19 Oct 2021 16:14:02 +0100",
-         "title" : "McDonald's now has a chess ad, too"
       },
       {
          "description" : "Quick draws for Wesley So and Sam Sevian meant that Fabiano Caruana could complete a fairytale US Chess Championship comeback if he beat Sam Shankland in the final round. When Sam gave up his queen based on what he later admitted was a miscalculation glory beckoned for Fabi, but in the end he had to scramble to make a draw, which means a 3-way rapid playoff for 1st on Tuesday. Meanwhile the Women's Championship is over, with Gulrukhbegim Tokhirjonova edging out Irina Krush for 2nd place after Irina fell to Tatev Abrahamyan.",
@@ -1872,30 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-chess-with-me-the-video-series",
          "pubDate" : "Mon, 04 Oct 2021 22:00:00 +0100",
          "title" : "Study chess with me - the video series"
-      },
-      {
-         "description" : "Teimour Radjabov and Levon Aronian won in the last round of the Champions Chess Tour Finals to secure second and third places behind tour champion Magnus Carlsen. Carlsen beat Wesley So, leaving the Filipino-born grandmaster in fourth place. | Results, games and standings. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-finals-live",
-         "pubDate" : "Mon, 04 Oct 2021 16:45:00 +0100",
-         "title" : "Champions Chess Tour, Round 9 - Results and standings"
-      },
-      {
-         "description" : "At the Women's World Team Championships in Sitges, Spain, the Russian team won the gold medal on Saturday by defeating India in the final match. The Russian players in the photo from left to right: Alina Kashlinskaya, Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno and Alexandra Kosteniuk. | Photos: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-wins-womens-world-team-championship-2021",
-         "pubDate" : "Mon, 04 Oct 2021 14:00:00 +0100",
-         "title" : "Chess Federation of Russia wins the Women's World Team Championship"
-      },
-      {
-         "description" : " This week it was the turn of the 'boys' to play in the East Asian Junior event (NB the event is titled 'boys' rather than 'open'). There were 7 players from the ACT taking part, and for all of them, this was their first international event. The best performed players were Dev Raichura and Jerry Cheng, in the Under 8's section. Both scored 6/9 to finish towards the top of the standings. In the Under 12 section, Larry Cheng scored 4.5/9, and would have been joined by Minchen Yang and Charles Huang, if final round results had gone their way. The next event is the Asian Online Junior and is expected that some of the players who played this event will back up for that one. <br /> <b>Cheng,Jerry ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/east-asian-junior-open.html",
-         "pubDate" : "Mon, 04 Oct 2021 12:16:00 +0000",
-         "title" : "East Asian Junior Open"
       }
    ]
 }
