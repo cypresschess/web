@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-163-highlights-of-the-hou-yifan-challenge",
          "pubDate" : "Mon, 04 Oct 2021 11:00:00 +0100",
          "title" : "Karsten Mueller's Endgame Magic #163: Highlights of the Hou Yifan Challenge"
-      },
-      {
-         "description" : " From the publisher: &#8220;The Secret Ingredient is a grandmaster guide to maximizing your chess results, focusing on key elements of practical play which have received little to no attention in previous chess literature. How exactly can we best make use of computers? What's the ideal, step-by-step way to prepare against a specific opponent? How can <a href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Secret Ingredient: To Winning at Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/04/the-secret-ingredient-t",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/10/04/the-secret-ingredient-to-winning-at-chess/",
-         "pubDate" : "Mon, 04 Oct 2021 00:00:45 +0000",
-         "title" : "The Secret Ingredient: To Winning at Chess"
       }
    ]
 }
