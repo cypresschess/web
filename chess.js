@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 26 November Magnus Carlsen and Ian Nepomniachtchi will play the first game of their World Championship match in Dubai. A good opportunity to ask Daniel King about his work for the updated ChessBase Master Class about Carlsen, about Carlsen as a person, King's favourite Carlsen game, and of course, King's predictions for the match. As part of the interview King shows two games of the current World Champion - one against Sergey Karjakin, and one against Anish Giri, which is one of King's favourite endgames by Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-on-magnus-and-the-masterclass",
+         "pubDate" : "Mon, 25 Oct 2021 17:18:57 +0100",
+         "title" : "Daniel King on Magnus and the Masterclass"
+      },
+      {
          "description" : "In the Endgame Magic Show #167 Karsten M&uuml;ller Arne and Karsten discuss endgame highlights from the Bundesliga, one of the world's strongest national team championships. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1370",
          "pubDate" : "Mon, 04 Oct 2021 21:34:50 +0000",
          "title" : "Alexey Sarana wins Junior U21 Round Table Championship"
-      },
-      {
-         "description" : "Chess improvement at any level requires chess instruction, study, and practice. Thanks to technology, chess instruction of the highest quality is readily available, even in the pages of this news page. However, no matter how many lectures you watch, they do not dispense with actual study, which is often a lonely affair. This is what this new video series hopes to change.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-chess-with-me-the-video-series",
-         "pubDate" : "Mon, 04 Oct 2021 22:00:00 +0100",
-         "title" : "Study chess with me - the video series"
       }
    ]
 }
