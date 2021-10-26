@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 10 October Nick Pert won the British Over-the-Board Championship 2021. In a video he nw walks us through the games he played in the Championship, explaining key positions, tactics and why and how he chose the openings he played. A fascinating look into the mind of a modern Grandmaster - including the first game of his career, in which Pert mated his opponent \"en passant\"!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pert-s-path-to-winning-the-british-otb-championship-2021",
+         "pubDate" : "Tue, 26 Oct 2021 16:36:28 +0100",
+         "title" : "Pert's path to winning the British OTB Championship 2021"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg\" data-image-dimensions=\"200x200\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"617801585379dc2f628653b4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"http://www.glicko.net/research.html\">courtesy of Mark Glickman</a> </figcaption> </figure> <p class=\"\">Our guest this week",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/26/episode-249-dr-mark-glickman",
+         "pubDate" : "Tue, 26 Oct 2021 13:26:46 +0000",
+         "title" : "Episode 249- Dr. Mark Glickman "
+      },
+      {
+         "description" : "In mid-October, the 43rd edition of the traditional Open of the City of Arco was played. In late summer weather many strong amateurs and several title holders, including two Grandmasters, competed for victory. In the end, four players shared first place but the Italian FM Michel Bifulco won the tournament on tiebreak. | Photo: Gerhard Bertagnolli",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/italian-fm-michel-bifulco-wins-43-open-int-citt-di-arco",
+         "pubDate" : "Tue, 26 Oct 2021 14:08:52 +0100",
+         "title" : "Italian FM Michel Bifulco wins 43. Open Int. Citt&agrave; di Arco"
+      },
+      {
+         "description" : "The 84th edition of the Tata Steel Chess tournament during January 14-30, 2022 in Wijk aan Zee, the Netherlands, will again have the world&#39;s top two players, GM Magnus Carlsen and GM Fabiano Caruana. On Tuesday, 13 of the 14 participants were anno...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-participants",
+         "pubDate" : "Tue, 26 Oct 2021 05:20:00 -0700",
+         "title" : "Carlsen, Caruana Top Field For 2022 Tata Steel Chess Tournament"
+      },
+      {
          "description" : "While entering moves, writing comments, and evaluating positions are the most fundamental aspects of chess annotation, there is little doubt that illustrating the board with well-placed arrows, and timely highlighted squares can tell you in a glance you can see what is going on without a single variation or comment. Be sure to have these tools in your tool kit.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -370,7 +402,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
       },
       {
-         "description" : " Share!58Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!136Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
@@ -1466,14 +1498,6 @@ news_feed (
          "title" : "Quick Decisions (7)"
       },
       {
-         "description" : "The brand new Chess Super League got underway on Monday with its first round, covered live with a sparkling Indian vibe. The teams Brutal Bishops, Krazy Knights, and&#38;nbsp;Pivotal Pawns started with wins. How to watch?The games of the Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-1",
-         "pubDate" : "Tue, 12 Oct 2021 03:16:00 -0700",
-         "title" : "Chess Super League Gets Underway With Sparkling Indian Vibe"
-      },
-      {
          "description" : "ECU E-Magazine September 2021 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2021 FIDE Women's World Team Chess Championship 2021 European Senior Chess Championship 2021 &#8220;Chess Ambassadors for the Environment&#8221; special event of 2021 Global Chess Festival ECU Online Trainers Conference Historical Tournament of Peace Invitation European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1890,52 +1914,12 @@ news_feed (
          "title" : "Magnus Carlsen: world champion, comedian, party animal"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will look at yet another great attacking win by Magnus Carlsen from the Finals of the Meltwater Champions Chess Tour. Lawrence also talks about the Women's World Team Championships in Sitges. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-meltwater-finals-2",
-         "pubDate" : "Tue, 05 Oct 2021 20:25:00 +0100",
-         "title" : "The Weekly Show: Carlsen on the attack"
-      },
-      {
          "description" : "The historical chess event, Tournament of Peace 2021, takes place from 5th-10th October 2021, in Zagreb, Croatia. The tournament is played in the National and University Library, with participation of 10 Grandmasters playing a round-robin event in 9 rounds. The participants are: Ernesto Inarkiev (RUS, 2668), Etienne Bacrot (FRA, 2658), Igor Kovalenko (LAT, 2647), Sergei Movsesian (ARM, 2627),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/tournament-of-peace-2021/",
          "pubDate" : "Tue, 05 Oct 2021 19:10:54 +0000",
          "title" : "Tournament of Peace 2021"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg\" data-image-dimensions=\"410x354\" data-image-focal-point=\"0.5,0.5\" alt=\"Photo by John Upham, courtesy of Tryfon Gavriel\" data-load=\"false\" data-image-id=\"615c5b6777baf339e2f400d0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1633442663350-5LR6NAUXGEJ4DFGOYF4Z/kingscrusher-large-picture.2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><em>Photo </em><a href=\"https://johnupham.smugmug.com/\"><e",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/5/episode-246-cm-tryfon-gavriel-aka-kingscrusher",
-         "pubDate" : "Tue, 05 Oct 2021 14:10:50 +0000",
-         "title" : "Episode 246- CM Tryfon Gavriel (aka KingsCrusher)"
-      },
-      {
-         "description" : "The story captured headlines twenty years ago. Many people believe that Bobby Fischer has returned to chess and was performing miracles on the Internet. Nigel Short said he was \"99 per cent sure\" he has had played Fischer, author Tim Krabb&eacute;, who was initially sceptical, went on to see the light. In September 2001 we took a closer look at the evidence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-third-coming-of-bobby-fischer",
-         "pubDate" : "Tue, 05 Oct 2021 15:00:00 +0100",
-         "title" : "The third coming of Bobby Fischer?"
-      },
-      {
-         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A true student of the game would definitely explore the shark infested waters of the King's gambit. Beside being one of the oldest openings, it could also help you sharpen your eye for tactics on both sides of the board. <a href=\"https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? King's Gambit Accepted Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/\">Need sure points? King's Gambit Accepted Edition</",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-kings-gambit-accepted-edition/",
-         "pubDate" : "Tue, 05 Oct 2021 12:17:04 +0000",
-         "title" : "Need sure points? King's Gambit Accepted Edition"
-      },
-      {
-         "description" : " Another 'easy to state, hard to solve' maths/chess problem has been solved recently. The N-Queen problem now has an approximate answer to the question \"How many arrangements can you have of n queens on and n by n chessboard, so that no queen attacks another?\" For a standard board (8x8) it has been long known that there are 92 distinct arrangements, but this problem is the general nxn case, where n can be an extremely large number. The solution (0.143n)^n is of course an approximation (rather than an exact number), but it is close enough to the correct number for all n. If you want to see how this number was arrived at then a link to the paper is <a href=\"https://arxiv.org/abs/2107.13460\">he",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/n-queens.html",
-         "pubDate" : "Tue, 05 Oct 2021 11:44:00 +0000",
-         "title" : "N-queens"
       }
    ]
 }
