@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1399",
+         "pubDate" : "Tue, 26 Oct 2021 20:42:05 +0000",
+         "title" : "FIDE Chess.com Grand Swiss officially opened in Latvia"
+      },
+      {
          "description" : "In a press release the organisers of the Tata Steel Tournament in Wijk aan Zee 2022 just revealed the names of 13 of the 14 participants. It is a fantastic line-up with Magnus Carlsen and Fabiano Caruana as top seeds and exciting and young players such as Richard Rapport, Jan-Krzysztof Duda, Andrey Esipenko, Daniil Dubov or Praggnanandhaa in the field. The tournament runs from 14 January until 30 January 2022. | Photo: Hans van den Berg (left), Anish Giri and Jeroen van den Berg ( © Tata Steel Chess)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
