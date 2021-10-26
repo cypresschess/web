@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Puducherry based Peter Anand won the Under-2000 World Amateur Chess Championship title at Rhodes Island Greece on Monday while Nimmy A G of Kerala",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-amateur-chess-championship-peter-anand-wins-gold-nimmy-secure-silver/",
+         "pubDate" : "Tue, 26 Oct 2021 04:15:24 +0000",
+         "title" : "World Amateur Chess Championship - Peter Anand wins Gold & Nimmy secure Silver"
+      },
+      {
+         "description" : "Office of All Bihar Chess Association inaugurated at Patna on Monday by Mr. Bharat Singh Chauhan , Hony. Secretary AICF and he has also inaugurated",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/office-of-all-bihar-chess-association-inaugurated-at-patna/",
+         "pubDate" : "Tue, 26 Oct 2021 04:04:32 +0000",
+         "title" : "Office of All Bihar Chess Association inaugurated at Patna"
+      },
+      {
+         "description" : "The 2021 FIDE Chess.com Grand Swiss is set to take place from October 27 until November 7 in Riga, Latvia. An open tournament and a women's tournament will take place concurrently, each an 11-round Swiss event. The participants' main focus will be to finish in the top two places, as the tournaments grant two spots in the next edition of the Candidates (Open and Women's respectively). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-preview",
+         "pubDate" : "Tue, 26 Oct 2021 04:20:00 +0100",
+         "title" : "Top GMs to fight for Candidates spots at Grand Swiss in Riga"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.10.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XyjohMzvmUo.jpg?itok=_ZdEIG1z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1896,14 +1920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-preview",
          "pubDate" : "Tue, 05 Oct 2021 09:05:00 +0100",
          "title" : "US Championships to kick off Wednesday"
-      },
-      {
-         "description" : "Passed pawns can be very powerful in the endgame. In the diagram position Black is a pawn and a knight down but he has a strong passed pawn on d2 that can save the game. It is Black to move and draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns",
-         "pubDate" : "Tue, 05 Oct 2021 09:00:00 +0100",
-         "title" : "The power of passed pawns"
       }
    ]
 }
