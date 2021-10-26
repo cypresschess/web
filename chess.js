@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While entering moves, writing comments, and evaluating positions are the most fundamental aspects of chess annotation, there is little doubt that illustrating the board with well-placed arrows, and timely highlighted squares can tell you in a glance you can see what is going on without a single variation or comment. Be sure to have these tools in your tool kit.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-arrows-and-highlighted-squares",
+         "pubDate" : "Tue, 26 Oct 2021 13:09:31 +0100",
+         "title" : "Annotating in ChessBase: Arrows and highlighted squares"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1398",
+         "pubDate" : "Tue, 26 Oct 2021 10:15:29 +0000",
+         "title" : "Winners crowned at FIDE World Amateur Chess Championship"
+      },
+      {
+         "description" : "The most exciting 4-day costume party of the year starts on October 26 in the chess24 Arena. The Halloween Monster Mystery Bash returns, and you can jump in on the action wherever you are in the world. Get the chance to win premium Chessable courses... a chunk of the $5,000-prize pool... and plenty of bragging rights, too!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/halloween-mystery-monster-bash-2021",
+         "pubDate" : "Tue, 26 Oct 2021 08:34:20 +0000",
+         "title" : "Join us for an exciting Halloween celebration!"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (51)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (51)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-51/",
+         "pubDate" : "Tue, 26 Oct 2021 08:21:03 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (51)"
+      },
+      {
+         "description" : "FIDE Chess.com Grand Swiss 2021 and the first edition of the FIDE Chess.com Women's Grand Swiss 2021 open today in Riga, Latvia. Both tournaments are part of the qualifications for the 2021-23 World Championship cycle, with the top two players in the open event qualifying for the 2022 Candidates Tournament and the following six securing spots in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-grand-swiss-2021-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-grand-swiss-2021-starts/",
+         "pubDate" : "Tue, 26 Oct 2021 08:15:45 +0000",
+         "title" : "FIDE Chess.com GRAND SWISS 2021 STARTS"
+      },
+      {
          "description" : "Zugzwang is a powerful endgame weapon, particularly against a passive knight. In the diagram position, White's knight is passive but how can Black bring White into zugzwang and win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1397",
          "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
          "title" : "Dutch Championship: Anne Haast clinches fifth title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Mon, 25 Oct 2021 20:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "The spookiest night of the year is almost upon us, but you don&#39;t need to be scared. It turns out that some monsters actually enjoy a good game of chess! You can now play against two brand new Halloween bots&#38;mdash;but do it quickly, before they dis...",
@@ -168,14 +216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/take-shot.html",
          "pubDate" : "Sun, 24 Oct 2021 12:47:00 +0000",
          "title" : "Take the shot"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Sat, 23 Oct 2021 20:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "",
@@ -1434,14 +1474,6 @@ news_feed (
          "title" : "Chess Super League Gets Underway With Sparkling Indian Vibe"
       },
       {
-         "description" : "\"It's an amazing, euphoric feeling\" said Daniel Naroditsky after defeating world no. 2 Fabiano Caruana, who lost 7.3 rating points after his luck at this year's US Championship finally ran out in Round 5. Big guns Wesley So and Leinier Dominguez got nothing, allowing Alex Lenderman to join Ray Robson in the lead with a 140-move win over Sam Sevian. Jeffery Xiong rebounded from three losses in a row to take down Sam Shankland, while the women's section remains too close to call after Carissa Yip lost and Irina Krush won to negate the impact of their previous game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-5-naroditsky-beats-caruana",
-         "pubDate" : "Tue, 12 Oct 2021 09:36:31 +0000",
-         "title" : "US Chess Champs 5: Naroditsky beats Caruana"
-      },
-      {
          "description" : "ECU E-Magazine September 2021 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2021 FIDE Women's World Team Chess Championship 2021 European Senior Chess Championship 2021 &#8220;Chess Ambassadors for the Environment&#8221; special event of 2021 Global Chess Festival ECU Online Trainers Conference Historical Tournament of Peace Invitation European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1898,28 +1930,12 @@ news_feed (
          "title" : "Need sure points? King's Gambit Accepted Edition"
       },
       {
-         "description" : "Magnus Carlsen, who won the Champions Chess Tour with plenty of time to spare, ended his short losing streak with a win over Wesley So. The Filipino-bornd grandmaster dropped to fourth place as Teimour Radjabov and Levon Aronian won their matches.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-final-radjabov-aronian-reach-the-podium",
-         "pubDate" : "Tue, 05 Oct 2021 13:05:00 +0100",
-         "title" : "Champions Chess Tour Final: Radjabov and Aronian reach the podium"
-      },
-      {
          "description" : " Another 'easy to state, hard to solve' maths/chess problem has been solved recently. The N-Queen problem now has an approximate answer to the question \"How many arrangements can you have of n queens on and n by n chessboard, so that no queen attacks another?\" For a standard board (8x8) it has been long known that there are 92 distinct arrangements, but this problem is the general nxn case, where n can be an extremely large number. The solution (0.143n)^n is of course an approximation (rather than an exact number), but it is close enough to the correct number for all n. If you want to see how this number was arrived at then a link to the paper is <a href=\"https://arxiv.org/abs/2107.13460\">he",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/10/n-queens.html",
          "pubDate" : "Tue, 05 Oct 2021 11:44:00 +0000",
          "title" : "N-queens"
-      },
-      {
-         "description" : "European Senior Chess Championship 2021 concluded today in Budoni, Sardinia/Italy. After intense fights for the medals till the last round, IM Bellia Fabrizio (ITA, 2431) emerged as the sole Winner of 50+ section with score of 7.5/9 points, after defeating Cafolla Peter in the last round of the event. GM Bischoff Klaus (GER, 2495) drew the last round&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2021-concluded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2021-concluded/",
-         "pubDate" : "Tue, 05 Oct 2021 09:00:29 +0000",
-         "title" : "European Senior Chess Championship 2021 concluded"
       }
    ]
 }
