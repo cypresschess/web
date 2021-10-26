@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Zugzwang is a powerful endgame weapon, particularly against a passive knight. In the diagram position, White's knight is passive but how can Black bring White into zugzwang and win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zugzwang-2",
+         "pubDate" : "Tue, 26 Oct 2021 09:00:00 +0100",
+         "title" : "Zugzwang"
+      },
+      {
          "description" : "Puducherry based Peter Anand won the Under-2000 World Amateur Chess Championship title at Rhodes Island Greece on Monday while Nimmy A G of Kerala",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2021-concluded/",
          "pubDate" : "Tue, 05 Oct 2021 09:00:29 +0000",
          "title" : "European Senior Chess Championship 2021 concluded"
-      },
-      {
-         "description" : "The Saint Louis Chess Club, headed by Rex Sinquefield, has done a lot for chess in the United States, and they continue to organize top tournaments. Beginning Wednesday, the club will host the national championships. With players such as Caruana, So, Dominguez, Shankland, Xiong, Krush and Yip, both tournaments are strongly contested, though Hikaru Nakamura is missing from the lineup. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-preview",
-         "pubDate" : "Tue, 05 Oct 2021 09:05:00 +0100",
-         "title" : "US Championships to kick off Wednesday"
       }
    ]
 }
