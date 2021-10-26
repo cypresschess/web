@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On 10 October Nick Pert won the British Over-the-Board Championship 2021. In a video he nw walks us through the games he played in the Championship, explaining key positions, tactics and why and how he chose the openings he played. A fascinating look into the mind of a modern Grandmaster - including the first game of his career, in which Pert mated his opponent \"en passant\"!",
+         "description" : "In a press release the organisers of the Tata Steel Tournament in Wijk aan Zee 2022 just revealed the names of 13 of the 14 participants. It is a fantastic line-up with Magnus Carlsen and Fabiano Caruana as top seeds and exciting and young players such as Richard Rapport, Jan-Krzysztof Duda, Andrey Esipenko, Daniil Dubov or Praggnanandhaa in the field. The tournament runs from 14 January until 30 January 2022. | Photo: Hans van den Berg (left), Anish Giri and Jeroen van den Berg ( © Tata Steel Chess)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-at-tata-steel-2022",
+         "pubDate" : "Tue, 26 Oct 2021 18:00:00 +0100",
+         "title" : "Magnus Carlsen plays at Tata Steel 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown suffers numerous last minute cancellations by Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13. It's 14 on the <strong>live rating list</strong>, adding Wojtaszek and van Foreest and taking out Xiong. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/only-a-third-of-2700-players-in/",
+         "pubDate" : "Tue, 26 Oct 2021 16:49:47 +0100",
+         "title" : "Only a third of 2700+ players in Riga"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 13 out of 14 participants of the <strong>Tata Steel Chess Tournament</strong> on 14-30 January <a href=\"https://tatasteelchess.com/players/\">are announced</a>. If the top group goes \"on tour\" with some rounds elsewhere than Wijk aan Zee and what amateur events will be possible isn't clear. Clear is that the 2022 edition <a href=\"https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/\">won't clash with Gibraltar</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-and-caruana-headline-tata/",
+         "pubDate" : "Tue, 26 Oct 2021 16:36:38 +0100",
+         "title" : "Carlsen and Caruana headline Tata Steel Chess"
+      },
+      {
+         "description" : "On 10 October Nick Pert won the British Over-the-Board Championship 2021. In a 50-minute video, he now walks us through the games he played in the Championship, explaining key positions, tactics and why and how he chose the openings he played. A fascinating look into the mind of a modern Grandmaster - including the first game of his career, in which Pert mated his opponent \"en passant\"!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pert-s-path-to-winning-the-british-otb-championship-2021",
          "pubDate" : "Tue, 26 Oct 2021 16:36:28 +0100",
          "title" : "Pert's path to winning the British OTB Championship 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Education Commission</strong> <a href=\"https://edu.fide.com/english-program/\">invites presentations</a> for an online conference on 20 and 21 November. The bilingual English and Spanish conference will deal with chess in preschool, in school and in university. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chess-in-education-online-conference/",
+         "pubDate" : "Tue, 26 Oct 2021 16:19:31 +0100",
+         "title" : "Chess in education online conference"
+      },
+      {
+         "description" : " The FIDE Grand Swiss Tournament takes place Wed 27th Oct to Mon 8th Nov 2021 in Riga. The event was initially scheduled to take place on the Isle of Man and was later switch to Riga over concerns that the regulation might cause it's cancellation. As it is the event starts in Riga with a very high incidence of the disease and regulations affecting locals but not the players. Alexander Grischuk, Richard Rapport, Shakhriyar Mamedyarov, Hikaru Nakamura and Vidit Gujrathi are leading players who have decided they don't want to play. The top seeds are now Fabiano Caruana, Levon Aronian, Alireza Firouzja, MVL and Nikita Vitiugov. There is a similar women's event alongside - top seed Kateryna Lagno",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2021",
+         "pubDate" : "Tue, 26 Oct 2021 18:13:00 +0400",
+         "title" : "FIDE Grand Swiss 2021 - Games and Results"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg\" data-image-dimensions=\"200x200\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"617801585379dc2f628653b4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"http://www.glicko.net/research.html\">courtesy of Mark Glickman</a> </figcaption> </figure> <p class=\"\">Our guest this week",
@@ -458,22 +498,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana, St. Louis 2021"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.fide.com/news/1392\">Latvian government has issued an exemption</a> for top sport events held in the country during the strict lockdown that starts today with non-essential shops, schools and entertainment venues closed and a night curfew. <strong>FIDE</strong> can go through with the <a href=\"https://grandswiss.fide.com/\"><strong>Grand Swiss</strong> and <strong>Women Grand Swiss</strong></a>, that have been moved to Riga from the Isle of Man in view of UK travel restrictions. The first round is scheduled on Tuesday. The invited players are asked to confirm their participation by this Friday. Since <a href=\"https://handbook.",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/grand-swiss-in-riga-despite-lockdown/",
-         "pubDate" : "Thu, 21 Oct 2021 11:50:24 +0100",
-         "title" : "Grand Swiss in Riga despite lockdown"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As usual the <strong>Russian Championship</strong> <a href=\"https://ruchess.ru/en/news/all/nikita_vitiugov_and_valentina_gunina_become_new_russian_champions/\">took place</a> <a href=\"https://ruchess.ru/en/chess_in_museums/\">in a museum</a> with a grant from the <strong>Elena and Gennady Timchenko Foundation</strong>, this time the <strong>Nesterov Art Museum</strong> in Ufa. The most experienced participant Nikita Vitiugov won ahead of Maxim Matlakov and Vladimir Fedoseev, all from St. Petersburg. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/vitiugov-is-russian-champion/",
-         "pubDate" : "Thu, 21 Oct 2021 11:41:06 +0100",
-         "title" : "Vitiugov is Russian champion"
-      },
-      {
          "description" : "Nikita Vitiugov has won the Russian Championship Superfinal at his 15th attempt, after playing in all but one event since he made his debut as a 19-year-old in 2006. Nikita scored an unbeaten +3 to finish half a point above Maxim Matlakov in 2nd place and a point ahead of Vladimir Fedoseev and Dmitry Andreikin in 3rd. In the women's event Valentina Gunina won her 4th Russian Championship title, but her first since 2014, with Polina Shuvalova missing a chance to clinch the title in their nerve-wracking final-round game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
          "pubDate" : "Wed, 20 Oct 2021 11:55:00 +0100",
          "title" : "Superfinals - Round 11"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> overcame a poor start at the <strong>US Championship</strong> and was <a href=\"https://chess24.com/en/read/news/wesley-so-wins-his-3rd-us-chess-championship\">close to winning it</a> in the last round and again in the tie-breaker against <strong>Wesley So</strong>, who in the end won his third US championship plus $50,000 and conceded that Caruana would have deserved it. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/wesley-so-wins-third-us-title-after/",
-         "pubDate" : "Wed, 20 Oct 2021 11:05:03 +0100",
-         "title" : "Wesley So wins third US title after tiebreak"
       },
       {
          "description" : "Last weekend, Baden-Baden won the German Team Championship, the Bundesliga. Again. In fact, since 2006 the team from Baden-Baden, sponsored by GRENKE Leasing, only failed to win the league in 2016, when Solingen finished first. This year, at the end of a season that due to the pandemic lasted from 2019 to 2021, Baden-Baden was three team points ahead of their closest rivals but securing the title was more difficult than the final result suggests. | Photos: Pascal Simon",
@@ -1904,22 +1920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biofeedback-in-chess-2",
          "pubDate" : "Wed, 06 Oct 2021 12:15:00 +0100",
          "title" : "Biofeedback in Chess - Part 1"
-      },
-      {
-         "description" : "How does Magnus Carlsen spend his time when he is not playing chess? He is quite active, in fact! For example, he is one of the contestants on a Norwegian reality show - in \"Ikke lov &aring; le p&aring; hytta\", the contestants try to make the other residents of the house laugh while not laughing themselves. And this is only one of his many side activities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-world-champion-comedian-party-animal",
-         "pubDate" : "Wed, 06 Oct 2021 08:00:00 +0100",
-         "title" : "Magnus Carlsen: world champion, comedian, party animal"
-      },
-      {
-         "description" : "The historical chess event, Tournament of Peace 2021, takes place from 5th-10th October 2021, in Zagreb, Croatia. The tournament is played in the National and University Library, with participation of 10 Grandmasters playing a round-robin event in 9 rounds. The participants are: Ernesto Inarkiev (RUS, 2668), Etienne Bacrot (FRA, 2658), Igor Kovalenko (LAT, 2647), Sergei Movsesian (ARM, 2627),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tournament-of-peace-2021/",
-         "pubDate" : "Tue, 05 Oct 2021 19:10:54 +0000",
-         "title" : "Tournament of Peace 2021"
       }
    ]
 }
