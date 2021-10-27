@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2021-r1",
+         "pubDate" : "Thu, 28 Oct 2021 00:05:00 +0100",
+         "title" : "Grand Swiss: Caruana and Firouzja start off with wins"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1400",
+         "pubDate" : "Wed, 27 Oct 2021 21:11:28 +0000",
+         "title" : "FIDE Chess.com Grand Swiss Riga: Round 1 Recap"
+      },
+      {
          "description" : " On November 24th the wait has finally an end: reigning World Champion Magnus Carlsen will try to defend his title against GM Ian Nepomniachtchi, who won the 2020/21 Candidates Tournament. The long-awaited World Championship Match will be played in Dubai (UAE), alongside the World Expo. In this article, you will get all the information about [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/chess-world-championship-match/\">Chess World Championship Match</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -26,19 +42,11 @@ news_feed (
          "title" : "The Grand Swiss"
       },
       {
-         "description" : "The 2021 FIDE Chess.com Grand Swiss is taking place from October 27 until November 7 in Riga, Latvia. An open tournament and a women's tournament is being played concurrently, each an 11-round Swiss event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Wed, 27 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
-      },
-      {
          "description" : "Top German player, IM Elisabeth P&auml;htz, was recently invited to speak at the Digital Demo Day in Germany, in English, where she was asked to discuss the application of quantum computing on chess. She was later interviewed about her life as a chess player with questions on how it compares to Queen's Gambit, but the key question she was asked was: can quantum computing solve chess?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-why-chess-players-can-t-win-against-artificial-intelligence-2",
-         "pubDate" : "Wed, 27 Oct 2021 12:44:03 +0100",
+         "pubDate" : "Wed, 27 Oct 2021 13:00:03 +0100",
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
       },
       {
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-praggnanandhaa-to-play-tata-steel-masters",
          "pubDate" : "Wed, 27 Oct 2021 07:24:16 +0000",
          "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
+      },
+      {
+         "description" : "Following a precautionary move from the Isle of Man to Riga and despite a new local lockdown in Latvia the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss took off on Wednesday. Top seed GM Fabiano Caruana and fourth seed GM Alireza Firouzja we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chesscom-grand-swiss-round-1",
+         "pubDate" : "Tue, 26 Oct 2021 23:35:00 -0700",
+         "title" : "Caruana, Firouzja Among Winners As FIDE Chess.com Grand Swiss Takes Off In Riga"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
          "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
          "title" : "German Bundesliga 2019-2020 - Games and Results"
-      },
-      {
-         "description" : "The Brutal Bishops grabbed the sole lead on day two of the Chess Super League on Tuesday. A 3-3 tie with the Quintessential Queens was enough for a one-point gap in match points because the two other winners of the first day lost their second matc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-2",
-         "pubDate" : "Wed, 13 Oct 2021 04:29:00 -0700",
-         "title" : "Chess Super League R2: Brutal Bishops Take Slim Lead"
       },
       {
          "description" : " Many of the most important tournaments in Chess are played in a Round-Robin (all-play-all) format. Even if the game is still the same, the preparation for a Round-Robin tournament can be different from a normal tournament. In most cases, you will know your opponents before the tournament and thus you have some extra time to [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/\">5 Steps To A Great Round-Robin Preparation</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
