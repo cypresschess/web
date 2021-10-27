@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " On November 24th the wait has finally an end: reigning World Champion Magnus Carlsen will try to defend his title against GM Ian Nepomniachtchi, who won the 2020/21 Candidates Tournament. The long-awaited World Championship Match will be played in Dubai (UAE), alongside the World Expo. In this article, you will get all the information about [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/chess-world-championship-match/\">Chess World Championship Match</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/chess-world-championship-match/",
+         "pubDate" : "Wed, 27 Oct 2021 17:00:00 +0000",
+         "title" : "Chess World Championship Match"
+      },
+      {
+         "description" : "GM Shakhriyar Mamedyarov won the October 26 edition of Titled Tuesday with a score of 10/11. It was his first win in the event since January 19 and third overall. In sole second place was GM Jose Martinez with 9.5/11. Four players tied for the nex...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mamedyarov-wins-october-26-titled-tuesday",
+         "pubDate" : "Wed, 27 Oct 2021 09:02:42 -0700",
+         "title" : "Mamedyarov Wins October 26 Titled Tuesday"
+      },
+      {
          "description" : " In a sign that things *might* be getting back to normal, the FIDE Grand Swiss has just started in Riga. Normally held on the Isle of Man, it was moved to Riga for this year, as initially it was thought that it would be easier to travel to Latvia, rather than the UK. Then a spike in Covid cases put Latvia in lockdown, but the Latvian government gave the event a special dispensation, so it is now going ahead (although a couple of players decided to pull out). There is one Australian player in the 108 player field, GM Temur Kuybokarov. He is seeded 101's in the tournament, but in a such closely packed field (the 54th seed is rated less than 100 points more than him), I suspect form is going to",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1482,14 +1498,6 @@ news_feed (
          "title" : "Endgame Studies app - fun, beauty, and wonder (with video!)"
       },
       {
-         "description" : "In round six of the 2021 U.S. Chess Championship, the two leaders, GM Aleksandr Lenderman and GM Ray Robson played each other and drew&#38;mdash;they maintain their shared first place with 4/6. GM Sam Sevian defeated GM Fabiano Caruana and now shares ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-6",
-         "pubDate" : "Tue, 12 Oct 2021 15:05:00 -0700",
-         "title" : "US Chess Championships R6: Leaders Draw, Sevian Beats Caruana"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the US Championships, looking a close look at the game J. Xiong vs S. Shankland, a brilliant bounceback performance from Xiong who had a horrid start to the tournament. Lawrence will also discuss the Russian Superfinals. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1896,22 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-senior-championship-2021-final-report",
          "pubDate" : "Thu, 07 Oct 2021 02:00:00 +0100",
          "title" : "Fabrizio Bellia becomes first Italian to win the European Senior Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1372",
-         "pubDate" : "Wed, 06 Oct 2021 16:51:11 +0000",
-         "title" : "FIDE Women's Grand Prix Series 2022-23 - Call for bids"
-      },
-      {
-         "description" : " The US Chess Championships take place in Saint Louis Tue 5th Oct to Tue 19th Oct 2021. Men's Championship: Fabiano Caruana, Wesley So, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Samuel Sevian, Dariusz Swiercz, Lazaro Bruzon Batista, Daniel Naroditsky, Aleksandr Lenderman andJohn M Burke. Nakamura explained his absence as wanting to focus completely on the FIDE Grand Swiss in Riga at the end of the month. Women's Championship: Irina Krush, Anna Zatonskih, Carissa Yip, Nazi Paikidze, Tatev Abrahamyan, Katerina Nemcova, Gulrukhbegim Tokhirjonova, Anna Sharevich, Ashritha Eswaran, Sabina-Francesca Foisor, Thalia Cervantes Landeiro and Megan Lee. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2021",
-         "pubDate" : "Wed, 6 Oct 2021 19:48:00 +0400",
-         "title" : "US Chess Championships 2021 - Games and Results"
       }
    ]
 }
