@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen will return to action after the World Championship match when he plays in Wijk aan Zee for an 18th time on January 14-30, 2022. Magnus will be looking to win an 8th Tata Steel Chess Masters title, but will face tough competition from world no. 2 Fabiano Caruana and local hero Anish Giri. 13 of the 14 players have been announced, with 16-year-old Julius Baer Challengers Chess Tour winner Praggnanandhaa given his debut in the top event, while another teenager, 19-year-old Andrey Esipenko, gets the chance to build on his brilliant debut in 2021.",
+         "description" : "The 2021 FIDE Chess.com Grand Swiss is taking place from October 27 until November 7 in Riga, Latvia. An open tournament and a women's tournament is being played concurrently, each an 11-round Swiss event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Wed, 27 Oct 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Top German player, IM Elisabeth P&auml;htz, was recently invited to speak at the Digital Demo Day in Germany, in English, where she was asked to discuss the application of quantum computing on chess. She was later interviewed about her life as a chess player with questions on how it compares to Queen's Gambit, but the key question she was asked was: can quantum computing solve chess?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-why-chess-players-can-t-win-against-artificial-intelligence-2",
+         "pubDate" : "Wed, 27 Oct 2021 12:44:03 +0100",
+         "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess For Freedom</strong> project is about much more than prison and online play, writes <em>Salomėja Zaksaitė</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/dr-b.1920.jpeg\" title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. photo: picture alliance/​Studiocanal/​Walker + Worm Film\" data-title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. (photo: picture alliance/​Studiocanal/​Walker + Worm Film)\" class=\"js-img\"> <img itemprop=\"image\" src=\"",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/a-liberating-game/",
+         "pubDate" : "Wed, 27 Oct 2021 08:48:21 +0100",
+         "title" : "A liberating game"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The enhanced <a href=\"https://lichess.org/analysis#explorer\"><strong>Opening Explorer</strong></a> tool lets you see how you have been scoring on <strong>Lichess</strong> with different opening moves, or prepare for a specific opponent based on their Lichess games. <a href=\"https://lichess.org/blog/YXMPxxMAACEAy3g4/announcing-the-personal-opening-explorer\">According to the announcement</a>, the innovation has been inspired by <strong><a href=\"https://www.openingtree.com/\">OpeningTree.com</a></strong>, another open source tool. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/lichess-publishes-opening-tool/",
+         "pubDate" : "Wed, 27 Oct 2021 08:46:46 +0100",
+         "title" : "Lichess publishes opening tool"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown has about twenty last minute cancelations, among them Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13 (14 on the <strong>live rating list</strong>). </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE Grand Swiss Tournament 2021</a></li> </ul> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/only-a-third-of-2700-players-in/",
+         "pubDate" : "Wed, 27 Oct 2021 08:46:12 +0100",
+         "title" : "Only a third of 2700+ players in Riga"
+      },
+      {
+         "description" : "Magnus Carlsen will return to action after the World Championship match when he plays in Wijk aan Zee for an 18th time on the 14-30 January 2022. Magnus will be looking to win an 8th Tata Steel Masters title, but will face tough competition from world no. 2 Fabiano Caruana and local hero Anish Giri. 13 of the 14 players have been announced, with 16-year-old Julius Baer Challengers Chess Tour winner Praggnanandhaa given his debut in the top event, while another teenager, 19-year-old Andrey Esipenko, gets the chance to build on his brilliant debut in 2021.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-and-praggnanandhaa-to-play-tata-steel-masters",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 27 Oct 2021 03:28:02 +0000",
          "title" : "Kasparov's Plan Against the QGD | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "The quarrel between Georg Meier and Elisabeth Paehtz last year turned into a serious dispute within the German Chess Federation. As a consequence, Georg Meier has transferred to the Uruguayan Chess Federation, as he had previously announced. | Photo: Grenke Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/georg-meier-transfers-the-uruguayan-federation",
-         "pubDate" : "Wed, 27 Oct 2021 02:00:00 +0100",
-         "title" : "Georg Meier transfers to the Uruguayan federation"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-at-tata-steel-2022",
          "pubDate" : "Tue, 26 Oct 2021 18:00:00 +0100",
          "title" : "Magnus Carlsen plays at Tata Steel 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown suffers numerous last minute cancellations by Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13. It's 14 on the <strong>live rating list</strong>, adding Wojtaszek and van Foreest and taking out Xiong. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE Grand Swiss Tournament 2021</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/only-a-third-of-2700-players-in/",
-         "pubDate" : "Tue, 26 Oct 2021 16:49:47 +0100",
-         "title" : "Only a third of 2700+ players in Riga"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 13 out of 14 participants of the <strong>Tata Steel Chess Tournament</strong> on 14-30 January <a href=\"https://tatasteelchess.com/players/\">are announced</a>. If the top group goes \"on tour\" with some rounds elsewhere than Wijk aan Zee and what amateur events will be possible isn't clear. Clear is that the 2022 edition <a href=\"https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/\">won't clash with Gibraltar</a>. </div> ",
@@ -274,14 +298,6 @@ news_feed (
          "title" : "Allan Stig Rasmussen wins Danish Championship"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The enhanced <a href=\"https://lichess.org/analysis#explorer\"><strong>Opening Explorer</strong></a> tool lets you see how you have been scoring on <strong>Lichess</strong> with different opening moves, or prepare for a specific opponent based on their Lichess games. <a href=\"https://lichess.org/blog/YXMPxxMAACEAy3g4/announcing-the-personal-opening-explorer\">According to the announcement</a>, the innovation has been inspired by <strong><a href=\"https://www.openingtree.com/\">OpeningTree.com</a></strong> another open source tool. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/lichess-publishes-opening-tool/",
-         "pubDate" : "Mon, 25 Oct 2021 11:55:25 +0100",
-         "title" : "Lichess publishes opening tool"
-      },
-      {
          "description" : "Fabiano Caruana will be top seed as the FIDE Chess.com Grand Swiss starts this Wednesday, 27th October in Riga, Latvia, despite a lockdown that includes a curfew from 8pm to 5am each day. Hikaru Nakamura and Vidit have both withdrawn, with Hikaru citing, \"respect for Latvians suffering with Covid and for the health and safety of myself and my trainer\". The Open and Women's tournaments, which combined will feature around 160 players, have been given an exemption to take place by the Latvian government.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -384,14 +400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1394",
          "pubDate" : "Fri, 22 Oct 2021 19:46:47 +0000",
          "title" : "Rhodes hosts Olympiad for Blind and Visually Impaired and IBCA Congress"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess For Freedom</strong> project is about much more than prison and online play, writes <em>Salomėja Zaksaitė</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/dr-b.1920.jpeg\" title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. photo: picture alliance/​Studiocanal/​Walker + Worm Film\" data-title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. (photo: picture alliance/​Studiocanal/​Walker + Worm Film)\" class=\"js-img\"> <img itemprop=\"image\" src=\"",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/a-liberating-game/",
-         "pubDate" : "Fri, 22 Oct 2021 20:38:45 +0100",
-         "title" : "A liberating game"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman shows examples of unconventional creative moves. Disturb harmony! Use the concept of zugzwang! Alex believes that automatic moves could have cost him the 2021 U.S. Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/sponsorship-in-chess/",
          "pubDate" : "Wed, 06 Oct 2021 14:00:00 +0000",
          "title" : "Sponsorship In Chess - FIDE Picks Breast Implant Sponsor"
-      },
-      {
-         "description" : "On October 14-17, the last seven rounds of the 2019/2020 Bundesliga season will finally be played. The second half of the interrupted season will take place at the Hotel \"Maritim proArte\" in Berlin. At the halfway point, the two favourites for the championship title, Baden-Baden and Hockenheim, are tied at the top of the standings table without any losses. | Pictured: Peter Heine Nielsen and Peter Svidler during the final event of the 2019 season. | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2019-20-final-rounds-in-berlin",
-         "pubDate" : "Wed, 06 Oct 2021 14:00:00 +0100",
-         "title" : "Final rounds of the Bundesliga to be played in Berlin"
       },
       {
          "description" : " A <a href=\"https://ethics.fide.com/wp-content/uploads/2020/06/FIDE-2_2020-decision-final.pdf\">recent decision</a> by the FIDE Ethics and Disciplinary Commission has brought up the topic of pre-arranged draws, again. In handing down a ruling concerning two players 'arranging' a beneficial result, the EDC made comment on whether agreed draws were a form of match fixing. I'm a little surprised they strayed into this territory, and I'm not sure that their conclusions have cleared up any prior confusion. If I read the decision correctly it seems that <ul style=\"text-align: left;\"><li>Agreed draws (without conditions) are OK (as they are defined in the Laws of Chess)</li><li>Agreed draws (with co",
