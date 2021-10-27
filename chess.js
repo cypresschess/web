@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In a sign that things *might* be getting back to normal, the FIDE Grand Swiss has just started in Riga. Normally held on the Isle of Man, it was moved to Riga for this year, as initially it was thought that it would be easier to travel to Latvia, rather than the UK. Then a spike in Covid cases put Latvia in lockdown, but the Latvian government gave the event a special dispensation, so it is now going ahead (although a couple of players decided to pull out). There is one Australian player in the 108 player field, GM Temur Kuybokarov. He is seeded 101's in the tournament, but in a such closely packed field (the 54th seed is rated less than 100 points more than him), I suspect form is going to",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/the-grand-swiss.html",
+         "pubDate" : "Wed, 27 Oct 2021 12:26:00 +0000",
+         "title" : "The Grand Swiss"
+      },
+      {
          "description" : "The 2021 FIDE Chess.com Grand Swiss is taking place from October 27 until November 7 in Riga, Latvia. An open tournament and a women's tournament is being played concurrently, each an 11-round Swiss event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-praggnanandhaa-to-play-tata-steel-masters",
          "pubDate" : "Wed, 27 Oct 2021 07:24:16 +0000",
          "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-a-fine-victory-by-vitiugov",
+         "pubDate" : "Wed, 27 Oct 2021 06:00:00 +0100",
+         "title" : "The Weekly Show: A fine victory by Vitiugov"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Garry Kasparov's plan to take down the Queen's Gambit Declined. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Fabrizio Bellia becomes first Italian to win the European Senior Championship"
       },
       {
-         "description" : "This week, Merijn van Delft shows an instructive game in which Magnus Carlsen defeated Anish Giri with the black pieces after navigating a position with a curious material imbalance. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-484-giri-carlsen",
-         "pubDate" : "Wed, 06 Oct 2021 18:00:00 +0100",
-         "title" : "Game of the Week 484: Giri vs Carlsen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,30 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2021",
          "pubDate" : "Wed, 6 Oct 2021 19:48:00 +0400",
          "title" : "US Chess Championships 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1371",
-         "pubDate" : "Wed, 06 Oct 2021 14:58:52 +0000",
-         "title" : "FIDE Candidates Tournament 2022 - Call for bids"
-      },
-      {
-         "description" : " The International Chess Federation (FIDE) has signed a sponsorship Deal with Motiva, a Breast Enlargement Company. This has understandably led to a lot of criticism, not only from female Chess players. Rather than supporting women in Chess, this Sponsorship seems to increase sexist comments and insecurities in women. Not the ideal way to kick off [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/sponsorship-in-chess/\">Sponsorship In Chess FIDE Picks Breast Implant Sponsor</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/sponsorship-in-chess/",
-         "pubDate" : "Wed, 06 Oct 2021 14:00:00 +0000",
-         "title" : "Sponsorship In Chess - FIDE Picks Breast Implant Sponsor"
-      },
-      {
-         "description" : " A <a href=\"https://ethics.fide.com/wp-content/uploads/2020/06/FIDE-2_2020-decision-final.pdf\">recent decision</a> by the FIDE Ethics and Disciplinary Commission has brought up the topic of pre-arranged draws, again. In handing down a ruling concerning two players 'arranging' a beneficial result, the EDC made comment on whether agreed draws were a form of match fixing. I'm a little surprised they strayed into this territory, and I'm not sure that their conclusions have cleared up any prior confusion. If I read the decision correctly it seems that <ul style=\"text-align: left;\"><li>Agreed draws (without conditions) are OK (as they are defined in the Laws of Chess)</li><li>Agreed draws (with co",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/fixing-result.html",
-         "pubDate" : "Wed, 06 Oct 2021 11:39:00 +0000",
-         "title" : "Fixing the result"
       }
    ]
 }
