@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The quarrel between Georg Meier and Elisabeth Paehtz last year turned into a serious dispute within the German Chess Federation. As a consequence, Georg Meier has transferred to the Uruguayan Chess Federation, as he had previously announced. | Photo: Grenke Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/georg-meier-transfers-the-uruguayan-federation",
+         "pubDate" : "Wed, 27 Oct 2021 02:00:00 +0100",
+         "title" : "Georg Meier transfers to the Uruguayan federation"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 27 Oct 2021 00:27:36 +0000",
+         "title" : "Kasparov's Plan Against the QGD | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-ashritha-eswaran-interview-round-11",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "2021 U.S. Chess Championships: Ashritha Eswaran Interview | Round 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Jon Burke during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-john-burke-interview-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-3ZBYQeI7OY.jpg?itok=HB4uLU66\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-john-burke-interview-round-11",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "2021 U.S. Chess Championships: John Burke Interview | Round 11"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/fixing-result.html",
          "pubDate" : "Wed, 06 Oct 2021 11:39:00 +0000",
          "title" : "Fixing the result"
-      },
-      {
-         "description" : "Did you know that playing competitive chess affects your heart rate and increase your blood pressure? That you can burn hundreds of calories just sitting at the chess board for a couple of hours? Ashwin Subramanian is a Software Engineering Manager in the Hi-Tech Industry. He is an avid chess player, and is studying the value of biofeedback in chess during his personal time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biofeedback-in-chess-2",
-         "pubDate" : "Wed, 06 Oct 2021 12:15:00 +0100",
-         "title" : "Biofeedback in Chess - Part 1"
       }
    ]
 }
