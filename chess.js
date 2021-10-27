@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will return to action after the World Championship match when he plays in Wijk aan Zee for an 18th time on January 14-30, 2022. Magnus will be looking to win an 8th Tata Steel Chess Masters title, but will face tough competition from world no. 2 Fabiano Caruana and local hero Anish Giri. 13 of the 14 players have been announced, with 16-year-old Julius Baer Challengers Chess Tour winner Praggnanandhaa given his debut in the top event, while another teenager, 19-year-old Andrey Esipenko, gets the chance to build on his brilliant debut in 2021.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-and-praggnanandhaa-to-play-tata-steel-masters",
+         "pubDate" : "Wed, 27 Oct 2021 07:24:16 +0000",
+         "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Garry Kasparov's plan to take down the Queen's Gambit Declined. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 27 Oct 2021 03:28:02 +0000",
+         "title" : "Kasparov's Plan Against the QGD | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "The quarrel between Georg Meier and Elisabeth Paehtz last year turned into a serious dispute within the German Chess Federation. As a consequence, Georg Meier has transferred to the Uruguayan Chess Federation, as he had previously announced. | Photo: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Magnus Carlsen plays at Tata Steel 2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown suffers numerous last minute cancellations by Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13. It's 14 on the <strong>live rating list</strong>, adding Wojtaszek and van Foreest and taking out Xiong. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown suffers numerous last minute cancellations by Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13. It's 14 on the <strong>live rating list</strong>, adding Wojtaszek and van Foreest and taking out Xiong. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE Grand Swiss Tournament 2021</a></li> </ul> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/only-a-third-of-2700-players-in/",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Top GMs to fight for Candidates spots at Grand Swiss in Riga"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.10.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XyjohMzvmUo.jpg?itok=_ZdEIG1z\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman explains the concept of creating multiple weaknesses within your opponent's ranks. In the endgame, the opponent can recover from a single weakness, so make more. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XyjohMzvmUo.jpg?itok=_ZdEIG1z\" alt=\"\" /",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-playoff-lichessorg",
          "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
          "title" : "2021 U.S. Chess Championships: Playoff | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Ashritha Eswaran during Round 11 of the 2021 U.S. Chess Championships. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-ashritha-eswaran-interview-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t-D07HwAoxo.jpg?itok=SE_7y4Qr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-ashritha-eswaran-interview-round-11",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "2021 U.S. Chess Championships: Ashritha Eswaran Interview | Round 11"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/enpas-mate.html",
          "pubDate" : "Wed, 13 Oct 2021 10:20:00 +0000",
          "title" : "Enpas mate"
-      },
-      {
-         "description" : "The knockout Finals of the ground-breaking Julius Baer Challengers Chess Tour kick off on Thursday with German chess prodigy Vincent Keymer favourite to be crowned champion, though he'll face stiff competition from the likes of India's Praggnanandhaa and Uzbekistan's Nodirbek Abdusattorov. The 16-year-old won two of the Tour's four \"Challenge\" events to top the leaderboard going into the four-day decider.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/julius-baer-challengers-chess-tour-finals",
-         "pubDate" : "Wed, 13 Oct 2021 08:42:46 +0000",
-         "title" : "Young stars back for Julius Baer Challengers Chess Tour Finals"
       },
       {
          "description" : "Most players look at endgame study as a necessary evil, akin to taking a very bitter medicine, that may yield results, but is boring. However, what if your study of endgames was punctuated at every corner and turn by fireworks and wondrous moves? This can be achieved, at least partially, thanks to the Studies app from ChessBase Account, making your study of endgames much more fun!",
