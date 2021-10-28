@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After two rounds, there are three players in the open section on 2/2 and seven female players on the same score at the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss in Latvia, Riga. There are nine rounds to go in the tournament. How ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r2",
+         "pubDate" : "Thu, 28 Oct 2021 12:17:30 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R2: Firouzja, Predke, Saric on 2/2"
+      },
+      {
+         "description" : "The Collegiate Chess League only has two weeks left in the regular season, and teams are starting to face must-win situations on the brink of elimination. Other teams are starting to clinch playoff spots, most notably division one teams UC Berkele...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-round-5",
+         "pubDate" : "Thu, 28 Oct 2021 10:55:23 -0700",
+         "title" : "Collegiate Chess League Round 5: Berkeley, Warsaw Undefeated"
+      },
+      {
+         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3-1.jpg\" width=\"960\" height=\"640\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Source: Abhijeet's Facebook</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times! ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/algorand-online-series-results-who-is-going-to-dubai-for-the-wor/",
+         "pubDate" : "Thu, 28 Oct 2021 17:11:51 +0000",
+         "title" : "Who is going to Dubai for the World Championship 2021?"
+      },
+      {
          "description" : "When talking about ancient games you might have an image of a couple of dozen at most, ranging from chess and its precursors, to backgammon, Go, and a few more, but humanity has long had a passion for a good game. This passion has spanned across the globe with thousands of games uncovered, but no way to learn how to play them...until now. (image: papyrus dated c.1200 BC)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "Arkady Dvorkovich: \"Chess life can continue even at a difficult time\""
       },
       {
-         "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far in Riga. Meanwhile, seven players have a 2/2 score in the women's section. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Thu, 28 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 2"
       },
       {
          "description" : "Using a fine game by Alexander Alekhine, Svitlana shows how to play against two weaknesses, an important strategic motif in middlegame and endgame. Svitlana and Arne also discuss how to pronounce \"Alekhine\", and wonder whether the German Master Friedrich \"Fritz\" Saemisch (1896-1975), name-giver of several popular opening lines, inspired developers to call their chess engine \"Fritz\".",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "Superfinals: Vitiugov beats Andreikin to grab the lead"
       },
       {
-         "description" : "In round seven of the 2021 U.S. Chess Championship, two players joined GM Aleksandr Lenderman atop the standings: GM Sam Sevian scored another win, this time as Black versus GM Lazaro Bruzon Batista, while GM Wesley So beat GM John M.Burke, also w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-7",
-         "pubDate" : "Wed, 13 Oct 2021 16:22:00 -0700",
-         "title" : "US Chess Championships R7: Sevian, So Join Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-indias-latest-woman-grand-master/articleshow/86998972.cms",
          "pubDate" : "Wed, 13 Oct 2021 22:01:52 +0530",
          "title" : "Divya Deshmukh becomes India's latest Woman Grand Master"
-      },
-      {
-         "description" : "GM Jorden van Foreest took home first place in Titled Tuedsay on October 12, his first-ever win in the event. Van Foreest&#39;s score of 10/11, which he achieved while playing 1.a3 or 1...a6 in eight straight games, was enough to win without the tiebr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/van-foreest-wins-october-12-titled-tuesday",
-         "pubDate" : "Wed, 13 Oct 2021 09:25:14 -0700",
-         "title" : "Van Foreest Wins October 12 Titled Tuesday"
       },
       {
          "description" : "This week, Merijn van Delft shows a theoretically interesting game from the US Championship, in which Daniel Naroditsky tried the Dragon with Black against Darius Swiercz but soon had to defend an unpleasant endgame. It was a game that makes you wonder whether the Dragon is still playable. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1375",
          "pubDate" : "Thu, 07 Oct 2021 21:42:30 +0000",
          "title" : "Riga to host Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris looks at a way to spicen things up in the Scotch Four Knights - the Belgrade Gambit: 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-belgrade-gambit",
-         "pubDate" : "Thu, 07 Oct 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Belgrade Gambit"
       }
    ]
 }
