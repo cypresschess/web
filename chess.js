@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Using a fine game by Alexander Alekhine, Svitlana shows how to play against two weaknesses, an important strategic motif in middlegame and endgame. Svitlana and Arne also discuss how to pronounce \"Alekhine\", and wonder whether the German Master Friedrich \"Fritz\" Saemisch (1896-1975), name-giver of several popular opening lines, inspired developers to call their chess engine \"Fritz\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-18",
+         "pubDate" : "Thu, 28 Oct 2021 10:23:30 +0100",
+         "title" : "Svitlana's Smart Moves - Playing against two weaknesses: Alekhine shows the way"
+      },
+      {
+         "description" : "From 1-10 October the World Senior Championships 2021, organised by the Amateur Chess Organization (ACO), were played on the Greek island of Crete. 178 players fought in seven rating groups for the titles. Several Grandmasters, including Vlastimil Hort and Daniel King, supported the amateurs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-aco-world-senior-championship-2021",
+         "pubDate" : "Thu, 28 Oct 2021 10:04:43 +0100",
+         "title" : "The ACO World Senior Championship 2021"
+      },
+      {
+         "description" : "Fabiano Caruana carried his form from the end of the US Championship into Round 1 of the FIDE Chess.com Grand Swiss in Riga as he sacrificed a full knight to take down Maksim Chigaev. 18-year-old Alireza Firouzja moved above Wesley So and Alexander Grischuk to world no. 7 as he beat Nijat Abasov, with Kirill Alekseenko scoring the only other win on the top 10 boards. Dariusz Swiercz's reward for winning the longest game of the day is a Round 2 pairing with Firouzja, while it's Nihal Sarin vs. Caruana on board 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-1-caruana-and-firouzja-strike",
+         "pubDate" : "Thu, 28 Oct 2021 06:11:00 +0000",
+         "title" : "Grand Swiss 1: Caruana and Firouzja strike"
+      },
+      {
          "description" : "On Wednesday, October 27, the chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by Charlotte Chess Club, where 16 top US players U-25 compete in blitz for a prize of one Bitcoin. The ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "Game of the Week 484: Fighting the Dragon"
       },
       {
-         "description" : "Fabiano Caruana has dropped 15 rating points and is in danger of falling out of the Top 5 after losing a second game in a row, this time to 20-year-old, 2654-rated Sam Sevian. The lead was unchanged after Round 6 of the US Championship as Ray Robson and Aleksandr Lenderman contested a very hard-fought draw, with the only other decisive game seeing Sam Shankland pick up a first win, against John Burke. In the women's section Ashritha Eswaran and Carissa Yip both won to join Katerina Nemcova in the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-6-caruana-in-free-fall",
-         "pubDate" : "Wed, 13 Oct 2021 15:54:56 +0000",
-         "title" : "US Chess Champs 6: Caruana in free fall"
-      },
-      {
          "description" : "Nagpur teenager Divya Deshmukh becomes the latest Woman Grandmaster of the country after achieving her second International Master Norm (Final WGM Norm) at First Saturday",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1896,22 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-r1",
          "pubDate" : "Thu, 07 Oct 2021 12:50:00 +0100",
          "title" : "US Championships: Favourites escape"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1373",
-         "pubDate" : "Thu, 07 Oct 2021 09:53:20 +0000",
-         "title" : "2021 U.S. Championship & U.S. Women's Championship kick off in St-Louis"
-      },
-      {
-         "description" : "Solving tactical puzzles can be fun, but what if you could automatically create your own, even from your own games? Nothing could be easier thanks to the analysis tools in both the Fritz interface or ChessBase. In fact, it can be a fun way to review your online games and be tested on the moves where you or your opponent missed a shot. Read on to learn how!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-automatically-create-tactical-quizzes",
-         "pubDate" : "Thu, 07 Oct 2021 09:55:58 +0100",
-         "title" : "How to automatically create tactical quizzes"
       }
    ]
 }
