@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When talking about ancient games you might have an image of a couple of dozen at most, ranging from chess and its precursors, to backgammon, Go, and a few more, but humanity has long had a passion for a good game. This passion has spanned across the globe with thousands of games uncovered, but no way to learn how to play them...until now. (image: papyrus dated c.1200 BC)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reconstructing-ancient-games-with-an-ai",
+         "pubDate" : "Thu, 28 Oct 2021 15:03:41 +0100",
+         "title" : "Reconstructing ancient games with an AI"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at a game Shakhryar Mamedyarov played in the Bundesliga against Gata Kamsky, \"one of the most beautiful positional games of the year\". | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-487-s-mamedyarov-vs-g-kamsky",
+         "pubDate" : "Thu, 28 Oct 2021 15:00:00 +0100",
+         "title" : "Game of the Week 487: S. Mamedyarov vs G. Kamsky"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1401",
+         "pubDate" : "Thu, 28 Oct 2021 13:39:04 +0000",
+         "title" : "Arkady Dvorkovich: \"Chess life can continue even at a difficult time\""
+      },
+      {
          "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +58,11 @@ news_feed (
          "title" : "Grand Swiss 1: Caruana and Firouzja strike"
       },
       {
-         "description" : "On Wednesday, October 27, the chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by Charlotte Chess Club, where 16 top US players U-25 compete in blitz for a prize of one Bitcoin. The ...",
+         "description" : "On Wednesday, October 27, chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Club, where 16 top US players U-25 compete in blitz matches for a prize of one Bitcoin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-1-naroditsky-jacobson-balakrishnan-tang-win",
-         "pubDate" : "Wed, 27 Oct 2021 23:02:42 -0700",
+         "pubDate" : "Wed, 27 Oct 2021 23:02:00 -0700",
          "title" : "Blitzcoin Invitational Day 1: Naroditsky, Jacobson, Shetty, Tang Win"
       },
       {
@@ -1864,54 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-belgrade-gambit",
          "pubDate" : "Thu, 07 Oct 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The Belgrade Gambit"
-      },
-      {
-         "description" : "In a recent article Walter Wolf took a close look at the current development of the Elo ratings. IM Dirk Sebastian and IM Martin Voigt, who are both from Hamburg, have also examined the trends in the recent developments of the Elo ratings and try to answer the question whether there currently is an inflation or a deflation of Elo?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-elo-ratings-inflation-or-deflation",
-         "pubDate" : "Thu, 07 Oct 2021 16:00:00 +0100",
-         "title" : "The Elo ratings: Inflation or Deflation?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1374",
-         "pubDate" : "Thu, 07 Oct 2021 14:12:42 +0000",
-         "title" : "Teams from 31 countries to participate in 1st Intercontinental Online Championship for Prisoners"
-      },
-      {
-         "description" : "The European Chess Union, the Georgian Chess Federation &#38; the Georgian Chess Club \"64\" invite all ECU member national federations to participate in the ECU Online Rapid School Championships, under 10 17. The European Online Rapid School Championships will be played in 5 different age groups - under 10, 11, 13, 15, 17 and 2 sections &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-online-rapid-school-championships-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-online-rapid-school-championships-official-regulations/",
-         "pubDate" : "Thu, 07 Oct 2021 13:16:04 +0000",
-         "title" : "EUROPEAN ONLINE RAPID SCHOOL CHAMPIONSHIPS - Official regulations"
-      },
-      {
-         "description" : "With the cooperation of the Slovenian Chess Federation and FIDE Development Commission, the European Chess Union organizes a \"Mixed\" FIDE Arbiters' Seminar in the English language. The venue will be the city of Terme Čatež, Slovenia, concurrently with the European Team Championship. The event will take place from Sunday, Nov. 14th, to Thursday, Nov. 18th, 2021. The lecturer&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-arbiters-seminar-in-terme-catez-slovenia/",
-         "pubDate" : "Thu, 07 Oct 2021 12:14:11 +0000",
-         "title" : "FIDE Arbiters Seminar in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "Tamil Nadu Chief Minister Shri MK Stalin handed over cash incentive of Rs 92 lakh to state chess players and coach, (V. Anand, Aravindh Chithambaram,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tamil-nadu-chief-minister-shri-mk-stalin-presents-cash-awards-to-chess-players/",
-         "pubDate" : "Thu, 07 Oct 2021 12:14:06 +0000",
-         "title" : "Tamil Nadu Chief Minister Shri MK Stalin presents cash awards to Chess Players"
-      },
-      {
-         "description" : "Congratulations to Svitlana, who just turned 18 years old. Since she is a year older now, maybe we rename the format to \"Svitlana's Smarter Moves\"? But not much has changed luckily, and it is time to make some bold sacrifices, and figure out, if they are even working. Svitlana shows us a famous example by Emmanuel Lasker, and an interesting variation in the Caro-Kann.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-15",
-         "pubDate" : "Thu, 07 Oct 2021 13:02:00 +0100",
-         "title" : "Svitlana's Smart Moves - Bold sacrifices might not work"
       }
    ]
 }
