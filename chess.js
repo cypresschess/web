@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Thu, 28 Oct 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "Using a fine game by Alexander Alekhine, Svitlana shows how to play against two weaknesses, an important strategic motif in middlegame and endgame. Svitlana and Arne also discuss how to pronounce \"Alekhine\", and wonder whether the German Master Friedrich \"Fritz\" Saemisch (1896-1975), name-giver of several popular opening lines, inspired developers to call their chess engine \"Fritz\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-15",
          "pubDate" : "Thu, 07 Oct 2021 13:02:00 +0100",
          "title" : "Svitlana's Smart Moves - Bold sacrifices might not work"
-      },
-      {
-         "description" : "The US Championships, again taking place over the board, kicked off on Wednesday. The open section saw Ray Robson (pictured) and John Burke grabbing the early lead, while among the women Irina Krush, Katerina Nemcova, Ashritha Eswaran and Gulrukhbegim Tokhirjonova scored full points on the first day of action. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r1",
-         "pubDate" : "Thu, 07 Oct 2021 12:50:00 +0100",
-         "title" : "US Championships: Favourites escape"
       }
    ]
 }
