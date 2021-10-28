@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1402",
+         "pubDate" : "Thu, 28 Oct 2021 20:51:48 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 2 Recap"
+      },
+      {
          "description" : "After two rounds, there are three players in the open section on 2/2 and seven female players on the same score at the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss in Latvia, Riga. There are nine rounds to go in the tournament. How ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r2",
-         "pubDate" : "Thu, 28 Oct 2021 12:17:30 -0700",
+         "pubDate" : "Thu, 28 Oct 2021 12:17:00 -0700",
          "title" : "FIDE Chess.com Grand Swiss R2: Firouzja, Predke, Saric on 2/2"
       },
       {
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/oct/08/chess-british-championship-dominated-by-veterans-as-over-the-board-returns",
          "pubDate" : "Fri, 08 Oct 2021 07:00:05 +0000",
          "title" : "Chess: British championship dominated by veterans as over-the-board returns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1375",
-         "pubDate" : "Thu, 07 Oct 2021 21:42:30 +0000",
-         "title" : "Riga to host Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
       }
    ]
 }
