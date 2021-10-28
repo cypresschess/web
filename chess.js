@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class using content from her new book. BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-early-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-early-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 28 Oct 2021 00:29:07 +0000",
+         "title" : "Don't Chase Pawns Early! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,12 +90,12 @@ news_feed (
          "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
       },
       {
-         "description" : "Following a precautionary move from the Isle of Man to Riga and despite a new local lockdown in Latvia the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss took off on Wednesday. Top seed GM Fabiano Caruana and fourth seed GM Alireza Firouzja we...",
+         "description" : "Following a precautionary move from the Isle of Man to Riga and despite a new local lockdown in Latvia, the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss took off on Wednesday. Top-seed GM Fabiano Caruana and third-seed GM Alireza Firouzja we...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-chesscom-grand-swiss-round-1",
          "pubDate" : "Tue, 26 Oct 2021 23:35:00 -0700",
-         "title" : "Caruana, Firouzja Among Winners As FIDE Chess.com Grand Swiss Takes Off In Riga"
+         "title" : "Caruana, Firouzja Among Winners As FIDE Chess.com Grand Swiss Begins In Riga"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
          "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
          "title" : "Chicago, Chess, Girl Power and McDonald's"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana, Wesley So, and Sam Sevian compete in a rapid round robin playoff for the U.S. Chess Championship. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-playoff-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IsYB",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-playoff-lichessorg",
-         "pubDate" : "Tue, 19 Oct 2021 00:19:11 +0000",
-         "title" : "2021 U.S. Chess Championships: Playoff | lichess.org"
       },
       {
          "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-automatically-create-tactical-quizzes",
          "pubDate" : "Thu, 07 Oct 2021 09:55:58 +0100",
          "title" : "How to automatically create tactical quizzes"
-      },
-      {
-         "description" : "Four Senior European titles were awarded in Budoni, Sardinia. In the over-50 group, Fabrizio Bellia (photo) became the first Italian to win the title, while German GM Klaus Bischoff came second. The over-65 title went to Nathan Birnboim. Two-time GDR national champion Annett Wagner-Michel won the women's title. | Photo: Scacchierando",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-championship-2021-final-report",
-         "pubDate" : "Thu, 07 Oct 2021 02:00:00 +0100",
-         "title" : "Fabrizio Bellia becomes first Italian to win the European Senior Championship"
       }
    ]
 }
