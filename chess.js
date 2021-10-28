@@ -58,7 +58,7 @@ news_feed (
          "title" : "Grand Swiss 1: Caruana and Firouzja strike"
       },
       {
-         "description" : "On Wednesday, October 27, chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Club, where 16 top US players U-25 compete in blitz matches for a prize of one Bitcoin...",
+         "description" : "On Wednesday, October 27, chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Center, where 16 top US players U-25 compete in blitz matches for a prize of one Bitco...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-1-naroditsky-jacobson-balakrishnan-tang-win",
