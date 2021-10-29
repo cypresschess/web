@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE is currently in an excellent position with its Presidium. Arkady Dvorkovich was Deputy Prime Minister of Russia and organised the World Cup. Managing Director Dana Reizneice was Minister of Economy and Finance of Latvia. On the occasion of the Grand Swiss in Riga, they both gave insightful interviews.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interviews-mit-dana-reizniece-ozola-und-arkady-dvorkovich",
+         "pubDate" : "Fri, 29 Oct 2021 17:01:05 +0100",
+         "title" : "Interviews with Dana Reizniece Ozola and Arkady Dvorkovich"
+      },
+      {
+         "description" : "Today's tactical focus: how to harness the power of devastating queens. Trent uses examples from 1880 and 100 years later. The Playchess training playground is getting more and more difficult, and some problems took us a few minutes to solve. But we were able to reach a rating of over 2050 meanwhile.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-2",
+         "pubDate" : "Fri, 29 Oct 2021 17:00:00 +0100",
+         "title" : "Trent's Tactics - Devastating queens"
+      },
+      {
+         "description" : "We are pleased to announce that the 118th British Chess Championships will be held at the Riviera International Centre in Torquay from the 8th to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2022/",
+         "pubDate" : "Fri, 29 Oct 2021 14:05:51 +0000",
+         "title" : "British Chess Championships 2022"
+      },
+      {
+         "description" : " Alright, we briefly looked at pawn structures over the last two articles. This week, we are going to finish examining pawn structure by looking at pawn majorities and minorities. Again, it is extremely important that you consider pawn structure, and do everything you can to maintain a healthy structure, early in the game. However, we <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty/\">A Foundation for Beginners Forty</a> appeared first on <a rel=\"nofollow\" href=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty/",
+         "pubDate" : "Fri, 29 Oct 2021 13:21:22 +0000",
+         "title" : "A Foundation for Beginners Forty"
+      },
+      {
+         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1635510567983-BWQHYFTJ6TSG9TGF8KNF/Hoogovenschaaktoernooi_%283e_ronde%29_Kortsjnoj_in_actie%2C_Bestanddeelnr_929-5372.jpg\" data-image-dimensions=\"128x193\" data-image-focal-point=\"0.5,0.5\" alt=\"Hoogovenschaaktoernooi_(3e_ronde)_Kortsjnoj_in_actie,_Bestanddeelnr_929-5372.jpg\" data-load=\"false\" data-image-id=\"617be92755a8dc1803f0e570\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1635510567983-BWQHYFTJ6TSG9TGF8KNF/Hoogovenschaaktoernooi_%283e_ronde%29_Kortsjnoj_in_actie%2C_Bestanddeelnr_929-5372.jpg?format=1000w\" /><br> <img class=\"thumb-ima",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/29/book-recap-20-discussing-gm-viktor-korchnois-chess-is-my-life-with-john-fernandez",
+         "pubDate" : "Fri, 29 Oct 2021 12:34:38 +0000",
+         "title" : "Book Recap #20- Discussing GM Viktor Korchnoi's Chess Is My Life with John Fernandez"
+      },
+      {
+         "description" : " A number of Australian players are taking part in the Asian Youth Online Championships, including a few from Canberra. Most of them warmed up a few weeks back in the East Asian Online Youth, and this is reflected on the improved scores on Day 1. Getting tournament experience is a great way to improve, even if, as this game shows, it helps you bounce back from a seriously lost (-16 at one stage) position. <br /> <b>Liang,Joshua (1247) - Mkahal,Raghid Ahmad [B23]</b><br />Asian Youth Online Chess Championships - New Delhi, Delhi, India (3.44), 29.10.2021 <script>new PgnViewer( { boardName: \"game1285\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 d6 6.d3 Bd7 7.O",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/this-one-was-pretty-nuts.html",
+         "pubDate" : "Fri, 29 Oct 2021 12:17:00 +0000",
+         "title" : "This one was pretty nuts"
+      },
+      {
          "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far in Riga. Meanwhile, seven players have a 2/2 score in the women's section. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Nornickel sponsors Nepo"
       },
       {
-         "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaping against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
+         "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaped against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/grand-swiss-2-firouzja-up-to-world-no-6-as-caruana-misses-win",
@@ -54,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-2-wang-checa-hong-liang-win",
-         "pubDate" : "Thu, 28 Oct 2021 23:33:54 -0700",
+         "pubDate" : "Thu, 28 Oct 2021 23:33:00 -0700",
          "title" : "Blitzcoin Invitational Day 2: Wang, Checa, Hong, Liang Win"
       },
       {
@@ -1738,14 +1786,6 @@ news_feed (
          "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
       },
       {
-         "description" : "If you're joining your child/children up to the ECF for the first time, please note you DO NOT have to register yourself with the ECF...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-chess-parents-please-read/",
-         "pubDate" : "Mon, 11 Oct 2021 08:51:13 +0000",
-         "title" : "New chess parents - please read"
-      },
-      {
          "description" : "What if you could get an estimate of your Elo rating just by doing a single test, as opposed to playing a couple of dozen games at long time controls? It isn't an exaggeration to say this sounds like one of those inane personality 'quizzes' you see in supermarket magazines. But this proposal was the subject of a university study to do just that. Try it yourself!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1866,14 +1906,6 @@ news_feed (
          "title" : "The Chess Super League is here!"
       },
       {
-         "description" : "There are so many endgame terms that Karsten M&uuml;ller has decided to summarise them in a growing dictionary and explain them on video. He starts with the \"Umbrella\", which can help in bad weather but also in rook endings. In a video Karsten M&uuml;ller explains what an \"umbrella\" is in endgame theory and shows why it is useful to know the term and its meaning.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-umbrella",
-         "pubDate" : "Fri, 08 Oct 2021 20:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The Umbrella"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,22 +1920,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-seven/",
          "pubDate" : "Fri, 08 Oct 2021 17:11:32 +0000",
          "title" : "A Foundation for Beginners Thirty Seven"
-      },
-      {
-         "description" : "Wesley So joined Ray Robson and John Burke in the lead of the US Championship after beating Dariusz Swiercz in round 2. Meanwhile, Katerina Nemcova (pictured) became the only player in both sections to keep a perfect score after two games, as she defeated Sabina Foisor with the black pieces. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r2",
-         "pubDate" : "Fri, 08 Oct 2021 13:40:00 +0100",
-         "title" : "US Championships: Nemcova makes it 2 out of 2"
-      },
-      {
-         "description" : " Around 35 years ago I had to defend a R v R+B ending. It was during an ACT Chess Championship and I failed to do so, being mated on about the 50th move (since the last capture). In those days FIDE had extended the number of moves required to claim a draw to 75, so I did not have a chance to claim, evein if I held out for a few more moves. For the second time in my career, I had to hold this ending once again. It was played in an online event, although there was a 15 second increment, which certainly helped. This time I was much more successful, hanging on for the full 50 moves (121 moves in total). I did make one mistake during the ending (around move 91), but my opponent missed the correct",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/what-difference-35-years-makes.html",
-         "pubDate" : "Fri, 08 Oct 2021 11:53:00 +0000",
-         "title" : "What a difference 35 years makes"
       }
    ]
 }
