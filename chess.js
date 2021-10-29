@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, GM Daniel King looks at ways to catch the enemy king, and shows how Maxime Vachier-Lagrave failed to do so in a recent Bundesliga game, which Daniel featured the previous week. More successful in his efforts to catch the enemy king was Vassily Smyslov in a game of his Candidate Match against Zoltan Ribli in 1983. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-catching-the-king",
+         "pubDate" : "Fri, 29 Oct 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Catch the King!"
+      },
+      {
          "description" : "The FIDE is currently in an excellent position with its Presidium. Arkady Dvorkovich was Deputy Prime Minister of Russia and organised the World Cup. Managing Director Dana Reizneice was Minister of Economy and Finance of Latvia. On the occasion of the Grand Swiss in Riga, they both gave insightful interviews.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-2",
          "pubDate" : "Fri, 29 Oct 2021 17:00:00 +0100",
          "title" : "Trent's Tactics - Devastating queens"
+      },
+      {
+         "description" : "Game Review is a revolutionary new tool to help you better understand and enjoy your games. You&#39;ll be able to relive your greatest moves, pinpoint the moments where things went wrong, and get explanations from your Virtual Coach to help you learn ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-new-game-review",
+         "pubDate" : "Fri, 29 Oct 2021 08:36:00 -0700",
+         "title" : "Chess.com Releases New Game Review Feature"
       },
       {
          "description" : "We are pleased to announce that the 118th British Chess Championships will be held at the Riviera International Centre in Torquay from the 8th to...",
@@ -1546,14 +1562,6 @@ news_feed (
          "title" : "All-India Chess Federation signs sponsorship deal with MPL Foundation"
       },
       {
-         "description" : "The round-robin phase of the Chess Super League is still wide open after three rounds of play. The Brutal Bishops, Ruthless Rooks, and Kingslayers are currently in a tie for first place with four match points. How to watch?The games of th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-3",
-         "pubDate" : "Thu, 14 Oct 2021 04:58:00 -0700",
-         "title" : "Chess Super League R3: 3-Way Tie For 1st Place"
-      },
-      {
          "description" : "The All India Chess Federation (AICF) signed a historic agreement with MPL Foundation for a sponsorship amount of One Crore towards the sponsorships for Indian",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1896,30 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bishops-in-the-center",
          "pubDate" : "Sat, 09 Oct 2021 09:00:00 +0100",
          "title" : "Bishops in the center"
-      },
-      {
-         "description" : "The Chess Super League is a grand event which will be held online from the 11th to the 17th of October 2021. Samay Raina, ChessBase India and Nodwin Gaming have come together to launch the league which will be known as the Chess Super League. Each team will be owned by a well-known celebrity and will consist of top international and Indian players, like Ding, Giri, Radjabov, Nakamura, Hou Yifan, the Muzychuk sisters, Gujrathi, Harika, Gukesh, and many more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-super-league-is-here",
-         "pubDate" : "Sat, 09 Oct 2021 08:00:00 +0100",
-         "title" : "The Chess Super League is here!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1377",
-         "pubDate" : "Fri, 08 Oct 2021 17:46:02 +0000",
-         "title" : "Russian Championship Superfinals get underway in Ufa"
-      },
-      {
-         "description" : " This week, we are finally going to work further through the student game we started playing roughly three weeks ago. I want you to consider everything we discussed in our examination of the middle-game and some of its principles. Don't worry if you don't remember everything discussed because I'll go over the key points you <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-seven/\">A Foundation for Beginners Thirty Seven</a> appeared first on <a rel=\"nofol",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-seven/",
-         "pubDate" : "Fri, 08 Oct 2021 17:11:32 +0000",
-         "title" : "A Foundation for Beginners Thirty Seven"
       }
    ]
 }
