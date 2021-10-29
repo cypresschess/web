@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss in Riga, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far. Meanwhile, seven players have a 2/2 score in the women's section. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r2",
+         "pubDate" : "Fri, 29 Oct 2021 01:55:00 +0100",
+         "title" : "Grand Swiss: Firouzja wins, Nihal escapes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4-lichessorg",
+         "pubDate" : "Fri, 29 Oct 2021 00:29:51 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #4 | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 2 Recap"
       },
       {
-         "description" : "After two rounds, there are three players in the open section on 2/2 and seven female players on the same score at the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss in Latvia, Riga. There are nine rounds to go in the tournament. How ...",
+         "description" : "After two rounds, there are three players in the open section on 2/2 and seven women players on the same score at the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss in Riga, Latvia. There are nine rounds to go in the tournament. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r2",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1401",
          "pubDate" : "Thu, 28 Oct 2021 13:39:04 +0000",
          "title" : "Arkady Dvorkovich: \"Chess life can continue even at a difficult time\""
-      },
-      {
-         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far in Riga. Meanwhile, seven players have a 2/2 score in the women's section. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Thu, 28 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 2"
       },
       {
          "description" : "Using a fine game by Alexander Alekhine, Svitlana shows how to play against two weaknesses, an important strategic motif in middlegame and endgame. Svitlana and Arne also discuss how to pronounce \"Alekhine\", and wonder whether the German Master Friedrich \"Fritz\" Saemisch (1896-1975), name-giver of several popular opening lines, inspired developers to call their chess engine \"Fritz\".",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1391",
          "pubDate" : "Tue, 19 Oct 2021 22:43:40 +0000",
          "title" : "Wesley So and Carissa Yip clinch U.S. Championship titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Wesley So after the Playoff of the 2021 U.S. Chess Championship. 2021.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-%E2%80%9Cfabi-should-have-won-today-my-day%E2%80%9D\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6fDlJT1rCP0.jpg?itok=m2zoZbAW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-%E2%80%9Cfabi-should-have-won-today-my-day%E2%80%9D",
-         "pubDate" : "Tue, 19 Oct 2021 21:20:14 +0000",
-         "title" : "Wesley So: \"Fabi Should Have Won, but Today is My Day.\""
       },
       {
          "description" : "GM Wesley So won the playoff tiebreaks and is the 2021 U.S. Chess Champion. After 11 rounds of play in the 2021 U.S. Chess Championship, three GMs shared first place: So, Fabiano Caruana,&#38;nbsp;and Sam Sevian. These three played a rapid playoff to ...",
