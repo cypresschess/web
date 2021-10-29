@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaping against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-2-firouzja-up-to-world-no-6-as-caruana-misses-win",
+         "pubDate" : "Fri, 29 Oct 2021 07:24:45 +0000",
+         "title" : "Grand Swiss 2: Firouzja up to world no. 6 as Caruana misses win"
+      },
+      {
+         "description" : " Scotland's Keti Arakhamia-Grant wins impressively in round one, while India's teenage trio shine at the Grand Swiss world qualifier David Howell is the only Englishman in the 108-player Covid-hit Grand Swiss at Riga, and the three-times British champion, 30, has made a promising 1.5/2 start in the world qualifier. It looked unlikely when he blundered early into a lost round two position on Thursday against Latvia's Artur Neiksans, but Howell fought on and finally halved a marathon of 142 moves and eight hours. The game ended in a draw via the rare rule of 50 moves played without a capture or a pawn move. Howell is seeded only No 34, but will be harking back to the last Grand Swiss at Dougla",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/oct/29/chess-david-howell-draws-142-move-marathon-riga-using-rare-rule-grand-swiss",
+         "pubDate" : "Fri, 29 Oct 2021 07:00:22 +0000",
+         "title" : "Chess: David Howell draws 142-move marathon in Riga using rare rule"
+      },
+      {
+         "description" : "The 28th of October brought us the second day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Center, where 16 top US players U-25 compete in blitz matches for a prize of one Bitcoin. This was the l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-2-wang-checa-hong-liang-win",
+         "pubDate" : "Thu, 28 Oct 2021 23:33:54 -0700",
+         "title" : "Blitzcoin Invitational Day 2: Wang, Checa, Hong, Liang Win"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4",
+         "pubDate" : "Fri, 29 Oct 2021 03:29:53 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #4"
+      },
+      {
          "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss in Riga, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far. Meanwhile, seven players have a 2/2 score in the women's section. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r11",
          "pubDate" : "Wed, 20 Oct 2021 23:40:00 +0100",
          "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. See the defining moments in Tal's games, mainly from the 1957 Soviet Championship, and try to find the best continuations. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 20 Oct 2021 21:20:43 +0000",
-         "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "On his 15th attempt, GM Nikita Vitiugov won his first-ever Russian championship title on Wednesday in Ufa. The 2017 runner-up finished in clear first place, half a point ahead of GM Maxim Matlakov. GM Valentina Gunina won her fourth women&#39;s champi...",
@@ -1466,28 +1490,12 @@ news_feed (
          "title" : "All India Chess Federation Signs historic agreement with MPL"
       },
       {
-         "description" : "Wesley So and Sam Sevian both won in Round 7 of the US Championship to join Alex Lenderman in the lead with four rounds to go. Fabiano Caruana is back at 50% and just a point off the pace after taking down co-leader Ray Robson in a 90-move game featuring an endgame sacrifice and an under-promotion to a bishop at the finish. Carissa Yip is now sole leader of the Women's Championship after a 3rd win in four games, with Irina Krush and Katerina Nemcova just half a point behind.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-7-so-strikes-as-fabi-makes-comeback",
-         "pubDate" : "Thu, 14 Oct 2021 11:38:41 +0000",
-         "title" : "US Chess Champs 7: So strikes as Fabi makes comeback"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Thu, 14 Oct 2021 08:00:40 +0000",
          "title" : "British Chess Championships 2021"
-      },
-      {
-         "description" : "Streamer sensation IM Levy Rozman (GothamChess) has recently announced he will be funding scholarship opportunities. Rozman will donate $100,000 to chess programs in United States schools to support competitive scholastic chess teams. Schools gi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rozman-partners-with-chesskid-scholarship-fund",
-         "pubDate" : "Thu, 14 Oct 2021 00:00:00 -0700",
-         "title" : "IM Levy Rozman Partners With ChessKid.com To Offer Chess Scholarship Fund"
       },
       {
          "description" : "After taking down former leader Kirill Alekseenko in round 4, Dmitry Andreikin was defeated by Nikita Vitiugov on Wednesday. Vitiugov thus grabbed the sole lead on 3&frac12;/5 points. In the women's section, Valentina Gunina is now sharing first place with Evgenija Ovod, who scored back-to-back wins in rounds 4 and 5. | Photo: Eteri Kublashvili",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-attacking-the-french-with-3-bd3-a-review",
          "pubDate" : "Fri, 08 Oct 2021 09:30:36 +0100",
          "title" : "Robert Ris, Attacking the French with 3.Bd3 - A Review"
-      },
-      {
-         "description" : " US and Russian titles at stake this week as Carlsen celebrates $100,000 online Tour victory Over-the-board competitive chess is back in earnest this week, after fully 18 months of pandemic cancellations and postponements. The British championship at Hull University has its final round on Sunday, the US championship in St Louis began on Wednesday while the Russian championship Superfinal at Ufa has its opening round on Saturday. There will be a new first-time British champion when the nine-round 2021 final ends at the University of Hull. Despite a prize fund of nearly &pound;5,000, with &pound;2,000 for the winner, none of the top six English grandmasters with 2600-plus ratings (Michael Adam",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/oct/08/chess-british-championship-dominated-by-veterans-as-over-the-board-returns",
-         "pubDate" : "Fri, 08 Oct 2021 07:00:05 +0000",
-         "title" : "Chess: British championship dominated by veterans as over-the-board returns"
       }
    ]
 }
