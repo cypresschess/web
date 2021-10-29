@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-10-05  - 10-26","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110267252 target=' blank'>OCTOBER TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2021-10-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110246082 target=' blank'>SUNDAY SWISS OCT 24TH</a>",
 "SUGAR LAND","2021-10-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110224742 target=' blank'>FBCC 2021 HALLOWEEN PREP</a>",
 "SPRING","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224692 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2020-09-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202009300932 target=' blank'>CHESS BEATS THE STREETS</a>",
 "KATY","2020-09-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202009260962 target=' blank'>SR CHESSKNIGHTS 09262020</a>",
 "HOUSTON","2020-09-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202009260022 target=' blank'>THE CHESS REFINERY: 360+MINUTES</a>",
-"SPRING","2020-09-25","19","<a href=http://www.uschess.org/msa/XtblMain.php?202009259822 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
