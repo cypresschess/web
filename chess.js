@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r3",
+         "pubDate" : "Sat, 30 Oct 2021 00:15:00 +0100",
+         "title" : "Grand Swiss: Firouzja scores third straight win"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s all online again! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SeDqfgt3HQY.jpg?itok=LCc0rRrK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5",
+         "pubDate" : "Fri, 29 Oct 2021 21:30:48 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1404",
+         "pubDate" : "Fri, 29 Oct 2021 20:57:26 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 3 Recap"
+      },
+      {
+         "description" : "GM Alireza Firouzja is the sole leader at the FIDE Chess.com Grand Swiss in Riga after beating GM Alexandr Predke on Friday, while co-leader GM Ivan Saric drew his game with GM Fabiano Caruana. Nine players are sharing the lead in the FIDE Chess.c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r3",
+         "pubDate" : "Fri, 29 Oct 2021 12:36:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R3: Firouzja On Fire, Sole Leader In Riga"
+      },
+      {
          "description" : "In this week's show, GM Daniel King looks at ways to catch the enemy king, and shows how Maxime Vachier-Lagrave failed to do so in a recent Bundesliga game, which Daniel featured the previous week. More successful in his efforts to catch the enemy king was Vassily Smyslov in a game of his Candidate Match against Zoltan Ribli in 1983. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/this-one-was-pretty-nuts.html",
          "pubDate" : "Fri, 29 Oct 2021 12:17:00 +0000",
          "title" : "This one was pretty nuts"
-      },
-      {
-         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far in Riga. Meanwhile, seven players have a 2/2 score in the women's section. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Fri, 29 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "Vitiugov and Gunina win Russian Championship titles"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on Mikhail Tal. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjuEdY76uFg.jpg?itok=MwByrE9m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lets-go-back-tal-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 21 Oct 2021 00:20:50 +0000",
-         "title" : "Let's Go Back to Tal! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-1",
          "pubDate" : "Fri, 15 Oct 2021 00:25:00 +0100",
          "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
-      },
-      {
-         "description" : "Round eight of the 2021 U.S. Chess Championship was very peaceful, as all six games ended in a draw. GM Aleksandr Lenderman saved a lost position versus GM Dariusz Swiercz, which enabled him to stay in lead alongside GMs Wesley So and Sam Sevian. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-8",
-         "pubDate" : "Thu, 14 Oct 2021 15:05:00 -0700",
-         "title" : "US Chess Championships R8: Lenderman Survives Scare, Everyone Draws"
       },
       {
          "description" : "Praggnanandhaa will face Vincent Keymer or Leon Mendonca in Saturday's semi-finals of the Challengers Chess Tour after powering to a 3:0 victory over Volodar Murzin, with Vladimir Kramnik describing the Indian prodigy's play as being at the level of a 2700-player. The other quarterfinal on Thursday was an absolute thriller, with Christopher Yoo coming back from the dead to clinch victory over Lei Tingjie in the 2nd game of a blitz playoff.",
