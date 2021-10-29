@@ -2,15 +2,47 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far in Riga. Meanwhile, seven players have a 2/2 score in the women's section. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Fri, 29 Oct 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1403",
+         "pubDate" : "Fri, 29 Oct 2021 10:49:34 +0000",
+         "title" : "IBCA Chess Olympiad for Blind and Visually Impaired: Russia carries the day"
+      },
+      {
+         "description" : " <p class=\"lead\">Halloween prize tournaments are coming! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> FIDE Online Arena, the official FIDE gaming platform, is celebrating the Halloween fest and is organizing a series of three online tournaments on the 30th of October. Rapid, blitz, or bullet? The answer is all of them! The players will take part in 3 tournaments with different time controls, we will sum the points scored by each player in all tournaments, and the player with the most points will win the series. For example, you have 3 points in Blitz, 4 points in Bullet, and 3 in Rapid, which means your s",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/trick-or-treat/",
+         "pubDate" : "Fri, 29 Oct 2021 10:04:17 +0000",
+         "title" : "Trick or Treat?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> adds Russian mining giant <strong>Nornickel</strong> <a href=\"https://ruchess.ru/news/all/nornikel_stal_partnerom_yana_nepomnyashchego/\">as a personal sponsor</a>, having secured support from <strong>Sima-Land</strong> and <strong>Chess.com</strong> earlier. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nornickel-sponsors-nepo/",
+         "pubDate" : "Fri, 29 Oct 2021 09:46:11 +0100",
+         "title" : "Nornickel sponsors Nepo"
+      },
+      {
          "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaping against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/grand-swiss-2-firouzja-up-to-world-no-6-as-caruana-misses-win",
          "pubDate" : "Fri, 29 Oct 2021 07:24:45 +0000",
-         "title" : "Grand Swiss 2: Firouzja up to world no. 6 as Caruana misses win"
+         "title" : "Grand Swiss 2: Firouzja world no. 6 as Caruana misses win"
       },
       {
-         "description" : " Scotland's Keti Arakhamia-Grant wins impressively in round one, while India's teenage trio shine at the Grand Swiss world qualifier David Howell is the only Englishman in the 108-player Covid-hit Grand Swiss at Riga, and the three-times British champion, 30, has made a promising 1.5/2 start in the world qualifier. It looked unlikely when he blundered early into a lost round two position on Thursday against Latvia's Artur Neiksans, but Howell fought on and finally halved a marathon of 142 moves and eight hours. The game ended in a draw via the rare rule of 50 moves played without a capture or a pawn move. Howell is seeded only No 34, but will be harking back to the last Grand Swiss at Dougla",
+         "description" : " Scotland's Keti Arakhamia-Grant wins impressively in round one, while India's teenage trio shine at the Grand Swiss world qualifier David Howell is the only Englishman in the 108-player Covid-hit Grand Swiss at Riga, and the three-times British champion, 30, has made a promising 1.5/2 start in the world qualifier. It looked unlikely when he blundered early into a lost round two position on Thursday against Latvia's Arturs Neiksans, but Howell fought on and finally halved a marathon of 142 moves and eight hours. The game ended in a draw via the rare rule of 50 moves played without a capture or a pawn move. Howell is seeded only No 34, but will be harking back to the last Grand Swiss at Dougl",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/oct/29/chess-david-howell-draws-142-move-marathon-riga-using-rare-rule-grand-swiss",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-why-chess-players-can-t-win-against-artificial-intelligence-2",
          "pubDate" : "Wed, 27 Oct 2021 13:00:03 +0100",
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess For Freedom</strong> project is about much more than prison and online play, writes <em>Salomėja Zaksaitė</em>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/dr-b.1920.jpeg\" title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. photo: picture alliance/​Studiocanal/​Walker + Worm Film\" data-title=\"Chess keeps \"The Royal Game\" protagonist Bartok (Oliver Masucci) sane during his imprisonment and torture. (photo: picture alliance/​Studiocanal/​Walker + Worm Film)\" class=\"js-img\"> <img itemprop=\"image\" src=\"",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/a-liberating-game/",
-         "pubDate" : "Wed, 27 Oct 2021 08:48:21 +0100",
-         "title" : "A liberating game"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The enhanced <a href=\"https://lichess.org/analysis#explorer\"><strong>Opening Explorer</strong></a> tool lets you see how you have been scoring on <strong>Lichess</strong> with different opening moves, or prepare for a specific opponent based on their Lichess games. <a href=\"https://lichess.org/blog/YXMPxxMAACEAy3g4/announcing-the-personal-opening-explorer\">According to the announcement</a>, the innovation has been inspired by <strong><a href=\"https://www.openingtree.com/\">OpeningTree.com</a></strong>, another open source tool. </div> ",
@@ -1880,14 +1904,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/what-difference-35-years-makes.html",
          "pubDate" : "Fri, 08 Oct 2021 11:53:00 +0000",
          "title" : "What a difference 35 years makes"
-      },
-      {
-         "description" : "Fans of the French Defence usually know their lines and structures very well, and they are happy to play their pet systems, even when the engines grant White a slight advantage. But 1.e4 e6 2.d4 d5 3.Bd3!? is a good way to bring French experts out of their comfort zone. In a \"60 Minutes\" video, Dutch IM Robert Ris, an expert for sharp systems, shows how White can use 3.Bd3!? to get promising play against the French Defense. IM Martin Neubauer had a look at the video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-attacking-the-french-with-3-bd3-a-review",
-         "pubDate" : "Fri, 08 Oct 2021 09:30:36 +0100",
-         "title" : "Robert Ris, Attacking the French with 3.Bd3 - A Review"
       }
    ]
 }
