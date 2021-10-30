@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-seals-second-gm-norm-all-set-to-become-indias-latest-grandmaster-in-serbia/articleshow/87406290.cms",
+         "pubDate" : "Sat, 30 Oct 2021 22:54:11 +0530",
+         "title" : "Sankalp seals second GM norm, all set to become India's latest GM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406107.cms\" />Indian Grandmaster P Iniyan on Saturday emerged winner in the 5th Rujna Zora chess tournament held with seven points from nine rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-p-iniyan-wins-chess-tournament-in-serbia/articleshow/87406107.cms",
+         "pubDate" : "Sat, 30 Oct 2021 22:46:10 +0530",
+         "title" : "Indian GM P Iniyan wins chess tournament in Serbia"
+      },
+      {
          "description" : "GM Fabiano Caruana will be Chess.com&#39;s star commentator during the Carlsen-Nepomniachtchi world championship match alongside GM Robert Hess and IM Danny Rensch. Nobody can provide better insights than the world&#39;s number-two player, who was Carlsen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
