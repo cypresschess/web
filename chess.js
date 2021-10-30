@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Sat, 30 Oct 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1405",
+         "pubDate" : "Sat, 30 Oct 2021 09:44:44 +0000",
+         "title" : "World Championship for People with Disabilities: Last call to register"
+      },
+      {
+         "description" : "Halloween is near - and inspired Siegfried Hornecker to search for compositions and studies that are suitable to this time of the year. After all, a good endgame study doesn't ask \"Trick or treat?\" but rather offers both. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-frankenstein-and-monsters",
+         "pubDate" : "Sat, 30 Oct 2021 10:00:00 +0100",
+         "title" : "Study of the Month: Frankenstein and Monsters"
+      },
+      {
+         "description" : "Mind sports play a vibrant role in the lives of many geniuses and, of the various mind sports, chess is the king. It is the one practised most widely and has the most well-documented and carefully written theory to back it up. A number of the recognised great minds have rated chess highly. Goethe called the game the touchstone of the intellect\". Haroun Al-Raschid, the Abbasyd Caliph of Islam (786-809 AD), the man idealised in the Arabian Nights, was the first of his dynasty to play chess. The 11th-century Byzantine Emperor, Alexius Comnenus, was allegedly playing chess when surprised by a murderous conspiracy, which being a good chess player he managed to escape! The Aladdin of the fairy tal",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/distance-and-discovery-as-suli-columbus-and-chess/",
+         "pubDate" : "Sat, 30 Oct 2021 08:00:31 +0000",
+         "title" : "Distance and discovery: As-Suli, Columbus and chess"
+      },
+      {
          "description" : "In the diagram position, Black's king is only protected by pawns and - not a single minor piece supports its monarch. Which is kind of an invitation for White - or isn't it? Your move!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/my-memorable-game",
          "pubDate" : "Sat, 30 Oct 2021 09:00:00 +0100",
          "title" : "\"My memorable game\""
+      },
+      {
+         "description" : "Alireza Firouzja has won a 7th game in a row - counting the last four rounds of Norway Chess - to take the sole lead in the Grand Swiss and move within a win of the world no. 4 spot. While Alireza kept on winning there was more frustration for Fabiano Caruana, who missed a chance to beat Ivan Saric, while Levon Aronian could only scrape a draw against Anton Demchenko. Six players, including 17-year-old Nihal Sarin, seized the chance to move to 2nd place on 2.5/3. In the women's event Lela Javakhishvili and Harika Dronavalli joined a 9-player leading pack after draws on the top boards.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-3-firouzja-s-rampage-continues",
+         "pubDate" : "Sat, 30 Oct 2021 07:59:56 +0000",
+         "title" : "Grand Swiss 3: Firouzja's rampage continues"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Mike Kummer offers a $100 bounty to Club Inventory and Events Coordinator Emily Trask. As a prot&eacute;g&eacute; of Danny Machuca, all Emily has to do is defeat Mike in a G/5 blitz game. He must play the Halloween Gambit. She gets one chance. 2021.10.22<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
@@ -18,11 +58,19 @@ news_feed (
          "title" : "Fun Fun Fun! Halloween Gambit Blitz Bounty: Mike Kummer vs. Emily Trask"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87388030.cms\" />India's Dronavalli Harika defeated former world champion Antoaneta Stefanova of Bulgaria in the third round of the FIDE Grand Swiss chess tournament here to grab a share of the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-dronavalli-harika-beats-antoaneta-stefanova/articleshow/87388030.cms",
+         "pubDate" : "Sat, 30 Oct 2021 11:30:40 +0530",
+         "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
+      },
+      {
          "description" : "On Friday, the third day of the Blitzcoin Invitational tournament, players entered the quarterfinals stage. As a result, four players were eliminated, as GM Daniel Naroditsky outplayed GM Brandon Jacobson, GM Andrew Tang beat IM Atulya Shetty, I...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-3-naroditsky-tang-wang-liang-in-semifinals",
-         "pubDate" : "Fri, 29 Oct 2021 22:29:17 -0700",
+         "pubDate" : "Fri, 29 Oct 2021 22:29:00 -0700",
          "title" : "Blitzcoin Invitational Day 3: Naroditsky, Tang, Wang, Liang In Semifinals"
       },
       {
@@ -1522,14 +1570,6 @@ news_feed (
          "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
       },
       {
-         "description" : "Praggnanandhaa will face Vincent Keymer or Leon Mendonca in Saturday's semi-finals of the Challengers Chess Tour after powering to a 3:0 victory over Volodar Murzin, with Vladimir Kramnik describing the Indian prodigy's play as being at the level of a 2700-player. The other quarterfinal on Thursday was an absolute thriller, with Christopher Yoo coming back from the dead to clinch victory over Lei Tingjie in the 2nd game of a blitz playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/pragg-yoo-reach-challengers-chess-tour-semi-finals",
-         "pubDate" : "Thu, 14 Oct 2021 20:39:06 +0000",
-         "title" : "Pragg & Yoo reach Challengers Chess Tour semi-finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1874,44 +1914,12 @@ news_feed (
          "title" : "The cat sat on my keyboard"
       },
       {
-         "description" : "After escaping with draws from two inferior positions in the first rounds of the US Chamionship, Fabiano Caruana scored his first win of the event on Friday to join a group of 4 co-leaders atop the standings table - Sam Sevian also won to join the leading pack. In the women's section, Katerina Nemcova continues to be the sole leader. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r3",
-         "pubDate" : "Sat, 09 Oct 2021 13:50:00 +0100",
-         "title" : "US Championships: Caruana and Sevian join the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1378",
          "pubDate" : "Sat, 09 Oct 2021 11:37:20 +0000",
          "title" : "WCC for People with Disabilities: Introducing the players"
-      },
-      {
-         "description" : "The Russian Superfinals are taking place on October 9-20. An open tournament and a women's tournament are taking place concurrently. The open event, which includes Aleksandra Goryachkina (pictured), has Dmitry Andreikin, Nikita Vitiugov and Andrey Esipenko as the top seeds. Polina Shuvalova, Alina Kashlinskaya and Natalija Pogonina are the highest-rated players in the women's section. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-preview",
-         "pubDate" : "Sat, 09 Oct 2021 11:50:00 +0100",
-         "title" : "Russian Superfinals in Ufa"
-      },
-      {
-         "description" : "Before this, no Indian team -- male or female -- had won a silver at the World Teams Championships or over-the-board Olympiads.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32359970/for-women-chess-team-historic-world-silver-medal-brings-vindication-new-beginning?device=featurephone",
-         "pubDate" : "Sat, 9 Oct 2021 05:47:16 -0500",
-         "title" : "For women's chess team, historic silver medal brings vindication, and a new beginning"
-      },
-      {
-         "description" : "Five minutes walk from my house in Clapham lies a large Victorian block boasting a blue plaque. It confirms the former residency of Edvard Grieg (1843-1907), composer of Peer Gynt. Grieg is one of the most celebrated modern Norwegians, along with explorer Roald Amundsen (1872-1928) artist Edvard Munch (1863-1944) dramatist Henrik Ibsen (1828-1906) and reigning World Chess Champion Magnus Carlsen. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-red-czar-of-moscow-and-the-hall-of-the-mountain-king/",
-         "pubDate" : "Sat, 09 Oct 2021 08:18:10 +0000",
-         "title" : "The Red Czar of Moscow and the Hall of the Mountain King"
       }
    ]
 }
