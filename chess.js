@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1406",
+         "pubDate" : "Sat, 30 Oct 2021 21:16:36 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
+      },
+      {
+         "description" : "With a quick draw, GM Alireza Firouzja maintained his sole lead at the FIDE Chess.com Grand Swiss in Riga on Saturday. Russian GM Evgeniy Najer was close to catching Firouzja but missed a win in the endgame against GM Ivan Saric.&#38;nbsp;China&#39;s GM L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-4",
+         "pubDate" : "Sat, 30 Oct 2021 13:00:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R4: Firouzja Maintains Lead; Lei Sole Leader"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1480,14 +1496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/disaster-on-the-diagonal",
          "pubDate" : "Sat, 16 Oct 2021 09:00:00 +0100",
          "title" : "Disaster on the diagonal"
-      },
-      {
-         "description" : "Pivotal Pawns, Kingslayers, Brutal Bishops, and Ruthless Rooks are the four teams that have advanced to the semifinals of the Chess Super League that will be played on Saturday. The two teams that were knocked out in the round-robin phase are Kraz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-05",
-         "pubDate" : "Sat, 16 Oct 2021 00:04:00 -0700",
-         "title" : "Chess Super League R5: Krazy Knights, Quintessential Queens Knocked Out"
       },
       {
          "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
