@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Fabiano Caruana will be Chess.com&#39;s star commentator during the Carlsen-Nepomniachtchi world championship match alongside GM Robert Hess and IM Danny Rensch. Nobody can provide better insights than the world&#39;s number-two player, who was Carlsen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fabiano-caruana-interview-carlsen-nepomniachtchi",
+         "pubDate" : "Sat, 30 Oct 2021 06:00:00 -0700",
+         "title" : "Fabiano Caruana On Playing A World Championship, On Carlsen-Nepomniachtchi, And More"
+      },
+      {
+         "description" : " Chess.com has an interesting article that looks at performances in some of the greatest tournaments in history. 12 events were chosen, starting with London 1851, and players estimated elo rating were calculated using the chess.com CAPS system. Of course the earlier events had reasonably low performances (due to a lack of accurate play), but once into the 20th century there were some players getting quite high estimates (eg Capablanca 2726 at St Petersburg 1914). One interesting feature was that tournament winner often did not have the highest estimated rating, with some like Averbakh having the top TPR of 2759 at the 1953 Candidates, despite finishing 10th, and Euwe having the 2nd highest, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/10/crunching-numbers.html",
+         "pubDate" : "Sat, 30 Oct 2021 12:10:00 +0000",
+         "title" : "Crunching the numbers"
+      },
+      {
          "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1490,14 +1506,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: A satisfying conclusion"
       },
       {
-         "description" : "GM Nikita Vitiugov is the sole leader at the Russian Championship Superfinal on the rest day, after six rounds. In the women&#39;s section, there&#39;s a three-way tie among GM Valentina Gunina, IM Evgenija Ovod, and IM Polina Shuvalova. How to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-russian-championship-superfinal-round-6",
-         "pubDate" : "Fri, 15 Oct 2021 09:47:00 -0700",
-         "title" : "Russian Championship Superfinal R6: Vitiugov In The Lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,22 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-fide",
          "pubDate" : "Sun, 10 Oct 2021 03:15:00 +0100",
          "title" : "Teams from 31 countries to participate in Championship for Prisoners"
-      },
-      {
-         "description" : " Under the rules of online chess, the player is held responsible for anything that happens at their end of the game, unless it can be demonstrated that the hosting server is at fault. This can include power outages, network failures, and in one case, the cat sitting on the keyboard. To preserve the dignity of the player involved, I won't use real names, but the cat-astrophe occurs at move 17 (if it isn't obvious already) <br /> <b>White - Black (cat) [D00]</b><br />Street Chess - 9 October 2021, 09.10.2021 <script>new PgnViewer( { boardName: \"game1279\", movesFormat: \"default\", pgnString:'1.d4 d5 2.e3 Bf5 3.c4 Nf6 4.Nf3 e6 5.Bd3 Bg6 6.O-O dxc4 7.Bxc4 Bd6 8.Re1 c6 9.Nc3 Qc7 10.Bd3 Bh5 11.h3 Nb",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/the-cat-sat-on-my-keyboard.html",
-         "pubDate" : "Sat, 09 Oct 2021 13:39:00 +0000",
-         "title" : "The cat sat on my keyboard"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1378",
-         "pubDate" : "Sat, 09 Oct 2021 11:37:20 +0000",
-         "title" : "WCC for People with Disabilities: Introducing the players"
       }
    ]
 }
