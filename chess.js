@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black's king is only protected by pawns and - not a single minor piece supports its monarch. Which is kind of an invitation for White - or isn't it? Your move!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-memorable-game",
+         "pubDate" : "Sat, 30 Oct 2021 09:00:00 +0100",
+         "title" : "\"My memorable game\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Mike Kummer offers a $100 bounty to Club Inventory and Events Coordinator Emily Trask. As a prot&eacute;g&eacute; of Danny Machuca, all Emily has to do is defeat Mike in a G/5 blitz game. He must play the Halloween Gambit. She gets one chance. 2021.10.22<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fun-fun-fun-halloween-gambit-blitz-bounty-mike-kummer-vs-emily-trask",
+         "pubDate" : "Sat, 30 Oct 2021 06:31:00 +0000",
+         "title" : "Fun Fun Fun! Halloween Gambit Blitz Bounty: Mike Kummer vs. Emily Trask"
+      },
+      {
+         "description" : "On Friday, the third day of the Blitzcoin Invitational tournament, players entered the quarterfinals stage. As a result, four players were eliminated, as GM Daniel Naroditsky outplayed GM Brandon Jacobson, GM Andrew Tang beat IM Atulya Shetty, I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-3-naroditsky-tang-wang-liang-in-semifinals",
+         "pubDate" : "Fri, 29 Oct 2021 22:29:17 -0700",
+         "title" : "Blitzcoin Invitational Day 3: Naroditsky, Tang, Wang, Liang In Semifinals"
+      },
+      {
          "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "A Foundation for Beginners Thirty Nine"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess class on a topic of his choice. Disturb harmony! Zugzwang! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/avoid-automatic-moves-look-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BFGIGu6xwZo.jpg?itok=Jyy7Fkvs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/avoid-automatic-moves-look-creative-moves-grandmasters-choice-gm-alex-lenderman",
-         "pubDate" : "Fri, 22 Oct 2021 03:21:49 +0000",
-         "title" : "Avoid Automatic Moves; Look for Creative Moves! | Grandmaster's Choice - GM Alex Lenderman"
-      },
-      {
          "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only three rounds remaining in the regular season, every point earned could be the difference between being eliminated or n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1466,14 +1482,6 @@ news_feed (
          "title" : "US Championships: Yip scores third win in a row"
       },
       {
-         "description" : "Round four of the Chess Super League saw three players dramatically losing their games due to offering a draw before move 40, which is prohibited at this tournament. With one round to go in the round-robin phase, the Kingslayers are in the lead. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-round-4-draw-drama",
-         "pubDate" : "Fri, 15 Oct 2021 06:31:00 -0700",
-         "title" : "Chess Super League R4: Draw Drama"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87041912.cms\" />Indian chess maestro Viswanathan Anand will be one of the official commentators for the FIDE World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai from November 24.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-red-czar-of-moscow-and-the-hall-of-the-mountain-king/",
          "pubDate" : "Sat, 09 Oct 2021 08:18:10 +0000",
          "title" : "The Red Czar of Moscow and the Hall of the Mountain King"
-      },
-      {
-         "description" : "In the diagram position White just played 14.Bd4 to neutralize the enemy Dragon bishop on the long diagonal. But this solid looking move actually allowed Black to get the advantage. How did he continue?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishops-in-the-center",
-         "pubDate" : "Sat, 09 Oct 2021 09:00:00 +0100",
-         "title" : "Bishops in the center"
       }
    ]
 }
