@@ -378,6 +378,14 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss officially opened in Latvia"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1383",
+         "pubDate" : "Tue, 26 Oct 2021 20:37:02 +0000",
+         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
+      },
+      {
          "description" : "In a press release the organisers of the Tata Steel Tournament in Wijk aan Zee 2022 just revealed the names of 13 of the 14 participants. It is a fantastic line-up with Magnus Carlsen and Fabiano Caruana as top seeds and exciting and young players such as Richard Rapport, Jan-Krzysztof Duda, Andrey Esipenko, Daniil Dubov or Praggnanandhaa in the field. The tournament runs from 14 January until 30 January 2022. | Photo: Hans van den Berg (left), Anish Giri and Jeroen van den Berg ( © Tata Steel Chess)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1397",
          "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
          "title" : "Dutch Championship: Anne Haast clinches fifth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Mon, 25 Oct 2021 20:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       },
       {
          "description" : "The spookiest night of the year is almost upon us, but you don&#39;t need to be scared. It turns out that some monsters actually enjoy a good game of chess! You can now play against two brand new Halloween bots&#38;mdash;but do it quickly, before they dis...",
