@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1408",
+         "pubDate" : "Sun, 31 Oct 2021 20:46:44 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 5 Recap"
+      },
+      {
+         "description" : "Russian GM Evgeniy Najer and former world number-two GM Alexei Shirov caught GM Alireza Firouzja in the lead in round five of the FIDE Chess.com Grand Swiss in Riga. The two won their games, while Firouzja drew the all-French clash with GM Maxime ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-5",
+         "pubDate" : "Sun, 31 Oct 2021 13:32:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R5: Najer, Shirov Catch Firouzja"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 51st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the black squares. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "A Learner's Brilliancy"
       },
       {
-         "description" : "After kicking off the event with three straight wins, Alireza Firouzja drew a game for the first time at the FIDE Chess.com Grand Swiss on Sunday. The youngster nonetheless kept the sole lead, as none of his closest chasers got to score a win - Evgeniy Najer almost managed, but failed to find a killer shot. Meanwhile, among the women, Lei Tingjie beat Valentina Gunina to climb to sole first place. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces. In the women's section, five players are sharing the lead going into round 6. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Sun, 31 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 5"
       },
       {
          "description" : "",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Annotating in ChessBase: The Basics"
       },
       {
-         "description" : "Round 10 of the 2021 U.S. Chess Championship reshaped the tournament standings before the decisive day. GM Fabiano Caruana won with Black against GM&#38;nbsp;Aleksandr Lenderman and is now sharing first with GMs Wesley So and Sam Sevian with 6/10 (who...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-10",
-         "pubDate" : "Sun, 17 Oct 2021 17:24:00 -0700",
-         "title" : "US Chess Championships R10: Caruana Shares First, Yip Women's Champion"
-      },
-      {
          "description" : "16-year-old Indian prodigy Praggnanandhaa was in supreme form as he defeated Christopher Yoo 3:0 to win the Julius Baer Challengers Chess Tour, taking the top prize of $12,500 and earning a regular spot on the 2022 Meltwater Champions Chess Tour. 14-year-old Christopher Yoo took the $7,500 second prize and impressed by making each game of the final an intense battle, with Vladimir Kramnik predicting the US star will also become a \"very, very strong player\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/appeal-findings-regulation-5-complaint-by-rob-willmoth-against-mike-truran/",
          "pubDate" : "Mon, 11 Oct 2021 10:45:39 +0000",
          "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1379",
-         "pubDate" : "Sun, 10 Oct 2021 21:04:06 +0000",
-         "title" : "Nicholas Pert wins British Championship"
       }
    ]
 }
