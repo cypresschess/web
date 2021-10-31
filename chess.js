@@ -106,7 +106,7 @@ news_feed (
          "title" : "Blitzcoin Invitational Day 4: Naroditsky, Liang In Finals"
       },
       {
-         "description" : "We are happy to announce the 2021-2022 Chess.com Bughouse World Championship! The beloved variant championship starts on November 8 and will extend through January 2022. The strongest bughouse players in the world will come together to fight for t...",
+         "description" : "We are happy to announce the 2021-2022 Bughouse World Championship! The beloved variant championship starts on November 8 and will extend through January 2022. The strongest bughouse players in the world will come together to fight for their piece...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-bughouse-world-championship",
