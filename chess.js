@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 51st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the black squares. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-51-the-black-squares",
+         "pubDate" : "Sun, 31 Oct 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 51: The black squares!"
+      },
+      {
+         "description" : "High-level chess is being played in Riga at the open and women's sections of the Grand Swiss. Our in-house endgame expert has been following the games closely, and sent us a few analyses from instructive positions played by Harika Dronavalli, Meruert Kamalidenova and Jeffery Xiong. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-analyses-notable-endgames-from-the-grand-swiss",
+         "pubDate" : "Sun, 31 Oct 2021 14:45:00 +0100",
+         "title" : "Notable endgames from the Grand Swiss - Karsten M&uuml;ller analyses"
+      },
+      {
+         "description" : " A Learner's brilliancy. Not just any old learner, though. Very specifically, Dr Abraham Learner, a strong amateur who lived and played in Birmingham, Melbourne and Eastbourne over a 40 year chess career. I've just been writing about him elsewhere, and thought this 1934 game from a county match was worth annotating. He had the white <a href=\"https://chessimprover.com/a-learners-brilliancy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Learner's Brilliancy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-learners-brilliancy/\">A Learner's Brilliancy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-learners-brilliancy/",
+         "pubDate" : "Sun, 31 Oct 2021 13:14:30 +0000",
+         "title" : "A Learner's Brilliancy"
+      },
+      {
+         "description" : "After kicking off the event with three straight wins, Alireza Firouzja drew a game for the first time at the FIDE Chess.com Grand Swiss on Sunday. The youngster nonetheless kept the sole lead, as none of his closest chasers got to score a win - Evgeniy Najer almost managed, but failed to find a killer shot. Meanwhile, among the women, Lei Tingjie beat Valentina Gunina to climb to sole first place. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Sun, 31 Oct 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,14 +79,14 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
          "pubDate" : "Sun, 31 Oct 2021 07:40:04 +0000",
-         "title" : "In Riga, Everyone Is Watching Alireza Firouzja Becoming the Next World Champion, May Be"
+         "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, May Be"
       },
       {
-         "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player GM Andre...",
+         "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player, GM Andr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-4-naroditsky-liang-in-finals",
-         "pubDate" : "Sat, 30 Oct 2021 22:52:42 -0700",
+         "pubDate" : "Sat, 30 Oct 2021 22:52:00 -0700",
          "title" : "Blitzcoin Invitational Day 4: Naroditsky, Liang In Finals"
       },
       {
@@ -1914,36 +1946,12 @@ news_feed (
          "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
       },
       {
-         "description" : "What if you could get an estimate of your Elo rating just by doing a single test, as opposed to playing a couple of dozen games at long time controls? It isn't an exaggeration to say this sounds like one of those inane personality 'quizzes' you see in supermarket magazines. But this proposal was the subject of a university study to do just that. Try it yourself!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elo-meter-the-test-that-calculates-your-elo",
-         "pubDate" : "Mon, 11 Oct 2021 05:25:36 +0100",
-         "title" : "Elo Meter - The test that calculates your Elo"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1379",
          "pubDate" : "Sun, 10 Oct 2021 21:04:06 +0000",
          "title" : "Nicholas Pert wins British Championship"
-      },
-      {
-         "description" : "Ray Robson (pictured) inflicted Jeffery Xiong's third straight loss to take the sole lead in the US Championship. Five players stand a half point behind, including Leinier Dominguez, who defeated Sam Shankland on Saturday. In the women's section, Carissa Yip joined Katerina Nemcova in the lead after beating 8-time champion Irina Krush. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r4",
-         "pubDate" : "Sun, 10 Oct 2021 18:20:00 +0100",
-         "title" : "US Championships: Robson takes the sole lead, Yip beats Krush"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 48th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to use \"the target on g6\" to build up an attack. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-48-the-target-on-h6",
-         "pubDate" : "Sun, 10 Oct 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 48: The target on g6"
       }
    ]
 }
