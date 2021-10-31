@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the spectacular queen sacrifice that Alexandr Predke used to beat Nodirbek Yakubboev in round 2 of the Grand Swiss in Riga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-queen-sacrifice-in-the-makogonov-variation-of-the-kings-indian-defence",
+         "pubDate" : "Sun, 31 Oct 2021 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A queen sacrifice in the Makogonov Variation of the Kings Indian Defence"
+      },
+      {
+         "description" : "After kicking off the event with three straight wins, Alireza Firouzja drew a game for the first time at the FIDE Chess.com Grand Swiss on Sunday. The youngster nonetheless kept the sole lead, as none of his closest chasers got to score a win - Evgeniy Najer almost managed, but failed to find a killer shot. Meanwhile, among the women, Chinese star Lei Tingjie beat Valentina Gunina to climb to sole first place. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r4",
+         "pubDate" : "Sun, 31 Oct 2021 10:20:00 +0100",
+         "title" : "Grand Swiss: Lei Tingjie takes the lead in the women's section"
+      },
+      {
+         "description" : "Alireza Firouzja's quick draw with the black pieces against Yu Yangyi was enough to retain the sole lead after Round 4 of the FIDE Chess.com Grand Swiss as the chasing pack also drew, with Evgeniy Najer missing a great chance to defeat Ivan Saric. MVL, Aryan Tari, Alexei Shirov, Manuel Petrosyan and Sam Sevian all won to move within half a point of Alireza. In the women's section China's Lei Tingjie is now the sole leader after taking down Valentina Gunina in a 72-move game where the Russian Champion put up great resistance in a position three pawns down.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-4-firouzja-and-lei-tingjie-sole-leaders",
+         "pubDate" : "Sun, 31 Oct 2021 08:50:47 +0000",
+         "title" : "Grand Swiss 4: Firouzja and Lei Tingjie sole leaders"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87422981.cms\" />Indian Grandmaster P Harikrishna continued his recovery from a poor start by notching up his second straight win to move to 2.5 points after four rounds in the FIDE Grand Swiss chess tournament here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-p-harikrishna-posts-win-d-harika-held-to-draw-in-round-4/articleshow/87422981.cms",
+         "pubDate" : "Sun, 31 Oct 2021 13:15:42 +0530",
+         "title" : "FIDE Grand Swiss: Harikrishna posts win, Harika held to draw in round 4"
+      },
+      {
+         "description" : " <p class=\"lead\">There are 109 players in FIDE Chess.com Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by <a href=\"https://www.flickr.com/photos/fide/51637733132/\">FIDE</",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
+         "pubDate" : "Sun, 31 Oct 2021 07:40:04 +0000",
+         "title" : "In Riga, Everyone Is Watching Alireza Firouzja Becoming the Next World Champion, May Be"
+      },
+      {
          "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player GM Andre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/crunching-numbers.html",
          "pubDate" : "Sat, 30 Oct 2021 12:10:00 +0000",
          "title" : "Crunching the numbers"
-      },
-      {
-         "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Sat, 30 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "",
@@ -1474,14 +1506,6 @@ news_feed (
          "title" : "What's New on FIDE Online Arena: October 2021"
       },
       {
-         "description" : "Vincent Keymer will take on his key rival Praggnanandhaa in the Julius Baer Challengers Chess Tour semi-finals after coming from behind to defeat Leon Mendonca 3.5:2.5 in a blitz playoff. The other semi-final on Saturday will be an all-American clash between Awonder Liang and Christopher Yoo, after Awonder emerged the 3:1 winner of a topsy-turvy battle against Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/it-s-keymer-pragg-liang-yoo-in-the-semis",
-         "pubDate" : "Sat, 16 Oct 2021 09:43:58 +0000",
-         "title" : "It's Keymer-Pragg & Liang-Yoo in the Semis!"
-      },
-      {
          "description" : "At the start of Modeste Mussorgsky's opera, Boris Godunov, discontented crowds gather in Moscow, both at the Novodevichy Monastery and outside the battlements of the Kremlin, to implore the new Czar, Boris, to save the people from the evils of the day; pandemic, famine, unemployment and general civil unrest. The crowd also articulates a desperate plea to []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1912,14 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-48-the-target-on-h6",
          "pubDate" : "Sun, 10 Oct 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 48: The target on g6"
-      },
-      {
-         "description" : "Appended below please find the list of players registered for the Asian Online Amateur Chess Championship. We send an email to your respective registered email",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-online-amateur-chess-championship-registration-details/",
-         "pubDate" : "Sun, 10 Oct 2021 09:53:32 +0000",
-         "title" : "Asian Online Amateur Chess Championship : Registration Details"
       }
    ]
 }
