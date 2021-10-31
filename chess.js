@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are happy to announce the 2021-2022 Chess.com Bughouse World Championship! The beloved variant championship starts on November 8 and will extend through January 2022. The strongest bughouse players in the world will come together to fight for t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-bughouse-world-championship",
+         "pubDate" : "Sat, 30 Oct 2021 19:33:08 -0700",
+         "title" : "Announcing The 2021 Bughouse World Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1434,14 +1442,6 @@ news_feed (
          "title" : "European Youth & Junior Chess Championships 2021 starts"
       },
       {
-         "description" : "In round nine of the 2021 U.S. Chess Championship, which took place after a rest day, all leaders drew their games. Meanwhile, GM Fabiano Caruana beat GM Dariusz Swiercz. As a result, GMs Aleksandr Lenderman, Wesley So, and Sam Sevian are sharing ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/us-chess-championships-r9",
-         "pubDate" : "Sat, 16 Oct 2021 19:53:00 -0700",
-         "title" : "US Chess Championships R9: Leaders Draw, Caruana Wins"
-      },
-      {
          "description" : "It was a rather short day at the office for the semifinalists of the Julius Baer Challengers Tour Finals, as Praggnanandhaa and Christopher Yoo only needed three games to knock out Vincent Keymer and Awonder Liang respectively. After an astounding win by Pragg, Vladimir Kramnik was full of praise for his play, even comparing him with Magnus Carlsen. \"He's playing almost like a real world champion, not a future one\", said Kramnik.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "https://chessimprover.com/width-and-depth/",
          "pubDate" : "Sun, 10 Oct 2021 06:30:43 +0000",
          "title" : "Width and Depth"
-      },
-      {
-         "description" : "Forty-three teams from 31 countries will play in the 1st Intercontinental Online Championship for Prisoners, a two-day event that starts on October 13, the International Day of Education in Prisons. The championship is a part of the \"Chess for Freedom\" Program, launched earlier this year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-fide",
-         "pubDate" : "Sun, 10 Oct 2021 03:15:00 +0100",
-         "title" : "Teams from 31 countries to participate in Championship for Prisoners"
       }
    ]
 }
