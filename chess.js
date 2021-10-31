@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1407",
+         "pubDate" : "Sun, 31 Oct 2021 11:24:11 +0000",
+         "title" : "ARB Lecturer Training Programme CALL OF INTEREST announced"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the spectacular queen sacrifice that Alexandr Predke used to beat Nodirbek Yakubboev in round 2 of the Grand Swiss in Riga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
