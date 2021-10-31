@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player GM Andre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-4-naroditsky-liang-in-finals",
+         "pubDate" : "Sat, 30 Oct 2021 22:52:42 -0700",
+         "title" : "Blitzcoin Invitational Day 4: Naroditsky, Liang In Finals"
+      },
+      {
          "description" : "We are happy to announce the 2021-2022 Chess.com Bughouse World Championship! The beloved variant championship starts on November 8 and will extend through January 2022. The strongest bughouse players in the world will come together to fight for t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1418,14 +1426,6 @@ news_feed (
          "title" : "Wrong Opening Books"
       },
       {
-         "description" : "The Kingslayers and Pivotal Pawns will play the finals of the Chess Super League on Sunday. Two more teams were eliminated from the event: the Brutal Bishops and Ruthless Rooks ended their campaigns in third and fourth positions respectively. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chess-super-league-playoffs",
-         "pubDate" : "Sun, 17 Oct 2021 02:17:27 -0700",
-         "title" : "Chess Super League Playoffs: Kingslayers, Pivotal Pawns To Clash In Sunday's Final"
-      },
-      {
          "description" : "Praggnanandhaa and Christopher Yoo both needed just three games to reach the final of the Julius Baer Champions Chess Tour. Praggnanandhaa had Vladimir Kramnik comparing him to Hikaru Nakamura and then World Champion Magnus Carlsen as he played an almost perfect match against Vincent Keymer. Christopher Yoo's 3:0 victory over Awonder Liang was less convincing, with Awonder making two strange blunders in the first two games, but Christopher won in style with a brilliant third game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "https://aicf.in/asian-online-amateur-chess-championship-registration-details/",
          "pubDate" : "Sun, 10 Oct 2021 09:53:32 +0000",
          "title" : "Asian Online Amateur Chess Championship : Registration Details"
-      },
-      {
-         "description" : " I've recently reviewed, in another place, The Secret Ingredient, by Jan Markos and David Navara. One sentence by Markos really resonated with me. In real chess, the width of your calculation is usually much more important than its depth. There are exceptions, as he points out, especially in endings. In pawn endings, for example, you'll <a href=\"https://chessimprover.com/width-and-depth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Width and Depth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/width-and-depth/\">Width and Depth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/width-and-depth/",
-         "pubDate" : "Sun, 10 Oct 2021 06:30:43 +0000",
-         "title" : "Width and Depth"
       }
    ]
 }
