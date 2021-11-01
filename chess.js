@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">World Chess has released a limited edition tea set with a scattering of chess kings, and everyone on Instagram seems to be in love with it! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> It's known to the chess community that World Chess has a passion for design. From the logos, and the web design to the products, and international tournaments, there is always a design statement. This time we stepped into the territory of tea sets and developed a Chess tea set, made of porcelain. The set contains five items - a cup, saucer, teapot, sugar bowl, and creamer. On the thin white porcelain, there ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/everyone-is-going-crazy-for-this-tea-set/",
+         "pubDate" : "Mon, 01 Nov 2021 15:24:19 +0000",
+         "title" : "Everyone is going crazy for this tea set"
+      },
+      {
+         "description" : "The FIDE published its new rating list. Magnus Carlsen remains number one and is now the only player with 2800+. Fabiano Caruana lost a couple of points in the US Championship and is now below 2800 and the world's number three, behind Ding Liren. Hou Yifan does not play often but remains the world's best women. Best junior is Alireza Firouzja, best girl Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-rating-list-carlsen-is-the-only-2800-players",
+         "pubDate" : "Mon, 01 Nov 2021 16:04:05 +0100",
+         "title" : "The new rating list: Carlsen is the only 2800+ players"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Teams Championship</strong> is shifting <a href=\"https://www.fide.com/docs/regulations/WTC%202022%20-%20Regulations.pdf\">from classical to rapid chess</a> 45 minutes plus 10 seconds per move. The best four of each of two preliminary groups of six teams will qualify for the quarterfinals. <strong>FIDE</strong> is <a href=\"https://www.fide.com/news/1409\">calling bids for April 2022</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/world-teams-goes-rapid/",
+         "pubDate" : "Mon, 01 Nov 2021 14:03:11 +0100",
+         "title" : "World Teams goes rapid"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <em>Merim Bilalic</em>, <em>Roland Grabner</em> and <em>Nemanja Vaci</em> explain what chess development can teach about the development of skill and performance across lifetime and how you can benefit from participating in their <a href=\"https://chess-study.uni-graz.at/en/study-participation/\">new study</a>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/nino-juega-ajedrez.1920.jpeg\" title=\"How far you go in chess is neither determined by talent nor by study but how they work together. \" data-title=\"How far you go in chess is neither determined by talent nor by study but how they work toge",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/the-interplay-of-talent-and-practice/",
+         "pubDate" : "Mon, 01 Nov 2021 13:55:15 +0100",
+         "title" : "The interplay of talent and practice in chess"
+      },
+      {
+         "description" : " The Australian National Sound and Film Archives has retrieved a number of short documentaries about Australian cities, and have made then available on youtube. I posted one about Canberra a few years back, and today I cam across one about Sydney. It was made around 1964, and shows Sydney just as the high rise developments were getting started. Also included (at around the 8:30 mark), is a scene of outdoor chess, being played on council tables. I'm not sure where it was filmed (maybe Hyde Park), but it may contain faces familiar to older players. There are also a number of other interesting scenes, including some very non-ohs work practices on high rise construction sites. <div class=\"separa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/sydney-in-60s.html",
+         "pubDate" : "Mon, 01 Nov 2021 12:14:00 +0000",
+         "title" : "Sydney in the 60's"
+      },
+      {
+         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces. In the women's section, five players are sharing the lead going into round 6. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Mon, 01 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -70,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-lead-commentator",
-         "pubDate" : "Sun, 31 Oct 2021 19:47:39 -0700",
+         "pubDate" : "Sun, 31 Oct 2021 19:47:00 -0700",
          "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
       },
       {
@@ -498,7 +546,7 @@ news_feed (
          "title" : "Collegiate Chess League Round 5: Berkeley, Warsaw Undefeated"
       },
       {
-         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3-1.jpg\" width=\"960\" height=\"640\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Source: Abhijeet's Facebook</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times! ",
+         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3-1.jpg\" width=\"960\" height=\"640\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Source: Abhijeet's Facebook (Photo: Lennart Ootes)</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Ch",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/algorand-online-series-results-who-is-going-to-dubai-for-the-wor/",
@@ -618,14 +666,6 @@ news_feed (
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The enhanced <a href=\"https://lichess.org/analysis#explorer\"><strong>Opening Explorer</strong></a> tool lets you see how you have been scoring on <strong>Lichess</strong> with different opening moves, or prepare for a specific opponent based on their Lichess games. <a href=\"https://lichess.org/blog/YXMPxxMAACEAy3g4/announcing-the-personal-opening-explorer\">According to the announcement</a>, the innovation has been inspired by <strong><a href=\"https://www.openingtree.com/\">OpeningTree.com</a></strong>, another open source tool. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/lichess-publishes-opening-tool/",
-         "pubDate" : "Wed, 27 Oct 2021 08:46:46 +0100",
-         "title" : "Lichess publishes opening tool"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown has about twenty last minute cancelations, among them Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13 (14 on the <strong>live rating list</strong>). </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE Grand Swiss Tournament 2021</a></li> </ul> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -712,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pert-s-path-to-winning-the-british-otb-championship-2021",
          "pubDate" : "Tue, 26 Oct 2021 16:36:28 +0100",
          "title" : "Pert's path to winning the British OTB Championship 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Education Commission</strong> <a href=\"https://edu.fide.com/english-program/\">invites presentations</a> for an online conference on 20 and 21 November. The bilingual English and Spanish conference will deal with chess in preschool, in school and in university. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chess-in-education-online-conference/",
-         "pubDate" : "Tue, 26 Oct 2021 16:19:31 +0100",
-         "title" : "Chess in education online conference"
       },
       {
          "description" : " The FIDE Grand Swiss Tournament takes place Wed 27th Oct to Mon 8th Nov 2021 in Riga. The event was initially scheduled to take place on the Isle of Man and was later switch to Riga over concerns that the regulation might cause it's cancellation. As it is the event starts in Riga with a very high incidence of the disease and regulations affecting locals but not the players. Alexander Grischuk, Richard Rapport, Shakhriyar Mamedyarov, Hikaru Nakamura and Vidit Gujrathi are leading players who have decided they don't want to play. The top seeds are now Fabiano Caruana, Levon Aronian, Alireza Firouzja, MVL and Nikita Vitiugov. There is a similar women's event alongside - top seed Kateryna Lagno",
@@ -1458,14 +1490,6 @@ news_feed (
          "title" : "Rules shouldn't always be rules"
       },
       {
-         "description" : "Owing to staff leave during the half-term break, the office phones will only be manned between 0930 and 1330 Monday to Thursday next week (25th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/staff-leave-office-hours-25-10-29-10-21/",
-         "pubDate" : "Mon, 18 Oct 2021 11:35:46 +0000",
-         "title" : "Staff leave / office hours 25/10 - 29/10/21"
-      },
-      {
          "description" : "With three rounds to go in the Russian Superfinals, Nikita Vitiugov and Valentina Gunina are leading the tournament standings in the open and women's event respectively. Vitiugov climbed to first place after surviving a lost position against Kirill Alekseenko, while Gunina is undefeated with five wins in eight games so far in Ufa. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "US Championships: Naroditsky beats Caruana"
       },
       {
-         "description" : "Stefan Zweig's \"The Royal Game\" and Vladimir Nabokov's \"Lushin's Defence\" are the best-known novels about the destructive power chess can have. In \"Chess Fever\", a fine novel about youth, growing up, creativity and lots of chess, the English author Mark Ozanne describes the passion for the game in less sinister fashion, but much funnier and much closer to the mind of a chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-passion-mark-ozanne-s-novel-chess-fever",
-         "pubDate" : "Tue, 12 Oct 2021 13:00:00 +0100",
-         "title" : "Chess passion: Mark Ozanne's novel \"Chess Fever\""
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras My student shared with pride below end of the game. Do have a look at the line he chose to win it and form an opinion about it. Would you play the same or differently? The first move I questioned was 36 Rd4. It did not feel the <a href=\"https://chessimprover.com/quick-decisions-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-7/\">Quick Decisions (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1938,28 +1954,12 @@ news_feed (
          "title" : "ECU E-MAGAZINE SEPTEMBER 2021"
       },
       {
-         "description" : "After opening, middlegame and endgame comes the 4th phase of the game when both sides have queened. The main guideline in these positions is that the side with the safer king wins. In the diagram position Black might be able to queen his pawn but White will definitely queen first - and then will hunt Black's king. However, Black can still draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fourth-phase-of-the-game-2",
-         "pubDate" : "Tue, 12 Oct 2021 09:00:00 +0100",
-         "title" : "The fourth phase of the game"
-      },
-      {
          "description" : " Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
          "pubDate" : "Mon, 11 Oct 2021 23:46:32 +0000",
          "title" : "The Chess Drum on South African Twitch tomorrow!"
-      },
-      {
-         "description" : "There will not be a contested election for the post of Chief Executive ECF AGM on 16th October. After constructive discussions, Malcolm Pein and Mike...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/mike-truran-malcolm-pein-joint-election-statement-agm/",
-         "pubDate" : "Mon, 11 Oct 2021 14:15:41 +0000",
-         "title" : "Mike Truran / Malcolm Pein joint election statement AGM"
       }
    ]
 }
