@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.youtube.com/watch?v=wo7YpILetVc#new_tab",
+         "pubDate" : "Mon, 01 Nov 2021 10:17:57 +0000",
+         "title" : "Pert's path to winning the British Championship 2021"
+      },
+      {
+         "description" : "With an impressive finish Michal Krasenkov won the strong Sheik Russel tournament in Dhaka, Bangladesh, that ended 27 October. In the last three rounds the Russian-born Polish GM scored 3.0/3, which helped him to finish sole first with 7.0 out of 9. Six players followed half a point behind and shared second to seventh place. | Photo: Alina l'Ami (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michal-krasenkow-wins-sheikh-russel-tournament-in-bangladesh",
+         "pubDate" : "Mon, 01 Nov 2021 10:32:02 +0100",
+         "title" : "Michal Krasenkow wins Sheikh Russel tournament in Bangladesh"
+      },
+      {
+         "description" : "After four previous days of Blitzcoin Invitational, it was time for the final match. The top-seed GM Daniel Naroditsky faced another very dangerous and fast player, GM Awonder Liang, and went on to convincingly beat him to win the tournament and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-5-naroditsky-pockets-the-victory",
+         "pubDate" : "Mon, 01 Nov 2021 00:59:41 -0700",
+         "title" : "Blitzcoin Invitational Day 5: Naroditsky Pockets The Victory"
+      },
+      {
+         "description" : "You've seen the program create training positions automatically, but what if you wanted to create your own? This could be to show a student, show some friends, post online, and more. The tools are all there to generate your own hand-crafted test positions for tactics, strategy, and endgames, and it is useful tool to know. Read on to learn how!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-creating-training-positions",
+         "pubDate" : "Mon, 01 Nov 2021 08:51:03 +0100",
+         "title" : "Annotating in ChessBase: creating training positions"
+      },
+      {
+         "description" : "49-year-old Alexei Shirov and 44-year-old Evgeniy Najer caught Alireza Firouzja in Round 5 of the FIDE Chess.com Grand Swiss after the 18-year-old drew his game against Maxime Vachier-Lagrave. Alexei crashed through against Ivan Saric and will now play Firouzja in Round 6, while Najer defeated Robert Hovhannisyan. His opponent will be Fabiano Caruana, who made up for two missed win in a row by taking down David Howell. There are now five leaders in the women's event after Nino Batsiashvili, Zhu Jiner, Elisabeth Paehtz and Jolanta Zawadzka picked up wins.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-5-shirov-and-najer-catch-firouzja",
+         "pubDate" : "Mon, 01 Nov 2021 07:49:17 +0000",
+         "title" : "Grand Swiss 5: Shirov and Najer catch Firouzja"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87455368.cms\" />Indian star Dronavalli Harika drew her fifth round game against Natalija Pogonina to be placed joint second with three others on 3.5 points in the FIDE Grand Swiss chess tournament for women here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-draws-with-natalija-pogonina/articleshow/87455368.cms",
+         "pubDate" : "Mon, 01 Nov 2021 11:45:59 +0530",
+         "title" : "FIDE Grand Swiss: Harika draws with Pogonina"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> October 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1338,14 +1386,6 @@ news_feed (
          "title" : "US Chess Championships R11: Caruana, So, Sevian Advance To Tiebreaks"
       },
       {
-         "description" : "GM Alexey Sarana won the Super Swiss on Sunday. The 21-year-old grandmaster from Moscow earned $4,000 and qualified for the Main Event of the Chess.com Speed Chess Championship. Sarana won a 16-player knockout tournament on Sunday after beating ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexey-sarana-wins-2021-super-swiss",
-         "pubDate" : "Mon, 18 Oct 2021 11:40:00 -0700",
-         "title" : "Sarana Wins Super Swiss, Qualifies For Speed Chess Championship"
-      },
-      {
          "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1536,14 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-3",
          "pubDate" : "Sun, 17 Oct 2021 00:15:00 +0100",
          "title" : "Challengers Tour Finals: Pragg and Yoo make it through"
-      },
-      {
-         "description" : "Resilience is the ability to stand strong against adversity and bounce back from stressful or tragic life events... and it's a trademark of the two-time US chess champion Wesley So. Wesley was ranked number two in the world and a mainstay in the top ten... while his peak rating of 2822 FIDE made him the fifth highest rated player in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/resilience-wesley-so-us-champion",
-         "pubDate" : "Sat, 16 Oct 2021 16:51:27 +0000",
-         "title" : "The resilience of Wesley So: 2-time US Chess Champion"
       },
       {
          "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
@@ -1914,14 +1946,6 @@ news_feed (
          "title" : "The fourth phase of the game"
       },
       {
-         "description" : "After three rounds, the Superfinals in Russia have two sole leaders - Kirill Alekseenko in the open section, and Valentina Gunina in the women's tournament. Both of them have scored two wins and a draw so far in Ufa. Aleksandra Goryachkina, who is playing in the open event, drew Pavel Ponkratov, beat Alexander Motylev and was defeated by Alekseenko. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r3",
-         "pubDate" : "Tue, 12 Oct 2021 03:25:00 +0100",
-         "title" : "Superfinals: Alekseenko and Gunina in the lead"
-      },
-      {
          "description" : " Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1930,36 +1954,12 @@ news_feed (
          "title" : "The Chess Drum on South African Twitch tomorrow!"
       },
       {
-         "description" : "In the Endgame Magic Show #165 Karsten M&uuml;ller has a guest: Romain Edouard, Grandmaster, publisher, and former second of Veselin Topalov. Romain and Karsten discuss Romain's forthcoming ChessBase projects and look at endgame highlights from Romain's games. | Watch it on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-164-with-french-grandmaster-romain-edouard",
-         "pubDate" : "Mon, 11 Oct 2021 16:11:34 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic #165: With French Grandmaster Romain Edouard"
-      },
-      {
          "description" : "There will not be a contested election for the post of Chief Executive ECF AGM on 16th October. After constructive discussions, Malcolm Pein and Mike...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/mike-truran-malcolm-pein-joint-election-statement-agm/",
          "pubDate" : "Mon, 11 Oct 2021 14:15:41 +0000",
          "title" : "Mike Truran / Malcolm Pein joint election statement AGM"
-      },
-      {
-         "description" : " Even though it was from an online blitz game, this is still an impressive 'hack' by white to win in under 20 moves. It also shows the benefit of doing some extra opening preparation, as white analysed some of these lines in the days before this event. <b>Connor5566 (1823) - csrobins (1733) [C30]</b><br />ACTCA Monday Blitz - 11 Oct https://lichess.org/95mcOVOA, 11.10.2021 <script>new PgnViewer( { boardName: \"game1280\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d6 4.Nf3 Nc6 5.Bb5 Bg4 6.h3 Bxf3 7.Qxf3 Be7 8.d3 O-O 9.Bxc6 bxc6 10.g4 exf4 11.Bxf4 h6 12.h4 Nh7 13.g5 hxg5 14.hxg5 Bxg5 15.Qh5 Bh6 16.Bxh6 gxh6 17.Qxh6 Qg5 18.Qxh7# 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/the-hack-attack.html",
-         "pubDate" : "Mon, 11 Oct 2021 11:28:00 +0000",
-         "title" : "The Hack Attack"
-      },
-      {
-         "description" : "Click here for a PDF of the Appeal against the findings of the Regulation 5 Complaint's Panel relating to a complaint by Rob Willmoth against...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/appeal-findings-regulation-5-complaint-by-rob-willmoth-against-mike-truran/",
-         "pubDate" : "Mon, 11 Oct 2021 10:45:39 +0000",
-         "title" : "Appeal findings - Regulation 5 Complaint by Rob Willmoth against Mike Truran"
       }
    ]
 }
