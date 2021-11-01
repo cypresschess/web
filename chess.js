@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There&#39;s a five-way tie for first place at the FIDE Chess.com Grand Swiss going into the rest day. GM Maxime Vachier-Lagrave and GM Krishnan Sasikiran won their games and joined the leaders GM Evgeniy Najer, GM Alexei Shirov, and GM Alireza Firouzj...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-6",
+         "pubDate" : "Mon, 01 Nov 2021 13:59:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R6: MVL, Sasikiran Join Leaders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1410",
+         "pubDate" : "Mon, 01 Nov 2021 20:52:37 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 6 Recap"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <em>Merim Bilali&#263</em>, <em>Roland Grabner</em> and <em>Nemanja Vaci</em> explain what chess development can teach about the development of skill and performance across lifetime and how you can benefit from participating in their <a href=\"https://chess-study.uni-graz.at/en/study-participation/\">new study</a>. </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/nino-juega-ajedrez.1920.jpeg\" title=\"How far you go in chess is neither determined by talent nor by study but how they work together. \" data-title=\"How far you go in chess is neither determined by talent nor by study but how they w",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/the-interplay-of-talent-and-practice/",
+         "pubDate" : "Mon, 01 Nov 2021 21:24:44 +0100",
+         "title" : "The interplay of talent and practice in chess"
+      },
+      {
          "description" : "Pawn races are often fun because every tempo counts and such pawn races can often turn into a mating attack when the pawn queens. In the Endgame Magic Show #168 Karsten and Arne look at some recent examples of entertaining pawn races. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic #168: Pawn races"
       },
       {
-         "description" : " <p class=\"lead\">World Chess has released a limited edition tea set with a scattering of chess kings, and everyone on Instagram seems to be in love with it! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> It's known to the chess community that World Chess has a passion for design. From the logos, and the web design to the products, and international tournaments, there is always a design statement. This time we stepped into the territory of tea sets and developed a Chess tea set, made of porcelain. The set contains five items - a cup, saucer, teapot, sugar bowl, and creamer. On the thin white porcelain, there ",
+         "description" : " <p class=\"lead\">World Chess has issued a limited edition tea set with pixelated chess kings (and some gold), and everyone on Instagram seems to like it. After all, what's not to like? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> From the outset, World Chess has been on the mission to make chess beatiful again, starting with the design of the playing venues to the chess events logos and merchandise. This time, we stepped into the unchartered territory of tea sets and designed and produced a chess tea set, made of porcelain. The set contains five items - a cup, saucer, teapot, sugar bowl, and creamer. On th",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/everyone-is-going-crazy-for-this-tea-set/",
          "pubDate" : "Mon, 01 Nov 2021 15:24:19 +0000",
-         "title" : "Everyone is going crazy for this tea set"
+         "title" : "Tea Set That the Chess Players Deserve"
       },
       {
          "description" : "The FIDE published its new rating list. Magnus Carlsen remains number one and is now the only player with 2800+. Fabiano Caruana lost a couple of points in the US Championship and is now below 2800 and the world's number three, behind Ding Liren. Hou Yifan does not play often but remains the world's best women. Best junior is Alireza Firouzja, best girl Polina Shuvalova.",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/world-teams-goes-rapid/",
          "pubDate" : "Mon, 01 Nov 2021 14:03:11 +0100",
          "title" : "World Teams goes rapid"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <em>Merim Bilalic</em>, <em>Roland Grabner</em> and <em>Nemanja Vaci</em> explain what chess development can teach about the development of skill and performance across lifetime and how you can benefit from participating in their <a href=\"https://chess-study.uni-graz.at/en/study-participation/\">new study</a>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/nino-juega-ajedrez.1920.jpeg\" title=\"How far you go in chess is neither determined by talent nor by study but how they work together. \" data-title=\"How far you go in chess is neither determined by talent nor by study but how they work toge",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/the-interplay-of-talent-and-practice/",
-         "pubDate" : "Mon, 01 Nov 2021 13:55:15 +0100",
-         "title" : "The interplay of talent and practice in chess"
       },
       {
          "description" : " The Australian National Sound and Film Archives has retrieved a number of short documentaries about Australian cities, and have made then available on youtube. I posted one about Canberra a few years back, and today I cam across one about Sydney. It was made around 1964, and shows Sydney just as the high rise developments were getting started. Also included (at around the 8:30 mark), is a scene of outdoor chess, being played on council tables. I'm not sure where it was filmed (maybe Hyde Park), but it may contain faces familiar to older players. There are also a number of other interesting scenes, including some very non-ohs work practices on high rise construction sites. <div class=\"separa",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
          "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
          "title" : "Chicago, Chess, Girl Power and McDonald's"
-      },
-      {
-         "description" : "In round 11 of the 2021 U.S. Chess Championship, all three leaders drew their games which resulted in a three-way tie for first place among GMs Fabiano Caruana, Wesley So, and Sam Sevian. They all finished with 6.5/11 and will play a rapid playoff...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-us-chess-championships-round-11",
-         "pubDate" : "Mon, 18 Oct 2021 17:18:00 -0700",
-         "title" : "US Chess Championships R11: Caruana, So, Sevian Advance To Tiebreaks"
       },
       {
          "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
