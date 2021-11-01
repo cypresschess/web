@@ -10,14 +10,6 @@ news_feed (
          "title" : "October 2021 Chess Puzzle Answer Key "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-chess-puzzle-answer-key",
-         "pubDate" : "Mon, 01 Nov 2021 05:00:00 +0000",
-         "title" : "2021 Chess Puzzle Answer Key "
-      },
-      {
          "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces on Sunday. In the women's section, five players are sharing the lead going into round 6. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
