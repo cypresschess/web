@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn races are often fun because every tempo counts and such pawn races can often turn into a mating attack when the pawn queens. In the Endgame Magic Show #168 Karsten and Arne look at some recent examples of entertaining pawn races. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-168-pawn-races",
+         "pubDate" : "Mon, 01 Nov 2021 17:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic #168: Pawn races"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess has released a limited edition tea set with a scattering of chess kings, and everyone on Instagram seems to be in love with it! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> It's known to the chess community that World Chess has a passion for design. From the logos, and the web design to the products, and international tournaments, there is always a design statement. This time we stepped into the territory of tea sets and developed a Chess tea set, made of porcelain. The set contains five items - a cup, saucer, teapot, sugar bowl, and creamer. On the thin white porcelain, there ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-new-rating-list-carlsen-is-the-only-2800-players",
          "pubDate" : "Mon, 01 Nov 2021 16:04:05 +0100",
-         "title" : "The new rating list: Carlsen is the only 2800+ players"
+         "title" : "The new rating list: Carlsen is the only 2800+ player"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Teams Championship</strong> is shifting <a href=\"https://www.fide.com/docs/regulations/WTC%202022%20-%20Regulations.pdf\">from classical to rapid chess</a> 45 minutes plus 10 seconds per move. The best four of each of two preliminary groups of six teams will qualify for the quarterfinals. <strong>FIDE</strong> is <a href=\"https://www.fide.com/news/1409\">calling bids for April 2022</a>. </div> ",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "Grand Swiss: Shirov and Najer join Firouzja in the lead"
       },
       {
-         "description" : "We are excited to announce that GM Daniel Naroditsky has officially signed on as Chess.com&#39;s lead commentator! You will now enjoy Danya&#39;s insightful and well-humored commentary on most of the chess events we cover, starting on November 12 with the...",
+         "description" : "We are excited to announce that GM Daniel Naroditsky has officially signed on as Chess.com&#39;s lead commentator! You will now enjoy Danya&#39;s insightful and well-humored commentary on most of the chess events we cover, starting on November 8 with the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-lead-commentator",
@@ -218,7 +226,7 @@ news_feed (
          "title" : "FIDE Grand Swiss: Harikrishna posts win, Harika held to draw in round 4"
       },
       {
-         "description" : " <p class=\"lead\">There are 109 players in FIDE Chess.com Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by <a href=\"https://www.flickr.com/photos/fide/51637733132/\">FIDE</",
+         "description" : " <p class=\"lead\">There are 109 players in FIDE Chess.com Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by Mark Livshitz <a href=\"https://www.flickr.com/photos/fide/516377",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
@@ -546,7 +554,7 @@ news_feed (
          "title" : "Collegiate Chess League Round 5: Berkeley, Warsaw Undefeated"
       },
       {
-         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3-1.jpg\" width=\"960\" height=\"640\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Source: Abhijeet's Facebook (Photo: Lennart Ootes)</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Ch",
+         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/873003.jpg\" width=\"1640\" height=\"1093\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Photo: Ã“mar Ã“skarsson</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times!",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/algorand-online-series-results-who-is-going-to-dubai-for-the-wor/",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1380",
          "pubDate" : "Tue, 12 Oct 2021 14:17:02 +0000",
          "title" : "International Children and Youth Online Festival «ChessYes »: registration continues"
-      },
-      {
-         "description" : "Rating favourite Fabiano Caruana was defeated by Daniel Naroditzky in round 5 of the US Championships and is currently a full point behind the co-leaders. Ray Robson drew to remain atop the standings, except he now shares first place with Alex Lenderman, who showed great tenacity to beat Sam Sevian after 140 moves. Katerina Nemcova is the sole leader in the women's event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r5",
-         "pubDate" : "Tue, 12 Oct 2021 14:10:00 +0100",
-         "title" : "US Championships: Naroditsky beats Caruana"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras My student shared with pride below end of the game. Do have a look at the line he chose to win it and form an opinion about it. Would you play the same or differently? The first move I questioned was 36 Rd4. It did not feel the <a href=\"https://chessimprover.com/quick-decisions-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-7/\">Quick Decisions (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
