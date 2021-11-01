@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Albert Chow (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 years [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "We are excited to announce that GM Daniel Naroditsky has officially signed on as Chess.com&#39;s lead commentator! You will now enjoy Danya&#39;s insightful and well-humored commentary on most of the chess events we cover, starting on November 12 with the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-lead-commentator",
+         "pubDate" : "Sun, 31 Oct 2021 19:47:39 -0700",
+         "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
+      },
+      {
+         "description" : " Share! FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
          "pubDate" : "Mon, 01 Nov 2021 00:07:29 +0000",
          "title" : "Chicago chess legend FM Albert Chow dies"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1409",
+         "pubDate" : "Sun, 31 Oct 2021 22:18:42 +0000",
+         "title" : "World Team Championship 2022 - Call for bids"
       },
       {
          "description" : "",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-166-endgame-highlights-from-the-finals-of-the-champions-chess-tour",
          "pubDate" : "Mon, 18 Oct 2021 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic #166: Endgame highlights from the finals of the Champions Chess Tour"
-      },
-      {
-         "description" : "The Pivotal Pawns won the first edition of the Chess Super League on Sunday. The Kingslayers were beaten in one single armageddon game after both teams had won one match with the same 3.5-2.5 score. GM Zhansaya Abdumalik became the star for the Pa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pivotal-pawns-win-2021-chess-super-league",
-         "pubDate" : "Mon, 18 Oct 2021 09:03:00 -0700",
-         "title" : "Pivotal Pawns Win 2021 Chess Super League"
       },
       {
          "description" : "At the FIDE World Cup 2021 Magnus Carlsen surprised his opponent Vladimir Fedoseev in the Caro-Kann Advance Variation (1.e4 c6 2.d4 d5 3.e5 Bf5) with the move 4.c4. Jan Werle analyses this brilliant game in ChessBase Magazine Extra #203 in a video and pays special attention to the opening. Is Carlsen's idea a good attacking weapon against the Caro-Kann? Take a look at an excerpt from Werle's video analysis!",
