@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> October 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/october-2021-chess-puzzle-answer-key",
+         "pubDate" : "Mon, 01 Nov 2021 05:00:00 +0000",
+         "title" : "October 2021 Chess Puzzle Answer Key "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-chess-puzzle-answer-key",
+         "pubDate" : "Mon, 01 Nov 2021 05:00:00 +0000",
+         "title" : "2021 Chess Puzzle Answer Key "
+      },
+      {
+         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces on Sunday. In the women's section, five players are sharing the lead going into round 6. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r5",
+         "pubDate" : "Mon, 01 Nov 2021 04:10:00 +0100",
+         "title" : "Grand Swiss: Shirov and Najer join Firouzja in the lead"
+      },
+      {
          "description" : "We are excited to announce that GM Daniel Naroditsky has officially signed on as Chess.com&#39;s lead commentator! You will now enjoy Danya&#39;s insightful and well-humored commentary on most of the chess events we cover, starting on November 12 with the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-learners-brilliancy/",
          "pubDate" : "Sun, 31 Oct 2021 13:14:30 +0000",
          "title" : "A Learner's Brilliancy"
-      },
-      {
-         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces. In the women's section, five players are sharing the lead going into round 6. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Sun, 31 Oct 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 5"
       },
       {
          "description" : "",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "Principle of Two Weaknesses | Insane in the Endgame - GM Alex Lenderman"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class using content from her new book. 2021.10.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/unbalance-your-opponent-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/934oWpjFV-E.jpg?itok=kPLBJLWz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/unbalance-your-opponent-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 26 Oct 2021 00:26:18 +0000",
-         "title" : "Unbalance Your Opponent! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1394",
          "pubDate" : "Fri, 22 Oct 2021 19:46:47 +0000",
          "title" : "Rhodes hosts Olympiad for Blind and Visually Impaired and IBCA Congress"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman shows examples of unconventional creative moves. Disturb harmony! Use the concept of zugzwang! Alex believes that automatic moves could have cost him the 2021 U.S. Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/no-automatic-moves-find-creative-moves-grandmasters-choice-gm-alex-lenderman",
-         "pubDate" : "Fri, 22 Oct 2021 18:22:36 +0000",
-         "title" : "No Automatic Moves; Find Creative Moves! | Grandmaster's Choice - GM Alex Lenderman"
       },
       {
          "description" : "In this week's show, GM Daniel King, looks at tactical positions from the recent Bundesliga rounds. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
