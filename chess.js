@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Albert Chow (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 years [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
+         "pubDate" : "Mon, 01 Nov 2021 00:07:29 +0000",
+         "title" : "Chicago chess legend FM Albert Chow dies"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1010,7 +1018,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
       },
       {
-         "description" : " Share!136Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
