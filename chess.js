@@ -66,12 +66,12 @@ news_feed (
          "title" : "Sydney in the 60's"
       },
       {
-         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces. In the women's section, five players are sharing the lead going into round 6. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
+         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran joining the leading pack by scoring wins on Monday. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Mon, 01 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 6"
       },
       {
          "description" : "",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-2021/",
          "pubDate" : "Tue, 12 Oct 2021 09:27:17 +0000",
          "title" : "ECU E-MAGAZINE SEPTEMBER 2021"
-      },
-      {
-         "description" : " Tomorrow The Chess Drum's Daaim Shabazz will be on a show called &#8220;Reflections&#8221; hosted by Lyndon Bouah, a long-time chess advocate for South Africa. The two met 2004 at the Chess Olympiad in Calvia, Spain. Dr. Lyndon Bouah with &#8220;Reflection on Chess in the Rainbow Nation.&#8221; Photo courtesy of Lyndon Bouah. Bouah is considered to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/\">The Chess Drum on South African Twitch tomorrow!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/10/11/the-chess-drum-on-south-african-twitch-tomorrow/",
-         "pubDate" : "Mon, 11 Oct 2021 23:46:32 +0000",
-         "title" : "The Chess Drum on South African Twitch tomorrow!"
       }
    ]
 }
