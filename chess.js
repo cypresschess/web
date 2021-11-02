@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1411",
+         "pubDate" : "Tue, 02 Nov 2021 13:38:30 +0000",
+         "title" : "November rating list: Vachier-Lagrave returns to top-10"
+      },
+      {
+         "description" : "The ECF office will be starting a move on Friday 5/11/21 to smaller premises now that the Chess Library has moved to Leicester. As a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-office-closed-on-friday/",
+         "pubDate" : "Tue, 02 Nov 2021 13:29:41 +0000",
+         "title" : "ECF office closed on Friday"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg\" data-image-dimensions=\"2048x1365\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618136afea0fdf35f5d4a476\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg?format=1000w\" /> </figure> <p class=\"\">FM Asa Hoffman with his wife Virginia at the Marshall Chess Club <p class=\"\">This week FM Asa Hoffman joins us for an interesting talk. Asa is an author, speed chess specialist, and ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/2/episode-250-fm-asa-hoffman",
+         "pubDate" : "Tue, 02 Nov 2021 13:07:20 +0000",
+         "title" : "Episode 250- FM Asa Hoffman "
+      },
+      {
+         "description" : "It&#39;s time for another Speed Chess Championship Main Event, which means it&#39;s also time for another Speed Chess Championship Bracket Contest! The Main Event kicks off Monday, November 8, with one of the hardest matches to predict, the contest betw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-bracket-contest",
+         "pubDate" : "Tue, 02 Nov 2021 06:00:00 -0700",
+         "title" : "2021 Speed Chess Championship Bracket Contest"
+      },
+      {
+         "description" : " Face to face chess is back in Canberra, and tonight was the first week back for the Gungahlin Chess Club. There was a healthy turnout of 20 players, and I assume that this number will grow during the rest of the year. The last game to finish was a tricky king and pawn ending that had me fooled as a spectator. At first glance it seemed that White was clearly winning (due to an outside passed pawn), and when Black managed to draw the position, my first thought was that White went wrong somewhere. But when I fed it into Fritz, it turned out that the position was drawn all along. I thought White could gain a tempo somewhere, but not matter what he did, Black was able to trap the White king on t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/this-one-fooled-me.html",
+         "pubDate" : "Tue, 02 Nov 2021 12:23:00 +0000",
+         "title" : "This one fooled me"
+      },
+      {
+         "description" : "Alireza Firouzja let Alexei Shirov escape while Evgeniy Najer stumbled into a 3-fold repetition against Fabiano Caruana as none of the leaders won in Round 6 of the FIDE Chess.com Grand Swiss. That allowed Maxime Vachier-Lagrave to join them on 4.5/6 by continuing to win with White and draw with Black, while Krishnan Sasikiran also seized the chance by beating Alexandr Predke. Lei Tingjie regained the sole lead on 5/6 in the women's event by defeating Jolanta Zawadzka.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-6-mvl-sasikiran-catch-the-leaders",
+         "pubDate" : "Tue, 02 Nov 2021 11:56:26 +0000",
+         "title" : "Grand Swiss 6: MVL & Sasikiran catch the leaders"
+      },
+      {
+         "description" : "Patrick Bet-David, CEO of Valuetainment, sits down with Garry Kasparov, in what was easily one of the best interviews by the former world champion in years. He candidly discusses topics such as chess today compared to his day, AI and why it is not the boogeyman, politics, Putin, the US, and truth. \"I'm not a politician, I'm not running for office; I won't waffle, I won't duck.\" And he didn't.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-discusses-chess-ai-business-strategy-politics-and-truth",
+         "pubDate" : "Tue, 02 Nov 2021 12:45:00 +0100",
+         "title" : "Garry Kasparov discusses chess, AI, business strategy, politics, and truth"
+      },
+      {
          "description" : "One highlight of each issue of the ChessBase Magazine is \"The Analysis\", a deeply analysed, particularly interesting game, selected from the many annotated and interesting games in every issue. Not an easy task - just take a look at the list of authors who contributed analyses to CBM #204: Anton Demchenko, Romain Edouard, Viktor Erdos, Alireza Firouzja, Daniel Fridman, Anish Giri, Nils Grandelius, Niclas Huschenbeth, Maxime Lagarde, David Navara, Peter Heine Nielsen, Alexey Sarana, Ivan Saric, Hedinn Steingrimsson, Rasmus Svane and Vidit! This time, the game Mamedov-Lagarde from the European Individual Championship 2021, was chosen. Take a look at the diagram position after 14...Ke6, and you",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -266,7 +322,7 @@ news_feed (
          "title" : "FIDE Grand Swiss: Harikrishna posts win, Harika held to draw in round 4"
       },
       {
-         "description" : " <p class=\"lead\">There are 109 players in FIDE Chess.com Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by Mark Livshitz <a href=\"https://www.flickr.com/photos/fide/516377",
+         "description" : " <p class=\"lead\">There are 109 players in FIDE Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by Mark Livshitz <a href=\"https://www.flickr.com/photos/fide/51637733132/\">FI",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
@@ -1354,14 +1410,6 @@ news_feed (
          "title" : "Wesley So and Carissa Yip clinch U.S. Championship titles"
       },
       {
-         "description" : "GM Wesley So won the playoff tiebreaks and is the 2021 U.S. Chess Champion. After 11 rounds of play in the 2021 U.S. Chess Championship, three GMs shared first place: So, Fabiano Caruana,&#38;nbsp;and Sam Sevian. These three played a rapid playoff to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-2021-us-chess-championship",
-         "pubDate" : "Tue, 19 Oct 2021 14:12:00 -0700",
-         "title" : "Wesley So Wins 2021 US Chess Championship"
-      },
-      {
          "description" : "Fabiano Caruana, Wesley So and Sam Sevian finished the 2021 US Championship sharing first place on 6&frac12;/11 points. A rapid round robin tournament (10 minutes plus 2-second increments) will decide the winner. In case of a tie, blitz and Armageddon will follow. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1616,14 +1664,6 @@ news_feed (
          "link" : "https://chessimprover.com/wrong-opening-books/",
          "pubDate" : "Sun, 17 Oct 2021 10:50:17 +0000",
          "title" : "Wrong Opening Books"
-      },
-      {
-         "description" : "Praggnanandhaa and Christopher Yoo both needed just three games to reach the final of the Julius Baer Champions Chess Tour. Praggnanandhaa had Vladimir Kramnik comparing him to Hikaru Nakamura and then World Champion Magnus Carlsen as he played an almost perfect match against Vincent Keymer. Christopher Yoo's 3:0 victory over Awonder Liang was less convincing, with Awonder making two strange blunders in the first two games, but Christopher won in style with a brilliant third game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/praggnanandhaa-and-yoo-storm-into-final",
-         "pubDate" : "Sun, 17 Oct 2021 08:47:23 +0000",
-         "title" : "Praggnanandhaa and Yoo storm into final"
       },
       {
          "description" : "The European Youth&#38;Junior Hybrid Chess Championships 2021 kicked off on Friday, 15th of October. ECU President, Mr. Zurab Azmaiparashvili sent a welcome message for the 900 players, coming from 32 European federations. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately, through Tornelo playing platform, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/\">Read More &#187;</a></span>",
@@ -1888,14 +1928,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-divya-deshmukh-latest-woman-grandmaster-of-india/",
          "pubDate" : "Wed, 13 Oct 2021 14:14:11 +0000",
          "title" : "Congratulations Divya Deshmukh, latest Woman Grandmaster of India"
-      },
-      {
-         "description" : "After drawing their direct encounter, Aleksandr Lenderman and Ray Robson remain in the shared lead of the US Championship. Meanwhile, Fabiano Caruana lost a second game in a row, this time against Sam Sevian. In the women's event, Katerina Nemcova is now sharing the lead with Carissa Yip and Ashritha Eswaran. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r6",
-         "pubDate" : "Wed, 13 Oct 2021 13:15:00 +0100",
-         "title" : "US Championships: Time pressure"
       },
       {
          "description" : " The German Bundesliga was due to place 23rd November 2019 to 2nd May 2020. The Coronavirus caused havoc and although a limited final event took place in 2020 the league season will now be completed in Berlin 13th to 17th October. There is a single round 13 match on the 13th - Rounds 9 and 10 on the 14th, Rounds 11 and 12 on the 15th, Round 13 and 14 on the 16th and the final round 15 on the 17th of October.",
