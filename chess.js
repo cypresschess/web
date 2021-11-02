@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r6",
+         "pubDate" : "Tue, 02 Nov 2021 06:25:00 +0100",
+         "title" : "Grand Swiss: MVL and Sasikiran win, join the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87479630.cms\" />Indian Grandmaster K Sasikiran defeated Alexandr Predke of Russia in the sixth round of the open event at the FIDE Grand Swiss chess tournament to grab a share of the lead with four others.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tourney-indian-gm-sasikiran-among-leaders-after-sixth-round/articleshow/87479630.cms",
+         "pubDate" : "Tue, 02 Nov 2021 10:34:17 +0530",
+         "title" : "FIDE Grand Swiss : K Sasikiran among leaders after sixth round"
+      },
+      {
          "description" : "There&#39;s a five-way tie for first place at the FIDE Chess.com Grand Swiss going into the rest day. GM Maxime Vachier-Lagrave and GM Krishnan Sasikiran won their games and joined the leaders GM Evgeniy Najer, GM Alexei Shirov, and GM Alireza Firouzj...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/sydney-in-60s.html",
          "pubDate" : "Mon, 01 Nov 2021 12:14:00 +0000",
          "title" : "Sydney in the 60's"
-      },
-      {
-         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran joining the leading pack by scoring wins on Monday. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Mon, 01 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 6"
       },
       {
          "description" : "",
