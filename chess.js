@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgame specialist Kasten M&uuml;ller continues to find instructive examples from the FIDE Chess.com Grand Swiss. The players are having a rest on Tuesday, so it is a good opportunity to find answers to a few technical questions: when to exchange down into a winning pawn endgame, how to defend with a bishop against a rook or how to handle an ending with bishops of opposite colours. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/technique-matters-endgames-from-riga",
+         "pubDate" : "Tue, 02 Nov 2021 20:00:00 +0100",
+         "title" : "When technique matters - Endgame analyses from Riga"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-11",
+         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
+         "title" : "2021 U.S. Chess Championships: Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Garry Kasparov's plan to take down the Queen's Gambit Declined. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-kasparov-destroys-queens-gambit-declined-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-kasparov-destroys-queens-gambit-declined-road-2000-nm-caleb-denby",
+         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
+         "title" : "How Kasparov Destroys a Queen's Gambit Declined | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a Fall league champion! The four top scoring teams meet in-person at the Club for a round robin finale. Join NM Caleb Denby for the move-by-move. 2021.11.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-fall-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CVCvoxMjEMA.jpg?itok=SfrlVhla\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-fall-championship",
+         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Fall Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.11.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman",
+         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
+         "title" : "Transition into Pawn Endgames | Insane in the Endgame - GM Alex Lenderman"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1412",
+         "pubDate" : "Tue, 02 Nov 2021 16:29:53 +0000",
+         "title" : "FIDE Online Cadets & Youth Rapid Grand Prix Series gets underway"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -714,14 +762,6 @@ news_feed (
          "title" : "Blitzcoin Invitational Day 1: Naroditsky, Jacobson, Shetty, Tang Win"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class using content from her new book, \"Your Jungle Guide to Unbalancing Your Opponents.\" BUY THE BOOK: <a href=\"https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-your-opponents/\">https://thinkerspublishing.com/product/your-jungle-guide-to-unbalancing-...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-chase-pawns-early-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-chase-pawns-early-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 28 Oct 2021 00:29:07 +0000",
-         "title" : "Don't Chase Pawns Early! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,22 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-a-fine-victory-by-vitiugov",
          "pubDate" : "Wed, 27 Oct 2021 06:00:00 +0100",
          "title" : "The Weekly Show: A fine victory by Vitiugov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Garry Kasparov's plan to take down the Queen's Gambit Declined. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 27 Oct 2021 03:28:02 +0000",
-         "title" : "Kasparov's Plan Against the QGD | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparovs-plan-against-qgd-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 27 Oct 2021 00:27:36 +0000",
-         "title" : "Kasparov's Plan Against the QGD | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "",
@@ -960,14 +984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-preview",
          "pubDate" : "Tue, 26 Oct 2021 04:20:00 +0100",
          "title" : "Top GMs to fight for Candidates spots at Grand Swiss in Riga"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman explains the concept of creating multiple weaknesses within your opponent's ranks. In the endgame, the opponent can recover from a single weakness, so make more. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XyjohMzvmUo.jpg?itok=_ZdEIG1z\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/principle-two-weaknesses-insane-endgame-gm-alex-lenderman",
-         "pubDate" : "Tue, 26 Oct 2021 00:26:18 +0000",
-         "title" : "Principle of Two Weaknesses | Insane in the Endgame - GM Alex Lenderman"
       },
       {
          "description" : "",
@@ -1914,14 +1930,6 @@ news_feed (
          "title" : "Divya Deshmukh becomes India's latest Woman Grand Master"
       },
       {
-         "description" : "This week, Merijn van Delft shows a theoretically interesting game from the US Championship, in which Daniel Naroditsky tried the Dragon with Black against Darius Swiercz but soon had to defend an unpleasant endgame. It was a game that makes you wonder whether the Dragon is still playable. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-484-fighting-the-dragon",
-         "pubDate" : "Wed, 13 Oct 2021 17:00:00 +0100",
-         "title" : "Game of the Week 484: Fighting the Dragon"
-      },
-      {
          "description" : "Nagpur teenager Divya Deshmukh becomes the latest Woman Grandmaster of the country after achieving her second International Master Norm (Final WGM Norm) at First Saturday",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1952,22 +1960,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/enpas-mate.html",
          "pubDate" : "Wed, 13 Oct 2021 10:20:00 +0000",
          "title" : "Enpas mate"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86971474.cms\" />The 19-year-old Iniyan, with an Elo rating of 2529, finished equal on seven points with GMs Andrey Sumets (Ukraine) and Rodrigo Vasquez Schroeder (Chile) but the Indian won the event on the basis of a better tie-break score.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-wins-la-nucia-open-chess-tourney-in-spain/articleshow/86971474.cms",
-         "pubDate" : "Tue, 12 Oct 2021 21:46:12 +0530",
-         "title" : "Indian GM Iniyan wins La Nucia Open chess tourney in Spain"
-      },
-      {
-         "description" : "Organized by Dresdner Schachfestival E.V. under the auspices of FIDE from 4th-14th November 2021 in Dresden, Germany. The fourth edition of the event is expected...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/4th-fide-world-chess-championship-for-people-with-disabilities/",
-         "pubDate" : "Tue, 12 Oct 2021 15:51:28 +0000",
-         "title" : "4th FIDE World Chess Championship for People with Disabilities"
       }
    ]
 }
