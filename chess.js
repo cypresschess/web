@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220; Weak points still more, however, strong points in brief, all the points that we can be grouped together under the collective concept &#8220;strategically important points&#8221;, must be over-protected&#8221; A Nimzowitsch, My System The above quote summarizes the idea of &#8220;prophylaxis to the inside&#8221; as described by Nimzowitsch. This covers anything that we <a href=\"https://chessimprover.com/prophylaxis/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Prophylaxis\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/prophylaxis/\">Prophylaxis</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/prophylaxis/",
+         "pubDate" : "Tue, 02 Nov 2021 20:21:38 +0000",
+         "title" : "Prophylaxis"
+      },
+      {
          "description" : "Endgame specialist Kasten M&uuml;ller continues to find instructive examples from the FIDE Chess.com Grand Swiss. The players are having a rest on Tuesday, so it is a good opportunity to find answers to a few technical questions: when to exchange down into a winning pawn endgame, how to defend with a bishop against a rook or how to handle an ending with bishops of opposite colours. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -71,7 +79,7 @@ news_feed (
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/2/episode-250-fm-asa-hoffman",
          "pubDate" : "Tue, 02 Nov 2021 13:07:20 +0000",
-         "title" : "Episode 250- FM Asa Hoffman "
+         "title" : "Episode 250- FM Asa Hoffmann"
       },
       {
          "description" : "It&#39;s time for another Speed Chess Championship Main Event, which means it&#39;s also time for another Speed Chess Championship Bracket Contest! The Main Event kicks off Monday, November 8, with one of the hardest matches to predict, the contest betw...",
@@ -274,7 +282,7 @@ news_feed (
          "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
       },
       {
-         "description" : " Share! FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!132 FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
