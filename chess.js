@@ -1968,22 +1968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/4th-fide-world-chess-championship-for-people-with-disabilities/",
          "pubDate" : "Tue, 12 Oct 2021 15:51:28 +0000",
          "title" : "4th FIDE World Chess Championship for People with Disabilities"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg\" data-image-dimensions=\"400x533\" data-image-focal-point=\"0.5,0.5\" alt=\"Michael.jpg\" data-load=\"false\" data-image-id=\"616597a8e5a5a013efa22d82\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634047912752-141PS6L9YEFXY83G7MKI/Michael.jpg?format=1000w\" /> </figure> <p class=\"\"><br><br><br> <p class=\"\">Michael Ross Franco is a 28 year old Applied Mathematics Ph.D. student at UC Berkeley who is also an accomplished chess improver. As Michael tel",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/12/episode-247-michael-franco",
-         "pubDate" : "Tue, 12 Oct 2021 14:21:30 +0000",
-         "title" : "Episode 247- Michael Franco (Adult Improver Series) "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1380",
-         "pubDate" : "Tue, 12 Oct 2021 14:17:02 +0000",
-         "title" : "International Children and Youth Online Festival «ChessYes »: registration continues"
       }
    ]
 }
