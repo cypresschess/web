@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One highlight of each issue of the ChessBase Magazine is \"The Analysis\", a deeply analysed, particularly interesting game, selected from the many annotated and interesting games in every issue. Not an easy task - just take a look at the list of authors who contributed analyses to CBM #204: Anton Demchenko, Romain Edouard, Viktor Erdos, Alireza Firouzja, Daniel Fridman, Anish Giri, Nils Grandelius, Niclas Huschenbeth, Maxime Lagarde, David Navara, Peter Heine Nielsen, Alexey Sarana, Ivan Saric, Hedinn Steingrimsson, Rasmus Svane and Vidit! This time, the game Mamedov-Lagarde from the European Individual Championship 2021, was chosen. Take a look at the diagram position after 14...Ke6, and you",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-crazy-position",
+         "pubDate" : "Tue, 02 Nov 2021 11:00:00 +0100",
+         "title" : "A crazy position!"
+      },
+      {
+         "description" : "Pawn endings are often tricky and must be calculated carefully. In the diagram position it is Black to move and he can win with precise play. How should he proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-right-way",
+         "pubDate" : "Tue, 02 Nov 2021 09:00:00 +0100",
+         "title" : "The right way"
+      },
+      {
          "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1906,22 +1922,6 @@ news_feed (
          "title" : "Enpas mate"
       },
       {
-         "description" : "Most players look at endgame study as a necessary evil, akin to taking a very bitter medicine, that may yield results, but is boring. However, what if your study of endgames was punctuated at every corner and turn by fireworks and wondrous moves? This can be achieved, at least partially, thanks to the Studies app from ChessBase Account, making your study of endgames much more fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-studies-app-fun-beauty-and-wonder-with-video",
-         "pubDate" : "Wed, 13 Oct 2021 08:35:15 +0100",
-         "title" : "Endgame Studies app - fun, beauty, and wonder (with video!)"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the US Championships, looking a close look at the game J. Xiong vs S. Shankland, a brilliant bounceback performance from Xiong who had a horrid start to the tournament. Lawrence will also discuss the Russian Superfinals. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-2",
-         "pubDate" : "Tue, 12 Oct 2021 23:00:00 +0100",
-         "title" : "The Weekly Show: A brilliant bounceback performance"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86971474.cms\" />The 19-year-old Iniyan, with an Elo rating of 2529, finished equal on seven points with GMs Andrey Sumets (Ukraine) and Rodrigo Vasquez Schroeder (Chile) but the Indian won the event on the basis of a better tie-break score.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1952,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1380",
          "pubDate" : "Tue, 12 Oct 2021 14:17:02 +0000",
          "title" : "International Children and Youth Online Festival «ChessYes »: registration continues"
-      },
-      {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras My student shared with pride below end of the game. Do have a look at the line he chose to win it and form an opinion about it. Would you play the same or differently? The first move I questioned was 36 Rd4. It did not feel the <a href=\"https://chessimprover.com/quick-decisions-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-7/\">Quick Decisions (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-7/",
-         "pubDate" : "Tue, 12 Oct 2021 10:20:21 +0000",
-         "title" : "Quick Decisions (7)"
-      },
-      {
-         "description" : "ECU E-Magazine September 2021 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2021 FIDE Women's World Team Chess Championship 2021 European Senior Chess Championship 2021 &#8220;Chess Ambassadors for the Environment&#8221; special event of 2021 Global Chess Festival ECU Online Trainers Conference Historical Tournament of Peace Invitation European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-september-2021/",
-         "pubDate" : "Tue, 12 Oct 2021 09:27:17 +0000",
-         "title" : "ECU E-MAGAZINE SEPTEMBER 2021"
       }
    ]
 }
