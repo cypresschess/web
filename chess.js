@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Wed, 03 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "The 4th FIDE World Chess Championship for People with Disabilities will be held online by Dresdner Schachfestival E.V. under the auspices of FIDE from November 4-14, 2021. To date, 162 players from 37 countries have registered. On its website the FIDE introduces some of the participants. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Benoni Fianchetto"
       },
       {
-         "description" : "Svitlana is fascinated about the psychological aspects of chess. But the more chess is discovered, and theory knocks in, the more the things like the daily mood, or a posture for the next game are important. The Canadian WIM with the FIDE rating of meanwhile 2285 (2089 when we started), shares a personal story about the winning mindset, and how it improved her games. Furthermore, we dive into a decisive game between Xiong and Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-16",
-         "pubDate" : "Thu, 14 Oct 2021 16:56:00 +0100",
-         "title" : "Svitlana's Smart Moves - A winning mind set"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87022181.cms\" />The All-India Chess Federation (AICF) has signed an agreement with MPL Foundation towards sponsorship of all national championships for the next five years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1952,14 +1952,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-divya-deshmukh-latest-woman-grandmaster-of-india/",
          "pubDate" : "Wed, 13 Oct 2021 14:14:11 +0000",
          "title" : "Congratulations Divya Deshmukh, latest Woman Grandmaster of India"
-      },
-      {
-         "description" : " The German Bundesliga was due to place 23rd November 2019 to 2nd May 2020. The Coronavirus caused havoc and although a limited final event took place in 2020 the league season will now be completed in Berlin 13th to 17th October. There is a single round 13 match on the 13th - Rounds 9 and 10 on the 14th, Rounds 11 and 12 on the 15th, Round 13 and 14 on the 16th and the final round 15 on the 17th of October.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
-         "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
-         "title" : "German Bundesliga 2019-2020 - Games and Results"
       }
    ]
 }
