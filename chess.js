@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes a look at the game Daniil Dubov vs Ivan Saric from the Grand Swiss tournament in Riga. It's instructive, complicated and a lot of fun! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-488-d-dubov-vs-i-saric",
+         "pubDate" : "Wed, 03 Nov 2021 19:28:47 +0100",
+         "title" : "Game of the Week 488: D. Dubov vs I. Saric"
+      },
+      {
+         "description" : "World Chess Championship Challenger Ian Nepomniachtchi once played Dota 2 at a near professional level, but before the prize funds went crazy. The Russian team Team Spirit just won $18.2 million for winning The International Dota 2 Championship, which provides the starting point for a discussion of the €2 million Chess World Championship match in a recent interview with Match TV. Ian talks about his preparation for facing Magnus Carlsen, losing 10 kilograms, the length of the match and the conditions in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize",
+         "pubDate" : "Wed, 03 Nov 2021 16:50:38 +0000",
+         "title" : "Ian Nepomniachtchi: \"The result is much more important than the prize\""
+      },
+      {
+         "description" : " The Algorand Online Series ended on October 24 on the FIDE Online Arena. Check out the interview with the winner of the Series. Before heading off to Dubai to watch the World Chess Championship, Indian grandmaster Abhijeet Gupta chatted with GM Evgeny Miroshnichenko about his chess habits, his professional path and his advice for aspiring chess players. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/t61atNfqkcg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-lucky-winner-goes-to-dubai/",
+         "pubDate" : "Wed, 03 Nov 2021 16:01:01 +0000",
+         "title" : "The lucky winner goes to Dubai!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the November 2 Titled Tuesday outright with 9.5/11, followed by a three-way tie for second place at 9 points out of 11. When the dust settled, that put GM Daniel Naroditsky in second place, GM Sergei Zhigalko in third, and G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-november-2-titled-tuesday",
+         "pubDate" : "Wed, 03 Nov 2021 08:27:00 -0700",
+         "title" : "Nakamura Wins November 2 Titled Tuesday"
+      },
+      {
          "description" : " The details for the 2022 O2C Doeberl Cup have been posted at <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> It will be held over the Easter weekend, which is 14-18 April 2022. The most significant change from this years event, is that the rating limits for each of the tournament have been simplified. For the Premier, anyone with a FIDE or ACF rating above 1800 is eligible (plus title holders), while to get into the Major (under 2000), you need an ACF or FIDE rating above 1400 (and be blow ACF 2000 as well). In part this is to simplify the eligibility rules, but it is also to balance the numbers in each tournament. Entry fees are unchanged from this year, and the prize pool",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Choosing The Perfect Chess Tournament"
       },
       {
-         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
@@ -1466,14 +1498,6 @@ news_feed (
          "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
       },
       {
-         "description" : "GM Nihal Sarin defeated fellow-Indian GM Raunak Sadhwani 17.5-10.5 to retain his title at the Junior Speed Chess Championship presented by ChessKid. Sarin gained an entry into the 2021 Speed Chess Championship Main Event beginning in November. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-2021-junior-speed-chess-championship",
-         "pubDate" : "Tue, 19 Oct 2021 17:57:00 -0700",
-         "title" : "Sarin Beats Sadhwani, Retains Junior Speed Chess Championship Title"
-      },
-      {
          "description" : "Going into Wednesday's final round in the Russian Superfinals, both the open tournament and the women's championship have a sole leader with a half-point edge over two players sharing second place. In the open, Nikita Vitiugov leads, with Maxim Matlakov and Vladimir Fedoseev standing close behind; among the women, Valentina Gunina is the frontrunner, with her closest chasers being Evgenija Ovod and Polina Shuvalova. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
       },
       {
-         "description" : "Fabiano Caruana moved to within just half a point of the leaders with two rounds of the US Chess Championships to go after defeating Dariusz Swiercz in Round 9, while his key rivals only drew. Wesley So missed a great chance to take the sole lead by beating Daniel Naroditsky, while Leinier Dominguez was a whisker away from defeating Ray Robson and joining leaders So, Sam Sevian and Alex Lenderman. The Women's Championship is much clearer, with Carissa Yip leading Irina Krush by a full point after powering to a 4th win in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-8-9-caruana-back-in-the-hunt",
-         "pubDate" : "Sun, 17 Oct 2021 17:42:53 +0000",
-         "title" : "US Chess Champs 8-9: Caruana back in the hunt"
-      },
-      {
          "description" : "Star columnist Jon Speelman looks at the next generation of chess stars, presenting games from Aleksandra Goryachkina, Andrey Esipenko and Nihal Sarin. Speelman notes that \"the interesting thing with young players is not only how well they can play at their peak, but also, and no less important, howe well they can play at their ambient level\". | Pictured: Andrey Esipenko and Zhansaya Abdmualik at this year's World Cup in Sochi. | Photo: Anastassia Korolkova / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1914,14 +1930,6 @@ news_feed (
          "title" : "All India Chess Federation signs a historic agreement with MPL"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris shows how White can use the Fianchetto System to fight for the initiative against the Benoni. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-benoni-fianchetto",
-         "pubDate" : "Thu, 14 Oct 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Benoni Fianchetto"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87022181.cms\" />The All-India Chess Federation (AICF) has signed an agreement with MPL Foundation towards sponsorship of all national championships for the next five years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1382",
          "pubDate" : "Wed, 13 Oct 2021 21:07:57 +0000",
          "title" : "FIDE launches the biggest chess event among prisoners"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86998972.cms\" />Child prodigy Divya Deshmukh has become India's latest Woman Grand Master (WGM) at the First Saturday Grandmaster chess tournament in Budapest, Hungary.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-indias-latest-woman-grand-master/articleshow/86998972.cms",
-         "pubDate" : "Wed, 13 Oct 2021 22:01:52 +0530",
-         "title" : "Divya Deshmukh becomes India's latest Woman Grand Master"
       }
    ]
 }
