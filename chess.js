@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The details for the 2022 O2C Doeberl Cup have been posted at <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> It will be held over the Easter weekend, which is 14-18 April 2022. The most significant change from this years event, is that the rating limits for each of the tournament have been simplified. For the Premier, anyone with a FIDE or ACF rating above 1800 is eligible (plus title holders), while to get into the Major (under 2000), you need an ACF or FIDE rating above 1400 (and be blow ACF 2000 as well). In part this is to simplify the eligibility rules, but it is also to balance the numbers in each tournament. Entry fees are unchanged from this year, and the prize pool",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2022-o2c-doeberl-cup-entries-open.html",
+         "pubDate" : "Wed, 03 Nov 2021 13:49:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - entries open"
+      },
+      {
+         "description" : " I vividly remember the first time I analyzed my tournament results in more depth. In late 2019 I checked various factors such as tournament length, the starting time of games, and the importance of the result. What I discovered was insanely valuable and surprising at the same time. I wish I would have done it [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/perfect-chess-tournament/\">Choosing The Perfect Chess Tournament</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/perfect-chess-tournament/",
+         "pubDate" : "Wed, 03 Nov 2021 12:39:17 +0000",
+         "title" : "Choosing The Perfect Chess Tournament"
+      },
+      {
          "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-becomes-indias-latest-woman-grand-master/articleshow/86998972.cms",
          "pubDate" : "Wed, 13 Oct 2021 22:01:52 +0530",
          "title" : "Divya Deshmukh becomes India's latest Woman Grand Master"
-      },
-      {
-         "description" : "Nagpur teenager Divya Deshmukh becomes the latest Woman Grandmaster of the country after achieving her second International Master Norm (Final WGM Norm) at First Saturday",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-divya-deshmukh-latest-woman-grandmaster-of-india/",
-         "pubDate" : "Wed, 13 Oct 2021 14:14:11 +0000",
-         "title" : "Congratulations Divya Deshmukh, latest Woman Grandmaster of India"
       }
    ]
 }
