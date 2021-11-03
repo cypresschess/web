@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 03 Nov 2021 00:35:42 +0000",
+         "title" : "Little Guys Shine: King & Pawn Endgames | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : " &#8220; Weak points still more, however, strong points in brief, all the points that we can be grouped together under the collective concept &#8220;strategically important points&#8221;, must be over-protected&#8221; A Nimzowitsch, My System The above quote summarizes the idea of &#8220;prophylaxis to the inside&#8221; as described by Nimzowitsch. This covers anything that we <a href=\"https://chessimprover.com/prophylaxis/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Prophylaxis\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/prophylaxis/\">Prophylaxis</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r2",
          "pubDate" : "Fri, 29 Oct 2021 01:55:00 +0100",
          "title" : "Grand Swiss: Firouzja wins, Nihal escapes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4-lichessorg",
-         "pubDate" : "Fri, 29 Oct 2021 00:29:51 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #4 | lichess.org"
       },
       {
          "description" : "",
