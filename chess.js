@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 4th FIDE World Chess Championship for People with Disabilities will be held online by Dresdner Schachfestival E.V. under the auspices of FIDE from November 4-14, 2021. To date, 162 players from 37 countries have registered. On its website the FIDE introduces some of the participants. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-championship-for-people-with-disabilities",
+         "pubDate" : "Wed, 03 Nov 2021 10:58:13 +0100",
+         "title" : "World Chess Championship for People with Disabilities"
+      },
+      {
+         "description" : "The 2021 FIDE Grand Swiss in Riga, Latvia has featured many exciting new opening ideas and double-edged games, as the world's best players fight for spots in the World Championship cycle. Canadian FM and opening expert Joshua Doknjas analyzes five interesting games from the first half of the event. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-highlights-part-1",
+         "pubDate" : "Wed, 03 Nov 2021 09:41:07 +0100",
+         "title" : "Grand Swiss Highlights - Part 1"
+      },
+      {
+         "description" : "In a recent interview for chess.com Peter Doggers asked Fabiano Caruana about the upcoming World Championship match between Magnus Carlsen and Ian Nepomniachtchi, about World Championship matches in general, and about Caruana's own match against Carlsen in 2018. In an amazingly open and honest interview Caruana reveals a lot about his match-strategy against Carlsen, his feelings during and after the match, and gives insight into chess on the highest level.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabiano-caruana-talks-about-carlsen-nepomniachtchi-and-the-world-championship",
+         "pubDate" : "Wed, 03 Nov 2021 09:00:00 +0100",
+         "title" : "Fabiano Caruana talks about Carlsen, Nepomniachtchi and the World Championship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs deep into king and pawn endgames. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://chessimprover.com/prophylaxis/",
          "pubDate" : "Tue, 02 Nov 2021 20:21:38 +0000",
          "title" : "Prophylaxis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1413",
+         "pubDate" : "Tue, 02 Nov 2021 19:14:57 +0000",
+         "title" : "International Chess Federation Partners with TON Labs to Launch the Sport's First Global NFT Marketplace ChessNFT.com"
       },
       {
          "description" : "Endgame specialist Kasten M&uuml;ller continues to find instructive examples from the FIDE Chess.com Grand Swiss. The players are having a rest on Tuesday, so it is a good opportunity to find answers to a few technical questions: when to exchange down into a winning pawn endgame, how to defend with a bishop against a rook or how to handle an ending with bishops of opposite colours. | Photo: Mark Livshitz",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "2021 Saint Louis Corporate Chess League: Fall Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. The mysterious masked Alex loves getting superior pawn endgame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches an advanced class about transitioning to pawn endgames. The mysterious masked Alex loves getting superior pawn endgame, and you will too, when you know how. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman",
@@ -1874,14 +1906,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - A winning mind set"
       },
       {
-         "description" : "Three decisive results in round 7 left Wesley So, Sam Sevian and Aleksandr Lenderman in the shared lead of the US Championship. Former co-leader Ray Robson was beat by Fabiano Caruana, who bounced back from two painful consecutive losses. In the women's championship, Carissa Yip beat Anna Zatonskih to grab the sole lead. Irina Krush and Katerina Nemcova stand a half point behind. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r7",
-         "pubDate" : "Thu, 14 Oct 2021 14:50:00 +0100",
-         "title" : "US Championships: Sevian and So join the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87022181.cms\" />The All-India Chess Federation (AICF) has signed an agreement with MPL Foundation towards sponsorship of all national championships for the next five years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1906,28 +1930,12 @@ news_feed (
          "title" : "British Chess Championships 2021"
       },
       {
-         "description" : "After taking down former leader Kirill Alekseenko in round 4, Dmitry Andreikin was defeated by Nikita Vitiugov on Wednesday. Vitiugov thus grabbed the sole lead on 3&frac12;/5 points. In the women's section, Valentina Gunina is now sharing first place with Evgenija Ovod, who scored back-to-back wins in rounds 4 and 5. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r5",
-         "pubDate" : "Thu, 14 Oct 2021 03:20:00 +0100",
-         "title" : "Superfinals: Vitiugov beats Andreikin to grab the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1382",
          "pubDate" : "Wed, 13 Oct 2021 21:07:57 +0000",
          "title" : "FIDE launches the biggest chess event among prisoners"
-      },
-      {
-         "description" : "The knockout Finals of the ground-breaking Julius Baer Challengers Chess Tour kick off on Thursday with German chess prodigy Vincent Keymer favourite to be crowned champion, though he will face stiff competition from the likes of Praggnanandhaa and Nodirbek Abdusattorov. At stake is $12,500 for the winner and a regular spot in next year's elite Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-preview",
-         "pubDate" : "Wed, 13 Oct 2021 22:00:00 +0100",
-         "title" : "From Thursday to Sunday: Finals of the Julius Baer Challengers Tour"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/86998972.cms\" />Child prodigy Divya Deshmukh has become India's latest Woman Grand Master (WGM) at the First Saturday Grandmaster chess tournament in Budapest, Hungary.",
@@ -1952,22 +1960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/german-bundesliga-2019-2020",
          "pubDate" : "Wed, 13 Oct 2021 15:56:00 +0400",
          "title" : "German Bundesliga 2019-2020 - Games and Results"
-      },
-      {
-         "description" : " Many of the most important tournaments in Chess are played in a Round-Robin (all-play-all) format. Even if the game is still the same, the preparation for a Round-Robin tournament can be different from a normal tournament. In most cases, you will know your opponents before the tournament and thus you have some extra time to [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/\">5 Steps To A Great Round-Robin Preparation</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/5-steps-to-a-great-round-robin-preparation/",
-         "pubDate" : "Wed, 13 Oct 2021 11:00:00 +0000",
-         "title" : "5 Steps To A Great Round-Robin Preparation"
-      },
-      {
-         "description" : " GM Nicholas Pert has won the <a href=\"https://www.britishchesschampionships.co.uk/\">2021 British Championship</a>, ahead of a much smaller field than usual (due to Covid in part). He scored 6.5/9 to finish half a point ahead of 5 other players. Along the we he scored an interesting win against promising Scottish junior Freddy Gordon. For most of the game a draw looked to be the likely result, until a mistake towards the end allowed Pert to finish with an unusual checkmate. <br /> <b>Pert,Nicholas - Gordon,Freddy [D37]</b><br />2021 British Championship, 10.2021 <script>new PgnViewer( { boardName: \"game1281\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/enpas-mate.html",
-         "pubDate" : "Wed, 13 Oct 2021 10:20:00 +0000",
-         "title" : "Enpas mate"
       }
    ]
 }
