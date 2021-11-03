@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs deep into king and pawn endgames. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 03 Nov 2021 03:35:55 +0000",
+         "title" : "Little Guys Shine: King & Pawn Endgames | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "2021 Saint Louis Corporate Chess League: Fall Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.11.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. The mysterious masked Alex loves getting superior pawn endgame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-2-wang-checa-hong-liang-win",
          "pubDate" : "Thu, 28 Oct 2021 23:33:00 -0700",
          "title" : "Blitzcoin Invitational Day 2: Wang, Checa, Hong, Liang Win"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s back in-person! Join NM Caleb Denby for the move-by-move. 2021.10.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Smaz4VKProg.jpg?itok=jaIRj-d8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-hybrid-fall-4",
-         "pubDate" : "Fri, 29 Oct 2021 03:29:53 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Hybrid Fall #4"
       },
       {
          "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss in Riga, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far. Meanwhile, seven players have a 2/2 score in the women's section. | Photo: Anna Shtourman",
