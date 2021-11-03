@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Profiting from a mistake by GM Evgeniy Najer in a rook endgame,&#38;nbsp;GM Alireza Firouzja regained the sole lead in the&#38;nbsp;FIDE Chess.com Grand Swiss with four rounds to go. GM&#38;nbsp;Lei Tingjie continues to lead the women&#39;s section and now has IM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-7-firouzja",
+         "pubDate" : "Wed, 03 Nov 2021 14:27:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R7: Firouzja Back In Sole Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1414",
+         "pubDate" : "Wed, 03 Nov 2021 20:55:11 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 7 Recap"
+      },
+      {
          "description" : "This week, Merijn van Delft takes a look at the game Daniil Dubov vs Ivan Saric from the Grand Swiss tournament in Riga. It's instructive, complicated and a lot of fun! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +66,12 @@ news_feed (
          "title" : "Choosing The Perfect Chess Tournament"
       },
       {
-         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Wed, 03 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 7"
       },
       {
          "description" : "The 4th FIDE World Chess Championship for People with Disabilities will be held online by Dresdner Schachfestival E.V. under the auspices of FIDE from November 4-14, 2021. To date, 162 players from 37 countries have registered. On its website the FIDE introduces some of the participants. | Photos: FIDE",
@@ -157,17 +173,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1412",
-         "pubDate" : "Tue, 02 Nov 2021 16:29:53 +0000",
-         "title" : "FIDE Online Cadets & Youth Rapid Grand Prix Series gets underway"
+         "link" : "https://www.fide.com/news/1411",
+         "pubDate" : "Tue, 02 Nov 2021 17:38:30 +0000",
+         "title" : "November rating list: Vachier-Lagrave returns to top-10"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1411",
-         "pubDate" : "Tue, 02 Nov 2021 13:38:30 +0000",
-         "title" : "November rating list: Vachier-Lagrave returns to top-10"
+         "link" : "https://www.fide.com/news/1409",
+         "pubDate" : "Tue, 02 Nov 2021 16:50:42 +0000",
+         "title" : "World Team Championship 2022 - Call for bids"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1412",
+         "pubDate" : "Tue, 02 Nov 2021 16:29:53 +0000",
+         "title" : "FIDE Online Cadets & Youth Rapid Grand Prix Series gets underway"
       },
       {
          "description" : "The ECF office will be starting a move on Friday 5/11/21 to smaller premises now that the Chess Library has moved to Leicester. As a...",
@@ -397,14 +421,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1409",
-         "pubDate" : "Sun, 31 Oct 2021 22:18:42 +0000",
-         "title" : "World Team Championship 2022 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1408",
          "pubDate" : "Sun, 31 Oct 2021 20:46:44 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 5 Recap"
@@ -487,7 +503,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
          "pubDate" : "Sun, 31 Oct 2021 07:40:04 +0000",
-         "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, May Be"
+         "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, Maybe"
       },
       {
          "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player, GM Andr...",
@@ -1418,14 +1434,6 @@ news_feed (
          "title" : "Game of the Week 486: A. Lenderman vs F. Caruana"
       },
       {
-         "description" : "GM Hikaru Nakamura scored 10/11 and won Titled Tuesday on October 19, his first victory in the event since a perfect 11/11 performance on August 17. GM Boris Savchenko finished second ahead of third-place GM Alexander Zubov on the tiebreak score, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-october-19-titled-tuesday",
-         "pubDate" : "Wed, 20 Oct 2021 09:47:41 -0700",
-         "title" : "Nakamura Wins October 19 Titled Tuesday"
-      },
-      {
          "description" : "Wesley So beat both Fabiano Caruana and Sam Sevian in the playoffs of the 2021 US Championship to win the national title for a third time, since his transfer to the United States in 2014. A hard-fought tournament saw the three players sharing first place on 6&frac12; points after 11 rounds. A round robin with a rapid time control took place on Tuesday to decide the winner of the national championship. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Thu, 14 Oct 2021 08:00:40 +0000",
          "title" : "British Chess Championships 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1382",
-         "pubDate" : "Wed, 13 Oct 2021 21:07:57 +0000",
-         "title" : "FIDE launches the biggest chess event among prisoners"
       }
    ]
 }
