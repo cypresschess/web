@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oxford-vs-cambridge-rowing-and-chess",
+         "pubDate" : "Thu, 04 Nov 2021 12:00:00 +0100",
+         "title" : "Oxford vs Cambridge, rowing and chess"
+      },
+      {
+         "description" : "18-year-old Alireza Firouzja pounced on an endgame error by Evgeniy Najer to score the only win on the top 10 boards and regain the sole lead with just four rounds of the FIDE Chess.com Grand Swiss to go. The main action came among the players on 3.5 points, needing a win to get back in contention, as 12 of the 15 games were decisive, including Andrei Volokitin taking down Levon Aronian. In the women's event Lei Tingjie won again to reach 6/7, with only Elisabeth Paehtz within half a point after what she described as \"the tournament of my life\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-7-firouzja-powers-towards-candidates",
+         "pubDate" : "Thu, 04 Nov 2021 10:31:52 +0000",
+         "title" : "Grand Swiss 7: Firouzja powers towards Candidates"
+      },
+      {
+         "description" : "The Rubinstein Variation of the French Defence (1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4) often proves difficult for White to crack. Sure, you have a lot of space, but Black's position is very solid. After the main moves 4...Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6, White has so far mostly tried 7.c3 or 7.Bd3. In the new ChessBase Magazine #204 Martin Lorenzini presents a new idea with 7.Be3!? which could prove to be a worthwhile alternative to the well-known theoretical variations. Curious? Here's an excerpt of his article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clear-attacking-plan-against-the-rubinstein-variation",
+         "pubDate" : "Thu, 04 Nov 2021 11:00:00 +0100",
+         "title" : "A clear attacking plan against the Rubinstein Variation"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87521958.cms\" />Indian Grandmaster K Sasikiran played out a draw with Maxime Vachier-Lagrave of France in the seventh round of the open event in the FIDE Grand Swiss chess tournament here to share the second spot with two others.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Annotating in ChessBase: The Basics"
       },
       {
-         "description" : "16-year-old Indian prodigy Praggnanandhaa was in supreme form as he defeated Christopher Yoo 3:0 to win the Julius Baer Challengers Chess Tour, taking the top prize of $12,500 and earning a regular spot on the 2022 Meltwater Champions Chess Tour. 14-year-old Christopher Yoo took the $7,500 second prize and impressed by making each game of the final an intense battle, with Vladimir Kramnik predicting the US star will also become a \"very, very strong player\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/praggnanandhaa-wins-challengers-chess-tour-with-stunning-8-5-9",
-         "pubDate" : "Sun, 17 Oct 2021 22:52:29 +0000",
-         "title" : "Praggnanandhaa wins Challengers Chess Tour with stunning 8.5/9"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "England at the European Youth Hybrid Championship"
       },
       {
-         "description" : "For the first time in this year's US Championship, a round finished with all six games drawn, which means Wesley So, Sam Sevian and Aleksandr Lenderman are still sharing the lead going into the second rest day of the event. Meanwhile, in the women's tournament, Carissa Yip kept the sole lead by scoring her third consecutive victory. Katerina Nemcova is in second place, a half point back, as she also won her round-8 encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r8",
-         "pubDate" : "Fri, 15 Oct 2021 15:20:00 +0100",
-         "title" : "US Championships: Yip scores third win in a row"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87041912.cms\" />Indian chess maestro Viswanathan Anand will be one of the official commentators for the FIDE World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai from November 24.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1922,14 +1930,6 @@ news_feed (
          "title" : "Bxf7+ punished again"
       },
       {
-         "description" : "Praggnanandhaa and Christopher Yoo advanced to the semifinals of the Julius Baer Challengers Tour Finals after knocking out Volodar Murzin and Lei Tingjie respectively. While Pragg obtained a commanding 3-0 victory, Yoo was inches away from losing more than once in a match that was decided in blitz tiebreaks. The other two quarterfinal matches will be played on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-1",
-         "pubDate" : "Fri, 15 Oct 2021 00:25:00 +0100",
-         "title" : "Challengers Tour Finals: Pragg dominates, Lei falls just short"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://aicf.in/all-india-chess-federation-signs-historic-agreement-with-mpl/",
          "pubDate" : "Thu, 14 Oct 2021 11:40:02 +0000",
          "title" : "All India Chess Federation Signs historic agreement with MPL"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Thu, 14 Oct 2021 08:00:40 +0000",
-         "title" : "British Chess Championships 2021"
       }
    ]
 }
