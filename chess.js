@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi will be the challenger for the 2021 FIDE World Championship Match which begins on November 24. Chess.com is his official chess sponsor, and we were able to catch up with him for this interview. You can watch the video below...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-interview-chess",
+         "pubDate" : "Thu, 04 Nov 2021 07:00:00 -0700",
+         "title" : "Ian Nepomniachtchi Discusses The World Championship, Intuition, And More"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1415",
+         "pubDate" : "Thu, 04 Nov 2021 13:20:51 +0000",
+         "title" : "2021 FIDE Online General Assembly: List of Delegates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on playing against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok=SQvzuDV5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 04 Nov 2021 12:38:29 +0000",
+         "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Thu, 04 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +680,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/grand-swiss-3-firouzja-s-rampage-continues",
          "pubDate" : "Sat, 30 Oct 2021 07:59:56 +0000",
          "title" : "Grand Swiss 3: Firouzja's rampage continues"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mike Kummer offers a $100 bounty to Club Inventory and Events Coordinator Emily Trask. As a prot&eacute;g&eacute; of Danny Machuca, all Emily has to do is defeat Mike in a G/5 blitz game. He must play the Halloween Gambit. She gets one chance. 2021.10.22<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit<br /> Mike Kummer vs. Emily Trask, 2021: C46 Four knights, Schultze-Mueller gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fun-fun-fun-halloween-gambit-blitz-bounty-mike-kummer-vs-emily-trask",
-         "pubDate" : "Sat, 30 Oct 2021 06:31:00 +0000",
-         "title" : "Fun Fun Fun! Halloween Gambit Blitz Bounty: Mike Kummer vs. Emily Trask"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87388030.cms\" />India's Dronavalli Harika defeated former world champion Antoaneta Stefanova of Bulgaria in the third round of the FIDE Grand Swiss chess tournament here to grab a share of the lead.",
@@ -1442,14 +1466,6 @@ news_feed (
          "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
       },
       {
-         "description" : "On his 15th attempt, GM Nikita Vitiugov won his first-ever Russian championship title on Wednesday in Ufa. The 2017 runner-up finished in clear first place, half a point ahead of GM Maxim Matlakov. GM Valentina Gunina won her fourth women&#39;s champi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gunina-vitiugov-win-2021-russian-championships",
-         "pubDate" : "Wed, 20 Oct 2021 13:03:00 -0700",
-         "title" : "Gunina, Vitiugov Winners At Russian Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Mongolia wins the first Intercontinental Online Championship for Prisoners"
       },
       {
-         "description" : "In the Bundesliga everything seems to be headed for a showdown in round 14 when the two leaders Hockenheim and Baden-Baden will meet. At any rate, in round 11 both teams won their matches smoothly: Hockenheim defeated Dresden 6-2 and Baden-Baden won 6-2 against Augsburg. Round 12 starts at 17:00 CEST (9:00 ET, 15:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-live-final-rounds",
-         "pubDate" : "Fri, 15 Oct 2021 16:25:49 +0100",
-         "title" : "Bundesliga live: Round 12"
-      },
-      {
          "description" : "From the 15th 21st October 2021. Follow the results here http://chess-results.com/tnr582081.aspx?lan=1&#38;art=25&#38;fedb=ENG&#38;turdet=YES&#38;flag=30 Pictures by Matthew Carr Name Group George Zhao U8 Open Kushal Jakhria...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1384",
          "pubDate" : "Thu, 14 Oct 2021 17:27:39 +0000",
          "title" : "All India Chess Federation signs a historic agreement with MPL"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87022181.cms\" />The All-India Chess Federation (AICF) has signed an agreement with MPL Foundation towards sponsorship of all national championships for the next five years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-india-chess-federation-signs-sponsorship-deal-with-mpl-foundation/articleshow/87022181.cms",
-         "pubDate" : "Thu, 14 Oct 2021 18:42:35 +0530",
-         "title" : "All-India Chess Federation signs sponsorship deal with MPL Foundation"
-      },
-      {
-         "description" : "The All India Chess Federation (AICF) signed a historic agreement with MPL Foundation for a sponsorship amount of One Crore towards the sponsorships for Indian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/all-india-chess-federation-signs-historic-agreement-with-mpl/",
-         "pubDate" : "Thu, 14 Oct 2021 11:40:02 +0000",
-         "title" : "All India Chess Federation Signs historic agreement with MPL"
       }
    ]
 }
