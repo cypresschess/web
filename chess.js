@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87521958.cms\" />Indian Grandmaster K Sasikiran played out a draw with Maxime Vachier-Lagrave of France in the seventh round of the open event in the FIDE Grand Swiss chess tournament here to share the second spot with two others.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-sasikiran-draws-with-vachier-lagrave-lies-in-joint-second-spot/articleshow/87521958.cms",
+         "pubDate" : "Thu, 04 Nov 2021 11:33:08 +0530",
+         "title" : "FIDE Grand Swiss: Sasikiran draws with Vachier-Lagrave to be joint second"
+      },
+      {
+         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r7",
+         "pubDate" : "Thu, 04 Nov 2021 06:05:00 +0100",
+         "title" : "Grand Swiss: Lei keeps on winning, Firouzja reclaims the lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on playing against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok=SQvzuDV5\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/perfect-chess-tournament/",
          "pubDate" : "Wed, 03 Nov 2021 12:39:17 +0000",
          "title" : "Choosing The Perfect Chess Tournament"
-      },
-      {
-         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Wed, 03 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 7"
       },
       {
          "description" : "The 4th FIDE World Chess Championship for People with Disabilities will be held online by Dresdner Schachfestival E.V. under the auspices of FIDE from November 4-14, 2021. To date, 162 players from 37 countries have registered. On its website the FIDE introduces some of the participants. | Photos: FIDE",
