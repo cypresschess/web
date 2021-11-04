@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. It was a modest start, but one that went on to completely change the chess world. Today, we start retracing the steps that led to the development of a fledgling chess program that went on to become one of the most powerful entities that has ever played the game - one that top players consult when preparing for their next tournament or match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-1",
+         "pubDate" : "Thu, 04 Nov 2021 23:09:59 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (1)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1416",
+         "pubDate" : "Thu, 04 Nov 2021 21:43:11 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 8 Recap"
+      },
+      {
+         "description" : "GM Alireza Firouzja is getting very close to qualifying for the 2022 Candidates Tournament. The 18-year-old French star won again in round eight of the FIDE Chess.com Grand Swiss and is now a point ahead of the pack, with no fewer than 10 players ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-8-firouzja",
+         "pubDate" : "Thu, 04 Nov 2021 13:38:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R8: Firouzja Increases Lead, Now World #4"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on her favorite ways to play against Sicilian Defense with White, beginning with the Hungarian Variation (or Chekhover) after 2...g6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-hungarian-g6-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya with the white pieces. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Thu, 04 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 8"
       },
       {
          "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-7-firouzja",
          "pubDate" : "Wed, 03 Nov 2021 14:27:00 -0700",
          "title" : "FIDE Chess.com Grand Swiss R7: Firouzja Back In Sole Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1413",
+         "pubDate" : "Wed, 03 Nov 2021 20:56:57 +0000",
+         "title" : "International Chess Federation Partners with TON Labs to Launch the Sport's First Global NFT Marketplace ChessNFT.com"
       },
       {
          "description" : "",
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://chessimprover.com/prophylaxis/",
          "pubDate" : "Tue, 02 Nov 2021 20:21:38 +0000",
          "title" : "Prophylaxis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1413",
-         "pubDate" : "Tue, 02 Nov 2021 19:14:57 +0000",
-         "title" : "International Chess Federation Partners with TON Labs to Launch the Sport's First Global NFT Marketplace ChessNFT.com"
       },
       {
          "description" : "Endgame specialist Kasten M&uuml;ller continues to find instructive examples from the FIDE Chess.com Grand Swiss. The players are having a rest on Tuesday, so it is a good opportunity to find answers to a few technical questions: when to exchange down into a winning pawn endgame, how to defend with a bishop against a rook or how to handle an ending with bishops of opposite colours. | Photo: Mark Livshitz",
@@ -1434,14 +1458,6 @@ news_feed (
          "title" : "Annotating in ChessBase: Variations, moves, and more"
       },
       {
-         "description" : "The FIDE Chess.com Grand Swiss and Women&#38;rsquo;s Grand Swiss will go on despite a new COVID-19 lockdown in Latvia that started on Thursday. The Latvian government included the chess tournament, scheduled for Oct. 27-Nov. 8, in a list of exceptions...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-chesscom-grand-swiss-latvia-lockdown-covid",
-         "pubDate" : "Thu, 21 Oct 2021 06:14:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss Proceeds With Exemption As Latvia Locks Down"
-      },
-      {
          "description" : "On Monday, 25 October, the Grand Swiss Tournament in Riga is scheduled to begin. 114 players have registered, the two best qualify for the Candidates Tournament 2022. But due to a sharp rise in the numbers of COVID-19 cases, the Latvian authorities have introduced a strict four-week lockdown, from Thursday 21 October until 15 November. However, the Grand Swiss is exempt from these restrictions and the tournament can take place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "New: Trent's Tactics - Back-rank checkmate"
       },
       {
-         "description" : "In this week's show, GM Daniel King, following Magnus Carlsen's brilliant win in a bishop endgame, looks at more of the same. Even at one of his own games... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-satisfying-conclusion",
-         "pubDate" : "Fri, 15 Oct 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: A satisfying conclusion"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/bxf7-punished-again.html",
          "pubDate" : "Fri, 15 Oct 2021 05:25:00 +0000",
          "title" : "Bxf7+ punished again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1385",
-         "pubDate" : "Thu, 14 Oct 2021 20:15:46 +0000",
-         "title" : "Mongolia vs. Zimbabwe in the final, Georgia dominates women's tournament"
       }
    ]
 }
