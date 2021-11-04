@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on playing against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok=SQvzuDV5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 04 Nov 2021 00:38:01 +0000",
+         "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "Profiting from a mistake by GM Evgeniy Najer in a rook endgame,&#38;nbsp;GM Alireza Firouzja regained the sole lead in the&#38;nbsp;FIDE Chess.com Grand Swiss with four rounds to go. GM&#38;nbsp;Lei Tingjie continues to lead the women&#39;s section and now has IM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r3",
          "pubDate" : "Sat, 30 Oct 2021 00:15:00 +0100",
          "title" : "Grand Swiss: Firouzja scores third straight win"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s all online again! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SeDqfgt3HQY.jpg?itok=LCc0rRrK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5",
-         "pubDate" : "Fri, 29 Oct 2021 21:30:48 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #5"
       },
       {
          "description" : "",
