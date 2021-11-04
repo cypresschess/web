@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on her favorite ways to play against Sicilian Defense with White, beginning with the Hungarian Variation (or Chekhover) after 2...g6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-hungarian-g6-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-hungarian-g6-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 04 Nov 2021 18:38:51 +0000",
+         "title" : "Play the Sicilian with White: Hungarian with ...g6 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions. 2021.11.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OmtVL7NxnhM.jpg?itok=IkO-DgLy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman",
+         "pubDate" : "Thu, 04 Nov 2021 18:38:51 +0000",
+         "title" : "Convert Winning Positions! | Grandmaster's Choice - GM Alex Lenderman"
+      },
+      {
+         "description" : "Magnus Carlsen and his team spent two weeks last month preparing for the match against Ian Nepomniachtchi in a resort near Cadiz, Spain. During the stay at the Royal Hideaway Sancti Petri, the World Chess Champion gave an interview to the manager of the hotel, Ignacio Martin, where he talked about the training camp, The Queen's Gambit, his own first steps in chess and what advice he'd give to people just starting out in the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws",
+         "pubDate" : "Thu, 04 Nov 2021 16:11:07 +0000",
+         "title" : "Magnus Carlsen: \"I'm hoping this time there will be fewer draws\""
+      },
+      {
          "description" : "GM Ian Nepomniachtchi will be the challenger for the 2021 FIDE World Championship Match which begins on November 24. Chess.com is his official chess sponsor, and we were able to catch up with him for this interview. You can watch the video below...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -266,6 +290,14 @@ news_feed (
          "title" : "FIDE Online Cadets & Youth Rapid Grand Prix Series gets underway"
       },
       {
+         "description" : " From the publisher: &#8220;Street Smart Chess is an expert guide to scoring more points at the chessboard. When does it pay off to play hard for a win? Or safe for a draw? And how do you adapt your playing style accordingly? GM Axel Smith answers these questions, and more, by using a world-class player <a href=\"http://britishchessnews.com/2021/11/02/street-smart-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Street Smart Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/02/street-smart-chess/\">Street Smart Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">Bri",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/11/02/street-smart-chess/",
+         "pubDate" : "Tue, 02 Nov 2021 16:22:43 +0000",
+         "title" : "Street Smart Chess"
+      },
+      {
          "description" : "The ECF office will be starting a move on Friday 5/11/21 to smaller premises now that the Chess Library has moved to Leicester. As a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-draws-with-natalija-pogonina/articleshow/87455368.cms",
          "pubDate" : "Mon, 01 Nov 2021 11:45:59 +0530",
          "title" : "FIDE Grand Swiss: Harika draws with Pogonina"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> October 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/october-2021-chess-puzzle-answer-key",
-         "pubDate" : "Mon, 01 Nov 2021 05:00:00 +0000",
-         "title" : "October 2021 Chess Puzzle Answer Key "
       },
       {
          "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces on Sunday. In the women's section, five players are sharing the lead going into round 6. | Photo: Anna Shtourman",
@@ -1562,6 +1586,14 @@ news_feed (
          "title" : "Superfinals: Matlakov joins the fight for the title"
       },
       {
+         "description" : " From the author's introduction: I was lucky enough to play against six world champions and several top players in my modest chess career, but the greatest player I feel privileged to have known, to have spent time with him, was Miguel Najdorf, \"El Viejo\". This is a chess book, with 275 commented games, it covers <a href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stories/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Miguel Najdorf &#8216;El Viejo' Life, Games and Stories</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stor",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stories/",
+         "pubDate" : "Wed, 20 Oct 2021 00:10:55 +0000",
+         "title" : "Miguel Najdorf - 'El Viejo' - Life, Games and Stories"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1664,14 +1696,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
          "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
          "title" : "Chicago, Chess, Girl Power and McDonald's"
-      },
-      {
-         "description" : "18-year-old Carissa Yip has won her first US Women's Chess Championship, with a round to spare, after scoring a 5th win in row while Irina Krush was held to a draw. The Open event sees six players go into the final round with a chance of clinching the title, with Fabiano Caruana suddenly leading alongside Wesley So and Sam Sevian after winning a thriller against Alex Lenderman. All but one of Monday's Round 11 ties could decide the title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-10-carissa-triumps-fabi-hits-the-front",
-         "pubDate" : "Mon, 18 Oct 2021 17:55:00 +0000",
-         "title" : "US Chess Champs 10: Carissa triumphs | Fabi hits the front"
       },
       {
          "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
@@ -1944,14 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1385",
          "pubDate" : "Thu, 14 Oct 2021 20:15:46 +0000",
          "title" : "Mongolia vs. Zimbabwe in the final, Georgia dominates women's tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1384",
-         "pubDate" : "Thu, 14 Oct 2021 17:27:39 +0000",
-         "title" : "All India Chess Federation signs a historic agreement with MPL"
       }
    ]
 }
