@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1419",
+         "pubDate" : "Fri, 05 Nov 2021 22:27:36 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 9 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1418",
+         "pubDate" : "Fri, 05 Nov 2021 21:02:28 +0000",
+         "title" : "FIDE World Championship for People with Disabilities kicks off on Tornelo"
+      },
+      {
+         "description" : "Calling the game &#34;super important&#34; but also &#34;a total mess,&#34; GM Fabiano Caruana defeated GM Alireza Firouzja to catch his opponent in first place in round nine of the FIDE Chess.com Grand Swiss. The two are now sharing the lead together with GM Dav...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-9-caruana-firouzja",
+         "pubDate" : "Fri, 05 Nov 2021 14:00:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R9: 3-Way Tie As Caruana Beats Firouzja"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1417",
+         "pubDate" : "Fri, 05 Nov 2021 20:37:22 +0000",
+         "title" : "Luis Paolo Supi and Julia Alboredo win Brazilian Championship"
+      },
+      {
+         "description" : " Englishman's four straight wins bring him level with the 18-year-old Firouzja and Caruana in battle for Candidates places England's David Howell scored his fourth win in a row on Friday afternoon as the three-time British champion, 30, from Seaford in Sussex, joined the world Nos 3 and 4, Fabiano Caruana of the US and 18-year-old Alireza Firouzja of France in leading the 108-player Grand Prix at Riga. The trio have 6.5/9, half a point ahead of 10 players on 6/9, as the tournament is set for a tense final round on Sunday. <a href=\"https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown",
+         "pubDate" : "Fri, 05 Nov 2021 19:43:24 +0000",
+         "title" : "Chess: Inspired David Howell joins Firouzja and Caruana in three-way lead in Riga"
+      },
+      {
          "description" : "In this week's show, GM Daniel King re-examins a classic, the game Keres vs Smyslov, Zuerich 1953. Smyslov won this crucial game and went on to win the tournament and challenged Botvinnik for the title. But what do modern computers have to say about his defensive play? The attacking ideas in this game are very much worth investigating and can be applied in other situations. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-positional-pawn-sacrifice",
          "pubDate" : "Fri, 05 Nov 2021 11:01:37 +0100",
          "title" : "Robert Ris' Fast and Furious: A positional pawn sacrifice"
-      },
-      {
-         "description" : " The 18-year-old, a point clear in Latvia, has a chance to become the youngest world champion in history Alireza Firouzja, the 18-year-old pretender to Magnus Carlsen's world crown, is closing in on the most important victory of his short career this weekend as the former Iranian, who now represents France, leads the 108-player Fide Grand Swiss in Riga by a full point, on an unbeaten 6.5/8 with three rounds to go. Friday's ninth round, starting at midday and free and live to watch online, includes the critical pairing of world No 3 and top seed, Fabiano Caruana, of the US, playing the white pieces, against Firouzja, who is now up to <a href=\"https://www.2700chess.com/\" title=\"\">world No 4</a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown",
-         "pubDate" : "Fri, 05 Nov 2021 08:00:15 +0000",
-         "title" : "Chess: Alireza Firouzja leads in Riga as he campaigns for Carlsen's crown"
       },
       {
          "description" : " <p class=\"lead\">Tournament leader, 18-year old Alireza Firouzja scored another victory in the Grand Swiss in Riga. He won as White against Krishnan Sasikiran securing that he alone is at the top before Round Nine, a full point ahead of the rest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C9A7FCC3-7132-4237-98DF-92FEAD0932CF.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The winner of that tournament will become the challenger for the n",
@@ -1280,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1397",
          "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
          "title" : "Dutch Championship: Anne Haast clinches fifth title"
-      },
-      {
-         "description" : "The spookiest night of the year is almost upon us, but you don&#39;t need to be scared. It turns out that some monsters actually enjoy a good game of chess! You can now play against two brand new Halloween bots&#38;mdash;but do it quickly, before they dis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/halloween-chess-bots",
-         "pubDate" : "Mon, 25 Oct 2021 10:35:00 -0700",
-         "title" : "Play Against The New Halloween Bots"
       },
       {
          "description" : "India won the over all championship in the Girls Category of Asian Youth Chess Championship by winning 2 Gold, 3 Silver and 2 Bronze on",
