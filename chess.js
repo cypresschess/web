@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Tournament leader, 18-year old Alireza Firouzja scored another victory in the Grand Swiss in Riga. He won as White against Krishnan Sasikiran securing that he alone is at the top before Round Nine, a full point ahead of the rest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C9A7FCC3-7132-4237-98DF-92FEAD0932CF.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The winner of that tournament will become the challenger for the n",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-is-sole-leader-after-round-8/",
+         "pubDate" : "Fri, 05 Nov 2021 05:18:57 +0000",
+         "title" : "Grand Swiss: Firouzja is Sole Leader After Round 8"
+      },
+      {
+         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya. Rating favourite Fabiano Caruana joined a 10-player chasing pack in the open section, and will face Firouzja on the top board in Friday's ninth round. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r8",
+         "pubDate" : "Fri, 05 Nov 2021 05:25:00 +0100",
+         "title" : "Grand Swiss: Lei and Firouzja on a roll"
+      },
+      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. It was a modest start, but one that went on to completely change the chess world. Today, we start retracing the steps that led to the development of a fledgling chess program that went on to become one of the most powerful entities that has ever played the game - one that top players consult when preparing for their next tournament or match.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Play the Sicilian with White: Hungarian with ...g6 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions. 2021.11.04<br /> Oleg M Romanishin vs Aleksandr Lenderman, Isle of Man Masters (2016)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1841035\">https://www.chessgames.com/perl/chessgame?gid=1841035</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/def",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OmtVL7NxnhM.jpg?itok=IkO-DgLy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 04 Nov 2021 12:38:29 +0000",
          "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya with the white pieces. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Thu, 04 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 8"
       },
       {
          "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
@@ -1952,22 +1960,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-eight/",
          "pubDate" : "Fri, 15 Oct 2021 09:16:27 +0000",
          "title" : "A Foundation for Beginners Thirty Eight"
-      },
-      {
-         "description" : " One win from his first six games in St Louis has left the American lagging well behind Ding Liren in the world rankings After eight of the 11 rounds at the $194,000 (&pound;141,522)<strong> </strong>US championship in St Louis, which finishes on Monday, Aleksandr Lenderman, Samuel Sevian and the defending champion Wesley So shared the lead on 5/8. This close race will probably only be decided in the final rounds. Games are <a href=\"https://www.chess.com/article/view/us-chess-championships\" title=\"\">free to watch live daily</a> from 7pm. The big shock has been the poor showing of top-seeded Fabiano Caruana, whose <a href=\"https://www.theguardian.com/sport/2014/sep/05/leonard-barden-on-chess\"",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/oct/15/chess-fabiano-caruana-trails-us-championship-loses-world-no-2-spot",
-         "pubDate" : "Fri, 15 Oct 2021 07:00:22 +0000",
-         "title" : "Chess: Fabiano Caruana trails at US championship and loses world No 2 spot"
-      },
-      {
-         "description" : " Here is a recent Traxler where Bxf7+ (the chicken line) is still punished by Black. (Thanks to FM Rupert Jones for sending me this game) <br /> <b>Hattersley,Sam - Shapland,David [C57]</b><br />Leeds Uni CC 12.10.2021 <script>new PgnViewer( { boardName: \"game1282\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Bxf7+ Ke7 6.Bd5 Rf8 7.O-O d6 8.h3 Qe8 9.d3 Qg6 10.Kh1 Nh5 11.Qe1 Nd4 12.Qd1 h6 13.c3 hxg5 14.cxd4 Bxd4 15.Qe1 Nf4 16.Bxf4 Rxf4 17.Nc3 Bxh3 18.Ne2 Bxg2+ 19.Kxg2 Qh5 20.Ng3 Qf3+ 21.Kg1 Qxg3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1282-container\"></div><div id=\"game1282-moves\"></div><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/bxf7-punished-again.html",
-         "pubDate" : "Fri, 15 Oct 2021 05:25:00 +0000",
-         "title" : "Bxf7+ punished again"
       }
    ]
 }
