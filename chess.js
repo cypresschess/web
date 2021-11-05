@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya with the white pieces. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Fri, 05 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "Alireza Firouzja overtook Ian Nepomniachtchi on the live rating list to move up to world no. 4 after sacrificing his queen to beat Krishnan Sasikiran. The 18-year-old leads the FIDE Chess.com Grand Swiss by a full point with just three rounds to go, but he faces the challenge of Black against Fabiano Caruana in Round 9. Fabi is one of 10 players in joint 2nd place, after he beat Nils Grandelius with the black pieces. Lei Tingjie won again and is now a point clear of 2nd placed Elisabeth Paehtz in the race for a single Women's Candidates spot.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/iniyan-wins-la-nucia-open-2021",
          "pubDate" : "Fri, 15 Oct 2021 21:45:00 +0100",
          "title" : "Iniyan clinches La Nucia Open"
-      },
-      {
-         "description" : "Vincent Keymer and Awonder Liang made it into the semifinals of the Julius Baer Challengers Tour Finals after beating Leon Mendonca and Nodirbek Abdusattorov respectively. Keymer, who finished the preliminary stage - consisting of four tournaments - atop the overall standings table, had to work hard to take down Mendonca.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-2",
-         "pubDate" : "Fri, 15 Oct 2021 21:30:00 +0100",
-         "title" : "Challengers Tour Finals: Keymer and Liang in semis"
       },
       {
          "description" : "",
