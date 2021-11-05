@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last round of the regular season will take place this weekend, and most teams have already secured a playoff spot. Other teams are not so lucky and are on the brink of elimination. This will be the most exciting week of the season as teams tak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-final-round",
+         "pubDate" : "Fri, 05 Nov 2021 07:52:20 -0700",
+         "title" : "Collegiate Chess League: The Final Round"
+      },
+      {
          "description" : " Hybrid Chess is one of the new innovations that has gained in popularity during the various covid lockdown periods. I have been involved as an arbiter for these events, an still have mixed opinions on how well they work (NB I was involved in the drafting of the FIDE Hybrid Regulations). Of the events I have worked on, the format that seems to suit Hybrid Chess the best is for team events. Individual events can be a little messy to organise, especially small events like round robins. But team events have a more suitable arbiter(s) to player ratio. In the ongoing Asian Club Cup there are usually 2 officials per team or 2 teams, which is 1 to 3 or 1 to 6. However this also works best if there ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-nine/",
          "pubDate" : "Fri, 22 Oct 2021 10:00:06 +0000",
          "title" : "A Foundation for Beginners Thirty Nine"
-      },
-      {
-         "description" : "The Collegiate Chess League is officially past the halfway mark, and teams are starting to jock for playoff positions. With only three rounds remaining in the regular season, every point earned could be the difference between being eliminated or n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-round-4",
-         "pubDate" : "Thu, 21 Oct 2021 20:09:00 -0700",
-         "title" : "Collegiate Chess League Round 4: Begim Wins Big"
       },
       {
          "description" : "Team Mongolia became the winner of the first Intercontinental Online Chess Championship for Prisoners after defeating Team Zimbabwe in the final of the biggest ever chess event among correctional facilities. In the women's section, the Georgian team won all three matches and finished in clear first place.",
