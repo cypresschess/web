@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, GM Daniel King re-examins a classic, the game Keres vs Smyslov, Zuerich 1953. Smyslov won this crucial game and went on to win the tournament and challenged Botvinnik for the title. But what do modern computers have to say about his defensive play? The attacking ideas in this game are very much worth investigating and can be applied in other situations. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-key-attacking-move",
+         "pubDate" : "Fri, 05 Nov 2021 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: A key attacking move"
+      },
+      {
+         "description" : "Lawrence takes us on a ride to discover how creativity can be used for tactical patterns. The more often we repeat the exercises, the better we understand the tactics. Furthermore, Lawrence and Arne try to achieve over 2100 rating points in the ChessBase training section.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-3",
+         "pubDate" : "Fri, 05 Nov 2021 17:00:00 +0100",
+         "title" : "Trent's Tactics - Discovering creative check-mates"
+      },
+      {
          "description" : "The last round of the regular season will take place this weekend, and most teams have already secured a playoff spot. Other teams are not so lucky and are on the brink of elimination. This will be the most exciting week of the season as teams tak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Hybrid Teams"
       },
       {
-         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya with the white pieces. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - thus the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Fri, 05 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 9"
       },
       {
          "description" : "Alireza Firouzja overtook Ian Nepomniachtchi on the live rating list to move up to world no. 4 after sacrificing his queen to beat Krishnan Sasikiran. The 18-year-old leads the FIDE Chess.com Grand Swiss by a full point with just three rounds to go, but he faces the challenge of Black against Fabiano Caruana in Round 9. Fabi is one of 10 players in joint 2nd place, after he beat Nils Grandelius with the black pieces. Lei Tingjie won again and is now a point clear of 2nd placed Elisabeth Paehtz in the race for a single Women's Candidates spot.",
@@ -98,7 +114,7 @@ news_feed (
          "title" : "Play the Sicilian with White: Hungarian with ...g6 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OmtVL7NxnhM.jpg?itok=IkO-DgLy\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions.The mysterious masked Alex shows his own games and games from his students. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OmtVL7NxnhM.jpg?itok=IkO-DgLy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman",
@@ -1928,30 +1944,6 @@ news_feed (
          "link" : "https://www.thearticle.com/boris-save-us-from-the-opera-house-to-the-chessboard/",
          "pubDate" : "Sat, 16 Oct 2021 09:35:06 +0000",
          "title" : "Boris, save us: from the opera house to the chessboard "
-      },
-      {
-         "description" : "Once you worked out why Black should refrain from opening the diagonal of White's bishop on a2 with 20....cxd3??, you should also know how to refute the move played in the game: 20...Qd7??. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/disaster-on-the-diagonal",
-         "pubDate" : "Sat, 16 Oct 2021 09:00:00 +0100",
-         "title" : "Disaster on the diagonal"
-      },
-      {
-         "description" : "Iniyan Panneerselvam scored an unbeaten 7/8 to win the La Nucia International Open 2021. He had to miss the eighth round game due to his commitments towards the CoinDCX Chess Super League, and still managed to win the tournament in just eight games. He won a trophy and €2.500 as a prize. Iniyan annotated his favourite game from the tournament. | Photo: Valencian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iniyan-wins-la-nucia-open-2021",
-         "pubDate" : "Fri, 15 Oct 2021 21:45:00 +0100",
-         "title" : "Iniyan clinches La Nucia Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1386",
-         "pubDate" : "Fri, 15 Oct 2021 15:34:00 +0000",
-         "title" : "Mongolia wins the first Intercontinental Online Championship for Prisoners"
       }
    ]
 }
