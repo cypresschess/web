@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja overtook Ian Nepomniachtchi on the live rating list to move up to world no. 4 after sacrificing his queen to beat Krishnan Sasikiran. The 18-year-old leads the FIDE Chess.com Grand Swiss by a full point with just three rounds to go, but he faces the challenge of Black against Fabiano Caruana in Round 9. Fabi is one of 10 players in joint 2nd place, after he beat Nils Grandelius with the black pieces. Lei Tingjie won again and is now a point clear of 2nd placed Elisabeth Paehtz in the race for a single Women's Candidates spot.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-8-firouzja-climbs-to-world-no-4",
+         "pubDate" : "Fri, 05 Nov 2021 10:50:02 +0000",
+         "title" : "Grand Swiss 8: Firouzja climbs to world no. 4"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a an interesting positional pawn sacrifice in the Flohr-Mikenas Attack (1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Nf3 b6 8.c5!?), which Jorden van Foreest used to beat the strong Indian Grandmaster Surya Shekhar Ganguly at the Grand Swiss in Riga in just 32 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-positional-pawn-sacrifice",
+         "pubDate" : "Fri, 05 Nov 2021 11:01:37 +0100",
+         "title" : "Robert Ris' Fast and Furious: A positional pawn sacrifice"
+      },
+      {
+         "description" : " The 18-year-old, a point clear in Latvia, has a chance to become the youngest world champion in history Alireza Firouzja, the 18-year-old pretender to Magnus Carlsen's world crown, is closing in on the most important victory of his short career this weekend as the former Iranian, who now represents France, leads the 108-player Fide Grand Swiss in Riga by a full point, on an unbeaten 6.5/8 with three rounds to go. Friday's ninth round, starting at midday and free and live to watch online, includes the critical pairing of world No 3 and top seed, Fabiano Caruana, of the US, playing the white pieces, against Firouzja, who is now up to <a href=\"https://www.2700chess.com/\" title=\"\">world No 4</a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown",
+         "pubDate" : "Fri, 05 Nov 2021 08:00:15 +0000",
+         "title" : "Chess: Alireza Firouzja leads in Riga as he campaigns for Carlsen's crown"
+      },
+      {
          "description" : " <p class=\"lead\">Tournament leader, 18-year old Alireza Firouzja scored another victory in the Grand Swiss in Riga. He won as White against Krishnan Sasikiran securing that he alone is at the top before Round Nine, a full point ahead of the rest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C9A7FCC3-7132-4237-98DF-92FEAD0932CF.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The winner of that tournament will become the challenger for the n",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "The Weekly Show: Carissa Yip wins US Women's Championship 2021"
       },
       {
-         "description" : "Quick draws for Wesley So and Sam Sevian meant that Fabiano Caruana could complete a fairytale US Chess Championship comeback if he beat Sam Shankland in the final round. When Sam gave up his queen based on what he later admitted was a miscalculation glory beckoned for Fabi, but in the end he had to scramble to make a draw, which means a 3-way rapid playoff for 1st on Tuesday. Meanwhile the Women's Championship is over, with Gulrukhbegim Tokhirjonova edging out Irina Krush for 2nd place after Irina fell to Tatev Abrahamyan.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-11-caruana-miss-means-3-way-playoff",
-         "pubDate" : "Tue, 19 Oct 2021 15:11:41 +0000",
-         "title" : "US Chess Champs 11: Caruana miss means 3-way playoff"
-      },
-      {
          "description" : " I saw a nice QOTD over at Lichess from Peter Svidler <i>The biggest tool for chess improvement would be playing against stronger opposition</i> It certainly works for me, although I'm not great at doing this a lot. I think it also shows how serious you are at getting better. Study and training are all very good, but it is when the pieces hit that board that really counts. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "Challengers Tour Finals: Keymer and Liang in semis"
       },
       {
-         "description" : "Our beloved IM from London returns, but not with the \"News Review\" show. Lawrence's \"Trent's Tactics\" is teaching us about the world of tactics. In this episode, Lawrence will show us different tactics about the back-rank mate. And even though we know the motif now, some of the examples which Lawrence picked are still very challenging! In the last ten minutes, we start from basically \"zero\" and raise the rating to over 2000, in the ChessBase training section.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics",
-         "pubDate" : "Fri, 15 Oct 2021 21:00:00 +0100",
-         "title" : "New: Trent's Tactics - Back-rank checkmate"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-do-commentary-during-world-chess-championship-match/articleshow/87041912.cms",
          "pubDate" : "Fri, 15 Oct 2021 18:23:01 +0530",
          "title" : "Viswanathan Anand to do commentary during world chess championship match"
-      },
-      {
-         "description" : " Before we can finish our student game, we have to look at an extremely important part of the middle-game, the transition into the endgame. For this reason, I am going to delay the finish of our game until the week after next because I want to go over this transition in detail. It is very <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-eight/\">A Foundation for Beginners Thirty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-eight/",
-         "pubDate" : "Fri, 15 Oct 2021 09:16:27 +0000",
-         "title" : "A Foundation for Beginners Thirty Eight"
       }
    ]
 }
