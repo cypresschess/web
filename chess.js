@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hybrid Chess is one of the new innovations that has gained in popularity during the various covid lockdown periods. I have been involved as an arbiter for these events, an still have mixed opinions on how well they work (NB I was involved in the drafting of the FIDE Hybrid Regulations). Of the events I have worked on, the format that seems to suit Hybrid Chess the best is for team events. Individual events can be a little messy to organise, especially small events like round robins. But team events have a more suitable arbiter(s) to player ratio. In the ongoing Asian Club Cup there are usually 2 officials per team or 2 teams, which is 1 to 3 or 1 to 6. However this also works best if there ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/hybrid-teams.html",
+         "pubDate" : "Fri, 05 Nov 2021 13:05:00 +0000",
+         "title" : "Hybrid Teams"
+      },
+      {
          "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya with the white pieces. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1386",
          "pubDate" : "Fri, 15 Oct 2021 15:34:00 +0000",
          "title" : "Mongolia wins the first Intercontinental Online Championship for Prisoners"
-      },
-      {
-         "description" : "From the 15th 21st October 2021. Follow the results here http://chess-results.com/tnr582081.aspx?lan=1&#38;art=25&#38;fedb=ENG&#38;turdet=YES&#38;flag=30 Pictures by Matthew Carr Name Group George Zhao U8 Open Kushal Jakhria...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-at-the-european-youth-hybrid-championship/",
-         "pubDate" : "Fri, 15 Oct 2021 14:32:51 +0000",
-         "title" : "England at the European Youth Hybrid Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87041912.cms\" />Indian chess maestro Viswanathan Anand will be one of the official commentators for the FIDE World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai from November 24.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-do-commentary-during-world-chess-championship-match/articleshow/87041912.cms",
-         "pubDate" : "Fri, 15 Oct 2021 18:23:01 +0530",
-         "title" : "Viswanathan Anand to do commentary during world chess championship match"
       }
    ]
 }
