@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2021-11-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202111050452 target=' blank'>FBCC 2021 ITALIAN NOVEMBER CLASSICP</a>",
+"CYPRESS","2021-11-05","19","<a href=http://www.uschess.org/msa/XtblMain.php?202111050422 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-10-30  - 10-31","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110318712 target=' blank'>HALLOWEEN WEEKEND 2-DAY SWISS</a>",
 "HOUSTON","2021-10-29  - 10-31","332","<a href=http://www.uschess.org/msa/XtblMain.php?202110318672 target=' blank'>24TH NORTH/CENTRAL TEXAS GRADE CHAM</a>",
 "CYPRESS","2021-10-29","14","<a href=http://www.uschess.org/msa/XtblMain.php?202110297682 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2020-10-17","27","<a href=http://www.uschess.org/msa/XtblMain.php?202010174062 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2020-10-10  - 10-11","16","<a href=http://www.uschess.org/msa/XtblMain.php?202010112892 target=' blank'>THE CHESS REFINERY: WILCREST FINAL</a>",
 "KATY","2020-10-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202010103312 target=' blank'>SR CHESSKNIGHTS 10102020</a>",
-"SPRING","2020-10-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202010092612 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-10-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202010031482 target=' blank'>SR CHESSKNIGHTS 10032020</a>",
 ]);
