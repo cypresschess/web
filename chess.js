@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#160; India won 8 medals which include 2 Gold, 1 Silver and 5 Bronze to finish over all second in the Open Category of Asian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/bharath-subramaniyam-and-pranav-anand-won-gold-8-medal-for-india-in-asian-youth-online-open-chess-championship/",
+         "pubDate" : "Sat, 06 Nov 2021 12:53:59 +0000",
+         "title" : "Bharath Subramaniyam and Pranav Anand won Gold; 8 medal for India in Asian Youth Online Open Chess Championship"
+      },
+      {
+         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - thus the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Sat, 06 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1421",
          "pubDate" : "Sat, 06 Nov 2021 10:58:12 +0000",
          "title" : "Kaspersky becomes an official sponsor of the Lindores Abbey Blitz in Riga"
+      },
+      {
+         "description" : " Last time I mentioned the Max Lange Attack, annotating a game where it might have arisen from a Giuoco Piano. It can also arise from other openings, for instance 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 (the Two Knights Defence) 4. d4 exd4 5. O-O Bc5 6. e5, and 1. e4 e5 2. <a href=\"https://chessimprover.com/max-lange-attack/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Max Lange Attack\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/max-lange-attack/\">Max Lange Attack</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/max-lange-attack/",
+         "pubDate" : "Sat, 06 Nov 2021 10:50:30 +0000",
+         "title" : "Max Lange Attack"
       },
       {
          "description" : "The annual chess match between the teams of Oxford and Cambridge Universities, the Varsity match, has often been described as the Boat Race of the Brain. This year, the Cambridge boat sank, with almost all hands. After 139 matches the overall score now stands at: Cambridge 60 wins, Oxford 57 and Drawn 22, which is at []",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "Challengers Chess Tour Finals - Pragg wins"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 49th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how White conducts a typical attack in the Sicilian. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-49-the-beginning-of-an-attack",
-         "pubDate" : "Sun, 17 Oct 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 49: The beginning of an attack"
-      },
-      {
          "description" : " People often buy and read the wrong books, as you will have seen from my previous articles. I suspect people often buy and read opening books which, while perhaps excellent in themselves, are pitched at the wrong level for them. Broadly speaking, you could say that there are three types of opening book: 1500 books, <a href=\"https://chessimprover.com/wrong-opening-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Opening Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-opening-books/\">Wrong Opening Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/",
          "pubDate" : "Sun, 17 Oct 2021 07:04:50 +0000",
          "title" : "European Youth & Junior Chess Championships 2021 starts"
-      },
-      {
-         "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/the-return-of-street-chess.html",
-         "pubDate" : "Sat, 16 Oct 2021 11:53:00 +0000",
-         "title" : "The return of Street Chess"
       }
    ]
 }
