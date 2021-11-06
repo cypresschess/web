@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1422",
+         "pubDate" : "Sat, 06 Nov 2021 21:34:34 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Round 10 Recap"
+      },
+      {
+         "description" : "With one round to go, GM Alireza Firouzja is back as the sole leader at the FIDE Chess.com Grand Swiss. Despite missing a brilliant defensive move from the Englishman in time trouble, the French-Iranian GM beat GM David Howell. GM Fabiano Caruana ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-10-firouzja-howell",
+         "pubDate" : "Sat, 06 Nov 2021 14:10:00 -0700",
+         "title" : "FIDE Chess.com Grand Swiss R10: Firouzja Sole Leader Again, Lei Secures Victory"
+      },
+      {
          "description" : " <p class=\"lead\">Alireza Firouzja, an 18-year old chess prodigy who was a sole leader for most of the Grand Swiss, an important tournament held by the International Chess Federation, managed to regain the lead by beating David Howell, a UK GM. He is now half point ahead of his closest rival, Fabiano Caruana. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CB6E08BC-9CFA-48E6-A43C-F67621080F13.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1312,14 +1328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/italian-fm-michel-bifulco-wins-43-open-int-citt-di-arco",
          "pubDate" : "Tue, 26 Oct 2021 14:08:52 +0100",
          "title" : "Italian FM Michel Bifulco wins 43. Open Int. Citt&agrave; di Arco"
-      },
-      {
-         "description" : "The 84th edition of the Tata Steel Chess tournament during January 14-30, 2022 in Wijk aan Zee, the Netherlands, will again have the world&#39;s top two players, GM Magnus Carlsen and GM Fabiano Caruana. On Tuesday, 13 of the 14 participants were anno...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-participants",
-         "pubDate" : "Tue, 26 Oct 2021 05:20:00 -0700",
-         "title" : "Carlsen, Caruana Top Field For 2022 Tata Steel Chess Tournament"
       },
       {
          "description" : "While entering moves, writing comments, and evaluating positions are the most fundamental aspects of chess annotation, there is little doubt that illustrating the board with well-placed arrows, and timely highlighted squares can tell you in a glance you can see what is going on without a single variation or comment. Be sure to have these tools in your tool kit.",
