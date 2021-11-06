@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk with the black pieces. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r9",
+         "pubDate" : "Sat, 06 Nov 2021 02:20:00 +0100",
+         "title" : "Grand Swiss: Three co-leaders as Caruana beats Firouzja"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1419",
          "pubDate" : "Fri, 05 Nov 2021 22:27:36 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 9 Recap"
+      },
+      {
+         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. It was a modest start, but one that went on to completely change the chess world. Today, we start retracing the steps that led to the development of a fledgling chess program that went on to become one of the most powerful entities that has ever played the game - one that top players consult when preparing for their next tournament or match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-1",
+         "pubDate" : "Fri, 05 Nov 2021 23:09:59 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (1)"
       },
       {
          "description" : "",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "Hybrid Teams"
       },
       {
-         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - thus the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Fri, 05 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 9"
-      },
-      {
          "description" : "Alireza Firouzja overtook Ian Nepomniachtchi on the live rating list to move up to world no. 4 after sacrificing his queen to beat Krishnan Sasikiran. The 18-year-old leads the FIDE Chess.com Grand Swiss by a full point with just three rounds to go, but he faces the challenge of Black against Fabiano Caruana in Round 9. Fabi is one of 10 players in joint 2nd place, after he beat Nils Grandelius with the black pieces. Lei Tingjie won again and is now a point clear of 2nd placed Elisabeth Paehtz in the race for a single Women's Candidates spot.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r8",
          "pubDate" : "Fri, 05 Nov 2021 05:25:00 +0100",
          "title" : "Grand Swiss: Lei and Firouzja on a roll"
-      },
-      {
-         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. It was a modest start, but one that went on to completely change the chess world. Today, we start retracing the steps that led to the development of a fledgling chess program that went on to become one of the most powerful entities that has ever played the game - one that top players consult when preparing for their next tournament or match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-1",
-         "pubDate" : "Thu, 04 Nov 2021 23:09:59 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (1)"
       },
       {
          "description" : "",
