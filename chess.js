@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Alireza Firouzja, an 18-year old chess prodigy who was a sole leader for most of the Grand Swiss, an important tournament held by the International Chess Federation, managed to regain the lead by beating David Howell, a UK GM. He is now half point ahead of his closest rival, Fabiano Caruana. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CB6E08BC-9CFA-48E6-A43C-F67621080F13.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-back-in-the-lead-before-the-final-round/",
+         "pubDate" : "Sat, 06 Nov 2021 17:53:58 +0000",
+         "title" : "Grand Swiss: Firouzja Back In the Lead Before the Final Round"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87558055.cms\" />Five-time world champion Viswanathan Anand will play the role of a mentor to the Indian youngsters at the third Tata Steel Chess India Rapid and Blitz tournament, starting from November 17.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-mentor-indian-players-as-tata-steel-chess-returns-to-kolkata/articleshow/87558055.cms",
+         "pubDate" : "Sat, 06 Nov 2021 21:01:31 +0530",
+         "title" : "Anand to mentor Indian players as Tata Steel Chess returns to Kolkata"
+      },
+      {
          "description" : "&#160; India won 8 medals which include 2 Gold, 1 Silver and 5 Bronze to finish over all second in the Open Category of Asian",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
