@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1421",
+         "pubDate" : "Sat, 06 Nov 2021 10:58:12 +0000",
+         "title" : "Kaspersky becomes an official sponsor of the Lindores Abbey Blitz in Riga"
+      },
+      {
+         "description" : "The annual chess match between the teams of Oxford and Cambridge Universities, the Varsity match, has often been described as the Boat Race of the Brain. This year, the Cambridge boat sank, with almost all hands. After 139 matches the overall score now stands at: Cambridge 60 wins, Oxford 57 and Drawn 22, which is at []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/cambridge-boat-sinks-at-chess/",
+         "pubDate" : "Sat, 06 Nov 2021 10:38:05 +0000",
+         "title" : "Cambridge boat sinks - at chess"
+      },
+      {
+         "description" : "Fabiano Caruana beat Alireza Firouzja on demand to catch the 18-year-old with just two rounds of the FIDE Chess.com Grand Swiss to go. The victory also allowed David Howell to join them in a 3-way tie for 1st after Anton Korobov's attempt to exploit his opponent's time trouble backfired completely. 10 players, including Fabi's Round 10 opponent Maxime Vachier-Lagrave, are half a point behind. Meanwhile Lei Tingjie beat Alexandra Kosteniuk to reach an amazing 8/9 and needs just one draw in the next two rounds to be certain of the Candidates spot.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-9-caruana-takes-down-firouzja",
+         "pubDate" : "Sat, 06 Nov 2021 10:31:02 +0000",
+         "title" : "Grand Swiss 9: Caruana takes down Firouzja"
+      },
+      {
+         "description" : "In the diagram position, Black's has just played 16...Qg4, threatening 17...Nxg2+ while preventing 0-0-0. So, White's king is in a fix, and in the game it ended up getting checkmated on ... a5! Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/romanishin-the-romantic",
+         "pubDate" : "Sat, 06 Nov 2021 09:00:00 +0100",
+         "title" : "Romanishin, the romantic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1420",
+         "pubDate" : "Sat, 06 Nov 2021 07:33:30 +0000",
+         "title" : "Decisions of 2021 3rd FIDE Council Meeting"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87550433.cms\" />India's Dronavalli Harika wore down Russia's Alina Kashlinskaya with black pieces in the ninth round of the FIDE Women's Grand Swiss chess tournament to share the joint second spot with four other players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-beats-alina-kashlinskaya-to-grab-joint-second-spot/articleshow/87550433.cms",
+         "pubDate" : "Sat, 06 Nov 2021 12:05:38 +0530",
+         "title" : "FIDE Grand Swiss: Harika beats Kashlinskaya to grab joint 2nd spot"
+      },
+      {
          "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk with the black pieces. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1666,14 +1714,6 @@ news_feed (
          "title" : "Baden-Baden wins Bundesliga"
       },
       {
-         "description" : "Wesley So beat Fabiano Caruana and Sam Sevian in rapid playoffs to win the 2021 US Chess Championship, becoming the first player to defend the title since Gata Kamsky in 2014. \"I think Fabi should have won today considering how well he played,\" said Wesley, but despite getting into a close to lost position against Fabiano he hit back and won on time in an already winning position. Caruana went on to beat Sevian, but Wesley cruised to victory against Sam to clinch the title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-wins-his-3rd-us-chess-championship",
-         "pubDate" : "Wed, 20 Oct 2021 06:54:31 +0000",
-         "title" : "Wesley So wins his 3rd US Chess Championship"
-      },
-      {
          "description" : "Seven rounds have been already played at the European Youth&#38;Junior Hybrid Chess Championships 2021 and only two rounds left before the announcement of the Winners. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20 (open and girls separately), in Swiss system, 9 rounds, through Tornelo playing platform. 33 European National Federations&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1938,36 +1978,12 @@ news_feed (
          "title" : "European Youth & Junior Chess Championships 2021 starts"
       },
       {
-         "description" : "It was a rather short day at the office for the semifinalists of the Julius Baer Challengers Tour Finals, as Praggnanandhaa and Christopher Yoo only needed three games to knock out Vincent Keymer and Awonder Liang respectively. After an astounding win by Pragg, Vladimir Kramnik was full of praise for his play, even comparing him with Magnus Carlsen. \"He's playing almost like a real world champion, not a future one\", said Kramnik.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-3",
-         "pubDate" : "Sun, 17 Oct 2021 00:15:00 +0100",
-         "title" : "Challengers Tour Finals: Pragg and Yoo make it through"
-      },
-      {
          "description" : " Fingers crossed, but Street Chess is planning to return to face to face chess on Saturday 30th October (in 2 weeks). The first set of Covid restrictions have been lifted in Canberra, with a further easing on the 29th. King O'Malley's, who hosts Street Chess is opening then, and the plan is for us to return on the Saturday. At this stage, masks will still be compulsory (an check ins), but the requirement to be vaccinated is still to be determined (btw 99% of Canberrans have already received at least 1 vaccine shot). When I find out more information I will post it here, but for now, it is looking good for a restart of OTB chess in Canberra. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/10/the-return-of-street-chess.html",
          "pubDate" : "Sat, 16 Oct 2021 11:53:00 +0000",
          "title" : "The return of Street Chess"
-      },
-      {
-         "description" : " <p class=\"lead\">New features and updates for the FIDE Online Arena, the official FIDE gaming platform, are being introduced every week. Here we are keeping you up-to-date with the latest. <h2>The board just got bigger!</h2> The board became much bigger - the design has been updated following users' feedback. The signature Arena interface stays the same, with the chess board in the center of the screen (just like in over-the-board games!), menu and options are on the left of the board, and the notation - on the right. The playing area looks beautiful. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A1EF638C-4616-436C-A999-355C824B6305.jpeg\" width=\"2388\" height=\"1",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/whats-new-on-fide-online-arena-october-2021/",
-         "pubDate" : "Sat, 16 Oct 2021 10:02:31 +0000",
-         "title" : "What's New on FIDE Online Arena: October 2021"
-      },
-      {
-         "description" : "At the start of Modeste Mussorgsky's opera, Boris Godunov, discontented crowds gather in Moscow, both at the Novodevichy Monastery and outside the battlements of the Kremlin, to implore the new Czar, Boris, to save the people from the evils of the day; pandemic, famine, unemployment and general civil unrest. The crowd also articulates a desperate plea to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/boris-save-us-from-the-opera-house-to-the-chessboard/",
-         "pubDate" : "Sat, 16 Oct 2021 09:35:06 +0000",
-         "title" : "Boris, save us: from the opera house to the chessboard "
       }
    ]
 }
