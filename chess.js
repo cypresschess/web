@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1424",
+         "pubDate" : "Sun, 07 Nov 2021 17:44:44 +0000",
+         "title" : "Liudmila Belavenets passes away"
+      },
+      {
          "description" : "Nagpur based teenager Sankalp Gupta becomes the 71st Grandmaster of the country after completing the requirement to be next Grandmaster of the country by securing",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beating-budapest-gambit-gm-lenderman-plays-people",
          "pubDate" : "Sun, 07 Nov 2021 09:41:52 +0000",
          "title" : "Beating the Budapest Gambit! | GM Lenderman Plays The People"
+      },
+      {
+         "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r10",
+         "pubDate" : "Sun, 07 Nov 2021 08:45:00 +0100",
+         "title" : "Grand Swiss: Firouzja beats Howell"
       },
       {
          "description" : " With 1 round to play in the FIDE Grand Prix French GM Alireza Firouja leads on 7.5, half a point ahead of Fabiano Caruana and Grigoriy Oparin. The sole Australian entrant, Timur Kuybokarov is mid field, having scored a solid 50% against a field entirely rated over 2600. He has 2 wins, 2 losses and 6 draws, and a win in the final round will see him finish well above his seeding. Along the way he scored the following nice victory <b>Kovalev,Vladislav (2634) - Kuybokarov,Temur (2549) [C78]</b><br />2021 FIDE Chess.com Grand Swiss Riga (7.41), 03.11.2021 <script>new PgnViewer( { boardName: \"game1287\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb",
@@ -1994,28 +2010,12 @@ news_feed (
          "title" : "Superfinals: Vitiugov and Gunina sole leaders"
       },
       {
-         "description" : "There was no stopping Praggnanandhaa in the Finals of the Julius Baer Challengers Tour. The 16-year-old from Chennai scored a dominating 3-0 victory in the final match against Christopher Yoo, which means he was a half point away from getting a perfect score in the event - he got 8&frac12;/9 points after knocking out Volodar Murzin and Vincent Keymer in the previous rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-day-4",
-         "pubDate" : "Mon, 18 Oct 2021 11:10:00 +0100",
-         "title" : "Impressive Praggnanandhaa wins Julius Baer Challengers Tour Finals"
-      },
-      {
          "description" : "At the recent AGM it was not possible to announce the results of the elections due to shortness of time and also because of considerable...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-agm-election-results/",
          "pubDate" : "Mon, 18 Oct 2021 08:55:40 +0000",
          "title" : "ECF AGM Election Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1387",
-         "pubDate" : "Sun, 17 Oct 2021 19:22:37 +0000",
-         "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
       }
    ]
 }
