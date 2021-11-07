@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alireza Firouzja won&#38;nbsp;the FIDE Chess.com Grand Swiss on Sunday in Riga. The French-Iranian grandmaster was the only player to finish on 8/11 after all the key games ended in draws in the final round. Firouzja qualified for the 2022 FIDE Can...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-fide-chess-com-grand-swiss-caruana-candidates",
+         "pubDate" : "Sun, 07 Nov 2021 14:21:00 -0800",
+         "title" : "Firouzja Wins FIDE Chess.com Grand Swiss, Reaches Candidates With Caruana"
+      },
+      {
+         "description" : "All chess analysis, and that of endgames in particular, has been transformed in recent years by computer technology. Not only can you turn an engine on to get an instant assessment, which is generally fairly correct, but when you get down to seven pieces, then you have the ear of God - or rather an omniscient tablebase. In today's column, we look at two fascinating endgames from the Grand Swiss in Riga. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-157",
+         "pubDate" : "Sun, 07 Nov 2021 22:10:00 +0100",
+         "title" : "The joy of endgames"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Understanding before Moving 52: Space advantage"
       },
       {
-         "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Sun, 07 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss: Final round - Live!"
+         "title" : "Grand Swiss - Firouzja and Caruana in the Candidates"
       },
       {
          "description" : "",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
       },
       {
-         "description" : "Following a precautionary move from the Isle of Man to Riga and despite a new local lockdown in Latvia, the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss took off on Wednesday. Top-seed GM Fabiano Caruana and third-seed GM Alireza Firouzja we...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chesscom-grand-swiss-round-1",
-         "pubDate" : "Tue, 26 Oct 2021 23:35:00 -0700",
-         "title" : "Caruana, Firouzja Among Winners As FIDE Chess.com Grand Swiss Begins In Riga"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/rules-shouldnt-always-be-rules.html",
          "pubDate" : "Mon, 18 Oct 2021 13:16:00 +0000",
          "title" : "Rules shouldn't always be rules"
-      },
-      {
-         "description" : "With three rounds to go in the Russian Superfinals, Nikita Vitiugov and Valentina Gunina are leading the tournament standings in the open and women's event respectively. Vitiugov climbed to first place after surviving a lost position against Kirill Alekseenko, while Gunina is undefeated with five wins in eight games so far in Ufa. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r8",
-         "pubDate" : "Mon, 18 Oct 2021 11:50:00 +0100",
-         "title" : "Superfinals: Vitiugov and Gunina sole leaders"
       },
       {
          "description" : "At the recent AGM it was not possible to announce the results of the elections due to shortness of time and also because of considerable...",
