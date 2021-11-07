@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
+         "pubDate" : "Sun, 07 Nov 2021 12:55:00 +0100",
+         "title" : "Grand Swiss: Final round - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1423",
+         "pubDate" : "Sun, 07 Nov 2021 11:38:43 +0000",
+         "title" : "Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
+      },
+      {
+         "description" : "Alireza Firouzja needs just a draw in the final round of the FIDE Chess.com Grand Swiss to guarantee a spot in the 2022 Candidates Tournament after winning a thriller against David Howell. The only other players with their fate in their own hands are his last-round opponent Grigoriy Oparin, who will qualify with a win, and Fabiano Caruana, who also needs a win over Alexandr Predke to be certain of the Candidates, though a draw would probably be enough. Lei Tingjie made no mistake as she drew against Mariya Muzychuk to clinch the women's title, $20,000 and a place in the Women's Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-swiss-10-firouzja-a-draw-away-from-candidates",
+         "pubDate" : "Sun, 07 Nov 2021 10:01:16 +0000",
+         "title" : "Grand Swiss 10: Firouzja a draw away from the Candidates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman defeats a Budapest Gambit player on lichess.org. The Budapest Gambit (or Budapest Defence) is a chess opening that begins with the moves 1.d4 Nf6 2.c4 e5. Originally on Twitch. 2021.10.20<br /> Alex Lenderman vs. Jules_04, 2021: A52 Budapest, Alekhine, Abonyi variation<br /> <a href=\"https://lichess.org/zSy0mz0erv6Z\">https://lichess.org/zSy0mz0erv6Z</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-budapest-gambit-gm-lenderman-p",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-budapest-gambit-gm-lenderman-plays-people",
+         "pubDate" : "Sun, 07 Nov 2021 09:41:52 +0000",
+         "title" : "Beating the Budapest Gambit! | GM Lenderman Plays The People"
+      },
+      {
          "description" : " With 1 round to play in the FIDE Grand Prix French GM Alireza Firouja leads on 7.5, half a point ahead of Fabiano Caruana and Grigoriy Oparin. The sole Australian entrant, Timur Kuybokarov is mid field, having scored a solid 50% against a field entirely rated over 2600. He has 2 wins, 2 losses and 6 draws, and a win in the final round will see him finish well above his seeding. Along the way he scored the following nice victory <b>Kovalev,Vladislav (2634) - Kuybokarov,Temur (2549) [C78]</b><br />2021 FIDE Chess.com Grand Swiss Riga (7.41), 03.11.2021 <script>new PgnViewer( { boardName: \"game1287\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://aicf.in/bharath-subramaniyam-and-pranav-anand-won-gold-8-medal-for-india-in-asian-youth-online-open-chess-championship/",
          "pubDate" : "Sat, 06 Nov 2021 12:53:59 +0000",
          "title" : "Bharath Subramaniyam and Pranav Anand won Gold; 8 medal for India in Asian Youth Online Open Chess Championship"
-      },
-      {
-         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - thus the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Sat, 06 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Round 10"
       },
       {
          "description" : "",
@@ -506,14 +530,6 @@ news_feed (
          "title" : "2021 Saint Louis Corporate Chess League: Fall Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches an advanced class about transitioning to pawn endgames. The mysterious masked Alex loves getting superior pawn endgame, and you will too, when you know how. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n6DgbEn0Qlk.jpg?itok=cc5qgVjM\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/transition-pawn-endgames-insane-endgame-gm-alex-lenderman",
-         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
-         "title" : "Transition into Pawn Endgames | Insane in the Endgame - GM Alex Lenderman"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -754,7 +770,7 @@ news_feed (
          "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
       },
       {
-         "description" : " Share!132 FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!228 FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana, St. Louis 2021"
       },
       {
-         "description" : "Nikita Vitiugov has won the Russian Championship Superfinal at his 15th attempt, after playing in all but one event since he made his debut as a 19-year-old in 2006. Nikita scored an unbeaten +3 to finish half a point above Maxim Matlakov in 2nd place and a point ahead of Vladimir Fedoseev and Dmitry Andreikin in 3rd. In the women's event Valentina Gunina won her 4th Russian Championship title, but her first since 2014, with Polina Shuvalova missing a chance to clinch the title in their nerve-wracking final-round game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/vitiugov-and-gunina-win-russian-championship-titles",
-         "pubDate" : "Thu, 21 Oct 2021 09:40:16 +0000",
-         "title" : "Vitiugov and Gunina win Russian Championship titles"
-      },
-      {
          "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1387",
          "pubDate" : "Sun, 17 Oct 2021 19:22:37 +0000",
          "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
-      },
-      {
-         "description" : " People often buy and read the wrong books, as you will have seen from my previous articles. I suspect people often buy and read opening books which, while perhaps excellent in themselves, are pitched at the wrong level for them. Broadly speaking, you could say that there are three types of opening book: 1500 books, <a href=\"https://chessimprover.com/wrong-opening-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Opening Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-opening-books/\">Wrong Opening Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/wrong-opening-books/",
-         "pubDate" : "Sun, 17 Oct 2021 10:50:17 +0000",
-         "title" : "Wrong Opening Books"
       }
    ]
 }
