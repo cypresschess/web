@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nagpur based teenager Sankalp Gupta becomes the 71st Grandmaster of the country after completing the requirement to be next Grandmaster of the country by securing",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-sankalp-gupta-71st-grandmaster-of-india/",
+         "pubDate" : "Sun, 07 Nov 2021 15:06:54 +0000",
+         "title" : "Congratulations Sankalp Gupta : 71st Grandmaster of India"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52nd instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the pleasures of having a space advantage. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-52-space-advantage",
+         "pubDate" : "Sun, 07 Nov 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 52: Space advantage"
+      },
+      {
          "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. Follow the action live with expert commentary starting at 14.00 local time (13.00 CEST, 7.00 ET, 16.30 IST). | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1992,14 +2008,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-agm-election-results/",
          "pubDate" : "Mon, 18 Oct 2021 08:55:40 +0000",
          "title" : "ECF AGM Election Results"
-      },
-      {
-         "description" : "Knowing the ins and outs of annotating a game in ChessBase is one of the most fundamental and useful skills to have in it. It is vital so you can prepare openings, review your games, and more. Before stating you know all this, ask yourself: can you easily add text before a move, add symbols such as 'with attack', and add a '!' without a mouse? Let's start mastering the tools!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-the-basics",
-         "pubDate" : "Mon, 18 Oct 2021 07:32:23 +0100",
-         "title" : "Annotating in ChessBase: The Basics"
       },
       {
          "description" : "",
