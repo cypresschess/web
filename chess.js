@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With 1 round to play in the FIDE Grand Prix French GM Alireza Firouja leads on 7.5, half a point ahead of Fabiano Caruana and Grigoriy Oparin. The sole Australian entrant, Timur Kuybokarov is mid field, having scored a solid 50% against a field entirely rated over 2600. He has 2 wins, 2 losses and 6 draws, and a win in the final round will see him finish well above his seeding. Along the way he scored the following nice victory <b>Kovalev,Vladislav (2634) - Kuybokarov,Temur (2549) [C78]</b><br />2021 FIDE Chess.com Grand Swiss Riga (7.41), 03.11.2021 <script>new PgnViewer( { boardName: \"game1287\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/grand-swiss-2021.html",
+         "pubDate" : "Sun, 07 Nov 2021 07:13:00 +0000",
+         "title" : "Grand Swiss 2021"
+      },
+      {
+         "description" : "In his first opening video for ChessBase Magazine Markus Ragger takes up an idea that the World Champion tried out at the FIDE World Cup this summer. In the Moscow Variation (1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4) White almost always recaptures the d4-pawn with the queen. Carlsen played 5.Nxd4 against Wojtaszek instead and answered 5...Nf6 with the remarkable 6.0-0. In the new ChessBase Magazine Markus Ragger explains the potential of the new concept in a half hour video. From simple stumbling blocks (why can't Black just win the pawn with 6...Sxe4?) to tricky double attacks and positional exchange sacrifices, everything is possible! Here's an excerpt from Ragger's analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-s-new-idea-in-the-sicilian-with-3-bb5",
+         "pubDate" : "Sun, 07 Nov 2021 07:30:00 +0100",
+         "title" : "Carlsen's new idea in the Sicilian with 3.Bb5+"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
          "pubDate" : "Sat, 06 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Grand Swiss - Round 10"
       },
       {
          "description" : "",
@@ -1986,36 +2002,12 @@ news_feed (
          "title" : "FIDE World Amateur Chess Championship kicks-off in Rhodes"
       },
       {
-         "description" : "Star columnist Jon Speelman looks at the next generation of chess stars, presenting games from Aleksandra Goryachkina, Andrey Esipenko and Nihal Sarin. Speelman notes that \"the interesting thing with young players is not only how well they can play at their peak, but also, and no less important, howe well they can play at their ambient level\". | Pictured: Andrey Esipenko and Zhansaya Abdmualik at this year's World Cup in Sochi. | Photo: Anastassia Korolkova / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-156",
-         "pubDate" : "Sun, 17 Oct 2021 17:00:00 +0100",
-         "title" : "Monarchs and ubersprogs"
-      },
-      {
-         "description" : "The knockout Finals of the Julius Baer Challengers Chess Tour are taking place on October 14-17. The 8 top qualifiers from the previous \"Challenge\" events are participating. Each match consists of four rapid games, with 10 minutes per player for each game plus a 5-second increment. | The action kicks off daily at 16.00 CEST (10.00 ET / 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finals-julius-baer-tour-live",
-         "pubDate" : "Sun, 17 Oct 2021 15:55:00 +0100",
-         "title" : "Challengers Chess Tour Finals - Pragg wins"
-      },
-      {
          "description" : " People often buy and read the wrong books, as you will have seen from my previous articles. I suspect people often buy and read opening books which, while perhaps excellent in themselves, are pitched at the wrong level for them. Broadly speaking, you could say that there are three types of opening book: 1500 books, <a href=\"https://chessimprover.com/wrong-opening-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Opening Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-opening-books/\">Wrong Opening Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/wrong-opening-books/",
          "pubDate" : "Sun, 17 Oct 2021 10:50:17 +0000",
          "title" : "Wrong Opening Books"
-      },
-      {
-         "description" : "The European Youth&#38;Junior Hybrid Chess Championships 2021 kicked off on Friday, 15th of October. ECU President, Mr. Zurab Azmaiparashvili sent a welcome message for the 900 players, coming from 32 European federations. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20, open and girls sections separately, through Tornelo playing platform, in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-junior-chess-championships-2021-starts/",
-         "pubDate" : "Sun, 17 Oct 2021 07:04:50 +0000",
-         "title" : "European Youth & Junior Chess Championships 2021 starts"
       }
    ]
 }
