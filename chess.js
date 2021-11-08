@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1425",
+         "pubDate" : "Sun, 07 Nov 2021 23:22:18 +0000",
+         "title" : "FIDE Chess.com Grand Swiss: Firouzja and Lei triumph in Riga"
+      },
+      {
          "description" : "GM Alireza Firouzja won&#38;nbsp;the FIDE Chess.com Grand Swiss on Sunday in Riga. The French-Iranian grandmaster was the only player to finish on 8/11 after all the key games ended in draws in the final round. Firouzja qualified for the 2022 FIDE Can...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
