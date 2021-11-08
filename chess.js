@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a great initiative to promote the game of chess at Arunachal Pradesh, the Government of Arunachal Pradesh decided provide all the logistical support for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-in-school-project-at-arunachal-pradesh/",
+         "pubDate" : "Mon, 08 Nov 2021 09:14:51 +0000",
+         "title" : "Chess in School Project at Arunachal Pradesh"
+      },
+      {
+         "description" : "In honour of the 85th anniversary of the birth of the 8th World Chess Champion Mikhail Tal, FIDE is endorsing the Lindores Abbey Blitz Tournament, which is taking place on November 8 in the historical Hanzas Perons venue in Riga, Latvia. The Swiss System tournament will include nine rounds. Each round will consist of two games played against the same opponent, one with each colour. Maxime Vachier-Lagrave, Levon Aronian and Fabiano Caruana are the top seeds. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lindores-abbey-blitz-2021-live",
+         "pubDate" : "Mon, 08 Nov 2021 10:00:00 +0100",
+         "title" : "Lindores Abbey Blitz - Live!"
+      },
+      {
          "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,14 +2010,6 @@ news_feed (
          "title" : "US Championships: Caruana shares the lead, Yip secures women's title"
       },
       {
-         "description" : "In the Endgame Magic Show #166 Karsten M&uuml;ller Arne and Karsten discuss endgame highlights from the finals of the Champions Chess Tour, which ended in October and was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-166-endgame-highlights-from-the-finals-of-the-champions-chess-tour",
-         "pubDate" : "Mon, 18 Oct 2021 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic #166: Endgame highlights from the finals of the Champions Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/rules-shouldnt-always-be-rules.html",
          "pubDate" : "Mon, 18 Oct 2021 13:16:00 +0000",
          "title" : "Rules shouldn't always be rules"
-      },
-      {
-         "description" : "At the recent AGM it was not possible to announce the results of the elections due to shortness of time and also because of considerable...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-election-results/",
-         "pubDate" : "Mon, 18 Oct 2021 08:55:40 +0000",
-         "title" : "ECF AGM Election Results"
       }
    ]
 }
