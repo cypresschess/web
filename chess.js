@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r11",
+         "pubDate" : "Mon, 08 Nov 2021 08:35:00 +0100",
+         "title" : "Firouzja wins Grand Swiss, Caruana qualifies to Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87579018.cms\" />Indian chess ace Dronavalli Harika held top-seed Mariya Muzychuk of Ukraine to a draw in the 11th and final round of the FIDE Women's Grand Swiss chess tournament here to finish fifth and qualify for the next women's Grand Prix cycle.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-tournament-dronavalli-harika-finishes-5th-qualifies-for-next-gp-cycle/articleshow/87579018.cms",
+         "pubDate" : "Mon, 08 Nov 2021 11:01:10 +0530",
+         "title" : "FIDE Grand Swiss: Harika finishes 5th, qualifies for next GP cycle"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87576235.cms\" />On Sunday, city's third International Master (IM) Sankalp Gupta scripted history by becoming India's quickest and 71st chess Grandmaster (GM) in Serbia. V Anand started it all in 1987.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-scripts-history-takes-24-days-to-become-indias-quickest-and-71st-grandmaster/articleshow/87576235.cms",
+         "pubDate" : "Mon, 08 Nov 2021 08:26:45 +0530",
+         "title" : "Sankalp scripts history, takes 24 days to become India's quickest and 71st Grandmaster"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1976,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-166-endgame-highlights-from-the-finals-of-the-champions-chess-tour",
          "pubDate" : "Mon, 18 Oct 2021 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic #166: Endgame highlights from the finals of the Champions Chess Tour"
-      },
-      {
-         "description" : "At the FIDE World Cup 2021 Magnus Carlsen surprised his opponent Vladimir Fedoseev in the Caro-Kann Advance Variation (1.e4 c6 2.d4 d5 3.e5 Bf5) with the move 4.c4. Jan Werle analyses this brilliant game in ChessBase Magazine Extra #203 in a video and pays special attention to the opening. Is Carlsen's idea a good attacking weapon against the Caro-Kann? Take a look at an excerpt from Werle's video analysis!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-s-4-c4-in-the-caro-kann-advance-variation",
-         "pubDate" : "Mon, 18 Oct 2021 17:00:00 +0100",
-         "title" : "Carlsen's 4.c4 in the Caro-Kann Advance Variation"
       },
       {
          "description" : "",
