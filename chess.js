@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\"><a href=\"https://grandswiss.fide.com\">The FIDE Grand Swiss</a> is over and the 18-year-old GM <b>Alireza Firouzja</b> is the big winner with a remarkable 8/11 score and a ticket to the 2022 Candidates Tournament. The second runner and also a Candidates' qualifier is the 2018 Challenger <b>Fabiano Caruana</b> who tied on points with <b>Grigoriy Oparin</b> but got a better tiebreak score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-08_13-52-45-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman</div> </div> The young Iranian-born French GM had an outstanding performance in Riga, climbing",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/firouzja-wins-grand-swiss-and-qualifies-for-the-2022-candidates/",
+         "pubDate" : "Mon, 08 Nov 2021 12:12:32 +0000",
+         "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
+      },
+      {
+         "description" : "FIDE Chess.com Grand Swiss 2021 and FIDE Chess.com Women's Grand Swiss 2021 concluded yesterday in Riga, Latvia. 108 players participated in the Open tournament, and after 11 played rounds Firouzja Alireza (FRA, 2770) became the sole Winner of the event with score of 8 points. As a Winner of the event, Firouzja won 70.000$ prize and qualified for&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-chess-com-grand-swiss-2021-concluded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-chess-com-grand-swiss-2021-concluded/",
+         "pubDate" : "Mon, 08 Nov 2021 10:42:53 +0000",
+         "title" : "FIDE Chess.com Grand Swiss 2021 concluded"
+      },
+      {
+         "description" : "18-year-old Alireza Firouzja has won the FIDE Chess.com Grand Swiss, qualified for his 1st Candidates Tournament and taken home the top prize of $70,000 after drawing his last round game against Grigoriy Oparin. There were draws on the top 13 boards, as Fabiano Caruana claimed the 2nd spot in the Candidates, while Oparin, Yu, Keymer, MVL, Predke and Shirov qualified for the Grand Prix. In the women's event Elisabeth Paehtz took 2nd place behind Lei Tingjie on a day she also earned the grandmaster title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/firouzja-wins-grand-swiss-caruana-in-candidates",
+         "pubDate" : "Mon, 08 Nov 2021 09:56:34 +0000",
+         "title" : "Firouzja wins Grand Swiss | Caruana in Candidates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://fide.com/news/1413\">announced a partnership</a> with <strong>TON Labs</strong>, a blockchain company, to launch a market place for <a href=\"https://www.chesstech.org/2021/chasing-the-biggest-fans/\">chess-themed NFTs</a> and <strong>Best Chess Moments</strong> that celebrate the forthcoming world championship match. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-launches-its-own-nfts/",
+         "pubDate" : "Mon, 08 Nov 2021 10:52:32 +0100",
+         "title" : "FIDE launches its own NFTs"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> won the <strong>Grand Swiss</strong>, held by <strong>FIDE</strong> in Riga amidst a national lockdown, cashing in $70,000 and climbing to the fifth place in the world ranking. Runner-up <strong>Fabiano Caruana</strong> also qualified for the next Candidates Tournament. The one place at the Women's Candidates was claimed by <strong>Lei Tingjie</strong>, who won the Women Grand Swiss by a dominating 1,5 points margin. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/firouzja-caruana-and-lei-go/",
+         "pubDate" : "Mon, 08 Nov 2021 10:36:01 +0100",
+         "title" : "Firouzja, Caruana and Lei go Candidates"
+      },
+      {
          "description" : "In a great initiative to promote the game of chess at Arunachal Pradesh, the Government of Arunachal Pradesh decided provide all the logistical support for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -656,14 +696,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/02/street-smart-chess/",
          "pubDate" : "Tue, 02 Nov 2021 16:22:43 +0000",
          "title" : "Street Smart Chess"
-      },
-      {
-         "description" : "The ECF office will be starting a move on Friday 5/11/21 to smaller premises now that the Chess Library has moved to Leicester. As a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-office-closed-on-friday/",
-         "pubDate" : "Tue, 02 Nov 2021 13:29:41 +0000",
-         "title" : "ECF office closed on Friday"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg\" data-image-dimensions=\"2048x1365\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618136afea0fdf35f5d4a476\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg?format=1000w\" /> </figure> <p class=\"\">FM Asa Hoffman with his wife Virginia at the Marshall Chess Club <p class=\"\">This week FM Asa Hoffman joins us for an interesting talk. Asa is an author, speed chess specialist, and ",
@@ -1362,14 +1394,6 @@ news_feed (
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Grand Swiss</strong> that starts in Riga this Wednesday with an exemption from the national lockdown has about twenty last minute cancelations, among them Grischuk, Mamedyarov, Rapport, Nakamura, Vidit and Le Quang, bringing the number of participating 2700+ rated grandmasters down to 13 (14 on the <strong>live rating list</strong>). </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE Grand Swiss Tournament 2021</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/only-a-third-of-2700-players-in/",
-         "pubDate" : "Wed, 27 Oct 2021 08:46:12 +0100",
-         "title" : "Only a third of 2700+ players in Riga"
-      },
-      {
          "description" : "Magnus Carlsen will return to action after the World Championship match when he plays in Wijk aan Zee for an 18th time on the 14-30 January 2022. Magnus will be looking to win an 8th Tata Steel Masters title, but will face tough competition from world no. 2 Fabiano Caruana and local hero Anish Giri. 13 of the 14 players have been announced, with 16-year-old Julius Baer Challengers Chess Tour winner Praggnanandhaa given his debut in the top event, while another teenager, 19-year-old Andrey Esipenko, gets the chance to build on his brilliant debut in 2021.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1408,14 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-at-tata-steel-2022",
          "pubDate" : "Tue, 26 Oct 2021 18:00:00 +0100",
          "title" : "Magnus Carlsen plays at Tata Steel 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 13 out of 14 participants of the <strong>Tata Steel Chess Tournament</strong> on 14-30 January <a href=\"https://tatasteelchess.com/players/\">are announced</a>. If the top group goes \"on tour\" with some rounds elsewhere than Wijk aan Zee and what amateur events will be possible isn't clear. Clear is that the 2022 edition <a href=\"https://www.chesstech.org/2021/gibraltar-festival-takes-gap-year/\">won't clash with Gibraltar</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-and-caruana-headline-tata/",
-         "pubDate" : "Tue, 26 Oct 2021 16:36:38 +0100",
-         "title" : "Carlsen and Caruana headline Tata Steel Chess"
       },
       {
          "description" : "On 10 October Nick Pert won the British Over-the-Board Championship 2021. In a 50-minute video, he now walks us through the games he played in the Championship, explaining key positions, tactics and why and how he chose the openings he played. A fascinating look into the mind of a modern Grandmaster - including the first game of his career, in which Pert mated his opponent \"en passant\"!",
@@ -1576,14 +1592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/allan-stig-rasmussen-wins-danish-championship",
          "pubDate" : "Mon, 25 Oct 2021 11:58:49 +0100",
          "title" : "Allan Stig Rasmussen wins Danish Championship"
-      },
-      {
-         "description" : "Fabiano Caruana will be top seed as the FIDE Chess.com Grand Swiss starts this Wednesday, 27th October in Riga, Latvia, despite a lockdown that includes a curfew from 8pm to 5am each day. Hikaru Nakamura and Vidit have both withdrawn, with Hikaru citing, \"respect for Latvians suffering with Covid and for the health and safety of myself and my trainer\". The Open and Women's tournaments, which combined will feature around 160 players, have been given an exemption to take place by the Latvian government.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-vidit-withdraw-as-grand-swiss-goes-ahead-despite-lockdown",
-         "pubDate" : "Mon, 25 Oct 2021 07:20:48 +0000",
-         "title" : "Nakamura, Vidit withdraw as Grand Swiss goes ahead despite lockdown"
       },
       {
          "description" : "",
