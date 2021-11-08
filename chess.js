@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-2",
+         "pubDate" : "Mon, 08 Nov 2021 17:00:00 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (2)"
+      },
+      {
+         "description" : "Magnus Carlsen is currently preparing intensively for his World Championship match against Ian Nepomniachtchi that starts on 24 November. But the World Champion still seems to have time for other important things. Wednesday, 3 November, he was spotted at a soccer match: the BVB Dortmund played against Ajax Amsterdam in the Champions League. | Photo: Magnus Carlsen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/soccer-fan-magnus-carlsen",
+         "pubDate" : "Mon, 08 Nov 2021 16:14:34 +0100",
+         "title" : "Soccer fan Magnus Carlsen"
+      },
+      {
+         "description" : "The FIDE Grand Swiss in Riga just ended, Alireza Firouzja finished sole first with 8.0/11, half a point ahead of Fabiano Caruana. Both qualified for the Candidates. The tournament in Riga brought many interesting games and many interesting endgames. In the Endgame Magic Show #169 Karsten M&uuml;ller and Thomas Stark look at some of the endgame highlights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-169-endgame-highlights-from-the-fide-grand-swiss-in-riga",
+         "pubDate" : "Mon, 08 Nov 2021 16:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic #169: Endgame highlights from the FIDE Grand Swiss in Riga"
+      },
+      {
          "description" : " <p class=\"lead\"><a href=\"https://grandswiss.fide.com\">The FIDE Grand Swiss</a> is over and the 18-year-old GM <b>Alireza Firouzja</b> is the big winner with a remarkable 8/11 score and a ticket to the 2022 Candidates Tournament. The second runner and also a Candidates' qualifier is the 2018 Challenger <b>Fabiano Caruana</b> who tied on points with <b>Grigoriy Oparin</b> but got a better tiebreak score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-08_13-52-45-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman</div> </div> The young Iranian-born French GM had an outstanding performance in Riga, climbing",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "FIDE launches its own NFTs"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> won the <strong>Grand Swiss</strong>, held by <strong>FIDE</strong> in Riga amidst a national lockdown, cashing in $70,000 and climbing to the fifth place in the world ranking. Runner-up <strong>Fabiano Caruana</strong> also qualified for the next Candidates Tournament. The one place at the Women's Candidates was claimed by <strong>Lei Tingjie</strong>, who won the Women Grand Swiss by a dominating 1,5 points margin. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> won the <strong>Grand Swiss</strong>, held by <strong>FIDE</strong> in Riga amidst a national lockdown, cashing in $70,000 and climbing to the fifth place in the world ranking. Runner-up <strong>Fabiano Caruana</strong> also qualified for the next Candidates Tournament. The one place at the Women's Candidates was claimed by <strong>Lei Tingjie</strong>, who won the Women Grand Swiss by a dominating 1,5 points margin. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/firouzja-caruana-and-lei-go/",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "Pawn race in a rook ending"
       },
       {
-         "description" : "With a remarkable 8&frac12;/11 score, Carissa Yip won the 2021 US Women's Championship a bit over a month after turning 18 years old. The Bostonian is the highest-rated U20 woman player in the world and has now joined the top 50 in the live women's ratings list. The youngster won the national title in style, securing first place with a round to spare and finishing the event 1&frac12; points ahead of second-placed Gulrukhbegim Tokhirjonova. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carissa-yip-wins-us-womens-championship-at-18",
-         "pubDate" : "Tue, 19 Oct 2021 12:40:00 +0100",
-         "title" : "Carissa Yip wins the US Women's Championship at 18"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,30 +2016,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
          "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
          "title" : "Chicago, Chess, Girl Power and McDonald's"
-      },
-      {
-         "description" : "The 62nd Annual US Armed Forces Open Chess Championship was held in Grapevine, Texas, from October 8-11, 2021. Charles D. \"Chuck\" Unruh and Charles M. Unruh won the Veterans Open Championship and the Armed Forces Open, respectively. Chuck, the father, scored 4&frac12; of 5 rounds to top a 22-player field. Charles, the son, went 5-0 in a 51-player field. | Photo: Danny Fallon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/62nd-annual-us-armed-forces-open-chess-championship",
-         "pubDate" : "Mon, 18 Oct 2021 18:23:02 +0100",
-         "title" : "62nd Annual US Armed Forces Open Chess Championship"
-      },
-      {
-         "description" : "With one round to go at the 2021 US Championship, a number of players still have a chance to become champions. Fabiano Caruana joined the leading pack with a win over Aleksandr Lenderman - he now shares first place with Sam Sevian and Wesley So. In the women's tournament, 18-year-old Carissa Yip grabbed the title with one round to spare! | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r10",
-         "pubDate" : "Mon, 18 Oct 2021 18:20:00 +0100",
-         "title" : "US Championships: Caruana shares the lead, Yip secures women's title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1389",
-         "pubDate" : "Mon, 18 Oct 2021 14:52:05 +0000",
-         "title" : "FIDE World Championship 2021: Safety measures for Expo visitors"
       }
    ]
 }
