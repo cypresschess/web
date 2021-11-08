@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
+         "pubDate" : "Mon, 08 Nov 2021 20:24:15 +0100",
+         "title" : "Nepo and Carlsen interviewed"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1426",
+         "pubDate" : "Mon, 08 Nov 2021 19:15:03 +0000",
+         "title" : "Kirill Shevchenko snatches victory in the Lindores Abbey Blitz"
+      },
+      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/trick-or-treat/",
          "pubDate" : "Fri, 29 Oct 2021 10:04:17 +0000",
          "title" : "Trick or Treat?"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> adds Russian mining giant <strong>Nornickel</strong> <a href=\"https://ruchess.ru/news/all/nornikel_stal_partnerom_yana_nepomnyashchego/\">as a personal sponsor</a>, having secured support from <strong>Sima-Land</strong> and <strong>Chess.com</strong> earlier. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nornickel-sponsors-nepo/",
-         "pubDate" : "Fri, 29 Oct 2021 09:46:11 +0100",
-         "title" : "Nornickel sponsors Nepo"
       },
       {
          "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaped against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
