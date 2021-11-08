@@ -2024,30 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1389",
          "pubDate" : "Mon, 18 Oct 2021 14:52:05 +0000",
          "title" : "FIDE World Championship 2021: Safety measures for Expo visitors"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1388",
-         "pubDate" : "Mon, 18 Oct 2021 13:56:47 +0000",
-         "title" : "Praggnanandhaa wins Julius Baer Challengers Chess Tour Finals"
-      },
-      {
-         "description" : "The detailed results for the card votes on the Report of the Non-Executive Directors and the Report of the Governance Committee can be found here",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/agm-card-votes-results/",
-         "pubDate" : "Mon, 18 Oct 2021 13:37:33 +0000",
-         "title" : "AGM Card Votes results (updated 19/10/21)"
-      },
-      {
-         "description" : " As someone who helps write the Laws of Chess, I am always surprised when people ignore common sense interpretations. Two recent cases attracted my notice, both involving draws. In the first, a player who had K+Q resigned against a player with a lone King. Ignoring the possible reasons for this, the question was what should the score of the game be. Under the strict reading of the Laws of Chess, the point should go to the player with the King. Under the 'analogous situations involving a loss on time' approach, it should be a draw, although the arbiter may wish to adjust the score (downwards) for the player with K+Q. In the second case, an online event had a 'no draw offer' before move 40, co",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/rules-shouldnt-always-be-rules.html",
-         "pubDate" : "Mon, 18 Oct 2021 13:16:00 +0000",
-         "title" : "Rules shouldn't always be rules"
       }
    ]
 }
