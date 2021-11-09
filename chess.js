@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a thrilling opening match of the 2021 Speed Chess Championship Main Event, GM Anish Giri defeated GM Jan-Krzysztof Duda with a final score of 14-12. The next match, between GMs Shakhriyar Mamedyarov and Ding Liren, starts on Tuesday, November 9...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-giri-duda",
+         "pubDate" : "Mon, 08 Nov 2021 17:41:14 -0800",
+         "title" : "Speed Chess Championship: Giri Defeats Duda, Advances To Quarterfinals"
+      },
+      {
          "description" : "GM Kirill Shevchenko became the surprise winner of the Lindores Abbey Blitz tournament in Riga, Latvia. The 19-year-old grandmaster from Ukraine clinched the $10,000 first prize as he finished half a point clear of GMs Fabiano Caruana ($8,000) and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1378,14 +1386,6 @@ news_feed (
          "title" : "Grand Swiss 1: Caruana and Firouzja strike"
       },
       {
-         "description" : "On Wednesday, October 27, chess fans got treated to the first day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Center, where 16 top US players U-25 compete in blitz matches for a prize of one Bitco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-1-naroditsky-jacobson-balakrishnan-tang-win",
-         "pubDate" : "Wed, 27 Oct 2021 23:02:00 -0700",
-         "title" : "Blitzcoin Invitational Day 1: Naroditsky, Jacobson, Shetty, Tang Win"
-      },
-      {
          "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-petroff-defence-edition/",
          "pubDate" : "Tue, 19 Oct 2021 07:39:56 +0000",
          "title" : "Need sure points? Petroff Defence Edition"
-      },
-      {
-         "description" : " The benefits of scholastic chess are well-known and there have been many empirical studies showing its value. In addition, chess helps to develop important social skills and self-confidence. Shakira Luster, Trechelle Williams and Imani Hill have been in the media spotlight for the past two years after winning the 8th grade section at the 2019 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/\">Chicago, Chess, Girl Power and McDonald's</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/10/18/chicago-chess-and-mcds-commercial/",
-         "pubDate" : "Tue, 19 Oct 2021 03:46:39 +0000",
-         "title" : "Chicago, Chess, Girl Power and McDonald's"
       }
    ]
 }
