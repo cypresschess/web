@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Kirill Shevchenko became the surprise winner of the Lindores Abbey Blitz tournament in Riga, Latvia. The 19-year-old grandmaster from Ukraine clinched the $10,000 first prize as he finished half a point clear of GMs Fabiano Caruana ($8,000) and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kirill-shevchenko-wins-lindores-abbey-blitz",
+         "pubDate" : "Mon, 08 Nov 2021 12:51:24 -0800",
+         "title" : "Kirill Shevchenko Surprise Winner At Lindores Abbey Blitz"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/chess-world-championship-match/",
          "pubDate" : "Wed, 27 Oct 2021 17:00:00 +0000",
          "title" : "Chess World Championship Match"
-      },
-      {
-         "description" : "GM Shakhriyar Mamedyarov won the October 26 edition of Titled Tuesday with a score of 10/11. It was his first win in the event since January 19 and third overall. In sole second place was GM Jose Martinez with 9.5/11. Four players tied for the nex...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mamedyarov-wins-october-26-titled-tuesday",
-         "pubDate" : "Wed, 27 Oct 2021 09:02:42 -0700",
-         "title" : "Mamedyarov Wins October 26 Titled Tuesday"
       },
       {
          "description" : " In a sign that things *might* be getting back to normal, the FIDE Grand Swiss has just started in Riga. Normally held on the Isle of Man, it was moved to Riga for this year, as initially it was thought that it would be easier to travel to Latvia, rather than the UK. Then a spike in Covid cases put Latvia in lockdown, but the Latvian government gave the event a special dispensation, so it is now going ahead (although a couple of players decided to pull out). There is one Australian player in the 108 player field, GM Temur Kuybokarov. He is seeded 101's in the tournament, but in a such closely packed field (the 54th seed is rated less than 100 points more than him), I suspect form is going to",
