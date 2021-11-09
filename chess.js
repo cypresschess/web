@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87607633.cms\" />Kolkata-based player Mitrabha Guha has become India's 72nd chess Grand Master by bagging his third and final GM norm during a tournament in Serbia.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mitrabha-guha-becomes-indias-72nd-grand-master/articleshow/87607633.cms",
+         "pubDate" : "Tue, 09 Nov 2021 17:40:38 +0530",
+         "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.batterseachessclub.org.uk/goodbye-derek-club-member-dies-suddenly-aged-74/#new_tab",
+         "pubDate" : "Tue, 09 Nov 2021 11:41:21 +0000",
+         "title" : "RIP Derek Harvey"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1427",
+         "pubDate" : "Tue, 09 Nov 2021 11:24:08 +0000",
+         "title" : "Nur-Sultan will host World Rapid and Blitz 2021"
+      },
+      {
          "description" : "Exchanging the right pieces is a very important topic, for which you should develop a fine intuition. How should Black proceed in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -189,6 +213,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1420",
+         "pubDate" : "Sun, 07 Nov 2021 18:33:30 +0000",
+         "title" : "Decisions of 2021 3rd FIDE Council Meeting"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1424",
          "pubDate" : "Sun, 07 Nov 2021 17:44:44 +0000",
          "title" : "Liudmila Belavenets passes away"
@@ -344,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/romanishin-the-romantic",
          "pubDate" : "Sat, 06 Nov 2021 09:00:00 +0100",
          "title" : "Romanishin, the romantic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1420",
-         "pubDate" : "Sat, 06 Nov 2021 07:33:30 +0000",
-         "title" : "Decisions of 2021 3rd FIDE Council Meeting"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87550433.cms\" />India's Dronavalli Harika wore down Russia's Alina Kashlinskaya with black pieces in the ninth round of the FIDE Women's Grand Swiss chess tournament to share the joint second spot with four other players.",
@@ -2008,22 +2032,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/19/episode-248-gm-noel-studer",
          "pubDate" : "Tue, 19 Oct 2021 12:42:47 +0000",
          "title" : "Episode 248- GM Noel Studer "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1390",
-         "pubDate" : "Tue, 19 Oct 2021 10:44:54 +0000",
-         "title" : "Harriet Hunt wins British Women's Championship"
-      },
-      {
-         "description" : " Algorand, the official blockchain partner of the 2021 World Chess Championship, is holding <a href=\"https://worldchess.com/series/algorand?utm_source=website&utm_medium=article&utm_campaign=announcement&utm_term=worldchesssite\">a series of online chess tournaments</a> to celebrate the upcoming Championship Match between Magnus Carlsen and Ian Nepomniachtchi. World Chess is streaming the Final on Youtube on October 24th at 14:50 UTC, with commentator GM Evgeny Miroshnichenko, and the special guest WGM Dina Belenkaya. Subscribe to <a href=\"https://youtu.be/9NcsjVKlk7k\">our channel</a> and become a part of this festivity! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-algorand-series-the-final/",
-         "pubDate" : "Tue, 19 Oct 2021 09:15:35 +0000",
-         "title" : "The Algorand Series: the Final"
       }
    ]
 }
