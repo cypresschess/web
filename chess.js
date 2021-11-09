@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following the Grand Swiss tournaments in Riga, a blitz tournament was held in honour of Mikhail Tal, whose 85th birthday anniversary is celebrated today. The young Ukrainian Kirill Shevchenko (19-years-old) got clear victory. Fabiano Caruana came second, ahead of Arjun Erigaisi. | Photos: Mark Livshitz and Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kirill-shevchenko-wins-lindores-abbey-blitz",
+         "pubDate" : "Tue, 09 Nov 2021 16:15:00 +0100",
+         "title" : "Kirill Shevchenko wins Lindores Abbey Blitz Tournament"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg\" data-image-dimensions=\"250x375\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618a84c0ceb12e4c1b810e62\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg?format=1000w\" /> </figure> <p class=\"\">John Hartmann is the Editor of US Chess' <em>Chess Life </em>and <a href=\"https://new.uschess.org/news\"><span>Chess Life Online</span></a>, and the host of th",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/9/episode-251-john-hartmann-is-back",
+         "pubDate" : "Tue, 09 Nov 2021 15:14:24 +0000",
+         "title" : "Episode 251- John Hartmann is back! "
+      },
+      {
+         "description" : "Sankalp Gupta became India's 71st GM only two days prior.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32590176/mitrabha-guha-becomes-india-72nd-grand-master?device=featurephone",
+         "pubDate" : "Tue, 9 Nov 2021 09:08:18 -0500",
+         "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
+         "pubDate" : "Tue, 09 Nov 2021 13:39:59 +0100",
+         "title" : "Kasakh capital hosts World Rapid&Blitz"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87607633.cms\" />Kolkata-based player Mitrabha Guha has become India's 72nd chess Grand Master by bagging his third and final GM norm during a tournament in Serbia.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -888,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1410",
          "pubDate" : "Mon, 01 Nov 2021 20:52:37 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 6 Recap"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <em>Merim Bilali&#263</em>, <em>Roland Grabner</em> and <em>Nemanja Vaci</em> explain what chess development can teach about the development of skill and performance across lifetime and how you can benefit from participating in their <a href=\"https://chess-study.uni-graz.at/en/study-participation/\">new study</a>. </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/nino-juega-ajedrez.1920.jpeg\" title=\"How far you go in chess is neither determined by talent nor by study but how they work together. \" data-title=\"How far you go in chess is neither determined by talent nor by study but how they w",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/the-interplay-of-talent-and-practice/",
-         "pubDate" : "Mon, 01 Nov 2021 21:24:44 +0100",
-         "title" : "The interplay of talent and practice in chess"
       },
       {
          "description" : "Pawn races are often fun because every tempo counts and such pawn races can often turn into a mating attack when the pawn queens. In the Endgame Magic Show #168 Karsten and Arne look at some recent examples of entertaining pawn races. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -2008,30 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2021-r11",
          "pubDate" : "Tue, 19 Oct 2021 19:25:00 +0100",
          "title" : "US Championships: Sevian, Caruana and So go to playoffs"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the US Championships, especially on Carissa Yip's victory in the Women's event. The game of the day is Yip's win against Nazi Paikidze. Lawrence will also talk about Pragg's victory at the Julius Baer challenge, and other events. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-carissa-yip-wins-us-women-s-championship-2021",
-         "pubDate" : "Tue, 19 Oct 2021 18:00:00 +0100",
-         "title" : "The Weekly Show: Carissa Yip wins US Women's Championship 2021"
-      },
-      {
-         "description" : " I saw a nice QOTD over at Lichess from Peter Svidler <i>The biggest tool for chess improvement would be playing against stronger opposition</i> It certainly works for me, although I'm not great at doing this a lot. I think it also shows how serious you are at getting better. Study and training are all very good, but it is when the pieces hit that board that really counts. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/some-good-advice-which-i-should-follow.html",
-         "pubDate" : "Tue, 19 Oct 2021 12:44:00 +0000",
-         "title" : "Some good advice - which I should follow"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <a class=\" sqs-block-image-link \" href=\"https://commons.wikimedia.org/wiki/File:Studer,Noel_2019_Radenci.jpg\" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634646579392-5P3SN3SXTAZ7E8TII3KG/Noel3.jpg\" data-image-dimensions=\"256x341\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"616eba33bee9380a2508e567\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1634646579392-5P3SN3SXTAZ7E8TII3KG/Noel3.jpg?format=1000w\" /> </a> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Noel Studer by MBIHund",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/19/episode-248-gm-noel-studer",
-         "pubDate" : "Tue, 19 Oct 2021 12:42:47 +0000",
-         "title" : "Episode 248- GM Noel Studer "
       }
    ]
 }
