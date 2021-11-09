@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International master Levy Rozman, the popular streamer and content creator behind GothamChess, has recently announced the winners for his $100,000 chess scholarship program. In a partnership with ChessKid.com, the scholastic branch of Chess.com,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners",
+         "pubDate" : "Tue, 09 Nov 2021 11:50:00 -0800",
+         "title" : "IM Levy Rozman Announces The Winners Of His Scholarship Program"
+      },
+      {
+         "description" : "When Magnus Carlsen and Ian Nepomniachtchi sit down on November 26 in Dubai to play Game 1 of the World Chess Championship match it will be the latest instalment of a rivalry that began in youth events in 2002. David Howell talks about facing the two future stars in the Under 12 World Youth Championship in the first part of a documentary produced by chess24's German site. Rustam Kasimdzhanov and Jan Gustafsson also talk about Magnus and Ian and especially the impact they made when they were just starting out.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-and-nepomniachtchi-young-rivals",
+         "pubDate" : "Tue, 09 Nov 2021 18:19:49 +0000",
+         "title" : "Carlsen and Nepomniachtchi: Young Rivals"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. <strong>Chess.com</strong> conducted an <a href=\"https://www.youtube.com/watch?v=mjcTKOfi1dg&amp;t=11s\">in-depth video interview</a> with the last challenger <",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
+         "pubDate" : "Tue, 09 Nov 2021 19:10:15 +0100",
+         "title" : "Nepo, Carlsen and Caruana interviewed"
+      },
+      {
+         "description" : "The 'Magician from Riga', Mikhail Tal, enchanted the chess world in the 1950s and 1960s with his amazing combinations. He was ill all his life, but nevertheless belonged to the absolute top of the chess world for decades, even after losing the World Championship title. Today is the 85th anniversary of his birth. | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
+         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
+         "title" : "In memory of Mikhail Tal"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Grand Swiss, which was won by wunderkind Alireza Firouzja, who got a spot in the next Candidates Tournament at 18. Are we entering a new era of chess greatness? | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-a-new-era-of-chess-greatness",
+         "pubDate" : "Tue, 09 Nov 2021 18:50:00 +0100",
+         "title" : "The Weekly Show: A new era of chess greatness"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million in prizes, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
+         "pubDate" : "Tue, 09 Nov 2021 18:44:41 +0100",
+         "title" : "Kasakh capital hosts World Rapid&Blitz"
+      },
+      {
+         "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/deja-vu-4/",
+         "pubDate" : "Tue, 09 Nov 2021 16:46:25 +0000",
+         "title" : "Deja Vu (4)"
+      },
+      {
          "description" : "Following the Grand Swiss tournaments in Riga, a blitz tournament was held in honour of Mikhail Tal, whose 85th birthday anniversary is celebrated today. The young Ukrainian Kirill Shevchenko (19-years-old) got clear victory. Fabiano Caruana came second, ahead of Arjun Erigaisi. | Photos: Mark Livshitz and Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +80,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32590176/mitrabha-guha-becomes-india-72nd-grand-master?device=featurephone",
          "pubDate" : "Tue, 9 Nov 2021 09:08:18 -0500",
          "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
-         "pubDate" : "Tue, 09 Nov 2021 13:39:59 +0100",
-         "title" : "Kasakh capital hosts World Rapid&Blitz"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87607633.cms\" />Kolkata-based player Mitrabha Guha has become India's 72nd chess Grand Master by bagging his third and final GM norm during a tournament in Serbia.",
@@ -94,16 +142,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kirill-shevchenko-wins-lindores-abbey-blitz",
-         "pubDate" : "Mon, 08 Nov 2021 12:51:24 -0800",
+         "pubDate" : "Mon, 08 Nov 2021 12:51:00 -0800",
          "title" : "Kirill Shevchenko Surprise Winner At Lindores Abbey Blitz"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
-         "pubDate" : "Mon, 08 Nov 2021 20:24:15 +0100",
-         "title" : "Nepo and Carlsen interviewed"
       },
       {
          "description" : "",
@@ -842,7 +882,7 @@ news_feed (
          "title" : "Episode 250- FM Asa Hoffmann"
       },
       {
-         "description" : "It&#39;s time for another Speed Chess Championship Main Event, which means it&#39;s also time for another Speed Chess Championship Bracket Contest! The Main Event kicks off Monday, November 8, with one of the hardest matches to predict, the contest betw...",
+         "description" : "Note: GM Richard Rapport has replaced GM Alireza Firouzja in the 2021 Speed Chess Championship Main Event. All picks in the Bracket Contest for Firouzja will now be counted as Rapport picks. We know that this is not an ideal situation and we thank...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-bracket-contest",
@@ -1394,14 +1434,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss R2: Firouzja, Predke, Saric on 2/2"
       },
       {
-         "description" : "The Collegiate Chess League only has two weeks left in the regular season, and teams are starting to face must-win situations on the brink of elimination. Other teams are starting to clinch playoff spots, most notably division one teams UC Berkele...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-round-5",
-         "pubDate" : "Thu, 28 Oct 2021 10:55:23 -0700",
-         "title" : "Collegiate Chess League Round 5: Berkeley, Warsaw Undefeated"
-      },
-      {
          "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/873003.jpg\" width=\"1640\" height=\"1093\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Photo: Ómar Óskarsson</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times!",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1584,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1398",
          "pubDate" : "Tue, 26 Oct 2021 10:15:29 +0000",
          "title" : "Winners crowned at FIDE World Amateur Chess Championship"
-      },
-      {
-         "description" : "The most exciting 4-day costume party of the year starts on October 26 in the chess24 Arena. The Halloween Monster Mystery Bash returns, and you can jump in on the action wherever you are in the world. Get the chance to win premium Chessable courses... a chunk of the $5,000-prize pool... and plenty of bragging rights, too!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/halloween-mystery-monster-bash-2021",
-         "pubDate" : "Tue, 26 Oct 2021 08:34:20 +0000",
-         "title" : "Join us for an exciting Halloween celebration!"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (51)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (51)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
       },
       {
-         "description" : "Going into Wednesday's final round in the Russian Superfinals, both the open tournament and the women's championship have a sole leader with a half-point edge over two players sharing second place. In the open, Nikita Vitiugov leads, with Maxim Matlakov and Vladimir Fedoseev standing close behind; among the women, Valentina Gunina is the frontrunner, with her closest chasers being Evgenija Ovod and Polina Shuvalova. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r10",
-         "pubDate" : "Wed, 20 Oct 2021 01:40:00 +0100",
-         "title" : "Superfinals: Matlakov joins the fight for the title"
-      },
-      {
          "description" : " From the author's introduction: I was lucky enough to play against six world champions and several top players in my modest chess career, but the greatest player I feel privileged to have known, to have spent time with him, was Miguel Najdorf, \"El Viejo\". This is a chess book, with 275 commented games, it covers <a href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stories/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Miguel Najdorf &#8216;El Viejo' Life, Games and Stories</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stor",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2016,22 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1391",
          "pubDate" : "Tue, 19 Oct 2021 22:43:40 +0000",
          "title" : "Wesley So and Carissa Yip clinch U.S. Championship titles"
-      },
-      {
-         "description" : "Fabiano Caruana, Wesley So and Sam Sevian finished the 2021 US Championship sharing first place on 6&frac12;/11 points. A rapid round robin tournament (10 minutes plus 2-second increments) will decide the winner. In case of a tie, blitz and Armageddon will follow. | Follow the action live with commentary starting at 13.00 local time (14.00 ET, 20.00 CEST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-live",
-         "pubDate" : "Tue, 19 Oct 2021 19:55:00 +0100",
-         "title" : "US Championship - Playoffs"
-      },
-      {
-         "description" : "The last round of the US Championship was played on Monday. The US Champion, however, has not yet been decided, as Fabiano Caruana, Wesley So and Sam Sevian finished tied on points atop the standings and will play a rapid-chess tiebreak to find the winner of this year's national event. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-r11",
-         "pubDate" : "Tue, 19 Oct 2021 19:25:00 +0100",
-         "title" : "US Championships: Sevian, Caruana and So go to playoffs"
       }
    ]
 }
