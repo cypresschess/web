@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nearly a century ago Richard Teichmann proclaimed the famous &#8220;Chess is 99% tactics&#8221;. Even if that might be a slight overstatement, tactics are a vital part of Chess and need to be learned and improved continuously. But how can you best learn or improve Chess tactics? In this article, I will give you a wide [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-chess-tactics-training/\">Best Chess Tactics Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/best-chess-tactics-training/",
+         "pubDate" : "Wed, 10 Nov 2021 11:28:04 +0000",
+         "title" : "Best Chess Tactics Training"
+      },
+      {
+         "description" : " <p class=\"lead\">The 19-year-old GM from Ukraine, Kirill Shevchenko, won <a href=\"https://lindoresabbeyblitz.fide.com\">the Lindores Abbey Blitz tournament</a> in Riga finishing half a point ahead of the 2016 Challenger Fabiano Caruana. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51664544941_5dcda466f4_k-min.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Shevchenko in clear disbelief, Photo: Maria Emelianova</div> </div> 18-year-old Alireza Firoujza showed the way with his remarkable win at the Grand Swiss, and even more young players are striving to enter the elite of top players. One of them is Kirill Shevchenko who surprised everyone",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/young-players-are-pushing-forward-at-the-mikhail-tal-85th-annive/",
+         "pubDate" : "Wed, 10 Nov 2021 09:54:54 +0000",
+         "title" : "Young players are pushing forward at the Mikhail Tal 85th Anniversary Tournament"
+      },
+      {
+         "description" : "Entries are invited to participate in the European Online Rapid and School Championships. There are five age groups - Under 10 (born 2011 or later),...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-schools-online-championship/",
+         "pubDate" : "Wed, 10 Nov 2021 09:37:59 +0000",
+         "title" : "European Schools Online Championship"
+      },
+      {
+         "description" : "ECU E-Magazine October 2021 is out! In this edition of the ECU E-Magazine you may read about: European Youth&#38;Junior Hybrid Chess Championships 2021 FIDE Chess.com Grand Swiss 2021 ICCD European Deaf Chess Championships 2021 FIDE World Amateur Chess Championship 2021 Tournament of Peace 2021 Monaco Chess Championship 2021 Upcoming European Team Chess Championship 2021 Upcoming ECU Congress 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-october-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-october-2021/",
+         "pubDate" : "Wed, 10 Nov 2021 08:57:21 +0000",
+         "title" : "ECU E-MAGAZINE OCTOBER 2021"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Alireza Firouzja's games from the FIDE Grand Swiss Tournament 2021, where two spots in the next Candidates Tournament were at stake. The mysterious masked Caleb plays Firouzja's hits over Caruana and Howell from the event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
          "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
          "title" : "In memory of Mikhail Tal"
+      },
+      {
+         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-2",
+         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (2)"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Grand Swiss, which was won by wunderkind Alireza Firouzja, who got a spot in the next Candidates Tournament at 18. Are we entering a new era of chess greatness? | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1426",
          "pubDate" : "Mon, 08 Nov 2021 19:15:03 +0000",
          "title" : "Kirill Shevchenko snatches victory in the Lindores Abbey Blitz"
-      },
-      {
-         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-2",
-         "pubDate" : "Mon, 08 Nov 2021 17:00:00 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (2)"
       },
       {
          "description" : "Magnus Carlsen is currently preparing intensively for his World Championship match against Ian Nepomniachtchi that starts on 24 November. But the World Champion still seems to have time for other important things. Wednesday, 3 November, he was spotted at a soccer match: the BVB Dortmund played against Ajax Amsterdam in the Champions League. | Photo: Magnus Carlsen",
@@ -1976,38 +2008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/so-yip-the-big-winners-of-2021-us-chess-championships/",
          "pubDate" : "Wed, 20 Oct 2021 12:57:33 +0000",
          "title" : "So & Yip the big winners of 2021 US Chess Championships"
-      },
-      {
-         "description" : " Good news, everyone! It looks like most of the face to face chess in Canberra in the next couple of weeks. At least one local chess club has been asked to resume in early November (by the venue management), and I suspect this means that venues are happy to host chess events once again. While the actual details are still being worked out (size limits, mask and vaccine requirements) I won't name the club, but will do so when reopening conditions are finalised. The other event that has been up in the air is the 2021 Vikings Weekender, which may be back on the calendar again. It was planned to held in mid November, and if the venue is available at that time, the ACT Chess Association is keen to",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/act-chess-for-rest-of-2021.html",
-         "pubDate" : "Wed, 20 Oct 2021 11:30:00 +0000",
-         "title" : "ACT Chess for the rest of 2021"
-      },
-      {
-         "description" : " While footballers watch videos of Messi &#38; Ronaldo, Chess players can replay games of World Champions &#38; Grandmasters. What is even better, some Chess World Champions comment on their games so that one can get into their head. Why did they go for a certain opening? How far did they calculate some stunning sacrifices? What [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/games-of-chess-world-champions/\">Studying Games Of Chess World Champions</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/games-of-chess-world-champions/",
-         "pubDate" : "Wed, 20 Oct 2021 11:26:08 +0000",
-         "title" : "Studying Games Of Chess World Champions"
-      },
-      {
-         "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Follow the action live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-live",
-         "pubDate" : "Wed, 20 Oct 2021 11:55:00 +0100",
-         "title" : "Superfinals - Round 11"
-      },
-      {
-         "description" : "Last weekend, Baden-Baden won the German Team Championship, the Bundesliga. Again. In fact, since 2006 the team from Baden-Baden, sponsored by GRENKE Leasing, only failed to win the league in 2016, when Solingen finished first. This year, at the end of a season that due to the pandemic lasted from 2019 to 2021, Baden-Baden was three team points ahead of their closest rivals but securing the title was more difficult than the final result suggests. | Photos: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/baden-baden-wins-bundesliga",
-         "pubDate" : "Wed, 20 Oct 2021 11:03:49 +0100",
-         "title" : "Baden-Baden wins Bundesliga"
       }
    ]
 }
