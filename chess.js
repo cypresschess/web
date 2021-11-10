@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 Forester Open, with a planned $20,000 prize fund and norm opportunities, will take place on November 24-28 in Grapevine, Texas. Its organizer is Blakeman Chess, founded by 20-year-old Cole Blakeman. He plans to expand Blakeman Chess outside of Texas and build its reputation as one of the biggest U.S. chess tours.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/forester-open-pre-tournament",
+         "pubDate" : "Wed, 10 Nov 2021 19:00:00 +0100",
+         "title" : "Forester Open in Grapevine, Texas"
+      },
+      {
+         "description" : "In the most active Titled Tuesday since August, GM Rustam Khusnutdinov took home the victory with a 9.5/11 score, winning on the tiebreak system over second-place finisher GM Dmitrij Kollars. In a logjam on 9 points out of 11, two well-known GMs t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/khusnutdinov-wins-november-9-titled-tuesday",
+         "pubDate" : "Wed, 10 Nov 2021 08:45:00 -0800",
+         "title" : "Khusnutdinov Wins November 9 Titled Tuesday"
+      },
+      {
          "description" : "If you have a favourite book, or a favourite film, our guess is, you have read or watched them more than once. Without a doubt, one of the greatest chess games ever played is the one between Garry Kasparov and Veselin Topalov from 1999 in Wijk aan Zee. A game which you probably looked at more than once already. But how well do we know this game by heart? Svitlana gives us the chance to guess the correct move in eleven crucial moments of the game. How many can you guess?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Trent's Tactics - Devastating queens"
       },
       {
-         "description" : "Game Review is a revolutionary new tool to help you better understand and enjoy your games. You&#39;ll be able to relive your greatest moves, pinpoint the moments where things went wrong, and get explanations from your Virtual Coach to help you learn ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-game-review",
-         "pubDate" : "Fri, 29 Oct 2021 08:36:00 -0700",
-         "title" : "Chess.com Releases New Game Review Feature"
-      },
-      {
          "description" : "We are pleased to announce that the 118th British Chess Championships will be held at the Riviera International Centre in Torquay from the 8th to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1393",
          "pubDate" : "Wed, 20 Oct 2021 19:30:28 +0000",
          "title" : "Nikita Vitiugov and Valentina Gunina become new Russian champions"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes another look at the US Championship and analyses the encounter between Alekandr Lenderman and Fabiano Caruana, a tactically and positionally rich battle, in which Caruana showed great fighting spirit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-486-a-lenderman-vs-f-caruana",
-         "pubDate" : "Wed, 20 Oct 2021 18:00:00 +0100",
-         "title" : "Game of the Week 486: A. Lenderman vs F. Caruana"
       }
    ]
 }
