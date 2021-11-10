@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.11.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/become-queen-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8fAj6EUvIDs.jpg?itok=lhPtyAck\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Alireza Firouzja's games from the FIDE Grand Swiss Tournament 2021, where two spots in the next Candidates Tournament were at stake. The mysterious masked Caleb plays Firouzja's hits over Caruana and Howell from the event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 10 Nov 2021 03:44:54 +0000",
+         "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman leads a challenging class on queen chess endgames. The mysterious masked Alex shows his best (and not so best) games as visual aids. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/become-queen-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8fAj6EUvIDs.jpg?itok=lhPtyAck\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/become-queen-insane-endgame-gm-alex-lenderman",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/technique-matters-endgames-from-riga",
          "pubDate" : "Tue, 02 Nov 2021 20:00:00 +0100",
          "title" : "When technique matters - Endgame analyses from Riga"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Twelve of the country's strongest players battle for the national title and $194,000 in a round robin event. Plus, the U.S. Women&#039;s title is decided in an identical format with $100,000 at stake. Join GMs Cristian Chirila, Yasser Seirawan, and Maurice Ashley for the move-by-move. 2021.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-us-chess-championships-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-11",
-         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
-         "title" : "2021 U.S. Chess Championships: Round 11"
       },
       {
          "description" : "",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/baden-baden-wins-bundesliga",
          "pubDate" : "Wed, 20 Oct 2021 11:03:49 +0100",
          "title" : "Baden-Baden wins Bundesliga"
-      },
-      {
-         "description" : "Seven rounds have been already played at the European Youth&#38;Junior Hybrid Chess Championships 2021 and only two rounds left before the announcement of the Winners. The event is played in 7 age categories: U8, U10, U12, U14, U16, U18 and U20 (open and girls separately), in Swiss system, 9 rounds, through Tornelo playing platform. 33 European National Federations&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/",
-         "pubDate" : "Wed, 20 Oct 2021 05:21:36 +0000",
-         "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
       }
    ]
 }
