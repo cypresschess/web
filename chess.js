@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you have a favourite book, or a favourite film, our guess is, you have read or watched them more than once. Without a doubt, one of the greatest chess games ever played is the one between Garry Kasparov and Veselin Topalov from 1999 in Wijk aan Zee. A game which you probably looked at more than once already. But how well do we know this game by heart? Svitlana gives us the chance to guess the correct move in eleven crucial moments of the game. How many can you guess?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-19",
+         "pubDate" : "Wed, 10 Nov 2021 17:01:00 +0100",
+         "title" : "Svitlana's Smart Moves - Kasparov's immortal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1428",
+         "pubDate" : "Wed, 10 Nov 2021 15:36:47 +0000",
+         "title" : "Fysiolatris' Nikaia wins Greek Team Championship"
+      },
+      {
+         "description" : "The European Team Chess Championship 2021 opens tomorrow in Terme Catez, Slovenia. 39 teams coming from 38 European federations registered for the Open event, while the Women's Championship features 31 teams coming from 30 federations. European Team Chess Championship 2021 battlefield is led by teams of: Russia (Average rating of players 2720), Azerbaijan (Average rating of players 2717),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-opens-tomorrow/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-opens-tomorrow/",
+         "pubDate" : "Wed, 10 Nov 2021 15:09:26 +0000",
+         "title" : "European Team Chess Championship 2021 opens tomorrow"
+      },
+      {
+         "description" : "With the regular season over, the teams&#39; standings have been finalized, and the playoff brackets have been set. The playoffs are finally here, and teams will fight for their share of the $25,000 prize pool. Be sure to tune in and watch the ultimat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-playoffs-preview",
+         "pubDate" : "Wed, 10 Nov 2021 06:49:25 -0800",
+         "title" : "Collegiate Chess League: Playoffs Preview"
+      },
+      {
+         "description" : "Elisabeth Paehtz played an outstanding tournament in the Women's Grand Swiss, where she came second. Her performance granted her a spot in the next Grand Prix, and she also scored a GM norm, but it is not entirely clear whether this was her second or third norm. In an interview, she explains why and talks about the factors that helped her improve during the last year or so. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inetrview-with-elisabeth-paehtz-2021-grand-swiss",
+         "pubDate" : "Wed, 10 Nov 2021 14:19:00 +0100",
+         "title" : "Elisabeth Paehtz: \"For every kilo I gained, I gained ten Elo points\""
+      },
+      {
+         "description" : "All India Chess Federation invites quotation from interested firms for the supply of Chess Sets as per the following specification for the AICF's Chess in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/quotation-for-supply-of-chess-sets-for-aicfs-chess-in-school-project/",
+         "pubDate" : "Wed, 10 Nov 2021 12:41:58 +0000",
+         "title" : "Quotation for Supply of Chess Sets for AICF's Chess in School Project."
+      },
+      {
+         "description" : " I am in the process of building a web based rating management system, partly for my own interest, and partly as a proof of concept for a couple of chess organisations. In doing so I thought I would refamiliarise myself with the FIDE Rapid and Blitz Rating Regulations, a found some differences from standard system that I had either forgotten, or failed to notice. For example: <ul style=\"text-align: left;\"><li>The maximum number of rapid games in a day is 15, and for blitz, 30</li><li>You have to score at least 1 point in your first event for it to count towards your rating. (It is only 0.5 for the standard list)</li><li>Every either has a k factor of 20, or 700/total number of games played, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/the-thing-about-ratings.html",
+         "pubDate" : "Wed, 10 Nov 2021 12:35:00 +0000",
+         "title" : "The thing about ratings"
+      },
+      {
          "description" : " Nearly a century ago Richard Teichmann proclaimed the famous &#8220;Chess is 99% tactics&#8221;. Even if that might be a slight overstatement, tactics are a vital part of Chess and need to be learned and improved continuously. But how can you best learn or improve Chess tactics? In this article, I will give you a wide [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-chess-tactics-training/\">Best Chess Tactics Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -58,6 +114,14 @@ news_feed (
          "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
+         "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/",
+         "pubDate" : "Wed, 10 Nov 2021 00:10:45 +0000",
+         "title" : "The Modernized Philidor Defense"
+      },
+      {
          "description" : "The second match of the 2021 Speed Chess Championship Main Event went down to the wire as GM Ding Liren and GM Shakhriyar Mamedyarov fought a hotly contested battle. The Chinese GM ultimately won with a final score of 14-12 (an identical result to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,20 +154,20 @@ news_feed (
          "title" : "Nepo, Carlsen and Caruana interviewed"
       },
       {
-         "description" : "The 'Magician from Riga', Mikhail Tal, enchanted the chess world in the 1950s and 1960s with his amazing combinations. He was ill all his life, but nevertheless belonged to the absolute top of the chess world for decades, even after losing the World Championship title. Today is the 85th anniversary of his birth. | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
-         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
-         "title" : "In memory of Mikhail Tal"
-      },
-      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-2",
          "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
          "title" : "Thirty years! Happy Birthday Fritz (2)"
+      },
+      {
+         "description" : "The 'Magician from Riga', Mikhail Tal, enchanted the chess world in the 1950s and 1960s with his amazing combinations. He was ill all his life, but nevertheless belonged to the absolute top of the chess world for decades, even after losing the World Championship title. Today is the 85th anniversary of his birth. | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
+         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
+         "title" : "In memory of Mikhail Tal"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Grand Swiss, which was won by wunderkind Alireza Firouzja, who got a spot in the next Candidates Tournament at 18. Are we entering a new era of chess greatness? | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1442,14 +1506,6 @@ news_feed (
          "title" : "Chess: David Howell draws 142-move marathon in Riga using rare rule"
       },
       {
-         "description" : "The 28th of October brought us the second day of the Blitzcoin Invitational, a bullet and blitz knockout event hosted by the Charlotte Chess Center, where 16 top US players U-25 compete in blitz matches for a prize of one Bitcoin. This was the l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-2-wang-checa-hong-liang-win",
-         "pubDate" : "Thu, 28 Oct 2021 23:33:00 -0700",
-         "title" : "Blitzcoin Invitational Day 2: Wang, Checa, Hong, Liang Win"
-      },
-      {
          "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss in Riga, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far. Meanwhile, seven players have a 2/2 score in the women's section. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1984,30 +2040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-486-a-lenderman-vs-f-caruana",
          "pubDate" : "Wed, 20 Oct 2021 18:00:00 +0100",
          "title" : "Game of the Week 486: A. Lenderman vs F. Caruana"
-      },
-      {
-         "description" : "Wesley So beat both Fabiano Caruana and Sam Sevian in the playoffs of the 2021 US Championship to win the national title for a third time, since his transfer to the United States in 2014. A hard-fought tournament saw the three players sharing first place on 6&frac12; points after 11 rounds. A round robin with a rapid time control took place on Tuesday to decide the winner of the national championship. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2021-playoffs",
-         "pubDate" : "Wed, 20 Oct 2021 15:25:00 +0100",
-         "title" : "Wesley So dominates playoffs, wins 2021 US Championship"
-      },
-      {
-         "description" : "This year, the British Chess Federation organised two national championships, an online championship in July/August, and an \"Over-the-Board\" championship at the beginning of October. Nicholas Pert (pictured) won the Open Championship, Harriett Hunt became Women's Champion. | Photos: John Stubbs (Tournament page)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nick-pert-wins-british-championship",
-         "pubDate" : "Wed, 20 Oct 2021 15:00:00 +0100",
-         "title" : "Nick Pert wins British Championship"
-      },
-      {
-         "description" : " <p class=\"lead\">Wesley So won the tiebreaks against Caruana and Sevian to grab for the third time the title of the <a href=\"99https://uschesschamps.com/2021-us-championships/Overview\">US Champion</a>, while Carissa Yip finished clear first with the last round to spare, winning <a href=\"99https://uschesschamps.com/tags/2021-us-womens-championship\">the 2021 US Women's Championship</a> triumphantly! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51609124941_8c3a3a4d06_o-min.jpg\" width=\"2560\" height=\"1772\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> Fabiano Caruana, Wesley So, and Sam Sevian finished the 2021 US Championship, on Monday ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/so-yip-the-big-winners-of-2021-us-chess-championships/",
-         "pubDate" : "Wed, 20 Oct 2021 12:57:33 +0000",
-         "title" : "So & Yip the big winners of 2021 US Chess Championships"
       }
    ]
 }
