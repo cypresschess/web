@@ -10,6 +10,30 @@ news_feed (
          "title" : "Forester Open in Grapevine, Texas"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. Nepo <a href=\"https://www.chess.com/news/view/ian-nepomniachtchi-interview-chess\">also talked to</a> <strong>Chess.com</strong>, that also conducted an <a href",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
+         "pubDate" : "Wed, 10 Nov 2021 18:40:01 +0100",
+         "title" : "Nepo, Carlsen and Caruana interviewed"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million in prizes, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
+         "pubDate" : "Wed, 10 Nov 2021 18:28:56 +0100",
+         "title" : "Kazakh capital hosts World Rapid&Blitz"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levy Royzman</strong>, one of the most popular chess streamers on <strong>Twitch</strong>, <a href=\"https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners\">announced 11 scholastic chess programmes in the US and one in Nigeria</a> as recipients of $100,000 in scholarships he is donating in cooperation with <strong>Chesskid</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/roizman-announced-scholarship/",
+         "pubDate" : "Wed, 10 Nov 2021 18:28:34 +0100",
+         "title" : "Roizman announced scholarship recipients"
+      },
+      {
          "description" : "In the most active Titled Tuesday since August, GM Rustam Khusnutdinov took home the victory with a 9.5/11 score, winning on the tiebreak system over second-place finisher GM Dmitrij Kollars. In a logjam on 9 points out of 11, two well-known GMs t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -46,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-playoffs-preview",
-         "pubDate" : "Wed, 10 Nov 2021 06:49:25 -0800",
+         "pubDate" : "Wed, 10 Nov 2021 06:49:00 -0800",
          "title" : "Collegiate Chess League: Playoffs Preview"
       },
       {
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Carlsen and Nepomniachtchi: Young Rivals"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. <strong>Chess.com</strong> conducted an <a href=\"https://www.youtube.com/watch?v=mjcTKOfi1dg&amp;t=11s\">in-depth video interview</a> with the last challenger <",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
-         "pubDate" : "Tue, 09 Nov 2021 19:10:15 +0100",
-         "title" : "Nepo, Carlsen and Caruana interviewed"
-      },
-      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-a-new-era-of-chess-greatness",
          "pubDate" : "Tue, 09 Nov 2021 18:50:00 +0100",
          "title" : "The Weekly Show: A new era of chess greatness"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million in prizes, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
-         "pubDate" : "Tue, 09 Nov 2021 18:44:41 +0100",
-         "title" : "Kasakh capital hosts World Rapid&Blitz"
       },
       {
          "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-new-rating-list-carlsen-is-the-only-2800-players",
          "pubDate" : "Mon, 01 Nov 2021 16:04:05 +0100",
          "title" : "The new rating list: Carlsen is the only 2800+ player"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Teams Championship</strong> is shifting <a href=\"https://www.fide.com/docs/regulations/WTC%202022%20-%20Regulations.pdf\">from classical to rapid chess</a> 45 minutes plus 10 seconds per move. The best four of each of two preliminary groups of six teams will qualify for the quarterfinals. <strong>FIDE</strong> is <a href=\"https://www.fide.com/news/1409\">calling bids for April 2022</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/world-teams-goes-rapid/",
-         "pubDate" : "Mon, 01 Nov 2021 14:03:11 +0100",
-         "title" : "World Teams goes rapid"
       },
       {
          "description" : " The Australian National Sound and Film Archives has retrieved a number of short documentaries about Australian cities, and have made then available on youtube. I posted one about Canberra a few years back, and today I cam across one about Sydney. It was made around 1964, and shows Sydney just as the high rise developments were getting started. Also included (at around the 8:30 mark), is a scene of outdoor chess, being played on council tables. I'm not sure where it was filmed (maybe Hyde Park), but it may contain faces familiar to older players. There are also a number of other interesting scenes, including some very non-ohs work practices on high rise construction sites. <div class=\"separa",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r11",
          "pubDate" : "Wed, 20 Oct 2021 23:40:00 +0100",
          "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1393",
-         "pubDate" : "Wed, 20 Oct 2021 19:30:28 +0000",
-         "title" : "Nikita Vitiugov and Valentina Gunina become new Russian champions"
       }
    ]
 }
