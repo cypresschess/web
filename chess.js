@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman teaches a chess endgame class. 2021.11.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/become-queen-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8fAj6EUvIDs.jpg?itok=lhPtyAck\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/become-queen-insane-endgame-gm-alex-lenderman",
+         "pubDate" : "Wed, 10 Nov 2021 00:44:50 +0000",
+         "title" : "Become the Queen! | Insane in the Endgame - GM Alex Lenderman"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Alireza Firouzja&#039;s games from the FIDE Grand Swiss Tournament 2021, where two spots in the next Candidates Tournament were at stake. The mysterious masked Caleb plays Firouzja&#039;s hits from the event. 2021.11.09<br /> Alireza Firouzja vs David Howell, FIDE Grand Swiss (2021): C50 Giuoco Piano<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2097552\">https://www.chessgames.com/perl/chessgame?gid=2097552</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 10 Nov 2021 00:44:50 +0000",
+         "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "The second match of the 2021 Speed Chess Championship Main Event went down to the wire as GM Ding Liren and GM Shakhriyar Mamedyarov fought a hotly contested battle. The Chinese GM ultimately won with a final score of 14-12 (an identical result to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,22 +848,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2021-us-chess-championships-round-11",
          "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
          "title" : "2021 U.S. Chess Championships: Round 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Garry Kasparov's plan to take down the Queen's Gambit Declined. The mysterious masked Caleb loves Kasparov. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-kasparov-destroys-queens-gambit-declined-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zYjINAihoiM.jpg?itok=to2BhnOJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-kasparov-destroys-queens-gambit-declined-road-2000-nm-caleb-denby",
-         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
-         "title" : "How Kasparov Destroys a Queen's Gambit Declined | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League crowns a Fall league champion! The four top scoring teams meet in-person at the Club for a round robin finale. Join NM Caleb Denby for the move-by-move. 2021.11.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-fall-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CVCvoxMjEMA.jpg?itok=SfrlVhla\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-fall-championship",
-         "pubDate" : "Tue, 02 Nov 2021 18:35:26 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Fall Championship"
       },
       {
          "description" : "",
