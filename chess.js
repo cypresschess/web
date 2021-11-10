@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "International master Levy Rozman, the popular streamer and content creator behind GothamChess, has recently announced the winners for his $100,000 chess scholarship program. In a partnership with ChessKid.com, the scholastic branch of Chess.com,...",
+         "description" : "The second match of the 2021 Speed Chess Championship Main Event went down to the wire as GM Ding Liren and GM Shakhriyar Mamedyarov fought a hotly contested battle. The Chinese GM ultimately won with a final score of 14-12 (an identical result to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-mamedyarov",
+         "pubDate" : "Tue, 09 Nov 2021 12:12:00 -0800",
+         "title" : "Speed Chess Championship: Ding Beats Mamedyarov, Close Finish To Reach QF"
+      },
+      {
+         "description" : "IM Levy Rozman, the popular streamer and content creator behind GothamChess, has recently announced the winners for his $100,000 chess scholarship program. In a partnership with ChessKid.com, the scholastic branch of Chess.com, Rozman recently c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners",
@@ -1426,14 +1434,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 2 Recap"
       },
       {
-         "description" : "After two rounds, there are three players in the open section on 2/2 and seven women players on the same score at the FIDE Chess.com Grand Swiss and Women&#39;s Grand Swiss in Riga, Latvia. There are nine rounds to go in the tournament. How t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r2",
-         "pubDate" : "Thu, 28 Oct 2021 12:17:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R2: Firouzja, Predke, Saric on 2/2"
-      },
-      {
          "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/873003.jpg\" width=\"1640\" height=\"1093\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Photo: Ómar Óskarsson</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times!",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2016,22 +2016,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youthjunior-chess-championships-2021-r7-report/",
          "pubDate" : "Wed, 20 Oct 2021 05:21:36 +0000",
          "title" : "European Youth&Junior Chess Championships 2021 - R7 report"
-      },
-      {
-         "description" : " From the author's introduction: I was lucky enough to play against six world champions and several top players in my modest chess career, but the greatest player I feel privileged to have known, to have spent time with him, was Miguel Najdorf, \"El Viejo\". This is a chess book, with 275 commented games, it covers <a href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stories/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Miguel Najdorf &#8216;El Viejo' Life, Games and Stories</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stor",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/10/20/miguel-najdorf-el-viejo-life-games-and-stories/",
-         "pubDate" : "Wed, 20 Oct 2021 00:10:55 +0000",
-         "title" : "Miguel Najdorf - 'El Viejo' - Life, Games and Stories"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1391",
-         "pubDate" : "Tue, 19 Oct 2021 22:43:40 +0000",
-         "title" : "Wesley So and Carissa Yip clinch U.S. Championship titles"
       }
    ]
 }
