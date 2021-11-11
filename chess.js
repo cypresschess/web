@@ -2016,22 +2016,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
          "pubDate" : "Thu, 21 Oct 2021 16:02:31 +0000",
          "title" : "2021 International Chess Championship for Prisons"
-      },
-      {
-         "description" : "Adding symbols, evaluations and comments may be important, but without variations and moves to depict the possibilities that could have taken place or should have taken place, describing chess as a science would have no meaning. Yet knowing how to organize and re-organize those variations and moves sensibly and efficiently is no less essential. Learn how to do it like a pro!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-variations-moves-and-more",
-         "pubDate" : "Thu, 21 Oct 2021 15:00:00 +0100",
-         "title" : "Annotating in ChessBase: Variations, moves, and more"
-      },
-      {
-         "description" : "On Monday, 25 October, the Grand Swiss Tournament in Riga is scheduled to begin. 114 players have registered, the two best qualify for the Candidates Tournament 2022. But due to a sharp rise in the numbers of COVID-19 cases, the Latvian authorities have introduced a strict four-week lockdown, from Thursday 21 October until 15 November. However, the Grand Swiss is exempt from these restrictions and the tournament can take place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-in-riga-will-take-place-despite-lockdown",
-         "pubDate" : "Thu, 21 Oct 2021 14:13:26 +0100",
-         "title" : "Grand Swiss in Riga will take place despite lockdown"
       }
    ]
 }
