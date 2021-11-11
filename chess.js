@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Good luck to England at the European Team Chess Championship, which starts today. We have a strong line-up &#8212; Open GM David Howell; GM Michael...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-compete-at-european-team-chess-championship-2021/",
+         "pubDate" : "Thu, 11 Nov 2021 09:39:53 +0000",
+         "title" : "England at European Team Chess Championship 2021"
+      },
+      {
          "description" : "The Royal Hideaway Sancti Petri is a 5-star hotel located in Cadiz, Spain. Recently, world champion Magnus Carlsen visited the resort and was presented as ambassador of \"The Maître's Gambit\", a recurring activity in which Guillermo Garcia, a former Spanish Junior chess champion, plays simultaneous exhibitions against guests of the hotel. In an interview, Carlsen talked about grandmaster preparation, his early years as a chess player and \"The Queen's Gambit\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Thu, 11 Nov 2021 00:45:28 +0000",
          "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : " From the back cover: A collection of the classic games of British chess, including one or two which, though truly memorable, are by no means masterpieces; with a few more included by way of a little light relief. We shouldn't be serious all the time, even at the chess board. Neil is a retired county <a href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Memorable Games of British Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\">Memorable Games of British Chess</a> appeared first on <a ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/",
+         "pubDate" : "Thu, 11 Nov 2021 00:10:48 +0000",
+         "title" : "Memorable Games of British Chess"
       },
       {
          "description" : "GM Richard Rapport prevailed against GM Alexey Sarana 16.5-14.5 in a marathon 31-game match in the 2021 Speed Chess Championship Main Event and moves on to the quarterfinals. Rapport will face the winner of the next round of 16 match between GMs A...",
@@ -2016,30 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-in-riga-will-take-place-despite-lockdown",
          "pubDate" : "Thu, 21 Oct 2021 14:13:26 +0100",
          "title" : "Grand Swiss in Riga will take place despite lockdown"
-      },
-      {
-         "description" : " <p class=\"lead\">A six-time World Championship Candidate, and 2012 Challenger, GM Boris Gelfand, is hosting a <a href=\"https://masterclass.worldchess.com/gelfand2021\">3-part Masterclass</a>, to teach us how pieces play in the middlegame, starting on the 22nd of October. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-05559-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Niki Riga for World Chess</div> </div> For decades Boris Gelfand has been one of the best chess players in the world. He is known for his deep analyses, passion for chess, and his admiration for Akiba Rubinstein. In an interview with ChessBase Gelfand said: <b",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/masterclass-with-gm-boris-gelfand/",
-         "pubDate" : "Thu, 21 Oct 2021 11:43:48 +0000",
-         "title" : "Masterclass with GM Boris Gelfand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1392",
-         "pubDate" : "Thu, 21 Oct 2021 11:30:24 +0000",
-         "title" : "Grand Swiss exempt from the new coronavirus restrictions in Latvia"
-      },
-      {
-         "description" : "Recently, Svitlana came to Hamburg to record her new Fritztrainer: \"Understanding Material Imbalances\". The DVD will appear soon, probably in a couple of weeks. But this is a good opportunity for a preview, including some recent examples of the themes Svitlana presents, e.g. the entertaining topic of \"Material Imbalances\". At the US Championship 2021 that just ended in St. Louis Sam Shankland and Fabiano Caruana played a fascinating game with material imbalances - it ended in a draw when the queen was unable to win against two minor pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-17",
-         "pubDate" : "Thu, 21 Oct 2021 12:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana, St. Louis 2021"
       }
    ]
 }
