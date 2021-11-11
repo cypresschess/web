@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1430",
+         "pubDate" : "Thu, 11 Nov 2021 20:01:28 +0000",
+         "title" : "Call of Interest for Arbiters in World Events 2022-2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Following the example of the <a href=\"https://www.ntg.no/skole/b%C3%A6rum/sjakk\">Norwegian sport gymnasium</a> <strong>NTG</strong>, where Magnus Carlsen, Jon Ludvig Hammer and Aryan Tari combined their academic studies and chess training under guidance by Simen Agdestein, the <strong>Celsiusskolan</strong>, a sport gymnasium in Uppsala near Stockholm, is <a href=\"https://schack.se/nyhet/sverige/2021/11/klart-for-nytt-schackgymnasium-i-uppsala/\">opening for top chess talents</a> in cooperation with the <strong>Swedish Chess Federation</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/sweden-gets-a-chess-gymnasium/",
+         "pubDate" : "Thu, 11 Nov 2021 20:19:54 +0100",
+         "title" : "Sweden gets a chess gymnasium"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a game between Boris Gelfand and Sergei Movsesian from the Grand Swiss in Riga. It was a fantastic battle, with four queens appearing on the board as early as on move 11. Not to be missed! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-four-queens-in-the-geller-gambit",
+         "pubDate" : "Thu, 11 Nov 2021 18:20:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Four queens in the Geller Gambit"
+      },
+      {
+         "description" : "Sergey Karjakin narrowly missed out on the World Chess Championship title in 2016 when he took the lead with just four games to go, before ultimately losing to Magnus Carlsen in a rapid tiebreak. In a recent interview he revealed he's been doing some work with Ian Nepomniachtchi in the run-up to the match in Dubai, and gave his verdict on both how the match will go and on Magnus' place in chess history.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble",
+         "pubDate" : "Thu, 11 Nov 2021 17:02:27 +0000",
+         "title" : "Karjakin: Magnus \"can psychologically crumble\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1429",
+         "pubDate" : "Thu, 11 Nov 2021 16:58:16 +0000",
+         "title" : "International online conference \"Chess in Education\" planned for November 20-21"
+      },
+      {
          "description" : "The World Rapid and Blitz Championships, one of the most awaited events in the calendar for chess fans, will take place on its traditional dates: December 25-30, 2021. The tournaments will be hosted by the Kazakhstan Chess Federation and will be played in Nur-Sultan, the capital of the country (formerly known as Astana). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Magnus Carlsen presents 'The Maître's Gambit' in an exclusive interview"
       },
       {
-         "description" : " Share! Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!54 Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/fide-launches-its-own-nfts/",
          "pubDate" : "Mon, 08 Nov 2021 10:52:32 +0100",
          "title" : "FIDE launches its own NFTs"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> won the <strong>Grand Swiss</strong>, held by <strong>FIDE</strong> in Riga amidst a national lockdown, cashing in $70,000 and climbing to the fifth place in the world ranking. Runner-up <strong>Fabiano Caruana</strong> also qualified for the next Candidates Tournament. The one place at the Women's Candidates was claimed by <strong>Lei Tingjie</strong>, who won the Women Grand Swiss by a dominating 1,5 points margin. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">25 Oct - 08 Nov 2021</span>: <a href=\"https://www.chesstech.org/events/2021/fide-grand-swiss-tournament-2021/\">FIDE ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/firouzja-caruana-and-lei-go/",
-         "pubDate" : "Mon, 08 Nov 2021 10:36:01 +0100",
-         "title" : "Firouzja, Caruana and Lei go Candidates"
       },
       {
          "description" : "In a great initiative to promote the game of chess at Arunachal Pradesh, the Government of Arunachal Pradesh decided provide all the logistical support for",
@@ -1666,14 +1698,6 @@ news_feed (
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
       },
       {
-         "description" : "Magnus Carlsen will return to action after the World Championship match when he plays in Wijk aan Zee for an 18th time on the 14-30 January 2022. Magnus will be looking to win an 8th Tata Steel Masters title, but will face tough competition from world no. 2 Fabiano Caruana and local hero Anish Giri. 13 of the 14 players have been announced, with 16-year-old Julius Baer Challengers Chess Tour winner Praggnanandhaa given his debut in the top event, while another teenager, 19-year-old Andrey Esipenko, gets the chance to build on his brilliant debut in 2021.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-and-praggnanandhaa-to-play-tata-steel-masters",
-         "pubDate" : "Wed, 27 Oct 2021 07:24:16 +0000",
-         "title" : "Carlsen and Praggnanandhaa to play Tata Steel Masters"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-final-report",
          "pubDate" : "Fri, 22 Oct 2021 01:00:00 +0100",
          "title" : "Mongolian team wins Online Chess Championship for prisoners"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the improved Milner-Barry Variation (1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3!? cxd4 7.0-0, an interesting and aggressive way to fight the French Defense that has recently become more and more popular. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-improved-milner-barry-gambit",
-         "pubDate" : "Thu, 21 Oct 2021 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
       }
    ]
 }
