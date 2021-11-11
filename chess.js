@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA! Most recently Fred Sagwe trekked 165km to get chess in the national conversation. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "The Royal Hideaway Sancti Petri is a 5-star hotel located in Cadiz, Spain. Recently, world champion Magnus Carlsen visited the resort and was presented as ambassador of \"The Maître's Gambit\", a recurring activity in which Guillermo Garcia, a former Spanish Junior chess champion, plays simultaneous exhibitions against guests of the hotel. In an interview, Carlsen talked about grandmaster preparation, his early years as a chess player and \"The Queen's Gambit\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-the-maitre-gambit",
+         "pubDate" : "Thu, 11 Nov 2021 06:35:00 +0100",
+         "title" : "Magnus Carlsen presents 'The Maître's Gambit' in an exclusive interview"
+      },
+      {
+         "description" : " Share! Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
          "pubDate" : "Thu, 11 Nov 2021 03:56:55 +0000",
          "title" : "Chess brought before Kenyan Parliament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the weird lines of the Kan or Paulsen. 2021.11.10<br /> Dorsa Derakhshani vs. Anthony Barron, 2013: B40 Sicilian, Anderssen variation<br /> Dorsa Derakhshani vs Zivile Urbonaviciute, World Junior Championship (Girls) (2013): B43 Sicilian, Kan, 5.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1731369\">https://www.chessgames.com/perl/chessgame?gid=1731369</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 11 Nov 2021 03:45:26 +0000",
+         "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the weird lines of the Kan or Paulsen. 2021.11.10<br /> Dorsa Derakhshani vs. Anthony Barron, 2013: B40 Sicilian, Anderssen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fabiano-caruana-talks-about-carlsen-nepomniachtchi-and-the-world-championship",
          "pubDate" : "Wed, 03 Nov 2021 09:00:00 +0100",
          "title" : "Fabiano Caruana talks about Carlsen, Nepomniachtchi and the World Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs deep into king and pawn endgames. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 03 Nov 2021 03:35:55 +0000",
-         "title" : "Little Guys Shine: King & Pawn Endgames | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " &#8220; Weak points still more, however, strong points in brief, all the points that we can be grouped together under the collective concept &#8220;strategically important points&#8221;, must be over-protected&#8221; A Nimzowitsch, My System The above quote summarizes the idea of &#8220;prophylaxis to the inside&#8221; as described by Nimzowitsch. This covers anything that we <a href=\"https://chessimprover.com/prophylaxis/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Prophylaxis\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/prophylaxis/\">Prophylaxis</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
