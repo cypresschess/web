@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Championships, one of the most awaited events in the calendar for chess fans, will take place on its traditional dates: December 25-30, 2021. The tournaments will be hosted by the Kazakhstan Chess Federation and will be played in Nur-Sultan, the capital of the country (formerly known as Astana). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2021-announcement",
+         "pubDate" : "Thu, 11 Nov 2021 17:10:00 +0100",
+         "title" : "Nur-Sultan to host World Rapid and Blitz Championships"
+      },
+      {
          "description" : "Good luck to England at the European Team Chess Championship, which starts today. We have a strong line-up &#8212; Open GM David Howell; GM Michael...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-improved-milner-barry-gambit",
          "pubDate" : "Thu, 21 Oct 2021 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The Improved Milner-Barry Gambit"
-      },
-      {
-         "description" : " Prison chess has always been seen as a tremendous outlet for inmates. &#8220;Life of a King&#8221; was a compelling movie that showed how chess could help inmate pass the time and also get a look at their own thoughts for self-analysis. In the inaugural Intercontinental Online Chess Championship for Prisoners, 42 teams from 31 countries [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/\">2021 International Chess Championship for Prisons</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/10/21/2021-international-chess-championship-for-prisons/",
-         "pubDate" : "Thu, 21 Oct 2021 16:02:31 +0000",
-         "title" : "2021 International Chess Championship for Prisons"
       }
    ]
 }
