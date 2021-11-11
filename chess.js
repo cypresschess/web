@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "O primeiro dia das oitavas de final do GazitChamps 2 foi repleto de momentos eletrizantes. TheMG7 ganhou um match extremamente equilibrado contra a veterana Marina Bombonato ap&#38;oacute;s um jogo tenso de armageddon. Tesdey venceu a outra veterana...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gazitchamps2-themg7-tesdey-vencem",
-         "pubDate" : "Wed, 10 Nov 2021 15:56:05 -0800",
-         "title" : "GazitChamps2: TheMG7 e Tesdey vencem nas oitavas de final"
+         "description" : " Share! Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA! Most recently Fred Sagwe trekked 165km to get chess in the national conversation. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
+         "pubDate" : "Thu, 11 Nov 2021 03:56:55 +0000",
+         "title" : "Chess brought before Kenyan Parliament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the weird lines of the Kan or Paulsen. 2021.11.10<br /> Dorsa Derakhshani vs. Anthony Barron, 2013: B40 Sicilian, Anderssen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 11 Nov 2021 00:45:28 +0000",
+         "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "GM Richard Rapport prevailed against GM Alexey Sarana 16.5-14.5 in a marathon 31-game match in the 2021 Speed Chess Championship Main Event and moves on to the quarterfinals. Rapport will face the winner of the next round of 16 match between GMs A...",
@@ -962,14 +970,6 @@ news_feed (
          "title" : "Little Guys Shine: King & Pawn Endgames | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb teaches concepts like outside passed pawn, mutual zugzwang, trading down into an advantageous endgame, the \"box\" rule, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/little-guys-shine-king-pawn-endgames-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 03 Nov 2021 00:35:42 +0000",
-         "title" : "Little Guys Shine: King & Pawn Endgames | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : " &#8220; Weak points still more, however, strong points in brief, all the points that we can be grouped together under the collective concept &#8220;strategically important points&#8221;, must be over-protected&#8221; A Nimzowitsch, My System The above quote summarizes the idea of &#8220;prophylaxis to the inside&#8221; as described by Nimzowitsch. This covers anything that we <a href=\"https://chessimprover.com/prophylaxis/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Prophylaxis\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/prophylaxis/\">Prophylaxis</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1202,7 +1202,7 @@ news_feed (
          "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
       },
       {
-         "description" : " Share!228 FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 years [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
@@ -1408,6 +1408,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-dronavalli-harika-beats-antoaneta-stefanova/articleshow/87388030.cms",
          "pubDate" : "Sat, 30 Oct 2021 11:30:40 +0530",
          "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
+      },
+      {
+         "description" : "On Friday, the third day of the Blitzcoin Invitational tournament, players entered the quarterfinals stage. As a result, four players were eliminated, as GM Daniel Naroditsky outplayed GM Brandon Jacobson, GM Andrew Tang beat IM Atulya Shetty, I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-3-naroditsky-tang-wang-liang-in-semifinals",
+         "pubDate" : "Fri, 29 Oct 2021 22:29:00 -0700",
+         "title" : "Blitzcoin Invitational Day 3: Naroditsky, Tang, Wang, Liang In Semifinals"
       },
       {
          "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
