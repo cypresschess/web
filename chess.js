@@ -10,6 +10,14 @@ news_feed (
          "title" : "GazitChamps2: TheMG7 e Tesdey vencem nas oitavas de final"
       },
       {
+         "description" : "GM Richard Rapport prevailed against GM Alexey Sarana 16.5-14.5 in a marathon 31-game match in the 2021 Speed Chess Championship Main Event and moves on to the quarterfinals. Rapport will face the winner of the next round of 16 match between GMs A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-rapport-sarana",
+         "pubDate" : "Wed, 10 Nov 2021 14:23:00 -0800",
+         "title" : "Speed Chess Championship: Rapport Knocks Out Sarana In Dramatic Tiebreaker"
+      },
+      {
          "description" : "The 2021 Forester Open, with a planned $20,000 prize fund and norm opportunities, will take place on November 24-28 in Grapevine, Texas. Its organizer is Blakeman Chess, founded by 20-year-old Cole Blakeman. He plans to expand Blakeman Chess outside of Texas and build its reputation as one of the biggest U.S. chess tours.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-dronavalli-harika-beats-antoaneta-stefanova/articleshow/87388030.cms",
          "pubDate" : "Sat, 30 Oct 2021 11:30:40 +0530",
          "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
-      },
-      {
-         "description" : "On Friday, the third day of the Blitzcoin Invitational tournament, players entered the quarterfinals stage. As a result, four players were eliminated, as GM Daniel Naroditsky outplayed GM Brandon Jacobson, GM Andrew Tang beat IM Atulya Shetty, I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-3-naroditsky-tang-wang-liang-in-semifinals",
-         "pubDate" : "Fri, 29 Oct 2021 22:29:00 -0700",
-         "title" : "Blitzcoin Invitational Day 3: Naroditsky, Tang, Wang, Liang In Semifinals"
       },
       {
          "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
