@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "O primeiro dia das oitavas de final do GazitChamps 2 foi repleto de momentos eletrizantes. TheMG7 ganhou um match extremamente equilibrado contra a veterana Marina Bombonato ap&#38;oacute;s um jogo tenso de armageddon. Tesdey venceu a outra veterana...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gazitchamps2-themg7-tesdey-vencem",
+         "pubDate" : "Wed, 10 Nov 2021 15:56:05 -0800",
+         "title" : "GazitChamps2: TheMG7 e Tesdey vencem nas oitavas de final"
+      },
+      {
          "description" : "The 2021 Forester Open, with a planned $20,000 prize fund and norm opportunities, will take place on November 24-28 in Grapevine, Texas. Its organizer is Blakeman Chess, founded by 20-year-old Cole Blakeman. He plans to expand Blakeman Chess outside of Texas and build its reputation as one of the biggest U.S. chess tours.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1418,14 +1426,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 3 Recap"
       },
       {
-         "description" : "GM Alireza Firouzja is the sole leader at the FIDE Chess.com Grand Swiss in Riga after beating GM Alexandr Predke on Friday, while co-leader GM Ivan Saric drew his game with GM Fabiano Caruana. Nine players are sharing the lead in the FIDE Chess.c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-r3",
-         "pubDate" : "Fri, 29 Oct 2021 12:36:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R3: Firouzja On Fire, Sole Leader In Riga"
-      },
-      {
          "description" : "In this week's show, GM Daniel King looks at ways to catch the enemy king, and shows how Maxime Vachier-Lagrave failed to do so in a recent Bundesliga game, which Daniel featured the previous week. More successful in his efforts to catch the enemy king was Vassily Smyslov in a game of his Candidate Match against Zoltan Ribli in 1983. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-17",
          "pubDate" : "Thu, 21 Oct 2021 12:00:00 +0100",
          "title" : "Svitlana's Smart Moves - \"Material Imbalances\": S. Shankland vs F. Caruana, St. Louis 2021"
-      },
-      {
-         "description" : "All but one game in both sections of the Russian Superfinals finished drawn in Wednesday's final round, and the one decisive game (which was played in the open section) did not alter the situation at the top of the standings table. Thus, Nikita Vitiugov and Valentina Gunina, who were the sole leaders after the penultimate round, were crowned as the 2021 Russian chess champions. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-superfinals-2021-r11",
-         "pubDate" : "Wed, 20 Oct 2021 23:40:00 +0100",
-         "title" : "Nikita Vitiugov and Valentina Gunina are the 2021 Russian champions"
       }
    ]
 }
