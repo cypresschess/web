@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Iran-born 18-year-old, who now represents France, is the third youngest Candidate after Magnus Carlsen and Bobby Fischer and has Garry Kasparov's 1985 record in his sights Alireza Firouzja, the Iran-born 18-year-old who emigrated to France due to Tehran's punishments for playing Israeli opponents, has become the third youngest Candidate in chess history, with a chance of a glittering prize, the youngest ever world champion. Firouzja scored 8/11 in the Grand Swiss in Riga to earn a place in the eight-player 2022 Candidates, whose winner will play for the global crown later next year. He reached his target two months younger than Boris Spassky at Gothenburg 1955, and is the third youngest",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/nov/12/chess-teenager-alireza-firouzja-aiming-to-be-youngest-ever-world-champion",
+         "pubDate" : "Fri, 12 Nov 2021 08:00:30 +0000",
+         "title" : "Chess: Teenager Alireza Firouzja aiming to be youngest ever world champion"
+      },
+      {
+         "description" : "It was a &#34;DoubleHeader&#34; Thursday at the 2021 Speed Chess Championship Main Event with two matches: GM Alexander Grischuk vs GM Nihal Sarin followed by GM Levon Aronian vs GM Daniil Dubov. Nihal upstaged Grischuk impressively and will face GM Richa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-championship-nihal-and-aronian-win-and-advance-to-quarterfinals",
+         "pubDate" : "Thu, 11 Nov 2021 22:07:48 -0800",
+         "title" : "Speed Chess Championship: Nihal and Aronian Win And Advance To Quarterfinals"
+      },
+      {
          "description" : "The 23rd edition of the European Team Championships will take place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Both Russian teams arrive in Slovenia as the defending champions and rating favourites.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-p-iniyan-wins-chess-tournament-in-serbia/articleshow/87406107.cms",
          "pubDate" : "Sat, 30 Oct 2021 22:46:10 +0530",
          "title" : "Indian GM P Iniyan wins chess tournament in Serbia"
-      },
-      {
-         "description" : "GM Fabiano Caruana will be Chess.com&#39;s star commentator during the Carlsen-Nepomniachtchi world championship match alongside GM Robert Hess and IM Danny Rensch. Nobody can provide better insights than the world&#39;s number-two player, who was Carlsen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fabiano-caruana-interview-carlsen-nepomniachtchi",
-         "pubDate" : "Sat, 30 Oct 2021 06:00:00 -0700",
-         "title" : "Fabiano Caruana On Playing A World Championship, On Carlsen-Nepomniachtchi, And More"
       },
       {
          "description" : " Chess.com has an interesting article that looks at performances in some of the greatest tournaments in history. 12 events were chosen, starting with London 1851, and players estimated elo rating were calculated using the chess.com CAPS system. Of course the earlier events had reasonably low performances (due to a lack of accurate play), but once into the 20th century there were some players getting quite high estimates (eg Capablanca 2726 at St Petersburg 1914). One interesting feature was that tournament winner often did not have the highest estimated rating, with some like Averbakh having the top TPR of 2759 at the 1953 Candidates, despite finishing 10th, and Euwe having the 2nd highest, ",
