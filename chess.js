@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 23rd edition of the European Team Championships will take place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Both Russian teams arrive in Slovenia as the defending champions and rating favourites.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-preview",
+         "pubDate" : "Fri, 12 Nov 2021 02:25:00 +0100",
+         "title" : "Giri, Grischuk and Firouzja among top stars at European Team Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s all online again! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SeDqfgt3HQY.jpg?itok=LCc0rRrK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5-chesscom",
+         "pubDate" : "Fri, 12 Nov 2021 00:45:55 +0000",
+         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #5 | Chess.com"
+      },
+      {
          "description" : "There is no doubt that GM Fabiano Caruana is one of the strongest chess players in history. Since his dominant performance at the 2014 Sinquefield Cup, where he famously started with 7/7 in a field with a 2800 rating average before winning the tou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r7",
          "pubDate" : "Thu, 04 Nov 2021 06:05:00 +0100",
          "title" : "Grand Swiss: Lei keeps on winning, Firouzja reclaims the lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on playing against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok=SQvzuDV5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 04 Nov 2021 00:38:01 +0000",
-         "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "Profiting from a mistake by GM Evgeniy Najer in a rook endgame,&#38;nbsp;GM Alireza Firouzja regained the sole lead in the&#38;nbsp;FIDE Chess.com Grand Swiss with four rounds to go. GM&#38;nbsp;Lei Tingjie continues to lead the women&#39;s section and now has IM...",
