@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is no doubt that GM Fabiano Caruana is one of the strongest chess players in history. Since his dominant performance at the 2014 Sinquefield Cup, where he famously started with 7/7 in a field with a 2800 rating average before winning the tou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fabiano-caruana-2018-world-championship-chesscom-lesson",
+         "pubDate" : "Thu, 11 Nov 2021 15:33:19 -0800",
+         "title" : "Fabiano Caruana Discusses 2018 World Championship In New Chess.com Lesson"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1431",
+         "pubDate" : "Thu, 11 Nov 2021 23:05:00 +0000",
+         "title" : "European Team Championship gets underway in Terme Čatež"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1430",
          "pubDate" : "Thu, 11 Nov 2021 20:01:28 +0000",
          "title" : "Call of Interest for Arbiters in World Events 2022-2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's 2016 challenger <strong>Sergey Karjakin</strong> revealed in an interview with <strong>Metaratings.ru</strong>, <a href=\"https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble\">transcribed</a> by <strong>chess24</strong>, that he trained with his compatriot <strong>Ian Nepomniachtchi</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/karjakin-helps-nepo/",
+         "pubDate" : "Thu, 11 Nov 2021 20:52:45 +0100",
+         "title" : "Karjakin helps Nepo"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Following the example of the <a href=\"https://www.ntg.no/skole/b%C3%A6rum/sjakk\">Norwegian sport gymnasium</a> <strong>NTG</strong>, where Magnus Carlsen, Jon Ludvig Hammer and Aryan Tari combined their academic studies and chess training under guidance by Simen Agdestein, the <strong>Celsiusskolan</strong>, a sport gymnasium in Uppsala near Stockholm, is <a href=\"https://schack.se/nyhet/sverige/2021/11/klart-for-nytt-schackgymnasium-i-uppsala/\">opening for top chess talents</a> in cooperation with the <strong>Swedish Chess Federation</strong>. </div> ",
@@ -42,12 +66,28 @@ news_feed (
          "title" : "International online conference \"Chess in Education\" planned for November 20-21"
       },
       {
+         "description" : " The 23rd European Team Chess Championship takes place in Catez, Slovenia 12th to 21st November 2021. Open and women's competitions. Giri, Grischuk, Firouzja, MVL, Mamedyarov, Rajdabov, Duda, Adams, Dubov, Esipenko are among the leading players, Russia followed by Azerbaijan are the top seeds.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-team-chess-championship-2021",
+         "pubDate" : "Thu, 11 Nov 2021 20:56:00 +0400",
+         "title" : "23rd European Team Chess Championship 2021 - "
+      },
+      {
          "description" : "The World Rapid and Blitz Championships, one of the most awaited events in the calendar for chess fans, will take place on its traditional dates: December 25-30, 2021. The tournaments will be hosted by the Kazakhstan Chess Federation and will be played in Nur-Sultan, the capital of the country (formerly known as Astana). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2021-announcement",
          "pubDate" : "Thu, 11 Nov 2021 17:10:00 +0100",
          "title" : "Nur-Sultan to host World Rapid and Blitz Championships"
+      },
+      {
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport-Sarana, Nov 11 Grischuk-Sarin, Nov 11 Aronian-Dubov, Nov 12 Nakamura-Svidler, Nov 15 So-Xiong and Nov 29 MVL-Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
+         "pubDate" : "Thu, 11 Nov 2021 20:00:00 +0400",
+         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "Good luck to England at the European Team Chess Championship, which starts today. We have a strong line-up &#8212; Open GM David Howell; GM Michael...",
@@ -456,14 +496,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/firouzja-wins-grand-swiss-caruana-in-candidates",
          "pubDate" : "Mon, 08 Nov 2021 09:56:34 +0000",
          "title" : "Firouzja wins Grand Swiss | Caruana in Candidates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://fide.com/news/1413\">announced a partnership</a> with <strong>TON Labs</strong>, a blockchain company, to launch a market place for <a href=\"https://www.chesstech.org/2021/chasing-the-biggest-fans/\">chess-themed NFTs</a> and <strong>Best Chess Moments</strong> that celebrate the forthcoming world championship match. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-launches-its-own-nfts/",
-         "pubDate" : "Mon, 08 Nov 2021 10:52:32 +0100",
-         "title" : "FIDE launches its own NFTs"
       },
       {
          "description" : "In a great initiative to promote the game of chess at Arunachal Pradesh, the Government of Arunachal Pradesh decided provide all the logistical support for",
@@ -1474,14 +1506,6 @@ news_feed (
          "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
       },
       {
-         "description" : "On Friday, the third day of the Blitzcoin Invitational tournament, players entered the quarterfinals stage. As a result, four players were eliminated, as GM Daniel Naroditsky outplayed GM Brandon Jacobson, GM Andrew Tang beat IM Atulya Shetty, I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-3-naroditsky-tang-wang-liang-in-semifinals",
-         "pubDate" : "Fri, 29 Oct 2021 22:29:00 -0700",
-         "title" : "Blitzcoin Invitational Day 3: Naroditsky, Tang, Wang, Liang In Semifinals"
-      },
-      {
          "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,14 +2048,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-nine/",
          "pubDate" : "Fri, 22 Oct 2021 10:00:06 +0000",
          "title" : "A Foundation for Beginners Thirty Nine"
-      },
-      {
-         "description" : "Team Mongolia became the winner of the first Intercontinental Online Chess Championship for Prisoners after defeating Team Zimbabwe in the final of the biggest ever chess event among correctional facilities. In the women's section, the Georgian team won all three matches and finished in clear first place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/championship-for-prisoners-2021-final-report",
-         "pubDate" : "Fri, 22 Oct 2021 01:00:00 +0100",
-         "title" : "Mongolian team wins Online Chess Championship for prisoners"
       }
    ]
 }
