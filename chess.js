@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1432",
+         "pubDate" : "Fri, 12 Nov 2021 19:31:53 +0000",
+         "title" : "Winners crowned at International Children and Youth Festival \"ChessYes\""
+      },
+      {
+         "description" : "The 2021 FIDE Grand Swiss concluded on November 7 with Firouzja and Caruana taking the qualification spots to the 2022 Candidates tournament. Two of the most important games from the second half of the event, Caruana - Firouzja and Firouzja - Howell are analysed by Joshua Doknjas. He also takes a look at the impressive second half performances of David Howell and Grigoriy Oparin. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-highlights-part-2",
+         "pubDate" : "Fri, 12 Nov 2021 20:00:00 +0100",
+         "title" : "Grand Swiss Highlights - Part 2"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at the direct clash between Fabiano Caruana and Alireza Firouzja, who got spots in the next Candidates Tournament at the Grand Swiss in Riga. A top-notch struggle indeed! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-489-caruana-firouzja",
+         "pubDate" : "Fri, 12 Nov 2021 19:30:00 +0100",
+         "title" : "Game of the Week 489: F. Caruana vs A. Firouzja"
+      },
+      {
+         "description" : " Pawn Islands. I forgot to really talk about pawn islands! One of my students, who is reading this series of articles, asked me about pawn islands during a class last week and why I didn't write more about them. Therefore, that is what we will look at this week. Sorry to put off our student <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\">A Foundation for Beginners Forty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-one/",
+         "pubDate" : "Fri, 12 Nov 2021 18:11:02 +0000",
+         "title" : "A Foundation for Beginners Forty One"
+      },
+      {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament will take place on November 17-21 in Kolkata. This time, fourteen players will be taking part. The lineup will be spearheaded by Levon Aronian. This event aims to give maximum exposure to Indian youngsters who have been rapidly climbing the rating ladder. Vishy Anand will be present at the tournament as a mentor to the young talents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-announcement",
+         "pubDate" : "Fri, 12 Nov 2021 18:20:00 +0100",
+         "title" : "Tata Steel Chess India Rapid and Blitz is back!"
+      },
+      {
+         "description" : "During this episode of Trent's Tactics, we talk about the new coronavirus situation getting wilder again, and what it might mean for the European Team Championship, which is starting today. Lawrence also mentions the World Rapid and Blitz Championship, falling on Christmas, and him not being able to participate once again. What can lighten up these darker themes? Some of Trent's Tactics!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-4",
+         "pubDate" : "Fri, 12 Nov 2021 18:00:00 +0100",
+         "title" : "Trent's Tactics - King hunts with queen stunts"
+      },
+      {
+         "description" : "The European Team Chess Championship 2021 kicked off today in Terme Catez, Slovenia. The first part of the Opening ceremony organized for special guests, delegates, captains and officials took place on Thursday, 11th of November. The Ceremony was held in the Museum of Brezice, with attendance of ECU President Mr. Zurab Azmaiparashvili, ECU Vice President and FIDE CEO&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-kicked-off-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-kicked-off-in-terme-catez-slovenia/",
+         "pubDate" : "Fri, 12 Nov 2021 16:54:02 +0000",
+         "title" : "European Team Chess Championship 2021 kicked off in Terme Catez, Slovenia"
+      },
+      {
          "description" : "Ian Nepomniachtchi goes into the match against Magnus Carlsen in Dubai as the last man standing with a plus score against the World Champion: an amazing 4:1 lead in decisive classical games. They've played just 13 games, however - before Carlsen-Caruana, 33 classical games had been played, with Magnus winning 10 to Fabi's 5. Sean Marsh takes a look at the decisive encounters, two of which took place before Magnus was yet a teenager.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -16,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
          "pubDate" : "Fri, 12 Nov 2021 15:00:00 +0100",
          "title" : "European Team Championships - Live!"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament will take place on November 17-21 in Kolkata. This time, fourteen players will be taking part. The lineup will be spearheaded by Levon Aronian. This event aims to give maximum exposure to Indian youngsters who have been rapidly climbing the rating ladder. Vishy Anand will be present at the tournament as a mentor to the young talents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-announcement",
-         "pubDate" : "Fri, 12 Nov 2021 12:20:00 +0100",
-         "title" : "Tata Steel Chess India Rapid and Blitz is back!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
@@ -78,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fabiano-caruana-2018-world-championship-chesscom-lesson",
-         "pubDate" : "Thu, 11 Nov 2021 15:33:19 -0800",
+         "pubDate" : "Thu, 11 Nov 2021 15:33:00 -0800",
          "title" : "Fabiano Caruana Discusses 2018 World Championship In New Chess.com Lesson"
       },
       {
@@ -2040,14 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/duobeniajan-wins-spanish-team-championship-2021",
          "pubDate" : "Fri, 22 Oct 2021 22:00:00 +0100",
          "title" : "DuoBeniaj&aacute;n wins Spanish Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1394",
-         "pubDate" : "Fri, 22 Oct 2021 19:46:47 +0000",
-         "title" : "Rhodes hosts Olympiad for Blind and Visually Impaired and IBCA Congress"
       }
    ]
 }
