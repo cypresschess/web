@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament will take place on November 17-21 in Kolkata. This time, fourteen players will be taking part. The lineup will be spearheaded by Levon Aronian. This event aims to give maximum exposure to Indian youngsters who have been rapidly climbing the rating ladder. Vishy Anand will be present at the tournament as a mentor to the young talents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-announcement",
+         "pubDate" : "Fri, 12 Nov 2021 12:20:00 +0100",
+         "title" : "Tata Steel Chess India Rapid and Blitz is back!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/looking-forward-to-world-chess-championship-without-the-tension-of-playing-anand-on-role-as-commentator/articleshow/87666825.cms",
+         "pubDate" : "Fri, 12 Nov 2021 16:32:10 +0530",
+         "title" : "Looking forward to World C'ship without the tension of playing: Anand"
+      },
+      {
+         "description" : "<br /><br />The ACTCA is happy to announce that the 2021 Vikings Weekender is taking place from Friday 26th November until Sunday 28th November. Details are<div><br /></div><div><br />Dates - 26th, 27th and 28th November 2021<br />6 round FIDE Rated Swiss*<br />Lanyon Vikings, Heidelberg St, Condor, ACT<br />Time control: 60m + 30s<br /><br />Open and Under 1600 sections (Both FIDE Rated)<br />Round 1: Friday 7:00pm Round 2: Sat 11:15am Round 3: Sat 3:15pm Round 4: Sat 7:15pm Round 5: Sun 11:15am Round 6:Sun 3:15pm<br /><br />1st Prize Open $1000, 1st Prize Minor $500 (All other prizes dependant upon entries)<br /><br />** Entry conditions: All players must be fully vaccinated (two shots) an",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/vikings-2021.html",
+         "pubDate" : "Fri, 12 Nov 2021 08:57:00 +0000",
+         "title" : "Vikings 2021"
+      },
+      {
          "description" : " The Iran-born 18-year-old, who now represents France, is the third youngest Candidate after Magnus Carlsen and Bobby Fischer and has Garry Kasparov's 1985 record in his sights Alireza Firouzja, the Iran-born 18-year-old who emigrated to France due to Tehran's punishments for playing Israeli opponents, has become the third youngest Candidate in chess history, with a chance of a glittering prize, the youngest ever world champion. Firouzja scored 8/11 in the Grand Swiss in Riga to earn a place in the eight-player 2022 Candidates, whose winner will play for the global crown later next year. He reached his target two months younger than Boris Spassky at Gothenburg 1955, and is the third youngest",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -10,11 +34,11 @@ news_feed (
          "title" : "Chess: Teenager Alireza Firouzja aiming to be youngest ever world champion"
       },
       {
-         "description" : "It was a &#34;DoubleHeader&#34; Thursday at the 2021 Speed Chess Championship Main Event with two matches: GM Alexander Grischuk vs GM Nihal Sarin followed by GM Levon Aronian vs GM Daniil Dubov. Nihal upstaged Grischuk impressively and will face GM Richa...",
+         "description" : "It was a doubleheader Thursday at the 2021 Speed Chess Championship Main Event with two matches: GM Alexander Grischuk vs GM Nihal Sarin followed by GM Levon Aronian vs GM Daniil Dubov. Nihal upstaged Grischuk impressively and will face GM Richard...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-championship-nihal-and-aronian-win-and-advance-to-quarterfinals",
-         "pubDate" : "Thu, 11 Nov 2021 22:07:48 -0800",
+         "pubDate" : "Thu, 11 Nov 2021 22:07:00 -0800",
          "title" : "Speed Chess Championship: Nihal and Aronian Win And Advance To Quarterfinals"
       },
       {
@@ -2032,38 +2056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-call-for-arbiters/",
          "pubDate" : "Fri, 22 Oct 2021 12:54:16 +0000",
          "title" : "British Junior Rapid & Blitz - call for arbiters"
-      },
-      {
-         "description" : " I have just received a number of wondaful, and historical, publications from Roly Eime (IA). Included in this collection was the \"The Book of The First International Radio Chess Match Australia versus Great Britain\" which was played in 1947. The match itself was played by cable (Telegraph) and not directly by radio, and took 18 hours over 2 and a bit days to complete. As Australia had already beaten France and Canada is recent matches, the books compiler, M.E, Goldstein, said that the match was to decide the chess supremacy of the Empire. In the end the 'Mother Country' won 7-3, although Lajos Steiner scored a win for Australia on the top board. Another thing to note about the publication w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/before-internet.html",
-         "pubDate" : "Fri, 22 Oct 2021 11:38:00 +0000",
-         "title" : "Before the internet"
-      },
-      {
-         "description" : "This was the question that a friend, grandmaster Alex Yermolinsky, posed after being inquired about a comment by another grandmaster. It was meant as irony, but was the logical result of a series of questions and comments that led to him posing this. He had explained with hard data how one could even ask this. If you want to know how we got to this point, read on!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/were-tal-korchnoi-and-geller-2200-rated-players",
-         "pubDate" : "Fri, 22 Oct 2021 12:00:00 +0100",
-         "title" : "Were Tal, Korchnoi and Geller 2200 rated players?"
-      },
-      {
-         "description" : "European Youth&#38;Junior Chess Championships 2021 concluded yesterday after 9 rounds, 900 players from 33 federations participated the event, playing from 58 approved hybrid venues. The Awards ceremony of the event will take place on Saturday, 23rd of October, starting from 18:00 CEST. The ceremony will be broadcasted LIVE through the ECU Youtube channel. The Champion of the Girls&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youthjunior-chess-champions-2021-crowned/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youthjunior-chess-champions-2021-crowned/",
-         "pubDate" : "Fri, 22 Oct 2021 10:07:18 +0000",
-         "title" : "European Youth&Junior Chess Champions 2021 crowned!"
-      },
-      {
-         "description" : " Last week, we examined some concepts you should employ during the transition between the middle and endgame. We briefly touched on the role pawns play. This week and next, I want to really drive home just how important pawns are, not only throughout the game but especially during the endgame (we'll finish our student game <a href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Thirty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-thirty-nine/\">A Foundation for Beginners Thirty Nine</a> appeared first on <a rel=\"nofollow\" ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-thirty-nine/",
-         "pubDate" : "Fri, 22 Oct 2021 10:00:06 +0000",
-         "title" : "A Foundation for Beginners Thirty Nine"
       }
    ]
 }
