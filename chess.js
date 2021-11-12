@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi goes into the match against Magnus Carlsen in Dubai as the last man standing with a plus score against the World Champion: an amazing 4:1 lead in decisive classical games. They've played just 13 games, however - before Carlsen-Caruana, 33 classical games had been played, with Magnus winning 10 to Fabi's 5. Sean Marsh takes a look at the decisive encounters, two of which took place before Magnus was yet a teenager.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-vs-nepomniachtchi-decisive-encounters",
+         "pubDate" : "Fri, 12 Nov 2021 14:20:00 +0000",
+         "title" : "Carlsen vs. Nepomniachtchi: Decisive Encounters"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Fri, 12 Nov 2021 15:00:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Blitz Tournament will take place on November 17-21 in Kolkata. This time, fourteen players will be taking part. The lineup will be spearheaded by Levon Aronian. This event aims to give maximum exposure to Indian youngsters who have been rapidly climbing the rating ladder. Vishy Anand will be present at the tournament as a mentor to the young talents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "The ACO World Senior Championship 2021"
       },
       {
-         "description" : "Fabiano Caruana carried his form from the end of the US Championship into Round 1 of the FIDE Chess.com Grand Swiss in Riga as he sacrificed a full knight to take down Maksim Chigaev. 18-year-old Alireza Firouzja moved above Wesley So and Alexander Grischuk to world no. 7 as he beat Nijat Abasov, with Kirill Alekseenko scoring the only other win on the top 10 boards. Dariusz Swiercz's reward for winning the longest game of the day is a Round 2 pairing with Firouzja, while it's Nihal Sarin vs. Caruana on board 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-1-caruana-and-firouzja-strike",
-         "pubDate" : "Thu, 28 Oct 2021 06:11:00 +0000",
-         "title" : "Grand Swiss 1: Caruana and Firouzja strike"
-      },
-      {
          "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2040,22 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1394",
          "pubDate" : "Fri, 22 Oct 2021 19:46:47 +0000",
          "title" : "Rhodes hosts Olympiad for Blind and Visually Impaired and IBCA Congress"
-      },
-      {
-         "description" : "In this week's show, GM Daniel King, looks at tactical positions from the recent Bundesliga rounds. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show",
-         "pubDate" : "Fri, 22 Oct 2021 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Tactics"
-      },
-      {
-         "description" : "The British Junior Rapid &#38; Blitz is taking place on 13th-14th November in Milton Keynes. If you would like to be an arbiter at this...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-junior-rapid-blitz-call-for-arbiters/",
-         "pubDate" : "Fri, 22 Oct 2021 12:54:16 +0000",
-         "title" : "British Junior Rapid & Blitz - call for arbiters"
       }
    ]
 }
