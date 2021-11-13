@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-etc.html",
+         "pubDate" : "Sat, 13 Nov 2021 12:30:00 +0000",
+         "title" : "2021 ETC"
+      },
+      {
+         "description" : "Two of the greatest Jewish intellectuals, Lasker (1868-1941) and Einstein (1879-1955) were contemporaries and friends. Emanuel Lasker, son of a Jewish cantor, and world chess champion from 1894 to 1921, shared many concerns with that genius of Relativity, Albert Einstein. Not least was his preoccupation with the future of European Jews. Towards the end of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
+         "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
+         "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
+      },
+      {
+         "description" : "It would appear that some members' ChessMoves November emails do not contain the link as promised in the body of the email, despite rigorous testing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessmoves-november-logo-or-no-go/",
+         "pubDate" : "Sat, 13 Nov 2021 08:53:55 +0000",
+         "title" : "ChessMoves November - logo or no go?"
+      },
+      {
          "description" : "In 2003 there was a gigantic man vs machine match in New York. Garry Kasparov faced \"X3D Fritz\", a chess program that used new hardware and software which allowed radically lifelike 3D images, floating hologram-like in front of the screen. The match was an unprecedented success, generating more media coverage than any chess game previously in history. It was also full of adventure for the ChessBase team.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-championship-nakamura-svidler",
-         "pubDate" : "Fri, 12 Nov 2021 18:20:11 -0800",
+         "pubDate" : "Fri, 12 Nov 2021 18:20:00 -0800",
          "title" : "Speed Chess Championship: Nakamura Dominates In Bullet To Advance To The Quarterfinals"
       },
       {
