@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a significant development for the game of chess in the state of Chhattisgarh, Hon'ble Chief Minister Shri Bhupesh Baghel agreed for the implementation of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/big-boost-for-chess-in-chhattisgarh/",
+         "pubDate" : "Sat, 13 Nov 2021 15:09:05 +0000",
+         "title" : "Big boost for Chess in Chhattisgarh"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Worldchess</strong> has hired the London broker firm <strong>Novum Securities</strong> to <a href=\"https://newsnetdaily.com/checkmate-for-london-stock-market-as-world-chess-relaunches-ipo-plan-economic-news/\">prepare an IPO at the AIM section</a> of the <strong>London Stock Exchange</strong>. The company, that is controled by <strong>Ilya Merenzon</strong>, organised world championship matches until 2018 and is connected with the upcoming 2021 match as vendor of the official chess set and as representative of sponsors <strong>Kaspersky</strong> and <strong>Algorand</strong>. Worldchess is still the organiser of the <strong>FIDE Grandprix 202",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/worldchess-plans-london-ipo/",
+         "pubDate" : "Sat, 13 Nov 2021 16:06:36 +0100",
+         "title" : "Worldchess plans London IPO"
+      },
+      {
+         "description" : "In a glittering function organised at the Durbar Hall of the Rashtrapati Bhawan, the Hon'ble President of India Shri Ram Nath Kovid bestowed Dhyan Chand",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-gm-abhijit-kunte/",
+         "pubDate" : "Sat, 13 Nov 2021 14:28:16 +0000",
+         "title" : "Congratulations GM Abhijit Kunte"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Sat, 13 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Alireza Firouzja beat Markus Ragger and climbed back to world no. 4 on the live rating list as he made his debut in a 3:1 victory for France over Austria in Round 1 of the European Team Championship. France, who also feature MVL, are 3rd seeds, with top seeds Russia and Azerbaijan cruising in Round 1. There were upsets, however, with England living to regret resting Mickey Adams as they lost 2.5:1.5 to Norway, while wins for Anish Giri and Jorden van Foreest weren't enough to stop Georgia holding the Netherlands to a draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ecct-1-firouzja-world-no-4-after-french-debut",
+         "pubDate" : "Sat, 13 Nov 2021 12:48:39 +0000",
+         "title" : "ECCT 1: Firouzja world no. 4 after French debut"
+      },
+      {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -47,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-championship-nakamura-svidler",
          "pubDate" : "Fri, 12 Nov 2021 18:20:00 -0800",
-         "title" : "Speed Chess Championship: Nakamura Dominates In Bullet To Advance To The Quarterfinals"
+         "title" : "Speed Chess Championship: Nakamura Dominates In Bullet, Advances To Quarterfinals"
       },
       {
          "description" : "",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-vs-nepomniachtchi-decisive-encounters",
          "pubDate" : "Fri, 12 Nov 2021 14:20:00 +0000",
          "title" : "Carlsen vs. Nepomniachtchi: Decisive Encounters"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Fri, 12 Nov 2021 15:00:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
@@ -320,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/forester-open-pre-tournament",
          "pubDate" : "Wed, 10 Nov 2021 19:00:00 +0100",
          "title" : "Forester Open in Grapevine, Texas"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess24</strong> has transcribed interviews <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws\">gave to the manager</a> of the <strong>Royal Hideaway Sancti Petri</strong> hotel in Spain where he prepared and his challenger <strong>Ian Nepomniachtchi</strong> gave <a href=\"https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize\">to Match TV</a> from Russia. Nepo <a href=\"https://www.chess.com/news/view/ian-nepomniachtchi-interview-chess\">also talked to</a> <strong>Chess.com</strong>, that also conducted an <a href",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepo-and-carlsen-interviewed/",
-         "pubDate" : "Wed, 10 Nov 2021 18:40:01 +0100",
-         "title" : "Nepo, Carlsen and Caruana interviewed"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million in prizes, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
@@ -1738,14 +1762,6 @@ news_feed (
          "title" : "Trick or Treat?"
       },
       {
-         "description" : "Alireza Firouzja moved above Anish Giri to world no. 6 after surviving a scare to beat Dariusz Swiercz and reach 2/2 in the FIDE Chess.com Grand Swiss. Alexandr Predke, who unleashed a queen sacrifice, and Ivan Saric, are the only other players on 100% in the Open after Nihal Sarin pulled off a great escape against Fabiano Caruana. Levon Aronian and MVL, and 16-year-old Praggnanandhaa and Vincent Keymer, all picked up wins, while David Howell escaped against Arturs Neiksans after 142 moves and almost 8 hours of play. 7 players still have a perfect score in the Women's Grand Swiss.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-2-firouzja-up-to-world-no-6-as-caruana-misses-win",
-         "pubDate" : "Fri, 29 Oct 2021 07:24:45 +0000",
-         "title" : "Grand Swiss 2: Firouzja world no. 6 as Caruana misses win"
-      },
-      {
          "description" : " Scotland's Keti Arakhamia-Grant wins impressively in round one, while India's teenage trio shine at the Grand Swiss world qualifier David Howell is the only Englishman in the 108-player Covid-hit Grand Swiss at Riga, and the three-times British champion, 30, has made a promising 1.5/2 start in the world qualifier. It looked unlikely when he blundered early into a lost round two position on Thursday against Latvia's Arturs Neiksans, but Howell fought on and finally halved a marathon of 142 moves and eight hours. The game ended in a draw via the rare rule of 50 moves played without a capture or a pawn move. Howell is seeded only No 34, but will be harking back to the last Grand Swiss at Dougl",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-iniyan-wins-serbia-event/articleshow/87229632.cms",
          "pubDate" : "Sat, 23 Oct 2021 22:40:33 +0530",
          "title" : "Grandmaster Iniyan wins Serbia event"
-      },
-      {
-         "description" : "The Saemisch Variation is a very stable response to the King's Indian Defence. And the Benoni can also be answered with the same setup and the same underlying ideas. Jan Werle presents the white setup thoroughly on his DVD. Philipp Hillebrand has looked at the FritzTrainer just as thoroughly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-the-saemisch-variation-by-jan-werle",
-         "pubDate" : "Sat, 23 Oct 2021 16:20:00 +0100",
-         "title" : "A review: The Saemisch Variation by Jan Werle"
       }
    ]
 }
