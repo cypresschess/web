@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura beat GM Peter Svidler with a score of 22-10 in the 2021 Speed Chess Championship Main Event and will face GM Anish Giri in the quarterfinals. The next match, between GM Wesley So and GM Jeffery Xiong, starts on Monday, November ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-championship-nakamura-svidler",
+         "pubDate" : "Fri, 12 Nov 2021 18:20:11 -0800",
+         "title" : "Speed Chess Championship: Nakamura Dominates In Bullet To Advance To The Quarterfinals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1406",
          "pubDate" : "Sat, 30 Oct 2021 21:16:36 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
-      },
-      {
-         "description" : "With a quick draw, GM Alireza Firouzja maintained his sole lead at the FIDE Chess.com Grand Swiss in Riga on Saturday. Russian GM Evgeniy Najer was close to catching Firouzja but missed a win in the endgame against GM Ivan Saric.&#38;nbsp;China&#39;s GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-4",
-         "pubDate" : "Sat, 30 Oct 2021 13:00:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R4: Firouzja Maintains Lead; Lei Sole Leader"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
