@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Silesian Chess Federation, under the auspices of the European Chess Union, organises the European Rapid&#38;Blitz Chess Championship 2021. The event will take place from 17th-19th December in Katowice, Poland. First on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/",
+         "pubDate" : "Sat, 13 Nov 2021 18:07:22 +0000",
+         "title" : "European Rapid&Blitz Chess Championship 2021 - Announcement"
+      },
+      {
          "description" : "In a significant development for the game of chess in the state of Chhattisgarh, Hon'ble Chief Minister Shri Bhupesh Baghel agreed for the implementation of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2096,22 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/take-shot.html",
          "pubDate" : "Sun, 24 Oct 2021 12:47:00 +0000",
          "title" : "Take the shot"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1395",
-         "pubDate" : "Sat, 23 Oct 2021 17:19:56 +0000",
-         "title" : "World Chess Championship for People with Disabilities: Registration continues"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87229632.cms\" />Grandmaster P Iniyan won the Arandjelovac GM Round Robin 1 tournament held in Serbia which concluded. The 12-player and 11-round classical competition saw Iniyan score 8.5 points and finish on top. Of the 11 games he played, Iniyan won 7, drew 3 and lost 1.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-iniyan-wins-serbia-event/articleshow/87229632.cms",
-         "pubDate" : "Sat, 23 Oct 2021 22:40:33 +0530",
-         "title" : "Grandmaster Iniyan wins Serbia event"
       }
    ]
 }
