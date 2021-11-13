@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/icelandic-isolani",
          "pubDate" : "Sat, 23 Oct 2021 09:00:00 +0100",
          "title" : "Icelandic isolani"
-      },
-      {
-         "description" : "The Spanish Team Chess Championship 'Divisi&oacute;n de Honor' took place on October 11-17 in Toledo. DuoBeniaj&aacute;n, a team from Murcia headed by David Ant&oacute;n and Parham Maghsoodloo, got first place after obtaining 12/14 match points in the 8-team single round robin. Bosch Serinsys (Anton Korobov, Alexei Shirov) and Andreu Paterna (Paco Vallejo, David Howell) finished second and third respectively. | Photo: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duobeniajan-wins-spanish-team-championship-2021",
-         "pubDate" : "Fri, 22 Oct 2021 22:00:00 +0100",
-         "title" : "DuoBeniaj&aacute;n wins Spanish Team Championship"
       }
    ]
 }
