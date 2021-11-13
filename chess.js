@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2003 there was a gigantic man vs machine match in New York. Garry Kasparov faced \"X3D Fritz\", a chess program that used new hardware and software which allowed radically lifelike 3D images, floating hologram-like in front of the screen. The match was an unprecedented success, generating more media coverage than any chess game previously in history. It was also full of adventure for the ChessBase team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-3",
+         "pubDate" : "Sat, 13 Nov 2021 09:00:00 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (3)"
+      },
+      {
+         "description" : "In the diagram position White's pawn on c3 is attacked. Time for a world champion-like reaction - your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-s-cool-concept",
+         "pubDate" : "Sat, 13 Nov 2021 09:00:00 +0100",
+         "title" : "Carlsen's cool concept"
+      },
+      {
          "description" : "GM Hikaru Nakamura beat GM Peter Svidler with a score of 22-10 in the 2021 Speed Chess Championship Main Event and will face GM Anish Giri in the quarterfinals. The next match, between GM Wesley So and GM Jeffery Xiong, starts on Monday, November ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2064,22 +2080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-the-saemisch-variation-by-jan-werle",
          "pubDate" : "Sat, 23 Oct 2021 16:20:00 +0100",
          "title" : "A review: The Saemisch Variation by Jan Werle"
-      },
-      {
-         "description" : "The winner of the English Chess Federation's Book of the Year Award 2021 is Sergey Voronkov's initial volume in a planned series, Masterpieces and Dramas of the Soviet Championships , relating the story of the first wave of Soviet Championships, from 1920 to 1937. The publishers are Elk and Ruby, who specialise in neglected areas of the history of the massive []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/russian-roulette/",
-         "pubDate" : "Sat, 23 Oct 2021 08:00:05 +0000",
-         "title" : "Russian Roulette"
-      },
-      {
-         "description" : "In the diagram position White's knight is about to occupy the blockade square in front of the pawn d5. How would you react with Black?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/icelandic-isolani",
-         "pubDate" : "Sat, 23 Oct 2021 09:00:00 +0100",
-         "title" : "Icelandic isolani"
       }
    ]
 }
