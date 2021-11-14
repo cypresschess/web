@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can, against the brand new Fritz 18, which uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-18-evolving-genius",
+         "pubDate" : "Sun, 14 Nov 2021 12:00:00 +0100",
+         "title" : "Fritz 18: Evolving Genius"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1434,6 +1442,14 @@ news_feed (
          "title" : "Sydney in the 60's"
       },
       {
+         "description" : "The 2020 Chess Calendar was laid to waste by the coronavirus epidemic, though the Magnus Carlsen Chess Tour and other online events rose from the ashes. 2021 is guaranteed to see the $1.5 million Champions Chess Tour played out in monthly events until the Grand Final in September, but if the virus permits it's a year that could also see the Candidates Tournament completed, a World Championship match, two World Cups, two Grand Swisses, the Grand Chess Tour and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/2021-chess-calendar",
+         "pubDate" : "Mon, 01 Nov 2021 10:57:00 +0000",
+         "title" : "2021 Chess Calendar"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/my-memorable-game",
          "pubDate" : "Sat, 30 Oct 2021 09:00:00 +0100",
          "title" : "\"My memorable game\""
-      },
-      {
-         "description" : "Alireza Firouzja has won a 7th game in a row - counting the last four rounds of Norway Chess - to take the sole lead in the Grand Swiss and move within a win of the world no. 4 spot. While Alireza kept on winning there was more frustration for Fabiano Caruana, who missed a chance to beat Ivan Saric, while Levon Aronian could only scrape a draw against Anton Demchenko. Six players, including 17-year-old Nihal Sarin, seized the chance to move to 2nd place on 2.5/3. In the women's event Lela Javakhishvili and Harika Dronavalli joined a 9-player leading pack after draws on the top boards.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-3-firouzja-s-rampage-continues",
-         "pubDate" : "Sat, 30 Oct 2021 07:59:56 +0000",
-         "title" : "Grand Swiss 3: Firouzja's rampage continues"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87388030.cms\" />India's Dronavalli Harika defeated former world champion Antoaneta Stefanova of Bulgaria in the third round of the FIDE Grand Swiss chess tournament here to grab a share of the lead.",
