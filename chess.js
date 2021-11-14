@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-abhijit-kuntes-dhyan-chand-award-celebration-at-aicf-office/",
+         "pubDate" : "Sun, 14 Nov 2021 05:56:05 +0000",
+         "title" : "GM Abhijit Kunte's Dhyan Chand Award Celebration at AICF Office"
+      },
+      {
          "description" : "The Silesian Chess Federation, under the auspices of the European Chess Union, organises the European Rapid&#38;Blitz Chess Championship 2021. The event will take place from 17th-19th December in Katowice, Poland. First on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1397",
          "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
          "title" : "Dutch Championship: Anne Haast clinches fifth title"
-      },
-      {
-         "description" : "India won the over all championship in the Girls Category of Asian Youth Chess Championship by winning 2 Gold, 3 Silver and 2 Bronze on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-tops-medal-tally-in-asian-youth-online-girls-chess-championship/",
-         "pubDate" : "Mon, 25 Oct 2021 16:43:00 +0000",
-         "title" : "India tops medal tally in Asian Youth Online Girls Chess Championship"
       },
       {
          "description" : "On 26 November Magnus Carlsen and Ian Nepomniachtchi will play the first game of their World Championship match in Dubai. A good opportunity to ask Daniel King about his work for the updated ChessBase Master Class about Carlsen, about Carlsen as a person, King's favourite Carlsen game, and of course, King's predictions for the match. As part of the interview King shows two games of the current World Champion - one against Sergey Karjakin, and one against Anish Giri, which is one of King's favourite endgames by Carlsen.",
